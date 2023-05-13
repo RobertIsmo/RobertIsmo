@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, May 13, Central Standard Time</p>
 <p>
-There is a major election happening in Turkey with the current leader having amassed a lot of power. If he loses, it could create a stir in the West due to the threat of chaos being reduced, but could be bad news for Russia as Turkey is an important economic and diplomatic partner. In the US, there is an ongoing debate about immigration, specifically regarding asylum seekers. A lot of migrants are currently stuck in limbo awaiting decisions which could have big implications for US&#x2F;Mexico border policies. Meanwhile in Germany, they are providing a record amount of financial aid to Ukraine in an effort to reset relations between them, while in Italy Ukrainian President Zelensky has arrived for a visit with Pope Francis. Closer to home, New York City is considering housing migrant families in public school gyms and there&#39;s been a recent scandal surrounding George Santos, who had made his way onto the &#39;Top 50&#39; list of homeless people at risk. Finally, amidst all this turmoil we also have some lighter stories like Tom Bishop&#39;s dollhouse miniatures show that&#39;s been running for forty years now and the tragedy of Jordan Neely who was killed by another subway rider after being placed on the city&#39;s watch list.</p>
+There is a lot happening in the world right now. In Turkey, their elections are coming up on Sunday and people are anxious about the outcome. The current president is facing tough competition for the first time in twenty years. Ukraine&#39;s President Zelensky met with the Pope and Italian Prime Minister Giorgia Meloni recently to bolster support for his country&#39;s fight against Russia. Germany is investing nearly 3 billion US dollars in aid to Ukraine as part of efforts to reset their rocky relations. In the US, there is a growing issue of homelessness as record numbers of people are dying on the streets. Politically, there are debates over immigration, with both Democrats and Republicans attempting to forge an immigration deal in Congress. Meanwhile, sports betting is becoming increasingly regulated due to harm it can cause to the public and athletes. Finally, Eurovision fans can watch the final show this Saturday!</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>An Erdogan Loss in Turkey Would Stir Relief in the West and Anxiety in Moscow</h3>
@@ -69,39 +69,15 @@ There is a major election happening in Turkey with the current leader having ama
 <sub><sub>Saturday, May 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Turkey’s President Amassed Power. He Could Still Lose This Election.</h3>
-<sub>By Ben Hubbard</sub>
-<p>Turkey’s president, Recep Tayyip Erdogan, has tilted the political playing field in his favor over the past two decades, concentrating power in his own hands. Still, he faces a stiff challenge in Sunday’s election.  <a href="https://nyti.ms/3ppUJqP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 12, Central Standard Time</sub></sub>
+<h3>Turkey’s Election: What You Need to Know</h3>
+<sub>By Cora Engelbrecht, Ben Hubbard and Gulsin Harman</sub>
+<p>Sunday’s vote is the toughest for President Recep Tayyip Erdogan during his 20 years as the country’s premier politician. The withdraw of one of his three challengers made it even tougher.  <a href="https://nyti.ms/3pwxiwg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Asylum Debate Snarls Efforts to Forge an Immigration Deal in Congress</h3>
-<sub>By Karoun Demirjian</sub>
-<p>Despite hopes among some Democrats and Republicans that the expiration of strict pandemic-era border rules would force a compromise, bipartisan talks have sputtered.  <a href="https://nyti.ms/3M3ANSs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, May 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Migrant Camps, Anxiety and Relief: ‘It Was Worth It. We Are in America.’</h3>
-<sub>By Soumya Karlamangla, Edgar Sandoval, Miriam Jordan and Simon Romero</sub>
-<p>Pandemic-era migration restrictions were lifted without a fresh spike in border crossings. Thousands of migrants now find themselves in a holding pattern.  <a href="https://nyti.ms/3pECH49"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>New York City Plans to House Migrant Families in Public School Gymnasium</h3>
-<sub>By Hurubie Meko</sub>
-<p>The plan faced immediate criticism from a Brooklyn councilman, but a spokesman for the mayor said, “We are opening emergency shelters and respite centers daily, but we are out of space.”  <a href="https://nyti.ms/42yoNiE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Democrats Spar Over the ‘Prickly, Prickly Subject’ of Immigration</h3>
-<sub>By Katie Glueck and Zolan Kanno-Youngs</sub>
-<p>The end of a pandemic-era restriction on migrant arrivals has set off new arguments in the party over an issue that it often struggles to navigate.  <a href="https://nyti.ms/3pwDd4l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, May 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘A Daily Game of Russian Roulette’: Homeless in San Diego</h3>
-<sub>By Eli Saslow and Erin Schaff</sub>
-<p>As a record number of people die on America’s streets, Abdul Curry fights to stay alive.  <a href="https://nyti.ms/42uhM2o"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Zelensky Meets Pope and Meloni in Italy to Bolster Ukraine’s Support</h3>
+<sub>By Jason Horowitz</sub>
+<p>The Ukrainian president’s talks with the pope and Prime Minister Giorgia Meloni came at a potentially pivotal moment in the war against Russia, as Kyiv’s forces make advances near the key city of Bakhmut.  <a href="https://nyti.ms/42SxFzG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -110,28 +86,52 @@ There is a major election happening in Turkey with the current leader having ama
 <p>The nearly $3 billion package is part of an effort by both sides to reset rocky relations, which have become increasingly important to maintaining European unity in backing the war.  <a href="https://nyti.ms/3Bmm4gn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Zelensky Arrives in Italy for Meeting With Pope Francis</h3>
-<sub>By Jason Horowitz</sub>
-<p>The Ukrainian president’s visit comes at a potentially pivotal moment in the war against Russia, as Kyiv’s forces make advances near the key eastern city of Bakhmut.  <a href="https://nyti.ms/42SxFzG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>‘A Daily Game of Russian Roulette’: Homeless in San Diego</h3>
+<sub>By Eli Saslow and Erin Schaff</sub>
+<p>As a record number of people die on America’s streets, Abdul Curry fights to stay alive.  <a href="https://nyti.ms/42uhM2o"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, May 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Why Ron DeSantis Is Limping to the Starting Line</h3>
+<sub>By Shane Goldmacher, Maggie Haberman and Jonathan Swan</sub>
+<p>Mr. DeSantis and his allies are retooling his expected run for the White House after a series of missteps and miscalculations allowed Donald J. Trump to define the 2024 Republican race.  <a href="https://nyti.ms/3VZKLc0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, May 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Asylum Debate Snarls Efforts to Forge an Immigration Deal in Congress</h3>
+<sub>By Karoun Demirjian</sub>
+<p>Despite hopes among some Democrats and Republicans that the expiration of strict pandemic-era border rules would force a compromise, bipartisan talks have sputtered.  <a href="https://nyti.ms/3M3ANSs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, May 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Democrats Spar Over the ‘Prickly, Prickly Subject’ of Immigration</h3>
+<sub>By Katie Glueck and Zolan Kanno-Youngs</sub>
+<p>The end of a pandemic-era restriction on migrant arrivals has set off new arguments in the party over an issue that it often struggles to navigate.  <a href="https://nyti.ms/3pwDd4l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Lies, Charges and Questions Remaining in the George Santos Scandal</h3>
 <sub>By Michael Gold and Grace Ashford</sub>
-<p>George Santos has told so many stories they can be hard to keep straight. We break them down including major questions about his personal finances and his campaign fund-raising and spending.  <a href="https://nyti.ms/42O9HFB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>George Santos has told so many stories they can be hard to keep straight. We cataloged them, including major questions about his personal finances and his campaign fund-raising and spending.  <a href="https://nyti.ms/42O9HFB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>Inside the Big World of Small Objects</h3>
-<sub>By Emma Orlow and Evan Jenkins</sub>
-<p>For over 40 years, Tom Bishop’s dollhouse miniatures show has been the gold standard for serious collectors and hobbyists alike.  <a href="https://nyti.ms/3M03JL4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>First Came the Sports Betting Boom. Now Comes the Backlash.</h3>
+<sub>By Eric Lipton and Kevin Draper</sub>
+<p>In many U.S. states and across the world, regulators are cracking down on the sports gambling industry, citing harm to the public and, in some cases, to athletes.  <a href="https://nyti.ms/3Mp5kLY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Jordan Neely Was on New York’s ‘Top 50’ List of Homeless People at Risk</h3>
 <sub>By Andy Newman</sub>
 <p>Mr. Neely, who was killed by another subway rider, was on a watch list for a city task force that kept track of the New Yorkers of most concern.  <a href="https://nyti.ms/3O9u4cb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, May 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>How to watch the Eurovision grand final.</h3>
+<sub>By Eleanor Stanford</sub>
+<p>  <a href="https://nyti.ms/3W0i7r7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
