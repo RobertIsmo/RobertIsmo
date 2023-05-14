@@ -58,9 +58,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Saturday, May 13, Central Standard Time</p>
+<p>It is Sunday, May 14, Central Standard Time</p>
 <p>
-There has been a lot of news around the world recently. Ukrainian president Zelensky just visited Italy to try to secure support for their ongoing war with Russia, and Germany announced its biggest ever military aid package to help out. In the U.S., Florida Governor Ron DeSantis is preparing for a potential run for president in 2024 and in San Diego, homeless people are facing a high mortality rate. Meanwhile, Sunday’s elections in Turkey will be important for determining the country&#39;s relationship with Europe and Russia, and the U.S. Congress is debating immigration reform as a pandemic-era border rule fades away. There are also stories about the scandal surrounding George Santos and the death of track star Tori Bowie, as well as the tragedy surrounding Jordan Neely who was trying to survive on New York’s streets. On a lighter note, Sweden recently won the Eurovision song contest, which was held in Britain as an act of solidarity with Ukraine.</p>
+Right now, there&#39;s a lot going on in the world. Ukrainian President Zelensky just met with Pope Francis and Italian Prime Minister Giorgia Meloni in Italy to bolster Ukraine&#39;s support in their war with Russia. Germany just announced their biggest military aid package yet for Ukraine to reset their rocky relations and strengthen European unity. In the US, Ron DeSantis is limping to the starting line of his expected run for president after a series of missteps and miscalculations that allowed Donald Trump to define the 2024 Republican race. And the homeless population in San Diego is facing a dire situation, with a record number of people dying on America&#39;s streets. 
+
+In Turkey this Sunday, Erdogan could lose power in a major election, which would bring both relief in the West and anxiety in Moscow. In Thailand, there&#39;s an upcoming election seen as a referendum on the military that has been ruling for nine years, and liberal voters arekritigcizing the preserved institution of Thai monarchy at all costs. And in New York, George Santos is caught up in a scandal involving his personal finances and fund-raising; meanwhile Jordan Neely was tragically killed by another subway rider and was on the city&#39;s watch list for homeless people at risk.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Zelensky Meets Pope and Meloni in Italy to Bolster Ukraine’s Support</h3>
@@ -104,12 +106,6 @@ There has been a lot of news around the world recently. Ukrainian president Zele
 <p>Despite hopes among some Democrats and Republicans that the expiration of strict pandemic-era border rules would force a compromise, bipartisan talks have sputtered.  <a href="https://nyti.ms/3M3ANSs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Democrats Spar Over the ‘Prickly, Prickly Subject’ of Immigration</h3>
-<sub>By Katie Glueck and Zolan Kanno-Youngs</sub>
-<p>The end of a pandemic-era restriction on migrant arrivals has set off new arguments in the party over an issue that it often struggles to navigate.  <a href="https://nyti.ms/3pwDd4l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, May 13, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Lies, Charges and Questions Remaining in the George Santos Scandal</h3>
 <sub>By Michael Gold and Grace Ashford</sub>
@@ -128,11 +124,17 @@ There has been a lot of news around the world recently. Ukrainian president Zele
 <p>Mr. Neely, who was killed by another subway rider, was on a watch list for a city task force that kept track of the New Yorkers of most concern.  <a href="https://nyti.ms/3O9u4cb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Sweden Wins a Eurovision Song Contest That Showed Solidarity With Ukraine</h3>
-<sub>By Alex Marshall and Maria Varenikova</sub>
-<p>After winning the competition last year, Ukraine should have been this year’s host, but Britain stepped in to help the war-torn nation.  <a href="https://nyti.ms/42x3xdm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Thailand’s Election: What to Watch and What’s at Stake</h3>
+<sub>By Sui-Lee Wee</sub>
+<p>The vote is seen as a referendum on the military, which has ruled Thailand for nine years. Results could determine the path for democracy in the country.  <a href="https://nyti.ms/3pByoqs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Crucial Question in Thailand’s Election: Can You Criticize the King?</h3>
+<sub>By Sui-Lee Wee and Muktita Suhartono</sub>
+<p>Liberal voters have intensified their scrutiny of the Thai monarchy in recent years. Conservatives have responded with a campaign to defend the institution at all costs.  <a href="https://nyti.ms/3nSHRsS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 12, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
