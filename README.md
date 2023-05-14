@@ -60,11 +60,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, May 14, Central Standard Time</p>
 <p>
-Right now, Turkey is voting in a tough election for their president. In the hardest-hit parts of their quake zone, voters are looking for a change. In Ukraine, they are making small gains to take over Bakhmut, which is a heavily damaged city controlled by Russia. The Ukrainian president recently visited Germany and thanked the leaders there for standing with his country. Meanwhile in Kenya, hundreds of people have been drawn out to an extreme wilderness area led by a preacher preaching the end times. 
+There is a lot happening in the world right now. In Turkey, there&#39;s an important election coming up - it could be a major turning point for Turkish politics, and US officials are watching closely. In Ukraine, they&#39;re fighting a bloody battle with Russia, while the Ukrainian president recently visited Germany to try and get more military support. 
 
-In the US, there was a group that raised millions in small donations but it ended up going to the firms making the robocalls and political operatives instead of being used to promote issues and candidates. Some are already looking ahead to the 2024 presidential race, which looks like it will be full of flawed standard-bearers and unhappy voters. Fort Benning recently changed its name to Fort Moore, honoring a military spouse and mother; this is now the only U.S base with this kind of name. Meanwhile there&#39;s also another huge wealth transfer occurring in America where trillions of dollars are going to heirs- this will likely just reinforce inequality. 
-
-Lastly, MTV News is shutting down after bridging the gap between news and pop culture for a generation; people are reflecting on its legacy. Along with that there&#39;s a large number of homeless people in San Diego who are at risk due to a lack of help from Congress in trying to fix immigration dysfunction- they&#39;ve failed at initiatives multiple times now due to politics and disagreements.</p>
+In India, witch hunting is still an issue and people are trying to put an end to it. And here in the US, one group raised almost $90 million for veterans and law enforcement but ended up keeping it for themselves. And we&#39;ve already got 2024 on our minds - a lot of people aren&#39;t happy with their potential presidential candidates, including many Democrats who don&#39;t think their mayor is progressive enough.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Turkey’s Election: What You Need to Know</h3>
@@ -76,6 +74,12 @@ Lastly, MTV News is shutting down after bridging the gap between news and pop cu
 <h3>In the hardest-hit city in Turkey’s quake zone, voters say they want a change.</h3>
 <sub>By Nimet Kirac</sub>
 <p>  <a href="https://nyti.ms/3BnGy8H"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, May 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>U.S. officials, often exasperated by Erdogan, are watching the vote closely.</h3>
+<sub>By Michael Crowley</sub>
+<p>  <a href="https://nyti.ms/3MogPD8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, May 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -120,22 +124,16 @@ Lastly, MTV News is shutting down after bridging the gap between news and pop cu
 <p>In an era of surging home and stock values, U.S. family wealth has soared. The trillions of dollars going to heirs will largely reinforce inequality.  <a href="https://nyti.ms/43bR7HR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, May 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How MTV Broke News for a Generation</h3>
-<sub>By Remy Tumin</sub>
-<p>MTV News bridged a gap between news and pop culture without talking down to its young audience. As it prepares to shut down, Kurt Loder, Tabitha Soren, Sway Calloway and others reflect on its legacy.  <a href="https://nyti.ms/3nKW8rP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘A Daily Game of Russian Roulette’: Homeless in San Diego</h3>
-<sub>By Eli Saslow and Erin Schaff</sub>
-<p>As a record number of people die on America’s streets, Abdul Curry fights to stay alive.  <a href="https://nyti.ms/42uhM2o"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>India Struggles to Eradicate an Old Scourge: Witch Hunting</h3>
+<sub>By Suhasini Raj</sub>
+<p>Once driven largely by superstition, the brutal practice is now often simply a tool to oppress women, in many cases violently.  <a href="https://nyti.ms/42wZhKR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Over Decades, Congress Failed Repeatedly to Address Immigration Dysfunction</h3>
-<sub>By Karoun Demirjian</sub>
-<p>Legislative initiatives to overhaul immigration policy have fallen flat as partisan differences and other rifts have scuttled attempts at compromise.  <a href="https://nyti.ms/3O8iLAZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Eric Adams Says He’s a Progressive. Democrats Beg to Differ.</h3>
+<sub>By Emma G. Fitzsimmons</sub>
+<p>Left-leaning New Yorkers say the mayor is moving the city in a more conservative direction on issues like policing, rent and providing shelter to those in need.  <a href="https://nyti.ms/3Bpgdqx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, May 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
