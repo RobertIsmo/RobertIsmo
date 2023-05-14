@@ -60,9 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, May 14, Central Standard Time</p>
 <p>
-Right now, there&#39;s a lot going on in the world. Ukrainian President Zelensky just met with Pope Francis and Italian Prime Minister Giorgia Meloni in Italy to bolster Ukraine&#39;s support in their war with Russia. Germany just announced their biggest military aid package yet for Ukraine to reset their rocky relations and strengthen European unity. In the US, Ron DeSantis is limping to the starting line of his expected run for president after a series of missteps and miscalculations that allowed Donald Trump to define the 2024 Republican race. And the homeless population in San Diego is facing a dire situation, with a record number of people dying on America&#39;s streets. 
-
-In Turkey this Sunday, Erdogan could lose power in a major election, which would bring both relief in the West and anxiety in Moscow. In Thailand, there&#39;s an upcoming election seen as a referendum on the military that has been ruling for nine years, and liberal voters arekritigcizing the preserved institution of Thai monarchy at all costs. And in New York, George Santos is caught up in a scandal involving his personal finances and fund-raising; meanwhile Jordan Neely was tragically killed by another subway rider and was on the city&#39;s watch list for homeless people at risk.</p>
+Right now, there are a lot of political tensions and elections happening around the world. Ukraine&#39;s president is meeting with German leaders to improve cooperation after a year of spats over military aid. In Turkey, there is an election taking place Sunday that is seen as a referendum on the military and could shape their democracy. Thailand also has an election this week that will determine their path for democracy and whether or not citizens are allowed to criticize their king. In the US, politicians are trying to forge an immigration deal in Congress while there is a massive homeless crisis playing out in San Diego.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Zelensky Meets Pope and Meloni in Italy to Bolster Ukraine’s Support</h3>
@@ -71,10 +69,10 @@ In Turkey this Sunday, Erdogan could lose power in a major election, which would
 <sub><sub>Saturday, May 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Germany Announces Its Biggest Military Aid Package Yet for Ukraine</h3>
-<sub>By Erika Solomon and Christopher F. Schuetze</sub>
-<p>The nearly $3 billion package is part of an effort by both sides to reset rocky relations, which have become increasingly important to maintaining European unity in backing the war.  <a href="https://nyti.ms/3Bmm4gn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, May 13, Central Standard Time</sub></sub>
+<h3>Zelensky Meets With German Leaders After Their Massive Weapons Pledge</h3>
+<sub>By Erika Solomon and Vivek Shankar</sub>
+<p>The two nations are trying to improve cooperation after a year marred by diplomatic spats over Berlin’s sluggish response to Ukrainian pleas for military aid.  <a href="https://nyti.ms/41C6MP8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, May 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Why Ron DeSantis Is Limping to the Starting Line</h3>
