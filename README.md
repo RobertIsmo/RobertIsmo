@@ -60,31 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, May 14, Central Standard Time</p>
 <p>
-Right now, there are a lot of political tensions and elections happening around the world. Ukraine&#39;s president is meeting with German leaders to improve cooperation after a year of spats over military aid. In Turkey, there is an election taking place Sunday that is seen as a referendum on the military and could shape their democracy. Thailand also has an election this week that will determine their path for democracy and whether or not citizens are allowed to criticize their king. In the US, politicians are trying to forge an immigration deal in Congress while there is a massive homeless crisis playing out in San Diego.</p>
+It looks like there&#39;s a lot of interesting things going on in the world right now. In Turkey, voters are heading to the polls for an important election that could decide the future of their country for years to come. The current president, Recep Tayyip Erdogan, is facing his toughest challenge yet. Meanwhile in Ukraine, the nation is fighting against Russian forces in the city of Bakhmut while their president seeks out help from Germany. Closer to home here in the US, politicians are gearing up for 2024 when political parties and presidential hopefuls prepare for a likely heated election cycle. We&#39;re also seeing how massive wealth transfers will reshape economic inequality in America, and a new Fort making history by renaming itself after a military couple.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Zelensky Meets Pope and Meloni in Italy to Bolster Ukraine’s Support</h3>
-<sub>By Jason Horowitz</sub>
-<p>The Ukrainian president’s talks with the pope and Prime Minister Giorgia Meloni came at a potentially pivotal moment in the war with Russia, as Kyiv’s forces make advances near the key city of Bakhmut.  <a href="https://nyti.ms/42SxFzG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, May 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Zelensky Meets With German Leaders After Their Massive Weapons Pledge</h3>
-<sub>By Erika Solomon and Vivek Shankar</sub>
-<p>The two nations are trying to improve cooperation after a year marred by diplomatic spats over Berlin’s sluggish response to Ukrainian pleas for military aid.  <a href="https://nyti.ms/41C6MP8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, May 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Why Ron DeSantis Is Limping to the Starting Line</h3>
-<sub>By Shane Goldmacher, Maggie Haberman and Jonathan Swan</sub>
-<p>Mr. DeSantis and his allies are retooling his expected run for the White House after a series of missteps and miscalculations allowed Donald J. Trump to define the 2024 Republican race.  <a href="https://nyti.ms/3VZKLc0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, May 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘A Daily Game of Russian Roulette’: Homeless in San Diego</h3>
-<sub>By Eli Saslow and Erin Schaff</sub>
-<p>As a record number of people die on America’s streets, Abdul Curry fights to stay alive.  <a href="https://nyti.ms/42uhM2o"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, May 13, Central Standard Time</sub></sub>
+<h3>Turkey’s Election: What You Need to Know</h3>
+<sub>By Cora Engelbrecht, Ben Hubbard and Gulsin Harman</sub>
+<p>Sunday’s vote is the toughest for President Recep Tayyip Erdogan during his 20 years as the country’s premier politician. The withdrawal of one of his three challengers made it even tougher.  <a href="https://nyti.ms/3pwxiwg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>An Erdogan Loss in Turkey Would Stir Relief in the West and Anxiety in Moscow</h3>
@@ -93,46 +75,64 @@ Right now, there are a lot of political tensions and elections happening around 
 <sub><sub>Saturday, May 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Turkey’s Election: What You Need to Know</h3>
-<sub>By Cora Engelbrecht, Ben Hubbard and Gulsin Harman</sub>
-<p>Sunday’s vote is the toughest for President Recep Tayyip Erdogan during his 20 years as the country’s premier politician. The withdrawal of one of his three challengers made it even tougher.  <a href="https://nyti.ms/3pwxiwg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
+<h3>Turkey’s President Amassed Power. He Could Still Lose This Election.</h3>
+<sub>By Ben Hubbard</sub>
+<p>Turkey’s president, Recep Tayyip Erdogan, has tilted the political playing field in his favor over the past two decades, concentrating power in his own hands. Still, he faces a stiff challenge in Sunday’s election.  <a href="https://nyti.ms/3ppUJqP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As Ukraine Makes Inroads in Bakhmut, Devastation Still Reigns</h3>
+<sub>By Marc Santora and Tyler Hicks</sub>
+<p>The fight for Bakhmut is now the war’s single longest and bloodiest battle. Although the Ukrainians are making small gains, Russia still controls about 90 percent of the largely ruined city.  <a href="https://nyti.ms/3M3a6NB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, May 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Zelensky Visits Germany, Praising Weapons Pledge and Seeking Jets</h3>
+<sub>By Erika Solomon and Vivek Shankar</sub>
+<p>The Ukrainian president was received with military honors in Berlin, where he thanked Germany’s leaders for standing “resolutely” with his country.  <a href="https://nyti.ms/41C6MP8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, May 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>He Told Followers to Starve to Meet Jesus. Why Did So Many Do It?</h3>
+<sub>By Andrew Higgins</sub>
+<p>Hundreds were drawn to a remote wilderness in southeastern Kenya by the End Times preaching of pastor Paul Mackenzie. Relatives and ex-members tried to intervene, but some did not want to be rescued.  <a href="https://nyti.ms/42Vu5o7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, May 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Asylum Debate Snarls Efforts to Forge an Immigration Deal in Congress</h3>
-<sub>By Karoun Demirjian</sub>
-<p>Despite hopes among some Democrats and Republicans that the expiration of strict pandemic-era border rules would force a compromise, bipartisan talks have sputtered.  <a href="https://nyti.ms/3M3ANSs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>How to Raise $89 Million in Small Donations — And Make It Disappear</h3>
+<sub>By David A. Fahrenthold, Tiff Fehr and Charlie Smart</sub>
+<p>Summary  <a href="https://nyti.ms/42RRXZP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, May 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>It’s Been a Week. What Does It Tell Us About 2024?</h3>
+<sub>By Jonathan Weisman</sub>
+<p>The presidential race has started to crystallize, with flawed standard-bearers, worried political parties and voters unhappy with their choices.  <a href="https://nyti.ms/3nXmVky"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, May 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Why Ron DeSantis Is Limping to the Starting Line</h3>
+<sub>By Shane Goldmacher, Maggie Haberman and Jonathan Swan</sub>
+<p>Mr. DeSantis and his allies are retooling his expected run for the White House after a series of missteps and miscalculations allowed Donald J. Trump to define the 2024 Republican race.  <a href="https://nyti.ms/3VZKLc0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Lies, Charges and Questions Remaining in the George Santos Scandal</h3>
-<sub>By Michael Gold and Grace Ashford</sub>
-<p>George Santos has told so many stories they can be hard to keep straight. We cataloged them, including major questions about his personal finances and his campaign fund-raising and spending.  <a href="https://nyti.ms/42O9HFB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 12, Central Standard Time</sub></sub>
+<h3>Politics, Police, Pozole: The Battle for Sunset Park</h3>
+<sub>By John Leland and Lexi Parra</sub>
+<p>An impromptu street market in a Brooklyn park was a lifeline for immigrants during the pandemic. But then came complaints and conflicts, and then the police.  <a href="https://nyti.ms/3Bmvqc0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, May 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Tori Bowie’s Hometown Celebrates Her Life Amid Mystery of Her Death</h3>
-<sub>By Talya Minsberg</sub>
-<p>Mourners at a visitation and funeral in Mississippi remembered Tori Bowie as an inspiration on the track while also searching for answers about how her life ended.  <a href="https://nyti.ms/3O7YefN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, May 13, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>The Greatest Wealth Transfer in History Is Here, With Familiar (Rich) Winners</h3>
+<sub>By Talmon Joseph Smith and Karl Russell</sub>
+<p>In an era of surging home and stock values, U.S. family wealth has soared. The trillions of dollars going to heirs will largely reinforce inequality.  <a href="https://nyti.ms/43bR7HR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, May 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Jordan Neely Was on New York’s ‘Top 50’ List of Homeless People at Risk</h3>
-<sub>By Andy Newman</sub>
-<p>Mr. Neely, who was killed by another subway rider, was on a watch list for a city task force that kept track of the New Yorkers of most concern.  <a href="https://nyti.ms/3O9u4cb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, May 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Thailand’s Election: What to Watch and What’s at Stake</h3>
-<sub>By Sui-Lee Wee</sub>
-<p>The vote is seen as a referendum on the military, which has ruled Thailand for nine years. Results could determine the path for democracy in the country.  <a href="https://nyti.ms/3pByoqs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, May 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Crucial Question in Thailand’s Election: Can You Criticize the King?</h3>
-<sub>By Sui-Lee Wee and Muktita Suhartono</sub>
-<p>Liberal voters have intensified their scrutiny of the Thai monarchy in recent years. Conservatives have responded with a campaign to defend the institution at all costs.  <a href="https://nyti.ms/3nSHRsS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 12, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How a Military Base’s New Name Honors a Military Spouse and Mother</h3>
+<sub>By Arin Yoon</sub>
+<p>Fort Benning is now officially Fort Moore, the only U.S. base named for a married couple.  <a href="https://nyti.ms/42KjWe6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, May 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
