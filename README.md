@@ -60,11 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, May 13, Central Standard Time</p>
 <p>
-There has been a lot of news in the world recently! For example, Ukrainian President Zelensky recently visited the Pope and Italian Prime Minister Meloni in Italy to try and bolster Ukraine&#39;s support. Germany has also just announced its biggest military aid package yet for Ukraine. In the US, Florida Governor DeSantis is limping to the starting line as he gets set to run for US President. Homelessness is becoming more of an issue, with a record number of people dying on America&#39;s streets. 
-
-In Turkey, they&#39;re voting in elections this Sunday that will determine whether Erdogan will stay in power or be replaced. Meanwhile in Congress, the immigration debate is continuing to snarl efforts to forge a deal and both parties are debating it internally. As for sports, there has been a sports betting boom and now a backlash as regulators crack down on it for harm to the public and athletes. 
-
-In New York, we&#39;ve also been tracking the George Santos scandal, where he&#39;s told so many stories they can be hard to keep straight. There&#39;s also a list of the &quot;top 50&quot; homeless people at risk, with Jordan Neely being one of them who was tragically killed by another subway rider. Last but not least, Sweden won this year&#39;s Eurovision Song Contest after Britain stepped up last minute to host on behalf of a war-torn Ukraine.</p>
+There has been a lot of news around the world recently. Ukrainian president Zelensky just visited Italy to try to secure support for their ongoing war with Russia, and Germany announced its biggest ever military aid package to help out. In the U.S., Florida Governor Ron DeSantis is preparing for a potential run for president in 2024 and in San Diego, homeless people are facing a high mortality rate. Meanwhile, Sunday’s elections in Turkey will be important for determining the country&#39;s relationship with Europe and Russia, and the U.S. Congress is debating immigration reform as a pandemic-era border rule fades away. There are also stories about the scandal surrounding George Santos and the death of track star Tori Bowie, as well as the tragedy surrounding Jordan Neely who was trying to survive on New York’s streets. On a lighter note, Sweden recently won the Eurovision song contest, which was held in Britain as an act of solidarity with Ukraine.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Zelensky Meets Pope and Meloni in Italy to Bolster Ukraine’s Support</h3>
@@ -121,9 +117,9 @@ In New York, we&#39;ve also been tracking the George Santos scandal, where he&#3
 <sub><sub>Friday, May 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>First Came the Sports Betting Boom. Now Comes the Backlash.</h3>
-<sub>By Eric Lipton and Kevin Draper</sub>
-<p>In many U.S. states and across the world, regulators are cracking down on the sports gambling industry, citing harm to the public and, in some cases, to athletes.  <a href="https://nyti.ms/3Mp5kLY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Tori Bowie’s Hometown Celebrates Her Life Amid Mystery of Her Death</h3>
+<sub>By Talya Minsberg</sub>
+<p>Mourners at a visitation and funeral in Mississippi remembered Tori Bowie as an inspiration on the track while also searching for answers about how her life ended.  <a href="https://nyti.ms/3O7YefN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
