@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, May 14, Central Standard Time</p>
 <p>
-It looks like there&#39;s a lot of interesting things going on in the world right now. In Turkey, voters are heading to the polls for an important election that could decide the future of their country for years to come. The current president, Recep Tayyip Erdogan, is facing his toughest challenge yet. Meanwhile in Ukraine, the nation is fighting against Russian forces in the city of Bakhmut while their president seeks out help from Germany. Closer to home here in the US, politicians are gearing up for 2024 when political parties and presidential hopefuls prepare for a likely heated election cycle. We&#39;re also seeing how massive wealth transfers will reshape economic inequality in America, and a new Fort making history by renaming itself after a military couple.</p>
+There is a lot happening around the world right now. In Turkey, there is an election taking place on Sunday that could have a huge impact on the country&#39;s future as President Recep Tayyip Erdogan seeks his 20th year in power. In Ukraine, the fight for Bakhmut is the war&#39;s longest and bloodiest battle, with Russia controlling most of it. In Kenya, hundreds of people have been drawn to the wilderness by an End Times pastor and his preaching. The US has been host to its own share of events too. It has seen millions of donations from conservative groups using robocalls with pro-police and pro-veteran messages who then used it to pay themselves or their firms instead. Florida governor DeSantis has been making waves as he stepped up in the absence of former president Trump during a cancelled rally in Iowa. Finally, here in the US there is an increasing wealth gap as trillions of dollars are set to be transferred over to heirs. One bright spot however is the military base Fort Benning which has now officially been renamed Fort Moore, after a married couple, becoming the only US base to bear a married name</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Turkey’s Election: What You Need to Know</h3>
@@ -69,16 +69,16 @@ It looks like there&#39;s a lot of interesting things going on in the world righ
 <sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>An Erdogan Loss in Turkey Would Stir Relief in the West and Anxiety in Moscow</h3>
-<sub>By Steven Erlanger and Anatoly Kurmanaev</sub>
-<p>European leaders would be delighted to have “an easier Turkey,” while Russia could lose an important economic and diplomatic partnership should the Turkish leader lose power in Sunday’s elections.  <a href="https://nyti.ms/3O1FcI8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, May 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Turkey’s President Amassed Power. He Could Still Lose This Election.</h3>
 <sub>By Ben Hubbard</sub>
 <p>Turkey’s president, Recep Tayyip Erdogan, has tilted the political playing field in his favor over the past two decades, concentrating power in his own hands. Still, he faces a stiff challenge in Sunday’s election.  <a href="https://nyti.ms/3ppUJqP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Why One Upscale Apartment Building Became a Death Trap</h3>
+<sub>By Ben Hubbard, Anjali Singhvi, James Glanz, Mika Gröndahl, Elif Ince, Beril Eski and Safak Timur</sub>
+<p>A Times investigation and forensic analysis uncovered how flawed design and minimal oversight proved fatal when a major earthquake struck southern Turkey.  <a href="https://nyti.ms/3nWymJl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>As Ukraine Makes Inroads in Bakhmut, Devastation Still Reigns</h3>
@@ -88,8 +88,8 @@ It looks like there&#39;s a lot of interesting things going on in the world righ
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Zelensky Visits Germany, Praising Weapons Pledge and Seeking Jets</h3>
-<sub>By Erika Solomon and Vivek Shankar</sub>
-<p>The Ukrainian president was received with military honors in Berlin, where he thanked Germany’s leaders for standing “resolutely” with his country.  <a href="https://nyti.ms/41C6MP8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub>By Erika Solomon</sub>
+<p>The Ukrainian president was received with military honors in Berlin, where he thanked Germany’s leaders for standing with his country.  <a href="https://nyti.ms/41C6MP8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, May 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -101,7 +101,7 @@ It looks like there&#39;s a lot of interesting things going on in the world righ
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>How to Raise $89 Million in Small Donations — And Make It Disappear</h3>
 <sub>By David A. Fahrenthold, Tiff Fehr and Charlie Smart</sub>
-<p>Summary  <a href="https://nyti.ms/42RRXZP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>A group of conservative operatives using sophisticated robocalls raised millions of dollars from donors using pro-police and pro-veteran messages. But instead of using the money to promote issues and candidates, an analysis by The New York Times shows, nearly all the money went to pay the firms making the calls and the operatives themselves.  <a href="https://nyti.ms/42RRXZP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, May 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -111,10 +111,10 @@ It looks like there&#39;s a lot of interesting things going on in the world righ
 <sub><sub>Sunday, May 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Why Ron DeSantis Is Limping to the Starting Line</h3>
-<sub>By Shane Goldmacher, Maggie Haberman and Jonathan Swan</sub>
-<p>Mr. DeSantis and his allies are retooling his expected run for the White House after a series of missteps and miscalculations allowed Donald J. Trump to define the 2024 Republican race.  <a href="https://nyti.ms/3VZKLc0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, May 13, Central Standard Time</sub></sub>
+<h3>DeSantis Impresses in Iowa, Showing Up an Absent Trump</h3>
+<sub>By Nicholas Nehamas and Maggie Haberman</sub>
+<p>The former president canceled a rally in Des Moines, citing a storm warning. The Florida governor made the most of his rival’s absence, as DeSantis allies taunted Mr. Trump.  <a href="https://nyti.ms/3BrAgEM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, May 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Politics, Police, Pozole: The Battle for Sunset Park</h3>
