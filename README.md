@@ -60,12 +60,16 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, May 13, Central Standard Time</p>
 <p>
-There are a lot of important political developments happening around the world. Ukrainian President Zelensky visited Italy to strengthen support for their fight against Russia, and Germany offered Ukraine a huge military aid package to reset relations between them. In Turkey, President Erdogan is in a tough election battle against multiple challengers which is being closely watched by the West and Moscow. Meanwhile, in the US, Republican Ron DeSantis is retooling his presidential campaign and Democrats are debating immigration policies as record numbers of homeless and migrants die in the US. In the sports world there is a backlash to gambling, while New York has just revealed a list of its top 50 homeless people at risk. Finally, Eurovision is holding its grand final – so make sure you watch it!</p>
+There has been a lot of news in the world recently! For example, Ukrainian President Zelensky recently visited the Pope and Italian Prime Minister Meloni in Italy to try and bolster Ukraine&#39;s support. Germany has also just announced its biggest military aid package yet for Ukraine. In the US, Florida Governor DeSantis is limping to the starting line as he gets set to run for US President. Homelessness is becoming more of an issue, with a record number of people dying on America&#39;s streets. 
+
+In Turkey, they&#39;re voting in elections this Sunday that will determine whether Erdogan will stay in power or be replaced. Meanwhile in Congress, the immigration debate is continuing to snarl efforts to forge a deal and both parties are debating it internally. As for sports, there has been a sports betting boom and now a backlash as regulators crack down on it for harm to the public and athletes. 
+
+In New York, we&#39;ve also been tracking the George Santos scandal, where he&#39;s told so many stories they can be hard to keep straight. There&#39;s also a list of the &quot;top 50&quot; homeless people at risk, with Jordan Neely being one of them who was tragically killed by another subway rider. Last but not least, Sweden won this year&#39;s Eurovision Song Contest after Britain stepped up last minute to host on behalf of a war-torn Ukraine.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Zelensky Meets Pope and Meloni in Italy to Bolster Ukraine’s Support</h3>
 <sub>By Jason Horowitz</sub>
-<p>The Ukrainian president’s talks with the pope and Prime Minister Giorgia Meloni came at a potentially pivotal moment in the war against Russia, as Kyiv’s forces make advances near the key city of Bakhmut.  <a href="https://nyti.ms/42SxFzG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The Ukrainian president’s talks with the pope and Prime Minister Giorgia Meloni came at a potentially pivotal moment in the war with Russia, as Kyiv’s forces make advances near the key city of Bakhmut.  <a href="https://nyti.ms/42SxFzG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -95,7 +99,7 @@ There are a lot of important political developments happening around the world. 
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Turkey’s Election: What You Need to Know</h3>
 <sub>By Cora Engelbrecht, Ben Hubbard and Gulsin Harman</sub>
-<p>Sunday’s vote is the toughest for President Recep Tayyip Erdogan during his 20 years as the country’s premier politician. The withdraw of one of his three challengers made it even tougher.  <a href="https://nyti.ms/3pwxiwg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Sunday’s vote is the toughest for President Recep Tayyip Erdogan during his 20 years as the country’s premier politician. The withdrawal of one of his three challengers made it even tougher.  <a href="https://nyti.ms/3pwxiwg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -129,9 +133,9 @@ There are a lot of important political developments happening around the world. 
 <sub><sub>Saturday, May 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>How to watch the Eurovision grand final.</h3>
-<sub>By Eleanor Stanford</sub>
-<p>  <a href="https://nyti.ms/3W0i7r7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Sweden Wins a Eurovision Song Contest That Showed Solidarity With Ukraine</h3>
+<sub>By Alex Marshall and Maria Varenikova</sub>
+<p>After winning the competition last year, Ukraine should have been this year’s host, but Britain stepped in to help the war-torn nation.  <a href="https://nyti.ms/42x3xdm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
