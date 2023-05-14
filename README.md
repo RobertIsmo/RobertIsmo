@@ -60,7 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, May 14, Central Standard Time</p>
 <p>
-There is a lot happening around the world right now. In Turkey, there is an election taking place on Sunday that could have a huge impact on the country&#39;s future as President Recep Tayyip Erdogan seeks his 20th year in power. In Ukraine, the fight for Bakhmut is the war&#39;s longest and bloodiest battle, with Russia controlling most of it. In Kenya, hundreds of people have been drawn to the wilderness by an End Times pastor and his preaching. The US has been host to its own share of events too. It has seen millions of donations from conservative groups using robocalls with pro-police and pro-veteran messages who then used it to pay themselves or their firms instead. Florida governor DeSantis has been making waves as he stepped up in the absence of former president Trump during a cancelled rally in Iowa. Finally, here in the US there is an increasing wealth gap as trillions of dollars are set to be transferred over to heirs. One bright spot however is the military base Fort Benning which has now officially been renamed Fort Moore, after a married couple, becoming the only US base to bear a married name</p>
+Right now, Turkey is voting in a tough election for their president. In the hardest-hit parts of their quake zone, voters are looking for a change. In Ukraine, they are making small gains to take over Bakhmut, which is a heavily damaged city controlled by Russia. The Ukrainian president recently visited Germany and thanked the leaders there for standing with his country. Meanwhile in Kenya, hundreds of people have been drawn out to an extreme wilderness area led by a preacher preaching the end times. 
+
+In the US, there was a group that raised millions in small donations but it ended up going to the firms making the robocalls and political operatives instead of being used to promote issues and candidates. Some are already looking ahead to the 2024 presidential race, which looks like it will be full of flawed standard-bearers and unhappy voters. Fort Benning recently changed its name to Fort Moore, honoring a military spouse and mother; this is now the only U.S base with this kind of name. Meanwhile there&#39;s also another huge wealth transfer occurring in America where trillions of dollars are going to heirs- this will likely just reinforce inequality. 
+
+Lastly, MTV News is shutting down after bridging the gap between news and pop culture for a generation; people are reflecting on its legacy. Along with that there&#39;s a large number of homeless people in San Diego who are at risk due to a lack of help from Congress in trying to fix immigration dysfunction- they&#39;ve failed at initiatives multiple times now due to politics and disagreements.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Turkey’s Election: What You Need to Know</h3>
@@ -69,16 +73,10 @@ There is a lot happening around the world right now. In Turkey, there is an elec
 <sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Turkey’s President Amassed Power. He Could Still Lose This Election.</h3>
-<sub>By Ben Hubbard</sub>
-<p>Turkey’s president, Recep Tayyip Erdogan, has tilted the political playing field in his favor over the past two decades, concentrating power in his own hands. Still, he faces a stiff challenge in Sunday’s election.  <a href="https://nyti.ms/3ppUJqP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Why One Upscale Apartment Building Became a Death Trap</h3>
-<sub>By Ben Hubbard, Anjali Singhvi, James Glanz, Mika Gröndahl, Elif Ince, Beril Eski and Safak Timur</sub>
-<p>A Times investigation and forensic analysis uncovered how flawed design and minimal oversight proved fatal when a major earthquake struck southern Turkey.  <a href="https://nyti.ms/3nWymJl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
+<h3>In the hardest-hit city in Turkey’s quake zone, voters say they want a change.</h3>
+<sub>By Nimet Kirac</sub>
+<p>  <a href="https://nyti.ms/3BnGy8H"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, May 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>As Ukraine Makes Inroads in Bakhmut, Devastation Still Reigns</h3>
@@ -111,15 +109,9 @@ There is a lot happening around the world right now. In Turkey, there is an elec
 <sub><sub>Sunday, May 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis Impresses in Iowa, Showing Up an Absent Trump</h3>
-<sub>By Nicholas Nehamas and Maggie Haberman</sub>
-<p>The former president canceled a rally in Des Moines, citing a storm warning. The Florida governor made the most of his rival’s absence, as DeSantis allies taunted Mr. Trump.  <a href="https://nyti.ms/3BrAgEM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, May 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Politics, Police, Pozole: The Battle for Sunset Park</h3>
-<sub>By John Leland and Lexi Parra</sub>
-<p>An impromptu street market in a Brooklyn park was a lifeline for immigrants during the pandemic. But then came complaints and conflicts, and then the police.  <a href="https://nyti.ms/3Bmvqc0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>How a Military Base’s New Name Honors a Military Spouse and Mother</h3>
+<sub>By Arin Yoon</sub>
+<p>Fort Benning is now officially Fort Moore, the only U.S. base named for a married couple.  <a href="https://nyti.ms/42KjWe6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, May 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -128,10 +120,22 @@ There is a lot happening around the world right now. In Turkey, there is an elec
 <p>In an era of surging home and stock values, U.S. family wealth has soared. The trillions of dollars going to heirs will largely reinforce inequality.  <a href="https://nyti.ms/43bR7HR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, May 14, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>How MTV Broke News for a Generation</h3>
+<sub>By Remy Tumin</sub>
+<p>MTV News bridged a gap between news and pop culture without talking down to its young audience. As it prepares to shut down, Kurt Loder, Tabitha Soren, Sway Calloway and others reflect on its legacy.  <a href="https://nyti.ms/3nKW8rP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How a Military Base’s New Name Honors a Military Spouse and Mother</h3>
-<sub>By Arin Yoon</sub>
-<p>Fort Benning is now officially Fort Moore, the only U.S. base named for a married couple.  <a href="https://nyti.ms/42KjWe6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>‘A Daily Game of Russian Roulette’: Homeless in San Diego</h3>
+<sub>By Eli Saslow and Erin Schaff</sub>
+<p>As a record number of people die on America’s streets, Abdul Curry fights to stay alive.  <a href="https://nyti.ms/42uhM2o"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, May 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Over Decades, Congress Failed Repeatedly to Address Immigration Dysfunction</h3>
+<sub>By Karoun Demirjian</sub>
+<p>Legislative initiatives to overhaul immigration policy have fallen flat as partisan differences and other rifts have scuttled attempts at compromise.  <a href="https://nyti.ms/3O8iLAZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, May 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
