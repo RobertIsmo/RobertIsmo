@@ -60,9 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, May 14, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. In Turkey, there&#39;s an important election coming up - it could be a major turning point for Turkish politics, and US officials are watching closely. In Ukraine, they&#39;re fighting a bloody battle with Russia, while the Ukrainian president recently visited Germany to try and get more military support. 
-
-In India, witch hunting is still an issue and people are trying to put an end to it. And here in the US, one group raised almost $90 million for veterans and law enforcement but ended up keeping it for themselves. And we&#39;ve already got 2024 on our minds - a lot of people aren&#39;t happy with their potential presidential candidates, including many Democrats who don&#39;t think their mayor is progressive enough.</p>
+Right now, there are a lot of hot-button topics happening around the world. In Turkey, there is an election taking place that is one of the toughest President Recep Tayyip Erdogan has had to face in his 20 years of being premier politician. In Ukraine, there has been a bloody battle over Bakhmut that Russia still largely controls. In Kenya, hundreds of people were drawn to the wilderness by pastor Paul Mackenzie&#39;s End Times preaching. In the US, conservative operatives have been using robocalls to raise money from pro-police and pro-veteran donors, but the money often goes to their own firms and agents rather than issues or candidates. There have also been debates on how much companies should focus on diversity and inclusion. Eric Adams is receiving some pushback from left-leaning New Yorkers for moving the city in a more conservative direction on certain policies and issues. Additionally, a charged man in the US named Daniel Penny is receiving support and donations from political figures on the right for unknown reasons. There has also been a large wealth transfer in recent years that largely reinforces inequality and India is continuing to fight against witch hunting which is often used to oppress women. On top of all this, Congress has failed many times at finding an immigration policy solution due to partisan differences and efforts to rewrite policy have gone nowhere so far. Finally, Meg Jay has been talking about what to do with your life during your twenties and some people have argued that when the rule of law fails us that it is indeed a preventable tragedy.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Turkey’s Election: What You Need to Know</h3>
@@ -71,27 +69,9 @@ In India, witch hunting is still an issue and people are trying to put an end to
 <sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In the hardest-hit city in Turkey’s quake zone, voters say they want a change.</h3>
-<sub>By Nimet Kirac</sub>
-<p>  <a href="https://nyti.ms/3BnGy8H"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, May 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>U.S. officials, often exasperated by Erdogan, are watching the vote closely.</h3>
-<sub>By Michael Crowley</sub>
-<p>  <a href="https://nyti.ms/3MogPD8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, May 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>As Ukraine Makes Inroads in Bakhmut, Devastation Still Reigns</h3>
 <sub>By Marc Santora and Tyler Hicks</sub>
 <p>The fight for Bakhmut is now the war’s single longest and bloodiest battle. Although the Ukrainians are making small gains, Russia still controls about 90 percent of the largely ruined city.  <a href="https://nyti.ms/3M3a6NB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, May 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Zelensky Visits Germany, Praising Weapons Pledge and Seeking Jets</h3>
-<sub>By Erika Solomon</sub>
-<p>The Ukrainian president was received with military honors in Berlin, where he thanked Germany’s leaders for standing with his country.  <a href="https://nyti.ms/41C6MP8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, May 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -100,22 +80,28 @@ In India, witch hunting is still an issue and people are trying to put an end to
 <p>Hundreds were drawn to a remote wilderness in southeastern Kenya by the End Times preaching of pastor Paul Mackenzie. Relatives and ex-members tried to intervene, but some did not want to be rescued.  <a href="https://nyti.ms/42Vu5o7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, May 14, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Why Some Companies Are Saying ‘Diversity and Belonging’ Instead of ‘Diversity and Inclusion’</h3>
+<sub>By Jennifer Miller</sub>
+<p>The changing terminology reflects new thinking among some consultants, who say traditional D.E.I. strategies haven’t worked out as planned.  <a href="https://nyti.ms/3Wff5zH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, May 13, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How to Raise $89 Million in Small Donations — And Make It Disappear</h3>
+<h3>How to Raise $89 Million in Small Donations, and Make It Disappear</h3>
 <sub>By David A. Fahrenthold, Tiff Fehr and Charlie Smart</sub>
 <p>A group of conservative operatives using sophisticated robocalls raised millions of dollars from donors using pro-police and pro-veteran messages. But instead of using the money to promote issues and candidates, an analysis by The New York Times shows, nearly all the money went to pay the firms making the calls and the operatives themselves.  <a href="https://nyti.ms/42RRXZP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, May 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>It’s Been a Week. What Does It Tell Us About 2024?</h3>
-<sub>By Jonathan Weisman</sub>
-<p>The presidential race has started to crystallize, with flawed standard-bearers, worried political parties and voters unhappy with their choices.  <a href="https://nyti.ms/3nXmVky"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Eric Adams Says He’s a Progressive. Democrats Beg to Differ.</h3>
+<sub>By Emma G. Fitzsimmons</sub>
+<p>Left-leaning New Yorkers say the mayor is moving the city in a more conservative direction on issues like policing, rent and providing shelter to those in need.  <a href="https://nyti.ms/3Bpgdqx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, May 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How a Military Base’s New Name Honors a Military Spouse and Mother</h3>
-<sub>By Arin Yoon</sub>
-<p>Fort Benning is now officially Fort Moore, the only U.S. base named for a married couple.  <a href="https://nyti.ms/42KjWe6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>On the Right, Support and Donations Pour In for Daniel Penny</h3>
+<sub>By Maria Cramer</sub>
+<p>Mr. Penny, who has been charged with killing Jordan Neely, has been called a “hero” and a good Samaritan by conservative political figures.  <a href="https://nyti.ms/3O9Fuwt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, May 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -130,10 +116,22 @@ In India, witch hunting is still an issue and people are trying to put an end to
 <p>Once driven largely by superstition, the brutal practice is now often simply a tool to oppress women, in many cases violently.  <a href="https://nyti.ms/42wZhKR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Eric Adams Says He’s a Progressive. Democrats Beg to Differ.</h3>
-<sub>By Emma G. Fitzsimmons</sub>
-<p>Left-leaning New Yorkers say the mayor is moving the city in a more conservative direction on issues like policing, rent and providing shelter to those in need.  <a href="https://nyti.ms/3Bpgdqx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Over Decades, Congress Failed Repeatedly to Address Immigration Dysfunction</h3>
+<sub>By Karoun Demirjian</sub>
+<p>Legislative initiatives to overhaul immigration policy have fallen flat as partisan differences and other rifts have scuttled attempts at compromise.  <a href="https://nyti.ms/3O8iLAZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, May 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>What’s the Point of Your 20s? Ask the Patron Saint of Striving Youth.</h3>
+<sub>By Emma Goldberg</sub>
+<p>Meg Jay knows it’s confusing to figure out what to do with your life. She also knows you need to get on with it.  <a href="https://nyti.ms/42VDc8G"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, May 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>When the Rule of Law Fails Us</h3>
+<sub>By David French</sub>
+<p>This was a preventable tragedy.  <a href="https://nyti.ms/44ZbE3R"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, May 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
