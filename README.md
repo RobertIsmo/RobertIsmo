@@ -58,14 +58,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Sunday, May 14, Central Standard Time</p>
+<p>It is Monday, May 15, Central Standard Time</p>
 <p>
-There are some worrying developments going on around the world right now. In Turkey, a key election which could decide the country&#39;s future has gone to round two as no majority was reached. In Ukraine, there&#39;s a long and bloody battle continuing for Bakhmut as Russia controls most of it. In the US, people are still migrating in droves due to economic hardships, climate change and gang violence, despite Title 42 being gone. Meanwhile, some companies are taking new approaches to &#39;diversity and belonging&#39; instead of &#39;diversity and inclusion&#39;, and in India &#39;witch hunts&#39; are still occurring in some communities. Finally, with the greatest wealth transfer in history underway in the US due to surges in home and stock values, many of the trillions of dollars will go to reinforcing existing inequality. Opinions on these matters vary but, ultimately, it seems like this is an issue where the rule of law is failing us.</p>
+There is a lot happening in the world right now. In Turkey, President Recep Tayyip Erdogan is facing a challenege from opposition parties after two decades in power. In Ukraine, fighting for a city called Bakhmut is the longest and bloodiest battle since the war began, with Russia still controlling the largely ruined city. In the US, economic hardship, climate change, political instability, and gang violence are all contributing to more people migrating to the US. Companies are now thinking differently about diversity and inclusion, using different terminology to discuss it. In Kenya, hundreds of followers of a pastor&#39;s End Times preaching have been drawn to starve themselves in an attempt to meet Jesus. A group of conservative operatives have raised millions of dollars through pro-police and pro-veteran robocalls, but have not used the money to promote causes or candidates as expected. In New York City, Mayor Eric Adams is causing conflict amongst left leaning New Yorkers with his push towards more conservative issues such as policing and providing shelter. On the Right there is support and donations pouring in for Daniel Penny who was charged with killing Jordan Neely but labelled a hero by conservative political figures. Family wealth in America is currently soaring making it the greatest wealth transfer in history yet reinforcing family inequality. India is trying to eradicate witch hunting which has become a tool for oppressing women violently. Meg Jay has written about how 20-somethings should use this time of life to figure out what they want out of their futures. Finally in France, it&#39;s strange that the far right are being looked at as adults when it comes to protesting led by unions that should be beneficial for the left.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Nail-Biter Turkish Election Goes to Round 2 as Majority Eludes Erdogan</h3>
+<h3>Nail-Biter Turkish Election Heads for Round 2 as Majority Eludes Erdogan</h3>
 <sub>By Ben Hubbard and Gulsin Harman</sub>
-<p>After two decades in power, a struggling Recep Tayyip Erdogan now has two more weeks to persuade Turkish voters that he is the best choice to lead the country.  <a href="https://nyti.ms/41AZOtV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>After two decades in power, a struggling Recep Tayyip Erdogan has two more weeks to persuade Turkish voters that he should continue as president.  <a href="https://nyti.ms/41AZOtV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, May 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -129,10 +129,10 @@ There are some worrying developments going on around the world right now. In Tur
 <sub><sub>Sunday, May 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>When the Rule of Law Fails Us</h3>
-<sub>By David French</sub>
-<p>This was a preventable tragedy.  <a href="https://nyti.ms/44ZbE3R"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, May 14, Central Standard Time</sub></sub>
+<h3>How France’s Far Right Became the Adults in the Room</h3>
+<sub>By Mitchell Abidor and Miguel Lago</sub>
+<p>Shouldn’t a protest movement led by unions be benefiting the left?  <a href="https://nyti.ms/3M2ZfmL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 15, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
