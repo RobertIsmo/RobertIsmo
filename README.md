@@ -60,8 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, May 15, Central Standard Time</p>
 <p>
-Currently, there is a lot of news around politics and business in the world. In Turkey, President Recep Tayyip Erdogan is headed for his — and his country&#39;s — first presidential runoff vote due to his continued strength despite facing strong opposition. In the U.S., recent sanctions against Russia haven&#39;t been enough to stop American technology from being sent there, and North Carolina is voting on a possible abortion bill that could have huge implications for its citizens. Meanwhile, Paraguay&#39;s long-standing dominant party has been buying votes from Indigenous people to remain in power. Lastly, climate change is bringing warmer, wetter weather to islands like Trinidad and Tobago, which still rely heavily on fossil fuels as their main energy source.</p>
+It looks like there&#39;s some big news coming out of Turkey. The country is headed to a presidential election runoff, and their longtime leader, Recep Tayyip Erdogan, has shown remarkable strength. But elsewhere around the world, there are stories of people being priced out of coastal cities, educated workers seeking more affordable living options, Russian airlilnes receiving U.S.-made technology despite sanctions imposed on them, and privacy experts worrying about DNA research developments. Closer to home, President Biden is trying to work on a debt limit deal with congressional leaders while New York is dealing with crumbling garages that could be at risk of collapse. Lastly, North Carolina is facing an abortion showdown that may hinge on a single vote from the Republican-led legislature.</p>
 <ol>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>Coastal Cities Priced Out Low-Wage Workers. Now College Graduates Are Leaving, Too.</h3>
+<sub>By Emily Badger, Robert Gebeloff and Josh Katz</sub>
+<p>Educated workers are increasingly migrating away from the country’s most expensive major metros — and have been since before the pandemic.  <a href="https://nyti.ms/3M2qcHf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Erdogan’s Grip on Power Is Loosened but Not Broken, Vote Shows</h3>
+<sub>By Ben Hubbard</sub>
+<p>Despite a struggling economy, the disastrous earthquakes in February and Turkey’s drift toward one-man rule, President Recep Tayyip Erdogan was in the lead ahead of a runoff.  <a href="https://nyti.ms/42WOQzT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 15, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Four Takeaways From Turkey’s Nail-Biting Presidential Election</h3>
 <sub>By Gulsin Harman and Ben Hubbard</sub>
@@ -75,15 +87,21 @@ Currently, there is a lot of news around politics and business in the world. In 
 <sub><sub>Monday, May 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.S.-Made Technology Is Flowing to Sanctioned Russian Airlines</h3>
+<h3>U.S.-Made Technology Is Flowing to Russian Airlines, Despite Sanctions</h3>
 <sub>By Ana Swanson and Niraj Chokshi</sub>
-<p>Russian customs data shows that millions of dollars of aircraft parts made by Boeing, Airbus and others were sent to Russia last year despite sanctions.  <a href="https://nyti.ms/3W1g46h"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Russian customs data shows that millions of dollars of aircraft parts made by Boeing, Airbus and others were sent to Russia last year.  <a href="https://nyti.ms/3W1g46h"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukrainians Send a Message With Their Bombs. On Them, Too.</h3>
-<sub>By Maria Varenikova</sub>
-<p>Ukrainians have a lot to say to Russia, and many have chosen to say it in ink on the sides of rockets, mortar shells and even exploding drones.  <a href="https://nyti.ms/3M7XK71"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>The Wagner leader disputes a report that he offered to betray Russia.</h3>
+<sub>By Ivan Nechepurenko</sub>
+<p>Yevgeny V. Prigozhin, the founder of the private military group, dismissed a report from The Washington Post saying that leaked intelligence showed he had offered to share Russian army positions with Ukraine.  <a href="https://nyti.ms/42FLDVK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>Your DNA Can Now Be Pulled From Thin Air. Privacy Experts Are Worried.</h3>
+<sub>By Elizabeth Anne Brown</sub>
+<p>Environmental DNA research has aided conservation, but scientists say its ability to glean information about human populations and individuals poses dangers.  <a href="https://nyti.ms/3BrrZAN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -99,9 +117,9 @@ Currently, there is a lot of news around politics and business in the world. In 
 <sub><sub>Saturday, May 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Abortion Showdown in North Carolina May Hinge on a Single Vote</h3>
-<sub>By Kate Kelly</sub>
-<p>After the G.O.P.-led legislature passed a 12-week ban, the Democratic governor vetoed the bill. The Republicans could override it, if all their members stay unified.  <a href="https://nyti.ms/3MoOY5U"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Biden Expresses Optimism Over Debt Limit Deal, but an Agreement Remains Elusive</h3>
+<sub>By Zolan Kanno-Youngs</sub>
+<p>President Biden and congressional leaders will resume face-to-face talks on Tuesday to raise the debt limit and avoid default.  <a href="https://nyti.ms/42XUtxP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -110,28 +128,10 @@ Currently, there is a lot of news around politics and business in the world. In 
 <p>The fatal failure of a building in Lower Manhattan raised questions about the state of parking structures across New York. Records and interviews reveal some answers.  <a href="https://nyti.ms/3BnHcD4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>E.U. Approves Microsoft’s $69 Billion Deal for Activision</h3>
-<sub>By Adam Satariano</sub>
-<p>The green light follows objections to the blockbuster deal by American and British regulators on the grounds that it would undercut competition.  <a href="https://nyti.ms/44YLgqW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Why Some Countries Find It Hard to Move Away From Fossil Fuels</h3>
-<sub>By Clifford Krauss</sub>
-<p>Trinidad and Tobago is the No. 2 exporter of liquefied natural gas in the Americas. Its output has been falling, but it remains committed to fossil fuels.  <a href="https://nyti.ms/3Iy6tyv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Climate Change Brings Warmer, Wetter Weather to Trinidad</h3>
-<sub>By Clifford Krauss</sub>
-<p>Even as the leaders of Trinidad and Tobago double down on fossil fuels, climate change is bringing more extreme weather to the island nation.  <a href="https://nyti.ms/3IasFhD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>One Secret to a Latin American Party’s Dominance: Buying Votes</h3>
-<sub>By Jack Nicas and María Magdalena Arréllaga</sub>
-<p>In Paraguay, the Colorado Party has held power for seven decades. On Election Day, it rounds up Indigenous people and pays them for their votes.  <a href="https://nyti.ms/3W5Rdye"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Abortion Showdown in North Carolina May Hinge on a Single Vote</h3>
+<sub>By Kate Kelly</sub>
+<p>After the G.O.P.-led legislature passed a 12-week ban, the Democratic governor vetoed the bill. The Republicans could override it, if all their members stay unified.  <a href="https://nyti.ms/3MoOY5U"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 15, Central Standard Time</sub></sub>
 <hr/>
 </ol>
