@@ -60,12 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, May 15, Central Standard Time</p>
 <p>
-It looks like there&#39;s some big news coming out of Turkey. The country is headed to a presidential election runoff, and their longtime leader, Recep Tayyip Erdogan, has shown remarkable strength. But elsewhere around the world, there are stories of people being priced out of coastal cities, educated workers seeking more affordable living options, Russian airlilnes receiving U.S.-made technology despite sanctions imposed on them, and privacy experts worrying about DNA research developments. Closer to home, President Biden is trying to work on a debt limit deal with congressional leaders while New York is dealing with crumbling garages that could be at risk of collapse. Lastly, North Carolina is facing an abortion showdown that may hinge on a single vote from the Republican-led legislature.</p>
+There are a lot of things going on in the world right now. The coastal cities in the US are becoming too expensive for low-wage workers to stay, so even college graduates are beginning to migrate away. In other news, after four years of investigating, the Trump-era special counsel has released a final report denouncing the Russia investigation. Also, a former US embassy employee is being held in Moscow and charged with conspiracy. Moving on to turkey, President Recep Tayyip Erdogan is likely headed for his first ever presidential runoff vote due to a struggling economy and earthquakes. There&#39;s also environmental DNA research that is being conducted by scientists, but it raises some privacy concerns as it can be used to glean information about Human populations and individuals. Lastly, President Biden and congressional leaders will be resuming talks in order to avoid the US defaulting on payments due to an expiring debt limit.</p>
 <ol>
 <img src="https://img.shields.io/badge/-upshot-blue" alt="">
 <h3>Coastal Cities Priced Out Low-Wage Workers. Now College Graduates Are Leaving, Too.</h3>
 <sub>By Emily Badger, Robert Gebeloff and Josh Katz</sub>
 <p>Educated workers are increasingly migrating away from the country’s most expensive major metros — and have been since before the pandemic.  <a href="https://nyti.ms/3M2qcHf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Final Report, Trump-Era Special Counsel Denounces Russia Investigation</h3>
+<sub>By Charlie Savage, Glenn Thrush, Adam Goldman and Katie Benner</sub>
+<p>After four years of investigating the Russia inquiry, John Durham turned in a report that was made public on Monday.  <a href="https://nyti.ms/3pG6ZUj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A former U.S. Embassy employee is being held in Moscow, according to Russia’s state news agency.</h3>
+<sub>By Daniel Victor</sub>
+<p>The State Department had no immediate comment on the report that an American, identified as Robert Shonov, had been arrested and charged with conspiracy.  <a href="https://nyti.ms/3OeJY5i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -84,18 +96,6 @@ It looks like there&#39;s some big news coming out of Turkey. The country is hea
 <h3>Turkey Election Maps: Why Erdogan Is Headed For a Runoff</h3>
 <sub>By Lauren Leatherby</sub>
 <p>Maps show how every province in Turkey voted so far. Recep Tayyip Erdogan, Turkey’s longtime leader, was headed to a presidential election runoff for the first time.  <a href="https://nyti.ms/3OaYrPr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.S.-Made Technology Is Flowing to Russian Airlines, Despite Sanctions</h3>
-<sub>By Ana Swanson and Niraj Chokshi</sub>
-<p>Russian customs data shows that millions of dollars of aircraft parts made by Boeing, Airbus and others were sent to Russia last year.  <a href="https://nyti.ms/3W1g46h"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Wagner leader disputes a report that he offered to betray Russia.</h3>
-<sub>By Ivan Nechepurenko</sub>
-<p>Yevgeny V. Prigozhin, the founder of the private military group, dismissed a report from The Washington Post saying that leaked intelligence showed he had offered to share Russian army positions with Ukraine.  <a href="https://nyti.ms/42FLDVK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
@@ -117,21 +117,21 @@ It looks like there&#39;s some big news coming out of Turkey. The country is hea
 <sub><sub>Saturday, May 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Staff Members Attacked With Bat at Congressman’s Virginia Office</h3>
+<sub>By Remy Tumin</sub>
+<p>Two people were hospitalized after the attack at the Fairfax office of Representative Gerald E. Connolly, a Democrat. A man was in custody, the police said.  <a href="https://nyti.ms/3M4xxq0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Expresses Optimism Over Debt Limit Deal, but an Agreement Remains Elusive</h3>
 <sub>By Zolan Kanno-Youngs</sub>
 <p>President Biden and congressional leaders will resume face-to-face talks on Tuesday to raise the debt limit and avoid default.  <a href="https://nyti.ms/42XUtxP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>A Crumbling New York Garage Collapsed. Dozens More Have Similar Problems.</h3>
-<sub>By Patrick McGeehan and Asmaa Elkeurti</sub>
-<p>The fatal failure of a building in Lower Manhattan raised questions about the state of parking structures across New York. Records and interviews reveal some answers.  <a href="https://nyti.ms/3BnHcD4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Abortion Showdown in North Carolina May Hinge on a Single Vote</h3>
-<sub>By Kate Kelly</sub>
-<p>After the G.O.P.-led legislature passed a 12-week ban, the Democratic governor vetoed the bill. The Republicans could override it, if all their members stay unified.  <a href="https://nyti.ms/3MoOY5U"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Yellen Reiterates That the U.S. Could Run Out of Cash by June 1</h3>
+<sub>By Alan Rappeport</sub>
+<p>The latest warning to Congress came before another meeting on Tuesday between President Biden and Speaker Kevin McCarthy to resolve the debt ceiling crisis.  <a href="https://nyti.ms/42YmjtP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 15, Central Standard Time</sub></sub>
 <hr/>
 </ol>
