@@ -60,13 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, May 14, Central Standard Time</p>
 <p>
-Right now, there are a lot of hot-button topics happening around the world. In Turkey, there is an election taking place that is one of the toughest President Recep Tayyip Erdogan has had to face in his 20 years of being premier politician. In Ukraine, there has been a bloody battle over Bakhmut that Russia still largely controls. In Kenya, hundreds of people were drawn to the wilderness by pastor Paul Mackenzie&#39;s End Times preaching. In the US, conservative operatives have been using robocalls to raise money from pro-police and pro-veteran donors, but the money often goes to their own firms and agents rather than issues or candidates. There have also been debates on how much companies should focus on diversity and inclusion. Eric Adams is receiving some pushback from left-leaning New Yorkers for moving the city in a more conservative direction on certain policies and issues. Additionally, a charged man in the US named Daniel Penny is receiving support and donations from political figures on the right for unknown reasons. There has also been a large wealth transfer in recent years that largely reinforces inequality and India is continuing to fight against witch hunting which is often used to oppress women. On top of all this, Congress has failed many times at finding an immigration policy solution due to partisan differences and efforts to rewrite policy have gone nowhere so far. Finally, Meg Jay has been talking about what to do with your life during your twenties and some people have argued that when the rule of law fails us that it is indeed a preventable tragedy.</p>
+There are some worrying developments going on around the world right now. In Turkey, a key election which could decide the country&#39;s future has gone to round two as no majority was reached. In Ukraine, there&#39;s a long and bloody battle continuing for Bakhmut as Russia controls most of it. In the US, people are still migrating in droves due to economic hardships, climate change and gang violence, despite Title 42 being gone. Meanwhile, some companies are taking new approaches to &#39;diversity and belonging&#39; instead of &#39;diversity and inclusion&#39;, and in India &#39;witch hunts&#39; are still occurring in some communities. Finally, with the greatest wealth transfer in history underway in the US due to surges in home and stock values, many of the trillions of dollars will go to reinforcing existing inequality. Opinions on these matters vary but, ultimately, it seems like this is an issue where the rule of law is failing us.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Turkey’s Election: What You Need to Know</h3>
-<sub>By Cora Engelbrecht, Ben Hubbard and Gulsin Harman</sub>
-<p>Sunday’s vote is the toughest for President Recep Tayyip Erdogan during his 20 years as the country’s premier politician. The withdrawal of one of his three challengers made it even tougher.  <a href="https://nyti.ms/3pwxiwg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
+<h3>Nail-Biter Turkish Election Goes to Round 2 as Majority Eludes Erdogan</h3>
+<sub>By Ben Hubbard and Gulsin Harman</sub>
+<p>After two decades in power, a struggling Recep Tayyip Erdogan now has two more weeks to persuade Turkish voters that he is the best choice to lead the country.  <a href="https://nyti.ms/41AZOtV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, May 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>As Ukraine Makes Inroads in Bakhmut, Devastation Still Reigns</h3>
@@ -74,10 +74,10 @@ Right now, there are a lot of hot-button topics happening around the world. In T
 <p>The fight for Bakhmut is now the war’s single longest and bloodiest battle. Although the Ukrainians are making small gains, Russia still controls about 90 percent of the largely ruined city.  <a href="https://nyti.ms/3M3a6NB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, May 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>He Told Followers to Starve to Meet Jesus. Why Did So Many Do It?</h3>
-<sub>By Andrew Higgins</sub>
-<p>Hundreds were drawn to a remote wilderness in southeastern Kenya by the End Times preaching of pastor Paul Mackenzie. Relatives and ex-members tried to intervene, but some did not want to be rescued.  <a href="https://nyti.ms/42Vu5o7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Title 42 Is Gone, but Not the Conditions Driving Migrants to the U.S.</h3>
+<sub>By Miriam Jordan</sub>
+<p>Economic hardship, climate change, political instability and gang violence will continue to spur emigration from many corners of the world.  <a href="https://nyti.ms/3o5LgEL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, May 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -85,6 +85,12 @@ Right now, there are a lot of hot-button topics happening around the world. In T
 <sub>By Jennifer Miller</sub>
 <p>The changing terminology reflects new thinking among some consultants, who say traditional D.E.I. strategies haven’t worked out as planned.  <a href="https://nyti.ms/3Wff5zH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>He Told Followers to Starve to Meet Jesus. Why Did So Many Do It?</h3>
+<sub>By Andrew Higgins</sub>
+<p>Hundreds were drawn to a remote wilderness in southeastern Kenya by the End Times preaching of pastor Paul Mackenzie. Relatives and ex-members tried to intervene, but some did not want to be rescued.  <a href="https://nyti.ms/42Vu5o7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, May 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>How to Raise $89 Million in Small Donations, and Make It Disappear</h3>
@@ -115,12 +121,6 @@ Right now, there are a lot of hot-button topics happening around the world. In T
 <sub>By Suhasini Raj</sub>
 <p>Once driven largely by superstition, the brutal practice is now often simply a tool to oppress women, in many cases violently.  <a href="https://nyti.ms/42wZhKR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Over Decades, Congress Failed Repeatedly to Address Immigration Dysfunction</h3>
-<sub>By Karoun Demirjian</sub>
-<p>Legislative initiatives to overhaul immigration policy have fallen flat as partisan differences and other rifts have scuttled attempts at compromise.  <a href="https://nyti.ms/3O8iLAZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, May 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>What’s the Point of Your 20s? Ask the Patron Saint of Striving Youth.</h3>
