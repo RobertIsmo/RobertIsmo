@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, May 15, Central Standard Time</p>
 <p>
-Right now, there&#39;s a lot going on around the world. In Turkey, President Erdogan is facing a tight election that he could potentially lose after two decades in power. In Ukraine, Bakhmut is facing intense fighting as Russia attempts to take control of the largely ruined city. In the United States, former President Trump&#39;s Title 42 policy has been terminated, but the economic hardship, climate change, and political instability that drove migrants to the country remain. Companies are rethinking their diversity and inclusion policies with the aim of creating more belonging for their employees. Kenya is still dealing with the aftermath of its End Times preacher&#39;s followers starving themselves for Jesus. Meanwhile, there is an investigation into how conservative operatives raised over $89 million from small donors only for it to almost entirely line their own pockets. Additionally, New York Mayor Eric Adams is being called out by progressives concerned over his seemingly conservative stance on police reform and rent freezes. Also in the US, Daniel Penny is facing charges for killing Jordan Neely but right-wing political figures are supporting him. Wealth Transfer is becoming a contentious issue as money goes to rich heirs instead of those in need. India is battling with Witch Hunts that are being used as a tool to subjugate women. Finally, Meg Jay has addressed the seemingly daunting issue of figuring out one&#39;s 20s and how to make the most of life during this time period. Lastly in France, the Far Right has become surprisingly popular allowing it to become major partners in leaders&#39; negotiations.</p>
+There are a lot of interesting developments happening all over the world that I wanted to share with you! In Turkey, President Recep Tayyip Erdogan is facing a tight race for re-election as he stands for his two-decades-long reign. In the US, Republicans and Democrats are locked in a bitter battle over abortion rights and North Carolina may be the deciding factor. Russia is facing allegations of receiving U.S.-made technology despite sanctions, but their own weather conditions are creating problems due to climate change. Paraguay has an unusually enduring political party that buys votes from Indigenous people on Election Day. And finally, there are many companies now switching their language regarding diversity and inclusion to focus on “diversity and belonging” instead.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Nail-Biter Turkish Election Heads for Round 2 as Majority Eludes Erdogan</h3>
@@ -69,10 +69,40 @@ Right now, there&#39;s a lot going on around the world. In Turkey, President Erd
 <sub><sub>Sunday, May 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Ukraine Makes Inroads in Bakhmut, Devastation Still Reigns</h3>
-<sub>By Marc Santora and Tyler Hicks</sub>
-<p>The fight for Bakhmut is now the war’s single longest and bloodiest battle. Although the Ukrainians are making small gains, Russia still controls about 90 percent of the largely ruined city.  <a href="https://nyti.ms/3M3a6NB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, May 14, Central Standard Time</sub></sub>
+<h3>Four Takeaways from Turkey’s Nail-Biting Presidential Election</h3>
+<sub>By Gulsin Harman and Ben Hubbard</sub>
+<p>Recep Tayyip Erdogan appears to be headed for his — and his country’s — first presidential runoff vote. But the first round showed the longtime leader’s continued strength.  <a href="https://nyti.ms/3I9IB3T"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>U.S.-Made Technology Is Flowing to Sanctioned Russian Airlines</h3>
+<sub>By Ana Swanson and Niraj Chokshi</sub>
+<p>Russian customs data shows that millions of dollars of aircraft parts made by Boeing, Airbus and others were sent to Russia last year despite sanctions.  <a href="https://nyti.ms/3W1g46h"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukrainians Send a Message With Their Bombs. On Them, Too.</h3>
+<sub>By Maria Varenikova</sub>
+<p>Ukrainians have a lot to say to Russia, and many have chosen to say it in ink on the sides of rockets, mortar shells and even exploding drones.  <a href="https://nyti.ms/3M7XK71"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Abortion Showdown in North Carolina May Hinge on a Single Vote</h3>
+<sub>By Kate Kelly</sub>
+<p>After the G.O.P.-led legislature passed a 12-week ban, the Democratic governor vetoed the bill. The Republicans could override it, if all their members stay unified.  <a href="https://nyti.ms/3MoOY5U"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Inside the Last Old-School Seltzer Shop in New York</h3>
+<sub>By Corey Kilgannon and Juan Arredondo</sub>
+<p>Brooklyn Seltzer Boys has a century-old carbonator and a museum with a spritzing station. Beat that, LaCroix.  <a href="https://nyti.ms/3nPwxhr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, May 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>A Crumbling New York Garage Collapsed. Dozens More Have Similar Problems.</h3>
+<sub>By Patrick McGeehan and Asmaa Elkeurti</sub>
+<p>The fatal failure of a building in Lower Manhattan raised questions about the state of parking structures across New York. Records and interviews reveal some answers.  <a href="https://nyti.ms/3BnHcD4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Title 42 Is Gone, but Not the Conditions Driving Migrants to the U.S.</h3>
@@ -81,58 +111,28 @@ Right now, there&#39;s a lot going on around the world. In Turkey, President Erd
 <sub><sub>Sunday, May 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Why Some Countries Find It Hard to Move Away From Fossil Fuels</h3>
+<sub>By Clifford Krauss</sub>
+<p>Trinidad and Tobago is the No. 2 exporter of liquefied natural gas in the Americas. Its output has been falling, but it remains committed to fossil fuels.  <a href="https://nyti.ms/3Iy6tyv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Climate Change Brings Warmer, Wetter Weather to Trinidad</h3>
+<sub>By Clifford Krauss</sub>
+<p>Even as the leaders of Trinidad and Tobago double down on fossil fuels, climate change is bringing more extreme weather to the island nation.  <a href="https://nyti.ms/3IasFhD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>One Secret to a Latin American Party’s Dominance: Buying Votes</h3>
+<sub>By Jack Nicas and María Magdalena Arréllaga</sub>
+<p>In Paraguay, the Colorado Party has held power for seven decades. On Election Day, it rounds up Indigenous people and pays them for their votes.  <a href="https://nyti.ms/3W5Rdye"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Why Some Companies Are Saying ‘Diversity and Belonging’ Instead of ‘Diversity and Inclusion’</h3>
 <sub>By Jennifer Miller</sub>
 <p>The changing terminology reflects new thinking among some consultants, who say traditional D.E.I. strategies haven’t worked out as planned.  <a href="https://nyti.ms/3Wff5zH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>He Told Followers to Starve to Meet Jesus. Why Did So Many Do It?</h3>
-<sub>By Andrew Higgins</sub>
-<p>Hundreds were drawn to a remote wilderness in southeastern Kenya by the End Times preaching of pastor Paul Mackenzie. Relatives and ex-members tried to intervene, but some did not want to be rescued.  <a href="https://nyti.ms/42Vu5o7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, May 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How to Raise $89 Million in Small Donations, and Make It Disappear</h3>
-<sub>By David A. Fahrenthold, Tiff Fehr and Charlie Smart</sub>
-<p>A group of conservative operatives using sophisticated robocalls raised millions of dollars from donors using pro-police and pro-veteran messages. But instead of using the money to promote issues and candidates, an analysis by The New York Times shows, nearly all the money went to pay the firms making the calls and the operatives themselves.  <a href="https://nyti.ms/42RRXZP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, May 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Eric Adams Says He’s a Progressive. Democrats Beg to Differ.</h3>
-<sub>By Emma G. Fitzsimmons</sub>
-<p>Left-leaning New Yorkers say the mayor is moving the city in a more conservative direction on issues like policing, rent and providing shelter to those in need.  <a href="https://nyti.ms/3Bpgdqx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, May 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>On the Right, Support and Donations Pour In for Daniel Penny</h3>
-<sub>By Maria Cramer</sub>
-<p>Mr. Penny, who has been charged with killing Jordan Neely, has been called a “hero” and a good Samaritan by conservative political figures.  <a href="https://nyti.ms/3O9Fuwt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, May 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Greatest Wealth Transfer in History Is Here, With Familiar (Rich) Winners</h3>
-<sub>By Talmon Joseph Smith and Karl Russell</sub>
-<p>In an era of surging home and stock values, U.S. family wealth has soared. The trillions of dollars going to heirs will largely reinforce inequality.  <a href="https://nyti.ms/43bR7HR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, May 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>India Struggles to Eradicate an Old Scourge: Witch Hunting</h3>
-<sub>By Suhasini Raj</sub>
-<p>Once driven largely by superstition, the brutal practice is now often simply a tool to oppress women, in many cases violently.  <a href="https://nyti.ms/42wZhKR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, May 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>What’s the Point of Your 20s? Ask the Patron Saint of Striving Youth.</h3>
-<sub>By Emma Goldberg</sub>
-<p>Meg Jay knows it’s confusing to figure out what to do with your life. She also knows you need to get on with it.  <a href="https://nyti.ms/42VDc8G"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, May 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>How France’s Far Right Became the Adults in the Room</h3>
-<sub>By Mitchell Abidor and Miguel Lago</sub>
-<p>Shouldn’t a protest movement led by unions be benefiting the left?  <a href="https://nyti.ms/3M2ZfmL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 15, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
