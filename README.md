@@ -60,18 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, May 15, Central Standard Time</p>
 <p>
-There are a lot of interesting developments happening all over the world that I wanted to share with you! In Turkey, President Recep Tayyip Erdogan is facing a tight race for re-election as he stands for his two-decades-long reign. In the US, Republicans and Democrats are locked in a bitter battle over abortion rights and North Carolina may be the deciding factor. Russia is facing allegations of receiving U.S.-made technology despite sanctions, but their own weather conditions are creating problems due to climate change. Paraguay has an unusually enduring political party that buys votes from Indigenous people on Election Day. And finally, there are many companies now switching their language regarding diversity and inclusion to focus on “diversity and belonging” instead.</p>
+Currently, there is a lot of news around politics and business in the world. In Turkey, President Recep Tayyip Erdogan is headed for his — and his country&#39;s — first presidential runoff vote due to his continued strength despite facing strong opposition. In the U.S., recent sanctions against Russia haven&#39;t been enough to stop American technology from being sent there, and North Carolina is voting on a possible abortion bill that could have huge implications for its citizens. Meanwhile, Paraguay&#39;s long-standing dominant party has been buying votes from Indigenous people to remain in power. Lastly, climate change is bringing warmer, wetter weather to islands like Trinidad and Tobago, which still rely heavily on fossil fuels as their main energy source.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Nail-Biter Turkish Election Heads for Round 2 as Majority Eludes Erdogan</h3>
-<sub>By Ben Hubbard and Gulsin Harman</sub>
-<p>After two decades in power, a struggling Recep Tayyip Erdogan has two more weeks to persuade Turkish voters that he should continue as president.  <a href="https://nyti.ms/41AZOtV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, May 14, Central Standard Time</sub></sub>
+<h3>Four Takeaways From Turkey’s Nail-Biting Presidential Election</h3>
+<sub>By Gulsin Harman and Ben Hubbard</sub>
+<p>Recep Tayyip Erdogan is headed for his — and his country’s — first presidential runoff vote. But the first round showed the longtime leader’s continued strength.  <a href="https://nyti.ms/3I9IB3T"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Four Takeaways from Turkey’s Nail-Biting Presidential Election</h3>
-<sub>By Gulsin Harman and Ben Hubbard</sub>
-<p>Recep Tayyip Erdogan appears to be headed for his — and his country’s — first presidential runoff vote. But the first round showed the longtime leader’s continued strength.  <a href="https://nyti.ms/3I9IB3T"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Turkey Election Maps: Why Erdogan Is Headed For a Runoff</h3>
+<sub>By Lauren Leatherby</sub>
+<p>Maps show how every province in Turkey voted so far. Recep Tayyip Erdogan, Turkey’s longtime leader, was headed to a presidential election runoff for the first time.  <a href="https://nyti.ms/3OaYrPr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -86,11 +86,11 @@ There are a lot of interesting developments happening all over the world that I 
 <p>Ukrainians have a lot to say to Russia, and many have chosen to say it in ink on the sides of rockets, mortar shells and even exploding drones.  <a href="https://nyti.ms/3M7XK71"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Abortion Showdown in North Carolina May Hinge on a Single Vote</h3>
-<sub>By Kate Kelly</sub>
-<p>After the G.O.P.-led legislature passed a 12-week ban, the Democratic governor vetoed the bill. The Republicans could override it, if all their members stay unified.  <a href="https://nyti.ms/3MoOY5U"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 15, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Why Some Companies Are Saying ‘Diversity and Belonging’ Instead of ‘Diversity and Inclusion’</h3>
+<sub>By Jennifer Miller</sub>
+<p>The changing terminology reflects new thinking among some consultants, who say traditional D.E.I. strategies haven’t worked out as planned.  <a href="https://nyti.ms/3Wff5zH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, May 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Inside the Last Old-School Seltzer Shop in New York</h3>
@@ -98,17 +98,23 @@ There are a lot of interesting developments happening all over the world that I 
 <p>Brooklyn Seltzer Boys has a century-old carbonator and a museum with a spritzing station. Beat that, LaCroix.  <a href="https://nyti.ms/3nPwxhr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 13, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Abortion Showdown in North Carolina May Hinge on a Single Vote</h3>
+<sub>By Kate Kelly</sub>
+<p>After the G.O.P.-led legislature passed a 12-week ban, the Democratic governor vetoed the bill. The Republicans could override it, if all their members stay unified.  <a href="https://nyti.ms/3MoOY5U"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 15, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>A Crumbling New York Garage Collapsed. Dozens More Have Similar Problems.</h3>
 <sub>By Patrick McGeehan and Asmaa Elkeurti</sub>
 <p>The fatal failure of a building in Lower Manhattan raised questions about the state of parking structures across New York. Records and interviews reveal some answers.  <a href="https://nyti.ms/3BnHcD4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Title 42 Is Gone, but Not the Conditions Driving Migrants to the U.S.</h3>
-<sub>By Miriam Jordan</sub>
-<p>Economic hardship, climate change, political instability and gang violence will continue to spur emigration from many corners of the world.  <a href="https://nyti.ms/3o5LgEL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, May 14, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>E.U. Approves Microsoft’s $69 Billion Deal for Activision</h3>
+<sub>By Adam Satariano</sub>
+<p>The green light follows objections to the blockbuster deal by American and British regulators on the grounds that it would undercut competition.  <a href="https://nyti.ms/44YLgqW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Why Some Countries Find It Hard to Move Away From Fossil Fuels</h3>
@@ -127,12 +133,6 @@ There are a lot of interesting developments happening all over the world that I 
 <sub>By Jack Nicas and María Magdalena Arréllaga</sub>
 <p>In Paraguay, the Colorado Party has held power for seven decades. On Election Day, it rounds up Indigenous people and pays them for their votes.  <a href="https://nyti.ms/3W5Rdye"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Why Some Companies Are Saying ‘Diversity and Belonging’ Instead of ‘Diversity and Inclusion’</h3>
-<sub>By Jennifer Miller</sub>
-<p>The changing terminology reflects new thinking among some consultants, who say traditional D.E.I. strategies haven’t worked out as planned.  <a href="https://nyti.ms/3Wff5zH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, May 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
