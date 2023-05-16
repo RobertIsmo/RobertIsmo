@@ -60,25 +60,25 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, May 16, Central Standard Time</p>
 <p>
-In the US, there have been surprisingly few problems at the border recently despite predictions of chaos from the Biden administration. Companies worldwide are looking for alternative sources of electric car batteries outside of China due to their long-term investments in the field. Some homeowners on England&#39;s eastern coast are dealing with having their houses fall into the North Sea. Microsoft is claiming that their A.I. technology can think like humans and the CEO of OpenAI is speaking to Congress about how to regulate it. There are people promoting restrictions on gender transition care, and couples therapy has seen new breakthroughs with the rise of movements like Black Lives Matter and #MeToo. Research has found that therapy can be beneficial even though it&#39;s hard to determine exactly how for each individual person. In Kentucky and Philadelphia, important elections are happening and in Germany, five men were sentenced for one of the biggest jewel heists in history. Finally, the American ambassador to Britain has been getting calls from officials about a Netflix show that portrays her life. She&#39;s now meeting with the actress who plays her role!</p>
+There are some tensions between the Biden administration and Senator Joe Manchin III, who may be looking to run for president, about a climate law. Putin is having difficulties with the Russian forces&#39; resources and disunity in the ranks amid a potential Ukrainian attack. Tech executives are acknowledging the need for A.I. regulation while Microsoft is claiming that their A.I. system exhibits signs of human reasoning which critics are dubious about. China has been producing electric car batteries for years and now electric vans, due to productionissues, find eager buyers. In San Francisco, there&#39;s a proposed reparations plan to bring back Black residents while certain Republicans believe gender transition care should be restricted based on the stories from a group of trans people no longer identifying as such who disagree with medical experts. Also, the Indian Child Welfare Act of 1978 enabled Native children to remain in tribal communities but that may change when the Supreme Court reviews it this spring. Lastly, Orna Guralnik, a couples therapist has found that her patients have been having breakthroughs in their relationships thanks to the messages behind Black Lives Matter and #MeToo movements.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>After Biden Predicted Chaos at the Border, a Quieter Than Expected Weekend</h3>
-<sub>By Michael D. Shear</sub>
-<p>The days after pandemic-era immigration restrictions were lifted showed the ability of federal authorities, local governments and private nonprofits to temporarily triage the situation at the border.  <a href="https://nyti.ms/3W91gma"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Manchin Clashes With Biden Administration Over Climate Law</h3>
+<sub>By Luke Broadwater</sub>
+<p>Senator Joe Manchin III, the conservative West Virginia Democrat who faces re-election next year and is flirting with a presidential run, has threatened to repeal the measure he helped write.  <a href="https://nyti.ms/3WgOemD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Can the World Make an Electric Car Battery Without China?</h3>
-<sub>By Agnes Chang and Keith Bradsher</sub>
-<p>From mines to refineries and factories, China began investing decades ago. Today, most of your electric car batteries are made in China and that’s unlikely to change soon.  <a href="https://nyti.ms/3OdXaXN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As Ukrainian Attack Looms, Putin Faces Setbacks and Disunity in Russian Forces</h3>
+<sub>By Paul Sonne and Anton Troianovski</sub>
+<p>The problems that have hindered Russia’s 15-month war are still festering: stretched resources and disunity in the ranks. Still, Mr. Putin’s resolve augurs a willingness to prosecute a long war.  <a href="https://nyti.ms/3o6BUZz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-realestate-blue" alt="">
-<h3>If Your House Was Falling Off a Cliff, Would You Leave?</h3>
-<sub>By Rachel Chaundler</sub>
-<p>Homeowners along the eastern coast of England are watching the North Sea swallow their communities. Help is on the way — but only for some.  <a href="https://nyti.ms/3W1tMWT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 15, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>OpenAI’s Sam Altman Urges A.I. Regulation in Senate Hearing</h3>
+<sub>By Cecilia Kang</sub>
+<p>The tech executive and lawmakers agreed that new A.I. systems must be regulated. Just how that would happen is not yet clear.  <a href="https://nyti.ms/3BOSl01"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Microsoft Says New A.I. Shows Signs of Human Reasoning</h3>
@@ -87,9 +87,33 @@ In the US, there have been surprisingly few problems at the border recently desp
 <sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The C.E.O. of OpenAI Heads to Congress to Discuss Rules for A.I.</h3>
-<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
-<p>Sam Altman, who leads ChatGPT’s parent company, is expected to call for some regulation of artificial intelligence as Washington weighs its next steps.  <a href="https://nyti.ms/3W9E5YW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Can the World Make an Electric Car Battery Without China?</h3>
+<sub>By Agnes Chang and Keith Bradsher</sub>
+<p>From mines to refineries and factories, China began investing decades ago. Today, most of your electric car batteries are made in China and that’s unlikely to change soon.  <a href="https://nyti.ms/3OdXaXN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Electric Vans, Delayed by Production Problems, Find Eager Buyers</h3>
+<sub>By Neal E. Boudette</sub>
+<p>Passenger cars dominate the electric vehicle market, but light delivery trucks could benefit from the cost savings and range E.V.s offer.  <a href="https://nyti.ms/3BwxYEE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-realestate-blue" alt="">
+<h3>If Your House Were Falling Off a Cliff, Would You Leave?</h3>
+<sub>By Rachel Chaundler</sub>
+<p>Homeowners along the eastern coast of England are watching the North Sea swallow their communities. Help is on the way — but only for some.  <a href="https://nyti.ms/3W1tMWT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Silicon Valley Bank’s Ex-C.E.O. Is ‘Truly Sorry’ but Deflects Blame</h3>
+<sub>By Rob Copeland</sub>
+<p>Senators derided Gregory Becker at a hearing about the failure of his bank. “It sounds a lot like ‘my dog ate my homework’,” one said.  <a href="https://nyti.ms/453keP9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Can Reparations Bring Black Residents Back to San Francisco?</h3>
+<sub>By Tim Arango</sub>
+<p>San Francisco has proposed the nation’s most ambitious reparations plan, including $5 million cash payments and housing aid that aims to bring people back.  <a href="https://nyti.ms/432JTpc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -98,41 +122,17 @@ In the US, there have been surprisingly few problems at the border recently desp
 <p>In the campaign to ban gender therapies for minors, Republicans have amplified a group of activists who no longer identify as transgender, overriding objections from transgender people and medical experts.  <a href="https://nyti.ms/3OdXndx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>The Brutal Past and Uncertain Future of Native Adoptions</h3>
+<sub>By Gabrielle Glaser</sub>
+<p>The Indian Child Welfare Act of 1978 sought to keep Native children in tribal communities. The Supreme Court may change that this spring.  <a href="https://nyti.ms/456KPL3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
 <h3>I’m a Couples Therapist. Something New Is Happening in Relationships.</h3>
 <sub>By Orna Guralnik</sub>
 <p>For more and more of Orna Guralnik’s patients, the ideas behind Black Lives Matter and #MeToo are leading to breakthroughs at home.  <a href="https://nyti.ms/451qZku"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Does Therapy Really Work? Let’s Unpack That.</h3>
-<sub>By Susan Dominus</sub>
-<p>Research shows that counseling delivers great benefits to many people. But it’s hard to say exactly what that means for you.  <a href="https://nyti.ms/3IiHQFF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Pence Looks Toward 2024 Run, Using Reagan’s Playbook, Not Trump’s</h3>
-<sub>By Jonathan Swan, Maggie Haberman and Shane Goldmacher</sub>
-<p>A pro-Pence super PAC is being formed, and so is a plan to barnstorm Iowa. “This campaign is going to reintroduce Mike Pence to the country as his own man,” a G.O.P. operative said.  <a href="https://nyti.ms/41Fl3e9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Kentucky and Philadelphia Hold Crucial Elections: What to Watch</h3>
-<sub>By Nick Corasaniti and Katie Glueck</sub>
-<p>In Kentucky, Republicans are choosing a nominee to take on the popular Democratic governor. In Philadelphia, Democrats are knotted in a crowded primary to lead the influential liberal city.  <a href="https://nyti.ms/41DRIkb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>German Court Convicts Five Men for Green Vault Jewel Heist</h3>
-<sub>By Christopher F. Schuetze</sub>
-<p>The trial brought to light the extraordinary story of how members of a notorious crime family broke into one of the most secure museums in Germany.  <a href="https://nyti.ms/42EE0Pv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>At the Real Embassy, Netflix’s ‘Diplomat’ Draws a Diplomatic Response</h3>
-<sub>By Mark Landler</sub>
-<p>America’s ambassador to Britain says several top officials have called her to discuss the hit show, implausibilities and all. Now she’s meeting with Keri Russell, who plays her role.  <a href="https://nyti.ms/42UBCDY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 15, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
