@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, May 15, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. Ukrainian President Zelensky recently took a tour of Europe and received billions of dollars in military aid. In Russia, a former US Embassy employee has been arrested and charged with conspiracy. In the US, DOJ inspector general Durham found fault with the FBI&#39;s inquiry into the Russia investigation, and a Georgia prosecutor dismissed a motion filed by Donald Trump&#39;s team accusing her of bias - dismissing it. Meanwhile, President Biden is trying to bridge the &#39;diploma divide&#39; by making plans for better-paid jobs that don&#39;t require college degrees. On another note, coastal cities are becoming too expensive for even low-wage workers and college graduates are leaving, raising privacy concerns about the ability to glean information about people from environmental DNA research. On top of that, Turkish president Erdogan&#39;s grip on power is being loosened but not broken while states like Virginia are seeing attacks to congressman offices with bats. Finally, President Biden is expressing optimism about negotiating a debt limit default deal with congressional leaders at a face-to-face meeting tomorrow. </p>
+It looks like international politics are heating up right now, as the presidents of Ukraine and the United States are facing off. European leaders are offering Ukraine more military aid, while a former US embassy employee is being held in Moscow by Russia. Here in the US, special counsel Robert Mueller&#39;s investigation has recently been in the news again. Meanwhile, Vice President Pence appears to be angling for a 2024 presidential run, while President Biden is proposing plans to create jobs that don&#39;t require college degrees. On a lighter note, there was a recent attack at congressman Gerald Connolly&#39;s office here in Virginia, while the Tony Awards will be going ahead this year after striking writers reach an agreement.  And lastly, DNA can now be extracted from just thin air. While environmental DNA research has helped conservation efforts, privacy experts are concerned about its potential to reveal intimate personal information about individuals and population groups.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>In European Tour, Zelensky Reaps Billions More in Promised Military Aid</h3>
@@ -87,15 +87,21 @@ There is a lot happening in the world right now. Ukrainian President Zelensky re
 <sub><sub>Monday, May 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>No Degree? No Problem. Biden Tries to Bridge the ‘Diploma Divide.’</h3>
-<sub>By Zolan Kanno-Youngs</sub>
-<p>President Biden is trying to appeal to working-class voters by emphasizing his plans to create well-paid jobs that do not require a college degree.  <a href="https://nyti.ms/42Uogre"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Pence Looks Toward 2024 Run, Using Reagan’s Playbook, Not Trump’s</h3>
+<sub>By Jonathan Swan, Maggie Haberman and Shane Goldmacher</sub>
+<p>A pro-Pence super PAC is being formed, and so is a plan to barnstorm Iowa. “This campaign is going to reintroduce Mike Pence to the country as his own man,” a G.O.P. operative said.  <a href="https://nyti.ms/41Fl3e9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>Coastal Cities Priced Out Low-Wage Workers. Now College Graduates Are Leaving, Too.</h3>
-<sub>By Emily Badger, Robert Gebeloff and Josh Katz</sub>
-<p>Educated workers are increasingly migrating away from the country’s most expensive major metros — and have been since before the pandemic.  <a href="https://nyti.ms/3M2qcHf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>DeSantis Signs Bill Defunding Diversity Spending in State Schools</h3>
+<sub>By Nicholas Nehamas</sub>
+<p>The legislation is part of a broader Republican effort across the country to target D.E.I. programs.  <a href="https://nyti.ms/3o7b2Zp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-theater-blue" alt="">
+<h3>Tony Awards Broadcast Can Proceed After Striking Writers’ Union Agrees</h3>
+<sub>By Michael Paulson and John Koblin</sub>
+<p>The Tony Awards, a key marketing opportunity for Broadway, can go ahead in an altered form after the striking screenwriters’ union said it would not picket this year’s broadcast.  <a href="https://nyti.ms/3o137wN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
@@ -105,15 +111,15 @@ There is a lot happening in the world right now. Ukrainian President Zelensky re
 <sub><sub>Monday, May 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis Signs Bill Defunding Diversity Spending in State Schools</h3>
-<sub>By Nicholas Nehamas</sub>
-<p>The legislation is part of a broader Republican effort across the country to target D.E.I. programs.  <a href="https://nyti.ms/3o7b2Zp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>No Degree? No Problem. Biden Tries to Bridge the ‘Diploma Divide.’</h3>
+<sub>By Zolan Kanno-Youngs</sub>
+<p>President Biden is trying to appeal to working-class voters by emphasizing his plans to create well-paid jobs that do not require a college degree.  <a href="https://nyti.ms/42Uogre"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Erdogan’s Grip on Power Is Loosened but Not Broken, Vote Shows</h3>
-<sub>By Ben Hubbard</sub>
-<p>Despite a struggling economy, the disastrous earthquakes in February and Turkey’s drift toward one-man rule, President Recep Tayyip Erdogan was in the lead ahead of a runoff.  <a href="https://nyti.ms/42WOQzT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>Coastal Cities Priced Out Low-Wage Workers. Now College Graduates Are Leaving, Too.</h3>
+<sub>By Emily Badger, Robert Gebeloff and Josh Katz</sub>
+<p>Educated workers are increasingly migrating away from the country’s most expensive major metros — and have been since before the pandemic.  <a href="https://nyti.ms/3M2qcHf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -126,12 +132,6 @@ There is a lot happening in the world right now. Ukrainian President Zelensky re
 <h3>Staff Members Attacked With Bat at Congressman’s Virginia Office</h3>
 <sub>By Luke Broadwater, Remy Tumin and Stephanie Lai</sub>
 <p>Two people were hospitalized after the attack at the Fairfax office of Representative Gerald E. Connolly, a Democrat. A man was in custody, the police said.  <a href="https://nyti.ms/3M4xxq0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Expresses Optimism on Debt Limit, but a Deal Remains Elusive</h3>
-<sub>By Zolan Kanno-Youngs and Catie Edmondson</sub>
-<p>President Biden and congressional leaders will resume face-to-face talks on Tuesday to raise the debt limit and avoid a default.  <a href="https://nyti.ms/42XUtxP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 15, Central Standard Time</sub></sub>
 <hr/>
 </ol>
