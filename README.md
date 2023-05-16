@@ -60,42 +60,42 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, May 15, Central Standard Time</p>
 <p>
-There are a lot of things going on in the world right now. The coastal cities in the US are becoming too expensive for low-wage workers to stay, so even college graduates are beginning to migrate away. In other news, after four years of investigating, the Trump-era special counsel has released a final report denouncing the Russia investigation. Also, a former US embassy employee is being held in Moscow and charged with conspiracy. Moving on to turkey, President Recep Tayyip Erdogan is likely headed for his first ever presidential runoff vote due to a struggling economy and earthquakes. There&#39;s also environmental DNA research that is being conducted by scientists, but it raises some privacy concerns as it can be used to glean information about Human populations and individuals. Lastly, President Biden and congressional leaders will be resuming talks in order to avoid the US defaulting on payments due to an expiring debt limit.</p>
+There is a lot happening in the world right now. Ukrainian President Zelensky recently took a tour of Europe and received billions of dollars in military aid. In Russia, a former US Embassy employee has been arrested and charged with conspiracy. In the US, DOJ inspector general Durham found fault with the FBI&#39;s inquiry into the Russia investigation, and a Georgia prosecutor dismissed a motion filed by Donald Trump&#39;s team accusing her of bias - dismissing it. Meanwhile, President Biden is trying to bridge the &#39;diploma divide&#39; by making plans for better-paid jobs that don&#39;t require college degrees. On another note, coastal cities are becoming too expensive for even low-wage workers and college graduates are leaving, raising privacy concerns about the ability to glean information about people from environmental DNA research. On top of that, Turkish president Erdogan&#39;s grip on power is being loosened but not broken while states like Virginia are seeing attacks to congressman offices with bats. Finally, President Biden is expressing optimism about negotiating a debt limit default deal with congressional leaders at a face-to-face meeting tomorrow. </p>
 <ol>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>Coastal Cities Priced Out Low-Wage Workers. Now College Graduates Are Leaving, Too.</h3>
-<sub>By Emily Badger, Robert Gebeloff and Josh Katz</sub>
-<p>Educated workers are increasingly migrating away from the country’s most expensive major metros — and have been since before the pandemic.  <a href="https://nyti.ms/3M2qcHf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Final Report, Trump-Era Special Counsel Denounces Russia Investigation</h3>
-<sub>By Charlie Savage, Glenn Thrush, Adam Goldman and Katie Benner</sub>
-<p>After four years of investigating the Russia inquiry, John Durham turned in a report that was made public on Monday.  <a href="https://nyti.ms/3pG6ZUj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In European Tour, Zelensky Reaps Billions More in Promised Military Aid</h3>
+<sub>By Mark Landler</sub>
+<p>His trips to Britain, Germany, France and Italy demonstrated the shifting political landscape when it comes to supporting Kyiv, as concerns grow about U.S. backing as the presidential election looms.  <a href="https://nyti.ms/41B01gB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>A former U.S. Embassy employee is being held in Moscow, according to Russia’s state news agency.</h3>
 <sub>By Daniel Victor</sub>
-<p>The State Department had no immediate comment on the report that an American, identified as Robert Shonov, had been arrested and charged with conspiracy.  <a href="https://nyti.ms/3OeJY5i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The State Department had no immediate comment on the report that the man, identified as Robert Shonov, had been arrested and charged with conspiracy.  <a href="https://nyti.ms/42Cc5zn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Erdogan’s Grip on Power Is Loosened but Not Broken, Vote Shows</h3>
-<sub>By Ben Hubbard</sub>
-<p>Despite a struggling economy, the disastrous earthquakes in February and Turkey’s drift toward one-man rule, President Recep Tayyip Erdogan was in the lead ahead of a runoff.  <a href="https://nyti.ms/42WOQzT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Durham Finds Fault With F.B.I. Over Russia Inquiry</h3>
+<sub>By Charlie Savage, Glenn Thrush, Adam Goldman and Katie Benner</sub>
+<p>The special counsel’s final report nevertheless did not produce blockbuster revelations of politically motivated misconduct, as Donald J. Trump and his allies had suggested it would.  <a href="https://nyti.ms/3pG6ZUj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Four Takeaways From Turkey’s Nail-Biting Presidential Election</h3>
-<sub>By Gulsin Harman and Ben Hubbard</sub>
-<p>Recep Tayyip Erdogan is headed for his — and his country’s — first presidential runoff vote. But the first round showed the longtime leader’s continued strength.  <a href="https://nyti.ms/3I9IB3T"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Georgia Prosecutor Rebuts Trump’s Effort to Scuttle Elections Case</h3>
+<sub>By Richard Fausset and Danny Hakim</sub>
+<p>The prosecutor, Fani Willis, responded dismissively to a motion filed by Donald Trump’s lawyers that accused her of bias and sought to have her disqualified.  <a href="https://nyti.ms/3MeEqFk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Turkey Election Maps: Why Erdogan Is Headed For a Runoff</h3>
-<sub>By Lauren Leatherby</sub>
-<p>Maps show how every province in Turkey voted so far. Recep Tayyip Erdogan, Turkey’s longtime leader, was headed to a presidential election runoff for the first time.  <a href="https://nyti.ms/3OaYrPr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>No Degree? No Problem. Biden Tries to Bridge the ‘Diploma Divide.’</h3>
+<sub>By Zolan Kanno-Youngs</sub>
+<p>President Biden is trying to appeal to working-class voters by emphasizing his plans to create well-paid jobs that do not require a college degree.  <a href="https://nyti.ms/42Uogre"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>Coastal Cities Priced Out Low-Wage Workers. Now College Graduates Are Leaving, Too.</h3>
+<sub>By Emily Badger, Robert Gebeloff and Josh Katz</sub>
+<p>Educated workers are increasingly migrating away from the country’s most expensive major metros — and have been since before the pandemic.  <a href="https://nyti.ms/3M2qcHf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
@@ -104,11 +104,17 @@ There are a lot of things going on in the world right now. The coastal cities in
 <p>Environmental DNA research has aided conservation, but scientists say its ability to glean information about human populations and individuals poses dangers.  <a href="https://nyti.ms/3BrrZAN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Why Some Companies Are Saying ‘Diversity and Belonging’ Instead of ‘Diversity and Inclusion’</h3>
-<sub>By Jennifer Miller</sub>
-<p>The changing terminology reflects new thinking among some consultants, who say traditional D.E.I. strategies haven’t worked out as planned.  <a href="https://nyti.ms/3Wff5zH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, May 13, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>DeSantis Signs Bill Defunding Diversity Spending in State Schools</h3>
+<sub>By Nicholas Nehamas</sub>
+<p>The legislation is part of a broader Republican effort across the country to target D.E.I. programs.  <a href="https://nyti.ms/3o7b2Zp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Erdogan’s Grip on Power Is Loosened but Not Broken, Vote Shows</h3>
+<sub>By Ben Hubbard</sub>
+<p>Despite a struggling economy, the disastrous earthquakes in February and Turkey’s drift toward one-man rule, President Recep Tayyip Erdogan was in the lead ahead of a runoff.  <a href="https://nyti.ms/42WOQzT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Inside the Last Old-School Seltzer Shop in New York</h3>
@@ -118,20 +124,14 @@ There are a lot of things going on in the world right now. The coastal cities in
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Staff Members Attacked With Bat at Congressman’s Virginia Office</h3>
-<sub>By Remy Tumin</sub>
+<sub>By Luke Broadwater, Remy Tumin and Stephanie Lai</sub>
 <p>Two people were hospitalized after the attack at the Fairfax office of Representative Gerald E. Connolly, a Democrat. A man was in custody, the police said.  <a href="https://nyti.ms/3M4xxq0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Expresses Optimism Over Debt Limit Deal, but an Agreement Remains Elusive</h3>
-<sub>By Zolan Kanno-Youngs</sub>
-<p>President Biden and congressional leaders will resume face-to-face talks on Tuesday to raise the debt limit and avoid default.  <a href="https://nyti.ms/42XUtxP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Yellen Reiterates That the U.S. Could Run Out of Cash by June 1</h3>
-<sub>By Alan Rappeport</sub>
-<p>The latest warning to Congress came before another meeting on Tuesday between President Biden and Speaker Kevin McCarthy to resolve the debt ceiling crisis.  <a href="https://nyti.ms/42YmjtP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Biden Expresses Optimism on Debt Limit, but a Deal Remains Elusive</h3>
+<sub>By Zolan Kanno-Youngs and Catie Edmondson</sub>
+<p>President Biden and congressional leaders will resume face-to-face talks on Tuesday to raise the debt limit and avoid a default.  <a href="https://nyti.ms/42XUtxP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 15, Central Standard Time</sub></sub>
 <hr/>
 </ol>
