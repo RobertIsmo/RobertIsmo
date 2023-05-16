@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, May 16, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now! US politics are a big focus - President Biden predicted chaos at the border, but instead it turned out to be much quieter than expected. The Treasury Department has warned that the government may run out of money to pay bills by June 1, and VP Mike Pence is possibly preparing for a 2024 run using more of Ronald Reagan&#39;s playbook. Businesses are also looking into alternatives to Chinese manufacturers, particularly for electric car batteries. Real estate news takes us to England where entire communities are being flooded by the coastline and homeowners have to grapple with difficult decisions about leaving their homes behind. In technology, Microsoft is claiming to have developed an AI that exhibits signs of human reasoning. Lastly, in relationships, couples therapists are seeing breakthroughs as ideas about BLM and #MeToo have been incorporated into therapy. Finally, in international news, Turkey&#39;s President Erdogan appears likely to remain in power despite recent natural disasters and their shift towards one-man rule. Meanwhile, Netflix&#39;s hit show &quot;The Diplomat&quot; has thrilled many top officials (and Britain&#39;s ambassador) enough to get them calling up the real-life counterpart of the main character for conversations about plot implausibilities!</p>
+In the US, there have been surprisingly few problems at the border recently despite predictions of chaos from the Biden administration. Companies worldwide are looking for alternative sources of electric car batteries outside of China due to their long-term investments in the field. Some homeowners on England&#39;s eastern coast are dealing with having their houses fall into the North Sea. Microsoft is claiming that their A.I. technology can think like humans and the CEO of OpenAI is speaking to Congress about how to regulate it. There are people promoting restrictions on gender transition care, and couples therapy has seen new breakthroughs with the rise of movements like Black Lives Matter and #MeToo. Research has found that therapy can be beneficial even though it&#39;s hard to determine exactly how for each individual person. In Kentucky and Philadelphia, important elections are happening and in Germany, five men were sentenced for one of the biggest jewel heists in history. Finally, the American ambassador to Britain has been getting calls from officials about a Netflix show that portrays her life. She&#39;s now meeting with the actress who plays her role!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>After Biden Predicted Chaos at the Border, a Quieter Than Expected Weekend</h3>
@@ -80,16 +80,16 @@ There is a lot going on in the world right now! US politics are a big focus - Pr
 <p>Homeowners along the eastern coast of England are watching the North Sea swallow their communities. Help is on the way — but only for some.  <a href="https://nyti.ms/3W1tMWT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden and McCarthy Set for More Talks as Debt Limit Deadline Nears</h3>
-<sub>By Zolan Kanno-Youngs and Catie Edmondson</sub>
-<p>Tuesday’s negotiations at the White House come a day after the Treasury Department reiterated that the government could run out of money to pay its bills by June 1.  <a href="https://nyti.ms/3O8ZuQ0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Microsoft Says New A.I. Shows Signs of Human Reasoning</h3>
 <sub>By Cade Metz</sub>
 <p>A provocative paper from researchers at Microsoft claims A.I. technology shows the ability to understand the way people do. Critics say those scientists are kidding themselves.  <a href="https://nyti.ms/3O7NT3I"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>The C.E.O. of OpenAI Heads to Congress to Discuss Rules for A.I.</h3>
+<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
+<p>Sam Altman, who leads ChatGPT’s parent company, is expected to call for some regulation of artificial intelligence as Washington weighs its next steps.  <a href="https://nyti.ms/3W9E5YW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -122,11 +122,11 @@ There is a lot going on in the world right now! US politics are a big focus - Pr
 <p>In Kentucky, Republicans are choosing a nominee to take on the popular Democratic governor. In Philadelphia, Democrats are knotted in a crowded primary to lead the influential liberal city.  <a href="https://nyti.ms/41DRIkb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Erdogan’s Grip on Power Is Loosened but Not Broken, Vote Shows</h3>
-<sub>By Ben Hubbard</sub>
-<p>Despite a struggling economy, the disastrous earthquakes in February and Turkey’s drift toward one-man rule, President Recep Tayyip Erdogan was in the lead ahead of a runoff.  <a href="https://nyti.ms/42WOQzT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 15, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>German Court Convicts Five Men for Green Vault Jewel Heist</h3>
+<sub>By Christopher F. Schuetze</sub>
+<p>The trial brought to light the extraordinary story of how members of a notorious crime family broke into one of the most secure museums in Germany.  <a href="https://nyti.ms/42EE0Pv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>At the Real Embassy, Netflix’s ‘Diplomat’ Draws a Diplomatic Response</h3>
