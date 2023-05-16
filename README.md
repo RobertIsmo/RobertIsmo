@@ -60,31 +60,55 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, May 16, Central Standard Time</p>
 <p>
-There seems to be a lot happening in the world right now. Ukrainian President Zelensky is receiving billions in military aid from Europe as concerns grow about the lack of US backing for him prior to the presidential election. A former US Embassy employee has been arrested and charged with conspiracy in Moscow, and a special counsel investigation into Russia has found fault with the FBI. In other news, the US Vice President Pence is looking toward a 2024 run using Ronald Reagan&#39;s playbook rather than Donald Trump&#39;s strategies, while Republican efforts across America are focused on defunding diversity programs in state schools. On a lighter note, Broadway will be able to proceed with their Tony Awards show, although not in its usual format, and US President Biden is appealing to working-class Americans by proposing jobs that don&#39;t require college degrees. Meanwhile, coastal cities have become so expensive that even well-educated workers are leaving before the pandemic. In New York, there&#39;s still one old-school seltzer shop left, and just recently an attack at Virginia Congressman Connolly&#39;s office left two people hospitalized and a man in custody. To make matters even worse, for the first time ever the United Nations commemorated the displacement of Palestinians when Israel was created – this did not go down well with the Israeli ambassador to the UN.</p>
+There is a lot going on in the world right now! US politics are a big focus - President Biden predicted chaos at the border, but instead it turned out to be much quieter than expected. The Treasury Department has warned that the government may run out of money to pay bills by June 1, and VP Mike Pence is possibly preparing for a 2024 run using more of Ronald Reagan&#39;s playbook. Businesses are also looking into alternatives to Chinese manufacturers, particularly for electric car batteries. Real estate news takes us to England where entire communities are being flooded by the coastline and homeowners have to grapple with difficult decisions about leaving their homes behind. In technology, Microsoft is claiming to have developed an AI that exhibits signs of human reasoning. Lastly, in relationships, couples therapists are seeing breakthroughs as ideas about BLM and #MeToo have been incorporated into therapy. Finally, in international news, Turkey&#39;s President Erdogan appears likely to remain in power despite recent natural disasters and their shift towards one-man rule. Meanwhile, Netflix&#39;s hit show &quot;The Diplomat&quot; has thrilled many top officials (and Britain&#39;s ambassador) enough to get them calling up the real-life counterpart of the main character for conversations about plot implausibilities!</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In European Tour, Zelensky Reaps Billions More in Promised Military Aid</h3>
-<sub>By Mark Landler</sub>
-<p>His trips to Britain, Germany, France and Italy demonstrated the shifting political landscape when it comes to supporting Kyiv, as concerns grow about U.S. backing as the presidential election looms.  <a href="https://nyti.ms/41B01gB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 15, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>After Biden Predicted Chaos at the Border, a Quieter Than Expected Weekend</h3>
+<sub>By Michael D. Shear</sub>
+<p>The days after pandemic-era immigration restrictions were lifted showed the ability of federal authorities, local governments and private nonprofits to temporarily triage the situation at the border.  <a href="https://nyti.ms/3W91gma"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A former U.S. Embassy employee is being held in Moscow, according to Russia’s state news agency.</h3>
-<sub>By Daniel Victor</sub>
-<p>The State Department had no immediate comment on the report that the man, identified as Robert Shonov, had been arrested and charged with conspiracy.  <a href="https://nyti.ms/42Cc5zn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Can the World Make an Electric Car Battery Without China?</h3>
+<sub>By Agnes Chang and Keith Bradsher</sub>
+<p>From mines to refineries and factories, China began investing decades ago. Today, most of your electric car batteries are made in China and that’s unlikely to change soon.  <a href="https://nyti.ms/3OdXaXN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-realestate-blue" alt="">
+<h3>If Your House Was Falling Off a Cliff, Would You Leave?</h3>
+<sub>By Rachel Chaundler</sub>
+<p>Homeowners along the eastern coast of England are watching the North Sea swallow their communities. Help is on the way — but only for some.  <a href="https://nyti.ms/3W1tMWT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Durham Finds Fault With F.B.I. Over Russia Inquiry</h3>
-<sub>By Charlie Savage, Glenn Thrush, Adam Goldman and Katie Benner</sub>
-<p>The special counsel’s final report nevertheless did not produce blockbuster revelations of politically motivated misconduct, as Donald J. Trump and his allies had suggested it would.  <a href="https://nyti.ms/3pG6ZUj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 15, Central Standard Time</sub></sub>
+<h3>Biden and McCarthy Set for More Talks as Debt Limit Deadline Nears</h3>
+<sub>By Zolan Kanno-Youngs and Catie Edmondson</sub>
+<p>Tuesday’s negotiations at the White House come a day after the Treasury Department reiterated that the government could run out of money to pay its bills by June 1.  <a href="https://nyti.ms/3O8ZuQ0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Microsoft Says New A.I. Shows Signs of Human Reasoning</h3>
+<sub>By Cade Metz</sub>
+<p>A provocative paper from researchers at Microsoft claims A.I. technology shows the ability to understand the way people do. Critics say those scientists are kidding themselves.  <a href="https://nyti.ms/3O7NT3I"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Georgia Prosecutor Rebuts Trump’s Effort to Scuttle Elections Case</h3>
-<sub>By Richard Fausset and Danny Hakim</sub>
-<p>The prosecutor, Fani Willis, responded dismissively to a motion filed by Donald Trump’s lawyers that accused her of bias and sought to have her disqualified.  <a href="https://nyti.ms/3MeEqFk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 15, Central Standard Time</sub></sub>
+<h3>How a Few Stories of Regret Fuel the Push to Restrict Gender Transition Care</h3>
+<sub>By Maggie Astor</sub>
+<p>In the campaign to ban gender therapies for minors, Republicans have amplified a group of activists who no longer identify as transgender, overriding objections from transgender people and medical experts.  <a href="https://nyti.ms/3OdXndx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>I’m a Couples Therapist. Something New Is Happening in Relationships.</h3>
+<sub>By Orna Guralnik</sub>
+<p>For more and more of Orna Guralnik’s patients, the ideas behind Black Lives Matter and #MeToo are leading to breakthroughs at home.  <a href="https://nyti.ms/451qZku"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Does Therapy Really Work? Let’s Unpack That.</h3>
+<sub>By Susan Dominus</sub>
+<p>Research shows that counseling delivers great benefits to many people. But it’s hard to say exactly what that means for you.  <a href="https://nyti.ms/3IiHQFF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Pence Looks Toward 2024 Run, Using Reagan’s Playbook, Not Trump’s</h3>
@@ -93,45 +117,21 @@ There seems to be a lot happening in the world right now. Ukrainian President Ze
 <sub><sub>Monday, May 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis Signs Bill Defunding Diversity Spending in State Schools</h3>
-<sub>By Nicholas Nehamas</sub>
-<p>The legislation is part of a broader Republican effort across the country to target D.E.I. programs.  <a href="https://nyti.ms/3o7b2Zp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 15, Central Standard Time</sub></sub>
+<h3>Kentucky and Philadelphia Hold Crucial Elections: What to Watch</h3>
+<sub>By Nick Corasaniti and Katie Glueck</sub>
+<p>In Kentucky, Republicans are choosing a nominee to take on the popular Democratic governor. In Philadelphia, Democrats are knotted in a crowded primary to lead the influential liberal city.  <a href="https://nyti.ms/41DRIkb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-theater-blue" alt="">
-<h3>Tony Awards Broadcast Can Proceed After Striking Writers’ Union Agrees</h3>
-<sub>By Michael Paulson and John Koblin</sub>
-<p>The Tony Awards, a key marketing opportunity for Broadway, can go ahead in an altered form after the striking screenwriters’ union said it would not picket this year’s broadcast.  <a href="https://nyti.ms/3o137wN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>No Degree? No Problem. Biden Tries to Bridge the ‘Diploma Divide.’</h3>
-<sub>By Zolan Kanno-Youngs</sub>
-<p>President Biden is trying to appeal to working-class voters by emphasizing his plans to create well-paid jobs that do not require a college degree.  <a href="https://nyti.ms/42Uogre"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>Coastal Cities Priced Out Low-Wage Workers. Now College Graduates Are Leaving, Too.</h3>
-<sub>By Emily Badger, Robert Gebeloff and Josh Katz</sub>
-<p>Educated workers are increasingly migrating away from the country’s most expensive major metros — and have been since before the pandemic.  <a href="https://nyti.ms/3M2qcHf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Inside the Last Old-School Seltzer Shop in New York</h3>
-<sub>By Corey Kilgannon and Juan Arredondo</sub>
-<p>Brooklyn Seltzer Boys has a century-old carbonator and a museum with a spritzing station. Beat that, LaCroix.  <a href="https://nyti.ms/3nPwxhr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, May 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Staff Members Attacked With Bat at Congressman’s Virginia Office</h3>
-<sub>By Luke Broadwater, Remy Tumin and Stephanie Lai</sub>
-<p>Two people were hospitalized after the attack at the Fairfax office of Representative Gerald E. Connolly, a Democrat. A man was in custody, the police said.  <a href="https://nyti.ms/3M4xxq0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Erdogan’s Grip on Power Is Loosened but Not Broken, Vote Shows</h3>
+<sub>By Ben Hubbard</sub>
+<p>Despite a struggling economy, the disastrous earthquakes in February and Turkey’s drift toward one-man rule, President Recep Tayyip Erdogan was in the lead ahead of a runoff.  <a href="https://nyti.ms/42WOQzT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In First, Palestinian Displacement Commemorated at United Nations</h3>
-<sub>By Farnaz Fassihi and Hiba Yazbek</sub>
-<p>The event, marking the displacement of hundreds of thousands of Palestinians when Israel was created, was condemned by the Israeli ambassador to the world body.  <a href="https://nyti.ms/3W7TCsn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>At the Real Embassy, Netflix’s ‘Diplomat’ Draws a Diplomatic Response</h3>
+<sub>By Mark Landler</sub>
+<p>America’s ambassador to Britain says several top officials have called her to discuss the hit show, implausibilities and all. Now she’s meeting with Keri Russell, who plays her role.  <a href="https://nyti.ms/42UBCDY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 15, Central Standard Time</sub></sub>
 <hr/>
 </ol>
