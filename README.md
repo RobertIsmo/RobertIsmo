@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Monday, May 15, Central Standard Time</p>
+<p>It is Tuesday, May 16, Central Standard Time</p>
 <p>
-It looks like international politics are heating up right now, as the presidents of Ukraine and the United States are facing off. European leaders are offering Ukraine more military aid, while a former US embassy employee is being held in Moscow by Russia. Here in the US, special counsel Robert Mueller&#39;s investigation has recently been in the news again. Meanwhile, Vice President Pence appears to be angling for a 2024 presidential run, while President Biden is proposing plans to create jobs that don&#39;t require college degrees. On a lighter note, there was a recent attack at congressman Gerald Connolly&#39;s office here in Virginia, while the Tony Awards will be going ahead this year after striking writers reach an agreement.  And lastly, DNA can now be extracted from just thin air. While environmental DNA research has helped conservation efforts, privacy experts are concerned about its potential to reveal intimate personal information about individuals and population groups.</p>
+There&#39;s a lot going on in the world right now. President Zelensky of Ukraine just had a trip to Europe, where he gained more financial military aid from different governments. At the same time, someone who used to work for the U.S. Embassy is currently being detained in Moscow by Russia&#39;s state news agency, although we don&#39;t have any official comment on the matter yet. On the other side of the world, Georgia has a prosecutor recently rebutting an effort by Donald Trump to stop their elecitons case. Mike Pence has also been making headway in planning a possible presidential run in 2024, using Reagan&#39;s playbook and not Trump&#39;s. Other news includes Florida having defunded diversity spending in state schools and the Tony Awards being allowed to proceed with no more issues from striking writers. President Biden is also trying to bridge lower-wage opportunities for those without college degrees and there was an attack at a Congressman&#39;s office in Virginia with two people being sent to the hospital and one man taken into custody for this attack. Lastly, there was an event held at the United Nations commemorating Palestinian displacement when Israel was established that was heavily criticized by Israel&#39;s ambassador.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>In European Tour, Zelensky Reaps Billions More in Promised Military Aid</h3>
@@ -104,12 +104,6 @@ It looks like international politics are heating up right now, as the presidents
 <p>The Tony Awards, a key marketing opportunity for Broadway, can go ahead in an altered form after the striking screenwriters’ union said it would not picket this year’s broadcast.  <a href="https://nyti.ms/3o137wN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>Your DNA Can Now Be Pulled From Thin Air. Privacy Experts Are Worried.</h3>
-<sub>By Elizabeth Anne Brown</sub>
-<p>Environmental DNA research has aided conservation, but scientists say its ability to glean information about human populations and individuals poses dangers.  <a href="https://nyti.ms/3BrrZAN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 15, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>No Degree? No Problem. Biden Tries to Bridge the ‘Diploma Divide.’</h3>
 <sub>By Zolan Kanno-Youngs</sub>
@@ -132,6 +126,12 @@ It looks like international politics are heating up right now, as the presidents
 <h3>Staff Members Attacked With Bat at Congressman’s Virginia Office</h3>
 <sub>By Luke Broadwater, Remy Tumin and Stephanie Lai</sub>
 <p>Two people were hospitalized after the attack at the Fairfax office of Representative Gerald E. Connolly, a Democrat. A man was in custody, the police said.  <a href="https://nyti.ms/3M4xxq0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In First, Palestinian Displacement Commemorated at United Nations</h3>
+<sub>By Farnaz Fassihi and Hiba Yazbek</sub>
+<p>The event, marking the displacement of hundreds of thousands of Palestinians when Israel was created, was condemned by the Israeli ambassador to the world body.  <a href="https://nyti.ms/3W7TCsn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 15, Central Standard Time</sub></sub>
 <hr/>
 </ol>
