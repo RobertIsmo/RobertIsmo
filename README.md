@@ -60,25 +60,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, May 17, Central Standard Time</p>
 <p>
-There&#39;s a lot happening in the world right now. In Ukraine, tensions between the government and Russia are rising and there has been military action from both sides. In the US, President Biden is trying to negotiate a debt deal, but his efforts have yet to bear fruit. Meanwhile, North Carolina just passed one of the most restrictive abortion bans in the country. There are a lot of other things happening too, from San Francisco proposing reparations for Black Americans, to an ongoing investigation into the laptop belonging to Hunter Biden.</p>
+There&#39;s a lot going on in the world right now! For one, there&#39;s an all-time high in drug shortages causing problems for generic drug manufacturers. Meanwhile, the Speaker of the House is getting some support from President Biden on debt ceiling negotiations. On the international news front, President Biden had to cut his trip to the Asia-Pacific region short, while Ukraine is on the upswing in fighting against Russia. There are also plans to move Jakarta&#39;s capital due to flooding concerns. And in sports, a former Negro Leagues stadium has been renovated as a minor league ballpark and museum. Not to mention, therapists are figuring out how to help suicidal teens and thinking about what they don&#39;t tell their patients. On the domestic front, Cherelle Parker could become Philadelphia&#39;s first female mayor if she wins the general election, and Daniel Cameron won the G.O.P. primary for Kentucky Governor. Lastly, 2024 hopeful Ron DeSantis supported candidates in Kentucky and Jacksonville who got clobbered in their elections last night. And finally, the investigation by Trump-era special counsel failed to deliver anything that could lead to prosecution raising questions of prosecutorial independence and accountability.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Ukrainian Attack Looms, Putin Faces Setbacks and Disunity in Russian Forces</h3>
-<sub>By Paul Sonne and Anton Troianovski</sub>
-<p>The problems that have hindered Russia’s 15-month war are still festering: stretched resources and disunity in the ranks. Still, Mr. Putin’s resolve augurs a willingness to prosecute a long war.  <a href="https://nyti.ms/3o6BUZz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Says It Shot Down Hypersonic Russian Missiles Over Kyiv</h3>
-<sub>By Victoria Kim and Eric Schmitt</sub>
-<p>A Russian barrage also damaged a U.S.-made Patriot air-defense system, but officials said it was still working.  <a href="https://nyti.ms/42Oun0M"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Drug Shortages Near an All-Time High, Leading to Rationing</h3>
+<sub>By Christina Jewett</sub>
+<p>A worrisome scarcity of cancer drugs has heightened concerns about the troubled generic drug industry. Congress and the White House are seeking ways to address widespread supply problems.  <a href="https://nyti.ms/459uupa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden and McCarthy Show Signs of Optimism, but Remain Far Apart on Debt Deal</h3>
-<sub>By Zolan Kanno-Youngs and Catie Edmondson</sub>
-<p>The negotiations at the White House came a day after the Treasury Department said the government could run out of money to pay its bills by June 1.  <a href="https://nyti.ms/3O8ZuQ0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
+<h3>The Speaker Gets His Chance to Go Toe-to-Toe With the President</h3>
+<sub>By Carl Hulse</sub>
+<p>Mr. McCarthy, who Republicans believe has been treated dismissively by Democrats, was buoyed by President Biden’s decision to negotiate more directly with him on the debt ceiling.  <a href="https://nyti.ms/42GWHlj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Biden Abruptly Cuts Short an Asia-Pacific Visit, to China’s Benefit</h3>
@@ -86,17 +80,35 @@ There&#39;s a lot happening in the world right now. In Ukraine, tensions between
 <p>A Pacific island nation had gone to great lengths to host the U.S. president. Now a region is left to wonder again about American steadfastness.  <a href="https://nyti.ms/41E0tKZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>North Carolina Legislature Reapproves Abortion Ban, Overriding Governor’s Veto</h3>
-<sub>By Kate Kelly</sub>
-<p>Republicans used their supermajority to uphold a 12-week ban, overruling the Democratic governor’s attempt to stop the bill and preserve wider abortion access.  <a href="https://nyti.ms/3o1LA7M"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Gains Near Bakhmut Raise Ukraine’s Hopes of a Turning Tide</h3>
+<sub>By Marc Santora</sub>
+<p>The advances have been small, and Russians still hold most of the city, but Ukrainians say they see a meaningful shift in momentum.  <a href="https://nyti.ms/41IaWp0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-headway-blue" alt="">
+<h3>What’s a President to Do When a Nation’s Capital Is Sinking? Move It.</h3>
+<sub>By Hannah Beech</sub>
+<p>Jakarta, like many places, faces an unsustainable future. Indonesia’s president is responding by building a new capital city from scratch.  <a href="https://nyti.ms/41GMzHZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How a 150-Year-Old Law Against Lewdness Became a Key to the Abortion Fight</h3>
-<sub>By Emily Bazelon</sub>
-<p>The Comstock Act, named for a public-morals crusader on a mission to “sanitize” the U.S. in the 1870s, makes a comeback in the abortion-pill battle.  <a href="https://nyti.ms/42ErC1K"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Baseball Returns to the ‘Hallowed Grounds’ of a Negro Leagues Stadium</h3>
+<sub>By Gary Phillips</sub>
+<p>Saved from demolition, Hinchliffe Stadium in New Jersey underwent a $100 million renovation. It will now serve as a minor league ballpark and a Negro leagues museum.  <a href="https://nyti.ms/42H1HXl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>How Do You Actually Help a Suicidal Teen?</h3>
+<sub>By Maggie Jones</sub>
+<p>It’s a dark time for therapists treating adolescents in despair. But some things do work.  <a href="https://nyti.ms/42KbThH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>What Your Therapist Doesn&#39;t Tell You</h3>
+<sub>By Amy X. Wang</sub>
+<p>A dozen counselors on what it’s really like to sit in the other armchair.  <a href="https://nyti.ms/45kDx6T"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Cherelle Parker Wins Democratic Mayoral Primary in Philadelphia</h3>
@@ -117,22 +129,10 @@ There&#39;s a lot happening in the world right now. In Ukraine, tensions between
 <sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Can Reparations Bring Black Residents Back to San Francisco?</h3>
-<sub>By Tim Arango</sub>
-<p>San Francisco has proposed the nation’s most ambitious reparations plan, including $5 million cash payments and housing aid that aims to bring people back.  <a href="https://nyti.ms/432JTpc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Durham Report Offered Few Conclusions. The Right Drew Its Own.</h3>
-<sub>By Jonathan Weisman</sub>
-<p>Conservative leaders and right-wing outlets say the special counsel report, which produced no startling revelations, lends credence to their conspiracy theories about the F.B.I.  <a href="https://nyti.ms/3o1sJK2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Officials Who Cast Doubt on Hunter Biden Laptop Face Questions</h3>
-<sub>By Luke Broadwater</sub>
-<p>Dozens of former intelligence officials signed a letter discounting the laptop’s contents. Republicans say the missive was part of a Biden campaign operation.  <a href="https://nyti.ms/42Di0nY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
+<h3>After Years of Political Hype, the Durham Inquiry Failed to Deliver</h3>
+<sub>By Charlie Savage</sub>
+<p>A dysfunctional investigation led by a Trump-era special counsel illustrates a dilemma about prosecutorial independence and accountability in politically sensitive matters.  <a href="https://nyti.ms/3pN0UFK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
