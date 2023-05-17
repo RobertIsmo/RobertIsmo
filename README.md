@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, May 17, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. The situation in Ukraine is getting worse, with Russia launching a barrage of missiles near the capital city of Kyiv. In the U.S., President Biden and House Minority Leader McCarthy are still trying to reach a debt deal before June, while Senator Manchin has threatened to repeal a climate law he helped write. Meanwhile, North Carolina just passed an abortion ban that was vetoed by the governor but overturned due to a supermajority of Republicans. There were also two Republican primaries: one in Philadelphia where Cherelle Parker won the mayoral primary and become the first woman mayor if she wins the general election; and the other in Kentucky where allies of Mitch McConnell won the gubernatoral primary against a popular Democrat. Lastly, there&#39;s been questions raised about officials who cast doubts on Hunter Biden&#39;s laptop contents, with allegations that they were part of a Biden campaign operation.</p>
+There&#39;s a lot happening in the world right now. In Ukraine, tensions between the government and Russia are rising and there has been military action from both sides. In the US, President Biden is trying to negotiate a debt deal, but his efforts have yet to bear fruit. Meanwhile, North Carolina just passed one of the most restrictive abortion bans in the country. There are a lot of other things happening too, from San Francisco proposing reparations for Black Americans, to an ongoing investigation into the laptop belonging to Hunter Biden.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>As Ukrainian Attack Looms, Putin Faces Setbacks and Disunity in Russian Forces</h3>
@@ -80,11 +80,11 @@ There is a lot going on in the world right now. The situation in Ukraine is gett
 <p>The negotiations at the White House came a day after the Treasury Department said the government could run out of money to pay its bills by June 1.  <a href="https://nyti.ms/3O8ZuQ0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Manchin Clashes With Biden Administration Over Climate Law</h3>
-<sub>By Luke Broadwater</sub>
-<p>Senator Joe Manchin III, the conservative West Virginia Democrat who faces re-election next year and is flirting with a presidential run, has threatened to repeal the measure he helped write.  <a href="https://nyti.ms/3WgOemD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Biden Abruptly Cuts Short an Asia-Pacific Visit, to China’s Benefit</h3>
+<sub>By Damien Cave</sub>
+<p>A Pacific island nation had gone to great lengths to host the U.S. president. Now a region is left to wonder again about American steadfastness.  <a href="https://nyti.ms/41E0tKZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>North Carolina Legislature Reapproves Abortion Ban, Overriding Governor’s Veto</h3>
