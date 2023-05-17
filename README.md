@@ -58,22 +58,10 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Tuesday, May 16, Central Standard Time</p>
+<p>It is Wednesday, May 17, Central Standard Time</p>
 <p>
-There are some pretty interesting things happening around the world right now. In the US, Biden and McCarthy are showing some optimism that a deal on debt can be reached, although they are still far apart in their views. Meanwhile, Manchin is clashing with the Biden administration over a climate law he helped write and there is a fight over North Carolina&#39;s abortion ban. On a global scale, Putin is facing setbacks and disunity with his forces as Ukraine continues to try to protect itself from attack, and reparations are being proposed to help bring Black residents of San Francisco back. Lastly, officials who discounted Hunter Biden&#39;s laptop face questions and the Indian Child Welfare Act of 1978 is up for review by the Supreme Court.</p>
+There is a lot going on in the world right now. The situation in Ukraine is getting worse, with Russia launching a barrage of missiles near the capital city of Kyiv. In the U.S., President Biden and House Minority Leader McCarthy are still trying to reach a debt deal before June, while Senator Manchin has threatened to repeal a climate law he helped write. Meanwhile, North Carolina just passed an abortion ban that was vetoed by the governor but overturned due to a supermajority of Republicans. There were also two Republican primaries: one in Philadelphia where Cherelle Parker won the mayoral primary and become the first woman mayor if she wins the general election; and the other in Kentucky where allies of Mitch McConnell won the gubernatoral primary against a popular Democrat. Lastly, there&#39;s been questions raised about officials who cast doubts on Hunter Biden&#39;s laptop contents, with allegations that they were part of a Biden campaign operation.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden and McCarthy Show Signs of Optimism, but Remain Far Apart on Debt Deal</h3>
-<sub>By Zolan Kanno-Youngs and Catie Edmondson</sub>
-<p>The negotiations at the White House came a day after the Treasury Department said the government could run out of money to pay its bills by June 1.  <a href="https://nyti.ms/3O8ZuQ0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Manchin Clashes With Biden Administration Over Climate Law</h3>
-<sub>By Luke Broadwater</sub>
-<p>Senator Joe Manchin III, the conservative West Virginia Democrat who faces re-election next year and is flirting with a presidential run, has threatened to repeal the measure he helped write.  <a href="https://nyti.ms/3WgOemD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>As Ukrainian Attack Looms, Putin Faces Setbacks and Disunity in Russian Forces</h3>
 <sub>By Paul Sonne and Anton Troianovski</sub>
@@ -87,9 +75,21 @@ There are some pretty interesting things happening around the world right now. I
 <sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>North Carolina Lawmakers Uphold Abortion Ban Over Governor’s Objections</h3>
+<h3>Biden and McCarthy Show Signs of Optimism, but Remain Far Apart on Debt Deal</h3>
+<sub>By Zolan Kanno-Youngs and Catie Edmondson</sub>
+<p>The negotiations at the White House came a day after the Treasury Department said the government could run out of money to pay its bills by June 1.  <a href="https://nyti.ms/3O8ZuQ0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Manchin Clashes With Biden Administration Over Climate Law</h3>
+<sub>By Luke Broadwater</sub>
+<p>Senator Joe Manchin III, the conservative West Virginia Democrat who faces re-election next year and is flirting with a presidential run, has threatened to repeal the measure he helped write.  <a href="https://nyti.ms/3WgOemD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>North Carolina Legislature Reapproves Abortion Ban, Overriding Governor’s Veto</h3>
 <sub>By Kate Kelly</sub>
-<p>Republicans used their supermajority to reapprove a 12-week ban, overriding the Democratic governor’s recent veto of the bill.  <a href="https://nyti.ms/3o1LA7M"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Republicans used their supermajority to uphold a 12-week ban, overruling the Democratic governor’s attempt to stop the bill and preserve wider abortion access.  <a href="https://nyti.ms/3o1LA7M"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -99,9 +99,9 @@ There are some pretty interesting things happening around the world right now. I
 <sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Can Reparations Bring Black Residents Back to San Francisco?</h3>
-<sub>By Tim Arango</sub>
-<p>San Francisco has proposed the nation’s most ambitious reparations plan, including $5 million cash payments and housing aid that aims to bring people back.  <a href="https://nyti.ms/432JTpc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Cherelle Parker Wins Democratic Mayoral Primary in Philadelphia</h3>
+<sub>By Campbell Robertson</sub>
+<p>If she wins the general election in November, she will be the first woman to lead the city.  <a href="https://nyti.ms/3Ok9hCO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -117,6 +117,12 @@ There are some pretty interesting things happening around the world right now. I
 <sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Can Reparations Bring Black Residents Back to San Francisco?</h3>
+<sub>By Tim Arango</sub>
+<p>San Francisco has proposed the nation’s most ambitious reparations plan, including $5 million cash payments and housing aid that aims to bring people back.  <a href="https://nyti.ms/432JTpc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The Durham Report Offered Few Conclusions. The Right Drew Its Own.</h3>
 <sub>By Jonathan Weisman</sub>
 <p>Conservative leaders and right-wing outlets say the special counsel report, which produced no startling revelations, lends credence to their conspiracy theories about the F.B.I.  <a href="https://nyti.ms/3o1sJK2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -126,12 +132,6 @@ There are some pretty interesting things happening around the world right now. I
 <h3>Officials Who Cast Doubt on Hunter Biden Laptop Face Questions</h3>
 <sub>By Luke Broadwater</sub>
 <p>Dozens of former intelligence officials signed a letter discounting the laptop’s contents. Republicans say the missive was part of a Biden campaign operation.  <a href="https://nyti.ms/42Di0nY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>The Brutal Past and Uncertain Future of Native Adoptions</h3>
-<sub>By Gabrielle Glaser</sub>
-<p>The Indian Child Welfare Act of 1978 sought to keep Native children in tribal communities. The Supreme Court may change that this spring.  <a href="https://nyti.ms/456KPL3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
