@@ -60,28 +60,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, May 17, Central Standard Time</p>
 <p>
-Things have been pretty intense lately. In the US, the speaker of the House recently had the opportunity to go toe-to-toe with President Biden in negotiations over the debt ceiling. Meanwhile, drug shortages in the US are reaching an all-time high and rationing is becoming increasingly common across the country. 
-
-In world news, President Biden&#39;s trip to Asia-Pacific was unexpectedly cut short, raising questions about American commitment in the region. There have also been &quot;catastrophic&quot; floods in Italy, killing 8 people and leaving thousands homeless. On a lighter note, a new minor league baseball stadium was recently built on the &quot;hallowed grounds&quot; of a former Negro Leagues Stadium in New Jersey. 
-
-Closer to home, there were some surprise victories including a Democrat winning Florida&#39;s biggest mayoral race in decades. And for those facing mental health struggles, therapists have insights about how to help suicidal adolescents and what it’s like being on the other side of therapy.</p>
+Right now, it looks like a really chaotic situation around the world. In the US, President Biden is facing a debt ceiling crisis and is having to send negotiators to try to reach an agreement to avoid default. In Ukraine, there have been small advances in their struggle against Russian forces in the city of Bakhmut, raising some hope for the country&#39;s future. Meanwhile, Indonesia&#39;s president is embarking on a massive project to relocate the nation&#39;s capital due to environmental risks. On top of that, comedians are getting more open about using grief as comedic material in their stand-up acts, and in science there have been some fascinating discoveries about how humans evolved and the complex creatures that existed when animals first emerged. And of course, climate change is having major impacts throughout the world right now, from massively disruptive wildfires in Canada to record-breaking temperatures projected for the next five years.</p>
 <ol>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Drug Shortages Near an All-Time High, Leading to Rationing</h3>
-<sub>By Christina Jewett</sub>
-<p>A worrisome scarcity of cancer drugs has heightened concerns about the troubled generic drug industry. Congress and the White House are seeking ways to address widespread supply problems.  <a href="https://nyti.ms/459uupa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>For Biden, Crisis at Home Complicates Diplomacy Abroad</h3>
+<sub>By Peter Baker</sub>
+<p>Volatility has become the new norm in Washington as the president heads to Japan, where he will reassure world leaders that the debt ceiling showdown will not upend the global economy.  <a href="https://nyti.ms/3M9adr7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Speaker Gets His Chance to Go Toe-to-Toe With the President</h3>
-<sub>By Carl Hulse</sub>
-<p>Mr. McCarthy, who Republicans believe has been treated dismissively by Democrats, was buoyed by President Biden’s decision to negotiate more directly with him on the debt ceiling.  <a href="https://nyti.ms/42GWHlj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Biden Says He Is Confident America Will Not Default on Its Debts</h3>
+<sub>By Zolan Kanno-Youngs</sub>
+<p>Speaking just moments before he left for a diplomatic trip overseas, President Biden said a default would be “catastrophic.”  <a href="https://nyti.ms/41N9wJA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Biden Abruptly Cuts Short an Asia-Pacific Visit, to China’s Benefit</h3>
-<sub>By Damien Cave</sub>
-<p>A Pacific island nation had gone to great lengths to host the U.S. president. Now a region is left to wonder again about American steadfastness.  <a href="https://nyti.ms/41E0tKZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>House Democrats Move Forward With Petition to Force Debt Limit Vote</h3>
+<sub>By Carl Hulse</sub>
+<p>The discharge petition being initiated is seen as a last resort for averting default if negotiations over raising the debt ceiling collapse, and a way to pressure Republicans to strike a deal.  <a href="https://nyti.ms/42IgqBq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Taps Two Negotiators to Reach Debt Ceiling Deal With Republicans</h3>
+<sub>By Madeleine Ngo</sub>
+<p>President Biden selected Shalanda Young and Steve Ricchetti to talk directly with aides to Speaker Kevin McCarthy in an attempt to avoid default.  <a href="https://nyti.ms/3W9tmhb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -96,46 +98,40 @@ Closer to home, there were some surprise victories including a Democrat winning 
 <p>Jakarta, like many places, faces an unsustainable future. Indonesia’s president is responding by building a new capital city from scratch.  <a href="https://nyti.ms/41GMzHZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>After Years of Political Hype, the Durham Inquiry Failed to Deliver</h3>
-<sub>By Charlie Savage</sub>
-<p>A dysfunctional investigation led by a Trump-era special counsel illustrates a dilemma about prosecutorial independence and accountability in politically sensitive matters.  <a href="https://nyti.ms/3pN0UFK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>How Do You Actually Help a Suicidal Teen?</h3>
-<sub>By Maggie Jones</sub>
-<p>It’s a dark time for therapists treating adolescents in despair. But some things do work.  <a href="https://nyti.ms/42KbThH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>What Your Therapist Doesn&#39;t Tell You</h3>
-<sub>By Amy X. Wang</sub>
-<p>A dozen counselors on what it’s really like to sit in the other armchair.  <a href="https://nyti.ms/45kDx6T"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Baseball Returns to the ‘Hallowed Grounds’ of a Negro Leagues Stadium</h3>
-<sub>By Gary Phillips</sub>
-<p>Saved from demolition, Hinchliffe Stadium in New Jersey underwent a $100 million renovation. It will now serve as a minor league ballpark and a Negro leagues museum.  <a href="https://nyti.ms/42H1HXl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘Catastrophic’ Floods in Italy Leave 8 Dead and Thousands Homeless</h3>
-<sub>By Elisabetta Povoledo</sub>
-<p>Intense downpours caused rivers to overflow in the northern region of Emilia-Romagna, swamping numerous cities in a catastrophe that experts described as “unprecedented.”  <a href="https://nyti.ms/3BygsQf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Formula 1 Cancels Grand Prix Amid Deadly Floods in Italy</h3>
-<sub>By Andrew Das</sub>
-<p>Safety concerns prompted the decision to call off the race at Imola, the site of this weekend’s Emilia-Romagna Grand Prix.  <a href="https://nyti.ms/3pP5NhD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>That’s the Funny Thing About Grief</h3>
+<sub>By Jason Zinoman</sub>
+<p>A new generation of stand-ups is mining the heartbreaking loss of a loved one for ambitious shows. How did we get here?  <a href="https://nyti.ms/434jMhS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Florida Upset, Democrat Wins Jacksonville Mayor’s Race</h3>
-<sub>By Patricia Mazzei</sub>
-<p>Donna Deegan is only the second Democrat to be elected mayor of Florida’s biggest city in the past three decades.  <a href="https://nyti.ms/3o8M5wO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>DeSantis Signs Tall Stack of Right-Wing Bills as 2024 Entrance Nears</h3>
+<sub>By Nicholas Nehamas and Patricia Mazzei</sub>
+<p>The Florida governor is making a grab for national attention ahead of his expected presidential campaign rollout.  <a href="https://nyti.ms/3IjxdlW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>Study Offers New Twist in How the First Humans Evolved</h3>
+<sub>By Carl Zimmer</sub>
+<p>A new genetic analysis of 290 people suggests that humans emerged at various times and places in Africa.  <a href="https://nyti.ms/3IGHpFB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>Bizarre Sea Creatures Illuminate the Dawn of the Animal Kingdom</h3>
+<sub>By Carl Zimmer</sub>
+<p>A new study bolsters the idea that the first animals were surprisingly complex, perhaps equipped with muscles and a nervous system.  <a href="https://nyti.ms/3OiQUOx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Heat Will Likely Soar to Record Levels in Next 5 Years, New Analysis Says</h3>
+<sub>By Brad Plumer</sub>
+<p>The World Meteorological Organization forecast “far-reaching repercussions for health, food security, water management and the environment.”  <a href="https://nyti.ms/3Wf9Boz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Canada’s Wildfires Have Been Disrupting Lives. Now, Oil and Gas Take a Hit.</h3>
+<sub>By Hiroko Tabuchi</sub>
+<p>Alberta’s vast oil industry is cutting production as the flames menace wells and pipelines, highlighting the danger  <a href="https://nyti.ms/3IlFfuN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
 <hr/>
 </ol>
