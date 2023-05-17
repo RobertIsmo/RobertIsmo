@@ -60,8 +60,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, May 17, Central Standard Time</p>
 <p>
-Right now, it looks like a really chaotic situation around the world. In the US, President Biden is facing a debt ceiling crisis and is having to send negotiators to try to reach an agreement to avoid default. In Ukraine, there have been small advances in their struggle against Russian forces in the city of Bakhmut, raising some hope for the country&#39;s future. Meanwhile, Indonesia&#39;s president is embarking on a massive project to relocate the nation&#39;s capital due to environmental risks. On top of that, comedians are getting more open about using grief as comedic material in their stand-up acts, and in science there have been some fascinating discoveries about how humans evolved and the complex creatures that existed when animals first emerged. And of course, climate change is having major impacts throughout the world right now, from massively disruptive wildfires in Canada to record-breaking temperatures projected for the next five years.</p>
+Right now, it looks like the world is facing a lot of challenges. For starters, heat is projected to rise to record levels in the next five years, with major consequences for health, food security, and the environment. Canada is trying to grapple with devastating wildfires that are also impacting their oil and gas industry. Italy has cancelled a major race because of severe flooding. 
+
+The US is currently dealing with major debt concerns--President Biden was confident they would not default and has named negotiators to talk with Republicans about a deal to raise the debt ceiling. Additionally, Ukrainians are seeing possible gains in a key battle area that may mark a shift in momentum in the conflict there. 
+
+And then there are less serious but still noteworthy things happening. Indonesia&#39;s president is responding to an unsustainable future by moving the capital city and comedians are finding humor in grief. Finally, Florida Governor DeSantis is making moves in anticipation of his 2024 presidential campaign, meanwhile a study suggests that humans evolved all over Africa at different times and places.</p>
 <ol>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Heat Will Likely Soar to Record Levels in Next 5 Years, New Analysis Says</h3>
+<sub>By Brad Plumer</sub>
+<p>The World Meteorological Organization forecast “far-reaching repercussions for health, food security, water management and the environment.”  <a href="https://nyti.ms/3Wf9Boz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Canada’s Wildfires Have Been Disrupting Lives. Now, Oil and Gas Take a Hit.</h3>
+<sub>By Hiroko Tabuchi</sub>
+<p>Alberta’s vast oil industry is cutting production as the flames menace wells and pipelines, highlighting the danger  <a href="https://nyti.ms/3IlFfuN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Formula 1 Cancels Grand Prix Amid Deadly Floods in Italy</h3>
+<sub>By Andrew Das</sub>
+<p>Safety concerns prompted the decision to call off the race at Imola, the site of this weekend’s Emilia-Romagna Grand Prix.  <a href="https://nyti.ms/3pP5NhD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>For Biden, Crisis at Home Complicates Diplomacy Abroad</h3>
 <sub>By Peter Baker</sub>
@@ -77,7 +99,7 @@ Right now, it looks like a really chaotic situation around the world. In the US,
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>House Democrats Move Forward With Petition to Force Debt Limit Vote</h3>
 <sub>By Carl Hulse</sub>
-<p>The discharge petition being initiated is seen as a last resort for averting default if negotiations over raising the debt ceiling collapse, and a way to pressure Republicans to strike a deal.  <a href="https://nyti.ms/42IgqBq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The initiation of a discharge petition is seen as a last resort for averting default if negotiations over raising the debt ceiling collapse, and a way to pressure Republicans to strike a deal.  <a href="https://nyti.ms/42IgqBq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -114,24 +136,6 @@ Right now, it looks like a really chaotic situation around the world. In the US,
 <h3>Study Offers New Twist in How the First Humans Evolved</h3>
 <sub>By Carl Zimmer</sub>
 <p>A new genetic analysis of 290 people suggests that humans emerged at various times and places in Africa.  <a href="https://nyti.ms/3IGHpFB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>Bizarre Sea Creatures Illuminate the Dawn of the Animal Kingdom</h3>
-<sub>By Carl Zimmer</sub>
-<p>A new study bolsters the idea that the first animals were surprisingly complex, perhaps equipped with muscles and a nervous system.  <a href="https://nyti.ms/3OiQUOx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Heat Will Likely Soar to Record Levels in Next 5 Years, New Analysis Says</h3>
-<sub>By Brad Plumer</sub>
-<p>The World Meteorological Organization forecast “far-reaching repercussions for health, food security, water management and the environment.”  <a href="https://nyti.ms/3Wf9Boz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Canada’s Wildfires Have Been Disrupting Lives. Now, Oil and Gas Take a Hit.</h3>
-<sub>By Hiroko Tabuchi</sub>
-<p>Alberta’s vast oil industry is cutting production as the flames menace wells and pipelines, highlighting the danger  <a href="https://nyti.ms/3IlFfuN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
 <hr/>
 </ol>
