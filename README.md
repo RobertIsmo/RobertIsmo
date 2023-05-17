@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, May 16, Central Standard Time</p>
 <p>
-There seems to be a lot going on in the US these days! President Biden and the House Minority Leader are optimistic but still far apart on a debt deal. Joe Manchin is clashing with the Biden administration over climate laws, and Republicans have successfully overridden a veto by their Democratic governor to pass an abortion ban. On the other hand, there&#39;s some progress being made in race relations — San Francisco is proposing a nation&#39;s most ambitious reparations plan which includes cash payments and housing aid — while certain laws against lewdness are being utilized to support the fight for abortion rights. Right-wing platforms and politicians have been raising questions about the legitimacy of reports linking Hunter Biden to questionable activities, while experts debate should A.I. be regulated by the government. Even Native Americans are facing consequences from their past, which may change with a landmark Supreme Court case this spring. Finally, Tucker Carlson&#39;s controversial influence on mainstream conservative ideology is now waning after leaving Fox News.</p>
+There are some pretty interesting things happening around the world right now. In the US, Biden and McCarthy are showing some optimism that a deal on debt can be reached, although they are still far apart in their views. Meanwhile, Manchin is clashing with the Biden administration over a climate law he helped write and there is a fight over North Carolina&#39;s abortion ban. On a global scale, Putin is facing setbacks and disunity with his forces as Ukraine continues to try to protect itself from attack, and reparations are being proposed to help bring Black residents of San Francisco back. Lastly, officials who discounted Hunter Biden&#39;s laptop face questions and the Indian Child Welfare Act of 1978 is up for review by the Supreme Court.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden and McCarthy Show Signs of Optimism, but Remain Far Apart on Debt Deal</h3>
@@ -87,9 +87,9 @@ There seems to be a lot going on in the US these days! President Biden and the H
 <sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>North Carolina Legislature Reapproves Abortion Ban, Overriding Governor’s Veto</h3>
+<h3>North Carolina Lawmakers Uphold Abortion Ban Over Governor’s Objections</h3>
 <sub>By Kate Kelly</sub>
-<p>Republicans used their supermajority to uphold a 12-week ban, overruling the Democratic governor’s attempt to stop the bill and preserve wider abortion access.  <a href="https://nyti.ms/3o1LA7M"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Republicans used their supermajority to reapprove a 12-week ban, overriding the Democratic governor’s recent veto of the bill.  <a href="https://nyti.ms/3o1LA7M"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -105,6 +105,18 @@ There seems to be a lot going on in the US these days! President Biden and the H
 <sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Ally of Mitch McConnell Wins G.O.P. Primary for Kentucky Governor</h3>
+<sub>By Nick Corasaniti</sub>
+<p>Daniel Cameron, the attorney general, will face Andy Beshear, a popular Democrat who is seeking re-election in a typically deep-red state.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>DeSantis Goes 0-for-2 on Election Night</h3>
+<sub>By Nicholas Nehamas and Shane Goldmacher</sub>
+<p>The 2024 hopeful made a dramatic, election-eve show of support in the Kentucky governor’s race, only for his chosen candidate to get clobbered. Another favored candidate in Jacksonville, Fla., lost, too.  <a href="https://nyti.ms/3By7Yc0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The Durham Report Offered Few Conclusions. The Right Drew Its Own.</h3>
 <sub>By Jonathan Weisman</sub>
 <p>Conservative leaders and right-wing outlets say the special counsel report, which produced no startling revelations, lends credence to their conspiracy theories about the F.B.I.  <a href="https://nyti.ms/3o1sJK2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -113,25 +125,13 @@ There seems to be a lot going on in the US these days! President Biden and the H
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Officials Who Cast Doubt on Hunter Biden Laptop Face Questions</h3>
 <sub>By Luke Broadwater</sub>
-<p>House Republicans are pointing to a 2020 letter signed by 51 former intelligence officials as evidence that the federal government has tried to damage conservatives.  <a href="https://nyti.ms/42Di0nY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>OpenAI’s Sam Altman Urges A.I. Regulation in Senate Hearing</h3>
-<sub>By Cecilia Kang</sub>
-<p>The tech executive and lawmakers agreed that new A.I. systems must be regulated. Just how that would happen is not yet clear.  <a href="https://nyti.ms/3BOSl01"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Dozens of former intelligence officials signed a letter discounting the laptop’s contents. Republicans say the missive was part of a Biden campaign operation.  <a href="https://nyti.ms/42Di0nY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>The Brutal Past and Uncertain Future of Native Adoptions</h3>
 <sub>By Gabrielle Glaser</sub>
 <p>The Indian Child Welfare Act of 1978 sought to keep Native children in tribal communities. The Supreme Court may change that this spring.  <a href="https://nyti.ms/456KPL3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Without Tucker Carlson, Far Right Loses a Foothold in the Mainstream</h3>
-<sub>By Charles Homans</sub>
-<p>For years, Mr. Carlson used his Fox News show to bring right-wing ideas into Americans’ living rooms. Playing the same role in his next chapter will be much harder.  <a href="https://nyti.ms/3BCJEW9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
