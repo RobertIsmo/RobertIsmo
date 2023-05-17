@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, May 16, Central Standard Time</p>
 <p>
-There are some tensions between the Biden administration and Senator Joe Manchin III, who may be looking to run for president, about a climate law. Putin is having difficulties with the Russian forces&#39; resources and disunity in the ranks amid a potential Ukrainian attack. Tech executives are acknowledging the need for A.I. regulation while Microsoft is claiming that their A.I. system exhibits signs of human reasoning which critics are dubious about. China has been producing electric car batteries for years and now electric vans, due to productionissues, find eager buyers. In San Francisco, there&#39;s a proposed reparations plan to bring back Black residents while certain Republicans believe gender transition care should be restricted based on the stories from a group of trans people no longer identifying as such who disagree with medical experts. Also, the Indian Child Welfare Act of 1978 enabled Native children to remain in tribal communities but that may change when the Supreme Court reviews it this spring. Lastly, Orna Guralnik, a couples therapist has found that her patients have been having breakthroughs in their relationships thanks to the messages behind Black Lives Matter and #MeToo movements.</p>
+There seems to be a lot going on in the US these days! President Biden and the House Minority Leader are optimistic but still far apart on a debt deal. Joe Manchin is clashing with the Biden administration over climate laws, and Republicans have successfully overridden a veto by their Democratic governor to pass an abortion ban. On the other hand, there&#39;s some progress being made in race relations — San Francisco is proposing a nation&#39;s most ambitious reparations plan which includes cash payments and housing aid — while certain laws against lewdness are being utilized to support the fight for abortion rights. Right-wing platforms and politicians have been raising questions about the legitimacy of reports linking Hunter Biden to questionable activities, while experts debate should A.I. be regulated by the government. Even Native Americans are facing consequences from their past, which may change with a landmark Supreme Court case this spring. Finally, Tucker Carlson&#39;s controversial influence on mainstream conservative ideology is now waning after leaving Fox News.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden and McCarthy Show Signs of Optimism, but Remain Far Apart on Debt Deal</h3>
+<sub>By Zolan Kanno-Youngs and Catie Edmondson</sub>
+<p>The negotiations at the White House came a day after the Treasury Department said the government could run out of money to pay its bills by June 1.  <a href="https://nyti.ms/3O8ZuQ0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Manchin Clashes With Biden Administration Over Climate Law</h3>
 <sub>By Luke Broadwater</sub>
@@ -74,40 +80,22 @@ There are some tensions between the Biden administration and Senator Joe Manchin
 <p>The problems that have hindered Russia’s 15-month war are still festering: stretched resources and disunity in the ranks. Still, Mr. Putin’s resolve augurs a willingness to prosecute a long war.  <a href="https://nyti.ms/3o6BUZz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>OpenAI’s Sam Altman Urges A.I. Regulation in Senate Hearing</h3>
-<sub>By Cecilia Kang</sub>
-<p>The tech executive and lawmakers agreed that new A.I. systems must be regulated. Just how that would happen is not yet clear.  <a href="https://nyti.ms/3BOSl01"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukraine Says It Shot Down Hypersonic Russian Missiles Over Kyiv</h3>
+<sub>By Victoria Kim and Eric Schmitt</sub>
+<p>A Russian barrage also damaged a U.S.-made Patriot air-defense system, but officials said it was still working.  <a href="https://nyti.ms/42Oun0M"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Microsoft Says New A.I. Shows Signs of Human Reasoning</h3>
-<sub>By Cade Metz</sub>
-<p>A provocative paper from researchers at Microsoft claims A.I. technology shows the ability to understand the way people do. Critics say those scientists are kidding themselves.  <a href="https://nyti.ms/3O7NT3I"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>North Carolina Legislature Reapproves Abortion Ban, Overriding Governor’s Veto</h3>
+<sub>By Kate Kelly</sub>
+<p>Republicans used their supermajority to uphold a 12-week ban, overruling the Democratic governor’s attempt to stop the bill and preserve wider abortion access.  <a href="https://nyti.ms/3o1LA7M"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Can the World Make an Electric Car Battery Without China?</h3>
-<sub>By Agnes Chang and Keith Bradsher</sub>
-<p>From mines to refineries and factories, China began investing decades ago. Today, most of your electric car batteries are made in China and that’s unlikely to change soon.  <a href="https://nyti.ms/3OdXaXN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Electric Vans, Delayed by Production Problems, Find Eager Buyers</h3>
-<sub>By Neal E. Boudette</sub>
-<p>Passenger cars dominate the electric vehicle market, but light delivery trucks could benefit from the cost savings and range E.V.s offer.  <a href="https://nyti.ms/3BwxYEE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-realestate-blue" alt="">
-<h3>If Your House Were Falling Off a Cliff, Would You Leave?</h3>
-<sub>By Rachel Chaundler</sub>
-<p>Homeowners along the eastern coast of England are watching the North Sea swallow their communities. Help is on the way — but only for some.  <a href="https://nyti.ms/3W1tMWT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Silicon Valley Bank’s Ex-C.E.O. Is ‘Truly Sorry’ but Deflects Blame</h3>
-<sub>By Rob Copeland</sub>
-<p>Senators derided Gregory Becker at a hearing about the failure of his bank. “It sounds a lot like ‘my dog ate my homework’,” one said.  <a href="https://nyti.ms/453keP9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How a 150-Year-Old Law Against Lewdness Became a Key to the Abortion Fight</h3>
+<sub>By Emily Bazelon</sub>
+<p>The Comstock Act, named for a public-morals crusader on a mission to “sanitize” the U.S. in the 1870s, makes a comeback in the abortion-pill battle.  <a href="https://nyti.ms/42ErC1K"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -117,9 +105,21 @@ There are some tensions between the Biden administration and Senator Joe Manchin
 <sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How a Few Stories of Regret Fuel the Push to Restrict Gender Transition Care</h3>
-<sub>By Maggie Astor</sub>
-<p>In the campaign to ban gender therapies for minors, Republicans have amplified a group of activists who no longer identify as transgender, overriding objections from transgender people and medical experts.  <a href="https://nyti.ms/3OdXndx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>The Durham Report Offered Few Conclusions. The Right Drew Its Own.</h3>
+<sub>By Jonathan Weisman</sub>
+<p>Conservative leaders and right-wing outlets say the special counsel report, which produced no startling revelations, lends credence to their conspiracy theories about the F.B.I.  <a href="https://nyti.ms/3o1sJK2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Officials Who Cast Doubt on Hunter Biden Laptop Face Questions</h3>
+<sub>By Luke Broadwater</sub>
+<p>House Republicans are pointing to a 2020 letter signed by 51 former intelligence officials as evidence that the federal government has tried to damage conservatives.  <a href="https://nyti.ms/42Di0nY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>OpenAI’s Sam Altman Urges A.I. Regulation in Senate Hearing</h3>
+<sub>By Cecilia Kang</sub>
+<p>The tech executive and lawmakers agreed that new A.I. systems must be regulated. Just how that would happen is not yet clear.  <a href="https://nyti.ms/3BOSl01"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -128,10 +128,10 @@ There are some tensions between the Biden administration and Senator Joe Manchin
 <p>The Indian Child Welfare Act of 1978 sought to keep Native children in tribal communities. The Supreme Court may change that this spring.  <a href="https://nyti.ms/456KPL3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>I’m a Couples Therapist. Something New Is Happening in Relationships.</h3>
-<sub>By Orna Guralnik</sub>
-<p>For more and more of Orna Guralnik’s patients, the ideas behind Black Lives Matter and #MeToo are leading to breakthroughs at home.  <a href="https://nyti.ms/451qZku"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Without Tucker Carlson, Far Right Loses a Foothold in the Mainstream</h3>
+<sub>By Charles Homans</sub>
+<p>For years, Mr. Carlson used his Fox News show to bring right-wing ideas into Americans’ living rooms. Playing the same role in his next chapter will be much harder.  <a href="https://nyti.ms/3BCJEW9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
