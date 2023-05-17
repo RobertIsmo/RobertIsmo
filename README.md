@@ -60,7 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, May 17, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now! For one, there&#39;s an all-time high in drug shortages causing problems for generic drug manufacturers. Meanwhile, the Speaker of the House is getting some support from President Biden on debt ceiling negotiations. On the international news front, President Biden had to cut his trip to the Asia-Pacific region short, while Ukraine is on the upswing in fighting against Russia. There are also plans to move Jakarta&#39;s capital due to flooding concerns. And in sports, a former Negro Leagues stadium has been renovated as a minor league ballpark and museum. Not to mention, therapists are figuring out how to help suicidal teens and thinking about what they don&#39;t tell their patients. On the domestic front, Cherelle Parker could become Philadelphia&#39;s first female mayor if she wins the general election, and Daniel Cameron won the G.O.P. primary for Kentucky Governor. Lastly, 2024 hopeful Ron DeSantis supported candidates in Kentucky and Jacksonville who got clobbered in their elections last night. And finally, the investigation by Trump-era special counsel failed to deliver anything that could lead to prosecution raising questions of prosecutorial independence and accountability.</p>
+Things have been pretty intense lately. In the US, the speaker of the House recently had the opportunity to go toe-to-toe with President Biden in negotiations over the debt ceiling. Meanwhile, drug shortages in the US are reaching an all-time high and rationing is becoming increasingly common across the country. 
+
+In world news, President Biden&#39;s trip to Asia-Pacific was unexpectedly cut short, raising questions about American commitment in the region. There have also been &quot;catastrophic&quot; floods in Italy, killing 8 people and leaving thousands homeless. On a lighter note, a new minor league baseball stadium was recently built on the &quot;hallowed grounds&quot; of a former Negro Leagues Stadium in New Jersey. 
+
+Closer to home, there were some surprise victories including a Democrat winning Florida&#39;s biggest mayoral race in decades. And for those facing mental health struggles, therapists have insights about how to help suicidal adolescents and what it’s like being on the other side of therapy.</p>
 <ol>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>Drug Shortages Near an All-Time High, Leading to Rationing</h3>
@@ -82,7 +86,7 @@ There&#39;s a lot going on in the world right now! For one, there&#39;s an all-t
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Gains Near Bakhmut Raise Ukraine’s Hopes of a Turning Tide</h3>
-<sub>By Marc Santora</sub>
+<sub>By Marc Santora and Tyler Hicks</sub>
 <p>The advances have been small, and Russians still hold most of the city, but Ukrainians say they see a meaningful shift in momentum.  <a href="https://nyti.ms/41IaWp0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
 <hr/>
@@ -92,10 +96,10 @@ There&#39;s a lot going on in the world right now! For one, there&#39;s an all-t
 <p>Jakarta, like many places, faces an unsustainable future. Indonesia’s president is responding by building a new capital city from scratch.  <a href="https://nyti.ms/41GMzHZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Baseball Returns to the ‘Hallowed Grounds’ of a Negro Leagues Stadium</h3>
-<sub>By Gary Phillips</sub>
-<p>Saved from demolition, Hinchliffe Stadium in New Jersey underwent a $100 million renovation. It will now serve as a minor league ballpark and a Negro leagues museum.  <a href="https://nyti.ms/42H1HXl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>After Years of Political Hype, the Durham Inquiry Failed to Deliver</h3>
+<sub>By Charlie Savage</sub>
+<p>A dysfunctional investigation led by a Trump-era special counsel illustrates a dilemma about prosecutorial independence and accountability in politically sensitive matters.  <a href="https://nyti.ms/3pN0UFK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
@@ -110,28 +114,28 @@ There&#39;s a lot going on in the world right now! For one, there&#39;s an all-t
 <p>A dozen counselors on what it’s really like to sit in the other armchair.  <a href="https://nyti.ms/45kDx6T"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Cherelle Parker Wins Democratic Mayoral Primary in Philadelphia</h3>
-<sub>By Campbell Robertson</sub>
-<p>If she wins the general election in November, she will be the first woman to lead the city.  <a href="https://nyti.ms/3Ok9hCO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Baseball Returns to the ‘Hallowed Grounds’ of a Negro Leagues Stadium</h3>
+<sub>By Gary Phillips</sub>
+<p>Saved from demolition, Hinchliffe Stadium in New Jersey underwent a $100 million renovation. It will now serve as a minor league ballpark and a Negro leagues museum.  <a href="https://nyti.ms/42H1HXl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘Catastrophic’ Floods in Italy Leave 8 Dead and Thousands Homeless</h3>
+<sub>By Elisabetta Povoledo</sub>
+<p>Intense downpours caused rivers to overflow in the northern region of Emilia-Romagna, swamping numerous cities in a catastrophe that experts described as “unprecedented.”  <a href="https://nyti.ms/3BygsQf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Formula 1 Cancels Grand Prix Amid Deadly Floods in Italy</h3>
+<sub>By Andrew Das</sub>
+<p>Safety concerns prompted the decision to call off the race at Imola, the site of this weekend’s Emilia-Romagna Grand Prix.  <a href="https://nyti.ms/3pP5NhD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Ally of Mitch McConnell Wins G.O.P. Primary for Kentucky Governor</h3>
-<sub>By Nick Corasaniti</sub>
-<p>Daniel Cameron, the attorney general, will face Andy Beshear, a popular Democrat who is seeking re-election in a typically deep-red state.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis Goes 0-for-2 on Election Night</h3>
-<sub>By Nicholas Nehamas and Shane Goldmacher</sub>
-<p>The 2024 hopeful made a dramatic, election-eve show of support in the Kentucky governor’s race, only for his chosen candidate to get clobbered. Another favored candidate in Jacksonville, Fla., lost, too.  <a href="https://nyti.ms/3By7Yc0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>After Years of Political Hype, the Durham Inquiry Failed to Deliver</h3>
-<sub>By Charlie Savage</sub>
-<p>A dysfunctional investigation led by a Trump-era special counsel illustrates a dilemma about prosecutorial independence and accountability in politically sensitive matters.  <a href="https://nyti.ms/3pN0UFK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>In Florida Upset, Democrat Wins Jacksonville Mayor’s Race</h3>
+<sub>By Patricia Mazzei</sub>
+<p>Donna Deegan is only the second Democrat to be elected mayor of Florida’s biggest city in the past three decades.  <a href="https://nyti.ms/3o8M5wO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
 <hr/>
 </ol>
