@@ -60,61 +60,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, May 18, Central Standard Time</p>
 <p>
-The world is constantly changing! In terms of international relations, the United States is resisting a European push for powerful fighter jets, while China is hosting a summit with five Central Asian countries.Closer to home, the Texas legislature recently banned transgender medical care for children, and Montana&#39;s governor signed a total ban of TikTok in the state. In the realm of science, researchers are using 3-D imaging of the Titanic to piece together what happened when it sunk in 1912. And Prince Harry and Meghan Markle allege they were chased by paparazzi in New York. On the financial front, Deutsche Bank agreed to pay $75 million to victims of Jeffrey Epstein and Bard College President Leon Botstein received a $150,000 from a foundation created by Epstein in 2016.</p>
+There are a lot of current events happening in the world right now. For example, leaders of the G7 are coming together to discuss stabilizing global oil markets and regulating artificial intelligence. Meanwhile, Ukraine is debating whether to send F-16 fighter jets while China is hosting its own summit and furthering its geopolitical ambitions. In addition, the US military has caught an airman mishandling secrets before arresting him but kept him in his job. Finally, Prince Harry and Meghan have complained about being chased by paparazzi in New York.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Latest Flash Point Among Ukraine’s Allies Is Whether to Send F-16s</h3>
-<sub>By Lara Jakes and Eric Schmitt</sub>
-<p>The United States is resisting a European push for the powerful fighters. But will it relent, as it did before with tanks, rocket launchers and air defense missiles?  <a href="https://nyti.ms/3MD3qXS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Heat Will Likely Soar to Record Levels in Next 5 Years, New Analysis Says</h3>
-<sub>By Brad Plumer</sub>
-<p>The World Meteorological Organization forecast “far-reaching repercussions for health, food security, water management and the environment.”  <a href="https://nyti.ms/3Wf9Boz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Military Caught Airman Mishandling Secrets Before Arrest but Left Him in Job</h3>
-<sub>By Glenn Thrush and Robin Stein</sub>
-<p>A Justice Department filing urging that Airman Jack Teixeira be held without bail said his superiors had admonished him for taking notes and conducting deep-dive searches last fall.  <a href="https://nyti.ms/3MiegBi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Texas Legislature Bans Transgender Medical Care for Children</h3>
-<sub>By David Montgomery and J. David Goodman</sub>
-<p>Texas became the largest state to a pass a bill banning puberty blockers and hormone treatments. Gov. Greg Abbott was likely to sign it.  <a href="https://nyti.ms/3IlQgvQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-headway-blue" alt="">
-<h3>What’s a President to Do When a Nation’s Capital Is Sinking? Move It.</h3>
-<sub>By Hannah Beech</sub>
-<p>Jakarta, like many places, faces an unsustainable future. Indonesia’s president is responding by building a new capital city from scratch.  <a href="https://nyti.ms/41GMzHZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Montana Governor Signs Total Ban of TikTok in the State</h3>
-<sub>By Sapna Maheshwari</sub>
-<p>The legislation is the most extreme prohibition of the app in the nation and will almost certainly face legal challenges.  <a href="https://nyti.ms/3oe4FUk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
+<h3>An Untested Oil Price Cap Has Helped Choke Revenue to Russia</h3>
+<sub>By Jim Tankersley</sub>
+<p>Group of 7 leaders are prepared to celebrate the results of a novel effort to stabilize global oil markets and punish Moscow.  <a href="https://nyti.ms/3BEjwKA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Why Countries Are Trying to Ban TikTok</h3>
-<sub>By Sapna Maheshwari and Amanda Holpuch</sub>
-<p>Governments have expressed concerns that TikTok, which is owned by the Chinese company ByteDance, may endanger sensitive user data.  <a href="https://nyti.ms/3mjkGa6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>‘Digital Twin’ of the Titanic Shows the Shipwreck in Stunning Detail</h3>
-<sub>By April Rubin</sub>
-<p>Researchers hope new 3-D images will provide clues about what happened to the ocean liner when it sank on its maiden voyage in 1912.  <a href="https://nyti.ms/42ODkac"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Prince Harry and Meghan Say They Were Chased by Paparazzi in New York</h3>
-<sub>By Chelsia Rose Marcius, Mark Landler, Hurubie Meko and Michael M. Grynbaum</sub>
-<p>The initial description of the episode in Midtown Manhattan recalled the chase that killed Harry’s mother, but the fuller picture was more complicated.  <a href="https://nyti.ms/3MaWTSV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukraine and China Will Dominate G7 Summit, but a New Threat Lurks: A.I.</h3>
+<sub>By David E. Sanger</sub>
+<p>The leaders are expected to hold their first talks on a common regulatory approach to generative artificial intelligence.  <a href="https://nyti.ms/3WhyUX5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>As the U.S. Attends the G7, China Hosts a Summit of Its Own</h3>
@@ -122,16 +80,58 @@ The world is constantly changing! In terms of international relations, the Unite
 <p>Xi Jinping of China is meeting with leaders of five countries in Central Asia, a region crucial to his geopolitical ambitions.  <a href="https://nyti.ms/3MMJ133"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Deutsche Bank Will Pay $75 Million to Victims of Jeffrey Epstein</h3>
-<sub>By Matthew Goldstein</sub>
-<p>A proposed court settlement closes another chapter in the German bank’s relationship with the disgraced financier, which began in 2013 and continued up until late 2018.  <a href="https://nyti.ms/3MD3KGe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The Latest Flash Point Among Ukraine’s Allies Is Whether to Send F-16s</h3>
+<sub>By Lara Jakes and Eric Schmitt</sub>
+<p>The United States is resisting a European push for the powerful fighters. But will it relent, as it did before with tanks, rocket launchers and air defense missiles?  <a href="https://nyti.ms/3MD3qXS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Another Casualty in Ukraine: Teenage Years</h3>
+<sub>By Andrew E. Kramer</sub>
+<p>In a battered Ukrainian city, the war has stolen the normal experiences of teenage life. The youths mostly use humor to deal with the ferocity of the fighting around them.  <a href="https://nyti.ms/3BE5PeW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>An Anonymous Source Goes Public</h3>
+<sub>By Diana Nguyen, Rikki Novetsky, Ben Calhoun, Paige Cowett, Devon Taylor, Marion Lozano, Elisheba Ittoop, Diane Wong, Dan Powell and Chris Wood</sub>
+<p>Ali Diercks, who was crucial to a major #MeToo story involving the CBS executive Les Moonves, talks about why she started sharing information.  <a href="https://nyti.ms/3BFkoih"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>‘Digital Twin’ of the Titanic Shows the Shipwreck in Stunning Detail</h3>
+<sub>By April Rubin</sub>
+<p>Researchers hope new 3-D images will provide clues about what happened to the ocean liner when it sank on its maiden voyage in 1912.  <a href="https://nyti.ms/42ODkac"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>In Battle Over A.I., Meta Decides to Give Away Its Crown Jewels</h3>
+<sub>By Cade Metz and Mike Isaac</sub>
+<p>The tech giant has publicly released its latest A.I. technology so people can build their own chatbots. Rivals like Google say that approach can be dangerous.  <a href="https://nyti.ms/3Wf1yIc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Another Side of the A.I. Boom: Detecting What A.I. Makes</h3>
+<sub>By Tiffany Hsu and Steven Lee Myers</sub>
+<p>More than a dozen companies have popped up to offer services aimed at identifying whether photos, text and videos are made by humans or machines.  <a href="https://nyti.ms/3pO297A"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>For a Queer Community in Los Angeles, This Public Park is a Lifeline</h3>
+<sub>By Daniel Jack Lyons and Pierre-Antoine Louis</sub>
+<p>At a time when their right to exist is under attack, these young L.G.B.T.Q. adults have carved out a space of safety, intimacy and friendship for themselves.  <a href="https://nyti.ms/3pRuGcB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Bard President Received $150,000 From Foundation Created by Jeffrey Epstein</h3>
-<sub>By Vimal Patel</sub>
-<p>Leon Botstein, the president of Bard College, said that he donated the money to his school as part of a $1 million gift he gave in 2016.  <a href="https://nyti.ms/3Mhq9Yc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Military Caught Airman Mishandling Secrets Before Arrest but Left Him in Job</h3>
+<sub>By Glenn Thrush and Robin Stein</sub>
+<p>A Justice Department filing urging that Airman Jack Teixeira be held without bail said his superiors had admonished him for taking notes and conducting deep-dive searches last fall.  <a href="https://nyti.ms/3MiegBi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Prince Harry and Meghan Say They Were Chased by Paparazzi in New York</h3>
+<sub>By Chelsia Rose Marcius, Mark Landler, Hurubie Meko and Michael M. Grynbaum</sub>
+<p>The initial description of the episode in Midtown Manhattan recalled the chase that killed Harry’s mother, but the fuller picture was more complicated.  <a href="https://nyti.ms/3MaWTSV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
 <hr/>
 </ol>
