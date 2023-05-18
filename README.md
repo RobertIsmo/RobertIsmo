@@ -60,10 +60,10 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, May 18, Central Standard Time</p>
 <p>
-There is currently a rift among Europe and the United States about whether to send F-16s. Heat levels are soaring to record highs across the world for the next five years, which could have far-reaching consequences. The United States military recently caught an airman mishandling secrets before his arrest yet he stayed in his job. In Texas, there is a bill just passed by their legislature that bans transgender medical care for children - though it is likely to get signed into law. In response to Jakarta’s unsustainable future, Indonesia’s president is working on creating a new capital city from scratch. Montana has signed a total ban of TikTok and other governments are voicing their concerns about it potentially putting user data at risk. Researchers have created a “digital twin” of the Titanic that provides stunning details to give insight into what could have happened to it when it sunk in 1912. Prince Harry and Meghan were chased by paparazzi in New York, resembling the chase that killed Harry’s mother, though the situation was more complex. Meanwhile, Deutsche Bank is paying out money to victims of Jeffrey Epstein and Leon Botstein (the President of Bard College) acknowledges receiving $150,000 from a foundation created by Jeffrey Epstein - though he donated it if as part of a $1 million gift he gave in 2016. Lastly, South Carolina’s House has passed an abortion ban that would last six weeks - bringing both chambers closer to agreement on this ban after months of debate.</p>
+The world is constantly changing! In terms of international relations, the United States is resisting a European push for powerful fighter jets, while China is hosting a summit with five Central Asian countries.Closer to home, the Texas legislature recently banned transgender medical care for children, and Montana&#39;s governor signed a total ban of TikTok in the state. In the realm of science, researchers are using 3-D imaging of the Titanic to piece together what happened when it sunk in 1912. And Prince Harry and Meghan Markle allege they were chased by paparazzi in New York. On the financial front, Deutsche Bank agreed to pay $75 million to victims of Jeffrey Epstein and Bard College President Leon Botstein received a $150,000 from a foundation created by Epstein in 2016.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Latest Rift Among Ukraine’s Allies Is Whether to Send F-16s</h3>
+<h3>The Latest Flash Point Among Ukraine’s Allies Is Whether to Send F-16s</h3>
 <sub>By Lara Jakes and Eric Schmitt</sub>
 <p>The United States is resisting a European push for the powerful fighters. But will it relent, as it did before with tanks, rocket launchers and air defense missiles?  <a href="https://nyti.ms/3MD3qXS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
@@ -116,6 +116,12 @@ There is currently a rift among Europe and the United States about whether to se
 <p>The initial description of the episode in Midtown Manhattan recalled the chase that killed Harry’s mother, but the fuller picture was more complicated.  <a href="https://nyti.ms/3MaWTSV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As the U.S. Attends the G7, China Hosts a Summit of Its Own</h3>
+<sub>By Nicole Hong</sub>
+<p>Xi Jinping of China is meeting with leaders of five countries in Central Asia, a region crucial to his geopolitical ambitions.  <a href="https://nyti.ms/3MMJ133"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Deutsche Bank Will Pay $75 Million to Victims of Jeffrey Epstein</h3>
 <sub>By Matthew Goldstein</sub>
@@ -126,12 +132,6 @@ There is currently a rift among Europe and the United States about whether to se
 <h3>Bard President Received $150,000 From Foundation Created by Jeffrey Epstein</h3>
 <sub>By Vimal Patel</sub>
 <p>Leon Botstein, the president of Bard College, said that he donated the money to his school as part of a $1 million gift he gave in 2016.  <a href="https://nyti.ms/3Mhq9Yc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>South Carolina House Passes Six-Week Abortion Ban</h3>
-<sub>By Kate Zernike</sub>
-<p>The approval brings both chambers of the legislature closer to agreement on a ban after months of debate.  <a href="https://nyti.ms/3obfy9o"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
 <hr/>
 </ol>
