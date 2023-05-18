@@ -60,10 +60,38 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, May 18, Central Standard Time</p>
 <p>
-This list of news articles provides a glimpse into what is happening in the world right now. There are issues related to politics, business, science, and technology. For example, leaders at the Group of 7 summit are celebrating their success in stabilizing global oil markets and the Supreme Court has sidestepped ruling on scope of internet liability shield. On the other hand there are tensions between Ukraine and Russia in which intelligence technologies are playing an important role. China is also playing a major role on the geopolitical stage by hosting its own summit in Central Asia. 
-
-In the US, Senator Dianne Feinstein—89-year-old California Democrat—has been dealing with serious health complications lately and the Supreme Court has ruled against Andy Warhol in a copyright case. And back home, New York City is facing an escalating crisis due to migrants crossing the border for which Mayor Bill de Blasio pleaded understanding from its citizens.</p>
+Recently, Senator Dianne Feinstein, who&#39;s 89 years old, had a bout of shingles which turned into encephalitis - an inflammation of the brain that could be debilitating. The U.S. is having trouble handling its massive debt and there are worries that it may default, though no one knows when it&#39;ll happen. There&#39;s also been some tension between President Biden and Florida Governor Ron DeSantis since President Biden cancelled a planned $1 billion development project in Florida that was supposed to create 2000 jobs. Meanwhile, the Supreme Court has been making headlines with rulings related to copyright laws, tech companies&#39; liability for user posts, and pandemic-era immigration measures.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Feinstein Suffered More Complications From Illness Than Were Publicly Disclosed</h3>
+<sub>By Annie Karni and Carl Hulse</sub>
+<p>Senator Dianne Feinstein, 89, whose recent bout with shingles included contracting encephalitis, is frailer than ever. But she remains unwilling to entertain discussions about leaving the Senate.  <a href="https://nyti.ms/43bN8uP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>What to Know About Post-Shingles Encephalitis</h3>
+<sub>By Benjamin Mueller</sub>
+<p>Senator Dianne Feinstein developed this rare and potentially debilitating complication after a shingles infection.  <a href="https://nyti.ms/41PNnKV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>What Would Happen if the U.S. Defaulted on Its Debt</h3>
+<sub>By Joe Rennison</sub>
+<p>Investors, executives and economists are preparing contingency plans as they consider the turmoil that would result from a default in the $24 trillion U.S. Treasury market.  <a href="https://nyti.ms/45pI4F4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>When Will the U.S. Run Out of Cash? The Answer Is Complicated.</h3>
+<sub>By Alan Rappeport</sub>
+<p>The federal government is essentially living paycheck to paycheck, making the X-date hard to pin down.  <a href="https://nyti.ms/3oexOi6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Pentagon Says Accounting Mistake Frees Up $3 Billion More for Ukraine</h3>
+<sub>By Karoun Demirjian, Edward Wong and Eric Schmitt</sub>
+<p>The Biden administration has been under bipartisan pressure to explain how it intended to continue sending weapons to Ukraine quickly without asking Congress for more money.  <a href="https://nyti.ms/3BDfmmj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>An Untested Oil Price Cap Has Helped Choke Revenue to Russia</h3>
 <sub>By Jim Tankersley</sub>
@@ -71,55 +99,25 @@ In the US, Senator Dianne Feinstein—89-year-old California Democrat—has been
 <sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine and China Will Dominate G7 Summit, but a New Threat Lurks: A.I.</h3>
-<sub>By David E. Sanger</sub>
-<p>The leaders are expected to hold their first talks on a common regulatory approach to generative artificial intelligence.  <a href="https://nyti.ms/3WhyUX5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Ukraine Arrests a Top Judge as Crackdown on Corruption Expands</h3>
+<sub>By Carlotta Gall</sub>
+<p>At least three more Supreme Court judges, in addition to the chief justice, have been implicated in a growing bribery case, prosecutors say.  <a href="https://nyti.ms/3Mjxiap"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As the U.S. Attends the G7, China Hosts a Summit of Its Own</h3>
-<sub>By Nicole Hong</sub>
-<p>Xi Jinping of China is meeting with leaders of five countries in Central Asia, a region crucial to his geopolitical ambitions.  <a href="https://nyti.ms/3MMJ133"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Feinstein Suffered More Complications From Illness Than Were Publicly Disclosed</h3>
-<sub>By Annie Karni and Carl Hulse</sub>
-<p>Senator Dianne Feinstein, 89, whose recent bout with shingles included contracting encephalitis, is frailer than ever. But she remains unwilling to entertain discussions about leaving the Senate.  <a href="https://nyti.ms/43bN8uP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>What Is the F-16 Fighter Jet and Why Does Ukraine Want It?</h3>
-<sub>By Lara Jakes</sub>
-<p>The versatile and lightweight American warplane is seen by many of Ukraine’s allies as an important deterrent against Russia.  <a href="https://nyti.ms/41QScDH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>An Anonymous #MeToo Source Goes Public</h3>
-<sub>By Diana Nguyen, Rikki Novetsky, Ben Calhoun, Paige Cowett, Devon Taylor, Marion Lozano, Elisheba Ittoop, Diane Wong, Dan Powell and Chris Wood</sub>
-<p>Ali Diercks, who was crucial to a major #MeToo story involving the CBS executive Les Moonves, talks about why she started sharing information.  <a href="https://nyti.ms/3BFkoih"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>‘Digital Twin’ of the Titanic Shows the Shipwreck in Stunning Detail</h3>
-<sub>By April Rubin</sub>
-<p>Researchers hope new 3-D images will provide clues about what happened to the ocean liner when it sank on its maiden voyage in 1912.  <a href="https://nyti.ms/42ODkac"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>In Battle Over A.I., Meta Decides to Give Away Its Crown Jewels</h3>
-<sub>By Cade Metz and Mike Isaac</sub>
-<p>The tech giant has publicly released its latest A.I. technology so people can build their own chatbots. Rivals like Google say that approach can be dangerous.  <a href="https://nyti.ms/3Wf1yIc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>OpenAI Introduces ChatGPT App for the iPhone</h3>
-<sub>By Cade Metz</sub>
-<p>OpenAI is aiming to build on the popularity of its chatbot with a smartphone app that responds to voice prompts.  <a href="https://nyti.ms/43awrj4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Disney Pulls Plug on $1 Billion Development in Florida</h3>
+<sub>By Brooks Barnes</sub>
+<p>A new office complex, and relocation of a division from California, would have created more than 2,000 jobs but was scuttled as the company and Gov. Ron DeSantis continue to feud.  <a href="https://nyti.ms/41RYKSx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Supreme Court Sidesteps Ruling on Scope of Internet Liability Shield</h3>
+<h3>‘Biden and Me’: DeSantis Privately Tells Donors Trump Can’t Win</h3>
+<sub>By Maggie Haberman, Jonathan Swan and Nicholas Nehamas</sub>
+<p>In a phone call with top donors, the Florida governor took his most direct shots yet at Donald Trump. He is expected to officially enter the presidential race next week.  <a href="https://nyti.ms/3MDoFZN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Supreme Court Won’t Hold Tech Companies Liable for User Posts</h3>
 <sub>By Adam Liptak</sub>
 <p>In another victory for technology platforms, the justices also ruled that a law allowing suits for aiding terrorism did not apply to the ordinary activities of social media companies.  <a href="https://nyti.ms/45f6NeS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
@@ -127,13 +125,13 @@ In the US, Senator Dianne Feinstein—89-year-old California Democrat—has been
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Supreme Court Rules Against Andy Warhol in Copyright Case</h3>
 <sub>By Adam Liptak</sub>
-<p>The question for the justices was whether the artist was free to use elements of a rock photographer’s portrait of the musician Prince.  <a href="https://nyti.ms/45fMCxJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The justices considered whether the artist was free to use elements of a rock photographer’s portrait of the musician Prince.  <a href="https://nyti.ms/45fMCxJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>As Crisis Grows, All of New York’s Migrant Plans Are Met With Outrage</h3>
-<sub>By Liam Stack and Jeffery C. Mays</sub>
-<p>First the city tried hotels, then tents, then a cruise ship terminal, then school gyms. As migrants have continued to cross the border, the mayor pleaded on Wednesday for understanding — and ideas.  <a href="https://nyti.ms/3WjwUh2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Supreme Court Dismisses Case on Pandemic-Era Immigration Measure</h3>
+<sub>By Adam Liptak</sub>
+<p>The justices acted after the Biden administration announced that the health emergency used to justify the measure, Title 42, was ending.  <a href="https://nyti.ms/41OeVQD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
