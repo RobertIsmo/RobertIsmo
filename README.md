@@ -60,30 +60,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, May 17, Central Standard Time</p>
 <p>
-There is a lot of news happening in the world right now. Scientists are warning that our planet will see unprecedented heat in the next five years, which could have far-reaching impacts on food security, water availability, the environment, and more. Canada&#39;s wildfires have disrupted lives and are now even impacting the oil and gas industry. Formula 1 has cancelled a Grand Prix due to deadly floods in Italy, President Biden is facing domestic and foreign issues as he heads to Japan for a summit, anti-abortion groups are challenging FDA approval of mifepristone (an abortion pill), Texas legislators are banning transgender medical care for children, Indonesia’s president is planning to move the nation’s capital city due to sinking land levels, Philadelphia&#39;s mayor was elected in a historic primary, Montana&#39;s governor has signed a total ban on TikTok, governments around the world are considering bans on TikTok due to user data concerns, stand-up comedians have embraced grief in recent shows, and scientists have presented new evidence suggesting that humans evolved at different times and places in Africa.</p>
+It&#39;s pretty chaotic out there. The United States and Europe are at odds over a push to send F-16 fighter jets to Ukraine. Meanwhile, a new analysis suggests heat will likely soar to record levels in the next 5 years. This is causing far-reaching consequences for health, food security, water management and the environment. Back home, President Biden has been dealing with domestic crises while abroad. He&#39;s currently in Japan trying to reassure world leaders that a debt ceiling showdown won&#39;t upend the global economy. On top of that, South Carolina just passed a six-week abortion ban, and Texas enacted a law banning transgender medical care for children. Indonesia is even relocating its capital city to try and tackle an unsustainable future! There&#39;s also drama surrounding Prince Harry and Meghan Markle&#39;s visit to New York City, plus governments around the world are trying to ban the TikTok app due to security concerns. Lastly, stand-up comics are using heartbreaking loss as source material for ambitious shows which is pretty unique.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The Latest Rift Among Ukraine’s Allies Is Whether to Send F-16s</h3>
+<sub>By Lara Jakes and Eric Schmitt</sub>
+<p>The United States is resisting a European push for the powerful fighters. But will it relent, as it did before with tanks, rocket launchers and air defense missiles?  <a href="https://nyti.ms/3MD3qXS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>Heat Will Likely Soar to Record Levels in Next 5 Years, New Analysis Says</h3>
 <sub>By Brad Plumer</sub>
 <p>The World Meteorological Organization forecast “far-reaching repercussions for health, food security, water management and the environment.”  <a href="https://nyti.ms/3Wf9Boz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Canada’s Wildfires Have Been Disrupting Lives. Now, Oil and Gas Take a Hit.</h3>
-<sub>By Hiroko Tabuchi</sub>
-<p>Alberta’s vast oil industry is cutting production as the flames menace wells and pipelines, highlighting the danger  <a href="https://nyti.ms/3IlFfuN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Formula 1 Cancels Grand Prix Amid Deadly Floods in Italy</h3>
-<sub>By Andrew Das</sub>
-<p>Safety concerns prompted the decision to call off the race at Imola, the site of this weekend’s Emilia-Romagna Grand Prix.  <a href="https://nyti.ms/3pP5NhD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>For Biden, Crisis at Home Complicates Diplomacy Abroad</h3>
 <sub>By Peter Baker</sub>
 <p>Volatility has become the new norm in Washington as the president heads to Japan, where he will reassure world leaders that the debt ceiling showdown will not upend the global economy.  <a href="https://nyti.ms/3M9adr7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>South Carolina House Passes Six-Week Abortion Ban</h3>
+<sub>By Kate Zernike</sub>
+<p>The approval brings both chambers of the legislature closer to agreement on a ban after months of debate.  <a href="https://nyti.ms/3obfy9o"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -128,10 +128,10 @@ There is a lot of news happening in the world right now. Scientists are warning 
 <p>A new generation of stand-ups is mining the heartbreaking loss of a loved one for ambitious shows. How did we get here?  <a href="https://nyti.ms/434jMhS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>Study Offers New Twist in How the First Humans Evolved</h3>
-<sub>By Carl Zimmer</sub>
-<p>A new genetic analysis of 290 people suggests that humans emerged at various times and places in Africa.  <a href="https://nyti.ms/3IGHpFB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Prince Harry and Meghan Say They Were Chased by Paparazzi in New York</h3>
+<sub>By Chelsia Rose Marcius, Mark Landler, Hurubie Meko and Michael M. Grynbaum</sub>
+<p>The initial description of the episode in Midtown Manhattan recalled the chase that killed Harry’s mother, but the fuller picture was more complicated.  <a href="https://nyti.ms/3MaWTSV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
 <hr/>
 </ol>
