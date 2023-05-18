@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Wednesday, May 17, Central Standard Time</p>
+<p>It is Thursday, May 18, Central Standard Time</p>
 <p>
-It&#39;s pretty chaotic out there. The United States and Europe are at odds over a push to send F-16 fighter jets to Ukraine. Meanwhile, a new analysis suggests heat will likely soar to record levels in the next 5 years. This is causing far-reaching consequences for health, food security, water management and the environment. Back home, President Biden has been dealing with domestic crises while abroad. He&#39;s currently in Japan trying to reassure world leaders that a debt ceiling showdown won&#39;t upend the global economy. On top of that, South Carolina just passed a six-week abortion ban, and Texas enacted a law banning transgender medical care for children. Indonesia is even relocating its capital city to try and tackle an unsustainable future! There&#39;s also drama surrounding Prince Harry and Meghan Markle&#39;s visit to New York City, plus governments around the world are trying to ban the TikTok app due to security concerns. Lastly, stand-up comics are using heartbreaking loss as source material for ambitious shows which is pretty unique.</p>
+There is currently a rift among Europe and the United States about whether to send F-16s. Heat levels are soaring to record highs across the world for the next five years, which could have far-reaching consequences. The United States military recently caught an airman mishandling secrets before his arrest yet he stayed in his job. In Texas, there is a bill just passed by their legislature that bans transgender medical care for children - though it is likely to get signed into law. In response to Jakarta’s unsustainable future, Indonesia’s president is working on creating a new capital city from scratch. Montana has signed a total ban of TikTok and other governments are voicing their concerns about it potentially putting user data at risk. Researchers have created a “digital twin” of the Titanic that provides stunning details to give insight into what could have happened to it when it sunk in 1912. Prince Harry and Meghan were chased by paparazzi in New York, resembling the chase that killed Harry’s mother, though the situation was more complex. Meanwhile, Deutsche Bank is paying out money to victims of Jeffrey Epstein and Leon Botstein (the President of Bard College) acknowledges receiving $150,000 from a foundation created by Jeffrey Epstein - though he donated it if as part of a $1 million gift he gave in 2016. Lastly, South Carolina’s House has passed an abortion ban that would last six weeks - bringing both chambers closer to agreement on this ban after months of debate.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>The Latest Rift Among Ukraine’s Allies Is Whether to Send F-16s</h3>
@@ -75,21 +75,9 @@ It&#39;s pretty chaotic out there. The United States and Europe are at odds over
 <sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>For Biden, Crisis at Home Complicates Diplomacy Abroad</h3>
-<sub>By Peter Baker</sub>
-<p>Volatility has become the new norm in Washington as the president heads to Japan, where he will reassure world leaders that the debt ceiling showdown will not upend the global economy.  <a href="https://nyti.ms/3M9adr7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>South Carolina House Passes Six-Week Abortion Ban</h3>
-<sub>By Kate Zernike</sub>
-<p>The approval brings both chambers of the legislature closer to agreement on a ban after months of debate.  <a href="https://nyti.ms/3obfy9o"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Appeals Court Seems Skeptical of F.D.A.’s Approval and Regulation of Abortion Pill</h3>
-<sub>By Abbie VanSickle and Pam Belluck</sub>
-<p>A panel of three judges heard arguments in a lawsuit by anti-abortion groups asking courts to order a widely used drug off the market.  <a href="https://nyti.ms/3IkTm3c"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Military Caught Airman Mishandling Secrets Before Arrest but Left Him in Job</h3>
+<sub>By Glenn Thrush and Robin Stein</sub>
+<p>A Justice Department filing urging that Airman Jack Teixeira be held without bail said his superiors had admonished him for taking notes and conducting deep-dive searches last fall.  <a href="https://nyti.ms/3MiegBi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -104,12 +92,6 @@ It&#39;s pretty chaotic out there. The United States and Europe are at odds over
 <p>Jakarta, like many places, faces an unsustainable future. Indonesia’s president is responding by building a new capital city from scratch.  <a href="https://nyti.ms/41GMzHZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>After Historic Primary in Philadelphia, a New Mayor Will Face Old Problems</h3>
-<sub>By Campbell Robertson</sub>
-<p>Cherelle Parker’s win in the Democratic primary is a sign of how the city has changed. But Philadelphia’s challenges remain deep and daunting.  <a href="https://nyti.ms/41KO0Wa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Montana Governor Signs Total Ban of TikTok in the State</h3>
 <sub>By Sapna Maheshwari</sub>
@@ -122,16 +104,34 @@ It&#39;s pretty chaotic out there. The United States and Europe are at odds over
 <p>Governments have expressed concerns that TikTok, which is owned by the Chinese company ByteDance, may endanger sensitive user data.  <a href="https://nyti.ms/3mjkGa6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>That’s the Funny Thing About Grief</h3>
-<sub>By Jason Zinoman</sub>
-<p>A new generation of stand-ups is mining the heartbreaking loss of a loved one for ambitious shows. How did we get here?  <a href="https://nyti.ms/434jMhS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>‘Digital Twin’ of the Titanic Shows the Shipwreck in Stunning Detail</h3>
+<sub>By April Rubin</sub>
+<p>Researchers hope new 3-D images will provide clues about what happened to the ocean liner when it sank on its maiden voyage in 1912.  <a href="https://nyti.ms/42ODkac"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Prince Harry and Meghan Say They Were Chased by Paparazzi in New York</h3>
 <sub>By Chelsia Rose Marcius, Mark Landler, Hurubie Meko and Michael M. Grynbaum</sub>
 <p>The initial description of the episode in Midtown Manhattan recalled the chase that killed Harry’s mother, but the fuller picture was more complicated.  <a href="https://nyti.ms/3MaWTSV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Deutsche Bank Will Pay $75 Million to Victims of Jeffrey Epstein</h3>
+<sub>By Matthew Goldstein</sub>
+<p>A proposed court settlement closes another chapter in the German bank’s relationship with the disgraced financier, which began in 2013 and continued up until late 2018.  <a href="https://nyti.ms/3MD3KGe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Bard President Received $150,000 From Foundation Created by Jeffrey Epstein</h3>
+<sub>By Vimal Patel</sub>
+<p>Leon Botstein, the president of Bard College, said that he donated the money to his school as part of a $1 million gift he gave in 2016.  <a href="https://nyti.ms/3Mhq9Yc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>South Carolina House Passes Six-Week Abortion Ban</h3>
+<sub>By Kate Zernike</sub>
+<p>The approval brings both chambers of the legislature closer to agreement on a ban after months of debate.  <a href="https://nyti.ms/3obfy9o"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
 <hr/>
 </ol>
