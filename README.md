@@ -60,11 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, May 17, Central Standard Time</p>
 <p>
-Right now, it looks like the world is facing a lot of challenges. For starters, heat is projected to rise to record levels in the next five years, with major consequences for health, food security, and the environment. Canada is trying to grapple with devastating wildfires that are also impacting their oil and gas industry. Italy has cancelled a major race because of severe flooding. 
-
-The US is currently dealing with major debt concerns--President Biden was confident they would not default and has named negotiators to talk with Republicans about a deal to raise the debt ceiling. Additionally, Ukrainians are seeing possible gains in a key battle area that may mark a shift in momentum in the conflict there. 
-
-And then there are less serious but still noteworthy things happening. Indonesia&#39;s president is responding to an unsustainable future by moving the capital city and comedians are finding humor in grief. Finally, Florida Governor DeSantis is making moves in anticipation of his 2024 presidential campaign, meanwhile a study suggests that humans evolved all over Africa at different times and places.</p>
+There is a lot of news happening in the world right now. Scientists are warning that our planet will see unprecedented heat in the next five years, which could have far-reaching impacts on food security, water availability, the environment, and more. Canada&#39;s wildfires have disrupted lives and are now even impacting the oil and gas industry. Formula 1 has cancelled a Grand Prix due to deadly floods in Italy, President Biden is facing domestic and foreign issues as he heads to Japan for a summit, anti-abortion groups are challenging FDA approval of mifepristone (an abortion pill), Texas legislators are banning transgender medical care for children, Indonesia’s president is planning to move the nation’s capital city due to sinking land levels, Philadelphia&#39;s mayor was elected in a historic primary, Montana&#39;s governor has signed a total ban on TikTok, governments around the world are considering bans on TikTok due to user data concerns, stand-up comedians have embraced grief in recent shows, and scientists have presented new evidence suggesting that humans evolved at different times and places in Africa.</p>
 <ol>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>Heat Will Likely Soar to Record Levels in Next 5 Years, New Analysis Says</h3>
@@ -91,27 +87,15 @@ And then there are less serious but still noteworthy things happening. Indonesia
 <sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Says He Is Confident America Will Not Default on Its Debts</h3>
-<sub>By Zolan Kanno-Youngs</sub>
-<p>Speaking just moments before he left for a diplomatic trip overseas, President Biden said a default would be “catastrophic.”  <a href="https://nyti.ms/41N9wJA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Appeals Court Seems Skeptical of F.D.A.’s Approval and Regulation of Abortion Pill</h3>
+<sub>By Abbie VanSickle and Pam Belluck</sub>
+<p>A panel of three judges heard arguments in a lawsuit by anti-abortion groups asking courts to order a widely used drug off the market.  <a href="https://nyti.ms/3IkTm3c"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>House Democrats Move Forward With Petition to Force Debt Limit Vote</h3>
-<sub>By Carl Hulse</sub>
-<p>The initiation of a discharge petition is seen as a last resort for averting default if negotiations over raising the debt ceiling collapse, and a way to pressure Republicans to strike a deal.  <a href="https://nyti.ms/42IgqBq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Taps Two Negotiators to Reach Debt Ceiling Deal With Republicans</h3>
-<sub>By Madeleine Ngo</sub>
-<p>President Biden selected Shalanda Young and Steve Ricchetti to talk directly with aides to Speaker Kevin McCarthy in an attempt to avoid default.  <a href="https://nyti.ms/3W9tmhb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Gains Near Bakhmut Raise Ukraine’s Hopes of a Turning Tide</h3>
-<sub>By Marc Santora and Tyler Hicks</sub>
-<p>The advances have been small, and Russians still hold most of the city, but Ukrainians say they see a meaningful shift in momentum.  <a href="https://nyti.ms/41IaWp0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Texas Legislature Bans Transgender Medical Care for Children</h3>
+<sub>By David Montgomery and J. David Goodman</sub>
+<p>Texas became the largest state to a pass a bill banning puberty blockers and hormone treatments. Gov. Greg Abbott was likely to sign it.  <a href="https://nyti.ms/3IlQgvQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-headway-blue" alt="">
@@ -120,16 +104,28 @@ And then there are less serious but still noteworthy things happening. Indonesia
 <p>Jakarta, like many places, faces an unsustainable future. Indonesia’s president is responding by building a new capital city from scratch.  <a href="https://nyti.ms/41GMzHZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 16, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>After Historic Primary in Philadelphia, a New Mayor Will Face Old Problems</h3>
+<sub>By Campbell Robertson</sub>
+<p>Cherelle Parker’s win in the Democratic primary is a sign of how the city has changed. But Philadelphia’s challenges remain deep and daunting.  <a href="https://nyti.ms/41KO0Wa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Montana Governor Signs Total Ban of TikTok in the State</h3>
+<sub>By Sapna Maheshwari</sub>
+<p>The legislation is the most extreme prohibition of the app in the nation and will almost certainly face legal challenges.  <a href="https://nyti.ms/3oe4FUk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Why Countries Are Trying to Ban TikTok</h3>
+<sub>By Sapna Maheshwari and Amanda Holpuch</sub>
+<p>Governments have expressed concerns that TikTok, which is owned by the Chinese company ByteDance, may endanger sensitive user data.  <a href="https://nyti.ms/3mjkGa6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 3, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>That’s the Funny Thing About Grief</h3>
 <sub>By Jason Zinoman</sub>
 <p>A new generation of stand-ups is mining the heartbreaking loss of a loved one for ambitious shows. How did we get here?  <a href="https://nyti.ms/434jMhS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis Signs Tall Stack of Right-Wing Bills as 2024 Entrance Nears</h3>
-<sub>By Nicholas Nehamas and Patricia Mazzei</sub>
-<p>The Florida governor is making a grab for national attention ahead of his expected presidential campaign rollout.  <a href="https://nyti.ms/3IjxdlW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
