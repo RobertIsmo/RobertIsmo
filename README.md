@@ -60,7 +60,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, May 18, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now! The G7 leaders are meeting to discuss a novel effort to stabilize global oil markets and punish Russia, and how to approach regulating generative artificial intelligence. Meanwhile, China is hosting their own summit with leaders from five countries in Central Asia. In Ukraine, the war has impacted teenagers who have lost out on normal teenage experiences. There is also a conflict among Ukraine&#39;s allies about whether or not to send F-16 fighters. On the gender issues front, an anonymous #MeToo source just went public with her story about sexual harassment in the workplace. In science news, researchers have created a 3D digital twin of the Titanic. In technology, there&#39;s an AI boom and companies popping up to detect machine-made content. Lastly, in Los Angeles there is a queer community creating a space of safety and intimacy for themselves, while the US military has revealed that they knew an airman was mishandling classified information before his arrest and now the Supreme Court ruled against Andy Warhol in a copyright case.</p>
+This list of news articles provides a glimpse into what is happening in the world right now. There are issues related to politics, business, science, and technology. For example, leaders at the Group of 7 summit are celebrating their success in stabilizing global oil markets and the Supreme Court has sidestepped ruling on scope of internet liability shield. On the other hand there are tensions between Ukraine and Russia in which intelligence technologies are playing an important role. China is also playing a major role on the geopolitical stage by hosting its own summit in Central Asia. 
+
+In the US, Senator Dianne Feinstein—89-year-old California Democrat—has been dealing with serious health complications lately and the Supreme Court has ruled against Andy Warhol in a copyright case. And back home, New York City is facing an escalating crisis due to migrants crossing the border for which Mayor Bill de Blasio pleaded understanding from its citizens.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>An Untested Oil Price Cap Has Helped Choke Revenue to Russia</h3>
@@ -80,17 +82,17 @@ There is a lot going on in the world right now! The G7 leaders are meeting to di
 <p>Xi Jinping of China is meeting with leaders of five countries in Central Asia, a region crucial to his geopolitical ambitions.  <a href="https://nyti.ms/3MMJ133"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Another Casualty in Ukraine: Teenage Years</h3>
-<sub>By Andrew E. Kramer</sub>
-<p>In a battered Ukrainian city, the war has stolen the normal experiences of teenage life. The youths mostly use humor to deal with the ferocity of the fighting around them.  <a href="https://nyti.ms/3BE5PeW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Feinstein Suffered More Complications From Illness Than Were Publicly Disclosed</h3>
+<sub>By Annie Karni and Carl Hulse</sub>
+<p>Senator Dianne Feinstein, 89, whose recent bout with shingles included contracting encephalitis, is frailer than ever. But she remains unwilling to entertain discussions about leaving the Senate.  <a href="https://nyti.ms/43bN8uP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Latest Flash Point Among Ukraine’s Allies Is Whether to Send F-16s</h3>
-<sub>By Lara Jakes and Eric Schmitt</sub>
-<p>The United States is resisting a European push for the powerful fighters. But will it relent, as it did before with tanks, rocket launchers and air defense missiles?  <a href="https://nyti.ms/3MD3qXS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
+<h3>What Is the F-16 Fighter Jet and Why Does Ukraine Want It?</h3>
+<sub>By Lara Jakes</sub>
+<p>The versatile and lightweight American warplane is seen by many of Ukraine’s allies as an important deterrent against Russia.  <a href="https://nyti.ms/41QScDH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-podcasts-blue" alt="">
 <h3>An Anonymous #MeToo Source Goes Public</h3>
@@ -111,27 +113,27 @@ There is a lot going on in the world right now! The G7 leaders are meeting to di
 <sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Another Side of the A.I. Boom: Detecting What A.I. Makes</h3>
-<sub>By Tiffany Hsu and Steven Lee Myers</sub>
-<p>More than a dozen companies have popped up to offer services aimed at identifying whether photos, text and videos are made by humans or machines.  <a href="https://nyti.ms/3pO297A"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>For a Queer Community in Los Angeles, This Public Park Is a Lifeline</h3>
-<sub>By Daniel Jack Lyons and Pierre-Antoine Louis</sub>
-<p>At a time when their right to exist is under attack, these young L.G.B.T.Q. adults have carved out a space of safety, intimacy and friendship for themselves.  <a href="https://nyti.ms/3pRuGcB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>OpenAI Introduces ChatGPT App for the iPhone</h3>
+<sub>By Cade Metz</sub>
+<p>OpenAI is aiming to build on the popularity of its chatbot with a smartphone app that responds to voice prompts.  <a href="https://nyti.ms/43awrj4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Military Caught Airman Mishandling Secrets Before Arrest but Left Him in Job</h3>
-<sub>By Glenn Thrush and Robin Stein</sub>
-<p>A Justice Department filing urging that Airman Jack Teixeira be held without bail said his superiors had admonished him for taking notes and conducting deep-dive searches last fall.  <a href="https://nyti.ms/3MiegBi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
+<h3>Supreme Court Sidesteps Ruling on Scope of Internet Liability Shield</h3>
+<sub>By Adam Liptak</sub>
+<p>In another victory for technology platforms, the justices also ruled that a law allowing suits for aiding terrorism did not apply to the ordinary activities of social media companies.  <a href="https://nyti.ms/45f6NeS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Supreme Court Rules Against Andy Warhol in Copyright Case</h3>
 <sub>By Adam Liptak</sub>
 <p>The question for the justices was whether the artist was free to use elements of a rock photographer’s portrait of the musician Prince.  <a href="https://nyti.ms/45fMCxJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>As Crisis Grows, All of New York’s Migrant Plans Are Met With Outrage</h3>
+<sub>By Liam Stack and Jeffery C. Mays</sub>
+<p>First the city tried hotels, then tents, then a cruise ship terminal, then school gyms. As migrants have continued to cross the border, the mayor pleaded on Wednesday for understanding — and ideas.  <a href="https://nyti.ms/3WjwUh2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
