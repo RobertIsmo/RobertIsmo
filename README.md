@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, May 18, Central Standard Time</p>
 <p>
-There are a lot of current events happening in the world right now. For example, leaders of the G7 are coming together to discuss stabilizing global oil markets and regulating artificial intelligence. Meanwhile, Ukraine is debating whether to send F-16 fighter jets while China is hosting its own summit and furthering its geopolitical ambitions. In addition, the US military has caught an airman mishandling secrets before arresting him but kept him in his job. Finally, Prince Harry and Meghan have complained about being chased by paparazzi in New York.</p>
+There is a lot going on in the world right now! The G7 leaders are meeting to discuss a novel effort to stabilize global oil markets and punish Russia, and how to approach regulating generative artificial intelligence. Meanwhile, China is hosting their own summit with leaders from five countries in Central Asia. In Ukraine, the war has impacted teenagers who have lost out on normal teenage experiences. There is also a conflict among Ukraine&#39;s allies about whether or not to send F-16 fighters. On the gender issues front, an anonymous #MeToo source just went public with her story about sexual harassment in the workplace. In science news, researchers have created a 3D digital twin of the Titanic. In technology, there&#39;s an AI boom and companies popping up to detect machine-made content. Lastly, in Los Angeles there is a queer community creating a space of safety and intimacy for themselves, while the US military has revealed that they knew an airman was mishandling classified information before his arrest and now the Supreme Court ruled against Andy Warhol in a copyright case.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>An Untested Oil Price Cap Has Helped Choke Revenue to Russia</h3>
@@ -81,19 +81,19 @@ There are a lot of current events happening in the world right now. For example,
 <sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Latest Flash Point Among Ukraine’s Allies Is Whether to Send F-16s</h3>
-<sub>By Lara Jakes and Eric Schmitt</sub>
-<p>The United States is resisting a European push for the powerful fighters. But will it relent, as it did before with tanks, rocket launchers and air defense missiles?  <a href="https://nyti.ms/3MD3qXS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Another Casualty in Ukraine: Teenage Years</h3>
 <sub>By Andrew E. Kramer</sub>
 <p>In a battered Ukrainian city, the war has stolen the normal experiences of teenage life. The youths mostly use humor to deal with the ferocity of the fighting around them.  <a href="https://nyti.ms/3BE5PeW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The Latest Flash Point Among Ukraine’s Allies Is Whether to Send F-16s</h3>
+<sub>By Lara Jakes and Eric Schmitt</sub>
+<p>The United States is resisting a European push for the powerful fighters. But will it relent, as it did before with tanks, rocket launchers and air defense missiles?  <a href="https://nyti.ms/3MD3qXS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>An Anonymous Source Goes Public</h3>
+<h3>An Anonymous #MeToo Source Goes Public</h3>
 <sub>By Diana Nguyen, Rikki Novetsky, Ben Calhoun, Paige Cowett, Devon Taylor, Marion Lozano, Elisheba Ittoop, Diane Wong, Dan Powell and Chris Wood</sub>
 <p>Ali Diercks, who was crucial to a major #MeToo story involving the CBS executive Les Moonves, talks about why she started sharing information.  <a href="https://nyti.ms/3BFkoih"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
@@ -117,7 +117,7 @@ There are a lot of current events happening in the world right now. For example,
 <sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>For a Queer Community in Los Angeles, This Public Park is a Lifeline</h3>
+<h3>For a Queer Community in Los Angeles, This Public Park Is a Lifeline</h3>
 <sub>By Daniel Jack Lyons and Pierre-Antoine Louis</sub>
 <p>At a time when their right to exist is under attack, these young L.G.B.T.Q. adults have carved out a space of safety, intimacy and friendship for themselves.  <a href="https://nyti.ms/3pRuGcB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
@@ -128,11 +128,11 @@ There are a lot of current events happening in the world right now. For example,
 <p>A Justice Department filing urging that Airman Jack Teixeira be held without bail said his superiors had admonished him for taking notes and conducting deep-dive searches last fall.  <a href="https://nyti.ms/3MiegBi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Prince Harry and Meghan Say They Were Chased by Paparazzi in New York</h3>
-<sub>By Chelsia Rose Marcius, Mark Landler, Hurubie Meko and Michael M. Grynbaum</sub>
-<p>The initial description of the episode in Midtown Manhattan recalled the chase that killed Harry’s mother, but the fuller picture was more complicated.  <a href="https://nyti.ms/3MaWTSV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 17, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Supreme Court Rules Against Andy Warhol in Copyright Case</h3>
+<sub>By Adam Liptak</sub>
+<p>The question for the justices was whether the artist was free to use elements of a rock photographer’s portrait of the musician Prince.  <a href="https://nyti.ms/45fMCxJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
