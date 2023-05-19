@@ -58,16 +58,22 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Thursday, May 18, Central Standard Time</p>
+<p>It is Friday, May 19, Central Standard Time</p>
 <p>
-It looks like the US is facing a lot of political and economic issues. There is speculation that the US could default on their debt payments, so investors, executives and economists have been looking at ways to plan for the growing possibility of turmoil in the treasury market. People are also divided over strict work requirements for those receiving public assistance. On a different note, the Pentagon recently found an unexpected $3 billion they can now allocate to Ukraine. 
-
-Russia has also been on the move lately. Tensions between Russia and Ukraine escalated after an explosion on a train in Crimea, sparking worry about Russia&#39;s war machine. Back in the states, the Biden administration has come under bipartisan pressure, while Florida governor DeSantis may be planning a run for president soon. 
-
-When it comes to business news, Disney cancelled a $1 billion development in Florida due to issues with Governor DeSantis. On a related note, users of TikTok are suing Montana after the state enacted a ban citing concerns over sensitive user data being collected by Chinese government agencies. 
-
-Finally, in Supreme Court news, they ruled against Andy Warhol&#39;s copyright case and dismissed another on pandemic-era immigration measures after the current health emergency expired.</p>
+It looks like there&#39;s a lot of political tension happening with Russia and Ukraine. The US government is increasing their support for Ukraine by allocating more money for military spending and is facing bipartisan pressure to do so quickly. In the US, people are preparing for what will happen in case the government defaults on debt. There have also been some clashes between Democrats and Republicans regarding welfare requirements. Florida governor Ron DeSantis has made some strong remarks about former president Donald Trump which will likely cause some tension as he enters the presidential race. In addition, Disney music pulled out of a development in Florida and there have been a lot of issues with housing migrants in New York City. Lastly, Salman Rushdie made an unexpected appearance at the PEN America gala event to receive an award honoring freedom of speech after he was attacked last year.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As Russia Tries to Pummel Kyiv, a Blast in Crimea Hints at Ukraine’s Reach</h3>
+<sub>By Andrew E. Kramer and Matthew Mpoke Bigg</sub>
+<p>Ukrainian officials did not claim responsibility for a train derailment on the occupied peninsula, but it was the latest in a series of explosions hitting the railways and supply lines of Russia’s war machine.  <a href="https://nyti.ms/3MiOr4j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Pentagon Says Accounting Mistake Frees Up $3 Billion More for Ukraine</h3>
+<sub>By Karoun Demirjian, Edward Wong and Eric Schmitt</sub>
+<p>The Biden administration has been under bipartisan pressure to explain how it intended to continue sending weapons to Ukraine quickly without asking Congress for more money.  <a href="https://nyti.ms/3BDfmmj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>What Would Happen if the U.S. Defaulted on Its Debt</h3>
 <sub>By Joe Rennison</sub>
@@ -78,18 +84,6 @@ Finally, in Supreme Court news, they ruled against Andy Warhol&#39;s copyright c
 <h3>As Biden Weighs Paring Public Assistance in Debt Limit Talks, Liberals Balk</h3>
 <sub>By Catie Edmondson</sub>
 <p>A G.O.P. demand to impose stricter work requirements on recipients of food stamps and other public benefits has drawn a Democratic backlash, underscoring the tricky politics at play in the negotiations.  <a href="https://nyti.ms/3ofxe3z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Pentagon Says Accounting Mistake Frees Up $3 Billion More for Ukraine</h3>
-<sub>By Karoun Demirjian, Edward Wong and Eric Schmitt</sub>
-<p>The Biden administration has been under bipartisan pressure to explain how it intended to continue sending weapons to Ukraine quickly without asking Congress for more money.  <a href="https://nyti.ms/3BDfmmj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Russia Tries to Pummel Kyiv, a Blast in Crimea Hints at Ukraine’s Reach</h3>
-<sub>By Andrew E. Kramer and Matthew Mpoke Bigg</sub>
-<p>Ukrainian officials did not claim responsibility for a train derailment on the occupied peninsula, but it was the latest in a series of explosions hitting the railways and supply lines of Russia’s war machine.  <a href="https://nyti.ms/3MiOr4j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -105,15 +99,15 @@ Finally, in Supreme Court news, they ruled against Andy Warhol&#39;s copyright c
 <sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Feinstein Suffered More Complications From Illness Than Were Publicly Disclosed</h3>
-<sub>By Annie Karni and Carl Hulse</sub>
-<p>Senator Dianne Feinstein, 89, whose recent bout with shingles included contracting encephalitis, is frailer than ever. But she remains unwilling to entertain discussions about leaving the Senate.  <a href="https://nyti.ms/43bN8uP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Georgia Prosecutor Signals August Timetable for Charges in Trump Inquiry</h3>
+<sub>By Richard Fausset and Danny Hakim</sub>
+<p>The Fulton County district attorney said most of her staff would work remotely at times, and asked judges not to schedule trials, in the first half of August.  <a href="https://nyti.ms/42QukRR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Supreme Court Won’t Hold Tech Companies Liable for User Posts</h3>
-<sub>By Adam Liptak</sub>
-<p>The justices ruled in one case that a law allowing suits for aiding terrorism did not apply to the ordinary activities of social media companies.  <a href="https://nyti.ms/45f6NeS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Feinstein Suffered More Complications From Illness Than Were Publicly Disclosed</h3>
+<sub>By Annie Karni and Carl Hulse</sub>
+<p>Senator Dianne Feinstein, 89, whose recent bout with shingles included contracting encephalitis, is frailer than ever. But she remains unwilling to entertain discussions about leaving the Senate.  <a href="https://nyti.ms/43bN8uP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -123,21 +117,21 @@ Finally, in Supreme Court news, they ruled against Andy Warhol&#39;s copyright c
 <sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Supreme Court Dismisses Case on Pandemic-Era Immigration Measure</h3>
+<h3>Supreme Court Won’t Hold Tech Companies Liable for User Posts</h3>
 <sub>By Adam Liptak</sub>
-<p>The justices acted after the Biden administration announced that the health emergency used to justify the measure, Title 42, was ending.  <a href="https://nyti.ms/41OeVQD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The justices ruled in one case that a law allowing suits for aiding terrorism did not apply to the ordinary activities of social media companies.  <a href="https://nyti.ms/45f6NeS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>TikTok Users Sue Montana, Calling State Ban Unconstitutional</h3>
-<sub>By Sapna Maheshwari and David McCabe</sub>
-<p>A spokeswoman for the state attorney general said that his office had “expected a legal challenge” and was “fully prepared to defend the law.”  <a href="https://nyti.ms/3BFRcYi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>As Crisis Grows, All of New York’s Migrant Plans Are Met With Outrage</h3>
+<sub>By Liam Stack and Jeffery C. Mays</sub>
+<p>First the city tried hotels, then tents, then a cruise ship terminal, then school gyms. As migrants have continued to cross the border, the mayor pleaded on Wednesday for understanding — and ideas.  <a href="https://nyti.ms/3WjwUh2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Montana, a TikTok Ban Could Be a ‘Kick in the Face’</h3>
-<sub>By Jacey Fortin, Eliza Fawcett and Jim Robbins</sub>
-<p>Users of the popular social media site were less than pleased by the ban, enacted over fears that sensitive user data could end up in the hands of the Chinese government.  <a href="https://nyti.ms/45hLoCa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Salman Rushdie Makes Surprise Appearance at PEN America Gala</h3>
+<sub>By Jennifer Schuessler</sub>
+<p>The novelist, who was stabbed and gravely wounded at a literary event last year, received an award from the freedom of expression organization.  <a href="https://nyti.ms/42O0pKb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
