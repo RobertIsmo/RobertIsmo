@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, May 19, Central Standard Time</p>
 <p>
-It looks like some of the leading countries in the world are really trying to make changes to protect the environment and compete with China. The G7 countries are planning to spend trillions to green-ify the economy, while also stealing away some of China&#39;s manufacturing power. On a more somber note, President Biden recently paid tribute to victims of the Hiroshima bombing, bringing up issues of nuclear weapons security around the world. In Greece, there is controversy over video evidence that appears to show asylum seekers being rounded up and abandoned on a raft by the Greek Coast Guard. And in other news, Donald Trump&#39;s ally could face perjury charges if he doesn&#39;t cooperate with an impending prosecution in New York, and Amazon is taking some heat due to its new size and monopolistic power. Meanwhile, there is an exciting development in technology in America; semiconductor companies are hiring thousands more employees thanks to federal dollars. On a smaller scale, researchers have been investigating why we even listen to sad songs when they bring us down (it apparently connects us emotionally with others). In California, some people think Sen. Dianne Feinstein has been in office too long due to her ill health while others sympathize with her. To make matters worse, she is reported to have suffered more complications from her illness than was publicly disclosed. Another sad situation around America is that it doesn&#39;t appear that police officers are wearing body cameras - this lack of video footage certainly hasn&#39;t helped clamor surrounding an activist who was killed by Georgia police officers. On a happier note, Brittney Griner has returned to professional basketball after her detention in Russia! She&#39;s using her increased platform to make serious changes for women&#39;s sports.</p>
+There&#39;s a lot happening in the world right now. The G7 countries are looking to counter China by borrowing its economic playbook and spending trillions on a new climate-friendly energy economy. Biden recently paid silent tribute to victims of the Hiroshima bombing, and China is struggling with record-high youth unemployment due to an uneven economic recovery from the pandemic. In Greece, the Coast Guard was caught on video abandoning asylum seekers on a raft at sea. Jordan Neely recently died in NYC after being choked by police. There&#39;s an August timetable in Georgia for charges related to Trump inquiries, and Manhattan district attorney is investigating his ally Allen Weisselberg again. New York congressman Jamaal Bowman is speaking out against Republicans in Congress like Marjorie Taylor Greene, and American semiconductor companies are facing a challenge of not enough workers to fill thousands of open positions due to billions of federal dollars. Amazon is becoming so ubiquitous, it&#39;s making them vulnerable and workers are pushing back. Finally, Senator Diane Feinstein from California is facing scrutiny for her age but constituents remain divided on if she should stay in office or step down.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>To Counter China, G7 Countries Borrow Its Economic Playbook</h3>
@@ -74,10 +74,28 @@ It looks like some of the leading countries in the world are really trying to ma
 <p>The president joined other leaders in laying wreaths at a memorial to the first wartime use of a nuclear weapon, amid growing fears that one could be used again.  <a href="https://nyti.ms/3MDq1np"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 19, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>1 in 5 Young Chinese Is Jobless, and Millions More Are About to Graduate</h3>
+<sub>By Claire Fu</sub>
+<p>The youth unemployment rate, which spiked during the pandemic, reached a record high this week, showing the perils of China’s uneven economic recovery.  <a href="https://nyti.ms/3Wqfkba"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>China’s Tech Giants Signal the First Steps in a Bumpy Recovery</h3>
+<sub>By Chang Che</sub>
+<p>The economy is open again, helping Alibaba, Baidu and Tencent claw back in the first quarter from a miserable 2022, though they will likely face continuing skepticism from investors.  <a href="https://nyti.ms/3Mob1Z8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 19, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Greece Says It Doesn’t Ditch Migrants at Sea. It Was Caught in the Act.</h3>
 <sub>By Matina Stevis-Gridneff, Sarah Kerr, Kassie Bracken and Nimet Kirac</sub>
 <p>Video evidence shows asylum seekers, among them young children, being rounded up, taken to sea and abandoned on a raft by the Greek Coast Guard.  <a href="https://nyti.ms/3ofKc1j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Jordan Neely Is Mourned at Funeral in Harlem</h3>
+<sub>By Maria Cramer</sub>
+<p>The Rev. Al Sharpton will eulogize Mr. Neely, who was choked to death earlier this month on the subway, in a case that has led to protests throughout New York City.  <a href="https://nyti.ms/3MnFh6i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -92,10 +110,10 @@ It looks like some of the leading countries in the world are really trying to ma
 <p>After bringing charges against former President Donald J. Trump, the Manhattan district attorney’s office is once again investigating Allen H. Weisselberg, 75.  <a href="https://nyti.ms/3BF7tg9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Amazon Is Everywhere. That’s What Makes It So Vulnerable.</h3>
-<sub>By Noam Scheiber</sub>
-<p>For years, the e-commerce giant could shield its vast archipelago of warehouses against disruptions from workers. Then it got even bigger.  <a href="https://nyti.ms/3MIdgYS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Jamaal Bowman Finds His Voice. Some Republicans Don’t Like the Sound.</h3>
+<sub>By Nicholas Fandos</sub>
+<p>The Democratic congressman has made a habit of brashly confronting Republicans like Marjorie Taylor Greene, often in public displays meant to attract attention.  <a href="https://nyti.ms/3pTYaX5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -104,10 +122,10 @@ It looks like some of the leading countries in the world are really trying to ma
 <p>Strengthened by billions of federal dollars, semiconductor companies plan to create thousands of jobs. But officials say there might not be enough people to fill them.  <a href="https://nyti.ms/3pOrLkB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>Why Do We Listen to Sad Songs?</h3>
-<sub>By Oliver Whang</sub>
-<p>Not because it makes us sad, but because it connects us to other people, some researchers suggest.  <a href="https://nyti.ms/4388R6P"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Amazon Is Everywhere. That’s What Makes It So Vulnerable.</h3>
+<sub>By Noam Scheiber</sub>
+<p>For years, the e-commerce giant could shield its vast archipelago of warehouses against disruptions from workers. Then it got even bigger.  <a href="https://nyti.ms/3MIdgYS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -115,24 +133,6 @@ It looks like some of the leading countries in the world are really trying to ma
 <sub>By Thomas Fuller</sub>
 <p>Senator Dianne Feinstein’s constituents in California expressed sympathy for her deteriorating health. Some thought it was time for her to step down, while others said it remains her decision to make.  <a href="https://nyti.ms/3pTHRJX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Feinstein Suffered More Complications From Illness Than Were Publicly Disclosed</h3>
-<sub>By Annie Karni and Carl Hulse</sub>
-<p>Senator Dianne Feinstein, 89, whose recent bout with shingles included contracting encephalitis, is frailer than ever. But she remains unwilling to entertain discussions about leaving the Senate.  <a href="https://nyti.ms/43bN8uP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Body Cameras Can Be a Powerful Tool. But Not All Police Forces Wear Them.</h3>
-<sub>By Sean Keenan</sub>
-<p>Officers in Georgia killed an activist who they say shot first. But a lack of video footage has inflamed the controversy over the death.  <a href="https://nyti.ms/43aP9Y8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Brittney Griner Is Creating a New Normal, for Herself and the W.N.B.A.</h3>
-<sub>By Jonathan Abrams</sub>
-<p>Griner returns to basketball after her detention in Russia with a bigger platform and a desire to reshape women’s sports.  <a href="https://nyti.ms/41RnR7S"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
