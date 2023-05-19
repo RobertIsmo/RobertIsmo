@@ -60,7 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, May 18, Central Standard Time</p>
 <p>
-Things in the world have been a bit turbulent recently. In the US, there&#39;s talks of paring back public assistance, and a lot of pressure from both sides of the aisle to continue sending weapons to Ukraine without asking for more money. There have been some tense political moves being made in Florida between Disney and the governor, Ron DeSantis. On the worldwide front, a blast in Russia&#39;s Crimea happened recently, likely carried out by Ukraine in retaliation for Russian aggressions. Ukraine is ramping up arrests against corruption as well. The Supreme Court has also made several legal stipulations recently about copyright issues, tech companies being liable for user posts, and an immigration measure tied to a pandemic issue.</p>
+It looks like the US is facing a lot of political and economic issues. There is speculation that the US could default on their debt payments, so investors, executives and economists have been looking at ways to plan for the growing possibility of turmoil in the treasury market. People are also divided over strict work requirements for those receiving public assistance. On a different note, the Pentagon recently found an unexpected $3 billion they can now allocate to Ukraine. 
+
+Russia has also been on the move lately. Tensions between Russia and Ukraine escalated after an explosion on a train in Crimea, sparking worry about Russia&#39;s war machine. Back in the states, the Biden administration has come under bipartisan pressure, while Florida governor DeSantis may be planning a run for president soon. 
+
+When it comes to business news, Disney cancelled a $1 billion development in Florida due to issues with Governor DeSantis. On a related note, users of TikTok are suing Montana after the state enacted a ban citing concerns over sensitive user data being collected by Chinese government agencies. 
+
+Finally, in Supreme Court news, they ruled against Andy Warhol&#39;s copyright case and dismissed another on pandemic-era immigration measures after the current health emergency expired.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>What Would Happen if the U.S. Defaulted on Its Debt</h3>
@@ -86,12 +92,6 @@ Things in the world have been a bit turbulent recently. In the US, there&#39;s t
 <p>Ukrainian officials did not claim responsibility for a train derailment on the occupied peninsula, but it was the latest in a series of explosions hitting the railways and supply lines of Russia’s war machine.  <a href="https://nyti.ms/3MiOr4j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Arrests a Top Judge as Crackdown on Corruption Expands</h3>
-<sub>By Carlotta Gall</sub>
-<p>At least three more Supreme Court judges, in addition to the chief justice, have been implicated in a growing bribery case, prosecutors say.  <a href="https://nyti.ms/3Mjxiap"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>‘Biden and Me’: DeSantis Privately Tells Donors Trump Can’t Win</h3>
 <sub>By Maggie Haberman, Jonathan Swan and Nicholas Nehamas</sub>
@@ -110,12 +110,6 @@ Things in the world have been a bit turbulent recently. In the US, there&#39;s t
 <p>Senator Dianne Feinstein, 89, whose recent bout with shingles included contracting encephalitis, is frailer than ever. But she remains unwilling to entertain discussions about leaving the Senate.  <a href="https://nyti.ms/43bN8uP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>What to Know About Post-Shingles Encephalitis</h3>
-<sub>By Benjamin Mueller</sub>
-<p>Senator Dianne Feinstein developed this rare and potentially debilitating complication after a shingles infection.  <a href="https://nyti.ms/41PNnKV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Supreme Court Won’t Hold Tech Companies Liable for User Posts</h3>
 <sub>By Adam Liptak</sub>
@@ -132,6 +126,18 @@ Things in the world have been a bit turbulent recently. In the US, there&#39;s t
 <h3>Supreme Court Dismisses Case on Pandemic-Era Immigration Measure</h3>
 <sub>By Adam Liptak</sub>
 <p>The justices acted after the Biden administration announced that the health emergency used to justify the measure, Title 42, was ending.  <a href="https://nyti.ms/41OeVQD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>TikTok Users Sue Montana, Calling State Ban Unconstitutional</h3>
+<sub>By Sapna Maheshwari and David McCabe</sub>
+<p>A spokeswoman for the state attorney general said that his office had “expected a legal challenge” and was “fully prepared to defend the law.”  <a href="https://nyti.ms/3BFRcYi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Montana, a TikTok Ban Could Be a ‘Kick in the Face’</h3>
+<sub>By Jacey Fortin, Eliza Fawcett and Jim Robbins</sub>
+<p>Users of the popular social media site were less than pleased by the ban, enacted over fears that sensitive user data could end up in the hands of the Chinese government.  <a href="https://nyti.ms/45hLoCa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
