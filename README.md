@@ -60,14 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, May 19, Central Standard Time</p>
 <p>
-Right now, there are a lot of political and economic issues happening around the world. In the US, there is a snag in a debt limit negotiation between the White House and Republicans, while some anti-Ukraine members of the Republican party are pushing for more influence. Over in Georgia, tensions have flared as Russia recently started direct flights to the country and their actions have stirred up fears because they invaded Georgia in 2008. There&#39;s also been tension over the death of Jordan Neely in Harlem, who was choked by police earlier this month, which has sparked more calls for equal justice.
+There are a lot of big stories happening in the world right now. In a sharp reversal from his predecessor, President Biden opened a path for Ukraine to get fighter jets. On the domestic front, Republican lawmakers are taking a hard line on military aid to Ukraine, while the centrist &#39;No Labels&#39; is pushing for a third-party run in 2024, with some Democrats worried about the consequences. 
 
-In China, there is a massive youth unemployment problem and their tech giants are signaling a slow recovery from the pandemic. Meanwhile, G7 countries are emulating some of China&#39;s economic tactics to counter it. One interesting move is from &#39;No Labels&#39;, an American organization that is raising money for a third-party presidential run in 2024 that has Joe Manchin at the top of its list. Lastly, Tim Scott is getting ready to join the 2024 race with plenty of campaign cash backing him up.</p>
+In the sports world, there was sad news that Jim Brown, the Football great and civil rights champion, recently died at 87. His legacy (as with many others) was stained by allegations of abuse against women. 
+
+On the international stage, Greece has been caught abandoning migrants at sea, and US diplomats reportedly shredded passports and stranded locals as they evacuated an embassy in Sudan. Meanwhile, FBI officials have violated surveillance rules after both George Floyd protests and othe Jan 6 attack.
+
+Closer to home we’ve seen Florida Gov. DeSantis trying to boost his retail campaigning efforts in New Hampshire, and Democratic Congressman Jamaal Bowman arousing controversy by publicly confronting Republicans like Marjorie Taylor Green.
+
+Lastly, NYC mourned the death of Rev. Timothy Keller at 72—an evangelist who gained fame by shunning fire and brimstone messaging and eventually starting Redeemer Presbyterian Church which drew many young New Yorkers.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Debt Limit Talks Hit Snag as G.O.P. Declares a ‘Pause’</h3>
-<sub>By Catie Edmondson</sub>
-<p>Republicans left negotiations on Friday, saying the White House was refusing to move its way on spending cuts.  <a href="https://nyti.ms/436DUQi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In a Sharp Reversal, Biden Opens a Path for Ukraine to Get Fighter Jets</h3>
+<sub>By David E. Sanger, Jim Tankersley, Michael Crowley and Eric Schmitt</sub>
+<p>The president told allied leaders that he would allow Ukrainian pilots to be trained on American-made F-16s, and is prepared to approve other countries’ transferring the jets to Ukraine.  <a href="https://nyti.ms/3WmkFjz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -76,16 +82,34 @@ In China, there is a massive youth unemployment problem and their tech giants ar
 <p>Hawkish senior Republicans aside, there is evidence to suggest that the anti-Ukraine flank of the party is playing not to the fringe but to the heart of its base.  <a href="https://nyti.ms/3WhFPiI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Tensions Flare in Georgia as Direct Flights Resume With Russia</h3>
-<sub>By Ivan Nechepurenko</sub>
-<p>Moscow also eased visa requirements for Georgians. But its actions have stirred fears in Georgia, which was invaded by Russia in 2008.  <a href="https://nyti.ms/45gYHlZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Jim Brown, Football Great and Civil Rights Champion, Dies at 87</h3>
+<sub>By Richard Goldstein</sub>
+<p>After a Hall of Fame career in the N.F.L., he pursued social activism and a Hollywood career, but his image was stained by accusations of abuse toward women.  <a href="https://nyti.ms/3pUIRxm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Debt Limit Talks Hit Snag as G.O.P. Declares a ‘Pause’</h3>
+<sub>By Catie Edmondson</sub>
+<p>Republicans left negotiations on Friday, saying the White House was refusing to move its way on spending cuts.  <a href="https://nyti.ms/436DUQi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Jamaal Bowman Finds His Voice. Some Republicans Don’t Like the Sound.</h3>
 <sub>By Nicholas Fandos</sub>
 <p>The Democratic congressman has made a habit of brashly confronting Republicans like Marjorie Taylor Greene, often in public displays meant to attract attention.  <a href="https://nyti.ms/3pTYaX5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>‘No Labels’ Eyes a Third-Party Run in 2024. Democrats Are Alarmed</h3>
+<sub>By Jonathan Weisman</sub>
+<p>The centrist group is gaining steam — and raising money — in its effort to get a candidate on the 2024 ballot, with Joe Manchin at the top of their list.  <a href="https://nyti.ms/3oaID4T"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>DeSantis Amps Up His Retail Campaign in New Hampshire</h3>
+<sub>By Nicholas Nehamas</sub>
+<p>The Florida governor met with state lawmakers and made the standard diner visit to press flesh with voters, showcasing his more moderate side.  <a href="https://nyti.ms/3OkHpyy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -100,40 +124,22 @@ In China, there is a massive youth unemployment problem and their tech giants ar
 <p>Somatic therapy is surging, with the promise that true healing may reside in focusing on the physical rather than the mental.  <a href="https://nyti.ms/3Wdt0WS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Fleeing Sudan, U.S. Diplomats Shredded Passports and Stranded Locals</h3>
+<sub>By Declan Walsh</sub>
+<p>Officials destroyed Sudanese passports on security grounds as they evacuated the Khartoum embassy. Now the passport owners are trapped in a war zone.  <a href="https://nyti.ms/3Ir1eAC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>F.B.I. Violated Surveillance Program Rules After George Floyd Protests and Jan. 6 Attack</h3>
+<sub>By Charlie Savage</sub>
+<p>The bureau made changes after the newly revealed violations of rules for querying messages intercepted under an expiring warrantless surveillance law.  <a href="https://nyti.ms/3InyKre"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 19, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>At Harlem Funeral for Jordan Neely, a Demand for ‘Equal Justice’</h3>
-<sub>By Maria Cramer and Hurubie Meko</sub>
-<p>Hundreds gathered to mourn Mr. Neely, who was choked to death earlier this month on the subway, including the Rev. Al Sharpton, who eulogized him.  <a href="https://nyti.ms/3MnFh6i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>1 in 5 Young Chinese Is Jobless, and Millions More Are About to Graduate</h3>
-<sub>By Claire Fu</sub>
-<p>The youth unemployment rate, which spiked during the pandemic, reached a record high this week, showing the perils of China’s uneven economic recovery.  <a href="https://nyti.ms/3Wqfkba"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>China’s Tech Giants Signal the First Steps in a Bumpy Recovery</h3>
-<sub>By Chang Che</sub>
-<p>The economy is open again, helping Alibaba, Baidu and Tencent claw back in the first quarter from a miserable 2022, though they will likely face continuing skepticism from investors.  <a href="https://nyti.ms/3Mob1Z8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>To Counter China, G7 Countries Borrow Its Economic Playbook</h3>
-<sub>By Jim Tankersley and Ana Swanson</sub>
-<p>Wealthy democracies rev up an effort to spend trillions on a new climate-friendly energy economy, while stealing away some of China’s manufacturing power.  <a href="https://nyti.ms/3MGQyAk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘No Labels’ Eyes a Third-Party Run in 2024. Democrats Are Alarmed</h3>
-<sub>By Jonathan Weisman</sub>
-<p>The centrist group is gaining steam — and raising money — in its effort to get a candidate on the 2024 ballot, with Joe Manchin at the top of their list.  <a href="https://nyti.ms/3oaID4T"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Flush With Campaign Cash, Tim Scott Is Set to Join ’24 Race</h3>
-<sub>By Jonathan Swan and Maggie Haberman</sub>
-<p>The South Carolina senator will announce his campaign on Monday and then head to Iowa and New Hampshire.  <a href="https://nyti.ms/45cD9XR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>The Rev. Timothy Keller, Pioneering Manhattan Evangelist, Dies at 72</h3>
+<sub>By Sam Roberts</sub>
+<p>Shunning fire and brimstone, he became a best-selling author and founded Redeemer Presbyterian Church, which drew young New Yorkers.  <a href="https://nyti.ms/439p4bO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 19, Central Standard Time</sub></sub>
 <hr/>
 </ol>
