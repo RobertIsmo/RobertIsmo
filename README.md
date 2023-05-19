@@ -60,13 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, May 19, Central Standard Time</p>
 <p>
-Recently, a train was derailed in Crimea, a peninsula occupied by Russia, in what appears to be an act of sabotage by Ukraine. President Biden laid a wreath in Hiroshima to honor the victims of the first wartime nuclear attack, and at home he&#39;s facing pressure to continue sending weapons to Ukraine without needing more money from Congress. There are worries that if the US defaults on its debt, it could cause turmoil in the economy. There&#39;s debate among Democrats and Republicans over public assistance and stricter work requirements for food stamps. Meanwhile, Florida governor DeSantis is telling donors that Trump can&#39;t win the upcoming election and Disney has pulled out of a $1 billion development deal with Florida due to an ongoing feud. A district attorney is looking into charges against Trump for an inquiry and Senator Feinstein has suffered undisclosed complications from her illness. The Supreme Court recently ruled against Andy Warhol in a copyright case and not to hold tech companies liable for user posts. Finally, New York City is struggling with how best to handle an ongoing crisis with migrants crossing the border, which has angered people in all of its plans so far.</p>
+It looks like some of the leading countries in the world are really trying to make changes to protect the environment and compete with China. The G7 countries are planning to spend trillions to green-ify the economy, while also stealing away some of China&#39;s manufacturing power. On a more somber note, President Biden recently paid tribute to victims of the Hiroshima bombing, bringing up issues of nuclear weapons security around the world. In Greece, there is controversy over video evidence that appears to show asylum seekers being rounded up and abandoned on a raft by the Greek Coast Guard. And in other news, Donald Trump&#39;s ally could face perjury charges if he doesn&#39;t cooperate with an impending prosecution in New York, and Amazon is taking some heat due to its new size and monopolistic power. Meanwhile, there is an exciting development in technology in America; semiconductor companies are hiring thousands more employees thanks to federal dollars. On a smaller scale, researchers have been investigating why we even listen to sad songs when they bring us down (it apparently connects us emotionally with others). In California, some people think Sen. Dianne Feinstein has been in office too long due to her ill health while others sympathize with her. To make matters worse, she is reported to have suffered more complications from her illness than was publicly disclosed. Another sad situation around America is that it doesn&#39;t appear that police officers are wearing body cameras - this lack of video footage certainly hasn&#39;t helped clamor surrounding an activist who was killed by Georgia police officers. On a happier note, Brittney Griner has returned to professional basketball after her detention in Russia! She&#39;s using her increased platform to make serious changes for women&#39;s sports.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Russia Tries to Pummel Kyiv, a Blast in Crimea Hints at Ukraine’s Reach</h3>
-<sub>By Andrew E. Kramer and Matthew Mpoke Bigg</sub>
-<p>Ukrainian officials did not claim responsibility for a train derailment on the occupied peninsula, but it was the latest in a series of explosions hitting the railways and supply lines of Russia’s war machine.  <a href="https://nyti.ms/3MiOr4j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>To Counter China, G7 Countries Borrow Its Economic Playbook</h3>
+<sub>By Jim Tankersley and Ana Swanson</sub>
+<p>Wealthy democracies rev up an effort to spend trillions on a new climate-friendly energy economy, while stealing away some of China’s manufacturing power.  <a href="https://nyti.ms/3MGQyAk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Pays Silent Tribute to Victims of Hiroshima Bomb</h3>
@@ -74,41 +74,47 @@ Recently, a train was derailed in Crimea, a peninsula occupied by Russia, in wha
 <p>The president joined other leaders in laying wreaths at a memorial to the first wartime use of a nuclear weapon, amid growing fears that one could be used again.  <a href="https://nyti.ms/3MDq1np"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Pentagon Says Accounting Mistake Frees Up $3 Billion More for Ukraine</h3>
-<sub>By Karoun Demirjian, Edward Wong and Eric Schmitt</sub>
-<p>The Biden administration has been under bipartisan pressure to explain how it intended to continue sending weapons to Ukraine quickly without asking Congress for more money.  <a href="https://nyti.ms/3BDfmmj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>What Would Happen if the U.S. Defaulted on Its Debt</h3>
-<sub>By Joe Rennison</sub>
-<p>Investors, executives and economists are preparing contingency plans as they consider the turmoil that would result from a default in the $24 trillion U.S. Treasury market.  <a href="https://nyti.ms/45pI4F4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>As Biden Weighs Paring Public Assistance in Debt Limit Talks, Liberals Balk</h3>
-<sub>By Catie Edmondson</sub>
-<p>A G.O.P. demand to impose stricter work requirements on recipients of food stamps and other public benefits has drawn a Democratic backlash, underscoring the tricky politics at play in the negotiations.  <a href="https://nyti.ms/3ofxe3z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘Biden and Me’: DeSantis Privately Tells Donors Trump Can’t Win</h3>
-<sub>By Maggie Haberman, Jonathan Swan and Nicholas Nehamas</sub>
-<p>In a phone call with top donors, the Florida governor took his most direct shots yet at Donald Trump. He is expected to officially enter the presidential race next week.  <a href="https://nyti.ms/3MDoFZN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Disney Pulls Plug on $1 Billion Development in Florida</h3>
-<sub>By Brooks Barnes</sub>
-<p>A new office complex, and relocation of a division from California, would have created more than 2,000 jobs but was scuttled as the company and Gov. Ron DeSantis continue to feud.  <a href="https://nyti.ms/41RYKSx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Greece Says It Doesn’t Ditch Migrants at Sea. It Was Caught in the Act.</h3>
+<sub>By Matina Stevis-Gridneff, Sarah Kerr, Kassie Bracken and Nimet Kirac</sub>
+<p>Video evidence shows asylum seekers, among them young children, being rounded up, taken to sea and abandoned on a raft by the Greek Coast Guard.  <a href="https://nyti.ms/3ofKc1j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Georgia Prosecutor Signals August Timetable for Charges in Trump Inquiry</h3>
 <sub>By Richard Fausset and Danny Hakim</sub>
 <p>The Fulton County district attorney said most of her staff would work remotely at times, and asked judges not to schedule trials, in the first half of August.  <a href="https://nyti.ms/42QukRR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Trump Ally Could Face Perjury Charge if He Doesn’t Cooperate With D.A.</h3>
+<sub>By William K. Rashbaum, Ben Protess and Jonah E. Bromwich</sub>
+<p>After bringing charges against former President Donald J. Trump, the Manhattan district attorney’s office is once again investigating Allen H. Weisselberg, 75.  <a href="https://nyti.ms/3BF7tg9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Amazon Is Everywhere. That’s What Makes It So Vulnerable.</h3>
+<sub>By Noam Scheiber</sub>
+<p>For years, the e-commerce giant could shield its vast archipelago of warehouses against disruptions from workers. Then it got even bigger.  <a href="https://nyti.ms/3MIdgYS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>America’s Semiconductor Boom Faces a Challenge: Not Enough Workers</h3>
+<sub>By Madeleine Ngo</sub>
+<p>Strengthened by billions of federal dollars, semiconductor companies plan to create thousands of jobs. But officials say there might not be enough people to fill them.  <a href="https://nyti.ms/3pOrLkB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>Why Do We Listen to Sad Songs?</h3>
+<sub>By Oliver Whang</sub>
+<p>Not because it makes us sad, but because it connects us to other people, some researchers suggest.  <a href="https://nyti.ms/4388R6P"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Feinstein Faces Growing Scrutiny, but Voters Are Still Divided on Her Fitness</h3>
+<sub>By Thomas Fuller</sub>
+<p>Senator Dianne Feinstein’s constituents in California expressed sympathy for her deteriorating health. Some thought it was time for her to step down, while others said it remains her decision to make.  <a href="https://nyti.ms/3pTHRJX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Feinstein Suffered More Complications From Illness Than Were Publicly Disclosed</h3>
@@ -117,21 +123,15 @@ Recently, a train was derailed in Crimea, a peninsula occupied by Russia, in wha
 <sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Supreme Court Rules Against Andy Warhol in Copyright Case</h3>
-<sub>By Adam Liptak</sub>
-<p>The justices considered whether the artist was free to use elements of a rock photographer’s portrait of the musician Prince.  <a href="https://nyti.ms/45fMCxJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
+<h3>Body Cameras Can Be a Powerful Tool. But Not All Police Forces Wear Them.</h3>
+<sub>By Sean Keenan</sub>
+<p>Officers in Georgia killed an activist who they say shot first. But a lack of video footage has inflamed the controversy over the death.  <a href="https://nyti.ms/43aP9Y8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Supreme Court Won’t Hold Tech Companies Liable for User Posts</h3>
-<sub>By Adam Liptak</sub>
-<p>The justices ruled in one case that a law allowing suits for aiding terrorism did not apply to the ordinary activities of social media companies.  <a href="https://nyti.ms/45f6NeS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>As Crisis Grows, All of New York’s Migrant Plans Are Met With Outrage</h3>
-<sub>By Liam Stack and Jeffery C. Mays</sub>
-<p>First the city tried hotels, then tents, then a cruise ship terminal, then school gyms. As migrants have continued to cross the border, the mayor pleaded on Wednesday for understanding — and ideas.  <a href="https://nyti.ms/3WjwUh2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Brittney Griner Is Creating a New Normal, for Herself and the W.N.B.A.</h3>
+<sub>By Jonathan Abrams</sub>
+<p>Griner returns to basketball after her detention in Russia with a bigger platform and a desire to reshape women’s sports.  <a href="https://nyti.ms/41RnR7S"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
