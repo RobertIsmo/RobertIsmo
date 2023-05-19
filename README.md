@@ -60,8 +60,50 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, May 18, Central Standard Time</p>
 <p>
-Recently, Senator Dianne Feinstein, who&#39;s 89 years old, had a bout of shingles which turned into encephalitis - an inflammation of the brain that could be debilitating. The U.S. is having trouble handling its massive debt and there are worries that it may default, though no one knows when it&#39;ll happen. There&#39;s also been some tension between President Biden and Florida Governor Ron DeSantis since President Biden cancelled a planned $1 billion development project in Florida that was supposed to create 2000 jobs. Meanwhile, the Supreme Court has been making headlines with rulings related to copyright laws, tech companies&#39; liability for user posts, and pandemic-era immigration measures.</p>
+Things in the world have been a bit turbulent recently. In the US, there&#39;s talks of paring back public assistance, and a lot of pressure from both sides of the aisle to continue sending weapons to Ukraine without asking for more money. There have been some tense political moves being made in Florida between Disney and the governor, Ron DeSantis. On the worldwide front, a blast in Russia&#39;s Crimea happened recently, likely carried out by Ukraine in retaliation for Russian aggressions. Ukraine is ramping up arrests against corruption as well. The Supreme Court has also made several legal stipulations recently about copyright issues, tech companies being liable for user posts, and an immigration measure tied to a pandemic issue.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>What Would Happen if the U.S. Defaulted on Its Debt</h3>
+<sub>By Joe Rennison</sub>
+<p>Investors, executives and economists are preparing contingency plans as they consider the turmoil that would result from a default in the $24 trillion U.S. Treasury market.  <a href="https://nyti.ms/45pI4F4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>As Biden Weighs Paring Public Assistance in Debt Limit Talks, Liberals Balk</h3>
+<sub>By Catie Edmondson</sub>
+<p>A G.O.P. demand to impose stricter work requirements on recipients of food stamps and other public benefits has drawn a Democratic backlash, underscoring the tricky politics at play in the negotiations.  <a href="https://nyti.ms/3ofxe3z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Pentagon Says Accounting Mistake Frees Up $3 Billion More for Ukraine</h3>
+<sub>By Karoun Demirjian, Edward Wong and Eric Schmitt</sub>
+<p>The Biden administration has been under bipartisan pressure to explain how it intended to continue sending weapons to Ukraine quickly without asking Congress for more money.  <a href="https://nyti.ms/3BDfmmj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As Russia Tries to Pummel Kyiv, a Blast in Crimea Hints at Ukraine’s Reach</h3>
+<sub>By Andrew E. Kramer and Matthew Mpoke Bigg</sub>
+<p>Ukrainian officials did not claim responsibility for a train derailment on the occupied peninsula, but it was the latest in a series of explosions hitting the railways and supply lines of Russia’s war machine.  <a href="https://nyti.ms/3MiOr4j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukraine Arrests a Top Judge as Crackdown on Corruption Expands</h3>
+<sub>By Carlotta Gall</sub>
+<p>At least three more Supreme Court judges, in addition to the chief justice, have been implicated in a growing bribery case, prosecutors say.  <a href="https://nyti.ms/3Mjxiap"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>‘Biden and Me’: DeSantis Privately Tells Donors Trump Can’t Win</h3>
+<sub>By Maggie Haberman, Jonathan Swan and Nicholas Nehamas</sub>
+<p>In a phone call with top donors, the Florida governor took his most direct shots yet at Donald Trump. He is expected to officially enter the presidential race next week.  <a href="https://nyti.ms/3MDoFZN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Disney Pulls Plug on $1 Billion Development in Florida</h3>
+<sub>By Brooks Barnes</sub>
+<p>A new office complex, and relocation of a division from California, would have created more than 2,000 jobs but was scuttled as the company and Gov. Ron DeSantis continue to feud.  <a href="https://nyti.ms/41RYKSx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Feinstein Suffered More Complications From Illness Than Were Publicly Disclosed</h3>
 <sub>By Annie Karni and Carl Hulse</sub>
@@ -74,52 +116,10 @@ Recently, Senator Dianne Feinstein, who&#39;s 89 years old, had a bout of shingl
 <p>Senator Dianne Feinstein developed this rare and potentially debilitating complication after a shingles infection.  <a href="https://nyti.ms/41PNnKV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>What Would Happen if the U.S. Defaulted on Its Debt</h3>
-<sub>By Joe Rennison</sub>
-<p>Investors, executives and economists are preparing contingency plans as they consider the turmoil that would result from a default in the $24 trillion U.S. Treasury market.  <a href="https://nyti.ms/45pI4F4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>When Will the U.S. Run Out of Cash? The Answer Is Complicated.</h3>
-<sub>By Alan Rappeport</sub>
-<p>The federal government is essentially living paycheck to paycheck, making the X-date hard to pin down.  <a href="https://nyti.ms/3oexOi6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Pentagon Says Accounting Mistake Frees Up $3 Billion More for Ukraine</h3>
-<sub>By Karoun Demirjian, Edward Wong and Eric Schmitt</sub>
-<p>The Biden administration has been under bipartisan pressure to explain how it intended to continue sending weapons to Ukraine quickly without asking Congress for more money.  <a href="https://nyti.ms/3BDfmmj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>An Untested Oil Price Cap Has Helped Choke Revenue to Russia</h3>
-<sub>By Jim Tankersley</sub>
-<p>Group of 7 leaders are prepared to celebrate the results of a novel effort to stabilize global oil markets and punish Moscow.  <a href="https://nyti.ms/3BEjwKA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Arrests a Top Judge as Crackdown on Corruption Expands</h3>
-<sub>By Carlotta Gall</sub>
-<p>At least three more Supreme Court judges, in addition to the chief justice, have been implicated in a growing bribery case, prosecutors say.  <a href="https://nyti.ms/3Mjxiap"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Disney Pulls Plug on $1 Billion Development in Florida</h3>
-<sub>By Brooks Barnes</sub>
-<p>A new office complex, and relocation of a division from California, would have created more than 2,000 jobs but was scuttled as the company and Gov. Ron DeSantis continue to feud.  <a href="https://nyti.ms/41RYKSx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘Biden and Me’: DeSantis Privately Tells Donors Trump Can’t Win</h3>
-<sub>By Maggie Haberman, Jonathan Swan and Nicholas Nehamas</sub>
-<p>In a phone call with top donors, the Florida governor took his most direct shots yet at Donald Trump. He is expected to officially enter the presidential race next week.  <a href="https://nyti.ms/3MDoFZN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Supreme Court Won’t Hold Tech Companies Liable for User Posts</h3>
 <sub>By Adam Liptak</sub>
-<p>In another victory for technology platforms, the justices also ruled that a law allowing suits for aiding terrorism did not apply to the ordinary activities of social media companies.  <a href="https://nyti.ms/45f6NeS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The justices ruled in one case that a law allowing suits for aiding terrorism did not apply to the ordinary activities of social media companies.  <a href="https://nyti.ms/45f6NeS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
