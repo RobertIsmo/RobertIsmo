@@ -60,13 +60,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, May 19, Central Standard Time</p>
 <p>
-It looks like there&#39;s a lot of political tension happening with Russia and Ukraine. The US government is increasing their support for Ukraine by allocating more money for military spending and is facing bipartisan pressure to do so quickly. In the US, people are preparing for what will happen in case the government defaults on debt. There have also been some clashes between Democrats and Republicans regarding welfare requirements. Florida governor Ron DeSantis has made some strong remarks about former president Donald Trump which will likely cause some tension as he enters the presidential race. In addition, Disney music pulled out of a development in Florida and there have been a lot of issues with housing migrants in New York City. Lastly, Salman Rushdie made an unexpected appearance at the PEN America gala event to receive an award honoring freedom of speech after he was attacked last year.</p>
+Recently, a train was derailed in Crimea, a peninsula occupied by Russia, in what appears to be an act of sabotage by Ukraine. President Biden laid a wreath in Hiroshima to honor the victims of the first wartime nuclear attack, and at home he&#39;s facing pressure to continue sending weapons to Ukraine without needing more money from Congress. There are worries that if the US defaults on its debt, it could cause turmoil in the economy. There&#39;s debate among Democrats and Republicans over public assistance and stricter work requirements for food stamps. Meanwhile, Florida governor DeSantis is telling donors that Trump can&#39;t win the upcoming election and Disney has pulled out of a $1 billion development deal with Florida due to an ongoing feud. A district attorney is looking into charges against Trump for an inquiry and Senator Feinstein has suffered undisclosed complications from her illness. The Supreme Court recently ruled against Andy Warhol in a copyright case and not to hold tech companies liable for user posts. Finally, New York City is struggling with how best to handle an ongoing crisis with migrants crossing the border, which has angered people in all of its plans so far.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>As Russia Tries to Pummel Kyiv, a Blast in Crimea Hints at Ukraine’s Reach</h3>
 <sub>By Andrew E. Kramer and Matthew Mpoke Bigg</sub>
 <p>Ukrainian officials did not claim responsibility for a train derailment on the occupied peninsula, but it was the latest in a series of explosions hitting the railways and supply lines of Russia’s war machine.  <a href="https://nyti.ms/3MiOr4j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Pays Silent Tribute to Victims of Hiroshima Bomb</h3>
+<sub>By Peter Baker</sub>
+<p>The president joined other leaders in laying wreaths at a memorial to the first wartime use of a nuclear weapon, amid growing fears that one could be used again.  <a href="https://nyti.ms/3MDq1np"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Pentagon Says Accounting Mistake Frees Up $3 Billion More for Ukraine</h3>
@@ -126,12 +132,6 @@ It looks like there&#39;s a lot of political tension happening with Russia and U
 <h3>As Crisis Grows, All of New York’s Migrant Plans Are Met With Outrage</h3>
 <sub>By Liam Stack and Jeffery C. Mays</sub>
 <p>First the city tried hotels, then tents, then a cruise ship terminal, then school gyms. As migrants have continued to cross the border, the mayor pleaded on Wednesday for understanding — and ideas.  <a href="https://nyti.ms/3WjwUh2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Salman Rushdie Makes Surprise Appearance at PEN America Gala</h3>
-<sub>By Jennifer Schuessler</sub>
-<p>The novelist, who was stabbed and gravely wounded at a literary event last year, received an award from the freedom of expression organization.  <a href="https://nyti.ms/42O0pKb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
