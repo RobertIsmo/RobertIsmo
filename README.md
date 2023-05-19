@@ -60,18 +60,50 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, May 19, Central Standard Time</p>
 <p>
-There&#39;s a lot happening in the world right now. The G7 countries are looking to counter China by borrowing its economic playbook and spending trillions on a new climate-friendly energy economy. Biden recently paid silent tribute to victims of the Hiroshima bombing, and China is struggling with record-high youth unemployment due to an uneven economic recovery from the pandemic. In Greece, the Coast Guard was caught on video abandoning asylum seekers on a raft at sea. Jordan Neely recently died in NYC after being choked by police. There&#39;s an August timetable in Georgia for charges related to Trump inquiries, and Manhattan district attorney is investigating his ally Allen Weisselberg again. New York congressman Jamaal Bowman is speaking out against Republicans in Congress like Marjorie Taylor Greene, and American semiconductor companies are facing a challenge of not enough workers to fill thousands of open positions due to billions of federal dollars. Amazon is becoming so ubiquitous, it&#39;s making them vulnerable and workers are pushing back. Finally, Senator Diane Feinstein from California is facing scrutiny for her age but constituents remain divided on if she should stay in office or step down.</p>
+Right now, there are a lot of political and economic issues happening around the world. In the US, there is a snag in a debt limit negotiation between the White House and Republicans, while some anti-Ukraine members of the Republican party are pushing for more influence. Over in Georgia, tensions have flared as Russia recently started direct flights to the country and their actions have stirred up fears because they invaded Georgia in 2008. There&#39;s also been tension over the death of Jordan Neely in Harlem, who was choked by police earlier this month, which has sparked more calls for equal justice.
+
+In China, there is a massive youth unemployment problem and their tech giants are signaling a slow recovery from the pandemic. Meanwhile, G7 countries are emulating some of China&#39;s economic tactics to counter it. One interesting move is from &#39;No Labels&#39;, an American organization that is raising money for a third-party presidential run in 2024 that has Joe Manchin at the top of its list. Lastly, Tim Scott is getting ready to join the 2024 race with plenty of campaign cash backing him up.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>To Counter China, G7 Countries Borrow Its Economic Playbook</h3>
-<sub>By Jim Tankersley and Ana Swanson</sub>
-<p>Wealthy democracies rev up an effort to spend trillions on a new climate-friendly energy economy, while stealing away some of China’s manufacturing power.  <a href="https://nyti.ms/3MGQyAk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Debt Limit Talks Hit Snag as G.O.P. Declares a ‘Pause’</h3>
+<sub>By Catie Edmondson</sub>
+<p>Republicans left negotiations on Friday, saying the White House was refusing to move its way on spending cuts.  <a href="https://nyti.ms/436DUQi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Pays Silent Tribute to Victims of Hiroshima Bomb</h3>
-<sub>By Peter Baker</sub>
-<p>The president joined other leaders in laying wreaths at a memorial to the first wartime use of a nuclear weapon, amid growing fears that one could be used again.  <a href="https://nyti.ms/3MDq1np"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>A Loud G.O.P. Minority Pledges to Make Trouble on Ukraine Military Aid</h3>
+<sub>By Robert Draper</sub>
+<p>Hawkish senior Republicans aside, there is evidence to suggest that the anti-Ukraine flank of the party is playing not to the fringe but to the heart of its base.  <a href="https://nyti.ms/3WhFPiI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Tensions Flare in Georgia as Direct Flights Resume With Russia</h3>
+<sub>By Ivan Nechepurenko</sub>
+<p>Moscow also eased visa requirements for Georgians. But its actions have stirred fears in Georgia, which was invaded by Russia in 2008.  <a href="https://nyti.ms/45gYHlZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Jamaal Bowman Finds His Voice. Some Republicans Don’t Like the Sound.</h3>
+<sub>By Nicholas Fandos</sub>
+<p>The Democratic congressman has made a habit of brashly confronting Republicans like Marjorie Taylor Greene, often in public displays meant to attract attention.  <a href="https://nyti.ms/3pTYaX5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Greece Says It Doesn’t Ditch Migrants at Sea. It Was Caught in the Act.</h3>
+<sub>By Matina Stevis-Gridneff, Sarah Kerr, Kassie Bracken and Nimet Kirac</sub>
+<p>Video evidence shows asylum seekers, among them young children, being rounded up, taken to sea and abandoned on a raft by the Greek Coast Guard.  <a href="https://nyti.ms/3ofKc1j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Want to Fix Your Mind? Let Your Body Talk.</h3>
+<sub>By Daniel Bergner</sub>
+<p>Somatic therapy is surging, with the promise that true healing may reside in focusing on the physical rather than the mental.  <a href="https://nyti.ms/3Wdt0WS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>At Harlem Funeral for Jordan Neely, a Demand for ‘Equal Justice’</h3>
+<sub>By Maria Cramer and Hurubie Meko</sub>
+<p>Hundreds gathered to mourn Mr. Neely, who was choked to death earlier this month on the subway, including the Rev. Al Sharpton, who eulogized him.  <a href="https://nyti.ms/3MnFh6i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -86,52 +118,22 @@ There&#39;s a lot happening in the world right now. The G7 countries are looking
 <p>The economy is open again, helping Alibaba, Baidu and Tencent claw back in the first quarter from a miserable 2022, though they will likely face continuing skepticism from investors.  <a href="https://nyti.ms/3Mob1Z8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Greece Says It Doesn’t Ditch Migrants at Sea. It Was Caught in the Act.</h3>
-<sub>By Matina Stevis-Gridneff, Sarah Kerr, Kassie Bracken and Nimet Kirac</sub>
-<p>Video evidence shows asylum seekers, among them young children, being rounded up, taken to sea and abandoned on a raft by the Greek Coast Guard.  <a href="https://nyti.ms/3ofKc1j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Jordan Neely Is Mourned at Funeral in Harlem</h3>
-<sub>By Maria Cramer</sub>
-<p>The Rev. Al Sharpton will eulogize Mr. Neely, who was choked to death earlier this month on the subway, in a case that has led to protests throughout New York City.  <a href="https://nyti.ms/3MnFh6i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>To Counter China, G7 Countries Borrow Its Economic Playbook</h3>
+<sub>By Jim Tankersley and Ana Swanson</sub>
+<p>Wealthy democracies rev up an effort to spend trillions on a new climate-friendly energy economy, while stealing away some of China’s manufacturing power.  <a href="https://nyti.ms/3MGQyAk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Georgia Prosecutor Signals August Timetable for Charges in Trump Inquiry</h3>
-<sub>By Richard Fausset and Danny Hakim</sub>
-<p>The Fulton County district attorney said most of her staff would work remotely at times, and asked judges not to schedule trials, in the first half of August.  <a href="https://nyti.ms/42QukRR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Trump Ally Could Face Perjury Charge if He Doesn’t Cooperate With D.A.</h3>
-<sub>By William K. Rashbaum, Ben Protess and Jonah E. Bromwich</sub>
-<p>After bringing charges against former President Donald J. Trump, the Manhattan district attorney’s office is once again investigating Allen H. Weisselberg, 75.  <a href="https://nyti.ms/3BF7tg9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Jamaal Bowman Finds His Voice. Some Republicans Don’t Like the Sound.</h3>
-<sub>By Nicholas Fandos</sub>
-<p>The Democratic congressman has made a habit of brashly confronting Republicans like Marjorie Taylor Greene, often in public displays meant to attract attention.  <a href="https://nyti.ms/3pTYaX5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>‘No Labels’ Eyes a Third-Party Run in 2024. Democrats Are Alarmed</h3>
+<sub>By Jonathan Weisman</sub>
+<p>The centrist group is gaining steam — and raising money — in its effort to get a candidate on the 2024 ballot, with Joe Manchin at the top of their list.  <a href="https://nyti.ms/3oaID4T"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>America’s Semiconductor Boom Faces a Challenge: Not Enough Workers</h3>
-<sub>By Madeleine Ngo</sub>
-<p>Strengthened by billions of federal dollars, semiconductor companies plan to create thousands of jobs. But officials say there might not be enough people to fill them.  <a href="https://nyti.ms/3pOrLkB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Amazon Is Everywhere. That’s What Makes It So Vulnerable.</h3>
-<sub>By Noam Scheiber</sub>
-<p>For years, the e-commerce giant could shield its vast archipelago of warehouses against disruptions from workers. Then it got even bigger.  <a href="https://nyti.ms/3MIdgYS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Feinstein Faces Growing Scrutiny, but Voters Are Still Divided on Her Fitness</h3>
-<sub>By Thomas Fuller</sub>
-<p>Senator Dianne Feinstein’s constituents in California expressed sympathy for her deteriorating health. Some thought it was time for her to step down, while others said it remains her decision to make.  <a href="https://nyti.ms/3pTHRJX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Flush With Campaign Cash, Tim Scott Is Set to Join ’24 Race</h3>
+<sub>By Jonathan Swan and Maggie Haberman</sub>
+<p>The South Carolina senator will announce his campaign on Monday and then head to Iowa and New Hampshire.  <a href="https://nyti.ms/45cD9XR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 19, Central Standard Time</sub></sub>
 <hr/>
 </ol>
