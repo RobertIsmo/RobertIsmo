@@ -60,12 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, May 20, Central Standard Time</p>
 <p>
-There&#39;s a lot happening in the world right now. Ukraine&#39;s President Zelensky is visiting Japan, and people are concerned of pressure to send weapons. Biden just reversed course on Ukraine&#39;s request for F-16s and there is a G7 Summit with many unpopular leaders. Zelensky also paid a visit to India, whose stance on the war is complicating things for the West. In Ukraine itself, there has been a lot of conflict in the city of Bakhmut, which the founder of Wagner claims has been captured, but Ukraine denies that claim. Meanwhile in the US, questions are surfacing about Governor DeSantis&#39; use of private jets, and climate change is making it difficult for people who rely on rice as their main food source. Additionally, inflation has been surprisingly persistent despite changes in the economy, mostly due to car prices. On top of all that, Jim Brown—an iconic athlete with a complicated reputation—recently passed away and it&#39;s opened up reflections over athletes adopting social beliefs. Lastly, Senator Dianne Feinstein&#39;s health complications have fatefully raised questions of whether Governor Newsom will keep his promise to appoint a Black woman if Feinstein leaves her seat.</p>
+There is a lot going on around the world right now! Ukrainian President Zelensky recently made an entrance at the G7 meeting and urged his supporters to stay strong and rally other countries, such as India and Brazil, to join their cause. Meanwhile, Joe Biden reversed course on Ukraine&#39;s F-16 request and there are ongoing battles for control over certain strategic cities. In the US, Florida governor DeSantis is hopscotching around the country but using secret donors to cover his expenses. Climate change is wreaking havoc on rice crops all over the world, including in the U.S., with farmers working together to come up with creative solutions. Inflation has been stubbornly high due to car prices being much higher than expected, and e-sports is looking uncertain in America too with organizations selling off their teams. In Europe, Greece is seeing a building boom on Mykonos but is also uncovering some pretty shady practices happening too. And finally, Hawaiians have been increasingly moving to Las Vegas despite the scenery not comparing to home!</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Zelensky lands in Japan, public worry grows about pressure to send weapons.</h3>
-<sub>By Motoko Rich and Hikari Hida</sub>
-<p>  <a href="https://nyti.ms/3WpwKom"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>After a Show-Stopping Entrance at the G7, Zelensky Pleads for More Aid</h3>
+<sub>By David E. Sanger and Peter Baker</sub>
+<p>He urged his supporters to stay the course and tried to convince fence sitters like India and Brazil that there is no middle ground.  <a href="https://nyti.ms/3MFHfjX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -75,25 +75,7 @@ There&#39;s a lot happening in the world right now. Ukraine&#39;s President Zele
 <sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>This Year’s G7 Summit Doubles as a Club for Unloved Leaders</h3>
-<sub>By Peter Baker</sub>
-<p>The relatively weak approval ratings for President Biden and his Group of 7 partners highlight the fragility of free societies facing deep political divides.  <a href="https://nyti.ms/3IslNMU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Zelensky meets with India’s leader, whose straddling position on the war has frustrated the West.</h3>
-<sub>By Cassandra Vinograd</sub>
-<p>  <a href="https://nyti.ms/3pT06Pz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Wagner founder claims Bakhmut has been captured. Ukraine denies the claim.</h3>
-<sub>By Marc Santora</sub>
-<p>  <a href="https://nyti.ms/3MHjsQM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘Approaching. Move In.’ How Ukraine Changed the Battle for Bakhmut.</h3>
+<h3>In Bakhmut, the Tides of Battle Are Ever Shifting</h3>
 <sub>By Marc Santora and Tyler Hicks</sub>
 <p>Ukraine, this month, pressed ahead with three days of maneuvers that gained ground on the flanks of Bakhmut. But Russian forces still appear to hold the center of the strategic city.  <a href="https://nyti.ms/3BI6BaB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
@@ -122,17 +104,35 @@ There&#39;s a lot happening in the world right now. Ukraine&#39;s President Zele
 <p>Brown, who died on Thursday, demanded that people see more to him than strong athletic performances. In the 1960s, that was unusual for athletes.  <a href="https://nyti.ms/3Muql6O"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Why Dianne Feinstein, Like Many Before Her, Refuses to Let Go</h3>
-<sub>By Annie Karni</sub>
-<p>A life in Congress comes with power, prestige and perks that can be hard to leave behind. For some lawmakers who view their job as their identity, the prospect is unthinkable.  <a href="https://nyti.ms/439cZn0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>The E-Sports World Is Starting to Teeter</h3>
+<sub>By Kellen Browning</sub>
+<p>At least two organizations in America’s most prominent league for professional video game players are selling their teams, underscoring the industry’s uncertain future.  <a href="https://nyti.ms/3MIIT4e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Building Boom on Mykonos Reveals ‘Wretched’ Side of Greece’s Recovery</h3>
+<sub>By Liz Alderman and Niki Kitsantonis</sub>
+<p>Investors are eager to cash in on soaring demand for luxury properties, but an attack on an archaeologist investigating building violations brought a darker underbelly to light.  <a href="https://nyti.ms/3BEESI1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>How Will the Greek Election Affect the Parthenon Marbles?</h3>
+<sub>By Alex Marshall</sub>
+<p>For months, Athens and the British Museum have been holding talks about the return from London of the treasures also known as the Elgin Marbles.  <a href="https://nyti.ms/3BGwA25"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>With Feinstein Ailing, Newsom’s Vow Looms Over Senate Race</h3>
-<sub>By Thomas Fuller and Shane Goldmacher</sub>
-<p>Gov. Gavin Newsom of California promised in 2021 that he would appoint a Black woman to replace Senator Dianne Feinstein if she were to resign early.  <a href="https://nyti.ms/42QDLkn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 19, Central Standard Time</sub></sub>
+<h3>There’s No Ocean in Sight. But Many Hawaiians Make Las Vegas Their Home.</h3>
+<sub>By Eliza Fawcett and Hana Asano</sub>
+<p>The scenery can’t compare. So why are Hawaiians increasingly moving there?  <a href="https://nyti.ms/3BI6HyZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The Weekender</h3>
+<sub>By Christine Chun</sub>
+<p>How to move Indonesia’s sinking capital city. Also: Martha Stewart on her Sports Illustrated cover and new details of the Titanic shipwreck.  <a href="https://nyti.ms/45gcIQY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
