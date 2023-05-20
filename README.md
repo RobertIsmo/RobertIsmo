@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, May 20, Central Standard Time</p>
 <p>
-There is a lot going on around the world right now! Ukrainian President Zelensky recently made an entrance at the G7 meeting and urged his supporters to stay strong and rally other countries, such as India and Brazil, to join their cause. Meanwhile, Joe Biden reversed course on Ukraine&#39;s F-16 request and there are ongoing battles for control over certain strategic cities. In the US, Florida governor DeSantis is hopscotching around the country but using secret donors to cover his expenses. Climate change is wreaking havoc on rice crops all over the world, including in the U.S., with farmers working together to come up with creative solutions. Inflation has been stubbornly high due to car prices being much higher than expected, and e-sports is looking uncertain in America too with organizations selling off their teams. In Europe, Greece is seeing a building boom on Mykonos but is also uncovering some pretty shady practices happening too. And finally, Hawaiians have been increasingly moving to Las Vegas despite the scenery not comparing to home!</p>
+A lot is going on in the world right now. Ukrainian president Zelensky recently made a plea to the G7 for more aid. Meanwhile, US President Biden has reversed course on a request for F-16 fighters from Ukraine. On the battlefield, Ukraine was able to make some progress in taking control of the strategic city of Bakhmut. In the US, Florida Governor Ron DeSantis has come under scrutiny for his private jet trips, with much of the funding secreted away through a Michigan nonprofit. British author and critic Martin Amis passed away recently at the age of 73, and there has been much discussion about his body of work. Economists are puzzling over stubborn inflation rates in cars, while there&#39;s speculation about the Kentucky Derby winner&#39;s prospects at keeping its Triple Crown run alive—besides having to face Bob Baffert&#39;s horse as an adversary. The e-sports industry may be faltering, with multiple organizations attempting to sell their teams. Lastly, an influx of Hawaiians have been making their homes in Las Vegas, despite there not being an ocean anywhere near it.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>After a Show-Stopping Entrance at the G7, Zelensky Pleads for More Aid</h3>
@@ -86,10 +86,16 @@ There is a lot going on around the world right now! Ukrainian President Zelensky
 <p>As the Florida governor hopscotched the country preparing to run for president, a Michigan nonprofit paid the bills. It won’t say where it got the money.  <a href="https://nyti.ms/3BJ3yz1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Rice. Half of Humanity Eats It. And Climate Change Is Wrecking It.</h3>
-<sub>By Somini Sengupta</sub>
-<p>From the Mississippi to the Mekong, farmers and researchers are finding creative fixes for the dire threats of global warming, extreme rains and sea-level rise.  <a href="https://nyti.ms/3BOJD1r"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-books-blue" alt="">
+<h3>Martin Amis, Acclaimed Author of Bleakly Comic Novels, Dies at 73</h3>
+<sub>By Dwight Garner</sub>
+<p>In books like “Money” and “The Information,” he created “a high style to describe low things,” as he put it. He found more renown as a critic, and a measure of unease as his famous father’s son.  <a href="https://nyti.ms/3Wme8oZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-books-blue" alt="">
+<h3>A Brief Guide to Martin Amis’s Books</h3>
+<sub>By The New York Times Books Staff</sub>
+<p>The acclaimed British novelist was also an essayist, memoirist and critic of the first rank.  <a href="https://nyti.ms/3MLZtk3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -97,6 +103,18 @@ There is a lot going on around the world right now! Ukrainian President Zelensky
 <sub>By Lydia DePillis and Jeanna Smialek</sub>
 <p>Prices of new and used vehicles were supposed to recede quickly as supply chain problems dissipated. The market had other ideas.  <a href="https://nyti.ms/3BGhAkU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Mage, the Kentucky Derby winner, will attempt to keep his feel-good Triple Crown run alive.</h3>
+<sub>By Melissa Hoppert</sub>
+<p>Mage, the Kentucky Derby winner, will attempt to keep his feel-good Triple Crown run alive, but one familiar face will be standing in his way: Bob Baffert.  <a href="https://nyti.ms/41U848x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Expert Picks: Who Will Win the Preakness?</h3>
+<sub>By Joe Drape and Melissa Hoppert</sub>
+<p>Joe Drape and Melissa Hoppert look at the contenders for the 148th Preakness Stakes.  <a href="https://nyti.ms/3IoGBVs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Jim Brown Should Be Seen Fully, Flaws and All</h3>
@@ -110,29 +128,11 @@ There is a lot going on around the world right now! Ukrainian President Zelensky
 <p>At least two organizations in America’s most prominent league for professional video game players are selling their teams, underscoring the industry’s uncertain future.  <a href="https://nyti.ms/3MIIT4e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Building Boom on Mykonos Reveals ‘Wretched’ Side of Greece’s Recovery</h3>
-<sub>By Liz Alderman and Niki Kitsantonis</sub>
-<p>Investors are eager to cash in on soaring demand for luxury properties, but an attack on an archaeologist investigating building violations brought a darker underbelly to light.  <a href="https://nyti.ms/3BEESI1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>How Will the Greek Election Affect the Parthenon Marbles?</h3>
-<sub>By Alex Marshall</sub>
-<p>For months, Athens and the British Museum have been holding talks about the return from London of the treasures also known as the Elgin Marbles.  <a href="https://nyti.ms/3BGwA25"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 19, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>There’s No Ocean in Sight. But Many Hawaiians Make Las Vegas Their Home.</h3>
 <sub>By Eliza Fawcett and Hana Asano</sub>
 <p>The scenery can’t compare. So why are Hawaiians increasingly moving there?  <a href="https://nyti.ms/3BI6HyZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The Weekender</h3>
-<sub>By Christine Chun</sub>
-<p>How to move Indonesia’s sinking capital city. Also: Martha Stewart on her Sports Illustrated cover and new details of the Titanic shipwreck.  <a href="https://nyti.ms/45gcIQY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
