@@ -58,13 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Friday, May 19, Central Standard Time</p>
+<p>It is Saturday, May 20, Central Standard Time</p>
 <p>
-There&#39;s a lot of political news right now. President Biden has announced that he will allow Ukrainian pilots to be trained on American-made F-16 jets, breaking with former President Trump&#39;s policies. Meanwhile, negotiations around the US debt limit have yet to produce a breakthrough, and both Democrats and Republicans are being blamed for the crisis. 
-
-In other news, sports legend and civil rights champion Jim Brown recently passed away at the age of 87. Meanwhile, Nebraska has voted to restrict access to abortion and transgender care for minors, and there is a heated battle between Democratic Congressman Jamaal Bowman and Republican Marjorie Taylor Greene. Florida Governor DeSantis is also campaigning in New Hampshire for the upcoming election. 
-
-On a lighter note, an interesting new trend is emerging where somatic therapy is allowing people to use their body as a source of healing for mental health issues.</p>
+In the world, several major events are happening right now. First, President Biden is reversing a Trump-era policy and has agreed to allow Ukraine to obtain American fighters jets. Second, debt limit talks in the US have been met with no breakthrough yet. Also here in the US some Republicans aren&#39;t happy with the outspoken criticism of their policies by Democratic Rep. Jamaal Bowman. Meanwhile, Nebraska voted to restrict access abortions and transgender care for minors, while Florida Gov. DeSantis continues his retail campaigning in New Hampshire. In the sports world, legendary athlete and civil rights champion Jim Brown recently passed away at 87 years old. Finally, some parts of western Canada are experiencing an unprecedented fire season and locals are panicking as thousands are being forced to evacuate their homes.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>In a Sharp Reversal, Biden Opens a Path for Ukraine to Get Fighter Jets</h3>
@@ -132,11 +128,11 @@ On a lighter note, an interesting new trend is emerging where somatic therapy is
 <p>Gov. Gavin Newsom of California promised in 2021 that he would appoint a Black woman to replace Senator Dianne Feinstein if she were to resign early.  <a href="https://nyti.ms/42QDLkn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Want to Fix Your Mind? Let Your Body Talk.</h3>
-<sub>By Daniel Bergner</sub>
-<p>Somatic therapy is surging, with the promise that true healing may reside in focusing on the physical rather than the mental.  <a href="https://nyti.ms/3Wdt0WS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A ‘Canadian Armageddon’ Sets Parts of Western Canada on Fire</h3>
+<sub>By Dan Bilefsky</sub>
+<p>Wildfires raging in Alberta and British Columbia have created a sense of panic and fear, and forced thousands of residents to evacuate from their homes.  <a href="https://nyti.ms/3o9MYW1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 19, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
