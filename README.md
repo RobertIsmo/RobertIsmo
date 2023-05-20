@@ -60,38 +60,46 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, May 19, Central Standard Time</p>
 <p>
-There are a lot of big stories happening in the world right now. In a sharp reversal from his predecessor, President Biden opened a path for Ukraine to get fighter jets. On the domestic front, Republican lawmakers are taking a hard line on military aid to Ukraine, while the centrist &#39;No Labels&#39; is pushing for a third-party run in 2024, with some Democrats worried about the consequences. 
+Right now, there is still a lot of political turmoil happening in the US and around the world. Talks about raising the debt limit ended without a breakthrough. There is debate over who would be responsible for an economic collapse if a default were to happen. Biden opened a path for Ukraine to get fighter jets. 
 
-In the sports world, there was sad news that Jim Brown, the Football great and civil rights champion, recently died at 87. His legacy (as with many others) was stained by allegations of abuse against women. 
+In the US, Nebraska passed legislation restricting abortion and transgender care for minors. And there has been tension between representatives like Marjorie Taylor Greene and those from the opposing side like Jamaal Bowman. Florida&#39;s governor, DeSantis, is visiting New Hampshire to build support in the upcoming election. 
 
-On the international stage, Greece has been caught abandoning migrants at sea, and US diplomats reportedly shredded passports and stranded locals as they evacuated an embassy in Sudan. Meanwhile, FBI officials have violated surveillance rules after both George Floyd protests and othe Jan 6 attack.
-
-Closer to home we’ve seen Florida Gov. DeSantis trying to boost his retail campaigning efforts in New Hampshire, and Democratic Congressman Jamaal Bowman arousing controversy by publicly confronting Republicans like Marjorie Taylor Green.
-
-Lastly, NYC mourned the death of Rev. Timothy Keller at 72—an evangelist who gained fame by shunning fire and brimstone messaging and eventually starting Redeemer Presbyterian Church which drew many young New Yorkers.</p>
+It&#39;s not all doom and gloom though. There was tribute to football great Jim Brown who passed away at age 87. His legacy includes his dominance on the field as well as his advocacy for civil rights off of it. And somatic therapy is growing with the idea that physical focus could lead to emotional healing.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Whiplash Day of Debt Limit Talks Ends Without a Breakthrough</h3>
+<sub>By Catie Edmondson</sub>
+<p>Republicans returned to the negotiating table on Friday evening hours after walking out, though talks lasted only about an hour.  <a href="https://nyti.ms/436DUQi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Finger-Pointing Won’t Save Anyone if Default Leads to Economic Collapse</h3>
+<sub>By Carl Hulse</sub>
+<p>While each party tries to blame the other for the crisis, some acknowledge that they would both share responsibility for a default.  <a href="https://nyti.ms/3pTuFom"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 19, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>In a Sharp Reversal, Biden Opens a Path for Ukraine to Get Fighter Jets</h3>
 <sub>By David E. Sanger, Jim Tankersley, Michael Crowley and Eric Schmitt</sub>
 <p>The president told allied leaders that he would allow Ukrainian pilots to be trained on American-made F-16s, and is prepared to approve other countries’ transferring the jets to Ukraine.  <a href="https://nyti.ms/3WmkFjz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Loud G.O.P. Minority Pledges to Make Trouble on Ukraine Military Aid</h3>
-<sub>By Robert Draper</sub>
-<p>Hawkish senior Republicans aside, there is evidence to suggest that the anti-Ukraine flank of the party is playing not to the fringe but to the heart of its base.  <a href="https://nyti.ms/3WhFPiI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 19, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Jim Brown, Football Great and Civil Rights Champion, Dies at 87</h3>
 <sub>By Richard Goldstein</sub>
-<p>After a Hall of Fame career in the N.F.L., he pursued social activism and a Hollywood career, but his image was stained by accusations of abuse toward women.  <a href="https://nyti.ms/3pUIRxm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>After a Hall of Fame career in the N.F.L., he pursued social activism and Hollywood stardom, but his image was stained by accusations of abuse toward women.  <a href="https://nyti.ms/3pUIRxm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Jim Brown Piled Up Yards, but Never Wavered an Inch</h3>
+<sub>By Ken Belson and Jenny Vrentas</sub>
+<p>In the fraternity of N.F.L. standouts, Brown was revered for his dominance on the field and for his willingness to walk away on his own terms.  <a href="https://nyti.ms/41VZ96t"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Debt Limit Talks Hit Snag as G.O.P. Declares a ‘Pause’</h3>
-<sub>By Catie Edmondson</sub>
-<p>Republicans left negotiations on Friday, saying the White House was refusing to move its way on spending cuts.  <a href="https://nyti.ms/436DUQi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Nebraska Votes to Restrict Abortion and Transgender Care for Minors</h3>
+<sub>By Ernesto Londoño</sub>
+<p>After weeks of acrimonious debate, Republicans put the two fraught issues into a single bill, which the governor has said he will sign.  <a href="https://nyti.ms/3MnF96O"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -101,21 +109,27 @@ Lastly, NYC mourned the death of Rev. Timothy Keller at 72—an evangelist who g
 <sub><sub>Friday, May 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘No Labels’ Eyes a Third-Party Run in 2024. Democrats Are Alarmed</h3>
-<sub>By Jonathan Weisman</sub>
-<p>The centrist group is gaining steam — and raising money — in its effort to get a candidate on the 2024 ballot, with Joe Manchin at the top of their list.  <a href="https://nyti.ms/3oaID4T"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>DeSantis Amps Up His Retail Campaign in New Hampshire</h3>
 <sub>By Nicholas Nehamas</sub>
 <p>The Florida governor met with state lawmakers and made the standard diner visit to press flesh with voters, showcasing his more moderate side.  <a href="https://nyti.ms/3OkHpyy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Greece Says It Doesn’t Ditch Migrants at Sea. It Was Caught in the Act.</h3>
-<sub>By Matina Stevis-Gridneff, Sarah Kerr, Kassie Bracken and Nimet Kirac</sub>
-<p>Video evidence shows asylum seekers, among them young children, being rounded up, taken to sea and abandoned on a raft by the Greek Coast Guard.  <a href="https://nyti.ms/3ofKc1j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>Paparazzi Speak on Meghan and Harry’s Car Chase</h3>
+<sub>By Jacob Bernstein</sub>
+<p>Complicated dynamics between celebrities and the paparazzi contributed to the confusion around a recent incident in New York City.  <a href="https://nyti.ms/3Itxm6y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Why Dianne Feinstein, Like Many Before Her, Refuses to Let Go</h3>
+<sub>By Annie Karni</sub>
+<p>A life in Congress comes with power, prestige and perks that can be hard to leave behind. For some lawmakers who view their job as their identity, the prospect is unthinkable.  <a href="https://nyti.ms/439cZn0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>With Feinstein Ailing, Newsom’s Vow Looms Over Senate Race</h3>
+<sub>By Thomas Fuller and Shane Goldmacher</sub>
+<p>Gov. Gavin Newsom of California promised in 2021 that he would appoint a Black woman to replace Senator Dianne Feinstein if she were to resign early.  <a href="https://nyti.ms/42QDLkn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
@@ -123,24 +137,6 @@ Lastly, NYC mourned the death of Rev. Timothy Keller at 72—an evangelist who g
 <sub>By Daniel Bergner</sub>
 <p>Somatic therapy is surging, with the promise that true healing may reside in focusing on the physical rather than the mental.  <a href="https://nyti.ms/3Wdt0WS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Fleeing Sudan, U.S. Diplomats Shredded Passports and Stranded Locals</h3>
-<sub>By Declan Walsh</sub>
-<p>Officials destroyed Sudanese passports on security grounds as they evacuated the Khartoum embassy. Now the passport owners are trapped in a war zone.  <a href="https://nyti.ms/3Ir1eAC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>F.B.I. Violated Surveillance Program Rules After George Floyd Protests and Jan. 6 Attack</h3>
-<sub>By Charlie Savage</sub>
-<p>The bureau made changes after the newly revealed violations of rules for querying messages intercepted under an expiring warrantless surveillance law.  <a href="https://nyti.ms/3InyKre"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>The Rev. Timothy Keller, Pioneering Manhattan Evangelist, Dies at 72</h3>
-<sub>By Sam Roberts</sub>
-<p>Shunning fire and brimstone, he became a best-selling author and founded Redeemer Presbyterian Church, which drew young New Yorkers.  <a href="https://nyti.ms/439p4bO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 19, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
