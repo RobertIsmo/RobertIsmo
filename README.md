@@ -60,28 +60,28 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, May 19, Central Standard Time</p>
 <p>
-Right now, there is still a lot of political turmoil happening in the US and around the world. Talks about raising the debt limit ended without a breakthrough. There is debate over who would be responsible for an economic collapse if a default were to happen. Biden opened a path for Ukraine to get fighter jets. 
+There&#39;s a lot of political news right now. President Biden has announced that he will allow Ukrainian pilots to be trained on American-made F-16 jets, breaking with former President Trump&#39;s policies. Meanwhile, negotiations around the US debt limit have yet to produce a breakthrough, and both Democrats and Republicans are being blamed for the crisis. 
 
-In the US, Nebraska passed legislation restricting abortion and transgender care for minors. And there has been tension between representatives like Marjorie Taylor Greene and those from the opposing side like Jamaal Bowman. Florida&#39;s governor, DeSantis, is visiting New Hampshire to build support in the upcoming election. 
+In other news, sports legend and civil rights champion Jim Brown recently passed away at the age of 87. Meanwhile, Nebraska has voted to restrict access to abortion and transgender care for minors, and there is a heated battle between Democratic Congressman Jamaal Bowman and Republican Marjorie Taylor Greene. Florida Governor DeSantis is also campaigning in New Hampshire for the upcoming election. 
 
-It&#39;s not all doom and gloom though. There was tribute to football great Jim Brown who passed away at age 87. His legacy includes his dominance on the field as well as his advocacy for civil rights off of it. And somatic therapy is growing with the idea that physical focus could lead to emotional healing.</p>
+On a lighter note, an interesting new trend is emerging where somatic therapy is allowing people to use their body as a source of healing for mental health issues.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In a Sharp Reversal, Biden Opens a Path for Ukraine to Get Fighter Jets</h3>
+<sub>By David E. Sanger, Jim Tankersley, Michael Crowley and Eric Schmitt</sub>
+<p>The president told allied leaders that he would allow Ukrainian pilots to be trained on American-made F-16s, and is prepared to approve other countries’ transferring the jets to Ukraine.  <a href="https://nyti.ms/3WmkFjz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 19, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Whiplash Day of Debt Limit Talks Ends Without a Breakthrough</h3>
 <sub>By Catie Edmondson</sub>
-<p>Republicans returned to the negotiating table on Friday evening hours after walking out, though talks lasted only about an hour.  <a href="https://nyti.ms/436DUQi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Republicans returned to the negotiating table on Friday evening after briefly walking out, though the evening talks lasted only an hour.  <a href="https://nyti.ms/436DUQi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Finger-Pointing Won’t Save Anyone if Default Leads to Economic Collapse</h3>
 <sub>By Carl Hulse</sub>
 <p>While each party tries to blame the other for the crisis, some acknowledge that they would both share responsibility for a default.  <a href="https://nyti.ms/3pTuFom"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In a Sharp Reversal, Biden Opens a Path for Ukraine to Get Fighter Jets</h3>
-<sub>By David E. Sanger, Jim Tankersley, Michael Crowley and Eric Schmitt</sub>
-<p>The president told allied leaders that he would allow Ukrainian pilots to be trained on American-made F-16s, and is prepared to approve other countries’ transferring the jets to Ukraine.  <a href="https://nyti.ms/3WmkFjz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
