@@ -60,13 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, May 20, Central Standard Time</p>
 <p>
-It looks like a lot is happening in the world right now. President Joe Biden has reversed a policy and opened a path for Ukraine to acquire fighter jets, and he is representing the U.S. at this year&#39;s G7 Summit with other leaders from around the world despite their relatively weak approval ratings. Closer to home, politicians in both parties are having a difficult time compromising and agreeing on the debt limit. Meanwhile, Nebraska recently voted to restrict abortion and transgender care for minors, and Florida&#39;s Governor DeSantis is actively campaigning in New Hampshire trying to show his more moderate side. Football great Jim Brown, who also championed civil rights, has sadly passed away, and Paparazzi are speaking out about recent incidents involving Meghan and Harry. Lastly, it seems like some lawmakers like Dianne Feinstein are holding on to their positions of power as they&#39;re not willing to let go.</p>
+There&#39;s a lot going on around the world right now. In Ukraine, President Zelensky is under pressure to send weapons, and the country has recently been able to gain ground in a conflict with Russia. On the US side of things, Florida governor DeSantis has been taking private jets on cross-country trips that are funded by an unclear source. Meanwhile, Biden and other world leaders in the G7 Summit have relatively low approval ratings amid deep political divides. In addition, climate change is having serious impacts on rice production (which feeds half the planet)! Finally, in Greece there&#39;s a building boom going on that’s accompanied by archaeological violations and continuing talks over the return of the Parthenon Marbles from London.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In a Sharp Reversal, Biden Opens a Path for Ukraine to Get Fighter Jets</h3>
-<sub>By David E. Sanger, Jim Tankersley, Michael Crowley and Eric Schmitt</sub>
-<p>The president told allied leaders that he would allow Ukrainian pilots to be trained on American-made F-16s, and is prepared to approve other countries’ transferring the jets to Ukraine.  <a href="https://nyti.ms/3WmkFjz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 19, Central Standard Time</sub></sub>
+<h3>Here’s why Biden reversed course on Ukraine’s F-16 request.</h3>
+<sub>By David E. Sanger</sub>
+<p>  <a href="https://nyti.ms/3WorTnq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>This Year’s G7 Summit Doubles as a Club for Unloved Leaders</h3>
@@ -74,64 +74,64 @@ It looks like a lot is happening in the world right now. President Joe Biden has
 <p>The relatively weak approval ratings for President Biden and his Group of 7 partners highlight the fragility of free societies facing deep political divides.  <a href="https://nyti.ms/3IslNMU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Whiplash Day of Debt Limit Talks Ends Without a Breakthrough</h3>
-<sub>By Catie Edmondson</sub>
-<p>Republicans returned to the negotiating table on Friday evening after briefly walking out, though the evening talks lasted only an hour.  <a href="https://nyti.ms/436DUQi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 19, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As Zelensky lands in Japan, public worry grows about pressure to send weapons.</h3>
+<sub>By Motoko Rich and Hikari Hida</sub>
+<p>  <a href="https://nyti.ms/3WpwKom"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Voices Optimism on Debt Talks Despite Sharp Statements by Both Sides</h3>
-<sub>By Peter Baker</sub>
-<p>He said the recent harsh back-and-forth was posturing typical of any negotiation and predicted the two sides would still “get something decent done.”  <a href="https://nyti.ms/3MGKGa2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘Approaching. Move In.’ How Ukraine Reversed the Momentum in Bakhmut</h3>
+<sub>By Marc Santora and Tyler Hicks</sub>
+<p>Seizing an opening as Russia rotated troops, Ukraine pressed ahead with three days of maneuvers that gained ground on the flanks of Bakhmut.  <a href="https://nyti.ms/3BI6BaB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Finger-Pointing Won’t Save Anyone if Default Leads to Economic Collapse</h3>
-<sub>By Carl Hulse</sub>
-<p>While each party tries to blame the other for the crisis, some acknowledge that they would both share responsibility for a default.  <a href="https://nyti.ms/3pTuFom"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Jim Brown, Football Great and Civil Rights Champion, Dies at 87</h3>
-<sub>By Richard Goldstein</sub>
-<p>After a Hall of Fame career in the N.F.L., he pursued social activism and Hollywood stardom, but his image was stained by accusations of abuse toward women.  <a href="https://nyti.ms/3pUIRxm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Jim Brown Piled Up Yards, but Never Wavered an Inch</h3>
-<sub>By Ken Belson and Jenny Vrentas</sub>
-<p>In the fraternity of N.F.L. standouts, Brown was revered for his dominance on the field and for his willingness to walk away on his own terms.  <a href="https://nyti.ms/41VZ96t"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 19, Central Standard Time</sub></sub>
+<h3>Air DeSantis: The Private Jets and Secret Donors Flying Him Around</h3>
+<sub>By Alexandra Berzon and Rebecca Davis O’Brien</sub>
+<p>As the Florida governor hopscotched the country preparing to run for president, a Michigan nonprofit paid the bills. It won’t say where it got the money.  <a href="https://nyti.ms/3BJ3yz1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Nebraska Votes to Restrict Abortion and Transgender Care for Minors</h3>
-<sub>By Ernesto Londoño</sub>
-<p>After weeks of acrimonious debate, Republicans put the two fraught issues into a single bill, which the governor has said he will sign.  <a href="https://nyti.ms/3MnF96O"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 19, Central Standard Time</sub></sub>
+<h3>Democrats’ Phalanx Around Biden Has an Eric Adams-Size Hole</h3>
+<sub>By Reid J. Epstein, Dana Rubinstein and Zolan Kanno-Youngs</sub>
+<p>The New York mayor has loudly blamed President Biden for an influx of migrants, amplifying concerns many Democrats share but irritating Mr. Biden’s aides and weakening his political position.  <a href="https://nyti.ms/3OokPoL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Jamaal Bowman Finds His Voice. Some Republicans Don’t Like the Sound.</h3>
-<sub>By Nicholas Fandos</sub>
-<p>The Democratic congressman has made a habit of brashly confronting Republicans like Marjorie Taylor Greene, often in public displays meant to attract attention.  <a href="https://nyti.ms/3pTYaX5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 19, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Rice. Half of Humanity Eats It. And Climate Change Is Wrecking It.</h3>
+<sub>By Somini Sengupta</sub>
+<p>From the Mississippi to the Mekong, farmers and researchers are finding creative fixes for the dire threats of global warming, extreme rains and sea-level rise.  <a href="https://nyti.ms/3BOJD1r"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis Amps Up His Retail Campaign in New Hampshire</h3>
-<sub>By Nicholas Nehamas</sub>
-<p>The Florida governor met with state lawmakers and made the standard diner visit to press flesh with voters, showcasing his more moderate side.  <a href="https://nyti.ms/3OkHpyy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>Paparazzi Speak on Meghan and Harry’s Car Chase</h3>
-<sub>By Jacob Bernstein</sub>
-<p>Complicated dynamics between celebrities and the paparazzi contributed to the confusion around a recent incident in New York City.  <a href="https://nyti.ms/3Itxm6y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 19, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Why Is Inflation So Stubborn? Cars Are Part of the Answer.</h3>
+<sub>By Lydia DePillis and Jeanna Smialek</sub>
+<p>Prices of new and used vehicles were supposed to recede quickly as supply chain problems dissipated. The market had other ideas.  <a href="https://nyti.ms/3BGhAkU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Why Dianne Feinstein, Like Many Before Her, Refuses to Let Go</h3>
 <sub>By Annie Karni</sub>
 <p>A life in Congress comes with power, prestige and perks that can be hard to leave behind. For some lawmakers who view their job as their identity, the prospect is unthinkable.  <a href="https://nyti.ms/439cZn0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>With Feinstein Ailing, Newsom’s Vow Looms Over Senate Race</h3>
+<sub>By Thomas Fuller and Shane Goldmacher</sub>
+<p>Gov. Gavin Newsom of California promised in 2021 that he would appoint a Black woman to replace Senator Dianne Feinstein if she were to resign early.  <a href="https://nyti.ms/42QDLkn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Building Boom on Mykonos Reveals ‘Wretched’ Side of Greece’s Recovery</h3>
+<sub>By Liz Alderman and Niki Kitsantonis</sub>
+<p>Investors are eager to cash in on soaring demand for luxury properties, but an attack on an archaeologist investigating building violations brought a darker underbelly to light.  <a href="https://nyti.ms/3BEESI1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>How Will the Greek Election Affect the Parthenon Marbles?</h3>
+<sub>By Alex Marshall</sub>
+<p>For months, Athens and the British Museum have been holding talks about the return from London of the treasures also known as the Elgin Marbles.  <a href="https://nyti.ms/3BGwA25"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 19, Central Standard Time</sub></sub>
 <hr/>
 </ol>
