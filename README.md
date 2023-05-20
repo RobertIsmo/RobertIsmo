@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, May 20, Central Standard Time</p>
 <p>
-There&#39;s a lot going on around the world right now. In Ukraine, President Zelensky is under pressure to send weapons, and the country has recently been able to gain ground in a conflict with Russia. On the US side of things, Florida governor DeSantis has been taking private jets on cross-country trips that are funded by an unclear source. Meanwhile, Biden and other world leaders in the G7 Summit have relatively low approval ratings amid deep political divides. In addition, climate change is having serious impacts on rice production (which feeds half the planet)! Finally, in Greece there&#39;s a building boom going on that’s accompanied by archaeological violations and continuing talks over the return of the Parthenon Marbles from London.</p>
+There&#39;s a lot happening in the world right now. Ukraine&#39;s President Zelensky is visiting Japan, and people are concerned of pressure to send weapons. Biden just reversed course on Ukraine&#39;s request for F-16s and there is a G7 Summit with many unpopular leaders. Zelensky also paid a visit to India, whose stance on the war is complicating things for the West. In Ukraine itself, there has been a lot of conflict in the city of Bakhmut, which the founder of Wagner claims has been captured, but Ukraine denies that claim. Meanwhile in the US, questions are surfacing about Governor DeSantis&#39; use of private jets, and climate change is making it difficult for people who rely on rice as their main food source. Additionally, inflation has been surprisingly persistent despite changes in the economy, mostly due to car prices. On top of all that, Jim Brown—an iconic athlete with a complicated reputation—recently passed away and it&#39;s opened up reflections over athletes adopting social beliefs. Lastly, Senator Dianne Feinstein&#39;s health complications have fatefully raised questions of whether Governor Newsom will keep his promise to appoint a Black woman if Feinstein leaves her seat.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As Zelensky lands in Japan, public worry grows about pressure to send weapons.</h3>
+<sub>By Motoko Rich and Hikari Hida</sub>
+<p>  <a href="https://nyti.ms/3WpwKom"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Here’s why Biden reversed course on Ukraine’s F-16 request.</h3>
 <sub>By David E. Sanger</sub>
@@ -75,27 +81,27 @@ There&#39;s a lot going on around the world right now. In Ukraine, President Zel
 <sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Zelensky lands in Japan, public worry grows about pressure to send weapons.</h3>
-<sub>By Motoko Rich and Hikari Hida</sub>
-<p>  <a href="https://nyti.ms/3WpwKom"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Zelensky meets with India’s leader, whose straddling position on the war has frustrated the West.</h3>
+<sub>By Cassandra Vinograd</sub>
+<p>  <a href="https://nyti.ms/3pT06Pz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘Approaching. Move In.’ How Ukraine Reversed the Momentum in Bakhmut</h3>
+<h3>The Wagner founder claims Bakhmut has been captured. Ukraine denies the claim.</h3>
+<sub>By Marc Santora</sub>
+<p>  <a href="https://nyti.ms/3MHjsQM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘Approaching. Move In.’ How Ukraine Changed the Battle for Bakhmut.</h3>
 <sub>By Marc Santora and Tyler Hicks</sub>
-<p>Seizing an opening as Russia rotated troops, Ukraine pressed ahead with three days of maneuvers that gained ground on the flanks of Bakhmut.  <a href="https://nyti.ms/3BI6BaB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Ukraine, this month, pressed ahead with three days of maneuvers that gained ground on the flanks of Bakhmut. But Russian forces still appear to hold the center of the strategic city.  <a href="https://nyti.ms/3BI6BaB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Air DeSantis: The Private Jets and Secret Donors Flying Him Around</h3>
 <sub>By Alexandra Berzon and Rebecca Davis O’Brien</sub>
 <p>As the Florida governor hopscotched the country preparing to run for president, a Michigan nonprofit paid the bills. It won’t say where it got the money.  <a href="https://nyti.ms/3BJ3yz1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Democrats’ Phalanx Around Biden Has an Eric Adams-Size Hole</h3>
-<sub>By Reid J. Epstein, Dana Rubinstein and Zolan Kanno-Youngs</sub>
-<p>The New York mayor has loudly blamed President Biden for an influx of migrants, amplifying concerns many Democrats share but irritating Mr. Biden’s aides and weakening his political position.  <a href="https://nyti.ms/3OokPoL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
@@ -110,6 +116,12 @@ There&#39;s a lot going on around the world right now. In Ukraine, President Zel
 <p>Prices of new and used vehicles were supposed to recede quickly as supply chain problems dissipated. The market had other ideas.  <a href="https://nyti.ms/3BGhAkU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Jim Brown Should Be Seen Fully, Flaws and All</h3>
+<sub>By Kurt Streeter</sub>
+<p>Brown, who died on Thursday, demanded that people see more to him than strong athletic performances. In the 1960s, that was unusual for athletes.  <a href="https://nyti.ms/3Muql6O"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Why Dianne Feinstein, Like Many Before Her, Refuses to Let Go</h3>
 <sub>By Annie Karni</sub>
@@ -120,18 +132,6 @@ There&#39;s a lot going on around the world right now. In Ukraine, President Zel
 <h3>With Feinstein Ailing, Newsom’s Vow Looms Over Senate Race</h3>
 <sub>By Thomas Fuller and Shane Goldmacher</sub>
 <p>Gov. Gavin Newsom of California promised in 2021 that he would appoint a Black woman to replace Senator Dianne Feinstein if she were to resign early.  <a href="https://nyti.ms/42QDLkn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Building Boom on Mykonos Reveals ‘Wretched’ Side of Greece’s Recovery</h3>
-<sub>By Liz Alderman and Niki Kitsantonis</sub>
-<p>Investors are eager to cash in on soaring demand for luxury properties, but an attack on an archaeologist investigating building violations brought a darker underbelly to light.  <a href="https://nyti.ms/3BEESI1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>How Will the Greek Election Affect the Parthenon Marbles?</h3>
-<sub>By Alex Marshall</sub>
-<p>For months, Athens and the British Museum have been holding talks about the return from London of the treasures also known as the Elgin Marbles.  <a href="https://nyti.ms/3BGwA25"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 19, Central Standard Time</sub></sub>
 <hr/>
 </ol>
