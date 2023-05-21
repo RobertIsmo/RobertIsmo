@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Saturday, May 20, Central Standard Time</p>
+<p>It is Sunday, May 21, Central Standard Time</p>
 <p>
-The world is going through a period of great change. On the business side, the U.S. is flirting with defaulting on its debt, leading to economic uncertainty. Other nations are debating ambitious climate change commitments at the G7 Summit while new terms like &#39;decoupling&#39; and &#39;de-risking&#39; have risen in importance when talking about dealing with China&#39;s increasing assertiveness. In Ukraine, Bakhmut is shifting between Ukrainian and Russian forces in an ongoing conflict. In Florida, Governor Air DeSantis has been hopscotching the country preparing to run for president while a Michigan nonprofit paid his bills in secrecy. On the literary side, acclaimed British novelist Martin Amis has passed away at 73 leaving behind a legacy of books and essays. Prices of cars have been rising unexpectedly despite supply chain problems and Jim Brown, an iconic athlete from the 1960s who recently died, is being remembered for not only his strong athletic performance but also by pushing to be seen as more than that. Lastly, many Hawaiians are finding solace in Las Vegas even if it doesn&#39;t quite compare to the ocean and scenery in Hawaii.</p>
+Right now, markets are still betting on a U.S. Congress and White House deal but the uncertainty is taking a toll on the economy. Ukraine&#39;s President asked for more aid from G7 countries like India and Brazil, while Russia has imposed sanctions on various U.S. people, most of whom were former President Donald J. Trump&#39;s enemies. A new term is making rounds in finance called &#39;de-risking&#39; which reflects how countries are dealing with a rising China. Meanwhile, Russian paramilitary forces say they have taken a city in Ukraine but Ukrainian officials deny the claim even though they describe the situation as “critical”. In Florida, governor DeSantis is struggling to win support across the Republican Party by avoiding talk of an abortion ban that he signed into law. A Michigan non-profit is paying for DeSantis&#39;s private jets as he travels around the country preparing to run for president, though they won&#39;t say where the money is coming from. Notable British author Martin Amis passed away at 73 and his books are famous for their semi-autobiographical bleak comedies. The auto industry isn&#39;t seeing relief as much as everyone had hoped because inflation is slow to decrease and now e-sports teams are selling off further demonstrating an uncertain future in that field. Lastly, not many people can fathom why Hawaiians are increasingly moving to Las Vegas when there&#39;s no ocean in sight!</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Even Flirting With U.S. Default Takes Economic Toll</h3>
@@ -75,21 +75,27 @@ The world is going through a period of great change. On the business side, the U
 <sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Behind the Scenes, G7 Nations Wrangle Over Ambitious Climate Commitments</h3>
-<sub>By Motoko Rich, Lisa Friedman and Jim Tankersley</sub>
-<p>The U.S. finds itself caught between defending President Biden’s climate change agenda and aiding allies intent on increasing their access to fossil fuels.  <a href="https://nyti.ms/3BJm4aw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>How ‘Decoupling’ From China Became ‘De-risking’</h3>
 <sub>By Damien Cave</sub>
 <p>The newly fashionable term, reflecting an evolution in the discussion over dealing with a rising, assertive China, has a vexing history in financial policy.  <a href="https://nyti.ms/3MjYczb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Bakhmut, the Tides of Battle Are Ever Shifting</h3>
-<sub>By Marc Santora and Tyler Hicks</sub>
-<p>Ukraine, this month, pressed ahead with three days of maneuvers that gained ground on the flanks of Bakhmut. But Russian forces still appear to hold the center of the strategic city.  <a href="https://nyti.ms/3BI6BaB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Wagner Chief Says Bakhmut Is Taken; Ukraine Rejects Claim</h3>
+<sub>By Marc Santora</sub>
+<p>The head of the Russian paramilitary group said his forces had captured the eastern city, a claim Ukrainian officials were quick to deny even as they called the situation “critical.”  <a href="https://nyti.ms/43gFzmG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russia’s Latest Sanctions on U.S. Officials Turn to Trump Enemies</h3>
+<sub>By Peter Baker</sub>
+<p>Among the 500 people singled out for travel and financial restrictions were Americans seen as adversaries by former President Donald J. Trump.  <a href="https://nyti.ms/42VyAjc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>DeSantis Skirts Abortion Ban Even When Speaking to His Base</h3>
+<sub>By Nicholas Nehamas</sub>
+<p>The Florida governor is reluctant to talk about the restrictive law he signed as he seeks to attract support from across the Republican Party.  <a href="https://nyti.ms/45eE4qV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -102,12 +108,6 @@ The world is going through a period of great change. On the business side, the U
 <h3>Martin Amis, Acclaimed Author of Bleakly Comic Novels, Dies at 73</h3>
 <sub>By Dwight Garner</sub>
 <p>In books like “Money” and “The Information,” he created “a high style to describe low things,” as he put it. He found more renown as a critic, and a measure of unease as his famous father’s son.  <a href="https://nyti.ms/3Wme8oZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-books-blue" alt="">
-<h3>A Brief Guide to Martin Amis’s Books</h3>
-<sub>By The New York Times Books Staff</sub>
-<p>The acclaimed British novelist was also an essayist, memoirist and critic of the first rank.  <a href="https://nyti.ms/3MLZtk3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
