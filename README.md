@@ -60,18 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, May 21, Central Standard Time</p>
 <p>
-Right now, markets are still betting on a U.S. Congress and White House deal but the uncertainty is taking a toll on the economy. Ukraine&#39;s President asked for more aid from G7 countries like India and Brazil, while Russia has imposed sanctions on various U.S. people, most of whom were former President Donald J. Trump&#39;s enemies. A new term is making rounds in finance called &#39;de-risking&#39; which reflects how countries are dealing with a rising China. Meanwhile, Russian paramilitary forces say they have taken a city in Ukraine but Ukrainian officials deny the claim even though they describe the situation as “critical”. In Florida, governor DeSantis is struggling to win support across the Republican Party by avoiding talk of an abortion ban that he signed into law. A Michigan non-profit is paying for DeSantis&#39;s private jets as he travels around the country preparing to run for president, though they won&#39;t say where the money is coming from. Notable British author Martin Amis passed away at 73 and his books are famous for their semi-autobiographical bleak comedies. The auto industry isn&#39;t seeing relief as much as everyone had hoped because inflation is slow to decrease and now e-sports teams are selling off further demonstrating an uncertain future in that field. Lastly, not many people can fathom why Hawaiians are increasingly moving to Las Vegas when there&#39;s no ocean in sight!</p>
+In the world, Russia has imposed sanctions on US officials perceived as adversaries by former President Donald Trump. There is an increasing focus on “de-risking” with China, which has had an effect on financial markets and sparked debates around the US debt default. In the US, Florida Governor DeSantis is facing scrutiny over a restrictive abortion law as well as air travel on private jets funded by a Michigan non-profit. The award-winning author Martin Amis has passed away and cars are playing a role in inflation&#39;s resilience. Additionally, eSports industries are suffering due to uncertain futures and more Hawaiians are moving to Las Vegas from Hawaii. Finally, there’s coverage about how to move Indonesia’s sinking capital city, Martha Stewart&#39;s recent Sports Illustrated cover, and details of the Titanic shipwreck.</p>
 <ol>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Even Flirting With U.S. Default Takes Economic Toll</h3>
-<sub>By Lydia DePillis and Ben Casselman</sub>
-<p>Financial markets are still betting that Congress and the White House will strike a deal. But the uncertainty alone is having consequences.  <a href="https://nyti.ms/3oclzml"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>After a Show-Stopping Entrance at the G7, Zelensky Pleads for More Aid</h3>
-<sub>By David E. Sanger and Peter Baker</sub>
-<p>He urged his supporters to stay the course and tried to convince fence sitters like India and Brazil that there is no middle ground.  <a href="https://nyti.ms/3MFHfjX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russia’s Latest Sanctions on U.S. Officials Turn to Trump Enemies</h3>
+<sub>By Peter Baker</sub>
+<p>Among the 500 people singled out for travel and financial restrictions were Americans seen as adversaries by former President Donald J. Trump.  <a href="https://nyti.ms/42VyAjc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -80,16 +74,10 @@ Right now, markets are still betting on a U.S. Congress and White House deal but
 <p>The newly fashionable term, reflecting an evolution in the discussion over dealing with a rising, assertive China, has a vexing history in financial policy.  <a href="https://nyti.ms/3MjYczb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Wagner Chief Says Bakhmut Is Taken; Ukraine Rejects Claim</h3>
-<sub>By Marc Santora</sub>
-<p>The head of the Russian paramilitary group said his forces had captured the eastern city, a claim Ukrainian officials were quick to deny even as they called the situation “critical.”  <a href="https://nyti.ms/43gFzmG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia’s Latest Sanctions on U.S. Officials Turn to Trump Enemies</h3>
-<sub>By Peter Baker</sub>
-<p>Among the 500 people singled out for travel and financial restrictions were Americans seen as adversaries by former President Donald J. Trump.  <a href="https://nyti.ms/42VyAjc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Even Flirting With U.S. Default Takes Economic Toll</h3>
+<sub>By Lydia DePillis and Ben Casselman</sub>
+<p>Financial markets are still betting that Congress and the White House will strike a deal. But the uncertainty alone is having consequences.  <a href="https://nyti.ms/3oclzml"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -133,6 +121,18 @@ Right now, markets are still betting on a U.S. Congress and White House deal but
 <sub>By Eliza Fawcett and Hana Asano</sub>
 <p>The scenery can’t compare. So why are Hawaiians increasingly moving there?  <a href="https://nyti.ms/3BI6HyZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The Weekender</h3>
+<sub>By Christine Chun</sub>
+<p>How to move Indonesia’s sinking capital city. Also: Martha Stewart on her Sports Illustrated cover and new details of the Titanic shipwreck.  <a href="https://nyti.ms/45gcIQY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The New York Times News Quiz, May 19, 2023</h3>
+<sub></sub>
+<p>Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.  <a href="https://nyti.ms/457hiRw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 19, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
