@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, May 20, Central Standard Time</p>
 <p>
-There has been a lot of news this week. Economists are worried about the economic toll of even flirting with a US default as Congress and the White House negotiate a deal. Ukrainian President Zelensky asked for more aid from the G7 nations; meanwhile G7 nations are wrangling over ambitious climate commitments, with the US caught between defending Biden&#39;s climate change agenda and aiding allies. In Ukraine&#39;s war with Russia, Ukraine pressed ahead this month with military maneuvers to gain ground in the strategic city of Bakhmut. In Florida, Air DeSantis is taking private jets around the country to prepare for a presidential run and his expenses are being paid by a Michigan nonprofit who won&#39;t say where they got the money. British novelist Martin Amis recently passed away leaving behind classic bleakly comic novels like &quot;Money&quot; and &quot;The Information&quot;. Meanwhile, economists are trying to figure out why inflation is so stubborn—partly because of cars. Also in sports, Jim Brown demands that people see more than strong athletic performances from him. The e-sports world is also teetering with teams in America&#39;s most prominent league selling their teams—suggesting an uncertain future. Finally, people from Hawaii have been increasingly moving to Las Vegas and the reason why is unclear since there is no ocean in sight.</p>
+The world is going through a period of great change. On the business side, the U.S. is flirting with defaulting on its debt, leading to economic uncertainty. Other nations are debating ambitious climate change commitments at the G7 Summit while new terms like &#39;decoupling&#39; and &#39;de-risking&#39; have risen in importance when talking about dealing with China&#39;s increasing assertiveness. In Ukraine, Bakhmut is shifting between Ukrainian and Russian forces in an ongoing conflict. In Florida, Governor Air DeSantis has been hopscotching the country preparing to run for president while a Michigan nonprofit paid his bills in secrecy. On the literary side, acclaimed British novelist Martin Amis has passed away at 73 leaving behind a legacy of books and essays. Prices of cars have been rising unexpectedly despite supply chain problems and Jim Brown, an iconic athlete from the 1960s who recently died, is being remembered for not only his strong athletic performance but also by pushing to be seen as more than that. Lastly, many Hawaiians are finding solace in Las Vegas even if it doesn&#39;t quite compare to the ocean and scenery in Hawaii.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Even Flirting With U.S. Default Takes Economic Toll</h3>
@@ -78,6 +78,12 @@ There has been a lot of news this week. Economists are worried about the economi
 <h3>Behind the Scenes, G7 Nations Wrangle Over Ambitious Climate Commitments</h3>
 <sub>By Motoko Rich, Lisa Friedman and Jim Tankersley</sub>
 <p>The U.S. finds itself caught between defending President Biden’s climate change agenda and aiding allies intent on increasing their access to fossil fuels.  <a href="https://nyti.ms/3BJm4aw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>How ‘Decoupling’ From China Became ‘De-risking’</h3>
+<sub>By Damien Cave</sub>
+<p>The newly fashionable term, reflecting an evolution in the discussion over dealing with a rising, assertive China, has a vexing history in financial policy.  <a href="https://nyti.ms/3MjYczb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -127,12 +133,6 @@ There has been a lot of news this week. Economists are worried about the economi
 <sub>By Eliza Fawcett and Hana Asano</sub>
 <p>The scenery can’t compare. So why are Hawaiians increasingly moving there?  <a href="https://nyti.ms/3BI6HyZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The Weekender</h3>
-<sub>By Christine Chun</sub>
-<p>How to move Indonesia’s sinking capital city. Also: Martha Stewart on her Sports Illustrated cover and new details of the Titanic shipwreck.  <a href="https://nyti.ms/45gcIQY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
