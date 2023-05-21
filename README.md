@@ -60,19 +60,52 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, May 21, Central Standard Time</p>
 <p>
-In the world, Russia has imposed sanctions on US officials perceived as adversaries by former President Donald Trump. There is an increasing focus on “de-risking” with China, which has had an effect on financial markets and sparked debates around the US debt default. In the US, Florida Governor DeSantis is facing scrutiny over a restrictive abortion law as well as air travel on private jets funded by a Michigan non-profit. The award-winning author Martin Amis has passed away and cars are playing a role in inflation&#39;s resilience. Additionally, eSports industries are suffering due to uncertain futures and more Hawaiians are moving to Las Vegas from Hawaii. Finally, there’s coverage about how to move Indonesia’s sinking capital city, Martha Stewart&#39;s recent Sports Illustrated cover, and details of the Titanic shipwreck.</p>
+There is a lot going on in the world right now. In Ukraine, the government is looking to get some F-16 fighter jets, and in Russia, officials have placed sanctions on 500 people, including those seen as enemies of former US President Donald Trump. On the business side of things, everyone is trying to secure the critical minerals necessary for the energy transition, and there are a lot of agreements being entered into in attempt to do that. We&#39;re also seeing terms like &#39;decoupling&#39; from China evolve to &#39;de-risking&#39; in order to address their rising power and influence. 
+In the US, President Biden has declared that he has the authority to challenge the debt limit, yet discussions have stalled due to disagreements over spending caps and work requirements. This economic uncertainty has had consequences for many. Senator Tim Scott has thrown his hat into the presidential race, making him the sole Black Republican in the Senate, which could bring attention to Black conservatives across the country. Meanwhile, Florida Governor DeSantis is not keen on talking about the abortion ban he has signed into law while seeking support from all sides of the Republican Party.
+
+Lastly, Greece is voting at the moment and their Prime Minister Kyriakos Mitsotakis is looking to turn around their economy by taking a tough stance on migrants - something that both voters and the European Union seem okay with. Lastly, Zibo - a city in China - has become a tourist destination this year because of its specialised barbecue style.  </p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukraine May Be Finally Getting the F-16s It Asked For. Why Did It Want Them?</h3>
+<sub>By Carlotta Gall</sub>
+<p>Ukraine’s air force already includes a sizable contingent of fighter jets, but they come with a few problems.  <a href="https://nyti.ms/42VcoWm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, May 21, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Russia’s Latest Sanctions on U.S. Officials Turn to Trump Enemies</h3>
 <sub>By Peter Baker</sub>
 <p>Among the 500 people singled out for travel and financial restrictions were Americans seen as adversaries by former President Donald J. Trump.  <a href="https://nyti.ms/42VyAjc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>The U.S. Needs Minerals for Electric Cars. Everyone Else Wants Them Too.</h3>
+<sub>By Ana Swanson</sub>
+<p>The United States is entering an array of agreements to secure the critical minerals necessary for the energy transition, but it’s not clear which of the arrangements can succeed.  <a href="https://nyti.ms/3pXX9xe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, May 21, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>How ‘Decoupling’ From China Became ‘De-risking’</h3>
 <sub>By Damien Cave</sub>
 <p>The newly fashionable term, reflecting an evolution in the discussion over dealing with a rising, assertive China, has a vexing history in financial policy.  <a href="https://nyti.ms/3MjYczb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As Rahm Emanuel Pushes Japan on Gay Rights, Conservatives Bristle</h3>
+<sub>By Motoko Rich</sub>
+<p>The U.S. ambassador has enthusiastically embraced his host country. But critics say he has overstepped diplomatic bounds with his advocacy on equality.  <a href="https://nyti.ms/3BL1si7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, May 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The U.S. Left Them Behind. They Crossed a Jungle to Get Here Anyway.</h3>
+<sub>By Julie Turkewitz and Federico Rios</sub>
+<p>For thousands of Afghans, the American withdrawal from Kabul was just the beginning of a long, dangerous search for safety.  <a href="https://nyti.ms/3BK6Dif"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, May 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Says He Has Authority to Challenge Debt Limit, but No Time</h3>
+<sub>By Jim Tankersley and Catie Edmondson</sub>
+<p>Discussions meant to avoid a default have bogged down amid disagreements over spending caps, work requirements and new Republican proposals.  <a href="https://nyti.ms/42Qy1Hg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, May 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Even Flirting With U.S. Default Takes Economic Toll</h3>
@@ -81,58 +114,28 @@ In the world, Russia has imposed sanctions on US officials perceived as adversar
 <sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Tim Scott’s Run for President Shines a Spotlight on Black Republicans</h3>
+<sub>By Maya King</sub>
+<p>The South Carolina senator’s bid for the White House — as the sole Black Republican in the Senate — could raise not only his profile, but those of Black conservatives across the country.  <a href="https://nyti.ms/45jEAnm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, May 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>DeSantis Skirts Abortion Ban Even When Speaking to His Base</h3>
 <sub>By Nicholas Nehamas</sub>
 <p>The Florida governor is reluctant to talk about the restrictive law he signed as he seeks to attract support from across the Republican Party.  <a href="https://nyti.ms/45eE4qV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Air DeSantis: The Private Jets and Secret Donors Flying Him Around</h3>
-<sub>By Alexandra Berzon and Rebecca Davis O’Brien</sub>
-<p>As the Florida governor hopscotched the country preparing to run for president, a Michigan nonprofit paid the bills. It won’t say where it got the money.  <a href="https://nyti.ms/3BJ3yz1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Inside the Barbecue City That Is China’s Hottest Tourist Destination</h3>
+<sub>By Vivian Wang</sub>
+<p>Zibo has become a social media star for its distinctive barbecue style. Now the city is overrun with visitors.  <a href="https://nyti.ms/3Owm7OE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, May 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-books-blue" alt="">
-<h3>Martin Amis, Acclaimed Author of Bleakly Comic Novels, Dies at 73</h3>
-<sub>By Dwight Garner</sub>
-<p>In books like “Money” and “The Information,” he created “a high style to describe low things,” as he put it. He found more renown as a critic, and a measure of unease as his famous father’s son.  <a href="https://nyti.ms/3Wme8oZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Why Is Inflation So Stubborn? Cars Are Part of the Answer.</h3>
-<sub>By Lydia DePillis and Jeanna Smialek</sub>
-<p>Prices of new and used vehicles were supposed to recede quickly as supply chain problems dissipated. The market had other ideas.  <a href="https://nyti.ms/3BGhAkU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Jim Brown Should Be Seen Fully, Flaws and All</h3>
-<sub>By Kurt Streeter</sub>
-<p>Brown, who died on Thursday, demanded that people see more to him than strong athletic performances. In the 1960s, that was unusual for athletes.  <a href="https://nyti.ms/3Muql6O"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>The E-Sports World Is Starting to Teeter</h3>
-<sub>By Kellen Browning</sub>
-<p>At least two organizations in America’s most prominent league for professional video game players are selling their teams, underscoring the industry’s uncertain future.  <a href="https://nyti.ms/3MIIT4e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>There’s No Ocean in Sight. But Many Hawaiians Make Las Vegas Their Home.</h3>
-<sub>By Eliza Fawcett and Hana Asano</sub>
-<p>The scenery can’t compare. So why are Hawaiians increasingly moving there?  <a href="https://nyti.ms/3BI6HyZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The Weekender</h3>
-<sub>By Christine Chun</sub>
-<p>How to move Indonesia’s sinking capital city. Also: Martha Stewart on her Sports Illustrated cover and new details of the Titanic shipwreck.  <a href="https://nyti.ms/45gcIQY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The New York Times News Quiz, May 19, 2023</h3>
-<sub></sub>
-<p>Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.  <a href="https://nyti.ms/457hiRw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 19, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As Greece Votes, Leader Says Blocking Migrants Built ‘Good Will’ With Europe</h3>
+<sub>By Jason Horowitz</sub>
+<p>Prime Minister Kyriakos Mitsotakis has taken a tough line on migrants as he turns around the country’s economy. It’s a trade-off that voters and the European Union seem more than willing to abide.  <a href="https://nyti.ms/3WnBOcI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, May 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
