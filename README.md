@@ -60,18 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, May 21, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. Russia is celebrating an event without mentioning one specific detail, and Ukraine is finally getting the F-16 fighter jets it asked for amid some problems. Russia has launched new sanctions against officials associated with former U.S President Donald Trump, and the U.S is entering agreements to secure critical minerals essential for the energy transition. There&#39;s also been discussion of &quot;de-risking&quot; over rising assertive China, as well as U.S Ambassador Rahm Emanuel pushing Japan on Gay rights while conservatives bristle. Thousands of Afghans have crossed a jungle to get to the U.S due to the withdrawal from Kabul. Meanwhile, President Biden and House Minority leader Kevin McCarthy have resumed talks concerning the debt limit, and Tim Scott is running for president in 2024 as a Black Republican, while Florida Governor Ron DeSantis seems to be skirting abortion ban even when talking to his own base. Finally, China&#39;s hottest tourist destination is gaining attention on social media for its unique barbecue style.</p>
+Right now, there is a lot going on in the world. The US is using the war in Ukraine to demonstrate new military systems, but they&#39;re having difficulty getting the Defense Department to take a risk and buy them. Meanwhile, Biden announced more aid for Ukraine while the Group of 7 powers held a meeting in Japan. Russia just imposed sanctions on US officials, many of whom are seen as Trump&#39;s political enemies. 
+
+Business wise, everyone is trying to secure minerals needed for electric cars, and the US enters into agreements to get what they need. On another note, thousands of Afghans have abandoned their homes and are crossing jungles to get to America even though the country left them behind.
+
+Closer to home, Biden and McCarthy are resuming negotiations on the debt limit while taking into consideration Republican proposals for spending caps and other demands. Meanwhile, economic markets are recognizing potential consequences from not reaching an agreement. 
+
+And just for fun, China recently became a tourist destination for its barbecue city Zibo. Hotels have come out with services catering to pets such as doggy menus, nose balm and pet sitting.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russian state media celebrates Bakhmut, with a notable omission.</h3>
-<sub>By Anton Troianovski</sub>
-<p>  <a href="https://nyti.ms/3BIuuik"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Start-Ups Bring Silicon Valley Ethos to a Lumbering Military-Industrial Complex</h3>
+<sub>By Eric Lipton</sub>
+<p>Small, fast-moving U.S. tech firms are using the war in Ukraine to demonstrate a new generation of military systems but face the challenge of selling them to a risk-averse Defense Department.  <a href="https://nyti.ms/45oecZJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, May 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine May Be Finally Getting the F-16s It Asked For. Why Did It Want Them?</h3>
-<sub>By Carlotta Gall</sub>
-<p>Ukraine’s air force already includes a sizable contingent of fighter jets, but they come with a few problems.  <a href="https://nyti.ms/42VcoWm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Biden Announces More Aid for Ukraine as Group of 7 Powers Convene in Japan</h3>
+<sub>By Peter Baker, Motoko Rich and David E. Sanger</sub>
+<p>President Volodomyr Zelensky of Ukraine received vows of resolute support and promises of further weapons shipments even as Russian forces claimed to have seized the war-torn city of Bakhmut.  <a href="https://nyti.ms/3IvlG3h"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, May 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -87,21 +93,15 @@ There&#39;s a lot going on in the world right now. Russia is celebrating an even
 <sub><sub>Sunday, May 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>How ‘Decoupling’ From China Became ‘De-risking’</h3>
-<sub>By Damien Cave</sub>
-<p>The newly fashionable term, reflecting an evolution in the discussion over dealing with a rising, assertive China, has a vexing history in financial policy.  <a href="https://nyti.ms/3MjYczb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Rahm Emanuel Pushes Japan on Gay Rights, Conservatives Bristle</h3>
-<sub>By Motoko Rich</sub>
-<p>The U.S. ambassador has enthusiastically embraced his host country. But critics say he has overstepped diplomatic bounds with his advocacy on equality.  <a href="https://nyti.ms/3BL1si7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, May 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>The U.S. Left Them Behind. They Crossed a Jungle to Get Here Anyway.</h3>
 <sub>By Julie Turkewitz and Federico Rios</sub>
 <p>For thousands of Afghans, the American withdrawal from Kabul was just the beginning of a long, dangerous search for safety.  <a href="https://nyti.ms/3BK6Dif"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, May 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-espanol-blue" alt="">
+<h3>‘Nos abandonaron’: afganos desafían los peligros del Darién en busca del sueño americano</h3>
+<sub>By Julie Turkewitz and Federico Rios</sub>
+<p>Para miles de afganos, la retirada estadounidense de Kabul solo fue el comienzo de una larga y peligrosa búsqueda de seguridad.  <a href="https://nyti.ms/3Ou28zN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, May 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -110,29 +110,35 @@ There&#39;s a lot going on in the world right now. Russia is celebrating an even
 <p>Discussions aimed at avoiding a default have bogged down as Republicans press their demand for spending caps, work requirements for public benefit programs and other proposals in exchange.  <a href="https://nyti.ms/42Qy1Hg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, May 21, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Even Flirting With U.S. Default Takes Economic Toll</h3>
+<sub>By Lydia DePillis and Ben Casselman</sub>
+<p>Financial markets are still betting that Congress and the White House will strike a deal. But the uncertainty alone is having consequences.  <a href="https://nyti.ms/3oclzml"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
 <h3>What Number Comes Next? The Encyclopedia of Integer Sequences Knows.</h3>
 <sub>By Siobhan Roberts</sub>
 <p>The “mathematical equivalent to the FBI’s voluminous fingerprint files” turns 50 this year, with 362,765 entries (and counting).  <a href="https://nyti.ms/45nhGM3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, May 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What Tim Scott’s 2024 Campaign Could Mean for Black Republicans</h3>
-<sub>By Maya King</sub>
-<p>The South Carolina senator’s bid for the White House — as the sole Black Republican in the Senate — could raise not only his profile, but those of Black conservatives across the country.  <a href="https://nyti.ms/45jEAnm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>With His Party Ahead in Elections, Greek Leader Claims ‘Political Earthquake’</h3>
+<sub>By Niki Kitsantonis</sub>
+<p>Prime Minister Kyriakos Mitsotakis’s New Democracy party did not win enough votes to form a one-party government. But he appeared to rule out talks to form a coalition, setting the stage for a second vote in weeks.  <a href="https://nyti.ms/42W4w73"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, May 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis Skirts Abortion Ban Even When Speaking to His Base</h3>
-<sub>By Nicholas Nehamas</sub>
-<p>The Florida governor is reluctant to talk about the restrictive law he signed as he seeks to attract support from across the Republican Party.  <a href="https://nyti.ms/45eE4qV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Inside the Barbecue City That Is China’s Hottest Tourist Destination</h3>
 <sub>By Vivian Wang</sub>
 <p>Zibo has become a social media star for its distinctive barbecue style. Now the city is overrun with visitors.  <a href="https://nyti.ms/3Owm7OE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, May 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-travel-blue" alt="">
+<h3>Hotels Roll Out the Red Carpet for Pets</h3>
+<sub>By Stephanie Rosenbloom</sub>
+<p>Doggy menus, plush beds, nose balm and pet sitting: As people increasingly travel with their four-legged friends, hotels are stepping up with more amenities.  <a href="https://nyti.ms/3W5W9Db"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 15, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
