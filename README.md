@@ -60,10 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, May 21, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In Ukraine, the government is looking to get some F-16 fighter jets, and in Russia, officials have placed sanctions on 500 people, including those seen as enemies of former US President Donald Trump. On the business side of things, everyone is trying to secure the critical minerals necessary for the energy transition, and there are a lot of agreements being entered into in attempt to do that. We&#39;re also seeing terms like &#39;decoupling&#39; from China evolve to &#39;de-risking&#39; in order to address their rising power and influence. 
-In the US, President Biden has declared that he has the authority to challenge the debt limit, yet discussions have stalled due to disagreements over spending caps and work requirements. This economic uncertainty has had consequences for many. Senator Tim Scott has thrown his hat into the presidential race, making him the sole Black Republican in the Senate, which could bring attention to Black conservatives across the country. Meanwhile, Florida Governor DeSantis is not keen on talking about the abortion ban he has signed into law while seeking support from all sides of the Republican Party.
-
-Lastly, Greece is voting at the moment and their Prime Minister Kyriakos Mitsotakis is looking to turn around their economy by taking a tough stance on migrants - something that both voters and the European Union seem okay with. Lastly, Zibo - a city in China - has become a tourist destination this year because of its specialised barbecue style.  </p>
+There&#39;s quite a bit happening in the world these days! In Ukraine, they may finally be getting their requested F-16 fighter jets, which would help shore up the country&#39;s air force. Russia has recently announced new sanctions on U.S. officials, many of whom clashed with former President Donald Trump. There&#39;s also been some talk about the need for new agreements and arrangements to secure minerals for electric cars, as countries around the world are competing for them. In Japan, there&#39;s increased focus on gay rights thanks to U.S. ambassador Rahm Emanuel, who is pushing for greater equality despite opposition from Japanese conservatives. Then there are those who have sought refuge from Afghanistan, crossing jungles in search of safety after the U.S. left them behind. Meanwhile, at home the Biden administration is debating ways to raise the debt limit and speaking out on behalf of Black Republicans like South Carolina Senator Tim Scott who are running for president—even as Florida Governor DeSantis skips discussing his restrictive ban on abortions in order to attract support from across party lines! And if you&#39;re into travel and tourist hotspots, have you heard about Zibo in China? It has become famous for its barbecue style and is being overrun with visitors! Finally, hotels everywhere are rolling out all sorts of amenities and services for pet owners who now travel more often with their four-legged friends.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ukraine May Be Finally Getting the F-16s It Asked For. Why Did It Want Them?</h3>
@@ -131,11 +128,11 @@ Lastly, Greece is voting at the moment and their Prime Minister Kyriakos Mitsota
 <p>Zibo has become a social media star for its distinctive barbecue style. Now the city is overrun with visitors.  <a href="https://nyti.ms/3Owm7OE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, May 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Greece Votes, Leader Says Blocking Migrants Built ‘Good Will’ With Europe</h3>
-<sub>By Jason Horowitz</sub>
-<p>Prime Minister Kyriakos Mitsotakis has taken a tough line on migrants as he turns around the country’s economy. It’s a trade-off that voters and the European Union seem more than willing to abide.  <a href="https://nyti.ms/3WnBOcI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, May 21, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-travel-blue" alt="">
+<h3>Hotels Roll Out the Red Carpet for Pets</h3>
+<sub>By Stephanie Rosenbloom</sub>
+<p>Doggy menus, plush beds, nose balm and pet sitting: As people increasingly travel with their four-legged friends, hotels are stepping up with more amenities.  <a href="https://nyti.ms/3W5W9Db"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 15, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
