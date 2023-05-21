@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, May 21, Central Standard Time</p>
 <p>
-There&#39;s quite a bit happening in the world these days! In Ukraine, they may finally be getting their requested F-16 fighter jets, which would help shore up the country&#39;s air force. Russia has recently announced new sanctions on U.S. officials, many of whom clashed with former President Donald Trump. There&#39;s also been some talk about the need for new agreements and arrangements to secure minerals for electric cars, as countries around the world are competing for them. In Japan, there&#39;s increased focus on gay rights thanks to U.S. ambassador Rahm Emanuel, who is pushing for greater equality despite opposition from Japanese conservatives. Then there are those who have sought refuge from Afghanistan, crossing jungles in search of safety after the U.S. left them behind. Meanwhile, at home the Biden administration is debating ways to raise the debt limit and speaking out on behalf of Black Republicans like South Carolina Senator Tim Scott who are running for president—even as Florida Governor DeSantis skips discussing his restrictive ban on abortions in order to attract support from across party lines! And if you&#39;re into travel and tourist hotspots, have you heard about Zibo in China? It has become famous for its barbecue style and is being overrun with visitors! Finally, hotels everywhere are rolling out all sorts of amenities and services for pet owners who now travel more often with their four-legged friends.</p>
+There&#39;s a lot going on in the world right now. Russia is celebrating an event without mentioning one specific detail, and Ukraine is finally getting the F-16 fighter jets it asked for amid some problems. Russia has launched new sanctions against officials associated with former U.S President Donald Trump, and the U.S is entering agreements to secure critical minerals essential for the energy transition. There&#39;s also been discussion of &quot;de-risking&quot; over rising assertive China, as well as U.S Ambassador Rahm Emanuel pushing Japan on Gay rights while conservatives bristle. Thousands of Afghans have crossed a jungle to get to the U.S due to the withdrawal from Kabul. Meanwhile, President Biden and House Minority leader Kevin McCarthy have resumed talks concerning the debt limit, and Tim Scott is running for president in 2024 as a Black Republican, while Florida Governor Ron DeSantis seems to be skirting abortion ban even when talking to his own base. Finally, China&#39;s hottest tourist destination is gaining attention on social media for its unique barbecue style.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russian state media celebrates Bakhmut, with a notable omission.</h3>
+<sub>By Anton Troianovski</sub>
+<p>  <a href="https://nyti.ms/3BIuuik"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, May 21, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ukraine May Be Finally Getting the F-16s It Asked For. Why Did It Want Them?</h3>
 <sub>By Carlotta Gall</sub>
@@ -77,7 +83,7 @@ There&#39;s quite a bit happening in the world these days! In Ukraine, they may 
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>The U.S. Needs Minerals for Electric Cars. Everyone Else Wants Them Too.</h3>
 <sub>By Ana Swanson</sub>
-<p>The United States is entering an array of agreements to secure the critical minerals necessary for the energy transition, but it’s not clear which of the arrangements can succeed.  <a href="https://nyti.ms/3pXX9xe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The United States is entering an array of agreements to secure the critical minerals necessary for the energy transition, but it’s not clear which of the arrangements can succeed.  <a href="https://nyti.ms/3IqWN8P"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, May 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -99,19 +105,19 @@ There&#39;s quite a bit happening in the world these days! In Ukraine, they may 
 <sub><sub>Sunday, May 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Says He Has Authority to Challenge Debt Limit, but No Time</h3>
+<h3>Biden and McCarthy Set to Resume Negotiations on Debt Limit</h3>
 <sub>By Jim Tankersley and Catie Edmondson</sub>
-<p>Discussions meant to avoid a default have bogged down amid disagreements over spending caps, work requirements and new Republican proposals.  <a href="https://nyti.ms/42Qy1Hg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Discussions aimed at avoiding a default have bogged down as Republicans press their demand for spending caps, work requirements for public benefit programs and other proposals in exchange.  <a href="https://nyti.ms/42Qy1Hg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, May 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Even Flirting With U.S. Default Takes Economic Toll</h3>
-<sub>By Lydia DePillis and Ben Casselman</sub>
-<p>Financial markets are still betting that Congress and the White House will strike a deal. But the uncertainty alone is having consequences.  <a href="https://nyti.ms/3oclzml"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>What Number Comes Next? The Encyclopedia of Integer Sequences Knows.</h3>
+<sub>By Siobhan Roberts</sub>
+<p>The “mathematical equivalent to the FBI’s voluminous fingerprint files” turns 50 this year, with 362,765 entries (and counting).  <a href="https://nyti.ms/45nhGM3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, May 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Tim Scott’s Run for President Shines a Spotlight on Black Republicans</h3>
+<h3>What Tim Scott’s 2024 Campaign Could Mean for Black Republicans</h3>
 <sub>By Maya King</sub>
 <p>The South Carolina senator’s bid for the White House — as the sole Black Republican in the Senate — could raise not only his profile, but those of Black conservatives across the country.  <a href="https://nyti.ms/45jEAnm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, May 21, Central Standard Time</sub></sub>
@@ -127,12 +133,6 @@ There&#39;s quite a bit happening in the world these days! In Ukraine, they may 
 <sub>By Vivian Wang</sub>
 <p>Zibo has become a social media star for its distinctive barbecue style. Now the city is overrun with visitors.  <a href="https://nyti.ms/3Owm7OE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, May 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-travel-blue" alt="">
-<h3>Hotels Roll Out the Red Carpet for Pets</h3>
-<sub>By Stephanie Rosenbloom</sub>
-<p>Doggy menus, plush beds, nose balm and pet sitting: As people increasingly travel with their four-legged friends, hotels are stepping up with more amenities.  <a href="https://nyti.ms/3W5W9Db"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 15, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
