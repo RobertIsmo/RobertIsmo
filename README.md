@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, May 20, Central Standard Time</p>
 <p>
-A lot is going on in the world right now. Ukrainian president Zelensky recently made a plea to the G7 for more aid. Meanwhile, US President Biden has reversed course on a request for F-16 fighters from Ukraine. On the battlefield, Ukraine was able to make some progress in taking control of the strategic city of Bakhmut. In the US, Florida Governor Ron DeSantis has come under scrutiny for his private jet trips, with much of the funding secreted away through a Michigan nonprofit. British author and critic Martin Amis passed away recently at the age of 73, and there has been much discussion about his body of work. Economists are puzzling over stubborn inflation rates in cars, while there&#39;s speculation about the Kentucky Derby winner&#39;s prospects at keeping its Triple Crown run alive—besides having to face Bob Baffert&#39;s horse as an adversary. The e-sports industry may be faltering, with multiple organizations attempting to sell their teams. Lastly, an influx of Hawaiians have been making their homes in Las Vegas, despite there not being an ocean anywhere near it.</p>
+There has been a lot of news this week. Economists are worried about the economic toll of even flirting with a US default as Congress and the White House negotiate a deal. Ukrainian President Zelensky asked for more aid from the G7 nations; meanwhile G7 nations are wrangling over ambitious climate commitments, with the US caught between defending Biden&#39;s climate change agenda and aiding allies. In Ukraine&#39;s war with Russia, Ukraine pressed ahead this month with military maneuvers to gain ground in the strategic city of Bakhmut. In Florida, Air DeSantis is taking private jets around the country to prepare for a presidential run and his expenses are being paid by a Michigan nonprofit who won&#39;t say where they got the money. British novelist Martin Amis recently passed away leaving behind classic bleakly comic novels like &quot;Money&quot; and &quot;The Information&quot;. Meanwhile, economists are trying to figure out why inflation is so stubborn—partly because of cars. Also in sports, Jim Brown demands that people see more than strong athletic performances from him. The e-sports world is also teetering with teams in America&#39;s most prominent league selling their teams—suggesting an uncertain future. Finally, people from Hawaii have been increasingly moving to Las Vegas and the reason why is unclear since there is no ocean in sight.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Even Flirting With U.S. Default Takes Economic Toll</h3>
+<sub>By Lydia DePillis and Ben Casselman</sub>
+<p>Financial markets are still betting that Congress and the White House will strike a deal. But the uncertainty alone is having consequences.  <a href="https://nyti.ms/3oclzml"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>After a Show-Stopping Entrance at the G7, Zelensky Pleads for More Aid</h3>
 <sub>By David E. Sanger and Peter Baker</sub>
@@ -69,9 +75,9 @@ A lot is going on in the world right now. Ukrainian president Zelensky recently 
 <sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Here’s why Biden reversed course on Ukraine’s F-16 request.</h3>
-<sub>By David E. Sanger</sub>
-<p>  <a href="https://nyti.ms/3WorTnq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Behind the Scenes, G7 Nations Wrangle Over Ambitious Climate Commitments</h3>
+<sub>By Motoko Rich, Lisa Friedman and Jim Tankersley</sub>
+<p>The U.S. finds itself caught between defending President Biden’s climate change agenda and aiding allies intent on increasing their access to fossil fuels.  <a href="https://nyti.ms/3BJm4aw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -105,18 +111,6 @@ A lot is going on in the world right now. Ukrainian president Zelensky recently 
 <sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Mage, the Kentucky Derby winner, will attempt to keep his feel-good Triple Crown run alive.</h3>
-<sub>By Melissa Hoppert</sub>
-<p>Mage, the Kentucky Derby winner, will attempt to keep his feel-good Triple Crown run alive, but one familiar face will be standing in his way: Bob Baffert.  <a href="https://nyti.ms/41U848x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Expert Picks: Who Will Win the Preakness?</h3>
-<sub>By Joe Drape and Melissa Hoppert</sub>
-<p>Joe Drape and Melissa Hoppert look at the contenders for the 148th Preakness Stakes.  <a href="https://nyti.ms/3IoGBVs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Jim Brown Should Be Seen Fully, Flaws and All</h3>
 <sub>By Kurt Streeter</sub>
 <p>Brown, who died on Thursday, demanded that people see more to him than strong athletic performances. In the 1960s, that was unusual for athletes.  <a href="https://nyti.ms/3Muql6O"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -133,6 +127,12 @@ A lot is going on in the world right now. Ukrainian president Zelensky recently 
 <sub>By Eliza Fawcett and Hana Asano</sub>
 <p>The scenery can’t compare. So why are Hawaiians increasingly moving there?  <a href="https://nyti.ms/3BI6HyZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The Weekender</h3>
+<sub>By Christine Chun</sub>
+<p>How to move Indonesia’s sinking capital city. Also: Martha Stewart on her Sports Illustrated cover and new details of the Titanic shipwreck.  <a href="https://nyti.ms/45gcIQY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
