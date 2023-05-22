@@ -60,11 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, May 22, Central Standard Time</p>
 <p>
-Right now, tensions in Ukraine are high as start-up tech companies try to win over the risk-averse US Defense Department. Russia has claimed victory in taking control of Bakhmut in Ukraine, and US President Biden met with fellow G7 powers to pledge resolute support and weapons shipments for the country. Russia has recently imposed sanctions on 500 people who were seen by former president Trump as his adversaries. 
-
-The US needs minerals for electric cars and is entering agreements to secure the minerals needed for the energy transition, but thousands of Afghan citizens have taken the dangerous trek through the jungle trying to reach the US following its withdrawal from Kabul. In Florida, Gov. Ron DeSantis has passed abortion bans and advanced capital punishment and concealed carry access as he contemplates a presidential run. Negotiations between Biden and McCarthy have been floated around a debt limit agreement which has already caused some economic repercussions from just the uncertainty alone. 
-
-In Greece, Prime Minister Kyriakos Mitsotakis claims a “political earthquake” as his New Democracy party leads in Elections but did not get enough votes for one-party government. He ruled out talks for coalition building, which could mean yet another vote in coming weeks. Meanwhile, a mathematical encyclopedia celebrating its 50th year contains 362,765 entries so far on &#39;sequences&#39; or patterns occurring in numbers.</p>
+There is a lot happening in the world right now. In the US, start-ups are trying to bring the Silicon Valley ethos to the military-industrial complex. In Europe, the company Meta has been fined billions of dollars for violating data privacy rules. In Mexico, an ally of the president has been targeted by spyware. In Texas, tensions have flared following a school shooting in Uvalde. In California, rare wildflowers are popping up thanks to a wet winter. And in New York, police officers are being accused of covering up abuse in state prisons. Around the world, we&#39;re seeing human trafficking and rape charges filed against an influencer in Romania and angry protesters clanging saucepans against France&#39;s pensions law. Finally, technology companies are still struggling to find ways to prevent mislabeling people as animals using image analysis software.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Start-Ups Bring Silicon Valley Ethos to a Lumbering Military-Industrial Complex</h3>
@@ -72,71 +68,71 @@ In Greece, Prime Minister Kyriakos Mitsotakis claims a “political earthquake�
 <p>Small, fast-moving U.S. tech firms are using the war in Ukraine to demonstrate a new generation of military systems but face the challenge of selling them to a risk-averse Defense Department.  <a href="https://nyti.ms/45oecZJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, May 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Russia Claims Victory in Bakhmut, Ukraine Sees Opportunity Amid Ruins</h3>
-<sub>By Andrew E. Kramer</sub>
-<p>Military analysts say that if Moscow continues to send reinforcements to defend the city, that could weaken Russian forces’ ability to hold off a broader counteroffensive that Ukraine has been planning.  <a href="https://nyti.ms/45naU96"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, May 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Biden Announces More Aid for Ukraine as Group of 7 Powers Meet in Japan</h3>
-<sub>By Peter Baker, Motoko Rich and David E. Sanger</sub>
-<p>President Volodomyr Zelensky of Ukraine received vows of resolute support and promises of further weapons shipments even as Russian forces claimed to have seized the war-torn city of Bakhmut.  <a href="https://nyti.ms/3IvlG3h"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, May 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia’s Latest Sanctions on U.S. Officials Turn to Trump Enemies</h3>
-<sub>By Peter Baker</sub>
-<p>Among the 500 people singled out for travel and financial restrictions were Americans seen as adversaries by former President Donald J. Trump.  <a href="https://nyti.ms/42VyAjc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The U.S. Needs Minerals for Electric Cars. Everyone Else Wants Them Too.</h3>
-<sub>By Ana Swanson</sub>
-<p>The United States is entering an array of agreements to secure the critical minerals necessary for the energy transition, but it’s not clear which of the arrangements can succeed.  <a href="https://nyti.ms/3IqWN8P"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, May 21, Central Standard Time</sub></sub>
+<h3>Meta Fined $1.3 Billion for Violating E.U. Data Privacy Rules</h3>
+<sub>By Adam Satariano</sub>
+<p>The Facebook owner said it would appeal an order to stop sending data about European Union users to the United States.  <a href="https://nyti.ms/3MoVWXi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The U.S. Left Them Behind. They Crossed a Jungle to Get Here Anyway.</h3>
-<sub>By Julie Turkewitz and Federico Rios</sub>
-<p>For thousands of Afghans, the American withdrawal from Kabul was just the beginning of a long, dangerous search for safety.  <a href="https://nyti.ms/3BK6Dif"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, May 21, Central Standard Time</sub></sub>
+<h3>Spying in Mexico Strikes a New Victim: the President’s Ally</h3>
+<sub>By Natalie Kitroeff and Ronen Bergman</sub>
+<p>While looking into abuses by the armed forces, the country’s top human rights official was targeted with Pegasus, the world’s most notorious spyware, The Times found.  <a href="https://nyti.ms/3ONUbGb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-espanol-blue" alt="">
-<h3>‘Nos abandonaron’: afganos desafían los peligros del Darién en busca del sueño americano</h3>
-<sub>By Julie Turkewitz and Federico Rios</sub>
-<p>Para miles de afganos, la retirada estadounidense de Kabul solo fue el comienzo de una larga y peligrosa búsqueda de seguridad.  <a href="https://nyti.ms/3Ou28zN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, May 21, Central Standard Time</sub></sub>
+<h3>El espionaje en México cobra una nueva víctima: un aliado del presidente</h3>
+<sub>By Natalie Kitroeff and Ronen Bergman</sub>
+<p>Cuando investigaba los abusos de las fuerzas armadas, el principal funcionario de derechos humanos del país fue infectado con el programa espía, según averiguó el Times.  <a href="https://nyti.ms/43faLTg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Year After a School Shooting, Divisions Run Through Uvalde</h3>
+<sub>By Edgar Sandoval, J. David Goodman and Tamir Kalifa</sub>
+<p>Tensions have flared over new rifts between victims’ families and the police, and between gun owners and newly minted gun-control activists.  <a href="https://nyti.ms/3OxeiIu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>She’s Out to Save Rare Wildflowers, but First She Has to Find Them</h3>
+<sub>By Jill Cowan and Daniel Dorsa</sub>
+<p>A wet winter has provided a narrow window for botanists to search for wildflowers that have been lying dormant for years in California.  <a href="https://nyti.ms/3OvSahr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>How a ‘Blue Wall’ Inside N.Y. State Prisons Protects Abusive Guards</h3>
+<sub>By Joseph Neff, Alysia Santo and Tom Meagher</sub>
+<p>Records and interviews reveal a culture of cover-ups among correction officers who falsify reports and send beating victims to solitary confinement.  <a href="https://nyti.ms/3BJiPQq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How DeSantis Is Trying to Lure Older Voters Away From Trump</h3>
+<sub>By Alexandra Glorioso and Nicholas Nehamas</sub>
+<p>The Florida governor is courting the large, politically influential group by pointing to his efforts to lower prescription drug prices. But his pitch can be lost on some voters.  <a href="https://nyti.ms/3q0zBYy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>What Bills Did DeSantis Sign as He Propelled Florida to the Right?</h3>
 <sub>By Neil Vigdor</sub>
-<p>Gov. Ron DeSantis ushered in a six-week abortion ban and curriculum restrictions, while expanding capital punishment and concealed carry access as he prepared to run for president.  <a href="https://nyti.ms/41VPZXM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, May 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden and McCarthy Set to Resume Negotiations on Debt Limit</h3>
-<sub>By Jim Tankersley and Catie Edmondson</sub>
-<p>Discussions aimed at avoiding a default have bogged down as Republicans press their demand for spending caps, work requirements for public benefit programs and other proposals in exchange.  <a href="https://nyti.ms/42Qy1Hg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, May 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Even Flirting With U.S. Default Takes Economic Toll</h3>
-<sub>By Lydia DePillis and Ben Casselman</sub>
-<p>Financial markets are still betting that Congress and the White House will strike a deal. But the uncertainty alone is having consequences.  <a href="https://nyti.ms/3oclzml"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>What Number Comes Next? The Encyclopedia of Integer Sequences Knows.</h3>
-<sub>By Siobhan Roberts</sub>
-<p>The “mathematical equivalent to the FBI’s voluminous fingerprint files” turns 50 this year, with 362,765 entries (and counting).  <a href="https://nyti.ms/45nhGM3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Gov. Ron DeSantis ushered in a six-week abortion ban and curriculum restrictions, while expanding capital punishment and concealed carry access as he prepared to run for president.  <a href="https://nyti.ms/43g2VIN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, May 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>With His Party Ahead in Elections, Greek Leader Claims ‘Political Earthquake’</h3>
-<sub>By Niki Kitsantonis</sub>
-<p>Prime Minister Kyriakos Mitsotakis’s New Democracy party did not win enough votes to form a one-party government. But he appeared to rule out talks to form a coalition, setting the stage for a second vote in weeks.  <a href="https://nyti.ms/42W4w73"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, May 21, Central Standard Time</sub></sub>
+<h3>Andrew Tate Thought He Was Above the Law. Romania Proved Him Wrong.</h3>
+<sub>By Andrew Higgins</sub>
+<p>The online influencer, popular with young men, is facing charges of human trafficking and rape, after seeking out a place where “corruption is accessible to everybody.”  <a href="https://nyti.ms/3OuoCAQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>France’s Latest Way to Sound Anger Over Pensions Law: Saucepans</h3>
+<sub>By Constant Méheut</sub>
+<p>Protesters have been harassing the French government in clanky demonstrations that have gone viral in a country with no shortage of kitchenware.  <a href="https://nyti.ms/3Wtijj8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Google’s Photo App Still Can’t Find Gorillas. And Neither Can Apple’s.</h3>
+<sub>By Nico Grant and Kashmir Hill</sub>
+<p>Eight years after a controversy over Black people being mislabeled as gorillas by image analysis software — and despite big advances in computer vision — tech giants still fear repeating the mistake.  <a href="https://nyti.ms/3OsiclR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
