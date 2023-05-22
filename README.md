@@ -60,13 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, May 21, Central Standard Time</p>
 <p>
-Right now, there is a lot going on in the world. The US is using the war in Ukraine to demonstrate new military systems, but they&#39;re having difficulty getting the Defense Department to take a risk and buy them. Meanwhile, Biden announced more aid for Ukraine while the Group of 7 powers held a meeting in Japan. Russia just imposed sanctions on US officials, many of whom are seen as Trump&#39;s political enemies. 
-
-Business wise, everyone is trying to secure minerals needed for electric cars, and the US enters into agreements to get what they need. On another note, thousands of Afghans have abandoned their homes and are crossing jungles to get to America even though the country left them behind.
-
-Closer to home, Biden and McCarthy are resuming negotiations on the debt limit while taking into consideration Republican proposals for spending caps and other demands. Meanwhile, economic markets are recognizing potential consequences from not reaching an agreement. 
-
-And just for fun, China recently became a tourist destination for its barbecue city Zibo. Hotels have come out with services catering to pets such as doggy menus, nose balm and pet sitting.</p>
+There&#39;s a lot going on in the world right now. In Ukraine, there&#39;s been a war torn city of Bakhmut recently seized by Russian forces, and Joe Biden has announced more aid for the country. Russia has imposed sanctions on US officials who are seen as adversaries by former President Trump. The US is also entering into agreements to secure critical minerals necessary to meet their energy transition targets, but it&#39;s unclear which of the arrangements will be successful. There was also a large wave of Afghans crossing a jungle to get to the US after they were left behind during the American withdrawal from Kabul. In Greece, Prime Minister Kyriakos Mitsotakis&#39; New Democracy party looks to win enough votes to form a one party government.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Start-Ups Bring Silicon Valley Ethos to a Lumbering Military-Industrial Complex</h3>
@@ -75,7 +69,13 @@ And just for fun, China recently became a tourist destination for its barbecue c
 <sub><sub>Sunday, May 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Biden Announces More Aid for Ukraine as Group of 7 Powers Convene in Japan</h3>
+<h3>As Russia Claims Victory in Bakhmut, Ukraine Sees Opportunity Amid Ruins</h3>
+<sub>By Andrew E. Kramer</sub>
+<p>Military analysts say that if Moscow continues to send reinforcements to defend the city, that could weaken Russian forces’ ability to hold off a broader counteroffensive that Ukraine has been planning.  <a href="https://nyti.ms/45naU96"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, May 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Biden Announces More Aid for Ukraine as Group of 7 Powers Meet in Japan</h3>
 <sub>By Peter Baker, Motoko Rich and David E. Sanger</sub>
 <p>President Volodomyr Zelensky of Ukraine received vows of resolute support and promises of further weapons shipments even as Russian forces claimed to have seized the war-torn city of Bakhmut.  <a href="https://nyti.ms/3IvlG3h"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, May 21, Central Standard Time</sub></sub>
@@ -116,6 +116,12 @@ And just for fun, China recently became a tourist destination for its barbecue c
 <p>Financial markets are still betting that Congress and the White House will strike a deal. But the uncertainty alone is having consequences.  <a href="https://nyti.ms/3oclzml"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>What Bills Did DeSantis Sign as He Propelled Florida to the Right?</h3>
+<sub>By Neil Vigdor</sub>
+<p>Gov. Ron DeSantis ushered in a six-week abortion ban and curriculum restrictions, while expanding capital punishment and concealed carry access as he prepared to run for president.  <a href="https://nyti.ms/41VPZXM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, May 21, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
 <h3>What Number Comes Next? The Encyclopedia of Integer Sequences Knows.</h3>
 <sub>By Siobhan Roberts</sub>
@@ -127,18 +133,6 @@ And just for fun, China recently became a tourist destination for its barbecue c
 <sub>By Niki Kitsantonis</sub>
 <p>Prime Minister Kyriakos Mitsotakis’s New Democracy party did not win enough votes to form a one-party government. But he appeared to rule out talks to form a coalition, setting the stage for a second vote in weeks.  <a href="https://nyti.ms/42W4w73"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, May 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Inside the Barbecue City That Is China’s Hottest Tourist Destination</h3>
-<sub>By Vivian Wang</sub>
-<p>Zibo has become a social media star for its distinctive barbecue style. Now the city is overrun with visitors.  <a href="https://nyti.ms/3Owm7OE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, May 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-travel-blue" alt="">
-<h3>Hotels Roll Out the Red Carpet for Pets</h3>
-<sub>By Stephanie Rosenbloom</sub>
-<p>Doggy menus, plush beds, nose balm and pet sitting: As people increasingly travel with their four-legged friends, hotels are stepping up with more amenities.  <a href="https://nyti.ms/3W5W9Db"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 15, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
