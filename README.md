@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, May 22, Central Standard Time</p>
 <p>
-There are a lot of things going on in the world right now. In the U.S., there&#39;s senator Tim Scott trying to lure older voters away from President Trump with promises to lower prescription drug prices, while in Delaware, long-time Senator Tom Carper is retiring and vacating a seat solidly in Democratic hands. Meanwhile, in Europe, Facebook is getting slapped with a $1.3 billion fine for violating data privacy rules. On the climate front, a breakthrough agreement has been reached to keep the Colorado River from going dry for now, and we&#39;re learning more about how best to use less water amid the shrinkage of the river. There&#39;s also a movement underway to make workplaces more &#39;menopause friendly&#39; that is gaining steam in cities like New York and was already well established in Britain. Lastly, tragically, you can see war&#39;s destruction if you take an aerial look at Bakhmut in Eastern Ukraine – Drone footage captured by The New York Times showed the devastation left behind by conflict - scorched buildings, destroyed schools and cratered parks.</p>
+The world is facing a lot of challenges right now. In the US, debt limit negotiators are debating spending caps in a standoff over tackling the national debt. Meanwhile, a breakthrough deal was made to keep the Colorado River from going dry but it expires soon. Conflict in Ukraine has led to the destruction of a city, and politicians in the US are trying to build an alliance against China while they tussle over who gets hold of microchips. At the same time, there is a movement to make working environments more menopause friendly and women are being offered new treatments for menopause symptoms. Plus, TikTok is suing Montana for passing a law banning them. While all this is happening, two politicians have announced their retirements: senator Tim Scott in South Carolina and senator Carper in Delaware.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Debt Limit Negotiators Debate Spending Caps to Break Standoff</h3>
+<sub>By Alan Rappeport and Catie Edmondson</sub>
+<p>The strategy, which was used in 2011, could allow both sides to save face but would most likely do little to chip away at the national debt.  <a href="https://nyti.ms/3q4wv61"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 22, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>A Breakthrough Deal to Keep the Colorado River From Going Dry, for Now</h3>
 <sub>By Christopher Flavelle</sub>
@@ -78,6 +84,18 @@ There are a lot of things going on in the world right now. In the U.S., there&#3
 <h3>Bakhmut Is Gone: An Aerial Look at the War’s Destruction</h3>
 <sub>By Tyler Hicks and Marc Santora</sub>
 <p>Drone footage taken by The New York Times captured the scorched buildings, destroyed schools and cratered parks that now define the city in eastern Ukraine.  <a href="https://nyti.ms/45gprDr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Sees Coming ‘Thaw’ With China, Even as He Rallies Allies Against Beijing</h3>
+<sub>By Peter Baker and David E. Sanger</sub>
+<p>During the Group of 7 meeting that just wrapped up, President Biden forged a consensus approach toward China despite tensions between the major powers over their approach.  <a href="https://nyti.ms/41YYLnN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>With Ban on Micron, China Escalates Microchip Clash With U.S.</h3>
+<sub>By Paul Mozur and John Liu</sub>
+<p>A Chinese government block on Micron Technology’s memory chips marks how far apart the two economic powers are drifting on tech policy.  <a href="https://nyti.ms/45pYGfY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -98,34 +116,16 @@ There are a lot of things going on in the world right now. In the U.S., there&#3
 <p>Hot flashes, sleeplessness, pain during sex: For some of menopause’s worst symptoms, there’s an established treatment. Why aren’t more women offered it?  <a href="https://nyti.ms/3wIGZIj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Meta Fined $1.3 Billion for Violating E.U. Data Privacy Rules</h3>
-<sub>By Adam Satariano</sub>
-<p>The Facebook owner said it would appeal an order to stop sending data about European Union users to the United States.  <a href="https://nyti.ms/3MoVWXi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Year After a School Shooting, Divisions Run Through Uvalde</h3>
-<sub>By Edgar Sandoval, J. David Goodman and Tamir Kalifa</sub>
-<p>Tensions have flared over new rifts between victims’ families and the police, and between gun owners and newly minted gun-control activists.  <a href="https://nyti.ms/3OxeiIu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>TikTok Sues Montana, Calling State Ban Unconstitutional</h3>
+<sub>By David McCabe and Sapna Maheshwari</sub>
+<p>The Chinese-owned video app filed the lawsuit days after Montana’s governor signed the ban, which takes effect on Jan. 1, into law.  <a href="https://nyti.ms/3IyH9sa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Tim Scott Begins Presidential Campaign, Adding to List of Trump Challengers</h3>
 <sub>By Jonathan Weisman and Maya King</sub>
 <p>The South Carolina senator added his positive, aspirational message to a growing and fractious Republican primary field. He enters the race having raised $22 million.  <a href="https://nyti.ms/3MLD46k"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>5 Things to Know About Tim Scott</h3>
-<sub>By Maggie Astor</sub>
-<p>Mr. Scott, who just announced a presidential campaign, is the first Black Republican senator from the South in more than a century and has been a prominent voice in his party on matters of race.  <a href="https://nyti.ms/45kni9I"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How DeSantis Is Trying to Lure Older Voters Away From Trump</h3>
-<sub>By Alexandra Glorioso and Nicholas Nehamas</sub>
-<p>The Florida governor is courting the large, politically influential group by pointing to his efforts to lower prescription drug prices. But his pitch can be lost on some voters.  <a href="https://nyti.ms/3q0zBYy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
