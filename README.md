@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, May 21, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. In Ukraine, there&#39;s been a war torn city of Bakhmut recently seized by Russian forces, and Joe Biden has announced more aid for the country. Russia has imposed sanctions on US officials who are seen as adversaries by former President Trump. The US is also entering into agreements to secure critical minerals necessary to meet their energy transition targets, but it&#39;s unclear which of the arrangements will be successful. There was also a large wave of Afghans crossing a jungle to get to the US after they were left behind during the American withdrawal from Kabul. In Greece, Prime Minister Kyriakos Mitsotakis&#39; New Democracy party looks to win enough votes to form a one party government.</p>
+Right now there is a lot going on in the world. In Ukraine, small tech start-ups are using the war as an opportunity to demonstrate their military systems and the US government is providing aid to help in the conflict. Russia recently imposed sanctions on US officials, many of whom were seen as adversaries by former President Donald J. Trump. Meanwhile, the US is trying to secure critical minerals necessary for its energy transition through a variety of agreements. There is also unrest in Afghanistan as some have attempted to cross a jungle in search of safety after being left behind by the US withdrawing from Kabul. In Greece, New Democracy party secured enough seats ahead of elections to move forward without creating a coalition, setting the stage for another vote in weeks. Lastly, in the US, President Biden and Republican leader McCarthy have been negotiating debt limit issues, with financial markets uncertain of what will come following their discussions.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Start-Ups Bring Silicon Valley Ethos to a Lumbering Military-Industrial Complex</h3>
@@ -105,6 +105,12 @@ There&#39;s a lot going on in the world right now. In Ukraine, there&#39;s been 
 <sub><sub>Sunday, May 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>What Bills Did DeSantis Sign as He Propelled Florida to the Right?</h3>
+<sub>By Neil Vigdor</sub>
+<p>Gov. Ron DeSantis ushered in a six-week abortion ban and curriculum restrictions, while expanding capital punishment and concealed carry access as he prepared to run for president.  <a href="https://nyti.ms/41VPZXM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, May 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden and McCarthy Set to Resume Negotiations on Debt Limit</h3>
 <sub>By Jim Tankersley and Catie Edmondson</sub>
 <p>Discussions aimed at avoiding a default have bogged down as Republicans press their demand for spending caps, work requirements for public benefit programs and other proposals in exchange.  <a href="https://nyti.ms/42Qy1Hg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -115,12 +121,6 @@ There&#39;s a lot going on in the world right now. In Ukraine, there&#39;s been 
 <sub>By Lydia DePillis and Ben Casselman</sub>
 <p>Financial markets are still betting that Congress and the White House will strike a deal. But the uncertainty alone is having consequences.  <a href="https://nyti.ms/3oclzml"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What Bills Did DeSantis Sign as He Propelled Florida to the Right?</h3>
-<sub>By Neil Vigdor</sub>
-<p>Gov. Ron DeSantis ushered in a six-week abortion ban and curriculum restrictions, while expanding capital punishment and concealed carry access as he prepared to run for president.  <a href="https://nyti.ms/41VPZXM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, May 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
 <h3>What Number Comes Next? The Encyclopedia of Integer Sequences Knows.</h3>
