@@ -60,13 +60,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, May 22, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. In the US, start-ups are trying to bring the Silicon Valley ethos to the military-industrial complex. In Europe, the company Meta has been fined billions of dollars for violating data privacy rules. In Mexico, an ally of the president has been targeted by spyware. In Texas, tensions have flared following a school shooting in Uvalde. In California, rare wildflowers are popping up thanks to a wet winter. And in New York, police officers are being accused of covering up abuse in state prisons. Around the world, we&#39;re seeing human trafficking and rape charges filed against an influencer in Romania and angry protesters clanging saucepans against France&#39;s pensions law. Finally, technology companies are still struggling to find ways to prevent mislabeling people as animals using image analysis software.</p>
+Right now, the world is facing a multitude of challenges. In the United States, gun-control activists are pushing for stronger legislation after a school shooting in Uvalde, Texas. Meanwhile, wildflower preservationists in California are on a mission to protect rare plants before their window of opportunity closes. Overseas, Ukraine has been devastated by war, while Romania is making an example out of an online influencer accused of human trafficking and rape. Additionally, Colorado is celebrating an agreement to keep its river from drying up, while Mexico&#39;s president is facing controversy over spying directed at his ally. Finally, Facebook owner Meta has been fined $1.3 billion for violating European Union data privacy rules.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Start-Ups Bring Silicon Valley Ethos to a Lumbering Military-Industrial Complex</h3>
-<sub>By Eric Lipton</sub>
-<p>Small, fast-moving U.S. tech firms are using the war in Ukraine to demonstrate a new generation of military systems but face the challenge of selling them to a risk-averse Defense Department.  <a href="https://nyti.ms/45oecZJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, May 21, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>A Breakthrough Deal to Keep the Colorado River From Going Dry, for Now</h3>
+<sub>By Christopher Flavelle</sub>
+<p>The agreement on cuts, aided by a wet winter and $1.2 billion in federal payments, expires at the end of 2026.  <a href="https://nyti.ms/4208WZl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Bakhmut Is Gone: An Aerial Look at the War’s Destruction</h3>
+<sub>By Tyler Hicks and Marc Santora</sub>
+<p>Drone footage taken by The New York Times captured the scorched buildings, destroyed schools and cratered parks that now define the city in eastern Ukraine.  <a href="https://nyti.ms/45gprDr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Meta Fined $1.3 Billion for Violating E.U. Data Privacy Rules</h3>
@@ -98,10 +104,16 @@ There is a lot happening in the world right now. In the US, start-ups are trying
 <p>A wet winter has provided a narrow window for botanists to search for wildflowers that have been lying dormant for years in California.  <a href="https://nyti.ms/3OvSahr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>How a ‘Blue Wall’ Inside N.Y. State Prisons Protects Abusive Guards</h3>
-<sub>By Joseph Neff, Alysia Santo and Tom Meagher</sub>
-<p>Records and interviews reveal a culture of cover-ups among correction officers who falsify reports and send beating victims to solitary confinement.  <a href="https://nyti.ms/3BJiPQq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Tim Scott Begins Presidential Campaign, Adding to List of Trump Challengers</h3>
+<sub>By Jonathan Weisman and Maya King</sub>
+<p>The announcement from the South Carolina senator follows a tour of early nominating states. He enters the Republican primary field having raised $22 million.  <a href="https://nyti.ms/3MLD46k"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>5 Things to Know About Tim Scott</h3>
+<sub>By Maggie Astor</sub>
+<p>Mr. Scott, who just announced a presidential campaign, is the first Black Republican senator from the South in more than a century and has been a prominent voice in his party on matters of race.  <a href="https://nyti.ms/45kni9I"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -110,28 +122,16 @@ There is a lot happening in the world right now. In the US, start-ups are trying
 <p>The Florida governor is courting the large, politically influential group by pointing to his efforts to lower prescription drug prices. But his pitch can be lost on some voters.  <a href="https://nyti.ms/3q0zBYy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What Bills Did DeSantis Sign as He Propelled Florida to the Right?</h3>
-<sub>By Neil Vigdor</sub>
-<p>Gov. Ron DeSantis ushered in a six-week abortion ban and curriculum restrictions, while expanding capital punishment and concealed carry access as he prepared to run for president.  <a href="https://nyti.ms/43g2VIN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, May 21, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>Is Trump’s Nomination Now Inevitable?</h3>
+<sub>By Michael Barbaro, Luke Vander Ploeg, Michael Simon Johnson, Clare Toeniskoetter, Carlos Prieto, Caitlin O’Keefe, Rachel Quester, Lisa Tobin, Anita Badejo, Marion Lozano, Dan Powell and Chris Wood</sub>
+<p>The 2022 midterms looked as if they might push Republicans to move on. But things have shifted.  <a href="https://nyti.ms/41YAcHD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Andrew Tate Thought He Was Above the Law. Romania Proved Him Wrong.</h3>
 <sub>By Andrew Higgins</sub>
 <p>The online influencer, popular with young men, is facing charges of human trafficking and rape, after seeking out a place where “corruption is accessible to everybody.”  <a href="https://nyti.ms/3OuoCAQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>France’s Latest Way to Sound Anger Over Pensions Law: Saucepans</h3>
-<sub>By Constant Méheut</sub>
-<p>Protesters have been harassing the French government in clanky demonstrations that have gone viral in a country with no shortage of kitchenware.  <a href="https://nyti.ms/3Wtijj8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Google’s Photo App Still Can’t Find Gorillas. And Neither Can Apple’s.</h3>
-<sub>By Nico Grant and Kashmir Hill</sub>
-<p>Eight years after a controversy over Black people being mislabeled as gorillas by image analysis software — and despite big advances in computer vision — tech giants still fear repeating the mistake.  <a href="https://nyti.ms/3OsiclR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
