@@ -60,12 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, May 23, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. On the global stage, China and Russia are drawing closer as alarm grows about Western countries getting involved in Asia. Meanwhile, the Ukrainian city of Bakhmut is being defended in a battle which has been documented by Times photographers since May 2022. 
-
-In the U.S., President Biden and Speaker of the House Kevin McCarthy had a &#39;productive&#39; meeting to try to prevent the nation from defaulting on their debt for the first time ever. A new report underscores this increasing likelihood after Memorial Day passes. And in New York, lottery preferences for affordable housing are facing a court battle over whether they violate antidiscrimination laws.
-
-On a lighter note, at Atlantic College - located in a 12th-century Welsh castle - teenage royals are taking classes on world peace, and Vienna is being praised for its approach to affordable housing.</p>
+There are several major events going on around the world that I want to catch you up on. In Ukraine, there is a battle taking place for the Eastern city of Bakhmut and Times photographers have been documenting the country&#39;s defense since May 2022. Meanwhile, relations between China and Russia are deepening as Western countries back Ukraine and turn their attention to Asia. On a more personal level, an American journalist was recently arrested in Russia and has been held at an infamous detention center since March. Closer to home, U.S. Surgeon General Vivek H. Murthy is warning about the &quot;profound risk&quot; of young people using social media and has urged parents to take action to safeguard against potential harms. Finally, here in New York City there is a legal battle over whether affordable housing lotteries fuel segregation.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The Battle for Bakhmut, in Photos</h3>
+<sub>By The New York Times and Marc Santora</sub>
+<p>Times photographers have been documenting Ukraine’s defense of the Eastern city since May 2022.  <a href="https://nyti.ms/3q5u3Mw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>China and Russia, Targets at G7 Summit, Draw Closer to Fend Off West</h3>
 <sub>By David Pierson and Chris Buckley</sub>
@@ -73,9 +75,9 @@ On a lighter note, at Atlantic College - located in a 12th-century Welsh castle 
 <sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Battle for Bakhmut, in Photos</h3>
-<sub>By The New York Times and Marc Santora</sub>
-<p>Times photographers have been documenting Ukraine’s defense of the Eastern city since May 2022.  <a href="https://nyti.ms/3q5u3Mw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>A Russian judge extends the detention of the American journalist Evan Gershkovich to Aug. 30.</h3>
+<sub>By Roger Cohen</sub>
+<p>The Wall Street Journal reporter has been held at the notoriously harsh Lefortovo jail since his arrest on March 29 during a reporting trip to the central Russian city of Yekaterinburg.  <a href="https://nyti.ms/3qaRX9d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-well-blue" alt="">
@@ -102,28 +104,22 @@ On a lighter note, at Atlantic College - located in a 12th-century Welsh castle 
 <p>Con el fin de indagar sobre la enfermedad de Huntington, unos investigadores contactaron a familias colombianas que viven con esa aflicción. Cuarenta años después, los científicos recién hacen seguimiento, esperando que no sea demasiado tarde.  <a href="https://nyti.ms/3q68Ylb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Belarus Turns a Story of Love and Protest Into a Tale of Betrayal</h3>
-<sub>By Andrew Higgins</sub>
-<p>Roman Protasevich became a symbol of the struggle for democracy when Belarus forced down a plane and arrested him. Now it has pardoned him, and former allies say he has turned on them.  <a href="https://nyti.ms/42SQXVT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
 <h3>The Castle Where Future Queens Drop the Royal Act</h3>
 <sub>By Elizabeth Paton</sub>
 <p>At Atlantic College, a school in a 12th-century castle clinging to the windy Welsh coastline, teenage royals take classes on world peace.  <a href="https://nyti.ms/43mZGzD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden and McCarthy Describe ‘Productive’ Meeting, but No Agreement Is Reached</h3>
-<sub>By Catie Edmondson and Katie Rogers</sub>
-<p>With the United States at risk of defaulting for the first time, Speaker Kevin McCarthy and President Biden met again but remained far apart on a deal.  <a href="https://nyti.ms/3q7k7ls"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 22, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>How Uvalde Parents Learned to Grieve in Public</h3>
+<sub>By Jaeah Lee</sub>
+<p>After 10-year-old Amerie Jo Garza was killed at Robb Elementary, Kimberly Garcia and Angel Garza had to face unimaginable loss without the solace of privacy.  <a href="https://nyti.ms/3Wvrbor"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>New Report Underscores Increasing Chances of U.S. Default in Early June</h3>
-<sub>By Alan Rappeport</sub>
-<p>The Bipartisan Policy Center said the government will be operating on “dangerously low” cash reserves after Memorial Day in its estimate of the so-called X-date.  <a href="https://nyti.ms/3OzWfBw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Sex Abuse in Catholic Church: Over 1,900 Minors Abused in Illinois, State Says</h3>
+<sub>By Ruth Graham</sub>
+<p>A new report by the attorney general of Illinois covering decades names more than 450 credibly accused sexual abusers, including priests and lay religious brothers.  <a href="https://nyti.ms/3OyQYtK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
