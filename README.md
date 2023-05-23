@@ -60,7 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, May 23, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In the United States, President Biden and Speaker McCarthy had a meeting to try to reach an agreement on the debt limit but were unable to do so. There was a breakthrough deal for the Colorado River to keep it from going dry, at least for now. There&#39;s also been footage captured of destruction in Bakhmut, Ukraine, due to war there. In terms of legal cases, E Jean Carroll is seeking damages from former President Trump for his comments on CNN, prosecutors have subpoenaed Trump Organization records related to his foreign business deals since 2017, and there&#39;s a long legal fight over the potentially sensitive writings of the Nashville Christian school shooter. Additionally, the movement towards making workplaces more &quot;menopause-friendly&quot; is taking off. On top of that, Andrew Tate thought he was above the law and has been facing charges of human trafficking and rape after seeking out corruption in Romania. Lastly, Martin Amis&#39; literary achievements are being assessed by our critic.</p>
+There is a lot of political unrest in the US right now, particularly related to debt limit negotiations. Biden and McCarthy had a meeting but failed to reach an agreement. There&#39;s a potential strategy that could be used by both sides to save face, but is unlikely to do much to reduce the national debt. On the climate front, there has been a breakthrough deal to help keep the Colorado River from drying up--but it will only last until 2026. The Colorado River is shrinking significantly due to rising global temperatures, and this is affecting our food supply. In other global news, Ukraine has seen significant destruction due to war in their city of Bakhmut. 
+
+In New York, former President Trump is facing legal issues related to his foreign business dealings and for denying sexually abusive claims made by E. Jean Carroll on CNN--this could result in serious damages for him and even further legal trouble. There&#39;s also developing movement around making workplaces more &#39;menopause-friendly.&#39;
+
+Finally, in culture&#x2F;wellness, Martin Amis -- one of Britain&#39;s most famous literary sons -- has recently released a book, and there have been articles released about how welcoming arts into our lives can benefit our mental health.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden and McCarthy Describe ‘Productive’ Meeting, but No Agreement Is Reached</h3>
@@ -104,12 +108,6 @@ There is a lot going on in the world right now. In the United States, President 
 <p>The special counsel scrutinizing the former president’s handling of classified documents issued a subpoena to the Trump Organization seeking records related to seven countries.  <a href="https://nyti.ms/3IueiFm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>He Freed an Innocent Man From Prison. It Ruined His Life.</h3>
-<sub>By Ed Shanahan</sub>
-<p>Jay Salpeter cracked a high-profile case to help exonerate Martin Tankleff. It was a blessing and a curse. For both of them.  <a href="https://nyti.ms/3BM2hHr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 22, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Nashville Parents Ask: Must a Mass Shooter’s Writings Be Made Public?</h3>
 <sub>By Emily Cochrane</sub>
@@ -132,6 +130,12 @@ There is a lot going on in the world right now. In the United States, President 
 <h3>Good Night, Sweet Prince</h3>
 <sub>By A.O. Scott</sub>
 <p>Our critic assesses the achievement of Martin Amis, Britain’s most famous literary son.  <a href="https://nyti.ms/45lIBI0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>How the Arts Can Benefit Your Mental Health (No Talent Required)</h3>
+<sub>By Christina Caron</sub>
+<p>Drawing, music and writing can elevate your mood. Here are some easy ways to welcome them into your life.  <a href="https://nyti.ms/3BPz0M5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
