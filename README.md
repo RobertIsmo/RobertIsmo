@@ -60,13 +60,35 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, May 23, Central Standard Time</p>
 <p>
-There is a battle for control of a city in Ukraine called Bakhmut, and Times photographers have been there to document the fight since May 2022. Scientists have discovered a pattern in Huntington&#39;s disease in families in Colombia, but it might already be too late to be of much help. In Turkey, companies are spending a lot leading up to an election this month, and experts fear that it will bring their economy to a crisis. Royal family members are participating in a world peace program at Atlantic College in Wales in order to get hands-on experience outside of the royal lifestyle. President Biden and Speaker Kevin McCarthy met to try and come to an agreement about avoiding defaulting on payments of the US government, but it didn&#39;t happen this time. And over in Vienna, they did something with their housing market that made it an affordable utopia compared to other places around the world. In Sudan, pregnant women are being forced to drive &quot;through hell&quot; just to reach the few hospitals that remain open and functioning. There&#39;s also an investigation into the cryptocurrency exchange founder Sam Bankman-Fried with more than 6 million pages of documents being collected as evidence. Lastly, Australia is trying to break away from becoming China&#39;s sole supplier of lithium, which is a critical battery ingredient.</p>
+There is a lot happening in the world right now. On the global stage, China and Russia are drawing closer as alarm grows about Western countries getting involved in Asia. Meanwhile, the Ukrainian city of Bakhmut is being defended in a battle which has been documented by Times photographers since May 2022. 
+
+In the U.S., President Biden and Speaker of the House Kevin McCarthy had a &#39;productive&#39; meeting to try to prevent the nation from defaulting on their debt for the first time ever. A new report underscores this increasing likelihood after Memorial Day passes. And in New York, lottery preferences for affordable housing are facing a court battle over whether they violate antidiscrimination laws.
+
+On a lighter note, at Atlantic College - located in a 12th-century Welsh castle - teenage royals are taking classes on world peace, and Vienna is being praised for its approach to affordable housing.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>China and Russia, Targets at G7 Summit, Draw Closer to Fend Off West</h3>
+<sub>By David Pierson and Chris Buckley</sub>
+<p>Beijing and Moscow are holding visits this week as alarm grows in China that Western countries backing Ukraine are turning their attention to Asia.  <a href="https://nyti.ms/3q62v9O"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>The Battle for Bakhmut, in Photos</h3>
 <sub>By The New York Times and Marc Santora</sub>
 <p>Times photographers have been documenting Ukraine’s defense of the Eastern city since May 2022.  <a href="https://nyti.ms/3q5u3Mw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>Social Media Can Be a ‘Profound Risk’ to Youth, Surgeon General Warns</h3>
+<sub>By Catherine Pearson and Matt Richtel</sub>
+<p>Dr. Vivek H. Murthy urged immediate action from policymakers, tech companies and parents to safeguard against potential harms.  <a href="https://nyti.ms/3q4jiKq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>How Parents Can Actually Help Teens Navigate Social Media</h3>
+<sub>By Catherine Pearson</sub>
+<p>The U.S. surgeon general and the American Psychological Association have urged parents to monitor adolescents for “problematic” social media use. We asked experts for some realistic and effective ways to do this.  <a href="https://nyti.ms/44Y8zB3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
 <h3>Sought Out by Science, and Then Forgotten</h3>
@@ -81,9 +103,9 @@ There is a battle for control of a city in Ukraine called Bakhmut, and Times pho
 <sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>For the Winner in Turkey, One Prize Is an Economy at the Edge of Crisis</h3>
-<sub>By Ben Hubbard</sub>
-<p>A surge in government spending before the election this month and pressure on the country’s currency could hit the economy in coming months, experts say.  <a href="https://nyti.ms/3WvAxAc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Belarus Turns a Story of Love and Protest Into a Tale of Betrayal</h3>
+<sub>By Andrew Higgins</sub>
+<p>Roman Protasevich became a symbol of the struggle for democracy when Belarus forced down a plane and arrested him. Now it has pardoned him, and former allies say he has turned on them.  <a href="https://nyti.ms/42SQXVT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
@@ -114,24 +136,6 @@ There is a battle for control of a city in Ukraine called Bakhmut, and Times pho
 <h3>Do New York’s Affordable Housing Lotteries Fuel Segregation?</h3>
 <sub>By Mihir Zaveri</sub>
 <p>An eight-year legal battle over whether community preferences for low-cost housing violate housing discrimination law has been cleared for trial.  <a href="https://nyti.ms/3Wrps3a"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘Death on the Floor or Death in the Streets’: Childbirth Amid War in Sudan</h3>
-<sub>By Cora Engelbrecht and Abdi Latif Dahir</sub>
-<p>War in the northeast African nation has forced pregnant women to drive “through hell” to reach the dwindling number of hospitals and clinics, or turn to overworked midwives to give birth at home.  <a href="https://nyti.ms/3q3Wtqd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Emails, Chat Logs, Code and a Notebook: The Mountain of FTX Evidence</h3>
-<sub>By David Yaffe-Bellany and Matthew Goldstein</sub>
-<p>Prosecutors investigating Sam Bankman-Fried, the cryptocurrency exchange’s founder, have accumulated more than six million pages of documents and other records.  <a href="https://nyti.ms/43i5Occ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Australia Tries to Break Its Dependence on China for Lithium Mining</h3>
-<sub>By Natasha Frost and Matthew Abbott</sub>
-<p>Half of the world’s supply of the critical battery ingredient is mined in Australia, which ships virtually all of it to China. The government and business are betting they can change that.  <a href="https://nyti.ms/3okED1M"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
 <hr/>
 </ol>
