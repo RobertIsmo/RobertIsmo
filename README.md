@@ -60,12 +60,42 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, May 23, Central Standard Time</p>
 <p>
-There are several major events going on around the world that I want to catch you up on. In Ukraine, there is a battle taking place for the Eastern city of Bakhmut and Times photographers have been documenting the country&#39;s defense since May 2022. Meanwhile, relations between China and Russia are deepening as Western countries back Ukraine and turn their attention to Asia. On a more personal level, an American journalist was recently arrested in Russia and has been held at an infamous detention center since March. Closer to home, U.S. Surgeon General Vivek H. Murthy is warning about the &quot;profound risk&quot; of young people using social media and has urged parents to take action to safeguard against potential harms. Finally, here in New York City there is a legal battle over whether affordable housing lotteries fuel segregation.</p>
+Currently, there’s a big focus on the intersection between mental health and social media use. The U.S. Surgeon General recently released a report saying it can be harmful for children and adolescents, and parents are being urged to set boundaries and monitor their kids&#39; use of it. The attention on this issue has also made people think about how to navigate social media platforms in general, since it’s such an important part of modern life. 
+
+In politics, Florida Gov. Ron DeSantis is set to announce his 2024 presidential run on Twitter-he may be joined by Twitter’s owner, Elon Musk-and he just made comments on the Supreme Court that some have seen as an attempt to sway voters. In Arizona, a judge threw out a lawsuit that was filed by a political ally of Donald Trump who lost the governor’s race last year; her lawyers had argued that the county didn&#39;t properly review mail-in ballot signatures. 
+
+Internationally, China has been strengthening its ties with Russia as Western countries begin paying more and more attention to what’s happening both in Asia and other places like Ukraine. The U.S. is helping Ukraine by sending fighter jets that its pilots need to be trained on, and Russia has detained an American journalist for nearly 3 months now. 
+
+Closer to home, there’s been news around Catholic churches-namely that in Illinois alone over 1,900 minors have been abused by priests and religious brothers since 1950. Meanwhile, in Vienna people are looking at how rent control and other ideas have created a utopia of sorts where housing is affordable for all.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Battle for Bakhmut, in Photos</h3>
-<sub>By The New York Times and Marc Santora</sub>
-<p>Times photographers have been documenting Ukraine’s defense of the Eastern city since May 2022.  <a href="https://nyti.ms/3q5u3Mw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Surgeon General Warns That Social Media May Harm Children and Adolescents</h3>
+<sub>By Matt Richtel, Catherine Pearson and Michael Levenson</sub>
+<p>The report by Dr. Vivek Murthy cited a “profound risk of harm” to adolescent mental health and urged families to set limits and governments to set tougher standards for use.  <a href="https://nyti.ms/3BRhcQD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>How Parents Can Actually Help Teens Navigate Social Media</h3>
+<sub>By Catherine Pearson</sub>
+<p>The U.S. surgeon general and the American Psychological Association have urged parents to monitor adolescents for “problematic” social media use. We asked experts for some realistic and effective ways to do this.  <a href="https://nyti.ms/44Y8zB3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>DeSantis Set to Announce 2024 Run on Twitter With Elon Musk</h3>
+<sub>By Shane Goldmacher, Maggie Haberman, Ryan Mac and Nicholas Nehamas</sub>
+<p>Adding a twist to the beginning of his presidential campaign, the Florida governor is expected to appear on a live audio conversation with Mr. Musk, the social platform’s owner, on Wednesday evening.  <a href="https://nyti.ms/3BOlw3c"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>DeSantis Floats ‘7-2 Conservative Majority’ on Supreme Court</h3>
+<sub>By Nicholas Nehamas</sub>
+<p>With his 2024 campaign imminent, Ron DeSantis pointed to how he could tilt the court further to the right. He also highlighted his ability to serve for eight years as president, unlike Donald Trump.  <a href="https://nyti.ms/45mSJ37"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Arizona Judge Tosses Kari Lake’s 2022 Election Lawsuit</h3>
+<sub>By Neil Vigdor</sub>
+<p>Lawyers for Ms. Lake, a Trump ally who lost the governor’s race, claimed Maricopa County did not properly review mail-in ballot signatures. A judge said the arguments “do not clear the bar.”  <a href="https://nyti.ms/3MPOg1O"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -75,33 +105,15 @@ There are several major events going on around the world that I want to catch yo
 <sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Russian judge extends the detention of the American journalist Evan Gershkovich to Aug. 30.</h3>
+<h3>Ukraine Got the Keys to the F-16. Now Come the Lessons.</h3>
+<sub>By Lara Jakes</sub>
+<p>Ukrainian pilots have a lot to learn before they can start using U.S.-made fighter jets, but experts say it might take less time than once thought.  <a href="https://nyti.ms/3ICS9V9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russian Court Orders American Journalist Jailed Through August</h3>
 <sub>By Roger Cohen</sub>
-<p>The Wall Street Journal reporter has been held at the notoriously harsh Lefortovo jail since his arrest on March 29 during a reporting trip to the central Russian city of Yekaterinburg.  <a href="https://nyti.ms/3qaRX9d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>Social Media Can Be a ‘Profound Risk’ to Youth, Surgeon General Warns</h3>
-<sub>By Catherine Pearson and Matt Richtel</sub>
-<p>Dr. Vivek H. Murthy urged immediate action from policymakers, tech companies and parents to safeguard against potential harms.  <a href="https://nyti.ms/3q4jiKq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>How Parents Can Actually Help Teens Navigate Social Media</h3>
-<sub>By Catherine Pearson</sub>
-<p>The U.S. surgeon general and the American Psychological Association have urged parents to monitor adolescents for “problematic” social media use. We asked experts for some realistic and effective ways to do this.  <a href="https://nyti.ms/44Y8zB3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>Sought Out by Science, and Then Forgotten</h3>
-<sub>By Jennie Erin Smith and Charlie Cordero</sub>
-<p>Four decades ago, medical researchers reached out to ailing families in Colombia for insights into Huntington’s disease. Scientists are just now following up, hoping it’s not too late.  <a href="https://nyti.ms/3MPVjHP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-espanol-blue" alt="">
-<h3>La ciencia los buscó y luego se olvidó de ellos</h3>
-<sub>By Jennie Erin Smith and Charlie Cordero</sub>
-<p>Con el fin de indagar sobre la enfermedad de Huntington, unos investigadores contactaron a familias colombianas que viven con esa aflicción. Cuarenta años después, los científicos recién hacen seguimiento, esperando que no sea demasiado tarde.  <a href="https://nyti.ms/3q68Ylb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The Wall Street Journal reporter Evan Gershkovich has been held at the notoriously harsh Lefortovo jail since his arrest on March 29 during a reporting trip to the central Russian city of Yekaterinburg.  <a href="https://nyti.ms/3qaRX9d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
@@ -111,9 +123,9 @@ There are several major events going on around the world that I want to catch yo
 <sub><sub>Monday, May 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>How Uvalde Parents Learned to Grieve in Public</h3>
+<h3>How One Uvalde Family Learned to Grieve in Public</h3>
 <sub>By Jaeah Lee</sub>
-<p>After 10-year-old Amerie Jo Garza was killed at Robb Elementary, Kimberly Garcia and Angel Garza had to face unimaginable loss without the solace of privacy.  <a href="https://nyti.ms/3Wvrbor"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>After their 10-year-old was killed at Robb Elementary a year ago, Kimberly Garcia and Angel Garza had to face unimaginable loss without the solace of privacy.  <a href="https://nyti.ms/3Wvrbor"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -126,12 +138,6 @@ There are several major events going on around the world that I want to catch yo
 <h3>Lessons From a Renters’ Utopia</h3>
 <sub>By Francesca Mari and Luca Locatelli</sub>
 <p>Worldwide, housing has become a nightmare of expense and speculation. What did Vienna do right?  <a href="https://nyti.ms/45qtpt5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Do New York’s Affordable Housing Lotteries Fuel Segregation?</h3>
-<sub>By Mihir Zaveri</sub>
-<p>An eight-year legal battle over whether community preferences for low-cost housing violate housing discrimination law has been cleared for trial.  <a href="https://nyti.ms/3Wrps3a"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
 <hr/>
 </ol>
