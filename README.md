@@ -60,11 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, May 22, Central Standard Time</p>
 <p>
-Recently, there has been a lot of political activity in the US. President Joe Biden and House Speaker Kevin McCarthy had a meeting to try to make a deal on the debt limit, but they could not come to an agreement. There is also a big focus on climate change as there have been breakthrough deals made pertaining to the Colorado River, which is in danger of going dry due to overuse and drought. In eastern Ukraine, drone footage of the war-torn city of Bakhmut shows the destruction that it has experienced. 
-
-In New York City, former president Donald Trump is being sued by E. Jean Carroll for public denials that he sexually abused her and his companies are being investigated by a special counsel about foreign business deals. In addition, there is a legal battle over releasing the writings of a mass shooter who attacked a Christian school in Nashville and NYC employers are starting to become more aware of and accommodating towards menopause friendly workplaces.
-
-On another note, Britain&#39;s most famous literary son Martin Amis has recently been discussed amongst critics.</p>
+There is a lot going on in the world right now. In the US, there are ongoing debt limit negotiations and President Biden had a meeting with Republican Speaker Kevin McCarthy, but no agreement was reached. In terms of climate change, an agreement has been reached to keep the Colorado River from drying up- for now. However, there is still a debate about what is causing so much of the river&#39;s water to disappear. In Europe, there has been a lot of destruction due to war in Ukraine, while in Romania an online influencer is facing human trafficking and rape charges. Closer to home, Donald Trump is being sued for comments he made denying sexual molestation allegations against him. And finally, in the world of books, our critic is analyzing the achievement of British literary son Martin Amis.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden and McCarthy Describe ‘Productive’ Meeting, but No Agreement Is Reached</h3>
