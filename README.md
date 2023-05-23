@@ -60,8 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, May 22, Central Standard Time</p>
 <p>
-The world is facing a lot of challenges right now. In the US, debt limit negotiators are debating spending caps in a standoff over tackling the national debt. Meanwhile, a breakthrough deal was made to keep the Colorado River from going dry but it expires soon. Conflict in Ukraine has led to the destruction of a city, and politicians in the US are trying to build an alliance against China while they tussle over who gets hold of microchips. At the same time, there is a movement to make working environments more menopause friendly and women are being offered new treatments for menopause symptoms. Plus, TikTok is suing Montana for passing a law banning them. While all this is happening, two politicians have announced their retirements: senator Tim Scott in South Carolina and senator Carper in Delaware.</p>
+Recently, there has been a lot of political activity in the US. President Joe Biden and House Speaker Kevin McCarthy had a meeting to try to make a deal on the debt limit, but they could not come to an agreement. There is also a big focus on climate change as there have been breakthrough deals made pertaining to the Colorado River, which is in danger of going dry due to overuse and drought. In eastern Ukraine, drone footage of the war-torn city of Bakhmut shows the destruction that it has experienced. 
+
+In New York City, former president Donald Trump is being sued by E. Jean Carroll for public denials that he sexually abused her and his companies are being investigated by a special counsel about foreign business deals. In addition, there is a legal battle over releasing the writings of a mass shooter who attacked a Christian school in Nashville and NYC employers are starting to become more aware of and accommodating towards menopause friendly workplaces.
+
+On another note, Britain&#39;s most famous literary son Martin Amis has recently been discussed amongst critics.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden and McCarthy Describe ‘Productive’ Meeting, but No Agreement Is Reached</h3>
+<sub>By Catie Edmondson and Katie Rogers</sub>
+<p>With the United States at risk of defaulting for the first time, Speaker Kevin McCarthy and President Biden met again but remained far apart on a deal.  <a href="https://nyti.ms/3q7k7ls"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 22, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Debt Limit Negotiators Debate Spending Caps to Break Standoff</h3>
 <sub>By Alan Rappeport and Catie Edmondson</sub>
@@ -86,16 +96,16 @@ The world is facing a lot of challenges right now. In the US, debt limit negotia
 <p>Drone footage taken by The New York Times captured the scorched buildings, destroyed schools and cratered parks that now define the city in eastern Ukraine.  <a href="https://nyti.ms/45gprDr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Sees Coming ‘Thaw’ With China, Even as He Rallies Allies Against Beijing</h3>
-<sub>By Peter Baker and David E. Sanger</sub>
-<p>During the Group of 7 meeting that just wrapped up, President Biden forged a consensus approach toward China despite tensions between the major powers over their approach.  <a href="https://nyti.ms/41YYLnN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>E. Jean Carroll Seeks New Damages From Trump for Comments on CNN</h3>
+<sub>By Benjamin Weiser</sub>
+<p>The former president’s repeated denials that he sexually abused Ms. Carroll “show the depth of his malice” and merit heavy damages, her lawyer wrote.  <a href="https://nyti.ms/3IygMSU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>With Ban on Micron, China Escalates Microchip Clash With U.S.</h3>
-<sub>By Paul Mozur and John Liu</sub>
-<p>A Chinese government block on Micron Technology’s memory chips marks how far apart the two economic powers are drifting on tech policy.  <a href="https://nyti.ms/45pYGfY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Prosecutors Sought Records on Trump’s Foreign Business Deals Since 2017</h3>
+<sub>By Alan Feuer, Maggie Haberman and Ben Protess</sub>
+<p>The special counsel scrutinizing the former president’s handling of classified documents issued a subpoena to the Trump Organization seeking records related to seven countries.  <a href="https://nyti.ms/3IueiFm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -104,34 +114,28 @@ The world is facing a lot of challenges right now. In the US, debt limit negotia
 <p>Jay Salpeter cracked a high-profile case to help exonerate Martin Tankleff. It was a blessing and a curse. For both of them.  <a href="https://nyti.ms/3BM2hHr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 22, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Nashville Parents Ask: Must a Mass Shooter’s Writings Be Made Public?</h3>
+<sub>By Emily Cochrane</sub>
+<p>The lack of information about what motivated a deadly attack on a Christian school has led to a protracted legal fight over releasing the shooter’s handwritten journals.  <a href="https://nyti.ms/3MoLLSJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 22, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>A Movement to Make Workplaces ‘Menopause Friendly’</h3>
 <sub>By Sharon Otterman and Yana Paskova</sub>
 <p>What is a menopause-friendly workplace? Women in cities like New York may soon find out, as U.S. companies adopt practices that were already spreading in Britain.  <a href="https://nyti.ms/43cvWWx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Women Have Been Misled About Menopause</h3>
-<sub>By Susan Dominus</sub>
-<p>Hot flashes, sleeplessness, pain during sex: For some of menopause’s worst symptoms, there’s an established treatment. Why aren’t more women offered it?  <a href="https://nyti.ms/3wIGZIj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>TikTok Sues Montana, Calling State Ban Unconstitutional</h3>
-<sub>By David McCabe and Sapna Maheshwari</sub>
-<p>The Chinese-owned video app filed the lawsuit days after Montana’s governor signed the ban, which takes effect on Jan. 1, into law.  <a href="https://nyti.ms/3IyH9sa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Andrew Tate Thought He Was Above the Law. Romania Proved Him Wrong.</h3>
+<sub>By Andrew Higgins</sub>
+<p>The online influencer, popular with young men, is facing charges of human trafficking and rape, after seeking out a place where “corruption is accessible to everybody.”  <a href="https://nyti.ms/3OuoCAQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Tim Scott Begins Presidential Campaign, Adding to List of Trump Challengers</h3>
-<sub>By Jonathan Weisman and Maya King</sub>
-<p>The South Carolina senator added his positive, aspirational message to a growing and fractious Republican primary field. He enters the race having raised $22 million.  <a href="https://nyti.ms/3MLD46k"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Carper Says He Will Retire, Vacating Seat in Solidly Democratic Delaware</h3>
-<sub>By Luke Broadwater</sub>
-<p>The fourth-term senator said he would do everything he could to ensure that Representative Lisa Blunt Rochester, the state’s lone congresswoman and his former intern, won the race to succeed him.  <a href="https://nyti.ms/3IyfMOW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-books-blue" alt="">
+<h3>Good Night, Sweet Prince</h3>
+<sub>By A.O. Scott</sub>
+<p>Our critic assesses the achievement of Martin Amis, Britain’s most famous literary son.  <a href="https://nyti.ms/45lIBI0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
