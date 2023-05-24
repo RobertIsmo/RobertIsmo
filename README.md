@@ -60,18 +60,46 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, May 24, Central Standard Time</p>
 <p>
-There is growing scrutiny of cultural expression in China, where a comedian was recently investigated and performances were cancelled across the country. Meanwhile, a new report has revealed that employees of the popular app TikTok share users&#39; private information, such as licenses, photos, and addresses. 
-
-In the US, federal spending paths are threatened by a potential debt ceiling deal and House Speaker McCarthy has called for government spending cuts. Treasury Secretary Yellen warns of missed payments if the ceiling is not lifted and a Texas GOP split has broken out with accusations of drunkenness. Meanwhile, Ron De Santis&#39; power grabs as Florida governor and his plan to amass $200 million to beat Donald Trump in 2024 presidential elections have been making news headlines. 
-
-At home in New York City, we&#39;re seeing conflict between a financier and hedge fund mogul over SoHo rooftop renovations as well as an impending homelessness crisis several months after Mayor Eric Adams&#39; housing official resigned. 
-
-On the international level, Russians have spilled so much blood trying to seize control of Ukraine&#39;s city Bakmut that analysts think Russia&#39;s exhausted forces will settle into a defensive rule in preparation for Kayr&#39;s counteroffensive. 
-
-Finally, there&#39;s some exciting news in science - a paralyzed man can walk again with implants connecting his intentions to physical movements!</p>
+Right now, it seems like a lot of high-powered individuals are making news headlines. In the US, we have Ron DeSantis, the Governor of Florida, who is expanding his power in office and suggesting he&#39;ll do so if elected President. In entertainment news, Tina Turner has sadly passed away at 83 after inspiring many with her dynamic performances and echoing her personal struggles in her songs. Meanwhile, Ukrainians are suspected of a drone attack in Russia and there have been reports of Chinese malware targeting Guam; but some suggest Taiwan may be the true target. And in Texas, there&#39;s a battle between GOP leaders Attorney General Ken Paxton and House speaker over corruption and drunkenness allegations. Finally, we have millionaires vs billionaires as Federico Pignatelli and Ray Dalio fight over control of a historic building in SoHo, New York.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Amassing Power, DeSantis Maximized Might of Governor’s Office</h3>
+<sub>By Patricia Mazzei</sub>
+<p>Ron DeSantis methodically expanded his powers and pushed legal boundaries to enact his policies. He suggests he would do the same as president.  <a href="https://nyti.ms/437kJ9u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>DeSantis Picked Twitter Spaces to Announce His Run. What Is It?</h3>
+<sub>By Ryan Mac</sub>
+<p>The Florida governor is set to announce that he will be running for president on Twitter Spaces, a live audio streaming platform on Twitter where people gather and talk online in real time.  <a href="https://nyti.ms/3OD1n7V"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Tina Turner, Magnetic Singer of Explosive Power, Is Dead at 83</h3>
+<sub>By William Grimes</sub>
+<p>Hailed in the 1960s for her dynamic performances with her first husband, Ike, she became a sensation as a recording artist, often echoing her personal struggles in her songs.  <a href="https://nyti.ms/436kXh0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Tina Turner Is Remembered as a Resilient Trailblazer</h3>
+<sub>By Michael Levenson and April Rubin</sub>
+<p>Many said her music and her life story were inspirations as she overcame abuse during her marriage to Ike Turner and emerged as a star on her own.  <a href="https://nyti.ms/3MzDw67"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Ukrainians Were Likely Behind Kremlin Drone Attack, U.S. Officials Say</h3>
+<sub>By Julian E. Barnes, Adam Entous, Eric Schmitt and Anton Troianovski</sub>
+<p>American spy agencies do not know exactly who carried out the attack this month, but suggest it was part of a series of covert operations orchestrated by Ukraine’s security services.  <a href="https://nyti.ms/3ovGwsq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Chinese Malware Hits Systems on Guam. Is Taiwan the Real Target?</h3>
+<sub>By David E. Sanger</sub>
+<p>The code, which Microsoft said was installed by a Chinese government hacking group, set off alarms because Guam would be a centerpiece of any U.S. military response to a move against Taiwan.  <a href="https://nyti.ms/3q7Jbch"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As China Ramps Up Scrutiny of Culture, the Show Does Not Go On</h3>
+<h3>Cultural Crackdown in China Shuts Comedy and Music Shows</h3>
 <sub>By Vivian Wang</sub>
 <p>Performances across the country were canceled last week after Beijing began investigating a stand-up comedian.  <a href="https://nyti.ms/3WxJrgD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
@@ -95,51 +123,15 @@ Finally, there&#39;s some exciting news in science - a paralyzed man can walk ag
 <sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Yellen Warns of Missed Payments if Debt Limit Is Not Lifted</h3>
-<sub>By Alan Rappeport</sub>
-<p>The Treasury secretary said the Biden administration would face “very tough choices” if Congress did not act.  <a href="https://nyti.ms/3BPww0h"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>G.O.P. Split in Texas Breaks Wide Open With Drunkenness Accusation</h3>
-<sub>By J. David Goodman</sub>
-<p>Attorney General Ken Paxton’s accusation against the House speaker came as the House investigated Mr. Paxton’s request for $3.3 million to settle a suit accusing him of corruption.  <a href="https://nyti.ms/3q2jKIV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Amassing Power, DeSantis Maximized Might of Governor’s Office</h3>
-<sub>By Patricia Mazzei</sub>
-<p>Ron DeSantis methodically expanded his powers and pushed legal boundaries to enact his policies. He suggests he would do the same as president.  <a href="https://nyti.ms/437kJ9u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis Allies’ $200 Million Plan for Beating Trump</h3>
-<sub>By Shane Goldmacher, Jonathan Swan and Maggie Haberman</sub>
-<p>As the Florida governor prepares to enter the 2024 race, his allies are building an army of organizers to flood the states with the first nominating contests.  <a href="https://nyti.ms/3WtODlG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Texas G.O.P. Leaders Clash Over Accusations of Corruption and Drunkenness</h3>
+<sub>By J. David Goodman and David Montgomery</sub>
+<p>Attorney General Ken Paxton accused the Republican House speaker of being intoxicated, as he suggested that lawmakers were preparing to impeach him over corruption allegations.  <a href="https://nyti.ms/3q2jKIV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>It’s Millionaire vs. Billionaire in the Battle of the SoHo Pergola</h3>
 <sub>By Katherine Rosman</sub>
 <p>The rooftop of a historic building is the focus of a renovation skirmish between Federico Pignatelli, a financier, and Ray Dalio, the hedge-fund mogul.  <a href="https://nyti.ms/43nc56x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>New York City’s Housing Chief Is Resigning Amid a Homelessness Crisis</h3>
-<sub>By Mihir Zaveri and Jeffery C. Mays</sub>
-<p>A day after Mayor Eric Adams said he would oppose an effort to reduce homelessness by increasing the number of housing vouchers, his top housing official said she would step down.  <a href="https://nyti.ms/3WDAbYE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>What’s Next for Russia After Spilling So Much Blood for Bakhmut?</h3>
-<sub>By Thomas Gibbons-Neff</sub>
-<p>Seizing the city took 10 months and untold lives. Most likely, analysts say, Russia’s exhausted forces will settle into a defensive crouch, preparing for Ukraine’s counteroffensive.  <a href="https://nyti.ms/3oqW5Bx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>A Paralyzed Man Can Walk Naturally Again With Brain and Spine Implants</h3>
-<sub>By Oliver Whang</sub>
-<p>In a new study, researchers describe a device that connects the intentions of a paralyzed patient to his physical movements.  <a href="https://nyti.ms/3MzXpdm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
 <hr/>
 </ol>
