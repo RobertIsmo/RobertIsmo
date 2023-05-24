@@ -60,8 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, May 24, Central Standard Time</p>
 <p>
-A lot is happening in the world right now! Very soon, Congress could be dealing with a debt limit crisis if key leaders can&#39;t reach a compromise. Protesters in South Carolina just successfully caused their Senate to pass a 6-week abortion ban, and it looks like it will become law. On the political front, Florida governor Ron DeSantis is likely going to announce his 2024 presidential bid on Twitter this week. Meanwhile, Major League Baseball has made changes to their rules that are dramatically speeding up the games while leading to more exciting action.</p>
+There is a lot going on in the world right now, for example in China there is increased scrutiny of cultural activities and performances have been canceled due to an investigation into a stand-up comedian. In the US, there is an upcoming debt limit deal that has Democrats and Republicans divided and there is worries about the potential default on US debt affecting the nation&#39;s credit rating. In Texas, there is an ongoing conflict between the Attorney General and House Speaker and heated debate about how to respond to a mass shooting from last year. Meanwhile in sports, MLB has introduced some new rules which are speeding up games and changing how the game is played.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As China Ramps Up Scrutiny of Culture, the Show Does Not Go On</h3>
+<sub>By Vivian Wang</sub>
+<p>Performances across the country were canceled last week after Beijing began investigating a stand-up comedian.  <a href="https://nyti.ms/3WxJrgD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Driver’s Licenses, Addresses, Photos: Inside How TikTok Shares User Data</h3>
+<sub>By Sapna Maheshwari and Ryan Mac</sub>
+<p>Employees of the Chinese-owned video app have regularly posted user information on a messaging and collaboration tool called Lark, according to internal documents.  <a href="https://nyti.ms/45w7f94"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>McCarthy, Bracing for Defections, Eyes a Fraught Path to a Debt Limit Deal</h3>
 <sub>By Catie Edmondson and Luke Broadwater</sub>
@@ -77,7 +89,7 @@ A lot is happening in the world right now! Very soon, Congress could be dealing 
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>This Is What ‘Productive’ Looks Like in Washington as Default Deadline Looms</h3>
 <sub>By Katie Rogers</sub>
-<p>A debt crisis could be only a week away — practically an eternity in a town governed by the threat of catastrophic deadlines.  <a href="https://nyti.ms/3BTJRoe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>A debt crisis could be only a week away — practically an eternity in a town governed by the threat of catastrophic deadlines.  <a href="https://nyti.ms/3IyywxK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -98,29 +110,17 @@ A lot is happening in the world right now! Very soon, Congress could be dealing 
 <p>As the Florida governor prepares to enter the 2024 race, his allies are building an army of organizers to flood the states with the first nominating contests.  <a href="https://nyti.ms/3WtODlG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis Set to Announce 2024 Run on Twitter With Elon Musk</h3>
-<sub>By Shane Goldmacher, Maggie Haberman, Ryan Mac and Nicholas Nehamas</sub>
-<p>Adding a twist to the beginning of his presidential campaign, the Florida governor is expected to appear on a live audio conversation with Mr. Musk, the social platform’s owner, on Wednesday evening.  <a href="https://nyti.ms/3BOlw3c"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-upshot-blue" alt="">
 <h3>Why It’s Far Too Soon to Say DeSantis Is Done</h3>
 <sub>By Nate Cohn</sub>
 <p>Despite his struggles, fortunes can change very quickly in presidential primaries.  <a href="https://nyti.ms/43oLkyI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>DeSantis’s Big Event Underscores a Rightward Move for Twitter</h3>
-<sub>By Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
-<p>The Florida governor’s plan to announce his presidential campaign on the social network is the latest sign of the company’s efforts to court conservatives.  <a href="https://nyti.ms/435li3w"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>South Carolina Senate Passes 6-Week Abortion Ban</h3>
-<sub>By Kate Zernike and Ava Sasani</sub>
-<p>The legislation, which faced a filibuster led by five women senators, now heads to the governor who has said he will sign it.  <a href="https://nyti.ms/4345jTi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
+<h3>G.O.P. Split in Texas Breaks Wide Open With Drunkenness Accusation</h3>
+<sub>By J. David Goodman</sub>
+<p>Attorney General Ken Paxton’s accusation against the House speaker came as the House investigated Mr. Paxton’s request for $3.3 million to settle a suit accusing him of corruption.  <a href="https://nyti.ms/3q2jKIV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>M.L.B.’s New Rules Have Baseball in Overdrive</h3>
