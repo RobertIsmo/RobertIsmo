@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, May 23, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now! In the US, the South Carolina Senate has just passed a 6-week abortion ban which will need to be signed by the governor. The Surgeon General has warned that social media may harm children and adolescents, while the White House is pushing to save key Covid-programs in debt ceiling talks. Meanwhile, the Florida governor is expected to announce his 2024 presidential campaign with Elon Musk on Twitter. In other news, anti-Kremlin fighters have taken their war into Russian territory and Ukrainian pilots are learning how to use US-made fighter jets. Finally, at an interesting school, Atlantic College, in Wales, future queens are dropping the royal act and taking classes on world peace.</p>
+There has been some intense news recently! In South Carolina, the Senate passed a 6-week abortion ban, despite a filibuster led by five female senators. The bill now has to be approved by the governor who has said he will sign it. The US Surgeon General has also warned of the harms of social media use to adolescent mental health, and has urged both governments and families to take stronger measures. In other international news, pro-Ukrainian forces have conducted a cross-border attack into Russia as an attempt to divert Russian troops away from the front line. In addition, European countries have been looking towards Vienna, Austria for lessons on how to manage their housing crises better. And finally, Black American English is getting recognition with the first 10 words now available in an exclusive dictionary highlighting words created or reinvented by Black people.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>South Carolina Senate Passes 6-Week Abortion Ban</h3>
@@ -93,21 +93,9 @@ There is a lot going on in the world right now! In the US, the South Carolina Se
 <sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>White House Pushes to Save Key Covid Programs in Debt Ceiling Talks</h3>
-<sub>By Noah Weiland and Benjamin Mueller</sub>
-<p>The Biden administration has prioritized preserving a $5 billion vaccine development program in discussions with House Republicans on clawing back unspent Covid-19 funds.  <a href="https://nyti.ms/3N2hkDv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>DeSantis Set to Announce 2024 Run on Twitter With Elon Musk</h3>
 <sub>By Shane Goldmacher, Maggie Haberman, Ryan Mac and Nicholas Nehamas</sub>
 <p>Adding a twist to the beginning of his presidential campaign, the Florida governor is expected to appear on a live audio conversation with Mr. Musk, the social platform’s owner, on Wednesday evening.  <a href="https://nyti.ms/3BOlw3c"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Arizona Judge Tosses Kari Lake’s 2022 Election Lawsuit</h3>
-<sub>By Neil Vigdor</sub>
-<p>Lawyers for Ms. Lake, a Trump ally who lost the governor’s race, claimed Maricopa County did not properly review mail-in ballot signatures. A judge said the arguments “do not clear the bar.”  <a href="https://nyti.ms/3MPOg1O"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -122,17 +110,29 @@ There is a lot going on in the world right now! In the US, the South Carolina Se
 <p>At least three of what appeared to be American-made tactical vehicles known as MRAPs were part of the cross-border attack. According to visual evidence, Russia captured two of them.  <a href="https://nyti.ms/3WwIW6H"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Got the Keys to the F-16. Now Come the Lessons.</h3>
-<sub>By Lara Jakes</sub>
-<p>Ukrainian pilots have a lot to learn before they can start using U.S.-made fighter jets, but experts say it might take less time than once thought.  <a href="https://nyti.ms/3ICS9V9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
 <h3>The Castle Where Future Queens Drop the Royal Act</h3>
 <sub>By Elizabeth Paton</sub>
 <p>At Atlantic College, a school in a 12th-century castle clinging to the windy Welsh coastline, teenage royals take classes on world peace.  <a href="https://nyti.ms/43mZGzD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>How One Uvalde Family Learned to Grieve in Public</h3>
+<sub>By Jaeah Lee</sub>
+<p>After their 10-year-old was killed at Robb Elementary a year ago, Kimberly Garcia and Angel Garza had to face unimaginable loss without the solace of privacy.  <a href="https://nyti.ms/3Wvrbor"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Lessons From a Renters’ Utopia</h3>
+<sub>By Francesca Mari and Luca Locatelli</sub>
+<p>Worldwide, housing has become a nightmare of expense and speculation. What did Vienna do right?  <a href="https://nyti.ms/45qtpt5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>The First 10 Words of the African American English Dictionary Are In</h3>
+<sub>By Sandra E. Garcia</sub>
+<p>An exclusive look at a dictionary consisting entirely of words created or reinvented by Black people. (Don’t worry: All three variants of “bussin” are included.)  <a href="https://nyti.ms/3WrkmnM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
