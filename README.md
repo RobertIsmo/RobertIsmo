@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Tuesday, May 23, Central Standard Time</p>
+<p>It is Wednesday, May 24, Central Standard Time</p>
 <p>
-There has been some intense news recently! In South Carolina, the Senate passed a 6-week abortion ban, despite a filibuster led by five female senators. The bill now has to be approved by the governor who has said he will sign it. The US Surgeon General has also warned of the harms of social media use to adolescent mental health, and has urged both governments and families to take stronger measures. In other international news, pro-Ukrainian forces have conducted a cross-border attack into Russia as an attempt to divert Russian troops away from the front line. In addition, European countries have been looking towards Vienna, Austria for lessons on how to manage their housing crises better. And finally, Black American English is getting recognition with the first 10 words now available in an exclusive dictionary highlighting words created or reinvented by Black people.</p>
+It looks like there are a lot of changes happening in the world right now. In South Carolina, the Senate has passed a 6-week abortion ban, and the governor has said he will sign it. The Surgeon General has warned that social media may harm children&#39;s and adolescents&#39; mental health, and urged families to set limits for their use. In response, experts have offered advice on how to tell if your child is having an unhealthy relationship with social media. Additionally, the House Speaker is facing a tough road to get a debt limit deal pushed through due to Republicans&#39; opposition. On top of that, Florida Governor Ron DeSantis is set to announce his 2024 presidential run on Twitter with Elon Musk. Furthermore, Ukrainian fighters have taken war into Russian territory for a second day, and US-made armored vehicles were used in the incursion. Meanwhile, an effort to bring religion into Texas public school classrooms failed, but it looks like they&#39;ll allow chaplains to act as counselors. In terms of lighter news, there is a school called Atlantic College in Wales where teenage royals take classes on world peace; and the first 10 words of the African American English Dictionary were recently released. Lastly, experts in Vienna offer insight into creating a renters&#39; utopia.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>South Carolina Senate Passes 6-Week Abortion Ban</h3>
@@ -100,7 +100,7 @@ There has been some intense news recently! In South Carolina, the Senate passed 
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Anti-Kremlin Fighters Take War to Russian Territory for a Second Day</h3>
-<sub>By Andrew E. Kramer, Valerie Harper and Michael Schwirtz</sub>
+<sub>By Andrew E. Kramer, Valerie Hopkins and Michael Schwirtz</sub>
 <p>The cross-border attacks by fighters aligned with Ukraine were an effort to force Russia’s military to divert troops from the front line, an official said.  <a href="https://nyti.ms/3oqKZwm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
 <hr/>
@@ -110,17 +110,17 @@ There has been some intense news recently! In South Carolina, the Senate passed 
 <p>At least three of what appeared to be American-made tactical vehicles known as MRAPs were part of the cross-border attack. According to visual evidence, Russia captured two of them.  <a href="https://nyti.ms/3WwIW6H"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Bill to Force Texas Public Schools to Display Ten Commandments Fails</h3>
+<sub>By J. David Goodman</sub>
+<p>A Republican effort to bring religion into classrooms faltered, though lawmakers were poised to allow chaplains to act as school counselors.  <a href="https://nyti.ms/3MtoBup"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
 <h3>The Castle Where Future Queens Drop the Royal Act</h3>
 <sub>By Elizabeth Paton</sub>
 <p>At Atlantic College, a school in a 12th-century castle clinging to the windy Welsh coastline, teenage royals take classes on world peace.  <a href="https://nyti.ms/43mZGzD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>How One Uvalde Family Learned to Grieve in Public</h3>
-<sub>By Jaeah Lee</sub>
-<p>After their 10-year-old was killed at Robb Elementary a year ago, Kimberly Garcia and Angel Garza had to face unimaginable loss without the solace of privacy.  <a href="https://nyti.ms/3Wvrbor"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
 <h3>Lessons From a Renters’ Utopia</h3>
