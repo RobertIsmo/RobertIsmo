@@ -60,7 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, May 24, Central Standard Time</p>
 <p>
-It looks like there are a lot of changes happening in the world right now. In South Carolina, the Senate has passed a 6-week abortion ban, and the governor has said he will sign it. The Surgeon General has warned that social media may harm children&#39;s and adolescents&#39; mental health, and urged families to set limits for their use. In response, experts have offered advice on how to tell if your child is having an unhealthy relationship with social media. Additionally, the House Speaker is facing a tough road to get a debt limit deal pushed through due to Republicans&#39; opposition. On top of that, Florida Governor Ron DeSantis is set to announce his 2024 presidential run on Twitter with Elon Musk. Furthermore, Ukrainian fighters have taken war into Russian territory for a second day, and US-made armored vehicles were used in the incursion. Meanwhile, an effort to bring religion into Texas public school classrooms failed, but it looks like they&#39;ll allow chaplains to act as counselors. In terms of lighter news, there is a school called Atlantic College in Wales where teenage royals take classes on world peace; and the first 10 words of the African American English Dictionary were recently released. Lastly, experts in Vienna offer insight into creating a renters&#39; utopia.</p>
+It seems like a lot is happening in the world right now. In the US, South Carolina has passed a 6-week abortion ban while Texas is trying to force public schools to display the Ten Commandments. Also, Florida Governor DeSantis is poised to announce his 2024 presidential run on Twitter with Elon Musk. 
+
+On the health front, the US Surgeon General has warned about the potential harms of social media and mental health for adolescents. Meanwhile, pro-Ukraine forces appear to have used US-made armored vehicles in an incursion into Russia - which was quickly met with retaliation from Moscow.
+
+In other news, there&#39;s a unique school in Wales where teenage royals can take classes on world peace and an upcoming African American English Dictionary intended to preserve words created or reinvented by Black people. Lastly, this article explores a renters&#39; utopia in Vienna and how it achieved success in housing affordability.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>South Carolina Senate Passes 6-Week Abortion Ban</h3>
