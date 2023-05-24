@@ -60,41 +60,43 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, May 24, Central Standard Time</p>
 <p>
-It seems like a lot is happening in the world right now. In the US, South Carolina has passed a 6-week abortion ban while Texas is trying to force public schools to display the Ten Commandments. Also, Florida Governor DeSantis is poised to announce his 2024 presidential run on Twitter with Elon Musk. 
-
-On the health front, the US Surgeon General has warned about the potential harms of social media and mental health for adolescents. Meanwhile, pro-Ukraine forces appear to have used US-made armored vehicles in an incursion into Russia - which was quickly met with retaliation from Moscow.
-
-In other news, there&#39;s a unique school in Wales where teenage royals can take classes on world peace and an upcoming African American English Dictionary intended to preserve words created or reinvented by Black people. Lastly, this article explores a renters&#39; utopia in Vienna and how it achieved success in housing affordability.</p>
+A lot is happening in the world right now! Very soon, Congress could be dealing with a debt limit crisis if key leaders can&#39;t reach a compromise. Protesters in South Carolina just successfully caused their Senate to pass a 6-week abortion ban, and it looks like it will become law. On the political front, Florida governor Ron DeSantis is likely going to announce his 2024 presidential bid on Twitter this week. Meanwhile, Major League Baseball has made changes to their rules that are dramatically speeding up the games while leading to more exciting action.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>South Carolina Senate Passes 6-Week Abortion Ban</h3>
-<sub>By Kate Zernike and Ava Sasani</sub>
-<p>The legislation, which faced a filibuster led by five women senators, now heads to the governor who has said he will sign it.  <a href="https://nyti.ms/4345jTi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Surgeon General Warns That Social Media May Harm Children and Adolescents</h3>
-<sub>By Matt Richtel, Catherine Pearson and Michael Levenson</sub>
-<p>The report by Dr. Vivek Murthy cited a “profound risk of harm” to adolescent mental health and urged families to set limits and governments to set tougher standards for use.  <a href="https://nyti.ms/3BRhcQD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>A Half-Century of Surgeon General Warnings</h3>
-<sub>By Remy Tumin</sub>
-<p>Public advisories from the nation’s top doctor are infrequent, but sometimes become turning points in American life.  <a href="https://nyti.ms/3WwO7Dz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>Does Your Child Have an Unhealthy Relationship to Social Media? Here’s How to Tell.</h3>
-<sub>By Catherine Pearson</sub>
-<p>The surgeon general has warned that it can pose a “profound risk” to the mental health of adolescents. We asked experts what problematic use could look like.  <a href="https://nyti.ms/42UedTr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>McCarthy, Bracing for Defections, Eyes a Fraught Path to a Debt Limit Deal</h3>
 <sub>By Catie Edmondson and Luke Broadwater</sub>
 <p>With right-wing Republicans all but certain to oppose any bipartisan compromise, the speaker has a narrow path to push one through the closely divided House.  <a href="https://nyti.ms/3Wz2nMi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Default on U.S. Debt Risks ‘Permanently’ Denting Nation’s Credit Rating</h3>
+<sub>By Joe Rennison</sub>
+<p>If the government misses an interest payment, even by a few hours, its creditworthiness will suffer, possibly for a long time.  <a href="https://nyti.ms/43m5NE1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>This Is What ‘Productive’ Looks Like in Washington as Default Deadline Looms</h3>
+<sub>By Katie Rogers</sub>
+<p>A debt crisis could be only a week away — practically an eternity in a town governed by the threat of catastrophic deadlines.  <a href="https://nyti.ms/3BTJRoe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>After Uvalde, a Cemetery Anchors Families of Victims</h3>
+<sub>Photographs and Text by Tamir Kalifa</sub>
+<p>A year after 19 children and two teachers were killed at a Texas elementary school, families of the victims have bonded through memories, grief and action.  <a href="https://nyti.ms/424p4ch"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Year After the Uvalde Massacre: Did Anything Change?</h3>
+<sub>By Edgar Sandoval</sub>
+<p>After a failed police response to the shooting deaths of 19 students and two teachers in Uvalde, Texas, there were calls for accountability and new gun laws.  <a href="https://nyti.ms/3q9KveH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>DeSantis Allies’ $200 Million Plan for Beating Trump</h3>
+<sub>By Shane Goldmacher, Jonathan Swan and Maggie Haberman</sub>
+<p>As the Florida governor prepares to enter the 2024 race, his allies are building an army of organizers to flood the states with the first nominating contests.  <a href="https://nyti.ms/3WtODlG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>DeSantis Set to Announce 2024 Run on Twitter With Elon Musk</h3>
@@ -102,41 +104,35 @@ In other news, there&#39;s a unique school in Wales where teenage royals can tak
 <p>Adding a twist to the beginning of his presidential campaign, the Florida governor is expected to appear on a live audio conversation with Mr. Musk, the social platform’s owner, on Wednesday evening.  <a href="https://nyti.ms/3BOlw3c"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Anti-Kremlin Fighters Take War to Russian Territory for a Second Day</h3>
-<sub>By Andrew E. Kramer, Valerie Hopkins and Michael Schwirtz</sub>
-<p>The cross-border attacks by fighters aligned with Ukraine were an effort to force Russia’s military to divert troops from the front line, an official said.  <a href="https://nyti.ms/3oqKZwm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Pro-Ukraine Forces Appear to Have Used U.S.-Made Armored Vehicles in Incursion Into Russia</h3>
-<sub>By Riley Mellen</sub>
-<p>At least three of what appeared to be American-made tactical vehicles known as MRAPs were part of the cross-border attack. According to visual evidence, Russia captured two of them.  <a href="https://nyti.ms/3WwIW6H"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Bill to Force Texas Public Schools to Display Ten Commandments Fails</h3>
-<sub>By J. David Goodman</sub>
-<p>A Republican effort to bring religion into classrooms faltered, though lawmakers were poised to allow chaplains to act as school counselors.  <a href="https://nyti.ms/3MtoBup"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>Why It’s Far Too Soon to Say DeSantis Is Done</h3>
+<sub>By Nate Cohn</sub>
+<p>Despite his struggles, fortunes can change very quickly in presidential primaries.  <a href="https://nyti.ms/43oLkyI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>The Castle Where Future Queens Drop the Royal Act</h3>
-<sub>By Elizabeth Paton</sub>
-<p>At Atlantic College, a school in a 12th-century castle clinging to the windy Welsh coastline, teenage royals take classes on world peace.  <a href="https://nyti.ms/43mZGzD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 22, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>DeSantis’s Big Event Underscores a Rightward Move for Twitter</h3>
+<sub>By Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
+<p>The Florida governor’s plan to announce his presidential campaign on the social network is the latest sign of the company’s efforts to court conservatives.  <a href="https://nyti.ms/435li3w"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Lessons From a Renters’ Utopia</h3>
-<sub>By Francesca Mari and Luca Locatelli</sub>
-<p>Worldwide, housing has become a nightmare of expense and speculation. What did Vienna do right?  <a href="https://nyti.ms/45qtpt5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>South Carolina Senate Passes 6-Week Abortion Ban</h3>
+<sub>By Kate Zernike and Ava Sasani</sub>
+<p>The legislation, which faced a filibuster led by five women senators, now heads to the governor who has said he will sign it.  <a href="https://nyti.ms/4345jTi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>The First 10 Words of the African American English Dictionary Are In</h3>
-<sub>By Sandra E. Garcia</sub>
-<p>An exclusive look at a dictionary consisting entirely of words created or reinvented by Black people. (Don’t worry: All three variants of “bussin” are included.)  <a href="https://nyti.ms/3WrkmnM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>M.L.B.’s New Rules Have Baseball in Overdrive</h3>
+<sub>By Tyler Kepner</sub>
+<p>Players are stealing more bases, more balls are falling for hits and games are nearly 30 minutes faster than they were last year. Like them or not, the rules are accomplishing their goals.  <a href="https://nyti.ms/3BQvDEq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>How New Rules Turned Back the Clock on Baseball</h3>
+<sub>By Ben Blatt and Francesca Paris</sub>
+<p>Visualizing the effect of changes two months into the season.  <a href="https://nyti.ms/3BUPCSs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
