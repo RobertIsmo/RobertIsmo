@@ -60,36 +60,48 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, May 23, Central Standard Time</p>
 <p>
-Currently, there’s a big focus on the intersection between mental health and social media use. The U.S. Surgeon General recently released a report saying it can be harmful for children and adolescents, and parents are being urged to set boundaries and monitor their kids&#39; use of it. The attention on this issue has also made people think about how to navigate social media platforms in general, since it’s such an important part of modern life. 
-
-In politics, Florida Gov. Ron DeSantis is set to announce his 2024 presidential run on Twitter-he may be joined by Twitter’s owner, Elon Musk-and he just made comments on the Supreme Court that some have seen as an attempt to sway voters. In Arizona, a judge threw out a lawsuit that was filed by a political ally of Donald Trump who lost the governor’s race last year; her lawyers had argued that the county didn&#39;t properly review mail-in ballot signatures. 
-
-Internationally, China has been strengthening its ties with Russia as Western countries begin paying more and more attention to what’s happening both in Asia and other places like Ukraine. The U.S. is helping Ukraine by sending fighter jets that its pilots need to be trained on, and Russia has detained an American journalist for nearly 3 months now. 
-
-Closer to home, there’s been news around Catholic churches-namely that in Illinois alone over 1,900 minors have been abused by priests and religious brothers since 1950. Meanwhile, in Vienna people are looking at how rent control and other ideas have created a utopia of sorts where housing is affordable for all.</p>
+There is a lot going on in the world right now! In the US, the South Carolina Senate has just passed a 6-week abortion ban which will need to be signed by the governor. The Surgeon General has warned that social media may harm children and adolescents, while the White House is pushing to save key Covid-programs in debt ceiling talks. Meanwhile, the Florida governor is expected to announce his 2024 presidential campaign with Elon Musk on Twitter. In other news, anti-Kremlin fighters have taken their war into Russian territory and Ukrainian pilots are learning how to use US-made fighter jets. Finally, at an interesting school, Atlantic College, in Wales, future queens are dropping the royal act and taking classes on world peace.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>South Carolina Senate Passes 6-Week Abortion Ban</h3>
+<sub>By Kate Zernike and Ava Sasani</sub>
+<p>The legislation, which faced a filibuster led by five women senators, now heads to the governor who has said he will sign it.  <a href="https://nyti.ms/4345jTi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>Surgeon General Warns That Social Media May Harm Children and Adolescents</h3>
 <sub>By Matt Richtel, Catherine Pearson and Michael Levenson</sub>
 <p>The report by Dr. Vivek Murthy cited a “profound risk of harm” to adolescent mental health and urged families to set limits and governments to set tougher standards for use.  <a href="https://nyti.ms/3BRhcQD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>A Half-Century of Surgeon General Warnings</h3>
+<sub>By Remy Tumin</sub>
+<p>Public advisories from the nation’s top doctor are infrequent, but sometimes become turning points in American life.  <a href="https://nyti.ms/3WwO7Dz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>How Parents Can Actually Help Teens Navigate Social Media</h3>
+<h3>Does Your Child Have an Unhealthy Relationship to Social Media? Here’s How to Tell.</h3>
 <sub>By Catherine Pearson</sub>
-<p>The U.S. surgeon general and the American Psychological Association have urged parents to monitor adolescents for “problematic” social media use. We asked experts for some realistic and effective ways to do this.  <a href="https://nyti.ms/44Y8zB3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 15, Central Standard Time</sub></sub>
+<p>The surgeon general has warned that it can pose a “profound risk” to the mental health of adolescents. We asked experts what problematic use could look like.  <a href="https://nyti.ms/42UedTr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>McCarthy, Bracing for Defections, Eyes a Fraught Path to a Debt Limit Deal</h3>
+<sub>By Catie Edmondson and Luke Broadwater</sub>
+<p>With right-wing Republicans all but certain to oppose any bipartisan compromise, the speaker has a narrow path to push one through the closely divided House.  <a href="https://nyti.ms/3Wz2nMi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>White House Pushes to Save Key Covid Programs in Debt Ceiling Talks</h3>
+<sub>By Noah Weiland and Benjamin Mueller</sub>
+<p>The Biden administration has prioritized preserving a $5 billion vaccine development program in discussions with House Republicans on clawing back unspent Covid-19 funds.  <a href="https://nyti.ms/3N2hkDv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>DeSantis Set to Announce 2024 Run on Twitter With Elon Musk</h3>
 <sub>By Shane Goldmacher, Maggie Haberman, Ryan Mac and Nicholas Nehamas</sub>
 <p>Adding a twist to the beginning of his presidential campaign, the Florida governor is expected to appear on a live audio conversation with Mr. Musk, the social platform’s owner, on Wednesday evening.  <a href="https://nyti.ms/3BOlw3c"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis Floats ‘7-2 Conservative Majority’ on Supreme Court</h3>
-<sub>By Nicholas Nehamas</sub>
-<p>With his 2024 campaign imminent, Ron DeSantis pointed to how he could tilt the court further to the right. He also highlighted his ability to serve for eight years as president, unlike Donald Trump.  <a href="https://nyti.ms/45mSJ37"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -99,9 +111,15 @@ Closer to home, there’s been news around Catholic churches-namely that in Illi
 <sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>China and Russia, Targets at G7 Summit, Draw Closer to Fend Off West</h3>
-<sub>By David Pierson and Chris Buckley</sub>
-<p>Beijing and Moscow are holding visits this week as alarm grows in China that Western countries backing Ukraine are turning their attention to Asia.  <a href="https://nyti.ms/3q62v9O"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Anti-Kremlin Fighters Take War to Russian Territory for a Second Day</h3>
+<sub>By Andrew E. Kramer, Valerie Harper and Michael Schwirtz</sub>
+<p>The cross-border attacks by fighters aligned with Ukraine were an effort to force Russia’s military to divert troops from the front line, an official said.  <a href="https://nyti.ms/3oqKZwm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Pro-Ukraine Forces Appear to Have Used U.S.-Made Armored Vehicles in Incursion Into Russia</h3>
+<sub>By Riley Mellen</sub>
+<p>At least three of what appeared to be American-made tactical vehicles known as MRAPs were part of the cross-border attack. According to visual evidence, Russia captured two of them.  <a href="https://nyti.ms/3WwIW6H"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -110,35 +128,11 @@ Closer to home, there’s been news around Catholic churches-namely that in Illi
 <p>Ukrainian pilots have a lot to learn before they can start using U.S.-made fighter jets, but experts say it might take less time than once thought.  <a href="https://nyti.ms/3ICS9V9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russian Court Orders American Journalist Jailed Through August</h3>
-<sub>By Roger Cohen</sub>
-<p>The Wall Street Journal reporter Evan Gershkovich has been held at the notoriously harsh Lefortovo jail since his arrest on March 29 during a reporting trip to the central Russian city of Yekaterinburg.  <a href="https://nyti.ms/3qaRX9d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
 <h3>The Castle Where Future Queens Drop the Royal Act</h3>
 <sub>By Elizabeth Paton</sub>
 <p>At Atlantic College, a school in a 12th-century castle clinging to the windy Welsh coastline, teenage royals take classes on world peace.  <a href="https://nyti.ms/43mZGzD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>How One Uvalde Family Learned to Grieve in Public</h3>
-<sub>By Jaeah Lee</sub>
-<p>After their 10-year-old was killed at Robb Elementary a year ago, Kimberly Garcia and Angel Garza had to face unimaginable loss without the solace of privacy.  <a href="https://nyti.ms/3Wvrbor"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Sex Abuse in Catholic Church: Over 1,900 Minors Abused in Illinois, State Says</h3>
-<sub>By Ruth Graham</sub>
-<p>A new report by the attorney general of Illinois covering decades names more than 450 credibly accused sexual abusers, including priests and lay religious brothers.  <a href="https://nyti.ms/3OyQYtK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Lessons From a Renters’ Utopia</h3>
-<sub>By Francesca Mari and Luca Locatelli</sub>
-<p>Worldwide, housing has become a nightmare of expense and speculation. What did Vienna do right?  <a href="https://nyti.ms/45qtpt5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
