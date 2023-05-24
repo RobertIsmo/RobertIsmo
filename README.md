@@ -60,7 +60,15 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, May 24, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now, for example in China there is increased scrutiny of cultural activities and performances have been canceled due to an investigation into a stand-up comedian. In the US, there is an upcoming debt limit deal that has Democrats and Republicans divided and there is worries about the potential default on US debt affecting the nation&#39;s credit rating. In Texas, there is an ongoing conflict between the Attorney General and House Speaker and heated debate about how to respond to a mass shooting from last year. Meanwhile in sports, MLB has introduced some new rules which are speeding up games and changing how the game is played.</p>
+There is growing scrutiny of cultural expression in China, where a comedian was recently investigated and performances were cancelled across the country. Meanwhile, a new report has revealed that employees of the popular app TikTok share users&#39; private information, such as licenses, photos, and addresses. 
+
+In the US, federal spending paths are threatened by a potential debt ceiling deal and House Speaker McCarthy has called for government spending cuts. Treasury Secretary Yellen warns of missed payments if the ceiling is not lifted and a Texas GOP split has broken out with accusations of drunkenness. Meanwhile, Ron De Santis&#39; power grabs as Florida governor and his plan to amass $200 million to beat Donald Trump in 2024 presidential elections have been making news headlines. 
+
+At home in New York City, we&#39;re seeing conflict between a financier and hedge fund mogul over SoHo rooftop renovations as well as an impending homelessness crisis several months after Mayor Eric Adams&#39; housing official resigned. 
+
+On the international level, Russians have spilled so much blood trying to seize control of Ukraine&#39;s city Bakmut that analysts think Russia&#39;s exhausted forces will settle into a defensive rule in preparation for Kayr&#39;s counteroffensive. 
+
+Finally, there&#39;s some exciting news in science - a paralyzed man can walk again with implants connecting his intentions to physical movements!</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>As China Ramps Up Scrutiny of Culture, the Show Does Not Go On</h3>
@@ -75,45 +83,21 @@ There is a lot going on in the world right now, for example in China there is in
 <sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>McCarthy, Bracing for Defections, Eyes a Fraught Path to a Debt Limit Deal</h3>
-<sub>By Catie Edmondson and Luke Broadwater</sub>
-<p>With right-wing Republicans all but certain to oppose any bipartisan compromise, the speaker has a narrow path to push one through the closely divided House.  <a href="https://nyti.ms/3Wz2nMi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Default on U.S. Debt Risks ‘Permanently’ Denting Nation’s Credit Rating</h3>
-<sub>By Joe Rennison</sub>
-<p>If the government misses an interest payment, even by a few hours, its creditworthiness will suffer, possibly for a long time.  <a href="https://nyti.ms/43m5NE1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Potential Debt Ceiling Deal Would Barely Change Federal Spending Path</h3>
+<sub>By Jim Tankersley</sub>
+<p>Negotiators have focused on a relatively small corner of the budget, shunning new revenues or cuts to the fastest-growing programs  <a href="https://nyti.ms/43qGj8u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>This Is What ‘Productive’ Looks Like in Washington as Default Deadline Looms</h3>
-<sub>By Katie Rogers</sub>
-<p>A debt crisis could be only a week away — practically an eternity in a town governed by the threat of catastrophic deadlines.  <a href="https://nyti.ms/3IyywxK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>McCarthy Renews Call for Spending Cuts as Debt Talks Resume at White House</h3>
+<sub>By Carl Hulse and Catie Edmondson</sub>
+<p>With a potential default just over a week away, the House speaker is maintaining pressure for a rollback in spending in exchange for raising the borrowing limit.  <a href="https://nyti.ms/3MTKvZ9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>After Uvalde, a Cemetery Anchors Families of Victims</h3>
-<sub>Photographs and Text by Tamir Kalifa</sub>
-<p>A year after 19 children and two teachers were killed at a Texas elementary school, families of the victims have bonded through memories, grief and action.  <a href="https://nyti.ms/424p4ch"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Year After the Uvalde Massacre: Did Anything Change?</h3>
-<sub>By Edgar Sandoval</sub>
-<p>After a failed police response to the shooting deaths of 19 students and two teachers in Uvalde, Texas, there were calls for accountability and new gun laws.  <a href="https://nyti.ms/3q9KveH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis Allies’ $200 Million Plan for Beating Trump</h3>
-<sub>By Shane Goldmacher, Jonathan Swan and Maggie Haberman</sub>
-<p>As the Florida governor prepares to enter the 2024 race, his allies are building an army of organizers to flood the states with the first nominating contests.  <a href="https://nyti.ms/3WtODlG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>Why It’s Far Too Soon to Say DeSantis Is Done</h3>
-<sub>By Nate Cohn</sub>
-<p>Despite his struggles, fortunes can change very quickly in presidential primaries.  <a href="https://nyti.ms/43oLkyI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Yellen Warns of Missed Payments if Debt Limit Is Not Lifted</h3>
+<sub>By Alan Rappeport</sub>
+<p>The Treasury secretary said the Biden administration would face “very tough choices” if Congress did not act.  <a href="https://nyti.ms/3BPww0h"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -122,16 +106,40 @@ There is a lot going on in the world right now, for example in China there is in
 <p>Attorney General Ken Paxton’s accusation against the House speaker came as the House investigated Mr. Paxton’s request for $3.3 million to settle a suit accusing him of corruption.  <a href="https://nyti.ms/3q2jKIV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>M.L.B.’s New Rules Have Baseball in Overdrive</h3>
-<sub>By Tyler Kepner</sub>
-<p>Players are stealing more bases, more balls are falling for hits and games are nearly 30 minutes faster than they were last year. Like them or not, the rules are accomplishing their goals.  <a href="https://nyti.ms/3BQvDEq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Amassing Power, DeSantis Maximized Might of Governor’s Office</h3>
+<sub>By Patricia Mazzei</sub>
+<p>Ron DeSantis methodically expanded his powers and pushed legal boundaries to enact his policies. He suggests he would do the same as president.  <a href="https://nyti.ms/437kJ9u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>How New Rules Turned Back the Clock on Baseball</h3>
-<sub>By Ben Blatt and Francesca Paris</sub>
-<p>Visualizing the effect of changes two months into the season.  <a href="https://nyti.ms/3BUPCSs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>DeSantis Allies’ $200 Million Plan for Beating Trump</h3>
+<sub>By Shane Goldmacher, Jonathan Swan and Maggie Haberman</sub>
+<p>As the Florida governor prepares to enter the 2024 race, his allies are building an army of organizers to flood the states with the first nominating contests.  <a href="https://nyti.ms/3WtODlG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>It’s Millionaire vs. Billionaire in the Battle of the SoHo Pergola</h3>
+<sub>By Katherine Rosman</sub>
+<p>The rooftop of a historic building is the focus of a renovation skirmish between Federico Pignatelli, a financier, and Ray Dalio, the hedge-fund mogul.  <a href="https://nyti.ms/43nc56x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>New York City’s Housing Chief Is Resigning Amid a Homelessness Crisis</h3>
+<sub>By Mihir Zaveri and Jeffery C. Mays</sub>
+<p>A day after Mayor Eric Adams said he would oppose an effort to reduce homelessness by increasing the number of housing vouchers, his top housing official said she would step down.  <a href="https://nyti.ms/3WDAbYE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>What’s Next for Russia After Spilling So Much Blood for Bakhmut?</h3>
+<sub>By Thomas Gibbons-Neff</sub>
+<p>Seizing the city took 10 months and untold lives. Most likely, analysts say, Russia’s exhausted forces will settle into a defensive crouch, preparing for Ukraine’s counteroffensive.  <a href="https://nyti.ms/3oqW5Bx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>A Paralyzed Man Can Walk Naturally Again With Brain and Spine Implants</h3>
+<sub>By Oliver Whang</sub>
+<p>In a new study, researchers describe a device that connects the intentions of a paralyzed patient to his physical movements.  <a href="https://nyti.ms/3MzXpdm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
 <hr/>
 </ol>
