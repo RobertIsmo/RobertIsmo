@@ -60,32 +60,8 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, May 25, Central Standard Time</p>
 <p>
-Right now there&#39;s a lot going on in the US and abroad. President Trump and Ron DeSantis are clashing over key policy issues leading up to the election in November. Elon Musk had an event with DeSantis, which ended up exposing the weaknesses of Twitter. In Florida, the Governor&#39;s wife Casey DeSantis is getting involved in major state projects, and looking to join her husband on the presidential trail. Overseas, Russian warplanes are using old bombs that nearly impossible to shoot down in Ukraine, while their success at Bakhmut could mean a tougher war for Ukraine. Finally, police violence against Black people has caused massive psychological strain over the past three years since George Floyd&#39;s murder. From a business perspective, China&#39;s housing crisis is a symbol of excess growth as too many apartments have been built compared to population size.  And when it comes to kids learning how to read, schools and educators may need convincing when it comes to changing up traditional practices even with a country-wide effort. Lastly, Reid Hoffman, a billionaire Silicon Valley investor who co-founded LinkedIn is taking on A.I projects that look to improve humanity.</p>
+There are several major events happening in the world right now. In Ukraine, Russian warplanes have been dropping Soviet-era bombs that are almost impossible to shoot down. In Turkey, President Erdogan has been using monuments and TV shows to rally his voters and censor or jail cultural opponents who disagree with him. Also, the Supreme Court has limited the Environmental Protection Agency&#39;s power to address water pollution. In the US, Ron DeSantis has announced a presidential bid and Casey DeSantis is preparing to join him on the campaign trail. Microsoft president Brad Smith is calling for rules to minimize risks associated with artificial intelligence. And lastly, Tina Turner’s life and legacy was commemorated through photos following her passing.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Policy Fights Where DeSantis Sees His Chance to Hit Trump</h3>
-<sub>By Jonathan Swan, Maggie Haberman and Nicholas Nehamas</sub>
-<p>Donald Trump and Ron DeSantis are staking out conflicting positions on major issues, setting up an ideological battle that will play out over the next eight months.  <a href="https://nyti.ms/42cevnj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Five Takeaways From a Rocky 2024 Debut</h3>
-<sub>By Jonathan Swan, Shane Goldmacher and Maggie Haberman</sub>
-<p>Ron DeSantis’s long-awaited entry into the presidential race showed some potential strengths as a Republican candidate, after an embarrassing start on Twitter.  <a href="https://nyti.ms/43oIdqj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Elon Musk’s Event With Ron DeSantis Exposes Twitter’s Weaknesses</h3>
-<sub>By Ryan Mac</sub>
-<p>What was supposed to be a crowning moment for Mr. Musk’s Twitter turned into a series of technical glitches.  <a href="https://nyti.ms/3qbk8Fd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Florida’s First Lady, and Second in Command</h3>
-<sub>By Katie Glueck</sub>
-<p>Casey DeSantis has advised her husband on media strategy and taken on some of the state’s big issues. The presidential campaign trail is next.  <a href="https://nyti.ms/3onYDAD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Russia’s Old Bombs Elude Ukraine’s Modern Defenses</h3>
 <sub>By Jeffrey Gettleman and Eric Schmitt</sub>
@@ -98,17 +74,47 @@ Right now there&#39;s a lot going on in the US and abroad. President Trump and R
 <p>Moscow has declared victory in its long, bloody assault. But a full capture of the ruined city may not help Russian forces advance deeper in the Donbas region.  <a href="https://nyti.ms/3WxXNO5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Elon Musk’s Event With Ron DeSantis Exposes Twitter’s Weaknesses</h3>
+<sub>By Ryan Mac</sub>
+<p>What was supposed to be a crowning moment for Mr. Musk’s Twitter turned into a series of technical glitches.  <a href="https://nyti.ms/3qbk8Fd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Policy Fights Where DeSantis Sees His Chance to Hit Trump</h3>
+<sub>By Jonathan Swan, Maggie Haberman and Nicholas Nehamas</sub>
+<p>Donald Trump and Ron DeSantis are staking out conflicting positions on major issues, setting up an ideological battle that will play out over the next eight months.  <a href="https://nyti.ms/42cevnj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Five Takeaways From a Rocky 2024 Debut</h3>
+<sub>By Jonathan Swan, Shane Goldmacher and Maggie Haberman</sub>
+<p>Ron DeSantis’s long-awaited entry into the presidential race showed some potential strengths as a Republican candidate, after an embarrassing start on Twitter.  <a href="https://nyti.ms/43oIdqj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Florida’s First Lady, and Second in Command</h3>
+<sub>By Katie Glueck</sub>
+<p>Casey DeSantis has advised her husband on media strategy and taken on some of the state’s big issues. The presidential campaign trail is next.  <a href="https://nyti.ms/3onYDAD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Supreme Court Limits E.P.A.’s Power to Address Water Pollution</h3>
+<sub>By Adam Liptak</sub>
+<p>The justices ruled that discharges into some wetlands are not covered by the Clean Water Act.  <a href="https://nyti.ms/434PlbO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>How Erdogan Reoriented Turkish Culture to Maintain His Power</h3>
+<sub>By Jason Farago</sub>
+<p>Turkey’s president has made a spectacle of the Ottoman past, using monuments and TV shows to rally his voters. His cultural opponents have faced censorship, or jail.  <a href="https://nyti.ms/3BW3Dzy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-well-blue" alt="">
 <h3>The Toll of Police Violence on Black People’s Mental Health</h3>
 <sub>By Patia Braithwaite and Tiffanie Graham</sub>
 <p>Three years after the murder of George Floyd, The Times spoke to more than 100 people about the ongoing psychological strain.  <a href="https://nyti.ms/3MW6E9c"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Tina Turner, Magnetic Singer of Explosive Power, Is Dead at 83</h3>
-<sub>By William Grimes</sub>
-<p>Hailed in the 1960s for her dynamic performances with her first husband, Ike, she became a sensation as a recording artist, often echoing her personal struggles in her songs.  <a href="https://nyti.ms/436kXh0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Highways Have Sliced Through City After City. Can the U.S. Undo the Damage?</h3>
@@ -116,22 +122,16 @@ Right now there&#39;s a lot going on in the US and abroad. President Trump and R
 <p>The Biden administration is funding projects around the country aimed at reconnecting communities that have been divided by transportation infrastructure.  <a href="https://nyti.ms/45wRu1y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Once a Symbol of China’s Growth, Now a Sign of a Housing Crisis</h3>
-<sub>By Daisuke Wakabayashi and Claire Fu</sub>
-<p>Nanchang’s skyscrapers represented urban transformation, but the city added apartments faster than its population grew. The result: vacant homes and offices.  <a href="https://nyti.ms/45xDxAg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>The Surprising Obstacle to Overhauling How Children Learn to Read</h3>
-<sub>By Troy Closson</sub>
-<p>New York is the latest large city to join a national push to change how children are taught to read. But principals and teachers may resist uprooting old practices.  <a href="https://nyti.ms/3MCirIv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>Tina Turner: A Life in Photos</h3>
+<sub>By Jacob Bernstein</sub>
+<p>A performer who leveraged fringe, sequins and sparkles to electrifying effect onstage.  <a href="https://nyti.ms/3MBtlho"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Reid Hoffman Is on a Mission: To Show A.I. Can Improve Humanity</h3>
-<sub>By Erin Griffith</sub>
-<p>Few are as involved in so many different artificial intelligence efforts as Mr. Hoffman, a Silicon Valley investor who co-founded LinkedIn.  <a href="https://nyti.ms/3q9qDZc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Microsoft Calls for A.I. Rules to Minimize the Technology’s Risks</h3>
+<sub>By David McCabe</sub>
+<p>Its president, Brad Smith, said companies needed to “step up” and governments needed to “move faster” as artificial intelligence progressed.  <a href="https://nyti.ms/3oztZ7h"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
 <hr/>
 </ol>
