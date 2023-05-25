@@ -60,18 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, May 24, Central Standard Time</p>
 <p>
-Right now, it seems like a lot of high-powered individuals are making news headlines. In the US, we have Ron DeSantis, the Governor of Florida, who is expanding his power in office and suggesting he&#39;ll do so if elected President. In entertainment news, Tina Turner has sadly passed away at 83 after inspiring many with her dynamic performances and echoing her personal struggles in her songs. Meanwhile, Ukrainians are suspected of a drone attack in Russia and there have been reports of Chinese malware targeting Guam; but some suggest Taiwan may be the true target. And in Texas, there&#39;s a battle between GOP leaders Attorney General Ken Paxton and House speaker over corruption and drunkenness allegations. Finally, we have millionaires vs billionaires as Federico Pignatelli and Ray Dalio fight over control of a historic building in SoHo, New York.</p>
+There is a lot going on across the world right now. First, Elon Musk had an event with Ron DeSantis that ended up showing Twitter’s weaknesses. Next, Tina Turner, an iconic and dynamic singer of explosive power, recently passed away at the age of 83. In more political news, US officials believe Ukrainians were likely behind an attack using Kremlin drones. Additionally, attackers taunted the Kremlin in a cross-border raid in Russia from Ukraine. With gun policy in the US though, there is no end to the national divide over it with some legal challenges and legislative debates playing out across the country. On top of that President Biden marked a year since a tragic elementary school shooting in Uvalde, Texas where 19 children and two teachers lost their lives renewing calls for tighter gun regulations. There was also a recent Chinese malware attack on systems on Guam determined to have been perpetuated by their government, with many speculating Taiwan was the real target. As for more financial news, there is currently a battle between Federico Pignatelli a millionaire and Ray Dalio, a billionaire over renovation plans for a historic rooftop in SoHo. Lastly, there has been amazing progress in science recently with scientists creating a device connecting paralyzed patients&#39; intentions to their physical movements enabling them to walk again! On top of all this, with so many people traveling this summer (fingers crossed), flight attendants are coming out with etiquette rules like never taking off your socks on flights!</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Amassing Power, DeSantis Maximized Might of Governor’s Office</h3>
-<sub>By Patricia Mazzei</sub>
-<p>Ron DeSantis methodically expanded his powers and pushed legal boundaries to enact his policies. He suggests he would do the same as president.  <a href="https://nyti.ms/437kJ9u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>DeSantis Picked Twitter Spaces to Announce His Run. What Is It?</h3>
+<h3>Elon Musk’s Event With Ron DeSantis Exposes Twitter’s Weaknesses</h3>
 <sub>By Ryan Mac</sub>
-<p>The Florida governor is set to announce that he will be running for president on Twitter Spaces, a live audio streaming platform on Twitter where people gather and talk online in real time.  <a href="https://nyti.ms/3OD1n7V"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>What was supposed to be a crowning moment for Mr. Musk’s Twitter turned into a series of technical glitches.  <a href="https://nyti.ms/3qbk8Fd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
@@ -80,16 +74,34 @@ Right now, it seems like a lot of high-powered individuals are making news headl
 <p>Hailed in the 1960s for her dynamic performances with her first husband, Ike, she became a sensation as a recording artist, often echoing her personal struggles in her songs.  <a href="https://nyti.ms/436kXh0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Tina Turner Is Remembered as a Resilient Trailblazer</h3>
-<sub>By Michael Levenson and April Rubin</sub>
-<p>Many said her music and her life story were inspirations as she overcame abuse during her marriage to Ike Turner and emerged as a star on her own.  <a href="https://nyti.ms/3MzDw67"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Ukrainians Were Likely Behind Kremlin Drone Attack, U.S. Officials Say</h3>
 <sub>By Julian E. Barnes, Adam Entous, Eric Schmitt and Anton Troianovski</sub>
 <p>American spy agencies do not know exactly who carried out the attack this month, but suggest it was part of a series of covert operations orchestrated by Ukraine’s security services.  <a href="https://nyti.ms/3ovGwsq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Fresh From Attack on Russian Soil, Raiders Taunt the Kremlin</h3>
+<sub>By Andrew E. Kramer and Valerie Hopkins</sub>
+<p>The cross-border raid by Russian fighters based in Ukraine appeared intended in part to force Moscow to divert its soldiers from the battlefield.  <a href="https://nyti.ms/3MzuypD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Capitols and Courthouses, No End to National Divide Over Gun Policy</h3>
+<sub>By Shaila Dewan</sub>
+<p>After the Supreme Court ruled last year that people could carry guns outside their homes, legal challenges and legislative debates have been playing out across the country.  <a href="https://nyti.ms/3IDrSGm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>After Uvalde, a Cemetery Anchors Families of Victims</h3>
+<sub>Photographs and Text by Tamir Kalifa</sub>
+<p>A year after 19 children and two teachers were killed at a Texas elementary school, families of the victims have bonded through memories, grief and action.  <a href="https://nyti.ms/424p4ch"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Marks Uvalde Anniversary With Renewed Call to ‘Do Something’</h3>
+<sub>By Peter Baker</sub>
+<p>In a somber address, the president reiterated a push for tighter gun regulations but offered no new ideas for how to overcome entrenched opposition.  <a href="https://nyti.ms/3q8hRum"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -98,40 +110,28 @@ Right now, it seems like a lot of high-powered individuals are making news headl
 <p>The code, which Microsoft said was installed by a Chinese government hacking group, set off alarms because Guam would be a centerpiece of any U.S. military response to a move against Taiwan.  <a href="https://nyti.ms/3q7Jbch"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Cultural Crackdown in China Shuts Comedy and Music Shows</h3>
-<sub>By Vivian Wang</sub>
-<p>Performances across the country were canceled last week after Beijing began investigating a stand-up comedian.  <a href="https://nyti.ms/3WxJrgD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Driver’s Licenses, Addresses, Photos: Inside How TikTok Shares User Data</h3>
-<sub>By Sapna Maheshwari and Ryan Mac</sub>
-<p>Employees of the Chinese-owned video app have regularly posted user information on a messaging and collaboration tool called Lark, according to internal documents.  <a href="https://nyti.ms/45w7f94"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Potential Debt Ceiling Deal Would Barely Change Federal Spending Path</h3>
 <sub>By Jim Tankersley</sub>
 <p>Negotiators have focused on a relatively small corner of the budget, shunning new revenues or cuts to the fastest-growing programs  <a href="https://nyti.ms/43qGj8u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>McCarthy Renews Call for Spending Cuts as Debt Talks Resume at White House</h3>
-<sub>By Carl Hulse and Catie Edmondson</sub>
-<p>With a potential default just over a week away, the House speaker is maintaining pressure for a rollback in spending in exchange for raising the borrowing limit.  <a href="https://nyti.ms/3MTKvZ9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Texas G.O.P. Leaders Clash Over Accusations of Corruption and Drunkenness</h3>
-<sub>By J. David Goodman and David Montgomery</sub>
-<p>Attorney General Ken Paxton accused the Republican House speaker of being intoxicated, as he suggested that lawmakers were preparing to impeach him over corruption allegations.  <a href="https://nyti.ms/3q2jKIV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>It’s Millionaire vs. Billionaire in the Battle of the SoHo Pergola</h3>
 <sub>By Katherine Rosman</sub>
 <p>The rooftop of a historic building is the focus of a renovation skirmish between Federico Pignatelli, a financier, and Ray Dalio, the hedge-fund mogul.  <a href="https://nyti.ms/43nc56x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>A Paralyzed Man Can Walk Naturally Again With Brain and Spine Implants</h3>
+<sub>By Oliver Whang</sub>
+<p>In a new study, researchers describe a device that connects the intentions of a paralyzed patient to his physical movements.  <a href="https://nyti.ms/3MzXpdm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-travel-blue" alt="">
+<h3>‘Never a Reason to Take Off Your Socks’: A Flight Attendant’s 12 Etiquette Rules</h3>
+<sub>By Kristie Koerbel</sub>
+<p>Air travel is going to be busy this summer. With some common sense and courtesy, could flying be … pleasant?  <a href="https://nyti.ms/3opRnUP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
 <hr/>
 </ol>
