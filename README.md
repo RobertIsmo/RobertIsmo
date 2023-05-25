@@ -60,18 +60,28 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, May 25, Central Standard Time</p>
 <p>
-It looks like news is really heating up in the US and around the world. A leader of the Oath Keepers was sentenced to 18 years for sedition related to the Capitol attack, and talks over debt-limit spending are underway between Biden and Republicans. In other international news, Russia is continuing its military campaign against Ukraine, while Turkey&#39;s President Erdogan is using culture to rally his voters. Closer to home, there was an NYPD chokehold case in which a man has taken responsibility and will soon be testifying before a grand jury. Cultural icons such as Tina Turner have also been making news lately, since it&#39;s hard to believe she&#39;s gone.</p>
+There seems to be a lot of international tension right now. The US Navy has released a report detailing serious problems at a brutal SEAL training course, including overzealous instructors, unchecked drug use, and inadequate leadership and medical oversight. Meanwhile in Russia, their old bombs have continued to elude Ukraine&#39;s modern defenses.
+
+Closer to home, Republicans and Democrats are negotiating on debt limit talks while the Supreme Court has ruled that states are not eligible for windfalls in tax disputes. In politics, Florida&#39;s Governor Ron DeSantis is making a flurry of friendly interviews and going on tour, while the fashioning of his wife Casey DeSantis has been drawing comparisons to famous political couples.
+
+Finally, there is tragedy in New York when a woman was shoved into a train due to the precarious and terrifying state of the city post pandemic. Other stories paint a picture of things going wrong; a luxury wine store is accused of owing $2.8 million in unpaid sales taxes.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Navy Report Details How Problems Mounted at Brutal SEAL Course</h3>
+<sub>By Dave Philipps</sub>
+<p>Overzealous instructors, unchecked drug use, and inadequate leadership and medical oversight turned a tough selection course into a dangerous ordeal, investigators found.  <a href="https://nyti.ms/42dnsg9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Death in Navy SEAL Training Exposes a Culture of Brutality, Cheating and Drugs</h3>
+<sub>By Dave Philipps</sub>
+<p>The elite force’s selection course is so punishing that few make it through, and many of those who do resort to illicit tactics.  <a href="https://nyti.ms/3cspGVt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 30, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Oath Keepers Leader Is Sentenced to 18 Years in Jan. 6 Sedition Case</h3>
 <sub>By Alan Feuer</sub>
 <p>The sentence for Stewart Rhodes was the longest so far in the federal investigation of the Capitol attack and the first issued to a defendant convicted of sedition.  <a href="https://nyti.ms/3qd4md2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Military Spending Emerges as Big Dispute in Debt-Limit Talks</h3>
-<sub>By Jim Tankersley</sub>
-<p>President Biden has offered to freeze discretionary spending, including for defense. Republicans want to spend more for the military, and cut more elsewhere.  <a href="https://nyti.ms/425phfm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -80,10 +90,10 @@ It looks like news is really heating up in the US and around the world. A leader
 <p>Negotiators reconvened on Thursday after working through the night to strike a deal, as hard-right Republicans and some Democrats expressed concerns about the shape of an emerging compromise.  <a href="https://nyti.ms/3q8ZDZV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia’s Old Bombs Elude Ukraine’s Modern Defenses</h3>
-<sub>By Jeffrey Gettleman and Eric Schmitt</sub>
-<p>Ukrainian and American officials say Russian warplanes are dropping Soviet-era bombs, some modified to glide long distances, which are almost impossible to shoot down.  <a href="https://nyti.ms/45xDuEA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Military Spending Emerges as Big Dispute in Debt-Limit Talks</h3>
+<sub>By Jim Tankersley</sub>
+<p>President Biden has offered to freeze discretionary spending, including for defense. Republicans want to spend more for the military, and cut more elsewhere.  <a href="https://nyti.ms/425phfm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -101,7 +111,13 @@ It looks like news is really heating up in the US and around the world. A leader
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Supreme Court Limits E.P.A.’s Power to Address Water Pollution</h3>
 <sub>By Adam Liptak</sub>
-<p>The justices ruled that many wetlands are not covered by the Clean Water Act.  <a href="https://nyti.ms/434PlbO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Experts said the decision would sharply undercut the agency’s authority to protect millions of acres of wetlands under the Clean Water Act, leaving them subject to pollution without penalty.  <a href="https://nyti.ms/434PlbO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>States Are Not Entitled to Windfalls in Tax Disputes, Supreme Court Rules</h3>
+<sub>By Adam Liptak</sub>
+<p>In a unanimous decision, the justices sided with a 94-year-old woman who got nothing when the state sold her condominium to recoup unpaid taxes.  <a href="https://nyti.ms/3Wz1iny"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -110,28 +126,16 @@ It looks like news is really heating up in the US and around the world. A leader
 <p>Sherry-Lehmann, a longtime purveyor of luxury wines, owes New York State $2.8 million in unpaid sales taxes — and its customers an explanation.  <a href="https://nyti.ms/3WxxK9I"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>How Erdogan Reoriented Turkish Culture to Maintain His Power</h3>
-<sub>By Jason Farago</sub>
-<p>Turkey’s president has made a spectacle of the Ottoman past, using monuments and TV shows to rally his voters. His cultural opponents have faced censorship, or jail.  <a href="https://nyti.ms/3BW3Dzy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russia’s Old Bombs Elude Ukraine’s Modern Defenses</h3>
+<sub>By Jeffrey Gettleman and Eric Schmitt</sub>
+<p>Ukrainian and American officials say Russian warplanes are dropping Soviet-era bombs, some modified to glide long distances, which are almost impossible to shoot down.  <a href="https://nyti.ms/45xDuEA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>The Precarious, Terrifying Hours After a Woman Was Shoved Into a Train</h3>
 <sub>By Hurubie Meko</sub>
 <p>Emine Yilmaz Ozsoy has been partially paralyzed and is in critical condition, surrounded by an improvised web of support. Her story embodies New York’s post-pandemic fears and challenges.  <a href="https://nyti.ms/42a8RlP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Daniel Penny Plans to Testify Before Grand Jury in Subway Chokehold Case</h3>
-<sub>By Jonah E. Bromwich and Michael Wilson</sub>
-<p>Daniel Penny, charged with manslaughter in the killing of Jordan Neely, is expected to argue that he acted in self-defense.  <a href="https://nyti.ms/3MW0l5D"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Tornado. Treasure. There Was Nobody Like Tina Turner.</h3>
-<sub>By Wesley Morris</sub>
-<p>She enthralled the masses like she was a wonder of the world, bringing her singular electricity to songs about survival, freedom and bravery. It’s hard to believe she’s gone.  <a href="https://nyti.ms/43qwLuh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
 <hr/>
 </ol>
