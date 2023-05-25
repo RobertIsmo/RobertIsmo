@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Wednesday, May 24, Central Standard Time</p>
+<p>It is Thursday, May 25, Central Standard Time</p>
 <p>
-It&#39;s been a really eventful week in the world! In the US, there are debates over gun policy and debt ceiling deals changing federal spending. In Florida, Elon Musk had a meeting with Ron DeSantis which exposed Twitter&#39;s technical glitches. There was a cross-border raid by Russian fighters based in Ukraine to force Moscow to divert its soldiers from the battlefield. In Capitols and Courtrooms, no end in sight for US national divide over gun policy. Tina Turner, the magnetic singer of explosive power sadly passed away at 83. A paralyzed man has been able to walk again with groundbreaking brain and spine implants. Lastly in Soho NYC, there is a renovation skirmish between two rich magnates.</p>
+There&#39;s a lot going on in the world right now. Technology is the center stage, with Elon Musk having a technical glitch during an event with the Governor of Florida. People are fact-checking claims made by a Republican candidate who recently launched his campaign for president. It&#39;s also been reported that Tina Turner, an iconic magnetic singer, has passed away at the age of 83. Over in Russia, there was a cross-border raid by Russian fighters that caused tensions to rise and has prompted some to call for war. Meanwhile in the US, there&#39;s confusion over who exactly was behind a drone attack in Russia and there are gun policy debates going on across several states. In Texas, a cemetery is currently anchoring families of victims from an elementary school shooting that happened last year. There&#39;s also been reports of Chinese malware being found on Guam - though many suspect it might be targeting Taiwan - as well as a potential debt ceiling deal that will only make small changes to federal spending. And finally, researchers have made a major breakthrough with paralyzed patients - they&#39;ve created an implant that connects the patients&#39; intentions with their physical movements, allowing them to walk again naturally!</p>
 <ol>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Elon Musk’s Event With Ron DeSantis Exposes Twitter’s Weaknesses</h3>
@@ -69,9 +69,15 @@ It&#39;s been a really eventful week in the world! In the US, there are debates 
 <sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Fact-Checking DeSantis’s Opening Bid for the Presidency</h3>
+<h3>Fact-Checking DeSantis’s Opening Bid for the White House</h3>
 <sub>By Linda Qiu</sub>
 <p>We assessed the Republican candidate’s defense of his record as Florida governor, his dispute with Disney and his attack on President Biden.  <a href="https://nyti.ms/3oCJXNQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Five Takeaways From a Rocky 2024 Debut</h3>
+<sub>By Jonathan Swan, Shane Goldmacher and Maggie Haberman</sub>
+<p>Ron DeSantis’s long-awaited entry into the presidential race showed some potential strengths as a Republican candidate, after an embarrassing start on Twitter.  <a href="https://nyti.ms/43oIdqj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
@@ -120,12 +126,6 @@ It&#39;s been a really eventful week in the world! In the US, there are debates 
 <h3>Potential Debt Ceiling Deal Would Barely Change Federal Spending Path</h3>
 <sub>By Jim Tankersley</sub>
 <p>Negotiators have focused on a relatively small corner of the budget, shunning new revenues or cuts to the fastest-growing programs  <a href="https://nyti.ms/43qGj8u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>It’s Millionaire vs. Billionaire in the Battle of the SoHo Pergola</h3>
-<sub>By Katherine Rosman</sub>
-<p>The rooftop of a historic building is the focus of a renovation skirmish between Federico Pignatelli, a financier, and Ray Dalio, the hedge-fund mogul.  <a href="https://nyti.ms/43nc56x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
