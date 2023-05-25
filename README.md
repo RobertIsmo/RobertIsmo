@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, May 25, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. Technology is the center stage, with Elon Musk having a technical glitch during an event with the Governor of Florida. People are fact-checking claims made by a Republican candidate who recently launched his campaign for president. It&#39;s also been reported that Tina Turner, an iconic magnetic singer, has passed away at the age of 83. Over in Russia, there was a cross-border raid by Russian fighters that caused tensions to rise and has prompted some to call for war. Meanwhile in the US, there&#39;s confusion over who exactly was behind a drone attack in Russia and there are gun policy debates going on across several states. In Texas, a cemetery is currently anchoring families of victims from an elementary school shooting that happened last year. There&#39;s also been reports of Chinese malware being found on Guam - though many suspect it might be targeting Taiwan - as well as a potential debt ceiling deal that will only make small changes to federal spending. And finally, researchers have made a major breakthrough with paralyzed patients - they&#39;ve created an implant that connects the patients&#39; intentions with their physical movements, allowing them to walk again naturally!</p>
+It looks like there are a lot of interesting developments happening around the world. Elon Musk had an event with Ron DeSantis that exposed some weaknesses in Twitter&#39;s technical infrastructure. We&#39;re fact-checking DeSantis&#39;s opening bid for the White House, and it looks like he had a rocky debut during his 2024 presidential campaign. Iconic singer Tina Turner passed away last week at 83 years old. Meanwhile, a cross-border raid by Russian fighters in Ukraine has taunted the Kremlin. There is speculation that Ukrainians were behind the drone attack in Russia, and debates over gun policy continue to divide the nation. In Texas, many have been impacted by the school shooting in Uvalde last year, and are being connected through memories and grief. To top it off, there was Chinese malware detected on Guam recently, resulting in speculations that Taiwan could be the real target. Scientists also made an incredible breakthrough in restoring motor functions to a paralyzed man! Finally, travel etiquette rules are going to be especially important this summer as the industry booms again.</p>
 <ol>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Elon Musk’s Event With Ron DeSantis Exposes Twitter’s Weaknesses</h3>
@@ -90,12 +90,6 @@ There&#39;s a lot going on in the world right now. Technology is the center stag
 <h3>Fresh From Attack on Russian Soil, Raiders Taunt the Kremlin</h3>
 <sub>By Andrew E. Kramer and Valerie Hopkins</sub>
 <p>The cross-border raid by Russian fighters based in Ukraine appeared intended in part to force Moscow to divert its soldiers from the battlefield.  <a href="https://nyti.ms/3MzuypD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Wagner group forecasts disaster if Russia does not move into total war footing.</h3>
-<sub>By Valerie Hopkins</sub>
-<p>Yevgeny Prigozhin has been ramping up pressure on Russia’s military leadership and extending his criticism to the country’s moneyed elites.  <a href="https://nyti.ms/3q8yBSm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -132,6 +126,12 @@ There&#39;s a lot going on in the world right now. Technology is the center stag
 <h3>A Paralyzed Man Can Walk Naturally Again With Brain and Spine Implants</h3>
 <sub>By Oliver Whang</sub>
 <p>In a new study, researchers describe a device that connects the intentions of a paralyzed patient to his physical movements.  <a href="https://nyti.ms/3MzXpdm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-travel-blue" alt="">
+<h3>‘Never a Reason to Take Off Your Socks’: A Flight Attendant’s 12 Etiquette Rules</h3>
+<sub>By Kristie Koerbel</sub>
+<p>Air travel is going to be busy this summer. With some common sense and courtesy, could flying be … pleasant?  <a href="https://nyti.ms/3opRnUP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
 <hr/>
 </ol>
