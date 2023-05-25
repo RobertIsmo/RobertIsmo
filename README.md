@@ -60,48 +60,54 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, May 25, Central Standard Time</p>
 <p>
-There are several major events happening in the world right now. In Ukraine, Russian warplanes have been dropping Soviet-era bombs that are almost impossible to shoot down. In Turkey, President Erdogan has been using monuments and TV shows to rally his voters and censor or jail cultural opponents who disagree with him. Also, the Supreme Court has limited the Environmental Protection Agency&#39;s power to address water pollution. In the US, Ron DeSantis has announced a presidential bid and Casey DeSantis is preparing to join him on the campaign trail. Microsoft president Brad Smith is calling for rules to minimize risks associated with artificial intelligence. And lastly, Tina Turner’s life and legacy was commemorated through photos following her passing.</p>
+It looks like news is really heating up in the US and around the world. A leader of the Oath Keepers was sentenced to 18 years for sedition related to the Capitol attack, and talks over debt-limit spending are underway between Biden and Republicans. In other international news, Russia is continuing its military campaign against Ukraine, while Turkey&#39;s President Erdogan is using culture to rally his voters. Closer to home, there was an NYPD chokehold case in which a man has taken responsibility and will soon be testifying before a grand jury. Cultural icons such as Tina Turner have also been making news lately, since it&#39;s hard to believe she&#39;s gone.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Oath Keepers Leader Is Sentenced to 18 Years in Jan. 6 Sedition Case</h3>
+<sub>By Alan Feuer</sub>
+<p>The sentence for Stewart Rhodes was the longest so far in the federal investigation of the Capitol attack and the first issued to a defendant convicted of sedition.  <a href="https://nyti.ms/3qd4md2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Military Spending Emerges as Big Dispute in Debt-Limit Talks</h3>
+<sub>By Jim Tankersley</sub>
+<p>President Biden has offered to freeze discretionary spending, including for defense. Republicans want to spend more for the military, and cut more elsewhere.  <a href="https://nyti.ms/425phfm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Republicans Report Progress in Debt Limit Talks as Negotiations Continue</h3>
+<sub>By Catie Edmondson</sub>
+<p>Negotiators reconvened on Thursday after working through the night to strike a deal, as hard-right Republicans and some Democrats expressed concerns about the shape of an emerging compromise.  <a href="https://nyti.ms/3q8ZDZV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Russia’s Old Bombs Elude Ukraine’s Modern Defenses</h3>
 <sub>By Jeffrey Gettleman and Eric Schmitt</sub>
 <p>Ukrainian and American officials say Russian warplanes are dropping Soviet-era bombs, some modified to glide long distances, which are almost impossible to shoot down.  <a href="https://nyti.ms/45xDuEA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>What Does Russia’s Success in Bakhmut Mean for the War in Ukraine?</h3>
-<sub>By Cora Engelbrecht</sub>
-<p>Moscow has declared victory in its long, bloody assault. But a full capture of the ruined city may not help Russian forces advance deeper in the Donbas region.  <a href="https://nyti.ms/3WxXNO5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>DeSantis Plows Ahead With Whirlwind of Friendly Interviews and a Tour</h3>
+<sub>By Nicholas Nehamas, Maggie Astor and Alan Blinder</sub>
+<p>Trying to regroup after a bumpy Twitter rollout, Ron DeSantis sought to make new headlines, suggesting that he might consider pardoning Donald Trump if he faced federal charges.  <a href="https://nyti.ms/3otl72Y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Elon Musk’s Event With Ron DeSantis Exposes Twitter’s Weaknesses</h3>
-<sub>By Ryan Mac</sub>
-<p>What was supposed to be a crowning moment for Mr. Musk’s Twitter turned into a series of technical glitches.  <a href="https://nyti.ms/3qbk8Fd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Policy Fights Where DeSantis Sees His Chance to Hit Trump</h3>
-<sub>By Jonathan Swan, Maggie Haberman and Nicholas Nehamas</sub>
-<p>Donald Trump and Ron DeSantis are staking out conflicting positions on major issues, setting up an ideological battle that will play out over the next eight months.  <a href="https://nyti.ms/42cevnj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Five Takeaways From a Rocky 2024 Debut</h3>
-<sub>By Jonathan Swan, Shane Goldmacher and Maggie Haberman</sub>
-<p>Ron DeSantis’s long-awaited entry into the presidential race showed some potential strengths as a Republican candidate, after an embarrassing start on Twitter.  <a href="https://nyti.ms/43oIdqj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Florida’s First Lady, and Second in Command</h3>
-<sub>By Katie Glueck</sub>
-<p>Casey DeSantis has advised her husband on media strategy and taken on some of the state’s big issues. The presidential campaign trail is next.  <a href="https://nyti.ms/3onYDAD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>The Strategic Fashioning of Casey DeSantis</h3>
+<sub>By Vanessa Friedman</sub>
+<p>With an eye to the Kennedys, and the Trumps. Sometimes, a wardrobe is a strategy.  <a href="https://nyti.ms/43lrOD6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Supreme Court Limits E.P.A.’s Power to Address Water Pollution</h3>
 <sub>By Adam Liptak</sub>
-<p>The justices ruled that discharges into some wetlands are not covered by the Clean Water Act.  <a href="https://nyti.ms/434PlbO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The justices ruled that many wetlands are not covered by the Clean Water Act.  <a href="https://nyti.ms/434PlbO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>An Iconic Wine Store and the Mystery of the Missing Bottles</h3>
+<sub>By James B. Stewart</sub>
+<p>Sherry-Lehmann, a longtime purveyor of luxury wines, owes New York State $2.8 million in unpaid sales taxes — and its customers an explanation.  <a href="https://nyti.ms/3WxxK9I"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
@@ -110,28 +116,22 @@ There are several major events happening in the world right now. In Ukraine, Rus
 <p>Turkey’s president has made a spectacle of the Ottoman past, using monuments and TV shows to rally his voters. His cultural opponents have faced censorship, or jail.  <a href="https://nyti.ms/3BW3Dzy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>The Toll of Police Violence on Black People’s Mental Health</h3>
-<sub>By Patia Braithwaite and Tiffanie Graham</sub>
-<p>Three years after the murder of George Floyd, The Times spoke to more than 100 people about the ongoing psychological strain.  <a href="https://nyti.ms/3MW6E9c"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>The Precarious, Terrifying Hours After a Woman Was Shoved Into a Train</h3>
+<sub>By Hurubie Meko</sub>
+<p>Emine Yilmaz Ozsoy has been partially paralyzed and is in critical condition, surrounded by an improvised web of support. Her story embodies New York’s post-pandemic fears and challenges.  <a href="https://nyti.ms/42a8RlP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Highways Have Sliced Through City After City. Can the U.S. Undo the Damage?</h3>
-<sub>By Mark Walker</sub>
-<p>The Biden administration is funding projects around the country aimed at reconnecting communities that have been divided by transportation infrastructure.  <a href="https://nyti.ms/45wRu1y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Daniel Penny Plans to Testify Before Grand Jury in Subway Chokehold Case</h3>
+<sub>By Jonah E. Bromwich and Michael Wilson</sub>
+<p>Daniel Penny, charged with manslaughter in the killing of Jordan Neely, is expected to argue that he acted in self-defense.  <a href="https://nyti.ms/3MW0l5D"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>Tina Turner: A Life in Photos</h3>
-<sub>By Jacob Bernstein</sub>
-<p>A performer who leveraged fringe, sequins and sparkles to electrifying effect onstage.  <a href="https://nyti.ms/3MBtlho"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Microsoft Calls for A.I. Rules to Minimize the Technology’s Risks</h3>
-<sub>By David McCabe</sub>
-<p>Its president, Brad Smith, said companies needed to “step up” and governments needed to “move faster” as artificial intelligence progressed.  <a href="https://nyti.ms/3oztZ7h"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Tornado. Treasure. There Was Nobody Like Tina Turner.</h3>
+<sub>By Wesley Morris</sub>
+<p>She enthralled the masses like she was a wonder of the world, bringing her singular electricity to songs about survival, freedom and bravery. It’s hard to believe she’s gone.  <a href="https://nyti.ms/43qwLuh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
 <hr/>
 </ol>
