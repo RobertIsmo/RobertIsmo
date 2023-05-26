@@ -60,12 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, May 25, Central Standard Time</p>
 <p>
-There is a lot of news going on right now. Congress is currently in the process of negotiating a deal to raise the debt limit and cut spending. A newly appointed Democratic leader, Hakeem Jeffries, is facing his first test as an elected official. An investigation into the US Navy SEAL course found evidence of brutal and unchecked behavior. Additionally, Republican presidential candidate Ron DeSantis has been trying to regain momentum by raising $8.2 million and appearing in friendly interviews, but his Twitter event had limited reach relative to other live streams in the past. It&#39;s also been recommended that Texas Attorney General Ken Paxton face impeachment for abuse of office, and a leader of the Oath Keepers was sentenced to 18 years for sedition related to the Capitol attack. Lastly, a Mar-a-Lago worker provided authorities with new evidence in a case involving former president Donald Trump&#39;s documents. Finally, there was a recent incident with a woman in NYC who was shoved into a train and has been left partially paralyzed and in critical condition, an example of New Yorkers&#39; post-pandemic fears.</p>
+There&#39;s a lot going on in the world right now. Politically, there are negotiations taking place between the White House and the GOP to reach a deal on raising the debt limit and cutting spending. There&#39;s also been a lot of attention on the new Democratic leader, Hakeem Jeffries, as he takes his first big test since taking over for Nancy Pelosi. Over in the Navy, there&#39;s been an investigation uncovering a lot of issues with an elite force selection course, including brutality, cheating, and drug use. Regarding criminal cases, there&#39;s been an impeachment vote against Texas Attorney General Ken Paxton due to his alleged abuses of office. Also in terms of criminal activity, one of the leaders of the Oath Keepers was recently sentenced to 18 years in prison for seditious conspiracy related to the Jan. 6 attack on the Capitol. Meanwhile, a woman in New York was shoved into a train recently and is now partially paralyzed as many are increasingly fearful of staying safe in New York after the pandemic. Lastly, there&#39;ve been some big announcements this week from former President Trump&#39;s Mar-a-Lago resort and from Republican presidential candidate Ron DeSantis who have both recently raised large amounts of money from supporters.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>White House and G.O.P. Close In on Deal to Raise Debt Limit and Cut Spending</h3>
 <sub>By Jim Tankersley and Catie Edmondson</sub>
-<p>The details had yet to be finalized, but negotiators were discussing a compromise that would allow Republicans to point to spending reductions and Democrats to say they had protected against large cuts.  <a href="https://nyti.ms/3q8ZDZV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The details were not finalized, but negotiators were discussing a compromise that would allow Republicans to point to spending reductions and Democrats to say they had prevented large cuts.  <a href="https://nyti.ms/3q8ZDZV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -87,33 +87,27 @@ There is a lot of news going on right now. Congress is currently in the process 
 <sub><sub>Tuesday, August 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis Campaign Says It Raised $8.2 Million in First 24 Hours</h3>
-<sub>By Shane Goldmacher</sub>
-<p>The cash haul points to the strengths Ron DeSantis will have in taking on Donald Trump.  <a href="https://nyti.ms/3Wyl9TI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis Plows Ahead With Whirlwind of Friendly Interviews and a Tour</h3>
-<sub>By Nicholas Nehamas, Maggie Astor and Alan Blinder</sub>
-<p>Trying to regroup after a bumpy Twitter rollout, Ron DeSantis sought to make new headlines, suggesting that he might consider pardoning Donald Trump if he faced federal charges.  <a href="https://nyti.ms/3otl72Y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>DeSantis’s Twitter Event Falls Short of the Reach of Past Livestreams</h3>
-<sub>By Ryan Mac and Tiffany Hsu</sub>
-<p>The Republican presidential candidate’s announcement on Twitter had a high of about 300,000 concurrent listeners and a total of 3.4 million listeners as of Thursday.  <a href="https://nyti.ms/3Mw9SPr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>The Strategic Fashioning of Casey DeSantis</h3>
-<sub>By Vanessa Friedman</sub>
-<p>With an eye to the Kennedys, and the Trumps. Sometimes, a wardrobe is a strategy.  <a href="https://nyti.ms/43lrOD6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Texas Panel Recommends Impeachment of Attorney General Ken Paxton</h3>
+<h3>Texas Panel Files Articles of Impeachment Against State Attorney General</h3>
 <sub>By J. David Goodman</sub>
-<p>The Republican-led House committee said Mr. Paxton’s abuses of office rose to the level of possible crimes that warranted an impeachment vote.  <a href="https://nyti.ms/3OG3dF8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The Republican-led House committee said Ken Paxton’s abuses of office rose to the level of possible crimes that warranted an impeachment vote.  <a href="https://nyti.ms/3OG3dF8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>The Precarious, Terrifying Hours After a Woman Was Shoved Into a Train</h3>
+<sub>By Hurubie Meko</sub>
+<p>Emine Yilmaz Ozsoy has been partially paralyzed and is in critical condition, surrounded by an improvised web of support. Her story embodies New York’s post-pandemic fears and challenges.  <a href="https://nyti.ms/42a8RlP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Mar-a-Lago Worker Provided Prosecutors New Details in Trump Documents Case</h3>
+<sub>By Alan Feuer and Maggie Haberman</sub>
+<p>A maintenance worker for the former president recounted helping to move boxes into a storage room a day before a Justice Department official came seeking the return of classified material.  <a href="https://nyti.ms/45tInP4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Wagner Says It Is Leaving Bakhmut, Posing Challenge for Russia</h3>
+<sub>By Ivan Nechepurenko and Marc Santora</sub>
+<p>After seizing the city in eastern Ukraine after a long, brutal fight, the Wagner mercenary force is turning it over to the depleted Russian Army to defend.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -123,15 +117,21 @@ There is a lot of news going on right now. Congress is currently in the process 
 <sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Mar-a-Lago Worker Provided Prosecutors New Details in Trump Documents Case</h3>
-<sub>By Alan Feuer and Maggie Haberman</sub>
-<p>A maintenance worker for the former president recounted helping to move boxes into a storage room a day before a Justice Department official came seeking the return of classified material.  <a href="https://nyti.ms/45tInP4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>How the Crime of Seditious Conspiracy Is Different From Insurrection and Treason</h3>
+<sub>By Charlie Savage</sub>
+<p>A sentencing for a sedition conviction in the Jan. 6 attack on the Capitol spotlights subtle differences within a suite of related criminal offenses.  <a href="https://nyti.ms/3CflFNr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>The Precarious, Terrifying Hours After a Woman Was Shoved Into a Train</h3>
-<sub>By Hurubie Meko</sub>
-<p>Emine Yilmaz Ozsoy has been partially paralyzed and is in critical condition, surrounded by an improvised web of support. Her story embodies New York’s post-pandemic fears and challenges.  <a href="https://nyti.ms/42a8RlP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>DeSantis Campaign Says It Raised $8.2 Million in First 24 Hours</h3>
+<sub>By Shane Goldmacher</sub>
+<p>The cash haul points to the strengths Ron DeSantis will have in taking on Donald Trump.  <a href="https://nyti.ms/3Wyl9TI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>DeSantis’s Twitter Event Falls Short of the Reach of Past Livestreams</h3>
+<sub>By Ryan Mac and Tiffany Hsu</sub>
+<p>The Republican presidential candidate’s announcement on Twitter had a high of about 300,000 concurrent listeners and a total of 3.4 million listeners as of Thursday.  <a href="https://nyti.ms/3Mw9SPr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
 <hr/>
 </ol>
