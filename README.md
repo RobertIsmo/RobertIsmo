@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, May 26, Central Standard Time</p>
 <p>
-I&#39;ve been keeping up with the news lately, and here&#39;s what I can tell you. There seems to be a lot going on in the US with people losing Medicaid coverage since pandemic protections expired, and there have also been reports of fraudulent activity going on around stimulus programs like the Employee Retention Credit. There&#39;s also a potential deal being worked on between the White House and the GOP to raise the debt limit and cut spending. Overseas, there are elections taking place in Turkey, and President Erdogan is campaigning to be re-elected with promises to lead Turkey to being a global superpower. In Germany, they’re discussing whether or not Ukraine should be allowed to enter NATO for similar reasons. In real estate, it looks like the Hamptons is losing its cool with younger people due to housing rules and costs. Lastly, there appears to be some reckoning going on for JPMorgan due to its long ties with Jeffrey Epstein.</p>
+There is a lot of political news happening right now. The US government has been dropping people from their Medicaid programs due to pandemic-related expenses, and there&#39;s a new tax credit that&#39;s becoming a magnet for fraud. The White House and GOP are also close to reaching an agreement to raise the debt limit and cut spending. Meanwhile, the Federal Reserve has been raising rates, while gasoline prices are on the decline and consumer spending rose more than expected. And internationally, Turkey&#39;s President Erdogan is campaigning hard ahead of a runoff election this Sunday, while being praised for deploying various tactics for amassing more power over the past 20 years. Lastly, a Mar-a-Lago worker has come forward with details on a Justice Department case against former President Trump.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Hundreds of Thousands Have Lost Medicaid Coverage Since Pandemic Protections Expired</h3>
@@ -69,7 +69,7 @@ I&#39;ve been keeping up with the news lately, and here&#39;s what I can tell yo
 <sub><sub>Friday, May 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How a Pandemic-Era Program Became a Magnet for Fraud</h3>
+<h3>This Little-Known Pandemic-Era Tax Credit Has Become a Magnet for Fraud</h3>
 <sub>By Alan Rappeport</sub>
 <p>The Employee Retention Credit has spawned a cottage industry of firms claiming to help businesses access stimulus funds, often in violation of federal rules.  <a href="https://nyti.ms/3WEhhRd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 26, Central Standard Time</sub></sub>
@@ -80,28 +80,10 @@ I&#39;ve been keeping up with the news lately, and here&#39;s what I can tell yo
 <p>The details were not finalized, but negotiators were discussing a compromise that would allow Republicans to point to spending reductions and Democrats to say they had prevented large cuts.  <a href="https://nyti.ms/3q8ZDZV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Debt Limit Crisis Looms as First Big Test for New Democratic Leader</h3>
-<sub>By Carl Hulse</sub>
-<p>Hakeem Jeffries, the New Yorker who succeeded Nancy Pelosi this year as the House’s top Democrat, is getting a trial by fire.  <a href="https://nyti.ms/3MWOa8s"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Is a Debt Deal Nigh? The Market Sees Signs of Optimism.</h3>
-<sub>By Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
-<p>Stock and bond trading suggest that investors see an imminent deal to raise the debt limit and prevent the federal government from defaulting.  <a href="https://nyti.ms/3qglwGp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>On Erdogan Campaign Trail, Invoking God, Reciting Poetry, Bashing Foes</h3>
-<sub>By Ben Hubbard and Gulsin Harman</sub>
-<p>President Recep Tayyip Erdogan has rock star appeal at his election rallies, promising to lead Turkey to claim its rightful place as a global power if he is re-elected in a runoff on Sunday.  <a href="https://nyti.ms/43b5hJE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Erdogan Amassed Power Over 20 Years, Leveraging Crisis After Crisis</h3>
-<sub>By Alan Yuhas</sub>
-<p>Turkey’s leader faced a criminal conviction, mass protests and a coup. Instead of hurting or ending his political career, they helped him accumulate ever more control.  <a href="https://nyti.ms/3BXJpVW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>It’s Not Just the Debt Ceiling</h3>
+<sub>By Jeff Sommer</sub>
+<p>A host of issues face the markets, beyond the prospect of a possible default on U.S. debt. Hedge your bets and ride it out, our columnist says.  <a href="https://nyti.ms/3IHBArm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-realestate-blue" alt="">
@@ -117,21 +99,39 @@ I&#39;ve been keeping up with the news lately, and here&#39;s what I can tell yo
 <sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Mar-a-Lago Worker Provided Prosecutors New Details in Trump Documents Case</h3>
-<sub>By Alan Feuer and Maggie Haberman</sub>
-<p>A maintenance worker for the former president recounted helping to move boxes into a storage room a day before a Justice Department official came seeking the return of classified material.  <a href="https://nyti.ms/45tInP4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>If a Divided Germany Could Enter NATO, Why Not Ukraine?</h3>
-<sub>By Steven Erlanger</sub>
-<p>West Germany joined NATO in 1955, choosing security over immediate territorial integrity. Some suggest the same path could be the best guarantee for Ukraine.  <a href="https://nyti.ms/3BZtCWA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Inflation Inched Higher in April, Reflecting Challenge for the Fed</h3>
+<sub>By Madeleine Ngo</sub>
+<p>The Federal Reserve’s preferred inflation gauge, the Personal Consumption Expenditures index, climbed 4.4 percent in April, a slight increase from March.  <a href="https://nyti.ms/3MW8jKX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>JPMorgan Faces Reckoning for Long Ties With Jeffrey Epstein</h3>
-<sub>By Matthew Goldstein</sub>
-<p>Two lawsuits claim that the nation’s largest bank ignored signs about Jeffrey Epstein’s sex trafficking because it was profiting from its relationship with him.  <a href="https://nyti.ms/3IH2zU1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Gasoline Prices, a Source of Pain Last Year, Have Come Way Down</h3>
+<sub>By Clifford Krauss</sub>
+<p>Reasons include a stronger supply of oil and weaker-than-expected demand, energy experts say. Some people are saving hundreds of dollars on fuel.  <a href="https://nyti.ms/3J4Kwaz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Consumer Spending Rose More Than Expected in April</h3>
+<sub>By Ben Casselman</sub>
+<p>New data on spending and income suggest that the economy remains robust despite the Federal Reserve’s interest rate increases.  <a href="https://nyti.ms/45rZyRf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>On Erdogan Campaign Trail, Invoking God, Reciting Poetry, Bashing Foes</h3>
+<sub>By Ben Hubbard and Gulsin Harman</sub>
+<p>President Recep Tayyip Erdogan has rock star appeal at his election rallies, promising to lead Turkey to claim its rightful place as a global power if he is re-elected in a runoff on Sunday.  <a href="https://nyti.ms/43b5hJE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Erdogan Amassed Power Over 20 Years, Leveraging Crisis After Crisis</h3>
+<sub>By Alan Yuhas</sub>
+<p>Turkey’s leader faced a criminal conviction, mass protests and a coup. Instead of hurting or ending his political career, they helped him accumulate ever more control.  <a href="https://nyti.ms/3BXJpVW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Mar-a-Lago Worker Provided Prosecutors New Details in Trump Documents Case</h3>
+<sub>By Alan Feuer and Maggie Haberman</sub>
+<p>A maintenance worker for the former president recounted helping to move boxes into a storage room a day before a Justice Department official came seeking the return of classified material.  <a href="https://nyti.ms/45tInP4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
 <hr/>
 </ol>
