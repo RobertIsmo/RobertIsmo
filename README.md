@@ -60,18 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, May 26, Central Standard Time</p>
 <p>
-There is a lot of political news happening right now. The US government has been dropping people from their Medicaid programs due to pandemic-related expenses, and there&#39;s a new tax credit that&#39;s becoming a magnet for fraud. The White House and GOP are also close to reaching an agreement to raise the debt limit and cut spending. Meanwhile, the Federal Reserve has been raising rates, while gasoline prices are on the decline and consumer spending rose more than expected. And internationally, Turkey&#39;s President Erdogan is campaigning hard ahead of a runoff election this Sunday, while being praised for deploying various tactics for amassing more power over the past 20 years. Lastly, a Mar-a-Lago worker has come forward with details on a Justice Department case against former President Trump.</p>
+There&#39;s a lot going on in the world right now. The US government is in the middle of a deal to raise the debt limit and cut spending. Hundreds of thousands of people have lost Medicaid coverage since pandemic protections expired and some businesses have been taking advantage of a tax credit that&#39;s become a magnet for fraud. On top of that, there appears to be a decline in support for Russia&#39;s war in Ukraine, as evidence suggests people are feeling uneasy about the casualties from the war. Meanwhile, inflation has been creeping up which is putting pressure on the Federal Reserve. In other news, people are surprised by the success of a novel about video games and Ashley Judd reflected on the past year of mourning the loss of her mother who died by suicide.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Hundreds of Thousands Have Lost Medicaid Coverage Since Pandemic Protections Expired</h3>
-<sub>By Noah Weiland</sub>
-<p>As states begin to drop people from their Medicaid programs, early data shows that many recipients are losing their coverage for procedural reasons.  <a href="https://nyti.ms/3q6of5f"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>This Little-Known Pandemic-Era Tax Credit Has Become a Magnet for Fraud</h3>
-<sub>By Alan Rappeport</sub>
-<p>The Employee Retention Credit has spawned a cottage industry of firms claiming to help businesses access stimulus funds, often in violation of federal rules.  <a href="https://nyti.ms/3WEhhRd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>How a Default Could Unfold</h3>
+<sub>By Joe Rennison and Alan Rappeport</sub>
+<p>Here’s a look at what markets are expecting and planning for, and how a default might happen.  <a href="https://nyti.ms/3WAjnS2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -84,6 +78,18 @@ There is a lot of political news happening right now. The US government has been
 <h3>It’s Not Just the Debt Ceiling</h3>
 <sub>By Jeff Sommer</sub>
 <p>A host of issues face the markets, beyond the prospect of a possible default on U.S. debt. Hedge your bets and ride it out, our columnist says.  <a href="https://nyti.ms/3IHBArm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Hundreds of Thousands Have Lost Medicaid Coverage Since Pandemic Protections Expired</h3>
+<sub>By Noah Weiland</sub>
+<p>As states begin to drop people from their Medicaid programs, early data shows that many recipients are losing their coverage for procedural reasons.  <a href="https://nyti.ms/3q6of5f"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>This Little-Known Pandemic-Era Tax Credit Has Become a Magnet for Fraud</h3>
+<sub>By Alan Rappeport</sub>
+<p>The Employee Retention Credit has spawned a cottage industry of firms claiming to help businesses access stimulus funds, often in violation of federal rules.  <a href="https://nyti.ms/3WEhhRd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-realestate-blue" alt="">
@@ -99,40 +105,34 @@ There is a lot of political news happening right now. The US government has been
 <sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Inflation Inched Higher in April, Reflecting Challenge for the Fed</h3>
-<sub>By Madeleine Ngo</sub>
-<p>The Federal Reserve’s preferred inflation gauge, the Personal Consumption Expenditures index, climbed 4.4 percent in April, a slight increase from March.  <a href="https://nyti.ms/3MW8jKX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Gasoline Prices, a Source of Pain Last Year, Have Come Way Down</h3>
-<sub>By Clifford Krauss</sub>
-<p>Reasons include a stronger supply of oil and weaker-than-expected demand, energy experts say. Some people are saving hundreds of dollars on fuel.  <a href="https://nyti.ms/3J4Kwaz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Consumer Spending Rose More Than Expected in April</h3>
-<sub>By Ben Casselman</sub>
-<p>New data on spending and income suggest that the economy remains robust despite the Federal Reserve’s interest rate increases.  <a href="https://nyti.ms/45rZyRf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Russian Public Appears to Be Souring on War Casualties, Analysis Shows</h3>
+<sub>By Julian E. Barnes</sub>
+<p>Support for the war in Ukraine remains high but could potentially turn if concern over the high numbers of casualties persists, according to FilterLabs AI.  <a href="https://nyti.ms/3OG8uME"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>On Erdogan Campaign Trail, Invoking God, Reciting Poetry, Bashing Foes</h3>
-<sub>By Ben Hubbard and Gulsin Harman</sub>
-<p>President Recep Tayyip Erdogan has rock star appeal at his election rallies, promising to lead Turkey to claim its rightful place as a global power if he is re-elected in a runoff on Sunday.  <a href="https://nyti.ms/43b5hJE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Erdogan Amassed Power Over 20 Years, Leveraging Crisis After Crisis</h3>
-<sub>By Alan Yuhas</sub>
-<p>Turkey’s leader faced a criminal conviction, mass protests and a coup. Instead of hurting or ending his political career, they helped him accumulate ever more control.  <a href="https://nyti.ms/3BXJpVW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Russian forces blow up a dam, in the latest apparent use of flooding as a tactic of war.</h3>
+<sub>By Andrew E. Kramer and Maria Varenikova</sub>
+<p>  <a href="https://nyti.ms/435wXPS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Mar-a-Lago Worker Provided Prosecutors New Details in Trump Documents Case</h3>
-<sub>By Alan Feuer and Maggie Haberman</sub>
-<p>A maintenance worker for the former president recounted helping to move boxes into a storage room a day before a Justice Department official came seeking the return of classified material.  <a href="https://nyti.ms/45tInP4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
+<h3>Inflation Inched Higher in April, Reflecting Challenge for the Fed</h3>
+<sub>By Madeleine Ngo and Ben Casselman</sub>
+<p>The Federal Reserve’s preferred inflation gauge, the Personal Consumption Expenditures index, climbed 4.4 percent in April, a slight increase from March.  <a href="https://nyti.ms/3MW8jKX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-books-blue" alt="">
+<h3>How a Novel About Video Games Became a Surprise Best Seller</h3>
+<sub>By Alexandra Alter</sub>
+<p>Gabrielle Zevin didn’t expect a wide audience for “Tomorrow, and Tomorrow, and Tomorrow,” her novel about game developers. It became a blockbuster with staying power.  <a href="https://nyti.ms/3C2sXDK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>Ashley Judd Reflects on a Year of Grief</h3>
+<sub>By Christina Caron</sub>
+<p>The actress and mental health advocate shares how she coped while mourning the loss of her mother, the country music singer Naomi Judd, who died by suicide.  <a href="https://nyti.ms/3IJyfYF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 26, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
