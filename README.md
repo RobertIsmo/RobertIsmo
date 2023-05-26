@@ -60,37 +60,43 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, May 26, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. The US government is in the middle of a deal to raise the debt limit and cut spending. Hundreds of thousands of people have lost Medicaid coverage since pandemic protections expired and some businesses have been taking advantage of a tax credit that&#39;s become a magnet for fraud. On top of that, there appears to be a decline in support for Russia&#39;s war in Ukraine, as evidence suggests people are feeling uneasy about the casualties from the war. Meanwhile, inflation has been creeping up which is putting pressure on the Federal Reserve. In other news, people are surprised by the success of a novel about video games and Ashley Judd reflected on the past year of mourning the loss of her mother who died by suicide.</p>
+There is a lot of news happening in the world right now. The US Treasury Department has estimated that it will run out of cash by June 5, and the White House and Republicans are trying to come to an agreement on raising the debt ceiling or else face a possible default. There is also a vote set for this weekend on the impeachment of Texas Attorney General Ken Paxton, and recently an Oath Keepers leader was sentenced to 18 years in prison for a rarely charged crime. On top of that, there&#39;s been discussion about the changing culture in the Hamptons, and how increasingly strict housing rules are turning away younger people from wanting to live there. We&#39;re also seeing evidence that Russia may be using flooding as a tactic of war, and behind it all is a blockbuster novel about video games doing incredibly well in sales. Finally, Ashley Judd is sharing her reflections on her year of grief after losing her mother, who died by suicide.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How a Default Could Unfold</h3>
+<h3>Treasury Expects to Run Out of Cash by June 5</h3>
+<sub>By Alan Rappeport</sub>
+<p>The latest estimate is a slight extension from the previous June 1 deadline and comes as Republicans and the White House are trying to reach an agreement to raise the debt ceiling and avoid a crippling default.  <a href="https://nyti.ms/3N1nELr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Debt Ceiling Crisis: How a Default Could Unfold</h3>
 <sub>By Joe Rennison and Alan Rappeport</sub>
 <p>Here’s a look at what markets are expecting and planning for, and how a default might happen.  <a href="https://nyti.ms/3WAjnS2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>White House and G.O.P. Close In on Deal to Raise Debt Limit and Cut Spending</h3>
-<sub>By Jim Tankersley and Catie Edmondson</sub>
-<p>The details were not finalized, but negotiators were discussing a compromise that would allow Republicans to point to spending reductions and Democrats to say they had prevented large cuts.  <a href="https://nyti.ms/3q8ZDZV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>$38.8 Billion in U.S. Treasury? For These Billionaires, That’s Nothing</h3>
+<sub>By Linda Qiu</sub>
+<p>The cash balance at the Treasury Department is now lower than the net worth of some of the world’s richest people.  <a href="https://nyti.ms/3MzAqiJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Impeachment Vote Set for Texas Attorney General Ken Paxton: What to Know</h3>
+<sub>By Jacey Fortin and J. David Goodman</sub>
+<p>The Texas House is set to vote on Saturday on the impeachment of Mr. Paxton, the culmination of years of official complaints and legal proceedings involving the three-term attorney general.  <a href="https://nyti.ms/3N1lPhz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Sedition Sentence for Oath Keepers Leader Marks Moment of Accountability</h3>
+<sub>By Alan Feuer</sub>
+<p>The 18 years in prison given to Stewart Rhodes for a rarely charged crime underscored the lengths to which the Justice Department and the courts have gone in addressing the assault on the Capitol.  <a href="https://nyti.ms/43uox4p"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How the Crime of Seditious Conspiracy Is Different From Insurrection and Treason</h3>
+<sub>By Charlie Savage</sub>
+<p>A sentencing for a sedition conviction in the Jan. 6 attack on the Capitol spotlights subtle differences within a suite of related criminal offenses.  <a href="https://nyti.ms/3CflFNr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>It’s Not Just the Debt Ceiling</h3>
-<sub>By Jeff Sommer</sub>
-<p>A host of issues face the markets, beyond the prospect of a possible default on U.S. debt. Hedge your bets and ride it out, our columnist says.  <a href="https://nyti.ms/3IHBArm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Hundreds of Thousands Have Lost Medicaid Coverage Since Pandemic Protections Expired</h3>
-<sub>By Noah Weiland</sub>
-<p>As states begin to drop people from their Medicaid programs, early data shows that many recipients are losing their coverage for procedural reasons.  <a href="https://nyti.ms/3q6of5f"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>This Little-Known Pandemic-Era Tax Credit Has Become a Magnet for Fraud</h3>
-<sub>By Alan Rappeport</sub>
-<p>The Employee Retention Credit has spawned a cottage industry of firms claiming to help businesses access stimulus funds, often in violation of federal rules.  <a href="https://nyti.ms/3WEhhRd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-realestate-blue" alt="">
 <h3>Are the Hamptons Still Hip?</h3>
@@ -114,12 +120,6 @@ There&#39;s a lot going on in the world right now. The US government is in the m
 <h3>Russian forces blow up a dam, in the latest apparent use of flooding as a tactic of war.</h3>
 <sub>By Andrew E. Kramer and Maria Varenikova</sub>
 <p>  <a href="https://nyti.ms/435wXPS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Inflation Inched Higher in April, Reflecting Challenge for the Fed</h3>
-<sub>By Madeleine Ngo and Ben Casselman</sub>
-<p>The Federal Reserve’s preferred inflation gauge, the Personal Consumption Expenditures index, climbed 4.4 percent in April, a slight increase from March.  <a href="https://nyti.ms/3MW8jKX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-books-blue" alt="">
