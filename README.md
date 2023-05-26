@@ -60,14 +60,22 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, May 25, Central Standard Time</p>
 <p>
-There seems to be a lot of international tension right now. The US Navy has released a report detailing serious problems at a brutal SEAL training course, including overzealous instructors, unchecked drug use, and inadequate leadership and medical oversight. Meanwhile in Russia, their old bombs have continued to elude Ukraine&#39;s modern defenses.
-
-Closer to home, Republicans and Democrats are negotiating on debt limit talks while the Supreme Court has ruled that states are not eligible for windfalls in tax disputes. In politics, Florida&#39;s Governor Ron DeSantis is making a flurry of friendly interviews and going on tour, while the fashioning of his wife Casey DeSantis has been drawing comparisons to famous political couples.
-
-Finally, there is tragedy in New York when a woman was shoved into a train due to the precarious and terrifying state of the city post pandemic. Other stories paint a picture of things going wrong; a luxury wine store is accused of owing $2.8 million in unpaid sales taxes.</p>
+There is a lot of news going on right now. Congress is currently in the process of negotiating a deal to raise the debt limit and cut spending. A newly appointed Democratic leader, Hakeem Jeffries, is facing his first test as an elected official. An investigation into the US Navy SEAL course found evidence of brutal and unchecked behavior. Additionally, Republican presidential candidate Ron DeSantis has been trying to regain momentum by raising $8.2 million and appearing in friendly interviews, but his Twitter event had limited reach relative to other live streams in the past. It&#39;s also been recommended that Texas Attorney General Ken Paxton face impeachment for abuse of office, and a leader of the Oath Keepers was sentenced to 18 years for sedition related to the Capitol attack. Lastly, a Mar-a-Lago worker provided authorities with new evidence in a case involving former president Donald Trump&#39;s documents. Finally, there was a recent incident with a woman in NYC who was shoved into a train and has been left partially paralyzed and in critical condition, an example of New Yorkers&#39; post-pandemic fears.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Navy Report Details How Problems Mounted at Brutal SEAL Course</h3>
+<h3>White House and G.O.P. Close In on Deal to Raise Debt Limit and Cut Spending</h3>
+<sub>By Jim Tankersley and Catie Edmondson</sub>
+<p>The details had yet to be finalized, but negotiators were discussing a compromise that would allow Republicans to point to spending reductions and Democrats to say they had protected against large cuts.  <a href="https://nyti.ms/3q8ZDZV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Debt Limit Crisis Looms as First Big Test for New Democratic Leader</h3>
+<sub>By Carl Hulse</sub>
+<p>Hakeem Jeffries, the New Yorker who succeeded Nancy Pelosi this year as the House’s top Democrat, is getting a trial by fire.  <a href="https://nyti.ms/3MWOa8s"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Leaders Let Problems Mount at Brutal SEAL Course, Navy Finds</h3>
 <sub>By Dave Philipps</sub>
 <p>Overzealous instructors, unchecked drug use, and inadequate leadership and medical oversight turned a tough selection course into a dangerous ordeal, investigators found.  <a href="https://nyti.ms/42dnsg9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
@@ -79,27 +87,21 @@ Finally, there is tragedy in New York when a woman was shoved into a train due t
 <sub><sub>Tuesday, August 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Oath Keepers Leader Is Sentenced to 18 Years in Jan. 6 Sedition Case</h3>
-<sub>By Alan Feuer</sub>
-<p>The sentence for Stewart Rhodes was the longest so far in the federal investigation of the Capitol attack and the first issued to a defendant convicted of sedition.  <a href="https://nyti.ms/3qd4md2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Republicans Report Progress in Debt Limit Talks as Negotiations Continue</h3>
-<sub>By Catie Edmondson</sub>
-<p>Negotiators reconvened on Thursday after working through the night to strike a deal, as hard-right Republicans and some Democrats expressed concerns about the shape of an emerging compromise.  <a href="https://nyti.ms/3q8ZDZV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Military Spending Emerges as Big Dispute in Debt-Limit Talks</h3>
-<sub>By Jim Tankersley</sub>
-<p>President Biden has offered to freeze discretionary spending, including for defense. Republicans want to spend more for the military, and cut more elsewhere.  <a href="https://nyti.ms/425phfm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>DeSantis Campaign Says It Raised $8.2 Million in First 24 Hours</h3>
+<sub>By Shane Goldmacher</sub>
+<p>The cash haul points to the strengths Ron DeSantis will have in taking on Donald Trump.  <a href="https://nyti.ms/3Wyl9TI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>DeSantis Plows Ahead With Whirlwind of Friendly Interviews and a Tour</h3>
 <sub>By Nicholas Nehamas, Maggie Astor and Alan Blinder</sub>
 <p>Trying to regroup after a bumpy Twitter rollout, Ron DeSantis sought to make new headlines, suggesting that he might consider pardoning Donald Trump if he faced federal charges.  <a href="https://nyti.ms/3otl72Y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>DeSantis’s Twitter Event Falls Short of the Reach of Past Livestreams</h3>
+<sub>By Ryan Mac and Tiffany Hsu</sub>
+<p>The Republican presidential candidate’s announcement on Twitter had a high of about 300,000 concurrent listeners and a total of 3.4 million listeners as of Thursday.  <a href="https://nyti.ms/3Mw9SPr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
@@ -109,27 +111,21 @@ Finally, there is tragedy in New York when a woman was shoved into a train due t
 <sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Supreme Court Limits E.P.A.’s Power to Address Water Pollution</h3>
-<sub>By Adam Liptak</sub>
-<p>Experts said the decision would sharply undercut the agency’s authority to protect millions of acres of wetlands under the Clean Water Act, leaving them subject to pollution without penalty.  <a href="https://nyti.ms/434PlbO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Texas Panel Recommends Impeachment of Attorney General Ken Paxton</h3>
+<sub>By J. David Goodman</sub>
+<p>The Republican-led House committee said Mr. Paxton’s abuses of office rose to the level of possible crimes that warranted an impeachment vote.  <a href="https://nyti.ms/3OG3dF8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>States Are Not Entitled to Windfalls in Tax Disputes, Supreme Court Rules</h3>
-<sub>By Adam Liptak</sub>
-<p>In a unanimous decision, the justices sided with a 94-year-old woman who got nothing when the state sold her condominium to recoup unpaid taxes.  <a href="https://nyti.ms/3Wz1iny"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Oath Keepers Leader Is Sentenced to 18 Years in Jan. 6 Sedition Case</h3>
+<sub>By Alan Feuer</sub>
+<p>The sentence for Stewart Rhodes was the longest so far in the federal investigation of the Capitol attack and the first issued to a defendant convicted of sedition.  <a href="https://nyti.ms/3qd4md2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>An Iconic Wine Store and the Mystery of the Missing Bottles</h3>
-<sub>By James B. Stewart</sub>
-<p>Sherry-Lehmann, a longtime purveyor of luxury wines, owes New York State $2.8 million in unpaid sales taxes — and its customers an explanation.  <a href="https://nyti.ms/3WxxK9I"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia’s Old Bombs Elude Ukraine’s Modern Defenses</h3>
-<sub>By Jeffrey Gettleman and Eric Schmitt</sub>
-<p>Ukrainian and American officials say Russian warplanes are dropping Soviet-era bombs, some modified to glide long distances, which are almost impossible to shoot down.  <a href="https://nyti.ms/45xDuEA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Mar-a-Lago Worker Provided Prosecutors New Details in Trump Documents Case</h3>
+<sub>By Alan Feuer and Maggie Haberman</sub>
+<p>A maintenance worker for the former president recounted helping to move boxes into a storage room a day before a Justice Department official came seeking the return of classified material.  <a href="https://nyti.ms/45tInP4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
