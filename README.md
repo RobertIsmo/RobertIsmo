@@ -60,8 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, May 26, Central Standard Time</p>
 <p>
-Right now there are a lot of things happening around the world. In the US, the White House and Republicans are trying to reach a deal to raise the debt limit and cut spending. There&#39;s also a crisis looming as Democrats take over leadership in the House and in Texas they&#39;re considering impeaching their attorney general. It&#39;s also been discovered that there have been major problems with Navy SEAL training with criminal behavior being reported amongst instructors. On top of this, a woman was recently brutally shoved onto the tracks of an NYC subway and Ron DeSantis is raising a lot of money for his presidential campaign. There are also other developments happening around the world such as Wagner leaving the city of Bakhmut in eastern Ukraine, a sentence being passed down to an Oath Keeper for their involvement in the attack on the US Capitol, and questions about seditious conspiracy offences. Lastly there&#39;s also some tech-related news about DeSantis&#39; Twitter event not having as much reach as past livestreams he had done.</p>
+I&#39;ve been keeping up with the news lately, and here&#39;s what I can tell you. There seems to be a lot going on in the US with people losing Medicaid coverage since pandemic protections expired, and there have also been reports of fraudulent activity going on around stimulus programs like the Employee Retention Credit. There&#39;s also a potential deal being worked on between the White House and the GOP to raise the debt limit and cut spending. Overseas, there are elections taking place in Turkey, and President Erdogan is campaigning to be re-elected with promises to lead Turkey to being a global superpower. In Germany, they’re discussing whether or not Ukraine should be allowed to enter NATO for similar reasons. In real estate, it looks like the Hamptons is losing its cool with younger people due to housing rules and costs. Lastly, there appears to be some reckoning going on for JPMorgan due to its long ties with Jeffrey Epstein.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Hundreds of Thousands Have Lost Medicaid Coverage Since Pandemic Protections Expired</h3>
+<sub>By Noah Weiland</sub>
+<p>As states begin to drop people from their Medicaid programs, early data shows that many recipients are losing their coverage for procedural reasons.  <a href="https://nyti.ms/3q6of5f"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How a Pandemic-Era Program Became a Magnet for Fraud</h3>
+<sub>By Alan Rappeport</sub>
+<p>The Employee Retention Credit has spawned a cottage industry of firms claiming to help businesses access stimulus funds, often in violation of federal rules.  <a href="https://nyti.ms/3WEhhRd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 26, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>White House and G.O.P. Close In on Deal to Raise Debt Limit and Cut Spending</h3>
 <sub>By Jim Tankersley and Catie Edmondson</sub>
@@ -74,29 +86,35 @@ Right now there are a lot of things happening around the world. In the US, the W
 <p>Hakeem Jeffries, the New Yorker who succeeded Nancy Pelosi this year as the House’s top Democrat, is getting a trial by fire.  <a href="https://nyti.ms/3MWOa8s"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Leaders Let Problems Mount at Brutal SEAL Course, Navy Finds</h3>
-<sub>By Dave Philipps</sub>
-<p>Overzealous instructors, unchecked drug use, and inadequate leadership and medical oversight turned a tough selection course into a dangerous ordeal, investigators found.  <a href="https://nyti.ms/42dnsg9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Is a Debt Deal Nigh? The Market Sees Signs of Optimism.</h3>
+<sub>By Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
+<p>Stock and bond trading suggest that investors see an imminent deal to raise the debt limit and prevent the federal government from defaulting.  <a href="https://nyti.ms/3qglwGp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Death in Navy SEAL Training Exposes a Culture of Brutality, Cheating and Drugs</h3>
-<sub>By Dave Philipps</sub>
-<p>The elite force’s selection course is so punishing that few make it through, and many of those who do resort to illicit tactics.  <a href="https://nyti.ms/3cspGVt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 30, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>On Erdogan Campaign Trail, Invoking God, Reciting Poetry, Bashing Foes</h3>
+<sub>By Ben Hubbard and Gulsin Harman</sub>
+<p>President Recep Tayyip Erdogan has rock star appeal at his election rallies, promising to lead Turkey to claim its rightful place as a global power if he is re-elected in a runoff on Sunday.  <a href="https://nyti.ms/43b5hJE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Texas Panel Files Articles of Impeachment Against State Attorney General</h3>
-<sub>By J. David Goodman</sub>
-<p>The Republican-led House committee said Ken Paxton’s abuses of office rose to the level of possible crimes that warranted an impeachment vote.  <a href="https://nyti.ms/3OG3dF8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Erdogan Amassed Power Over 20 Years, Leveraging Crisis After Crisis</h3>
+<sub>By Alan Yuhas</sub>
+<p>Turkey’s leader faced a criminal conviction, mass protests and a coup. Instead of hurting or ending his political career, they helped him accumulate ever more control.  <a href="https://nyti.ms/3BXJpVW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>The Precarious, Terrifying Hours After a Woman Was Shoved Into a Train</h3>
-<sub>By Hurubie Meko</sub>
-<p>Emine Yilmaz Ozsoy has been partially paralyzed and is in critical condition, surrounded by an improvised web of support. Her story embodies New York’s post-pandemic fears and challenges.  <a href="https://nyti.ms/42a8RlP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-realestate-blue" alt="">
+<h3>Are the Hamptons Still Hip?</h3>
+<sub>By Anna Kodé</sub>
+<p>The summer resort has lost its cool among younger people who are turned off by housing rules, housing costs and the culture of conspicuous wealth.  <a href="https://nyti.ms/3Wz53Jw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-realestate-blue" alt="">
+<h3>Inside Montauk’s Luxurious ‘Trailer Park’</h3>
+<sub>By Anna Kodé</sub>
+<p>An 800-square-foot beachfront home sold for $3.75 million in February, putting a spotlight on a wealthy community that has humble beginnings.  <a href="https://nyti.ms/3Wpxw4J"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Mar-a-Lago Worker Provided Prosecutors New Details in Trump Documents Case</h3>
@@ -105,33 +123,15 @@ Right now there are a lot of things happening around the world. In the US, the W
 <sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Wagner Says It Is Leaving Bakhmut, Posing Challenge for Russia</h3>
-<sub>By Ivan Nechepurenko and Marc Santora</sub>
-<p>After seizing the city in eastern Ukraine after a long, brutal fight, the Wagner mercenary force is turning it over to the depleted Russian Army to defend.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
+<h3>If a Divided Germany Could Enter NATO, Why Not Ukraine?</h3>
+<sub>By Steven Erlanger</sub>
+<p>West Germany joined NATO in 1955, choosing security over immediate territorial integrity. Some suggest the same path could be the best guarantee for Ukraine.  <a href="https://nyti.ms/3BZtCWA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Oath Keepers Leader Is Sentenced to 18 Years in Jan. 6 Sedition Case</h3>
-<sub>By Alan Feuer</sub>
-<p>The sentence for Stewart Rhodes was the longest so far in the federal investigation of the Capitol attack and the first issued to a defendant convicted of sedition.  <a href="https://nyti.ms/3qd4md2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How the Crime of Seditious Conspiracy Is Different From Insurrection and Treason</h3>
-<sub>By Charlie Savage</sub>
-<p>A sentencing for a sedition conviction in the Jan. 6 attack on the Capitol spotlights subtle differences within a suite of related criminal offenses.  <a href="https://nyti.ms/3CflFNr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis Campaign Says It Raised $8.2 Million in First 24 Hours</h3>
-<sub>By Shane Goldmacher</sub>
-<p>The cash haul points to the strengths Ron DeSantis will have in taking on Donald Trump.  <a href="https://nyti.ms/3Wyl9TI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>DeSantis’s Twitter Event Falls Short of the Reach of Past Livestreams</h3>
-<sub>By Ryan Mac and Tiffany Hsu</sub>
-<p>The Republican presidential candidate’s announcement on Twitter had a high of about 300,000 concurrent listeners and a total of 3.4 million listeners as of Thursday.  <a href="https://nyti.ms/3Mw9SPr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>JPMorgan Faces Reckoning for Long Ties With Jeffrey Epstein</h3>
+<sub>By Matthew Goldstein</sub>
+<p>Two lawsuits claim that the nation’s largest bank ignored signs about Jeffrey Epstein’s sex trafficking because it was profiting from its relationship with him.  <a href="https://nyti.ms/3IH2zU1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
 <hr/>
 </ol>
