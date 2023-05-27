@@ -60,8 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, May 26, Central Standard Time</p>
 <p>
-There&#39;s a lot happening around the world at the moment. In the US, Treasury expects to run out of cash by June 5 and is trying to raise the debt ceiling to avoid a default. To discuss this, leaders of both parties have been making midnight calls and marathon meetings. Countries are also facing other issues; Russia is shelling a Ukrainian hospital while far-right Russian volunteers are giving Ukraine cause for concern as allies in their military. Closer to home, there&#39;s a battle going on in the Hamptons over wealthy people&#39;s yachts and whether they should be allowed to store them in the area, and an effort to contain the conspicuous wealth. Finally, a neo-Nazi associated with the recent Capitol attack was sentenced for seditious conspiracy - highlighting deep differences between charges like insurrection and treason.</p>
+There is a lot going on in the world right now. In the US, the Texas House is set to vote on the impeachment of the state&#39;s Attorney General, Ken Paxton. Meanwhile, Treasury estimates suggest the US will run out of cash by June 5 unless Republicans and the White House come to an agreement to raise the debt ceiling. Another big development is in Ukraine, where Russian missiles recently hit a hospital while both sides have stepped up their long-range strikes. There&#39;s also a fight over yachts in New York&#39;s North Fork that is escalating tensions over housing costs and conspicuous wealth.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How Fighting for Conservative Causes Has Helped Ken Paxton Survive Legal Woes</h3>
+<sub>By J. David Goodman</sub>
+<p>With the Texas House set to vote on his impeachment, Mr. Paxton is counting on political support that he’s amassed as a Republican legal firebrand.  <a href="https://nyti.ms/3BYtMgZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Impeachment Vote Set for Texas Attorney General Ken Paxton: What to Know</h3>
+<sub>By Jacey Fortin and J. David Goodman</sub>
+<p>The Texas House is set to vote on Saturday on the impeachment of Mr. Paxton, the culmination of years of official complaints and legal proceedings involving the three-term attorney general.  <a href="https://nyti.ms/3N1lPhz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 26, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Treasury Expects to Run Out of Cash by June 5</h3>
 <sub>By Alan Rappeport</sub>
@@ -84,18 +96,6 @@ There&#39;s a lot happening around the world at the moment. In the US, Treasury 
 <h3>Debt Ceiling Crisis: How a Default Could Unfold</h3>
 <sub>By Joe Rennison and Alan Rappeport</sub>
 <p>Here’s a look at what markets are expecting and planning for, and how a default might happen.  <a href="https://nyti.ms/3WAjnS2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Fighting for Conservative Causes Has Helped Ken Paxton Survive Legal Woes</h3>
-<sub>By J. David Goodman</sub>
-<p>With the Texas House set to vote on his impeachment, Mr. Paxton is counting on political support that he’s amassed as a Republican legal firebrand.  <a href="https://nyti.ms/3BYtMgZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Impeachment Vote Set for Texas Attorney General Ken Paxton: What to Know</h3>
-<sub>By Jacey Fortin and J. David Goodman</sub>
-<p>The Texas House is set to vote on Saturday on the impeachment of Mr. Paxton, the culmination of years of official complaints and legal proceedings involving the three-term attorney general.  <a href="https://nyti.ms/3N1lPhz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
