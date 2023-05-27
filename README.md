@@ -60,12 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, May 26, Central Standard Time</p>
 <p>
-There is a lot of news happening in the world right now. The US Treasury Department has estimated that it will run out of cash by June 5, and the White House and Republicans are trying to come to an agreement on raising the debt ceiling or else face a possible default. There is also a vote set for this weekend on the impeachment of Texas Attorney General Ken Paxton, and recently an Oath Keepers leader was sentenced to 18 years in prison for a rarely charged crime. On top of that, there&#39;s been discussion about the changing culture in the Hamptons, and how increasingly strict housing rules are turning away younger people from wanting to live there. We&#39;re also seeing evidence that Russia may be using flooding as a tactic of war, and behind it all is a blockbuster novel about video games doing incredibly well in sales. Finally, Ashley Judd is sharing her reflections on her year of grief after losing her mother, who died by suicide.</p>
+There&#39;s a lot happening around the world at the moment. In the US, Treasury expects to run out of cash by June 5 and is trying to raise the debt ceiling to avoid a default. To discuss this, leaders of both parties have been making midnight calls and marathon meetings. Countries are also facing other issues; Russia is shelling a Ukrainian hospital while far-right Russian volunteers are giving Ukraine cause for concern as allies in their military. Closer to home, there&#39;s a battle going on in the Hamptons over wealthy people&#39;s yachts and whether they should be allowed to store them in the area, and an effort to contain the conspicuous wealth. Finally, a neo-Nazi associated with the recent Capitol attack was sentenced for seditious conspiracy - highlighting deep differences between charges like insurrection and treason.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Treasury Expects to Run Out of Cash by June 5</h3>
 <sub>By Alan Rappeport</sub>
-<p>The latest estimate is a slight extension from the previous June 1 deadline and comes as Republicans and the White House are trying to reach an agreement to raise the debt ceiling and avoid a crippling default.  <a href="https://nyti.ms/3N1nELr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The latest estimate comes as Republicans and the White House are trying to reach an agreement to raise the debt ceiling and avoid a crippling default.  <a href="https://nyti.ms/3N1nELr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Despite High-Level Guarantees, Time Is Running Out to Avoid a Default</h3>
+<sub>By Carl Hulse</sub>
+<p>With a June 5 deadline looming, there is much to be done to prevent the default that leaders of both parties said would never happen.  <a href="https://nyti.ms/3IGlpKE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Behind the Scenes: Midnight Calls and Marathon Meetings, Night After Night</h3>
+<sub>By Katie Rogers and Luke Broadwater</sub>
+<p>What day is it, anyway? As talks drag on, the situation is getting painful for everyone from the negotiators to the tourists on Capitol Hill.  <a href="https://nyti.ms/3MBYi5o"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -75,9 +87,9 @@ There is a lot of news happening in the world right now. The US Treasury Departm
 <sub><sub>Friday, May 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>$38.8 Billion in U.S. Treasury? For These Billionaires, That’s Nothing</h3>
-<sub>By Linda Qiu</sub>
-<p>The cash balance at the Treasury Department is now lower than the net worth of some of the world’s richest people.  <a href="https://nyti.ms/3MzAqiJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>How Fighting for Conservative Causes Has Helped Ken Paxton Survive Legal Woes</h3>
+<sub>By J. David Goodman</sub>
+<p>With the Texas House set to vote on his impeachment, Mr. Paxton is counting on political support that he’s amassed as a Republican legal firebrand.  <a href="https://nyti.ms/3BYtMgZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -105,33 +117,21 @@ There is a lot of news happening in the world right now. The US Treasury Departm
 <sub><sub>Friday, May 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-realestate-blue" alt="">
-<h3>Inside Montauk’s Luxurious ‘Trailer Park’</h3>
-<sub>By Anna Kodé</sub>
-<p>An 800-square-foot beachfront home sold for $3.75 million in February, putting a spotlight on a wealthy community that has humble beginnings.  <a href="https://nyti.ms/3Wpxw4J"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 23, Central Standard Time</sub></sub>
+<h3>A Fight Over Yachts Is a Battle for the Soul of the North Fork</h3>
+<sub>By Debra Kamin</sub>
+<p>Thousands of residents in the hamlet of Mattituck say a plan to build storage for 88 yachts would destroy the environment and the character of the area.  <a href="https://nyti.ms/3ovRPAY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Russian Public Appears to Be Souring on War Casualties, Analysis Shows</h3>
-<sub>By Julian E. Barnes</sub>
-<p>Support for the war in Ukraine remains high but could potentially turn if concern over the high numbers of casualties persists, according to FilterLabs AI.  <a href="https://nyti.ms/3OG8uME"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russians Hit Ukrainian Hospital as Both Sides Step Up Long-Range Strikes</h3>
+<sub>By Marc Santora</sub>
+<p>A Russian missile killed at least two people and wounded dozens more at a hospital, while apparent Ukrainian strikes hit occupied cities in the south.  <a href="https://nyti.ms/3qiEvjF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russian forces blow up a dam, in the latest apparent use of flooding as a tactic of war.</h3>
-<sub>By Andrew E. Kramer and Maria Varenikova</sub>
-<p>  <a href="https://nyti.ms/435wXPS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-books-blue" alt="">
-<h3>How a Novel About Video Games Became a Surprise Best Seller</h3>
-<sub>By Alexandra Alter</sub>
-<p>Gabrielle Zevin didn’t expect a wide audience for “Tomorrow, and Tomorrow, and Tomorrow,” her novel about game developers. It became a blockbuster with staying power.  <a href="https://nyti.ms/3C2sXDK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>Ashley Judd Reflects on a Year of Grief</h3>
-<sub>By Christina Caron</sub>
-<p>The actress and mental health advocate shares how she coped while mourning the loss of her mother, the country music singer Naomi Judd, who died by suicide.  <a href="https://nyti.ms/3IJyfYF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>For Ukraine Military, Far-Right Russian Volunteers Make for Worrisome Allies</h3>
+<sub>By Valerie Hopkins</sub>
+<p>Some fighters who led an incursion into Russian territory this week have neo-Nazi ties. “I worry that something like this could backfire on Ukraine because these are not ambiguous people.”  <a href="https://nyti.ms/3WIMzGH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 26, Central Standard Time</sub></sub>
 <hr/>
 </ol>
