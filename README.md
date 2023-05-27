@@ -60,29 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, May 27, Central Standard Time</p>
 <p>
-Right now in the US, the Texas House is getting ready to vote on impeaching Ken Paxton, who is a Republican legal firebrand. Meanwhile, Republicans and the White House are trying to reach an agreement to raise the debt ceiling so that the US doesn&#39;t default on its financial obligations. There have been lots of late night meetings and calls between negotiators, and there&#39;s a deadline looming on June 5. In other news from the US, someone involved with the Capitol riots has been sentenced to 18 years for the crime of seditious conspiracy. 
-
-In real estate news, people are questioning whether or not The Hamptons are still a hip spot to vacation and live. There&#39;s also a battle going on over yachts and storage at Mattituck in the North Fork that has a lot of people up in arms. 
-
-Finally, in Ukraine, military groups have taken over some Russian territory recently and there are concerns because Ukrainian soldiers have been training with US Abrams tanks and some of these far-right Russian volunteers have neo-Nazi ties.</p>
+There is a lot happening right now in the US and around the world. The US Treasury Secretary, Janet Yellen, has been warning Congress about the serious consequences of not raising the debt limit. There is a looming June 5 deadline for Congress to take action or else the US could go into default. Meanwhile, in Ukraine, military leaders have made a statement and released a video signaling a potential counteroffensive against Russian forces. In Russia, Vladimir Putin appears to be playing a waiting game as tensions mount over the war in Ukraine. Closer to home, Texas Attorney General Ken Paxton is facing an impeachment vote over legal complaints that have been filed against him for years. In Turkey, President Erdogan and his challenger are headed for a critical runoff vote to shape Turkey&#39;s future. On top of all this, gig work has taken on an even more negative connotation in recent times with companies like Uber and Lyft being blamed for offering a raw deal to workers who need flexibility in their schedules. And finally, in New York State prison guards have been accused of brutally beating prisoners and lying about it yet they were not fired despite the accusations.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Fighting for Conservative Causes Has Helped Ken Paxton Survive Legal Woes</h3>
-<sub>By J. David Goodman</sub>
-<p>With the Texas House set to vote on his impeachment, Mr. Paxton is counting on political support that he’s amassed as a Republican legal firebrand.  <a href="https://nyti.ms/3BYtMgZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Impeachment Vote Set for Texas Attorney General Ken Paxton: What to Know</h3>
-<sub>By Jacey Fortin and J. David Goodman</sub>
-<p>The Texas House is set to vote on Saturday on the impeachment of Mr. Paxton, the culmination of years of official complaints and legal proceedings involving the three-term attorney general.  <a href="https://nyti.ms/3N1lPhz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Treasury Expects to Run Out of Cash by June 5</h3>
+<h3>Yellen’s Debt Limit Warnings Went Unheeded, Leaving Her to Face Fallout</h3>
 <sub>By Alan Rappeport</sub>
-<p>The latest estimate comes as Republicans and the White House are trying to reach an agreement to raise the debt ceiling and avoid a crippling default.  <a href="https://nyti.ms/3N1nELr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 26, Central Standard Time</sub></sub>
+<p>The Treasury secretary, who considered ways to contain the fallout of a default when she was a Fed official in 2011, had urged Democrats to raise the limit while they still had control of Congress.  <a href="https://nyti.ms/43tBxax"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, May 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Despite High-Level Guarantees, Time Is Running Out to Avoid a Default</h3>
@@ -96,47 +80,59 @@ Finally, in Ukraine, military groups have taken over some Russian territory rece
 <p>What day is it, anyway? As talks drag on, the situation is getting painful for everyone from the negotiators to the tourists on Capitol Hill.  <a href="https://nyti.ms/3MBYi5o"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Debt Ceiling Crisis: How a Default Could Unfold</h3>
-<sub>By Joe Rennison and Alan Rappeport</sub>
-<p>Here’s a look at what markets are expecting and planning for, and how a default might happen.  <a href="https://nyti.ms/3WAjnS2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Sedition Sentence for Oath Keepers Leader Marks Moment of Accountability</h3>
-<sub>By Alan Feuer</sub>
-<p>The 18 years in prison given to Stewart Rhodes for a rarely charged crime underscored the lengths to which the Justice Department and the courts have gone in addressing the assault on the Capitol.  <a href="https://nyti.ms/43uox4p"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How the Crime of Seditious Conspiracy Is Different From Insurrection and Treason</h3>
-<sub>By Charlie Savage</sub>
-<p>A sentencing for a sedition conviction in the Jan. 6 attack on the Capitol spotlights subtle differences within a suite of related criminal offenses.  <a href="https://nyti.ms/3CflFNr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-realestate-blue" alt="">
-<h3>Are the Hamptons Still Hip?</h3>
-<sub>By Anna Kodé</sub>
-<p>The summer resort has lost its cool among younger people who are turned off by housing rules, housing costs and the culture of conspicuous wealth.  <a href="https://nyti.ms/3Wz53Jw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-realestate-blue" alt="">
-<h3>A Fight Over Yachts Is a Battle for the Soul of the North Fork</h3>
-<sub>By Debra Kamin</sub>
-<p>Thousands of residents in the hamlet of Mattituck say a plan to build storage for 88 yachts would destroy the environment and the character of the area.  <a href="https://nyti.ms/3ovRPAY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>For Ukraine Military, Far-Right Russian Volunteers Make for Worrisome Allies</h3>
-<sub>By Valerie Hopkins</sub>
-<p>Some fighters who led an incursion into Russian territory this week have neo-Nazi ties. “I worry that something like this could backfire on Ukraine because these are not ambiguous people.”  <a href="https://nyti.ms/3WIMzGH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukrainian Soldiers Have Started Training on U.S. Abrams Tanks, Pentagon Says</h3>
-<sub>By Eric Schmitt</sub>
-<p>Defense Department officials had previously said that about 31 tanks would be sent to Germany to be used in a training program that is expected to take 10 to 12 weeks.  <a href="https://nyti.ms/42af9Sv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Ukraine’s Top Commander Signals Counteroffensive Could Be Imminent</h3>
+<sub>By Marc Santora and Eric Schmitt</sub>
+<p>A blunt statement, accompanied by a slickly produced video of Ukrainian troops preparing for battle, appeared designed to rally the nation and to spread anxiety among Russian forces.  <a href="https://nyti.ms/42af9Sv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Barely Noting War in Public, Putin Acts Like Time Is on His Side</h3>
+<sub>By Anton Troianovski and Paul Sonne</sub>
+<p>Vladimir V. Putin of Russia looks like a commander in absentia, treating the war in Ukraine as unfortunate but distant. His options have narrowed, but he is still betting on outlasting his foes.  <a href="https://nyti.ms/3WzNwBa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, May 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How Fighting for Conservative Causes Has Helped Ken Paxton Survive Legal Woes</h3>
+<sub>By J. David Goodman</sub>
+<p>With the Texas House set to vote on his impeachment, Mr. Paxton is counting on political support that he’s amassed as a Republican legal firebrand.  <a href="https://nyti.ms/3BYtMgZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Impeachment Vote Set for Texas Attorney General Ken Paxton: What to Know</h3>
+<sub>By Jacey Fortin and J. David Goodman</sub>
+<p>The Texas House is set to vote on Saturday on the impeachment of Mr. Paxton, the culmination of years of official complaints and legal proceedings involving the three-term attorney general.  <a href="https://nyti.ms/3N1lPhz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-books-blue" alt="">
+<h3>A Kurdish Turkish Writer on the Tensions Between Politics and Art</h3>
+<sub>By Jason Farago</sub>
+<p>Burhan Sönmez, who is president of PEN International, discusses the tension between politics and art and the role of literature in authoritarian societies.  <a href="https://nyti.ms/3Wz4Ztg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>What to Know About Turkey’s Presidential Runoff</h3>
+<sub>By Cora Engelbrecht, Ben Hubbard and Gulsin Harman</sub>
+<p>President Recep Tayyip Erdogan had an edge on his challenger, Kemal Kilicdaroglu, ahead of a critical vote to shape Turkey’s future.  <a href="https://nyti.ms/3pwxiwg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Can You Guess These 10 Wacky Words From the Scripps Spelling Bee?</h3>
+<sub>By Amanda Montell, Andrew Herzog and Nicky Tesla</sub>
+<p>From nonsense terms to 20th-century slang, these words from past Scripps Bee competitions or training lists will test your pop cultural knowledge, Latin chops and spelling skills.  <a href="https://nyti.ms/45sBKg5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Has ‘Gig Work’ Become a Dirty Word?</h3>
+<sub>By Kellen Browning</sub>
+<p>If work for companies like Uber and Lyft once carried some appeal for offering flexibility, the kind of labor it has come to represent is now used by some as shorthand for a raw deal.  <a href="https://nyti.ms/43rqZZt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, May 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Guards Brutally Beat Prisoners and Lied About It. They Weren’t Fired.</h3>
+<sub>By Alysia Santo, Joseph Neff and Tom Meagher</sub>
+<p>When New York State accused prison guards of abuse, the disciplinary proceedings tilted heavily in the guards’ favor, a review of records shows.  <a href="https://nyti.ms/432J540"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 19, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
