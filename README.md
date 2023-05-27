@@ -60,11 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, May 27, Central Standard Time</p>
 <p>
-Right now, the US is in a situation where the Treasury is set to run out of cash by June 5th, so politicians are scrambling in late night meetings to come up with a solution that would prevent a default on debt payments. Additionally, Ken Paxton, the Attorney General of Texas, is facing impeachment due to years of complaints against him and the House is set to vote this weekend. 
+Right now in the US, the Texas House is getting ready to vote on impeaching Ken Paxton, who is a Republican legal firebrand. Meanwhile, Republicans and the White House are trying to reach an agreement to raise the debt ceiling so that the US doesn&#39;t default on its financial obligations. There have been lots of late night meetings and calls between negotiators, and there&#39;s a deadline looming on June 5. In other news from the US, someone involved with the Capitol riots has been sentenced to 18 years for the crime of seditious conspiracy. 
 
-In Ukraine, a hospital has recently been hit by a Russian missile which killed two people and wounded many others. Meanwhile there are far-right Russian volunteers helping the Ukrainian military with their fight against Russian forces, but some people worry that these questionable allies could backfire on Ukraine because of their neo-Nazi ties. 
+In real estate news, people are questioning whether or not The Hamptons are still a hip spot to vacation and live. There&#39;s also a battle going on over yachts and storage at Mattituck in the North Fork that has a lot of people up in arms. 
 
-On the lighter side of things, there&#39;s an interesting situation happening in The Hamptons where younger people are starting to stay away from the summer resort due to housing costs and restriction laws and locals are fighting over whether or not large yachts should be allowed in the North Fork area.</p>
+Finally, in Ukraine, military groups have taken over some Russian territory recently and there are concerns because Ukrainian soldiers have been training with US Abrams tanks and some of these far-right Russian volunteers have neo-Nazi ties.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>How Fighting for Conservative Causes Has Helped Ken Paxton Survive Legal Woes</h3>
@@ -127,16 +127,16 @@ On the lighter side of things, there&#39;s an interesting situation happening in
 <sub><sub>Wednesday, May 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russians Hit Ukrainian Hospital as Both Sides Step Up Long-Range Strikes</h3>
-<sub>By Marc Santora</sub>
-<p>A Russian missile killed at least two people and wounded dozens more at a hospital, while apparent Ukrainian strikes hit occupied cities in the south.  <a href="https://nyti.ms/3qiEvjF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>For Ukraine Military, Far-Right Russian Volunteers Make for Worrisome Allies</h3>
 <sub>By Valerie Hopkins</sub>
 <p>Some fighters who led an incursion into Russian territory this week have neo-Nazi ties. “I worry that something like this could backfire on Ukraine because these are not ambiguous people.”  <a href="https://nyti.ms/3WIMzGH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukrainian Soldiers Have Started Training on U.S. Abrams Tanks, Pentagon Says</h3>
+<sub>By Eric Schmitt</sub>
+<p>Defense Department officials had previously said that about 31 tanks would be sent to Germany to be used in a training program that is expected to take 10 to 12 weeks.  <a href="https://nyti.ms/42af9Sv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, May 27, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
