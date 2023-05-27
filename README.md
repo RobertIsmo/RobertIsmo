@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, May 27, Central Standard Time</p>
 <p>
-There is a lot happening right now in the US and around the world. The US Treasury Secretary, Janet Yellen, has been warning Congress about the serious consequences of not raising the debt limit. There is a looming June 5 deadline for Congress to take action or else the US could go into default. Meanwhile, in Ukraine, military leaders have made a statement and released a video signaling a potential counteroffensive against Russian forces. In Russia, Vladimir Putin appears to be playing a waiting game as tensions mount over the war in Ukraine. Closer to home, Texas Attorney General Ken Paxton is facing an impeachment vote over legal complaints that have been filed against him for years. In Turkey, President Erdogan and his challenger are headed for a critical runoff vote to shape Turkey&#39;s future. On top of all this, gig work has taken on an even more negative connotation in recent times with companies like Uber and Lyft being blamed for offering a raw deal to workers who need flexibility in their schedules. And finally, in New York State prison guards have been accused of brutally beating prisoners and lying about it yet they were not fired despite the accusations.</p>
+There&#39;s a lot going on around the world right now. In the US, Treasury Secretary Yellen has been warning of a debt limit which could cause some economic fallout if it isn&#39;t raised soon. There have been midnight calls and marathon meetings to try to prevent default. In Ukraine, their top commander is saying that a counteroffensive is imminent and in Russia, President Putin is barely addressing the war in Ukraine as time continues to run out for both sides. In Texas, Attorney General Ken Paxton is facing impeachment and relying on his conservative politics for political support. The Scripps Spelling Bee also happened recently and featured some pretty wacky words. In New York, there have been instances where lawyers have tried using artificial intelligence to help with court filings. Burhan Sönmez, president of PEN international has also been talking about the tension between politics and art in authoritarian societies. Finally, there&#39;s a runoff taking place in Turkey between President Erdogan and Kemal Kilicdaroglu that will shape the country&#39;s future. There have also been conversations around &quot;gig work&quot; becoming a negative thing instead of offering more flexibility. That&#39;s what&#39;s happening in the world right now!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Yellen’s Debt Limit Warnings Went Unheeded, Leaving Her to Face Fallout</h3>
@@ -81,7 +81,7 @@ There is a lot happening right now in the US and around the world. The US Treasu
 <sub><sub>Friday, May 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine’s Top Commander Signals Counteroffensive Could Be Imminent</h3>
+<h3>‘It’s Time’: Ukraine’s Top Commander Says Counteroffensive Is Imminent</h3>
 <sub>By Marc Santora and Eric Schmitt</sub>
 <p>A blunt statement, accompanied by a slickly produced video of Ukrainian troops preparing for battle, appeared designed to rally the nation and to spread anxiety among Russian forces.  <a href="https://nyti.ms/42af9Sv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 27, Central Standard Time</sub></sub>
@@ -104,6 +104,18 @@ There is a lot happening right now in the US and around the world. The US Treasu
 <p>The Texas House is set to vote on Saturday on the impeachment of Mr. Paxton, the culmination of years of official complaints and legal proceedings involving the three-term attorney general.  <a href="https://nyti.ms/3N1lPhz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 26, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Can You Guess These 10 Wacky Words From the Scripps Spelling Bee?</h3>
+<sub>By Amanda Montell, Andrew Herzog and Nicky Tesla</sub>
+<p>From nonsense terms to 20th-century slang, these words from past Scripps Bee competitions or training lists will test your pop cultural knowledge, Latin chops and spelling skills.  <a href="https://nyti.ms/45sBKg5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Here’s What Happens When Your Lawyer Uses ChatGPT</h3>
+<sub>By Benjamin Weiser</sub>
+<p>A lawyer representing a man who sued an airline relied on artificial intelligence to help prepare a court filing. It did not go well.  <a href="https://nyti.ms/43mGnqc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, May 27, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-books-blue" alt="">
 <h3>A Kurdish Turkish Writer on the Tensions Between Politics and Art</h3>
 <sub>By Jason Farago</sub>
@@ -116,23 +128,11 @@ There is a lot happening right now in the US and around the world. The US Treasu
 <p>President Recep Tayyip Erdogan had an edge on his challenger, Kemal Kilicdaroglu, ahead of a critical vote to shape Turkey’s future.  <a href="https://nyti.ms/3pwxiwg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Can You Guess These 10 Wacky Words From the Scripps Spelling Bee?</h3>
-<sub>By Amanda Montell, Andrew Herzog and Nicky Tesla</sub>
-<p>From nonsense terms to 20th-century slang, these words from past Scripps Bee competitions or training lists will test your pop cultural knowledge, Latin chops and spelling skills.  <a href="https://nyti.ms/45sBKg5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 26, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Has ‘Gig Work’ Become a Dirty Word?</h3>
 <sub>By Kellen Browning</sub>
 <p>If work for companies like Uber and Lyft once carried some appeal for offering flexibility, the kind of labor it has come to represent is now used by some as shorthand for a raw deal.  <a href="https://nyti.ms/43rqZZt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Guards Brutally Beat Prisoners and Lied About It. They Weren’t Fired.</h3>
-<sub>By Alysia Santo, Joseph Neff and Tom Meagher</sub>
-<p>When New York State accused prison guards of abuse, the disciplinary proceedings tilted heavily in the guards’ favor, a review of records shows.  <a href="https://nyti.ms/432J540"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 19, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
