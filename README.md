@@ -60,19 +60,25 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, May 27, Central Standard Time</p>
 <p>
-There&#39;s a lot going on around the world right now. In the US, Treasury Secretary Yellen has been warning of a debt limit which could cause some economic fallout if it isn&#39;t raised soon. There have been midnight calls and marathon meetings to try to prevent default. In Ukraine, their top commander is saying that a counteroffensive is imminent and in Russia, President Putin is barely addressing the war in Ukraine as time continues to run out for both sides. In Texas, Attorney General Ken Paxton is facing impeachment and relying on his conservative politics for political support. The Scripps Spelling Bee also happened recently and featured some pretty wacky words. In New York, there have been instances where lawyers have tried using artificial intelligence to help with court filings. Burhan Sönmez, president of PEN international has also been talking about the tension between politics and art in authoritarian societies. Finally, there&#39;s a runoff taking place in Turkey between President Erdogan and Kemal Kilicdaroglu that will shape the country&#39;s future. There have also been conversations around &quot;gig work&quot; becoming a negative thing instead of offering more flexibility. That&#39;s what&#39;s happening in the world right now!</p>
+Things seem especially tumultuous in the United States at the moment. Ken Paxton, the Texas Attorney General, is facing impeachment and there has been much debate about how he should be judged. On another political front, a debate on reparations for black Americans has been reignited, prompting both sides of the aisle to weigh in its implications. Outside of politics, Lawrence Yellen has warned against going over the debt limit and is now bracing for what&#39;s to come. Meanwhile, Ukraine is preparing for a counteroffensive against Russian forces, and Vladimir Putin remains largely silent on the matter. Lastly, New York City is having trouble filling a lifeguard shortage amid new Covid safety regulations.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How Fighting for Conservative Causes Has Helped Ken Paxton Survive Legal Woes</h3>
+<sub>By J. David Goodman</sub>
+<p>With the Texas House set to vote on his impeachment, Mr. Paxton is counting on political support that he’s amassed as a Republican legal firebrand.  <a href="https://nyti.ms/3BYtMgZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Impeachment Vote Set for Texas Attorney General Ken Paxton: What to Know</h3>
+<sub>By Jacey Fortin and J. David Goodman</sub>
+<p>The Texas House is set to vote on Saturday on the impeachment of Mr. Paxton, the culmination of years of official complaints and legal proceedings involving the three-term attorney general.  <a href="https://nyti.ms/3N1lPhz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 26, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Yellen’s Debt Limit Warnings Went Unheeded, Leaving Her to Face Fallout</h3>
 <sub>By Alan Rappeport</sub>
 <p>The Treasury secretary, who considered ways to contain the fallout of a default when she was a Fed official in 2011, had urged Democrats to raise the limit while they still had control of Congress.  <a href="https://nyti.ms/43tBxax"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Despite High-Level Guarantees, Time Is Running Out to Avoid a Default</h3>
-<sub>By Carl Hulse</sub>
-<p>With a June 5 deadline looming, there is much to be done to prevent the default that leaders of both parties said would never happen.  <a href="https://nyti.ms/3IGlpKE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Behind the Scenes: Midnight Calls and Marathon Meetings, Night After Night</h3>
@@ -93,16 +99,10 @@ There&#39;s a lot going on around the world right now. In the US, Treasury Secre
 <sub><sub>Saturday, May 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Fighting for Conservative Causes Has Helped Ken Paxton Survive Legal Woes</h3>
-<sub>By J. David Goodman</sub>
-<p>With the Texas House set to vote on his impeachment, Mr. Paxton is counting on political support that he’s amassed as a Republican legal firebrand.  <a href="https://nyti.ms/3BYtMgZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Impeachment Vote Set for Texas Attorney General Ken Paxton: What to Know</h3>
-<sub>By Jacey Fortin and J. David Goodman</sub>
-<p>The Texas House is set to vote on Saturday on the impeachment of Mr. Paxton, the culmination of years of official complaints and legal proceedings involving the three-term attorney general.  <a href="https://nyti.ms/3N1lPhz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 26, Central Standard Time</sub></sub>
+<h3>Reparations Are a Financial Quandary. For Democrats, They’re a Political One, Too.</h3>
+<sub>By Trip Gabriel, Maya King, Kurtis Lee and Shawn Hubler</sub>
+<p>Republicans have criticized recent estimates of what Black Americans are owed in reparations. But for Democrats, they pose deeper problems for a party eager to retain the allegiance of Black voters.  <a href="https://nyti.ms/3WG6NB4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, May 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Can You Guess These 10 Wacky Words From the Scripps Spelling Bee?</h3>
@@ -116,23 +116,23 @@ There&#39;s a lot going on around the world right now. In the US, Treasury Secre
 <p>A lawyer representing a man who sued an airline relied on artificial intelligence to help prepare a court filing. It did not go well.  <a href="https://nyti.ms/43mGnqc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-books-blue" alt="">
-<h3>A Kurdish Turkish Writer on the Tensions Between Politics and Art</h3>
-<sub>By Jason Farago</sub>
-<p>Burhan Sönmez, who is president of PEN International, discusses the tension between politics and art and the role of literature in authoritarian societies.  <a href="https://nyti.ms/3Wz4Ztg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Stop Us if You’ve Heard This Before: The A’s Have a Stadium Deal</h3>
+<sub>By Benjamin Hoffman</sub>
+<p>From faking a rainout at a World Series game to a possum in a television booth, the Athletics have rarely been happy at home. Will Las Vegas be the answer?  <a href="https://nyti.ms/3IHtpes"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>What to Know About Turkey’s Presidential Runoff</h3>
-<sub>By Cora Engelbrecht, Ben Hubbard and Gulsin Harman</sub>
-<p>President Recep Tayyip Erdogan had an edge on his challenger, Kemal Kilicdaroglu, ahead of a critical vote to shape Turkey’s future.  <a href="https://nyti.ms/3pwxiwg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Has ‘Gig Work’ Become a Dirty Word?</h3>
-<sub>By Kellen Browning</sub>
-<p>If work for companies like Uber and Lyft once carried some appeal for offering flexibility, the kind of labor it has come to represent is now used by some as shorthand for a raw deal.  <a href="https://nyti.ms/43rqZZt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Why New York City’s Lifeguard Shortage Is Even Worse This Year</h3>
+<sub>By Corey Kilgannon, Dana Rubinstein and Calla Kessler</sub>
+<p>Despite pay increases and efforts to simplify the notoriously difficult swim test, New York’s lifeguard shortage is dire. The city says the lifeguard unions are partly to blame.  <a href="https://nyti.ms/3orqEHz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The Weekender</h3>
+<sub>By Christine Chun</sub>
+<p>An appraisal for Tina Turner. Also: the strategic fashioning of Casey DeSantis and a flight attendant&#39;s etiquette rules for air travel.  <a href="https://nyti.ms/422XDPT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
