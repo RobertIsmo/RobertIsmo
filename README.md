@@ -58,9 +58,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Friday, May 26, Central Standard Time</p>
+<p>It is Saturday, May 27, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In the US, the Texas House is set to vote on the impeachment of the state&#39;s Attorney General, Ken Paxton. Meanwhile, Treasury estimates suggest the US will run out of cash by June 5 unless Republicans and the White House come to an agreement to raise the debt ceiling. Another big development is in Ukraine, where Russian missiles recently hit a hospital while both sides have stepped up their long-range strikes. There&#39;s also a fight over yachts in New York&#39;s North Fork that is escalating tensions over housing costs and conspicuous wealth.</p>
+Right now, the US is in a situation where the Treasury is set to run out of cash by June 5th, so politicians are scrambling in late night meetings to come up with a solution that would prevent a default on debt payments. Additionally, Ken Paxton, the Attorney General of Texas, is facing impeachment due to years of complaints against him and the House is set to vote this weekend. 
+
+In Ukraine, a hospital has recently been hit by a Russian missile which killed two people and wounded many others. Meanwhile there are far-right Russian volunteers helping the Ukrainian military with their fight against Russian forces, but some people worry that these questionable allies could backfire on Ukraine because of their neo-Nazi ties. 
+
+On the lighter side of things, there&#39;s an interesting situation happening in The Hamptons where younger people are starting to stay away from the summer resort due to housing costs and restriction laws and locals are fighting over whether or not large yachts should be allowed in the North Fork area.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>How Fighting for Conservative Causes Has Helped Ken Paxton Survive Legal Woes</h3>
