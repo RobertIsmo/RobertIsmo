@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, May 28, Central Standard Time</p>
 <p>
-It looks like there&#39;s a lot happening in the world right now. In the US, the White House and G.O.P. have struck a debt limit deal to avert default and they&#39;ve just impeached Texas Attorney General Ken Paxton. On the business side, Fox has been dealing with a legal and business debacle over a Dominion Voting Systems defamation suit that it paid out $787.5 million to settle. Internationally, a Russian deserter&#39;s flight to Norway is causing tension between them and Ukraine, while Kyev is repelling its &#39;largest ever drone attack&#39; from Russia with at least one person killed by falling debris. On the medical side of things, new research shows that pregnant women are most at risk for death in the year after giving birth. Finally, in sports, Real Madrid&#39;s teenage prodigy Carlos Alcaraz is gaining attention for his recent success in tennis, while a refugee named Ryyan Alshebl won an election in a conservative German town and is has been offering lessons on Germany&#39;s multicultural identity after a wave of refugees in 2015. Overall, it looks like some moments of tension mixed with others of hope!</p>
+Right now, there&#39;s a lot going on in the world. The US just struck a deal to raise the national debt ceiling and cut and cap certain federal programs. In Turkey, a crucial presidential runoff is about to take place between President Recep Tayyip Erdogan and his challenger Kemal Kilicdaroglu. In Texas, the attorney general is facing impeachment. From Russia, a deserter was granted asylum in Norway. Ukrainian forces were able to repel a large drone attack launched by Russia. Also in the US, California Democrat Dianne Feinstein recently returned to the Senate and relies heavily on her staff members to shield her from the public and explain what&#39;s happening when she&#39;s confused. In terms of health news, recent research reveals that most pregnancy-related deaths occur within one year after birth, and new mothers need to be aware of this risk. Meanwhile in sports news, tennis player Carlos Alcaraz was able to get ahead due to his supportive father and a local candy company&#39;s generous sponsorship.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>White House and G.O.P. Strike Debt Limit Deal to Avert Default</h3>
@@ -80,6 +80,12 @@ It looks like there&#39;s a lot happening in the world right now. In the US, the
 <p>The extraordinary vote on impeachment exposed rifts among Texas Republicans and set the stage for a contentious showdown in the State Senate.  <a href="https://nyti.ms/43cRDWa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, May 28, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>What to Know About Turkey’s Presidential Runoff</h3>
+<sub>By Cora Engelbrecht, Ben Hubbard and Gulsin Harman</sub>
+<p>President Recep Tayyip Erdogan had an edge on his challenger, Kemal Kilicdaroglu, going into the critical vote on Sunday to shape Turkey’s future.  <a href="https://nyti.ms/3pwxiwg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Missteps and Miscalculations: Inside Fox’s Legal and Business Debacle</h3>
 <sub>By Jim Rutenberg, Michael S. Schmidt and Jeremy W. Peters</sub>
@@ -93,9 +99,9 @@ It looks like there&#39;s a lot happening in the world right now. In the US, the
 <sub><sub>Sunday, May 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Kyiv Repels Its ‘Largest Ever Drone Attack’ From Russia</h3>
+<h3>Kyiv Repels Its Largest Ever Drone Attack Launched by Russian Forces</h3>
 <sub>By Marc Santora and Andrés R. Martínez</sub>
-<p>More than 40 drones were intercepted over Kyiv, where city officials said at least one person had been killed, probably by falling debris.  <a href="https://nyti.ms/42669Ol"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>More than 40 drones were intercepted over Kyiv, where city officials said at least one person had been killed, probably by falling debris.  <a href="https://nyti.ms/3WFTpgj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -114,12 +120,6 @@ It looks like there&#39;s a lot happening in the world right now. In the US, the
 <h3>Complications After Delivery: What Women Need to Know</h3>
 <sub>By Roni Caryn Rabin</sub>
 <p>New mothers are at risk for up to a year, research has shown. But the first six weeks are the most perilous.  <a href="https://nyti.ms/3MEeFOT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, May 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Meet the New Mayor: How a Refugee Won Over a Conservative German Town</h3>
-<sub>By Erika Solomon</sub>
-<p>The election of Ryyan Alshebl, a young man who fled Syria, offers surprising lessons for a Germany wrestling with its multicultural identity after an influx of refugees in 2015.  <a href="https://nyti.ms/3MY26PJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, May 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
