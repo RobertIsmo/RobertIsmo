@@ -58,21 +58,21 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Saturday, May 27, Central Standard Time</p>
+<p>It is Sunday, May 28, Central Standard Time</p>
 <p>
-Right now, the US has struck a deal to avoid defaulting on its debt. In other US news, there has been a lot of conflict between Republicans and Democrats over reparations and impeachment battles in the Texas Legislature. In the world, Russia attacked Kyiv and is outlasting its foes in Ukraine, while a French filmmaker just became the third woman to win the Palme d’Or at the Cannes Film Festival. Meanwhile, in Colombia, someone is pushing for dialogue and forgiveness to make peace in a deeply divided country. Finally, there’s fun news about Tina Turner, new fashion advice from a governor&#39;s wife, and flight attendant etiquette rules for air travel.</p>
+Recently, the US White House and G.O.P. reached an agreement to raise the debt ceiling for two years while cutting and capping certain federal programs. In other news, Ukraine shot down more than 40 drones over the capital in what is reported to be the largest drone attack of the war. Here at home, Democrats are debating a proposal for reparations to Black Americans and Republicans are up in arms. Additionally, France&#39;s Justine Triet became only the third woman to win the Cannes Film Festival&#39;s Palme d&#39;Or for her movie &quot;Anatomy of a Fall&quot;. Finally, Colombia&#39;s Leyner Palacios is pushing for dialogue, forgiveness and reconciliation despite receiving death threats.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>White House and G.O.P. Strike Debt Limit Deal to Avert Default</h3>
 <sub>By Jim Tankersley, Catie Edmondson and Luke Broadwater</sub>
-<p>With the government on track to reach its borrowing limit within days, negotiators sealed an agreement to raise the debt ceiling for two years while cutting and capping certain federal programs.  <a href="https://nyti.ms/3WGTy2P"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>With the government on track to reach its borrowing limit within days, negotiators sealed an agreement to raise the debt ceiling for two years while cutting and capping certain federal programs.  <a href="https://nyti.ms/3OD1IYa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Everything You Need to Know About the Debt Ceiling</h3>
-<sub>By Alan Rappeport</sub>
-<p>Congress controls how much money the United States can borrow. Here’s a look at why that is and what it means.  <a href="https://nyti.ms/44nTuIU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Initial Takeaways From the Spending and Debt Ceiling Deal</h3>
+<sub>By Peter Baker</sub>
+<p>Details are trickling out about the accord that could avert a default on the national debt. Here’s what to know.  <a href="https://nyti.ms/3BW6Ejn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, May 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The current session of the Texas Legislature has been packed with G.O.P. conflict.</h3>
@@ -87,9 +87,9 @@ Right now, the US has struck a deal to avoid defaulting on its debt. In other US
 <sub><sub>Saturday, May 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russian Attack Leaves at Least 1 Dead in Kyiv</h3>
+<h3>Deadly Night for Kyiv in Largest Drone Attack of War</h3>
 <sub>By Andrés R. Martínez</sub>
-<p>A 41-year-old man was killed by falling debris from an intercepted drone, in what appears to be the first deadly strike this month on the capital, part of near-nightly assaults.  <a href="https://nyti.ms/42669Ol"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Debris from an intercepted drone killed a man overnight as Ukraine said it shot down more than 40 drones over the capital.  <a href="https://nyti.ms/42669Ol"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
