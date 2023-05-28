@@ -60,13 +60,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, May 27, Central Standard Time</p>
 <p>
-Right now, there is a lot of political unrest in the United States. The White House and the Republican party have just struck a deal to avoid default, and in Texas, there has been a lot of infighting among Republicans. On an international level, Ukraine&#39;s top commander says they are about to launch a counteroffensive against Russia and Vladimir Putin looks like he&#39;s trying to outlast his foes. In more positive news, French filmmaker Justine Triet just won the Palme d&#39;Or at the Cannes Film Festival, and the Oakland A&#39;s finally have a stadium deal for Las Vegas. Meanwhile, Black Americans are discussing reparations and discussing nuanced questions of policy and politics. Finally, readers can test their knowledge with the NYT news quiz this week!</p>
+Right now, the US has struck a deal to avoid defaulting on its debt. In other US news, there has been a lot of conflict between Republicans and Democrats over reparations and impeachment battles in the Texas Legislature. In the world, Russia attacked Kyiv and is outlasting its foes in Ukraine, while a French filmmaker just became the third woman to win the Palme d’Or at the Cannes Film Festival. Meanwhile, in Colombia, someone is pushing for dialogue and forgiveness to make peace in a deeply divided country. Finally, there’s fun news about Tina Turner, new fashion advice from a governor&#39;s wife, and flight attendant etiquette rules for air travel.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>White House and G.O.P. Strike Debt Limit Deal to Avert Default</h3>
 <sub>By Jim Tankersley, Catie Edmondson and Luke Broadwater</sub>
 <p>With the government on track to reach its borrowing limit within days, negotiators sealed an agreement to raise the debt ceiling for two years while cutting and capping certain federal programs.  <a href="https://nyti.ms/3WGTy2P"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Everything You Need to Know About the Debt Ceiling</h3>
+<sub>By Alan Rappeport</sub>
+<p>Congress controls how much money the United States can borrow. Here’s a look at why that is and what it means.  <a href="https://nyti.ms/44nTuIU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The current session of the Texas Legislature has been packed with G.O.P. conflict.</h3>
@@ -81,9 +87,9 @@ Right now, there is a lot of political unrest in the United States. The White Ho
 <sub><sub>Saturday, May 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘It’s Time’: Ukraine’s Top Commander Says Counteroffensive Is Imminent</h3>
-<sub>By Marc Santora and Eric Schmitt</sub>
-<p>A blunt statement, accompanied by a slickly produced video of Ukrainian troops preparing for battle, appeared designed to rally the nation and to spread anxiety among Russian forces.  <a href="https://nyti.ms/42af9Sv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Russian Attack Leaves at Least 1 Dead in Kyiv</h3>
+<sub>By Andrés R. Martínez</sub>
+<p>A 41-year-old man was killed by falling debris from an intercepted drone, in what appears to be the first deadly strike this month on the capital, part of near-nightly assaults.  <a href="https://nyti.ms/42669Ol"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -116,10 +122,10 @@ Right now, there is a lot of political unrest in the United States. The White Ho
 <p>The French filmmaker Justine Triet becomes the third woman to win the top honor at the Cannes Film Festival.  <a href="https://nyti.ms/3WA6N5r"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Stop Us if You’ve Heard This Before: The A’s Have a Stadium Deal</h3>
-<sub>By Benjamin Hoffman</sub>
-<p>From faking a rainout at a World Series game to a possum in a television booth, the Athletics have rarely been happy at home. Will Las Vegas be the answer?  <a href="https://nyti.ms/3IHtpes"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Colombia’s Peace-Whisperer Makes Plenty of Enemies</h3>
+<sub>By Silvana Paternostro</sub>
+<p>Leyner Palacios’s push for dialogue, forgiveness and reconciliation has made him the face of peace in Colombia — and subjected him to death threats.  <a href="https://nyti.ms/3WyDRuG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-briefing-blue" alt="">
@@ -127,12 +133,6 @@ Right now, there is a lot of political unrest in the United States. The White Ho
 <sub>By Christine Chun</sub>
 <p>An appraisal for Tina Turner. Also: the strategic fashioning of Casey DeSantis and a flight attendant&#39;s etiquette rules for air travel.  <a href="https://nyti.ms/422XDPT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The New York Times News Quiz, May 26, 2023</h3>
-<sub></sub>
-<p>Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.  <a href="https://nyti.ms/3qayxkY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 26, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
