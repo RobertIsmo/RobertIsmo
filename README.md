@@ -60,13 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, May 28, Central Standard Time</p>
 <p>
-Right now, there&#39;s a lot going on in the world. The US just struck a deal to raise the national debt ceiling and cut and cap certain federal programs. In Turkey, a crucial presidential runoff is about to take place between President Recep Tayyip Erdogan and his challenger Kemal Kilicdaroglu. In Texas, the attorney general is facing impeachment. From Russia, a deserter was granted asylum in Norway. Ukrainian forces were able to repel a large drone attack launched by Russia. Also in the US, California Democrat Dianne Feinstein recently returned to the Senate and relies heavily on her staff members to shield her from the public and explain what&#39;s happening when she&#39;s confused. In terms of health news, recent research reveals that most pregnancy-related deaths occur within one year after birth, and new mothers need to be aware of this risk. Meanwhile in sports news, tennis player Carlos Alcaraz was able to get ahead due to his supportive father and a local candy company&#39;s generous sponsorship.</p>
+There have been several recent news stories reflecting on the influence of President Biden and his commitment to bipartisanship in negotiating a debt ceiling deal with the Republican party, the arrest warrant for a Russian deserter who had fought alongside Wagner mercenaries in Ukraine and requested asylum in Norway, the potential 2024 presidential candidates under former President Trump, a large-scale drone attack on Kyiv launched by Russian forces that resulted in at least one death, Senator Feinstein&#39;s reliance on staff whilst back in the Senate, research revealing that after giving birth presents the most dangerous time for mothers and importance of medical care during this period, a new law in Tennessee aimed at drag performers ahead of Pride Month and its constitutional validity, Richard Revesz rewriting rules on pollution fight and its climate implications, an upcoming finale of HBO drama &#39;Succession&#39; depicting rich people&#39;s problems becoming ours too and costume designer&#39;s approach to dressing characters on TV series.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>White House and G.O.P. Strike Debt Limit Deal to Avert Default</h3>
-<sub>By Jim Tankersley, Catie Edmondson and Luke Broadwater</sub>
-<p>With the government on track to reach its borrowing limit within days, negotiators sealed an agreement to raise the debt ceiling for two years while cutting and capping certain federal programs.  <a href="https://nyti.ms/3OD1IYa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, May 27, Central Standard Time</sub></sub>
+<h3>In Pursuit of Consensus, Did Biden Find the Reasonable Middle or Give Away Too Much?</h3>
+<sub>By Peter Baker</sub>
+<p>The deal to raise the debt ceiling bolsters President Biden’s argument that he is committed to bipartisanship, but it comes at the cost of rankling many in his own party.  <a href="https://nyti.ms/3MEP0FB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, May 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Initial Takeaways From the Spending and Debt Ceiling Deal</h3>
@@ -75,22 +75,10 @@ Right now, there&#39;s a lot going on in the world. The US just struck a deal to
 <sub><sub>Saturday, May 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Takeaways From the Impeachment of Texas Attorney General Ken Paxton</h3>
-<sub>By Nicholas Bogel-Burroughs and J. David Goodman</sub>
-<p>The extraordinary vote on impeachment exposed rifts among Texas Republicans and set the stage for a contentious showdown in the State Senate.  <a href="https://nyti.ms/43cRDWa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Trump Looks Like He Will Get the 2024 Crowd He Wants</h3>
+<sub>By Shane Goldmacher, Jonathan Swan and Maggie Haberman</sub>
+<p>Ron DeSantis entered the presidential race last week along with Tim Scott, with others to follow. For the former president, the more candidates the better.  <a href="https://nyti.ms/3qcZOn0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, May 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>What to Know About Turkey’s Presidential Runoff</h3>
-<sub>By Cora Engelbrecht, Ben Hubbard and Gulsin Harman</sub>
-<p>President Recep Tayyip Erdogan had an edge on his challenger, Kemal Kilicdaroglu, going into the critical vote on Sunday to shape Turkey’s future.  <a href="https://nyti.ms/3pwxiwg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Missteps and Miscalculations: Inside Fox’s Legal and Business Debacle</h3>
-<sub>By Jim Rutenberg, Michael S. Schmidt and Jeremy W. Peters</sub>
-<p>Fox’s handling of the defamation suit brought by Dominion Voting Systems, which settled for $787.5 million, left many unanswered questions.  <a href="https://nyti.ms/43rr0fZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, May 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>A Russian Deserter’s Flight to Norway Presents a Fraught Dilemma for His Host</h3>
@@ -116,23 +104,35 @@ Right now, there&#39;s a lot going on in the world. The US just struck a deal to
 <p>Recent research shows that most pregnancy-related deaths occur in the year after a baby is born. The discovery is changing how doctors care for new mothers.  <a href="https://nyti.ms/42ayGSO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, May 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Complications After Delivery: What Women Need to Know</h3>
-<sub>By Roni Caryn Rabin</sub>
-<p>New mothers are at risk for up to a year, research has shown. But the first six weeks are the most perilous.  <a href="https://nyti.ms/3MEeFOT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>​Tennessee Law Sows Fear Among Drag Performers Ahead of Pride Month</h3>
+<sub>By Emily Cochrane</sub>
+<p>A judge is expected to rule as soon as this week on whether the new law banning “adult cabaret” in front of children is constitutional.  <a href="https://nyti.ms/3WCMzba"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, May 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Before Carlos Alcaraz Was Great, He Was Good Enough to Be Lucky</h3>
-<sub>By Matthew Futterman</sub>
-<p>Success has many fathers. In Alcaraz’s case, he was born to an actual tennis-playing father, and then the local candy company swooped in to help.  <a href="https://nyti.ms/3qj2v6d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>You’ve Never Heard of Him, but He’s Remaking the Pollution Fight</h3>
+<sub>By Coral Davenport</sub>
+<p>Richard Revesz is changing the way the government calculates the cost and benefits of regulation, with far-reaching implications for climate change.  <a href="https://nyti.ms/3WGbACA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, May 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The Weekender</h3>
-<sub>By Christine Chun</sub>
-<p>An appraisal for Tina Turner. Also: the strategic fashioning of Casey DeSantis and a flight attendant&#39;s etiquette rules for air travel.  <a href="https://nyti.ms/422XDPT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>In ‘Succession,’ the Very Rich Are Very, Very Different</h3>
+<sub>By James Poniewozik</sub>
+<p>The HBO drama, which ends on Sunday, updates past rich-people soaps like “Dallas.” But unlike those series, it argues that the problems of the hyper-wealthy inevitably become ours too.  <a href="https://nyti.ms/45v6VHw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>‘Stealth Wealth’ and Bare Feet: How Power Dresses on ‘Succession’</h3>
+<sub>By Guy Trebay</sub>
+<p>The show’s costume designer, Michelle Matland, explained why she always starts “at the bottom.”  <a href="https://nyti.ms/3WBBzuO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, May 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>How Well Do You Know ‘Succession’?</h3>
+<sub>By Tala Safie</sub>
+<p>This is not a personality quiz.  <a href="https://nyti.ms/3WzBZSq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 26, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
