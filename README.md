@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, May 28, Central Standard Time</p>
 <p>
-Recently, the US White House and G.O.P. reached an agreement to raise the debt ceiling for two years while cutting and capping certain federal programs. In other news, Ukraine shot down more than 40 drones over the capital in what is reported to be the largest drone attack of the war. Here at home, Democrats are debating a proposal for reparations to Black Americans and Republicans are up in arms. Additionally, France&#39;s Justine Triet became only the third woman to win the Cannes Film Festival&#39;s Palme d&#39;Or for her movie &quot;Anatomy of a Fall&quot;. Finally, Colombia&#39;s Leyner Palacios is pushing for dialogue, forgiveness and reconciliation despite receiving death threats.</p>
+Recently, the White House and G.O.P. reached a deal to raise the US debt limit for two years and cut certain federal programs in order to avoid defaulting on the national debt. In Colombia, Leyner Palacios is working for dialogue, forgiveness, and reconciliation in spite of receiving death threats due to his efforts. A lawyer in New York relied on artificial intelligence to help prepare a court filing which unfortunately did not go well. Meanwhile, at the Cannes Film Festival, Justine Triet became only the third woman to win the top honor. Additionally, people are brushing up on their spelling and pop culture knowledge as they prepare for the upcoming Scripps Spelling Bee competition. Finally, Tina Turner recently received an appraisal, while Florida&#39;s newly-elected First Lady got plenty of attention for her strategic fashioning.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>White House and G.O.P. Strike Debt Limit Deal to Avert Default</h3>
@@ -89,7 +89,7 @@ Recently, the US White House and G.O.P. reached an agreement to raise the debt c
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Deadly Night for Kyiv in Largest Drone Attack of War</h3>
 <sub>By Andrés R. Martínez</sub>
-<p>Debris from an intercepted drone killed a man overnight as Ukraine said it shot down more than 40 drones over the capital.  <a href="https://nyti.ms/42669Ol"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Debris from an intercepted drone killed a man overnight Saturday as Ukraine said it shot down more than 40 drones over the capital.  <a href="https://nyti.ms/42669Ol"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
