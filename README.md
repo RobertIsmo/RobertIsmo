@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, May 28, Central Standard Time</p>
 <p>
-Recently, the White House and G.O.P. reached a deal to raise the US debt limit for two years and cut certain federal programs in order to avoid defaulting on the national debt. In Colombia, Leyner Palacios is working for dialogue, forgiveness, and reconciliation in spite of receiving death threats due to his efforts. A lawyer in New York relied on artificial intelligence to help prepare a court filing which unfortunately did not go well. Meanwhile, at the Cannes Film Festival, Justine Triet became only the third woman to win the top honor. Additionally, people are brushing up on their spelling and pop culture knowledge as they prepare for the upcoming Scripps Spelling Bee competition. Finally, Tina Turner recently received an appraisal, while Florida&#39;s newly-elected First Lady got plenty of attention for her strategic fashioning.</p>
+It looks like there&#39;s a lot happening in the world right now. In the US, the White House and G.O.P. have struck a debt limit deal to avert default and they&#39;ve just impeached Texas Attorney General Ken Paxton. On the business side, Fox has been dealing with a legal and business debacle over a Dominion Voting Systems defamation suit that it paid out $787.5 million to settle. Internationally, a Russian deserter&#39;s flight to Norway is causing tension between them and Ukraine, while Kyev is repelling its &#39;largest ever drone attack&#39; from Russia with at least one person killed by falling debris. On the medical side of things, new research shows that pregnant women are most at risk for death in the year after giving birth. Finally, in sports, Real Madrid&#39;s teenage prodigy Carlos Alcaraz is gaining attention for his recent success in tennis, while a refugee named Ryyan Alshebl won an election in a conservative German town and is has been offering lessons on Germany&#39;s multicultural identity after a wave of refugees in 2015. Overall, it looks like some moments of tension mixed with others of hope!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>White House and G.O.P. Strike Debt Limit Deal to Avert Default</h3>
@@ -75,58 +75,58 @@ Recently, the White House and G.O.P. reached a deal to raise the US debt limit f
 <sub><sub>Saturday, May 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The current session of the Texas Legislature has been packed with G.O.P. conflict.</h3>
-<sub>By J. David Goodman</sub>
-<p>The intraparty impeachment battle among Texas Republicans punctuated a legislative session marked by divisions, name-calling and discontent among top leaders in the Republican-dominated state  <a href="https://nyti.ms/43vnzVG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, May 27, Central Standard Time</sub></sub>
+<h3>Takeaways From the Impeachment of Texas Attorney General Ken Paxton</h3>
+<sub>By Nicholas Bogel-Burroughs and J. David Goodman</sub>
+<p>The extraordinary vote on impeachment exposed rifts among Texas Republicans and set the stage for a contentious showdown in the State Senate.  <a href="https://nyti.ms/43cRDWa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, May 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Who are the key political players in the Paxton drama?</h3>
-<sub>By David Montgomery</sub>
-<p>  <a href="https://nyti.ms/42gONhv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, May 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Deadly Night for Kyiv in Largest Drone Attack of War</h3>
-<sub>By Andrés R. Martínez</sub>
-<p>Debris from an intercepted drone killed a man overnight Saturday as Ukraine said it shot down more than 40 drones over the capital.  <a href="https://nyti.ms/42669Ol"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Missteps and Miscalculations: Inside Fox’s Legal and Business Debacle</h3>
+<sub>By Jim Rutenberg, Michael S. Schmidt and Jeremy W. Peters</sub>
+<p>Fox’s handling of the defamation suit brought by Dominion Voting Systems, which settled for $787.5 million, left many unanswered questions.  <a href="https://nyti.ms/43rr0fZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Barely Noting War in Public, Putin Acts Like Time Is on His Side</h3>
-<sub>By Anton Troianovski and Paul Sonne</sub>
-<p>Vladimir V. Putin of Russia looks like a commander in absentia, treating the war in Ukraine as unfortunate but distant. His options have narrowed, but he is still betting on outlasting his foes.  <a href="https://nyti.ms/3WzNwBa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, May 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Reparations Are a Financial Quandary. For Democrats, They’re a Political One, Too.</h3>
-<sub>By Trip Gabriel, Maya King, Kurtis Lee and Shawn Hubler</sub>
-<p>Republicans have criticized recent estimates of what Black Americans are owed in reparations. But for Democrats, they pose deeper problems for a party eager to retain the allegiance of Black voters.  <a href="https://nyti.ms/3WG6NB4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, May 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Can You Guess These 10 Wacky Words From the Scripps Spelling Bee?</h3>
-<sub>By Amanda Montell, Andrew Herzog and Nicky Tesla</sub>
-<p>From nonsense terms to 20th-century slang, these words from past Scripps Bee competitions or training lists will test your pop cultural knowledge, Latin chops and spelling skills.  <a href="https://nyti.ms/45sBKg5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Here’s What Happens When Your Lawyer Uses ChatGPT</h3>
-<sub>By Benjamin Weiser</sub>
-<p>A lawyer representing a man who sued an airline relied on artificial intelligence to help prepare a court filing. It did not go well.  <a href="https://nyti.ms/43mGnqc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, May 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>‘Anatomy of a Fall’ Wins the Palme d’Or</h3>
-<sub>By Manohla Dargis</sub>
-<p>The French filmmaker Justine Triet becomes the third woman to win the top honor at the Cannes Film Festival.  <a href="https://nyti.ms/3WA6N5r"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, May 27, Central Standard Time</sub></sub>
+<h3>A Russian Deserter’s Flight to Norway Presents a Fraught Dilemma for His Host</h3>
+<sub>By Anatoly Kurmanaev and Henrik Pryser Libell</sub>
+<p>Andrei Medvedev fought with Russia’s Wagner mercenaries in Ukraine, then requested asylum in Norway. The authorities there must now weigh his plea against solidarity with Ukraine.  <a href="https://nyti.ms/3MG16OG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, May 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Colombia’s Peace-Whisperer Makes Plenty of Enemies</h3>
-<sub>By Silvana Paternostro</sub>
-<p>Leyner Palacios’s push for dialogue, forgiveness and reconciliation has made him the face of peace in Colombia — and subjected him to death threats.  <a href="https://nyti.ms/3WyDRuG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 26, Central Standard Time</sub></sub>
+<h3>Kyiv Repels Its ‘Largest Ever Drone Attack’ From Russia</h3>
+<sub>By Marc Santora and Andrés R. Martínez</sub>
+<p>More than 40 drones were intercepted over Kyiv, where city officials said at least one person had been killed, probably by falling debris.  <a href="https://nyti.ms/42669Ol"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, May 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Feinstein, Back in the Senate, Relies Heavily on Staff to Function</h3>
+<sub>By Annie Karni</sub>
+<p>The California Democrat is surrounded by a large retinue of aides at all times, who tell her how and when to vote, explain what is going on when she is confused, and shield her from the press and public.  <a href="https://nyti.ms/3MG16hE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, May 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Maternity’s Most Dangerous Time: After New Mothers Come Home</h3>
+<sub>By Roni Caryn Rabin</sub>
+<p>Recent research shows that most pregnancy-related deaths occur in the year after a baby is born. The discovery is changing how doctors care for new mothers.  <a href="https://nyti.ms/42ayGSO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, May 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Complications After Delivery: What Women Need to Know</h3>
+<sub>By Roni Caryn Rabin</sub>
+<p>New mothers are at risk for up to a year, research has shown. But the first six weeks are the most perilous.  <a href="https://nyti.ms/3MEeFOT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, May 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Meet the New Mayor: How a Refugee Won Over a Conservative German Town</h3>
+<sub>By Erika Solomon</sub>
+<p>The election of Ryyan Alshebl, a young man who fled Syria, offers surprising lessons for a Germany wrestling with its multicultural identity after an influx of refugees in 2015.  <a href="https://nyti.ms/3MY26PJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, May 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Before Carlos Alcaraz Was Great, He Was Good Enough to Be Lucky</h3>
+<sub>By Matthew Futterman</sub>
+<p>Success has many fathers. In Alcaraz’s case, he was born to an actual tennis-playing father, and then the local candy company swooped in to help.  <a href="https://nyti.ms/3qj2v6d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, May 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-briefing-blue" alt="">
 <h3>The Weekender</h3>
