@@ -60,12 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, May 28, Central Standard Time</p>
 <p>
-There have been several recent news stories reflecting on the influence of President Biden and his commitment to bipartisanship in negotiating a debt ceiling deal with the Republican party, the arrest warrant for a Russian deserter who had fought alongside Wagner mercenaries in Ukraine and requested asylum in Norway, the potential 2024 presidential candidates under former President Trump, a large-scale drone attack on Kyiv launched by Russian forces that resulted in at least one death, Senator Feinstein&#39;s reliance on staff whilst back in the Senate, research revealing that after giving birth presents the most dangerous time for mothers and importance of medical care during this period, a new law in Tennessee aimed at drag performers ahead of Pride Month and its constitutional validity, Richard Revesz rewriting rules on pollution fight and its climate implications, an upcoming finale of HBO drama &#39;Succession&#39; depicting rich people&#39;s problems becoming ours too and costume designer&#39;s approach to dressing characters on TV series.</p>
+In the US, President Biden has reached an agreement with Speaker of the House McCarthy to raise the debt ceiling. The deal has sparked debate on whether bipartisanship was achieved or too much was given away. In his negotiations, President Biden is also pushing for quick passage on Capitol Hill. Meanwhile, news of former president Trump&#39;s plans for 2024 has also come out with a swath of potential candidates ready to join the race — it increasingly looks like he will get the crowd he wants. 
+
+Overseas, in Russia, there&#39;s a particularly complex situation unfolding involving a deserting mercenary who requested asylum in Norway. Norwegian officials are now grappling with how far their solidarity towards Ukraine should extend.  Kyiv inspectors have also intercepted a huge drone attack by Russian forces, unsurprisingly leading to heightened tensions among both countries and even resulting in a casualty. 
+
+On a more global level, we&#39;re reminded of the danger that comes after childbirth when recent research reveals most pregnancy-related deaths occur in the first year of motherhood. Additionally, Tennessee legislators have proposed a new law banning “adult cabaret” performances for children which could affect Pride events this month. 
+
+On a lighter note, fashion fans have been getting inspired by HBO show &#39;Succession&#39;, which explores the lives of hyper-wealthy individuals through its power dressing that we can all learn from!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In Pursuit of Consensus, Did Biden Find the Reasonable Middle or Give Away Too Much?</h3>
 <sub>By Peter Baker</sub>
 <p>The deal to raise the debt ceiling bolsters President Biden’s argument that he is committed to bipartisanship, but it comes at the cost of rankling many in his own party.  <a href="https://nyti.ms/3MEP0FB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, May 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>With Debt Limit Deal in Hand, McCarthy and Biden Turn to Task of Selling It</h3>
+<sub>By Luke Broadwater and Chris Cameron</sub>
+<p>With the right and the left up in arms about the agreement in principle reached by the president and the speaker, both sides started to make the case for its quick passage, a tall order in Congress.  <a href="https://nyti.ms/3WFyWb7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, May 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -127,12 +139,6 @@ There have been several recent news stories reflecting on the influence of Presi
 <sub>By Guy Trebay</sub>
 <p>The show’s costume designer, Michelle Matland, explained why she always starts “at the bottom.”  <a href="https://nyti.ms/3WBBzuO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, May 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>How Well Do You Know ‘Succession’?</h3>
-<sub>By Tala Safie</sub>
-<p>This is not a personality quiz.  <a href="https://nyti.ms/3WzBZSq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 26, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
