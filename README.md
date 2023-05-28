@@ -60,31 +60,25 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, May 27, Central Standard Time</p>
 <p>
-There is a lot going on in the US and around the world. In the US, Texas Attorney General Ken Paxton is facing impeachment and Treasury Secretary Janet Yellen is warning about the debt limit. Behind the scenes, there are midnight calls and marathon meetings as negotiations go on in Washington D.C. On the world stage, Ukraine&#39;s top commander is warning of an imminent counteroffensive against Russia while Russian president Vladimir Putin seems to be betting on outlasting his foes. Here in the US, there is a debate over reparations as well as some quirky moments from past Scripps Spelling Bee competitions. Also making news is a lawyer using artificial intelligence to prepare a court filing which didn&#39;t go well, plus the Oakland A&#39;s have another proposal for a new stadium in Las Vegas. Lastly, NYC is facing a lifeguard shortage due to pay increases and unions being blamed by the city.</p>
+Right now, there is a lot of political unrest in the United States. The White House and the Republican party have just struck a deal to avoid default, and in Texas, there has been a lot of infighting among Republicans. On an international level, Ukraine&#39;s top commander says they are about to launch a counteroffensive against Russia and Vladimir Putin looks like he&#39;s trying to outlast his foes. In more positive news, French filmmaker Justine Triet just won the Palme d&#39;Or at the Cannes Film Festival, and the Oakland A&#39;s finally have a stadium deal for Las Vegas. Meanwhile, Black Americans are discussing reparations and discussing nuanced questions of policy and politics. Finally, readers can test their knowledge with the NYT news quiz this week!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Fighting for Conservative Causes Has Helped Ken Paxton Survive Legal Woes</h3>
-<sub>By J. David Goodman</sub>
-<p>With the Texas House set to vote on his impeachment, Mr. Paxton is counting on political support that he’s amassed as a Republican legal firebrand.  <a href="https://nyti.ms/3BYtMgZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Impeachment Vote Set for Texas Attorney General Ken Paxton: What to Know</h3>
-<sub>By Jacey Fortin and J. David Goodman</sub>
-<p>The Texas House is set to vote on Saturday on the impeachment of Mr. Paxton, the culmination of years of official complaints and legal proceedings involving the three-term attorney general.  <a href="https://nyti.ms/3N1lPhz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Yellen’s Debt Limit Warnings Went Unheeded, Leaving Her to Face Fallout</h3>
-<sub>By Alan Rappeport</sub>
-<p>The Treasury secretary, who considered ways to contain the fallout of a default when she was a Fed official in 2011, had urged Democrats to raise the limit while they still had control of Congress.  <a href="https://nyti.ms/43tBxax"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>White House and G.O.P. Strike Debt Limit Deal to Avert Default</h3>
+<sub>By Jim Tankersley, Catie Edmondson and Luke Broadwater</sub>
+<p>With the government on track to reach its borrowing limit within days, negotiators sealed an agreement to raise the debt ceiling for two years while cutting and capping certain federal programs.  <a href="https://nyti.ms/3WGTy2P"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Behind the Scenes: Midnight Calls and Marathon Meetings, Night After Night</h3>
-<sub>By Katie Rogers and Luke Broadwater</sub>
-<p>What day is it, anyway? As talks drag on, the situation is getting painful for everyone from the negotiators to the tourists on Capitol Hill.  <a href="https://nyti.ms/3MBYi5o"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 26, Central Standard Time</sub></sub>
+<h3>The current session of the Texas Legislature has been packed with G.O.P. conflict.</h3>
+<sub>By J. David Goodman</sub>
+<p>The intraparty impeachment battle among Texas Republicans punctuated a legislative session marked by divisions, name-calling and discontent among top leaders in the Republican-dominated state  <a href="https://nyti.ms/43vnzVG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, May 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Who are the key political players in the Paxton drama?</h3>
+<sub>By David Montgomery</sub>
+<p>  <a href="https://nyti.ms/42gONhv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, May 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>‘It’s Time’: Ukraine’s Top Commander Says Counteroffensive Is Imminent</h3>
@@ -116,23 +110,29 @@ There is a lot going on in the US and around the world. In the US, Texas Attorne
 <p>A lawyer representing a man who sued an airline relied on artificial intelligence to help prepare a court filing. It did not go well.  <a href="https://nyti.ms/43mGnqc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 27, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>‘Anatomy of a Fall’ Wins the Palme d’Or</h3>
+<sub>By Manohla Dargis</sub>
+<p>The French filmmaker Justine Triet becomes the third woman to win the top honor at the Cannes Film Festival.  <a href="https://nyti.ms/3WA6N5r"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, May 27, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Stop Us if You’ve Heard This Before: The A’s Have a Stadium Deal</h3>
 <sub>By Benjamin Hoffman</sub>
 <p>From faking a rainout at a World Series game to a possum in a television booth, the Athletics have rarely been happy at home. Will Las Vegas be the answer?  <a href="https://nyti.ms/3IHtpes"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Why New York City’s Lifeguard Shortage Is Even Worse This Year</h3>
-<sub>By Corey Kilgannon, Dana Rubinstein and Calla Kessler</sub>
-<p>Despite pay increases and efforts to simplify the notoriously difficult swim test, New York’s lifeguard shortage is dire. The city says the lifeguard unions are partly to blame.  <a href="https://nyti.ms/3orqEHz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, May 27, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-briefing-blue" alt="">
 <h3>The Weekender</h3>
 <sub>By Christine Chun</sub>
 <p>An appraisal for Tina Turner. Also: the strategic fashioning of Casey DeSantis and a flight attendant&#39;s etiquette rules for air travel.  <a href="https://nyti.ms/422XDPT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The New York Times News Quiz, May 26, 2023</h3>
+<sub></sub>
+<p>Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.  <a href="https://nyti.ms/3qayxkY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 26, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
