@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, May 29, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now! In the US, former president Donald Trump is looking to back a number of candidates for the 2024 election. Joe Biden is in pursuit of bipartisanship but has sparked debate within his own party. Meanwhile, back in Texas, Republican tensions are growing and there have been attempts to limit voting in Democratic strongholds. There are also developments abroad - Erdogan was re-elected despite a tough race and inflation in Turkey, and Norway is grappling with a Russian deserter who fought alongside mercenary forces in Ukraine. Furthermore, Tennessee has passed a law banning drag performances for children ahead of Pride Month, and a lawyer by the name of Richard Revesz is revolutionizing how the government assesses pollution. Finally, two people have left their city lives to start an oyster farm with 2 million mollusks!</p>
+There has been plenty of news happening both at home and abroad recently. In the US, President Trump is looking to gain supporters for his 2024 crowd while President Biden is facing some hurdles in getting bipartisan support for a debt limit deal he reached with House Speaker McCarthy. Meanwhile, Recep Tayyip Erdogan has been re-elected for a fourth term as President of Turkey despite an economic crisis and California Democrat Dianne Feinstein is relying heavily on her staff members to keep functioning in the Senate. Over in Texas, Ken Paxton has been impeached by the state legislature and Republicans are divided over the impeachment vote. Heading overseas, Russia&#39;s deserter to Norway has presented a difficult dilemma for his host country and Uganda&#39;s president Yoweri Maveseni signed an anti-gay bill into law. Finally, in Tennessee there are fears among drag performers about a new law that bans &quot;adult cabaret&quot; in front of children and one obscure person is having far-reaching implications on pollution fight regulations.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Looks Like He Will Get the 2024 Crowd He Wants</h3>
@@ -116,6 +116,12 @@ There&#39;s a lot going on in the world right now! In the US, former president D
 <p>Andrei Medvedev fought with Russia’s Wagner mercenaries in Ukraine, then requested asylum in Norway. The authorities there must now weigh his plea against solidarity with Ukraine.  <a href="https://nyti.ms/3MG16OG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, May 28, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Uganda’s President Signs Punitive Anti-Gay Bill Into Law</h3>
+<sub>By Abdi Latif Dahir</sub>
+<p>President Yoweri Museveni dismissed widespread criticism of the anti-gay measure, which calls for life imprisonment for anyone convicted of homosexuality.  <a href="https://nyti.ms/3qf88Cy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 29, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>​Tennessee Law Sows Fear Among Drag Performers Ahead of Pride Month</h3>
 <sub>By Emily Cochrane</sub>
@@ -127,12 +133,6 @@ There&#39;s a lot going on in the world right now! In the US, former president D
 <sub>By Coral Davenport</sub>
 <p>Richard Revesz is changing the way the government calculates the cost and benefits of regulation, with far-reaching implications for climate change.  <a href="https://nyti.ms/3WGbACA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, May 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-realestate-blue" alt="">
-<h3>They Knew Little About Oysters. Now They Have a Farm With 2 Million.</h3>
-<sub>By Heather Senison</sub>
-<p>Stefanie Bassett and Elizabeth Peeples left their city lives behind to raise mollusks.  <a href="https://nyti.ms/43sJVXS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 26, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
