@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, May 29, Central Standard Time</p>
 <p>
-Right now, there are various news stories happening around the world. In the US, there is a budget deal between President Biden and Republicans to raise the debt ceiling while in Turkey President Recep Tayyip Erdogan has been re-elected. In America, there is a tragedy in a small town, and former President Trump is looking at potential 2024 candidates to join the presidential race. There are also news stories about wind power being used in Ukraine as an alternative energy source and Texas House voting to impeach its attorney general. Finally, the TV series &#39;Succession&#39; had its series finale which left viewers with many unanswered questions.</p>
+Right now, the U.S. is facing some budget cuts under President Biden and Republicans have to come to an agreement on debt limit issues. In other news, Recep Tayyip Erdogan has been re-elected as Turkey&#39;s president, which could potentially change the country&#39;s relationship with Sweden in NATO. The former president, Donald Trump, is trying to build a crowd for 2024 and more candidates are joining in the mix. Additionally, a tragedy in a small town recently became a right-wing talking point and was distorted by Trump’s megaphone. Lastly, Ukraine has started using wind power as it&#39;s harder to destroy than regular power plants and the Republican Party&#39;s rifts have grown in Texas due to conflicts between moderates and hard-liners.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Why Spending Cuts Likely Won’t Shake the Economy</h3>
@@ -68,11 +68,11 @@ Right now, there are various news stories happening around the world. In the US,
 <p>With low unemployment and above-trend inflation, the economy is well positioned to absorb the modest budget cuts that President Biden and Republicans negotiated.  <a href="https://nyti.ms/3WGvpcX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Pursuit of Consensus, Did Biden Find the Reasonable Middle or Give Away Too Much?</h3>
-<sub>By Peter Baker</sub>
-<p>The deal to raise the debt ceiling bolsters President Biden’s argument that he is committed to bipartisanship, but it comes at the cost of rankling many in his own party.  <a href="https://nyti.ms/3MEP0FB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, May 28, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>What’s in the Bipartisan Debt Limit Agreement</h3>
+<sub>By Jim Tankersley and Alan Rappeport</sub>
+<p>Spending caps, additional work requirements for food stamps and a new natural gas pipeline are just several of the components in a deal President Biden and Speaker Kevin McCarthy reached to prevent default.  <a href="https://nyti.ms/3IMU0Hf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Will Erdogan’s Victory Soften Turkey’s Opposition to Sweden in NATO?</h3>
@@ -104,6 +104,18 @@ Right now, there are various news stories happening around the world. In the US,
 <p>Anticipating a swell of visitors as peak season begins, workers at Bryce Canyon National Park are clearing trails, training rangers and conserving wildlife.  <a href="https://nyti.ms/3ILGsM9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, May 28, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>‘Succession’ Series Finale Recap: The Dotted Line</h3>
+<sub>By Noel Murray</sub>
+<p>Who won? Who lost? Who was left staring off into the sea?  <a href="https://nyti.ms/3otFLAd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, May 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>‘Succession’ Is Over. Why Did We Care?</h3>
+<sub>By Alexis Soloski</sub>
+<p>For five years, the series and the question of who would end up in charge captivated a chatty swath of the TV audience. But did anyone really win in the end?  <a href="https://nyti.ms/3WCk9Os"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, May 28, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>With Watchful Eyes, a Nationwide Network Tracks Antisemitic Threats</h3>
 <sub>By Campbell Robertson</sub>
@@ -120,18 +132,6 @@ Right now, there are various news stories happening around the world. In the US,
 <h3>Long Before Impeachment, G.O.P. Rifts Were Growing in Texas</h3>
 <sub>By J. David Goodman</sub>
 <p>The building conflict between moderates and hard-liners in one of the Republican Party’s most important states highlights tension over the future of the party.  <a href="https://nyti.ms/3oIVsmW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, May 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Texas House Votes to Impeach Attorney General Ken Paxton: What to Know</h3>
-<sub>By Jacey Fortin and J. David Goodman</sub>
-<p>The move on Saturday was the culmination of years of official complaints and legal proceedings involving the three-term attorney general.  <a href="https://nyti.ms/3N1lPhz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>‘Succession’ Series Finale Recap: The Dotted Line</h3>
-<sub>By Noel Murray</sub>
-<p>Who won? Who lost? Who was left staring off into the sea?  <a href="https://nyti.ms/3otFLAd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, May 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
