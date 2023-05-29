@@ -60,19 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, May 29, Central Standard Time</p>
 <p>
-There has been plenty of news happening both at home and abroad recently. In the US, President Trump is looking to gain supporters for his 2024 crowd while President Biden is facing some hurdles in getting bipartisan support for a debt limit deal he reached with House Speaker McCarthy. Meanwhile, Recep Tayyip Erdogan has been re-elected for a fourth term as President of Turkey despite an economic crisis and California Democrat Dianne Feinstein is relying heavily on her staff members to keep functioning in the Senate. Over in Texas, Ken Paxton has been impeached by the state legislature and Republicans are divided over the impeachment vote. Heading overseas, Russia&#39;s deserter to Norway has presented a difficult dilemma for his host country and Uganda&#39;s president Yoweri Maveseni signed an anti-gay bill into law. Finally, in Tennessee there are fears among drag performers about a new law that bans &quot;adult cabaret&quot; in front of children and one obscure person is having far-reaching implications on pollution fight regulations.</p>
+Right now, there are various news stories happening around the world. In the US, there is a budget deal between President Biden and Republicans to raise the debt ceiling while in Turkey President Recep Tayyip Erdogan has been re-elected. In America, there is a tragedy in a small town, and former President Trump is looking at potential 2024 candidates to join the presidential race. There are also news stories about wind power being used in Ukraine as an alternative energy source and Texas House voting to impeach its attorney general. Finally, the TV series &#39;Succession&#39; had its series finale which left viewers with many unanswered questions.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Looks Like He Will Get the 2024 Crowd He Wants</h3>
-<sub>By Shane Goldmacher, Jonathan Swan and Maggie Haberman</sub>
-<p>Ron DeSantis entered the presidential race last week along with Tim Scott, with others to follow. For the former president, the more candidates the better.  <a href="https://nyti.ms/3qcZOn0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, May 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Despite Inflation, Earthquakes and Tough Race, Erdogan Is Re-elected</h3>
-<sub>By Ben Hubbard</sub>
-<p>Recep Tayyip Erdogan has given few indications that he intends to change course at home, where he faces a looming economic crisis, or in foreign policy, where he has vexed Western allies.  <a href="https://nyti.ms/3IL0WES"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, May 28, Central Standard Time</sub></sub>
+<h3>Why Spending Cuts Likely Won’t Shake the Economy</h3>
+<sub>By Jim Tankersley</sub>
+<p>With low unemployment and above-trend inflation, the economy is well positioned to absorb the modest budget cuts that President Biden and Republicans negotiated.  <a href="https://nyti.ms/3WGvpcX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In Pursuit of Consensus, Did Biden Find the Reasonable Middle or Give Away Too Much?</h3>
@@ -80,17 +74,47 @@ There has been plenty of news happening both at home and abroad recently. In the
 <p>The deal to raise the debt ceiling bolsters President Biden’s argument that he is committed to bipartisanship, but it comes at the cost of rankling many in his own party.  <a href="https://nyti.ms/3MEP0FB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, May 28, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Will Erdogan’s Victory Soften Turkey’s Opposition to Sweden in NATO?</h3>
+<sub>By Steven Erlanger</sub>
+<p>Recep Tayyip Erdogan, re-elected as Turkey’s president, is expected to toughen up at home but seek better ties with Washington and ratify Swedish membership of the military alliance.  <a href="https://nyti.ms/3C0JxnD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Five Takeaways From Turkey’s Presidential Election</h3>
+<sub>By Ben Hubbard</sub>
+<p>Crises including earthquakes and inflation did not stop the re-election of President Recep Tayyip Erdogan. The vote was seen as free but not fair, as he used his power to tilt the playing field.  <a href="https://nyti.ms/43zmPyT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 29, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>With Debt Limit Deal in Hand, McCarthy and Biden Turn to Task of Selling It</h3>
-<sub>By Luke Broadwater and Chris Cameron</sub>
-<p>With the right and the left up in arms about the agreement in principle reached by the president and the speaker, both sides started to make the case for its quick passage, a tall order in Congress.  <a href="https://nyti.ms/3WFyWb7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>A Small Town’s Tragedy, Distorted by Trump’s Megaphone</h3>
+<sub>By Charles Homans and Ken Bensinger</sub>
+<p>When a teen’s killing became a right-wing talking point, the rush to outrage obscured a more complicated story.  <a href="https://nyti.ms/3C7fsCN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Looks Like He Will Get the 2024 Crowd He Wants</h3>
+<sub>By Shane Goldmacher, Jonathan Swan and Maggie Haberman</sub>
+<p>Ron DeSantis entered the presidential race last week along with Tim Scott, with others to follow. For the former president, the more candidates the better.  <a href="https://nyti.ms/3qcZOn0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, May 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Feinstein, Back in the Senate, Relies Heavily on Staff to Function</h3>
-<sub>By Annie Karni</sub>
-<p>The California Democrat is surrounded by a large retinue of aides at all times, who tell her how and when to vote, explain what is going on when she is confused, and shield her from the press and public.  <a href="https://nyti.ms/3MG16hE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>How to Open a National Park for the Summer Season</h3>
+<sub>By Erin Schaff, Linda Qiu, Marisa Schwartz Taylor and Sean Catangui</sub>
+<p>Anticipating a swell of visitors as peak season begins, workers at Bryce Canyon National Park are clearing trails, training rangers and conserving wildlife.  <a href="https://nyti.ms/3ILGsM9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, May 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>With Watchful Eyes, a Nationwide Network Tracks Antisemitic Threats</h3>
+<sub>By Campbell Robertson</sub>
+<p>The mass shooting at the Tree of Life synagogue in Pittsburgh led to arguably the most ambitious effort ever undertaken to protect Jewish institutions in America.  <a href="https://nyti.ms/43bxobw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukraine Sees New Virtue in Wind Power: It’s Harder to Destroy</h3>
+<sub>By Maria Varenikova</sub>
+<p>Bombarding the power grid has been an essential part of Russia’s invasion, but officials say it would take many more missile strikes to badly damage a wind farm than a power plant.  <a href="https://nyti.ms/43vcQKH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Long Before Impeachment, G.O.P. Rifts Were Growing in Texas</h3>
@@ -104,34 +128,10 @@ There has been plenty of news happening both at home and abroad recently. In the
 <p>The move on Saturday was the culmination of years of official complaints and legal proceedings involving the three-term attorney general.  <a href="https://nyti.ms/3N1lPhz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>With New Voting Bills, Texas Legislature Targets Elections in Democratic Stronghold</h3>
-<sub>By J. David Goodman</sub>
-<p>The bills’ passage was the culmination of a Republican effort to increase oversight of voting in Harris County, which includes Houston.  <a href="https://nyti.ms/45xWWRI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, May 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Russian Deserter’s Flight to Norway Presents a Fraught Dilemma for His Host</h3>
-<sub>By Anatoly Kurmanaev and Henrik Pryser Libell</sub>
-<p>Andrei Medvedev fought with Russia’s Wagner mercenaries in Ukraine, then requested asylum in Norway. The authorities there must now weigh his plea against solidarity with Ukraine.  <a href="https://nyti.ms/3MG16OG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, May 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Uganda’s President Signs Punitive Anti-Gay Bill Into Law</h3>
-<sub>By Abdi Latif Dahir</sub>
-<p>President Yoweri Museveni dismissed widespread criticism of the anti-gay measure, which calls for life imprisonment for anyone convicted of homosexuality.  <a href="https://nyti.ms/3qf88Cy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>​Tennessee Law Sows Fear Among Drag Performers Ahead of Pride Month</h3>
-<sub>By Emily Cochrane</sub>
-<p>A judge is expected to rule as soon as this week on whether the new law banning “adult cabaret” in front of children is constitutional.  <a href="https://nyti.ms/3WCMzba"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, May 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>You’ve Never Heard of Him, but He’s Remaking the Pollution Fight</h3>
-<sub>By Coral Davenport</sub>
-<p>Richard Revesz is changing the way the government calculates the cost and benefits of regulation, with far-reaching implications for climate change.  <a href="https://nyti.ms/3WGbACA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>‘Succession’ Series Finale Recap: The Dotted Line</h3>
+<sub>By Noel Murray</sub>
+<p>Who won? Who lost? Who was left staring off into the sea?  <a href="https://nyti.ms/3otFLAd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, May 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
