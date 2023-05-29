@@ -60,14 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, May 28, Central Standard Time</p>
 <p>
-In the US, President Biden has reached an agreement with Speaker of the House McCarthy to raise the debt ceiling. The deal has sparked debate on whether bipartisanship was achieved or too much was given away. In his negotiations, President Biden is also pushing for quick passage on Capitol Hill. Meanwhile, news of former president Trump&#39;s plans for 2024 has also come out with a swath of potential candidates ready to join the race — it increasingly looks like he will get the crowd he wants. 
-
-Overseas, in Russia, there&#39;s a particularly complex situation unfolding involving a deserting mercenary who requested asylum in Norway. Norwegian officials are now grappling with how far their solidarity towards Ukraine should extend.  Kyiv inspectors have also intercepted a huge drone attack by Russian forces, unsurprisingly leading to heightened tensions among both countries and even resulting in a casualty. 
-
-On a more global level, we&#39;re reminded of the danger that comes after childbirth when recent research reveals most pregnancy-related deaths occur in the first year of motherhood. Additionally, Tennessee legislators have proposed a new law banning “adult cabaret” performances for children which could affect Pride events this month. 
-
-On a lighter note, fashion fans have been getting inspired by HBO show &#39;Succession&#39;, which explores the lives of hyper-wealthy individuals through its power dressing that we can all learn from!</p>
+There is a lot going on in the world right now. In the US, former President Trump looks like he will get the candidates he wants in the next election. Meanwhile, Recep Tayyip Erdogan has been re-elected in Turkey despite inflation, earthquakes and a tough race. President Biden was also successful in achieving a bipartisan consensus for a debt ceiling agreement, but some from his own party feel that he gave away too much. In addition, the Texas legislature is targeting elections in Democratic strongholds and Tennessee lawmakers have enacted a law that could affect drag performers ahead of Pride Month. On an international level, a Russian deserter&#39;s fleeing to Norway has created a fraught dilemma for its host nation. Climate change has become an even bigger issue recently due to one man&#39;s efforts to calculate the cost and benefits of regulation. Some people are changing their lives to pursue something new - like a couple who were uninitiated with oyster farming but now have 2 million of them!</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Looks Like He Will Get the 2024 Crowd He Wants</h3>
+<sub>By Shane Goldmacher, Jonathan Swan and Maggie Haberman</sub>
+<p>Ron DeSantis entered the presidential race last week along with Tim Scott, with others to follow. For the former president, the more candidates the better.  <a href="https://nyti.ms/3qcZOn0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, May 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Despite Inflation, Earthquakes and Tough Race, Erdogan Is Re-elected</h3>
+<sub>By Ben Hubbard</sub>
+<p>Recep Tayyip Erdogan has given few indications that he intends to change course at home, where he faces a looming economic crisis, or in foreign policy, where he has vexed Western allies.  <a href="https://nyti.ms/3IL0WES"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, May 28, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In Pursuit of Consensus, Did Biden Find the Reasonable Middle or Give Away Too Much?</h3>
 <sub>By Peter Baker</sub>
@@ -81,39 +87,33 @@ On a lighter note, fashion fans have been getting inspired by HBO show &#39;Succ
 <sub><sub>Sunday, May 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Initial Takeaways From the Spending and Debt Ceiling Deal</h3>
-<sub>By Peter Baker</sub>
-<p>Details are trickling out about the accord that could avert a default on the national debt. Here’s what to know.  <a href="https://nyti.ms/3BW6Ejn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, May 27, Central Standard Time</sub></sub>
+<h3>Feinstein, Back in the Senate, Relies Heavily on Staff to Function</h3>
+<sub>By Annie Karni</sub>
+<p>The California Democrat is surrounded by a large retinue of aides at all times, who tell her how and when to vote, explain what is going on when she is confused, and shield her from the press and public.  <a href="https://nyti.ms/3MG16hE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, May 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Looks Like He Will Get the 2024 Crowd He Wants</h3>
-<sub>By Shane Goldmacher, Jonathan Swan and Maggie Haberman</sub>
-<p>Ron DeSantis entered the presidential race last week along with Tim Scott, with others to follow. For the former president, the more candidates the better.  <a href="https://nyti.ms/3qcZOn0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Long Before Impeachment, G.O.P. Rifts Were Growing in Texas</h3>
+<sub>By J. David Goodman</sub>
+<p>The building conflict between moderates and hard-liners in one of the Republican Party’s most important states highlights tension over the future of the party.  <a href="https://nyti.ms/3oIVsmW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, May 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Texas House Votes to Impeach Attorney General Ken Paxton: What to Know</h3>
+<sub>By Jacey Fortin and J. David Goodman</sub>
+<p>The move on Saturday was the culmination of years of official complaints and legal proceedings involving the three-term attorney general.  <a href="https://nyti.ms/3N1lPhz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>With New Voting Bills, Texas Legislature Targets Elections in Democratic Stronghold</h3>
+<sub>By J. David Goodman</sub>
+<p>The bills’ passage was the culmination of a Republican effort to increase oversight of voting in Harris County, which includes Houston.  <a href="https://nyti.ms/45xWWRI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, May 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>A Russian Deserter’s Flight to Norway Presents a Fraught Dilemma for His Host</h3>
 <sub>By Anatoly Kurmanaev and Henrik Pryser Libell</sub>
 <p>Andrei Medvedev fought with Russia’s Wagner mercenaries in Ukraine, then requested asylum in Norway. The authorities there must now weigh his plea against solidarity with Ukraine.  <a href="https://nyti.ms/3MG16OG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, May 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Kyiv Repels Its Largest Ever Drone Attack Launched by Russian Forces</h3>
-<sub>By Marc Santora and Andrés R. Martínez</sub>
-<p>More than 40 drones were intercepted over Kyiv, where city officials said at least one person had been killed, probably by falling debris.  <a href="https://nyti.ms/3WFTpgj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, May 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Feinstein, Back in the Senate, Relies Heavily on Staff to Function</h3>
-<sub>By Annie Karni</sub>
-<p>The California Democrat is surrounded by a large retinue of aides at all times, who tell her how and when to vote, explain what is going on when she is confused, and shield her from the press and public.  <a href="https://nyti.ms/3MG16hE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, May 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Maternity’s Most Dangerous Time: After New Mothers Come Home</h3>
-<sub>By Roni Caryn Rabin</sub>
-<p>Recent research shows that most pregnancy-related deaths occur in the year after a baby is born. The discovery is changing how doctors care for new mothers.  <a href="https://nyti.ms/42ayGSO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, May 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -128,17 +128,11 @@ On a lighter note, fashion fans have been getting inspired by HBO show &#39;Succ
 <p>Richard Revesz is changing the way the government calculates the cost and benefits of regulation, with far-reaching implications for climate change.  <a href="https://nyti.ms/3WGbACA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, May 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>In ‘Succession,’ the Very Rich Are Very, Very Different</h3>
-<sub>By James Poniewozik</sub>
-<p>The HBO drama, which ends on Sunday, updates past rich-people soaps like “Dallas.” But unlike those series, it argues that the problems of the hyper-wealthy inevitably become ours too.  <a href="https://nyti.ms/45v6VHw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-realestate-blue" alt="">
+<h3>They Knew Little About Oysters. Now They Have a Farm With 2 Million.</h3>
+<sub>By Heather Senison</sub>
+<p>Stefanie Bassett and Elizabeth Peeples left their city lives behind to raise mollusks.  <a href="https://nyti.ms/43sJVXS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>‘Stealth Wealth’ and Bare Feet: How Power Dresses on ‘Succession’</h3>
-<sub>By Guy Trebay</sub>
-<p>The show’s costume designer, Michelle Matland, explained why she always starts “at the bottom.”  <a href="https://nyti.ms/3WBBzuO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, May 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
