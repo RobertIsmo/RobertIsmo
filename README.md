@@ -60,15 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, May 30, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. In Ukraine, four members of Russia&#39;s National Guard have been charged with war crimes after they allegedly acted with impunity without attempting to conceal their identities. We also know more details about an attempted drone attack on Moscow that the Russian Defense Ministry reported last month. 
-
-In terms of business, we&#39;re seeing prices go up as companies try to protect their profits and increase inflation. Meanwhile, food prices are comparatively high in Europe due to many factors like agricultural and energy costs that haven&#39;t decreased enough. 
-
-The U.S. is bracing for a key committee assessment of a potential debt limit deal that would include $136 billion of cuts, some of which would come from extra work requirements for food stamps and cuts to IRS funding. 
-
-We&#39;re also learning more about A.I., as industry leaders warn that these systems could be just as dangerous as pandemics or nuclear weapons. Additionally, researchers are looking for ways to make A.I.&#39;s sound more &quot;human,&quot; by teaching fewer words to large language models. 
-
-Plus, scientists are developing a genetic test to help patients figure out whether they need early treatment for heart disease. Lastly, we are seeing how influential conservative religious women were in Turkish President Erdogan&#39;s recent victory and success in office.</p>
+Right now, there are a lot of issues heating up around the world. In Ukraine, four members of the National Guard have been charged with war crimes in Kherson, for acting so openly and without fear of repercussion for their actions. Russia&#39;s Defense Ministry reports that there was an attempted drone attack that targeted Moscow and the surrounding region. In US politics, a new debt ceiling deal has implications for student loan payments, and there is a split between Republicans and Democrats over the legislation. Food prices in Europe remain stubbornly high, despite falling agricultural and energy costs. Additionally, there is tension rising in Berkeley, California over plans to build apartments between progressive newcomers and nostalgic old-timers. On top of all that, convicted fraudster Elizabeth Holmes began her 11+ year prison sentence in Texas, and A.I. industry leaders (OpenAI, Google Deepmind) are warning of potential extinction should future A.I. systems become as powerful as nuclear weapons and pandemics.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Shocks, Beatings, Mock Executions: Inside Kherson’s Detention Centers</h3>
@@ -80,6 +72,24 @@ Plus, scientists are developing a genetic test to help patients figure out wheth
 <h3>What We Know About the Drone Attack on Moscow</h3>
 <sub>By Ivan Nechepurenko and Anatoly Kurmanaev</sub>
 <p>Russia’s Defense Ministry said that at least eight drones had targeted Moscow and the surrounding region.  <a href="https://nyti.ms/43eRscW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>What the Debt Ceiling Deal Means for Student Loan Payments</h3>
+<sub>By Michael D. Shear</sub>
+<p>The legislation would prevent President Biden from issuing another last-minute extension on the payments beyond the end of the summer.  <a href="https://nyti.ms/3WIaF4z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>G.O.P. in Revolt Over Biden-McCarthy Debt Limit Deal as Bill Faces First Test</h3>
+<sub>By Carl Hulse</sub>
+<p>Growing Republican opposition threatened the fate of the compromise and Speaker Kevin McCarthy’s political standing as he sought to push it through a key committee ahead of a House vote.  <a href="https://nyti.ms/3IHVNwX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>DeSantis, Wading Into Debt-Ceiling Fight, Puts Pressure on Trump</h3>
+<sub>By Jonathan Weisman</sub>
+<p>So far, Ron DeSantis and Vivek Ramaswamy are the only Republican presidential contenders to weigh in on the recent deal in Washington — but others could yet join them.  <a href="https://nyti.ms/3C3kFvG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -94,18 +104,6 @@ Plus, scientists are developing a genetic test to help patients figure out wheth
 <p>Agricultural and energy costs are falling, but basic items remain stubbornly expensive for consumers.  <a href="https://nyti.ms/43rXqqC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Debt Limit Bill Heads to Key Committee in First Test of G.O.P. Support</h3>
-<sub>By Carl Hulse</sub>
-<p>Some Republicans on the panel have already come out in opposition to the package, raising early questions about its fate.  <a href="https://nyti.ms/3IHVNwX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>New Details in Debt Limit Deal: Where $136 Billion in Cuts Will Come From</h3>
-<sub>By Jim Tankersley and Alan Rappeport</sub>
-<p>Two years of spending caps, additional work requirements for food stamps and cuts to I.R.S. funding are among the components in the deal.  <a href="https://nyti.ms/3IMU0Hf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 29, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-books-blue" alt="">
 <h3>Summer Books 2023</h3>
 <sub></sub>
@@ -118,28 +116,22 @@ Plus, scientists are developing a genetic test to help patients figure out wheth
 <p>Seven women say that a star columnist groped them or made unwanted sexual advances. But Britain’s news media has a complicated relationship with outing its own.  <a href="https://nyti.ms/3ILJ64k"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 30, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>A Tale of Paradise, Parking Lots and My Mother’s Berkeley Backyard</h3>
+<sub>By Daniel Duane</sub>
+<p>Plans to build apartments have sparked a fight between progressive newcomers and nostalgic old-timers — with surprising allegiances in a writer’s hometown.  <a href="https://nyti.ms/3IOlYlY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Elizabeth Holmes Reports to Prison to Begin More Than 11-Year Sentence</h3>
+<sub>By Erin Griffith</sub>
+<p>The disgraced founder of the blood testing start-up Theranos, who was convicted of fraud, turned herself in at a minimum-security prison in Texas.  <a href="https://nyti.ms/42fR1ho"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 30, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>A.I. Poses ‘Risk of Extinction,’ Industry Leaders Warn</h3>
 <sub>By Kevin Roose</sub>
 <p>Leaders from OpenAI, Google Deepmind, Anthropic and other A.I. labs warn that future systems could be as deadly as pandemics and nuclear weapons.  <a href="https://nyti.ms/3MDbPcR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>The Race to Make A.I. Smaller (and Smarter)</h3>
-<sub>By Oliver Whang</sub>
-<p>Teaching fewer words to large language models might help them sound more human.  <a href="https://nyti.ms/3IIG6pq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>A New Genetic Test Takes Aim at Young Hearts</h3>
-<sub>By Gina Kolata</sub>
-<p>Polygenic risk scores could help patients understand whether they really need early treatment for heart disease.  <a href="https://nyti.ms/3ILTuZZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Pillar of Erdogan’s Victory: Devout Conservative Women</h3>
-<sub>By Ben Hubbard, Safak Timur and Elif Ince</sub>
-<p>In winning another term as Turkey’s president, Recep Tayyip Erdogan was propelled to victory in part by the fervent support of an often underappreciated constituency — conservative religious women.  <a href="https://nyti.ms/3WCX7Ht"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 30, Central Standard Time</sub></sub>
 <hr/>
 </ol>
