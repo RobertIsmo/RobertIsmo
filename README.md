@@ -58,22 +58,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Monday, May 29, Central Standard Time</p>
+<p>It is Tuesday, May 30, Central Standard Time</p>
 <p>
-There are some major things happening in the world right now. In Ukraine, four members of Russia&#39;s National Guard have been charged with war crimes. There was also a drone attack on Kyiv which caused civilians to take cover. In a separate incident, a small town in the US is facing a tragedy that became a talking point for right-wing politicians and obscure the truth. Meanwhile, Japan is dealing with a case involving a graduate student and her art history professor illustrating power dynamics in terms of sexual harassment. 
-
-In the US, lawmakers are debating over the Clean Slate Act which could wipe some criminal records after 7 years if all conditions are met, and there&#39;s also an interesting Supreme Court case about race-conscious admissions plans at Harvard and UNC. There&#39;s also preparations happening in Bryce Canyon National Park getting ready for summer season visitors. Finally, fans of the show &#39;Succession&#39; are breaking down the finale and reading up on what happened.</p>
+In the world, Russia has stepped up attacks against Kyiv in Ukraine, leading to one death. There have been reports of detainments and even war crimes being committed by Russia&#39;s National Guard in Kherson. In the US, President Trump has been amplifying a tragedy involving a teenager&#39;s killing, but the story is more complicated than it seems. There was also a deal struck over the debt limit which includes additional work requirements for food stamps and cuts to IRS funding. Additionally, Harvard and U.N.C.&#39;s race-conscious admissions plans might finally face a Supreme Court test. Lastly, there&#39;s a mystery surrounding a missing van Gogh painting that got sold at auction with a trail leading to Caribbean tax havens and Chinese billionaire.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russia Targets Kyiv With Third Wave of Strikes in 24 Hours, Killing One</h3>
+<sub>By Victoria Kim</sub>
+<p>The attack followed a rare daytime assault on Monday. Russia has stepped up attacks on the capital this month as Ukraine prepares for a counteroffensive.  <a href="https://nyti.ms/42fd1ZM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 29, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Shocks, Beatings, Mock Executions: Inside Kherson’s Detention Centers</h3>
 <sub>By Carlotta Gall</sub>
 <p>Ukraine has charged four members of Russia’s National Guard with war crimes in Kherson. The four acted with such impunity, the authorities say, they did not mask their identities.  <a href="https://nyti.ms/3BZIPar"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russian Missile and Drone Attacks on Kyiv Send Civilians Racing for Cover</h3>
-<sub>By Marc Santora and Natalia Yermak</sub>
-<p>A drone attack on Tuesday came after a barrage of missiles on Monday sent schoolchildren running for shelter as explosions echoed across the Ukrainian capital, rare daytime aerial assaults on the city.  <a href="https://nyti.ms/45ATdCU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -94,12 +92,6 @@ In the US, lawmakers are debating over the Clean Slate Act which could wipe some
 <p>When a teen’s killing became a right-wing talking point, the rush to outrage obscured a more complicated story.  <a href="https://nyti.ms/3C7fsCN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>She Said Her Professor Sexually Harassed Her. His Wife Won Damages.</h3>
-<sub>By Motoko Rich and Hikari Hida</sub>
-<p>A case involving a graduate student and her art history professor illustrates the tangled state of sexual power dynamics in Japan.  <a href="https://nyti.ms/3ozH8NA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 29, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>How to Open a National Park for the Summer Season</h3>
 <sub>By Erin Schaff, Linda Qiu, Marisa Schwartz Taylor and Sean Catangui</sub>
@@ -107,9 +99,9 @@ In the US, lawmakers are debating over the Clean Slate Act which could wipe some
 <sub><sub>Sunday, May 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Heat to Face Nuggets in N.B.A. Finals After Beating Celtics in Game 7</h3>
+<h3>The Miami Heat Earned a Trip to the N.B.A. Finals the Hard Way</h3>
 <sub>By Scott Cacciola</sub>
-<p>The Heat are just the second eighth seed to reach the N.B.A. championship series. They beat Boston, the No. 2 seed, in the Eastern Conference finals.  <a href="https://nyti.ms/3BYAJie"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The Heat, just the second eighth seed to reach the championship round, nearly blew a 3-0 series lead against the Celtics. Next they face the top-seeded Denver Nuggets.  <a href="https://nyti.ms/3BYAJie"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
@@ -134,6 +126,12 @@ In the US, lawmakers are debating over the Clean Slate Act which could wipe some
 <h3>Elite High School’s Admissions Plan May Face Supreme Court Test</h3>
 <sub>By Adam Liptak</sub>
 <p>The justices will soon rule on race-conscious admissions plans at Harvard and U.N.C. A new appeals court case asks whether schools can use race-neutral tools to achieve racial diversity.  <a href="https://nyti.ms/3WFLaR5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The Mystery of the Disappearing van Gogh</h3>
+<sub></sub>
+<p>After a painting by the Dutch artist sold at auction, a movie producer claimed to be the owner. It later vanished from sight, with a trail leading to Caribbean tax havens and a jailed Chinese billionaire.  <a href="https://nyti.ms/43xeXhm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 29, Central Standard Time</sub></sub>
 <hr/>
 </ol>
