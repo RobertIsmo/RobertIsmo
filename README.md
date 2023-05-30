@@ -60,18 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, May 30, Central Standard Time</p>
 <p>
-Right now, there are a lot of issues heating up around the world. In Ukraine, four members of the National Guard have been charged with war crimes in Kherson, for acting so openly and without fear of repercussion for their actions. Russia&#39;s Defense Ministry reports that there was an attempted drone attack that targeted Moscow and the surrounding region. In US politics, a new debt ceiling deal has implications for student loan payments, and there is a split between Republicans and Democrats over the legislation. Food prices in Europe remain stubbornly high, despite falling agricultural and energy costs. Additionally, there is tension rising in Berkeley, California over plans to build apartments between progressive newcomers and nostalgic old-timers. On top of all that, convicted fraudster Elizabeth Holmes began her 11+ year prison sentence in Texas, and A.I. industry leaders (OpenAI, Google Deepmind) are warning of potential extinction should future A.I. systems become as powerful as nuclear weapons and pandemics.</p>
+There&#39;s a lot going on in the world right now. In the US, the G.O.P. is in revolt over a debt limit deal between President Biden and Speaker Kevin McCarthy that could affect student loan payments and President Trump has been put under pressure by Florida Governor Ron DeSantis to support this agreement. Meanwhile, a new law in Ukraine aimed at providing science and research funding has not lived up to expectations, and companies are pushing prices higher even though some business costs have gone down. Europe is also seeing high food prices because of inadequate agricultural policies. On a more positive note, there are plenty of summer books for us to read this season and in New York they are testing gas stoves to measure pollution levels. In other technology news, Elizabeth Holmes is reporting to prison for an 11 year sentence for fraud relating to her blood testing start-up Theranos, while A.I experts are warning about technological developments that could lead to our extinction in the future. Finally, my hometown of Berkeley is facing a battle between progressive newcomers and nostalgic old-timers over plans to build apartments on a prized back garden paradise.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Shocks, Beatings, Mock Executions: Inside Kherson’s Detention Centers</h3>
-<sub>By Carlotta Gall</sub>
-<p>Ukraine has charged four members of Russia’s National Guard with war crimes in Kherson. The four acted with such impunity, the authorities say, they did not mask their identities.  <a href="https://nyti.ms/3BZIPar"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>What We Know About the Drone Attack on Moscow</h3>
-<sub>By Ivan Nechepurenko and Anatoly Kurmanaev</sub>
-<p>Russia’s Defense Ministry said that at least eight drones had targeted Moscow and the surrounding region.  <a href="https://nyti.ms/43eRscW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>G.O.P. in Revolt Over Biden-McCarthy Debt Limit Deal as Bill Faces First Test</h3>
+<sub>By Carl Hulse and Catie Edmondson</sub>
+<p>Growing Republican opposition threatened the compromise and Speaker Kevin McCarthy’s political standing as he sought to push it through a key committee ahead of a House vote.  <a href="https://nyti.ms/3IHVNwX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -81,16 +75,22 @@ Right now, there are a lot of issues heating up around the world. In Ukraine, fo
 <sub><sub>Tuesday, May 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>G.O.P. in Revolt Over Biden-McCarthy Debt Limit Deal as Bill Faces First Test</h3>
-<sub>By Carl Hulse</sub>
-<p>Growing Republican opposition threatened the fate of the compromise and Speaker Kevin McCarthy’s political standing as he sought to push it through a key committee ahead of a House vote.  <a href="https://nyti.ms/3IHVNwX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>DeSantis, Wading Into Debt-Ceiling Fight, Puts Pressure on Trump</h3>
 <sub>By Jonathan Weisman</sub>
 <p>So far, Ron DeSantis and Vivek Ramaswamy are the only Republican presidential contenders to weigh in on the recent deal in Washington — but others could yet join them.  <a href="https://nyti.ms/3C3kFvG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>CHIPS Act Funding for Science and Research Falls Short</h3>
+<sub>By Madeleine Ngo</sub>
+<p>A deal to limit government spending in exchange for suspending the debt ceiling has further fueled concerns that the law’s ambitious goals could be harder to achieve.  <a href="https://nyti.ms/3IIr8jq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Shocks, Beatings, Mock Executions: Inside Kherson’s Detention Centers</h3>
+<sub>By Carlotta Gall</sub>
+<p>Ukraine has charged four members of Russia’s National Guard with war crimes in Kherson. The four acted with such impunity, the authorities say, they did not mask their identities.  <a href="https://nyti.ms/3BZIPar"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Companies Push Prices Higher, Protecting Profits but Adding to Inflation</h3>
@@ -110,10 +110,10 @@ Right now, there are a lot of issues heating up around the world. In Ukraine, fo
 <p>Here are 47 literary escapes to take this season. Just add sand, sunscreen and a hot afternoon.  <a href="https://nyti.ms/3or8Qw9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A British Reporter Had a Big #MeToo Scoop. Her Editor Killed It.</h3>
-<sub>By Jane Bradley</sub>
-<p>Seven women say that a star columnist groped them or made unwanted sexual advances. But Britain’s news media has a complicated relationship with outing its own.  <a href="https://nyti.ms/3ILJ64k"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Testing New York Apartments: How Dirty Is That Gas Stove, Really?</h3>
+<sub>By Hiroko Tabuchi</sub>
+<p>Scientists are lugging sophisticated sensors into homes in 10 cities to measure and track the pollution from gas stoves as it drifts from room to room.  <a href="https://nyti.ms/3WFqR6l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
@@ -131,7 +131,7 @@ Right now, there are a lot of issues heating up around the world. In Ukraine, fo
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>A.I. Poses ‘Risk of Extinction,’ Industry Leaders Warn</h3>
 <sub>By Kevin Roose</sub>
-<p>Leaders from OpenAI, Google Deepmind, Anthropic and other A.I. labs warn that future systems could be as deadly as pandemics and nuclear weapons.  <a href="https://nyti.ms/3MDbPcR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Leaders from OpenAI, Google DeepMind, Anthropic and other A.I. labs warn that future systems could be as deadly as pandemics and nuclear weapons.  <a href="https://nyti.ms/3MDbPcR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 30, Central Standard Time</sub></sub>
 <hr/>
 </ol>
