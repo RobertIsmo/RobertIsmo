@@ -60,19 +60,37 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, May 30, Central Standard Time</p>
 <p>
-In the world, Russia has stepped up attacks against Kyiv in Ukraine, leading to one death. There have been reports of detainments and even war crimes being committed by Russia&#39;s National Guard in Kherson. In the US, President Trump has been amplifying a tragedy involving a teenager&#39;s killing, but the story is more complicated than it seems. There was also a deal struck over the debt limit which includes additional work requirements for food stamps and cuts to IRS funding. Additionally, Harvard and U.N.C.&#39;s race-conscious admissions plans might finally face a Supreme Court test. Lastly, there&#39;s a mystery surrounding a missing van Gogh painting that got sold at auction with a trail leading to Caribbean tax havens and Chinese billionaire.</p>
+It looks like there&#39;s trouble in Ukraine, where four members of Russia’s National Guard have been charged with war crimes. Meanwhile, somebody tried to use drones to attack Moscow. On top of that, we&#39;re seeing rising prices from companies protecting profits during the pandemic, which is driving up inflation. And in Europe, food prices remain stubbornly high despite dropping agricultural and energy costs. In the US, there&#39;s a bill to raise the debt limit under consideration and it could come down to how much support it has from Republicans. Lastly, there are concerns about advances in artificial intelligence technology and risks of extinction along with new genetic tests that could determine heart disease risk for young people. Oh, and in sports news, the Miami Heat made it into the NBA finals!</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia Targets Kyiv With Third Wave of Strikes in 24 Hours, Killing One</h3>
-<sub>By Victoria Kim</sub>
-<p>The attack followed a rare daytime assault on Monday. Russia has stepped up attacks on the capital this month as Ukraine prepares for a counteroffensive.  <a href="https://nyti.ms/42fd1ZM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 29, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Shocks, Beatings, Mock Executions: Inside Kherson’s Detention Centers</h3>
 <sub>By Carlotta Gall</sub>
 <p>Ukraine has charged four members of Russia’s National Guard with war crimes in Kherson. The four acted with such impunity, the authorities say, they did not mask their identities.  <a href="https://nyti.ms/3BZIPar"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>What We Know About the Drone Attack on Moscow</h3>
+<sub>By Ivan Nechepurenko and Anatoly Kurmanaev</sub>
+<p>Russia’s Defense Ministry said that at least eight drones had targeted Moscow and the surrounding region.  <a href="https://nyti.ms/43eRscW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Companies Push Prices Higher, Protecting Profits but Adding to Inflation</h3>
+<sub>By Talmon Joseph Smith and Joe Rennison</sub>
+<p>Corporate profits have been bolstered by higher prices even as some of the costs of doing business have fallen in recent months.  <a href="https://nyti.ms/3IQw9X1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Why Are Food Prices So High in Europe?</h3>
+<sub>By Eshe Nelson</sub>
+<p>Agricultural and energy costs are falling, but basic items remain stubbornly expensive for consumers.  <a href="https://nyti.ms/43rXqqC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Debt Limit Bill Heads to Key Committee in First Test of G.O.P. Support</h3>
+<sub>By Carl Hulse</sub>
+<p>Some Republicans on the panel have already come out in opposition to the package, raising early questions about its fate.  <a href="https://nyti.ms/3IHVNwX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>New Details in Debt Limit Deal: Where $136 Billion in Cuts Will Come From</h3>
@@ -80,58 +98,40 @@ In the world, Russia has stepped up attacks against Kyiv in Ukraine, leading to 
 <p>Two years of spending caps, additional work requirements for food stamps and cuts to I.R.S. funding are among the components in the deal.  <a href="https://nyti.ms/3IMU0Hf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Debt Ceiling Deal Includes New Work Requirements for Food Stamps</h3>
-<sub>By Linda Qiu</sub>
-<p>The agreement will place additional work requirements on older Americans to receive food assistance, but will remove those barriers for veterans and homeless adults.  <a href="https://nyti.ms/3N1l9bT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 29, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-books-blue" alt="">
+<h3>Summer Books 2023</h3>
+<sub></sub>
+<p>Here are 47 literary escapes to take this season. Just add sand, sunscreen and a hot afternoon.  <a href="https://nyti.ms/3or8Qw9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Small Town’s Tragedy, Distorted by Trump’s Megaphone</h3>
-<sub>By Charles Homans and Ken Bensinger</sub>
-<p>When a teen’s killing became a right-wing talking point, the rush to outrage obscured a more complicated story.  <a href="https://nyti.ms/3C7fsCN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 29, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A British Reporter Had a Big #MeToo Scoop. Her Editor Killed It.</h3>
+<sub>By Jane Bradley</sub>
+<p>Seven women say that a star columnist groped them or made unwanted sexual advances. But Britain’s news media has a complicated relationship with outing its own.  <a href="https://nyti.ms/3ILJ64k"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How to Open a National Park for the Summer Season</h3>
-<sub>By Erin Schaff, Linda Qiu, Marisa Schwartz Taylor and Sean Catangui</sub>
-<p>Anticipating a swell of visitors as peak season begins, workers at Bryce Canyon National Park are clearing trails, training rangers and conserving wildlife.  <a href="https://nyti.ms/3ILGsM9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, May 28, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>A.I. Poses ‘Risk of Extinction,’ Industry Leaders Warn</h3>
+<sub>By Kevin Roose</sub>
+<p>Leaders from OpenAI, Google Deepmind, Anthropic and other A.I. labs warn that future systems could be as deadly as pandemics and nuclear weapons.  <a href="https://nyti.ms/3MDbPcR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>The Race to Make A.I. Smaller (and Smarter)</h3>
+<sub>By Oliver Whang</sub>
+<p>Teaching fewer words to large language models might help them sound more human.  <a href="https://nyti.ms/3IIG6pq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>A New Genetic Test Takes Aim at Young Hearts</h3>
+<sub>By Gina Kolata</sub>
+<p>Polygenic risk scores could help patients understand whether they really need early treatment for heart disease.  <a href="https://nyti.ms/3ILTuZZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>The Miami Heat Earned a Trip to the N.B.A. Finals the Hard Way</h3>
 <sub>By Scott Cacciola</sub>
 <p>The Heat, just the second eighth seed to reach the championship round, nearly blew a 3-0 series lead against the Celtics. Next they face the top-seeded Denver Nuggets.  <a href="https://nyti.ms/3BYAJie"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>In ‘Succession,’ Tom and Greg Were Never Playing the Long Game</h3>
-<sub>By Alexis Soloski</sub>
-<p>In a joint interview Monday morning, Matthew Macfadyen and Nicholas Braun reflected on their characters’ bond and their big finale slap fight. “It was real,” Macfadyen said.  <a href="https://nyti.ms/3WGDWfQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>‘Succession’ Clears the Air: Here’s What to Read</h3>
-<sub>By Jennifer Vineyard</sub>
-<p>Still sorting through the finale? Here’s a broad range of hard and soft takes to help you out.  <a href="https://nyti.ms/3OM8omO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Should Some Criminal Records Be Wiped Clean After 7 Years?</h3>
-<sub>By Grace Ashford</sub>
-<p>Lawmakers in New York may pass the Clean Slate Act, which would seal criminal records for those who finish their sentences and stay out of trouble for several years.  <a href="https://nyti.ms/3WFXP6F"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Elite High School’s Admissions Plan May Face Supreme Court Test</h3>
-<sub>By Adam Liptak</sub>
-<p>The justices will soon rule on race-conscious admissions plans at Harvard and U.N.C. A new appeals court case asks whether schools can use race-neutral tools to achieve racial diversity.  <a href="https://nyti.ms/3WFLaR5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Mystery of the Disappearing van Gogh</h3>
-<sub></sub>
-<p>After a painting by the Dutch artist sold at auction, a movie producer claimed to be the owner. It later vanished from sight, with a trail leading to Caribbean tax havens and a jailed Chinese billionaire.  <a href="https://nyti.ms/43xeXhm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 29, Central Standard Time</sub></sub>
 <hr/>
 </ol>
