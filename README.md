@@ -60,7 +60,15 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, May 30, Central Standard Time</p>
 <p>
-It looks like there&#39;s trouble in Ukraine, where four members of Russia’s National Guard have been charged with war crimes. Meanwhile, somebody tried to use drones to attack Moscow. On top of that, we&#39;re seeing rising prices from companies protecting profits during the pandemic, which is driving up inflation. And in Europe, food prices remain stubbornly high despite dropping agricultural and energy costs. In the US, there&#39;s a bill to raise the debt limit under consideration and it could come down to how much support it has from Republicans. Lastly, there are concerns about advances in artificial intelligence technology and risks of extinction along with new genetic tests that could determine heart disease risk for young people. Oh, and in sports news, the Miami Heat made it into the NBA finals!</p>
+There&#39;s a lot going on in the world right now. In Ukraine, four members of Russia&#39;s National Guard have been charged with war crimes after they allegedly acted with impunity without attempting to conceal their identities. We also know more details about an attempted drone attack on Moscow that the Russian Defense Ministry reported last month. 
+
+In terms of business, we&#39;re seeing prices go up as companies try to protect their profits and increase inflation. Meanwhile, food prices are comparatively high in Europe due to many factors like agricultural and energy costs that haven&#39;t decreased enough. 
+
+The U.S. is bracing for a key committee assessment of a potential debt limit deal that would include $136 billion of cuts, some of which would come from extra work requirements for food stamps and cuts to IRS funding. 
+
+We&#39;re also learning more about A.I., as industry leaders warn that these systems could be just as dangerous as pandemics or nuclear weapons. Additionally, researchers are looking for ways to make A.I.&#39;s sound more &quot;human,&quot; by teaching fewer words to large language models. 
+
+Plus, scientists are developing a genetic test to help patients figure out whether they need early treatment for heart disease. Lastly, we are seeing how influential conservative religious women were in Turkish President Erdogan&#39;s recent victory and success in office.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Shocks, Beatings, Mock Executions: Inside Kherson’s Detention Centers</h3>
@@ -128,11 +136,11 @@ It looks like there&#39;s trouble in Ukraine, where four members of Russia’s N
 <p>Polygenic risk scores could help patients understand whether they really need early treatment for heart disease.  <a href="https://nyti.ms/3ILTuZZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>The Miami Heat Earned a Trip to the N.B.A. Finals the Hard Way</h3>
-<sub>By Scott Cacciola</sub>
-<p>The Heat, just the second eighth seed to reach the championship round, nearly blew a 3-0 series lead against the Celtics. Next they face the top-seeded Denver Nuggets.  <a href="https://nyti.ms/3BYAJie"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 29, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Pillar of Erdogan’s Victory: Devout Conservative Women</h3>
+<sub>By Ben Hubbard, Safak Timur and Elif Ince</sub>
+<p>In winning another term as Turkey’s president, Recep Tayyip Erdogan was propelled to victory in part by the fervent support of an often underappreciated constituency — conservative religious women.  <a href="https://nyti.ms/3WCX7Ht"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 30, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
