@@ -60,30 +60,32 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, May 29, Central Standard Time</p>
 <p>
-Right now, the U.S. is facing some budget cuts under President Biden and Republicans have to come to an agreement on debt limit issues. In other news, Recep Tayyip Erdogan has been re-elected as Turkey&#39;s president, which could potentially change the country&#39;s relationship with Sweden in NATO. The former president, Donald Trump, is trying to build a crowd for 2024 and more candidates are joining in the mix. Additionally, a tragedy in a small town recently became a right-wing talking point and was distorted by Trump’s megaphone. Lastly, Ukraine has started using wind power as it&#39;s harder to destroy than regular power plants and the Republican Party&#39;s rifts have grown in Texas due to conflicts between moderates and hard-liners.</p>
+There are some major things happening in the world right now. In Ukraine, four members of Russia&#39;s National Guard have been charged with war crimes. There was also a drone attack on Kyiv which caused civilians to take cover. In a separate incident, a small town in the US is facing a tragedy that became a talking point for right-wing politicians and obscure the truth. Meanwhile, Japan is dealing with a case involving a graduate student and her art history professor illustrating power dynamics in terms of sexual harassment. 
+
+In the US, lawmakers are debating over the Clean Slate Act which could wipe some criminal records after 7 years if all conditions are met, and there&#39;s also an interesting Supreme Court case about race-conscious admissions plans at Harvard and UNC. There&#39;s also preparations happening in Bryce Canyon National Park getting ready for summer season visitors. Finally, fans of the show &#39;Succession&#39; are breaking down the finale and reading up on what happened.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Why Spending Cuts Likely Won’t Shake the Economy</h3>
-<sub>By Jim Tankersley</sub>
-<p>With low unemployment and above-trend inflation, the economy is well positioned to absorb the modest budget cuts that President Biden and Republicans negotiated.  <a href="https://nyti.ms/3WGvpcX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Shocks, Beatings, Mock Executions: Inside Kherson’s Detention Centers</h3>
+<sub>By Carlotta Gall</sub>
+<p>Ukraine has charged four members of Russia’s National Guard with war crimes in Kherson. The four acted with such impunity, the authorities say, they did not mask their identities.  <a href="https://nyti.ms/3BZIPar"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russian Missile and Drone Attacks on Kyiv Send Civilians Racing for Cover</h3>
+<sub>By Marc Santora and Natalia Yermak</sub>
+<p>A drone attack on Tuesday came after a barrage of missiles on Monday sent schoolchildren running for shelter as explosions echoed across the Ukrainian capital, rare daytime aerial assaults on the city.  <a href="https://nyti.ms/45ATdCU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>What’s in the Bipartisan Debt Limit Agreement</h3>
+<h3>New Details in Debt Limit Deal: Where $136 Billion in Cuts Will Come From</h3>
 <sub>By Jim Tankersley and Alan Rappeport</sub>
-<p>Spending caps, additional work requirements for food stamps and a new natural gas pipeline are just several of the components in a deal President Biden and Speaker Kevin McCarthy reached to prevent default.  <a href="https://nyti.ms/3IMU0Hf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Two years of spending caps, additional work requirements for food stamps and cuts to I.R.S. funding are among the components in the deal.  <a href="https://nyti.ms/3IMU0Hf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Will Erdogan’s Victory Soften Turkey’s Opposition to Sweden in NATO?</h3>
-<sub>By Steven Erlanger</sub>
-<p>Recep Tayyip Erdogan, re-elected as Turkey’s president, is expected to toughen up at home but seek better ties with Washington and ratify Swedish membership of the military alliance.  <a href="https://nyti.ms/3C0JxnD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Five Takeaways From Turkey’s Presidential Election</h3>
-<sub>By Ben Hubbard</sub>
-<p>Crises including earthquakes and inflation did not stop the re-election of President Recep Tayyip Erdogan. The vote was seen as free but not fair, as he used his power to tilt the playing field.  <a href="https://nyti.ms/43zmPyT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Debt Ceiling Deal Includes New Work Requirements for Food Stamps</h3>
+<sub>By Linda Qiu</sub>
+<p>The agreement will place additional work requirements on older Americans to receive food assistance, but will remove those barriers for veterans and homeless adults.  <a href="https://nyti.ms/3N1l9bT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -92,11 +94,11 @@ Right now, the U.S. is facing some budget cuts under President Biden and Republi
 <p>When a teen’s killing became a right-wing talking point, the rush to outrage obscured a more complicated story.  <a href="https://nyti.ms/3C7fsCN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Looks Like He Will Get the 2024 Crowd He Wants</h3>
-<sub>By Shane Goldmacher, Jonathan Swan and Maggie Haberman</sub>
-<p>Ron DeSantis entered the presidential race last week along with Tim Scott, with others to follow. For the former president, the more candidates the better.  <a href="https://nyti.ms/3qcZOn0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, May 28, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>She Said Her Professor Sexually Harassed Her. His Wife Won Damages.</h3>
+<sub>By Motoko Rich and Hikari Hida</sub>
+<p>A case involving a graduate student and her art history professor illustrates the tangled state of sexual power dynamics in Japan.  <a href="https://nyti.ms/3ozH8NA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>How to Open a National Park for the Summer Season</h3>
@@ -104,35 +106,35 @@ Right now, the U.S. is facing some budget cuts under President Biden and Republi
 <p>Anticipating a swell of visitors as peak season begins, workers at Bryce Canyon National Park are clearing trails, training rangers and conserving wildlife.  <a href="https://nyti.ms/3ILGsM9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, May 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>‘Succession’ Series Finale Recap: The Dotted Line</h3>
-<sub>By Noel Murray</sub>
-<p>Who won? Who lost? Who was left staring off into the sea?  <a href="https://nyti.ms/3otFLAd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, May 28, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Heat to Face Nuggets in N.B.A. Finals After Beating Celtics in Game 7</h3>
+<sub>By Scott Cacciola</sub>
+<p>The Heat are just the second eighth seed to reach the N.B.A. championship series. They beat Boston, the No. 2 seed, in the Eastern Conference finals.  <a href="https://nyti.ms/3BYAJie"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>‘Succession’ Is Over. Why Did We Care?</h3>
+<h3>In ‘Succession,’ Tom and Greg Were Never Playing the Long Game</h3>
 <sub>By Alexis Soloski</sub>
-<p>For five years, the series and the question of who would end up in charge captivated a chatty swath of the TV audience. But did anyone really win in the end?  <a href="https://nyti.ms/3WCk9Os"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, May 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>With Watchful Eyes, a Nationwide Network Tracks Antisemitic Threats</h3>
-<sub>By Campbell Robertson</sub>
-<p>The mass shooting at the Tree of Life synagogue in Pittsburgh led to arguably the most ambitious effort ever undertaken to protect Jewish institutions in America.  <a href="https://nyti.ms/43bxobw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>In a joint interview Monday morning, Matthew Macfadyen and Nicholas Braun reflected on their characters’ bond and their big finale slap fight. “It was real,” Macfadyen said.  <a href="https://nyti.ms/3WGDWfQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Sees New Virtue in Wind Power: It’s Harder to Destroy</h3>
-<sub>By Maria Varenikova</sub>
-<p>Bombarding the power grid has been an essential part of Russia’s invasion, but officials say it would take many more missile strikes to badly damage a wind farm than a power plant.  <a href="https://nyti.ms/43vcQKH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>‘Succession’ Clears the Air: Here’s What to Read</h3>
+<sub>By Jennifer Vineyard</sub>
+<p>Still sorting through the finale? Here’s a broad range of hard and soft takes to help you out.  <a href="https://nyti.ms/3OM8omO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Should Some Criminal Records Be Wiped Clean After 7 Years?</h3>
+<sub>By Grace Ashford</sub>
+<p>Lawmakers in New York may pass the Clean Slate Act, which would seal criminal records for those who finish their sentences and stay out of trouble for several years.  <a href="https://nyti.ms/3WFXP6F"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Long Before Impeachment, G.O.P. Rifts Were Growing in Texas</h3>
-<sub>By J. David Goodman</sub>
-<p>The building conflict between moderates and hard-liners in one of the Republican Party’s most important states highlights tension over the future of the party.  <a href="https://nyti.ms/3oIVsmW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, May 28, Central Standard Time</sub></sub>
+<h3>Elite High School’s Admissions Plan May Face Supreme Court Test</h3>
+<sub>By Adam Liptak</sub>
+<p>The justices will soon rule on race-conscious admissions plans at Harvard and U.N.C. A new appeals court case asks whether schools can use race-neutral tools to achieve racial diversity.  <a href="https://nyti.ms/3WFLaR5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 29, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
