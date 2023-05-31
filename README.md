@@ -59,18 +59,25 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, May 31, Central Standard Time</p>
-<p>
-There have been some worrying developments around the world lately. In America, climate shocks are making some areas uninsurable, and this has just gotten worse with the largest insurer in California stopping offering new coverage. And in the Cold War, a plan to clean up 54 million gallons of radioactive waste from bomb-making may never be achieved.
+<p>There is a lot of news lately about negotiating and dealing with debt-related issues around the world. In the US, there seems to be an ongoing discussion about cleaning up some Cold War-era radioactive waste, and whether or not this can be resolved in a way that is beneficial to everyone. In Europe, subsidies are being used to draw companies to produce electric vehicles in the US.
 
-Debt is also a big issue. The House of Representatives is set to vote on a debt limit bill, and President Biden is considering ways to challenge its constitutionality. But there is still some Republican resistance to the deal.
+On a different note, climate shocks are making parts of America uninsurable, while negotiations over pipelines are creating friction between climate activists and lawmakers. Also, the Arctic region is creating risk for trade routes due to climate change, while tankers are trying to deceive American insurance providers by faking their locations.
 
-Closer to home, North Korea has tested a rocket that triggered an evacuation alert in South Korea, while in Israel there have been &quot;precision&quot; air strikes against Islamic Jihad but civilian homes have been hit too. It&#39;s quite concerning.</p>
+In Turkey there has been an uptick with anti-LGBTQ sentiment after the reelection campaign by President Erdogan, while in Ireland fishermen are worried about their industry disappearing due to changes in quotas after Brexit. 
+
+Finally, a bit more on the culture side: The James Beard Foundation has created new processes for rooting out problematic nominees for awards, and there was an exciting fashion show at the High School of Fashion Industries recently!</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>New Details in Debt Limit Deal: Where $136 Billion in Cuts Will Come From</h3>
+<sub>By Jim Tankersley and Alan Rappeport</sub>
+<p>Two years of spending caps, additional work requirements for food stamps and cuts to I.R.S. funding are among the components in the deal.  <a href="https://nyti.ms/3IMU0Hf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 29, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Climate Shocks Are Making Parts of America Uninsurable. It Just Got Worse.</h3>
-<sub>By Christopher Flavelle, Jill Cowan and Ivan Penn</sub>
-<p>The largest insurer in California said it would stop offering new coverage. It’s part of a broader trend of companies pulling back from dangerous areas.  <a href="https://nyti.ms/3MFAGg1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
+<h3>Debt Deal Includes a Green Light for a Contentious Pipeline</h3>
+<sub>By Coral Davenport and Brad Plumer</sub>
+<p>Climate activists are livid over a provision in the debt limit agreement that orders federal agencies to issue permits for the Mountain Valley Pipeline — and says courts can’t review them.  <a href="https://nyti.ms/3C3Lv6U"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A Poisonous Cold War Legacy That Defies a Solution</h3>
@@ -78,28 +85,16 @@ Closer to home, North Korea has tested a rocket that triggered an evacuation ale
 <p>A $528 billion plan to clean up 54 million gallons of radioactive bomb-making waste may never be achieved. Government negotiators are looking for a compromise.  <a href="https://nyti.ms/45ExSID"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>House Set to Vote on Debt Limit Bill Amid Republican Resistance</h3>
-<sub>By Catie Edmondson</sub>
-<p>Speaker Kevin McCarthy was working to cobble together the votes to push through the compromise he struck with President Biden, as lawmakers in both parties signaled their displeasure with the plan.  <a href="https://nyti.ms/43C86mP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Climate Shocks Are Making Parts of America Uninsurable. It Just Got Worse.</h3>
+<sub>By Christopher Flavelle, Jill Cowan and Ivan Penn</sub>
+<p>The largest insurer in California said it would stop offering new coverage. It’s part of a broader trend of companies pulling back from dangerous areas.  <a href="https://nyti.ms/3MFAGg1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>14th Amendment Questions Linger Despite Debt Limit Deal</h3>
-<sub>By Alan Rappeport</sub>
-<p>President Biden has been considering ways to challenge the constitutionality of the debt limit to defuse the risk of default.  <a href="https://nyti.ms/3oCjzUm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Packing Figures and Charts, Roy Leads G.O.P. Revolt Against Debt Limit Deal</h3>
-<sub>By Luke Broadwater</sub>
-<p>The Texas Republican, who is the policy director for the hard-right House Freedom Caucus, has become the face of Republican opposition to a compromise forged to avert a federal default.  <a href="https://nyti.ms/3IJftko"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>A Big Day for the Debt Ceiling</h3>
-<sub>By David Leonhardt</sub>
-<p>The bipartisan debt limit deal still isn’t assured of passing.  <a href="https://nyti.ms/45CHGTw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Arctic Risks Loom Large as Blinken Tours NATO’s North</h3>
+<sub>By Steven Erlanger</sub>
+<p>Russia may be having major difficulties in Ukraine, but it remains a vast power in the north and the Arctic, where climate change is opening new sea routes for trade and trouble.  <a href="https://nyti.ms/3C7eiYd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -114,28 +109,34 @@ Closer to home, North Korea has tested a rocket that triggered an evacuation ale
 <p>The group behind “the Oscars of the food world” created a new process to weed out nominees with problematic pasts. But that process has troubles of its own.  <a href="https://nyti.ms/42eGfI4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>A Surprising Stage for Dance: The Subway Platform</h3>
-<sub>By Gia Kourlas and Angelo Silvio Vasta For The New York Times</sub>
-<p>The tap dancer Ja’Bowen brings his art underground, where kids learn steps, commuters dance along and his energizing performances are bursts of joy.  <a href="https://nyti.ms/3MxVwhe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 30, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>Inside ‘the Hogwarts of Fashion’</h3>
+<sub>By Alex Vadukul</sub>
+<p>Most schools rev up for the big game. At the High School of Fashion Industries, it’s the spring fashion show. And this year’s was bigger and sassier than ever.  <a href="https://nyti.ms/45D8lQ6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Sirens and Chaos Rattle Seoul After False Evacuation Alarm</h3>
-<sub>By Choe Sang-Hun, Victoria Kim and Jin Yu Young</sub>
-<p>South Koreans said the alert, which was triggered by a North Korean rocket launch, showed that their country was unprepared to respond to a real emergency.  <a href="https://nyti.ms/3ILsFoA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>As U.S. Races Ahead, Europe Frets About Battery Factory Subsidies</h3>
+<sub>By Jack Ewing and Melissa Eddy</sub>
+<p>The European Union is trying to assemble the building blocks to produce electric cars, but subsidies are luring companies to the United States.  <a href="https://nyti.ms/3oDVg8K"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Was Queen’s ‘Bohemian Rhapsody’ Originally ‘Mongolian Rhapsody’?</h3>
+<sub>By Alex Marshall</sub>
+<p>One of Freddie Mercury’s early drafts, which is being auctioned by Sotheby’s, shows that he crossed out “Mongolian” and substituted the now-famous title.  <a href="https://nyti.ms/43qxhZo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>North Korean Rocket Triggers ‘False Alarm’ Evacuation Alert in South Korea</h3>
-<sub>By Choe Sang-Hun and Motoko Rich</sub>
-<p>The North’s rocket was said to carry a spy satellite, enabling it to watch its enemies more closely. But it said Wednesday that the launch had failed.  <a href="https://nyti.ms/3WIfRFf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 30, Central Standard Time</sub></sub>
+<h3>After Erdogan’s Attacks, Fear Spreads Among L.G.B.T.Q. People in Turkey</h3>
+<sub>By Ben Hubbard, Elif Ince, Safak Timur and Sergey Ponomarev</sub>
+<p>President Recep Tayyip Erdogan vilified gay people during his re-election campaign, calling them a threat to society and rallying conservatives against them. It has left people feeling threatened, and alone.  <a href="https://nyti.ms/3N2BnRY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israel Called Them ‘Precision’ Strikes. But Civilian Homes Were Hit, Too.</h3>
-<sub>By Raja Abdulrahim and Samar Abu Elouf</sub>
-<p>Palestinians in Gaza say that Israel’s strikes against Islamic Jihad amount to a collective punishment aimed at making them fearful about who their neighbors might be.  <a href="https://nyti.ms/3owE6db"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>‘We Have Fish, That’s Our Currency’</h3>
+<sub>By Megan Specia and Finbarr O’Reilly</sub>
+<p>Along Ireland’s coast, fishing has been a way of life for generations. But changes to the industry — including a cut in quotas after Brexit and a government plan to scrap boats — may see a way of life disappear.  <a href="https://nyti.ms/3N4e0Yc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
 <hr/>
 </ol>
