@@ -60,43 +60,55 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, May 31, Central Standard Time</p>
 <p>
-Right now, there is a lot happening around the world. In the US, the G.O.P just voted and moved a bill forward to the House floor preventing them from reaching the debt limit. The government has given permission for a controversial pipeline in the climate sector, and some activists are not happy with that. In other news, Russia had to respond to some drones that tried to infiltrate their airspace from Ukraine. In terms of business news, China&#39;s young people are struggling to find jobs and leaders are advising them to remain persistent and “eat bitterness” while they search for employment. On a lighter note, books have been making headlines too with a famous 1973 novel still being in print 50 years later despite its debunking. Lastly, Turkey recently held an election which could be seen as a warning for Trump after Erdogan&#39;s re-election despite his manifest failures as leader.</p>
+There seems to be quite a few issues happening in the world right now. The US House of Representatives is about to vote on a debt limit bill amid resistance from Republicans. Meanwhile, President Biden is looking into ways to challenge the constitutionality of it. There&#39;s also a lot of upheaval coming from a republican revolt against the deal, led by Texas Rep. Roy. On an international level, there are tankers in the dark fleet transporting Russian oil while evading American insurance companies. Speaking of insurance, climate shocks are making some parts of America uninsurable. In North Korea, their rocket launch failed and set off a false alarm evacuation in South Korea. Israel has been carrying out airstrikes in Gaza as punishment for Islamic Jihad, where civilian homes have been hit. Finally, there&#39;s still debate in New York around wine in supermarkets and Supermarkets not allowed to sell it due to a 1934 law that comes from prohibition days.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>G.O.P. Revolts Over Debt Limit Deal as Bill Moves Toward a House Vote</h3>
-<sub>By Carl Hulse and Catie Edmondson</sub>
-<p>Despite growing Republican opposition, a key committee voted to move the bill forward to the House floor.  <a href="https://nyti.ms/3IHVNwX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>House Set to Vote on Debt Limit Bill Amid Republican Resistance</h3>
+<sub>By Catie Edmondson</sub>
+<p>Speaker Kevin McCarthy was working to cobble together the votes to push through the compromise he struck with President Biden, as lawmakers in both parties signaled their displeasure with the plan.  <a href="https://nyti.ms/43C86mP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>14th Amendment Questions Linger Despite Debt Limit Deal</h3>
+<sub>By Alan Rappeport</sub>
+<p>President Biden has been considering ways to challenge the constitutionality of the debt limit to defuse the risk of default.  <a href="https://nyti.ms/3oCjzUm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Packing Figures and Charts, Roy Leads G.O.P. Revolt Against Debt Limit Deal</h3>
+<sub>By Luke Broadwater</sub>
+<p>The Texas Republican, who is the policy director for the hard-right House Freedom Caucus, has become the face of Republican opposition to a compromise forged to avert a federal default.  <a href="https://nyti.ms/3IJftko"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>A Big Day for the Debt Ceiling</h3>
+<sub>By David Leonhardt</sub>
+<p>The bipartisan debt limit deal still isn’t assured of passing.  <a href="https://nyti.ms/45CHGTw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Fake Signals and American Insurance: How a Dark Fleet Moves Russian Oil</h3>
+<sub>By Christiaan Triebert, Blacki Migliozzi, Alexander Cardia, Muyi Xiao and David Botti</sub>
+<p>The New York Times tracked several oil tankers faking their locations while transporting Russian oil currently under Western sanctions, in an apparent effort to deceive their American insurer.  <a href="https://nyti.ms/3MIBkJL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Debt Deal Includes a Green Light for a Contentious Pipeline</h3>
-<sub>By Coral Davenport and Brad Plumer</sub>
-<p>Climate activists are livid over a provision in the debt limit agreement that orders federal agencies to issue permits for the Mountain Valley Pipeline — and says courts can’t review them.  <a href="https://nyti.ms/3C3Lv6U"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-dining-blue" alt="">
+<h3>James Beard Foundation, Whose Awards Honor Chefs, Is Now Investigating Them</h3>
+<sub>By Brett Anderson and Julia Moskin</sub>
+<p>The group behind “the Oscars of the food world” created a new process to weed out nominees with problematic pasts. But that process has troubles of its own.  <a href="https://nyti.ms/42eGfI4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>A Surprising Stage for Dance: The Subway Platform</h3>
+<sub>By Gia Kourlas</sub>
+<p>The tap dancer Ja’Bowen brings his art underground, where kids learn steps, commuters dance along and his energizing performances are bursts of joy.  <a href="https://nyti.ms/3MxVwhe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Drone Strike in Moscow Brings Ukraine War Home to Russians</h3>
-<sub>By Anatoly Kurmanaev, Ivan Nechepurenko and Eric Nagourney</sub>
-<p>At least eight drones were intercepted, the Kremlin said, but the foray raised questions about Russian air defenses.  <a href="https://nyti.ms/3IP5ytk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-books-blue" alt="">
-<h3>Summer Books 2023</h3>
-<sub></sub>
-<p>Here are 47 literary escapes to take this season. Just add sand, sunscreen and a hot afternoon.  <a href="https://nyti.ms/3or8Qw9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Testing New York Apartments: How Dirty Is That Gas Stove, Really?</h3>
-<sub>By Hiroko Tabuchi</sub>
-<p>Scientists are lugging sophisticated sensors into homes in 10 cities to measure and track the pollution from gas stoves as it drifts from room to room.  <a href="https://nyti.ms/3WFqR6l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Demolition of Collapsed Building Is Put on Hold as People Remain Missing</h3>
-<sub>By John Peragine, Mitch Smith and Amanda Holpuch</sub>
-<p>Residents of Davenport, Iowa, protested plans to quickly remove the damaged building. Rescue workers pulled one resident to safety hours after officials said they were unaware of anyone still trapped.  <a href="https://nyti.ms/3WDNrwn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 30, Central Standard Time</sub></sub>
+<h3>Sirens and Chaos Rattle Seoul After False Evacuation Alarm</h3>
+<sub>By Choe Sang-Hun, Victoria Kim and Jin Yu Young</sub>
+<p>South Koreans said the alert, which was triggered by a North Korean rocket launch, showed that their country was unprepared to respond to a real emergency.  <a href="https://nyti.ms/3ILsFoA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>North Korean Rocket Triggers ‘False Alarm’ Evacuation Alert in South Korea</h3>
@@ -104,35 +116,23 @@ Right now, there is a lot happening around the world. In the US, the G.O.P just 
 <p>The North’s rocket was said to carry a spy satellite, enabling it to watch its enemies more closely. But it said Wednesday that the launch had failed.  <a href="https://nyti.ms/3WIfRFf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Elizabeth Holmes Reports to Prison to Begin More Than 11-Year Sentence</h3>
-<sub>By Erin Griffith</sub>
-<p>The disgraced founder of the blood testing start-up Theranos, who was convicted of fraud, turned herself in at a minimum-security prison in Texas.  <a href="https://nyti.ms/42fR1ho"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 30, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Climate Shocks Are Making Parts of America Uninsurable. It Just Got Worse.</h3>
+<sub>By Christopher Flavelle, Jill Cowan and Ivan Penn</sub>
+<p>The largest insurer in California said it would stop offering new coverage. It’s part of a broader trend of companies pulling back from dangerous areas.  <a href="https://nyti.ms/3MFAGg1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Denouncing ‘Elites’ in Kickoff Speech, DeSantis Vows to ‘Impose Our Will’</h3>
-<sub>By Shane Goldmacher and Nicholas Nehamas</sub>
-<p>In Iowa, Ron DeSantis warned supporters of a “malignant ideology” taking hold across the country, described children facing “indoctrination” and vowed to fight for conservative causes.  <a href="https://nyti.ms/3qh0zeC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 30, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Israel Called Them ‘Precision’ Strikes. But Civilian Homes Were Hit, Too.</h3>
+<sub>By Raja Abdulrahim and Samar Abu Elouf</sub>
+<p>Palestinians in Gaza say that Israel’s strikes against Islamic Jihad amount to a collective punishment aimed at making them fearful about who their neighbors might be.  <a href="https://nyti.ms/3owE6db"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>China’s Young People Can’t Find Jobs. Xi Jinping Says to ‘Eat Bitterness.’</h3>
-<sub>By Li Yuan</sub>
-<p>With youth unemployment at a record, the Communist Party is trying to reset expectations about social mobility by talking up the virtue of hardship.  <a href="https://nyti.ms/3N2eVID"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-books-blue" alt="">
-<h3>Even After Debunking, ‘Sybil’ Hasn’t Gone Away</h3>
-<sub>By Alexandra Jacobs</sub>
-<p>The “true story” of a woman with multiple personalities was a 1973 sensation and is still in print 50 years later. Why do such lurid tales hold their grip?  <a href="https://nyti.ms/3N0vcOd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, May 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>Turkey’s Election Is a Warning About Trump</h3>
-<sub>By Bret Stephens</sub>
-<p>Erdogan’s manifest failures as a leader didn’t stop his re-election.  <a href="https://nyti.ms/3OPzKZc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 30, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Wine at Wegmans? Not in New York, if Liquor Stores Can Help It.</h3>
+<sub>By Luis Ferré-Sadurní</sub>
+<p>Despite a state commission’s recommendations, New York lawmakers seem unlikely to make substantive changes to a 1934 law that traces to Prohibition.  <a href="https://nyti.ms/3C1xmXV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
