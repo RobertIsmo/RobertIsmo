@@ -60,19 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, May 30, Central Standard Time</p>
 <p>
-Right now, there is a lot of tension in the US regarding the debt limit deal. The GOP is revolting against it, but Congressional committees have voted to move the bill forward towards a House vote. There&#39;s also controversy surrounding the debt limit agreement and its provision that orders federal agencies to issue permits for the Mountain Valley Pipeline, which environmentalists are up in arms about. Republican presidential candidate Ron Desantis has also put pressure on Trump regarding this deal. 
-
-In Russia, a drone strike has made the war in Ukraine feel much more immediate as it prompted questions about Russian air defenses. 
-
-The Sackler family, owners of Purdue Pharma are being shielded from opioid liability after an Appeals Court ruling that will now result in billions of dollars being released from their fortune to help with addiction related costs. 
-
-Meanwhile, scientists are lugging sophisticated sensors into homes in 10 cities to measure and track pollution from gas stoves as it drifts from room to room. There&#39;s also been a lot of protest surrounding a collapsed building in Davenport, Iowa, as people remain unaccounted for. 
-
-A fight between progressive newcomers and nostalgic old-timers arose in Berkeley this summer due to plans to build apartments. 
-
-Also, Elizabeth Holmes was just sentenced to 11 plus years in prison for fraud concerning her blood testing start up Theranos. 
-
-Lastly, A.I leaders are warning that future systems could be as deadly as pandemics and nuclear weapons while an octopus-like creature called a shogoth symbolizes the current state of A.I.</p>
+Right now, the US is trying to finalize a debt limit deal, and the debate is getting heated among politicians. Climate activists are unhappy with a provision in the deal related to permits for a controversial oil pipeline. In Russia, drones were sent near Moscow to bring attention to the war in Ukraine. A court recently ruled that the owners of Purdue Pharma can be shielded from opioid liability, potentially leaving billions of dollars for states and communities affected by addiction. Summer Books 2023 has put out its list of 47 new reads. Scientists are studying how dirty gas stoves in New York apartments are, while in Iowa, residents are protesting against a plan to quickly demolish a collapsed building. People in Berkeley, California are debating the building of apartments in backyards. North Korea attempted to launch a spy satellite over South Korea, and Elizabeth Holmes began serving an 11-year jail sentence after being convicted of fraud for starting Theranos. Finally, even after it was debunked decades ago, Sybil&#39;s true story continues to hold people&#39;s interest.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>G.O.P. Revolts Over Debt Limit Deal as Bill Moves Toward a House Vote</h3>
@@ -84,12 +72,6 @@ Lastly, A.I leaders are warning that future systems could be as deadly as pandem
 <h3>Debt Deal Includes a Green Light for a Contentious Pipeline</h3>
 <sub>By Coral Davenport and Brad Plumer</sub>
 <p>Climate activists are livid over a provision in the debt limit agreement that orders federal agencies to issue permits for the Mountain Valley Pipeline — and says courts can’t review them.  <a href="https://nyti.ms/3C3Lv6U"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis, Wading Into Debt-Ceiling Fight, Puts Pressure on Trump</h3>
-<sub>By Jonathan Weisman</sub>
-<p>So far, Ron DeSantis and Vivek Ramaswamy are the only Republican presidential contenders to weigh in on the recent deal in Washington — but others could yet join them.  <a href="https://nyti.ms/3C3kFvG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -128,23 +110,29 @@ Lastly, A.I leaders are warning that future systems could be as deadly as pandem
 <p>Plans to build apartments have sparked a fight between progressive newcomers and nostalgic old-timers — with surprising allegiances in a writer’s hometown.  <a href="https://nyti.ms/3IOlYlY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 30, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>North Korean Rocket Triggers ‘False Alarm’ Evacuation Alert in South Korea</h3>
+<sub>By Choe Sang-Hun and Motoko Rich</sub>
+<p>The North’s rocket was said to carry a spy satellite, enabling it to watch its enemies more closely. But the country said Wednesday that the launch had failed.  <a href="https://nyti.ms/3WIfRFf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 30, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Elizabeth Holmes Reports to Prison to Begin More Than 11-Year Sentence</h3>
 <sub>By Erin Griffith</sub>
 <p>The disgraced founder of the blood testing start-up Theranos, who was convicted of fraud, turned herself in at a minimum-security prison in Texas.  <a href="https://nyti.ms/42fR1ho"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>A.I. Poses ‘Risk of Extinction,’ Industry Leaders Warn</h3>
-<sub>By Kevin Roose</sub>
-<p>Leaders from OpenAI, Google DeepMind, Anthropic and other A.I. labs warn that future systems could be as deadly as pandemics and nuclear weapons.  <a href="https://nyti.ms/3MDbPcR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>China’s Young People Can’t Find Jobs. Xi Jinping Says to ‘Eat Bitterness.’</h3>
+<sub>By Li Yuan</sub>
+<p>With youth unemployment at a record, the Communist Party is trying to reset expectations about social mobility by talking up the virtue of hardship.  <a href="https://nyti.ms/3N2eVID"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Why an Octopus-like Creature Has Come to Symbolize the State of A.I.</h3>
-<sub>By Kevin Roose</sub>
-<p>The Shoggoth, a character from a science fiction story, captures the essential weirdness of the A.I. moment.  <a href="https://nyti.ms/43z6KJy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 30, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-books-blue" alt="">
+<h3>Even After Debunking, ‘Sybil’ Hasn’t Gone Away</h3>
+<sub>By Alexandra Jacobs</sub>
+<p>The “true story” of a woman with multiple personalities was a 1973 sensation and is still in print 50 years later. Why do such lurid tales hold their grip?  <a href="https://nyti.ms/3N0vcOd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, May 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
