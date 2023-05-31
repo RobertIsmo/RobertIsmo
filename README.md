@@ -60,8 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, May 31, Central Standard Time</p>
 <p>
-There seems to be quite a few issues happening in the world right now. The US House of Representatives is about to vote on a debt limit bill amid resistance from Republicans. Meanwhile, President Biden is looking into ways to challenge the constitutionality of it. There&#39;s also a lot of upheaval coming from a republican revolt against the deal, led by Texas Rep. Roy. On an international level, there are tankers in the dark fleet transporting Russian oil while evading American insurance companies. Speaking of insurance, climate shocks are making some parts of America uninsurable. In North Korea, their rocket launch failed and set off a false alarm evacuation in South Korea. Israel has been carrying out airstrikes in Gaza as punishment for Islamic Jihad, where civilian homes have been hit. Finally, there&#39;s still debate in New York around wine in supermarkets and Supermarkets not allowed to sell it due to a 1934 law that comes from prohibition days.</p>
+There have been some worrying developments around the world lately. In America, climate shocks are making some areas uninsurable, and this has just gotten worse with the largest insurer in California stopping offering new coverage. And in the Cold War, a plan to clean up 54 million gallons of radioactive waste from bomb-making may never be achieved.
+
+Debt is also a big issue. The House of Representatives is set to vote on a debt limit bill, and President Biden is considering ways to challenge its constitutionality. But there is still some Republican resistance to the deal.
+
+Closer to home, North Korea has tested a rocket that triggered an evacuation alert in South Korea, while in Israel there have been &quot;precision&quot; air strikes against Islamic Jihad but civilian homes have been hit too. It&#39;s quite concerning.</p>
 <ol>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Climate Shocks Are Making Parts of America Uninsurable. It Just Got Worse.</h3>
+<sub>By Christopher Flavelle, Jill Cowan and Ivan Penn</sub>
+<p>The largest insurer in California said it would stop offering new coverage. It’s part of a broader trend of companies pulling back from dangerous areas.  <a href="https://nyti.ms/3MFAGg1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Poisonous Cold War Legacy That Defies a Solution</h3>
+<sub>By Ralph Vartabedian</sub>
+<p>A $528 billion plan to clean up 54 million gallons of radioactive bomb-making waste may never be achieved. Government negotiators are looking for a compromise.  <a href="https://nyti.ms/45ExSID"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>House Set to Vote on Debt Limit Bill Amid Republican Resistance</h3>
 <sub>By Catie Edmondson</sub>
@@ -100,7 +116,7 @@ There seems to be quite a few issues happening in the world right now. The US Ho
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>A Surprising Stage for Dance: The Subway Platform</h3>
-<sub>By Gia Kourlas</sub>
+<sub>By Gia Kourlas and Angelo Silvio Vasta For The New York Times</sub>
 <p>The tap dancer Ja’Bowen brings his art underground, where kids learn steps, commuters dance along and his energizing performances are bursts of joy.  <a href="https://nyti.ms/3MxVwhe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 30, Central Standard Time</sub></sub>
 <hr/>
@@ -116,22 +132,10 @@ There seems to be quite a few issues happening in the world right now. The US Ho
 <p>The North’s rocket was said to carry a spy satellite, enabling it to watch its enemies more closely. But it said Wednesday that the launch had failed.  <a href="https://nyti.ms/3WIfRFf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Climate Shocks Are Making Parts of America Uninsurable. It Just Got Worse.</h3>
-<sub>By Christopher Flavelle, Jill Cowan and Ivan Penn</sub>
-<p>The largest insurer in California said it would stop offering new coverage. It’s part of a broader trend of companies pulling back from dangerous areas.  <a href="https://nyti.ms/3MFAGg1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Israel Called Them ‘Precision’ Strikes. But Civilian Homes Were Hit, Too.</h3>
 <sub>By Raja Abdulrahim and Samar Abu Elouf</sub>
 <p>Palestinians in Gaza say that Israel’s strikes against Islamic Jihad amount to a collective punishment aimed at making them fearful about who their neighbors might be.  <a href="https://nyti.ms/3owE6db"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Wine at Wegmans? Not in New York, if Liquor Stores Can Help It.</h3>
-<sub>By Luis Ferré-Sadurní</sub>
-<p>Despite a state commission’s recommendations, New York lawmakers seem unlikely to make substantive changes to a 1934 law that traces to Prohibition.  <a href="https://nyti.ms/3C1xmXV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
 <hr/>
 </ol>
