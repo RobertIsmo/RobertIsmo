@@ -59,25 +59,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, May 31, Central Standard Time</p>
-<p>There is a lot of news lately about negotiating and dealing with debt-related issues around the world. In the US, there seems to be an ongoing discussion about cleaning up some Cold War-era radioactive waste, and whether or not this can be resolved in a way that is beneficial to everyone. In Europe, subsidies are being used to draw companies to produce electric vehicles in the US.
-
-On a different note, climate shocks are making parts of America uninsurable, while negotiations over pipelines are creating friction between climate activists and lawmakers. Also, the Arctic region is creating risk for trade routes due to climate change, while tankers are trying to deceive American insurance providers by faking their locations.
-
-In Turkey there has been an uptick with anti-LGBTQ sentiment after the reelection campaign by President Erdogan, while in Ireland fishermen are worried about their industry disappearing due to changes in quotas after Brexit. 
-
-Finally, a bit more on the culture side: The James Beard Foundation has created new processes for rooting out problematic nominees for awards, and there was an exciting fashion show at the High School of Fashion Industries recently!</p>
+<p>
+It looks like there is quite a bit happening in the world right now! In the US, House Speaker McCarthy is attempting to strike a balance between passing a debt deal and keeping his job. Also, there&#39;s a plan to clean up 54 million gallons of radioactive bomb-making waste, but it may never be achieved. In California, climate shocks are making parts of the state uninsurable. Meanwhile, in the Arctic, NATO and Russia are trying to solve the issues brought on by climate change. Fake Signals and American insurance is giving Russian oil trouble, with tankers faking their locations while transporting oil that is currently under Western sanctions. In fashion, the High School of Fashion Industries just had its biggest and sassiest spring fashion show ever. In business, Europe is fretting about battery factory subsidies as the US races ahead in production. In music, Freddie Mercury reportedly changed &quot;Mongolian Rhapsody&quot; to its current title &quot;Bohemian Rhapsody&quot;. Former US President Trump is asking for a judge in his hush-money case to step aside. Turkish LGBTQ people are feeling threatened after Erdogan vilified them during his reelection campaign. Lastly, James Beard Foundation is investigating chefs to weed out any nominees with problematic pasts after creating a new process to do so.</p>
 <ol>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>New Details in Debt Limit Deal: Where $136 Billion in Cuts Will Come From</h3>
-<sub>By Jim Tankersley and Alan Rappeport</sub>
-<p>Two years of spending caps, additional work requirements for food stamps and cuts to I.R.S. funding are among the components in the deal.  <a href="https://nyti.ms/3IMU0Hf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Debt Deal Includes a Green Light for a Contentious Pipeline</h3>
-<sub>By Coral Davenport and Brad Plumer</sub>
-<p>Climate activists are livid over a provision in the debt limit agreement that orders federal agencies to issue permits for the Mountain Valley Pipeline — and says courts can’t review them.  <a href="https://nyti.ms/3C3Lv6U"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 30, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Can McCarthy Pass the Debt Deal and Keep His Job?</h3>
+<sub>By Catie Edmondson</sub>
+<p>The House speaker attempted to strike a careful balance: he could lose conservatives’ votes but could not afford to reach a deal that so infuriated the far right that they would move to oust him.  <a href="https://nyti.ms/43x2Lgq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A Poisonous Cold War Legacy That Defies a Solution</h3>
@@ -103,12 +92,6 @@ Finally, a bit more on the culture side: The James Beard Foundation has created 
 <p>The New York Times tracked several oil tankers faking their locations while transporting Russian oil currently under Western sanctions, in an apparent effort to deceive their American insurer.  <a href="https://nyti.ms/3MIBkJL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-dining-blue" alt="">
-<h3>James Beard Foundation, Whose Awards Honor Chefs, Is Now Investigating Them</h3>
-<sub>By Brett Anderson and Julia Moskin</sub>
-<p>The group behind “the Oscars of the food world” created a new process to weed out nominees with problematic pasts. But that process has troubles of its own.  <a href="https://nyti.ms/42eGfI4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
 <h3>Inside ‘the Hogwarts of Fashion’</h3>
 <sub>By Alex Vadukul</sub>
@@ -127,16 +110,28 @@ Finally, a bit more on the culture side: The James Beard Foundation has created 
 <p>One of Freddie Mercury’s early drafts, which is being auctioned by Sotheby’s, shows that he crossed out “Mongolian” and substituted the now-famous title.  <a href="https://nyti.ms/43qxhZo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Trump Asks Judge in Hush-Money Case to Step Aside</h3>
+<sub>By William K. Rashbaum and Ben Protess</sub>
+<p>Lawyers for former President Donald J. Trump said the judge, Juan M. Merchan, has ties to Democratic causes and candidates.  <a href="https://nyti.ms/3C5kKPf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>After Erdogan’s Attacks, Fear Spreads Among L.G.B.T.Q. People in Turkey</h3>
 <sub>By Ben Hubbard, Elif Ince, Safak Timur and Sergey Ponomarev</sub>
 <p>President Recep Tayyip Erdogan vilified gay people during his re-election campaign, calling them a threat to society and rallying conservatives against them. It has left people feeling threatened, and alone.  <a href="https://nyti.ms/3N2BnRY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘We Have Fish, That’s Our Currency’</h3>
-<sub>By Megan Specia and Finbarr O’Reilly</sub>
-<p>Along Ireland’s coast, fishing has been a way of life for generations. But changes to the industry — including a cut in quotas after Brexit and a government plan to scrap boats — may see a way of life disappear.  <a href="https://nyti.ms/3N4e0Yc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-dining-blue" alt="">
+<h3>James Beard Foundation, Whose Awards Honor Chefs, Is Now Investigating Them</h3>
+<sub>By Brett Anderson and Julia Moskin</sub>
+<p>The group behind “the Oscars of the food world” created a new process to weed out nominees with problematic pasts. But that process has troubles of its own.  <a href="https://nyti.ms/42eGfI4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>A Week With the Wild Children of the A.I. Boom</h3>
+<sub>By Yiren Lu</sub>
+<p>In Silicon Valley’s hacker houses, the latest crop of young entrepreneurs is partying, innovating — and hoping not to get crushed by the big guys.  <a href="https://nyti.ms/3oxFnkf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
 <hr/>
 </ol>
