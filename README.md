@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Tuesday, May 30, Central Standard Time</p>
+<p>It is Wednesday, May 31, Central Standard Time</p>
 <p>
-Right now, the US is trying to finalize a debt limit deal, and the debate is getting heated among politicians. Climate activists are unhappy with a provision in the deal related to permits for a controversial oil pipeline. In Russia, drones were sent near Moscow to bring attention to the war in Ukraine. A court recently ruled that the owners of Purdue Pharma can be shielded from opioid liability, potentially leaving billions of dollars for states and communities affected by addiction. Summer Books 2023 has put out its list of 47 new reads. Scientists are studying how dirty gas stoves in New York apartments are, while in Iowa, residents are protesting against a plan to quickly demolish a collapsed building. People in Berkeley, California are debating the building of apartments in backyards. North Korea attempted to launch a spy satellite over South Korea, and Elizabeth Holmes began serving an 11-year jail sentence after being convicted of fraud for starting Theranos. Finally, even after it was debunked decades ago, Sybil&#39;s true story continues to hold people&#39;s interest.</p>
+There is a lot going on in the world right now: the debt ceiling deal has sparked G.O.P. revolts in the U.S., with people opposed to a provision allowing a controversial pipeline project; Russia is dealing with a drone strike in Moscow as part of their ongoing involvement in the Ukraine War; China has an extremely high youth unemployment rate and they are encouraging citizens to ‘eat bitterness’; and Turkish elections have provided a warning about Donald Trump’s leadership. In addition, some science-based stories include testing New York apartments for air pollution, Elizabeth Holmes heading off to prison for a more than 11-year sentence, and even after being debunked, the ‘Sybil’ story still holds its grip 50 years later. If you’re looking for something to escape into this summer, there are plenty of books out there to pick from!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>G.O.P. Revolts Over Debt Limit Deal as Bill Moves Toward a House Vote</h3>
@@ -78,12 +78,6 @@ Right now, the US is trying to finalize a debt limit deal, and the debate is get
 <h3>Drone Strike in Moscow Brings Ukraine War Home to Russians</h3>
 <sub>By Anatoly Kurmanaev, Ivan Nechepurenko and Eric Nagourney</sub>
 <p>At least eight drones were intercepted, the Kremlin said, but the foray raised questions about Russian air defenses.  <a href="https://nyti.ms/3IP5ytk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Sacklers Can Be Shielded From Opioid Liability, Appeals Court Rules</h3>
-<sub>By Jan Hoffman</sub>
-<p>The decision gives the Purdue Pharma owners long-sought protection, but it is a major step toward releasing billions of dollars from their fortune to states and communities to help cope with the costs of addiction.  <a href="https://nyti.ms/3C4gn7m"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-books-blue" alt="">
@@ -104,22 +98,22 @@ Right now, the US is trying to finalize a debt limit deal, and the debate is get
 <p>Residents of Davenport, Iowa, protested plans to quickly remove the damaged building. Rescue workers pulled one resident to safety hours after officials said they were unaware of anyone still trapped.  <a href="https://nyti.ms/3WDNrwn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>A Tale of Paradise, Parking Lots and My Mother’s Berkeley Backyard</h3>
-<sub>By Daniel Duane</sub>
-<p>Plans to build apartments have sparked a fight between progressive newcomers and nostalgic old-timers — with surprising allegiances in a writer’s hometown.  <a href="https://nyti.ms/3IOlYlY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 30, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>North Korean Rocket Triggers ‘False Alarm’ Evacuation Alert in South Korea</h3>
 <sub>By Choe Sang-Hun and Motoko Rich</sub>
-<p>The North’s rocket was said to carry a spy satellite, enabling it to watch its enemies more closely. But the country said Wednesday that the launch had failed.  <a href="https://nyti.ms/3WIfRFf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The North’s rocket was said to carry a spy satellite, enabling it to watch its enemies more closely. But it said Wednesday that the launch had failed.  <a href="https://nyti.ms/3WIfRFf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Elizabeth Holmes Reports to Prison to Begin More Than 11-Year Sentence</h3>
 <sub>By Erin Griffith</sub>
 <p>The disgraced founder of the blood testing start-up Theranos, who was convicted of fraud, turned herself in at a minimum-security prison in Texas.  <a href="https://nyti.ms/42fR1ho"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Denouncing ‘Elites’ in Kickoff Speech, DeSantis Vows to ‘Impose Our Will’</h3>
+<sub>By Shane Goldmacher and Nicholas Nehamas</sub>
+<p>In Iowa, Ron DeSantis warned supporters of a “malignant ideology” taking hold across the country, described children facing “indoctrination” and vowed to fight for conservative causes.  <a href="https://nyti.ms/3qh0zeC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -133,6 +127,12 @@ Right now, the US is trying to finalize a debt limit deal, and the debate is get
 <sub>By Alexandra Jacobs</sub>
 <p>The “true story” of a woman with multiple personalities was a 1973 sensation and is still in print 50 years later. Why do such lurid tales hold their grip?  <a href="https://nyti.ms/3N0vcOd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, May 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>Turkey’s Election Is a Warning About Trump</h3>
+<sub>By Bret Stephens</sub>
+<p>Erdogan’s manifest failures as a leader didn’t stop his re-election.  <a href="https://nyti.ms/3OPzKZc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 30, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
