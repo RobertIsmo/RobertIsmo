@@ -60,13 +60,37 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, June 1, Central Standard Time</p>
 <p>
-There is a lot of political upheaval happening in the US right now. The House just passed a debt limit bill in a bipartisan vote, to try and avert default. There is an ongoing investigation into former President Trump for mishandling sensitive documents. Another investigation is looking into security footage taken by some of Trump&#39;s aides relating to documents. In Russia, West is being denounced over a drone strike on Moscow. In Iowa, Florida Governor DeSantis is signaling a &#39;slugfest&#39; with former President Trump. And there&#39;s a long-standing and unresolved problem with radioactive waste from making bombs that&#39;s costing $528 billion to clean up, without any resolution yet. Texas Governor named an interim Attorney General after Ken Paxton was impeached. Oklahoma Supreme Court ruled new abortion bans unconstitutional and there was a legal case involving actor Danny Masterson convicted of raping two women that had been discouraged by Scientology. Lastly, Turkey&#39;s President Erdogan has recently been re-elected and he&#39;s been vilifying LGBQT people in his speeches which has made them feel threatened and alone.</p>
+Recently, the US House of Representatives passed a debt limit bill in a bipartisan vote to avoid defaulting on payments by the nation. Speaker Kevin McCarthy was successful in implementing the compromise between him and President Biden though it wasn&#39;t well-received by both parties. On another note, government investigators are questioning how Trump aides had handled security footage related to documentation involving classified material while President Biden managed to secure victories and losses in the same negotiation for the debt ceiling deal. In other parts of the world, Ukraine is engaging with Russian air forces and have adopted a sophisticated defense network to protect citizens. Also, Millennials are shifting to become more right-wing politically in recent years.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>House Passes Debt Limit Bill in Bipartisan Vote to Avert Default</h3>
 <sub>By Catie Edmondson</sub>
 <p>An overwhelming bipartisan coalition pushed through the compromise struck by Speaker Kevin McCarthy and President Biden, even as lawmakers in both parties signaled displeasure with the plan.  <a href="https://nyti.ms/43C86mP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>McCarthy Emerges From the Debt Limit Fight With Victories, and Some Wounds</h3>
+<sub>By Carl Hulse</sub>
+<p>The speaker defied expectations and delivered a debt limit agreement that few thought he could manage, but left some of his Republican colleagues feeling betrayed.  <a href="https://nyti.ms/3N3Buge"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>The Big Part of the Debt Ceiling Deal Congress Isn’t Talking About</h3>
+<sub>By Margot Sanger-Katz and Alicia Parlapiano</sub>
+<p>Why the budget cuts in the debt ceiling deal are smaller than advertised.  <a href="https://nyti.ms/3IPg3Np"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The House Passed the Bill. Who Won?</h3>
+<sub>By David Leonhardt</sub>
+<p>President Biden both won and lost the debt-ceiling negotiation.  <a href="https://nyti.ms/3OQL8nQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘We Have No Days Off’: The Nonstop Work of Ukrainian Air Defenses</h3>
+<sub>By Marc Santora</sub>
+<p>Russian air attacks on Kyiv have come in relentless waves. Yet very little has penetrated the patched-together but increasingly sophisticated air defense network. Here’s why.  <a href="https://nyti.ms/3WYZ2X7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Was Taped Discussing Sensitive Document He Had Kept After Leaving Office</h3>
@@ -80,11 +104,23 @@ There is a lot of political upheaval happening in the US right now. The House ju
 <p>Investigators are trying to determine if there was any attempt to obstruct them from getting access to footage from a security camera near the room where classified material was stored.  <a href="https://nyti.ms/3WY6C4h"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia Denounces West Over Drone Strike on Moscow</h3>
-<sub>By Anatoly Kurmanaev</sub>
-<p>Kremlin officials said Ukraine’s allies should have condemned the strike, and argued again that its real war was with the West.  <a href="https://nyti.ms/3MMfm8V"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Where Is the Pass Going?</h3>
+<sub>By Sean Catangui and Kris Rhim</sub>
+<p>Few aspects of basketball capture the joy of the game like great passes. Can you see the court like the pros?  <a href="https://nyti.ms/3oJ6GrC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>In the N.B.A. Playoffs, Flopping Is a Welcome Sideshow</h3>
+<sub>By Kurt Streeter</sub>
+<p>Basketball stars from Nikola Jokic to Kyle Lowry are hamming up their reactions to even the slightest contact, writes our columnist. They could benefit from an acting lesson.  <a href="https://nyti.ms/42gJrTy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Talk of Racism Proves Thorny for G.O.P. Candidates of Color</h3>
+<sub>By Jonathan Weisman and Trip Gabriel</sub>
+<p>As candidates like Tim Scott and Nikki Haley bolster their biographies with stories of discrimination, they have often denied the existence of systemic racism in America while describing situations that sound just like it.  <a href="https://nyti.ms/3IRTg3o"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In Iowa, DeSantis Signals the Start of a Slugfest With Trump</h3>
@@ -92,47 +128,11 @@ There is a lot of political upheaval happening in the US right now. The House ju
 <p>After absorbing months of attacks from the former president, the Florida governor is beginning to fire back — but carefully.  <a href="https://nyti.ms/45CPpkB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Poisonous Cold War Legacy That Defies a Solution</h3>
-<sub>By Ralph Vartabedian</sub>
-<p>A $528 billion plan to clean up 54 million gallons of radioactive bomb-making waste may never be achieved. Government negotiators are looking for a compromise.  <a href="https://nyti.ms/45ExSID"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Angela Paxton Could Help Decide the Fate of Her Embattled Husband, Ken</h3>
-<sub>By J. David Goodman</sub>
-<p>In Ken Paxton’s impeachment trial this summer, 31 state senators will decide whether to permanently remove him as Texas attorney general. One is his wife.  <a href="https://nyti.ms/3owkF4g"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Texas Governor Names Interim Attorney General After Paxton Impeachment</h3>
-<sub>By David Montgomery</sub>
-<p>Gov. Greg Abbott chose John Scott, a former deputy attorney general, to head the office while Attorney General Ken Paxton faces impeachment charges.  <a href="https://nyti.ms/43hc8B1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Oklahoma Supreme Court Rules New Abortion Bans Unconstitutional</h3>
-<sub>By Jacey Fortin</sub>
-<p>An older law still prohibits most abortions in the state, but allows wider exception for medical emergencies.  <a href="https://nyti.ms/42bZvWB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Was Queen’s ‘Bohemian Rhapsody’ Originally ‘Mongolian Rhapsody’?</h3>
-<sub>By Alex Marshall</sub>
-<p>One of Freddie Mercury’s early drafts, which is being auctioned by Sotheby’s, shows that he crossed out “Mongolian” and substituted the now-famous title.  <a href="https://nyti.ms/43qxhZo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>After Erdogan’s Attacks, Fear Spreads Among L.G.B.T.Q. People in Turkey</h3>
-<sub>By Ben Hubbard, Elif Ince, Safak Timur and Sergey Ponomarev</sub>
-<p>President Recep Tayyip Erdogan vilified gay people during his re-election campaign, calling them a threat to society and rallying conservatives against them. It has left people feeling threatened, and alone.  <a href="https://nyti.ms/3N2BnRY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Danny Masterson Is Convicted of Raping Two Women</h3>
-<sub>By Michael Levenson</sub>
-<p>The case against a star of the sitcom “That ’70s Show” drew widespread attention because of accusations that the Church of Scientology had tried to discourage his accusers.  <a href="https://nyti.ms/3oFnEY1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>Millennials Are Not an Exception. They’ve Moved to the Right.</h3>
+<sub>By Nate Cohn</sub>
+<p>Over the last decade, almost every cohort of voters under 50 has shifted rightward.  <a href="https://nyti.ms/3OLu5U9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
