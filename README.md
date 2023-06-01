@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Wednesday, May 31, Central Standard Time</p>
+<p>It is Thursday, June 1, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now! In the US, Congress passed a debt limit bill in a bipartisan vote to help avert default. Federal prosecutors have a tape where former President Trump discussed a sensitive document he kept after leaving office, and they&#39;re looking into his handling of classified documents. Meanwhile, Russia denounced the West over a drone strike and there have been more early morning attacks in Kyiv that killed three. In fashion news, there was an amazing &#39;Hogwarts of Fashion&#39; Spring show at the High School of Fashion Industries. And Florida Governor DeSantis is beginning to fire back to months of attacks from former President Trump. In Texas, there&#39;s an ongoing impeachment trial against Attorney General Ken Paxton, and Oklahoma Supreme Court recently ruled new abortion bans unconstitutional. Lastly, there are some fascinating auction pieces coming up with Sotheby&#39;s including Freddie Mercury&#39;s original draft lyrics for &#39;Bohemian Rhapsody&#39;. Wow!</p>
+There is a lot going on in the world right now! In the United States, both parties have come together to pass a debt limit bill to avert default. But, former President Trump is being investigated for his handling of sensitive documents. Also in the US, Oklahoma Supreme Court recently ruled new abortion bans unconstitutional and Texas Governor has named an interim attorney general after Ken Paxton&#39;s impeachment. Meanwhile, Russia is denouncing the West over a drone strike and there is some fear among LGBTQ people in Turkey after Erdogan attacked them during his re-election campaign. In the arts, Queen&#39;s iconic hit song &quot;Bohemian Rhapsody&quot; may have originally been titled &quot;Mongolian Rhapsody&quot; according to Freddie Mercury&#39;s early lyric drafts. Lastly, Danny Masterson, star of the sitcom &quot;That &#39;70s Show,&quot; was convicted of raping two women despite accusations that the Church of Scientology had tried to discourage his accusers from coming forward.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>House Passes Debt Limit Bill in Bipartisan Vote to Avert Default</h3>
@@ -84,18 +84,6 @@ There&#39;s a lot going on in the world right now! In the US, Congress passed a 
 <h3>Russia Denounces West Over Drone Strike on Moscow</h3>
 <sub>By Anatoly Kurmanaev</sub>
 <p>Kremlin officials said Ukraine’s allies should have condemned the strike, and argued again that its real war was with the West.  <a href="https://nyti.ms/3MMfm8V"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Another Early Morning Attack in Kyiv Kills Three</h3>
-<sub>By Juston Jones</sub>
-<p>Among the dead were two children, the city’s mayor said. Russia has recently increased the pace and intensity of its strikes on the capital.  <a href="https://nyti.ms/3C8xfd3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>Inside ‘the Hogwarts of Fashion’</h3>
-<sub>By Alex Vadukul</sub>
-<p>Most schools rev up for the big game. At the High School of Fashion Industries, it’s the spring fashion show. And this year’s was bigger and sassier than ever.  <a href="https://nyti.ms/45D8lQ6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -125,13 +113,25 @@ There&#39;s a lot going on in the world right now! In the US, Congress passed a 
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Oklahoma Supreme Court Rules New Abortion Bans Unconstitutional</h3>
 <sub>By Jacey Fortin</sub>
-<p>An older law still prohibits most abortions in the state, but it is less strict about exceptions for medical emergencies.  <a href="https://nyti.ms/42bZvWB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>An older law still prohibits most abortions in the state, but allows wider exception for medical emergencies.  <a href="https://nyti.ms/42bZvWB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>Was Queen’s ‘Bohemian Rhapsody’ Originally ‘Mongolian Rhapsody’?</h3>
 <sub>By Alex Marshall</sub>
 <p>One of Freddie Mercury’s early drafts, which is being auctioned by Sotheby’s, shows that he crossed out “Mongolian” and substituted the now-famous title.  <a href="https://nyti.ms/43qxhZo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>After Erdogan’s Attacks, Fear Spreads Among L.G.B.T.Q. People in Turkey</h3>
+<sub>By Ben Hubbard, Elif Ince, Safak Timur and Sergey Ponomarev</sub>
+<p>President Recep Tayyip Erdogan vilified gay people during his re-election campaign, calling them a threat to society and rallying conservatives against them. It has left people feeling threatened, and alone.  <a href="https://nyti.ms/3N2BnRY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Danny Masterson Is Convicted of Raping Two Women</h3>
+<sub>By Michael Levenson</sub>
+<p>The case against a star of the sitcom “That ’70s Show” drew widespread attention because of accusations that the Church of Scientology had tried to discourage his accusers.  <a href="https://nyti.ms/3oFnEY1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
 <hr/>
 </ol>
