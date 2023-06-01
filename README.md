@@ -60,12 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, June 1, Central Standard Time</p>
 <p>
-It looks like there&#39;s a lot going on in the world right now. In the US, both parties are trying to work together quickly to avoid defaulting on debt payments. People who owe money on federal student loans have to start paying again soon after a deal was struck to raise the debt ceiling. In Russia, the border town of Bakhmut is becoming a kind of frontline in the current war between the Kremlin and Ukraine, with reports that at least 20,000 Russian troops have been killed in fighting for its control. Other news concerns the lasting damage caused by Covid-19 — particularly to people&#39;s lungs — and how U.S.-China relations are complicated as China tries to set the terms of their re-engagement. Elsewhere more lighthearted stories include a professor in Georgetown being roundly criticised for decorating a public sidewalk with 10-foot statues of Transformers characters, and research initiatives looking to discover how many LGBTQ+ Americans die by suicide each year.</p>
+Things in the world seem pretty chaotic right now. Climate change is really hitting hard in Arizona – apparently their water supply is so low they had to stop construction. In politics, the GOP wants more military funding, while Biden took a stumble at an Air Force commencement. We&#39;re also learning more about how coronavirus affects our lungs – and that&#39;s serious. On a lighter note, some professor in Georgetown got into trouble for installing giant Transformers sculptures, and people are trying to figure out how many LGBTQ Americans die by suicide every year. It&#39;s kind of a lot happening all at once!</p>
 <ol>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Arizona Limits Construction Around Phoenix as Its Water Supply Dwindles</h3>
+<sub>By Christopher Flavelle and Jack Healy</sub>
+<p>In what could be a glimpse of future as climate change batters the West, officials ruled there’s not enough groundwater for projects already approved.  <a href="https://nyti.ms/3C3ACC5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Debt Limit Fight Moves to the Senate as Default Date Nears</h3>
+<h3>G.O.P. Demands for More Pentagon Money Slow Debt Limit Bill in Senate</h3>
 <sub>By Carl Hulse</sub>
-<p>Leaders of both parties urged quick action to avoid a default, but some senators want to consider changes.  <a href="https://nyti.ms/43oBCNe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Leaders of both parties urged quick action to avoid a default, but some senators wanted to consider changes, including adding more military spending to a package they said did not contain enough.  <a href="https://nyti.ms/43oBCNe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-your-money-blue" alt="">
@@ -80,40 +86,28 @@ It looks like there&#39;s a lot going on in the world right now. In the US, both
 <p>Doctors at the Allina Health System, a wealthy nonprofit in the Midwest, aren’t allowed to see poor patients or children with too many unpaid medical bills.  <a href="https://nyti.ms/3qo7Byo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Russian border town becomes a front line in the Kremlin’s war in Ukraine.</h3>
-<sub>By Anatoly Kurmanaev and Oleg Matsnev</sub>
-<p>  <a href="https://nyti.ms/3N6M7Pl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>At least 20,000 Russian troops died fighting to take Bakhmut, a Western official says.</h3>
-<sub>By Steven Erlanger and Ivan Nechepurenko</sub>
-<p>  <a href="https://nyti.ms/43f31AU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>An Inside Look at Covid’s Lasting Damage to the Lungs</h3>
 <sub>By Jeremy White, Pam Belluck, Noah Bassetti-Blum, Eleanor Lutz and Hang Do Thi Duc</sub>
 <p>This 3-D reconstruction of lung scans reveals damage that has lingered for years in patients who became severely ill early in the pandemic.  <a href="https://nyti.ms/3IOBMFe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Where Is the Pass Going?</h3>
-<sub>By Sean Catangui and Kris Rhim</sub>
-<p>Few aspects of basketball capture the joy of the game like great passes. Can you see the court like the pros?  <a href="https://nyti.ms/3oJ6GrC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Why a ‘Thaw’ in U.S.-China Relations Seems Far From Reach</h3>
-<sub>By Nicole Hong</sub>
-<p>China has pushed to set the terms of its re-engagement with the Biden administration, rebuffing a request for a defense meeting while urging Washington to drop sanctions.  <a href="https://nyti.ms/3N9IRTy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Behind the Shimmer of Miami Is a City Hall in Turmoil</h3>
+<sub>By Patricia Mazzei</sub>
+<p>Miami’s strong economy has its mayor weighing a presidential run. But a trial against a city commissioner has exposed some of the city’s less attractive inner workings.  <a href="https://nyti.ms/3qpOMus"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>China Crosses a Flying Milestone but Remains in the Boeing-Airbus Grip</h3>
-<sub>By Niraj Chokshi and Tiffany May</sub>
-<p>The C919 jet, made by a state-owned manufacturer, completed its first commercial flight. But Western rivals still supply most of China’s planes.  <a href="https://nyti.ms/3WGJyqp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Ron DeSantis Snaps at a Reporter: ‘Are You Blind?’</h3>
+<sub>By Nicholas Nehamas</sub>
+<p>The Florida governor, who has frequently clashed with the press, was asked about taking questions from voters on the presidential campaign trail.  <a href="https://nyti.ms/3IRf9zZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump and Cuomo Agree on One Thing: DeSantis Mishandled Covid</h3>
+<sub>By Katie Glueck</sub>
+<p>The two combative men from Queens have often been antagonists, but now they both see an opening to attack the Florida governor over his pandemic leadership.  <a href="https://nyti.ms/3qee0vM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
@@ -122,10 +116,16 @@ It looks like there&#39;s a lot going on in the world right now. In the US, both
 <p>A professor decorated a sidewalk in Georgetown with 10-foot sculptures of Bumblebee and Optimus Prime. The well-heeled locals were not pleased.  <a href="https://nyti.ms/43zS6BJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Where Is the Pass Going?</h3>
+<sub>By Sean Catangui and Kris Rhim</sub>
+<p>Few aspects of basketball capture the joy of the game like great passes. Can you see the court like the pros?  <a href="https://nyti.ms/3oJ6GrC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Talk of Racism Proves Thorny for G.O.P. Candidates of Color</h3>
-<sub>By Jonathan Weisman and Trip Gabriel</sub>
-<p>As candidates like Tim Scott and Nikki Haley bolster their biographies with stories of discrimination, they have often denied the existence of systemic racism in America while describing situations that sound just like it.  <a href="https://nyti.ms/3IRTg3o"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Biden Falls Onstage at Air Force Commencement</h3>
+<sub>By Michael D. Shear</sub>
+<p>A White House official said President Biden was feeling “totally fine.” He was helped up and walked back to his seat after stumbling.  <a href="https://nyti.ms/43BFvhd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
