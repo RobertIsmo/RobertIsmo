@@ -60,10 +60,44 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, May 31, Central Standard Time</p>
 <p>
-It looks like things are getting pretty heated in the US right now. Florida Governor DeSantis is firing back after absorbing months of attacks from former President Trump, and prosecutors are scrutinizing security footage taken from Trump&#39;s aides during a document case. There&#39;s also a $528 billion plan to clean up 54 million gallons of radioactive bomb-making waste but there&#39;s a chance it may never be achieved. It seems like the US is dealing with some big political issues right now. 
-
-Outside of politics, there are some really cool stories too. There was an awesome fashion show put on by the High School of Fashion Industries, and there&#39;s a recording that just surfaced of Trump discussing sensitive documents he had kept after leaving office. There&#39;s even an auction for one of Freddie Mercury&#39;s early drafts of &quot;Bohemian Rhapsody&quot;, which originally was titled &quot;Mongolian Rhapsody&quot;. And climate shocks are making parts of America uninsurable - insurance companies have been pulling back from dangerous areas because of it.  Not sure if this covers everything, but those are the highlights!</p>
+There&#39;s a lot going on in the world right now! In the US, Congress passed a debt limit bill in a bipartisan vote to help avert default. Federal prosecutors have a tape where former President Trump discussed a sensitive document he kept after leaving office, and they&#39;re looking into his handling of classified documents. Meanwhile, Russia denounced the West over a drone strike and there have been more early morning attacks in Kyiv that killed three. In fashion news, there was an amazing &#39;Hogwarts of Fashion&#39; Spring show at the High School of Fashion Industries. And Florida Governor DeSantis is beginning to fire back to months of attacks from former President Trump. In Texas, there&#39;s an ongoing impeachment trial against Attorney General Ken Paxton, and Oklahoma Supreme Court recently ruled new abortion bans unconstitutional. Lastly, there are some fascinating auction pieces coming up with Sotheby&#39;s including Freddie Mercury&#39;s original draft lyrics for &#39;Bohemian Rhapsody&#39;. Wow!</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>House Passes Debt Limit Bill in Bipartisan Vote to Avert Default</h3>
+<sub>By Catie Edmondson</sub>
+<p>An overwhelming bipartisan coalition pushed through the compromise struck by Speaker Kevin McCarthy and President Biden, even as lawmakers in both parties signaled displeasure with the plan.  <a href="https://nyti.ms/43C86mP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Was Taped Discussing Sensitive Document He Had Kept After Leaving Office</h3>
+<sub>By Maggie Haberman, Jonathan Swan and Alan Feuer</sub>
+<p>Federal prosecutors obtained the recording as part of their investigation into the former president’s handling of classified documents.  <a href="https://nyti.ms/3qivozN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Prosecutors Scrutinize Handling of Security Footage by Trump Aides in Documents Case</h3>
+<sub>By Alan Feuer, Maggie Haberman and Ben Protess</sub>
+<p>Investigators are trying to determine if there was any attempt to obstruct them from getting access to footage from a security camera near the room where classified material was stored.  <a href="https://nyti.ms/3WY6C4h"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russia Denounces West Over Drone Strike on Moscow</h3>
+<sub>By Anatoly Kurmanaev</sub>
+<p>Kremlin officials said Ukraine’s allies should have condemned the strike, and argued again that its real war was with the West.  <a href="https://nyti.ms/3MMfm8V"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Another Early Morning Attack in Kyiv Kills Three</h3>
+<sub>By Juston Jones</sub>
+<p>Among the dead were two children, the city’s mayor said. Russia has recently increased the pace and intensity of its strikes on the capital.  <a href="https://nyti.ms/3C8xfd3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>Inside ‘the Hogwarts of Fashion’</h3>
+<sub>By Alex Vadukul</sub>
+<p>Most schools rev up for the big game. At the High School of Fashion Industries, it’s the spring fashion show. And this year’s was bigger and sassier than ever.  <a href="https://nyti.ms/45D8lQ6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In Iowa, DeSantis Signals the Start of a Slugfest With Trump</h3>
 <sub>By Shane Goldmacher and Nicholas Nehamas</sub>
@@ -74,36 +108,6 @@ Outside of politics, there are some really cool stories too. There was an awesom
 <h3>A Poisonous Cold War Legacy That Defies a Solution</h3>
 <sub>By Ralph Vartabedian</sub>
 <p>A $528 billion plan to clean up 54 million gallons of radioactive bomb-making waste may never be achieved. Government negotiators are looking for a compromise.  <a href="https://nyti.ms/45ExSID"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>Inside ‘the Hogwarts of Fashion’</h3>
-<sub>By Alex Vadukul</sub>
-<p>Most schools rev up for the big game. At the High School of Fashion Industries, it’s the spring fashion show. And this year’s was bigger and sassier than ever.  <a href="https://nyti.ms/45D8lQ6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Prosecutors Scrutinize Handling of Security Footage by Trump Aides in Documents Case</h3>
-<sub>By Alan Feuer, Maggie Haberman and Ben Protess</sub>
-<p>Investigators are trying to determine if there was any attempt to obstruct them from getting access to footage from a security camera near the room where classified material was stored.  <a href="https://nyti.ms/3WY6C4h"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Was Taped Discussing Sensitive Document He Had Kept After Leaving Office</h3>
-<sub>By Maggie Haberman, Jonathan Swan and Alan Feuer</sub>
-<p>Federal prosecutors obtained the recording as part of their investigation into the former president’s handling of classified documents.  <a href="https://nyti.ms/3qivozN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Trump Asks Judge in Hush-Money Case to Step Aside</h3>
-<sub>By William K. Rashbaum and Ben Protess</sub>
-<p>Lawyers for former President Donald J. Trump said the judge, Juan M. Merchan, has ties to Democratic causes and candidates.  <a href="https://nyti.ms/3C5kKPf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia Denounces West Over Drone Strike on Moscow</h3>
-<sub>By Anatoly Kurmanaev</sub>
-<p>Kremlin officials said Ukraine’s allies should have condemned the strike, and argued again that its real war was with the West.  <a href="https://nyti.ms/3MMfm8V"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -122,12 +126,6 @@ Outside of politics, there are some really cool stories too. There was an awesom
 <h3>Oklahoma Supreme Court Rules New Abortion Bans Unconstitutional</h3>
 <sub>By Jacey Fortin</sub>
 <p>An older law still prohibits most abortions in the state, but it is less strict about exceptions for medical emergencies.  <a href="https://nyti.ms/42bZvWB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Climate Shocks Are Making Parts of America Uninsurable. It Just Got Worse.</h3>
-<sub>By Christopher Flavelle, Jill Cowan and Ivan Penn</sub>
-<p>The largest insurer in California said it would stop offering new coverage. It’s part of a broader trend of companies pulling back from dangerous areas.  <a href="https://nyti.ms/3MFAGg1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
