@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, June 1, Central Standard Time</p>
 <p>
-Recently, the US House of Representatives passed a debt limit bill in a bipartisan vote to avoid defaulting on payments by the nation. Speaker Kevin McCarthy was successful in implementing the compromise between him and President Biden though it wasn&#39;t well-received by both parties. On another note, government investigators are questioning how Trump aides had handled security footage related to documentation involving classified material while President Biden managed to secure victories and losses in the same negotiation for the debt ceiling deal. In other parts of the world, Ukraine is engaging with Russian air forces and have adopted a sophisticated defense network to protect citizens. Also, Millennials are shifting to become more right-wing politically in recent years.</p>
+The news is full of stories about the debt limit, changes to student loan payments, and a Biden-McCarthy compromise to avert default. There&#39;s an inside look at the lasting effects of COVID, a recording by Trump discussing a sensitive document, scrutiny of security footage by Trump aides, and reports of flopping in the NBA playoffs. We&#39;re also hearing about racism in the GOP and the shifting political opinions of millennials. All in all, it&#39;s an interesting time!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>House Passes Debt Limit Bill in Bipartisan Vote to Avert Default</h3>
@@ -68,17 +68,17 @@ Recently, the US House of Representatives passed a debt limit bill in a bipartis
 <p>An overwhelming bipartisan coalition pushed through the compromise struck by Speaker Kevin McCarthy and President Biden, even as lawmakers in both parties signaled displeasure with the plan.  <a href="https://nyti.ms/43C86mP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>McCarthy Emerges From the Debt Limit Fight With Victories, and Some Wounds</h3>
-<sub>By Carl Hulse</sub>
-<p>The speaker defied expectations and delivered a debt limit agreement that few thought he could manage, but left some of his Republican colleagues feeling betrayed.  <a href="https://nyti.ms/3N3Buge"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-upshot-blue" alt="">
 <h3>The Big Part of the Debt Ceiling Deal Congress Isn’t Talking About</h3>
 <sub>By Margot Sanger-Katz and Alicia Parlapiano</sub>
 <p>Why the budget cuts in the debt ceiling deal are smaller than advertised.  <a href="https://nyti.ms/3IPg3Np"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-your-money-blue" alt="">
+<h3>The Student Loan Payment Pause Is Ending. Here’s How to Prepare.</h3>
+<sub>By Tara Siegel Bernard</sub>
+<p>A deal to raise the debt ceiling would require borrowers of federal student loans to resume paying for the first time since early in the pandemic.  <a href="https://nyti.ms/3C7zM7i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-briefing-blue" alt="">
 <h3>The House Passed the Bill. Who Won?</h3>
@@ -91,6 +91,12 @@ Recently, the US House of Representatives passed a debt limit bill in a bipartis
 <sub>By Marc Santora</sub>
 <p>Russian air attacks on Kyiv have come in relentless waves. Yet very little has penetrated the patched-together but increasingly sophisticated air defense network. Here’s why.  <a href="https://nyti.ms/3WYZ2X7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>An Inside Look at Covid’s Lasting Damage to the Lungs</h3>
+<sub>By Jeremy White, Pam Belluck, Noah Bassetti-Blum, Eleanor Lutz and Hang Do Thi Duc</sub>
+<p>This 3-D reconstruction of lung scans reveals damage that has lingered for years in patients who became severely ill early in the pandemic.  <a href="https://nyti.ms/3IOBMFe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Was Taped Discussing Sensitive Document He Had Kept After Leaving Office</h3>
@@ -121,12 +127,6 @@ Recently, the US House of Representatives passed a debt limit bill in a bipartis
 <sub>By Jonathan Weisman and Trip Gabriel</sub>
 <p>As candidates like Tim Scott and Nikki Haley bolster their biographies with stories of discrimination, they have often denied the existence of systemic racism in America while describing situations that sound just like it.  <a href="https://nyti.ms/3IRTg3o"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Iowa, DeSantis Signals the Start of a Slugfest With Trump</h3>
-<sub>By Shane Goldmacher and Nicholas Nehamas</sub>
-<p>After absorbing months of attacks from the former president, the Florida governor is beginning to fire back — but carefully.  <a href="https://nyti.ms/45CPpkB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-upshot-blue" alt="">
 <h3>Millennials Are Not an Exception. They’ve Moved to the Right.</h3>
