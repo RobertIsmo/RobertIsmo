@@ -60,12 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, May 31, Central Standard Time</p>
 <p>
-It looks like there is quite a bit happening in the world right now! In the US, House Speaker McCarthy is attempting to strike a balance between passing a debt deal and keeping his job. Also, there&#39;s a plan to clean up 54 million gallons of radioactive bomb-making waste, but it may never be achieved. In California, climate shocks are making parts of the state uninsurable. Meanwhile, in the Arctic, NATO and Russia are trying to solve the issues brought on by climate change. Fake Signals and American insurance is giving Russian oil trouble, with tankers faking their locations while transporting oil that is currently under Western sanctions. In fashion, the High School of Fashion Industries just had its biggest and sassiest spring fashion show ever. In business, Europe is fretting about battery factory subsidies as the US races ahead in production. In music, Freddie Mercury reportedly changed &quot;Mongolian Rhapsody&quot; to its current title &quot;Bohemian Rhapsody&quot;. Former US President Trump is asking for a judge in his hush-money case to step aside. Turkish LGBTQ people are feeling threatened after Erdogan vilified them during his reelection campaign. Lastly, James Beard Foundation is investigating chefs to weed out any nominees with problematic pasts after creating a new process to do so.</p>
+It looks like things are getting pretty heated in the US right now. Florida Governor DeSantis is firing back after absorbing months of attacks from former President Trump, and prosecutors are scrutinizing security footage taken from Trump&#39;s aides during a document case. There&#39;s also a $528 billion plan to clean up 54 million gallons of radioactive bomb-making waste but there&#39;s a chance it may never be achieved. It seems like the US is dealing with some big political issues right now. 
+
+Outside of politics, there are some really cool stories too. There was an awesome fashion show put on by the High School of Fashion Industries, and there&#39;s a recording that just surfaced of Trump discussing sensitive documents he had kept after leaving office. There&#39;s even an auction for one of Freddie Mercury&#39;s early drafts of &quot;Bohemian Rhapsody&quot;, which originally was titled &quot;Mongolian Rhapsody&quot;. And climate shocks are making parts of America uninsurable - insurance companies have been pulling back from dangerous areas because of it.  Not sure if this covers everything, but those are the highlights!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Can McCarthy Pass the Debt Deal and Keep His Job?</h3>
-<sub>By Catie Edmondson</sub>
-<p>The House speaker attempted to strike a careful balance: he could lose conservatives’ votes but could not afford to reach a deal that so infuriated the far right that they would move to oust him.  <a href="https://nyti.ms/43x2Lgq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>In Iowa, DeSantis Signals the Start of a Slugfest With Trump</h3>
+<sub>By Shane Goldmacher and Nicholas Nehamas</sub>
+<p>After absorbing months of attacks from the former president, the Florida governor is beginning to fire back — but carefully.  <a href="https://nyti.ms/45CPpkB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -74,40 +76,22 @@ It looks like there is quite a bit happening in the world right now! In the US, 
 <p>A $528 billion plan to clean up 54 million gallons of radioactive bomb-making waste may never be achieved. Government negotiators are looking for a compromise.  <a href="https://nyti.ms/45ExSID"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Climate Shocks Are Making Parts of America Uninsurable. It Just Got Worse.</h3>
-<sub>By Christopher Flavelle, Jill Cowan and Ivan Penn</sub>
-<p>The largest insurer in California said it would stop offering new coverage. It’s part of a broader trend of companies pulling back from dangerous areas.  <a href="https://nyti.ms/3MFAGg1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Arctic Risks Loom Large as Blinken Tours NATO’s North</h3>
-<sub>By Steven Erlanger</sub>
-<p>Russia may be having major difficulties in Ukraine, but it remains a vast power in the north and the Arctic, where climate change is opening new sea routes for trade and trouble.  <a href="https://nyti.ms/3C7eiYd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Fake Signals and American Insurance: How a Dark Fleet Moves Russian Oil</h3>
-<sub>By Christiaan Triebert, Blacki Migliozzi, Alexander Cardia, Muyi Xiao and David Botti</sub>
-<p>The New York Times tracked several oil tankers faking their locations while transporting Russian oil currently under Western sanctions, in an apparent effort to deceive their American insurer.  <a href="https://nyti.ms/3MIBkJL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 30, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
 <h3>Inside ‘the Hogwarts of Fashion’</h3>
 <sub>By Alex Vadukul</sub>
 <p>Most schools rev up for the big game. At the High School of Fashion Industries, it’s the spring fashion show. And this year’s was bigger and sassier than ever.  <a href="https://nyti.ms/45D8lQ6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>As U.S. Races Ahead, Europe Frets About Battery Factory Subsidies</h3>
-<sub>By Jack Ewing and Melissa Eddy</sub>
-<p>The European Union is trying to assemble the building blocks to produce electric cars, but subsidies are luring companies to the United States.  <a href="https://nyti.ms/3oDVg8K"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Prosecutors Scrutinize Handling of Security Footage by Trump Aides in Documents Case</h3>
+<sub>By Alan Feuer, Maggie Haberman and Ben Protess</sub>
+<p>Investigators are trying to determine if there was any attempt to obstruct them from getting access to footage from a security camera near the room where classified material was stored.  <a href="https://nyti.ms/3WY6C4h"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Was Queen’s ‘Bohemian Rhapsody’ Originally ‘Mongolian Rhapsody’?</h3>
-<sub>By Alex Marshall</sub>
-<p>One of Freddie Mercury’s early drafts, which is being auctioned by Sotheby’s, shows that he crossed out “Mongolian” and substituted the now-famous title.  <a href="https://nyti.ms/43qxhZo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Was Taped Discussing Sensitive Document He Had Kept After Leaving Office</h3>
+<sub>By Maggie Haberman, Jonathan Swan and Alan Feuer</sub>
+<p>Federal prosecutors obtained the recording as part of their investigation into the former president’s handling of classified documents.  <a href="https://nyti.ms/3qivozN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -117,21 +101,39 @@ It looks like there is quite a bit happening in the world right now! In the US, 
 <sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>After Erdogan’s Attacks, Fear Spreads Among L.G.B.T.Q. People in Turkey</h3>
-<sub>By Ben Hubbard, Elif Ince, Safak Timur and Sergey Ponomarev</sub>
-<p>President Recep Tayyip Erdogan vilified gay people during his re-election campaign, calling them a threat to society and rallying conservatives against them. It has left people feeling threatened, and alone.  <a href="https://nyti.ms/3N2BnRY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Russia Denounces West Over Drone Strike on Moscow</h3>
+<sub>By Anatoly Kurmanaev</sub>
+<p>Kremlin officials said Ukraine’s allies should have condemned the strike, and argued again that its real war was with the West.  <a href="https://nyti.ms/3MMfm8V"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-dining-blue" alt="">
-<h3>James Beard Foundation, Whose Awards Honor Chefs, Is Now Investigating Them</h3>
-<sub>By Brett Anderson and Julia Moskin</sub>
-<p>The group behind “the Oscars of the food world” created a new process to weed out nominees with problematic pasts. But that process has troubles of its own.  <a href="https://nyti.ms/42eGfI4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How Angela Paxton Could Help Decide the Fate of Her Embattled Husband, Ken</h3>
+<sub>By J. David Goodman</sub>
+<p>In Ken Paxton’s impeachment trial this summer, 31 state senators will decide whether to permanently remove him as Texas attorney general. One is his wife.  <a href="https://nyti.ms/3owkF4g"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>A Week With the Wild Children of the A.I. Boom</h3>
-<sub>By Yiren Lu</sub>
-<p>In Silicon Valley’s hacker houses, the latest crop of young entrepreneurs is partying, innovating — and hoping not to get crushed by the big guys.  <a href="https://nyti.ms/3oxFnkf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Texas Governor Names Interim Attorney General After Paxton Impeachment</h3>
+<sub>By David Montgomery</sub>
+<p>Gov. Greg Abbott chose John Scott, a former deputy attorney general, to head the office while Attorney General Ken Paxton faces impeachment charges.  <a href="https://nyti.ms/43hc8B1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Oklahoma Supreme Court Rules New Abortion Bans Unconstitutional</h3>
+<sub>By Jacey Fortin</sub>
+<p>An older law still prohibits most abortions in the state, but it is less strict about exceptions for medical emergencies.  <a href="https://nyti.ms/42bZvWB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Climate Shocks Are Making Parts of America Uninsurable. It Just Got Worse.</h3>
+<sub>By Christopher Flavelle, Jill Cowan and Ivan Penn</sub>
+<p>The largest insurer in California said it would stop offering new coverage. It’s part of a broader trend of companies pulling back from dangerous areas.  <a href="https://nyti.ms/3MFAGg1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Was Queen’s ‘Bohemian Rhapsody’ Originally ‘Mongolian Rhapsody’?</h3>
+<sub>By Alex Marshall</sub>
+<p>One of Freddie Mercury’s early drafts, which is being auctioned by Sotheby’s, shows that he crossed out “Mongolian” and substituted the now-famous title.  <a href="https://nyti.ms/43qxhZo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
 <hr/>
 </ol>
