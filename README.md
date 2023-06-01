@@ -60,19 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, June 1, Central Standard Time</p>
 <p>
-The news is full of stories about the debt limit, changes to student loan payments, and a Biden-McCarthy compromise to avert default. There&#39;s an inside look at the lasting effects of COVID, a recording by Trump discussing a sensitive document, scrutiny of security footage by Trump aides, and reports of flopping in the NBA playoffs. We&#39;re also hearing about racism in the GOP and the shifting political opinions of millennials. All in all, it&#39;s an interesting time!</p>
+It looks like there&#39;s a lot going on in the world right now. In the US, both parties are trying to work together quickly to avoid defaulting on debt payments. People who owe money on federal student loans have to start paying again soon after a deal was struck to raise the debt ceiling. In Russia, the border town of Bakhmut is becoming a kind of frontline in the current war between the Kremlin and Ukraine, with reports that at least 20,000 Russian troops have been killed in fighting for its control. Other news concerns the lasting damage caused by Covid-19 — particularly to people&#39;s lungs — and how U.S.-China relations are complicated as China tries to set the terms of their re-engagement. Elsewhere more lighthearted stories include a professor in Georgetown being roundly criticised for decorating a public sidewalk with 10-foot statues of Transformers characters, and research initiatives looking to discover how many LGBTQ+ Americans die by suicide each year.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>House Passes Debt Limit Bill in Bipartisan Vote to Avert Default</h3>
-<sub>By Catie Edmondson</sub>
-<p>An overwhelming bipartisan coalition pushed through the compromise struck by Speaker Kevin McCarthy and President Biden, even as lawmakers in both parties signaled displeasure with the plan.  <a href="https://nyti.ms/43C86mP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>The Big Part of the Debt Ceiling Deal Congress Isn’t Talking About</h3>
-<sub>By Margot Sanger-Katz and Alicia Parlapiano</sub>
-<p>Why the budget cuts in the debt ceiling deal are smaller than advertised.  <a href="https://nyti.ms/3IPg3Np"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
+<h3>Debt Limit Fight Moves to the Senate as Default Date Nears</h3>
+<sub>By Carl Hulse</sub>
+<p>Leaders of both parties urged quick action to avoid a default, but some senators want to consider changes.  <a href="https://nyti.ms/43oBCNe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-your-money-blue" alt="">
 <h3>The Student Loan Payment Pause Is Ending. Here’s How to Prepare.</h3>
@@ -80,16 +74,22 @@ The news is full of stories about the debt limit, changes to student loan paymen
 <p>A deal to raise the debt ceiling would require borrowers of federal student loans to resume paying for the first time since early in the pandemic.  <a href="https://nyti.ms/3C7zM7i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The House Passed the Bill. Who Won?</h3>
-<sub>By David Leonhardt</sub>
-<p>President Biden both won and lost the debt-ceiling negotiation.  <a href="https://nyti.ms/3OQL8nQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>This Nonprofit Health System Cuts Off Patients With Medical Debt</h3>
+<sub>By Sarah Kliff and Jessica Silver-Greenberg</sub>
+<p>Doctors at the Allina Health System, a wealthy nonprofit in the Midwest, aren’t allowed to see poor patients or children with too many unpaid medical bills.  <a href="https://nyti.ms/3qo7Byo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘We Have No Days Off’: The Nonstop Work of Ukrainian Air Defenses</h3>
-<sub>By Marc Santora</sub>
-<p>Russian air attacks on Kyiv have come in relentless waves. Yet very little has penetrated the patched-together but increasingly sophisticated air defense network. Here’s why.  <a href="https://nyti.ms/3WYZ2X7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>A Russian border town becomes a front line in the Kremlin’s war in Ukraine.</h3>
+<sub>By Anatoly Kurmanaev and Oleg Matsnev</sub>
+<p>  <a href="https://nyti.ms/3N6M7Pl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>At least 20,000 Russian troops died fighting to take Bakhmut, a Western official says.</h3>
+<sub>By Steven Erlanger and Ivan Nechepurenko</sub>
+<p>  <a href="https://nyti.ms/43f31AU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
@@ -98,28 +98,28 @@ The news is full of stories about the debt limit, changes to student loan paymen
 <p>This 3-D reconstruction of lung scans reveals damage that has lingered for years in patients who became severely ill early in the pandemic.  <a href="https://nyti.ms/3IOBMFe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Was Taped Discussing Sensitive Document He Had Kept After Leaving Office</h3>
-<sub>By Maggie Haberman, Jonathan Swan and Alan Feuer</sub>
-<p>Federal prosecutors obtained the recording as part of their investigation into the former president’s handling of classified documents.  <a href="https://nyti.ms/3qivozN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Prosecutors Scrutinize Handling of Security Footage by Trump Aides in Documents Case</h3>
-<sub>By Alan Feuer, Maggie Haberman and Ben Protess</sub>
-<p>Investigators are trying to determine if there was any attempt to obstruct them from getting access to footage from a security camera near the room where classified material was stored.  <a href="https://nyti.ms/3WY6C4h"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Where Is the Pass Going?</h3>
 <sub>By Sean Catangui and Kris Rhim</sub>
 <p>Few aspects of basketball capture the joy of the game like great passes. Can you see the court like the pros?  <a href="https://nyti.ms/3oJ6GrC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>In the N.B.A. Playoffs, Flopping Is a Welcome Sideshow</h3>
-<sub>By Kurt Streeter</sub>
-<p>Basketball stars from Nikola Jokic to Kyle Lowry are hamming up their reactions to even the slightest contact, writes our columnist. They could benefit from an acting lesson.  <a href="https://nyti.ms/42gJrTy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Why a ‘Thaw’ in U.S.-China Relations Seems Far From Reach</h3>
+<sub>By Nicole Hong</sub>
+<p>China has pushed to set the terms of its re-engagement with the Biden administration, rebuffing a request for a defense meeting while urging Washington to drop sanctions.  <a href="https://nyti.ms/3N9IRTy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>China Crosses a Flying Milestone but Remains in the Boeing-Airbus Grip</h3>
+<sub>By Niraj Chokshi and Tiffany May</sub>
+<p>The C919 jet, made by a state-owned manufacturer, completed its first commercial flight. But Western rivals still supply most of China’s planes.  <a href="https://nyti.ms/3WGJyqp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>When the Neighbors Don’t Share Your Vision (and That Vision Involves ‘Transformers’ Statues)</h3>
+<sub>By Noreen Malone</sub>
+<p>A professor decorated a sidewalk in Georgetown with 10-foot sculptures of Bumblebee and Optimus Prime. The well-heeled locals were not pleased.  <a href="https://nyti.ms/43zS6BJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -128,10 +128,10 @@ The news is full of stories about the debt limit, changes to student loan paymen
 <p>As candidates like Tim Scott and Nikki Haley bolster their biographies with stories of discrimination, they have often denied the existence of systemic racism in America while describing situations that sound just like it.  <a href="https://nyti.ms/3IRTg3o"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>Millennials Are Not an Exception. They’ve Moved to the Right.</h3>
-<sub>By Nate Cohn</sub>
-<p>Over the last decade, almost every cohort of voters under 50 has shifted rightward.  <a href="https://nyti.ms/3OLu5U9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>No One Knows How Many L.G.B.T.Q. Americans Die by Suicide</h3>
+<sub>By Azeen Ghorayshi</sub>
+<p>Death investigators in Utah are among a handful of groups trying to learn how many gay and transgender people die by suicide in the United States.  <a href="https://nyti.ms/42h2i10"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
