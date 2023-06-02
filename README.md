@@ -60,25 +60,37 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, June 1, Central Standard Time</p>
 <p>
-Things in the world seem pretty chaotic right now. Climate change is really hitting hard in Arizona – apparently their water supply is so low they had to stop construction. In politics, the GOP wants more military funding, while Biden took a stumble at an Air Force commencement. We&#39;re also learning more about how coronavirus affects our lungs – and that&#39;s serious. On a lighter note, some professor in Georgetown got into trouble for installing giant Transformers sculptures, and people are trying to figure out how many LGBTQ Americans die by suicide every year. It&#39;s kind of a lot happening all at once!</p>
+There is a lot of political news in the US right now. President Biden has just brokered a debt limit deal, which includes a provision for automatic cuts if the deal fails. Arizona is limiting construction around Phoenix due to their dwindling water supply, and Donald Trump is currently facing several investigations. There is also an interesting story about Marie Bolden, a 14-year-old who won the 1908 Spelling Bee and her family is now searching for her medal. Florida&#39;s governor, DeSantis, is avoiding talking about Florida&#39;s abortion ban while visiting more moderate New Hampshire. On the international stage, NATO foreign ministers are meeting to discuss Ukraine&#39;s future ties to NATO while Russians are shelling and evacuating border regions in that country.</p>
 <ol>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Arizona Limits Construction Around Phoenix as Its Water Supply Dwindles</h3>
-<sub>By Christopher Flavelle and Jack Healy</sub>
-<p>In what could be a glimpse of future as climate change batters the West, officials ruled there’s not enough groundwater for projects already approved.  <a href="https://nyti.ms/3C3ACC5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Calm Man in the Capital: Biden Lets Others Spike the Ball but Notches a Win</h3>
+<sub>By Peter Baker</sub>
+<p>President Biden brokered a debt limit deal by following instincts developed through long, hard and sometimes painful experience in Washington.  <a href="https://nyti.ms/3MPaijM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>G.O.P. Demands for More Pentagon Money Slow Debt Limit Bill in Senate</h3>
-<sub>By Carl Hulse</sub>
-<p>Leaders of both parties urged quick action to avoid a default, but some senators wanted to consider changes, including adding more military spending to a package they said did not contain enough.  <a href="https://nyti.ms/43oBCNe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>How to Enforce a Debt Deal: Through ‘Meat-Ax’ Cuts Nobody Wants</h3>
+<sub>By Catie Edmondson</sub>
+<p>The debt-limit legislation includes a provision meant to force both sides to pass additional bills following through on their deal: the threat of automatic cuts if they fail to do so.  <a href="https://nyti.ms/3N8esoo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-your-money-blue" alt="">
-<h3>The Student Loan Payment Pause Is Ending. Here’s How to Prepare.</h3>
-<sub>By Tara Siegel Bernard</sub>
-<p>A deal to raise the debt ceiling would require borrowers of federal student loans to resume paying for the first time since early in the pandemic.  <a href="https://nyti.ms/3C7zM7i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Arizona Limits Construction Around Phoenix as Its Water Supply Dwindles</h3>
+<sub>By Christopher Flavelle and Jack Healy</sub>
+<p>In what could be a glimpse of the future as climate change batters the West, officials ruled there’s not enough groundwater for projects already approved.  <a href="https://nyti.ms/3C3ACC5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Recording of Trump Underscores Growing Evidence in Documents Case</h3>
+<sub>By Maggie Haberman, Jonathan Swan and Alan Feuer</sub>
+<p>A conversation in which the former president is said to have acknowledged that he could not declassify a sensitive document could undercut a defense he has offered.  <a href="https://nyti.ms/3WHwGQV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Donald Trump Faces Several Investigations. Here’s Where They Stand.</h3>
+<sub>By Ben Protess, Alan Feuer and Danny Hakim</sub>
+<p>Mr. Trump has been indicted in Manhattan, and federal and state prosecutors elsewhere have opened a number of investigations.  <a href="https://nyti.ms/3JVNBHV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>This Nonprofit Health System Cuts Off Patients With Medical Debt</h3>
@@ -86,28 +98,16 @@ Things in the world seem pretty chaotic right now. Climate change is really hitt
 <p>Doctors at the Allina Health System, a wealthy nonprofit in the Midwest, aren’t allowed to see poor patients or children with too many unpaid medical bills.  <a href="https://nyti.ms/3qo7Byo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>An Inside Look at Covid’s Lasting Damage to the Lungs</h3>
-<sub>By Jeremy White, Pam Belluck, Noah Bassetti-Blum, Eleanor Lutz and Hang Do Thi Duc</sub>
-<p>This 3-D reconstruction of lung scans reveals damage that has lingered for years in patients who became severely ill early in the pandemic.  <a href="https://nyti.ms/3IOBMFe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Behind the Shimmer of Miami Is a City Hall in Turmoil</h3>
-<sub>By Patricia Mazzei</sub>
-<p>Miami’s strong economy has its mayor weighing a presidential run. But a trial against a city commissioner has exposed some of the city’s less attractive inner workings.  <a href="https://nyti.ms/3qpOMus"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukraine’s Future Ties to NATO Are Main Topic as Western Nations Meet</h3>
+<sub>By Michael Crowley</sub>
+<p>The question of how to guarantee Ukrainian security loomed over a meeting of NATO foreign ministers in Norway and a gathering of European leaders in Moldova.  <a href="https://nyti.ms/3N86GuH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Ron DeSantis Snaps at a Reporter: ‘Are You Blind?’</h3>
-<sub>By Nicholas Nehamas</sub>
-<p>The Florida governor, who has frequently clashed with the press, was asked about taking questions from voters on the presidential campaign trail.  <a href="https://nyti.ms/3IRf9zZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump and Cuomo Agree on One Thing: DeSantis Mishandled Covid</h3>
-<sub>By Katie Glueck</sub>
-<p>The two combative men from Queens have often been antagonists, but now they both see an opening to attack the Florida governor over his pandemic leadership.  <a href="https://nyti.ms/3qee0vM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Mother and Child’s Desperate Run for Cover in Kyiv Ends Outside Locked Shelter</h3>
+<sub>By Marc Santora and Anatoly Kurmanaev</sub>
+<p>They were among three people killed in a Russian missile attack, officials said. Ukraine opened an investigation, as Russians described shelling and evacuations in border regions.  <a href="https://nyti.ms/3ONcCuv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
@@ -116,22 +116,22 @@ Things in the world seem pretty chaotic right now. Climate change is really hitt
 <p>A professor decorated a sidewalk in Georgetown with 10-foot sculptures of Bumblebee and Optimus Prime. The well-heeled locals were not pleased.  <a href="https://nyti.ms/43zS6BJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Where Is the Pass Going?</h3>
-<sub>By Sean Catangui and Kris Rhim</sub>
-<p>Few aspects of basketball capture the joy of the game like great passes. Can you see the court like the pros?  <a href="https://nyti.ms/3oJ6GrC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Falls Onstage at Air Force Commencement</h3>
-<sub>By Michael D. Shear</sub>
-<p>A White House official said President Biden was feeling “totally fine.” He was helped up and walked back to his seat after stumbling.  <a href="https://nyti.ms/43BFvhd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>A Black Girl Won the 1908 Spelling Bee. Her Family Is Searching for Her Medal.</h3>
+<sub>By Livia Albeck-Ripka</sub>
+<p>At 14, Marie C. Bolden became the champion of what is believed to be the first national spelling competition in the United States. Her victory prompted a backlash.  <a href="https://nyti.ms/42hIxX8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>No One Knows How Many L.G.B.T.Q. Americans Die by Suicide</h3>
-<sub>By Azeen Ghorayshi</sub>
-<p>Death investigators in Utah are among a handful of groups trying to learn how many gay and transgender people die by suicide in the United States.  <a href="https://nyti.ms/42h2i10"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Can You Guess These 10 Wacky Words From the Scripps Spelling Bee?</h3>
+<sub>By Amanda Montell, Andrew Herzog and Nicky Tesla</sub>
+<p>From nonsense terms to 20th-century slang, these words from past Scripps Bee competitions or training lists will test your pop cultural knowledge, Latin chops and spelling skills.  <a href="https://nyti.ms/45sBKg5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In New Hampshire, DeSantis Avoids Talking About Florida’s Abortion Ban</h3>
+<sub>By Nicholas Nehamas</sub>
+<p>As he traversed socially conservative Iowa this week, the 2024 contender highlighted his state’s six-week ban. But now, in more moderate New Hampshire, he is shying from the subject.  <a href="https://nyti.ms/3WMCGrp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
