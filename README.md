@@ -60,28 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, June 2, Central Standard Time</p>
 <p>
-There&#39;s a lot going on right now in the world. The US Senate recently passed a debt limit bill to avoid an economic calamity and President Biden will be delivering an Oval Office address about it soon. Meanwhile, the Federal Reserve may possibly skip a June interest rate increase even though there has been strong hiring news. Over in China, investors have become less optimistic about their economy and its recovery from the pandemic. In the oil market, OPEC Plus is considering making further production cuts because of falling prices. 
-
-Things are also tense in Ukraine at the moment, with pregnant women facing tough trials due to the fighting between Russia and Ukraine. As for North Korea, tensions are rising due to reports that it has made significant progress on its nuclear programs. Closer to home, people in rural areas are debating whether chain stores like Dollar General should be built there or not. 
-
-Finally, people are paying attention to Iranian activist Narges Mohammadi who is in jail but continues advocating for freedom despite her circumstances. And recently a recording of former President Donald Trump discussing not being able to declassify a sensitive document has raised questions regarding a defense he made for himself.</p>
+It&#39;s been a busy week all over the world! In the US, Congress approved legislation that narrowly avoided a government debt default. President Biden is addressing the nation on Friday regarding the deal. In business news, Treasuries have become more attractive than other forms of investment despite the potential for a default. The Federal Reserve is expected to keep its interest rates unchanged at its next meeting, and debates continue in small communities over whether or not to allow large chain stores in rural areas. In Guam, many people remain without power or water a week after Typhoon Mawar devastated the US Pacific territory. Meanwhile, Saudi Arabia has established a huge fund to sign international soccer stars to join local teams. One man is on a mission to make running accessible to everyone, and former Vice-President Pence won&#39;t face any charges after an inquiry into documents he was involved with. Lastly, new gun control regulations have been put in place in Serbia following two mass shootings, although gun culture remains deeply rooted in society there.</p>
 <ol>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Fed May Still ‘Skip’ June Rate Increase Even Amid Strong Hiring</h3>
-<sub>By Jeanna Smialek</sub>
-<p>Federal Reserve officials are expected to leave rates unchanged at their June 13-14 meeting. Fresh jobs data might make the choice harder.  <a href="https://nyti.ms/3oB9yah"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Investors Have Soured on China’s Stocks, Renewing Fears About Economy</h3>
-<sub>By Vivek Shankar</sub>
-<p>They initially reacted enthusiastically to China’s reversal of pandemic restrictions but have since taken a dimmer view of the country’s recovery.  <a href="https://nyti.ms/43WlUZB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>As Price of Oil Slides, OPEC Plus May Weigh Further Production Cuts</h3>
-<sub>By Stanley Reed</sub>
-<p>The group of major oil producers and Russia will meet this weekend to discuss a swoon in oil prices.  <a href="https://nyti.ms/42phqcy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Debt-Limit Deal Suggests Debt Will Keep Growing, Fast</h3>
+<sub>By Jim Tankersley</sub>
+<p>Negotiations to prevent a government default reaffirmed that the big drivers of future deficits are all off the table in a divided Washington.  <a href="https://nyti.ms/3Ca9AZO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -96,16 +80,16 @@ Finally, people are paying attention to Iranian activist Narges Mohammadi who is
 <p>The president will speak on Friday evening after congressional passage of legislation that narrowly averts economic calamity.  <a href="https://nyti.ms/3C6Ta4r"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>See How Each Senator Voted on Raising the Debt Limit</h3>
-<sub>By The New York Times</sub>
-<p>Raising the Debt Limit: Senate Live Vote  <a href="https://nyti.ms/3MNBijH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>The Treasury Paradox</h3>
+<sub>By Jeff Sommer</sub>
+<p>Treasuries have been threatened by a possible U.S. debt default, yet they remain more attractive than just about everything else, our columnist says.  <a href="https://nyti.ms/3oMzgZa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘Lots of Explosions and Shooting Outside’: Giving Birth in Wartime Ukraine</h3>
-<sub>By Maria Varenikova</sub>
-<p>The mental burden of Russia’s invasion has exacted a heavy toll on civilians. As the fighting drags on, pregnant women are among those facing the toughest trials.  <a href="https://nyti.ms/3oIcAtg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Fed May Still ‘Skip’ June Rate Increase Even Amid Strong Hiring</h3>
+<sub>By Jeanna Smialek</sub>
+<p>Federal Reserve officials are expected to leave rates unchanged at their June 13-14 meeting. Fresh jobs data might make the choice harder.  <a href="https://nyti.ms/3oB9yah"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -114,22 +98,28 @@ Finally, people are paying attention to Iranian activist Narges Mohammadi who is
 <p>A fight over a proposed chain store is also about what “country” means to different people in a small community.  <a href="https://nyti.ms/42kJvl6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Why North Korea’s Latest Nuclear Claims Are Raising Alarms</h3>
-<sub>By Pablo Robles and Choe Sang-Hun</sub>
-<p>North Korea has signaled that it has made significant progress in its nuclear programs. Whether true or not, it is worrying to the United States and its allies in the region.  <a href="https://nyti.ms/3Nj6nxv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Many in Guam Lack Power and Water a Week After Typhoon Mawar</h3>
+<sub>By Josie Moyer and Jacey Fortin</sub>
+<p>The storm was the strongest to strike the U.S. Pacific territory in at least two decades.  <a href="https://nyti.ms/45LnEXe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>With Hannah Gadsby’s ‘It’s Pablo-matic,’ the Joke’s on the Brooklyn Museum</h3>
-<sub>By Jason Farago</sub>
-<p>The Australian comedian turns curator in a show about Picasso’s complicated legacy. But it’s women artists the exhibition really shortchanges.  <a href="https://nyti.ms/3oF5NjS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Saudi Soccer League Creates Huge Fund to Sign Global Stars</h3>
+<sub>By Tariq Panja and Ahmed Al Omran</sub>
+<p>A coordinated effort financed by the kingdom’s Public Investment Fund is offering huge paydays to some of the sport’s biggest stars if they join Saudi Arabia’s best teams.  <a href="https://nyti.ms/43GKCwC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Even in Prison, She’s ‘an Indomitable Voice’ for Freedom in Iran</h3>
-<sub>By Farnaz Fassihi</sub>
-<p>Fighting for change has cost Narges Mohammadi her career, separated her from family and deprived her of liberty. But a jail cell has not succeeded in silencing her.  <a href="https://nyti.ms/42kRq25"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>One Man’s Mission to Make Running Everyone’s Sport</h3>
+<sub>By Danielle Friedman</sub>
+<p>Martinus Evans wants to make running more inclusive. His new book beckons back-of-the-packers to lace up.  <a href="https://nyti.ms/3qrQVps"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Pence Won’t Face Charges in Documents Inquiry</h3>
+<sub>By Maggie Haberman and Glenn Thrush</sub>
+<p>The Justice Department informed the former vice president of its decision days before he was expected to announce his campaign for president.  <a href="https://nyti.ms/3oNkX6L"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -137,6 +127,12 @@ Finally, people are paying attention to Iranian activist Narges Mohammadi who is
 <sub>By Maggie Haberman, Jonathan Swan and Alan Feuer</sub>
 <p>A conversation in which the former president is said to have acknowledged that he could not declassify a sensitive document could undercut a defense he has offered.  <a href="https://nyti.ms/3WHwGQV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>After Mass Shootings in Serbia, Few Are Ready to Give Up Their Guns</h3>
+<sub>By Andrew Higgins</sub>
+<p>Two massacres have prompted the government to tighten already strict rules, but the nation’s gun culture is deep-rooted and complex.  <a href="https://nyti.ms/45Gpd8L"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 2, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
