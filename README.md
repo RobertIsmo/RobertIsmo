@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, June 2, Central Standard Time</p>
 <p>
-It&#39;s been a busy week all over the world! In the US, Congress approved legislation that narrowly avoided a government debt default. President Biden is addressing the nation on Friday regarding the deal. In business news, Treasuries have become more attractive than other forms of investment despite the potential for a default. The Federal Reserve is expected to keep its interest rates unchanged at its next meeting, and debates continue in small communities over whether or not to allow large chain stores in rural areas. In Guam, many people remain without power or water a week after Typhoon Mawar devastated the US Pacific territory. Meanwhile, Saudi Arabia has established a huge fund to sign international soccer stars to join local teams. One man is on a mission to make running accessible to everyone, and former Vice-President Pence won&#39;t face any charges after an inquiry into documents he was involved with. Lastly, new gun control regulations have been put in place in Serbia following two mass shootings, although gun culture remains deeply rooted in society there.</p>
+There’s a lot going on in the world right now. U.S. Secretary of State Blinken is in Finland, detailing Russia’s &#39;failures&#39;. In the US, there was a debt-limit deal that suggests the US debt will keep growing quickly. It also staved off a calamitous default. President Biden is giving an Oval Office address to talk about the legislation. There’s also been a lot of legal action on former President Trump and his documents inquiry, as well as Pence not facing any charges in the same inquiry. On an economic level, job growth still remains strong despite some economic clouds and the Federal Reserve may still choose to hold off on an interest rate increase at its June 13-14 meeting. In terms of more localized news, there’s a debate about a Dollar General opening in a rural crossroads, as well as issues with power and water in Guam after Typhoon Mawar knocked out much of their infrastructure. Finally, Saudi Arabia is creating a huge fund to sign big-name soccer stars from around the world.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Finland, NATO’s Newest Member, Blinken Details Russia’s ‘Failures’</h3>
+<sub>By Michael Crowley</sub>
+<p>A speech by the U.S. Secretary of State struck a triumphal tone, while also warning against a rush to short-term solutions to the war in Ukraine.  <a href="https://nyti.ms/3WL5kJA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 2, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The Debt-Limit Deal Suggests Debt Will Keep Growing, Fast</h3>
 <sub>By Jim Tankersley</sub>
@@ -86,6 +92,24 @@ It&#39;s been a busy week all over the world! In the US, Congress approved legis
 <p>Treasuries have been threatened by a possible U.S. debt default, yet they remain more attractive than just about everything else, our columnist says.  <a href="https://nyti.ms/3oMzgZa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 2, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Lawyers Unable to Find Document Trump Discussed in Recorded Conversation</h3>
+<sub>By Alan Feuer and Maggie Haberman</sub>
+<p>Prosecutors issued a subpoena for a description of military options for Iran mentioned by the former president during an interview. But Mr. Trump’s legal team said they could find no such document.  <a href="https://nyti.ms/3oS5xhv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Pence Won’t Face Charges in Documents Inquiry</h3>
+<sub>By Maggie Haberman and Glenn Thrush</sub>
+<p>The Justice Department informed the former vice president of its decision days before he was expected to announce his campaign for president.  <a href="https://nyti.ms/3oNkX6L"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>U.S. Job Growth Remains Strong Despite Economic Clouds</h3>
+<sub>By Sydney Ember</sub>
+<p>Employers added 339,000 workers in May, the Labor Department said, though the report also offered signs of shakiness.  <a href="https://nyti.ms/3WMFmp6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 2, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Fed May Still ‘Skip’ June Rate Increase Even Amid Strong Hiring</h3>
 <sub>By Jeanna Smialek</sub>
@@ -108,30 +132,6 @@ It&#39;s been a busy week all over the world! In the US, Congress approved legis
 <h3>Saudi Soccer League Creates Huge Fund to Sign Global Stars</h3>
 <sub>By Tariq Panja and Ahmed Al Omran</sub>
 <p>A coordinated effort financed by the kingdom’s Public Investment Fund is offering huge paydays to some of the sport’s biggest stars if they join Saudi Arabia’s best teams.  <a href="https://nyti.ms/43GKCwC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>One Man’s Mission to Make Running Everyone’s Sport</h3>
-<sub>By Danielle Friedman</sub>
-<p>Martinus Evans wants to make running more inclusive. His new book beckons back-of-the-packers to lace up.  <a href="https://nyti.ms/3qrQVps"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Pence Won’t Face Charges in Documents Inquiry</h3>
-<sub>By Maggie Haberman and Glenn Thrush</sub>
-<p>The Justice Department informed the former vice president of its decision days before he was expected to announce his campaign for president.  <a href="https://nyti.ms/3oNkX6L"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Recording of Trump Underscores Growing Evidence in Documents Case</h3>
-<sub>By Maggie Haberman, Jonathan Swan and Alan Feuer</sub>
-<p>A conversation in which the former president is said to have acknowledged that he could not declassify a sensitive document could undercut a defense he has offered.  <a href="https://nyti.ms/3WHwGQV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>After Mass Shootings in Serbia, Few Are Ready to Give Up Their Guns</h3>
-<sub>By Andrew Higgins</sub>
-<p>Two massacres have prompted the government to tighten already strict rules, but the nation’s gun culture is deep-rooted and complex.  <a href="https://nyti.ms/45Gpd8L"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 2, Central Standard Time</sub></sub>
 <hr/>
 </ol>
