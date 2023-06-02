@@ -60,30 +60,16 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, June 2, Central Standard Time</p>
 <p>
-There has been a lot of news this week! The Senate has passed a debt limit bill in the US, which was needed to avoid a possible economic collapse. President Biden managed to broker the deal, showing his skill in navigating Washington. We also got job numbers for the Federal Reserve&#39;s next meeting, and there has been a lot of discussion surrounding stocks from China and their effect on the economy. Meanwhile, in other parts of the world, people are facing difficult times; there is a prominent activist jailed in Iran, and pregnant women in Ukraine are being put at risk by the ongoing fighting there. There have also been some interesting stories emerging about some rural crossroads in the US, and former president Trump is facing an ongoing investigation. North Korea is also making news as their potential nuclear capabilities become more worrying. Finally, Apple is attempting to create something called the Metaverse- an immersive digital world- but it remains to be seen whether it will be successful.</p>
+There&#39;s a lot going on right now in the world. The US Senate recently passed a debt limit bill to avoid an economic calamity and President Biden will be delivering an Oval Office address about it soon. Meanwhile, the Federal Reserve may possibly skip a June interest rate increase even though there has been strong hiring news. Over in China, investors have become less optimistic about their economy and its recovery from the pandemic. In the oil market, OPEC Plus is considering making further production cuts because of falling prices. 
+
+Things are also tense in Ukraine at the moment, with pregnant women facing tough trials due to the fighting between Russia and Ukraine. As for North Korea, tensions are rising due to reports that it has made significant progress on its nuclear programs. Closer to home, people in rural areas are debating whether chain stores like Dollar General should be built there or not. 
+
+Finally, people are paying attention to Iranian activist Narges Mohammadi who is in jail but continues advocating for freedom despite her circumstances. And recently a recording of former President Donald Trump discussing not being able to declassify a sensitive document has raised questions regarding a defense he made for himself.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Senate Passes Debt Limit Bill, Staving Off a Calamitous Default</h3>
-<sub>By Carl Hulse</sub>
-<p>The final vote on Thursday night came after leaders put down a revolt by some senators who raised concerns that the debt-limit package would under-fund the Pentagon.  <a href="https://nyti.ms/43oBCNe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Calm Man in the Capital: Biden Lets Others Spike the Ball but Notches a Win</h3>
-<sub>By Peter Baker</sub>
-<p>President Biden brokered a debt limit deal by following instincts developed through long, hard and sometimes painful experience in Washington.  <a href="https://nyti.ms/3MPaijM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>See How Each Senator Voted on Raising the Debt Limit</h3>
-<sub>By The New York Times</sub>
-<p>Raising the Debt Limit: Senate Live Vote  <a href="https://nyti.ms/3MNBijH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Jobs Numbers in Focus as the Fed Hints at a ‘Skip’</h3>
+<h3>Fed May Still ‘Skip’ June Rate Increase Even Amid Strong Hiring</h3>
 <sub>By Jeanna Smialek</sub>
-<p>Federal Reserve officials are expected to leave rates unchanged at their June 13-14 meeting. Fresh jobs data will factor into the decision.  <a href="https://nyti.ms/3oB9yah"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Federal Reserve officials are expected to leave rates unchanged at their June 13-14 meeting. Fresh jobs data might make the choice harder.  <a href="https://nyti.ms/3oB9yah"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -92,11 +78,29 @@ There has been a lot of news this week! The Senate has passed a debt limit bill 
 <p>They initially reacted enthusiastically to China’s reversal of pandemic restrictions but have since taken a dimmer view of the country’s recovery.  <a href="https://nyti.ms/43WlUZB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Even in Prison, She’s ‘an Indomitable Voice’ for Freedom in Iran</h3>
-<sub>By Farnaz Fassihi</sub>
-<p>Fighting for change has cost Narges Mohammadi her career, separated her from family and deprived her of liberty. But a jail cell has not succeeded in silencing her.  <a href="https://nyti.ms/42kRq25"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>As Price of Oil Slides, OPEC Plus May Weigh Further Production Cuts</h3>
+<sub>By Stanley Reed</sub>
+<p>The group of major oil producers and Russia will meet this weekend to discuss a swoon in oil prices.  <a href="https://nyti.ms/42phqcy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Senate Passes Debt Limit Bill, Staving Off a Calamitous Default</h3>
+<sub>By Carl Hulse</sub>
+<p>The final vote on Thursday night came after leaders put down a revolt by some senators who raised concerns that the debt-limit package would under-fund the Pentagon.  <a href="https://nyti.ms/43oBCNe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden to Deliver Oval Office Address as U.S. Averts Default</h3>
+<sub>By Michael D. Shear</sub>
+<p>The president will speak on Friday evening after congressional passage of legislation that narrowly averts economic calamity.  <a href="https://nyti.ms/3C6Ta4r"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>See How Each Senator Voted on Raising the Debt Limit</h3>
+<sub>By The New York Times</sub>
+<p>Raising the Debt Limit: Senate Live Vote  <a href="https://nyti.ms/3MNBijH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>‘Lots of Explosions and Shooting Outside’: Giving Birth in Wartime Ukraine</h3>
@@ -110,29 +114,29 @@ There has been a lot of news this week! The Senate has passed a debt limit bill 
 <p>A fight over a proposed chain store is also about what “country” means to different people in a small community.  <a href="https://nyti.ms/42kJvl6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Recording of Trump Underscores Growing Evidence in Documents Case</h3>
-<sub>By Maggie Haberman, Jonathan Swan and Alan Feuer</sub>
-<p>A conversation in which the former president is said to have acknowledged that he could not declassify a sensitive document could undercut a defense he has offered.  <a href="https://nyti.ms/3WHwGQV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The Three Other Trump Investigations</h3>
-<sub>By German Lopez</sub>
-<p>The Manhattan case isn’t Trump’s only legal problem.  <a href="https://nyti.ms/42q8R0Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 2, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Why North Korea’s Latest Nuclear Claims Are Raising Alarms</h3>
 <sub>By Pablo Robles and Choe Sang-Hun</sub>
 <p>North Korea has signaled that it has made significant progress in its nuclear programs. Whether true or not, it is worrying to the United States and its allies in the region.  <a href="https://nyti.ms/3Nj6nxv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Apple Is Stepping Into the Metaverse. Will Anyone Care?</h3>
-<sub>By Kellen Browning and Mike Isaac</sub>
-<p>Interest in the futuristic, immersive digital world is fading just as Apple plans to debut a virtual reality device.  <a href="https://nyti.ms/3MEYQaA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>With Hannah Gadsby’s ‘It’s Pablo-matic,’ the Joke’s on the Brooklyn Museum</h3>
+<sub>By Jason Farago</sub>
+<p>The Australian comedian turns curator in a show about Picasso’s complicated legacy. But it’s women artists the exhibition really shortchanges.  <a href="https://nyti.ms/3oF5NjS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Even in Prison, She’s ‘an Indomitable Voice’ for Freedom in Iran</h3>
+<sub>By Farnaz Fassihi</sub>
+<p>Fighting for change has cost Narges Mohammadi her career, separated her from family and deprived her of liberty. But a jail cell has not succeeded in silencing her.  <a href="https://nyti.ms/42kRq25"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Recording of Trump Underscores Growing Evidence in Documents Case</h3>
+<sub>By Maggie Haberman, Jonathan Swan and Alan Feuer</sub>
+<p>A conversation in which the former president is said to have acknowledged that he could not declassify a sensitive document could undercut a defense he has offered.  <a href="https://nyti.ms/3WHwGQV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
