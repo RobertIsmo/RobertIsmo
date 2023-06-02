@@ -58,14 +58,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Thursday, June 1, Central Standard Time</p>
+<p>It is Friday, June 2, Central Standard Time</p>
 <p>
-In the world, climate change is posed to increasingly affect countries like the United States; in Arizona, for example, officials have had to limit construction around Phoenix due to dwindling water supplies. In the U.S., Donald Trump faces various investigations and recordings of him have provided evidence against his defense strategies. At a gathering of NATO foreign ministers in Norway and leaders in Moldova, Ukrainian security has become a heavily discussed topic due to Russian missile attacks. People are engaging in interesting artwork and installations such as Hannah Gadsby&#39;s statement piece at Brooklyn Museum which spoke on Picasso&#39;s difficult legacy, while someone in Georgetown also created 10ft statues based on Transformers. Politicians like Florida&#39;s DeSantis avoided discussing Florida&#39;s abortion ban when travelling to more moderate New Hampshire. Then there is the opinion section where people discuss smashing the college admissions process, the A.I. workers that keep them up at night, and why the some people think the debt disaster is disappearing.</p>
+In the world right now, a lot of different things are happening. In Arizona, water supplies are rapidly dwindling due to the effects of climate change, leading to limits on construction in Phoenix. Meanwhile, a woman&#39;s family is trying to recover her spelling bee medal from 1908. There is also continued investigations into former president Donald Trump and his administration. The future of NATO and Ukrainian security is uncertain and a deadly Russian missile attack occurred in Kyiv recently. On the social and cultural front, Hannah Gadsby has curated an exhibition about Picassos&#39;s legacy, but it shortchanges women artists. Representation of California&#39;s Latino future is being previewed in one Los Angeles shopping plaza. Finally, on the opinion front, people are calling for reform of college admissions processes, there is some worry about artificial intelligence, and people are realizing that the debt disaster isn&#39;t as significant as it was once portrayed.</p>
 <ol>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>Arizona Limits Construction Around Phoenix as Its Water Supply Dwindles</h3>
 <sub>By Christopher Flavelle and Jack Healy</sub>
 <p>In what could be a glimpse of the future as climate change batters the West, officials ruled there’s not enough groundwater for projects already approved.  <a href="https://nyti.ms/3C3ACC5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Black Girl Won the 1908 Spelling Bee. Her Family Is Searching for Her Medal.</h3>
+<sub>By Livia Albeck-Ripka</sub>
+<p>At 14, Marie C. Bolden became the champion of what is believed to be the first national spelling competition in the United States. Her victory prompted a backlash.  <a href="https://nyti.ms/42hIxX8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -90,12 +96,6 @@ In the world, climate change is posed to increasingly affect countries like the 
 <h3>Mother and Child’s Desperate Run for Cover in Kyiv Ends Outside Locked Shelter</h3>
 <sub>By Marc Santora and Anatoly Kurmanaev</sub>
 <p>They were among three people killed in a Russian missile attack, officials said. Ukraine opened an investigation, as Russians described shelling and evacuations in border regions.  <a href="https://nyti.ms/3ONcCuv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>When the Neighbors Don’t Share Your Vision (and That Vision Involves ‘Transformers’ Statues)</h3>
-<sub>By Noreen Malone</sub>
-<p>A professor decorated a sidewalk in Georgetown with 10-foot sculptures of Bumblebee and Optimus Prime. The well-heeled locals were not pleased.  <a href="https://nyti.ms/43zS6BJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
