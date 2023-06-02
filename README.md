@@ -60,20 +60,8 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, June 1, Central Standard Time</p>
 <p>
-There is a lot of political news in the US right now. President Biden has just brokered a debt limit deal, which includes a provision for automatic cuts if the deal fails. Arizona is limiting construction around Phoenix due to their dwindling water supply, and Donald Trump is currently facing several investigations. There is also an interesting story about Marie Bolden, a 14-year-old who won the 1908 Spelling Bee and her family is now searching for her medal. Florida&#39;s governor, DeSantis, is avoiding talking about Florida&#39;s abortion ban while visiting more moderate New Hampshire. On the international stage, NATO foreign ministers are meeting to discuss Ukraine&#39;s future ties to NATO while Russians are shelling and evacuating border regions in that country.</p>
+In the world, climate change is posed to increasingly affect countries like the United States; in Arizona, for example, officials have had to limit construction around Phoenix due to dwindling water supplies. In the U.S., Donald Trump faces various investigations and recordings of him have provided evidence against his defense strategies. At a gathering of NATO foreign ministers in Norway and leaders in Moldova, Ukrainian security has become a heavily discussed topic due to Russian missile attacks. People are engaging in interesting artwork and installations such as Hannah Gadsby&#39;s statement piece at Brooklyn Museum which spoke on Picasso&#39;s difficult legacy, while someone in Georgetown also created 10ft statues based on Transformers. Politicians like Florida&#39;s DeSantis avoided discussing Florida&#39;s abortion ban when travelling to more moderate New Hampshire. Then there is the opinion section where people discuss smashing the college admissions process, the A.I. workers that keep them up at night, and why the some people think the debt disaster is disappearing.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Calm Man in the Capital: Biden Lets Others Spike the Ball but Notches a Win</h3>
-<sub>By Peter Baker</sub>
-<p>President Biden brokered a debt limit deal by following instincts developed through long, hard and sometimes painful experience in Washington.  <a href="https://nyti.ms/3MPaijM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How to Enforce a Debt Deal: Through ‘Meat-Ax’ Cuts Nobody Wants</h3>
-<sub>By Catie Edmondson</sub>
-<p>The debt-limit legislation includes a provision meant to force both sides to pass additional bills following through on their deal: the threat of automatic cuts if they fail to do so.  <a href="https://nyti.ms/3N8esoo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>Arizona Limits Construction Around Phoenix as Its Water Supply Dwindles</h3>
 <sub>By Christopher Flavelle and Jack Healy</sub>
@@ -91,12 +79,6 @@ There is a lot of political news in the US right now. President Biden has just b
 <sub>By Ben Protess, Alan Feuer and Danny Hakim</sub>
 <p>Mr. Trump has been indicted in Manhattan, and federal and state prosecutors elsewhere have opened a number of investigations.  <a href="https://nyti.ms/3JVNBHV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>This Nonprofit Health System Cuts Off Patients With Medical Debt</h3>
-<sub>By Sarah Kliff and Jessica Silver-Greenberg</sub>
-<p>Doctors at the Allina Health System, a wealthy nonprofit in the Midwest, aren’t allowed to see poor patients or children with too many unpaid medical bills.  <a href="https://nyti.ms/3qo7Byo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ukraine’s Future Ties to NATO Are Main Topic as Western Nations Meet</h3>
@@ -117,21 +99,39 @@ There is a lot of political news in the US right now. President Biden has just b
 <sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Black Girl Won the 1908 Spelling Bee. Her Family Is Searching for Her Medal.</h3>
-<sub>By Livia Albeck-Ripka</sub>
-<p>At 14, Marie C. Bolden became the champion of what is believed to be the first national spelling competition in the United States. Her victory prompted a backlash.  <a href="https://nyti.ms/42hIxX8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Can You Guess These 10 Wacky Words From the Scripps Spelling Bee?</h3>
-<sub>By Amanda Montell, Andrew Herzog and Nicky Tesla</sub>
-<p>From nonsense terms to 20th-century slang, these words from past Scripps Bee competitions or training lists will test your pop cultural knowledge, Latin chops and spelling skills.  <a href="https://nyti.ms/45sBKg5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In New Hampshire, DeSantis Avoids Talking About Florida’s Abortion Ban</h3>
 <sub>By Nicholas Nehamas</sub>
 <p>As he traversed socially conservative Iowa this week, the 2024 contender highlighted his state’s six-week ban. But now, in more moderate New Hampshire, he is shying from the subject.  <a href="https://nyti.ms/3WMCGrp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>With Hannah Gadsby’s ‘It’s Pablo-matic,’ the Joke’s on the Brooklyn Museum</h3>
+<sub>By Jason Farago</sub>
+<p>The Australian comedian turns curator in a show about Picasso’s complicated legacy. But it’s women artists the exhibition really shortchanges.  <a href="https://nyti.ms/3oF5NjS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Greetings From ‘Mexicoland’</h3>
+<sub>By Héctor Tobar and Deb Leal</sub>
+<p>A Los Angeles shopping plaza is a preview of California’s Latino future.  <a href="https://nyti.ms/42gFgqW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>Let’s Smash the College Admissions Process</h3>
+<sub>By David Brooks</sub>
+<p>If affirmative action goes, bigger changes are necessary.  <a href="https://nyti.ms/45JVvj0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>We Spoke With 5 People Who Work With A.I. Here’s What Keeps Them Up at Night.</h3>
+<sub>By Phoebe Lett and Jeremy Ashkenas</sub>
+<p>Five A.I. practitioners — an industry godfather, an artist, an ethicist, a writer and a computer scientist — share their experiences working with artificial intelligence.  <a href="https://nyti.ms/3IQmX5c"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>The Case of the Disappearing Debt Disaster</h3>
+<sub>By Paul Krugman</sub>
+<p>One secret ingredient: Republicans don’t care about policy  <a href="https://nyti.ms/3OU0JTt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
