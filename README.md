@@ -60,19 +60,55 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, June 2, Central Standard Time</p>
 <p>
-In the world right now, a lot of different things are happening. In Arizona, water supplies are rapidly dwindling due to the effects of climate change, leading to limits on construction in Phoenix. Meanwhile, a woman&#39;s family is trying to recover her spelling bee medal from 1908. There is also continued investigations into former president Donald Trump and his administration. The future of NATO and Ukrainian security is uncertain and a deadly Russian missile attack occurred in Kyiv recently. On the social and cultural front, Hannah Gadsby has curated an exhibition about Picassos&#39;s legacy, but it shortchanges women artists. Representation of California&#39;s Latino future is being previewed in one Los Angeles shopping plaza. Finally, on the opinion front, people are calling for reform of college admissions processes, there is some worry about artificial intelligence, and people are realizing that the debt disaster isn&#39;t as significant as it was once portrayed.</p>
+There has been a lot of news this week! The Senate has passed a debt limit bill in the US, which was needed to avoid a possible economic collapse. President Biden managed to broker the deal, showing his skill in navigating Washington. We also got job numbers for the Federal Reserve&#39;s next meeting, and there has been a lot of discussion surrounding stocks from China and their effect on the economy. Meanwhile, in other parts of the world, people are facing difficult times; there is a prominent activist jailed in Iran, and pregnant women in Ukraine are being put at risk by the ongoing fighting there. There have also been some interesting stories emerging about some rural crossroads in the US, and former president Trump is facing an ongoing investigation. North Korea is also making news as their potential nuclear capabilities become more worrying. Finally, Apple is attempting to create something called the Metaverse- an immersive digital world- but it remains to be seen whether it will be successful.</p>
 <ol>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Arizona Limits Construction Around Phoenix as Its Water Supply Dwindles</h3>
-<sub>By Christopher Flavelle and Jack Healy</sub>
-<p>In what could be a glimpse of the future as climate change batters the West, officials ruled there’s not enough groundwater for projects already approved.  <a href="https://nyti.ms/3C3ACC5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Senate Passes Debt Limit Bill, Staving Off a Calamitous Default</h3>
+<sub>By Carl Hulse</sub>
+<p>The final vote on Thursday night came after leaders put down a revolt by some senators who raised concerns that the debt-limit package would under-fund the Pentagon.  <a href="https://nyti.ms/43oBCNe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Black Girl Won the 1908 Spelling Bee. Her Family Is Searching for Her Medal.</h3>
-<sub>By Livia Albeck-Ripka</sub>
-<p>At 14, Marie C. Bolden became the champion of what is believed to be the first national spelling competition in the United States. Her victory prompted a backlash.  <a href="https://nyti.ms/42hIxX8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>The Calm Man in the Capital: Biden Lets Others Spike the Ball but Notches a Win</h3>
+<sub>By Peter Baker</sub>
+<p>President Biden brokered a debt limit deal by following instincts developed through long, hard and sometimes painful experience in Washington.  <a href="https://nyti.ms/3MPaijM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>See How Each Senator Voted on Raising the Debt Limit</h3>
+<sub>By The New York Times</sub>
+<p>Raising the Debt Limit: Senate Live Vote  <a href="https://nyti.ms/3MNBijH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Jobs Numbers in Focus as the Fed Hints at a ‘Skip’</h3>
+<sub>By Jeanna Smialek</sub>
+<p>Federal Reserve officials are expected to leave rates unchanged at their June 13-14 meeting. Fresh jobs data will factor into the decision.  <a href="https://nyti.ms/3oB9yah"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Investors Have Soured on China’s Stocks, Renewing Fears About Economy</h3>
+<sub>By Vivek Shankar</sub>
+<p>They initially reacted enthusiastically to China’s reversal of pandemic restrictions but have since taken a dimmer view of the country’s recovery.  <a href="https://nyti.ms/43WlUZB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Even in Prison, She’s ‘an Indomitable Voice’ for Freedom in Iran</h3>
+<sub>By Farnaz Fassihi</sub>
+<p>Fighting for change has cost Narges Mohammadi her career, separated her from family and deprived her of liberty. But a jail cell has not succeeded in silencing her.  <a href="https://nyti.ms/42kRq25"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘Lots of Explosions and Shooting Outside’: Giving Birth in Wartime Ukraine</h3>
+<sub>By Maria Varenikova</sub>
+<p>The mental burden of Russia’s invasion has exacted a heavy toll on civilians. As the fighting drags on, pregnant women are among those facing the toughest trials.  <a href="https://nyti.ms/3oIcAtg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Will a Dollar General Ruin a Rural Crossroads?</h3>
+<sub>By Michael Corkery and Andrea Bruce</sub>
+<p>A fight over a proposed chain store is also about what “country” means to different people in a small community.  <a href="https://nyti.ms/42kJvl6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Recording of Trump Underscores Growing Evidence in Documents Case</h3>
@@ -80,59 +116,23 @@ In the world right now, a lot of different things are happening. In Arizona, wat
 <p>A conversation in which the former president is said to have acknowledged that he could not declassify a sensitive document could undercut a defense he has offered.  <a href="https://nyti.ms/3WHwGQV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Donald Trump Faces Several Investigations. Here’s Where They Stand.</h3>
-<sub>By Ben Protess, Alan Feuer and Danny Hakim</sub>
-<p>Mr. Trump has been indicted in Manhattan, and federal and state prosecutors elsewhere have opened a number of investigations.  <a href="https://nyti.ms/3JVNBHV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 24, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The Three Other Trump Investigations</h3>
+<sub>By German Lopez</sub>
+<p>The Manhattan case isn’t Trump’s only legal problem.  <a href="https://nyti.ms/42q8R0Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine’s Future Ties to NATO Are Main Topic as Western Nations Meet</h3>
-<sub>By Michael Crowley</sub>
-<p>The question of how to guarantee Ukrainian security loomed over a meeting of NATO foreign ministers in Norway and a gathering of European leaders in Moldova.  <a href="https://nyti.ms/3N86GuH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
+<h3>Why North Korea’s Latest Nuclear Claims Are Raising Alarms</h3>
+<sub>By Pablo Robles and Choe Sang-Hun</sub>
+<p>North Korea has signaled that it has made significant progress in its nuclear programs. Whether true or not, it is worrying to the United States and its allies in the region.  <a href="https://nyti.ms/3Nj6nxv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Mother and Child’s Desperate Run for Cover in Kyiv Ends Outside Locked Shelter</h3>
-<sub>By Marc Santora and Anatoly Kurmanaev</sub>
-<p>They were among three people killed in a Russian missile attack, officials said. Ukraine opened an investigation, as Russians described shelling and evacuations in border regions.  <a href="https://nyti.ms/3ONcCuv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In New Hampshire, DeSantis Avoids Talking About Florida’s Abortion Ban</h3>
-<sub>By Nicholas Nehamas</sub>
-<p>As he traversed socially conservative Iowa this week, the 2024 contender highlighted his state’s six-week ban. But now, in more moderate New Hampshire, he is shying from the subject.  <a href="https://nyti.ms/3WMCGrp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>With Hannah Gadsby’s ‘It’s Pablo-matic,’ the Joke’s on the Brooklyn Museum</h3>
-<sub>By Jason Farago</sub>
-<p>The Australian comedian turns curator in a show about Picasso’s complicated legacy. But it’s women artists the exhibition really shortchanges.  <a href="https://nyti.ms/3oF5NjS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Greetings From ‘Mexicoland’</h3>
-<sub>By Héctor Tobar and Deb Leal</sub>
-<p>A Los Angeles shopping plaza is a preview of California’s Latino future.  <a href="https://nyti.ms/42gFgqW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>Let’s Smash the College Admissions Process</h3>
-<sub>By David Brooks</sub>
-<p>If affirmative action goes, bigger changes are necessary.  <a href="https://nyti.ms/45JVvj0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>We Spoke With 5 People Who Work With A.I. Here’s What Keeps Them Up at Night.</h3>
-<sub>By Phoebe Lett and Jeremy Ashkenas</sub>
-<p>Five A.I. practitioners — an industry godfather, an artist, an ethicist, a writer and a computer scientist — share their experiences working with artificial intelligence.  <a href="https://nyti.ms/3IQmX5c"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>The Case of the Disappearing Debt Disaster</h3>
-<sub>By Paul Krugman</sub>
-<p>One secret ingredient: Republicans don’t care about policy  <a href="https://nyti.ms/3OU0JTt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Apple Is Stepping Into the Metaverse. Will Anyone Care?</h3>
+<sub>By Kellen Browning and Mike Isaac</sub>
+<p>Interest in the futuristic, immersive digital world is fading just as Apple plans to debut a virtual reality device.  <a href="https://nyti.ms/3MEYQaA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 2, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
