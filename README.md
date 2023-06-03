@@ -60,31 +60,25 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, June 3, Central Standard Time</p>
 <p>
-It looks like a lot of really concerning stuff is happening around the world. In India, there was a huge railway accident that killed hundreds of people. There were also crimes in Ukraine related to Russia&#39;s occupation and a car bombing. In the US, there are still issues with Native American tribal members being prosecuted against due to their lack of “Indian blood&quot;. People in the LGBTQ+ community are facing difficulties as well; coming out in China has become harder with a crackdown on expressing gay and transgender expression. Lastly, even though social acceptance for young people has increased in recent years, this has had a negative effect on their mental health.</p>
+There has recently been a deadly train crash in India, and the US has put in place legislation to prevent debt limit crises. In Russia, a car bombing just occurred in an occupied area of Ukraine, while two black members of Native Tribes have been arrested by Oklahoma authorities despite Supreme Court rulings. Lastly, L.G.B.T.Q. teens are struggling with mental health issues due to limited acceptance as well as a recent crackdown on gay and transgender expression happening in China.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>India’s Worst Rail Disaster in Decades Convulses Country Dependent on Trains</h3>
-<sub>By Sameer Yasir, Mujib Mashal and Hari Kumar</sub>
-<p>The disaster killed at least 288 people, and a preliminary government report described it as a “three-way accident” involving two passenger trains and an idled cargo train. Officials were investigating possible signal failure.  <a href="https://nyti.ms/43xI7go"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, June 3, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>India’s Train Crash: What We Know</h3>
 <sub>By Alex Travelli, Victoria Kim, Erin Mendell and Isabella Kwai</sub>
 <p>Three trains were involved in the fatal crash in Odisha State. It was the deadliest such disaster in decades in a country where train travel has grown far safer in recent years.  <a href="https://nyti.ms/3qt0UuI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 3, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Signs Fiscal Responsibility Act in End to Debt Limit Crisis</h3>
+<sub>By Michael D. Shear</sub>
+<p>Now that the bill is law, the nation will not risk running out of money to pay its obligations for two years.  <a href="https://nyti.ms/3WNnZEA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, June 3, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Biden’s Debt-Deal Strategy: Win in the Fine Print</h3>
+<h3>Biden’s Debt Deal Strategy: Win in the Fine Print</h3>
 <sub>By Jim Tankersley</sub>
 <p>The president and his negotiators believe they worked out a deal that allowed Republicans to claim big spending cuts even as the reality was far more modest.  <a href="https://nyti.ms/3C6o64N"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘The Stakes Could Not Have Been Higher’: Biden Praises Debt-Ceiling Deal</h3>
-<sub>By Michael D. Shear</sub>
-<p>The president addressed the nation from the Oval Office on Friday evening, after congressional passage of legislation to prevent economic calamity.  <a href="https://nyti.ms/3C6Ta4r"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Lawyer’s Notes Could Be a Key in the Classified Documents Inquiry</h3>
@@ -133,6 +127,12 @@ It looks like a lot of really concerning stuff is happening around the world. In
 <sub>By Nicole Hong and Zixu Wang</sub>
 <p>The students at an elite college in China found themselves on a collision course with the authorities amid a crackdown on gay and transgender expression.  <a href="https://nyti.ms/3C7VJDa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>Can You Survive Summer?</h3>
+<sub>By Hannah Seo</sub>
+<p>Are you prepared for the challenges of summer? Take our quiz to find out.  <a href="https://nyti.ms/3qq0ENn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 2, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
