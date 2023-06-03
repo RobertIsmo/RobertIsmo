@@ -60,15 +60,21 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, June 3, Central Standard Time</p>
 <p>
-Lots of bad news lately - there was a horrible train crash in India that killed over 230 people and injured nearly 900. Closer to home, President Biden praised a debt-ceiling deal to prevent economic calamity, but the deal points to an ever-growing debt. U.S. Secretary of State Blinken detailed Russia&#39;s &#39;failures&#39; during a speech in Finland (which just became NATO&#39;s newest member). In Ukraine, there were deaths in a shelter and Russia has been evacuating border towns, while here in the U.S., lawyers have been unable to find a document mentioned by Trump in an interview. Prosecutors have also contacted firms that consulted the Trump campaign. 
+There has been a devastating train crash in India that killed more than 230 people and injured 900. It&#39;s been a country with long-standing issues of railway safety, so there&#39;s been an effort to improve things. Meanwhile, in the US, President Biden has praised the deal made to raise the debt ceiling to avoid economic calamity. Also in the US, former President Trump&#39;s legal team could not find the military document discussed in a recorded conversation. 
 
-A few more positive stories: Three &quot;forever chemicals&quot; makers have settled public water lawsuits and Churchill Downs is pausing racing while investigating horse deaths. On the defense front, the U.S. vowed to keep up military actions near China and is trying to bring China into arms control talks. Plus this year&#39;s Spelling Bee Champion was ultimately a success story!</p>
+Outside of the US, NATO&#39;s newest member Finland hosted US Secretary of State Blinken who discussed Russia&#39;s &#39;failures&#39; and Ukraine is dealing with deaths due to a shelter closure as Russia evacuated border towns. Additionally, businesses are settling lawsuits concerning hazardous &quot;forever chemicals&quot; polluting public water sources, while Churchill Downs stopped racing until they investigate why 12 race horses died there recently. Finally, US defense secretary vowed to take continued military action near China and seek arms control talks for nuclear order established during the Cold War era.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>More Than 230 Dead and 900 Injured in Train Crash in India</h3>
-<sub>By Dan Bilefsky, Mike Ives and Mujib Mashal</sub>
-<p>The accident, in the eastern state of Odisha, was among the worst ever in a nation with a history of rail safety problems.  <a href="https://nyti.ms/3OPekvp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub>By Mike Ives, Mujib Mashal and Dan Bilefsky</sub>
+<p>The rail disaster, in the eastern state of Odisha, was among the deadliest in a nation with a history of rail safety problems.  <a href="https://nyti.ms/3OPekvp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>India’s Train Crash: What We Know</h3>
+<sub>By Alex Travelli, Victoria Kim and Erin Mendell</sub>
+<p>After decades when deadly accidents were frequent, train travel in India has grown far safer in recent years, with government investing heavily in the vast rail network.  <a href="https://nyti.ms/3qt0UuI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, June 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>‘The Stakes Could Not Have Been Higher’: Biden Praises Debt-Ceiling Deal</h3>
@@ -128,12 +134,6 @@ A few more positive stories: Three &quot;forever chemicals&quot; makers have set
 <h3>U.S. Will Try to Bring China Into Arms Control Talks</h3>
 <sub>By Julian E. Barnes and David E. Sanger</sub>
 <p>The nuclear order established during the Cold War is under more stress than at any point since 1962, but efforts to negotiate with Beijing are unlikely to succeed anytime soon.  <a href="https://nyti.ms/3oALJ2k"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>This Year’s Spelling Bee Champion Didn’t Schweat the Schwa</h3>
-<sub>By Remy Tumin, Maria Cramer and Maggie Astor</sub>
-<p>After three years of studying, it took Dev Shah about 45 seconds to reach the apotheosis of his craft and become the national champion on Thursday night.  <a href="https://nyti.ms/3Jhh9BZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 2, Central Standard Time</sub></sub>
 <hr/>
 </ol>
