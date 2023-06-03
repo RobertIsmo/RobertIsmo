@@ -60,10 +60,10 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, June 3, Central Standard Time</p>
 <p>
-There&#39;s been a lot happening around the world lately. In India, there was a tragic train crash that killed over 260 people. India has had a history of deadly crashes, but their trains have become much safer in recent years with government investmment. In the US, President Biden recently negotiated a debt-ceiling deal and addressed the nation from the Oval Office to explain it. Meanwhile, Trump&#39;s lawyer&#39;s notes have become relevant in an inquiry about classified documents. There have also been developments with queer teens in America as social acceptance for them has increased significantly in the last decade, though their mental health still suffers. Additionally, two students tested China&#39;s shrinking LGBTQ space and were met with resistance by authorities. In Ukraine, there was a car bombing inside an area illegally annexed by Russia, and in Haiti vigilante justice is on the rise with civilians killing gang members and people feeling safer as crime plummets.</p>
+There&#39;s been a lot of tragedy in the world lately. In India, over 280 people were killed in a train crash and officials are still trying to determine what happened. In the US, President Biden recently made a debt-ceiling deal with Senate Republicans that has been praised and debated, with some saying he won in the fine print. Meanwhile, TikTok is becoming increasingly popular among older influencers who are signing brand deals and making extra cash, and there&#39;s also been an increase in acceptance for queer teens across the country. Unfortunately, not all news is good news - there was a car bombing in Russia-occupied Ukraine that killed one cafe owner running for elections, and vigilante justice is on the rise in Haiti despite crime plummeting.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Modi Arrives at Scene of Train Crash That Killed Over 260 in India</h3>
+<h3>Modi Arrives at Scene of Train Crash That Killed Over 280 in India</h3>
 <sub>By Mujib Mashal and Hari Kumar</sub>
 <p>The disaster, which officials said had involved three trains, had a stark toll even given India’s history of deadly crashes.  <a href="https://nyti.ms/43xI7go"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 3, Central Standard Time</sub></sub>
@@ -71,7 +71,7 @@ There&#39;s been a lot happening around the world lately. In India, there was a 
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>India’s Train Crash: What We Know</h3>
 <sub>By Alex Travelli, Victoria Kim, Erin Mendell and Isabella Kwai</sub>
-<p>After decades when deadly accidents were frequent, train travel in India has grown far safer in recent years, with government investing heavily in the vast rail network.  <a href="https://nyti.ms/3qt0UuI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Three trains were involved in the fatal crash in Odisha State. It was the deadliest such disaster in decades in a country where train travel has grown far safer in recent years.  <a href="https://nyti.ms/3qt0UuI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -112,7 +112,7 @@ There&#39;s been a lot happening around the world lately. In India, there was a 
 <hr/>
 <img src="https://img.shields.io/badge/-upshot-blue" alt="">
 <h3>What It’s Like to Be a Queer Teenager in America Today</h3>
-<sub></sub>
+<sub>By Francesca Paris and Claire Cain Miller</sub>
 <p>Social acceptance among young people has increased significantly in only a decade. But the mental health of L.G.B.T.Q. teens is suffering.  <a href="https://nyti.ms/3Cbka2M"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 3, Central Standard Time</sub></sub>
 <hr/>
