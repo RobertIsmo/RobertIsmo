@@ -60,12 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, June 3, Central Standard Time</p>
 <p>
-There&#39;s been a lot of tragedy in the world lately. In India, over 280 people were killed in a train crash and officials are still trying to determine what happened. In the US, President Biden recently made a debt-ceiling deal with Senate Republicans that has been praised and debated, with some saying he won in the fine print. Meanwhile, TikTok is becoming increasingly popular among older influencers who are signing brand deals and making extra cash, and there&#39;s also been an increase in acceptance for queer teens across the country. Unfortunately, not all news is good news - there was a car bombing in Russia-occupied Ukraine that killed one cafe owner running for elections, and vigilante justice is on the rise in Haiti despite crime plummeting.</p>
+It looks like a lot of really concerning stuff is happening around the world. In India, there was a huge railway accident that killed hundreds of people. There were also crimes in Ukraine related to Russia&#39;s occupation and a car bombing. In the US, there are still issues with Native American tribal members being prosecuted against due to their lack of “Indian blood&quot;. People in the LGBTQ+ community are facing difficulties as well; coming out in China has become harder with a crackdown on expressing gay and transgender expression. Lastly, even though social acceptance for young people has increased in recent years, this has had a negative effect on their mental health.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Modi Arrives at Scene of Train Crash That Killed Over 280 in India</h3>
-<sub>By Mujib Mashal and Hari Kumar</sub>
-<p>The disaster, which officials said had involved three trains, had a stark toll even given India’s history of deadly crashes.  <a href="https://nyti.ms/43xI7go"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>India’s Worst Rail Disaster in Decades Convulses Country Dependent on Trains</h3>
+<sub>By Sameer Yasir, Mujib Mashal and Hari Kumar</sub>
+<p>The disaster killed at least 288 people, and a preliminary government report described it as a “three-way accident” involving two passenger trains and an idled cargo train. Officials were investigating possible signal failure.  <a href="https://nyti.ms/43xI7go"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -92,12 +92,6 @@ There&#39;s been a lot of tragedy in the world lately. In India, over 280 people
 <p>M. Evan Corcoran recorded recollections of his legal work last year for Donald Trump. The recording is now in the hands of prosecutors, unnerving some aides to the former president.  <a href="https://nyti.ms/3MGogEM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Lawyers Unable to Find Document Trump Discussed in Recorded Conversation</h3>
-<sub>By Alan Feuer and Maggie Haberman</sub>
-<p>Prosecutors issued a subpoena for a description of military options for Iran mentioned by the former president during an interview. But Mr. Trump’s legal team said they could find no such document.  <a href="https://nyti.ms/3oS5xhv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 2, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Welcome to CringeTok, Where Being Insufferable Can Be Lucrative</h3>
 <sub>By Kate Ryan</sub>
@@ -110,6 +104,24 @@ There&#39;s been a lot of tragedy in the world lately. In India, over 280 people
 <p>No matter what their age or finances, some elder influencers are finding that being on the app can bring them extra cash, or even help them extend their careers.  <a href="https://nyti.ms/3C9KKcp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 3, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘Everything Changed’: The War Arrives on Russians’ Doorstep</h3>
+<sub>By Valerie Hopkins and Anatoly Kurmanaev</sub>
+<p>With cross-border strikes, residents of the Russian region of Belgorod are starting to understand the horrors of war being waged at their doorstep.  <a href="https://nyti.ms/3WPivJB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, June 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Car Bombing in Russian-Occupied Ukraine Shows Reach of War</h3>
+<sub>By Thomas Gibbons-Neff and Anatoly Kurmanaev</sub>
+<p>The blast in the Zaporizhzhia region of southern Ukraine killed a cafe owner who was registered to run in elections seen as an attempt to legitimize Moscow’s illegal annexation of the area.  <a href="https://nyti.ms/3MRtBcv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, June 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Two Black Members of Native Tribes Were Arrested. The Law Sees Only One as Indian.</h3>
+<sub>By Chris Cameron and Mark Walker</sub>
+<p>A Supreme Court ruling barred Oklahoma from prosecuting crimes committed by Native Americans on tribal land, but some Black tribal members are still being prosecuted because they lack “Indian blood.”  <a href="https://nyti.ms/3Cbn9YS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, June 3, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-upshot-blue" alt="">
 <h3>What It’s Like to Be a Queer Teenager in America Today</h3>
 <sub>By Francesca Paris and Claire Cain Miller</sub>
@@ -120,18 +132,6 @@ There&#39;s been a lot of tragedy in the world lately. In India, over 280 people
 <h3>With Rainbow Flags, 2 Students Test China’s Shrinking L.G.B.T.Q. Space</h3>
 <sub>By Nicole Hong and Zixu Wang</sub>
 <p>The students at an elite college in China found themselves on a collision course with the authorities amid a crackdown on gay and transgender expression.  <a href="https://nyti.ms/3C7VJDa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, June 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Car Bombing in Russian-Occupied Ukraine Shows Reach of War</h3>
-<sub>By Thomas Gibbons-Neff and Anatoly Kurmanaev</sub>
-<p>The blast in the Zaporizhzhia region of southern Ukraine killed a cafe owner who was registered to run in elections seen as an attempt to legitimize Moscow’s illegal annexation of the area.  <a href="https://nyti.ms/3MRtBcv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, June 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Vigilante Justice Rises in Haiti and Crime Plummets</h3>
-<sub>By Frances Robles and Andre Paultre</sub>
-<p>Civilians have killed at least 160 gang members in Haiti, a human rights group says. Residents say they feel safer, but others worry that it will lead to even more violence.  <a href="https://nyti.ms/3C9KLgt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
