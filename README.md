@@ -58,18 +58,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Friday, June 2, Central Standard Time</p>
+<p>It is Saturday, June 3, Central Standard Time</p>
 <p>
-Currently, the US is largely dealing with economic concerns. The president addressed the nation from the Oval Office on Friday evening after congressional passage of legislation to prevent economic calamity. However, negotiations suggest that debt will keep growing and fast.
+Lots of bad news lately - there was a horrible train crash in India that killed over 230 people and injured nearly 900. Closer to home, President Biden praised a debt-ceiling deal to prevent economic calamity, but the deal points to an ever-growing debt. U.S. Secretary of State Blinken detailed Russia&#39;s &#39;failures&#39; during a speech in Finland (which just became NATO&#39;s newest member). In Ukraine, there were deaths in a shelter and Russia has been evacuating border towns, while here in the U.S., lawyers have been unable to find a document mentioned by Trump in an interview. Prosecutors have also contacted firms that consulted the Trump campaign. 
 
-On the world stage, there has been a tragic train crash in India, with more than 230 dead and 900 injured. The US Secretary of State gave a speech in Finland (NATO&#39;s newest member) talking about Russia&#39;s failures. Meanwhile, people are struggling to figure out who is to blame for two women and a child dying in a shelter in Ukraine&#39;s capital city, while Russia is evacuating its border towns.
-
-Back closer to home, prosecutors have issued a subpoena for a description of military options for Iran which Trump discussed in an interview but his legal team can&#39;t find any such document. Additionally, Atlanta prosecutors contacted firms that were hired by the Trump Campaign to investigate voter fraud but they reported there was no evidence of significant fraud occurring.
-
-In a seemingly unrelated event, three companies are settling lawsuits related to public water contamination by &#39;forever chemicals&#39; and at Churchill Downs two investigations are underway - one into why twelve thoroughbreds died at the track recently and another into whether the U.S. can bring China into arms control talks amid increased tension between Moscow and Washington DC.
-
-Finally, one man is trying to make running more inclusive across communities through his new book with Martinus Evans lacing up and becoming this year&#39;s National Champion spelling bee winner - all within 45 seconds!</p>
+A few more positive stories: Three &quot;forever chemicals&quot; makers have settled public water lawsuits and Churchill Downs is pausing racing while investigating horse deaths. On the defense front, the U.S. vowed to keep up military actions near China and is trying to bring China into arms control talks. Plus this year&#39;s Spelling Bee Champion was ultimately a success story!</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>More Than 230 Dead and 900 Injured in Train Crash in India</h3>
+<sub>By Dan Bilefsky, Mike Ives and Mujib Mashal</sub>
+<p>The accident, in the eastern state of Odisha, was among the worst ever in a nation with a history of rail safety problems.  <a href="https://nyti.ms/3OPekvp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 2, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>‘The Stakes Could Not Have Been Higher’: Biden Praises Debt-Ceiling Deal</h3>
 <sub>By Michael D. Shear</sub>
@@ -80,12 +80,6 @@ Finally, one man is trying to make running more inclusive across communities thr
 <h3>The Debt-Limit Deal Suggests Debt Will Keep Growing, Fast</h3>
 <sub>By Jim Tankersley</sub>
 <p>Negotiations to prevent a government default reaffirmed that the big drivers of future deficits are all off the table in a divided Washington.  <a href="https://nyti.ms/3Ca9AZO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>More Than 230 Dead and 900 Injured in Train Crash in India</h3>
-<sub>By Dan Bilefsky</sub>
-<p>Indian news reports said the tragedy occurred after at least 10 train cars derailed.  <a href="https://nyti.ms/3OPekvp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -124,16 +118,16 @@ Finally, one man is trying to make running more inclusive across communities thr
 <p>The track, the home of the Kentucky Derby, is moving races to another location while officials look into why 12 thoroughbreds have died at Churchill Downs in recent weeks.  <a href="https://nyti.ms/42tP5lC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 2, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>U.S. Defense Chief Vows to Continue Military Actions Near China</h3>
+<sub>By Chris Buckley and Damien Cave</sub>
+<p>He said “risky intercepts” by Chinese planes in international airspace would not deter the United States and allies from patrolling, and he restated U.S. support for Taiwan.  <a href="https://nyti.ms/3N9HuUB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, June 3, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>U.S. Will Try to Bring China Into Arms Control Talks</h3>
 <sub>By Julian E. Barnes and David E. Sanger</sub>
 <p>The nuclear order established during the Cold War is under more stress than at any point since 1962, but efforts to negotiate with Beijing are unlikely to succeed anytime soon.  <a href="https://nyti.ms/3oALJ2k"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>One Man’s Mission to Make Running Everyone’s Sport</h3>
-<sub>By Danielle Friedman</sub>
-<p>Martinus Evans wants to make running more inclusive. His new book beckons back-of-the-packers to lace up.  <a href="https://nyti.ms/3qrQVps"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
