@@ -60,12 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, June 2, Central Standard Time</p>
 <p>
-There’s a lot going on in the world right now. U.S. Secretary of State Blinken is in Finland, detailing Russia’s &#39;failures&#39;. In the US, there was a debt-limit deal that suggests the US debt will keep growing quickly. It also staved off a calamitous default. President Biden is giving an Oval Office address to talk about the legislation. There’s also been a lot of legal action on former President Trump and his documents inquiry, as well as Pence not facing any charges in the same inquiry. On an economic level, job growth still remains strong despite some economic clouds and the Federal Reserve may still choose to hold off on an interest rate increase at its June 13-14 meeting. In terms of more localized news, there’s a debate about a Dollar General opening in a rural crossroads, as well as issues with power and water in Guam after Typhoon Mawar knocked out much of their infrastructure. Finally, Saudi Arabia is creating a huge fund to sign big-name soccer stars from around the world.</p>
+There are a few major things happening in the world right now. Firstly, US President Biden just praised a debt-ceiling deal that was passed by Congress which will help prevent economic calamity. Secondly, there was a devastating train crash in India that left over 230 people dead and thousands injured. To further address issues on the international stage, the US Secretary of State visited Finland, a recently new member of NATO, to go over Russia&#39;s &quot;failures&quot;. In other news, Atlanta prosecutors contacted firms hired by the Trump campaign to investigate voter fraud; the firms had reported that they found no proof of fraud. Additionally, manufacturers of &#39;Forever Chemicals&#39; have settled water lawsuit claims worth 1.19 billion dollars. Finally, Churchill Downs in Kentuck announced they will cease racing while they investigate the death of twelve horses and the US government is also trying to bring China into arms control talks due to the stress it has put on global nuclear order.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Finland, NATO’s Newest Member, Blinken Details Russia’s ‘Failures’</h3>
-<sub>By Michael Crowley</sub>
-<p>A speech by the U.S. Secretary of State struck a triumphal tone, while also warning against a rush to short-term solutions to the war in Ukraine.  <a href="https://nyti.ms/3WL5kJA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>‘The Stakes Could Not Have Been Higher’: Biden Praises Debt-Ceiling Deal</h3>
+<sub>By Michael D. Shear</sub>
+<p>The president addressed the nation from the Oval Office on Friday evening, after congressional passage of legislation to prevent economic calamity.  <a href="https://nyti.ms/3C6Ta4r"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -74,22 +74,22 @@ There’s a lot going on in the world right now. U.S. Secretary of State Blinken
 <p>Negotiations to prevent a government default reaffirmed that the big drivers of future deficits are all off the table in a divided Washington.  <a href="https://nyti.ms/3Ca9AZO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Senate Passes Debt Limit Bill, Staving Off a Calamitous Default</h3>
-<sub>By Carl Hulse</sub>
-<p>The final vote on Thursday night came after leaders put down a revolt by some senators who raised concerns that the debt-limit package would under-fund the Pentagon.  <a href="https://nyti.ms/43oBCNe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden to Deliver Oval Office Address as U.S. Averts Default</h3>
-<sub>By Michael D. Shear</sub>
-<p>The president will speak on Friday evening after congressional passage of legislation that narrowly averts economic calamity.  <a href="https://nyti.ms/3C6Ta4r"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>More Than 230 Dead and 900 Injured in Train Crash in India</h3>
+<sub>By Dan Bilefsky</sub>
+<p>Indian news reports said the tragedy occurred after at least 10 train cars derailed.  <a href="https://nyti.ms/3OPekvp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Treasury Paradox</h3>
-<sub>By Jeff Sommer</sub>
-<p>Treasuries have been threatened by a possible U.S. debt default, yet they remain more attractive than just about everything else, our columnist says.  <a href="https://nyti.ms/3oMzgZa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Finland, NATO’s Newest Member, Blinken Details Russia’s ‘Failures’</h3>
+<sub>By Michael Crowley</sub>
+<p>A speech by the U.S. Secretary of State struck a triumphal tone, while also warning against a rush to short-term solutions to the war in Ukraine.  <a href="https://nyti.ms/3WL5kJA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As Kyiv Reckons With Deaths by a Shelter, Russia Evacuates Border Towns</h3>
+<sub>By Thomas Gibbons-Neff and Natalia Yermak</sub>
+<p>In Ukraine’s capital, residents struggled with the question of who was to blame for a shelter closed off to two women and a child. In Russia, the authorities described evacuations in a border region.  <a href="https://nyti.ms/45LnLCc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -99,39 +99,39 @@ There’s a lot going on in the world right now. U.S. Secretary of State Blinken
 <sub><sub>Friday, June 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Pence Won’t Face Charges in Documents Inquiry</h3>
-<sub>By Maggie Haberman and Glenn Thrush</sub>
-<p>The Justice Department informed the former vice president of its decision days before he was expected to announce his campaign for president.  <a href="https://nyti.ms/3oNkX6L"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Atlanta Prosecutors Contact Firms That Consulted With Trump Campaign</h3>
+<sub>By Danny Hakim and Richard Fausset</sub>
+<p>The two companies were hired in 2020 to investigate voter fraud, but reported that they found no proof that significant fraud had occurred.  <a href="https://nyti.ms/3MI0tEq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.S. Job Growth Remains Strong Despite Economic Clouds</h3>
-<sub>By Sydney Ember</sub>
-<p>Employers added 339,000 workers in May, the Labor Department said, though the report also offered signs of shakiness.  <a href="https://nyti.ms/3WMFmp6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Fed May Still ‘Skip’ June Rate Increase Even Amid Strong Hiring</h3>
-<sub>By Jeanna Smialek</sub>
-<p>Federal Reserve officials are expected to leave rates unchanged at their June 13-14 meeting. Fresh jobs data might make the choice harder.  <a href="https://nyti.ms/3oB9yah"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Will a Dollar General Ruin a Rural Crossroads?</h3>
-<sub>By Michael Corkery and Andrea Bruce</sub>
-<p>A fight over a proposed chain store is also about what “country” means to different people in a small community.  <a href="https://nyti.ms/42kJvl6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Many in Guam Lack Power and Water a Week After Typhoon Mawar</h3>
-<sub>By Josie Moyer and Jacey Fortin</sub>
-<p>The storm was the strongest to strike the U.S. Pacific territory in at least two decades.  <a href="https://nyti.ms/45LnEXe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Three ‘Forever Chemicals’ Makers Settle Public Water Lawsuits</h3>
+<sub>By Ben Casselman, Ivan Penn and Matthew Goldstein</sub>
+<p>The $1.19 billion agreement, announced by Chemours, DuPont and Corteva, wouldn’t resolve all the claims against them.  <a href="https://nyti.ms/3P1h9cC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Saudi Soccer League Creates Huge Fund to Sign Global Stars</h3>
-<sub>By Tariq Panja and Ahmed Al Omran</sub>
-<p>A coordinated effort financed by the kingdom’s Public Investment Fund is offering huge paydays to some of the sport’s biggest stars if they join Saudi Arabia’s best teams.  <a href="https://nyti.ms/43GKCwC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Churchill Downs to Cease Racing as It Investigates Deaths of Horses</h3>
+<sub>By Joe Drape</sub>
+<p>The track, the home of the Kentucky Derby, is moving races to another location while officials look into why 12 thoroughbreds have died at Churchill Downs in recent weeks.  <a href="https://nyti.ms/42tP5lC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. Will Try to Bring China Into Arms Control Talks</h3>
+<sub>By Julian E. Barnes and David E. Sanger</sub>
+<p>The nuclear order established during the Cold War is under more stress than at any point since 1962, but efforts to negotiate with Beijing are unlikely to succeed anytime soon.  <a href="https://nyti.ms/3oALJ2k"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>One Man’s Mission to Make Running Everyone’s Sport</h3>
+<sub>By Danielle Friedman</sub>
+<p>Martinus Evans wants to make running more inclusive. His new book beckons back-of-the-packers to lace up.  <a href="https://nyti.ms/3qrQVps"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>This Year’s Spelling Bee Champion Didn’t Schweat the Schwa</h3>
+<sub>By Remy Tumin, Maria Cramer and Maggie Astor</sub>
+<p>After three years of studying, it took Dev Shah about 45 seconds to reach the apotheosis of his craft and become the national champion on Thursday night.  <a href="https://nyti.ms/3Jhh9BZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 2, Central Standard Time</sub></sub>
 <hr/>
 </ol>
