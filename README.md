@@ -60,7 +60,15 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, June 2, Central Standard Time</p>
 <p>
-There are a few major things happening in the world right now. Firstly, US President Biden just praised a debt-ceiling deal that was passed by Congress which will help prevent economic calamity. Secondly, there was a devastating train crash in India that left over 230 people dead and thousands injured. To further address issues on the international stage, the US Secretary of State visited Finland, a recently new member of NATO, to go over Russia&#39;s &quot;failures&quot;. In other news, Atlanta prosecutors contacted firms hired by the Trump campaign to investigate voter fraud; the firms had reported that they found no proof of fraud. Additionally, manufacturers of &#39;Forever Chemicals&#39; have settled water lawsuit claims worth 1.19 billion dollars. Finally, Churchill Downs in Kentuck announced they will cease racing while they investigate the death of twelve horses and the US government is also trying to bring China into arms control talks due to the stress it has put on global nuclear order.</p>
+Currently, the US is largely dealing with economic concerns. The president addressed the nation from the Oval Office on Friday evening after congressional passage of legislation to prevent economic calamity. However, negotiations suggest that debt will keep growing and fast.
+
+On the world stage, there has been a tragic train crash in India, with more than 230 dead and 900 injured. The US Secretary of State gave a speech in Finland (NATO&#39;s newest member) talking about Russia&#39;s failures. Meanwhile, people are struggling to figure out who is to blame for two women and a child dying in a shelter in Ukraine&#39;s capital city, while Russia is evacuating its border towns.
+
+Back closer to home, prosecutors have issued a subpoena for a description of military options for Iran which Trump discussed in an interview but his legal team can&#39;t find any such document. Additionally, Atlanta prosecutors contacted firms that were hired by the Trump Campaign to investigate voter fraud but they reported there was no evidence of significant fraud occurring.
+
+In a seemingly unrelated event, three companies are settling lawsuits related to public water contamination by &#39;forever chemicals&#39; and at Churchill Downs two investigations are underway - one into why twelve thoroughbreds died at the track recently and another into whether the U.S. can bring China into arms control talks amid increased tension between Moscow and Washington DC.
+
+Finally, one man is trying to make running more inclusive across communities through his new book with Martinus Evans lacing up and becoming this year&#39;s National Champion spelling bee winner - all within 45 seconds!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>‘The Stakes Could Not Have Been Higher’: Biden Praises Debt-Ceiling Deal</h3>
