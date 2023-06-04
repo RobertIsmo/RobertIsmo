@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, June 4, Central Standard Time</p>
 <p>
-Right now, there are some major events happening all over the world. In India, a tragic train crash has killed nearly 300 people with more than 2,200 onboard. In Russia, schools have begun teaching their students to focus on patriotism and the military while demonizing the West. In Ukraine, there have been explosions and both sides are preparing for a possible counterattack. In the United States, President Biden is seeking reelection and Republicans have been gathering in Iowa to discuss political issues. Canada’s military is learning survival strategies from the Inuit people in the Arctic. In Brooklyn, New York City has tried an experiment allowing residents to respond to 911 calls without police presence for five days. Activists who oppose new voting machines have been accused of being conspiracy theorists and in Florida Governor Desantis has raised a lot of funds which mostly came from big donors. Lastly, a 98-year-old former Negro Leagues star is still sharing his story and Jeff Zucker is looking to fix CNN after his departure from the role of top executive.</p>
+In India, technology is being rolled out to reduce accidents, but safety spending is decreasing. Unfortunately, there was a deadly train crash in Odisha State that killed nearly 300 people. Russia is not only making patriotism and military heroism part of its school curriculum, but also demonizing the West. Meanwhile, the Ukraine conflict is causing the pacifist Doukhobors who emigrated to Canada generations ago to reflect on their values. Explosions are hitting southern Ukraine as its President urges citizens to recognize soldiers’ efforts. In America, President Biden is asking people to keep him in office until he’s 86 – raising attention toward aging presidents. Canada’s military is trying to learn Arctic survival strategies from Inuits who live there. In Brooklyn, police stepped aside and let locals take over responsibility for their block – an interesting experiment that may redefine city law enforcement. Voting machines are causing issues and distrust among the American public – though some are worried activists are becoming too similar to conspiracy theorists. 8 GOP presidential hopefuls have gathered in Iowa without Donald Trump to promote their conservative ideals. Florida Governor DeSantis has indicated his campaign largely relies on big donors. Meanwhile in Mauritania divorce is seen as a cause for celebration with the women throwing parties!</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>India has introduced technology to prevent collisions, but safety spending has shrunk.</h3>
+<sub>By Alex Travelli and Karan Deep Singh</sub>
+<p>  <a href="https://nyti.ms/3qfOne3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, June 4, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>India’s Train Crash: What We Know</h3>
 <sub>By Alex Travelli, Victoria Kim, Erin Mendell and Isabella Kwai</sub>
@@ -83,7 +89,7 @@ Right now, there are some major events happening all over the world. In India, a
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Explosions Hit Southern Ukraine as Both Sides Brace for Counteroffensive</h3>
 <sub>By Matthew Mpoke Bigg and Vivek Shankar</sub>
-<p>Ahead of an expected counteroffensive, President Volodymyr Zelensky of Ukraine, in an unusually personal speech, urged his compatriots to show their gratitude to Ukraine’s soldiers.  <a href="https://nyti.ms/3ISG0eQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>President Volodymyr Zelensky, in an unusually personal speech, urged his compatriots to show their gratitude to the country’s soldiers.  <a href="https://nyti.ms/3ISG0eQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, June 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -122,16 +128,10 @@ Right now, there are some major events happening all over the world. In India, a
 <p>The Florida governor’s campaign said it had around 40,000 donors in May, an average of more than $200 per donor — a figure far higher than is typical for a campaign heavily funded by grass-roots support.  <a href="https://nyti.ms/3WQ8onQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>A Negro Leagues Star Is Still Sharing His Story</h3>
-<sub>By Louie Lazar</sub>
-<p>A pastor for more than 50 years, William Greason, 98, occasionally tells tales of a lifetime ago, when he mentored Willie Mays and played in the last Negro World Series.  <a href="https://nyti.ms/42kMJ8w"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, June 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Could Jeff Zucker Fix CNN? He Seems to Think So.</h3>
-<sub>By Benjamin Mullin</sub>
-<p>It’s been more than a year since he was forced from the top job at the network. Since then, he has made no secret of his frustrations with his exit — or his low regard for the man who replaced him, Chris Licht.  <a href="https://nyti.ms/43ECvk9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>No Shame. No Sorrow. Divorce Means It’s Party Time in Mauritania.</h3>
+<sub>By Ruth Maclean and Laura Boushnak</sub>
+<p>It is common for people in this West African desert nation to divorce many times. And when they do, the women celebrate.  <a href="https://nyti.ms/3WVf7Nq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, June 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
