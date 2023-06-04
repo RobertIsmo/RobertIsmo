@@ -60,12 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, June 4, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In India, they are trying to use technology to prevent collisions, but safety spending has shrunk. In Russia, schools are having students recite their ABC&#39;s and praise the country&#39;s army while demonizing the West. In Ukraine, there&#39;ve been explosions and the president is asking the citizens to show their appreciation to their soldiers. Outside of Russia, there is a sect called the Doukhobors whose pacifist beliefs are being challenged by war. Here in America, we just re-elected President Biden as our oldest leader and he’s asking voters to keep him in office until age 86. A death row prisoner in Missouri has some jurors second-guessing his sentence after they sentenced him to death. Also, in Brooklyn they tried an experimental program where residents responded to 911 calls instead of police officers and it could change law enforcement policies here. Lastly, many states have made their reputations even more recognizable by leaning into cultural issues this year. Oregon is having a political breakdown because Republicans are boycotting bills the Democrats proposed.  Lastly, at CNN Jeff Zucker was recently replaced by Chris Licht and he’s not too happy about that, while Meet the Press host Chuck Todd is leaving and being replaced by Kristen Welker.</p>
+Things in the world have been very chaotic lately. In India, a train crash recently killed a bunch of people in one of the deadliest rail accidents in the country’s history. Two young men just lost a friend who they were trying to help find a better life. In Russia, school curriculum is reportedly demonizing the West and glorifying Moscow&#39;s military. A pacifist group called Doukhobors from Russia is now being challenged with war and modernity due to the Ukraine conflict. Explosions in southern Ukraine have prompted their President to give an unusually personal speech urging citizens to support their country’s soldiers. Here in the US, President Biden is asking voters to keep him in office until almost age 86, despite polls showing most Americans against this. In Missouri, Michael Tisius is set to be executed on Tuesday -though some jurors are regretting giving him that sentence. In Brooklyn, police took a couple days off and had residents respond to 911 calls which potentially could change police protocols in NYC. At the state level, legislatures across much of America are heavily leaning into cultural issues depending on their political leaning, and in Oregon one chamber has even come to a standstill due to boycotts. CNN&#39;s former CEO Jeff Zucker may be returning after being forced out more than a year ago, and Meet The Press&#39; lead anchor Chuck Todd is being replaced by NBC&#39;s White House correspondent Kristen Welker</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>India has introduced technology to prevent collisions, but safety spending has shrunk.</h3>
-<sub>By Alex Travelli and Karan Deep Singh</sub>
-<p>  <a href="https://nyti.ms/3qfOne3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>How the India Train Crash Unfolded</h3>
+<sub>By Weiyi Cai, Lazaro Gamio, Marco Hernandez, Scott Reinhard, Karan Deep Singh and Sameer Yasir</sub>
+<p>The sequence of events as three trains collided in one of India’s deadliest rail accidents.  <a href="https://nyti.ms/3oK7vk2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, June 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -88,7 +88,7 @@ There is a lot going on in the world right now. In India, they are trying to use
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Explosions Hit Southern Ukraine as Both Sides Brace for Counteroffensive</h3>
-<sub>By Matthew Mpoke Bigg and Vivek Shankar</sub>
+<sub>By Matthew Mpoke Bigg, Anatoly Kurmanaev and Vivek Shankar</sub>
 <p>President Volodymyr Zelensky, in an unusually personal speech, urged his compatriots to show their gratitude to the country’s soldiers.  <a href="https://nyti.ms/3ISG0eQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, June 4, Central Standard Time</sub></sub>
 <hr/>
