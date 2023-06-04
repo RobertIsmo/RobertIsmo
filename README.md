@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, June 4, Central Standard Time</p>
 <p>
-In India, technology is being rolled out to reduce accidents, but safety spending is decreasing. Unfortunately, there was a deadly train crash in Odisha State that killed nearly 300 people. Russia is not only making patriotism and military heroism part of its school curriculum, but also demonizing the West. Meanwhile, the Ukraine conflict is causing the pacifist Doukhobors who emigrated to Canada generations ago to reflect on their values. Explosions are hitting southern Ukraine as its President urges citizens to recognize soldiers’ efforts. In America, President Biden is asking people to keep him in office until he’s 86 – raising attention toward aging presidents. Canada’s military is trying to learn Arctic survival strategies from Inuits who live there. In Brooklyn, police stepped aside and let locals take over responsibility for their block – an interesting experiment that may redefine city law enforcement. Voting machines are causing issues and distrust among the American public – though some are worried activists are becoming too similar to conspiracy theorists. 8 GOP presidential hopefuls have gathered in Iowa without Donald Trump to promote their conservative ideals. Florida Governor DeSantis has indicated his campaign largely relies on big donors. Meanwhile in Mauritania divorce is seen as a cause for celebration with the women throwing parties!</p>
+There is a lot going on in the world right now. In India, they are trying to use technology to prevent collisions, but safety spending has shrunk. In Russia, schools are having students recite their ABC&#39;s and praise the country&#39;s army while demonizing the West. In Ukraine, there&#39;ve been explosions and the president is asking the citizens to show their appreciation to their soldiers. Outside of Russia, there is a sect called the Doukhobors whose pacifist beliefs are being challenged by war. Here in America, we just re-elected President Biden as our oldest leader and he’s asking voters to keep him in office until age 86. A death row prisoner in Missouri has some jurors second-guessing his sentence after they sentenced him to death. Also, in Brooklyn they tried an experimental program where residents responded to 911 calls instead of police officers and it could change law enforcement policies here. Lastly, many states have made their reputations even more recognizable by leaning into cultural issues this year. Oregon is having a political breakdown because Republicans are boycotting bills the Democrats proposed.  Lastly, at CNN Jeff Zucker was recently replaced by Chris Licht and he’s not too happy about that, while Meet the Press host Chuck Todd is leaving and being replaced by Kristen Welker.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>India has introduced technology to prevent collisions, but safety spending has shrunk.</h3>
@@ -69,10 +69,10 @@ In India, technology is being rolled out to reduce accidents, but safety spendin
 <sub><sub>Sunday, June 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>India’s Train Crash: What We Know</h3>
-<sub>By Alex Travelli, Victoria Kim, Erin Mendell and Isabella Kwai</sub>
-<p>Three trains, with more than 2,200 people onboard, were involved in the crash in Odisha State, the deadliest such disaster in decades. The death toll approached 300.  <a href="https://nyti.ms/3qt0UuI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, June 3, Central Standard Time</sub></sub>
+<h3>Two young men lose a friend after promising him a better life.</h3>
+<sub>By Sameer Yasir</sub>
+<p>  <a href="https://nyti.ms/3OUMWMj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, June 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>In Russian Schools, It’s Recite Your ABC’s and ‘Love Your Army’</h3>
@@ -98,10 +98,10 @@ In India, technology is being rolled out to reduce accidents, but safety spendin
 <p>President Biden is asking voters to keep him in the White House until age 86, renewing attention to an issue that polls show troubles most Americans.  <a href="https://nyti.ms/3IUO6DL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, June 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Caribou Meat and Moon Signs: Inuit Lessons for Soldiers in the Arctic</h3>
-<sub>By Norimitsu Onishi and Nasuna Stuart-Ulin</sub>
-<p>Humbled by centuries of fatal colonial expeditions, Canada’s military is learning Arctic survival strategies from the austere area’s only inhabitants.  <a href="https://nyti.ms/3WN18ca"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Jurors Sentenced a Missouri Man to Death. Now Some Are Not So Sure.</h3>
+<sub>By Julie Bosman</sub>
+<p>Michael Tisius was convicted of murdering two jail guards. He is scheduled to be executed on Tuesday.  <a href="https://nyti.ms/42lYX0y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, June 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -110,28 +110,28 @@ In India, technology is being rolled out to reduce accidents, but safety spendin
 <p>On a two-block stretch of Brownsville in April, the police stepped aside and let residents respond to 911 calls. It was a bold experiment that some believe could redefine law-enforcement in New York City.  <a href="https://nyti.ms/3OO5PRg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, June 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>These Activists Distrust Voting Machines. Just Don’t Call Them Election Deniers.</h3>
-<sub>By Stuart A. Thompson</sub>
-<p>As election activists rally against new voting machines, they are drifting into territory now dominated by conspiracy theorists.  <a href="https://nyti.ms/3MNd61a"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In a Contentious Lawmaking Season, Red States Got Redder and Blue Ones Bluer</h3>
+<sub>By Mitch Smith</sub>
+<p>With single-party statehouse control at its highest level in decades, legislators across much of the country leaned into cultural issues and bulldozed the opposition.  <a href="https://nyti.ms/3WO6fJb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, June 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Republicans Gather in Iowa to Ride, Eat and Disagree</h3>
-<sub>By Jonathan Weisman</sub>
-<p>Eight presidential hopefuls, with Donald Trump absent, spoke at an annual political rally in Des Moines to highlight their conservative bona fides.  <a href="https://nyti.ms/3Nauzlh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, June 3, Central Standard Time</sub></sub>
+<h3>In a Year of Capitol Feuds, Oregon Has a Political Breakdown</h3>
+<sub>By Mike Baker</sub>
+<p>Bipartisan collaboration was once a point of pride in Oregon, where Republicans have brought the Senate to a halt with a political boycott.  <a href="https://nyti.ms/43IrEWK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, June 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis Relied Heavily on Big Donors in Initial Money Haul</h3>
-<sub>By Shane Goldmacher</sub>
-<p>The Florida governor’s campaign said it had around 40,000 donors in May, an average of more than $200 per donor — a figure far higher than is typical for a campaign heavily funded by grass-roots support.  <a href="https://nyti.ms/3WQ8onQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, June 3, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Could Jeff Zucker Fix CNN? He Seems to Think So.</h3>
+<sub>By Benjamin Mullin</sub>
+<p>It’s been more than a year since he was forced from the top job at the network. Since then, he has made no secret of his frustrations with his exit — or his low regard for the man who replaced him, Chris Licht.  <a href="https://nyti.ms/43ECvk9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, June 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>No Shame. No Sorrow. Divorce Means It’s Party Time in Mauritania.</h3>
-<sub>By Ruth Maclean and Laura Boushnak</sub>
-<p>It is common for people in this West African desert nation to divorce many times. And when they do, the women celebrate.  <a href="https://nyti.ms/3WVf7Nq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Chuck Todd to Leave ‘Meet the Press’</h3>
+<sub>By Benjamin Mullin</sub>
+<p>He will be succeeded by Kristen Welker, NBC’s chief White House correspondent and the co-anchor of “Weekend Today.”  <a href="https://nyti.ms/42pXSot"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, June 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
