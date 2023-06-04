@@ -60,9 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, June 4, Central Standard Time</p>
 <p>
-There are a number of news stories happening around the world at the moment. In Russia, there are military strikes that are coming close to civilians in the Belgorod region, and in Ukraine there was a car bombing which was connected to Moscow&#39;s illegal annexation of an area. In India, tragically there has been a huge train disaster which has killed almost 300 people, and investigations are ongoing regarding a possible signal failure. 
-
-In the US, President Biden has recently signed the Fiscal Responsibility Act which intends to prevent the nation running out of money for its obligations. Additionally, Trump&#39;s legal notes may be important in an inquiry into some classified documents. Furthermore, TikTok creators and influencers of all ages are prospering, and two Native American tribal members (one Black) were arrested under different laws due to their differing levels of &#39;Indian blood&#39;. Finally, Governor DeSantis went on his first campaign trip and received plenty of donations from big donors.</p>
+There is a lot going on across the world right now, including a war being waged on the doorstep of Russians, and President Zelensky of Ukraine is warning of grim consequences. India has recently suffered its worst rail disaster in decades, killing hundreds and leaving officials to investigate what caused it. In the US, Joe Biden recently signed a Fiscal Responsibility Act and Donald Trump&#39;s lawyer&#39;s notes are now in the hands of prosecutors - potentially implicating him further. Other topics include cringe comedy creators on TikTok gaining larger followings, two Black members of Native tribes being arrested due to their lack of Indian blood, Republicans gathering in Iowa for a political rally and Governor DeSantis relying heavily on big donors in his fundraising.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>‘Everything Changed’: The War Arrives on Russians’ Doorstep</h3>
@@ -71,10 +69,10 @@ In the US, President Biden has recently signed the Fiscal Responsibility Act whi
 <sub><sub>Saturday, June 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Car Bombing in Russian-Occupied Ukraine Shows Reach of War</h3>
-<sub>By Thomas Gibbons-Neff and Anatoly Kurmanaev</sub>
-<p>The blast in the Zaporizhzhia region of southern Ukraine killed a cafe owner who was registered to run in elections seen as an attempt to legitimize Moscow’s illegal annexation of the area.  <a href="https://nyti.ms/3MRtBcv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, June 3, Central Standard Time</sub></sub>
+<h3>Zelensky Signals Next Phase of War Will Have Grim Consequences</h3>
+<sub>By Vivek Shankar</sub>
+<p>Ahead of an expected counteroffensive, President Volodymyr Zelensky of Ukraine, in an unusually personal speech, urged his compatriots to show their gratitude to Ukraine’s soldiers.  <a href="https://nyti.ms/3ISG0eQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, June 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>India’s Worst Rail Disaster in Decades Convulses Country Dependent on Trains</h3>
@@ -85,7 +83,7 @@ In the US, President Biden has recently signed the Fiscal Responsibility Act whi
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>India’s Train Crash: What We Know</h3>
 <sub>By Alex Travelli, Victoria Kim, Erin Mendell and Isabella Kwai</sub>
-<p>Three trains were involved in the fatal crash in Odisha State. It was the deadliest such disaster in decades in a country where train travel has grown far safer in recent years.  <a href="https://nyti.ms/3qt0UuI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Three trains, with more than 2,200 people onboard, were involved in the crash in Odisha State, the deadliest such disaster in decades. The death toll approached 300.  <a href="https://nyti.ms/3qt0UuI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
