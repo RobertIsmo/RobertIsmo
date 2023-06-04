@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, June 3, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now! In Russia, the war has arrived at people&#39;s doorsteps, with cross-border strikes affecting the Belgorod region. Meanwhile, in Ukraine, a car bombing in the Zaporizhzhia region killed a cafe owner attempting to stand in elections seen as an attempt to legitimize Moscow’s illegal annexation of that area. In India, there has been the worst train disaster in decades, resulting in hundreds of fatalities due to suspected signal failure. Closer to home, US President Biden has signed the Fiscal Responsibility Act to end the debt limit crisis and ensure money can be paid out for two years. Additionally, Trump&#39;s former lawyer&#39;s notes may be vital evidence in an inquiry into classified documents. Finally, on a lighter note, TikTok creators are prospering from their jump onto the platform and brands are signing them up regardless of their age or finances.</p>
+Currently, there is a war taking place on Russia&#39;s doorstep, with cross-border strikes affecting residents of the Belgorod region. In the Ukraine, there was a car bombing in a Russian-occupied area that killed a cafe owner who was registered to run in elections. India also experienced its worst rail disaster in decades, killing at least 288 people and causing officials to investigate the possibility of signal failure. In the United States, President Biden has signed the Fiscal Responsibility Act, and a key inquiry is underway concerning classified documents related to former President Trump&#39;s lawyer. On social media, older TikTok creators are capitalizing on their followings and signing brand deals. In other news, two members of Native Tribes were arrested and controversy erupted when only one of them was identified as Indian according to the law. And finally, Florida Governor Ron DeSantis is turning heads with his first campaign trip where he promised to page homage to ex-President Trump and protect Americans from &#39;the woke mob&#39;.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>‘Everything Changed’: The War Arrives on Russians’ Doorstep</h3>
@@ -122,17 +122,17 @@ There is a lot going on in the world right now! In Russia, the war has arrived a
 <p>The Florida governor’s campaign said it had around 40,000 donors in May, an average of more than $200 per donor — a figure far higher than is typical for a campaign heavily funded by grass-roots support.  <a href="https://nyti.ms/3WQ8onQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 3, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>5 Takeaways From Ron DeSantis’s First Campaign Trip</h3>
+<sub>By Nicholas Nehamas</sub>
+<p>He swung back at Donald Trump. He vowed to vanquish the “woke mob” and turn the country into mega-Florida. He had normal encounters with voters that didn’t become memes.  <a href="https://nyti.ms/3C9KBFT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, June 3, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-well-blue" alt="">
 <h3>Can You Survive Summer?</h3>
 <sub>By Hannah Seo</sub>
 <p>Are you prepared for the challenges of summer? Take our quiz to find out.  <a href="https://nyti.ms/3qq0ENn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>Why Do We Brand the Summer?</h3>
-<sub>By Callie Holtermann</sub>
-<p>Barefoot-Boy Summer? Side Chick Summer? It’s officially the season of out-there predictions for the summer ahead.  <a href="https://nyti.ms/3C6o5Oh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, June 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
