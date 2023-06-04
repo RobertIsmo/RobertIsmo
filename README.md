@@ -60,8 +60,26 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, June 3, Central Standard Time</p>
 <p>
-There has recently been a deadly train crash in India, and the US has put in place legislation to prevent debt limit crises. In Russia, a car bombing just occurred in an occupied area of Ukraine, while two black members of Native Tribes have been arrested by Oklahoma authorities despite Supreme Court rulings. Lastly, L.G.B.T.Q. teens are struggling with mental health issues due to limited acceptance as well as a recent crackdown on gay and transgender expression happening in China.</p>
+There is a lot going on in the world right now! In Russia, the war has arrived at people&#39;s doorsteps, with cross-border strikes affecting the Belgorod region. Meanwhile, in Ukraine, a car bombing in the Zaporizhzhia region killed a cafe owner attempting to stand in elections seen as an attempt to legitimize Moscow’s illegal annexation of that area. In India, there has been the worst train disaster in decades, resulting in hundreds of fatalities due to suspected signal failure. Closer to home, US President Biden has signed the Fiscal Responsibility Act to end the debt limit crisis and ensure money can be paid out for two years. Additionally, Trump&#39;s former lawyer&#39;s notes may be vital evidence in an inquiry into classified documents. Finally, on a lighter note, TikTok creators are prospering from their jump onto the platform and brands are signing them up regardless of their age or finances.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘Everything Changed’: The War Arrives on Russians’ Doorstep</h3>
+<sub>By Valerie Hopkins and Anatoly Kurmanaev</sub>
+<p>With cross-border strikes, residents of the Russian region of Belgorod are starting to understand the horrors of war being waged at their doorstep.  <a href="https://nyti.ms/3WPivJB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, June 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Car Bombing in Russian-Occupied Ukraine Shows Reach of War</h3>
+<sub>By Thomas Gibbons-Neff and Anatoly Kurmanaev</sub>
+<p>The blast in the Zaporizhzhia region of southern Ukraine killed a cafe owner who was registered to run in elections seen as an attempt to legitimize Moscow’s illegal annexation of the area.  <a href="https://nyti.ms/3MRtBcv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, June 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>India’s Worst Rail Disaster in Decades Convulses Country Dependent on Trains</h3>
+<sub>By Sameer Yasir, Mujib Mashal and Hari Kumar</sub>
+<p>The disaster killed at least 288 people, and a preliminary government report described it as a “three-way accident” involving two passenger trains and an idled cargo train. Officials were investigating possible signal failure.  <a href="https://nyti.ms/43xI7go"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, June 3, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>India’s Train Crash: What We Know</h3>
 <sub>By Alex Travelli, Victoria Kim, Erin Mendell and Isabella Kwai</sub>
@@ -72,12 +90,6 @@ There has recently been a deadly train crash in India, and the US has put in pla
 <h3>Biden Signs Fiscal Responsibility Act in End to Debt Limit Crisis</h3>
 <sub>By Michael D. Shear</sub>
 <p>Now that the bill is law, the nation will not risk running out of money to pay its obligations for two years.  <a href="https://nyti.ms/3WNnZEA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, June 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Biden’s Debt Deal Strategy: Win in the Fine Print</h3>
-<sub>By Jim Tankersley</sub>
-<p>The president and his negotiators believe they worked out a deal that allowed Republicans to claim big spending cuts even as the reality was far more modest.  <a href="https://nyti.ms/3C6o64N"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -98,34 +110,16 @@ There has recently been a deadly train crash in India, and the US has put in pla
 <p>No matter what their age or finances, some elder influencers are finding that being on the app can bring them extra cash, or even help them extend their careers.  <a href="https://nyti.ms/3C9KKcp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘Everything Changed’: The War Arrives on Russians’ Doorstep</h3>
-<sub>By Valerie Hopkins and Anatoly Kurmanaev</sub>
-<p>With cross-border strikes, residents of the Russian region of Belgorod are starting to understand the horrors of war being waged at their doorstep.  <a href="https://nyti.ms/3WPivJB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, June 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Car Bombing in Russian-Occupied Ukraine Shows Reach of War</h3>
-<sub>By Thomas Gibbons-Neff and Anatoly Kurmanaev</sub>
-<p>The blast in the Zaporizhzhia region of southern Ukraine killed a cafe owner who was registered to run in elections seen as an attempt to legitimize Moscow’s illegal annexation of the area.  <a href="https://nyti.ms/3MRtBcv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, June 3, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Two Black Members of Native Tribes Were Arrested. The Law Sees Only One as Indian.</h3>
 <sub>By Chris Cameron and Mark Walker</sub>
 <p>A Supreme Court ruling barred Oklahoma from prosecuting crimes committed by Native Americans on tribal land, but some Black tribal members are still being prosecuted because they lack “Indian blood.”  <a href="https://nyti.ms/3Cbn9YS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>What It’s Like to Be a Queer Teenager in America Today</h3>
-<sub>By Francesca Paris and Claire Cain Miller</sub>
-<p>Social acceptance among young people has increased significantly in only a decade. But the mental health of L.G.B.T.Q. teens is suffering.  <a href="https://nyti.ms/3Cbka2M"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, June 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>With Rainbow Flags, 2 Students Test China’s Shrinking L.G.B.T.Q. Space</h3>
-<sub>By Nicole Hong and Zixu Wang</sub>
-<p>The students at an elite college in China found themselves on a collision course with the authorities amid a crackdown on gay and transgender expression.  <a href="https://nyti.ms/3C7VJDa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>DeSantis Relied Heavily on Big Donors in Initial Money Haul</h3>
+<sub>By Shane Goldmacher</sub>
+<p>The Florida governor’s campaign said it had around 40,000 donors in May, an average of more than $200 per donor — a figure far higher than is typical for a campaign heavily funded by grass-roots support.  <a href="https://nyti.ms/3WQ8onQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-well-blue" alt="">
@@ -133,6 +127,12 @@ There has recently been a deadly train crash in India, and the US has put in pla
 <sub>By Hannah Seo</sub>
 <p>Are you prepared for the challenges of summer? Take our quiz to find out.  <a href="https://nyti.ms/3qq0ENn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>Why Do We Brand the Summer?</h3>
+<sub>By Callie Holtermann</sub>
+<p>Barefoot-Boy Summer? Side Chick Summer? It’s officially the season of out-there predictions for the summer ahead.  <a href="https://nyti.ms/3C6o5Oh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, June 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
