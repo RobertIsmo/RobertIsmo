@@ -60,61 +60,55 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, June 4, Central Standard Time</p>
 <p>
-There is a lot going on across the world right now, including a war being waged on the doorstep of Russians, and President Zelensky of Ukraine is warning of grim consequences. India has recently suffered its worst rail disaster in decades, killing hundreds and leaving officials to investigate what caused it. In the US, Joe Biden recently signed a Fiscal Responsibility Act and Donald Trump&#39;s lawyer&#39;s notes are now in the hands of prosecutors - potentially implicating him further. Other topics include cringe comedy creators on TikTok gaining larger followings, two Black members of Native tribes being arrested due to their lack of Indian blood, Republicans gathering in Iowa for a political rally and Governor DeSantis relying heavily on big donors in his fundraising.</p>
+Right now, there are some major events happening all over the world. In India, a tragic train crash has killed nearly 300 people with more than 2,200 onboard. In Russia, schools have begun teaching their students to focus on patriotism and the military while demonizing the West. In Ukraine, there have been explosions and both sides are preparing for a possible counterattack. In the United States, President Biden is seeking reelection and Republicans have been gathering in Iowa to discuss political issues. Canada’s military is learning survival strategies from the Inuit people in the Arctic. In Brooklyn, New York City has tried an experiment allowing residents to respond to 911 calls without police presence for five days. Activists who oppose new voting machines have been accused of being conspiracy theorists and in Florida Governor Desantis has raised a lot of funds which mostly came from big donors. Lastly, a 98-year-old former Negro Leagues star is still sharing his story and Jeff Zucker is looking to fix CNN after his departure from the role of top executive.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘Everything Changed’: The War Arrives on Russians’ Doorstep</h3>
-<sub>By Valerie Hopkins and Anatoly Kurmanaev</sub>
-<p>With cross-border strikes, residents of the Russian region of Belgorod are starting to understand the horrors of war being waged at their doorstep.  <a href="https://nyti.ms/3WPivJB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, June 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Zelensky Signals Next Phase of War Will Have Grim Consequences</h3>
-<sub>By Vivek Shankar</sub>
-<p>Ahead of an expected counteroffensive, President Volodymyr Zelensky of Ukraine, in an unusually personal speech, urged his compatriots to show their gratitude to Ukraine’s soldiers.  <a href="https://nyti.ms/3ISG0eQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, June 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>India’s Worst Rail Disaster in Decades Convulses Country Dependent on Trains</h3>
-<sub>By Sameer Yasir, Mujib Mashal and Hari Kumar</sub>
-<p>The disaster killed at least 288 people, and a preliminary government report described it as a “three-way accident” involving two passenger trains and an idled cargo train. Officials were investigating possible signal failure.  <a href="https://nyti.ms/43xI7go"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, June 3, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>India’s Train Crash: What We Know</h3>
 <sub>By Alex Travelli, Victoria Kim, Erin Mendell and Isabella Kwai</sub>
 <p>Three trains, with more than 2,200 people onboard, were involved in the crash in Odisha State, the deadliest such disaster in decades. The death toll approached 300.  <a href="https://nyti.ms/3qt0UuI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Signs Fiscal Responsibility Act in End to Debt Limit Crisis</h3>
-<sub>By Michael D. Shear</sub>
-<p>Now that the bill is law, the nation will not risk running out of money to pay its obligations for two years.  <a href="https://nyti.ms/3WNnZEA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Russian Schools, It’s Recite Your ABC’s and ‘Love Your Army’</h3>
+<sub>By Neil MacFarquhar and Milana Mazaeva</sub>
+<p>The curriculum for young Russians is increasingly emphasizing patriotism and the heroism of Moscow’s army, while demonizing the West as “gangsters.” One school features a “sniper”-themed math class.  <a href="https://nyti.ms/3Cbn07M"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Pacifist Sect From Russia Is Shaken by War, and Modernity</h3>
+<sub>By Dan Bilefsky</sub>
+<p>The Ukraine conflict is causing soul-searching among the Doukhobors, a peace-loving group that emigrated to Canada in 1899.  <a href="https://nyti.ms/3MMk7zb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, June 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Explosions Hit Southern Ukraine as Both Sides Brace for Counteroffensive</h3>
+<sub>By Matthew Mpoke Bigg and Vivek Shankar</sub>
+<p>Ahead of an expected counteroffensive, President Volodymyr Zelensky of Ukraine, in an unusually personal speech, urged his compatriots to show their gratitude to Ukraine’s soldiers.  <a href="https://nyti.ms/3ISG0eQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, June 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Lawyer’s Notes Could Be a Key in the Classified Documents Inquiry</h3>
-<sub>By Alan Feuer, Ben Protess and Maggie Haberman</sub>
-<p>M. Evan Corcoran recorded recollections of his legal work last year for Donald Trump. The recording is now in the hands of prosecutors, unnerving some aides to the former president.  <a href="https://nyti.ms/3MGogEM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, June 3, Central Standard Time</sub></sub>
+<h3>Inside the Complicated Reality of Being America’s Oldest President</h3>
+<sub>By Peter Baker, Michael D. Shear, Katie Rogers and Zolan Kanno-Youngs</sub>
+<p>President Biden is asking voters to keep him in the White House until age 86, renewing attention to an issue that polls show troubles most Americans.  <a href="https://nyti.ms/3IUO6DL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, June 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Welcome to CringeTok, Where Being Insufferable Can Be Lucrative</h3>
-<sub>By Kate Ryan</sub>
-<p>On TikTok, cringe comedy creators are gaining large followings and brand deals by impersonating terrible people.  <a href="https://nyti.ms/3OUxLTE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, June 3, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Caribou Meat and Moon Signs: Inuit Lessons for Soldiers in the Arctic</h3>
+<sub>By Norimitsu Onishi and Nasuna Stuart-Ulin</sub>
+<p>Humbled by centuries of fatal colonial expeditions, Canada’s military is learning Arctic survival strategies from the austere area’s only inhabitants.  <a href="https://nyti.ms/3WN18ca"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, June 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>As Older TikTok Creators Flourish, Brands Are Signing Them Up</h3>
-<sub>By Julie Weed</sub>
-<p>No matter what their age or finances, some elder influencers are finding that being on the app can bring them extra cash, or even help them extend their careers.  <a href="https://nyti.ms/3C9KKcp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, June 3, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>What Happened When a Brooklyn Neighborhood Policed Itself for Five Days</h3>
+<sub>By Maria Cramer and Amir Hamja</sub>
+<p>On a two-block stretch of Brownsville in April, the police stepped aside and let residents respond to 911 calls. It was a bold experiment that some believe could redefine law-enforcement in New York City.  <a href="https://nyti.ms/3OO5PRg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, June 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Two Black Members of Native Tribes Were Arrested. The Law Sees Only One as Indian.</h3>
-<sub>By Chris Cameron and Mark Walker</sub>
-<p>A Supreme Court ruling barred Oklahoma from prosecuting crimes committed by Native Americans on tribal land, but some Black tribal members are still being prosecuted because they lack “Indian blood.”  <a href="https://nyti.ms/3Cbn9YS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, June 3, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>These Activists Distrust Voting Machines. Just Don’t Call Them Election Deniers.</h3>
+<sub>By Stuart A. Thompson</sub>
+<p>As election activists rally against new voting machines, they are drifting into territory now dominated by conspiracy theorists.  <a href="https://nyti.ms/3MNd61a"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, June 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Republicans Gather in Iowa to Ride, Eat and Disagree</h3>
@@ -128,11 +122,17 @@ There is a lot going on across the world right now, including a war being waged 
 <p>The Florida governor’s campaign said it had around 40,000 donors in May, an average of more than $200 per donor — a figure far higher than is typical for a campaign heavily funded by grass-roots support.  <a href="https://nyti.ms/3WQ8onQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>5 Takeaways From Ron DeSantis’s First Campaign Trip</h3>
-<sub>By Nicholas Nehamas</sub>
-<p>He swung back at Donald Trump. He vowed to vanquish the “woke mob” and turn the country into mega-Florida. He had normal encounters with voters that didn’t become memes.  <a href="https://nyti.ms/3C9KBFT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, June 3, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>A Negro Leagues Star Is Still Sharing His Story</h3>
+<sub>By Louie Lazar</sub>
+<p>A pastor for more than 50 years, William Greason, 98, occasionally tells tales of a lifetime ago, when he mentored Willie Mays and played in the last Negro World Series.  <a href="https://nyti.ms/42kMJ8w"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, June 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Could Jeff Zucker Fix CNN? He Seems to Think So.</h3>
+<sub>By Benjamin Mullin</sub>
+<p>It’s been more than a year since he was forced from the top job at the network. Since then, he has made no secret of his frustrations with his exit — or his low regard for the man who replaced him, Chris Licht.  <a href="https://nyti.ms/43ECvk9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, June 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
