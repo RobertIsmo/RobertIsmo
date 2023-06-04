@@ -58,9 +58,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Saturday, June 3, Central Standard Time</p>
+<p>It is Sunday, June 4, Central Standard Time</p>
 <p>
-Currently, there is a war taking place on Russia&#39;s doorstep, with cross-border strikes affecting residents of the Belgorod region. In the Ukraine, there was a car bombing in a Russian-occupied area that killed a cafe owner who was registered to run in elections. India also experienced its worst rail disaster in decades, killing at least 288 people and causing officials to investigate the possibility of signal failure. In the United States, President Biden has signed the Fiscal Responsibility Act, and a key inquiry is underway concerning classified documents related to former President Trump&#39;s lawyer. On social media, older TikTok creators are capitalizing on their followings and signing brand deals. In other news, two members of Native Tribes were arrested and controversy erupted when only one of them was identified as Indian according to the law. And finally, Florida Governor Ron DeSantis is turning heads with his first campaign trip where he promised to page homage to ex-President Trump and protect Americans from &#39;the woke mob&#39;.</p>
+There are a number of news stories happening around the world at the moment. In Russia, there are military strikes that are coming close to civilians in the Belgorod region, and in Ukraine there was a car bombing which was connected to Moscow&#39;s illegal annexation of an area. In India, tragically there has been a huge train disaster which has killed almost 300 people, and investigations are ongoing regarding a possible signal failure. 
+
+In the US, President Biden has recently signed the Fiscal Responsibility Act which intends to prevent the nation running out of money for its obligations. Additionally, Trump&#39;s legal notes may be important in an inquiry into some classified documents. Furthermore, TikTok creators and influencers of all ages are prospering, and two Native American tribal members (one Black) were arrested under different laws due to their differing levels of &#39;Indian blood&#39;. Finally, Governor DeSantis went on his first campaign trip and received plenty of donations from big donors.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>‘Everything Changed’: The War Arrives on Russians’ Doorstep</h3>
@@ -117,6 +119,12 @@ Currently, there is a war taking place on Russia&#39;s doorstep, with cross-bord
 <sub><sub>Saturday, June 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Republicans Gather in Iowa to Ride, Eat and Disagree</h3>
+<sub>By Jonathan Weisman</sub>
+<p>Eight presidential hopefuls, with Donald Trump absent, spoke at an annual political rally in Des Moines to highlight their conservative bona fides.  <a href="https://nyti.ms/3Nauzlh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, June 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>DeSantis Relied Heavily on Big Donors in Initial Money Haul</h3>
 <sub>By Shane Goldmacher</sub>
 <p>The Florida governor’s campaign said it had around 40,000 donors in May, an average of more than $200 per donor — a figure far higher than is typical for a campaign heavily funded by grass-roots support.  <a href="https://nyti.ms/3WQ8onQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -127,12 +135,6 @@ Currently, there is a war taking place on Russia&#39;s doorstep, with cross-bord
 <sub>By Nicholas Nehamas</sub>
 <p>He swung back at Donald Trump. He vowed to vanquish the “woke mob” and turn the country into mega-Florida. He had normal encounters with voters that didn’t become memes.  <a href="https://nyti.ms/3C9KBFT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>Can You Survive Summer?</h3>
-<sub>By Hannah Seo</sub>
-<p>Are you prepared for the challenges of summer? Take our quiz to find out.  <a href="https://nyti.ms/3qq0ENn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 2, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
