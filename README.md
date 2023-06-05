@@ -60,18 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, June 5, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. In the US, schools are receiving billions in stimulus funds to help kids recover from learning loss caused by the pandemic, but the results have been mixed. In Ukraine, Nazi symbols are appearing on the front lines, which could be used as propaganda and spread imagery that the West has been trying to get rid of for years. On top of that, Twitter&#39;s U.S ad sales have dropped drastically and they&#39;re not looking up any time soon. On the theatre side of things, actors nominated for the Tony Award talked about their craft and why they act. India is having issues with money for show horses instead of work horses being prioritized for train travel, even after a disaster just happened. There&#39;s an even bigger issue in Britain with a for-profit school called Oxford Business College making millions off of immigrant students without proper oversight from British education system. In Benin there&#39;s debate over who should own a bunch of valuable Bronzes found there. Here in America, New York City is trying to find ways to tackle their persisting problem of fare evasion using technology. In California&#39;s Central Valley there&#39;s a new resistance movement springing up to make positive changes in terms of its environmental problems and deep inequality. This week former South Carolina Governor Nikki Haley did a CNN Town Hall discussing her experience and vision, while 3 new candidates announced their bid for the 2024 Republicans Presidential nomination - Chris Christie, Mike Pence and Doug Burgum. Finally at University of Texas at Austin there&#39;s a Methodist campus ministry whose mission is to spread inclusive love and provides a safe haven for all students.</p>
+There is a lot going on in the world right now. In Ukraine, there are troops using Nazi emblems, which is fueling Russian propaganda and spreading imagery that the West has been trying to eliminate for decades. In the US, pandemic aid to schools has not been successful in helping students recover from learning losses. Twitter&#39;s US ad sales have dropped significantly. On the bright side, India has restored train service near a crash site where many victims remain unclaimed. British universities are making millions by recruiting immigrants. The Benin Bronzes have become more complicated in terms of ownership and restitution efforts are underway. New York City transit is looking to its fare evasion after 790 million was lost. In California’s heartland, a new resistance movement is forming to try to change their polluted area and inequality levels. Nikki Haley had a mostly mild town hall and 3 new candidates have announced they are running for president in 2024 - Christie, Pence and Burgum. Lastly, at the University of Texas in Austin, a campus ministry known as “Texas Wesley” has become a safe haven for students who are open to all forms of love and inclusion.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Schools Received Billions in Stimulus Funds. It May Not Be Doing Enough.</h3>
-<sub>By Madeleine Ngo</sub>
-<p>Pandemic aid was supposed to help students recover from learning loss, but results have been mixed.  <a href="https://nyti.ms/3IRzwNC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 5, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Nazi Symbols on Ukraine’s Front Lines Highlight Thorny Issues of History</h3>
 <sub>By Thomas Gibbons-Neff</sub>
 <p>Troops’ use of patches bearing Nazi emblems risks fueling Russian propaganda and spreading imagery that the West has spent a half-century trying to eliminate.  <a href="https://nyti.ms/43BTtj6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Schools Received Billions in Stimulus Funds. It May Not Be Doing Enough.</h3>
+<sub>By Madeleine Ngo</sub>
+<p>Pandemic aid was supposed to help students recover from learning loss, but results have been mixed.  <a href="https://nyti.ms/3IRzwNC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -87,10 +87,10 @@ There&#39;s a lot going on in the world right now. In the US, schools are receiv
 <sub><sub>Monday, June 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Money for Show Horses, Not Work Horses, on India’s Rails</h3>
-<sub>By Alex Travelli</sub>
-<p>Train travel in the country has gotten much safer, Friday’s disaster notwithstanding, but the government still puts high-profile projects ahead of basic safety improvements, analysts say.  <a href="https://nyti.ms/3OX8mZy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, June 4, Central Standard Time</sub></sub>
+<h3>In India, Trains Start Running Again by Devastating Crash Site</h3>
+<sub>By Hari Kumar, Isabella Kwai and Sameer Yasir</sub>
+<p>The restoration of service could help more families reach the area to identify the dead. Officials said about 100 victims were still unclaimed.  <a href="https://nyti.ms/45KCIEt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Oxford, but Not That Oxford: How a Tiny For-Profit School Suddenly Got Big</h3>
@@ -105,7 +105,7 @@ There&#39;s a lot going on in the world right now. In the US, schools are receiv
 <sub><sub>Sunday, June 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Can Technology Solve the M.T.A.’s Persistent Fare Evasion Problem?</h3>
+<h3>M.T.A. Looks Beyond Enforcement After $690 Million in Fare Evasion</h3>
 <sub>By Ana Ley</sub>
 <p>A study proposed new approaches to get riders to pay to ride New York City’s transit system, including replacing subway turnstiles with fare gates that are harder to jump over.  <a href="https://nyti.ms/3MIctWw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 5, Central Standard Time</sub></sub>
