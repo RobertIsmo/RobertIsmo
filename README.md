@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, June 4, Central Standard Time</p>
 <p>
-There is lots of political tension across the US right now, as some Red states have become even more conservative and Blue ones more progressive. In Oregon, one party has actively brought Senate proceedings to a standstill with a boycott. India also had a deadly train crash recently and is now dealing with the tragedy of it; investigation efforts are underway to figure out exactly why it happened. On the opposite side of things, Russia has started incorporating a lot of patriotism and army-glorifying education into their schools, while Nigeria is struggling to determine who owns certain pieces in its museums. In terms of sports, some NBA players like Nikola Jokic are introducing their own joyous kind of play to the courts. And lastly, there was a surprise Sonic Boom in the DC area caused by military jets that responded to an airspace intrusion.</p>
+There&#39;s a lot going on in the world right now. In the United States, states are becoming more politically divided, and there was a political breakdown in Oregon. In India there was a train crash causing major tragedy that officials are still investigating, and their schools are beginning to emphasize patriotism and military heroism. In Russia, schools are injecting military patriotism into their curriculum too. President Biden is running for his second term at age 86, which is concerning to many Americans. In New York City, there&#39;s an experiment going on to change law enforcement in a Brooklyn neighborhood, involving citizens responding to 911 calls without police intervention. Nigeria just announced a new museum for Benin Bronzes and areas of restitution were being explored before that announcement. This week in Washington DC people heard a loud sonic boom caused by authorized military jets flying in response to an airspace violation. Lastly, California is investigating the immigration of a group of migrants from Florida to Sacramento.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In a Contentious Lawmaking Season, Red States Got Redder and Blue Ones Bluer</h3>
@@ -99,6 +99,12 @@ There is lots of political tension across the US right now, as some Red states h
 <sub><sub>Saturday, June 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Inside the Complicated Reality of Being America’s Oldest President</h3>
+<sub>By Peter Baker, Michael D. Shear, Katie Rogers and Zolan Kanno-Youngs</sub>
+<p>President Biden is asking voters to keep him in the White House until age 86, renewing attention to an issue that polls show troubles most Americans.  <a href="https://nyti.ms/3IUO6DL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, June 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The Jurors Sentenced a Missouri Man to Death. Now Some Are Not So Sure.</h3>
 <sub>By Julie Bosman</sub>
 <p>Michael Tisius was convicted of murdering two jail guards. He is scheduled to be executed on Tuesday.  <a href="https://nyti.ms/42lYX0y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -107,7 +113,7 @@ There is lots of political tension across the US right now, as some Red states h
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>What Happened When a Brooklyn Neighborhood Policed Itself for Five Days</h3>
 <sub>By Maria Cramer and Amir Hamja</sub>
-<p>On a two-block stretch of Brownsville in April, the police stepped aside and let residents respond to 911 calls. It was a bold experiment that some believe could redefine law-enforcement in New York City.  <a href="https://nyti.ms/3OO5PRg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>On a two-block stretch of Brownsville in April, the police stepped aside and let residents respond to 911 calls. It was a bold experiment that some believe could redefine law enforcement in New York City.  <a href="https://nyti.ms/3OO5PRg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, June 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
@@ -116,22 +122,16 @@ There is lots of political tension across the US right now, as some Red states h
 <p>Restitution efforts were underway, fueled by news that a museum was being planned in Nigeria to house the treasures. Then a surprising announcement sowed uncertainty.  <a href="https://nyti.ms/3MRhHiC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, June 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Nikola Jokic, an Elusive Superstar, Has a Hold on Denver</h3>
-<sub>By Sopan Deb</sub>
-<p>Jokic, the Nuggets center, may be the best player in the N.B.A., but he avoids the spotlight. Still, in his own way, he has endeared himself to a city hungry for someone to believe in.  <a href="https://nyti.ms/3CcrUkO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, June 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Where Is the Pass Going?</h3>
-<sub>By Sean Catangui and Kris Rhim</sub>
-<p>Few aspects of basketball capture the joy of the game like great passes. Can you see the court like the pros?  <a href="https://nyti.ms/3oJ6GrC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Sonic Boom Heard Across D.C. Area Was From Military Jets, Officials Say</h3>
 <sub>By Julian E. Barnes, Livia Albeck-Ripka and Amanda Holpuch</sub>
 <p>The noise, which startled residents and shook buildings, was caused by an authorized military flight that responded to an intrusion into restricted airspace, U.S. and military officials said.  <a href="https://nyti.ms/3MOBD5R"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, June 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>California Officials Investigating Flight of Migrants to Sacramento</h3>
+<sub>By Shawn Hubler, Nicholas Nehamas and Emily Cochrane</sub>
+<p>The state attorney general said the migrants carried documents that specified a Florida government agency and a company that dropped migrants in Martha’s Vineyard last year.  <a href="https://nyti.ms/3WONENe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, June 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
