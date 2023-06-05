@@ -60,8 +60,32 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, June 4, Central Standard Time</p>
 <p>
-Things in the world have been very chaotic lately. In India, a train crash recently killed a bunch of people in one of the deadliest rail accidents in the country’s history. Two young men just lost a friend who they were trying to help find a better life. In Russia, school curriculum is reportedly demonizing the West and glorifying Moscow&#39;s military. A pacifist group called Doukhobors from Russia is now being challenged with war and modernity due to the Ukraine conflict. Explosions in southern Ukraine have prompted their President to give an unusually personal speech urging citizens to support their country’s soldiers. Here in the US, President Biden is asking voters to keep him in office until almost age 86, despite polls showing most Americans against this. In Missouri, Michael Tisius is set to be executed on Tuesday -though some jurors are regretting giving him that sentence. In Brooklyn, police took a couple days off and had residents respond to 911 calls which potentially could change police protocols in NYC. At the state level, legislatures across much of America are heavily leaning into cultural issues depending on their political leaning, and in Oregon one chamber has even come to a standstill due to boycotts. CNN&#39;s former CEO Jeff Zucker may be returning after being forced out more than a year ago, and Meet The Press&#39; lead anchor Chuck Todd is being replaced by NBC&#39;s White House correspondent Kristen Welker</p>
+There is lots of political tension across the US right now, as some Red states have become even more conservative and Blue ones more progressive. In Oregon, one party has actively brought Senate proceedings to a standstill with a boycott. India also had a deadly train crash recently and is now dealing with the tragedy of it; investigation efforts are underway to figure out exactly why it happened. On the opposite side of things, Russia has started incorporating a lot of patriotism and army-glorifying education into their schools, while Nigeria is struggling to determine who owns certain pieces in its museums. In terms of sports, some NBA players like Nikola Jokic are introducing their own joyous kind of play to the courts. And lastly, there was a surprise Sonic Boom in the DC area caused by military jets that responded to an airspace intrusion.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In a Contentious Lawmaking Season, Red States Got Redder and Blue Ones Bluer</h3>
+<sub>By Mitch Smith</sub>
+<p>With single-party statehouse control at its highest level in decades, legislators across much of the country leaned into cultural issues and bulldozed the opposition.  <a href="https://nyti.ms/3WO6fJb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, June 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In a Year of Capitol Feuds, Oregon Has a Political Breakdown</h3>
+<sub>By Mike Baker</sub>
+<p>Bipartisan collaboration was once a point of pride in Oregon, where Republicans have brought the Senate to a halt with a political boycott.  <a href="https://nyti.ms/43IrEWK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, June 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Money for Show Horses, Not Work Horses, on India’s Rails</h3>
+<sub>By Alex Travelli</sub>
+<p>Train travel in the country has gotten much safer, Friday’s disaster notwithstanding, but the government still puts high-profile projects ahead of basic safety improvements, analysts say.  <a href="https://nyti.ms/3OX8mZy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, June 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>India Vows Punishment for Those Responsible for Deadly Train Crash</h3>
+<sub>By Sameer Yasir, Mujib Mashal and Suhasini Raj</sub>
+<p>Officials suggested human error, even sabotage, could have led to the crash that killed 275, as crews raced to restore service and families struggled to reach the site to identify loved ones.  <a href="https://nyti.ms/3IVWByK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, June 4, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>How the India Train Crash Unfolded</h3>
 <sub>By Weiyi Cai, Lazaro Gamio, Marco Hernandez, Scott Reinhard, Karan Deep Singh and Sameer Yasir</sub>
@@ -69,34 +93,10 @@ Things in the world have been very chaotic lately. In India, a train crash recen
 <sub><sub>Sunday, June 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Two young men lose a friend after promising him a better life.</h3>
-<sub>By Sameer Yasir</sub>
-<p>  <a href="https://nyti.ms/3OUMWMj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, June 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>In Russian Schools, It’s Recite Your ABC’s and ‘Love Your Army’</h3>
 <sub>By Neil MacFarquhar and Milana Mazaeva</sub>
 <p>The curriculum for young Russians is increasingly emphasizing patriotism and the heroism of Moscow’s army, while demonizing the West as “gangsters.” One school features a “sniper”-themed math class.  <a href="https://nyti.ms/3Cbn07M"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Pacifist Sect From Russia Is Shaken by War, and Modernity</h3>
-<sub>By Dan Bilefsky</sub>
-<p>The Ukraine conflict is causing soul-searching among the Doukhobors, a peace-loving group that emigrated to Canada in 1899.  <a href="https://nyti.ms/3MMk7zb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, June 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Explosions Hit Southern Ukraine as Both Sides Brace for Counteroffensive</h3>
-<sub>By Matthew Mpoke Bigg, Anatoly Kurmanaev and Vivek Shankar</sub>
-<p>President Volodymyr Zelensky, in an unusually personal speech, urged his compatriots to show their gratitude to the country’s soldiers.  <a href="https://nyti.ms/3ISG0eQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, June 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Inside the Complicated Reality of Being America’s Oldest President</h3>
-<sub>By Peter Baker, Michael D. Shear, Katie Rogers and Zolan Kanno-Youngs</sub>
-<p>President Biden is asking voters to keep him in the White House until age 86, renewing attention to an issue that polls show troubles most Americans.  <a href="https://nyti.ms/3IUO6DL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, June 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The Jurors Sentenced a Missouri Man to Death. Now Some Are Not So Sure.</h3>
@@ -110,28 +110,28 @@ Things in the world have been very chaotic lately. In India, a train crash recen
 <p>On a two-block stretch of Brownsville in April, the police stepped aside and let residents respond to 911 calls. It was a bold experiment that some believe could redefine law-enforcement in New York City.  <a href="https://nyti.ms/3OO5PRg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, June 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In a Contentious Lawmaking Season, Red States Got Redder and Blue Ones Bluer</h3>
-<sub>By Mitch Smith</sub>
-<p>With single-party statehouse control at its highest level in decades, legislators across much of the country leaned into cultural issues and bulldozed the opposition.  <a href="https://nyti.ms/3WO6fJb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Who Owns the Benin Bronzes? The Answer Just Got More Complicated.</h3>
+<sub>By Alex Marshall</sub>
+<p>Restitution efforts were underway, fueled by news that a museum was being planned in Nigeria to house the treasures. Then a surprising announcement sowed uncertainty.  <a href="https://nyti.ms/3MRhHiC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, June 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Nikola Jokic, an Elusive Superstar, Has a Hold on Denver</h3>
+<sub>By Sopan Deb</sub>
+<p>Jokic, the Nuggets center, may be the best player in the N.B.A., but he avoids the spotlight. Still, in his own way, he has endeared himself to a city hungry for someone to believe in.  <a href="https://nyti.ms/3CcrUkO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, June 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Where Is the Pass Going?</h3>
+<sub>By Sean Catangui and Kris Rhim</sub>
+<p>Few aspects of basketball capture the joy of the game like great passes. Can you see the court like the pros?  <a href="https://nyti.ms/3oJ6GrC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In a Year of Capitol Feuds, Oregon Has a Political Breakdown</h3>
-<sub>By Mike Baker</sub>
-<p>Bipartisan collaboration was once a point of pride in Oregon, where Republicans have brought the Senate to a halt with a political boycott.  <a href="https://nyti.ms/43IrEWK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, June 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Could Jeff Zucker Fix CNN? He Seems to Think So.</h3>
-<sub>By Benjamin Mullin</sub>
-<p>It’s been more than a year since he was forced from the top job at the network. Since then, he has made no secret of his frustrations with his exit — or his low regard for the man who replaced him, Chris Licht.  <a href="https://nyti.ms/43ECvk9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, June 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Chuck Todd to Leave ‘Meet the Press’</h3>
-<sub>By Benjamin Mullin</sub>
-<p>He will be succeeded by Kristen Welker, NBC’s chief White House correspondent and the co-anchor of “Weekend Today.”  <a href="https://nyti.ms/42pXSot"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Sonic Boom Heard Across D.C. Area Was From Military Jets, Officials Say</h3>
+<sub>By Julian E. Barnes, Livia Albeck-Ripka and Amanda Holpuch</sub>
+<p>The noise, which startled residents and shook buildings, was caused by an authorized military flight that responded to an intrusion into restricted airspace, U.S. and military officials said.  <a href="https://nyti.ms/3MOBD5R"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, June 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
