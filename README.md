@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, June 5, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In Ukraine, there are troops using Nazi emblems, which is fueling Russian propaganda and spreading imagery that the West has been trying to eliminate for decades. In the US, pandemic aid to schools has not been successful in helping students recover from learning losses. Twitter&#39;s US ad sales have dropped significantly. On the bright side, India has restored train service near a crash site where many victims remain unclaimed. British universities are making millions by recruiting immigrants. The Benin Bronzes have become more complicated in terms of ownership and restitution efforts are underway. New York City transit is looking to its fare evasion after 790 million was lost. In California’s heartland, a new resistance movement is forming to try to change their polluted area and inequality levels. Nikki Haley had a mostly mild town hall and 3 new candidates have announced they are running for president in 2024 - Christie, Pence and Burgum. Lastly, at the University of Texas in Austin, a campus ministry known as “Texas Wesley” has become a safe haven for students who are open to all forms of love and inclusion.</p>
+There&#39;s a lot of news happening in the world right now. In Ukraine, troops have been seen using symbols that were worn by Nazis, which could fuel Russian propaganda. The US Securities and Exchange Commission recently accused Binance, the world&#39;s largest cryptocurrency exchange, of mishandling money and lying to regulators. Additionally, there are several politicians who are entering the 2024 US race for president, including Mike Pence, as well as potential candidates who have decided not to run, like Chris Sununu. Meanwhile, a progressive scholar has announced that he will be running on a third-party ticket. Trump&#39;s lawyers have also visited the Justice Department recently, in relation to an investigation into classified documents. On the business front, people are trying to determine if the bear market is over and Twitter&#39;s US ad sales have reportedly plunged due to recent woes. India has now started running trains near the site of a devastating crash, while reports suggest that New York City&#39;s anti-crime units may be engaging in illegal tactics again.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Nazi Symbols on Ukraine’s Front Lines Highlight Thorny Issues of History</h3>
@@ -68,10 +68,52 @@ There is a lot going on in the world right now. In Ukraine, there are troops usi
 <p>Troops’ use of patches bearing Nazi emblems risks fueling Russian propaganda and spreading imagery that the West has spent a half-century trying to eliminate.  <a href="https://nyti.ms/43BTtj6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 5, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>S.E.C. Accuses Binance of Mishandling Funds and Lying to Regulators</h3>
+<sub>By Matthew Goldstein, Emily Flitter and David Yaffe-Bellany</sub>
+<p>The S.E.C. said the world’s largest cryptocurrency exchange mixed billions of dollars in customer funds and secretly sent them to a separate company controlled by Binance’s founder, Changpeng Zhao.  <a href="https://nyti.ms/3IXVY7x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 5, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Schools Received Billions in Stimulus Funds. It May Not Be Doing Enough.</h3>
-<sub>By Madeleine Ngo</sub>
-<p>Pandemic aid was supposed to help students recover from learning loss, but results have been mixed.  <a href="https://nyti.ms/3IRzwNC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Mike Pence Formally Enters 2024 Race, Challenging Trump</h3>
+<sub>By Maggie Haberman</sub>
+<p>Mr. Pence, who filed paperwork declaring his candidacy, was once a stalwart supporter and defender of Donald J. Trump, but split with his former boss after the Jan. 6 attack on the Capitol.  <a href="https://nyti.ms/3IX0mnA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The 2024 G.O.P. Field Balloons This Week, Adding 3 New Candidates</h3>
+<sub>By Trip Gabriel</sub>
+<p>Chris Christie and Doug Burgum are set to announce their presidential campaigns this week, and Mike Pence has already filed paperwork.  <a href="https://nyti.ms/3MT2jCA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Chris Sununu Says He Won’t Run for President</h3>
+<sub>By Maggie Astor</sub>
+<p>Mr. Sununu, the governor of New Hampshire, is more moderate than many members of his party and would have tested Republican voters’ appetite for a self-described “normal” candidate.  <a href="https://nyti.ms/42qk7e2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Cornel West, Progressive Scholar, Announces Third-Party Bid for President</h3>
+<sub>By Maggie Astor</sub>
+<p>Mr. West said he would run as part of the People’s Party, which was founded by a former campaign staff member for Senator Bernie Sanders.  <a href="https://nyti.ms/3OSJulp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Lawyers Visit Justice Dept. as Classified Documents Inquiry Nears End</h3>
+<sub>By Alan Feuer, Maggie Haberman and Glenn Thrush</sub>
+<p>Three lawyers representing the former president spent nearly two hours there after requesting a meeting to discuss their concerns about the department’s handling of the investigation.  <a href="https://nyti.ms/45P5fsk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>He Devoted His Life to Compassion. His Killer Showed None.</h3>
+<sub>By Corina Knoll</sub>
+<p>After graduating from Stanford, David Breaux struggled to find his path — until he found his calling as “the Compassion Guy.”  <a href="https://nyti.ms/42m61uc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Is the Bear Market Over? It Depends.</h3>
+<sub>By Joe Rennison</sub>
+<p>The S&amp;P 500 could end the day 20 percent above its low point last year, marking an important milestone for some market watchers. But assessing a bona fide bull market is not so simple.  <a href="https://nyti.ms/3oLA94e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -80,59 +122,17 @@ There is a lot going on in the world right now. In Ukraine, there are troops usi
 <p>In internal forecasts, the company projected that ad sales would keep declining, handing a tough challenge to its new chief executive.  <a href="https://nyti.ms/42pyeQT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-theater-blue" alt="">
-<h3>‘It’s Intoxicating’: 39 Tony-Nominated Performers on Why They Act</h3>
-<sub>By Thea Traff, Michael Paulson, Julia Jacobs and Amanda Webster</sub>
-<p>Each year we photograph Tony nominees, and talk with them about their craft. This year we focused on actors.  <a href="https://nyti.ms/3IYoYMt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 5, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>In India, Trains Start Running Again by Devastating Crash Site</h3>
 <sub>By Hari Kumar, Isabella Kwai and Sameer Yasir</sub>
 <p>The restoration of service could help more families reach the area to identify the dead. Officials said about 100 victims were still unclaimed.  <a href="https://nyti.ms/45KCIEt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Oxford, but Not That Oxford: How a Tiny For-Profit School Suddenly Got Big</h3>
-<sub>By Emma Bubola</sub>
-<p>Oxford Business College and others like it make millions, largely by recruiting immigrants. They operate in an opaque corner of the British education system.  <a href="https://nyti.ms/3oRdHGT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Who Owns the Benin Bronzes? The Answer Just Got More Complicated.</h3>
-<sub>By Alex Marshall</sub>
-<p>Restitution efforts were underway, fueled by news that a museum was being planned in Nigeria to house the treasures. Then a surprising announcement sowed uncertainty.  <a href="https://nyti.ms/3MRhHiC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, June 4, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>M.T.A. Looks Beyond Enforcement After $690 Million in Fare Evasion</h3>
-<sub>By Ana Ley</sub>
-<p>A study proposed new approaches to get riders to pay to ride New York City’s transit system, including replacing subway turnstiles with fare gates that are harder to jump over.  <a href="https://nyti.ms/3MIctWw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>N.Y.P.D. Anti-Crime Units Returning to Illegal Tactics, Report Shows</h3>
+<sub>By Corey Kilgannon</sub>
+<p>Mayor Eric Adams revived the teams, but promised they would be well trained and closely supervised. A court-appointed official challenged that in a filing on Monday.  <a href="https://nyti.ms/3OZ7Ytl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>In California’s Heartland, a New Resistance Movement Is Taking Root</h3>
-<sub>By Mark Arax</sub>
-<p>How do you change a place as polluted and desperately unequal as the San Joaquin Valley?  <a href="https://nyti.ms/3WIHvSE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Takeaways From Nikki Haley’s Mild CNN Town Hall</h3>
-<sub>By Trip Gabriel</sub>
-<p>The former South Carolina governor, who also served as United Nations ambassador under Donald Trump, emphasized her experience and vision. Will it be enough for her to stand out?  <a href="https://nyti.ms/3OXkgmc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, June 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The 2024 G.O.P. Field Balloons This Week, Adding 3 New Candidates</h3>
-<sub>By Trip Gabriel</sub>
-<p>Chris Christie, Mike Pence and Doug Burgum are set to announce their presidential campaigns this week, the latest entrants in a rapidly growing Republican primary.  <a href="https://nyti.ms/3MT2jCA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>At This Texas Campus Ministry, ‘Inclusive Love’ Is the Mission</h3>
-<sub>By Eli Durst and Jennifer Harlan</sub>
-<p>Students at the University of Texas in Austin have found a safe haven at the Texas Wesley, a Methodist group whose doors are open to all.  <a href="https://nyti.ms/3N8j8Lc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
