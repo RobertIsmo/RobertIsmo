@@ -58,10 +58,38 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Sunday, June 4, Central Standard Time</p>
+<p>It is Monday, June 5, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. In the United States, states are becoming more politically divided, and there was a political breakdown in Oregon. In India there was a train crash causing major tragedy that officials are still investigating, and their schools are beginning to emphasize patriotism and military heroism. In Russia, schools are injecting military patriotism into their curriculum too. President Biden is running for his second term at age 86, which is concerning to many Americans. In New York City, there&#39;s an experiment going on to change law enforcement in a Brooklyn neighborhood, involving citizens responding to 911 calls without police intervention. Nigeria just announced a new museum for Benin Bronzes and areas of restitution were being explored before that announcement. This week in Washington DC people heard a loud sonic boom caused by authorized military jets flying in response to an airspace violation. Lastly, California is investigating the immigration of a group of migrants from Florida to Sacramento.</p>
+Hey there! It sounds like there&#39;s a lot going on in the world right now. In India, there was a deadly train crash recently and the government is investigating to see if human error or sabotage was responsible. Meanwhile, in Russia, schools are teaching kids patriotism and the heroism of the military in order to demonize the West.
+
+In the US, partisan politics is dominating state legislatures with both red states getting redder and blue states getting bluer. Oregon is having a political breakdown due to the lack of bipartisanship, and President Biden is asking voters to reelect him until he&#39;s 86 years old. In Missouri, authorities are about to execute a man convicted of murdering two jail guards.
+
+Things are a bit different on a more local level - in Brooklyn, residents took it upon themselves to police their neighborhood for five days by responding to 911 calls with no help from the NYPD. In California, officials are investigating a flight of migrants who were dropped off in the Sacramento area. Finally, folks near Washington DC heard a sonic boom (caused by authorized military jets) in response to an intrusion into restricted airspace.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Money for Show Horses, Not Work Horses, on India’s Rails</h3>
+<sub>By Alex Travelli</sub>
+<p>Train travel in the country has gotten much safer, Friday’s disaster notwithstanding, but the government still puts high-profile projects ahead of basic safety improvements, analysts say.  <a href="https://nyti.ms/3OX8mZy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, June 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>How the India Train Crash Unfolded</h3>
+<sub>By Weiyi Cai, Lazaro Gamio, Marco Hernandez, Scott Reinhard, Karan Deep Singh and Sameer Yasir</sub>
+<p>The sequence of events as three trains collided in one of India’s deadliest rail accidents.  <a href="https://nyti.ms/3oK7vk2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, June 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>India Vows Punishment for Those Responsible for Deadly Train Crash</h3>
+<sub>By Sameer Yasir, Mujib Mashal and Suhasini Raj</sub>
+<p>Officials suggested human error, even sabotage, could have led to the crash that killed 275, as crews raced to restore service and families struggled to reach the site to identify loved ones.  <a href="https://nyti.ms/3IVWByK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, June 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Russian Schools, It’s Recite Your ABC’s and ‘Love Your Army’</h3>
+<sub>By Neil MacFarquhar and Milana Mazaeva</sub>
+<p>The curriculum for young Russians is increasingly emphasizing patriotism and the heroism of Moscow’s army, while demonizing the West as “gangsters.” One school features a “sniper”-themed math class.  <a href="https://nyti.ms/3Cbn07M"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, June 3, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In a Contentious Lawmaking Season, Red States Got Redder and Blue Ones Bluer</h3>
 <sub>By Mitch Smith</sub>
@@ -73,30 +101,6 @@ There&#39;s a lot going on in the world right now. In the United States, states 
 <sub>By Mike Baker</sub>
 <p>Bipartisan collaboration was once a point of pride in Oregon, where Republicans have brought the Senate to a halt with a political boycott.  <a href="https://nyti.ms/43IrEWK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, June 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Money for Show Horses, Not Work Horses, on India’s Rails</h3>
-<sub>By Alex Travelli</sub>
-<p>Train travel in the country has gotten much safer, Friday’s disaster notwithstanding, but the government still puts high-profile projects ahead of basic safety improvements, analysts say.  <a href="https://nyti.ms/3OX8mZy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, June 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>India Vows Punishment for Those Responsible for Deadly Train Crash</h3>
-<sub>By Sameer Yasir, Mujib Mashal and Suhasini Raj</sub>
-<p>Officials suggested human error, even sabotage, could have led to the crash that killed 275, as crews raced to restore service and families struggled to reach the site to identify loved ones.  <a href="https://nyti.ms/3IVWByK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, June 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>How the India Train Crash Unfolded</h3>
-<sub>By Weiyi Cai, Lazaro Gamio, Marco Hernandez, Scott Reinhard, Karan Deep Singh and Sameer Yasir</sub>
-<p>The sequence of events as three trains collided in one of India’s deadliest rail accidents.  <a href="https://nyti.ms/3oK7vk2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, June 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Russian Schools, It’s Recite Your ABC’s and ‘Love Your Army’</h3>
-<sub>By Neil MacFarquhar and Milana Mazaeva</sub>
-<p>The curriculum for young Russians is increasingly emphasizing patriotism and the heroism of Moscow’s army, while demonizing the West as “gangsters.” One school features a “sniper”-themed math class.  <a href="https://nyti.ms/3Cbn07M"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, June 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Inside the Complicated Reality of Being America’s Oldest President</h3>
