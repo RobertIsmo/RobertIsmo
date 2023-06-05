@@ -60,11 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, June 5, Central Standard Time</p>
 <p>
-Hey there! It sounds like there&#39;s a lot going on in the world right now. In India, there was a deadly train crash recently and the government is investigating to see if human error or sabotage was responsible. Meanwhile, in Russia, schools are teaching kids patriotism and the heroism of the military in order to demonize the West.
+It&#39;s been a very eventful month around the world. In India, there has been a deadly train crash and officials are suggesting that human error or even sabotage may have been responsible. Meanwhile in Russia, schools are teaching young students about the heroism of the Russian army and demonizing the West as “gangsters”. 
 
-In the US, partisan politics is dominating state legislatures with both red states getting redder and blue states getting bluer. Oregon is having a political breakdown due to the lack of bipartisanship, and President Biden is asking voters to reelect him until he&#39;s 86 years old. In Missouri, authorities are about to execute a man convicted of murdering two jail guards.
+In the US, politicians have been busy with single-party statehouse control at its highest level in decades. And also in the US, Michael Tisius is scheduled to be executed on Tuesday for murdering two jail guards. Additionally, California officials are investigating a flight of migrants to Sacramento. 
 
-Things are a bit different on a more local level - in Brooklyn, residents took it upon themselves to police their neighborhood for five days by responding to 911 calls with no help from the NYPD. In California, officials are investigating a flight of migrants who were dropped off in the Sacramento area. Finally, folks near Washington DC heard a sonic boom (caused by authorized military jets) in response to an intrusion into restricted airspace.</p>
+Finally, an impressive experiment took place in Brooklyn this month where police stepped aside and let residents respond to 911 calls on their own.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Money for Show Horses, Not Work Horses, on India’s Rails</h3>
