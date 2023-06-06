@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, June 5, Central Standard Time</p>
 <p>
-There is a lot of activity going on in the world right now. In Ukraine, there have been an uptick in attacks from Ukrainian forces, but U.S. officials don&#39;t seem too concerned. Meanwhile, President Biden has invited some international allies to Washington to discuss providing support to Kyiv as tension rises. Closer to home, the state of Oklahoma just approved the first religious charter school in the country, which will offer online Roman Catholic instruction funded by taxpayers – sparking debate about separation of church and state. Mike Pence is also running for president again in 2024 and challenging Trump. On top of that, Cornel West is entering the 2021 presidential race with a third-party bid under Bernie Sanders&#39; People’s Party. Then there&#39;s Robert Kennedy Jr., who has formed an alliance with Elon Musk and is promoting far-right ideas and misinformation from his presidential campaign platform. Lastly, Robert Hanssen – a former FBI agent exposed as a spy for Moscow – recently passed away, and Trump&#39;s lawyers are meeting with the Department of Justice as they near the end of their classified documents inquiry.</p>
+On the international front, Ukraine has reportedly begun a counteroffensive against Russia in the Donetsk region, which has been met with some opposition. The Biden Administration has remained aloof, but the President did invite Denmark’s Prime Minister to Washington to discuss support for Kyiv. Meanwhile, Nazi symbols have appeared on Ukraine&#39;s front lines, raising thorny issues of history. Here in the US, Oklahoma has approved what will be the first religious charter school in the nation, and Mike Pence has officially entered the race for 2024 Republican nomination. Additionally, Robert Kennedy Jr., who is a long-shot Democratic candidate for president, is pushing some right-wing ideas and misinformation. Lastly, Robert Hanssen, a former FBI agent who was exposed as a spy for Moscow, has died at 79. Trump is also making his presence felt by asking a judge to stop Carroll’s second defamation suit and lawyers visiting Justice Department as classified document inquiry nears its end.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>As Ukrainian Attacks Surge, U.S. Officials See Signs of Counteroffensive</h3>
@@ -105,12 +105,6 @@ There is a lot of activity going on in the world right now. In Ukraine, there ha
 <sub><sub>Monday, June 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Cornel West, Progressive Scholar, Announces Third-Party Bid for President</h3>
-<sub>By Maggie Astor</sub>
-<p>Dr. West said he would run as part of the People’s Party, which was founded by a former campaign staff member for Senator Bernie Sanders.  <a href="https://nyti.ms/3OSJulp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Robert Kennedy Jr., With Musk, Pushes Right-Wing Ideas and Misinformation</h3>
 <sub>By Reid J. Epstein, Alyce McFadden and Linda Qiu</sub>
 <p>Mr. Kennedy, a long-shot Democratic presidential candidate with surprisingly high polling numbers, said he wanted to close the Mexican border and attributed the rise of mass shootings to pharmaceutical drugs.  <a href="https://nyti.ms/43G0y2g"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -126,6 +120,12 @@ There is a lot of activity going on in the world right now. In Ukraine, there ha
 <h3>Trump Lawyers Visit Justice Dept. as Classified Documents Inquiry Nears End</h3>
 <sub>By Alan Feuer, Maggie Haberman, Glenn Thrush and Jonathan Swan</sub>
 <p>Three lawyers representing the former president spent nearly two hours there after requesting a meeting to discuss their concerns about the department’s handling of the investigation.  <a href="https://nyti.ms/45P5fsk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Trump Asks Judge to Stop Carroll’s Second Defamation Suit</h3>
+<sub>By Benjamin Weiser</sub>
+<p>Former President Donald J. Trump told a judge that he could not have defamed E. Jean Carroll by denying her rape accusation because a jury had found him liable only for sexually abusing her.  <a href="https://nyti.ms/3oRSXin"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
