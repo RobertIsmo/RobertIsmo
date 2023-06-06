@@ -60,24 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, June 6, Central Standard Time</p>
 <p>
-There&#39;s a lot going on around the world right now! There was a dam in Crimea that was destroyed recently and it&#39;s causing some risks to the water supply. There&#39;s also been a merger between two major golf organizations, the PGA and LIV, that has been praised by the Trump family. Prince Harry is taking tabloids to court for illegally hacking his phone, and a restaurant called Cavernous Cantina in Colorado has reopened with the same 1970s vibe thanks to &quot;South Park&quot; creators. Finally, there&#39;s been a concerning decrease in American kestrels lately that could challenge conservation efforts in the future.</p>
+In the world right now, a group of 9&#x2F;11 relatives are calling out the PGA tour&#39;s potential merger with LIV as a &quot;betrayal.&quot; Tensions in Ukraine continue to escalate as a destroyed dam has caused flooding in several villages. In the US, Chris Christie has announced his official bid for the 2024 presidential run. At the same time, Donald Trump is part of an inquiry by a Florida grand jury concerning unknown complexities. And while environmentalists are concerned over a sharp decline in American kestrels numbers, South Park creators have re-opened an old canteen with better food. There is also an ongoing case about journalistic investigations on misconduct in New Hampshire, which have sparked attacks against journalists with legal ramifications for First Amendment rights.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Satellite images show the progression of the destruction at the destroyed dam.</h3>
-<sub>By Christoph Koettl</sub>
-<p>  <a href="https://nyti.ms/43ph86V"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>A group of 9&#x2F;11 relatives called the PGA Tour’s planned merger with LIV a ‘betrayal.’</h3>
+<sub>By Andrew Das</sub>
+<p>  <a href="https://nyti.ms/43ojHpD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia warns that the dam’s destruction is a risk to Crimea’s water supply.</h3>
-<sub>By Paul Sonne</sub>
-<p>  <a href="https://nyti.ms/3Nev4uN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The dam’s destruction could divert resources from both sides of the conflict.</h3>
-<sub>By Thomas Gibbons-Neff and Paul Sonne</sub>
-<p>  <a href="https://nyti.ms/3CcQX7l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>The talks of a merger began in secret meetings after the Masters in April.</h3>
+<sub>By Alan Blinder</sub>
+<p>  <a href="https://nyti.ms/3IVbcdp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
@@ -86,28 +80,22 @@ There&#39;s a lot going on around the world right now! There was a dam in Crimea
 <p>What we know and don’t know.  <a href="https://nyti.ms/3MN4Zl4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>The Trump family praises the PGA and LIV merger.</h3>
-<sub>By Eric Lipton</sub>
-<p>  <a href="https://nyti.ms/43BiDi2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As Water From Destroyed Dam Rises, Ukrainians Face a Fresh New Horror</h3>
+<sub>By Marc Santora and Evelina Riabenko</sub>
+<p>Many Ukrainians have learned to live with occupation and shelling. On Tuesday a new menace began lapping at their doors.  <a href="https://nyti.ms/3IYWTog"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Mapping the Flooding From the Dam Breach in Southern Ukraine</h3>
+<sub>By Lauren Leatherby, Lazaro Gamio, Marco Hernandez and Haley Willis</sub>
+<p>Maps show where villages were inundated by floodwaters downstream a destroyed dam in southern Ukraine.  <a href="https://nyti.ms/3qpZZeB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Refries That Bind: A Cavernous Cantina Returns, Cliff Divers and All</h3>
-<sub>By Matt Richtel and David Williams</sub>
-<p>With “infinity dollars” poured in by the creators of “South Park,” a fabled Colorado restaurant reopens with the same 1970s vibe and drastically improved food.  <a href="https://nyti.ms/3MOCiEt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Testimony Is Another Chapter in What Has Become a Life of Litigation</h3>
-<sub>By Mark Landler and Megan Specia</sub>
-<p>Prince Harry is getting his day in court as he takes on the tabloids that scrutinized his every move for years, even hacking his phone.  <a href="https://nyti.ms/3qx5193"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Prince Harry Takes on Tabloids, but U.K. Media Already Forced to Turn the Page</h3>
-<sub>By Stephen Castle</sub>
-<p>The U.K. news landscape has shifted since the prince says he was hacked more than a decade ago, with hefty legal settlements, prison time for journalists and the threat of regulation forcing change.  <a href="https://nyti.ms/43GJmK0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Chris Christie Formally Enters ’24 Race, as He Takes Square Aim at Trump</h3>
+<sub>By Maggie Haberman</sub>
+<p>The former New Jersey governor has been among the Republican hopefuls most willing to criticize Donald Trump, the front-runner for the nomination.  <a href="https://nyti.ms/3qB0u5u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -116,11 +104,23 @@ There&#39;s a lot going on around the world right now! There was a dam in Crimea
 <p>The former New Jersey governor’s presidential bid is a long shot. But if he takes out Donald J. Trump along the way, Chris Christie may consider it a victory.  <a href="https://nyti.ms/3J04LpI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Can Christie Succeed as ‘Trump Slayer’? New Jersey Has Thoughts.</h3>
-<sub>By Tracey Tully</sub>
-<p>The former governor, with his ready wit and considerable baggage, intends to jump into the Republican presidential primary on Tuesday.  <a href="https://nyti.ms/3WQlwsZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 5, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Who’s Running for President in 2024?</h3>
+<sub>By Martín González Gómez and Maggie Astor</sub>
+<p>See who is in, and who else might run.  <a href="https://nyti.ms/3Y05QCI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Grand Jury in Florida Hints at Unknown Complexities in Trump Documents Inquiry</h3>
+<sub>By Alan Feuer, Maggie Haberman and Ben Protess</sub>
+<p>Prosecutors have started calling witnesses to a federal grand jury in Miami after months in which activity in the investigation was centered on a separate grand jury in Washington.  <a href="https://nyti.ms/3J19iYO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Refries That Bind: A Cavernous Cantina Returns, Cliff Divers and All</h3>
+<sub>By Matt Richtel and David Williams</sub>
+<p>With “infinity dollars” poured in by the creators of “South Park,” a fabled Colorado restaurant reopens with the same 1970s vibe and drastically improved food.  <a href="https://nyti.ms/3MOCiEt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>A Reporter Investigated Sexual Misconduct. Then the Attacks Began.</h3>
