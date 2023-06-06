@@ -60,12 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, June 6, Central Standard Time</p>
 <p>
-It&#39;s been a busy week around the world. In Ukraine, there has been an escalation of attacks as military officials believe they have seen signs of a counteroffensive. In the US, Oklahoma recently approved the first religious charter school, and Mike Pence is challenging Donald Trump for 2024 presidential candidacy. Meanwhile in New Jersey, former governor Chris Christie is jumping into the Republican presidential primary. Robert Kennedy Jr., who is running for president with surprisingly high polling numbers, shared some right-wing ideas and misinformation. On the other side of things, Robert Hanssen from the FBI passed away after being sentenced to life in prison for espionage. Following this, former President Donald Trump asked a judge to stop E. Jean Carroll&#39;s second defamation suit against him regarding rape allegations. Additionally, Prince Harry in Britain is taking on the tabloids from his country that had been scrutinizing him for years. On another note, CNN&#39;s chief executive is trying to win back the trust of their network after recent events and in science news, new research claims that Homo naledi buried their dead in caves despite having tiny brains. Finally, Los Angeles will be commemorating a long-gone doughnut shop where there is now speculation surrounding an uprising that supposedly happened there in 1959.</p>
+There is a lot going on in the world right now. In Ukraine, there was a major dam disaster and thousands of people are being evacuated. The US is seeing an increase in attacks from Russia, and Prince Harry is taking on British tabloids for years of media scrutiny. In Oklahoma, the first religious charter school was approved, but this could lead to a legal battle over church and state. Meanwhile, movie theaters around the world are hoping to woo back customers by updating their features with larger screens, heated seats, and even sushi. Ex-Vice President Mike Pence has entered the 2024 presidential race against former boss Donald Trump. Former Governor Christie of New Jersey is also trying to join the race as he&#39;s seen as a &#39;Trump slayer&#39;. Robert Kennedy Jr., who surprisingly has high poll numbers in the Democratic primary, has been pushing right-wing ideas and misinformation about mass shootings and border control. Robert Hanssen was recently revealed as supplying confidential information regarding the US government to Moscow and sentenced to life in prison. Lastly, Trump&#39;s lawyers visited the US Justice Department as part of their investigation into classified documents. Trump also asked for a judge to stop Carroll from suing him for second defamation due to a jury finding him liable for sexually abusing her. </p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukraine Dam Disaster: What We Know</h3>
+<sub>By John Yoon</sub>
+<p>A dam in southern Ukraine was split in half, but it is unclear who caused the damage. Thousands are being evacuated as dangerous volumes of water gush downstream.  <a href="https://nyti.ms/3oF3DRy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>As Ukrainian Attacks Surge, U.S. Officials See Signs of Counteroffensive</h3>
 <sub>By Andrew E. Kramer, Thomas Gibbons-Neff, Julian E. Barnes and Eric Schmitt</sub>
-<p>Kyiv has not formally announced the start of operations. But on Tuesday, Ukraine said the Russians had blown up a dam on the Dnipro River, potentially imperiling residents and the Zaporizhzhia Nuclear Power Plant downstream.  <a href="https://nyti.ms/43rzX9u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Kyiv has not formally announced the start of operations. But on Tuesday, Ukraine said the Russians had blown up a dam on the Dnipro River, potentially imperiling residents and the Zaporizhzhia Nuclear Power Plant.  <a href="https://nyti.ms/43rzX9u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Prince Harry Puts Britain’s Press on Trial</h3>
+<sub>By Mark Landler and Megan Specia</sub>
+<p>The prince is getting his day in court as he takes on the tabloids that scrutinized his every move for years, even hacking his phone.  <a href="https://nyti.ms/3qx5193"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -73,6 +85,12 @@ It&#39;s been a busy week around the world. In Ukraine, there has been an escala
 <sub>By Sarah Mervosh</sub>
 <p>The school will offer online, Roman Catholic instruction funded by taxpayers. Its approval is certain to tee off a legal battle over the separation of church and state.  <a href="https://nyti.ms/3Ceozly"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Larger Screens, Heated Seats, Sushi: Theater Owners Want You Back</h3>
+<sub>By Jane Margolies</sub>
+<p>After scraping by during the pandemic, cinemas are hoping to lure back moviegoers by spending millions of dollars on upgrades.  <a href="https://nyti.ms/45BnGkh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Mike Pence Formally Enters 2024 Race, Challenging Trump</h3>
@@ -110,28 +128,10 @@ It&#39;s been a busy week around the world. In Ukraine, there has been an escala
 <p>Former President Donald J. Trump told a judge that he could not have defamed E. Jean Carroll by denying her rape accusation because a jury had found him liable only for sexually abusing her.  <a href="https://nyti.ms/3oRSXin"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Prince Harry Puts Britain’s Press on Trial</h3>
-<sub>By Mark Landler and Megan Specia</sub>
-<p>The prince is getting his day in court as he takes on the tabloids that scrutinized his every move for years, even hacking his phone.  <a href="https://nyti.ms/3qx5193"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 5, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Chris Licht of CNN Faces a Crisis. Here’s Why.</h3>
 <sub>By John Koblin and Benjamin Mullin</sub>
 <p>Mr. Licht, the network’s chief executive, said on an internal call on Monday that he would “fight like hell” to win back the trust of the network.  <a href="https://nyti.ms/45ZeLJM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>Ancient Human Relatives Buried Their Dead in Caves, New Theory Claims</h3>
-<sub>By Carl Zimmer</sub>
-<p>Homo naledi, despite having tiny brains, may have lit fires and decorated walls around the graves of their dead, according to controversial new research.  <a href="https://nyti.ms/42r6xa2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-dining-blue" alt="">
-<h3>A Gay Riot at a Doughnut Shop? The Legend Has Some Holes.</h3>
-<sub>By Erik Piepenburg</sub>
-<p>As Los Angeles prepares to commemorate the long-gone Cooper Do-nuts, accounts of a renowned 1959 uprising at one of its stores are being called into question.  <a href="https://nyti.ms/3IVTSoQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 5, Central Standard Time</sub></sub>
 <hr/>
 </ol>
