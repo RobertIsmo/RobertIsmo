@@ -60,12 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, June 6, Central Standard Time</p>
 <p>
-Currently, there is a lot going on in the world. In Ukraine, a dam has been split in half and thousands of people are being evacuated due to rising water levels. The British Royal Family is also in the news right now; Prince Harry is taking the press to court for years of phone hacking. Additionally, movie theaters around the world are spending millions of dollars in upgrades to try and draw people back. In France, some of the famous beaches of D-Day are facing an onslaught from rising seas due to climate change. Lastly, Apple is making a bold bet that it can redefine the virtual reality space with their new $3,500 goggles.</p>
+There&#39;s a lot happening in the world right now. In Ukraine, a dam has split in two, causing evacuations and flooding downstream. In Britain, Prince Harry is up against the tabloids that reported on him for years, and there&#39;s a new merger happening in which pro golf leagues are coming together. On the political side, Chris Christie is running for president and he has vowed to take down Donald Trump if he can. Meanwhile, John Mellencamp is reflecting on his music career at age 71, and Apple just debuted some pricey virtual reality goggles. Last but not least, the SEC is accusing crypto trading platforms of breaking market rules.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ukraine Dam Disaster: What We Know</h3>
 <sub>By John Yoon</sub>
 <p>A dam in southern Ukraine was split in half, but it is unclear who caused the damage. Thousands are being evacuated as dangerous volumes of water gush downstream.  <a href="https://nyti.ms/3oF3DRy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Here are the places at risk from the dam’s destruction.</h3>
+<sub>By Matthew Mpoke Bigg</sub>
+<p>  <a href="https://nyti.ms/3WU5EpF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -86,6 +92,12 @@ Currently, there is a lot going on in the world. In Ukraine, a dam has been spli
 <p>The U.K. news landscape has shifted since the prince says he was hacked more than a decade ago, with hefty legal settlements, prison time for journalists and the threat of regulation forcing change.  <a href="https://nyti.ms/43GJmK0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>PGA Tour and LIV Golf Agree to Merger</h3>
+<sub>By Alan Blinder</sub>
+<p>In a stunning announcement, the tour, along with the DP World Tour and Saudi Arabia’s sovereign wealth fund, said the rivals had agreed to create a “new, collectively owned, for-profit entity.”  <a href="https://nyti.ms/43nPiIg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>For Christie, Winning Would Be Great. Beating Trump Would Be a Close Second.</h3>
 <sub>By Shane Goldmacher</sub>
@@ -98,16 +110,10 @@ Currently, there is a lot going on in the world. In Ukraine, a dam has been spli
 <p>The former governor, with his ready wit and considerable baggage, intends to jump into the Republican presidential primary on Tuesday.  <a href="https://nyti.ms/3WQlwsZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Larger Screens, Heated Seats, Sushi: Theater Owners Want You Back</h3>
-<sub>By Jane Margolies</sub>
-<p>After scraping by during the pandemic, cinemas are hoping to lure back moviegoers by spending millions of dollars on upgrades.  <a href="https://nyti.ms/45BnGkh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>D-Day’s Historic Beaches Face a New Onslaught: Rising Seas</h3>
-<sub>By Catherine Porter</sub>
-<p>As climate change speeds coastal erosion in France, can memory be preserved if the famous landing sites of the Allied invasion disappear?  <a href="https://nyti.ms/3Nhcv9u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>John Mellencamp Just Might Punch You</h3>
+<sub>By Rob Tannenbaum</sub>
+<p>The irascible rocker, now 71, reflects on how America plays into his music, his relationship to his biggest hits and his latest album, “Orpheus Descending.”  <a href="https://nyti.ms/42lcpBH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -116,22 +122,16 @@ Currently, there is a lot going on in the world. In Ukraine, a dam has been spli
 <p>After publishing an exposé, journalists in New Hampshire faced broken windows, vulgar graffiti and a legal brawl, with important First Amendment implications.  <a href="https://nyti.ms/3J07jEm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Roadblocks and Red Tape: New York’s Cannabis Effort at a Crossroads</h3>
-<sub>By Ashley Southall</sub>
-<p>The state solicited entrepreneurs with cannabis convictions to open the first legal dispensaries, but the effort has fallen behind.  <a href="https://nyti.ms/3qqYI7g"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>John Mellencamp Just Might Punch You</h3>
-<sub>By Rob Tannenbaum</sub>
-<p>The irascible rocker, now 71, reflects on how America plays into his music, his relationship to his biggest hits and his latest album, “Orpheus Descending.”  <a href="https://nyti.ms/42lcpBH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Can Apple Take the Metaverse Mainstream?</h3>
 <sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
 <p>The iPhone maker is making a bold bet that it can redefine the niche category of virtual reality with its $3,500 goggles.  <a href="https://nyti.ms/3J2JED5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>S.E.C. Accuses Coinbase of Breaking Market Rules</h3>
+<sub>By Matthew Goldstein, Ephrat Livni and Emily Flitter</sub>
+<p>The regulator said that the cryptocurrency trading platform allowed users to trade unregistered securities, a day after it accused the crypto platform Binance of mishandling funds.  <a href="https://nyti.ms/3OW8Dvy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
 <hr/>
 </ol>
