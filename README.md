@@ -60,42 +60,54 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, June 6, Central Standard Time</p>
 <p>
-There&#39;s a lot happening in the world right now. In Ukraine, a dam has split in two, causing evacuations and flooding downstream. In Britain, Prince Harry is up against the tabloids that reported on him for years, and there&#39;s a new merger happening in which pro golf leagues are coming together. On the political side, Chris Christie is running for president and he has vowed to take down Donald Trump if he can. Meanwhile, John Mellencamp is reflecting on his music career at age 71, and Apple just debuted some pricey virtual reality goggles. Last but not least, the SEC is accusing crypto trading platforms of breaking market rules.</p>
+There&#39;s a lot going on around the world right now! There was a dam in Crimea that was destroyed recently and it&#39;s causing some risks to the water supply. There&#39;s also been a merger between two major golf organizations, the PGA and LIV, that has been praised by the Trump family. Prince Harry is taking tabloids to court for illegally hacking his phone, and a restaurant called Cavernous Cantina in Colorado has reopened with the same 1970s vibe thanks to &quot;South Park&quot; creators. Finally, there&#39;s been a concerning decrease in American kestrels lately that could challenge conservation efforts in the future.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Dam Disaster: What We Know</h3>
-<sub>By John Yoon</sub>
-<p>A dam in southern Ukraine was split in half, but it is unclear who caused the damage. Thousands are being evacuated as dangerous volumes of water gush downstream.  <a href="https://nyti.ms/3oF3DRy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Satellite images show the progression of the destruction at the destroyed dam.</h3>
+<sub>By Christoph Koettl</sub>
+<p>  <a href="https://nyti.ms/43ph86V"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Here are the places at risk from the dam’s destruction.</h3>
-<sub>By Matthew Mpoke Bigg</sub>
-<p>  <a href="https://nyti.ms/3WU5EpF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Russia warns that the dam’s destruction is a risk to Crimea’s water supply.</h3>
+<sub>By Paul Sonne</sub>
+<p>  <a href="https://nyti.ms/3Nev4uN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Storming a Trench Is Treacherous Business. Here’s How It’s Done.</h3>
-<sub>By Andrew E. Kramer</sub>
-<p>Assaults on trenches can be stealthy, or deafeningly loud. Either way, they are nerve-racking. Here’s how one Ukrainian unit says it carried out a successful attack earlier this month.  <a href="https://nyti.ms/3IYlhXo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>The dam’s destruction could divert resources from both sides of the conflict.</h3>
+<sub>By Thomas Gibbons-Neff and Paul Sonne</sub>
+<p>  <a href="https://nyti.ms/3CcQX7l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>The basics of the sweeping golf merger.</h3>
+<sub>By Victor Mather</sub>
+<p>What we know and don’t know.  <a href="https://nyti.ms/3MN4Zl4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>The Trump family praises the PGA and LIV merger.</h3>
+<sub>By Eric Lipton</sub>
+<p>  <a href="https://nyti.ms/43BiDi2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Refries That Bind: A Cavernous Cantina Returns, Cliff Divers and All</h3>
+<sub>By Matt Richtel and David Williams</sub>
+<p>With “infinity dollars” poured in by the creators of “South Park,” a fabled Colorado restaurant reopens with the same 1970s vibe and drastically improved food.  <a href="https://nyti.ms/3MOCiEt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Prince Harry Puts Britain’s Press on Trial</h3>
+<h3>Testimony Is Another Chapter in What Has Become a Life of Litigation</h3>
 <sub>By Mark Landler and Megan Specia</sub>
-<p>The prince is getting his day in court as he takes on the tabloids that scrutinized his every move for years, even hacking his phone.  <a href="https://nyti.ms/3qx5193"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Prince Harry is getting his day in court as he takes on the tabloids that scrutinized his every move for years, even hacking his phone.  <a href="https://nyti.ms/3qx5193"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Prince Harry Takes on Tabloids, but U.K. Media Already Forced to Turn the Page</h3>
 <sub>By Stephen Castle</sub>
 <p>The U.K. news landscape has shifted since the prince says he was hacked more than a decade ago, with hefty legal settlements, prison time for journalists and the threat of regulation forcing change.  <a href="https://nyti.ms/43GJmK0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>PGA Tour and LIV Golf Agree to Merger</h3>
-<sub>By Alan Blinder</sub>
-<p>In a stunning announcement, the tour, along with the DP World Tour and Saudi Arabia’s sovereign wealth fund, said the rivals had agreed to create a “new, collectively owned, for-profit entity.”  <a href="https://nyti.ms/43nPiIg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -110,29 +122,17 @@ There&#39;s a lot happening in the world right now. In Ukraine, a dam has split 
 <p>The former governor, with his ready wit and considerable baggage, intends to jump into the Republican presidential primary on Tuesday.  <a href="https://nyti.ms/3WQlwsZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>John Mellencamp Just Might Punch You</h3>
-<sub>By Rob Tannenbaum</sub>
-<p>The irascible rocker, now 71, reflects on how America plays into his music, his relationship to his biggest hits and his latest album, “Orpheus Descending.”  <a href="https://nyti.ms/42lcpBH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>A Reporter Investigated Sexual Misconduct. Then the Attacks Began.</h3>
 <sub>By David Enrich</sub>
 <p>After publishing an exposé, journalists in New Hampshire faced broken windows, vulgar graffiti and a legal brawl, with important First Amendment implications.  <a href="https://nyti.ms/3J07jEm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Can Apple Take the Metaverse Mainstream?</h3>
-<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
-<p>The iPhone maker is making a bold bet that it can redefine the niche category of virtual reality with its $3,500 goggles.  <a href="https://nyti.ms/3J2JED5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>S.E.C. Accuses Coinbase of Breaking Market Rules</h3>
-<sub>By Matthew Goldstein, Ephrat Livni and Emily Flitter</sub>
-<p>The regulator said that the cryptocurrency trading platform allowed users to trade unregistered securities, a day after it accused the crypto platform Binance of mishandling funds.  <a href="https://nyti.ms/3OW8Dvy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>The Mystery of the Vanishing Kestrels: What’s Happening to This Flashy Falcon?</h3>
+<sub>By Catrin Einhorn and Bryan Anselm</sub>
+<p>The number of American kestrels has dropped sharply. That goes against the trend for birds of prey, broadly seen as a conservation bright spot.  <a href="https://nyti.ms/3OVsFGt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 5, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
