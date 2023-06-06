@@ -58,32 +58,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Monday, June 5, Central Standard Time</p>
+<p>It is Tuesday, June 6, Central Standard Time</p>
 <p>
-On the international front, Ukraine has reportedly begun a counteroffensive against Russia in the Donetsk region, which has been met with some opposition. The Biden Administration has remained aloof, but the President did invite Denmark’s Prime Minister to Washington to discuss support for Kyiv. Meanwhile, Nazi symbols have appeared on Ukraine&#39;s front lines, raising thorny issues of history. Here in the US, Oklahoma has approved what will be the first religious charter school in the nation, and Mike Pence has officially entered the race for 2024 Republican nomination. Additionally, Robert Kennedy Jr., who is a long-shot Democratic candidate for president, is pushing some right-wing ideas and misinformation. Lastly, Robert Hanssen, a former FBI agent who was exposed as a spy for Moscow, has died at 79. Trump is also making his presence felt by asking a judge to stop Carroll’s second defamation suit and lawyers visiting Justice Department as classified document inquiry nears its end.</p>
+It&#39;s been a busy week around the world. In Ukraine, there has been an escalation of attacks as military officials believe they have seen signs of a counteroffensive. In the US, Oklahoma recently approved the first religious charter school, and Mike Pence is challenging Donald Trump for 2024 presidential candidacy. Meanwhile in New Jersey, former governor Chris Christie is jumping into the Republican presidential primary. Robert Kennedy Jr., who is running for president with surprisingly high polling numbers, shared some right-wing ideas and misinformation. On the other side of things, Robert Hanssen from the FBI passed away after being sentenced to life in prison for espionage. Following this, former President Donald Trump asked a judge to stop E. Jean Carroll&#39;s second defamation suit against him regarding rape allegations. Additionally, Prince Harry in Britain is taking on the tabloids from his country that had been scrutinizing him for years. On another note, CNN&#39;s chief executive is trying to win back the trust of their network after recent events and in science news, new research claims that Homo naledi buried their dead in caves despite having tiny brains. Finally, Los Angeles will be commemorating a long-gone doughnut shop where there is now speculation surrounding an uprising that supposedly happened there in 1959.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>As Ukrainian Attacks Surge, U.S. Officials See Signs of Counteroffensive</h3>
 <sub>By Andrew E. Kramer, Thomas Gibbons-Neff, Julian E. Barnes and Eric Schmitt</sub>
-<p>Kyiv has not formally announced the start of operations. But Russia said that major Ukrainian attacks had begun in the Donetsk region and that it had repelled the assaults and inflicted casualties.  <a href="https://nyti.ms/43rzX9u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Administration Shrugs Off Ukraine’s Attacks in Russia</h3>
-<sub>By Helene Cooper, Eric Schmitt and Julian E. Barnes</sub>
-<p>For months, U.S. officials said cross-border operations risked a dangerous escalation. But those fears have ebbed.  <a href="https://nyti.ms/43q5Hf2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Invites Allies to Washington as Fighting Intensifies in Ukraine</h3>
-<sub>By Katie Rogers</sub>
-<p>President Biden hosted Mette Frederiksen, the prime minister of Denmark, at the White House on Monday, and much of the discussion revolved around providing support to Kyiv.  <a href="https://nyti.ms/43DEl5z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Nazi Symbols on Ukraine’s Front Lines Highlight Thorny Issues of History</h3>
-<sub>By Thomas Gibbons-Neff</sub>
-<p>Troops’ use of patches bearing Nazi emblems risks fueling Russian propaganda and spreading imagery that the West has spent a half-century trying to eliminate.  <a href="https://nyti.ms/43BTtj6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Kyiv has not formally announced the start of operations. But on Tuesday, Ukraine said the Russians had blown up a dam on the Dnipro River, potentially imperiling residents and the Zaporizhzhia Nuclear Power Plant downstream.  <a href="https://nyti.ms/43rzX9u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -128,10 +110,28 @@ On the international front, Ukraine has reportedly begun a counteroffensive agai
 <p>Former President Donald J. Trump told a judge that he could not have defamed E. Jean Carroll by denying her rape accusation because a jury had found him liable only for sexually abusing her.  <a href="https://nyti.ms/3oRSXin"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>He Devoted His Life to Compassion. His Killer Showed None.</h3>
-<sub>By Corina Knoll</sub>
-<p>After graduating from Stanford, David Breaux struggled to find his path — until he found his calling as “the Compassion Guy.”  <a href="https://nyti.ms/42m61uc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Prince Harry Puts Britain’s Press on Trial</h3>
+<sub>By Mark Landler and Megan Specia</sub>
+<p>The prince is getting his day in court as he takes on the tabloids that scrutinized his every move for years, even hacking his phone.  <a href="https://nyti.ms/3qx5193"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Chris Licht of CNN Faces a Crisis. Here’s Why.</h3>
+<sub>By John Koblin and Benjamin Mullin</sub>
+<p>Mr. Licht, the network’s chief executive, said on an internal call on Monday that he would “fight like hell” to win back the trust of the network.  <a href="https://nyti.ms/45ZeLJM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>Ancient Human Relatives Buried Their Dead in Caves, New Theory Claims</h3>
+<sub>By Carl Zimmer</sub>
+<p>Homo naledi, despite having tiny brains, may have lit fires and decorated walls around the graves of their dead, according to controversial new research.  <a href="https://nyti.ms/42r6xa2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-dining-blue" alt="">
+<h3>A Gay Riot at a Doughnut Shop? The Legend Has Some Holes.</h3>
+<sub>By Erik Piepenburg</sub>
+<p>As Los Angeles prepares to commemorate the long-gone Cooper Do-nuts, accounts of a renowned 1959 uprising at one of its stores are being called into question.  <a href="https://nyti.ms/3IVTSoQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 5, Central Standard Time</sub></sub>
 <hr/>
 </ol>
