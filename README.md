@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, June 6, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In Ukraine, there was a major dam disaster and thousands of people are being evacuated. The US is seeing an increase in attacks from Russia, and Prince Harry is taking on British tabloids for years of media scrutiny. In Oklahoma, the first religious charter school was approved, but this could lead to a legal battle over church and state. Meanwhile, movie theaters around the world are hoping to woo back customers by updating their features with larger screens, heated seats, and even sushi. Ex-Vice President Mike Pence has entered the 2024 presidential race against former boss Donald Trump. Former Governor Christie of New Jersey is also trying to join the race as he&#39;s seen as a &#39;Trump slayer&#39;. Robert Kennedy Jr., who surprisingly has high poll numbers in the Democratic primary, has been pushing right-wing ideas and misinformation about mass shootings and border control. Robert Hanssen was recently revealed as supplying confidential information regarding the US government to Moscow and sentenced to life in prison. Lastly, Trump&#39;s lawyers visited the US Justice Department as part of their investigation into classified documents. Trump also asked for a judge to stop Carroll from suing him for second defamation due to a jury finding him liable for sexually abusing her. </p>
+Currently, there is a lot going on in the world. In Ukraine, a dam has been split in half and thousands of people are being evacuated due to rising water levels. The British Royal Family is also in the news right now; Prince Harry is taking the press to court for years of phone hacking. Additionally, movie theaters around the world are spending millions of dollars in upgrades to try and draw people back. In France, some of the famous beaches of D-Day are facing an onslaught from rising seas due to climate change. Lastly, Apple is making a bold bet that it can redefine the virtual reality space with their new $3,500 goggles.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ukraine Dam Disaster: What We Know</h3>
@@ -69,10 +69,10 @@ There is a lot going on in the world right now. In Ukraine, there was a major da
 <sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Ukrainian Attacks Surge, U.S. Officials See Signs of Counteroffensive</h3>
-<sub>By Andrew E. Kramer, Thomas Gibbons-Neff, Julian E. Barnes and Eric Schmitt</sub>
-<p>Kyiv has not formally announced the start of operations. But on Tuesday, Ukraine said the Russians had blown up a dam on the Dnipro River, potentially imperiling residents and the Zaporizhzhia Nuclear Power Plant.  <a href="https://nyti.ms/43rzX9u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 5, Central Standard Time</sub></sub>
+<h3>Storming a Trench Is Treacherous Business. Here’s How It’s Done.</h3>
+<sub>By Andrew E. Kramer</sub>
+<p>Assaults on trenches can be stealthy, or deafeningly loud. Either way, they are nerve-racking. Here’s how one Ukrainian unit says it carried out a successful attack earlier this month.  <a href="https://nyti.ms/3IYlhXo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Prince Harry Puts Britain’s Press on Trial</h3>
@@ -80,10 +80,22 @@ There is a lot going on in the world right now. In Ukraine, there was a major da
 <p>The prince is getting his day in court as he takes on the tabloids that scrutinized his every move for years, even hacking his phone.  <a href="https://nyti.ms/3qx5193"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 5, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Prince Harry Takes on Tabloids, but U.K. Media Already Forced to Turn the Page</h3>
+<sub>By Stephen Castle</sub>
+<p>The U.K. news landscape has shifted since the prince says he was hacked more than a decade ago, with hefty legal settlements, prison time for journalists and the threat of regulation forcing change.  <a href="https://nyti.ms/43GJmK0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Oklahoma Approves First Religious Charter School in the U.S.</h3>
-<sub>By Sarah Mervosh</sub>
-<p>The school will offer online, Roman Catholic instruction funded by taxpayers. Its approval is certain to tee off a legal battle over the separation of church and state.  <a href="https://nyti.ms/3Ceozly"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>For Christie, Winning Would Be Great. Beating Trump Would Be a Close Second.</h3>
+<sub>By Shane Goldmacher</sub>
+<p>The former New Jersey governor’s presidential bid is a long shot. But if he takes out Donald J. Trump along the way, Chris Christie may consider it a victory.  <a href="https://nyti.ms/3J04LpI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Can Christie Succeed as ‘Trump Slayer’? New Jersey Has Thoughts.</h3>
+<sub>By Tracey Tully</sub>
+<p>The former governor, with his ready wit and considerable baggage, intends to jump into the Republican presidential primary on Tuesday.  <a href="https://nyti.ms/3WQlwsZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -92,47 +104,35 @@ There is a lot going on in the world right now. In Ukraine, there was a major da
 <p>After scraping by during the pandemic, cinemas are hoping to lure back moviegoers by spending millions of dollars on upgrades.  <a href="https://nyti.ms/45BnGkh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Mike Pence Formally Enters 2024 Race, Challenging Trump</h3>
-<sub>By Maggie Haberman</sub>
-<p>Mr. Pence, who filed paperwork declaring his candidacy, was once a stalwart supporter and defender of Donald J. Trump, but split with his former boss after the Jan. 6 attack on the Capitol.  <a href="https://nyti.ms/3IX0mnA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Can Christie Succeed as ‘Trump Slayer’? New Jersey Has Thoughts.</h3>
-<sub>By Tracey Tully</sub>
-<p>The former governor, with his ready wit and considerable baggage, intends to jump into the Republican presidential primary on Tuesday.  <a href="https://nyti.ms/3WQlwsZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Robert Kennedy Jr., With Musk, Pushes Right-Wing Ideas and Misinformation</h3>
-<sub>By Reid J. Epstein, Alyce McFadden and Linda Qiu</sub>
-<p>Mr. Kennedy, a long-shot Democratic presidential candidate with surprisingly high polling numbers, said he wanted to close the Mexican border and attributed the rise of mass shootings to pharmaceutical drugs.  <a href="https://nyti.ms/43G0y2g"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Robert Hanssen, F.B.I. Agent Exposed as Spy for Moscow, Dies at 79</h3>
-<sub>By Peter Baker</sub>
-<p>Mr. Hanssen was sentenced to life in prison in 2002, bringing to a close one of the most lurid and damaging espionage cases in American history.  <a href="https://nyti.ms/3oSmlF5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Lawyers Visit Justice Dept. as Classified Documents Inquiry Nears End</h3>
-<sub>By Alan Feuer, Maggie Haberman, Glenn Thrush and Jonathan Swan</sub>
-<p>Three lawyers representing the former president spent nearly two hours there after requesting a meeting to discuss their concerns about the department’s handling of the investigation.  <a href="https://nyti.ms/45P5fsk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Trump Asks Judge to Stop Carroll’s Second Defamation Suit</h3>
-<sub>By Benjamin Weiser</sub>
-<p>Former President Donald J. Trump told a judge that he could not have defamed E. Jean Carroll by denying her rape accusation because a jury had found him liable only for sexually abusing her.  <a href="https://nyti.ms/3oRSXin"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 5, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>D-Day’s Historic Beaches Face a New Onslaught: Rising Seas</h3>
+<sub>By Catherine Porter</sub>
+<p>As climate change speeds coastal erosion in France, can memory be preserved if the famous landing sites of the Allied invasion disappear?  <a href="https://nyti.ms/3Nhcv9u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Chris Licht of CNN Faces a Crisis. Here’s Why.</h3>
-<sub>By John Koblin and Benjamin Mullin</sub>
-<p>Mr. Licht, the network’s chief executive, said on an internal call on Monday that he would “fight like hell” to win back the trust of the network.  <a href="https://nyti.ms/45ZeLJM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 5, Central Standard Time</sub></sub>
+<h3>A Reporter Investigated Sexual Misconduct. Then the Attacks Began.</h3>
+<sub>By David Enrich</sub>
+<p>After publishing an exposé, journalists in New Hampshire faced broken windows, vulgar graffiti and a legal brawl, with important First Amendment implications.  <a href="https://nyti.ms/3J07jEm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Roadblocks and Red Tape: New York’s Cannabis Effort at a Crossroads</h3>
+<sub>By Ashley Southall</sub>
+<p>The state solicited entrepreneurs with cannabis convictions to open the first legal dispensaries, but the effort has fallen behind.  <a href="https://nyti.ms/3qqYI7g"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>John Mellencamp Just Might Punch You</h3>
+<sub>By Rob Tannenbaum</sub>
+<p>The irascible rocker, now 71, reflects on how America plays into his music, his relationship to his biggest hits and his latest album, “Orpheus Descending.”  <a href="https://nyti.ms/42lcpBH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Can Apple Take the Metaverse Mainstream?</h3>
+<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
+<p>The iPhone maker is making a bold bet that it can redefine the niche category of virtual reality with its $3,500 goggles.  <a href="https://nyti.ms/3J2JED5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
