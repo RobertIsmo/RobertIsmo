@@ -60,8 +60,26 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, June 5, Central Standard Time</p>
 <p>
-There are a lot of interesting things going on in the world right now. In Ukraine, troops are using Nazi symbols on their front lines, which is causing concern about Russian propaganda and its potential to spread imagery. In the US, an Oklahoma court has approved the first religious charter school funded by taxpayers, likely signaling the start of a legal battle. The SEC has accused Binance, the world&#39;s largest cryptocurrency exchange, of mishandling funds and lying to regulators. Three politicians—Mike Pence, Chris Christie, and Doug Burgum—have all declared themselves candidates for the 2024 presidential election. Donald Trump&#39;s lawyers recently visited the Justice Department to discuss their concerns as an inquiry nears its end. A young man called &#39;the Compassion Guy&#39; who devoted his life to helping others was tragically killed in Louisiana last week. Chris Licht, CEO of CNN is facing issues related to building trust with his network. Finally, Robert Hanssen, an FBI Agent exposed as a spy for Moscow, died at 79 this week. There is also ongoing speculation about whether or not we are out of a bear market in stocks and shares; and rescue workers have found three people missing from an Iowa building collapse dead this morning. Scientists also recently put forward a strange theory that our human ancestors buried their dead in caves and may have lit fires and decorated walls around their graves.</p>
+There is a lot of activity going on in the world right now. In Ukraine, there have been an uptick in attacks from Ukrainian forces, but U.S. officials don&#39;t seem too concerned. Meanwhile, President Biden has invited some international allies to Washington to discuss providing support to Kyiv as tension rises. Closer to home, the state of Oklahoma just approved the first religious charter school in the country, which will offer online Roman Catholic instruction funded by taxpayers – sparking debate about separation of church and state. Mike Pence is also running for president again in 2024 and challenging Trump. On top of that, Cornel West is entering the 2021 presidential race with a third-party bid under Bernie Sanders&#39; People’s Party. Then there&#39;s Robert Kennedy Jr., who has formed an alliance with Elon Musk and is promoting far-right ideas and misinformation from his presidential campaign platform. Lastly, Robert Hanssen – a former FBI agent exposed as a spy for Moscow – recently passed away, and Trump&#39;s lawyers are meeting with the Department of Justice as they near the end of their classified documents inquiry.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As Ukrainian Attacks Surge, U.S. Officials See Signs of Counteroffensive</h3>
+<sub>By Andrew E. Kramer, Thomas Gibbons-Neff, Julian E. Barnes and Eric Schmitt</sub>
+<p>Kyiv has not formally announced the start of operations. But Russia said that major Ukrainian attacks had begun in the Donetsk region and that it had repelled the assaults and inflicted casualties.  <a href="https://nyti.ms/43rzX9u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Administration Shrugs Off Ukraine’s Attacks in Russia</h3>
+<sub>By Helene Cooper, Eric Schmitt and Julian E. Barnes</sub>
+<p>For months, U.S. officials said cross-border operations risked a dangerous escalation. But those fears have ebbed.  <a href="https://nyti.ms/43q5Hf2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Invites Allies to Washington as Fighting Intensifies in Ukraine</h3>
+<sub>By Katie Rogers</sub>
+<p>President Biden hosted Mette Frederiksen, the prime minister of Denmark, at the White House on Monday, and much of the discussion revolved around providing support to Kyiv.  <a href="https://nyti.ms/43DEl5z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 5, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Nazi Symbols on Ukraine’s Front Lines Highlight Thorny Issues of History</h3>
 <sub>By Thomas Gibbons-Neff</sub>
@@ -71,13 +89,7 @@ There are a lot of interesting things going on in the world right now. In Ukrain
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Oklahoma Approves First Religious Charter School in the U.S.</h3>
 <sub>By Sarah Mervosh</sub>
-<p>The approval of the school, which would offer online, Roman Catholic instruction funded by taxpayers, is almost certain to tee off a legal battle.  <a href="https://nyti.ms/3Ceozly"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>S.E.C. Accuses Binance of Mishandling Funds and Lying to Regulators</h3>
-<sub>By Matthew Goldstein, Emily Flitter and David Yaffe-Bellany</sub>
-<p>The S.E.C. said the world’s largest cryptocurrency exchange mixed billions of dollars in customer funds and secretly sent them to a separate company controlled by Binance’s founder, Changpeng Zhao.  <a href="https://nyti.ms/3IXVY7x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The school will offer online, Roman Catholic instruction funded by taxpayers. Its approval is certain to tee off a legal battle over the separation of church and state.  <a href="https://nyti.ms/3Ceozly"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -86,15 +98,33 @@ There are a lot of interesting things going on in the world right now. In Ukrain
 <p>Mr. Pence, who filed paperwork declaring his candidacy, was once a stalwart supporter and defender of Donald J. Trump, but split with his former boss after the Jan. 6 attack on the Capitol.  <a href="https://nyti.ms/3IX0mnA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 5, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Can Christie Succeed as ‘Trump Slayer’? New Jersey Has Thoughts.</h3>
+<sub>By Tracey Tully</sub>
+<p>The former governor, with his ready wit and considerable baggage, intends to jump into the Republican presidential primary on Tuesday.  <a href="https://nyti.ms/3WQlwsZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 5, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The 2024 G.O.P. Field Balloons This Week, Adding 3 New Candidates</h3>
-<sub>By Trip Gabriel</sub>
-<p>Chris Christie and Doug Burgum are set to announce their presidential campaigns this week, and Mike Pence has already filed paperwork.  <a href="https://nyti.ms/3MT2jCA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Cornel West, Progressive Scholar, Announces Third-Party Bid for President</h3>
+<sub>By Maggie Astor</sub>
+<p>Dr. West said he would run as part of the People’s Party, which was founded by a former campaign staff member for Senator Bernie Sanders.  <a href="https://nyti.ms/3OSJulp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Robert Kennedy Jr., With Musk, Pushes Right-Wing Ideas and Misinformation</h3>
+<sub>By Reid J. Epstein, Alyce McFadden and Linda Qiu</sub>
+<p>Mr. Kennedy, a long-shot Democratic presidential candidate with surprisingly high polling numbers, said he wanted to close the Mexican border and attributed the rise of mass shootings to pharmaceutical drugs.  <a href="https://nyti.ms/43G0y2g"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Robert Hanssen, F.B.I. Agent Exposed as Spy for Moscow, Dies at 79</h3>
+<sub>By Peter Baker</sub>
+<p>Mr. Hanssen was sentenced to life in prison in 2002, bringing to a close one of the most lurid and damaging espionage cases in American history.  <a href="https://nyti.ms/3oSmlF5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Lawyers Visit Justice Dept. as Classified Documents Inquiry Nears End</h3>
-<sub>By Alan Feuer, Maggie Haberman and Glenn Thrush</sub>
+<sub>By Alan Feuer, Maggie Haberman, Glenn Thrush and Jonathan Swan</sub>
 <p>Three lawyers representing the former president spent nearly two hours there after requesting a meeting to discuss their concerns about the department’s handling of the investigation.  <a href="https://nyti.ms/45P5fsk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 5, Central Standard Time</sub></sub>
 <hr/>
@@ -102,36 +132,6 @@ There are a lot of interesting things going on in the world right now. In Ukrain
 <h3>He Devoted His Life to Compassion. His Killer Showed None.</h3>
 <sub>By Corina Knoll</sub>
 <p>After graduating from Stanford, David Breaux struggled to find his path — until he found his calling as “the Compassion Guy.”  <a href="https://nyti.ms/42m61uc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Chris Licht of CNN Faces a Crisis. Here’s Why.</h3>
-<sub>By John Koblin and Benjamin Mullin</sub>
-<p>Mr. Licht, the network’s chief executive, said on an internal call on Monday that he would “fight like hell” to win back the trust of the network.  <a href="https://nyti.ms/45ZeLJM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Robert Hanssen, F.B.I. Agent Exposed as Spy for Moscow, Dies at 79</h3>
-<sub>By Jesus Jiménez</sub>
-<p>Mr. Hanssen was sentenced to life in prison in 2002, bringing to a close one of the most lurid and damaging espionage cases in American history.  <a href="https://nyti.ms/3oSmlF5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Is the Bear Market Over? It Depends.</h3>
-<sub>By Joe Rennison</sub>
-<p>The S&amp;P 500 ended the day nearly 20 percent above its low last year, within a hair of a milestone for some market watchers. But assessing a bona fide bull market is not so simple.  <a href="https://nyti.ms/3oLA94e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>All 3 Missing in Iowa Building Collapse Found Dead, Officials Say</h3>
-<sub>By Mitch Smith</sub>
-<p>Moves to swiftly demolish the stricken building last week were halted by protests because three occupants were unaccounted for. Their bodies were uncovered in the rubble.  <a href="https://nyti.ms/43t0TFR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>Ancient Human Relatives Buried Their Dead in Caves, New Theory Claims</h3>
-<sub>By Carl Zimmer</sub>
-<p>Homo naledi, despite having tiny brains, may have lit fires and decorated walls around the graves of their dead, according to controversial new research.  <a href="https://nyti.ms/42r6xa2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 5, Central Standard Time</sub></sub>
 <hr/>
 </ol>
