@@ -60,28 +60,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, June 7, Central Standard Time</p>
 <p>
-It seems like the world is facing a lot right now. In the US, there is news about using masks, especially N95 masks, to protect against coronavirus and wildfire smoke. There is also news on a former CNN executive&#39;s turbulent time running the network lasting 1 year, a dam breach in Ukraine causing flooding in villages downstream, and then a presidential documents case in Florida with Taylor Budowich appearing before the grand jury. On a more positive note, Saudi Arabia has apparently had a success that transcends sports recently. 
-
-In regards to sports, Rory McIlroy supports the proposed merger between LIV Golf and the PGA Tour, while openly expressing his lingering opposition to LIV Golf. There is also news of the Colorado River in crisis due to climate change and overuse affecting the Grand Canyon. 
-
-In terms of politics, Mike Pence announced his 2024 candidacy in a video this week, while North Dakota&#39;s Governor Doug Burgum has also thrown his name into the presidential hat.</p>
+There&#39;s a lot of news happening around the world right now! In the US, there has been unhealthy air in New York City which will linger through Thursday morning. Also, Chris Licht has left CNN after a turbulent year running the 24-hour news organization and a new leader must be found to continue the network&#39;s financial future. Elsewhere, there has been a dam breach in Ukraine that flooded several villages. Vice President Pence recently gave a speech against former President Donald Trump and is now competing against him in the upcoming election. On the sports side, there&#39;s a big deal merging LIV Golf with the PGA Tour which Saudi Arabia is relishing as a triumph that transcends sports.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>N95 Masks Helped Protect Against the Coronavirus. They Also Work Against Wildfire Smoke.</h3>
-<sub>By Claire Moses</sub>
-<p>Use N95, or better, masks and make sure they cover your nose and mouth.  <a href="https://nyti.ms/3WTuLbT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>How Long Will the Smoke Last?</h3>
+<sub>By Judson Jones</sub>
+<p>In New York City, the hazy, unhealthy air is expected to linger through Thursday morning.  <a href="https://nyti.ms/3Cfwlv9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Chris Licht Is Out at CNN, Ending a Brief and Chaotic Run</h3>
-<sub>By John Koblin and Benjamin Mullin</sub>
-<p>Mr. Licht’s turbulent time running the network lasted slightly more than a year.  <a href="https://nyti.ms/3OUxCiZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Chris Licht Is Out at CNN, Leaving Network at a Crossroads</h3>
+<sub>By John Koblin, Benjamin Mullin, Michael M. Grynbaum and James B. Stewart</sub>
+<p>Mr. Licht’s turbulent time running the 24-hour news organization lasted slightly more than a year.  <a href="https://nyti.ms/3OUxCiZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘It just keeps coming’: Rescuers reach an inundated neighborhood to find fetid water and exhausted people.</h3>
-<sub>By Andrew E. Kramer and Maria Varenikova</sub>
-<p>Low-lying areas of Kherson were a panorama of water and floating debris. One man stood on a cabinet in his living room waiting for hours for help.  <a href="https://nyti.ms/3Neo699"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>David Zaslav Picked Chris Licht to Revamp CNN. Now What?</h3>
+<sub>By Benjamin Mullin</sub>
+<p>Mr. Zaslav, the head of Warner Bros. Discovery, must find a new leader who shares his vision for the network and can figure out its financial future.  <a href="https://nyti.ms/3MPw1bw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Timeline: CNN’s 18 Months of Tumult</h3>
+<sub>By Gregory Schmidt</sub>
+<p>The cable news network has struggled to weather a series of controversies, which culminated this week in the sudden departure of its chairman, Chris Licht, after a chaotic run at the top.  <a href="https://nyti.ms/3J0dlEO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -90,29 +92,23 @@ In terms of politics, Mike Pence announced his 2024 candidacy in a video this we
 <p>Maps show where villages were inundated by floodwaters downstream a destroyed dam in southern Ukraine.  <a href="https://nyti.ms/3qpZZeB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Saudi Arabia Relishes a Triumph That Transcends Sports</h3>
-<sub>By Vivian Nereim and Ahmed Al Omran</sub>
-<p>The deal to merge LIV Golf with the PGA Tour is a big win for the oil-rich kingdom, headlining a banner week that also includes a visit from the American secretary of state.  <a href="https://nyti.ms/3Jo44a3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Pence Delivers Strong Rebuke to Trump in Campaign Announcement</h3>
+<sub>By Jonathan Swan</sub>
+<p>The former vice president — and now rival — to Donald Trump gave his most aggressive criticism of his former boss, portraying him as unfit to be president.  <a href="https://nyti.ms/42rl2e7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>In Reprieve for PGA Tour, Rory McIlroy Backs Saudi Deal</h3>
-<sub>By Alan Blinder</sub>
-<p>McIlroy, however, reiterated his lingering opposition to LIV Golf, saying: “I still hate LIV. I hate them. I hope it goes away.”  <a href="https://nyti.ms/3WTLYSx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>5 Things to Know About Mike Pence</h3>
+<sub>By Maggie Astor</sub>
+<p>Mr. Pence is a once-loyal vice president who became a target of Trump supporters, and an evangelical Christian whose faith drives his hard-line opposition to abortion.  <a href="https://nyti.ms/3NflqYW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>The Merger of LIV Golf and the PGA Tour: Here’s What to Know</h3>
-<sub>By Kevin Draper</sub>
-<p>The announced deal to dramatically change golf is far from complete.  <a href="https://nyti.ms/3Ch5uiv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>Do Christie and Pence Make It 2016 Again? Not Yet.</h3>
+<sub>By Nate Cohn</sub>
+<p>A bigger field in the G.O.P. primary could chip away at DeSantis’s chances of overtaking Trump.  <a href="https://nyti.ms/43rbLEe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>The Grand Canyon, a Cathedral to Time, Is Losing Its River</h3>
-<sub>By Raymond Zhong</sub>
-<p>The Colorado River, which carved the Grand Canyon over millions of years, is now in crisis from climate change and overuse.  <a href="https://nyti.ms/43MZ1Yr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Grand Jury in Florida Hears Testimony in Trump Documents Case</h3>
@@ -123,19 +119,19 @@ In terms of politics, Mike Pence announced his 2024 candidacy in a video this we
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Man Charged With Spraying Police With Insecticide on Jan. 6</h3>
 <sub>By Alan Feuer</sub>
-<p>The Justice Department also charged the Long Island man with assaulting a news photographer, in the latest reminder that the authorities are continuing to find rioters who assaulted the Capitol.  <a href="https://nyti.ms/43QTC2x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The Justice Department also charged the Long Island man with assaulting a news photographer.  <a href="https://nyti.ms/43QTC2x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The G.O.P. Has Drifted, but Mike Pence Is as Conservative as Ever</h3>
-<sub>By Jonathan Swan</sub>
-<p>The polls say the former vice president, who announced his 2024 candidacy in a video on Wednesday, has little chance. But he is driven by his faith.  <a href="https://nyti.ms/43Iiv0c"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Saudi Arabia Relishes a Triumph That Transcends Sports</h3>
+<sub>By Vivian Nereim and Ahmed Al Omran</sub>
+<p>The deal to merge LIV Golf with the PGA Tour is a big win for the oil-rich kingdom, headlining a banner week that also includes a visit from the American secretary of state.  <a href="https://nyti.ms/3Jo44a3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Doug Burgum, Wealthy North Dakota Governor, Enters Presidential Race</h3>
-<sub>By Nick Corasaniti</sub>
-<p>As the leader of a deep-red state, Mr. Burgum has promoted staunchly conservative policies, signing into law a near-total ban on abortion.  <a href="https://nyti.ms/3NfZSLx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>The Merger of LIV Golf and the PGA Tour: Here’s What to Know</h3>
+<sub>By Kevin Draper</sub>
+<p>The announced deal to dramatically change golf is far from complete.  <a href="https://nyti.ms/3Ch5uiv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
