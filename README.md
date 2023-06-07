@@ -58,10 +58,22 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Tuesday, June 6, Central Standard Time</p>
+<p>It is Wednesday, June 7, Central Standard Time</p>
 <p>
-There are some really strange and troubling developments in the world right now - from Canadian wildfires sending smoke across the US to a blast that probably breached a Ukrainian dam. And now Chris Christie is entering the 2022 election race, taking on Donald Trump. Meanwhile, there&#39;s an investigation into Trump and his documents that seems to be getting more complex as it goes on. It&#39;s been interesting to watch unfold!</p>
+There are a lot of things going on in the world right now. In Ukraine, experts believe an internal blast likely caused the breach of a major dam, leading to widespread flooding. In the United States, smoke from Canadian wildfires is blowing across the country and some are wondering how to stay safe from air pollution. The PGA Tour and LIV Golf recently made an alliance, which has caused controversy because of its ties to Saudi Arabia. Additionally, Mike Pence is running for Republican nomination against Donald Trump, while Chris Christie and Mark Meadows have also been involved in grand jury investigations of the former president. Over in New Hampshire, a journalist who wrote about sexual misconduct is facing backlash from the people she wrote about, leading to damaging property and an active legal situation. Lastly, Apple recently introduced a $3,500 vision pro headset that opens up a new level of technology but people aren&#39;t sure what it&#39;s use is just yet.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Internal Blast Probably Breached Ukraine Dam, Experts Say (Cautiously)</h3>
+<sub>By James Glanz, Marc Santora and Richard Pérez-Peña</sub>
+<p>With Russia and Ukraine blaming each other for the collapse of the Kakhovka dam, experts say that an external attack or even structural failure might explain the disaster, but that it is not likely.  <a href="https://nyti.ms/3qtF3n2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Mapping the Flooding From the Dam Breach in Southern Ukraine</h3>
+<sub>By Lauren Leatherby, Lazaro Gamio, Marco Hernandez and Haley Willis</sub>
+<p>Maps show where villages were inundated by floodwaters downstream a destroyed dam in southern Ukraine.  <a href="https://nyti.ms/3qpZZeB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Tracking the Smoke From the Canadian Fires</h3>
 <sub>By Madison Dong, Martín González Gómez, Judson Jones and Bea Malsky</sub>
@@ -86,24 +98,6 @@ There are some really strange and troubling developments in the world right now 
 <p>The new alliance between the PGA Tour and LIV Golf is the latest example of how the former president’s relationship with Saudi Arabia has yielded gains, and criticism, for both.  <a href="https://nyti.ms/3qlUBsU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Internal Blast Probably Breached Ukraine Dam, Experts Say (Cautiously)</h3>
-<sub>By James Glanz, Marc Santora and Richard Pérez-Peña</sub>
-<p>With Russia and Ukraine blaming each other for the collapse of the Kakhovka dam, experts say that an external attack or even structural failure might explain the disaster, but that it is not likely.  <a href="https://nyti.ms/3qtF3n2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Destroyed Ukrainian Dam Floods War Zone and Forces Residents to Flee</h3>
-<sub>By Andrew E. Kramer, Marc Santora and Thomas Gibbons-Neff</sub>
-<p>Experts suspect an explosion collapsed the dam on the Dnipro River. Kyiv and Moscow blamed each other, and residents downstream were forced to evacuate to escape the cascading waves.  <a href="https://nyti.ms/45NL2Dn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Mapping the Flooding From the Dam Breach in Southern Ukraine</h3>
-<sub>By Lauren Leatherby, Lazaro Gamio, Marco Hernandez and Haley Willis</sub>
-<p>Maps show where villages were inundated by floodwaters downstream a destroyed dam in southern Ukraine.  <a href="https://nyti.ms/3qpZZeB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Chris Christie Announces ’24 Run, Taking Square Aim at Trump</h3>
 <sub>By Trip Gabriel and Maggie Haberman</sub>
@@ -111,15 +105,9 @@ There are some really strange and troubling developments in the world right now 
 <sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Christie and Trump’s Friendship Flourished, Then Deteriorated</h3>
-<sub>By Maggie Haberman</sub>
-<p>The two men had a relationship that could be genuinely warm, and at other times transactional. Now they are vying for the presidency in open hostility.  <a href="https://nyti.ms/3qphtHX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>5 Things to Know About Chris Christie</h3>
-<sub>By Maggie Astor</sub>
-<p>Mr. Christie, a onetime star presidential recruit who finished in sixth place in New Hampshire in 2016, has become a fierce Trump critic.  <a href="https://nyti.ms/43N9TWi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Pence Seeks to Go Where No Vice President Has Gone Before</h3>
+<sub>By Peter Baker</sub>
+<p>In running for the Republican nomination against Donald J. Trump, Mike Pence will be the first vice president to directly challenge the president who originally put him on the ticket.  <a href="https://nyti.ms/3qsuWPw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -132,6 +120,18 @@ There are some really strange and troubling developments in the world right now 
 <h3>Mark Meadows Testified to Grand Jury in Special Counsel Investigation of Trump</h3>
 <sub>By Jonathan Swan, Michael S. Schmidt and Maggie Haberman</sub>
 <p>Mr. Meadows, the final White House chief of staff under Donald Trump, is seen as a potentially key witness in the documents and Jan. 6 inquiries.  <a href="https://nyti.ms/42rtn1l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>A Reporter Investigated Sexual Misconduct. Then the Attacks Began.</h3>
+<sub>By David Enrich</sub>
+<p>After publishing an exposé, journalists in New Hampshire faced broken windows, vulgar graffiti and a legal brawl, with important First Amendment implications.  <a href="https://nyti.ms/3J07jEm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>A First Try of Apple’s $3,500 Vision Pro Headset</h3>
+<sub>By Brian X. Chen</sub>
+<p>I briefly got my hands on Apple’s new high-tech goggles, which impressed and creeped me out and raised a question: Why do we need these?  <a href="https://nyti.ms/3qxqvme"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
 <hr/>
 </ol>
