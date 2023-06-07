@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, June 7, Central Standard Time</p>
 <p>
-There are a lot of things going on in the world right now. In Ukraine, experts believe an internal blast likely caused the breach of a major dam, leading to widespread flooding. In the United States, smoke from Canadian wildfires is blowing across the country and some are wondering how to stay safe from air pollution. The PGA Tour and LIV Golf recently made an alliance, which has caused controversy because of its ties to Saudi Arabia. Additionally, Mike Pence is running for Republican nomination against Donald Trump, while Chris Christie and Mark Meadows have also been involved in grand jury investigations of the former president. Over in New Hampshire, a journalist who wrote about sexual misconduct is facing backlash from the people she wrote about, leading to damaging property and an active legal situation. Lastly, Apple recently introduced a $3,500 vision pro headset that opens up a new level of technology but people aren&#39;t sure what it&#39;s use is just yet.</p>
+There is a lot happening in the world right now. In Ukraine, a dam has collapsed and is causing flooding, while in Canada, large wildfires have caused a lot of smoke to spread across the US. Meanwhile, in the US, there&#39;s an investigation underway into documents related to former president Donald Trump and his administration. On top of all that, the PGA Tour and LIV Golf have just agreed to partner up with some surprising ties to former President Donald Trump. Lastly, there&#39;s been a new controversy about sexual misconduct in New Hampshire with potentially important implications for freedom of press.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Internal Blast Probably Breached Ukraine Dam, Experts Say (Cautiously)</h3>
@@ -72,6 +72,12 @@ There are a lot of things going on in the world right now. In Ukraine, experts b
 <h3>Mapping the Flooding From the Dam Breach in Southern Ukraine</h3>
 <sub>By Lauren Leatherby, Lazaro Gamio, Marco Hernandez and Haley Willis</sub>
 <p>Maps show where villages were inundated by floodwaters downstream a destroyed dam in southern Ukraine.  <a href="https://nyti.ms/3qpZZeB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukraine Dam Disaster: What We Know</h3>
+<sub>By John Yoon and Kwame Opam</sub>
+<p>A dam in southern Ukraine was split in half, but it is unclear what caused the damage. Thousands are being evacuated as dangerous volumes of water gush downstream.  <a href="https://nyti.ms/3oF3DRy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -126,12 +132,6 @@ There are a lot of things going on in the world right now. In Ukraine, experts b
 <h3>A Reporter Investigated Sexual Misconduct. Then the Attacks Began.</h3>
 <sub>By David Enrich</sub>
 <p>After publishing an exposé, journalists in New Hampshire faced broken windows, vulgar graffiti and a legal brawl, with important First Amendment implications.  <a href="https://nyti.ms/3J07jEm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>A First Try of Apple’s $3,500 Vision Pro Headset</h3>
-<sub>By Brian X. Chen</sub>
-<p>I briefly got my hands on Apple’s new high-tech goggles, which impressed and creeped me out and raised a question: Why do we need these?  <a href="https://nyti.ms/3qxqvme"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
 <hr/>
 </ol>
