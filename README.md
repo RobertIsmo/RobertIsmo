@@ -60,24 +60,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, June 6, Central Standard Time</p>
 <p>
-In the world right now, a group of 9&#x2F;11 relatives are calling out the PGA tour&#39;s potential merger with LIV as a &quot;betrayal.&quot; Tensions in Ukraine continue to escalate as a destroyed dam has caused flooding in several villages. In the US, Chris Christie has announced his official bid for the 2024 presidential run. At the same time, Donald Trump is part of an inquiry by a Florida grand jury concerning unknown complexities. And while environmentalists are concerned over a sharp decline in American kestrels numbers, South Park creators have re-opened an old canteen with better food. There is also an ongoing case about journalistic investigations on misconduct in New Hampshire, which have sparked attacks against journalists with legal ramifications for First Amendment rights.</p>
+There is a lot going on in the world right now. In Ukraine, a dam collapsed on the Dnipro River, forcing residents to flee from cascading floodwaters. Experts are saying an external blast could have caused it, although Moscow and Kyiv are blaming each other. In the US, the Air Quality Index is important to understand and use to stay safe with regards to pollution levels. There are also interesting connections evolving between Trump, Saudi Arabia, and PGA Tour providers like LIV Golf. Other news includes Chris Christie entering 2021&#39;s presidential race as well as a grand jury investigation into Trump&#39;s documents, with White House Chief of Staff Mark Meadows testifying in relation to the case. Lastly, there is ongoing discussion around whether Florida officials violated any laws while using taxpayer funds to fly migrants to Sacramento and Martha&#39;s Vineyard.</p>
 <ol>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>A group of 9&#x2F;11 relatives called the PGA Tour’s planned merger with LIV a ‘betrayal.’</h3>
-<sub>By Andrew Das</sub>
-<p>  <a href="https://nyti.ms/43ojHpD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Air Quality Index Explained: What It Means and How to Stay Safe</h3>
+<sub>By Adeel Hassan</sub>
+<p>Here’s what we know about pollution and a few tips to protect yourself.  <a href="https://nyti.ms/35w77Zd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Through Ties to Saudis, Golf Deal Promises Benefits to Trump</h3>
+<sub>By Eric Lipton</sub>
+<p>The new alliance between the PGA Tour and LIV Golf is the latest example of how the former president’s relationship with Saudi Arabia has yielded gains, and criticism, for both.  <a href="https://nyti.ms/3qlUBsU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>The talks of a merger began in secret meetings after the Masters in April.</h3>
-<sub>By Alan Blinder</sub>
-<p>  <a href="https://nyti.ms/3IVbcdp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Destroyed Ukrainian Dam Floods War Zone and Forces Residents to Flee</h3>
+<sub>By Andrew E. Kramer, Marc Santora and Thomas Gibbons-Neff</sub>
+<p>Experts suspect an explosion collapsed the dam on the Dnipro River. Kyiv and Moscow blamed each other, and residents downstream were forced to evacuate to escape the cascading waves.  <a href="https://nyti.ms/45NL2Dn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>The basics of the sweeping golf merger.</h3>
-<sub>By Victor Mather</sub>
-<p>What we know and don’t know.  <a href="https://nyti.ms/3MN4Zl4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Internal Blast Probably Breached Ukraine Dam, Experts Say (Cautiously)</h3>
+<sub>By James Glanz, Marc Santora and Richard Pérez-Peña</sub>
+<p>With Russia and Ukraine blaming each other for the collapse of the Kakhovka dam, experts say that an external attack or even structural failure might explain the disaster, but that it is not likely.  <a href="https://nyti.ms/3qtF3n2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -94,21 +100,21 @@ In the world right now, a group of 9&#x2F;11 relatives are calling out the PGA t
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Chris Christie Formally Enters ’24 Race, as He Takes Square Aim at Trump</h3>
-<sub>By Maggie Haberman</sub>
+<sub>By Maggie Haberman and Trip Gabriel</sub>
 <p>The former New Jersey governor has been among the Republican hopefuls most willing to criticize Donald Trump, the front-runner for the nomination.  <a href="https://nyti.ms/3qB0u5u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>For Christie, Winning Would Be Great. Beating Trump Would Be a Close Second.</h3>
-<sub>By Shane Goldmacher</sub>
-<p>The former New Jersey governor’s presidential bid is a long shot. But if he takes out Donald J. Trump along the way, Chris Christie may consider it a victory.  <a href="https://nyti.ms/3J04LpI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>How Christie and Trump’s Friendship Flourished, Then Deteriorated</h3>
+<sub>By Maggie Haberman</sub>
+<p>The two men had a relationship that could be genuinely warm, and at other times transactional. Now they are vying for the presidency in open hostility.  <a href="https://nyti.ms/3qphtHX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Who’s Running for President in 2024?</h3>
-<sub>By Martín González Gómez and Maggie Astor</sub>
-<p>See who is in, and who else might run.  <a href="https://nyti.ms/3Y05QCI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
+<h3>5 Things to Know About Chris Christie</h3>
+<sub>By Maggie Astor</sub>
+<p>Mr. Christie, a onetime star presidential recruit who finished in sixth place in New Hampshire in 2016, has become a fierce Trump critic.  <a href="https://nyti.ms/43N9TWi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Grand Jury in Florida Hints at Unknown Complexities in Trump Documents Inquiry</h3>
@@ -117,22 +123,16 @@ In the world right now, a group of 9&#x2F;11 relatives are calling out the PGA t
 <sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Refries That Bind: A Cavernous Cantina Returns, Cliff Divers and All</h3>
-<sub>By Matt Richtel and David Williams</sub>
-<p>With “infinity dollars” poured in by the creators of “South Park,” a fabled Colorado restaurant reopens with the same 1970s vibe and drastically improved food.  <a href="https://nyti.ms/3MOCiEt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Mark Meadows Testified to Grand Jury in Special Counsel Investigation of Trump</h3>
+<sub>By Jonathan Swan, Michael S. Schmidt and Maggie Haberman</sub>
+<p>Mr. Meadows, the final White House chief of staff under Donald Trump, is seen as a potentially key witness in the documents and Jan. 6 inquiries.  <a href="https://nyti.ms/42rtn1l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>A Reporter Investigated Sexual Misconduct. Then the Attacks Began.</h3>
-<sub>By David Enrich</sub>
-<p>After publishing an exposé, journalists in New Hampshire faced broken windows, vulgar graffiti and a legal brawl, with important First Amendment implications.  <a href="https://nyti.ms/3J07jEm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Prosecuting Florida’s Migrant Flights Would Face Legal Hurdles</h3>
+<sub>By Edgar Sandoval</sub>
+<p>Legal questions have been raised about migrant flights Florida chartered to Sacramento and Martha’s Vineyard. But state officials say they were voluntary, and proving otherwise could be tough.  <a href="https://nyti.ms/3IZvum5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>The Mystery of the Vanishing Kestrels: What’s Happening to This Flashy Falcon?</h3>
-<sub>By Catrin Einhorn and Bryan Anselm</sub>
-<p>The number of American kestrels has dropped sharply. That goes against the trend for birds of prey, broadly seen as a conservation bright spot.  <a href="https://nyti.ms/3OVsFGt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 5, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
