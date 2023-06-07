@@ -60,24 +60,46 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, June 7, Central Standard Time</p>
 <p>
-There is chaos happening all around the world. Wildfires are spreading across Canada and thick smoke is covering Toronto, Ottawa, and Montreal. In Russia and Saudi Arabia, there is a strain in their oil partnership, despite attempts to keep energy prices high for mutual benefit. The PGA Tour recently merged with LIV, but the effects of that merger are still up in the air. In New York, a Pizza Legend, Andrew Bellucci, died suddenly and his admirers have gathered to remember his life. In politics, Mike Pence and Doug Burgum have both announced their candidacies for the 2024 presidential election in the U.S., though Pence has little chance according to polls. Crypto firms are looking outside of the U.S. due to it becoming one of the world&#39;s strictest crypto regulators, which has resulted in Coinbase and Binance lawsuits shaking markets. Finally, in Sudan there is a &quot;dystopian nightmare&quot; unfolding in its battered Darfur region with hundreds killed since nationwide conflict began, raising fears of more wars and genocidal violence.</p>
+It seems like the world is facing a lot right now. In the US, there is news about using masks, especially N95 masks, to protect against coronavirus and wildfire smoke. There is also news on a former CNN executive&#39;s turbulent time running the network lasting 1 year, a dam breach in Ukraine causing flooding in villages downstream, and then a presidential documents case in Florida with Taylor Budowich appearing before the grand jury. On a more positive note, Saudi Arabia has apparently had a success that transcends sports recently. 
+
+In regards to sports, Rory McIlroy supports the proposed merger between LIV Golf and the PGA Tour, while openly expressing his lingering opposition to LIV Golf. There is also news of the Colorado River in crisis due to climate change and overuse affecting the Grand Canyon. 
+
+In terms of politics, Mike Pence announced his 2024 candidacy in a video this week, while North Dakota&#39;s Governor Doug Burgum has also thrown his name into the presidential hat.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>From British Columbia to Nova Scotia, Wildfires Spread Across Canada</h3>
-<sub>By Dan Bilefsky and Vjosa Isai</sub>
-<p>Hundreds of wildfires are burning nationwide, expanding a sense of unease in the country as thick smoke billowed over Toronto, Ottawa and Montreal.  <a href="https://nyti.ms/43qkKFP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>N95 Masks Helped Protect Against the Coronavirus. They Also Work Against Wildfire Smoke.</h3>
+<sub>By Claire Moses</sub>
+<p>Use N95, or better, masks and make sure they cover your nose and mouth.  <a href="https://nyti.ms/3WTuLbT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Russia and Saudi Arabia’s Oil Partnership Shows Strain</h3>
-<sub>By Clifford Krauss and Anatoly Kurmanaev</sub>
-<p>Analysts said the countries’ mutual need to keep energy prices high would help them maintain close ties, despite signs that Moscow has undercut previous deals.  <a href="https://nyti.ms/3OXJWio"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Chris Licht Is Out at CNN, Ending a Brief and Chaotic Run</h3>
+<sub>By John Koblin and Benjamin Mullin</sub>
+<p>Mr. Licht’s turbulent time running the network lasted slightly more than a year.  <a href="https://nyti.ms/3OUxCiZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘It just keeps coming’: Rescuers reach an inundated neighborhood to find fetid water and exhausted people.</h3>
+<sub>By Andrew E. Kramer and Maria Varenikova</sub>
+<p>Low-lying areas of Kherson were a panorama of water and floating debris. One man stood on a cabinet in his living room waiting for hours for help.  <a href="https://nyti.ms/3Neo699"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Mapping the Flooding From the Dam Breach in Southern Ukraine</h3>
+<sub>By Lauren Leatherby, Lazaro Gamio, Marco Hernandez and Haley Willis</sub>
+<p>Maps show where villages were inundated by floodwaters downstream a destroyed dam in southern Ukraine.  <a href="https://nyti.ms/3qpZZeB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Saudi Arabia Relishes a Triumph That Transcends Sports</h3>
+<sub>By Vivian Nereim and Ahmed Al Omran</sub>
+<p>The deal to merge LIV Golf with the PGA Tour is a big win for the oil-rich kingdom, headlining a banner week that also includes a visit from the American secretary of state.  <a href="https://nyti.ms/3Jo44a3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>LIV Golf Joins a Club That Will Have It as a Member</h3>
-<sub>By Kurt Streeter</sub>
-<p>The PGA Tour’s merger with LIV is the perfect union of the tour’s lack of principle and LIV’s paucity of character.  <a href="https://nyti.ms/3NgkuDx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>In Reprieve for PGA Tour, Rory McIlroy Backs Saudi Deal</h3>
+<sub>By Alan Blinder</sub>
+<p>McIlroy, however, reiterated his lingering opposition to LIV Golf, saying: “I still hate LIV. I hate them. I hope it goes away.”  <a href="https://nyti.ms/3WTLYSx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
@@ -86,17 +108,23 @@ There is chaos happening all around the world. Wildfires are spreading across Ca
 <p>The announced deal to dramatically change golf is far from complete.  <a href="https://nyti.ms/3Ch5uiv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>‘Never Seen Pizza Boxes at a Wake Before’: Mourning a N.Y. Pizza Legend</h3>
-<sub>By Christopher Maag</sub>
-<p>In a city full of great pizza, Andrew Bellucci was New York’s “original pizza nerd.” After he died suddenly, admirers gathered to remember his wild life.  <a href="https://nyti.ms/3IZRxZT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>The Grand Canyon, a Cathedral to Time, Is Losing Its River</h3>
+<sub>By Raymond Zhong</sub>
+<p>The Colorado River, which carved the Grand Canyon over millions of years, is now in crisis from climate change and overuse.  <a href="https://nyti.ms/43MZ1Yr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Grand Jury in Florida Hears Testimony in Trump Documents Case</h3>
+<sub>By Alan Feuer and Maggie Haberman</sub>
+<p>Among those appearing before the grand jury in Miami was Taylor Budowich, who served as a spokesman for former President Donald Trump.  <a href="https://nyti.ms/43viqNQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-dining-blue" alt="">
-<h3>Andrew Bellucci, Pizza Visionary With a Troubled Past, Dies at 59</h3>
-<sub>By Pete Wells</sub>
-<p>His obsession with recreating the original New York pizza helped revive a classic and inspire a generation of chefs. But his ambitions led to conflicts and, once, prison.  <a href="https://nyti.ms/3CfeNzk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 5, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Man Charged With Spraying Police With Insecticide on Jan. 6</h3>
+<sub>By Alan Feuer</sub>
+<p>The Justice Department also charged the Long Island man with assaulting a news photographer, in the latest reminder that the authorities are continuing to find rioters who assaulted the Capitol.  <a href="https://nyti.ms/43QTC2x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The G.O.P. Has Drifted, but Mike Pence Is as Conservative as Ever</h3>
@@ -108,30 +136,6 @@ There is chaos happening all around the world. Wildfires are spreading across Ca
 <h3>Doug Burgum, Wealthy North Dakota Governor, Enters Presidential Race</h3>
 <sub>By Nick Corasaniti</sub>
 <p>As the leader of a deep-red state, Mr. Burgum has promoted staunchly conservative policies, signing into law a near-total ban on abortion.  <a href="https://nyti.ms/3NfZSLx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>Do Christie and Pence Make It 2016 Again? Not Yet.</h3>
-<sub>By Nate Cohn</sub>
-<p>A bigger field in the G.O.P. primary could chip away at DeSantis’s chances of overtaking Trump.  <a href="https://nyti.ms/43rbLEe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Crypto Firms Start Looking Abroad as U.S. Cracks Down</h3>
-<sub>By David Yaffe-Bellany</sub>
-<p>As the country becomes one of the world’s strictest crypto regulators, companies are exploring plans to expand internationally and possibly leave entirely.  <a href="https://nyti.ms/43KLXCH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Crypto Crackdown: Coinbase and Binance Lawsuits Shake Markets</h3>
-<sub>By Ephrat Livni</sub>
-<p>The S.E.C.’s actions indicate a push to require crypto businesses offering securities to follow the same rules as traditional stock and bond exchanges.  <a href="https://nyti.ms/43OXK35"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A ‘Dystopian Nightmare’ Unfolds in Sudan’s Battered Darfur Region</h3>
-<sub>By Abdi Latif Dahir and Cora Engelbrecht</sub>
-<p>Hundreds have been killed in the western Darfur region since the nationwide conflict in Sudan began, raising fears of protracted warfare in an area already torn by decades of genocidal violence.  <a href="https://nyti.ms/3P2qroT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
