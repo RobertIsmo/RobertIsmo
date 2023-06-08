@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, June 7, Central Standard Time</p>
 <p>
-In the US, former president Trump is facing investigation for his handling of classified documents. There are massive wildfires in Canada that are sending plumes of smoke to various parts of the US, causing orange skies and burning eyes in New York City. House chaos has ensued as far-right rebels won&#39;t yield control and economic effects may be felt from the debt limit stand-off. Meanwhile, Florida governor Ron DeSantis is facing controversy over migrant flights to California and a flood in Ukraine warzone has caused devastation and displacement. Lastly, Lionel Messi has chosen Miami&#39;s Inter Miami team as his new soccer destination.</p>
+There is a lot going on in the world right now. In the US, prosecutors have notified former President Trump that he is a target of an investigation related to classified documents. In addition, there are wildfires across Canada affecting US air quality and far-right Republican rebels in Congress causing chaos and preventing leaders from passing votes. On the economic front, the government has avoided default after conducting some debt-ceiling brinkmanship, but the effects of this will likely be seen soon. Internationally, there are floods in Ukraine causing further destruction to people in an already war-torn region and the Saudi sovereign wealth fund is continuing to invest heavily in tourism, job creation, private equity, and golf. Finally, soccer star Lionel Messi just announced he&#39;ll play for Inter Miami in MLS next season.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Prosecutors Tell Trump’s Legal Team He Is a Target of Investigation</h3>
@@ -73,12 +73,6 @@ In the US, former president Trump is facing investigation for his handling of cl
 <sub>By Madison Dong, Bea Malsky, Matthew Bloch, Martín González Gómez, Judson Jones and John-Michael Murphy</sub>
 <p>See an hourly forecast of where smoke from the Canadian wildfires is traveling across the United States.  <a href="https://nyti.ms/3CfwHlB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Orange Skies and Burning Eyes as Smoke Shrouds New York City</h3>
-<sub>By Michael Wilson</sub>
-<p>New Yorkers are accustomed to dealing with weather. This was something very different.  <a href="https://nyti.ms/3MVQw6z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>House Is Paralyzed as Far-Right Rebels Continue Mutiny Against McCarthy</h3>
@@ -132,6 +126,12 @@ In the US, former president Trump is facing investigation for his handling of cl
 <h3>Lionel Messi, Soccer’s Most Coveted Free Agent, Picks Miami</h3>
 <sub>By Andrew Das and Rory Smith</sub>
 <p>Days after he announced he would not return to Paris St.-Germain, Messi, Argentina’s World Cup hero, said he planned his next stop to be Inter Miami of M.L.S.  <a href="https://nyti.ms/45Utrdc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The Saudi Sovereign Wealth Fund, Explained</h3>
+<sub>By Kate Kelly and Vivian Nereim</sub>
+<p>The secretive $700 billion investment fund has set its sights on tourism, job creation, private equity and, now, golf.  <a href="https://nyti.ms/43zHCCU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
