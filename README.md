@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Wednesday, June 7, Central Standard Time</p>
+<p>It is Thursday, June 8, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In the US, prosecutors have notified former President Trump that he is a target of an investigation related to classified documents. In addition, there are wildfires across Canada affecting US air quality and far-right Republican rebels in Congress causing chaos and preventing leaders from passing votes. On the economic front, the government has avoided default after conducting some debt-ceiling brinkmanship, but the effects of this will likely be seen soon. Internationally, there are floods in Ukraine causing further destruction to people in an already war-torn region and the Saudi sovereign wealth fund is continuing to invest heavily in tourism, job creation, private equity, and golf. Finally, soccer star Lionel Messi just announced he&#39;ll play for Inter Miami in MLS next season.</p>
+There are a lot of developments happening around the world right now. In the US, former President Trump is a target of investigation due to his handling of classified documents. There has been chaos in the House as far-right rebels continue their mutiny against House Leader McCarthy and the government had to do a large debt ceiling stand-off due to a trillion dollar borrowing binge. On top of that, smoke shrouded New York City earlier this week and there were wild fires in California and floods in Ukraine which caused havoc. Soccer star Lionel Messi just announced he was joining Miami&#39;s Inter Miami soccer team. To cap it all off, Saudi Arabia&#39;s $700 billion wealth fund just invested in golf.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Prosecutors Tell Trump’s Legal Team He Is a Target of Investigation</h3>
@@ -68,11 +68,11 @@ There is a lot going on in the world right now. In the US, prosecutors have noti
 <p>The notice from the office of the special counsel Jack Smith suggested that an indictment was on the horizon in the investigation into the former president’s handling of classified documents.  <a href="https://nyti.ms/43viqNQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Maps: Tracking Smoke and Air Quality From Canadian Fires</h3>
-<sub>By Madison Dong, Bea Malsky, Matthew Bloch, Martín González Gómez, Judson Jones and John-Michael Murphy</sub>
-<p>See an hourly forecast of where smoke from the Canadian wildfires is traveling across the United States.  <a href="https://nyti.ms/3CfwHlB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Orange Skies and Burning Eyes as Smoke Shrouds New York City</h3>
+<sub>By Michael Wilson</sub>
+<p>New Yorkers are accustomed to dealing with weather. This was something very different.  <a href="https://nyti.ms/3MVQw6z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>House Is Paralyzed as Far-Right Rebels Continue Mutiny Against McCarthy</h3>
@@ -98,18 +98,6 @@ There is a lot going on in the world right now. In the US, prosecutors have noti
 <p>Mr. Zaslav, the head of Warner Bros. Discovery, must find a new leader who shares his vision for the network and can figure out its financial future.  <a href="https://nyti.ms/3MPw1bw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>With Migrant Flights, DeSantis Shows Stoking Outrage Is the Point</h3>
-<sub>By Shane Goldmacher</sub>
-<p>The flights to California illustrate the broader bet Gov. Ron DeSantis has made that the animating energy in the G.O.P. has shifted from conservatism to confrontationalism.  <a href="https://nyti.ms/3CjvIAO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis Defends Migrant Flights and Takes a Swipe at California</h3>
-<sub>By Nicholas Nehamas</sub>
-<p>Gov. Ron DeSantis of Florida criticized immigration policies in his first visit to the border since beginning his presidential bid.  <a href="https://nyti.ms/3J5RhIX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Disaster Upon Disaster: Flood Deepens Misery in Ukraine War Zone</h3>
 <sub>By Andrew E. Kramer, Maria Varenikova and Mauricio Lima</sub>
@@ -122,6 +110,18 @@ There is a lot going on in the world right now. In the US, prosecutors have noti
 <p>As rescue efforts plucked people from rooftops, and offered fresh water and shelter, Turkey’s president called for an international investigation into what caused a dam to fail.  <a href="https://nyti.ms/43sIEjW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>With Migrant Flights, DeSantis Shows Stoking Outrage Is the Point</h3>
+<sub>By Shane Goldmacher</sub>
+<p>The flights to California illustrate the broader bet Gov. Ron DeSantis has made that the animating energy in the G.O.P. has shifted from conservatism to confrontationalism.  <a href="https://nyti.ms/3CjvIAO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>DeSantis Defends Migrant Flights and Takes a Swipe at California</h3>
+<sub>By Nicholas Nehamas</sub>
+<p>Gov. Ron DeSantis of Florida criticized immigration policies in his first visit to the border since beginning his presidential bid.  <a href="https://nyti.ms/3J5RhIX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Lionel Messi, Soccer’s Most Coveted Free Agent, Picks Miami</h3>
 <sub>By Andrew Das and Rory Smith</sub>
@@ -129,7 +129,7 @@ There is a lot going on in the world right now. In the US, prosecutors have noti
 <sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Saudi Sovereign Wealth Fund, Explained</h3>
+<h3>All About the Deep-Pocketed Saudi Wealth Fund That Rocked Golf</h3>
 <sub>By Kate Kelly and Vivian Nereim</sub>
 <p>The secretive $700 billion investment fund has set its sights on tourism, job creation, private equity and, now, golf.  <a href="https://nyti.ms/43zHCCU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
