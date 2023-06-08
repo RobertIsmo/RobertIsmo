@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, June 8, Central Standard Time</p>
 <p>
-It seems like a lot is going on in the world right now. In the US, former President Trump&#39;s legal team has been told by prosecutors that he is a target of an investigation. New Yorkers have had to deal with a lot of smoke shrouding the city recently too. In Ukraine, there have been multiple disasters including flooding in war zones and a dam failure, leaving people in need of rescue and international investigations. In House politics, there&#39;s political tension as the far-right House Freedom Caucus has refused to give up control of the floor, throwing it into chaos. Economically speaking, after debt-ceiling brinkmanship, the government will need to borrow around $1 trillion. The leader of 24-hour news company CNN has also stepped down and needs to be replaced. Meanwhile, Florida Governor Ron DeSantis has sparked outrage by flying migrants from Texas to California. Lastly, Lionel Messi, soccer’s most coveted free agent, just picked Miami as his next stop and a Saudi wealth fund has made headlines for a rockin’ golf opportunity.</p>
+It looks like things are pretty chaotic in the world right now. Prosecutors have told Donald Trump&#39;s legal team that he is a target in an investigation, and there have been cross-border skirmishes between Ukraine and Russia leading to anxiety for villagers on both sides. Here in the US, Republicans are facing some in-fighting with the House being paralyzed by rebel members of the Freedom Caucus while members of Congress have gone back and forth on the FBI Director and contempt charges. On top of all that, we’re looking at a trillion dollar borrowing binge as the government approaches the debt limit, and some people fear there may be no room on cable news for independent journalism anymore. Finally, politicians are facing some tough questions too. There’s a longshot presidential hopeful in North Dakota and Florida&#39;s Governor Ron DeSantis making headlines with migrant flights to California, raising questions about the future of conservatism.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Prosecutors Tell Trump’s Legal Team He Is a Target of Investigation</h3>
@@ -68,28 +68,34 @@ It seems like a lot is going on in the world right now. In the US, former Presid
 <p>The notice from the office of the special counsel Jack Smith suggested that an indictment was on the horizon in the investigation into the former president’s handling of classified documents.  <a href="https://nyti.ms/43viqNQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Pat Robertson, Who Brought Christian Conservatives Clout, Dies at 93</h3>
+<sub>By Douglas Martin</sub>
+<p>A Baptist minister and a broadcaster, he turned Christian conservatives into a powerful constituency that helped Republicans capture Congress in 1994.  <a href="https://nyti.ms/42pl869"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Cross-Border Skirmishes Heighten Anxiety for Ukrainian Villagers</h3>
+<sub>By Carlotta Gall and Oleksandr Chubko</sub>
+<p>Even as new attacks have brought the war into Russia, the Russians have responded with force, raising the threat for the few civilians left in towns along the border.  <a href="https://nyti.ms/3J2akUA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Orange Skies and Burning Eyes as Smoke Shrouds New York City</h3>
-<sub>By Michael Wilson</sub>
-<p>New Yorkers are accustomed to dealing with weather. This was something very different.  <a href="https://nyti.ms/3MVQw6z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Disaster Upon Disaster: Flood Deepens Misery in Ukraine War Zone</h3>
-<sub>By Andrew E. Kramer, Maria Varenikova and Mauricio Lima</sub>
-<p>“We were getting used to the shelling, but I’ve never seen a situation like this,” said one woman rescued in Kherson after a dam upstream was destroyed.  <a href="https://nyti.ms/3MXFygC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Floodwaters Engulf Front Line in Ukraine War</h3>
-<sub>By Andrew E. Kramer, Paul Sonne and Victoria Kim</sub>
-<p>As rescue efforts plucked people from rooftops, and offered fresh water and shelter, Turkey’s president called for an international investigation into what caused a dam to fail.  <a href="https://nyti.ms/43sIEjW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
+<h3>How to Clear 500,000 Feral Cats From New York’s Streets</h3>
+<sub>By Richard Schiffman and Erin Schaff</sub>
+<p>After the pandemic boom in pet adoption gave way to pet abandonment, locals in Brooklyn are trying a controversial approach to population control.  <a href="https://nyti.ms/43Irkae"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>House Is Paralyzed as Far-Right Rebels Continue Mutiny Against McCarthy</h3>
 <sub>By Annie Karni</sub>
 <p>Members of the ultraconservative House Freedom Caucus refused to surrender control of the floor, forcing G.O.P. leaders to scrap votes for the week and leaving the speaker facing what he conceded was “chaos.”  <a href="https://nyti.ms/3J1nvVN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Comer Cancels Wray Contempt Vote as F.B.I. Agrees to Share Document</h3>
+<sub>By Luke Broadwater</sub>
+<p>The Oversight Committee chairman canceled a vote to begin contempt proceedings against the F.B.I. leader after he agreed to more widely distribute a document on a claim against President Biden.  <a href="https://nyti.ms/43IamZA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -99,16 +105,22 @@ It seems like a lot is going on in the world right now. In the US, former Presid
 <sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Chris Licht Is Out at CNN, Leaving Network at a Crossroads</h3>
-<sub>By John Koblin, Benjamin Mullin, Michael M. Grynbaum and James B. Stewart</sub>
-<p>Mr. Licht’s turbulent time running the 24-hour news organization lasted slightly more than a year.  <a href="https://nyti.ms/3OUxCiZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
+<h3>Does CNN’s Turmoil Mean There’s No Room on Cable for Independent News?</h3>
+<sub>By Jim Rutenberg</sub>
+<p>Chris Licht’s tenure illuminated how increasingly hard it can be to find success on the divided cable news dial.  <a href="https://nyti.ms/3WXA369"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>David Zaslav Picked Chris Licht to Revamp CNN. Now What?</h3>
-<sub>By Benjamin Mullin</sub>
-<p>Mr. Zaslav, the head of Warner Bros. Discovery, must find a new leader who shares his vision for the network and can figure out its financial future.  <a href="https://nyti.ms/3MPw1bw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
+<h3>Who Are the 4 People Running CNN Now?</h3>
+<sub>By Katie Robertson</sub>
+<p>The network will be managed on an interim basis by a group of executives.  <a href="https://nyti.ms/42sXZQi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>‘A Long Shot, for Sure’: Sizing Up Burgum, and Most of the G.O.P. Field</h3>
+<sub>By Jonathan Weisman</sub>
+<p>In North Dakota, Gov. Doug Burgum’s quixotic presidential campaign has people scratching their heads, but then again, many of the 2024 hopefuls have prompted the same wonder.  <a href="https://nyti.ms/3qyZYVX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>With Migrant Flights, DeSantis Shows Stoking Outrage Is the Point</h3>
@@ -117,22 +129,10 @@ It seems like a lot is going on in the world right now. In the US, former Presid
 <sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis Defends Migrant Flights and Takes a Swipe at California</h3>
-<sub>By Nicholas Nehamas</sub>
-<p>Gov. Ron DeSantis of Florida criticized immigration policies in his first visit to the border since beginning his presidential bid.  <a href="https://nyti.ms/3J5RhIX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Lionel Messi, Soccer’s Most Coveted Free Agent, Picks Miami</h3>
-<sub>By Andrew Das and Rory Smith</sub>
-<p>Days after he announced he would not return to Paris St.-Germain, Messi, Argentina’s World Cup hero, said he planned his next stop to be Inter Miami of M.L.S.  <a href="https://nyti.ms/45Utrdc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>All About the Deep-Pocketed Saudi Wealth Fund That Rocked Golf</h3>
-<sub>By Kate Kelly and Vivian Nereim</sub>
-<p>The secretive $700 billion investment fund has set its sights on tourism, job creation, private equity and, now, golf.  <a href="https://nyti.ms/43zHCCU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
+<h3>5 Takeaways From Mike Pence’s CNN Town Hall</h3>
+<sub>By Katie Glueck</sub>
+<p>Donald Trump’s former vice president sought to draw a contrast with his old boss while also embracing the actions of their administration.  <a href="https://nyti.ms/43qfVw0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
