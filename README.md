@@ -60,12 +60,36 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, June 7, Central Standard Time</p>
 <p>
-There&#39;s a lot of news happening around the world right now! In the US, there has been unhealthy air in New York City which will linger through Thursday morning. Also, Chris Licht has left CNN after a turbulent year running the 24-hour news organization and a new leader must be found to continue the network&#39;s financial future. Elsewhere, there has been a dam breach in Ukraine that flooded several villages. Vice President Pence recently gave a speech against former President Donald Trump and is now competing against him in the upcoming election. On the sports side, there&#39;s a big deal merging LIV Golf with the PGA Tour which Saudi Arabia is relishing as a triumph that transcends sports.</p>
+In the US, former president Trump is facing investigation for his handling of classified documents. There are massive wildfires in Canada that are sending plumes of smoke to various parts of the US, causing orange skies and burning eyes in New York City. House chaos has ensued as far-right rebels won&#39;t yield control and economic effects may be felt from the debt limit stand-off. Meanwhile, Florida governor Ron DeSantis is facing controversy over migrant flights to California and a flood in Ukraine warzone has caused devastation and displacement. Lastly, Lionel Messi has chosen Miami&#39;s Inter Miami team as his new soccer destination.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Long Will the Smoke Last?</h3>
-<sub>By Judson Jones</sub>
-<p>In New York City, the hazy, unhealthy air is expected to linger through Thursday morning.  <a href="https://nyti.ms/3Cfwlv9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Prosecutors Tell Trump’s Legal Team He Is a Target of Investigation</h3>
+<sub>By Alan Feuer, Maggie Haberman, William K. Rashbaum and Glenn Thrush</sub>
+<p>The notice from the office of the special counsel Jack Smith suggested that an indictment was on the horizon in the investigation into the former president’s handling of classified documents.  <a href="https://nyti.ms/43viqNQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Maps: Tracking Smoke and Air Quality From Canadian Fires</h3>
+<sub>By Madison Dong, Bea Malsky, Matthew Bloch, Martín González Gómez, Judson Jones and John-Michael Murphy</sub>
+<p>See an hourly forecast of where smoke from the Canadian wildfires is traveling across the United States.  <a href="https://nyti.ms/3CfwHlB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Orange Skies and Burning Eyes as Smoke Shrouds New York City</h3>
+<sub>By Michael Wilson</sub>
+<p>New Yorkers are accustomed to dealing with weather. This was something very different.  <a href="https://nyti.ms/3MVQw6z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>House Is Paralyzed as Far-Right Rebels Continue Mutiny Against McCarthy</h3>
+<sub>By Annie Karni</sub>
+<p>Members of the ultraconservative House Freedom Caucus refused to surrender control of the floor, forcing G.O.P. leaders to scrap votes for the week and leaving the speaker facing what he conceded was “chaos.”  <a href="https://nyti.ms/3J1nvVN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>A $1 Trillion Borrowing Binge Looms After Debt Limit Standoff</h3>
+<sub>By Alan Rappeport and Joe Rennison</sub>
+<p>The government has avoided default, but the effects of the debt-ceiling brinkmanship may still ripple across the economy.  <a href="https://nyti.ms/3MYJRsl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -80,58 +104,34 @@ There&#39;s a lot of news happening around the world right now! In the US, there
 <p>Mr. Zaslav, the head of Warner Bros. Discovery, must find a new leader who shares his vision for the network and can figure out its financial future.  <a href="https://nyti.ms/3MPw1bw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Timeline: CNN’s 18 Months of Tumult</h3>
-<sub>By Gregory Schmidt</sub>
-<p>The cable news network has struggled to weather a series of controversies, which culminated this week in the sudden departure of its chairman, Chris Licht, after a chaotic run at the top.  <a href="https://nyti.ms/3J0dlEO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>With Migrant Flights, DeSantis Shows Stoking Outrage Is the Point</h3>
+<sub>By Shane Goldmacher</sub>
+<p>The flights to California illustrate the broader bet Gov. Ron DeSantis has made that the animating energy in the G.O.P. has shifted from conservatism to confrontationalism.  <a href="https://nyti.ms/3CjvIAO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>DeSantis Defends Migrant Flights and Takes a Swipe at California</h3>
+<sub>By Nicholas Nehamas</sub>
+<p>Gov. Ron DeSantis of Florida criticized immigration policies in his first visit to the border since beginning his presidential bid.  <a href="https://nyti.ms/3J5RhIX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Mapping the Flooding From the Dam Breach in Southern Ukraine</h3>
-<sub>By Lauren Leatherby, Lazaro Gamio, Marco Hernandez and Haley Willis</sub>
-<p>Maps show where villages were inundated by floodwaters downstream a destroyed dam in southern Ukraine.  <a href="https://nyti.ms/3qpZZeB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Pence Delivers Strong Rebuke to Trump in Campaign Announcement</h3>
-<sub>By Jonathan Swan</sub>
-<p>The former vice president — and now rival — to Donald Trump gave his most aggressive criticism of his former boss, portraying him as unfit to be president.  <a href="https://nyti.ms/42rl2e7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>5 Things to Know About Mike Pence</h3>
-<sub>By Maggie Astor</sub>
-<p>Mr. Pence is a once-loyal vice president who became a target of Trump supporters, and an evangelical Christian whose faith drives his hard-line opposition to abortion.  <a href="https://nyti.ms/3NflqYW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>Do Christie and Pence Make It 2016 Again? Not Yet.</h3>
-<sub>By Nate Cohn</sub>
-<p>A bigger field in the G.O.P. primary could chip away at DeSantis’s chances of overtaking Trump.  <a href="https://nyti.ms/43rbLEe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Grand Jury in Florida Hears Testimony in Trump Documents Case</h3>
-<sub>By Alan Feuer and Maggie Haberman</sub>
-<p>Among those appearing before the grand jury in Miami was Taylor Budowich, who served as a spokesman for former President Donald Trump.  <a href="https://nyti.ms/43viqNQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Man Charged With Spraying Police With Insecticide on Jan. 6</h3>
-<sub>By Alan Feuer</sub>
-<p>The Justice Department also charged the Long Island man with assaulting a news photographer.  <a href="https://nyti.ms/43QTC2x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Disaster Upon Disaster: Flood Deepens Misery in Ukraine War Zone</h3>
+<sub>By Andrew E. Kramer, Maria Varenikova and Mauricio Lima</sub>
+<p>“We were getting used to the shelling, but I’ve never seen a situation like this,” said one woman rescued in Kherson after a dam upstream was destroyed.  <a href="https://nyti.ms/3MXFygC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Saudi Arabia Relishes a Triumph That Transcends Sports</h3>
-<sub>By Vivian Nereim and Ahmed Al Omran</sub>
-<p>The deal to merge LIV Golf with the PGA Tour is a big win for the oil-rich kingdom, headlining a banner week that also includes a visit from the American secretary of state.  <a href="https://nyti.ms/3Jo44a3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Floodwaters Engulf Front Line in Ukraine War</h3>
+<sub>By Andrew E. Kramer, Paul Sonne and Victoria Kim</sub>
+<p>As rescue efforts plucked people from rooftops, and offered fresh water and shelter, Turkey’s president called for an international investigation into what caused a dam to fail.  <a href="https://nyti.ms/43sIEjW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>The Merger of LIV Golf and the PGA Tour: Here’s What to Know</h3>
-<sub>By Kevin Draper</sub>
-<p>The announced deal to dramatically change golf is far from complete.  <a href="https://nyti.ms/3Ch5uiv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Lionel Messi, Soccer’s Most Coveted Free Agent, Picks Miami</h3>
+<sub>By Andrew Das and Rory Smith</sub>
+<p>Days after he announced he would not return to Paris St.-Germain, Messi, Argentina’s World Cup hero, said he planned his next stop to be Inter Miami of M.L.S.  <a href="https://nyti.ms/45Utrdc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
