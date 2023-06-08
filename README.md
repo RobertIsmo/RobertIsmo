@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, June 8, Central Standard Time</p>
 <p>
-There are a lot of developments happening around the world right now. In the US, former President Trump is a target of investigation due to his handling of classified documents. There has been chaos in the House as far-right rebels continue their mutiny against House Leader McCarthy and the government had to do a large debt ceiling stand-off due to a trillion dollar borrowing binge. On top of that, smoke shrouded New York City earlier this week and there were wild fires in California and floods in Ukraine which caused havoc. Soccer star Lionel Messi just announced he was joining Miami&#39;s Inter Miami soccer team. To cap it all off, Saudi Arabia&#39;s $700 billion wealth fund just invested in golf.</p>
+It seems like a lot is going on in the world right now. In the US, former President Trump&#39;s legal team has been told by prosecutors that he is a target of an investigation. New Yorkers have had to deal with a lot of smoke shrouding the city recently too. In Ukraine, there have been multiple disasters including flooding in war zones and a dam failure, leaving people in need of rescue and international investigations. In House politics, there&#39;s political tension as the far-right House Freedom Caucus has refused to give up control of the floor, throwing it into chaos. Economically speaking, after debt-ceiling brinkmanship, the government will need to borrow around $1 trillion. The leader of 24-hour news company CNN has also stepped down and needs to be replaced. Meanwhile, Florida Governor Ron DeSantis has sparked outrage by flying migrants from Texas to California. Lastly, Lionel Messi, soccer’s most coveted free agent, just picked Miami as his next stop and a Saudi wealth fund has made headlines for a rockin’ golf opportunity.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Prosecutors Tell Trump’s Legal Team He Is a Target of Investigation</h3>
@@ -72,6 +72,18 @@ There are a lot of developments happening around the world right now. In the US,
 <h3>Orange Skies and Burning Eyes as Smoke Shrouds New York City</h3>
 <sub>By Michael Wilson</sub>
 <p>New Yorkers are accustomed to dealing with weather. This was something very different.  <a href="https://nyti.ms/3MVQw6z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Disaster Upon Disaster: Flood Deepens Misery in Ukraine War Zone</h3>
+<sub>By Andrew E. Kramer, Maria Varenikova and Mauricio Lima</sub>
+<p>“We were getting used to the shelling, but I’ve never seen a situation like this,” said one woman rescued in Kherson after a dam upstream was destroyed.  <a href="https://nyti.ms/3MXFygC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Floodwaters Engulf Front Line in Ukraine War</h3>
+<sub>By Andrew E. Kramer, Paul Sonne and Victoria Kim</sub>
+<p>As rescue efforts plucked people from rooftops, and offered fresh water and shelter, Turkey’s president called for an international investigation into what caused a dam to fail.  <a href="https://nyti.ms/43sIEjW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -96,18 +108,6 @@ There are a lot of developments happening around the world right now. In the US,
 <h3>David Zaslav Picked Chris Licht to Revamp CNN. Now What?</h3>
 <sub>By Benjamin Mullin</sub>
 <p>Mr. Zaslav, the head of Warner Bros. Discovery, must find a new leader who shares his vision for the network and can figure out its financial future.  <a href="https://nyti.ms/3MPw1bw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Disaster Upon Disaster: Flood Deepens Misery in Ukraine War Zone</h3>
-<sub>By Andrew E. Kramer, Maria Varenikova and Mauricio Lima</sub>
-<p>“We were getting used to the shelling, but I’ve never seen a situation like this,” said one woman rescued in Kherson after a dam upstream was destroyed.  <a href="https://nyti.ms/3MXFygC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Floodwaters Engulf Front Line in Ukraine War</h3>
-<sub>By Andrew E. Kramer, Paul Sonne and Victoria Kim</sub>
-<p>As rescue efforts plucked people from rooftops, and offered fresh water and shelter, Turkey’s president called for an international investigation into what caused a dam to fail.  <a href="https://nyti.ms/43sIEjW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
