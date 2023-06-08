@@ -60,44 +60,42 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, June 8, Central Standard Time</p>
 <p>
-There has been a lot of news lately related to politics, climate change, and business. The Supreme Court recently rejected a voting map that would have diluted the power of Black voters, which caused concern that the Voting Rights Act would be undermined. In other news, record levels of pollution and heat have been heralded by a season of climate extremes, while prosecutors told President Trump&#39;s legal team that he is the target of an investigation. Additionally, Ukrainian President Zelensky visited the flood zone in the wake of calling for a rapid global response, while cross-border skirmishes in Ukraine have increased anxiety for local villagers. 
-
-In U.S. news, Pat Robertson, who gave Christian conservatives clout, passed away at 93 and House Republicans have found themselves in chaos due to far-right rebels mutinying against their leader. The FBI director has agreed to more widely distribute a document on a claim against President Biden after the Oversight Committee threatened to begin contempt proceedings against him, and the government will need to take on massive amounts of borrowing due to debt limit standoffs and pandemic spending. Finally, there&#39;s an issue with feral cats in New York streets as pet abandonment has become an issue after the pandemic pet boom resulted in a population surge; this has raised controversy about how to control their numbers. CNN&#39;s current turmoil has also raised questions on whether there is room for independent cable news outlets today.</p>
+At the Supreme Court in the US, recent decisions have involved a voting map in Alabama that threatened to dilute black voters&#39; power, a trademark dispute involving a dog toy resembling a liquor bottle, and an aggravated identity theft law. On the world stage, Ukrainian President Volodymyr Zelensky visited the area affected by floods and Russian shelling, while in China mosque domes and minarets were removed resulting in rare resistance. Meanwhile, former US President Donald Trump is using his familiar playbook to try to undermine documents related to his handling of classified material after leaving office. Additionally, there has been speculation around who will be running for president in 2024 with Talk Show host Pat Robertson who gave Christian conservatives clout recently passing away. Finally, on a more personal note, a couple of newlyweds are seeking an upper west side home that all their children want to visit.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Supreme Court Rejects Voting Map That Diluted Black Voters’ Power</h3>
 <sub>By Adam Liptak</sub>
-<p>Voting rights advocates had feared the decision would undermine the Voting Rights Act, which instead appeared to emerge unscathed.  <a href="https://nyti.ms/3CnFhP6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>Just How Bad Was the Pollution in New York?</h3>
-<sub>By Aatish Bhatia, Josh Katz and Margot Sanger-Katz</sub>
-<p>The level of pollution Wednesday was higher than the worst day in San Francisco after major wildfires in 2018.  <a href="https://nyti.ms/43rFqgz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Record Pollution and Heat Herald a Season of Climate Extremes</h3>
-<sub>By Somini Sengupta</sub>
-<p>Scientists have long warned that global warming will increase the chance of severe wildfires like those burning across Canada and heat waves like the one smothering Puerto Rico.  <a href="https://nyti.ms/3XbiHDj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Voting rights advocates had feared that the decision about redistricting in Alabama would undermine the Voting Rights Act, which instead appeared to emerge unscathed.  <a href="https://nyti.ms/3CnFhP6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Prosecutors Tell Trump’s Legal Team He Is a Target of Investigation</h3>
-<sub>By Alan Feuer, Maggie Haberman, William K. Rashbaum and Glenn Thrush</sub>
-<p>The notice from the office of the special counsel Jack Smith suggested that an indictment was on the horizon in the investigation into the former president’s handling of classified documents.  <a href="https://nyti.ms/43viqNQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>The Major Supreme Court Decisions in 2023</h3>
+<sub>By Adam Liptak and Eli Murray</sub>
+<p>How the court’s 6-to-3 conservative majority is ruling this term after its lurch to the right a year ago in blockbuster decisions on abortion, guns, religion and climate change.  <a href="https://nyti.ms/43xL9Bt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Zelensky visits the flood zone after calling for a ‘clear and quick global response.’</h3>
-<sub>By Marc Santora, Matthew Mpoke Bigg and Ben Shpigel</sub>
-<p>  <a href="https://nyti.ms/3J3Y0mR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Supreme Court Rules Against Dog Toy Resembling Liquor Bottle</h3>
+<sub>By Adam Liptak</sub>
+<p>The case, a trademark dispute, pitted Jack Daniel’s against Bad Spaniels Silly Squeakers, which looks like the distiller’s distinctive bottle and adds potty humor.  <a href="https://nyti.ms/3MVR8cc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Supreme Court Narrows the Reach of an Aggravated Identity Theft Law</h3>
+<sub>By Charlie Savage</sub>
+<p>The justices rejected the government’s interpretation of a 2004 law that adds two years in prison for certain felonies if they involved misusing another person’s identification.  <a href="https://nyti.ms/3J4DO43"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Cross-Border Skirmishes Heighten Anxiety for Ukrainian Villagers</h3>
-<sub>By Carlotta Gall and Oleksandr Chubko</sub>
-<p>Even as new attacks have brought the war into Russia, the Russians have responded with force, raising the threat for the few civilians left in towns along the border.  <a href="https://nyti.ms/3J2akUA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Zelensky Visits Ukraine’s Flood Zone, Where Residents See ‘Horror’ Float By</h3>
+<sub>By Marc Santora and Maria Varenikova</sub>
+<p>President Volodymyr Zelensky traveled to the city of Kherson, trying to rally rescue crews. Russian forces shelled the city not long after his visit.  <a href="https://nyti.ms/43y0fXQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Turns to a Familiar Playbook in Effort to Undermine Documents Inquiry</h3>
+<sub>By Alan Feuer and Maggie Haberman</sub>
+<p>The former president is stepping up efforts to delegitimize the investigation into his handling of classified material after leaving office, a tactic he has used throughout his career in business and politics.  <a href="https://nyti.ms/3oQOFYF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -106,34 +104,34 @@ In U.S. news, Pat Robertson, who gave Christian conservatives clout, passed away
 <p>A Baptist minister and a broadcaster, he turned evangelicals into a powerful constituency that helped Republicans capture Congress in 1994. He had earlier run for president.  <a href="https://nyti.ms/42pl869"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>How to Clear 500,000 Feral Cats From New York’s Streets</h3>
-<sub>By Richard Schiffman and Erin Schaff</sub>
-<p>After the pandemic boom in pet adoption gave way to pet abandonment, locals in Brooklyn are trying a controversial approach to population control.  <a href="https://nyti.ms/43Irkae"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>The Man Who Turned the World on to the Genius of Fungi</h3>
+<sub>By Jennifer Kahn</sub>
+<p>A vast fungal web braids together life on Earth. Merlin Sheldrake wants to help us see it.  <a href="https://nyti.ms/42w7fDh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>House Is Paralyzed as Far-Right Rebels Continue Mutiny Against McCarthy</h3>
-<sub>By Annie Karni</sub>
-<p>Members of the ultraconservative House Freedom Caucus refused to surrender control of the floor, forcing G.O.P. leaders to scrap votes for the week and leaving the speaker facing what he conceded was “chaos.”  <a href="https://nyti.ms/3J1nvVN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
+<h3>The Presidential Candidate Who Has His Own Supporters Scratching Their Heads</h3>
+<sub>By Jonathan Weisman</sub>
+<p>Gov. Doug Burgum’s quixotic presidential campaign has baffled even North Dakotans, but then again, many of the 2024 hopefuls have prompted the same wonder.  <a href="https://nyti.ms/3qyZYVX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Comer Cancels Wray Contempt Vote as F.B.I. Agrees to Share Document</h3>
-<sub>By Luke Broadwater</sub>
-<p>The Oversight Committee chairman canceled a vote to begin contempt proceedings against the F.B.I. leader after he agreed to more widely distribute a document on a claim against President Biden.  <a href="https://nyti.ms/43IamZA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
+<h3>Where Republican Presidential Candidates Stand on Climate Change</h3>
+<sub>By Maggie Astor and Lisa Friedman</sub>
+<p>While many of them acknowledge that climate change is real, they largely downplay the issue and reject policies that would slow rising temperatures.  <a href="https://nyti.ms/3MXBywH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>A $1 Trillion Borrowing Binge Looms After Debt Limit Standoff</h3>
-<sub>By Alan Rappeport and Joe Rennison</sub>
-<p>The government has avoided default, but the effects of the debt-ceiling brinkmanship may still ripple across the economy.  <a href="https://nyti.ms/3MYJRsl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Behind a Rare Clash, a Fight Over Faith in China</h3>
+<sub>By Vivian Wang</sub>
+<p>China is destroying Arab-style architectural features of mosques, such as domes and minarets. The tightened control on religion has been met with rare resistance.  <a href="https://nyti.ms/42tvbqE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Does CNN’s Turmoil Mean There’s No Room on Cable for Independent News?</h3>
-<sub>By Jim Rutenberg</sub>
-<p>Chris Licht’s tenure illuminated how increasingly hard it can be to find success on the divided cable news dial.  <a href="https://nyti.ms/3WXA369"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-realestate-blue" alt="">
+<h3>Seeking an Upper West Side Home That the Children Want to Visit</h3>
+<sub>By Joyce Cohen</sub>
+<p>A couple of newlyweds, with six grown children between them, wanted to combine their lives in a new Manhattan apartment big enough for family dinners. Here’s what they found.  <a href="https://nyti.ms/3J1yPRM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
 <hr/>
 </ol>
