@@ -60,24 +60,50 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, June 8, Central Standard Time</p>
 <p>
-It looks like things are pretty chaotic in the world right now. Prosecutors have told Donald Trump&#39;s legal team that he is a target in an investigation, and there have been cross-border skirmishes between Ukraine and Russia leading to anxiety for villagers on both sides. Here in the US, Republicans are facing some in-fighting with the House being paralyzed by rebel members of the Freedom Caucus while members of Congress have gone back and forth on the FBI Director and contempt charges. On top of all that, we’re looking at a trillion dollar borrowing binge as the government approaches the debt limit, and some people fear there may be no room on cable news for independent journalism anymore. Finally, politicians are facing some tough questions too. There’s a longshot presidential hopeful in North Dakota and Florida&#39;s Governor Ron DeSantis making headlines with migrant flights to California, raising questions about the future of conservatism.</p>
+There has been a lot of news lately related to politics, climate change, and business. The Supreme Court recently rejected a voting map that would have diluted the power of Black voters, which caused concern that the Voting Rights Act would be undermined. In other news, record levels of pollution and heat have been heralded by a season of climate extremes, while prosecutors told President Trump&#39;s legal team that he is the target of an investigation. Additionally, Ukrainian President Zelensky visited the flood zone in the wake of calling for a rapid global response, while cross-border skirmishes in Ukraine have increased anxiety for local villagers. 
+
+In U.S. news, Pat Robertson, who gave Christian conservatives clout, passed away at 93 and House Republicans have found themselves in chaos due to far-right rebels mutinying against their leader. The FBI director has agreed to more widely distribute a document on a claim against President Biden after the Oversight Committee threatened to begin contempt proceedings against him, and the government will need to take on massive amounts of borrowing due to debt limit standoffs and pandemic spending. Finally, there&#39;s an issue with feral cats in New York streets as pet abandonment has become an issue after the pandemic pet boom resulted in a population surge; this has raised controversy about how to control their numbers. CNN&#39;s current turmoil has also raised questions on whether there is room for independent cable news outlets today.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Supreme Court Rejects Voting Map That Diluted Black Voters’ Power</h3>
+<sub>By Adam Liptak</sub>
+<p>Voting rights advocates had feared the decision would undermine the Voting Rights Act, which instead appeared to emerge unscathed.  <a href="https://nyti.ms/3CnFhP6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>Just How Bad Was the Pollution in New York?</h3>
+<sub>By Aatish Bhatia, Josh Katz and Margot Sanger-Katz</sub>
+<p>The level of pollution Wednesday was higher than the worst day in San Francisco after major wildfires in 2018.  <a href="https://nyti.ms/43rFqgz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Record Pollution and Heat Herald a Season of Climate Extremes</h3>
+<sub>By Somini Sengupta</sub>
+<p>Scientists have long warned that global warming will increase the chance of severe wildfires like those burning across Canada and heat waves like the one smothering Puerto Rico.  <a href="https://nyti.ms/3XbiHDj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Prosecutors Tell Trump’s Legal Team He Is a Target of Investigation</h3>
 <sub>By Alan Feuer, Maggie Haberman, William K. Rashbaum and Glenn Thrush</sub>
 <p>The notice from the office of the special counsel Jack Smith suggested that an indictment was on the horizon in the investigation into the former president’s handling of classified documents.  <a href="https://nyti.ms/43viqNQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Pat Robertson, Who Brought Christian Conservatives Clout, Dies at 93</h3>
-<sub>By Douglas Martin</sub>
-<p>A Baptist minister and a broadcaster, he turned Christian conservatives into a powerful constituency that helped Republicans capture Congress in 1994.  <a href="https://nyti.ms/42pl869"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Zelensky visits the flood zone after calling for a ‘clear and quick global response.’</h3>
+<sub>By Marc Santora, Matthew Mpoke Bigg and Ben Shpigel</sub>
+<p>  <a href="https://nyti.ms/3J3Y0mR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Cross-Border Skirmishes Heighten Anxiety for Ukrainian Villagers</h3>
 <sub>By Carlotta Gall and Oleksandr Chubko</sub>
 <p>Even as new attacks have brought the war into Russia, the Russians have responded with force, raising the threat for the few civilians left in towns along the border.  <a href="https://nyti.ms/3J2akUA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Pat Robertson, Who Gave Christian Conservatives Clout, Is Dead at 93</h3>
+<sub>By Douglas Martin</sub>
+<p>A Baptist minister and a broadcaster, he turned evangelicals into a powerful constituency that helped Republicans capture Congress in 1994. He had earlier run for president.  <a href="https://nyti.ms/42pl869"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -108,30 +134,6 @@ It looks like things are pretty chaotic in the world right now. Prosecutors have
 <h3>Does CNN’s Turmoil Mean There’s No Room on Cable for Independent News?</h3>
 <sub>By Jim Rutenberg</sub>
 <p>Chris Licht’s tenure illuminated how increasingly hard it can be to find success on the divided cable news dial.  <a href="https://nyti.ms/3WXA369"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Who Are the 4 People Running CNN Now?</h3>
-<sub>By Katie Robertson</sub>
-<p>The network will be managed on an interim basis by a group of executives.  <a href="https://nyti.ms/42sXZQi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘A Long Shot, for Sure’: Sizing Up Burgum, and Most of the G.O.P. Field</h3>
-<sub>By Jonathan Weisman</sub>
-<p>In North Dakota, Gov. Doug Burgum’s quixotic presidential campaign has people scratching their heads, but then again, many of the 2024 hopefuls have prompted the same wonder.  <a href="https://nyti.ms/3qyZYVX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>With Migrant Flights, DeSantis Shows Stoking Outrage Is the Point</h3>
-<sub>By Shane Goldmacher</sub>
-<p>The flights to California illustrate the broader bet Gov. Ron DeSantis has made that the animating energy in the G.O.P. has shifted from conservatism to confrontationalism.  <a href="https://nyti.ms/3CjvIAO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>5 Takeaways From Mike Pence’s CNN Town Hall</h3>
-<sub>By Katie Glueck</sub>
-<p>Donald Trump’s former vice president sought to draw a contrast with his old boss while also embracing the actions of their administration.  <a href="https://nyti.ms/43qfVw0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
 <hr/>
 </ol>
