@@ -60,25 +60,31 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, June 9, Central Standard Time</p>
 <p>
-There&#39;s been a lot going on in the world lately. In the US, former President Trump was just indicted for his involvement with sensitive information. The Supreme Court also recently ruled on a voting rights law which could mean changes to voting in many states. In Canada, they’re dealing with large and rare wildfires that have polluted the air. And in Belgium, they’re renovating their Palace of Justice in time for its 200th birthday. On the lighter side, NASA just found out their quarantine efforts after Apollo 11&#39;s Moon mission were mostly for show because they weren&#39;t actually protecting Earth from contamination by any organism brought back from the lunar surface.</p>
+Recently, there have been a number of stories going on around the world. In Ukraine, Russia has begun an invasion against the country and maps are being released to track these attacks. In Canada, there are hundreds of wildfires burning and experts are questioning how this could happen in an area without much experience with them. In the US, a former president has been indicted on charges of improperly keeping documents related to nuclear programs and possible retaliation to foreign attack. Meanwhile there is a case involving an investor connected to Texas Attorney General Ken Paxton&#39;s impeachment that is now facing criminal charges for lying to lenders. Additionally, the Apollo 11 mission&#39;s quarantining procedures after their journey to the moon have been revealed to be mostly for show in light of new archives. Apple has unveiled updates to their autocorrect feature on iPhones and finally, there is an opinion piece detailing how Trump may be convicted in court.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Indictment Brings Trump Story Full Circle</h3>
-<sub>By Peter Baker</sub>
-<p>The former president assailed Hillary Clinton for her handling of sensitive information. Now, the same issue threatens his chances of reclaiming the presidency.  <a href="https://nyti.ms/3J6wAwt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
+<h3>Read the complete indictment here.</h3>
+<sub></sub>
+<p>  <a href="https://nyti.ms/3NnnL3O"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Here’s what’s we learned from the indictment.</h3>
+<sub>By Maggie Haberman, Glenn Thrush and Alan Feuer</sub>
+<p>The indictment said the former president had illegally kept documents concerning “United States nuclear programs; potential vulnerabilities of the United States and its allies to military attack; and plans for possible retaliation in response to a foreign attack.”  <a href="https://nyti.ms/3qzvoLI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Inside Trump’s Club When the Call Came: You’re Indicted</h3>
-<sub>By Maggie Haberman and Jonathan Swan</sub>
-<p>It was a more familiar drill this time for the former president, his aides and allies, who cranked their political spin machine and fund-raising operation into action.  <a href="https://nyti.ms/43U7ZTL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
+<h3>Trump-Appointed Judge Is Said to Be Handling Documents Case</h3>
+<sub>By Alan Feuer, William K. Rashbaum, Maggie Haberman, Glenn Thrush and Charlie Savage</sub>
+<p>It was not clear whether the judge, Aileen M. Cannon, would remain assigned for the entirety of the case. A higher court criticized some of her rulings in the investigation.  <a href="https://nyti.ms/42wxyZV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Here are some of the charges Trump faces.</h3>
-<sub>By Charlie Savage</sub>
-<p>Taking a look at what the prosecutors may have to prove to a jury.  <a href="https://nyti.ms/43RK6fk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Maps: Tracking the Russian Invasion of Ukraine</h3>
+<sub></sub>
+<p>Here’s where Ukraine has mounted multiple attacks this week in the apparent beginning of its long-planned counteroffensive.  <a href="https://nyti.ms/3HPQBVB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>‘How Could This Happen?’: Canadian Fires Burning Where They Rarely Have Before</h3>
@@ -86,10 +92,16 @@ There&#39;s been a lot going on in the world lately. In the US, former President
 <p>Of the more than 400 fires burning in Canada, more than one-third are in Quebec, which has little experience with so many and such large wildfires.  <a href="https://nyti.ms/42t9XsZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Dam’s Destruction Reshapes Ukraine, but Not Arc of the War</h3>
-<sub>By Andrew E. Kramer</sub>
-<p>The main thrust of the Ukrainian counteroffensive is expected in the Zaporizhzhia and Donetsk regions, not along the Dnipro River, where the fighting quickly resumed after the disaster.  <a href="https://nyti.ms/43n0wwx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Their Crypto Company Collapsed. They Went to Bali.</h3>
+<sub>By David Yaffe-Bellany</sub>
+<p>The implosion of Three Arrows Capital, a cryptocurrency hedge fund, devastated the industry. Its two founders spent the next year surfing, meditating and traveling the world.  <a href="https://nyti.ms/3N0c6qp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>George Santos Says His Family Helped Bail Him Out. (Just Don’t Ask Who.)</h3>
+<sub>By Grace Ashford and Michael Gold</sub>
+<p>Mr. Santos, a New York representative, said his relatives had helped guarantee his bail, but asked a judge to keep their names sealed out of privacy concerns.  <a href="https://nyti.ms/43Lxib3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -99,28 +111,10 @@ There&#39;s been a lot going on in the world lately. In the US, former President
 <sub><sub>Friday, June 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Supreme Court Gives the Voting Rights Act a Tenuous New Lease on Life</h3>
-<sub>By Michael Wines</sub>
-<p>The main remaining power of the landmark 1965 law, over racial bias in political mapmaking, gets an unexpected buttressing from a court that had been weakening the law for years.  <a href="https://nyti.ms/3oU90w9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Supreme Court Ruling on Voting Rights Could Resound Across the South</h3>
-<sub>By Nick Corasaniti and Rick Rojas</sub>
-<p>A decision that said Alabama’s congressional voting maps were detrimental to Black voters was celebrated by advocates — and could mean changes to voting in other states.  <a href="https://nyti.ms/3qD9hnS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Puzzle in Arizona’s Boom Towns: How to Keep Growing With Less Water</h3>
-<sub>By Jack Healy</sub>
-<p>The state announced new limits to construction because of water shortages, changing the course of development.  <a href="https://nyti.ms/3P1ZfGQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Investor Linked to Paxton’s Impeachment Is Charged With Lying to Lenders</h3>
+<sub>By Edgar Sandoval and David Montgomery</sub>
+<p>Nate Paul, the real estate investor at the center of the impeachment case against the attorney general of Texas, Ken Paxton, has been jailed at the request of the F.B.I.  <a href="https://nyti.ms/3P3oEzO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>James G. Watt, Interior Secretary Under Reagan, Dies at 85</h3>
-<sub>By Robert D. McFadden</sub>
-<p>Mr. Watt once declared that Interior Department policies over years had swung too far toward conservation under the influence of “environmental extremists.”  <a href="https://nyti.ms/3MXCAJc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
 <h3>Cosmic Luck: NASA’s Apollo 11 Moon Quarantine Broke Down</h3>
@@ -128,10 +122,16 @@ There&#39;s been a lot going on in the world lately. In the US, former President
 <p>A review of archives suggests that efforts to protect Earth from contamination by any organism brought back from the lunar surface were mostly for show.  <a href="https://nyti.ms/43N1gLd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Can He Fix ‘Palace of Scaffolding’ in Time for Belgium’s 200th Birthday?</h3>
-<sub>By Sarah Hurtes</sub>
-<p>For an architect trying to renovate his beloved but crumbling Palace of Justice in Brussels, once the largest building in the world, the design challenges pale compared with the political ones.  <a href="https://nyti.ms/448OGGv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>Apple Knows You Didn’t Mean to Type ‘Ducking’</h3>
+<sub>By Callie Holtermann</sub>
+<p>Newly announced modifications to the autocorrect feature used on iPhones will better understand a word’s context in a text message, saving users some blushes.  <a href="https://nyti.ms/42yEtS9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>How to Convict Trump</h3>
+<sub>By Norman Eisen, Andrew Weissmann and Joyce Vance</sub>
+<p>The special counsel has four hurdles to overcome.  <a href="https://nyti.ms/3OYtnTy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 9, Central Standard Time</sub></sub>
 <hr/>
 </ol>
