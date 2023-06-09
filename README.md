@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, June 9, Central Standard Time</p>
 <p>
-There is a lot of news happening in the US right now. Former President Donald Trump has been indicted and is facing charges related to his handling of classified information. There is also a Supreme Court ruling that has given the Voting Rights Act a new lease on life, protecting Black voters from bias in political mapmaking. In other news, the House of Representatives is facing a mutiny from the far-right, while Interior Secretary James G. Watt passed away this week, who was famous for challenging conservation policies under Reagan&#39;s rule. Lastly, the archive of comedian Joan Rivers has surfaced and will be housed at the National Comedy Center.</p>
+A lot has been happening in the US recently. The Justice Department has charged Donald Trump with documents case, and now he faces federal charges - the first time a former president ever has. It all started because of his criticism of Hillary Clinton&#39;s handling of sensitive information - and now it threatens his chances of getting his job back. There&#39;s also been some controversy around materials stored by him at Mar-a-Lago, which were accessible to guests. And in terms of Supreme Court rulings, there&#39;ve been some big decisions made on abortion, guns, religion and climate change - and others that could affect voting rights laws in other states. Meanwhile, Ukraine appears to have mounted a counterattack against Russian occupiers. On the business front, energy drinks are gaining popularity - but they come with a high amount of caffeine. And there was also upheaval within the House about extreme right-wingers and their effect on legislation, leaving the speaker in a tough position. Finally, Pat Robertson, celebrity minister and one of the founding members of the religious right&#39;s political power model, passed away this week.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Justice Department Charges Trump in Documents Case</h3>
+<sub>By Alan Feuer, Maggie Haberman, William K. Rashbaum and Ben Protess</sub>
+<p>The indictment, handed up by a grand jury in Miami, is the first time a former U.S. president has faced federal charges.  <a href="https://nyti.ms/448Jen1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 9, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Indictment Brings Trump Story Full Circle</h3>
 <sub>By Peter Baker</sub>
@@ -104,6 +110,12 @@ There is a lot of news happening in the US right now. Former President Donald Tr
 <p>The assaults, with Western tanks and armored vehicles, appear to mark a long-awaited counteroffensive that Ukraine hopes will retake territory and shore up allies’ resolve to keep supplying weapons.  <a href="https://nyti.ms/42ycthw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Energy Drinks Are Surging. So Are Their Caffeine Levels.</h3>
+<sub>By Julie Creswell</sub>
+<p>More companies are pushing low-calorie, sugar-free beverages they say are healthy. Some servings have nearly the same level of caffeine as a six-pack of Coca-Cola.  <a href="https://nyti.ms/43SfDxF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 9, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>House Mutiny Leaves McCarthy Facing Tough Choices</h3>
 <sub>By Carl Hulse</sub>
@@ -120,18 +132,6 @@ There is a lot of news happening in the US right now. Former President Donald Tr
 <h3>How Pat Robertson Created the Religious Right’s Model for Political Power</h3>
 <sub>By Elizabeth Dias</sub>
 <p>The celebrity minister, who died Thursday, built a media empire and openly sought to leverage his popularity among evangelicals to influence government and the culture.  <a href="https://nyti.ms/43TPY89"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>The ChatGPT Lawyer Explains Himself</h3>
-<sub>By Benjamin Weiser and Nate Schweber</sub>
-<p>In a cringe-inducing court hearing, a lawyer who relied on A.I. to craft a motion full of made-up case law said he “did not comprehend” that the chat bot could lead him astray.  <a href="https://nyti.ms/42sOdxA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>A ‘Crown Jewel of Comedy’: The Joan Rivers Card Catalog of Jokes Finds a Home</h3>
-<sub>By Jason Zinoman</sub>
-<p>Take a look at some of the artifacts from her archive, which includes 65,000 cross-referenced gags and is headed to the National Comedy Center.  <a href="https://nyti.ms/43N4JJF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
 <hr/>
 </ol>
