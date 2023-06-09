@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, June 9, Central Standard Time</p>
 <p>
-A lot has been happening in the US recently. The Justice Department has charged Donald Trump with documents case, and now he faces federal charges - the first time a former president ever has. It all started because of his criticism of Hillary Clinton&#39;s handling of sensitive information - and now it threatens his chances of getting his job back. There&#39;s also been some controversy around materials stored by him at Mar-a-Lago, which were accessible to guests. And in terms of Supreme Court rulings, there&#39;ve been some big decisions made on abortion, guns, religion and climate change - and others that could affect voting rights laws in other states. Meanwhile, Ukraine appears to have mounted a counterattack against Russian occupiers. On the business front, energy drinks are gaining popularity - but they come with a high amount of caffeine. And there was also upheaval within the House about extreme right-wingers and their effect on legislation, leaving the speaker in a tough position. Finally, Pat Robertson, celebrity minister and one of the founding members of the religious right&#39;s political power model, passed away this week.</p>
+There have been a lot of major events happening in the world recently. In the US, former President Donald Trump has been charged with documents fraud by the Justice Department, making him the first US president to ever face federal charges. On top of that, a Supreme Court ruling could have huge ramifications for voting rights across the South. And closer to home, energy drinks are surging here in the US but with them come more caffeine than a six-pack of Coca-Cola! Meanwhile in Europe, a fascinating project in Brussels is trying to restore what used to be the largest building in the world by Belgium’s 200th birthday this year. Lastly, NASA’s Apollo 11 Moon Quarantine was revealed to have been mostly for show.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Justice Department Charges Trump in Documents Case</h3>
@@ -69,46 +69,28 @@ A lot has been happening in the US recently. The Justice Department has charged 
 <sub><sub>Friday, June 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Indictment Brings Trump Story Full Circle</h3>
-<sub>By Peter Baker</sub>
-<p>The former president assailed Hillary Clinton for her handling of sensitive information. Now, the same issue threatens his chances of reclaiming the presidency.  <a href="https://nyti.ms/3J6wAwt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Inside Mar-a-Lago, Where Thousands Partied Near Secret Files</h3>
-<sub>By Anjali Singhvi, Mika Gröndahl, Maggie Haberman, Weiyi Cai and Blacki Migliozzi</sub>
-<p>A Times investigation shows how Donald J. Trump stored classified documents in high-traffic areas at Mar-a-Lago, where guests may have been within feet of the materials.  <a href="https://nyti.ms/3BBciHB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Inside Trump’s Club When the Call Came: You’re Indicted</h3>
 <sub>By Maggie Haberman and Jonathan Swan</sub>
 <p>It was a more familiar drill this time for the former president, his aides and allies, who cranked their political spin machine and fund-raising operation into action.  <a href="https://nyti.ms/43U7ZTL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Supreme Court Gives the Voting Rights Act a Tenuous New Lease on Life</h3>
-<sub>By Michael Wines</sub>
-<p>The main remaining power of the landmark 1965 law, over racial bias in political mapmaking, gets an unexpected buttressing from a court that had been weakening the law for years.  <a href="https://nyti.ms/3oU90w9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Indictment Brings Trump Story Full Circle</h3>
+<sub>By Peter Baker</sub>
+<p>The former president assailed Hillary Clinton for her handling of sensitive information. Now, the same issue threatens his chances of reclaiming the presidency.  <a href="https://nyti.ms/3J6wAwt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Major Supreme Court Decisions in 2023</h3>
-<sub>By Adam Liptak and Eli Murray</sub>
-<p>How the court’s 6-to-3 conservative majority is ruling this term after its lurch to the right a year ago in blockbuster decisions on abortion, guns, religion and climate change.  <a href="https://nyti.ms/43xL9Bt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Supreme Court Ruling on Voting Rights Could Resound Across the South</h3>
-<sub>By Nick Corasaniti and Rick Rojas</sub>
-<p>A decision that said Alabama’s congressional voting maps were detrimental to Black voters was celebrated by advocates — and could mean changes to voting in other states.  <a href="https://nyti.ms/3qD9hnS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Did N.Y. Leaders Leave Residents Unprepared for the Air Quality Crisis?</h3>
+<sub>By Emma G. Fitzsimmons and Luis Ferré-Sadurní</sub>
+<p>Some experts and elected officials say that New York’s leaders should have moved more quickly to respond to the crisis.  <a href="https://nyti.ms/3qp9Jpp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Mounts Multiple Attacks on Russian Occupiers</h3>
-<sub>By Eric Schmitt and Andrew E. Kramer</sub>
-<p>The assaults, with Western tanks and armored vehicles, appear to mark a long-awaited counteroffensive that Ukraine hopes will retake territory and shore up allies’ resolve to keep supplying weapons.  <a href="https://nyti.ms/42ycthw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
+<h3>Dam’s Destruction Reshapes Ukraine, but Not Arc of the War</h3>
+<sub>By Andrew E. Kramer</sub>
+<p>The main thrust of the Ukrainian counteroffensive is expected in the Zaporizhzhia and Donetsk regions, not along the Dnipro River, where the fighting quickly resumed after the disaster.  <a href="https://nyti.ms/43n0wwx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Energy Drinks Are Surging. So Are Their Caffeine Levels.</h3>
@@ -117,10 +99,22 @@ A lot has been happening in the US recently. The Justice Department has charged 
 <sub><sub>Friday, June 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>House Mutiny Leaves McCarthy Facing Tough Choices</h3>
-<sub>By Carl Hulse</sub>
-<p>Lawmakers in both parties fear that the rebellion by the extreme right could endanger spending bills and other big legislative initiatives if it persists, shaping the speakership in the most difficult of ways.  <a href="https://nyti.ms/3CjGd7f"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Supreme Court Gives the Voting Rights Act a Tenuous New Lease on Life</h3>
+<sub>By Michael Wines</sub>
+<p>The main remaining power of the landmark 1965 law, over racial bias in political mapmaking, gets an unexpected buttressing from a court that had been weakening the law for years.  <a href="https://nyti.ms/3oU90w9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Supreme Court Ruling on Voting Rights Could Resound Across the South</h3>
+<sub>By Nick Corasaniti and Rick Rojas</sub>
+<p>A decision that said Alabama’s congressional voting maps were detrimental to Black voters was celebrated by advocates — and could mean changes to voting in other states.  <a href="https://nyti.ms/3qD9hnS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Puzzle in Arizona’s Boom Towns: How to Keep Growing With Less Water</h3>
+<sub>By Jack Healy</sub>
+<p>The state announced new limits to construction because of water shortages, changing the course of development.  <a href="https://nyti.ms/3P1ZfGQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>James G. Watt, Interior Secretary Under Reagan, Dies at 85</h3>
@@ -128,11 +122,17 @@ A lot has been happening in the US recently. The Justice Department has charged 
 <p>Mr. Watt once declared that Interior Department policies over years had swung too far toward conservation under the influence of “environmental extremists.”  <a href="https://nyti.ms/3MXCAJc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Pat Robertson Created the Religious Right’s Model for Political Power</h3>
-<sub>By Elizabeth Dias</sub>
-<p>The celebrity minister, who died Thursday, built a media empire and openly sought to leverage his popularity among evangelicals to influence government and the culture.  <a href="https://nyti.ms/43TPY89"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>Cosmic Luck: NASA’s Apollo 11 Moon Quarantine Broke Down</h3>
+<sub>By Sarah Scoles</sub>
+<p>A review of archives suggests that efforts to protect Earth from contamination by any organism brought back from the lunar surface were mostly for show.  <a href="https://nyti.ms/43N1gLd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Can He Fix ‘Palace of Scaffolding’ in Time for Belgium’s 200th Birthday?</h3>
+<sub>By Sarah Hurtes</sub>
+<p>For an architect trying to renovate his beloved but crumbling Palace of Justice in Brussels, once the largest building in the world, the design challenges pale compared with the political ones.  <a href="https://nyti.ms/448OGGv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 9, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
