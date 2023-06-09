@@ -60,24 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, June 9, Central Standard Time</p>
 <p>
-Recently, there have been a number of stories going on around the world. In Ukraine, Russia has begun an invasion against the country and maps are being released to track these attacks. In Canada, there are hundreds of wildfires burning and experts are questioning how this could happen in an area without much experience with them. In the US, a former president has been indicted on charges of improperly keeping documents related to nuclear programs and possible retaliation to foreign attack. Meanwhile there is a case involving an investor connected to Texas Attorney General Ken Paxton&#39;s impeachment that is now facing criminal charges for lying to lenders. Additionally, the Apollo 11 mission&#39;s quarantining procedures after their journey to the moon have been revealed to be mostly for show in light of new archives. Apple has unveiled updates to their autocorrect feature on iPhones and finally, there is an opinion piece detailing how Trump may be convicted in court.</p>
+Currently, a lot is happening in the world. In the US, Donald J. Trump was recently indicted for illegally keeping classified government documents after leaving office. In Ukraine, there is a Russian invasion that has prompted multiple attacks from Ukraine. In Canada, there have been devastating wildfires and toxic smoke due to climate change that could become the new normal. Boris Johnson resigned as Prime Minister of the UK this week. Two founders of a cryptocurrency hedge fund have been traveling around the world since the implosion of their company. George Santos, a politician in New York, has been bailed out by his family members whose identities he asked to keep secret. An investor linked to an impeachment case against the attorney general in Texas has been charged with lying to lenders and jailed by the FBI. It was recently revealed NASA&#39;s Apollo 11 moon quarantine had some holes in it and Apple is rolling out changes to autocorrect on iPhones so they can better detect word contexts in text messages. Finally, an opinion article explores what it will take to convict Trump of breaching any laws he may have committed while in office.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Read the complete indictment here.</h3>
+<h3>The Trump Classified Documents Indictment, Annotated</h3>
 <sub></sub>
-<p>  <a href="https://nyti.ms/3NnnL3O"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The indictment unveiled on Friday centers on Donald J. Trump’s handling of sensitive government documents after he left office.  <a href="https://nyti.ms/3oYZpEc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Here’s what’s we learned from the indictment.</h3>
+<h3>Here’s what we learned from the indictment.</h3>
 <sub>By Maggie Haberman, Glenn Thrush and Alan Feuer</sub>
 <p>The indictment said the former president had illegally kept documents concerning “United States nuclear programs; potential vulnerabilities of the United States and its allies to military attack; and plans for possible retaliation in response to a foreign attack.”  <a href="https://nyti.ms/3qzvoLI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump-Appointed Judge Is Said to Be Handling Documents Case</h3>
-<sub>By Alan Feuer, William K. Rashbaum, Maggie Haberman, Glenn Thrush and Charlie Savage</sub>
-<p>It was not clear whether the judge, Aileen M. Cannon, would remain assigned for the entirety of the case. A higher court criticized some of her rulings in the investigation.  <a href="https://nyti.ms/42wxyZV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -86,11 +80,23 @@ Recently, there have been a number of stories going on around the world. In Ukra
 <p>Here’s where Ukraine has mounted multiple attacks this week in the apparent beginning of its long-planned counteroffensive.  <a href="https://nyti.ms/3HPQBVB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 13, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Will Wildfires Like These Become the New Normal?</h3>
+<sub>By Somini Sengupta</sub>
+<p>Canada’s devastating fires and toxic smoke might not recur every year, but the heat from climate change increases the risks of a wide range of disasters.  <a href="https://nyti.ms/42yQ04f"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>See What Canadian Wildfire Smoke Looked Like in 8 Places This Week</h3>
+<sub>By K.K. Rebecca Lai and Jon Huang</sub>
+<p>Imagery from EarthCam shows how smoke from hundreds of wildfires in Canada enveloped cities in the Northeast and Midwest.  <a href="https://nyti.ms/3WWUNLm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 9, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘How Could This Happen?’: Canadian Fires Burning Where They Rarely Have Before</h3>
-<sub>By Norimitsu Onishi</sub>
-<p>Of the more than 400 fires burning in Canada, more than one-third are in Quebec, which has little experience with so many and such large wildfires.  <a href="https://nyti.ms/42t9XsZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
+<h3>Boris Johnson Resigns From Parliament</h3>
+<sub>By Stephen Castle and Mark Landler</sub>
+<p>The former prime minister quit after getting a confidential report about whether he had lied to lawmakers about lockdown-breaking parties.  <a href="https://nyti.ms/43xezj5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Their Crypto Company Collapsed. They Went to Bali.</h3>
@@ -102,12 +108,6 @@ Recently, there have been a number of stories going on around the world. In Ukra
 <h3>George Santos Says His Family Helped Bail Him Out. (Just Don’t Ask Who.)</h3>
 <sub>By Grace Ashford and Michael Gold</sub>
 <p>Mr. Santos, a New York representative, said his relatives had helped guarantee his bail, but asked a judge to keep their names sealed out of privacy concerns.  <a href="https://nyti.ms/43Lxib3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Energy Drinks Are Surging. So Are Their Caffeine Levels.</h3>
-<sub>By Julie Creswell</sub>
-<p>More companies are pushing low-calorie, sugar-free beverages they say are healthy. Some servings have nearly the same level of caffeine as a six-pack of Coca-Cola.  <a href="https://nyti.ms/43SfDxF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
