@@ -58,15 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Thursday, June 8, Central Standard Time</p>
+<p>It is Friday, June 9, Central Standard Time</p>
 <p>
-The US has been in the news a lot recently - from former President Donald Trump having to answer for his short-lived mishandling of classified documents at his Mar-a-Lago resort, to the Supreme Court giving the Voting Rights Act a tenuous new lease on life. These developments will have major implications on how politics and society in America work this year. 
-
-Also in the US, a House mutiny has put Speaker of the House McCarthy in an awkward spot, while an AI lawyer had a cringe-worthy court hearing in New York City. 
-
-Elsewhere, Ukraine is mounting a counteroffensive against Russian occupiers, while China plans to build a station that could give them greater surveillance abilities over US military operations close to home. 
-
-On the obituaries page, we&#39;ve seen the passing of James G. Watt, who served as Interior Secretary under President Reagan and had pushed somewhat controversial conservation policies. Meanwhile, a magazine piece highlighted Merlin Sheldrake&#39;s efforts to raise awareness about fungi and their role in nature.</p>
+There is a lot of news happening in the US right now. Former President Donald Trump has been indicted and is facing charges related to his handling of classified information. There is also a Supreme Court ruling that has given the Voting Rights Act a new lease on life, protecting Black voters from bias in political mapmaking. In other news, the House of Representatives is facing a mutiny from the far-right, while Interior Secretary James G. Watt passed away this week, who was famous for challenging conservation policies under Reagan&#39;s rule. Lastly, the archive of comedian Joan Rivers has surfaced and will be housed at the National Comedy Center.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Indictment Brings Trump Story Full Circle</h3>
@@ -81,9 +75,9 @@ On the obituaries page, we&#39;ve seen the passing of James G. Watt, who served 
 <sub><sub>Thursday, December 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Turns to a Familiar Playbook in Effort to Undermine Documents Inquiry</h3>
-<sub>By Alan Feuer and Maggie Haberman</sub>
-<p>The former president is stepping up efforts to delegitimize the investigation into his handling of classified material after leaving office, a tactic he has used throughout his career in business and politics.  <a href="https://nyti.ms/3oQOFYF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Inside Trump’s Club When the Call Came: You’re Indicted</h3>
+<sub>By Maggie Haberman and Jonathan Swan</sub>
+<p>It was a more familiar drill this time for the former president, his aides and allies, who cranked their political spin machine and fund-raising operation into action.  <a href="https://nyti.ms/43U7ZTL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -116,28 +110,28 @@ On the obituaries page, we&#39;ve seen the passing of James G. Watt, who served 
 <p>Lawmakers in both parties fear that the rebellion by the extreme right could endanger spending bills and other big legislative initiatives if it persists, shaping the speakership in the most difficult of ways.  <a href="https://nyti.ms/3CjGd7f"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-obituaries-blue" alt="">
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>James G. Watt, Interior Secretary Under Reagan, Dies at 85</h3>
 <sub>By Robert D. McFadden</sub>
-<p>Mr. Watt once declared that Interior Department policies over years had swung too far toward conservation under the influence of “environmental extremists.”  <a href="https://nyti.ms/3qEId7p"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>The Man Who Turned the World on to the Genius of Fungi</h3>
-<sub>By Jennifer Kahn</sub>
-<p>A vast fungal web braids together life on Earth. Merlin Sheldrake wants to help us see it.  <a href="https://nyti.ms/42w7fDh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Mr. Watt once declared that Interior Department policies over years had swung too far toward conservation under the influence of “environmental extremists.”  <a href="https://nyti.ms/3MXCAJc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>China to Build Station That Could Spy on U.S. from Cuba, Officials Say</h3>
-<sub>By Karoun Demirjian and Edward Wong</sub>
-<p>The planned facility could amplify Beijing’s technological capacity to monitor military operations across the Southeastern states.  <a href="https://nyti.ms/3oRjZXh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>How Pat Robertson Created the Religious Right’s Model for Political Power</h3>
+<sub>By Elizabeth Dias</sub>
+<p>The celebrity minister, who died Thursday, built a media empire and openly sought to leverage his popularity among evangelicals to influence government and the culture.  <a href="https://nyti.ms/43TPY89"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>The ChatGPT Lawyer Explains Himself</h3>
 <sub>By Benjamin Weiser and Nate Schweber</sub>
 <p>In a cringe-inducing court hearing, a lawyer who relied on A.I. to craft a motion full of made-up case law said he “did not comprehend” that the chat bot could lead him astray.  <a href="https://nyti.ms/42sOdxA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>A ‘Crown Jewel of Comedy’: The Joan Rivers Card Catalog of Jokes Finds a Home</h3>
+<sub>By Jason Zinoman</sub>
+<p>Take a look at some of the artifacts from her archive, which includes 65,000 cross-referenced gags and is headed to the National Comedy Center.  <a href="https://nyti.ms/43N4JJF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
 <hr/>
 </ol>
