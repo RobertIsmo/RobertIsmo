@@ -60,13 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, June 9, Central Standard Time</p>
 <p>
-There have been a lot of major events happening in the world recently. In the US, former President Donald Trump has been charged with documents fraud by the Justice Department, making him the first US president to ever face federal charges. On top of that, a Supreme Court ruling could have huge ramifications for voting rights across the South. And closer to home, energy drinks are surging here in the US but with them come more caffeine than a six-pack of Coca-Cola! Meanwhile in Europe, a fascinating project in Brussels is trying to restore what used to be the largest building in the world by Belgium’s 200th birthday this year. Lastly, NASA’s Apollo 11 Moon Quarantine was revealed to have been mostly for show.</p>
+There&#39;s been a lot going on in the world lately. In the US, former President Trump was just indicted for his involvement with sensitive information. The Supreme Court also recently ruled on a voting rights law which could mean changes to voting in many states. In Canada, they’re dealing with large and rare wildfires that have polluted the air. And in Belgium, they’re renovating their Palace of Justice in time for its 200th birthday. On the lighter side, NASA just found out their quarantine efforts after Apollo 11&#39;s Moon mission were mostly for show because they weren&#39;t actually protecting Earth from contamination by any organism brought back from the lunar surface.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Justice Department Charges Trump in Documents Case</h3>
-<sub>By Alan Feuer, Maggie Haberman, William K. Rashbaum and Ben Protess</sub>
-<p>The indictment, handed up by a grand jury in Miami, is the first time a former U.S. president has faced federal charges.  <a href="https://nyti.ms/448Jen1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 9, Central Standard Time</sub></sub>
+<h3>Indictment Brings Trump Story Full Circle</h3>
+<sub>By Peter Baker</sub>
+<p>The former president assailed Hillary Clinton for her handling of sensitive information. Now, the same issue threatens his chances of reclaiming the presidency.  <a href="https://nyti.ms/3J6wAwt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Inside Trump’s Club When the Call Came: You’re Indicted</h3>
@@ -75,16 +75,16 @@ There have been a lot of major events happening in the world recently. In the US
 <sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Indictment Brings Trump Story Full Circle</h3>
-<sub>By Peter Baker</sub>
-<p>The former president assailed Hillary Clinton for her handling of sensitive information. Now, the same issue threatens his chances of reclaiming the presidency.  <a href="https://nyti.ms/3J6wAwt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Here are some of the charges Trump faces.</h3>
+<sub>By Charlie Savage</sub>
+<p>Taking a look at what the prosecutors may have to prove to a jury.  <a href="https://nyti.ms/43RK6fk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Did N.Y. Leaders Leave Residents Unprepared for the Air Quality Crisis?</h3>
-<sub>By Emma G. Fitzsimmons and Luis Ferré-Sadurní</sub>
-<p>Some experts and elected officials say that New York’s leaders should have moved more quickly to respond to the crisis.  <a href="https://nyti.ms/3qp9Jpp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 9, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘How Could This Happen?’: Canadian Fires Burning Where They Rarely Have Before</h3>
+<sub>By Norimitsu Onishi</sub>
+<p>Of the more than 400 fires burning in Canada, more than one-third are in Quebec, which has little experience with so many and such large wildfires.  <a href="https://nyti.ms/42t9XsZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Dam’s Destruction Reshapes Ukraine, but Not Arc of the War</h3>
