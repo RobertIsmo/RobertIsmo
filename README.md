@@ -60,8 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, June 8, Central Standard Time</p>
 <p>
-Right now, there&#39;s a lot going on in the world. In the US, there&#39;s been an investigation into how President Trump handled classified documents while in office at his Mar-A-Lago resort, as well as a big Supreme Court decision which backed voting rights for Black voters. Also in the US, former President Pat Robertson has sadly passed away, and there were some interesting developments around trademark dispute between Jack Daniel&#39;s and Bad Spaniels Silly Squeakers. Over in Ukraine, there have been multiple attacks against Russian occupiers by Western tanks and vehicles, and the country has also been severely affected by flooding recently. Lastly, Canada is dealing with hundreds of wildfires that are burning much larger than expected.</p>
+The US has been in the news a lot recently - from former President Donald Trump having to answer for his short-lived mishandling of classified documents at his Mar-a-Lago resort, to the Supreme Court giving the Voting Rights Act a tenuous new lease on life. These developments will have major implications on how politics and society in America work this year. 
+
+Also in the US, a House mutiny has put Speaker of the House McCarthy in an awkward spot, while an AI lawyer had a cringe-worthy court hearing in New York City. 
+
+Elsewhere, Ukraine is mounting a counteroffensive against Russian occupiers, while China plans to build a station that could give them greater surveillance abilities over US military operations close to home. 
+
+On the obituaries page, we&#39;ve seen the passing of James G. Watt, who served as Interior Secretary under President Reagan and had pushed somewhat controversial conservation policies. Meanwhile, a magazine piece highlighted Merlin Sheldrake&#39;s efforts to raise awareness about fungi and their role in nature.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Indictment Brings Trump Story Full Circle</h3>
+<sub>By Peter Baker</sub>
+<p>The former president assailed Hillary Clinton for her handling of sensitive information. Now, the same issue threatens his chances of reclaiming the presidency.  <a href="https://nyti.ms/3J6wAwt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Inside Mar-a-Lago, Where Thousands Partied Near Secret Files</h3>
 <sub>By Anjali Singhvi, Mika Gröndahl, Maggie Haberman, Weiyi Cai and Blacki Migliozzi</sub>
@@ -75,9 +87,9 @@ Right now, there&#39;s a lot going on in the world. In the US, there&#39;s been 
 <sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Supreme Court Rejects Voting Map That Diluted Black Voters’ Power</h3>
-<sub>By Adam Liptak</sub>
-<p>Voting rights advocates had feared that the decision about redistricting in Alabama would further undermine the Voting Rights Act, which instead appeared to emerge unscathed.  <a href="https://nyti.ms/3CnFhP6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Supreme Court Gives the Voting Rights Act a Tenuous New Lease on Life</h3>
+<sub>By Michael Wines</sub>
+<p>The main remaining power of the landmark 1965 law, over racial bias in political mapmaking, gets an unexpected buttressing from a court that had been weakening the law for years.  <a href="https://nyti.ms/3oU90w9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -92,46 +104,40 @@ Right now, there&#39;s a lot going on in the world. In the US, there&#39;s been 
 <p>A decision that said Alabama’s congressional voting maps were detrimental to Black voters was celebrated by advocates — and could mean changes to voting in other states.  <a href="https://nyti.ms/3qD9hnS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Supreme Court Rules Against Dog Toy Resembling Liquor Bottle</h3>
-<sub>By Adam Liptak</sub>
-<p>The case, a trademark dispute, pitted Jack Daniel’s against Bad Spaniels Silly Squeakers, which looks like the distiller’s distinctive bottle and adds potty humor.  <a href="https://nyti.ms/3MVR8cc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘How Could This Happen?’: Canadian Fires Burning Where They Rarely Have Before</h3>
-<sub>By Norimitsu Onishi</sub>
-<p>Of the more than 400 fires burning in Canada, more than one-third are in Quebec, which has little experience with so many and such large wildfires.  <a href="https://nyti.ms/42uZ8GL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ukraine Mounts Multiple Attacks on Russian Occupiers</h3>
 <sub>By Eric Schmitt and Andrew E. Kramer</sub>
 <p>The assaults, with Western tanks and armored vehicles, appear to mark a long-awaited counteroffensive that Ukraine hopes will retake territory and shore up allies’ resolve to keep supplying weapons.  <a href="https://nyti.ms/42ycthw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Zelensky Visits Ukraine’s Flood Zone, Where Residents See ‘Horror’ Float By</h3>
-<sub>By Marc Santora and Maria Varenikova</sub>
-<p>President Volodymyr Zelensky traveled to the city of Kherson, trying to rally rescue crews. Russian forces shelled the city not long after his visit.  <a href="https://nyti.ms/43y0fXQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>House Mutiny Leaves McCarthy Facing Tough Choices</h3>
+<sub>By Carl Hulse</sub>
+<p>Lawmakers in both parties fear that the rebellion by the extreme right could endanger spending bills and other big legislative initiatives if it persists, shaping the speakership in the most difficult of ways.  <a href="https://nyti.ms/3CjGd7f"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-obituaries-blue" alt="">
+<h3>James G. Watt, Interior Secretary Under Reagan, Dies at 85</h3>
+<sub>By Robert D. McFadden</sub>
+<p>Mr. Watt once declared that Interior Department policies over years had swung too far toward conservation under the influence of “environmental extremists.”  <a href="https://nyti.ms/3qEId7p"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>The Man Who Turned the World on to the Genius of Fungi</h3>
+<sub>By Jennifer Kahn</sub>
+<p>A vast fungal web braids together life on Earth. Merlin Sheldrake wants to help us see it.  <a href="https://nyti.ms/42w7fDh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden and Sunak Say Their Countries Will Support Ukraine for the Long Haul</h3>
-<sub>By Katie Rogers</sub>
-<p>The U.K. prime minister, on a tour of Washington meant to deepen economic and diplomatic ties with the United States, had a message for Russia: “We will be here as long as it takes.”  <a href="https://nyti.ms/3WSZTbD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>China to Build Station That Could Spy on U.S. from Cuba, Officials Say</h3>
+<sub>By Karoun Demirjian and Edward Wong</sub>
+<p>The planned facility could amplify Beijing’s technological capacity to monitor military operations across the Southeastern states.  <a href="https://nyti.ms/3oRjZXh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Pat Robertson, Who Gave Christian Conservatives Clout, Is Dead at 93</h3>
-<sub>By Douglas Martin</sub>
-<p>A Baptist minister and a broadcaster, he turned evangelicals into a powerful constituency that helped Republicans capture Congress in 1994. He had earlier run for president.  <a href="https://nyti.ms/42pl869"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Pat Robertson Created the Religious Right’s Model for Political Power</h3>
-<sub>By Elizabeth Dias</sub>
-<p>The celebrity minister, who died Thursday, built a media empire and openly sought to leverage his popularity among evangelicals to influence government and the culture.  <a href="https://nyti.ms/43TPY89"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>The ChatGPT Lawyer Explains Himself</h3>
+<sub>By Benjamin Weiser and Nate Schweber</sub>
+<p>In a cringe-inducing court hearing, a lawyer who relied on A.I. to craft a motion full of made-up case law said he “did not comprehend” that the chat bot could lead him astray.  <a href="https://nyti.ms/42sOdxA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
 <hr/>
 </ol>
