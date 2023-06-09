@@ -60,12 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, June 8, Central Standard Time</p>
 <p>
-At the Supreme Court in the US, recent decisions have involved a voting map in Alabama that threatened to dilute black voters&#39; power, a trademark dispute involving a dog toy resembling a liquor bottle, and an aggravated identity theft law. On the world stage, Ukrainian President Volodymyr Zelensky visited the area affected by floods and Russian shelling, while in China mosque domes and minarets were removed resulting in rare resistance. Meanwhile, former US President Donald Trump is using his familiar playbook to try to undermine documents related to his handling of classified material after leaving office. Additionally, there has been speculation around who will be running for president in 2024 with Talk Show host Pat Robertson who gave Christian conservatives clout recently passing away. Finally, on a more personal note, a couple of newlyweds are seeking an upper west side home that all their children want to visit.</p>
+Right now, there&#39;s a lot going on in the world. In the US, there&#39;s been an investigation into how President Trump handled classified documents while in office at his Mar-A-Lago resort, as well as a big Supreme Court decision which backed voting rights for Black voters. Also in the US, former President Pat Robertson has sadly passed away, and there were some interesting developments around trademark dispute between Jack Daniel&#39;s and Bad Spaniels Silly Squeakers. Over in Ukraine, there have been multiple attacks against Russian occupiers by Western tanks and vehicles, and the country has also been severely affected by flooding recently. Lastly, Canada is dealing with hundreds of wildfires that are burning much larger than expected.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Inside Mar-a-Lago, Where Thousands Partied Near Secret Files</h3>
+<sub>By Anjali Singhvi, Mika Gröndahl, Maggie Haberman, Weiyi Cai and Blacki Migliozzi</sub>
+<p>A Times investigation shows how Donald J. Trump stored classified documents in high-traffic areas at Mar-a-Lago, where guests may have been within feet of the materials.  <a href="https://nyti.ms/3BBciHB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Turns to a Familiar Playbook in Effort to Undermine Documents Inquiry</h3>
+<sub>By Alan Feuer and Maggie Haberman</sub>
+<p>The former president is stepping up efforts to delegitimize the investigation into his handling of classified material after leaving office, a tactic he has used throughout his career in business and politics.  <a href="https://nyti.ms/3oQOFYF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Supreme Court Rejects Voting Map That Diluted Black Voters’ Power</h3>
 <sub>By Adam Liptak</sub>
-<p>Voting rights advocates had feared that the decision about redistricting in Alabama would undermine the Voting Rights Act, which instead appeared to emerge unscathed.  <a href="https://nyti.ms/3CnFhP6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Voting rights advocates had feared that the decision about redistricting in Alabama would further undermine the Voting Rights Act, which instead appeared to emerge unscathed.  <a href="https://nyti.ms/3CnFhP6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -75,15 +87,27 @@ At the Supreme Court in the US, recent decisions have involved a voting map in A
 <sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Supreme Court Ruling on Voting Rights Could Resound Across the South</h3>
+<sub>By Nick Corasaniti and Rick Rojas</sub>
+<p>A decision that said Alabama’s congressional voting maps were detrimental to Black voters was celebrated by advocates — and could mean changes to voting in other states.  <a href="https://nyti.ms/3qD9hnS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Supreme Court Rules Against Dog Toy Resembling Liquor Bottle</h3>
 <sub>By Adam Liptak</sub>
 <p>The case, a trademark dispute, pitted Jack Daniel’s against Bad Spaniels Silly Squeakers, which looks like the distiller’s distinctive bottle and adds potty humor.  <a href="https://nyti.ms/3MVR8cc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Supreme Court Narrows the Reach of an Aggravated Identity Theft Law</h3>
-<sub>By Charlie Savage</sub>
-<p>The justices rejected the government’s interpretation of a 2004 law that adds two years in prison for certain felonies if they involved misusing another person’s identification.  <a href="https://nyti.ms/3J4DO43"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘How Could This Happen?’: Canadian Fires Burning Where They Rarely Have Before</h3>
+<sub>By Norimitsu Onishi</sub>
+<p>Of the more than 400 fires burning in Canada, more than one-third are in Quebec, which has little experience with so many and such large wildfires.  <a href="https://nyti.ms/42uZ8GL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukraine Mounts Multiple Attacks on Russian Occupiers</h3>
+<sub>By Eric Schmitt and Andrew E. Kramer</sub>
+<p>The assaults, with Western tanks and armored vehicles, appear to mark a long-awaited counteroffensive that Ukraine hopes will retake territory and shore up allies’ resolve to keep supplying weapons.  <a href="https://nyti.ms/42ycthw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -93,9 +117,9 @@ At the Supreme Court in the US, recent decisions have involved a voting map in A
 <sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Turns to a Familiar Playbook in Effort to Undermine Documents Inquiry</h3>
-<sub>By Alan Feuer and Maggie Haberman</sub>
-<p>The former president is stepping up efforts to delegitimize the investigation into his handling of classified material after leaving office, a tactic he has used throughout his career in business and politics.  <a href="https://nyti.ms/3oQOFYF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Biden and Sunak Say Their Countries Will Support Ukraine for the Long Haul</h3>
+<sub>By Katie Rogers</sub>
+<p>The U.K. prime minister, on a tour of Washington meant to deepen economic and diplomatic ties with the United States, had a message for Russia: “We will be here as long as it takes.”  <a href="https://nyti.ms/3WSZTbD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -104,34 +128,10 @@ At the Supreme Court in the US, recent decisions have involved a voting map in A
 <p>A Baptist minister and a broadcaster, he turned evangelicals into a powerful constituency that helped Republicans capture Congress in 1994. He had earlier run for president.  <a href="https://nyti.ms/42pl869"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>The Man Who Turned the World on to the Genius of Fungi</h3>
-<sub>By Jennifer Kahn</sub>
-<p>A vast fungal web braids together life on Earth. Merlin Sheldrake wants to help us see it.  <a href="https://nyti.ms/42w7fDh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Presidential Candidate Who Has His Own Supporters Scratching Their Heads</h3>
-<sub>By Jonathan Weisman</sub>
-<p>Gov. Doug Burgum’s quixotic presidential campaign has baffled even North Dakotans, but then again, many of the 2024 hopefuls have prompted the same wonder.  <a href="https://nyti.ms/3qyZYVX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Where Republican Presidential Candidates Stand on Climate Change</h3>
-<sub>By Maggie Astor and Lisa Friedman</sub>
-<p>While many of them acknowledge that climate change is real, they largely downplay the issue and reject policies that would slow rising temperatures.  <a href="https://nyti.ms/3MXBywH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Behind a Rare Clash, a Fight Over Faith in China</h3>
-<sub>By Vivian Wang</sub>
-<p>China is destroying Arab-style architectural features of mosques, such as domes and minarets. The tightened control on religion has been met with rare resistance.  <a href="https://nyti.ms/42tvbqE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-realestate-blue" alt="">
-<h3>Seeking an Upper West Side Home That the Children Want to Visit</h3>
-<sub>By Joyce Cohen</sub>
-<p>A couple of newlyweds, with six grown children between them, wanted to combine their lives in a new Manhattan apartment big enough for family dinners. Here’s what they found.  <a href="https://nyti.ms/3J1yPRM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>How Pat Robertson Created the Religious Right’s Model for Political Power</h3>
+<sub>By Elizabeth Dias</sub>
+<p>The celebrity minister, who died Thursday, built a media empire and openly sought to leverage his popularity among evangelicals to influence government and the culture.  <a href="https://nyti.ms/43TPY89"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 8, Central Standard Time</sub></sub>
 <hr/>
 </ol>
