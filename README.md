@@ -60,18 +60,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, June 9, Central Standard Time</p>
 <p>
-Currently, a lot is happening in the world. In the US, Donald J. Trump was recently indicted for illegally keeping classified government documents after leaving office. In Ukraine, there is a Russian invasion that has prompted multiple attacks from Ukraine. In Canada, there have been devastating wildfires and toxic smoke due to climate change that could become the new normal. Boris Johnson resigned as Prime Minister of the UK this week. Two founders of a cryptocurrency hedge fund have been traveling around the world since the implosion of their company. George Santos, a politician in New York, has been bailed out by his family members whose identities he asked to keep secret. An investor linked to an impeachment case against the attorney general in Texas has been charged with lying to lenders and jailed by the FBI. It was recently revealed NASA&#39;s Apollo 11 moon quarantine had some holes in it and Apple is rolling out changes to autocorrect on iPhones so they can better detect word contexts in text messages. Finally, an opinion article explores what it will take to convict Trump of breaching any laws he may have committed while in office.</p>
+There are a lot of interesting things happening in the world right now. In the US, there is an indictment looking into President Trump&#39;s handling of classified documents after he left office. Meanwhile, in Ukraine, they are conducting a counteroffensive against Russia to retake occupied territory. Over in Europe, Boris Johnson has resigned from the British Parliament after a dispute about restrictions caused by the pandemic. In Canada, they are suffering from wildfires that have produced toxic smoke that has reached all across North America. Closer to home, a New York representative needed help from his family to pay for bail but asked the judge to keep their names private for privacy concerns. Finally, a health system has paused its policy of cutting off care from patients with debt.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Indictment Presents Evidence Trump’s Actions Were More Blatant Than Known</h3>
+<sub>By Alan Feuer and Maggie Haberman</sub>
+<p>The accounts in the 49-page indictment provide compelling evidence of a shocking indifference toward some of the country’s most sensitive secrets.  <a href="https://nyti.ms/3OZsytG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The Trump Classified Documents Indictment, Annotated</h3>
-<sub></sub>
+<sub>By Charlie Savage</sub>
 <p>The indictment unveiled on Friday centers on Donald J. Trump’s handling of sensitive government documents after he left office.  <a href="https://nyti.ms/3oYZpEc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Here’s what we learned from the indictment.</h3>
-<sub>By Maggie Haberman, Glenn Thrush and Alan Feuer</sub>
-<p>The indictment said the former president had illegally kept documents concerning “United States nuclear programs; potential vulnerabilities of the United States and its allies to military attack; and plans for possible retaliation in response to a foreign attack.”  <a href="https://nyti.ms/3qzvoLI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub>By Maggie Haberman, Glenn Thrush, Alan Feuer and Ben Protess</sub>
+<p>The indictment said the former president had illegally kept documents concerning “United States nuclear programs; potential vulnerabilities of the United States and its allies to military attack; and plans for possible retaliation in response to a foreign attack.”  <a href="https://nyti.ms/45SNBEi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Battles Rage as Ukraine Tries to Retake Russian-Occupied Territory</h3>
+<sub>By Andrew E. Kramer and Eric Schmitt</sub>
+<p>Military analysts and U.S. officials said it was too soon to judge the success of Ukraine’s offensive, which is looking for weaknesses to exploit, in the face of fierce resistance.  <a href="https://nyti.ms/3N2EBE5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -80,10 +92,16 @@ Currently, a lot is happening in the world. In the US, Donald J. Trump was recen
 <p>Here’s where Ukraine has mounted multiple attacks this week in the apparent beginning of its long-planned counteroffensive.  <a href="https://nyti.ms/3HPQBVB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Will Wildfires Like These Become the New Normal?</h3>
-<sub>By Somini Sengupta</sub>
-<p>Canada’s devastating fires and toxic smoke might not recur every year, but the heat from climate change increases the risks of a wide range of disasters.  <a href="https://nyti.ms/42yQ04f"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Boris Johnson Resigns From Parliament</h3>
+<sub>By Stephen Castle and Mark Landler</sub>
+<p>The former prime minister quit after getting a confidential report about whether he had lied to lawmakers about lockdown-breaking parties.  <a href="https://nyti.ms/43xezj5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Canada’s Ability to Prevent Forest Fires Lags Behind the Need</h3>
+<sub>By Vjosa Isai and Ian Austen</sub>
+<p>Provincial firefighting agencies are stretched thin, there is no national agency and it’s hard to get approval for controlled burns — factors that have exacerbated recent outbreaks.  <a href="https://nyti.ms/42vO9Np"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -92,10 +110,10 @@ Currently, a lot is happening in the world. In the US, Donald J. Trump was recen
 <p>Imagery from EarthCam shows how smoke from hundreds of wildfires in Canada enveloped cities in the Northeast and Midwest.  <a href="https://nyti.ms/3WWUNLm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Boris Johnson Resigns From Parliament</h3>
-<sub>By Stephen Castle and Mark Landler</sub>
-<p>The former prime minister quit after getting a confidential report about whether he had lied to lawmakers about lockdown-breaking parties.  <a href="https://nyti.ms/43xezj5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Will Wildfires Like These Become the New Normal?</h3>
+<sub>By Somini Sengupta</sub>
+<p>Canada’s devastating fires and toxic smoke might not recur every year, but the heat from climate change increases the risks of a wide range of disasters.  <a href="https://nyti.ms/42yQ04f"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -110,28 +128,10 @@ Currently, a lot is happening in the world. In the US, Donald J. Trump was recen
 <p>Mr. Santos, a New York representative, said his relatives had helped guarantee his bail, but asked a judge to keep their names sealed out of privacy concerns.  <a href="https://nyti.ms/43Lxib3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Investor Linked to Paxton’s Impeachment Is Charged With Lying to Lenders</h3>
-<sub>By Edgar Sandoval and David Montgomery</sub>
-<p>Nate Paul, the real estate investor at the center of the impeachment case against the attorney general of Texas, Ken Paxton, has been jailed at the request of the F.B.I.  <a href="https://nyti.ms/3P3oEzO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>Cosmic Luck: NASA’s Apollo 11 Moon Quarantine Broke Down</h3>
-<sub>By Sarah Scoles</sub>
-<p>A review of archives suggests that efforts to protect Earth from contamination by any organism brought back from the lunar surface were mostly for show.  <a href="https://nyti.ms/43N1gLd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>Apple Knows You Didn’t Mean to Type ‘Ducking’</h3>
-<sub>By Callie Holtermann</sub>
-<p>Newly announced modifications to the autocorrect feature used on iPhones will better understand a word’s context in a text message, saving users some blushes.  <a href="https://nyti.ms/42yEtS9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>How to Convict Trump</h3>
-<sub>By Norman Eisen, Andrew Weissmann and Joyce Vance</sub>
-<p>The special counsel has four hurdles to overcome.  <a href="https://nyti.ms/3OYtnTy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Nonprofit Health System Pauses Policy of Cutting Off Care for Patients in Debt</h3>
+<sub>By Sarah Kliff and Jessica Silver-Greenberg</sub>
+<p>Allina Health, a large health system in the Midwest, had withheld care for patients who had $4,500 in medical bills.  <a href="https://nyti.ms/3J31AgM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 9, Central Standard Time</sub></sub>
 <hr/>
 </ol>
