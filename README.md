@@ -60,13 +60,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, June 10, Central Standard Time</p>
 <p>
-Currently, there is a lot of conflict happening around the world. In the US, former president Donald Trump was recently indicted for putting national security secrets at risk and scheming to thwart the investigation into the matter. In Ukraine, there is an ongoing battle between the country and Russian forces as Ukraine tries to retake Russian-occupied territory. In Britain, former Prime Minister Boris Johnson resigned from Parliament after getting a confidential report about whether he had lied about lockdown-breaking parties. In Canada, there are massive wildfires ravaging the country due to climate change. Also in Colombia, four missing children were recently found alive after 40 days in a jungle.</p>
+Right now there is a lot going on in the world. In the US, former President Trump&#39;s case is on trial which is putting the justice system to the test of public credibility, as he is attempting to discredit law enforcement as he defends himself against multiple felony charges. Meanwhile there are unanswered questions in an indictment about why Trump was hoarding documents. Overseas in Ukraine, there are Russian lines being probed and they have amped up military action with new tanks and other armored vehicles. In Saudi Arabia, their leader is defying threats and using their influence to move past human rights violations. And finally, in Colombia, four missing children were found alive after 40 days in the jungle following a plane crash that killed three adults.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Put National Secrets at Risk, Prosecutors Say in Historic Indictment</h3>
-<sub>By Glenn Thrush, Maggie Haberman and Alan Feuer</sub>
-<p>The indictment details evidence that the former president placed national security secrets in jeopardy and schemed to thwart the investigation into the matter.  <a href="https://nyti.ms/3CnHri2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 9, Central Standard Time</sub></sub>
+<h3>Trump’s Case Puts the Justice System on Trial, in a Test of Public Credibility</h3>
+<sub>By Peter Baker</sub>
+<p>The former president’s efforts to defend against multiple felony counts by discrediting law enforcement pose a grave challenge to democracy.  <a href="https://nyti.ms/42yCnlv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, June 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Unanswered in Indictment’s Details on Trump’s Hoarding of Documents: Why?</h3>
+<sub>By Maggie Haberman and Alan Feuer</sub>
+<p>The charging document offers some possible hints but does not establish that the former president had a goal beyond simply possessing the material.  <a href="https://nyti.ms/42CnFd4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, June 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Where Documents Were Found at Mar-a-Lago</h3>
@@ -74,64 +80,58 @@ Currently, there is a lot of conflict happening around the world. In the US, for
 <p>These diagrams show the rooms at Donald J. Trump’s residence where prosecutors say he kept sensitive government documents.  <a href="https://nyti.ms/3JaaM35"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Indictment Presents Evidence Trump’s Actions Were More Blatant Than Known</h3>
-<sub>By Alan Feuer and Maggie Haberman</sub>
-<p>The accounts in the 49-page indictment provide compelling evidence of a shocking indifference toward some of the country’s most sensitive secrets.  <a href="https://nyti.ms/3OZsytG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 9, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>With Probes of Russian Lines, Ukraine’s Counteroffensive Takes Shape</h3>
+<sub>By Andrew E. Kramer</sub>
+<p>Ukraine is using its new arsenal of Western tanks and armored vehicles in what is expected to be one of the largest military operations in Europe since World War II.  <a href="https://nyti.ms/3oN6EPO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, June 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Battles Rage as Ukraine Tries to Retake Russian-Occupied Territory</h3>
-<sub>By Andrew E. Kramer and Eric Schmitt</sub>
-<p>Military analysts and U.S. officials said it was too soon to judge the success of Ukraine’s offensive, which is looking for weaknesses to exploit, in the face of fierce resistance.  <a href="https://nyti.ms/3N2EBE5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 9, Central Standard Time</sub></sub>
+<h3>From ‘Pariah’ to Partner, Saudi Leader Defies Threats to Isolate Him</h3>
+<sub>By Ben Hubbard</sub>
+<p>Crown Prince Mohammed bin Salman has repeatedly leveraged Saudi Arabia’s wealth and influence to overcome international condemnation of the kingdom’s human rights violations.  <a href="https://nyti.ms/3X6f15G"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, June 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>The Spy Who Called Me</h3>
+<sub>By Nicholas Casey</sub>
+<p>For years, Spanish society has been rocked by revelations from the secret tapes of José Manuel Villarejo Pérez, a former intelligence agent now facing prison. He told me his story.  <a href="https://nyti.ms/45ZiTtk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, June 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>El espía que me llamó</h3>
+<sub>By Nicholas Casey</sub>
+<p>La sociedad española se ha visto sacudida durante años por la filtración de audios secretos de José Manuel Villarejo, otrora agente de inteligencia. Esta es la historia que me contó.  <a href="https://nyti.ms/43ytWIf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, June 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>How Could A.I. Destroy Humanity?</h3>
+<sub>By Cade Metz</sub>
+<p>Researchers and industry leaders have warned that A.I. could pose an existential risk to humanity. But they’ve been light on the details.  <a href="https://nyti.ms/45TDaQP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, June 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>The A.I. Revolution Will Change Work. Nobody Agrees How.</h3>
+<sub>By Sarah Kessler</sub>
+<p>The tally of how many jobs will be “affected by” world-changing technology is different depending on who you ask.  <a href="https://nyti.ms/45WJhnh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, June 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>A.I. or Nuclear Weapons: Can You Tell These Quotes Apart?</h3>
+<sub>By Ian Prasad Philbrick and Tom Wright-Piersanti</sub>
+<p>Many experts on artificial intelligence are warning of its potential dangers and calling for regulation, just as others once did with the atomic bomb.  <a href="https://nyti.ms/42wDLoO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, June 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Maps: Tracking the Russian Invasion of Ukraine</h3>
-<sub></sub>
-<p>Here’s where Ukraine has mounted multiple attacks this week in the apparent beginning of its long-planned counteroffensive.  <a href="https://nyti.ms/3HPQBVB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Boris Johnson Resigns From Parliament</h3>
-<sub>By Stephen Castle and Mark Landler</sub>
-<p>The former prime minister quit after getting a confidential report about whether he had lied to lawmakers about lockdown-breaking parties.  <a href="https://nyti.ms/43xezj5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Canada’s Ability to Prevent Forest Fires Lags Behind the Need</h3>
-<sub>By Vjosa Isai and Ian Austen</sub>
-<p>Provincial firefighting agencies are stretched thin, there is no national agency and it’s hard to get approval for controlled burns — factors that have exacerbated recent outbreaks.  <a href="https://nyti.ms/42vO9Np"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>What to Know About Canada’s Exceptional Wildfire Season</h3>
-<sub>By Dan Bilefsky and Ian Austen</sub>
-<p>Wild fires started earlier, are higher in number and spread across much of the country, burning millions of acres as climate change turns more of the country’s forest into a tinderbox.  <a href="https://nyti.ms/43VAznP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Will Wildfires Like These Become the New Normal?</h3>
-<sub>By Somini Sengupta</sub>
-<p>Canada’s devastating fires and toxic smoke might not recur every year, but the heat from climate change increases the risks of a wide range of disasters.  <a href="https://nyti.ms/42yQ04f"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>George Santos Says His Family Helped Bail Him Out. (Just Don’t Ask Who.)</h3>
-<sub>By Grace Ashford and Michael Gold</sub>
-<p>Mr. Santos, a New York representative, said his relatives had helped guarantee his bail, but asked a judge to keep their names sealed out of privacy concerns.  <a href="https://nyti.ms/43Lxib3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 9, Central Standard Time</sub></sub>
+<h3>Boris Johnson’s Comeback Hopes May Be Dimmer Than He Thinks</h3>
+<sub>By Mark Landler</sub>
+<p>The former British prime minister, who resigned from Parliament on Friday, has found his way back into voters’ good graces before. But analysts say there is now almost no plausible path back to power for him.  <a href="https://nyti.ms/3oXNvuq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, June 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>4 Missing Children Found Alive After 40 Days in Colombian Jungle</h3>
 <sub>By Genevieve Glatsky</sub>
 <p>Rescuers had been searching for the children — aged 13, 9, 4 and 1 — ever since they survived a plane crash that killed the three adults on board.  <a href="https://nyti.ms/3J6jijP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-espanol-blue" alt="">
-<h3>Cuatro niños hallados con vida luego de 40 días en la selva de Colombia</h3>
-<sub>By Genevieve Glatsky</sub>
-<p>Aún no se sabe quién encontró a los menores, ni cómo lograron sobrevivir en una selva tan densa. “Queremos compartir la felicidad de todo el pueblo colombiano”, dijo el ministro de Defensa.  <a href="https://nyti.ms/43TGNUT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 9, Central Standard Time</sub></sub>
 <hr/>
 </ol>
