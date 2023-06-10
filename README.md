@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, June 10, Central Standard Time</p>
 <p>
-Currently, in the US, former President Trump&#39;s trial is raising questions about public trust in the justice system. There are also still unanswered questions surrounding why he was hoarding sensitive government documents. In Ukraine, there have been large-scale military operations in Europe since World War II, and Saudi Arabia has been leveraging its wealth and influence despite condemnation of its human rights violations. In Spain, former intelligence agent José Manuel Villarejo Pérez is facing prison time for releasing secret recordings.Amid all this, Artificial Intelligence (A.I.) continues to revolutionize work like never before but opinions on how it&#39;ll actually affect employment remain split. There are also shades of nuclear weapons debates when experts warned of A.I.&#39;s potential dangers and called for regulation. Meanwhile, Boris Johnson&#39;s attempts to make a comeback as British Prime Minister may be futile and four missing children have recently been found alive in a Colombian Jungle after 40 days of searching following a plane crash which killed three adults on board.</p>
+There has been a lot of news developing around the world recently. In the United States, former President Donald Trump is facing multiple felony counts and is putting the justice system to the test of public credibility. Meanwhile, in Europe, Ukraine is launching one of the largest military operations in Europe since World War II in response to Russian probes. In Arizona, there is a plan to take water from the sea in Mexico and pipe it to Phoenix despite low water levels in the area. Additionally, José Manuel Villarejo Pérez, a former intelligence agent, was caught leaking secret documents concerning Spanish society and is now facing prison time. Finally, four missing children were recently found alive after 40 days in the Colombian jungle following a plane crash that killed three adults on board.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Worldwide, Trump’s Latest Legal Woes Draw Outrage, and Shrugs</h3>
+<sub>By Damien Cave</sub>
+<p>Allies and rivals alike, beholding the messiness of America, must calculate the risks and opportunities in the latest plot twist in Donald Trump’s legal troubles.  <a href="https://nyti.ms/3N45gjE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, June 10, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump’s Case Puts the Justice System on Trial, in a Test of Public Credibility</h3>
 <sub>By Peter Baker</sub>
@@ -75,10 +81,16 @@ Currently, in the US, former President Trump&#39;s trial is raising questions ab
 <sub><sub>Saturday, June 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Where Documents Were Found at Mar-a-Lago</h3>
-<sub>By Eleanor Lutz, Charlie Smart and Mika Gröndahl</sub>
-<p>These diagrams show the rooms at Donald J. Trump’s residence where prosecutors say he kept sensitive government documents.  <a href="https://nyti.ms/3JaaM35"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 9, Central Standard Time</sub></sub>
+<h3>Trump Heads to Georgia and North Carolina for His First Post-Indictment Public Remarks</h3>
+<sub>By Shane Goldmacher, Jonathan Swan and Maggie Haberman</sub>
+<p>Donald J. Trump will speak on Saturday at the state G.O.P. conventions in Georgia and North Carolina, as his federal indictment dominates the political landscape.  <a href="https://nyti.ms/45TDbnR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, June 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Ted Kaczynski, ‘Unabomber’ Who Attacked Modern Life, Dies at 81</h3>
+<sub>By Alex Traub</sub>
+<p>Alone in a shack in the Montana wilderness, he fashioned homemade bombs and launched a violent one-man campaign to destroy industrial society.  <a href="https://nyti.ms/43Ua9CE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, June 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>With Probes of Russian Lines, Ukraine’s Counteroffensive Takes Shape</h3>
@@ -86,10 +98,10 @@ Currently, in the US, former President Trump&#39;s trial is raising questions ab
 <p>Ukraine is using its new arsenal of Western tanks and armored vehicles in what is expected to be one of the largest military operations in Europe since World War II.  <a href="https://nyti.ms/3oN6EPO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>From ‘Pariah’ to Partner, Saudi Leader Defies Threats to Isolate Him</h3>
-<sub>By Ben Hubbard</sub>
-<p>Crown Prince Mohammed bin Salman has repeatedly leveraged Saudi Arabia’s wealth and influence to overcome international condemnation of the kingdom’s human rights violations.  <a href="https://nyti.ms/3X6f15G"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Arizona, Low on Water, Weighs Taking It From the Sea. In Mexico.</h3>
+<sub>By Christopher Flavelle and Adriana Zehbrauskas</sub>
+<p>A $5 billion plan to desalinate seawater in Mexico and pipe it to Phoenix is testing the notion that desert cities can keep growing as the Earth warm.  <a href="https://nyti.ms/42y3Jbh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
@@ -110,22 +122,10 @@ Currently, in the US, former President Trump&#39;s trial is raising questions ab
 <p>Researchers and industry leaders have warned that A.I. could pose an existential risk to humanity. But they’ve been light on the details.  <a href="https://nyti.ms/45TDaQP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The A.I. Revolution Will Change Work. Nobody Agrees How.</h3>
-<sub>By Sarah Kessler</sub>
-<p>The tally of how many jobs will be “affected by” world-changing technology is different depending on who you ask.  <a href="https://nyti.ms/45WJhnh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, June 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>A.I. or Nuclear Weapons: Can You Tell These Quotes Apart?</h3>
-<sub>By Ian Prasad Philbrick and Tom Wright-Piersanti</sub>
-<p>Many experts on artificial intelligence are warning of its potential dangers and calling for regulation, just as others once did with the atomic bomb.  <a href="https://nyti.ms/42wDLoO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, June 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Boris Johnson’s Comeback Hopes May Be Dimmer Than He Thinks</h3>
-<sub>By Mark Landler</sub>
-<p>The former British prime minister, who resigned from Parliament on Friday, has found his way back into voters’ good graces before. But analysts say there is now almost no plausible path back to power for him.  <a href="https://nyti.ms/3oXNvuq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Iga Swiatek, With an Enthralling Duel, Captures Another French Open Trophy</h3>
+<sub>By Matthew Futterman</sub>
+<p>Swiatek was drawn into a tight match with Karolina Muchova, and emerged with her third singles championship at Roland Garros in four years.  <a href="https://nyti.ms/3J82icV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
