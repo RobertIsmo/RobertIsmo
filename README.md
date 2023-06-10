@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, June 10, Central Standard Time</p>
 <p>
-There has been a lot of news developing around the world recently. In the United States, former President Donald Trump is facing multiple felony counts and is putting the justice system to the test of public credibility. Meanwhile, in Europe, Ukraine is launching one of the largest military operations in Europe since World War II in response to Russian probes. In Arizona, there is a plan to take water from the sea in Mexico and pipe it to Phoenix despite low water levels in the area. Additionally, José Manuel Villarejo Pérez, a former intelligence agent, was caught leaking secret documents concerning Spanish society and is now facing prison time. Finally, four missing children were recently found alive after 40 days in the Colombian jungle following a plane crash that killed three adults on board.</p>
+Right now, there is a lot of news coming from the US about former President Donald Trump&#39;s legal troubles. He is facing multiple felony counts, which has posed a challenge to democracy and sparked some outrage around the world. In addition, the state of Arizona is looking at taking water from the sea in Mexico to combat its water shortage as the Earth continues to warm. And this weekend marks the 50th anniversary of Secretariat&#39;s legendary win in the Triple Crown.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Worldwide, Trump’s Latest Legal Woes Draw Outrage, and Shrugs</h3>
@@ -75,15 +75,15 @@ There has been a lot of news developing around the world recently. In the United
 <sub><sub>Saturday, June 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Unanswered in Indictment’s Details on Trump’s Hoarding of Documents: Why?</h3>
-<sub>By Maggie Haberman and Alan Feuer</sub>
-<p>The charging document offers some possible hints but does not establish that the former president had a goal beyond simply possessing the material.  <a href="https://nyti.ms/42CnFd4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>‘This Is the Final Battle’: Trump Casts His Campaign as an Existential Fight Against His Critics</h3>
+<sub>By Jonathan Swan, Maggie Haberman and Shane Goldmacher</sub>
+<p>Donald J. Trump delivered his first post-indictment public remarks on Saturday at the state G.O.P. convention in Georgia, as his federal indictment dominates the political landscape.  <a href="https://nyti.ms/45TDbnR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Heads to Georgia and North Carolina for His First Post-Indictment Public Remarks</h3>
-<sub>By Shane Goldmacher, Jonathan Swan and Maggie Haberman</sub>
-<p>Donald J. Trump will speak on Saturday at the state G.O.P. conventions in Georgia and North Carolina, as his federal indictment dominates the political landscape.  <a href="https://nyti.ms/45TDbnR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Unanswered in Indictment’s Details on Trump’s Hoarding of Documents: Why?</h3>
+<sub>By Maggie Haberman and Alan Feuer</sub>
+<p>The charging document offers some possible hints but does not establish that the former president had a goal beyond simply possessing the material.  <a href="https://nyti.ms/42CnFd4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -116,23 +116,23 @@ There has been a lot of news developing around the world recently. In the United
 <p>La sociedad española se ha visto sacudida durante años por la filtración de audios secretos de José Manuel Villarejo, otrora agente de inteligencia. Esta es la historia que me contó.  <a href="https://nyti.ms/43ytWIf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>How Could A.I. Destroy Humanity?</h3>
-<sub>By Cade Metz</sub>
-<p>Researchers and industry leaders have warned that A.I. could pose an existential risk to humanity. But they’ve been light on the details.  <a href="https://nyti.ms/45TDaQP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Inside the Hunt for the Idaho Killer</h3>
+<sub>By Mike Baker</sub>
+<p>After four students were stabbed to death in a house near a college campus, investigators scooped up data and forensic evidence, hoping for leads. A new DNA technique finally brought a breakthrough.  <a href="https://nyti.ms/42x0bGb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Iga Swiatek, With an Enthralling Duel, Captures Another French Open Trophy</h3>
-<sub>By Matthew Futterman</sub>
-<p>Swiatek was drawn into a tight match with Karolina Muchova, and emerged with her third singles championship at Roland Garros in four years.  <a href="https://nyti.ms/3J82icV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, June 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>4 Missing Children Found Alive After 40 Days in Colombian Jungle</h3>
-<sub>By Genevieve Glatsky</sub>
-<p>Rescuers had been searching for the children — aged 13, 9, 4 and 1 — ever since they survived a plane crash that killed the three adults on board.  <a href="https://nyti.ms/3J6jijP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Secretariat’s Legend Rolls on Like, Well, a Tremendous Machine</h3>
+<sub>By Melissa Hoppert</sub>
+<p>Fifty years after Secretariat clinched the Triple Crown with a runaway win in the Belmont Stakes, fans still long to connect with his story.  <a href="https://nyti.ms/3N7dyHM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Expert Picks: Who Will Win the Belmont Stakes?</h3>
+<sub>By Joe Drape and Melissa Hoppert</sub>
+<p>Joe Drape and Melissa Hoppert assess the contenders for the 155th Belmont Stakes on Saturday.  <a href="https://nyti.ms/42uzli1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, June 10, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
