@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, June 9, Central Standard Time</p>
 <p>
-There are a lot of interesting things happening in the world right now. In the US, there is an indictment looking into President Trump&#39;s handling of classified documents after he left office. Meanwhile, in Ukraine, they are conducting a counteroffensive against Russia to retake occupied territory. Over in Europe, Boris Johnson has resigned from the British Parliament after a dispute about restrictions caused by the pandemic. In Canada, they are suffering from wildfires that have produced toxic smoke that has reached all across North America. Closer to home, a New York representative needed help from his family to pay for bail but asked the judge to keep their names private for privacy concerns. Finally, a health system has paused its policy of cutting off care from patients with debt.</p>
+There are a few major things happening in the world right now. In the United States, an indictment has been released detailing more evidence of possible illegal actions by former President Donald Trump. Additionally, at his residence in Mar-a-Lago, prosecutors have found evidence of sensitive government documents being kept there. Overseas in Ukraine, there is an ongoing conflict between them and Russia over occupied territory that has been mostly peaceful up until recently when Ukraine mounted multiple attacks this week in a counteroffensive. Earlier this year, former British Prime Minister Boris Johnson resigned from Parliament after a confidential report about some lockdown-breaking parties he held was released. Turning now to Canada where climate change has exacerbated hundreds of wildfires this year resulting in toxic smoke and extreme air pollution visible as far away as the Northeast and Midwest of the United States. And finally, all of these events have resulted in some interesting stories including one about a cryptocurrency hedge fund founders who used their newfound freedom to travel around the world and another about a New York representative whose family helped bail him out but asked for their names to remain sealed out of privacy concerns.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Indictment Presents Evidence Trump’s Actions Were More Blatant Than Known</h3>
@@ -69,15 +69,15 @@ There are a lot of interesting things happening in the world right now. In the U
 <sub><sub>Friday, June 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Trump Classified Documents Indictment, Annotated</h3>
-<sub>By Charlie Savage</sub>
-<p>The indictment unveiled on Friday centers on Donald J. Trump’s handling of sensitive government documents after he left office.  <a href="https://nyti.ms/3oYZpEc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Where Documents Were Found at Mar-a-Lago</h3>
+<sub>By Eleanor Lutz, Charlie Smart and Mika Gröndahl</sub>
+<p>These diagrams show the rooms at Donald J. Trump’s residence where prosecutors say he kept sensitive government documents.  <a href="https://nyti.ms/3JaaM35"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Here’s what we learned from the indictment.</h3>
-<sub>By Maggie Haberman, Glenn Thrush, Alan Feuer and Ben Protess</sub>
-<p>The indictment said the former president had illegally kept documents concerning “United States nuclear programs; potential vulnerabilities of the United States and its allies to military attack; and plans for possible retaliation in response to a foreign attack.”  <a href="https://nyti.ms/45SNBEi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>The Trump Classified Documents Indictment, Annotated</h3>
+<sub>By Charlie Savage</sub>
+<p>The indictment unveiled on Friday centers on Donald J. Trump’s handling of sensitive government documents after he left office.  <a href="https://nyti.ms/3oYZpEc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
