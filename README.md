@@ -58,14 +58,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Friday, June 9, Central Standard Time</p>
+<p>It is Saturday, June 10, Central Standard Time</p>
 <p>
-There are a few major things happening in the world right now. In the United States, an indictment has been released detailing more evidence of possible illegal actions by former President Donald Trump. Additionally, at his residence in Mar-a-Lago, prosecutors have found evidence of sensitive government documents being kept there. Overseas in Ukraine, there is an ongoing conflict between them and Russia over occupied territory that has been mostly peaceful up until recently when Ukraine mounted multiple attacks this week in a counteroffensive. Earlier this year, former British Prime Minister Boris Johnson resigned from Parliament after a confidential report about some lockdown-breaking parties he held was released. Turning now to Canada where climate change has exacerbated hundreds of wildfires this year resulting in toxic smoke and extreme air pollution visible as far away as the Northeast and Midwest of the United States. And finally, all of these events have resulted in some interesting stories including one about a cryptocurrency hedge fund founders who used their newfound freedom to travel around the world and another about a New York representative whose family helped bail him out but asked for their names to remain sealed out of privacy concerns.</p>
+Right now, a lot is going on around the world. In the US, it looks like former President Trump may be prosecuted for putting national security secrets at risk, as prosecutors unveiled an indictment including evidence of his involvement. In Ukraine, there&#39;s a conflict between the government and Russian-backed forces that has been ongoing for years and has recently intensified after Ukraine launched multiple attacks as part of a counteroffensive. Over in the UK, Boris Johnson resigned from Parliament after a confidential report alleged he falsified information about lockdown-breaking parties he attended. Meanwhile, Canada is in the midst of an unusually severe wildfire season due to climate change, where millions of acres have already burned and toxic smoke has filled the air. Closer to home, a New York representative had to reveal his relatives helped guarantee bail for him while four missing children in Colombia were just found alive after 40 days in the jungle.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Indictment Presents Evidence Trump’s Actions Were More Blatant Than Known</h3>
-<sub>By Alan Feuer and Maggie Haberman</sub>
-<p>The accounts in the 49-page indictment provide compelling evidence of a shocking indifference toward some of the country’s most sensitive secrets.  <a href="https://nyti.ms/3OZsytG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Trump Put National Secrets at Risk, Prosecutors Say in Historic Indictment</h3>
+<sub>By Glenn Thrush, Maggie Haberman and Alan Feuer</sub>
+<p>The indictment details evidence that the former president placed national security secrets in jeopardy and schemed to thwart the investigation into the matter.  <a href="https://nyti.ms/3CnHri2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -75,9 +75,9 @@ There are a few major things happening in the world right now. In the United Sta
 <sub><sub>Friday, June 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Trump Classified Documents Indictment, Annotated</h3>
-<sub>By Charlie Savage</sub>
-<p>The indictment unveiled on Friday centers on Donald J. Trump’s handling of sensitive government documents after he left office.  <a href="https://nyti.ms/3oYZpEc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Indictment Presents Evidence Trump’s Actions Were More Blatant Than Known</h3>
+<sub>By Alan Feuer and Maggie Haberman</sub>
+<p>The accounts in the 49-page indictment provide compelling evidence of a shocking indifference toward some of the country’s most sensitive secrets.  <a href="https://nyti.ms/3OZsytG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -104,10 +104,10 @@ There are a few major things happening in the world right now. In the United Sta
 <p>Provincial firefighting agencies are stretched thin, there is no national agency and it’s hard to get approval for controlled burns — factors that have exacerbated recent outbreaks.  <a href="https://nyti.ms/42vO9Np"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>See What Canadian Wildfire Smoke Looked Like in 8 Places This Week</h3>
-<sub>By K.K. Rebecca Lai and Jon Huang</sub>
-<p>Imagery from EarthCam shows how smoke from hundreds of wildfires in Canada enveloped cities in the Northeast and Midwest.  <a href="https://nyti.ms/3WWUNLm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>What to Know About Canada’s Exceptional Wildfire Season</h3>
+<sub>By Dan Bilefsky and Ian Austen</sub>
+<p>Wild fires started earlier, are higher in number and spread across much of the country, burning millions of acres as climate change turns more of the country’s forest into a tinderbox.  <a href="https://nyti.ms/43VAznP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
@@ -116,22 +116,22 @@ There are a few major things happening in the world right now. In the United Sta
 <p>Canada’s devastating fires and toxic smoke might not recur every year, but the heat from climate change increases the risks of a wide range of disasters.  <a href="https://nyti.ms/42yQ04f"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Their Crypto Company Collapsed. They Went to Bali.</h3>
-<sub>By David Yaffe-Bellany</sub>
-<p>The implosion of Three Arrows Capital, a cryptocurrency hedge fund, devastated the industry. Its two founders spent the next year surfing, meditating and traveling the world.  <a href="https://nyti.ms/3N0c6qp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 9, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>George Santos Says His Family Helped Bail Him Out. (Just Don’t Ask Who.)</h3>
 <sub>By Grace Ashford and Michael Gold</sub>
 <p>Mr. Santos, a New York representative, said his relatives had helped guarantee his bail, but asked a judge to keep their names sealed out of privacy concerns.  <a href="https://nyti.ms/43Lxib3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Nonprofit Health System Pauses Policy of Cutting Off Care for Patients in Debt</h3>
-<sub>By Sarah Kliff and Jessica Silver-Greenberg</sub>
-<p>Allina Health, a large health system in the Midwest, had withheld care for patients who had $4,500 in medical bills.  <a href="https://nyti.ms/3J31AgM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>4 Missing Children Found Alive After 40 Days in Colombian Jungle</h3>
+<sub>By Genevieve Glatsky</sub>
+<p>Rescuers had been searching for the children — aged 13, 9, 4 and 1 — ever since they survived a plane crash that killed the three adults on board.  <a href="https://nyti.ms/3J6jijP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-espanol-blue" alt="">
+<h3>Cuatro niños hallados con vida luego de 40 días en la selva de Colombia</h3>
+<sub>By Genevieve Glatsky</sub>
+<p>Aún no se sabe quién encontró a los menores, ni cómo lograron sobrevivir en una selva tan densa. “Queremos compartir la felicidad de todo el pueblo colombiano”, dijo el ministro de Defensa.  <a href="https://nyti.ms/43TGNUT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 9, Central Standard Time</sub></sub>
 <hr/>
 </ol>
