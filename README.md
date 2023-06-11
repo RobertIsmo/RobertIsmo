@@ -60,20 +60,34 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, June 10, Central Standard Time</p>
 <p>
-Right now, there is a lot of political turmoil going on in the US due to a recently-filed federal indictment against President Trump. At the same time, Ukraine has started its own counteroffensive against Russian forces in the south and east. Further away from US soil, Ted Kaczynski, famously known as the &#39;Unabomber&#39;, died at 81 and it is believed his death was a suicide. 
+In the US, experts are concerned by Trump supporters&#39; violent rhetoric in his defense after his indictment. President Trump has cast the upcoming election as an existential fight against his critics. A Trump appointee has been randomly assigned to manage a documents case in Florida. 
 
-Elsewhere, we are seeing some big changes in other parts of the world too. There&#39;s a $5 billion plan to desalinate seawater in Mexico that could change how Arizona gets its water. Shockingly, this comes after 7 weeks of secret negotiations between PGA Tour and Saudi Arabia led to an agreement to remake the global golf game! Finally, Saudi Arabia&#39;s huge $700 billion investment fund is looking to invest in tourism, job creation, and private equity - including golf.</p>
+Ted Kaczynski, the &#39;Unabomber&#39; who attacked modern life with homemade bombs that killed three people and injured 23 others, recently died at 81 in prison, reportedly via suicide.
+
+In Ukraine, counteroffensives have begun following flooding from a burst dam and involve strong Russian defenses in the south and east. Ukraine is using its newly acquired Western tanks and armored vehicles for one of the largest operations since WWII.
+
+The PGA Tour has just made a secretive agreement with Saudi Arabia to remake the global game of golf with wealth stemming from a 700 billion investment fund. 
+
+A former Spanish intelligence agent is facing prison over some secret tapes that have rocked society. 
+
+Finally, Jena Antonucci became the first female trainer to win a Triple Crown race, which spans more than a century. She expressed her hopes that humans can learn from horses.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Worldwide, Trump’s Latest Legal Woes Draw Outrage, and Shrugs</h3>
-<sub>By Damien Cave</sub>
-<p>Allies and rivals alike, beholding the messiness of America, must calculate the risks and opportunities in the latest plot twist in Donald Trump’s legal troubles.  <a href="https://nyti.ms/3N45gjE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Supporters’ Violent Rhetoric in His Defense Disturbs Experts</h3>
+<sub>By Michael S. Schmidt, Alan Feuer, Maggie Haberman and Adam Goldman</sub>
+<p>The former president’s allies have portrayed the indictment as an act of war and called for retribution, which political violence experts say increases the risk of action.  <a href="https://nyti.ms/3N4G5gS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>‘This Is the Final Battle’: Trump Casts His Campaign as an Existential Fight Against His Critics</h3>
-<sub>By Jonathan Swan, Maggie Haberman and Shane Goldmacher</sub>
-<p>Donald J. Trump delivered his first post-indictment public remarks on Saturday at the state G.O.P. convention in Georgia, as his federal indictment dominates the political landscape.  <a href="https://nyti.ms/45TDbnR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub>By Jonathan Swan, Maggie Haberman and Nicholas Nehamas</sub>
+<p>Donald J. Trump delivered his first post-indictment public remarks on Saturday at the state G.O.P. conventions in Georgia and North Carolina, as his federal indictment dominates the political landscape.  <a href="https://nyti.ms/45TDbnR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, June 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Appointee Will Remain Judge in Documents Case, Clerk Says</h3>
+<sub>By Charlie Savage</sub>
+<p>The chief clerk of the courts for the Southern District of Florida added that Judge Aileen M. Cannon had been randomly assigned to the case.  <a href="https://nyti.ms/3qrwvwT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -106,11 +120,17 @@ Elsewhere, we are seeing some big changes in other parts of the world too. There
 <p>Ukraine is using its new arsenal of Western tanks and armored vehicles in what is expected to be one of the largest military operations in Europe since World War II.  <a href="https://nyti.ms/3oN6EPO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Arizona, Low on Water, Weighs Taking It From the Sea. In Mexico.</h3>
-<sub>By Christopher Flavelle and Adriana Zehbrauskas</sub>
-<p>A $5 billion plan to desalinate seawater in Mexico and pipe it to Phoenix is testing the notion that desert cities can keep growing as the Earth warms.  <a href="https://nyti.ms/42y3Jbh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Secrecy, Cigars and a Venetian Wedding: How the PGA Tour Made a Deal with Saudi Arabia</h3>
+<sub>By Alan Blinder, Lauren Hirsch, Kevin Draper and Kate Kelly</sub>
+<p>The agreement to remake a global game stunned most of the sporting world after seven weeks of clandestine negotiations.  <a href="https://nyti.ms/3J8mqvv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>All About the Deep-Pocketed Saudi Wealth Fund That Rocked Golf</h3>
+<sub>By Kate Kelly and Vivian Nereim</sub>
+<p>The secretive $700 billion investment fund has set its sights on tourism, job creation, private equity and, now, golf.  <a href="https://nyti.ms/43zHCCU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
 <h3>The Spy Who Called Me</h3>
@@ -123,18 +143,6 @@ Elsewhere, we are seeing some big changes in other parts of the world too. There
 <sub>By Joe Drape</sub>
 <p>Jena Antonucci became the first female trainer to win a Triple Crown race, a series that spans more than a century. “I wish more people can be like horses,” she said.  <a href="https://nyti.ms/3NoXke4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Secrecy, Cigars and a Venetian Wedding: How the PGA Tour Made a Deal with Saudi Arabia</h3>
-<sub>By Alan Blinder, Lauren Hirsch, Kevin Draper and Kate Kelly</sub>
-<p>The agreement to remake a global game stunned most of the sporting world after seven weeks of clandestine negotiations.  <a href="https://nyti.ms/3J8mqvv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, June 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>All About the Deep-Pocketed Saudi Wealth Fund That Rocked Golf</h3>
-<sub>By Kate Kelly and Vivian Nereim</sub>
-<p>The secretive $700 billion investment fund has set its sights on tourism, job creation, private equity and, now, golf.  <a href="https://nyti.ms/43zHCCU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
