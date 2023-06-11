@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, June 11, Central Standard Time</p>
 <p>
-There is a lot of political upheaval going on in the US right now. Trump supporters have been using alarming rhetoric to defend him after his indictment, and his personal aide has been charged alongside him. Trump is casting his campaign as an existential fight against his critics, and there is escalating tension between Ukraine and Russia. In India, there was recently a tragic train disaster with 288 people dead in overcrowded cars, and Silicon Valley is grappling with implications of artificial intelligence. The Supreme Court is ruling on race-conscious college admissions after Democrats failed to pass an affirmative action campaign in California. And, unfortunately, Ted Kaczynski - the infamous Unabomber - died by suicide while serving time in prison for killing three people. On the flip side, sex therapist Emily Morse is advocating for more open relationships and talking about exploring your own sexual desires.</p>
+There&#39;s a lot of political turmoil in the US right now, with former President Trump and his allies being accused of a crime and some of his supporters responding with violent rhetoric. Meanwhile, Ukraine is facing tension with Russia, including an explosion that has damaged critical infrastructure and affected many in the country. Elsewhere, Scottish leader Nicola Sturgeon was arrested in a financial inquiry and India had its worst railway disaster in decades. Lastly, debate is raging about the possibility of artificial intelligence becoming out of control, as well as potential racial implications of college admissions policies. Additionally, notorious domestic terrorist Ted Kaczynski, known as the &quot;Unabomber&quot;, has passed away in prison.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Supporters’ Violent Rhetoric in His Defense Disturbs Experts</h3>
@@ -89,7 +89,13 @@ There is a lot of political upheaval going on in the US right now. Trump support
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>‘Everything Will Die’: A Dam Blast Imperils Ukraine’s Vital Lifeline</h3>
 <sub>By Carlotta Gall</sub>
-<p>A disaster unfolds in slow motion after a blast destroys the dam at the Kakhovka Reservoir, emptying its waters and threatening livelihoods and industries crucial to Ukraine.  <a href="https://nyti.ms/43xVnlr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>A disaster unfolds in slow motion after an explosion destroyed the dam at the Kakhovka Reservoir, emptying its waters and threatening livelihoods and crucial industries.  <a href="https://nyti.ms/43xVnlr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, June 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Nicola Sturgeon, Scotland’s Former Leader, Is Arrested in Financial Inquiry</h3>
+<sub>By Stephen Castle</sub>
+<p>The arrest of Ms. Sturgeon, who resigned as leader of the Scottish National Party in February, follows that of her husband, previously the party’s chief executive, and of its former treasurer.  <a href="https://nyti.ms/3CjGOGd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, June 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -127,12 +133,6 @@ There is a lot of political upheaval going on in the US right now. Trump support
 <sub>By Livia Albeck-Ripka</sub>
 <p>The domestic terrorist, who evaded authorities for almost 20 years, killed three people and injured 23 others with his homemade bombs.  <a href="https://nyti.ms/3oQw0fF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Emily Morse Wants You to Think Seriously About an Open Relationship</h3>
-<sub>By David Marchese</sub>
-<p>“You need to be self-aware and have self-knowledge about your sexual desires,” the sex therapist, author and podcaster says.  <a href="https://nyti.ms/3NlavNk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, June 11, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
