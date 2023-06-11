@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, June 11, Central Standard Time</p>
 <p>
-It&#39;s been an exciting news cycle, in the US Trump supporters have been acting out violently in defense of the recently indicted former president and his speech on Saturday further emboldened his critics. Additionally, Ted Kaczynski, known as the Unabomber, recently died in prison, and we can now look back on how he was eventually apprehended after decades of fear. In Ukraine, President Zelensky is coordinating a massive military operation to battle Russian troops in the south and east. Moving to sports news-- golf has seen some major developments this week! After 7 weeks of secret negotiations, the PGA tour made a deal with the wealthy Saudi Investment Fund that will significantly shake up the international game. Lastly, Jena Antonucci became history when she became the first female trainee to win a Triple Crown race. Finally in Idaho a hunt for a killer ended with a new DNA technology breakthrough discovering the culprit who was behind the stabbing deaths of 4 students near a college campus.</p>
+There is a lot of political upheaval going on in the US right now. Trump supporters have been using alarming rhetoric to defend him after his indictment, and his personal aide has been charged alongside him. Trump is casting his campaign as an existential fight against his critics, and there is escalating tension between Ukraine and Russia. In India, there was recently a tragic train disaster with 288 people dead in overcrowded cars, and Silicon Valley is grappling with implications of artificial intelligence. The Supreme Court is ruling on race-conscious college admissions after Democrats failed to pass an affirmative action campaign in California. And, unfortunately, Ted Kaczynski - the infamous Unabomber - died by suicide while serving time in prison for killing three people. On the flip side, sex therapist Emily Morse is advocating for more open relationships and talking about exploring your own sexual desires.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Supporters’ Violent Rhetoric in His Defense Disturbs Experts</h3>
@@ -69,16 +69,46 @@ It&#39;s been an exciting news cycle, in the US Trump supporters have been actin
 <sub><sub>Saturday, June 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How Walt Nauta, a Personal Aide, Came to be Charged as Trump’s Co-Conspirator</h3>
+<sub>By Alan Feuer, Maggie Haberman and Jonathan Swan</sub>
+<p>A Navy veteran and a regular presence at Donald Trump’s side, he is said to have played a central role in helping to thwart government efforts to retrieve classified documents.  <a href="https://nyti.ms/43yc5B8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, June 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>‘This Is the Final Battle’: Trump Casts His Campaign as an Existential Fight Against His Critics</h3>
 <sub>By Jonathan Swan, Maggie Haberman and Nicholas Nehamas</sub>
 <p>Donald J. Trump delivered his first post-indictment public remarks on Saturday at the state G.O.P. conventions in Georgia and North Carolina, as his federal indictment dominates the political landscape.  <a href="https://nyti.ms/45TDbnR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Appointee Will Remain Judge in Documents Case, Clerk Says</h3>
-<sub>By Charlie Savage</sub>
-<p>The chief clerk of the courts for the Southern District of Florida added that Judge Aileen M. Cannon had been randomly assigned to the case.  <a href="https://nyti.ms/3qrwvwT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>As Ukraine Launches Counteroffensive, Definitions of ‘Success’ Vary</h3>
+<sub>By Julian E. Barnes and Steven Erlanger</sub>
+<p>Privately, U.S. and European officials concede that pushing all of Russia’s forces out of occupied Ukrainian land is highly unlikely.  <a href="https://nyti.ms/3Nn6V5p"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘Everything Will Die’: A Dam Blast Imperils Ukraine’s Vital Lifeline</h3>
+<sub>By Carlotta Gall</sub>
+<p>A disaster unfolds in slow motion after a blast destroys the dam at the Kakhovka Reservoir, emptying its waters and threatening livelihoods and industries crucial to Ukraine.  <a href="https://nyti.ms/43xVnlr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, June 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Faceless, Nameless and Dead by the Dozen in a Train’s Cheapest Cars</h3>
+<sub>By Sameer Yasir, Mujib Mashal and Hari Kumar</sub>
+<p>In India’s worst railway disaster in decades, nearly all of the 288 dead were in three crowded cars where passengers stand for long stretches.  <a href="https://nyti.ms/43xkJ2V"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, June 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Silicon Valley Confronts the Idea That the ‘Singularity’ Is Here</h3>
+<sub>By David Streitfeld</sub>
+<p>The frenzy over artificial intelligence may be ushering in the long-awaited moment when technology goes wild. Or maybe it’s the hype that is out of control.  <a href="https://nyti.ms/42zDNMk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, June 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Failed Affirmative Action Campaign That Shook Democrats</h3>
+<sub>By Michael Powell and Ilana Marcus</sub>
+<p>The Supreme Court will soon rule on race-conscious college admissions, a core Democratic issue. But an analysis of a California referendum points to a divide between the party and voters.  <a href="https://nyti.ms/43xgaWl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, June 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Ted Kaczynski, ‘Unabomber’ Who Attacked Modern Life, Dies at 81</h3>
@@ -98,41 +128,11 @@ It&#39;s been an exciting news cycle, in the US Trump supporters have been actin
 <p>The domestic terrorist, who evaded authorities for almost 20 years, killed three people and injured 23 others with his homemade bombs.  <a href="https://nyti.ms/3oQw0fF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Zelensky Signals Ukraine’s Counteroffensive Has Begun</h3>
-<sub>By Marc Santora</sub>
-<p>As waters from the flooding of a burst dam began to recede, Ukrainian forces were trying to break through stout Russian defenses in the south and east.  <a href="https://nyti.ms/3X2xLDa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, June 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>With Probes of Russian Lines, Ukraine’s Counteroffensive Takes Shape</h3>
-<sub>By Andrew E. Kramer</sub>
-<p>Ukraine is using its new arsenal of Western tanks and armored vehicles in what is expected to be one of the largest military operations in Europe since World War II.  <a href="https://nyti.ms/3oN6EPO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, June 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Secrecy, Cigars and a Venetian Wedding: How the PGA Tour Made a Deal with Saudi Arabia</h3>
-<sub>By Alan Blinder, Lauren Hirsch, Kevin Draper and Kate Kelly</sub>
-<p>The agreement to remake a global game stunned most of the sporting world after seven weeks of clandestine negotiations.  <a href="https://nyti.ms/3J8mqvv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, June 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>All About the Deep-Pocketed Saudi Wealth Fund That Rocked Golf</h3>
-<sub>By Kate Kelly and Vivian Nereim</sub>
-<p>The secretive $700 billion investment fund has set its sights on tourism, job creation, private equity and, now, golf.  <a href="https://nyti.ms/43zHCCU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Arcangelo’s Belmont Victory Makes Trainer First Woman to Win a Triple Crown Race</h3>
-<sub>By Joe Drape</sub>
-<p>Jena Antonucci became the first female trainer to win a Triple Crown race, a series that spans more than a century. “I wish more people can be like horses,” she said.  <a href="https://nyti.ms/3NoXke4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, June 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Inside the Hunt for the Idaho Killer</h3>
-<sub>By Mike Baker</sub>
-<p>After four students were stabbed to death in a house near a college campus, investigators scooped up data and forensic evidence, hoping for leads. A new DNA technique finally brought a breakthrough.  <a href="https://nyti.ms/42x0bGb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, June 10, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Emily Morse Wants You to Think Seriously About an Open Relationship</h3>
+<sub>By David Marchese</sub>
+<p>“You need to be self-aware and have self-knowledge about your sexual desires,” the sex therapist, author and podcaster says.  <a href="https://nyti.ms/3NlavNk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, June 11, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
