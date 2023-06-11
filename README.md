@@ -58,19 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Saturday, June 10, Central Standard Time</p>
+<p>It is Sunday, June 11, Central Standard Time</p>
 <p>
-In the US, experts are concerned by Trump supporters&#39; violent rhetoric in his defense after his indictment. President Trump has cast the upcoming election as an existential fight against his critics. A Trump appointee has been randomly assigned to manage a documents case in Florida. 
-
-Ted Kaczynski, the &#39;Unabomber&#39; who attacked modern life with homemade bombs that killed three people and injured 23 others, recently died at 81 in prison, reportedly via suicide.
-
-In Ukraine, counteroffensives have begun following flooding from a burst dam and involve strong Russian defenses in the south and east. Ukraine is using its newly acquired Western tanks and armored vehicles for one of the largest operations since WWII.
-
-The PGA Tour has just made a secretive agreement with Saudi Arabia to remake the global game of golf with wealth stemming from a 700 billion investment fund. 
-
-A former Spanish intelligence agent is facing prison over some secret tapes that have rocked society. 
-
-Finally, Jena Antonucci became the first female trainer to win a Triple Crown race, which spans more than a century. She expressed her hopes that humans can learn from horses.</p>
+In the US, former President Donald Trump is dealing with a recent indictment and his supporters have been making disturbingly violent rhetoric in his defense. Meanwhile, Ted Kaczynski, known as the Unabomber, has died at 81 in prison from suicide and his case is being remembered. In Ukraine, President Zelensky has declared a counteroffensive against Russian forces while the PGA Tour has just made a secretive deal with Saudi Arabia&#39;s deep-pocketed investment fund. A trainer just became the first woman to win a Triple Crown Race and police are on the hunt for an Idaho killer after four students were stabbed to death near a college campus.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Supporters’ Violent Rhetoric in His Defense Disturbs Experts</h3>
@@ -132,16 +122,16 @@ Finally, Jena Antonucci became the first female trainer to win a Triple Crown ra
 <p>The secretive $700 billion investment fund has set its sights on tourism, job creation, private equity and, now, golf.  <a href="https://nyti.ms/43zHCCU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>The Spy Who Called Me</h3>
-<sub>By Nicholas Casey</sub>
-<p>For years, Spanish society has been rocked by revelations from the secret tapes of José Manuel Villarejo Pérez, a former intelligence agent now facing prison. He told me his story.  <a href="https://nyti.ms/45ZiTtk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, June 10, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Arcangelo’s Belmont Victory Makes Trainer First Woman to Win a Triple Crown Race</h3>
 <sub>By Joe Drape</sub>
 <p>Jena Antonucci became the first female trainer to win a Triple Crown race, a series that spans more than a century. “I wish more people can be like horses,” she said.  <a href="https://nyti.ms/3NoXke4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, June 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Inside the Hunt for the Idaho Killer</h3>
+<sub>By Mike Baker</sub>
+<p>After four students were stabbed to death in a house near a college campus, investigators scooped up data and forensic evidence, hoping for leads. A new DNA technique finally brought a breakthrough.  <a href="https://nyti.ms/42x0bGb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 10, Central Standard Time</sub></sub>
 <hr/>
 </ol>
