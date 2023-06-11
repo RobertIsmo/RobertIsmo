@@ -60,18 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, June 10, Central Standard Time</p>
 <p>
-Right now, there is a lot of news coming from the US about former President Donald Trump&#39;s legal troubles. He is facing multiple felony counts, which has posed a challenge to democracy and sparked some outrage around the world. In addition, the state of Arizona is looking at taking water from the sea in Mexico to combat its water shortage as the Earth continues to warm. And this weekend marks the 50th anniversary of Secretariat&#39;s legendary win in the Triple Crown.</p>
+Right now, there is a lot of political turmoil going on in the US due to a recently-filed federal indictment against President Trump. At the same time, Ukraine has started its own counteroffensive against Russian forces in the south and east. Further away from US soil, Ted Kaczynski, famously known as the &#39;Unabomber&#39;, died at 81 and it is believed his death was a suicide. 
+
+Elsewhere, we are seeing some big changes in other parts of the world too. There&#39;s a $5 billion plan to desalinate seawater in Mexico that could change how Arizona gets its water. Shockingly, this comes after 7 weeks of secret negotiations between PGA Tour and Saudi Arabia led to an agreement to remake the global golf game! Finally, Saudi Arabia&#39;s huge $700 billion investment fund is looking to invest in tourism, job creation, and private equity - including golf.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Worldwide, Trump’s Latest Legal Woes Draw Outrage, and Shrugs</h3>
 <sub>By Damien Cave</sub>
 <p>Allies and rivals alike, beholding the messiness of America, must calculate the risks and opportunities in the latest plot twist in Donald Trump’s legal troubles.  <a href="https://nyti.ms/3N45gjE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, June 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump’s Case Puts the Justice System on Trial, in a Test of Public Credibility</h3>
-<sub>By Peter Baker</sub>
-<p>The former president’s efforts to defend against multiple felony counts by discrediting law enforcement pose a grave challenge to democracy.  <a href="https://nyti.ms/42yCnlv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -81,15 +77,27 @@ Right now, there is a lot of news coming from the US about former President Dona
 <sub><sub>Saturday, June 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Unanswered in Indictment’s Details on Trump’s Hoarding of Documents: Why?</h3>
-<sub>By Maggie Haberman and Alan Feuer</sub>
-<p>The charging document offers some possible hints but does not establish that the former president had a goal beyond simply possessing the material.  <a href="https://nyti.ms/42CnFd4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, June 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Ted Kaczynski, ‘Unabomber’ Who Attacked Modern Life, Dies at 81</h3>
 <sub>By Alex Traub</sub>
 <p>Alone in a shack in the Montana wilderness, he fashioned homemade bombs and launched a violent one-man campaign to destroy industrial society.  <a href="https://nyti.ms/43Ua9CE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, June 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Kaczynski Is Said to Have Died by Suicide in Prison</h3>
+<sub>By Glenn Thrush</sub>
+<p>The man known as the “Unabomber” had been transferred to a federal prison medical center in 2021 after more than 25 years at a maximum security facility.  <a href="https://nyti.ms/3NkOgXI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, June 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How the Case Against Ted Kaczynski, the ‘Unabomber,’ Unfolded</h3>
+<sub>By Livia Albeck-Ripka</sub>
+<p>The domestic terrorist, who evaded authorities for almost 20 years, killed three people and injured 23 others with his homemade bombs.  <a href="https://nyti.ms/3oQw0fF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, June 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Zelensky Signals Ukraine’s Counteroffensive Has Begun</h3>
+<sub>By Marc Santora</sub>
+<p>As waters from the flooding of a burst dam began to recede, Ukrainian forces were trying to break through stout Russian defenses in the south and east.  <a href="https://nyti.ms/3X2xLDa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -101,7 +109,7 @@ Right now, there is a lot of news coming from the US about former President Dona
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>Arizona, Low on Water, Weighs Taking It From the Sea. In Mexico.</h3>
 <sub>By Christopher Flavelle and Adriana Zehbrauskas</sub>
-<p>A $5 billion plan to desalinate seawater in Mexico and pipe it to Phoenix is testing the notion that desert cities can keep growing as the Earth warm.  <a href="https://nyti.ms/42y3Jbh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>A $5 billion plan to desalinate seawater in Mexico and pipe it to Phoenix is testing the notion that desert cities can keep growing as the Earth warms.  <a href="https://nyti.ms/42y3Jbh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
@@ -110,29 +118,23 @@ Right now, there is a lot of news coming from the US about former President Dona
 <p>For years, Spanish society has been rocked by revelations from the secret tapes of José Manuel Villarejo Pérez, a former intelligence agent now facing prison. He told me his story.  <a href="https://nyti.ms/45ZiTtk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>El espía que me llamó</h3>
-<sub>By Nicholas Casey</sub>
-<p>La sociedad española se ha visto sacudida durante años por la filtración de audios secretos de José Manuel Villarejo, otrora agente de inteligencia. Esta es la historia que me contó.  <a href="https://nyti.ms/43ytWIf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, June 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Inside the Hunt for the Idaho Killer</h3>
-<sub>By Mike Baker</sub>
-<p>After four students were stabbed to death in a house near a college campus, investigators scooped up data and forensic evidence, hoping for leads. A new DNA technique finally brought a breakthrough.  <a href="https://nyti.ms/42x0bGb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Arcangelo’s Belmont Victory Makes Trainer First Woman to Win a Triple Crown Race</h3>
+<sub>By Joe Drape</sub>
+<p>Jena Antonucci became the first female trainer to win a Triple Crown race, a series that spans more than a century. “I wish more people can be like horses,” she said.  <a href="https://nyti.ms/3NoXke4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Secretariat’s Legend Rolls on Like, Well, a Tremendous Machine</h3>
-<sub>By Melissa Hoppert</sub>
-<p>Fifty years after Secretariat clinched the Triple Crown with a runaway win in the Belmont Stakes, fans still long to connect with his story.  <a href="https://nyti.ms/3N7dyHM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Expert Picks: Who Will Win the Belmont Stakes?</h3>
-<sub>By Joe Drape and Melissa Hoppert</sub>
-<p>Joe Drape and Melissa Hoppert assess the contenders for the 155th Belmont Stakes on Saturday.  <a href="https://nyti.ms/42uzli1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Secrecy, Cigars and a Venetian Wedding: How the PGA Tour Made a Deal with Saudi Arabia</h3>
+<sub>By Alan Blinder, Lauren Hirsch, Kevin Draper and Kate Kelly</sub>
+<p>The agreement to remake a global game stunned most of the sporting world after seven weeks of clandestine negotiations.  <a href="https://nyti.ms/3J8mqvv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>All About the Deep-Pocketed Saudi Wealth Fund That Rocked Golf</h3>
+<sub>By Kate Kelly and Vivian Nereim</sub>
+<p>The secretive $700 billion investment fund has set its sights on tourism, job creation, private equity and, now, golf.  <a href="https://nyti.ms/43zHCCU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
