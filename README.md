@@ -60,8 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, June 11, Central Standard Time</p>
 <p>
-Right now, there&#39;s a lot happening in the world related to politics. In the US, former President Donald Trump is facing a federal indictment and many of his allies have been defending him with violent rhetoric. There have also been reported cases of people associated with Trump sabotaging government efforts. At the same time, in Ukraine, they are launching a counteroffensive against an invading force from Russia. In India there was a major railway disaster that resulted in hundreds of casualties, and Scotland&#39;s former leader recently was arrested as part of an ongoing financial inquiry. Additionally, artificial intelligence experts are debating whether Silicon Valley has finally achieved the &quot;Singularity&quot; and taking a look at the failed affirmative action campaign started by Democrats in California. Lastly, Novak Djokovic recently won the men&#39;s singles championship at the French Open and Emily Morse is helping people think seriously about open relationships.</p>
+Well, the news has been pretty interesting lately. First of all, the 2024 G.O.P field is facing a difficult decision between law and order or loyalty to their former leader, President Donald Trump. Many of his supporters are using violent rhetoric to defend him against an indictment, and one of his aides has been charged as a co-conspirator in preventing government access to classified documents.
+
+In Ukraine, they’re attempting to launch a counteroffensive against Russia, but the definitions of ‘success’ vary. Also, there was a major disaster affecting their vital lifeline when the dam at the Kakhovka Reservoir exploded and began emptying its waters. In other news, Scotland’s former leader is being arrested in a financial inquiry as well as several other party members. India also had their worst railway disaster in decades with 288 dead in crowded cars.
+
+The Silicon Valley is also meeting with the idea that the singularity is here and AI might be going wild - or it could just be hype out of control. Lastly, Democrats are looking at a failed affirmative action campaign that could shake them up when the Supreme Court rules on college admissions by race soon - and an I-95 overpass collapsed after a tanker fire in Philadelphia that will create major delays for people&#39;s morning commutes this Monday. 
+
+Oh yeah, and there’s an author&#x2F;sex therapist&#x2F;podcaster who wants people to think seriously about open relationships!</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The 2024 G.O.P. Field Faces a Choice: Law and Order or Loyalty</h3>
+<sub>By Jonathan Weisman and Ken Bensinger</sub>
+<p>The candidates challenging Donald Trump have to decide how to run against the indicted former president. And it could determine where the party goes from here.  <a href="https://nyti.ms/3WXoSL3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, June 11, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Supporters’ Violent Rhetoric in His Defense Disturbs Experts</h3>
 <sub>By Michael S. Schmidt, Alan Feuer, Maggie Haberman and Adam Goldman</sub>
@@ -75,10 +87,10 @@ Right now, there&#39;s a lot happening in the world related to politics. In the 
 <sub><sub>Sunday, June 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘This Is the Final Battle’: Trump Casts His Campaign as an Existential Fight Against His Critics</h3>
-<sub>By Jonathan Swan, Maggie Haberman and Nicholas Nehamas</sub>
-<p>Donald J. Trump delivered his first post-indictment public remarks on Saturday at the state G.O.P. conventions in Georgia and North Carolina, as his federal indictment dominates the political landscape.  <a href="https://nyti.ms/45TDbnR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, June 10, Central Standard Time</sub></sub>
+<h3>What We Learned From the Trump Indictment</h3>
+<sub>By Maggie Haberman, Glenn Thrush, Alan Feuer and Ben Protess</sub>
+<p>The indictment said the former president had illegally kept documents concerning “United States nuclear programs; potential vulnerabilities of the United States and its allies to military attack; and plans for possible retaliation in response to a foreign attack.”  <a href="https://nyti.ms/45SNBEi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>As Ukraine Launches Counteroffensive, Definitions of ‘Success’ Vary</h3>
@@ -117,15 +129,9 @@ Right now, there&#39;s a lot happening in the world related to politics. In the 
 <sub><sub>Sunday, June 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Fire Causes Overpass Collapse and Closes Part of I-95 in Philadelphia</h3>
+<h3>I-95 Overpass Collapses in Philadelphia After a Tanker Fire</h3>
 <sub>By Amanda Holpuch</sub>
-<p>A vehicle fire under the interstate in northeast Philadelphia caused an overpass to collapse, shutting down traffic in both directions, officials said.  <a href="https://nyti.ms/3P59sSQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, June 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Novak Djokovic Captures the French Open and a 23rd Grand Slam Title</h3>
-<sub>By Matthew Futterman</sub>
-<p>Djokovic beat Casper Ruud to win the men’s singles championship, passing Rafael Nadal for the most Grand Slam tournament titles in the Open era.  <a href="https://nyti.ms/3P4Luai"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Officials warned that repairs would require “heavy construction” and cause delays during the Monday morning commute.  <a href="https://nyti.ms/3P59sSQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, June 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
