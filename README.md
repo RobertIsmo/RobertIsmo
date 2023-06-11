@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, June 11, Central Standard Time</p>
 <p>
-There&#39;s a lot of political turmoil in the US right now, with former President Trump and his allies being accused of a crime and some of his supporters responding with violent rhetoric. Meanwhile, Ukraine is facing tension with Russia, including an explosion that has damaged critical infrastructure and affected many in the country. Elsewhere, Scottish leader Nicola Sturgeon was arrested in a financial inquiry and India had its worst railway disaster in decades. Lastly, debate is raging about the possibility of artificial intelligence becoming out of control, as well as potential racial implications of college admissions policies. Additionally, notorious domestic terrorist Ted Kaczynski, known as the &quot;Unabomber&quot;, has passed away in prison.</p>
+Right now, there&#39;s a lot happening in the world related to politics. In the US, former President Donald Trump is facing a federal indictment and many of his allies have been defending him with violent rhetoric. There have also been reported cases of people associated with Trump sabotaging government efforts. At the same time, in Ukraine, they are launching a counteroffensive against an invading force from Russia. In India there was a major railway disaster that resulted in hundreds of casualties, and Scotland&#39;s former leader recently was arrested as part of an ongoing financial inquiry. Additionally, artificial intelligence experts are debating whether Silicon Valley has finally achieved the &quot;Singularity&quot; and taking a look at the failed affirmative action campaign started by Democrats in California. Lastly, Novak Djokovic recently won the men&#39;s singles championship at the French Open and Emily Morse is helping people think seriously about open relationships.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Supporters’ Violent Rhetoric in His Defense Disturbs Experts</h3>
@@ -117,22 +117,22 @@ There&#39;s a lot of political turmoil in the US right now, with former Presiden
 <sub><sub>Sunday, June 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Ted Kaczynski, ‘Unabomber’ Who Attacked Modern Life, Dies at 81</h3>
-<sub>By Alex Traub</sub>
-<p>Alone in a shack in the Montana wilderness, he fashioned homemade bombs and launched a violent one-man campaign to destroy industrial society.  <a href="https://nyti.ms/43Ua9CE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, June 10, Central Standard Time</sub></sub>
+<h3>Fire Causes Overpass Collapse and Closes Part of I-95 in Philadelphia</h3>
+<sub>By Amanda Holpuch</sub>
+<p>A vehicle fire under the interstate in northeast Philadelphia caused an overpass to collapse, shutting down traffic in both directions, officials said.  <a href="https://nyti.ms/3P59sSQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, June 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Kaczynski Is Said to Have Died by Suicide in Prison</h3>
-<sub>By Glenn Thrush</sub>
-<p>The man known as the “Unabomber” had been transferred to a federal prison medical center in 2021 after more than 25 years at a maximum security facility.  <a href="https://nyti.ms/3NkOgXI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, June 10, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Novak Djokovic Captures the French Open and a 23rd Grand Slam Title</h3>
+<sub>By Matthew Futterman</sub>
+<p>Djokovic beat Casper Ruud to win the men’s singles championship, passing Rafael Nadal for the most Grand Slam tournament titles in the Open era.  <a href="https://nyti.ms/3P4Luai"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, June 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How the Case Against Ted Kaczynski, the ‘Unabomber,’ Unfolded</h3>
-<sub>By Livia Albeck-Ripka</sub>
-<p>The domestic terrorist, who evaded authorities for almost 20 years, killed three people and injured 23 others with his homemade bombs.  <a href="https://nyti.ms/3oQw0fF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, June 10, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Emily Morse Wants You to Think Seriously About an Open Relationship</h3>
+<sub>By David Marchese</sub>
+<p>“You need to be self-aware and have self-knowledge about your sexual desires,” the sex therapist, author and podcaster says.  <a href="https://nyti.ms/3NlavNk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, June 11, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
