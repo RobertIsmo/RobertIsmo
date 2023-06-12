@@ -59,7 +59,8 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, June 11, Central Standard Time</p>
-<p>A lot has been happening in the world lately! Former US President Donald Trump was recently indicted and there is evidence that his own lawyers provided crucial information. The 2024 election for the Republican party has been an interesting topic, as the candidates face whether to run based on loyalty or law and order. Ukraine recently reported small successes against Russia in their counteroffensive, while former leader Nicola Sturgeon of Scotland was arrested in a financial inquiry. The Tony Awards are being held soon and the Supreme Court will rule on race-conscious college admissions in the US. India was hit by a terrible railway disaster with nearly 300 dead, and there has been discussion of an open relationship between partners raised by sex therapist Emily Morse. Lastly, musician Joni Mitchell just returned to the stage after a 20+ year wait, and sport fans discus why team owners always raise the championship trophy first.</p>
+<p>
+There&#39;s a lot going on in the world right now. In the US, Donald Trump has been indicted for illegally keeping documents related to nuclear programs and foreign attacks. There&#39;s a growing debate among Republican candidates about how to approach the upcoming election in relation to Trump. In Ukraine, officials are claiming some success in a counteroffensive against Russian occupiers. Over in the theater world, nonbinary performers made history at the Tony Awards. In Scotland, Former Leader Nicola Sturgeon has been arrested in a financial inquiry. India experienced its worst railway disaster in decades with hundreds of people reported dead. Also in the US, the Supreme Court is about to rule on race-conscious college admissions and an I-95 overpass collapsed in Philadelphia due to a tanker fire, making it harder for commuters. And finally, singer-songwriter Joni Mitchell made her return to the stage after over 20 years with a nearly 3-hour performance that showed off both her voice and wit!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Indictment Shows Critical Evidence Came From One of His Own Lawyers</h3>
@@ -85,16 +86,22 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>Three small settlements in the eastern region of Donetsk have been taken back from Russian occupiers, Ukrainian officials say.  <a href="https://nyti.ms/46a6eDU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, June 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Nicola Sturgeon, Scotland’s Former Leader, Is Arrested in Financial Inquiry</h3>
-<sub>By Stephen Castle</sub>
-<p>The arrest of Ms. Sturgeon, who resigned as leader of the Scottish National Party in February, follows that of her husband, previously the party’s chief executive, and of its former treasurer.  <a href="https://nyti.ms/3CjGOGd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-theater-blue" alt="">
+<h3>In Historic Night for Nonbinary Performers, J. Harrison Ghee and Alex Newell Win Tony Awards</h3>
+<sub>By Michael Paulson</sub>
+<p>Ghee became the first out nonbinary performer to win a Tony for best leading actor in a musical, for ‘Some Like It Hot.’  <a href="https://nyti.ms/3P3oUPx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, June 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-theater-blue" alt="">
 <h3>Tony Award Winners 2023: Updating List</h3>
 <sub>By Rachel Sherman</sub>
 <p>The Tony Awards are being held Sunday at the United Palace in New York City.  <a href="https://nyti.ms/3Nn8VdH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, June 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Nicola Sturgeon, Scotland’s Former Leader, Is Arrested in Financial Inquiry</h3>
+<sub>By Stephen Castle</sub>
+<p>The arrest of Ms. Sturgeon, who resigned as leader of the Scottish National Party in February, follows that of her husband, previously the party’s chief executive, and of its former treasurer.  <a href="https://nyti.ms/3CjGOGd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, June 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -126,12 +133,6 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <sub>By Lindsay Zoladz</sub>
 <p>The singer-songwriter’s first announced concert in more than 20 years was a nearly-three-hour reimagining of her catalog that showcased her evolving, rich voice and her ever-sharp wit.  <a href="https://nyti.ms/43C0HEu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, June 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Why Do Team Owners Raise the Championship Trophy First?</h3>
-<sub>By Andrew Keh</sub>
-<p>It’s a decidedly American tradition, even if it can be a buzz-kill.  <a href="https://nyti.ms/3X1R3IB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, June 10, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
