@@ -58,9 +58,17 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Sunday, June 11, Central Standard Time</p>
+<p>It is Monday, June 12, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. In the US, Donald Trump has been indicted for illegally keeping documents related to nuclear programs and foreign attacks. There&#39;s a growing debate among Republican candidates about how to approach the upcoming election in relation to Trump. In Ukraine, officials are claiming some success in a counteroffensive against Russian occupiers. Over in the theater world, nonbinary performers made history at the Tony Awards. In Scotland, Former Leader Nicola Sturgeon has been arrested in a financial inquiry. India experienced its worst railway disaster in decades with hundreds of people reported dead. Also in the US, the Supreme Court is about to rule on race-conscious college admissions and an I-95 overpass collapsed in Philadelphia due to a tanker fire, making it harder for commuters. And finally, singer-songwriter Joni Mitchell made her return to the stage after over 20 years with a nearly 3-hour performance that showed off both her voice and wit!</p>
+In the US, former President Trump is being indicted on multiple charges and the 2024 G.O.P presidential candidates are facing a choice between law and order or loyalty. The indictment revealed Trump was keeping documents concerning sensitive topics such as US national security networks, military attack vulnerabilities, and potential retaliations for foreign attacks.
+
+Meanwhile, tensions in the Asia-Pacific region are surging as China&#39;s coast guard vessels patrol in increasing numbers. In addition, Scotland&#39;s former leader Nicola Sturgeon has been arrested following her husband&#39;s arrest in an ongoing financial investigation.
+
+Tragic events have occurred overseas as well, with casualties totaling 288 in India&#39;s worst railway disaster in decades. 
+
+Closer to home here in the US, the Supreme Court will soon be ruling on race-conscious college admissions, which has caused a divide between Democrats and voters in California after a failed affirmative action campaign. There is also news of an I-95 overpass collapse following a tanker fire near Philadelphia, and commuters are being asked to be patient for potentially months of repairs. 
+
+Finally, the Tony Awards just took place at United Palace in New York City with historic wins for first out nonbinary performers J. Harrison Ghee and Alex Newell, while popular podcaster and author Emily Morse is encouraging people to consider exploring open relationships.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Indictment Shows Critical Evidence Came From One of His Own Lawyers</h3>
@@ -93,9 +101,15 @@ There&#39;s a lot going on in the world right now. In the US, Donald Trump has b
 <sub><sub>Sunday, June 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-theater-blue" alt="">
-<h3>Tony Award Winners 2023: Updating List</h3>
+<h3>Tony Award Winners 2023: The Full List</h3>
 <sub>By Rachel Sherman</sub>
-<p>The Tony Awards are being held Sunday at the United Palace in New York City.  <a href="https://nyti.ms/3Nn8VdH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The Tony Awards were held Sunday at the United Palace in New York City.  <a href="https://nyti.ms/3Nn8VdH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, June 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Why the Battle for Supremacy in Asia Begins With China’s Coast Guard</h3>
+<sub>By Damien Cave</sub>
+<p>Beijing’s patrol vessels often resemble warships. Now other nations are trying to compete with tougher coast guards of their own.  <a href="https://nyti.ms/43wfDUo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, June 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -126,12 +140,6 @@ There&#39;s a lot going on in the world right now. In the US, Donald Trump has b
 <h3>Emily Morse Wants You to Think Seriously About an Open Relationship</h3>
 <sub>By David Marchese</sub>
 <p>“You need to be self-aware and have self-knowledge about your sexual desires,” the sex therapist, author and podcaster says.  <a href="https://nyti.ms/3NlavNk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, June 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Joni Mitchell Returns to the Stage, Golden, Glorious and in Control</h3>
-<sub>By Lindsay Zoladz</sub>
-<p>The singer-songwriter’s first announced concert in more than 20 years was a nearly-three-hour reimagining of her catalog that showcased her evolving, rich voice and her ever-sharp wit.  <a href="https://nyti.ms/43C0HEu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, June 11, Central Standard Time</sub></sub>
 <hr/>
 </ol>
