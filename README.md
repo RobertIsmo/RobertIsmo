@@ -60,15 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, June 12, Central Standard Time</p>
 <p>
-In the US, former President Trump is being indicted on multiple charges and the 2024 G.O.P presidential candidates are facing a choice between law and order or loyalty. The indictment revealed Trump was keeping documents concerning sensitive topics such as US national security networks, military attack vulnerabilities, and potential retaliations for foreign attacks.
+There have been a lot of political developments happening around the world lately. In the US, former President Trump was indicted and it revealed that some of the critical evidence was provided by one of his own lawyers. This means that the upcoming trial against him could be a key witness in the case. As a result, candidates running against Trump in 2024 have to decide whether to run on a law-and-order platform or remain loyal to Trump. 
 
-Meanwhile, tensions in the Asia-Pacific region are surging as China&#39;s coast guard vessels patrol in increasing numbers. In addition, Scotland&#39;s former leader Nicola Sturgeon has been arrested following her husband&#39;s arrest in an ongoing financial investigation.
+In other parts of the world, Silvio Berlusconi, who transformed Italian politics and culture with sex and glamour, recently passed away at 86. Ukraine has also claimed small wins during their counteroffensive against Russian occupiers, while in Asia China is seeking supremacy with their powerful coast guard. Additionally, Scottish former leader Nicola Sturgeon got arrested in a financial investigation, while India experienced its worst railway disaster yet with 288 dead in just three cars. 
 
-Tragic events have occurred overseas as well, with casualties totaling 288 in India&#39;s worst railway disaster in decades. 
-
-Closer to home here in the US, the Supreme Court will soon be ruling on race-conscious college admissions, which has caused a divide between Democrats and voters in California after a failed affirmative action campaign. There is also news of an I-95 overpass collapse following a tanker fire near Philadelphia, and commuters are being asked to be patient for potentially months of repairs. 
-
-Finally, the Tony Awards just took place at United Palace in New York City with historic wins for first out nonbinary performers J. Harrison Ghee and Alex Newell, while popular podcaster and author Emily Morse is encouraging people to consider exploring open relationships.</p>
+Back home, Democrats are grappling with an unsuccessful affirmative action campaign that stirred up controversy, and there was a big accident involving an I-95 overpass collapsing after a tanker fire in Philadelphia that day.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Indictment Shows Critical Evidence Came From One of His Own Lawyers</h3>
@@ -89,15 +85,21 @@ Finally, the Tony Awards just took place at United Palace in New York City with 
 <sub><sub>Friday, June 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Silvio Berlusconi, a Showman Who Upended Italian Politics and Culture, Dies at 86</h3>
+<sub>By Jason Horowitz and Rachel Donadio</sub>
+<p>He introduced sex and glamour to Italian TV, and then brought the same formula to politics, dominating the country and its culture for more than 20 years.  <a href="https://nyti.ms/3CmvCs7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ukraine Claims First Gains, if Slight, in Counteroffensive</h3>
 <sub>By Andrew E. Kramer</sub>
 <p>Three small settlements in the eastern region of Donetsk have been taken back from Russian occupiers, Ukrainian officials say.  <a href="https://nyti.ms/46a6eDU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, June 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-theater-blue" alt="">
-<h3>In Historic Night for Nonbinary Performers, J. Harrison Ghee and Alex Newell Win Tony Awards</h3>
+<h3>‘Kimberly Akimbo’ Wins Best Musical Tony and ‘Leopoldstadt’ Best Play</h3>
 <sub>By Michael Paulson</sub>
-<p>Ghee became the first out nonbinary performer to win a Tony for best leading actor in a musical, for ‘Some Like It Hot.’  <a href="https://nyti.ms/3P3oUPx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The Tony Awards went off with out a hitch despite a screenwriters’ strike. Among the highlights: The first acting awards for out nonbinary performers, and prizes for two shows about antisemitism.  <a href="https://nyti.ms/43xz0ww"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, June 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-theater-blue" alt="">
@@ -134,12 +136,6 @@ Finally, the Tony Awards just took place at United Palace in New York City with 
 <h3>I-95 Overpass Collapses in Philadelphia After a Tanker Fire</h3>
 <sub>By Amanda Holpuch</sub>
 <p>Officials urged commuters to be patient as Gov. Josh Shapiro of Pennsylvania warned that repairs might last “some number of months.”  <a href="https://nyti.ms/3P59sSQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, June 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Emily Morse Wants You to Think Seriously About an Open Relationship</h3>
-<sub>By David Marchese</sub>
-<p>“You need to be self-aware and have self-knowledge about your sexual desires,” the sex therapist, author and podcaster says.  <a href="https://nyti.ms/3NlavNk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, June 11, Central Standard Time</sub></sub>
 <hr/>
 </ol>
