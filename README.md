@@ -60,12 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, June 12, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. In Russia, there have been a number of attacks from Ukraine that have killed a dozen civilians and displaced thousands. In the US, former President Donald Trump is set to make an appearance in court this week related to a documents case. Sadly, Italian politician and showman Silvio Berlusconi passed away at 86 years old. Environmental health is also an issue; scientists are warning about the damaging effects of noise on our health, including heart problems. And in Senegal, deadly protests erupted and raised questions about what comes next. JPMorgan recently reached a settlement with Epstein&#39;s victims as well, who were sexually abused by him over claims that the bank ignored warnings. On a lighter note, the Tony Awards were held this weekend with nonbinary performers taking home acting awards and musicals like Kimberly Akimbo and plays like Leopoldstadt winning awards.</p>
+Right now, there is a lot of conflict happening in the world. Russia is facing attacks from Ukraine, leading to the death of at least a dozen Russian civilians and displacement of thousands more. Meanwhile, NATO countries are running a large-scale air force exercise with over 250 aircraft from 24 countries. Here in the US, former President Donald Trump has been indicted and must appear in court this week for a documents case. In Italy, Silvio Berlusconi, who dominated politics and culture for over 20 years has passed away. Scientists have been warning us about how noise levels can take years off your life, so it&#39;s important to monitor yourself. There&#39;s also a story out of New York about Love Canal being America&#39;s first Superfund Site and being uninformedly inhabited by people now. In Senegal, protests over police brutality resulted in several deaths resulting in uproar in the nation. Lastly, the US electric grid isn&#39;t able to handle the energy transition which will need long-distance power lines to transport wind and solar power across the country. JPMorgan is also paying $290 million in settlement with victims of Jeffrey Epstein&#39;s sex abuse as well. Lastly, the 76th Tony Awards happened this past week and there were many best and worst moments to come from it!</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Fear and Mayhem as Russia’s War Comes Home</h3>
 <sub>By Roger Cohen and Nanna Heitmann</sub>
 <p>Attacks from Ukraine have killed at least a dozen Russian civilians and displaced thousands. But they have not fundamentally changed the calculus for Vladimir Putin.  <a href="https://nyti.ms/3PcPt4Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>NATO Nations Kick Off Giant Air Force Drills</h3>
+<sub>By Lara Jakes</sub>
+<p>More than 250 aircraft from 24 NATO countries and Japan will participate in a two-week military exercise.  <a href="https://nyti.ms/3qyRjCN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -77,7 +83,7 @@ There&#39;s a lot going on in the world right now. In Russia, there have been a 
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>What to Expect From Trump’s Court Appearance on Tuesday</h3>
 <sub>By Charlie Savage</sub>
-<p>Some details of former President Donald J. Trump’s  court appearance in Miami in the documents case are not yet clear, including whether he will be photographed and have his fingerprints taken.  <a href="https://nyti.ms/3P29g6Y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Some details of former President Donald J. Trump’s court appearance in Miami in the documents case are not yet clear, including whether he will be photographed and have his fingerprints taken.  <a href="https://nyti.ms/3P29g6Y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -106,7 +112,7 @@ There&#39;s a lot going on in the world right now. In Russia, there have been a 
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>‘The State Killed My Brother’: Senegal in Uproar After Deadly Protests</h3>
-<sub>By Elian Peltier</sub>
+<sub>By Elian Peltier and Carmen Abd Ali</sub>
 <p>After several protesters were killed by live ammunition this month in Senegal, many in the usually stable West African nation wonder what comes next.  <a href="https://nyti.ms/3P7ATeR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 12, Central Standard Time</sub></sub>
 <hr/>
@@ -117,22 +123,16 @@ There&#39;s a lot going on in the world right now. In Russia, there have been a 
 <sub><sub>Monday, June 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>JPMorgan Reaches Settlement With Epstein’s Victims</h3>
+<h3>JPMorgan to Pay $290 Million in Settlement With Epstein’s Victims</h3>
 <sub>By Matthew Goldstein</sub>
 <p>The proposed deal would settle a suit on behalf of victims who were sexually abused by Jeffrey Epstein, over claims the bank ignored warnings about him.  <a href="https://nyti.ms/3J9WK1z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-theater-blue" alt="">
-<h3>‘Kimberly Akimbo’ Wins Best Musical Tony and ‘Leopoldstadt’ Best Play</h3>
-<sub>By Michael Paulson</sub>
-<p>The Tony Awards went off without a hitch despite a screenwriters’ strike. Among the highlights: The first acting awards for out nonbinary performers, and prizes for two shows about antisemitism.  <a href="https://nyti.ms/43xz0ww"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, June 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-theater-blue" alt="">
-<h3>Tony Award Winners 2023: The Full List</h3>
-<sub>By Rachel Sherman</sub>
-<p>The Tony Awards were held Sunday at the United Palace in New York City.  <a href="https://nyti.ms/3Nn8VdH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, June 11, Central Standard Time</sub></sub>
+<h3>Best and Worst Moments of the 76th Tony Awards</h3>
+<sub>By Jesse Green, Maya Phillips, Elisabeth Vincentelli, Laura Collins-Hughes, Alexis Soloski and Sarah Bahr</sub>
+<p>With a clever opening number and repeated support for striking writers, the Tonys celebrated Broadway’s shows, performers and creative teams.  <a href="https://nyti.ms/3N0JCNe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 12, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
