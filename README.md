@@ -60,35 +60,31 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, June 12, Central Standard Time</p>
 <p>
-Right now, there are quite a few different headlines. In the United States, former President Donald Trump is heading to Florida for a court appearance in a case involving documents. Floridians have mixed feelings about the proceedings. And, there is a recent indictment against Trump showing evidence from one of his own lawyers. 
-
-Elsewhere, Russia is facing fear and mayhem as its war with Ukraine has come home; killing at least 12 people and displacing thousands. Italy is mourning the death of their former prime minister Silvio Berlusconi who passed away at the age of 86. His influence on Italian politics and culture left an imprint whether it was for better or worse. 
-
-On YouTube, internet sensation MrBeast has become known for his acts of altruism but many people question whether or not he&#39;s evil. And lastly, noise pollution can take years off your life so we&#39;re being reminded to reduce our risk by checking how exposed we are to noise. On the same topic, there&#39;s also a story about Love Canal which is America&#39;s first Superfund site and some nearby residents were never informed by authorities that their homes were close to the contaminated area.</p>
+Right now there is a lot going on in the world. In the United States, former President Donald Trump is facing charges in a classified documents case and his court appearance will be held in Florida. Meanwhile, in Russia, violence has broken out with Ukrainian forces, leading to civilian casualties and displacement. Also, in Italy longtime prime minister and billionaire businessman Silvio Berlusconi passed away and all around the world people are reflecting on his time of influence. Lastly, MrBeast--a popular YouTuber--has become famous for his big acts of altruism, but some still view him as being controversial.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Floridians Would Make Up Trump’s Jury Pool. Here’s What Some Are Saying.</h3>
-<sub>By Nick Madigan, Verónica Zaragovia and Richard Fausset</sub>
-<p>The complicated feelings among some residents about Mr. Trump and the case against him reflect the complicated politics of the state.  <a href="https://nyti.ms/42zxHMa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Trump Has Options for Fighting Charges, but They Might Face Challenges</h3>
+<sub>By Alan Feuer, Maggie Haberman and Ben Protess</sub>
+<p>The former president has already tested a variety of arguments to challenge his indictment in the classified documents case. They could be hard to sustain in court.  <a href="https://nyti.ms/3qGzH8c"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Indictment Shows Critical Evidence Came From One of His Own Lawyers</h3>
-<sub>By Maggie Haberman, Alan Feuer and Ben Protess</sub>
-<p>M. Evan Corcoran, who was hired to represent the former president after the Justice Department issued a subpoena for classified documents at Mar-a-Lago, could be a key witness in the trial.  <a href="https://nyti.ms/43PTyju"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, June 11, Central Standard Time</sub></sub>
+<h3>Floridians Would Make Up Trump’s Jury Pool. Here’s What Some Are Saying.</h3>
+<sub>By Nick Madigan, Verónica Zaragovia and Richard Fausset</sub>
+<p>The complicated feelings among some residents about former President Donald J. Trump and the case against him reflect the complicated politics of the state.  <a href="https://nyti.ms/42zxHMa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Earlier Espionage Act Cases, Warning Signs for Trump</h3>
+<sub>By Michael D. Shear and Adam Goldman</sub>
+<p>Former President Donald J. Trump faces legal peril under a 100-year-old law that has been used to prosecute spies and leakers.  <a href="https://nyti.ms/3qDKcZU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Heads to Florida for Court Appearance in Documents Case</h3>
 <sub>By Charlie Savage and Maggie Haberman</sub>
 <p>The former president will interview lawyers to represent him on Tuesday following his indictment on charges of mishandling national security secrets and obstructing efforts to reclaim the documents.  <a href="https://nyti.ms/3oXymt0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Trump Classified Documents Indictment, Annotated</h3>
-<sub>By Charlie Savage</sub>
-<p>The indictment unveiled on Friday centers on Donald J. Trump’s handling of sensitive government documents after he left office.  <a href="https://nyti.ms/3oYZpEc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Fear and Mayhem as Russia’s War Comes Home</h3>
@@ -132,10 +128,10 @@ On YouTube, internet sensation MrBeast has become known for his acts of altruism
 <p>Noise can damage your heart as well as your hearing, but there are ways to measure your exposure and reduce your risk.  <a href="https://nyti.ms/468Fl3h"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>His Home Sits Alongside America’s First Superfund Site. No One Told Him.</h3>
-<sub>By Jesse McKinley and Lauren Petracca</sub>
-<p>Love Canal was one of the nation’s worst toxic waste catastrophes and now — 45 years later — the site for a new, and sometimes unknowing, generation of homesteaders.  <a href="https://nyti.ms/3J7Lgvx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>LIV Golf’s al-Rumayyan and the PGA Tour’s Monahan Make Strange Bedfellows</h3>
+<sub>By John Branch</sub>
+<p>The stunning golf merger announced last week has raised many questions, and one big one is how will the Saudi wealth fund boss and the tour commissioner manage to work together?  <a href="https://nyti.ms/3P4aBu5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 12, Central Standard Time</sub></sub>
 <hr/>
 </ol>
