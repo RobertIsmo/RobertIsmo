@@ -60,12 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, June 12, Central Standard Time</p>
 <p>
-There have been a lot of political developments happening around the world lately. In the US, former President Trump was indicted and it revealed that some of the critical evidence was provided by one of his own lawyers. This means that the upcoming trial against him could be a key witness in the case. As a result, candidates running against Trump in 2024 have to decide whether to run on a law-and-order platform or remain loyal to Trump. 
-
-In other parts of the world, Silvio Berlusconi, who transformed Italian politics and culture with sex and glamour, recently passed away at 86. Ukraine has also claimed small wins during their counteroffensive against Russian occupiers, while in Asia China is seeking supremacy with their powerful coast guard. Additionally, Scottish former leader Nicola Sturgeon got arrested in a financial investigation, while India experienced its worst railway disaster yet with 288 dead in just three cars. 
-
-Back home, Democrats are grappling with an unsuccessful affirmative action campaign that stirred up controversy, and there was a big accident involving an I-95 overpass collapsing after a tanker fire in Philadelphia that day.</p>
+There&#39;s a lot going on in the world right now. In Russia, there have been a number of attacks from Ukraine that have killed a dozen civilians and displaced thousands. In the US, former President Donald Trump is set to make an appearance in court this week related to a documents case. Sadly, Italian politician and showman Silvio Berlusconi passed away at 86 years old. Environmental health is also an issue; scientists are warning about the damaging effects of noise on our health, including heart problems. And in Senegal, deadly protests erupted and raised questions about what comes next. JPMorgan recently reached a settlement with Epstein&#39;s victims as well, who were sexually abused by him over claims that the bank ignored warnings. On a lighter note, the Tony Awards were held this weekend with nonbinary performers taking home acting awards and musicals like Kimberly Akimbo and plays like Leopoldstadt winning awards.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Fear and Mayhem as Russia’s War Comes Home</h3>
+<sub>By Roger Cohen and Nanna Heitmann</sub>
+<p>Attacks from Ukraine have killed at least a dozen Russian civilians and displaced thousands. But they have not fundamentally changed the calculus for Vladimir Putin.  <a href="https://nyti.ms/3PcPt4Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 12, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Indictment Shows Critical Evidence Came From One of His Own Lawyers</h3>
 <sub>By Maggie Haberman, Alan Feuer and Ben Protess</sub>
@@ -73,69 +75,63 @@ Back home, Democrats are grappling with an unsuccessful affirmative action campa
 <sub><sub>Sunday, June 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The 2024 G.O.P. Field Faces a Choice: Law and Order or Loyalty</h3>
-<sub>By Jonathan Weisman and Ken Bensinger</sub>
-<p>The candidates challenging Donald Trump have to decide how to run against the indicted former president. And it could determine where the party goes from here.  <a href="https://nyti.ms/3WXoSL3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, June 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What We Learned From the Trump Indictment</h3>
-<sub>By Maggie Haberman, Glenn Thrush, Alan Feuer and Ben Protess</sub>
-<p>The indictment said the former president had illegally kept documents concerning “United States nuclear programs; potential vulnerabilities of the United States and its allies to military attack; and plans for possible retaliation in response to a foreign attack.”  <a href="https://nyti.ms/45SNBEi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 9, Central Standard Time</sub></sub>
+<h3>What to Expect From Trump’s Court Appearance on Tuesday</h3>
+<sub>By Charlie Savage</sub>
+<p>Some details of former President Donald J. Trump’s  court appearance in Miami in the documents case are not yet clear, including whether he will be photographed and have his fingerprints taken.  <a href="https://nyti.ms/3P29g6Y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Silvio Berlusconi, a Showman Who Upended Italian Politics and Culture, Dies at 86</h3>
 <sub>By Jason Horowitz and Rachel Donadio</sub>
-<p>He introduced sex and glamour to Italian TV, and then brought the same formula to politics, dominating the country and its culture for more than 20 years.  <a href="https://nyti.ms/3CmvCs7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>He introduced sex and glamour to Italian TV and then brought the same formula to politics, dominating the country and its culture for more than 20 years.  <a href="https://nyti.ms/3CmvCs7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Noise Could Take Years Off Your Life. Here’s How.</h3>
+<sub>By Emily Baumgaertner, Jason Kao, Eleanor Lutz, Josephine Sedgwick, Rumsey Taylor, Noah Throop and Josh Williams</sub>
+<p>We used a professional sound meter to measure the din of daily life and talked to scientists about the health risks it can pose.  <a href="https://nyti.ms/3MZmizB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Are You Exposed to Too Much Noise? Here’s How to Check.</h3>
+<sub>By Emily Baumgaertner</sub>
+<p>Noise can damage your heart as well as your hearing, but there are ways to measure your exposure and reduce your risk.  <a href="https://nyti.ms/468Fl3h"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>His Home Sits Alongside America’s First Superfund Site. No One Told Him.</h3>
+<sub>By Jesse McKinley and Lauren Petracca</sub>
+<p>Love Canal was one of the nation’s worst toxic waste catastrophes and now — 45 years later — the site for a new, and sometimes unknowing, generation of homesteaders.  <a href="https://nyti.ms/3J7Lgvx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Claims First Gains, if Slight, in Counteroffensive</h3>
-<sub>By Andrew E. Kramer</sub>
-<p>Three small settlements in the eastern region of Donetsk have been taken back from Russian occupiers, Ukrainian officials say.  <a href="https://nyti.ms/46a6eDU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, June 11, Central Standard Time</sub></sub>
+<h3>‘The State Killed My Brother’: Senegal in Uproar After Deadly Protests</h3>
+<sub>By Elian Peltier</sub>
+<p>After several protesters were killed by live ammunition this month in Senegal, many in the usually stable West African nation wonder what comes next.  <a href="https://nyti.ms/3P7ATeR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Why the U.S. Electric Grid Isn’t Ready for the Energy Transition</h3>
+<sub>By Nadja Popovich and Brad Plumer</sub>
+<p>The current system makes it hard to build the long-distance power lines needed to transport wind and solar nationwide.  <a href="https://nyti.ms/45TJvM9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>JPMorgan Reaches Settlement With Epstein’s Victims</h3>
+<sub>By Matthew Goldstein</sub>
+<p>The proposed deal would settle a suit on behalf of victims who were sexually abused by Jeffrey Epstein, over claims the bank ignored warnings about him.  <a href="https://nyti.ms/3J9WK1z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-theater-blue" alt="">
 <h3>‘Kimberly Akimbo’ Wins Best Musical Tony and ‘Leopoldstadt’ Best Play</h3>
 <sub>By Michael Paulson</sub>
-<p>The Tony Awards went off with out a hitch despite a screenwriters’ strike. Among the highlights: The first acting awards for out nonbinary performers, and prizes for two shows about antisemitism.  <a href="https://nyti.ms/43xz0ww"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The Tony Awards went off without a hitch despite a screenwriters’ strike. Among the highlights: The first acting awards for out nonbinary performers, and prizes for two shows about antisemitism.  <a href="https://nyti.ms/43xz0ww"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, June 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-theater-blue" alt="">
 <h3>Tony Award Winners 2023: The Full List</h3>
 <sub>By Rachel Sherman</sub>
 <p>The Tony Awards were held Sunday at the United Palace in New York City.  <a href="https://nyti.ms/3Nn8VdH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, June 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Why the Battle for Supremacy in Asia Begins With China’s Coast Guard</h3>
-<sub>By Damien Cave</sub>
-<p>Beijing’s patrol vessels often resemble warships. Now other nations are trying to compete with tougher coast guards of their own.  <a href="https://nyti.ms/43wfDUo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, June 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Nicola Sturgeon, Scotland’s Former Leader, Is Arrested in Financial Inquiry</h3>
-<sub>By Stephen Castle</sub>
-<p>The arrest of Ms. Sturgeon, who resigned as leader of the Scottish National Party in February, follows that of her husband, previously the party’s chief executive, and of its former treasurer.  <a href="https://nyti.ms/3CjGOGd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, June 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Faceless, Nameless and Dead by the Dozen in a Train’s Cheapest Cars</h3>
-<sub>By Sameer Yasir, Mujib Mashal and Hari Kumar</sub>
-<p>In India’s worst railway disaster in decades, nearly all of the 288 dead were in three crowded cars where passengers stand for long stretches.  <a href="https://nyti.ms/43xkJ2V"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, June 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Failed Affirmative Action Campaign That Shook Democrats</h3>
-<sub>By Michael Powell and Ilana Marcus</sub>
-<p>The Supreme Court will soon rule on race-conscious college admissions, a core Democratic issue. But an analysis of a California referendum points to a divide between the party and voters.  <a href="https://nyti.ms/43xgaWl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, June 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>I-95 Overpass Collapses in Philadelphia After a Tanker Fire</h3>
-<sub>By Amanda Holpuch</sub>
-<p>Officials urged commuters to be patient as Gov. Josh Shapiro of Pennsylvania warned that repairs might last “some number of months.”  <a href="https://nyti.ms/3P59sSQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, June 11, Central Standard Time</sub></sub>
 <hr/>
 </ol>
