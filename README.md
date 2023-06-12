@@ -60,18 +60,16 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, June 12, Central Standard Time</p>
 <p>
-Right now, there is a lot of conflict happening in the world. Russia is facing attacks from Ukraine, leading to the death of at least a dozen Russian civilians and displacement of thousands more. Meanwhile, NATO countries are running a large-scale air force exercise with over 250 aircraft from 24 countries. Here in the US, former President Donald Trump has been indicted and must appear in court this week for a documents case. In Italy, Silvio Berlusconi, who dominated politics and culture for over 20 years has passed away. Scientists have been warning us about how noise levels can take years off your life, so it&#39;s important to monitor yourself. There&#39;s also a story out of New York about Love Canal being America&#39;s first Superfund Site and being uninformedly inhabited by people now. In Senegal, protests over police brutality resulted in several deaths resulting in uproar in the nation. Lastly, the US electric grid isn&#39;t able to handle the energy transition which will need long-distance power lines to transport wind and solar power across the country. JPMorgan is also paying $290 million in settlement with victims of Jeffrey Epstein&#39;s sex abuse as well. Lastly, the 76th Tony Awards happened this past week and there were many best and worst moments to come from it!</p>
+Right now, there are quite a few different headlines. In the United States, former President Donald Trump is heading to Florida for a court appearance in a case involving documents. Floridians have mixed feelings about the proceedings. And, there is a recent indictment against Trump showing evidence from one of his own lawyers. 
+
+Elsewhere, Russia is facing fear and mayhem as its war with Ukraine has come home; killing at least 12 people and displacing thousands. Italy is mourning the death of their former prime minister Silvio Berlusconi who passed away at the age of 86. His influence on Italian politics and culture left an imprint whether it was for better or worse. 
+
+On YouTube, internet sensation MrBeast has become known for his acts of altruism but many people question whether or not he&#39;s evil. And lastly, noise pollution can take years off your life so we&#39;re being reminded to reduce our risk by checking how exposed we are to noise. On the same topic, there&#39;s also a story about Love Canal which is America&#39;s first Superfund site and some nearby residents were never informed by authorities that their homes were close to the contaminated area.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Fear and Mayhem as Russia’s War Comes Home</h3>
-<sub>By Roger Cohen and Nanna Heitmann</sub>
-<p>Attacks from Ukraine have killed at least a dozen Russian civilians and displaced thousands. But they have not fundamentally changed the calculus for Vladimir Putin.  <a href="https://nyti.ms/3PcPt4Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>NATO Nations Kick Off Giant Air Force Drills</h3>
-<sub>By Lara Jakes</sub>
-<p>More than 250 aircraft from 24 NATO countries and Japan will participate in a two-week military exercise.  <a href="https://nyti.ms/3qyRjCN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Floridians Would Make Up Trump’s Jury Pool. Here’s What Some Are Saying.</h3>
+<sub>By Nick Madigan, Verónica Zaragovia and Richard Fausset</sub>
+<p>The complicated feelings among some residents about Mr. Trump and the case against him reflect the complicated politics of the state.  <a href="https://nyti.ms/42zxHMa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -81,15 +79,45 @@ Right now, there is a lot of conflict happening in the world. Russia is facing a
 <sub><sub>Sunday, June 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What to Expect From Trump’s Court Appearance on Tuesday</h3>
+<h3>Trump Heads to Florida for Court Appearance in Documents Case</h3>
+<sub>By Charlie Savage and Maggie Haberman</sub>
+<p>The former president will interview lawyers to represent him on Tuesday following his indictment on charges of mishandling national security secrets and obstructing efforts to reclaim the documents.  <a href="https://nyti.ms/3oXymt0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Trump Classified Documents Indictment, Annotated</h3>
 <sub>By Charlie Savage</sub>
-<p>Some details of former President Donald J. Trump’s court appearance in Miami in the documents case are not yet clear, including whether he will be photographed and have his fingerprints taken.  <a href="https://nyti.ms/3P29g6Y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The indictment unveiled on Friday centers on Donald J. Trump’s handling of sensitive government documents after he left office.  <a href="https://nyti.ms/3oYZpEc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Fear and Mayhem as Russia’s War Comes Home</h3>
+<sub>By Roger Cohen and Nanna Heitmann</sub>
+<p>Attacks from Ukraine have killed at least a dozen Russian civilians and displaced thousands. But they have not fundamentally changed the calculus for Vladimir Putin.  <a href="https://nyti.ms/3PcPt4Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Silvio Berlusconi, a Showman Who Upended Italian Politics and Culture, Dies at 86</h3>
 <sub>By Jason Horowitz and Rachel Donadio</sub>
 <p>He introduced sex and glamour to Italian TV and then brought the same formula to politics, dominating the country and its culture for more than 20 years.  <a href="https://nyti.ms/3CmvCs7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>How Silvio Berlusconi Changed Italy, for Better or Worse</h3>
+<sub>By Jason Horowitz</sub>
+<p>Whether as a politician or media tycoon, the former prime minister and businessman who died Monday at 86, left an imprint, or a bruise, on just about everything he touched.  <a href="https://nyti.ms/3NmT5zM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The Many Twists, Quotes and Scandals of Silvio Berlusconi</h3>
+<sub>By Alan Yuhas</sub>
+<p>The former prime minister of Italy reveled in the spotlight, even when it shined on him for causing offense.  <a href="https://nyti.ms/460BSDO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>How MrBeast Became the Willy Wonka of YouTube</h3>
+<sub>By Max Read</sub>
+<p>Jimmy Donaldson, a.k.a. MrBeast, has become a viral sensation for his absurd acts of altruism. Why do so many people think he’s evil?  <a href="https://nyti.ms/42ySn6X"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
@@ -108,30 +136,6 @@ Right now, there is a lot of conflict happening in the world. Russia is facing a
 <h3>His Home Sits Alongside America’s First Superfund Site. No One Told Him.</h3>
 <sub>By Jesse McKinley and Lauren Petracca</sub>
 <p>Love Canal was one of the nation’s worst toxic waste catastrophes and now — 45 years later — the site for a new, and sometimes unknowing, generation of homesteaders.  <a href="https://nyti.ms/3J7Lgvx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘The State Killed My Brother’: Senegal in Uproar After Deadly Protests</h3>
-<sub>By Elian Peltier and Carmen Abd Ali</sub>
-<p>After several protesters were killed by live ammunition this month in Senegal, many in the usually stable West African nation wonder what comes next.  <a href="https://nyti.ms/3P7ATeR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Why the U.S. Electric Grid Isn’t Ready for the Energy Transition</h3>
-<sub>By Nadja Popovich and Brad Plumer</sub>
-<p>The current system makes it hard to build the long-distance power lines needed to transport wind and solar nationwide.  <a href="https://nyti.ms/45TJvM9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>JPMorgan to Pay $290 Million in Settlement With Epstein’s Victims</h3>
-<sub>By Matthew Goldstein</sub>
-<p>The proposed deal would settle a suit on behalf of victims who were sexually abused by Jeffrey Epstein, over claims the bank ignored warnings about him.  <a href="https://nyti.ms/3J9WK1z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-theater-blue" alt="">
-<h3>Best and Worst Moments of the 76th Tony Awards</h3>
-<sub>By Jesse Green, Maya Phillips, Elisabeth Vincentelli, Laura Collins-Hughes, Alexis Soloski and Sarah Bahr</sub>
-<p>With a clever opening number and repeated support for striking writers, the Tonys celebrated Broadway’s shows, performers and creative teams.  <a href="https://nyti.ms/3N0JCNe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 12, Central Standard Time</sub></sub>
 <hr/>
 </ol>
