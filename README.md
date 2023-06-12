@@ -59,31 +59,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, June 11, Central Standard Time</p>
-<p>
-Well, the news has been pretty interesting lately. First of all, the 2024 G.O.P field is facing a difficult decision between law and order or loyalty to their former leader, President Donald Trump. Many of his supporters are using violent rhetoric to defend him against an indictment, and one of his aides has been charged as a co-conspirator in preventing government access to classified documents.
-
-In Ukraine, they’re attempting to launch a counteroffensive against Russia, but the definitions of ‘success’ vary. Also, there was a major disaster affecting their vital lifeline when the dam at the Kakhovka Reservoir exploded and began emptying its waters. In other news, Scotland’s former leader is being arrested in a financial inquiry as well as several other party members. India also had their worst railway disaster in decades with 288 dead in crowded cars.
-
-The Silicon Valley is also meeting with the idea that the singularity is here and AI might be going wild - or it could just be hype out of control. Lastly, Democrats are looking at a failed affirmative action campaign that could shake them up when the Supreme Court rules on college admissions by race soon - and an I-95 overpass collapsed after a tanker fire in Philadelphia that will create major delays for people&#39;s morning commutes this Monday. 
-
-Oh yeah, and there’s an author&#x2F;sex therapist&#x2F;podcaster who wants people to think seriously about open relationships!</p>
+<p>A lot has been happening in the world lately! Former US President Donald Trump was recently indicted and there is evidence that his own lawyers provided crucial information. The 2024 election for the Republican party has been an interesting topic, as the candidates face whether to run based on loyalty or law and order. Ukraine recently reported small successes against Russia in their counteroffensive, while former leader Nicola Sturgeon of Scotland was arrested in a financial inquiry. The Tony Awards are being held soon and the Supreme Court will rule on race-conscious college admissions in the US. India was hit by a terrible railway disaster with nearly 300 dead, and there has been discussion of an open relationship between partners raised by sex therapist Emily Morse. Lastly, musician Joni Mitchell just returned to the stage after a 20+ year wait, and sport fans discus why team owners always raise the championship trophy first.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Indictment Shows Critical Evidence Came From One of His Own Lawyers</h3>
+<sub>By Maggie Haberman, Alan Feuer and Ben Protess</sub>
+<p>M. Evan Corcoran, who was hired to represent the former president after the Justice Department issued a subpoena for classified documents at Mar-a-Lago, could be a key witness in the trial.  <a href="https://nyti.ms/43PTyju"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, June 11, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The 2024 G.O.P. Field Faces a Choice: Law and Order or Loyalty</h3>
 <sub>By Jonathan Weisman and Ken Bensinger</sub>
 <p>The candidates challenging Donald Trump have to decide how to run against the indicted former president. And it could determine where the party goes from here.  <a href="https://nyti.ms/3WXoSL3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, June 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Supporters’ Violent Rhetoric in His Defense Disturbs Experts</h3>
-<sub>By Michael S. Schmidt, Alan Feuer, Maggie Haberman and Adam Goldman</sub>
-<p>The former president’s allies have portrayed the indictment as an act of war and called for retribution, which political violence experts say increases the risk of action.  <a href="https://nyti.ms/3N4G5gS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, June 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Walt Nauta, a Personal Aide, Came to be Charged as Trump’s Co-Conspirator</h3>
-<sub>By Alan Feuer, Maggie Haberman and Jonathan Swan</sub>
-<p>A Navy veteran and a regular presence at Donald Trump’s side, he is said to have played a central role in helping to thwart government efforts to retrieve classified documents.  <a href="https://nyti.ms/43yc5B8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, June 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -92,16 +79,10 @@ Oh yeah, and there’s an author&#x2F;sex therapist&#x2F;podcaster who wants peo
 <p>The indictment said the former president had illegally kept documents concerning “United States nuclear programs; potential vulnerabilities of the United States and its allies to military attack; and plans for possible retaliation in response to a foreign attack.”  <a href="https://nyti.ms/45SNBEi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>As Ukraine Launches Counteroffensive, Definitions of ‘Success’ Vary</h3>
-<sub>By Julian E. Barnes and Steven Erlanger</sub>
-<p>Privately, U.S. and European officials concede that pushing all of Russia’s forces out of occupied Ukrainian land is highly unlikely.  <a href="https://nyti.ms/3Nn6V5p"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, June 10, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘Everything Will Die’: A Dam Blast Imperils Ukraine’s Vital Lifeline</h3>
-<sub>By Carlotta Gall</sub>
-<p>A disaster unfolds in slow motion after an explosion destroyed the dam at the Kakhovka Reservoir, emptying its waters and threatening livelihoods and crucial industries.  <a href="https://nyti.ms/43xVnlr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Ukraine Claims First Gains, if Slight, in Counteroffensive</h3>
+<sub>By Andrew E. Kramer</sub>
+<p>Three small settlements in the eastern region of Donetsk have been taken back from Russian occupiers, Ukrainian officials say.  <a href="https://nyti.ms/46a6eDU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, June 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -110,16 +91,16 @@ Oh yeah, and there’s an author&#x2F;sex therapist&#x2F;podcaster who wants peo
 <p>The arrest of Ms. Sturgeon, who resigned as leader of the Scottish National Party in February, follows that of her husband, previously the party’s chief executive, and of its former treasurer.  <a href="https://nyti.ms/3CjGOGd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, June 11, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-theater-blue" alt="">
+<h3>Tony Award Winners 2023: Updating List</h3>
+<sub>By Rachel Sherman</sub>
+<p>The Tony Awards are being held Sunday at the United Palace in New York City.  <a href="https://nyti.ms/3Nn8VdH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, June 11, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Faceless, Nameless and Dead by the Dozen in a Train’s Cheapest Cars</h3>
 <sub>By Sameer Yasir, Mujib Mashal and Hari Kumar</sub>
 <p>In India’s worst railway disaster in decades, nearly all of the 288 dead were in three crowded cars where passengers stand for long stretches.  <a href="https://nyti.ms/43xkJ2V"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, June 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Silicon Valley Confronts the Idea That the ‘Singularity’ Is Here</h3>
-<sub>By David Streitfeld</sub>
-<p>The frenzy over artificial intelligence may be ushering in the long-awaited moment when technology goes wild. Or maybe it’s the hype that is out of control.  <a href="https://nyti.ms/42zDNMk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, June 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -131,7 +112,7 @@ Oh yeah, and there’s an author&#x2F;sex therapist&#x2F;podcaster who wants peo
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>I-95 Overpass Collapses in Philadelphia After a Tanker Fire</h3>
 <sub>By Amanda Holpuch</sub>
-<p>Officials warned that repairs would require “heavy construction” and cause delays during the Monday morning commute.  <a href="https://nyti.ms/3P59sSQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Officials urged commuters to be patient as Gov. Josh Shapiro of Pennsylvania warned that repairs might last “some number of months.”  <a href="https://nyti.ms/3P59sSQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, June 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
@@ -139,6 +120,18 @@ Oh yeah, and there’s an author&#x2F;sex therapist&#x2F;podcaster who wants peo
 <sub>By David Marchese</sub>
 <p>“You need to be self-aware and have self-knowledge about your sexual desires,” the sex therapist, author and podcaster says.  <a href="https://nyti.ms/3NlavNk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, June 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Joni Mitchell Returns to the Stage, Golden, Glorious and in Control</h3>
+<sub>By Lindsay Zoladz</sub>
+<p>The singer-songwriter’s first announced concert in more than 20 years was a nearly-three-hour reimagining of her catalog that showcased her evolving, rich voice and her ever-sharp wit.  <a href="https://nyti.ms/43C0HEu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, June 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Why Do Team Owners Raise the Championship Trophy First?</h3>
+<sub>By Andrew Keh</sub>
+<p>It’s a decidedly American tradition, even if it can be a buzz-kill.  <a href="https://nyti.ms/3X1R3IB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, June 10, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
