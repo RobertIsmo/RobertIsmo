@@ -60,7 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, June 13, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now - it can be hard to keep up. In US news, there&#39;s an indictment around Donald Trump&#39;s handling of government documents, and activists are gathering outside the courthouse. Business news includes stories about inflation, stocks climbing into a bull market, car prices easing, and revenge spending pushing prices higher. On the world news front, there&#39;s an update on the situation at Ukraine&#39;s eastern border, Indian women abandoned by husbands working overseas, and more. In health news, there are doctors turning to chatbots to communicate with patients. Finally, for anyone in New York this summer dining recommendations and for US readers an update on the House votes after a blockade by hard right Republicans. Plus, it has been record hot this June - suggesting extreme weather is in our summer future.</p>
+Hi there, 
+
+It looks like there&#39;s a lot going on in the world right now. Donald Trump is facing a criminal indictment on classified document handling, and Southern Baptists are voting on strict bans against women in leadership positions. On top of that, the U.N. is trying to cross a front line in Ukraine to inspect a nuclear plant, and the C.I.A. has warned Ukraine not to attack any pipelines there. Inflation has cooled down somewhat recently, but people have still been spending quite a bit in revenge spending following the pandemic&#39;s restrictions. Doctors are now using chatbots to improve their bedside manner with patients, and apparently thousands of Indian women have been abandoned overseas by their husbands. Lastly, New York City food writers have compiled dozens of recommendations for summer eats! 
+
+That&#39;s what I know so far - hope it helps you stay updated on the news!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The Trump Classified Documents Indictment, Annotated</h3>
@@ -69,9 +73,39 @@ There is a lot going on in the world right now - it can be hard to keep up. In U
 <sub><sub>Friday, June 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Outside the courthouse, a circuslike atmosphere brings out activists seeking eyeballs.</h3>
-<sub>By Nicholas Bogel-Burroughs, Sergio Olmos and Luke Broadwater</sub>
-<p>  <a href="https://nyti.ms/462rkUv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Trump Ordered Not to Discuss Case With His Aide and Co-Defendant</h3>
+<sub>By Maggie Haberman and Alan Feuer</sub>
+<p>The restrictions placed on the two men are common for co-defendants in a criminal matter, but they could be particularly challenging to uphold given that Walt Nauta’s job is Mr. Trump’s personal aide.  <a href="https://nyti.ms/3NtJZkI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Southern Baptists Move to Purge Churches With Female Pastors</h3>
+<sub>By Elizabeth Dias and Ruth Graham</sub>
+<p>Some conservatives in the evangelical denomination fear a liberal drift, and are set to vote on a strict ban against women in church leadership. Two churches are appealing their expulsions.  <a href="https://nyti.ms/3JyPJYr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-books-blue" alt="">
+<h3>Cormac McCarthy, Novelist of a Darker America, Is Dead at 89</h3>
+<sub>By Dwight Garner</sub>
+<p>“All the Pretty Horses,” “The Road” and “No Country for Old Men” were among his acclaimed books that explore a bleak world of violence and outsiders.  <a href="https://nyti.ms/3NcMtmy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-books-blue" alt="">
+<h3>Early Cormac McCarthy Interviews Rediscovered</h3>
+<sub>By Elizabeth A. Harris</sub>
+<p>The Pulitzer Prize-winning author has done vanishingly few interviews during the course of his career. In these early ones, some newly uncovered, he is less guarded.  <a href="https://nyti.ms/3SsAmTu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>U.N. Monitor Aims to Cross Front Line in Ukraine to Inspect Nuclear Plant</h3>
+<sub>By Marc Santora and Matthew Mpoke Bigg</sub>
+<p>The destruction of a hydroelectric dam last week unleashed a flood and threatened the water supply needed to cool the battle-scarred Zaporizhzhia plant.  <a href="https://nyti.ms/3N48F1W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>C.I.A. Told Ukraine Last Summer It Should Not Attack Nord Stream Pipelines</h3>
+<sub>By Julian E. Barnes and Michael Schwirtz</sub>
+<p>Dutch intelligence officials shared information with the C.I.A. in June 2022 that they had learned the Ukrainian military had been planning an operation using divers to blow up one of the pipelines.  <a href="https://nyti.ms/43J9pko"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -86,26 +120,8 @@ There is a lot going on in the world right now - it can be hard to keep up. In U
 <p>Spending on hotels, airline tickets and recreation surged after the pandemic. This summer could mark a shift back to normal.  <a href="https://nyti.ms/3NbyVHY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Car prices, a root of pandemic inflation, are settling down.</h3>
-<sub>By Lydia DePillis</sub>
-<p>The car market has helped keep inflation too hot for comfort, but there are signs of easing as new supplies comes online.  <a href="https://nyti.ms/43YaeFq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Stocks Climb on Inflation Data, Moving Further Into a Bull Market</h3>
-<sub>By Joe Rennison</sub>
-<p>The S&amp;P 500 has climbed more than 20 percent from a 2022 low, a marker of a new phase of exuberance in the markets.  <a href="https://nyti.ms/3Co1uwC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Every Block Is Another Battle: Ukraine’s Latest Eastern Stand</h3>
-<sub>By Jeffrey Gettleman and Finbarr O’Reilly</sub>
-<p>Outnumbered, outgunned, out-tanked, Ukraine is putting up a scrappy defense of Marinka, another city near Bakhmut that is a few blocks from falling.  <a href="https://nyti.ms/3X5mNMZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 13, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Doctors Are Using Chatbots in an Unexpected Way</h3>
+<h3>When Doctors Use a Chatbot to Improve Their Bedside Manner</h3>
 <sub>By Gina Kolata</sub>
 <p>Despite the drawbacks of turning to artificial intelligence in medicine, some physicians find that ChatGPT improves their ability to communicate empathetically with patients.  <a href="https://nyti.ms/3qK6toE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 12, Central Standard Time</sub></sub>
@@ -121,18 +137,6 @@ There is a lot going on in the world right now - it can be hard to keep up. In U
 <sub>By Nikita Richardson, Umi Syam, Martín González Gómez, Becky Hughes, Sara Bonisteel, Pete Wells, Priya Krishna, Florence Fabricant, Eric Asimov and Alexa Weibel</sub>
 <p>Nikita Richardson and other Times food writers have dozens of recommendations for your summer bucket list.  <a href="https://nyti.ms/3qG3k9F"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Hard Right Agrees to Allow House Votes but Threatens Continued Blockade</h3>
-<sub>By Annie Karni</sub>
-<p>Republican rebels who blocked action in the House for the past week said they would allow votes on Tuesday, but warned that they would wrest control of the floor again unless leaders met their demands.  <a href="https://nyti.ms/3oZ31pY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Here’s How Much Hotter Than Normal This June Has Been</h3>
-<sub>By Elena Shao and Raymond Zhong</sub>
-<p>Record global warmth this month could portend a summer of extreme weather.  <a href="https://nyti.ms/43TqkAf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
