@@ -60,7 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, June 12, Central Standard Time</p>
 <p>
-Right now there is a lot going on in the world. In the United States, former President Donald Trump is facing charges in a classified documents case and his court appearance will be held in Florida. Meanwhile, in Russia, violence has broken out with Ukrainian forces, leading to civilian casualties and displacement. Also, in Italy longtime prime minister and billionaire businessman Silvio Berlusconi passed away and all around the world people are reflecting on his time of influence. Lastly, MrBeast--a popular YouTuber--has become famous for his big acts of altruism, but some still view him as being controversial.</p>
+It&#39;s been a busy news week with a lot going on in the US and around the world. In the US, former president Donald Trump is facing possible legal charges, and a jury of his peers from Florida are weighing in. NATO nations are doing large air exercises together as a message to Russia over their war in Ukraine, and some US lawmakers want to punish South Africa for giving weapons to Russia for the conflict. It was announced that New York&#39;s police commissioner will be resigning soon, and a landmark trial has begun in Montana where 16 young people are arguing that their state is contributing to climate change. 
+
+Internationally, Italy has said farewell to former prime minister Silvio Berlusconi, who many people praised and criticized for his impressive career (and scandalous incidents). We also learned more about how much damage too much noise can do to our health. 
+
+Finally, we have also been hearing about YouTube star MrBeast lately– it turns out he&#39;s become hugely popular recently for his big acts of generosity!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Has Options for Fighting Charges, but They Might Face Challenges</h3>
@@ -74,29 +78,29 @@ Right now there is a lot going on in the world. In the United States, former Pre
 <p>The complicated feelings among some residents about former President Donald J. Trump and the case against him reflect the complicated politics of the state.  <a href="https://nyti.ms/42zxHMa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Earlier Espionage Act Cases, Warning Signs for Trump</h3>
-<sub>By Michael D. Shear and Adam Goldman</sub>
-<p>Former President Donald J. Trump faces legal peril under a 100-year-old law that has been used to prosecute spies and leakers.  <a href="https://nyti.ms/3qDKcZU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Heads to Florida for Court Appearance in Documents Case</h3>
-<sub>By Charlie Savage and Maggie Haberman</sub>
-<p>The former president will interview lawyers to represent him on Tuesday following his indictment on charges of mishandling national security secrets and obstructing efforts to reclaim the documents.  <a href="https://nyti.ms/3oXymt0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>NATO Members Use a Major Air Exercise to Send a Message to Russia</h3>
+<sub>By Lara Jakes</sub>
+<p>More than 200 planes from 25 countries gathered in Germany for the largest-scale war games in decades, held with an eye on the war in Ukraine.  <a href="https://nyti.ms/3qIF4Us"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Fear and Mayhem as Russia’s War Comes Home</h3>
-<sub>By Roger Cohen and Nanna Heitmann</sub>
-<p>Attacks from Ukraine have killed at least a dozen Russian civilians and displaced thousands. But they have not fundamentally changed the calculus for Vladimir Putin.  <a href="https://nyti.ms/3PcPt4Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Ukraine Claims More Small Advances in Counteroffensive, but No Breakthroughs</h3>
+<sub>By Andrew E. Kramer</sub>
+<p>Military analysts said it would take weeks or months to gauge the success of the attacks Ukraine mounted last week across a broad stretch of the front lines.  <a href="https://nyti.ms/3P3lUmc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Silvio Berlusconi, a Showman Who Upended Italian Politics and Culture, Dies at 86</h3>
-<sub>By Jason Horowitz and Rachel Donadio</sub>
-<p>He introduced sex and glamour to Italian TV and then brought the same formula to politics, dominating the country and its culture for more than 20 years.  <a href="https://nyti.ms/3CmvCs7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>U.S. Lawmakers Ask White House to Punish South Africa for Supporting Russia</h3>
+<sub>By John Eligon</sub>
+<p>South Africa is accused of helping supply Russia with weapons for the Ukraine war, a charge that South Africa denies.  <a href="https://nyti.ms/463kCNZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Noise Could Take Years Off Your Life. Here’s How.</h3>
+<sub>By Emily Baumgaertner, Jason Kao, Eleanor Lutz, Josephine Sedgwick, Rumsey Taylor, Noah Throop and Josh Williams</sub>
+<p>We used a professional sound meter to measure the din of daily life and talked to scientists about the health risks it can pose.  <a href="https://nyti.ms/3MZmizB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>How Silvio Berlusconi Changed Italy, for Better or Worse</h3>
@@ -116,22 +120,22 @@ Right now there is a lot going on in the world. In the United States, former Pre
 <p>Jimmy Donaldson, a.k.a. MrBeast, has become a viral sensation for his absurd acts of altruism. Why do so many people think he’s evil?  <a href="https://nyti.ms/42ySn6X"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Noise Could Take Years Off Your Life. Here’s How.</h3>
-<sub>By Emily Baumgaertner, Jason Kao, Eleanor Lutz, Josephine Sedgwick, Rumsey Taylor, Noah Throop and Josh Williams</sub>
-<p>We used a professional sound meter to measure the din of daily life and talked to scientists about the health risks it can pose.  <a href="https://nyti.ms/3MZmizB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 9, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Hard Right Agrees to Allow House Votes but Threatens Continued Blockade</h3>
+<sub>By Annie Karni</sub>
+<p>Republican rebels who blocked action in the House for the past week said they would allow votes on Tuesday, but warned that they would wrest control of the floor again unless leaders met their demands.  <a href="https://nyti.ms/3oZ31pY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Are You Exposed to Too Much Noise? Here’s How to Check.</h3>
-<sub>By Emily Baumgaertner</sub>
-<p>Noise can damage your heart as well as your hearing, but there are ways to measure your exposure and reduce your risk.  <a href="https://nyti.ms/468Fl3h"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 9, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>N.Y.P.D. Commissioner Keechant Sewell to Resign</h3>
+<sub>By Maria Cramer and Chelsia Rose Marcius</sub>
+<p>Ms. Sewell, who was appointed by Mayor Eric Adams in 2022, announced her decision on Monday. She did not provide a reason for her departure.  <a href="https://nyti.ms/43xWJN9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>LIV Golf’s al-Rumayyan and the PGA Tour’s Monahan Make Strange Bedfellows</h3>
-<sub>By John Branch</sub>
-<p>The stunning golf merger announced last week has raised many questions, and one big one is how will the Saudi wealth fund boss and the tour commissioner manage to work together?  <a href="https://nyti.ms/3P4aBu5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Landmark Youth Climate Trial Begins in Montana</h3>
+<sub>By Mike Baker</sub>
+<p>Sixteen young people argue that the state is robbing their future by embracing policies that contribute to climate change.  <a href="https://nyti.ms/3qHDfqw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 12, Central Standard Time</sub></sub>
 <hr/>
 </ol>
