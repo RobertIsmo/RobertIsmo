@@ -60,48 +60,46 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, June 13, Central Standard Time</p>
 <p>
-Right now, there&#39;s a lot going on in the world. In the US, former President Donald Trump is facing legal charges and citizens from Florida are talking about how they feel about him. On the international level, NATO members are holding large-scale war games in a show of strength towards Russia, while US lawmakers are pressuring the White House for penalties against South Africa for supporting Russia in its war against Ukraine. There is also a court trail in Montana between young climate activists and the state of Montana about policies that contribute to climate change. In terms of news closer to home, New York City recently set a minimum wage for food delivery workers, while the city&#39;s police commissioner abruptly resigned but did not disclose any reason. Finally, away from more serious issues, there is an undiscovered group of small wineries producing delicious wine just an hour away from Silicon Valley in California.</p>
+It looks like the economy is still on the upswing as people have spent a lot of money in some areas post-pandemic, although there are signs that that trend is reversing. In the U.S., former president Donald Trump is currently facing charges in court for allegedly mishandling classified information. Meanwhile, Ukraine continues to fight for its independence against an ongoing conflict with Russia. Here at home, the Rikers Complex jail in New York City may be subjected to more transparency under mandates from the federal court. 
+
+The sports world has been particularly tumultuous recently as well. The Denver Nuggets just claimed their first NBA championship after a comeback win in Game 5 of the finals, and there&#39;s controversy brewing over a deal between the PGA Tour and Saudi Arabia’s sovereign wealth fund. Golfers such as Matt Fitzpatrick have been struggling to get to grips with it all and don&#39;t know what&#39;s happening. 
+
+On top of all that, food lovers in NYC have been given a plethora of options for their summer dining bucket lists from Times&#39; food writers!</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Revenge Spending Helped Push Prices Higher. The Trend Is Turning.</h3>
+<sub>By Jeanna Smialek</sub>
+<p>Spending on hotels, airline tickets and dinners surged after the pandemic. This summer could mark a shift back to normal.  <a href="https://nyti.ms/3NbyVHY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump to Appear in Miami Court on Classified Material Charges</h3>
+<sub>By Luke Broadwater</sub>
+<p>Donald J. Trump’s appearance in court in Miami will make him the first former president in American history to be arraigned on federal charges. He is expected to plead not guilty.  <a href="https://nyti.ms/43TENMG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 13, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Has Options for Fighting Charges, but They Might Face Challenges</h3>
 <sub>By Alan Feuer, Maggie Haberman and Ben Protess</sub>
 <p>The former president has already tested a variety of arguments to challenge his indictment in the classified documents case. They could be hard to sustain in court.  <a href="https://nyti.ms/3qGzH8c"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Floridians Would Make Up Trump’s Jury Pool. Here’s What Some Are Saying.</h3>
-<sub>By Nick Madigan, Verónica Zaragovia and Richard Fausset</sub>
-<p>The complicated feelings among some residents about former President Donald J. Trump and the case against him reflect the complicated politics of the state.  <a href="https://nyti.ms/42zxHMa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 12, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Every Block Is Another Battle: Ukraine’s Latest Eastern Stand</h3>
+<sub>By Jeffrey Gettleman and Finbarr O’Reilly</sub>
+<p>Outnumbered, outgunned, out-tanked, Ukraine is putting up a scrappy defense of Marinka, another city near Bakhmut that is a few blocks from falling.  <a href="https://nyti.ms/3X5mNMZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>NATO Members Use a Major Air Exercise to Send a Message to Russia</h3>
-<sub>By Lara Jakes</sub>
-<p>More than 200 planes from 25 countries gathered in Germany for the largest-scale war games in decades, held with an eye on the war in Ukraine.  <a href="https://nyti.ms/3qIF4Us"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 12, Central Standard Time</sub></sub>
+<h3>They Married for a Life Abroad. But They Never Saw Their Husbands Again.</h3>
+<sub>By Sameer Yasir</sub>
+<p>Thousands of Indian women have been abandoned by men working overseas, leaving them trapped in their in-laws’ homes and often defrauded of dowry money.  <a href="https://nyti.ms/45ZjrPA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>U.S. Lawmakers Ask White House to Punish South Africa for Supporting Russia</h3>
-<sub>By John Eligon</sub>
-<p>South Africa is accused of helping supply Russia with weapons for the Ukraine war, a charge that South Africa denies.  <a href="https://nyti.ms/463kCNZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Noise Could Take Years Off Your Life. Here’s How.</h3>
-<sub>By Emily Baumgaertner, Jason Kao, Eleanor Lutz, Josephine Sedgwick, Rumsey Taylor, Noah Throop and Josh Williams</sub>
-<p>We used a professional sound meter to measure the din of daily life and talked to scientists about the health risks it can pose.  <a href="https://nyti.ms/3MZmizB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>How Silvio Berlusconi Changed Italy, for Better or Worse</h3>
-<sub>By Jason Horowitz</sub>
-<p>Whether as a politician or media tycoon, the former prime minister and businessman who died Monday at 86, left an imprint, or a bruise, on just about everything he touched.  <a href="https://nyti.ms/3NmT5zM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Many Twists, Quotes and Scandals of Silvio Berlusconi</h3>
-<sub>By Alan Yuhas</sub>
-<p>The former prime minister of Italy reveled in the spotlight, even when it shined on him for causing offense.  <a href="https://nyti.ms/460BSDO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-dining-blue" alt="">
+<h3>Where to Eat in New York City This Summer</h3>
+<sub></sub>
+<p>Nikita Richardson and other Times food writers have dozens of recommendations for your summer bucket list.  <a href="https://nyti.ms/3qG3k9F"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -111,27 +109,33 @@ Right now, there&#39;s a lot going on in the world. In the US, former President 
 <sub><sub>Monday, June 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>N.Y.P.D. Commissioner Keechant Sewell to Resign</h3>
-<sub>By Maria Cramer and Chelsia Rose Marcius</sub>
-<p>Ms. Sewell, who was appointed by Mayor Eric Adams in 2022, announced her decision on Monday. She did not provide a reason for her departure.  <a href="https://nyti.ms/43xWJN9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Rikers Monitor Expected to Take Aim at City Jails Chief in Hearing</h3>
+<sub>By Jonah E. Bromwich</sub>
+<p>The federal court appointee will likely try to force Louis A. Molina, head of the Department of Correction, to increase openness about the Rikers jail complex.  <a href="https://nyti.ms/3JbOTR4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Denver Nuggets Beat Miami Heat for First N.B.A. Championship</h3>
+<sub>By Tania Ganguli</sub>
+<p>The Nuggets had never been to the N.B.A. finals, but they showed they belonged with a comeback win in Game 5.  <a href="https://nyti.ms/3NsXwcE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Landmark Youth Climate Trial Begins in Montana</h3>
-<sub>By Mike Baker</sub>
-<p>Sixteen young people argue that the state is robbing their future by embracing policies that contribute to climate change.  <a href="https://nyti.ms/3qHDfqw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 12, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>Scalpel, Forceps, Bone Drill: Modern Medicine in Ancient Rome</h3>
+<sub>By Franz Lidz</sub>
+<p>A 2,000-year-old collection of medical tools, recently unearthed in Hungary, offer insight into the practices of undaunted, much-maligned Roman doctors.  <a href="https://nyti.ms/43C8WQD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>New York City Sets New Minimum Wage for Food Delivery Workers</h3>
-<sub>By Stefanos Chen</sub>
-<p>The increase, which requires app-based delivery workers to be paid $17.96 per hour before tips, is the first such minimum wage in the country for an industry that has exploded in popularity.  <a href="https://nyti.ms/43RmhV6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 12, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Golf’s Titanic Deal Stokes Anger on Capitol Hill</h3>
+<sub>By Alan Blinder and Kevin Draper</sub>
+<p>American lawmakers and officials are studying the pact between the PGA Tour and Saudi Arabia’s sovereign wealth fund.  <a href="https://nyti.ms/43SOmvc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-travel-blue" alt="">
-<h3>Savoring a California Wine Country Far From Napa and the Crowds</h3>
-<sub>By Laura M. Holson</sub>
-<p>A growing patchwork of small and bucolic wineries an hour’s drive south from Silicon Valley are making and serving prizewinning chardonnay, pinot noir and other estate vintages.  <a href="https://nyti.ms/3P9tgVq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Matt Fitzpatrick Is Feeling Confused, and He’s Not the Only One</h3>
+<sub>By Bill Pennington</sub>
+<p>“I just don’t know what’s going on,” Fitzpatrick, the reigning U.S. Open champion, said Monday of the PGA Tour’s merger with LIV Golf. “I don’t think anyone knows what’s going on.”  <a href="https://nyti.ms/42FZpXA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 12, Central Standard Time</sub></sub>
 <hr/>
 </ol>
