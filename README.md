@@ -60,11 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, June 12, Central Standard Time</p>
 <p>
-It&#39;s been a busy news week with a lot going on in the US and around the world. In the US, former president Donald Trump is facing possible legal charges, and a jury of his peers from Florida are weighing in. NATO nations are doing large air exercises together as a message to Russia over their war in Ukraine, and some US lawmakers want to punish South Africa for giving weapons to Russia for the conflict. It was announced that New York&#39;s police commissioner will be resigning soon, and a landmark trial has begun in Montana where 16 young people are arguing that their state is contributing to climate change. 
-
-Internationally, Italy has said farewell to former prime minister Silvio Berlusconi, who many people praised and criticized for his impressive career (and scandalous incidents). We also learned more about how much damage too much noise can do to our health. 
-
-Finally, we have also been hearing about YouTube star MrBeast lately– it turns out he&#39;s become hugely popular recently for his big acts of generosity!</p>
+It looks like there&#39;s a lot going on in the world right now. In the US, former president Donald Trump faces charges and his potential jury pool is Floridians who have complicated feelings about him. Meanwhile, NATO countries are sending a message to Russia with a major air exercise over Germany, and US lawmakers are asking the White House to punish South Africa for apparently supporting the weapons used in the Ukraine war. In terms of health, we&#39;re learning noise could be taking years off our lives, and in terms of politics, we&#39;re remembering the life and legacies of Silvio Berlusconi, an Italian politician and media mogul who recently passed away. In terms of trends and business news, YouTube star MrBeast has become the Willy Wonka of YouTube, and there&#39;s news out of New York where N.Y.P.D Commissioner Keechant Sewell is resigning. There&#39;s also a groundbreaking climate trial in Montana where 16 young people argue that their state is robbing their future by embracing policies that contribute to climate change.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Has Options for Fighting Charges, but They Might Face Challenges</h3>
