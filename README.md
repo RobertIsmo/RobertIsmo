@@ -60,18 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, June 13, Central Standard Time</p>
 <p>
-Hey! There&#39;s a lot going on in the world right now. In the US, Trump&#39;s legal team is undergoing some changes and reporters are being barred from bringing phones and laptops to his hearing. In business news, people have been revenge spending on things like hotels and airplane tickets during the pandemic, and car prices overall have been steadily declining. On the stock market front, stocks are climbing higher into a bull market since hitting a low in February. Elsewhere in the world, Ukrainian forces are defending their cities against Russian aggression and thousands of Indian women have been abandoned by husbands when they moved abroad seeking work. In New York City, you can check out loads of great places to eat this summer and there have been some heated proceedings surrounding Rikers Jail Complex. Finally, the Denver Nuggets just won their first ever N.B.A. Championship and archaeologists are uncovering ancient medical tools in Hungary from Roman doctors. Wow!</p>
+There is a lot going on in the world right now - it can be hard to keep up. In US news, there&#39;s an indictment around Donald Trump&#39;s handling of government documents, and activists are gathering outside the courthouse. Business news includes stories about inflation, stocks climbing into a bull market, car prices easing, and revenge spending pushing prices higher. On the world news front, there&#39;s an update on the situation at Ukraine&#39;s eastern border, Indian women abandoned by husbands working overseas, and more. In health news, there are doctors turning to chatbots to communicate with patients. Finally, for anyone in New York this summer dining recommendations and for US readers an update on the House votes after a blockade by hard right Republicans. Plus, it has been record hot this June - suggesting extreme weather is in our summer future.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump’s legal team remains in flux hours before he goes into court.</h3>
-<sub>By Maggie Haberman and Alan Feuer</sub>
-<p>  <a href="https://nyti.ms/3X6L5Xa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 13, Central Standard Time</sub></sub>
+<h3>The Trump Classified Documents Indictment, Annotated</h3>
+<sub>By Charlie Savage</sub>
+<p>The indictment unveiled on Friday centers on Donald J. Trump’s handling of sensitive government documents after he left office.  <a href="https://nyti.ms/3oYZpEc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Reporters are barred from bringing phones or laptops to Trump’s hearing.</h3>
-<sub>By Nicholas Bogel-Burroughs</sub>
-<p>  <a href="https://nyti.ms/3N3bKiH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Outside the courthouse, a circuslike atmosphere brings out activists seeking eyeballs.</h3>
+<sub>By Nicholas Bogel-Burroughs, Sergio Olmos and Luke Broadwater</sub>
+<p>  <a href="https://nyti.ms/462rkUv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Cooler Inflation Bolsters Argument for Fed Rate Pause</h3>
+<sub>By Jeanna Smialek</sub>
+<p>Consumer prices rose at the slowest pace in more than two years, an encouraging sign for policymakers as they plot their next interest rate move.  <a href="https://nyti.ms/3qEsxBp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -98,6 +104,12 @@ Hey! There&#39;s a lot going on in the world right now. In the US, Trump&#39;s l
 <p>Outnumbered, outgunned, out-tanked, Ukraine is putting up a scrappy defense of Marinka, another city near Bakhmut that is a few blocks from falling.  <a href="https://nyti.ms/3X5mNMZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 13, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Doctors Are Using Chatbots in an Unexpected Way</h3>
+<sub>By Gina Kolata</sub>
+<p>Despite the drawbacks of turning to artificial intelligence in medicine, some physicians find that ChatGPT improves their ability to communicate empathetically with patients.  <a href="https://nyti.ms/3qK6toE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 12, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>They Married for a Life Abroad. But They Never Saw Their Husbands Again.</h3>
 <sub>By Sameer Yasir</sub>
@@ -106,7 +118,7 @@ Hey! There&#39;s a lot going on in the world right now. In the US, Trump&#39;s l
 <hr/>
 <img src="https://img.shields.io/badge/-dining-blue" alt="">
 <h3>Where to Eat in New York City This Summer</h3>
-<sub></sub>
+<sub>By Nikita Richardson, Umi Syam, Martín González Gómez, Becky Hughes, Sara Bonisteel, Pete Wells, Priya Krishna, Florence Fabricant, Eric Asimov and Alexa Weibel</sub>
 <p>Nikita Richardson and other Times food writers have dozens of recommendations for your summer bucket list.  <a href="https://nyti.ms/3qG3k9F"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 12, Central Standard Time</sub></sub>
 <hr/>
@@ -116,22 +128,10 @@ Hey! There&#39;s a lot going on in the world right now. In the US, Trump&#39;s l
 <p>Republican rebels who blocked action in the House for the past week said they would allow votes on Tuesday, but warned that they would wrest control of the floor again unless leaders met their demands.  <a href="https://nyti.ms/3oZ31pY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Rikers Monitor Expected to Take Aim at City Jails Chief in Hearing</h3>
-<sub>By Jonah E. Bromwich</sub>
-<p>The federal court appointee will likely try to force Louis A. Molina, head of the Department of Correction, to increase openness about the Rikers jail complex.  <a href="https://nyti.ms/3JbOTR4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Denver Nuggets Beat Miami Heat for First N.B.A. Championship</h3>
-<sub>By Tania Ganguli</sub>
-<p>The Nuggets had never been to the N.B.A. finals, but they showed they belonged with a comeback win in Game 5.  <a href="https://nyti.ms/3NsXwcE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>Scalpel, Forceps, Bone Drill: Modern Medicine in Ancient Rome</h3>
-<sub>By Franz Lidz</sub>
-<p>A 2,000-year-old collection of medical tools, recently unearthed in Hungary, offer insight into the practices of undaunted, much-maligned Roman doctors.  <a href="https://nyti.ms/43C8WQD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Here’s How Much Hotter Than Normal This June Has Been</h3>
+<sub>By Elena Shao and Raymond Zhong</sub>
+<p>Record global warmth this month could portend a summer of extreme weather.  <a href="https://nyti.ms/43TqkAf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
