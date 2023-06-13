@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Monday, June 12, Central Standard Time</p>
+<p>It is Tuesday, June 13, Central Standard Time</p>
 <p>
-It looks like there&#39;s a lot going on in the world right now. In the US, former president Donald Trump faces charges and his potential jury pool is Floridians who have complicated feelings about him. Meanwhile, NATO countries are sending a message to Russia with a major air exercise over Germany, and US lawmakers are asking the White House to punish South Africa for apparently supporting the weapons used in the Ukraine war. In terms of health, we&#39;re learning noise could be taking years off our lives, and in terms of politics, we&#39;re remembering the life and legacies of Silvio Berlusconi, an Italian politician and media mogul who recently passed away. In terms of trends and business news, YouTube star MrBeast has become the Willy Wonka of YouTube, and there&#39;s news out of New York where N.Y.P.D Commissioner Keechant Sewell is resigning. There&#39;s also a groundbreaking climate trial in Montana where 16 young people argue that their state is robbing their future by embracing policies that contribute to climate change.</p>
+There are a lot of interesting and significant developments happening around the world. In the United States, former President Donald Trump is being challenged on charges related to classified documents. Meanwhile, NATO allies are sending a message to Russia via a major air exercise in Germany. The U.S. government is also asking the White House to punish South Africa for supporting Russia in its war with Ukraine. On the health front, studies have found that noise can take years off your life, so be mindful of that. Italy has been mourning the death of former Prime Minister Silvio Berlusconi, a controversial figure who leaves behind an imprint, either positively or negatively, on everything he touched. In politics, some hard-right members are allowing votes by threatening continued blockades in Congress. Closer to home, New York City has set new minimum wage requirements for food delivery workers and police commissioner Keechant Sewell is resigning without providing a reason for her departure. Also, California wine country is getting attention outside of Napa Valley as small wineries in Silicon Valley are getting noticed for producing quality chardonnay and pinot noir vintages.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Has Options for Fighting Charges, but They Might Face Challenges</h3>
@@ -78,12 +78,6 @@ It looks like there&#39;s a lot going on in the world right now. In the US, form
 <h3>NATO Members Use a Major Air Exercise to Send a Message to Russia</h3>
 <sub>By Lara Jakes</sub>
 <p>More than 200 planes from 25 countries gathered in Germany for the largest-scale war games in decades, held with an eye on the war in Ukraine.  <a href="https://nyti.ms/3qIF4Us"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Claims More Small Advances in Counteroffensive, but No Breakthroughs</h3>
-<sub>By Andrew E. Kramer</sub>
-<p>Military analysts said it would take weeks or months to gauge the success of the attacks Ukraine mounted last week across a broad stretch of the front lines.  <a href="https://nyti.ms/3P3lUmc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -110,12 +104,6 @@ It looks like there&#39;s a lot going on in the world right now. In the US, form
 <p>The former prime minister of Italy reveled in the spotlight, even when it shined on him for causing offense.  <a href="https://nyti.ms/460BSDO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>How MrBeast Became the Willy Wonka of YouTube</h3>
-<sub>By Max Read</sub>
-<p>Jimmy Donaldson, a.k.a. MrBeast, has become a viral sensation for his absurd acts of altruism. Why do so many people think he’s evil?  <a href="https://nyti.ms/42ySn6X"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 12, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Hard Right Agrees to Allow House Votes but Threatens Continued Blockade</h3>
 <sub>By Annie Karni</sub>
@@ -132,6 +120,18 @@ It looks like there&#39;s a lot going on in the world right now. In the US, form
 <h3>A Landmark Youth Climate Trial Begins in Montana</h3>
 <sub>By Mike Baker</sub>
 <p>Sixteen young people argue that the state is robbing their future by embracing policies that contribute to climate change.  <a href="https://nyti.ms/3qHDfqw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>New York City Sets New Minimum Wage for Food Delivery Workers</h3>
+<sub>By Stefanos Chen</sub>
+<p>The increase, which requires app-based delivery workers to be paid $17.96 per hour before tips, is the first such minimum wage in the country for an industry that has exploded in popularity.  <a href="https://nyti.ms/43RmhV6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-travel-blue" alt="">
+<h3>Savoring a California Wine Country Far From Napa and the Crowds</h3>
+<sub>By Laura M. Holson</sub>
+<p>A growing patchwork of small and bucolic wineries an hour’s drive south from Silicon Valley are making and serving prizewinning chardonnay, pinot noir and other estate vintages.  <a href="https://nyti.ms/3P9tgVq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 12, Central Standard Time</sub></sub>
 <hr/>
 </ol>
