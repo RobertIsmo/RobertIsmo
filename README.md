@@ -60,29 +60,37 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, June 13, Central Standard Time</p>
 <p>
-It looks like the economy is still on the upswing as people have spent a lot of money in some areas post-pandemic, although there are signs that that trend is reversing. In the U.S., former president Donald Trump is currently facing charges in court for allegedly mishandling classified information. Meanwhile, Ukraine continues to fight for its independence against an ongoing conflict with Russia. Here at home, the Rikers Complex jail in New York City may be subjected to more transparency under mandates from the federal court. 
-
-The sports world has been particularly tumultuous recently as well. The Denver Nuggets just claimed their first NBA championship after a comeback win in Game 5 of the finals, and there&#39;s controversy brewing over a deal between the PGA Tour and Saudi Arabia’s sovereign wealth fund. Golfers such as Matt Fitzpatrick have been struggling to get to grips with it all and don&#39;t know what&#39;s happening. 
-
-On top of all that, food lovers in NYC have been given a plethora of options for their summer dining bucket lists from Times&#39; food writers!</p>
+Hey! There&#39;s a lot going on in the world right now. In the US, Trump&#39;s legal team is undergoing some changes and reporters are being barred from bringing phones and laptops to his hearing. In business news, people have been revenge spending on things like hotels and airplane tickets during the pandemic, and car prices overall have been steadily declining. On the stock market front, stocks are climbing higher into a bull market since hitting a low in February. Elsewhere in the world, Ukrainian forces are defending their cities against Russian aggression and thousands of Indian women have been abandoned by husbands when they moved abroad seeking work. In New York City, you can check out loads of great places to eat this summer and there have been some heated proceedings surrounding Rikers Jail Complex. Finally, the Denver Nuggets just won their first ever N.B.A. Championship and archaeologists are uncovering ancient medical tools in Hungary from Roman doctors. Wow!</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump’s legal team remains in flux hours before he goes into court.</h3>
+<sub>By Maggie Haberman and Alan Feuer</sub>
+<p>  <a href="https://nyti.ms/3X6L5Xa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Reporters are barred from bringing phones or laptops to Trump’s hearing.</h3>
+<sub>By Nicholas Bogel-Burroughs</sub>
+<p>  <a href="https://nyti.ms/3N3bKiH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 13, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Revenge Spending Helped Push Prices Higher. The Trend Is Turning.</h3>
 <sub>By Jeanna Smialek</sub>
-<p>Spending on hotels, airline tickets and dinners surged after the pandemic. This summer could mark a shift back to normal.  <a href="https://nyti.ms/3NbyVHY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Spending on hotels, airline tickets and recreation surged after the pandemic. This summer could mark a shift back to normal.  <a href="https://nyti.ms/3NbyVHY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump to Appear in Miami Court on Classified Material Charges</h3>
-<sub>By Luke Broadwater</sub>
-<p>Donald J. Trump’s appearance in court in Miami will make him the first former president in American history to be arraigned on federal charges. He is expected to plead not guilty.  <a href="https://nyti.ms/43TENMG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Car prices, a root of pandemic inflation, are settling down.</h3>
+<sub>By Lydia DePillis</sub>
+<p>The car market has helped keep inflation too hot for comfort, but there are signs of easing as new supplies comes online.  <a href="https://nyti.ms/43YaeFq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Has Options for Fighting Charges, but They Might Face Challenges</h3>
-<sub>By Alan Feuer, Maggie Haberman and Ben Protess</sub>
-<p>The former president has already tested a variety of arguments to challenge his indictment in the classified documents case. They could be hard to sustain in court.  <a href="https://nyti.ms/3qGzH8c"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 12, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Stocks Climb on Inflation Data, Moving Further Into a Bull Market</h3>
+<sub>By Joe Rennison</sub>
+<p>The S&amp;P 500 has climbed more than 20 percent from a 2022 low, a marker of a new phase of exuberance in the markets.  <a href="https://nyti.ms/3Co1uwC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Every Block Is Another Battle: Ukraine’s Latest Eastern Stand</h3>
@@ -125,18 +133,6 @@ On top of all that, food lovers in NYC have been given a plethora of options for
 <sub>By Franz Lidz</sub>
 <p>A 2,000-year-old collection of medical tools, recently unearthed in Hungary, offer insight into the practices of undaunted, much-maligned Roman doctors.  <a href="https://nyti.ms/43C8WQD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Golf’s Titanic Deal Stokes Anger on Capitol Hill</h3>
-<sub>By Alan Blinder and Kevin Draper</sub>
-<p>American lawmakers and officials are studying the pact between the PGA Tour and Saudi Arabia’s sovereign wealth fund.  <a href="https://nyti.ms/43SOmvc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Matt Fitzpatrick Is Feeling Confused, and He’s Not the Only One</h3>
-<sub>By Bill Pennington</sub>
-<p>“I just don’t know what’s going on,” Fitzpatrick, the reigning U.S. Open champion, said Monday of the PGA Tour’s merger with LIV Golf. “I don’t think anyone knows what’s going on.”  <a href="https://nyti.ms/42FZpXA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 12, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
