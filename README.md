@@ -60,36 +60,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, June 14, Central Standard Time</p>
 <p>
-Right now, banks that were at the center of the recent financial crisis are grappling with their place in the market. Higher interest rates are leaving borrowers with bigger bills on credit cards, student loans and other forms of debt, while savers benefit from higher yields. A judge in a case involving former US President Donald Trump is under scrutiny for her past rulings favoring him. The GOP contenders see this as a problem, as it&#39;s consuming news cycles and taking attention away from their campaigns too. Fox News Chyron called president Joe Biden a &#39;wannabe dictator&#39;, while the US is paying billions to Russia&#39;s nuclear agency as nuclear power companies rely on enriched uranium made in Russia for emissions-free energy. Ukraine is on the offensive but progress measurement is still difficult. Battle rap is an art form, industry and sport centered around New York, while Southern Baptists just reaffirmed their stance against female pastors. Finally, there&#39;s been a retrospective resurgence over Cormac McCarthy&#39;s works, as the last of generation of writers who redefined American prose.</p>
+There&#39;s been a lot happening in the world lately - from criminal trials involving President Trump, to debates about nuclear power and climate change. There&#39;s also been a big discussion around a Southern Baptist Church voting to keep out churches with female pastors and the closure of a San Francisco Mall as retail stores continue to flee city downtowns. Lastly, there was the death of author Cormac McCarthy, who wrote books that redefined American prose.</p>
 <ol>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>‘Do You Even Want Us to Exist?’ A Bank Chief Fights to Survive.</h3>
-<sub>By Rob Copeland</sub>
-<p>The banks at the center of the recent crisis, like Western Alliance, are engaged in collective soul-searching.  <a href="https://nyti.ms/3X5fCoa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>What Higher Interest Rates Mean for Mortgages, Credit Cards and More</h3>
-<sub>By Tara Siegel Bernard</sub>
-<p>Savers benefit from higher rates, but borrowers have faced bigger bills on credit cards, student loans and other forms of debt.  <a href="https://nyti.ms/3N6Xg1p"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Judge in Trump Documents Case Has Scant Criminal Trial Experience</h3>
 <sub>By Michael S. Schmidt and Charlie Savage</sub>
 <p>Judge Aileen M. Cannon, under scrutiny for past rulings favoring the former president, has presided over only a few criminal cases that went to trial.  <a href="https://nyti.ms/46hvBDV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>G.O.P. Rivals See Trump’s Indictment as a Big Problem (for Them)</h3>
-<sub>By Jonathan Swan and Jonathan Weisman</sub>
-<p>An all-indictment, all-the-time news diet could swallow the summer, denying attention to other Republican candidates who need it like oxygen.  <a href="https://nyti.ms/3X4rx5z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Fox News Chyron Calls Biden a ‘Wannabe Dictator’</h3>
 <sub>By Mike Ives</sub>
 <p>The onscreen text appeared Tuesday beneath split-screen footage of President Biden and former President Donald J. Trump, who had been charged with federal crimes hours earlier.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>Fox, Trump and Millennial Movement</h3>
+<sub>By Nate Cohn</sub>
+<p>To follow the impact of the indictment, it may be best to watch Fox News and not the polls.  <a href="https://nyti.ms/464Hixy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Fed Leaves Rates Steady but Forecasts More Moves to Come</h3>
+<sub>By Jeanna Smialek</sub>
+<p>Central bankers have lifted rates at the fastest pace since the 1980s, but now they’re taking time to survey how the changes are working.  <a href="https://nyti.ms/3NwCs4Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
@@ -104,6 +98,12 @@ Right now, banks that were at the center of the recent financial crisis are grap
 <p>The Ukrainians are now on the offense. But measuring their progress is difficult this early on.  <a href="https://nyti.ms/42NMe7e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Congressional Support for Aiding Ukraine Frays Amid Spending Battle</h3>
+<sub>By Karoun Demirjian</sub>
+<p>Spending caps set by the debt limit bill have empowered critics of U.S. aid to Ukraine, threatening the bipartisan coalition that has kept military assistance flowing to Kyiv.  <a href="https://nyti.ms/3PcGCQs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>The Fierce, Flourishing World of Battle Rap</h3>
 <sub>By Ben Barzilai and Christopher Lee</sub>
@@ -116,23 +116,23 @@ Right now, banks that were at the center of the recent financial crisis are grap
 <p>Delegates at the denomination’s convention voted overwhelmingly to finalize the ousters of one of its largest churches, Saddleback, and a small church in Kentucky, despite impassioned appeals from their leaders.  <a href="https://nyti.ms/3qL7OMg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What’s at Stake as Southern Baptists Move to Bar Female Pastors</h3>
-<sub>By Colbi Edmonds</sub>
-<p>The Southern Baptist Convention, often a bellwether for evangelical America, is grappling with divisions over the role of women in leadership.  <a href="https://nyti.ms/4412FOv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-books-blue" alt="">
-<h3>Riding Into a Bloodred Sunset</h3>
-<sub>By A.O. Scott</sub>
-<p>Cormac McCarthy was the last of a generational cohort of writers who redefined American prose.  <a href="https://nyti.ms/3X45CLP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Westfield Gives Up San Francisco Mall, Signaling More Pain Ahead</h3>
+<sub>By Jordyn Holman and Thomas Fuller</sub>
+<p>Retailers have been fleeing the city’s downtown, and some analysts say there may be more to come. It’s an issue facing various downtowns around the United States.  <a href="https://nyti.ms/42KLa3M"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-books-blue" alt="">
-<h3>A Guide to Cormac McCarthy’s Books</h3>
-<sub>By The New York Times Books Staff</sub>
-<p>McCarthy applied a stark, merciless vision to his stories of misfits and the apocalypse. Here’s where to start with his work.  <a href="https://nyti.ms/3qJjnDB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 13, Central Standard Time</sub></sub>
+<h3>Cormac McCarthy, Riding Into a Bloodred Sunset</h3>
+<sub>By A.O. Scott</sub>
+<p>He was the last of a generational cohort of writers who redefined American prose.  <a href="https://nyti.ms/3X45CLP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-books-blue" alt="">
+<h3>‘It Requires Genius and He Had It’: Readers on Cormac McCarthy</h3>
+<sub></sub>
+<p>McCarthy’s death inspired hundreds of people to share their impressions of him and his work.  <a href="https://nyti.ms/43DLDpD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
