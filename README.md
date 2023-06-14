@@ -58,14 +58,16 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Tuesday, June 13, Central Standard Time</p>
+<p>It is Wednesday, June 14, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In the US, former President Trump and special counsel Smith just had their first encounter in court which was tense. Trump is also continuing to hold rallies and primaries for 2024 with some Republicans challenging Speaker McCarthy from the far right which could mean major dysfunction ahead. 
-
-In the books section, acclaimed novelist Cormac McCarthy has passed away at 89 and his distinct writing style left its mark over several film adaptations. 
-
-In world news, Russia has attacked Ukrainian forces and an accident on the Niger River killed over 100 people who were returning home from a wedding party. Lastly, two children were rescued after fleeing violent armed groups in Colombia.</p>
+Right now, a lot is happening in the world. In the US, Donald Trump has been arraigned on documents and obstruction charges, so he&#39;s facing legal proceedings. In Ukraine, allies are pressuring Biden to speed up NATO membership for the country as Russian forces are striking back against their advancing troops. Over in the book world, Cormac McCarthy, renowned novelist known for his dark America stories, has sadly passed away. And also in the US, Southern Baptists are trying to purge churches with female pastors due to fears of liberal drift. All while House revolutionaries are breaking traditional rules to ensure grid-lock in the chamber ahead. Lastly, Pat Sajak is retiring from his decades-long show host job at &#39;Wheel of Fortune&#39;.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Is Arraigned on Documents and Obstruction Charges</h3>
+<sub>By Glenn Thrush, Nicholas Nehamas and Eileen Sullivan</sub>
+<p>Donald J. Trump, now twice indicted since leaving the White House, surrendered to federal authorities in Miami and pleaded not guilty, striking a defiant tone afterward.  <a href="https://nyti.ms/3Nuk38A"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 13, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In Court, a Tense Trump and a Poker-Faced Smith Finally Cross Paths</h3>
 <sub>By Glenn Thrush</sub>
@@ -79,9 +81,15 @@ In world news, Russia has attacked Ukrainian forces and an accident on the Niger
 <sub><sub>Tuesday, June 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Southern Baptists Move to Purge Churches With Female Pastors</h3>
-<sub>By Elizabeth Dias and Ruth Graham</sub>
-<p>Some conservatives in the evangelical denomination fear a liberal drift, and are set to vote on a strict ban against women in church leadership. Two churches are appealing their expulsions.  <a href="https://nyti.ms/3JyPJYr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Allies Pressure Biden to Hasten NATO Membership for Ukraine</h3>
+<sub>By David E. Sanger and Steven Erlanger</sub>
+<p>Some members of the military alliance want to set a timetable for Ukraine to join, though only after the war is no longer raging.  <a href="https://nyti.ms/3Ct67Wj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russian Forces Strike Back Against Ukraine’s Advancing Troops</h3>
+<sub>By Andrew E. Kramer</sub>
+<p>Russia attacked Ukrainian troops near villages in Ukraine’s south on the same day that Russian missiles killed at least 11 people and that President Vladimir V. Putin acknowledged some Russian losses.  <a href="https://nyti.ms/3N3Q3z3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-books-blue" alt="">
@@ -102,10 +110,10 @@ In world news, Russia has attacked Ukrainian forces and an accident on the Niger
 <p>The Coens and Ridley Scott are among the directors who took big swings at the novelist’s work. The distinctive writer left his mark on the big screen.  <a href="https://nyti.ms/42Cw7JA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russian Forces Strike Back Against Ukraine’s Advancing Troops</h3>
-<sub>By Andrew E. Kramer</sub>
-<p>Russia attacked Ukrainian troops near villages in Ukraine’s south on the same day that Russian missiles killed at least 11 people and that President Vladimir V. Putin acknowledged some Russian losses.  <a href="https://nyti.ms/3N3Q3z3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Southern Baptists Move to Purge Churches With Female Pastors</h3>
+<sub>By Elizabeth Dias and Ruth Graham</sub>
+<p>Some conservatives in the evangelical denomination fear a liberal drift, and are set to vote on a strict ban against women in church leadership. Two churches are appealing their expulsions.  <a href="https://nyti.ms/3JyPJYr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -124,18 +132,6 @@ In world news, Russia has attacked Ukrainian forces and an accident on the Niger
 <h3>Colombian Children Rescued in Jungle Had Been Fleeing for Their Lives</h3>
 <sub>By Julie Turkewitz and Genevieve Glatsky</sub>
 <p>The father of two of the survivors said the family had feared the children would be recruited by a violent armed group.  <a href="https://nyti.ms/43B8bHJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-espanol-blue" alt="">
-<h3>Los niños rescatados en la selva colombiana habían estado huyendo de los grupos armados</h3>
-<sub>By Julie Turkewitz and Genevieve Glatsky</sub>
-<p>El padre de dos de los sobrevivientes dijo que la familia temía que los niños fueran reclutados.  <a href="https://nyti.ms/3CuXYAJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Wedding Guests Among at Least 103 Killed in Boat Accident in Nigeria</h3>
-<sub>By Elian Peltier and Ismail Alfa</sub>
-<p>The boat capsized on the Niger River at night, when many passengers were returning from a wedding party.  <a href="https://nyti.ms/3Pgshmp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
