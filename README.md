@@ -60,9 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, June 13, Central Standard Time</p>
 <p>
-Currently, there is a lot of unrest in both the United States and globally. In the US, former President Trump and Special Counsel Smith crossed paths in court - but they exchanged not a word during their tense encounter. Trump has been ordered not to discuss his case with his aide and co-defendant. Separately, the Southern Baptists are moving to purge churches with female pastors.
+There is a lot going on in the world right now. In the US, former President Trump and special counsel Smith just had their first encounter in court which was tense. Trump is also continuing to hold rallies and primaries for 2024 with some Republicans challenging Speaker McCarthy from the far right which could mean major dysfunction ahead. 
 
-At the same time, internationally, Russian forces have struck back against Ukraine&#39;s advancing troops after missiles caused 11 casualties. Colombia also had a major event when children were rescued from the jungle after having fled for their lives from violent armed groups.</p>
+In the books section, acclaimed novelist Cormac McCarthy has passed away at 89 and his distinct writing style left its mark over several film adaptations. 
+
+In world news, Russia has attacked Ukrainian forces and an accident on the Niger River killed over 100 people who were returning home from a wedding party. Lastly, two children were rescued after fleeing violent armed groups in Colombia.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In Court, a Tense Trump and a Poker-Faced Smith Finally Cross Paths</h3>
@@ -71,9 +73,9 @@ At the same time, internationally, Russian forces have struck back against Ukrai
 <sub><sub>Tuesday, June 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Ordered Not to Discuss Case With His Aide and Co-Defendant</h3>
-<sub>By Maggie Haberman and Alan Feuer</sub>
-<p>The restrictions placed on the two men are common for co-defendants in a criminal matter, but they could be particularly challenging to uphold given that Walt Nauta’s job is Mr. Trump’s personal aide.  <a href="https://nyti.ms/3NtJZkI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>For Trump, the Show and the Campaign Must Trudge On</h3>
+<sub>By Shane Goldmacher and Maggie Haberman</sub>
+<p>On the calendar for the Republicans’ 2024 front-runner: rallies and primaries mixed with court dates.  <a href="https://nyti.ms/43Ufl9K"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -107,12 +109,6 @@ At the same time, internationally, Russian forces have struck back against Ukrai
 <sub><sub>Tuesday, June 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>House Passes Resolution Calling on Russia to Free U.S. Prisoners</h3>
-<sub>By Karoun Demirjian</sub>
-<p>The measure urging Moscow to release Evan Gershkovich, a Wall Street Journal reporter arrested on assignment, and Paul Whelan, a former Marine, earned the unanimous backing of the House.  <a href="https://nyti.ms/3N93pKz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>G.O.P. Rebels Are Breaking the Rule on Rules, Upending How the House Works</h3>
 <sub>By Carl Hulse</sub>
 <p>Those challenging Speaker Kevin McCarthy from the far right are violating a longstanding House tradition, fundamentally changing the nature of the chamber in ways that point to major dysfunction ahead.  <a href="https://nyti.ms/3NriAjo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -134,6 +130,12 @@ At the same time, internationally, Russian forces have struck back against Ukrai
 <h3>Los niños rescatados en la selva colombiana habían estado huyendo de los grupos armados</h3>
 <sub>By Julie Turkewitz and Genevieve Glatsky</sub>
 <p>El padre de dos de los sobrevivientes dijo que la familia temía que los niños fueran reclutados.  <a href="https://nyti.ms/3CuXYAJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Wedding Guests Among at Least 103 Killed in Boat Accident in Nigeria</h3>
+<sub>By Elian Peltier and Ismail Alfa</sub>
+<p>The boat capsized on the Niger River at night, when many passengers were returning from a wedding party.  <a href="https://nyti.ms/3Pgshmp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
