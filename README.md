@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, June 14, Central Standard Time</p>
 <p>
-Right now, a lot is happening in the world. In the US, Donald Trump has been arraigned on documents and obstruction charges, so he&#39;s facing legal proceedings. In Ukraine, allies are pressuring Biden to speed up NATO membership for the country as Russian forces are striking back against their advancing troops. Over in the book world, Cormac McCarthy, renowned novelist known for his dark America stories, has sadly passed away. And also in the US, Southern Baptists are trying to purge churches with female pastors due to fears of liberal drift. All while House revolutionaries are breaking traditional rules to ensure grid-lock in the chamber ahead. Lastly, Pat Sajak is retiring from his decades-long show host job at &#39;Wheel of Fortune&#39;.</p>
+Right now there is a lot of political upheaval in the US, with Donald Trump being indicted on documents and obstruction charges, and the Southern Baptists trying to purge churches with female pastors. In the world, Russian forces are striking back against Ukraine&#39;s advancing troops, and in Colombia, children were rescued from a jungle where they had fled to escape recruitment by an armed group. Cormac McCarthy, an acclaimed novelist who explored bleak worlds of violence and outsiders, recently passed away at the age of 89.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Is Arraigned on Documents and Obstruction Charges</h3>
