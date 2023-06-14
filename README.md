@@ -60,18 +60,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, June 14, Central Standard Time</p>
 <p>
-Right now, there&#39;s a lot of activity happening in the US. Former President Donald Trump has been arraigned on documents and obstruction charges and is facing federal prosecution. He is also still dominating the news cycle, with Fox News calling President Biden a &#39;wannabe dictator.&#39; Meanwhile, in Ukraine, they are on the offense following Russia&#39;s occupation of their territory. Russian soldiers have been accused of war crimes, and in Little Bangladesh in Brooklyn, tradition is being embraced along with new trends. In New York City&#39;s Adams administration, there&#39;s been an exodus of top officials due to the mayor&#39;s management style. Also regarding housing, affordable housing woes are painting a &#39;bleak picture.&#39; And if you own a home, insurance rates are soaring as disasters caused by weather become more frequent. You can take certain steps to get more affordable insurance coverage though.</p>
+Right now, banks that were at the center of the recent financial crisis are grappling with their place in the market. Higher interest rates are leaving borrowers with bigger bills on credit cards, student loans and other forms of debt, while savers benefit from higher yields. A judge in a case involving former US President Donald Trump is under scrutiny for her past rulings favoring him. The GOP contenders see this as a problem, as it&#39;s consuming news cycles and taking attention away from their campaigns too. Fox News Chyron called president Joe Biden a &#39;wannabe dictator&#39;, while the US is paying billions to Russia&#39;s nuclear agency as nuclear power companies rely on enriched uranium made in Russia for emissions-free energy. Ukraine is on the offensive but progress measurement is still difficult. Battle rap is an art form, industry and sport centered around New York, while Southern Baptists just reaffirmed their stance against female pastors. Finally, there&#39;s been a retrospective resurgence over Cormac McCarthy&#39;s works, as the last of generation of writers who redefined American prose.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Is Arraigned on Documents and Obstruction Charges</h3>
-<sub>By Glenn Thrush, Nicholas Nehamas and Eileen Sullivan</sub>
-<p>Donald J. Trump, now twice indicted since leaving the White House, surrendered to federal authorities in Miami and pleaded not guilty, striking a defiant tone afterward.  <a href="https://nyti.ms/3Nuk38A"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 13, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>‘Do You Even Want Us to Exist?’ A Bank Chief Fights to Survive.</h3>
+<sub>By Rob Copeland</sub>
+<p>The banks at the center of the recent crisis, like Western Alliance, are engaged in collective soul-searching.  <a href="https://nyti.ms/3X5fCoa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>What Higher Interest Rates Mean for Mortgages, Credit Cards and More</h3>
+<sub>By Tara Siegel Bernard</sub>
+<p>Savers benefit from higher rates, but borrowers have faced bigger bills on credit cards, student loans and other forms of debt.  <a href="https://nyti.ms/3N6Xg1p"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Here Are the Likely Next Steps in the Trump Documents Case</h3>
-<sub>By Alan Feuer and Maggie Haberman</sub>
-<p>The federal prosecution of the former president should play out much like any other criminal proceeding, but against the backdrop of the political calendar.  <a href="https://nyti.ms/43ZMsc2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Judge in Trump Documents Case Has Scant Criminal Trial Experience</h3>
+<sub>By Michael S. Schmidt and Charlie Savage</sub>
+<p>Judge Aileen M. Cannon, under scrutiny for past rulings favoring the former president, has presided over only a few criminal cases that went to trial.  <a href="https://nyti.ms/46hvBDV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>G.O.P. Rivals See Trump’s Indictment as a Big Problem (for Them)</h3>
+<sub>By Jonathan Swan and Jonathan Weisman</sub>
+<p>An all-indictment, all-the-time news diet could swallow the summer, denying attention to other Republican candidates who need it like oxygen.  <a href="https://nyti.ms/3X4rx5z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -80,59 +92,47 @@ Right now, there&#39;s a lot of activity happening in the US. Former President D
 <p>The onscreen text appeared Tuesday beneath split-screen footage of President Biden and former President Donald J. Trump, who had been charged with federal crimes hours earlier.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>The U.S. Is Paying Billions to Russia’s Nuclear Agency. Here’s Why.</h3>
+<sub>By Max Bearak</sub>
+<p>Nuclear power companies rely on cheap enriched uranium made in Russia. That geopolitical dilemma is intensifying as climate change underscores the need for emissions-free energy.  <a href="https://nyti.ms/3X7d1tO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Ukraine’s Counteroffensive: What to Know</h3>
 <sub>By Helene Cooper</sub>
 <p>The Ukrainians are now on the offense. But measuring their progress is difficult this early on.  <a href="https://nyti.ms/42NMe7e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘It Doesn’t Count as a War Crime if You Had Fun’: Inside the Minds of Some Russian Soldiers</h3>
-<sub>By Thomas Gibbons-Neff</sub>
-<p>At a bar in a once-occupied Ukrainian village, dehumanizing messages on the walls were a stark reminder that the Kremlin wants to stamp out Ukraine and its culture.  <a href="https://nyti.ms/42J1pyi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>The Fierce, Flourishing World of Battle Rap</h3>
+<sub>By Ben Barzilai and Christopher Lee</sub>
+<p>Battle rap is an art form and a sport, as well as an industry that has been slowly growing over the last decade. While there are proving grounds all over the country, New York is its epicenter.  <a href="https://nyti.ms/42CnBdy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>‘Do You Even Want Us to Exist?’ A Bank Chief Fights to Survive.</h3>
-<sub>By Rob Copeland</sub>
-<p>The banks at the center of the recent crisis, like Western Alliance, are engaged in collective soul-searching.  <a href="https://nyti.ms/3X5fCoa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Southern Baptists Vote to Keep Out Churches With Female Pastors</h3>
+<sub>By Ruth Graham and Elizabeth Dias</sub>
+<p>Delegates at the denomination’s convention voted overwhelmingly to finalize the ousters of one of its largest churches, Saddleback, and a small church in Kentucky, despite impassioned appeals from their leaders.  <a href="https://nyti.ms/3qL7OMg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Investors Are Putting Big Money Into Japan Again. Here’s Why.</h3>
-<sub>By Vivek Shankar</sub>
-<p>The Japanese stock market is up nearly 30 percent this year, far ahead of the S&amp;P 500, as firms bet that changes in how companies are run might just finally last.  <a href="https://nyti.ms/42yz0eg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Dawn to Dusk on the Corner Where Bangladeshi Brooklyn Gathers</h3>
-<sub>By Jonah Markowitz, Karen Zraick and Samira Asma-Sadeque</sub>
-<p>In “Little Bangladesh,” a growing community embraces tradition, and adapts to new trends.  <a href="https://nyti.ms/3qBvwKB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>What’s at Stake as Southern Baptists Move to Bar Female Pastors</h3>
+<sub>By Colbi Edmonds</sub>
+<p>The Southern Baptist Convention, often a bellwether for evangelical America, is grappling with divisions over the role of women in leadership.  <a href="https://nyti.ms/4412FOv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>N.Y. Police Chief’s Exit Is Latest in Exodus From Adams Administration</h3>
-<sub>By Dana Rubinstein, Jeffery C. Mays and Emma G. Fitzsimmons</sub>
-<p>New York City’s top officials overseeing crime, housing and homelessness have stepped down. Critics say the mayor’s management style is part of the problem.  <a href="https://nyti.ms/45W7oTn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-books-blue" alt="">
+<h3>Riding Into a Bloodred Sunset</h3>
+<sub>By A.O. Scott</sub>
+<p>Cormac McCarthy was the last of a generational cohort of writers who redefined American prose.  <a href="https://nyti.ms/3X45CLP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Inside the Turmoil That Led N.Y.P.D.’s Commissioner to Walk Away</h3>
-<sub>By Chelsia Rose Marcius, Maria Cramer and William K. Rashbaum</sub>
-<p>Keechant Sewell walked into Mayor Eric Adams’s office unannounced on Monday and told him she would be leaving. No one but her closest aides saw it coming.  <a href="https://nyti.ms/3XcepLS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-books-blue" alt="">
+<h3>A Guide to Cormac McCarthy’s Books</h3>
+<sub>By The New York Times Books Staff</sub>
+<p>McCarthy applied a stark, merciless vision to his stories of misfits and the apocalypse. Here’s where to start with his work.  <a href="https://nyti.ms/3qJjnDB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-your-money-blue" alt="">
-<h3>How to Get More Affordable Home Insurance as Costs Soar</h3>
-<sub>By Tara Siegel Bernard</sub>
-<p>Weather-driven disasters are causing rates to skyrocket in high-risk regions. But there are things owners can do to save on costs.  <a href="https://nyti.ms/46fHuu3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Affordable Housing Woes Paint a ‘Bleak Picture’</h3>
-<sub>By Patrick Sisson</sub>
-<p>So many developments have been sidetracked or delayed that some experts expect a “production cliff” to hit in a year or so, meaning fewer new homes coming onto the market.  <a href="https://nyti.ms/43BB1aN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
