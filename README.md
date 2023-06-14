@@ -60,17 +60,15 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, June 13, Central Standard Time</p>
 <p>
-Hi there, 
+Currently, there is a lot of unrest in both the United States and globally. In the US, former President Trump and Special Counsel Smith crossed paths in court - but they exchanged not a word during their tense encounter. Trump has been ordered not to discuss his case with his aide and co-defendant. Separately, the Southern Baptists are moving to purge churches with female pastors.
 
-It looks like there&#39;s a lot going on in the world right now. Donald Trump is facing a criminal indictment on classified document handling, and Southern Baptists are voting on strict bans against women in leadership positions. On top of that, the U.N. is trying to cross a front line in Ukraine to inspect a nuclear plant, and the C.I.A. has warned Ukraine not to attack any pipelines there. Inflation has cooled down somewhat recently, but people have still been spending quite a bit in revenge spending following the pandemic&#39;s restrictions. Doctors are now using chatbots to improve their bedside manner with patients, and apparently thousands of Indian women have been abandoned overseas by their husbands. Lastly, New York City food writers have compiled dozens of recommendations for summer eats! 
-
-That&#39;s what I know so far - hope it helps you stay updated on the news!</p>
+At the same time, internationally, Russian forces have struck back against Ukraine&#39;s advancing troops after missiles caused 11 casualties. Colombia also had a major event when children were rescued from the jungle after having fled for their lives from violent armed groups.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Trump Classified Documents Indictment, Annotated</h3>
-<sub>By Charlie Savage</sub>
-<p>The indictment unveiled on Friday centers on Donald J. Trump’s handling of sensitive government documents after he left office.  <a href="https://nyti.ms/3oYZpEc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 9, Central Standard Time</sub></sub>
+<h3>In Court, a Tense Trump and a Poker-Faced Smith Finally Cross Paths</h3>
+<sub>By Glenn Thrush</sub>
+<p>The former president and the special counsel were 20 feet from each other. But they exchanged not a word during their first, nearly hourlong encounter.  <a href="https://nyti.ms/43ZiGEi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Ordered Not to Discuss Case With His Aide and Co-Defendant</h3>
@@ -91,52 +89,52 @@ That&#39;s what I know so far - hope it helps you stay updated on the news!</p>
 <sub><sub>Tuesday, June 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-books-blue" alt="">
-<h3>Early Cormac McCarthy Interviews Rediscovered</h3>
-<sub>By Elizabeth A. Harris</sub>
-<p>The Pulitzer Prize-winning author has done vanishingly few interviews during the course of his career. In these early ones, some newly uncovered, he is less guarded.  <a href="https://nyti.ms/3SsAmTu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 30, Central Standard Time</sub></sub>
+<h3>A Guide to Cormac McCarthy’s Books</h3>
+<sub>By The New York Times Books Staff</sub>
+<p>McCarthy applied a stark, merciless vision to his stories of misfits and the apocalypse. Here’s where to start with his work.  <a href="https://nyti.ms/3qJjnDB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>Stream These Five Cormac McCarthy Film Adaptations</h3>
+<sub>By Chris Vognar</sub>
+<p>The Coens and Ridley Scott are among the directors who took big swings at the novelist’s work. The distinctive writer left his mark on the big screen.  <a href="https://nyti.ms/42Cw7JA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>U.N. Monitor Aims to Cross Front Line in Ukraine to Inspect Nuclear Plant</h3>
-<sub>By Marc Santora and Matthew Mpoke Bigg</sub>
-<p>The destruction of a hydroelectric dam last week unleashed a flood and threatened the water supply needed to cool the battle-scarred Zaporizhzhia plant.  <a href="https://nyti.ms/3N48F1W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Russian Forces Strike Back Against Ukraine’s Advancing Troops</h3>
+<sub>By Andrew E. Kramer</sub>
+<p>Russia attacked Ukrainian troops near villages in Ukraine’s south on the same day that Russian missiles killed at least 11 people and that President Vladimir V. Putin acknowledged some Russian losses.  <a href="https://nyti.ms/3N3Q3z3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>C.I.A. Told Ukraine Last Summer It Should Not Attack Nord Stream Pipelines</h3>
-<sub>By Julian E. Barnes and Michael Schwirtz</sub>
-<p>Dutch intelligence officials shared information with the C.I.A. in June 2022 that they had learned the Ukrainian military had been planning an operation using divers to blow up one of the pipelines.  <a href="https://nyti.ms/43J9pko"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>House Passes Resolution Calling on Russia to Free U.S. Prisoners</h3>
+<sub>By Karoun Demirjian</sub>
+<p>The measure urging Moscow to release Evan Gershkovich, a Wall Street Journal reporter arrested on assignment, and Paul Whelan, a former Marine, earned the unanimous backing of the House.  <a href="https://nyti.ms/3N93pKz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Cooler Inflation Bolsters Argument for Fed Rate Pause</h3>
-<sub>By Jeanna Smialek</sub>
-<p>Consumer prices rose at the slowest pace in more than two years, an encouraging sign for policymakers as they plot their next interest rate move.  <a href="https://nyti.ms/3qEsxBp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>G.O.P. Rebels Are Breaking the Rule on Rules, Upending How the House Works</h3>
+<sub>By Carl Hulse</sub>
+<p>Those challenging Speaker Kevin McCarthy from the far right are violating a longstanding House tradition, fundamentally changing the nature of the chamber in ways that point to major dysfunction ahead.  <a href="https://nyti.ms/3NriAjo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Revenge Spending Helped Push Prices Higher. The Trend Is Turning.</h3>
-<sub>By Jeanna Smialek</sub>
-<p>Spending on hotels, airline tickets and recreation surged after the pandemic. This summer could mark a shift back to normal.  <a href="https://nyti.ms/3NbyVHY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Pat Sajak Was the Center of the Wheel</h3>
+<sub>By James Poniewozik</sub>
+<p>For decades, the soon-to-retire “Wheel of Fortune” host was … just there. That was the whole point of him.  <a href="https://nyti.ms/43UKcTI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>When Doctors Use a Chatbot to Improve Their Bedside Manner</h3>
-<sub>By Gina Kolata</sub>
-<p>Despite the drawbacks of turning to artificial intelligence in medicine, some physicians find that ChatGPT improves their ability to communicate empathetically with patients.  <a href="https://nyti.ms/3qK6toE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>They Married for a Life Abroad. But They Never Saw Their Husbands Again.</h3>
-<sub>By Sameer Yasir</sub>
-<p>Thousands of Indian women have been abandoned by men working overseas, leaving them trapped in their in-laws’ homes and often defrauded of dowry money.  <a href="https://nyti.ms/45ZjrPA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Colombian Children Rescued in Jungle Had Been Fleeing for Their Lives</h3>
+<sub>By Julie Turkewitz and Genevieve Glatsky</sub>
+<p>The father of two of the survivors said the family had feared the children would be recruited by a violent armed group.  <a href="https://nyti.ms/43B8bHJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-dining-blue" alt="">
-<h3>Where to Eat in New York City This Summer</h3>
-<sub>By Nikita Richardson, Umi Syam, Martín González Gómez, Becky Hughes, Sara Bonisteel, Pete Wells, Priya Krishna, Florence Fabricant, Eric Asimov and Alexa Weibel</sub>
-<p>Nikita Richardson and other Times food writers have dozens of recommendations for your summer bucket list.  <a href="https://nyti.ms/3qG3k9F"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 12, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-espanol-blue" alt="">
+<h3>Los niños rescatados en la selva colombiana habían estado huyendo de los grupos armados</h3>
+<sub>By Julie Turkewitz and Genevieve Glatsky</sub>
+<p>El padre de dos de los sobrevivientes dijo que la familia temía que los niños fueran reclutados.  <a href="https://nyti.ms/3CuXYAJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
