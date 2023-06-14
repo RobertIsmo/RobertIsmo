@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, June 14, Central Standard Time</p>
 <p>
-Right now there is a lot of political upheaval in the US, with Donald Trump being indicted on documents and obstruction charges, and the Southern Baptists trying to purge churches with female pastors. In the world, Russian forces are striking back against Ukraine&#39;s advancing troops, and in Colombia, children were rescued from a jungle where they had fled to escape recruitment by an armed group. Cormac McCarthy, an acclaimed novelist who explored bleak worlds of violence and outsiders, recently passed away at the age of 89.</p>
+There&#39;s a lot going on in the world right now. Former President Donald Trump has been arraigned on documents and obstruction charges, and he&#39;s entered a not guilty plea in court. Democrats around the world are divided over whether this is good for the country or not. Allies of the United States are pressuring the Biden Administration to hasten NATO membership for Ukraine. In Russia, soldiers have been committing war crimes with impunity, while citizens of Japan are investing strongly in their stock markets, hoping for corporate overhauls that will last. Meanwhile, the Federal Reserve expects to pause interest rates for now but could raise them again later this year. In New York City, people from Bangladesh are celebrating traditional values while Mayor Eric Adams&#39; administration has been hit by an exodus of its top officials. Finally, home insurance rates are skyrocketing everywhere due to the number of weather-induced disasters, so homeowners need to be smart about how they save money on coverage.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Is Arraigned on Documents and Obstruction Charges</h3>
@@ -69,16 +69,16 @@ Right now there is a lot of political upheaval in the US, with Donald Trump bein
 <sub><sub>Tuesday, June 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Court, a Tense Trump and a Poker-Faced Smith Finally Cross Paths</h3>
-<sub>By Glenn Thrush</sub>
-<p>The former president and the special counsel were 20 feet from each other. But they exchanged not a word during their first, nearly hourlong encounter.  <a href="https://nyti.ms/43ZiGEi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 13, Central Standard Time</sub></sub>
+<h3>Here Are the Likely Next Steps in the Trump Documents Case</h3>
+<sub>By Alan Feuer and Maggie Haberman</sub>
+<p>The federal prosecution of the former president should play out much like any other criminal proceeding, but against the backdrop of the political calendar.  <a href="https://nyti.ms/43ZMsc2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>For Trump, the Show and the Campaign Must Trudge On</h3>
-<sub>By Shane Goldmacher and Maggie Haberman</sub>
-<p>On the calendar for the Republicans’ 2024 front-runner: rallies and primaries mixed with court dates.  <a href="https://nyti.ms/43Ufl9K"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 13, Central Standard Time</sub></sub>
+<h3>Democrats Celebrate and Fear the Indictment of a ‘Chaos Machine’</h3>
+<sub>By Reid J. Epstein, Anjali Huynh and Alyce McFadden</sub>
+<p>In interviews, dozens of Democratic officials nearly all agreed that Donald Trump deserved his latest indictment, but were far more divided over whether the case was good for the country.  <a href="https://nyti.ms/3Nt242r"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Allies Pressure Biden to Hasten NATO Membership for Ukraine</h3>
@@ -87,52 +87,52 @@ Right now there is a lot of political upheaval in the US, with Donald Trump bein
 <sub><sub>Tuesday, June 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russian Forces Strike Back Against Ukraine’s Advancing Troops</h3>
-<sub>By Andrew E. Kramer</sub>
-<p>Russia attacked Ukrainian troops near villages in Ukraine’s south on the same day that Russian missiles killed at least 11 people and that President Vladimir V. Putin acknowledged some Russian losses.  <a href="https://nyti.ms/3N3Q3z3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>‘It Doesn’t Count as a War Crime if You Had Fun’: Inside the Minds of Some Russian Soldiers</h3>
+<sub>By Thomas Gibbons-Neff</sub>
+<p>At a bar in a once-occupied Ukrainian village, dehumanizing messages on the walls were a stark reminder that the Kremlin wants to stamp out Ukraine and its culture.  <a href="https://nyti.ms/42J1pyi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>What to Watch For at the Fed’s Meeting</h3>
+<sub>By Jeanna Smialek</sub>
+<p>Central bankers are expected to leave interest rates unchanged on Wednesday, but the decision is an unusual nail-biter. Also: Keep an eye on the economic forecasts.  <a href="https://nyti.ms/42J1oue"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Investors Are Putting Big Money Into Japan Again. Here’s Why.</h3>
+<sub>By Vivek Shankar</sub>
+<p>The Japanese stock market is up nearly 30 percent this year, far ahead of the S&amp;P 500, as firms bet that changes in how companies are run might just finally last.  <a href="https://nyti.ms/42yz0eg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Markets Await a Fed Pause — but Not an End to Rate Increases</h3>
+<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
+<p>A breather in the central bank’s anti-inflation policy is expected, but  still-rising inflation has investors bracing for another raise later this year.  <a href="https://nyti.ms/43XqAy7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Dawn to Dusk on the Corner Where Bangladeshi Brooklyn Gathers</h3>
+<sub>By Jonah Markowitz, Karen Zraick and Samira Asma-Sadeque</sub>
+<p>In “Little Bangladesh,” a growing community embraces tradition, and adapts to new trends.  <a href="https://nyti.ms/3qBvwKB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-books-blue" alt="">
-<h3>Cormac McCarthy, Novelist of a Darker America, Is Dead at 89</h3>
-<sub>By Dwight Garner</sub>
-<p>“All the Pretty Horses,” “The Road” and “No Country for Old Men” were among his acclaimed books that explore a bleak world of violence and outsiders.  <a href="https://nyti.ms/3NcMtmy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>N.Y. Police Chief’s Exit Is Latest in Exodus From Adams Administration</h3>
+<sub>By Dana Rubinstein, Jeffery C. Mays and Emma G. Fitzsimmons</sub>
+<p>New York City’s top officials overseeing crime, housing and homelessness have stepped down. Critics say the mayor’s management style is part of the problem.  <a href="https://nyti.ms/45W7oTn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Inside the Turmoil That Led N.Y.P.D.’s Commissioner to Walk Away</h3>
+<sub>By Chelsia Rose Marcius, Maria Cramer and William K. Rashbaum</sub>
+<p>Keechant Sewell walked into Mayor Eric Adams’s office unannounced on Monday and told him she would be leaving. No one but her closest aides saw it coming.  <a href="https://nyti.ms/3XcepLS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-books-blue" alt="">
-<h3>A Guide to Cormac McCarthy’s Books</h3>
-<sub>By The New York Times Books Staff</sub>
-<p>McCarthy applied a stark, merciless vision to his stories of misfits and the apocalypse. Here’s where to start with his work.  <a href="https://nyti.ms/3qJjnDB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>Stream These Five Cormac McCarthy Film Adaptations</h3>
-<sub>By Chris Vognar</sub>
-<p>The Coens and Ridley Scott are among the directors who took big swings at the novelist’s work. The distinctive writer left his mark on the big screen.  <a href="https://nyti.ms/42Cw7JA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Southern Baptists Move to Purge Churches With Female Pastors</h3>
-<sub>By Elizabeth Dias and Ruth Graham</sub>
-<p>Some conservatives in the evangelical denomination fear a liberal drift, and are set to vote on a strict ban against women in church leadership. Two churches are appealing their expulsions.  <a href="https://nyti.ms/3JyPJYr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>G.O.P. Rebels Are Breaking the Rule on Rules, Upending How the House Works</h3>
-<sub>By Carl Hulse</sub>
-<p>Those challenging Speaker Kevin McCarthy from the far right are violating a longstanding House tradition, fundamentally changing the nature of the chamber in ways that point to major dysfunction ahead.  <a href="https://nyti.ms/3NriAjo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Pat Sajak Was the Center of the Wheel</h3>
-<sub>By James Poniewozik</sub>
-<p>For decades, the soon-to-retire “Wheel of Fortune” host was … just there. That was the whole point of him.  <a href="https://nyti.ms/43UKcTI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Colombian Children Rescued in Jungle Had Been Fleeing for Their Lives</h3>
-<sub>By Julie Turkewitz and Genevieve Glatsky</sub>
-<p>The father of two of the survivors said the family had feared the children would be recruited by a violent armed group.  <a href="https://nyti.ms/43B8bHJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 13, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-your-money-blue" alt="">
+<h3>How to Get More Affordable Home Insurance as Costs Soar</h3>
+<sub>By Tara Siegel Bernard</sub>
+<p>Weather-driven disasters are causing rates to skyrocket in high-risk regions. But there are things owners can do to save on costs.  <a href="https://nyti.ms/46fHuu3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
