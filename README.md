@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, June 14, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. Former President Donald Trump has been arraigned on documents and obstruction charges, and he&#39;s entered a not guilty plea in court. Democrats around the world are divided over whether this is good for the country or not. Allies of the United States are pressuring the Biden Administration to hasten NATO membership for Ukraine. In Russia, soldiers have been committing war crimes with impunity, while citizens of Japan are investing strongly in their stock markets, hoping for corporate overhauls that will last. Meanwhile, the Federal Reserve expects to pause interest rates for now but could raise them again later this year. In New York City, people from Bangladesh are celebrating traditional values while Mayor Eric Adams&#39; administration has been hit by an exodus of its top officials. Finally, home insurance rates are skyrocketing everywhere due to the number of weather-induced disasters, so homeowners need to be smart about how they save money on coverage.</p>
+Right now, there&#39;s a lot of activity happening in the US. Former President Donald Trump has been arraigned on documents and obstruction charges and is facing federal prosecution. He is also still dominating the news cycle, with Fox News calling President Biden a &#39;wannabe dictator.&#39; Meanwhile, in Ukraine, they are on the offense following Russia&#39;s occupation of their territory. Russian soldiers have been accused of war crimes, and in Little Bangladesh in Brooklyn, tradition is being embraced along with new trends. In New York City&#39;s Adams administration, there&#39;s been an exodus of top officials due to the mayor&#39;s management style. Also regarding housing, affordable housing woes are painting a &#39;bleak picture.&#39; And if you own a home, insurance rates are soaring as disasters caused by weather become more frequent. You can take certain steps to get more affordable insurance coverage though.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Is Arraigned on Documents and Obstruction Charges</h3>
@@ -74,17 +74,17 @@ There&#39;s a lot going on in the world right now. Former President Donald Trump
 <p>The federal prosecution of the former president should play out much like any other criminal proceeding, but against the backdrop of the political calendar.  <a href="https://nyti.ms/43ZMsc2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Democrats Celebrate and Fear the Indictment of a ‘Chaos Machine’</h3>
-<sub>By Reid J. Epstein, Anjali Huynh and Alyce McFadden</sub>
-<p>In interviews, dozens of Democratic officials nearly all agreed that Donald Trump deserved his latest indictment, but were far more divided over whether the case was good for the country.  <a href="https://nyti.ms/3Nt242r"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Fox News Chyron Calls Biden a ‘Wannabe Dictator’</h3>
+<sub>By Mike Ives</sub>
+<p>The onscreen text appeared Tuesday beneath split-screen footage of President Biden and former President Donald J. Trump, who had been charged with federal crimes hours earlier.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Allies Pressure Biden to Hasten NATO Membership for Ukraine</h3>
-<sub>By David E. Sanger and Steven Erlanger</sub>
-<p>Some members of the military alliance want to set a timetable for Ukraine to join, though only after the war is no longer raging.  <a href="https://nyti.ms/3Ct67Wj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 13, Central Standard Time</sub></sub>
+<h3>Ukraine’s Counteroffensive: What to Know</h3>
+<sub>By Helene Cooper</sub>
+<p>The Ukrainians are now on the offense. But measuring their progress is difficult this early on.  <a href="https://nyti.ms/42NMe7e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>‘It Doesn’t Count as a War Crime if You Had Fun’: Inside the Minds of Some Russian Soldiers</h3>
@@ -93,21 +93,15 @@ There&#39;s a lot going on in the world right now. Former President Donald Trump
 <sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>What to Watch For at the Fed’s Meeting</h3>
-<sub>By Jeanna Smialek</sub>
-<p>Central bankers are expected to leave interest rates unchanged on Wednesday, but the decision is an unusual nail-biter. Also: Keep an eye on the economic forecasts.  <a href="https://nyti.ms/42J1oue"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>‘Do You Even Want Us to Exist?’ A Bank Chief Fights to Survive.</h3>
+<sub>By Rob Copeland</sub>
+<p>The banks at the center of the recent crisis, like Western Alliance, are engaged in collective soul-searching.  <a href="https://nyti.ms/3X5fCoa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Investors Are Putting Big Money Into Japan Again. Here’s Why.</h3>
 <sub>By Vivek Shankar</sub>
 <p>The Japanese stock market is up nearly 30 percent this year, far ahead of the S&amp;P 500, as firms bet that changes in how companies are run might just finally last.  <a href="https://nyti.ms/42yz0eg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Markets Await a Fed Pause — but Not an End to Rate Increases</h3>
-<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
-<p>A breather in the central bank’s anti-inflation policy is expected, but  still-rising inflation has investors bracing for another raise later this year.  <a href="https://nyti.ms/43XqAy7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -132,6 +126,12 @@ There&#39;s a lot going on in the world right now. Former President Donald Trump
 <h3>How to Get More Affordable Home Insurance as Costs Soar</h3>
 <sub>By Tara Siegel Bernard</sub>
 <p>Weather-driven disasters are causing rates to skyrocket in high-risk regions. But there are things owners can do to save on costs.  <a href="https://nyti.ms/46fHuu3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Affordable Housing Woes Paint a ‘Bleak Picture’</h3>
+<sub>By Patrick Sisson</sub>
+<p>So many developments have been sidetracked or delayed that some experts expect a “production cliff” to hit in a year or so, meaning fewer new homes coming onto the market.  <a href="https://nyti.ms/43BB1aN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
