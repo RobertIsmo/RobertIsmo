@@ -60,12 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, June 15, Central Standard Time</p>
 <p>
-It&#39;s been a busy few weeks in the news! The US Supreme Court just upheld a law that keeps Native American adoptees within tribes, and there are a lot of key decisions that the court has already made this term with its newly conservative majority. We&#39;re also seeing the consequences of President Trump’s promise to ‘go after’ his political rival Joe Biden. There was minimal violence from Trump supporters in Miami when he was indicted. On the legal front, there&#39;s a judge who doesn&#39;t have much experience presiding criminal trials. And on the international level, the US is trying to make an informal agreement with Iran to avert a nuclear crisis and Boris Johnson is being accused of misleading Parliament over Covid lockdown parties. In Oregon, there’s a marijuana boom causing envy across state lines into Idaho, whereas Russia and China are showing nbon homie for each other with messaging from Putin and Xi. Lastly, doctors in America are facing their own moral crisis due to corporate influences in healthcare.</p>
+There’s a lot happening in the world right now. The Supreme Court recently upheld a law that is aimed at keeping Native American adoptees within tribes, and Justice Neil Gorsuch has been a staunch defender of tribal rights. There are a lot of important Supreme Court decisions being made this term, including some on abortion, guns, religion, and climate change due to a new conservative majority. Meanwhile, President Trump is trying to “go after” Joe Biden with a new legal strategy, and his supporters held peaceful protests in Miami in response to his recent indictments. On top of that, a painting stolen decades ago recently resurfaced at a museum doorstep. In New Jersey, kids are now being taught problem-solving skills as part of an innovative curriculum centered around climate change. In Britain, reports suggest Boris Johnson misled Parliament about lockdown parties before resigning from office last week. On the international front, Russian President Vladimir Putin and Chinese President Xi Jinping have been displaying apparent camaraderie for each other. Finally, there&#39;s been pushback against the big corporatization of health care causing alienation among doctors in America - and in response to the White House&#39;s complaints about misleading ticket prices, ticket companies are now promising more transparency on fees for concerts and other events.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Supreme Court Upholds Native American Adoption Law</h3>
 <sub>By Abbie VanSickle</sub>
 <p>At issue in the case was whether a law aimed at keeping Native American adoptees within tribes is constitutional.  <a href="https://nyti.ms/467E24A"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Justice Neil Gorsuch Is a Committed Defender of Tribal Rights</h3>
+<sub>By Adam Liptak</sub>
+<p>In soaring opinions steeped in history, Justice Gorsuch, the only Westerner on the Supreme Court, has demonstrated a distinctive dedication to Native American rights.  <a href="https://nyti.ms/3qDJtrs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -86,34 +92,16 @@ It&#39;s been a busy few weeks in the news! The US Supreme Court just upheld a l
 <p>Calls for retribution were plentiful after the former president’s indictments, but the demonstrations proved tame, a possible result of the aggressive prosecution of the Jan. 6 rioters.  <a href="https://nyti.ms/3p3LKMb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Judge in Trump Documents Case Has Scant Criminal Trial Experience</h3>
-<sub>By Michael S. Schmidt and Charlie Savage</sub>
-<p>Judge Aileen M. Cannon, under scrutiny for past rulings favoring the former president, has presided over only a few criminal cases that went to trial.  <a href="https://nyti.ms/46hvBDV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Read the Transcript of Trump’s Arraignment Hearing</h3>
-<sub></sub>
-<p>Former President Donald J. Trump surrendered to federal authorities in Miami on Tuesday and pleaded not guilty to charges that he had put national security secrets at risk and obstructed investigators. Here is a transcript of the hearing.  <a href="https://nyti.ms/3Jgat73"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>As Ties to China Turn Toxic, Even Chinese Companies Are Breaking Them</h3>
-<sub>By Ana Swanson</sub>
-<p>Companies are moving headquarters and factories outside the country and cleaving off their Chinese businesses. It’s not clear the strategy will work.  <a href="https://nyti.ms/3Xbct60"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Hey Dad, Can You Help Me Return the Picasso I Stole?</h3>
+<sub>By Dan Barry</sub>
+<p>A painting that went missing in 1969 turned up at a museum’s doorstep before the F.B.I. could hunt it down. No one knew how or why — until now.  <a href="https://nyti.ms/3NyiPtj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Hoping to Avert Nuclear Crisis, U.S. Seeks Informal Agreement With Iran</h3>
-<sub>By Michael Crowley, Farnaz Fassihi and Ronen Bergman</sub>
-<p>The talks reflect a resumption of diplomacy between the United States and Iran after the collapse of negotiations to restore the 2015 nuclear deal.  <a href="https://nyti.ms/3qMc9ib"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Oregon Town’s Marijuana Boom Yields Envy in Idaho</h3>
-<sub>By Kurtis Lee</sub>
-<p>Tax revenue has surged since cannabis stores opened in Ontario, Ore., fueling a push in neighboring Idaho to legalize sales and get in on the action.  <a href="https://nyti.ms/3p441ci"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Penguins in Your Fridge? These 7-Year-Olds Have Climate Solutions.</h3>
+<sub>By Cara Buckley</sub>
+<p>New Jersey is the first state to require that climate change be taught at all grade levels. The focus is on problem solving, not doom and gloom.  <a href="https://nyti.ms/3CCITNj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -132,6 +120,18 @@ It&#39;s been a busy few weeks in the news! The US Supreme Court just upheld a l
 <h3>The Moral Crisis of America’s Doctors</h3>
 <sub>By Eyal Press</sub>
 <p>The corporatization of health care has changed the practice of medicine, causing many physicians to feel alienated from their work.  <a href="https://nyti.ms/3COcB2l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>As Ties to China Turn Toxic, Even Chinese Companies Are Breaking Them</h3>
+<sub>By Ana Swanson</sub>
+<p>Companies are moving headquarters and factories outside the country and cleaving off their Chinese businesses. It’s not clear the strategy will work.  <a href="https://nyti.ms/3Xbct60"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Ticket Giants, Under Pressure From Biden, Promise Transparency on Fees</h3>
+<sub>By Ben Sisario</sub>
+<p>Live Nation and SeatGeek said they would show customers the full cost of concerts, after the White House’s complaints that “junk fees” for tickets and hotel stays can mislead consumers.  <a href="https://nyti.ms/442MtMI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
 <hr/>
 </ol>
