@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, June 15, Central Standard Time</p>
 <p>
-There are a few important things happening in the world right now. The US is attempting to reach an informal agreement with Iran in order to avert a nuclear crisis and restore the 2015 nuclear deal that previously collapsed. For domestic matters, Donald Trump is facing charges in connection with alleged obstruction of justice and putting national security secrets at risk. Meanwhile, the US Congress is debating whether or not to keep aid flowing to Ukraine, and the Southern Baptists just voted to further expand restrictions on women as leaders. On the business side of things, the Federal Reserve is keeping rates steady but forecasting more movement, Westfield is giving up its San Francisco mall franchise which may signal more issues for downtown US stores, and retail companies are fleeing San Francisco. Finally, there&#39;s also been the passing of renowned editor Robert Gottlieb, who was known for working with some of the biggest writers of mid-to-late 20th century.</p>
+It looks like a lot of big things are happening right now. In the US, the government is trying to come to an informal agreement with Iran in order to avert a nuclear crisis, former President Donald Trump is facing legal trouble and several of his aides and lawyers might be called as witnesses, and there&#39;s been a hearing held over Trump&#39;s arraignment. The Southern Baptists have also voted to expand restrictions on women serving as leaders. Meanwhile, in the UK, Boris Johnson has been accused of misleading Parliament over lockdown parties. At the same time, the US Federal Reserve is taking time to survey the effects of their rate changes while Germany just adopted its first national security plan. Lastly, Westfield gave up its San Francisco mall, signaling more pain ahead for retail and downtowns in the US.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Hoping to Avert Nuclear Crisis, U.S. Seeks Informal Agreement With Iran</h3>
@@ -92,6 +92,12 @@ There are a few important things happening in the world right now. The US is att
 <p>Former President Donald J. Trump surrendered to federal authorities in Miami on Tuesday and pleaded not guilty to charges that he had put national security secrets at risk and obstructed investigators. Here is a transcript of the hearing.  <a href="https://nyti.ms/3Jgat73"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Boris Johnson Misled Parliament Over Covid Lockdown Parties, Report Says</h3>
+<sub>By Stephen Castle</sub>
+<p>The report offered a damning verdict on Boris Johnson, the former British prime minister, who quit Parliament last week.  <a href="https://nyti.ms/3NxokZh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Fed Leaves Rates Steady but Forecasts More Moves</h3>
 <sub>By Jeanna Smialek</sub>
@@ -114,12 +120,6 @@ There are a few important things happening in the world right now. The US is att
 <h3>Germany Adopts a More Muscular Security Plan. Critics Call It ‘Weak.’</h3>
 <sub>By Steven Erlanger and Christopher F. Schuetze</sub>
 <p>The country’s first national security strategy is an attempt to set priorities, especially since Russia’s invasion of Ukraine, but hard commitments were short in supply.  <a href="https://nyti.ms/3X9Bkal"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Congressional Support for Aiding Ukraine Frays Amid Spending Battle</h3>
-<sub>By Karoun Demirjian</sub>
-<p>Spending caps set by the debt limit bill have empowered critics of U.S. aid to Ukraine, threatening the bipartisan coalition that has kept military assistance flowing to Kyiv.  <a href="https://nyti.ms/3PcGCQs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
