@@ -60,7 +60,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, June 14, Central Standard Time</p>
 <p>
-There is a lot going on around the world right now. The US is trying to avert a nuclear crisis with Iran and has resumed diplomacy, while there is a legal case against former President Donald J. Trump. In business, the Federal Reserve has left interest rates unchanged but is signaling more changes in the future. Additionally, Westfield has given up its mall in San Francisco which could mean more pain ahead for retailers in various downtowns around the country. On social issues, Southern Baptist delegates have voted to further restrict the involvement of women as leaders. Lastly, battle rap is an art form, industry, and sport that has been gaining acknowledgment; it&#39;s epicenter being New York City.</p>
+There&#39;s a lot happening in the world right now! In US news, the government is trying to reach an informal agreement with Iran to help avoid a nuclear crisis. A judge in Donald Trump&#39;s document case has relatively little criminal trial experience despite coming under scrutiny for past rulings. There&#39;s also people close to Trump who could be witnesses and trial. Trump is trying to draw attention away from his legal troubles by attacking Biden instead of accepting responsibility. Plus, former President Donald J. Trump just pleaded not guilty to charges of endangering national security and obstructing investigators in his arraignment hearing.
+
+Meanwhile, the Federal Reserve has left interest rates steady but expects more changes are on the way. On the cultural side, Robert Gottlieb, a renowned editor from le Carré to Clinton, just passed away at 92. The U.S. is paying billions of dollars to Russia&#39;s nuclear agency due to emission-free energy demands brought on by climate change challenges. Things are heating up in Germany too: they&#39;ve announced a new security plan but critics say it&#39;s too &#39;weak&#39;. Lastly, Congressional support for providing aid to Ukraine is waning due to an argument over spending caps, and Southern Baptists recently voted to expand restrictions on women as leaders even further.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Hoping to Avert Nuclear Crisis, U.S. Seeks Informal Agreement With Iran</h3>
@@ -110,6 +112,12 @@ There is a lot going on around the world right now. The US is trying to avert a 
 <p>Nuclear power companies rely on cheap enriched uranium made in Russia. That geopolitical dilemma is intensifying as climate change underscores the need for emissions-free energy.  <a href="https://nyti.ms/3X7d1tO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Germany Adopts a More Muscular Security Plan. Critics Call It ‘Weak.’</h3>
+<sub>By Steven Erlanger and Christopher F. Schuetze</sub>
+<p>The country’s first national security strategy is an attempt to set priorities, especially since Russia’s invasion of Ukraine, but hard commitments were short in supply.  <a href="https://nyti.ms/3X9Bkal"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Congressional Support for Aiding Ukraine Frays Amid Spending Battle</h3>
 <sub>By Karoun Demirjian</sub>
@@ -126,12 +134,6 @@ There is a lot going on around the world right now. The US is trying to avert a 
 <h3>Southern Baptists Vote to Further Expand Restrictions on Women as Leaders</h3>
 <sub>By Ruth Graham and Elizabeth Dias</sub>
 <p>Delegates at the denomination’s convention approved a stricter ban on female pastors and rejected the appeals of two churches led by women to remain in the denomination.  <a href="https://nyti.ms/3qL7OMg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Westfield Gives Up San Francisco Mall, Signaling More Pain Ahead</h3>
-<sub>By Jordyn Holman and Thomas Fuller</sub>
-<p>Retailers have been fleeing the city’s downtown, and some analysts say there may be more to come. It’s an issue facing various downtowns around the United States.  <a href="https://nyti.ms/42KLa3M"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
