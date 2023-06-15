@@ -60,18 +60,38 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, June 15, Central Standard Time</p>
 <p>
-There’s a lot happening in the world right now. The Supreme Court recently upheld a law that is aimed at keeping Native American adoptees within tribes, and Justice Neil Gorsuch has been a staunch defender of tribal rights. There are a lot of important Supreme Court decisions being made this term, including some on abortion, guns, religion, and climate change due to a new conservative majority. Meanwhile, President Trump is trying to “go after” Joe Biden with a new legal strategy, and his supporters held peaceful protests in Miami in response to his recent indictments. On top of that, a painting stolen decades ago recently resurfaced at a museum doorstep. In New Jersey, kids are now being taught problem-solving skills as part of an innovative curriculum centered around climate change. In Britain, reports suggest Boris Johnson misled Parliament about lockdown parties before resigning from office last week. On the international front, Russian President Vladimir Putin and Chinese President Xi Jinping have been displaying apparent camaraderie for each other. Finally, there&#39;s been pushback against the big corporatization of health care causing alienation among doctors in America - and in response to the White House&#39;s complaints about misleading ticket prices, ticket companies are now promising more transparency on fees for concerts and other events.</p>
+To bring you up to speed on what&#39;s happening in the world, there are a few major stories making headlines. In the US, an airman was indicted on charges of mishandling US government secrets. Separately, there&#39;s a big ongoing discussion around former president Trump&#39;s attachment to his &#39;beautiful mind&#39; boxes and a radical strategy he has promised to use against President Biden. Meanwhile, at home, the Supreme Court has recently upheld a Native American adoption law and justices have had some lurch-to-the-right decisions on abortion, guns, religion and climate change. 
+
+Overseas, there are reports of Ukrainian troops still facing lethal threats in liberated villages despite Ukraine&#39;s efforts in counteroffensives. On climate change specifically, New Jersey is now requiring that it be taught at all grade levels in its schools with an emphasis on problem solving rather than doom and gloom. Lastly, among medical professionals here at home, there is a moral crisis arising from the corporatization of health care causing many doctors to feel estranged from their work.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Airman Is Indicted on Charges of Mishandling Secrets</h3>
+<sub>By Glenn Thrush</sub>
+<p>The airman, Jack Teixeira, 21, was arrested at his home in North Dighton, Mass., on April 13.  <a href="https://nyti.ms/3JgxOpa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>At the Heart of the Documents Case: Trump’s Attachment to His Boxes</h3>
+<sub>By Maggie Haberman, Alan Feuer and Michael S. Schmidt</sub>
+<p>The former president has long stowed papers and odds and ends in cartons that he liked to keep close. His aides have called it the “beautiful mind” material.  <a href="https://nyti.ms/3NhYA1I"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Radical Strategy Behind Trump’s Promise to ‘Go After’ Biden</h3>
+<sub>By Jonathan Swan, Charlie Savage and Maggie Haberman</sub>
+<p>Conservatives with close ties to Donald J. Trump are laying out a “paradigm-shifting” legal rationale to erase the Justice Department’s independence from the president.  <a href="https://nyti.ms/43EJ5rt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Trump and Johnson Were Accused of Breaking Rules. One Lost Party Support.</h3>
+<sub>By Mark Landler</sub>
+<p>Donald J. Trump and Boris Johnson are at the heart of political tempests at home, facing different accusations and far different results.  <a href="https://nyti.ms/469Mbp9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Supreme Court Upholds Native American Adoption Law</h3>
 <sub>By Abbie VanSickle</sub>
 <p>At issue in the case was whether a law aimed at keeping Native American adoptees within tribes is constitutional.  <a href="https://nyti.ms/467E24A"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Justice Neil Gorsuch Is a Committed Defender of Tribal Rights</h3>
-<sub>By Adam Liptak</sub>
-<p>In soaring opinions steeped in history, Justice Gorsuch, the only Westerner on the Supreme Court, has demonstrated a distinctive dedication to Native American rights.  <a href="https://nyti.ms/3qDJtrs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -81,15 +101,15 @@ There’s a lot happening in the world right now. The Supreme Court recently uph
 <sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Radical Strategy Behind Trump’s Promise to ‘Go After’ Biden</h3>
-<sub>By Jonathan Swan, Charlie Savage and Maggie Haberman</sub>
-<p>Conservatives with close ties to Donald J. Trump are laying out a “paradigm-shifting” legal rationale to erase the Justice Department’s independence from the president.  <a href="https://nyti.ms/43EJ5rt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Indigenous Leaders Elated by Supreme Court Ruling on Adoptions</h3>
+<sub>By Simon Romero and Jan Hoffman</sub>
+<p>The decision on Thursday bolsters Indigenous sovereignty by upholding a 1978 law aimed at keeping Native American adoptees within tribes.  <a href="https://nyti.ms/3PfVBcp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Miami, the Only Violence From Trump Supporters Was Rhetorical</h3>
-<sub>By Alan Feuer</sub>
-<p>Calls for retribution were plentiful after the former president’s indictments, but the demonstrations proved tame, a possible result of the aggressive prosecution of the Jan. 6 rioters.  <a href="https://nyti.ms/3p3LKMb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Justice Neil Gorsuch Is a Committed Defender of Tribal Rights</h3>
+<sub>By Adam Liptak</sub>
+<p>In soaring opinions steeped in history, Justice Gorsuch has demonstrated a distinctive dedication to Native American rights.  <a href="https://nyti.ms/3qDJtrs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
@@ -98,40 +118,22 @@ There’s a lot happening in the world right now. The Supreme Court recently uph
 <p>A painting that went missing in 1969 turned up at a museum’s doorstep before the F.B.I. could hunt it down. No one knew how or why — until now.  <a href="https://nyti.ms/3NyiPtj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Liberated Villages, Ukrainian Troops Still Face Lethal Threats</h3>
+<sub>By Andrew E. Kramer and David Guttenfelder</sub>
+<p>The Ukrainian counteroffensive has enjoyed some early successes, but with every step forward, the soldiers are increasingly exposed to Russian firepower.  <a href="https://nyti.ms/3qHfjnj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>Penguins in Your Fridge? These 7-Year-Olds Have Climate Solutions.</h3>
 <sub>By Cara Buckley</sub>
 <p>New Jersey is the first state to require that climate change be taught at all grade levels. The focus is on problem solving, not doom and gloom.  <a href="https://nyti.ms/3CCITNj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Boris Johnson Misled Parliament Over Covid Lockdown Parties, Report Says</h3>
-<sub>By Stephen Castle</sub>
-<p>The report offered a damning verdict on Boris Johnson, the former British prime minister, who quit Parliament last week.  <a href="https://nyti.ms/3NxokZh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Behind a Birthday Message, the Delicate Duet of Putin and Xi</h3>
-<sub>By Chris Buckley and Paul Sonne</sub>
-<p>The shows of bonhomie between the two leaders reflect the bond between Russia and China, which could become more fraught as Russian dependence deepens.  <a href="https://nyti.ms/3qHyPQC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
 <h3>The Moral Crisis of America’s Doctors</h3>
 <sub>By Eyal Press</sub>
 <p>The corporatization of health care has changed the practice of medicine, causing many physicians to feel alienated from their work.  <a href="https://nyti.ms/3COcB2l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>As Ties to China Turn Toxic, Even Chinese Companies Are Breaking Them</h3>
-<sub>By Ana Swanson</sub>
-<p>Companies are moving headquarters and factories outside the country and cleaving off their Chinese businesses. It’s not clear the strategy will work.  <a href="https://nyti.ms/3Xbct60"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Ticket Giants, Under Pressure From Biden, Promise Transparency on Fees</h3>
-<sub>By Ben Sisario</sub>
-<p>Live Nation and SeatGeek said they would show customers the full cost of concerts, after the White House’s complaints that “junk fees” for tickets and hotel stays can mislead consumers.  <a href="https://nyti.ms/442MtMI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
 <hr/>
 </ol>
