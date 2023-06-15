@@ -58,11 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Wednesday, June 14, Central Standard Time</p>
+<p>It is Thursday, June 15, Central Standard Time</p>
 <p>
-There&#39;s a lot happening in the world right now! In US news, the government is trying to reach an informal agreement with Iran to help avoid a nuclear crisis. A judge in Donald Trump&#39;s document case has relatively little criminal trial experience despite coming under scrutiny for past rulings. There&#39;s also people close to Trump who could be witnesses and trial. Trump is trying to draw attention away from his legal troubles by attacking Biden instead of accepting responsibility. Plus, former President Donald J. Trump just pleaded not guilty to charges of endangering national security and obstructing investigators in his arraignment hearing.
-
-Meanwhile, the Federal Reserve has left interest rates steady but expects more changes are on the way. On the cultural side, Robert Gottlieb, a renowned editor from le Carré to Clinton, just passed away at 92. The U.S. is paying billions of dollars to Russia&#39;s nuclear agency due to emission-free energy demands brought on by climate change challenges. Things are heating up in Germany too: they&#39;ve announced a new security plan but critics say it&#39;s too &#39;weak&#39;. Lastly, Congressional support for providing aid to Ukraine is waning due to an argument over spending caps, and Southern Baptists recently voted to expand restrictions on women as leaders even further.</p>
+There are a few important things happening in the world right now. The US is attempting to reach an informal agreement with Iran in order to avert a nuclear crisis and restore the 2015 nuclear deal that previously collapsed. For domestic matters, Donald Trump is facing charges in connection with alleged obstruction of justice and putting national security secrets at risk. Meanwhile, the US Congress is debating whether or not to keep aid flowing to Ukraine, and the Southern Baptists just voted to further expand restrictions on women as leaders. On the business side of things, the Federal Reserve is keeping rates steady but forecasting more movement, Westfield is giving up its San Francisco mall franchise which may signal more issues for downtown US stores, and retail companies are fleeing San Francisco. Finally, there&#39;s also been the passing of renowned editor Robert Gottlieb, who was known for working with some of the biggest writers of mid-to-late 20th century.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Hoping to Avert Nuclear Crisis, U.S. Seeks Informal Agreement With Iran</h3>
@@ -124,16 +122,16 @@ Meanwhile, the Federal Reserve has left interest rates steady but expects more c
 <p>Spending caps set by the debt limit bill have empowered critics of U.S. aid to Ukraine, threatening the bipartisan coalition that has kept military assistance flowing to Kyiv.  <a href="https://nyti.ms/3PcGCQs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>The Fierce, Flourishing World of Battle Rap</h3>
-<sub>By Ben Barzilai and Christopher Lee</sub>
-<p>Battle rap is an art form and a sport, as well as an industry that has been slowly growing over the last decade. While there are proving grounds all over the country, New York is its epicenter.  <a href="https://nyti.ms/42CnBdy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Southern Baptists Vote to Further Expand Restrictions on Women as Leaders</h3>
 <sub>By Ruth Graham and Elizabeth Dias</sub>
 <p>Delegates at the denomination’s convention approved a stricter ban on female pastors and rejected the appeals of two churches led by women to remain in the denomination.  <a href="https://nyti.ms/3qL7OMg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Westfield Gives Up San Francisco Mall, Signaling More Pain Ahead</h3>
+<sub>By Jordyn Holman and Thomas Fuller</sub>
+<p>Retailers have been fleeing the city’s downtown, and some analysts say there may be more to come. It’s an issue facing various downtowns around the United States.  <a href="https://nyti.ms/42KLa3M"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
