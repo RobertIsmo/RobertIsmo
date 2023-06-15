@@ -60,12 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, June 15, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now, for example, former President Donald Trump is facing legal battles with the Justice Department, and President Biden is trying to make deals with Iran concerning nuclear weapons. At home in the US, things are getting heated as well with conservatives close to Trump attempting to undo Justice Department independence from the president. There have also been demonstrations against Trump&#39;s indictments, yet they&#39;ve remained relatively peaceful.
-
-On top of this, some Chinese companies are breaking their ties with China due to US sanctions, while in Oregon taxes are surging due to their cannabis stores. Meanwhile, Boris Johnson is accused of misleading Parliament in Britain about COVID lockdown parties. In a different part of the globe, Russia and China are displaying signs of camaraderie while Russian dependence on China deepens. Architects are also using AI to help design workspaces for returning hybrid employees.
-
-Finally, Congress just ended pandemic cash for parents but some states like Colorado have picked up the slack by offering child tax credits instead.</p>
+It&#39;s been a busy few weeks in the news! The US Supreme Court just upheld a law that keeps Native American adoptees within tribes, and there are a lot of key decisions that the court has already made this term with its newly conservative majority. We&#39;re also seeing the consequences of President Trump’s promise to ‘go after’ his political rival Joe Biden. There was minimal violence from Trump supporters in Miami when he was indicted. On the legal front, there&#39;s a judge who doesn&#39;t have much experience presiding criminal trials. And on the international level, the US is trying to make an informal agreement with Iran to avert a nuclear crisis and Boris Johnson is being accused of misleading Parliament over Covid lockdown parties. In Oregon, there’s a marijuana boom causing envy across state lines into Idaho, whereas Russia and China are showing nbon homie for each other with messaging from Putin and Xi. Lastly, doctors in America are facing their own moral crisis due to corporate influences in healthcare.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Supreme Court Upholds Native American Adoption Law</h3>
+<sub>By Abbie VanSickle</sub>
+<p>At issue in the case was whether a law aimed at keeping Native American adoptees within tribes is constitutional.  <a href="https://nyti.ms/467E24A"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Major Supreme Court Decisions in 2023</h3>
+<sub>By Adam Liptak and Eli Murray</sub>
+<p>How the court’s 6-to-3 conservative majority is ruling this term after its lurch to the right a year ago in blockbuster decisions on abortion, guns, religion and climate change.  <a href="https://nyti.ms/43xL9Bt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The Radical Strategy Behind Trump’s Promise to ‘Go After’ Biden</h3>
 <sub>By Jonathan Swan, Charlie Savage and Maggie Haberman</sub>
@@ -120,22 +128,10 @@ Finally, Congress just ended pandemic cash for parents but some states like Colo
 <p>The shows of bonhomie between the two leaders reflect the bond between Russia and China, which could become more fraught as Russian dependence deepens.  <a href="https://nyti.ms/3qHyPQC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How A.I. Is Helping Architects Change Workplace Design</h3>
-<sub>By Farah Nayeri</sub>
-<p>With more hybrid workers and new office needs, firms like Zaha Hadid Architects are turning to artificial intelligence for solutions.  <a href="https://nyti.ms/3CxyBy0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
 <h3>The Moral Crisis of America’s Doctors</h3>
 <sub>By Eyal Press</sub>
 <p>The corporatization of health care has changed the practice of medicine, causing many physicians to feel alienated from their work.  <a href="https://nyti.ms/3COcB2l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Congress Ended Pandemic Cash for Parents, but Some States Have Embraced the Idea</h3>
-<sub>By Dana Goldstein</sub>
-<p>Colorado joins a growing list of states with bipartisan support for  child tax credits, which give parents money, no strings attached.  <a href="https://nyti.ms/3qJMZ3L"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
 <hr/>
 </ol>
