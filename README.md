@@ -60,42 +60,54 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, June 14, Central Standard Time</p>
 <p>
-There&#39;s been a lot happening in the world lately - from criminal trials involving President Trump, to debates about nuclear power and climate change. There&#39;s also been a big discussion around a Southern Baptist Church voting to keep out churches with female pastors and the closure of a San Francisco Mall as retail stores continue to flee city downtowns. Lastly, there was the death of author Cormac McCarthy, who wrote books that redefined American prose.</p>
+There is a lot going on around the world right now. The US is trying to avert a nuclear crisis with Iran and has resumed diplomacy, while there is a legal case against former President Donald J. Trump. In business, the Federal Reserve has left interest rates unchanged but is signaling more changes in the future. Additionally, Westfield has given up its mall in San Francisco which could mean more pain ahead for retailers in various downtowns around the country. On social issues, Southern Baptist delegates have voted to further restrict the involvement of women as leaders. Lastly, battle rap is an art form, industry, and sport that has been gaining acknowledgment; it&#39;s epicenter being New York City.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Hoping to Avert Nuclear Crisis, U.S. Seeks Informal Agreement With Iran</h3>
+<sub>By Michael Crowley, Farnaz Fassihi and Ronen Bergman</sub>
+<p>The talks reflect a resumption of diplomacy between the United States and Iran after the collapse of negotiations to restore the 2015 nuclear deal.  <a href="https://nyti.ms/3qMc9ib"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Judge in Trump Documents Case Has Scant Criminal Trial Experience</h3>
 <sub>By Michael S. Schmidt and Charlie Savage</sub>
 <p>Judge Aileen M. Cannon, under scrutiny for past rulings favoring the former president, has presided over only a few criminal cases that went to trial.  <a href="https://nyti.ms/46hvBDV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Fox News Chyron Calls Biden a ‘Wannabe Dictator’</h3>
-<sub>By Mike Ives</sub>
-<p>The onscreen text appeared Tuesday beneath split-screen footage of President Biden and former President Donald J. Trump, who had been charged with federal crimes hours earlier.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>They Are Trump’s Aides and Lawyers. Now They Could Be Trial Witnesses.</h3>
+<sub>By Alan Feuer, Maggie Haberman and Glenn Thrush</sub>
+<p>The former president is surrounded by people who have provided testimony and evidence to federal investigators. He’s not supposed to discuss the case with any of them.  <a href="https://nyti.ms/3Je0qPD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>Fox, Trump and Millennial Movement</h3>
-<sub>By Nate Cohn</sub>
-<p>To follow the impact of the indictment, it may be best to watch Fox News and not the polls.  <a href="https://nyti.ms/464Hixy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Legal Peril, Trump Tries to Shift the Spotlight to Biden</h3>
+<sub>By Michael D. Shear</sub>
+<p>Donald J. Trump, who is under indictment, is trying to undermine the American justice system by lashing out at his successor.  <a href="https://nyti.ms/3PgNQ67"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Read the Transcript of Trump’s Arraignment Hearing</h3>
+<sub></sub>
+<p>Former President Donald J. Trump surrendered to federal authorities in Miami on Tuesday and pleaded not guilty to charges that he had put national security secrets at risk and obstructed investigators. Here is a transcript of the hearing.  <a href="https://nyti.ms/3Jgat73"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Fed Leaves Rates Steady but Forecasts More Moves to Come</h3>
+<h3>Fed Leaves Rates Steady but Forecasts More Moves</h3>
 <sub>By Jeanna Smialek</sub>
-<p>Central bankers have lifted rates at the fastest pace since the 1980s, but now they’re taking time to survey how the changes are working.  <a href="https://nyti.ms/3NwCs4Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Central bankers have raised rates at the fastest pace since the 1980s, but now they’re taking time to survey how the changes are working.  <a href="https://nyti.ms/3NwCs4Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-books-blue" alt="">
+<h3>Robert Gottlieb, Eminent Editor From le Carré to Clinton, Dies at 92</h3>
+<sub>By Robert D. McFadden</sub>
+<p>At Simon &amp; Schuster, Alfred A. Knopf and The New Yorker, he polished the work of a who’s who of mid-to-late 20th century writers.  <a href="https://nyti.ms/3qP6E23"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>The U.S. Is Paying Billions to Russia’s Nuclear Agency. Here’s Why.</h3>
 <sub>By Max Bearak</sub>
 <p>Nuclear power companies rely on cheap enriched uranium made in Russia. That geopolitical dilemma is intensifying as climate change underscores the need for emissions-free energy.  <a href="https://nyti.ms/3X7d1tO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Ukraine’s Counteroffensive: What to Know</h3>
-<sub>By Helene Cooper</sub>
-<p>The Ukrainians are now on the offense. But measuring their progress is difficult this early on.  <a href="https://nyti.ms/42NMe7e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -111,27 +123,15 @@ There&#39;s been a lot happening in the world lately - from criminal trials invo
 <sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Southern Baptists Vote to Keep Out Churches With Female Pastors</h3>
+<h3>Southern Baptists Vote to Further Expand Restrictions on Women as Leaders</h3>
 <sub>By Ruth Graham and Elizabeth Dias</sub>
-<p>Delegates at the denomination’s convention voted overwhelmingly to finalize the ousters of one of its largest churches, Saddleback, and a small church in Kentucky, despite impassioned appeals from their leaders.  <a href="https://nyti.ms/3qL7OMg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Delegates at the denomination’s convention approved a stricter ban on female pastors and rejected the appeals of two churches led by women to remain in the denomination.  <a href="https://nyti.ms/3qL7OMg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Westfield Gives Up San Francisco Mall, Signaling More Pain Ahead</h3>
 <sub>By Jordyn Holman and Thomas Fuller</sub>
 <p>Retailers have been fleeing the city’s downtown, and some analysts say there may be more to come. It’s an issue facing various downtowns around the United States.  <a href="https://nyti.ms/42KLa3M"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-books-blue" alt="">
-<h3>Cormac McCarthy, Riding Into a Bloodred Sunset</h3>
-<sub>By A.O. Scott</sub>
-<p>He was the last of a generational cohort of writers who redefined American prose.  <a href="https://nyti.ms/3X45CLP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-books-blue" alt="">
-<h3>‘It Requires Genius and He Had It’: Readers on Cormac McCarthy</h3>
-<sub></sub>
-<p>McCarthy’s death inspired hundreds of people to share their impressions of him and his work.  <a href="https://nyti.ms/43DLDpD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
