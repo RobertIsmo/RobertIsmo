@@ -60,13 +60,23 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, June 15, Central Standard Time</p>
 <p>
-It looks like a lot of big things are happening right now. In the US, the government is trying to come to an informal agreement with Iran in order to avert a nuclear crisis, former President Donald Trump is facing legal trouble and several of his aides and lawyers might be called as witnesses, and there&#39;s been a hearing held over Trump&#39;s arraignment. The Southern Baptists have also voted to expand restrictions on women serving as leaders. Meanwhile, in the UK, Boris Johnson has been accused of misleading Parliament over lockdown parties. At the same time, the US Federal Reserve is taking time to survey the effects of their rate changes while Germany just adopted its first national security plan. Lastly, Westfield gave up its San Francisco mall, signaling more pain ahead for retail and downtowns in the US.</p>
+There is a lot happening in the world right now, for example, former President Donald Trump is facing legal battles with the Justice Department, and President Biden is trying to make deals with Iran concerning nuclear weapons. At home in the US, things are getting heated as well with conservatives close to Trump attempting to undo Justice Department independence from the president. There have also been demonstrations against Trump&#39;s indictments, yet they&#39;ve remained relatively peaceful.
+
+On top of this, some Chinese companies are breaking their ties with China due to US sanctions, while in Oregon taxes are surging due to their cannabis stores. Meanwhile, Boris Johnson is accused of misleading Parliament in Britain about COVID lockdown parties. In a different part of the globe, Russia and China are displaying signs of camaraderie while Russian dependence on China deepens. Architects are also using AI to help design workspaces for returning hybrid employees.
+
+Finally, Congress just ended pandemic cash for parents but some states like Colorado have picked up the slack by offering child tax credits instead.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Hoping to Avert Nuclear Crisis, U.S. Seeks Informal Agreement With Iran</h3>
-<sub>By Michael Crowley, Farnaz Fassihi and Ronen Bergman</sub>
-<p>The talks reflect a resumption of diplomacy between the United States and Iran after the collapse of negotiations to restore the 2015 nuclear deal.  <a href="https://nyti.ms/3qMc9ib"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
+<h3>The Radical Strategy Behind Trump’s Promise to ‘Go After’ Biden</h3>
+<sub>By Jonathan Swan, Charlie Savage and Maggie Haberman</sub>
+<p>Conservatives with close ties to Donald J. Trump are laying out a “paradigm-shifting” legal rationale to erase the Justice Department’s independence from the president.  <a href="https://nyti.ms/43EJ5rt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Miami, the Only Violence From Trump Supporters Was Rhetorical</h3>
+<sub>By Alan Feuer</sub>
+<p>Calls for retribution were plentiful after the former president’s indictments, but the demonstrations proved tame, a possible result of the aggressive prosecution of the Jan. 6 rioters.  <a href="https://nyti.ms/3p3LKMb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Judge in Trump Documents Case Has Scant Criminal Trial Experience</h3>
@@ -75,22 +85,28 @@ It looks like a lot of big things are happening right now. In the US, the govern
 <sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>They Are Trump’s Aides and Lawyers. Now They Could Be Trial Witnesses.</h3>
-<sub>By Alan Feuer, Maggie Haberman and Glenn Thrush</sub>
-<p>The former president is surrounded by people who have provided testimony and evidence to federal investigators. He’s not supposed to discuss the case with any of them.  <a href="https://nyti.ms/3Je0qPD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Legal Peril, Trump Tries to Shift the Spotlight to Biden</h3>
-<sub>By Michael D. Shear</sub>
-<p>Donald J. Trump, who is under indictment, is trying to undermine the American justice system by lashing out at his successor.  <a href="https://nyti.ms/3PgNQ67"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Read the Transcript of Trump’s Arraignment Hearing</h3>
 <sub></sub>
 <p>Former President Donald J. Trump surrendered to federal authorities in Miami on Tuesday and pleaded not guilty to charges that he had put national security secrets at risk and obstructed investigators. Here is a transcript of the hearing.  <a href="https://nyti.ms/3Jgat73"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>As Ties to China Turn Toxic, Even Chinese Companies Are Breaking Them</h3>
+<sub>By Ana Swanson</sub>
+<p>Companies are moving headquarters and factories outside the country and cleaving off their Chinese businesses. It’s not clear the strategy will work.  <a href="https://nyti.ms/3Xbct60"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Hoping to Avert Nuclear Crisis, U.S. Seeks Informal Agreement With Iran</h3>
+<sub>By Michael Crowley, Farnaz Fassihi and Ronen Bergman</sub>
+<p>The talks reflect a resumption of diplomacy between the United States and Iran after the collapse of negotiations to restore the 2015 nuclear deal.  <a href="https://nyti.ms/3qMc9ib"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Oregon Town’s Marijuana Boom Yields Envy in Idaho</h3>
+<sub>By Kurtis Lee</sub>
+<p>Tax revenue has surged since cannabis stores opened in Ontario, Ore., fueling a push in neighboring Idaho to legalize sales and get in on the action.  <a href="https://nyti.ms/3p441ci"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Boris Johnson Misled Parliament Over Covid Lockdown Parties, Report Says</h3>
@@ -98,41 +114,29 @@ It looks like a lot of big things are happening right now. In the US, the govern
 <p>The report offered a damning verdict on Boris Johnson, the former British prime minister, who quit Parliament last week.  <a href="https://nyti.ms/3NxokZh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Fed Leaves Rates Steady but Forecasts More Moves</h3>
-<sub>By Jeanna Smialek</sub>
-<p>Central bankers have raised rates at the fastest pace since the 1980s, but now they’re taking time to survey how the changes are working.  <a href="https://nyti.ms/3NwCs4Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-books-blue" alt="">
-<h3>Robert Gottlieb, Eminent Editor From le Carré to Clinton, Dies at 92</h3>
-<sub>By Robert D. McFadden</sub>
-<p>At Simon &amp; Schuster, Alfred A. Knopf and The New Yorker, he polished the work of a who’s who of mid-to-late 20th century writers.  <a href="https://nyti.ms/3qP6E23"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>The U.S. Is Paying Billions to Russia’s Nuclear Agency. Here’s Why.</h3>
-<sub>By Max Bearak</sub>
-<p>Nuclear power companies rely on cheap enriched uranium made in Russia. That geopolitical dilemma is intensifying as climate change underscores the need for emissions-free energy.  <a href="https://nyti.ms/3X7d1tO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Germany Adopts a More Muscular Security Plan. Critics Call It ‘Weak.’</h3>
-<sub>By Steven Erlanger and Christopher F. Schuetze</sub>
-<p>The country’s first national security strategy is an attempt to set priorities, especially since Russia’s invasion of Ukraine, but hard commitments were short in supply.  <a href="https://nyti.ms/3X9Bkal"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
+<h3>Behind a Birthday Message, the Delicate Duet of Putin and Xi</h3>
+<sub>By Chris Buckley and Paul Sonne</sub>
+<p>The shows of bonhomie between the two leaders reflect the bond between Russia and China, which could become more fraught as Russian dependence deepens.  <a href="https://nyti.ms/3qHyPQC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>How A.I. Is Helping Architects Change Workplace Design</h3>
+<sub>By Farah Nayeri</sub>
+<p>With more hybrid workers and new office needs, firms like Zaha Hadid Architects are turning to artificial intelligence for solutions.  <a href="https://nyti.ms/3CxyBy0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>The Moral Crisis of America’s Doctors</h3>
+<sub>By Eyal Press</sub>
+<p>The corporatization of health care has changed the practice of medicine, causing many physicians to feel alienated from their work.  <a href="https://nyti.ms/3COcB2l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Southern Baptists Vote to Further Expand Restrictions on Women as Leaders</h3>
-<sub>By Ruth Graham and Elizabeth Dias</sub>
-<p>Delegates at the denomination’s convention approved a stricter ban on female pastors and rejected the appeals of two churches led by women to remain in the denomination.  <a href="https://nyti.ms/3qL7OMg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Westfield Gives Up San Francisco Mall, Signaling More Pain Ahead</h3>
-<sub>By Jordyn Holman and Thomas Fuller</sub>
-<p>Retailers have been fleeing the city’s downtown, and some analysts say there may be more to come. It’s an issue facing various downtowns around the United States.  <a href="https://nyti.ms/42KLa3M"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
+<h3>Congress Ended Pandemic Cash for Parents, but Some States Have Embraced the Idea</h3>
+<sub>By Dana Goldstein</sub>
+<p>Colorado joins a growing list of states with bipartisan support for  child tax credits, which give parents money, no strings attached.  <a href="https://nyti.ms/3qJMZ3L"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
