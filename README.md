@@ -60,18 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, June 16, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In the U.S., there has been a review of police discrimination in Minneapolis since George Floyd was murdered and efforts to &quot;defund the police&quot; have not been successful. Meanwhile, former President Trump has been prosecuted, and the polls suggest it has hurt his popularity among Republicans. In England, former Prime Minister Boris Johnson tried to honor allies but failed and is now having disputes with the current PM. Southern Baptists&#39; decision to oust women from leadership roles has offered an insight into Evangelical America&#39;s psyche ahead of 2024. Further, a unique EV ride-sharing program has brought low-cost clean transportation to California&#39;s Central Valley while miniature antiwar protesters in Russia are using symbols to demonstrate opposition to Russia&#39;s invasion of Ukraine. Finally, lastly, floodwaters recently freed some people who were stranded in Russian-occupied territory in Ukraine.</p>
+Right now, there’s a lot going on in the world. In the US, the Justice Department has published its report on their investigation into the practices of the Minneapolis Police Department following George Floyd’s death. Meanwhile, ex-President Donald Trump is facing a federal indictment and Congress is mostly unhappy about it. There have also been multiple tragic events recently, like a jury convicting someone for killing 11 people in a Pittsburgh Synagogue and hundreds of dead migrants from a boat wreck in Greece. Further, there are ongoing fights over female leadership within the Southern Baptist Church, along with various mis&#x2F;disinformation being spread over social media about the Titanic disaster at sea. On another note, Boris Johnson, former Prime Minister of Britain, has resigned and will be writing columns for a tabloid newspaper again. Lastly, there are antiwar messages that are being shared in Russia using symbols like fish and asterisks as a way to oppose their invasion of Ukraine.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What Has Happened in Minneapolis Since George Floyd Was Murdered</h3>
-<sub>By Adeel Hassan</sub>
-<p>A 2022 state review found that racial discrimination was endemic in the Police Department.  <a href="https://nyti.ms/43XJ3uk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Here Are the Most Significant Findings Against the Minneapolis Police</h3>
+<sub>By Mitch Smith, Ernesto Londoño and Glenn Thrush</sub>
+<p>The key findings in the report echo complaints that some Minneapolis residents have made for years. The report could lead to a court-enforced consent decree.  <a href="https://nyti.ms/3Ji2l60"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What happened to efforts to ‘defund the police’ in Minneapolis and elsewhere?</h3>
-<sub>By Ernesto Londoño</sub>
-<p>The movement faltered after activists failed to build broad support for a goal that lacked a clear definition. When crime surged, Republicans seized on it as evidence that Democrats were being recklessly soft on crime.  <a href="https://nyti.ms/3qLsIuL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Read the full Justice Department report.</h3>
+<sub>By The New York Times</sub>
+<p>The report, released Friday, is the result of a multiyear investigation into the Minneapolis Police Department following the death of George Floyd in 2020.  <a href="https://nyti.ms/440Uqlo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -92,22 +92,16 @@ There is a lot going on in the world right now. In the U.S., there has been a re
 <p>Most Republicans still support Trump. But the polls still suggest the federal indictment is hurting him.  <a href="https://nyti.ms/3CzYWeQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Trump and Johnson Were Accused of Breaking Rules. One Lost Party Support.</h3>
-<sub>By Mark Landler</sub>
-<p>Donald J. Trump and Boris Johnson are at the heart of political tempests at home, facing different accusations and far different results.  <a href="https://nyti.ms/469Mbp9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Jury Convicts Man in Killing of 11 in Pittsburgh Synagogue</h3>
+<sub>By Campbell Robertson and Jon Moss</sub>
+<p>Jurors will next hear arguments about whether Robert Bowers should be sentenced to death.  <a href="https://nyti.ms/3pdsY51"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Boris Johnson’s Effort to Honor Allies Puts Glare on House of Lords</h3>
-<sub>By Stephen Castle</sub>
-<p>The former prime minister tried to elevate some lawmakers, as British leaders do when they leave office. But three didn’t make the cut, and now he’s fighting with Rishi Sunak.  <a href="https://nyti.ms/43ZIa4x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Boris Johnson, Out of Parliament, Is a Columnist Again</h3>
-<sub>By Mark Landler</sub>
-<p>Britain’s former prime minister, who quit as a lawmaker in the face of a possible suspension for misleading statements about pandemic gatherings, will have a voice in The Daily Mail.  <a href="https://nyti.ms/3Xddpae"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Hundreds Dead, 9 Arrested, and Many Questions in Migrant Wreck</h3>
+<sub>By Jason Horowitz and Niki Kitsantonis</sub>
+<p>Greek authorities blamed smugglers for a disaster that may have been one of the worst of its kind. Critics say tougher policies are increasing the risks.  <a href="https://nyti.ms/3qRxcQA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -117,21 +111,27 @@ There is a lot going on in the world right now. In the U.S., there has been a re
 <sub><sub>Friday, June 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>There’s No Uber or Lyft. There Is a Communal Tesla.</h3>
-<sub>By Patricia Leigh Brown</sub>
-<p>An innovative E.V. ride-sharing program is bringing low-cost clean transportation to an agricultural town in California’s Central Valley. Others are following suit.  <a href="https://nyti.ms/3NyVUhu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>The Titanic Truthers of TikTok</h3>
+<sub>By Tiffany Hsu and Sapna Maheshwari</sub>
+<p>On the short-form video app, long-established facts about the 1912 disaster at sea are being newly litigated as musty rumors merge with fresh misinformation and manipulated content.  <a href="https://nyti.ms/3XdKmDe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Trump and Johnson Were Accused of Breaking Rules. One Lost Party Support.</h3>
+<sub>By Mark Landler</sub>
+<p>Donald J. Trump and Boris Johnson are at the heart of political tempests at home, facing different accusations and far different results.  <a href="https://nyti.ms/469Mbp9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Boris Johnson, Out of Parliament, Is a Columnist Again</h3>
+<sub>By Mark Landler</sub>
+<p>Britain’s former prime minister, who quit as a lawmaker in the face of a possible suspension for misleading statements about pandemic gatherings, will write for The Daily Mail, a tabloid.  <a href="https://nyti.ms/3Xddpae"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Decoding the Antiwar Messages of Miniature Protesters in Russia</h3>
 <sub>By Marco Hernandez</sub>
 <p>Fish, asterisks, blank messages and the crossed out Z letter: All of these are symbols of opposition to the invasion of Ukraine by Russia.  <a href="https://nyti.ms/445nSqk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘I Cannot Believe We Made It’: In the Flood, a Rescue Behind the Front</h3>
-<sub>By Andrew E. Kramer and Maria Varenikova</sub>
-<p>To many, the destruction of a dam on the Dnipro River in Ukraine brought devastation. To some stranded in Russian-occupied territory, it brought freedom.  <a href="https://nyti.ms/3Cyzs1B"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
