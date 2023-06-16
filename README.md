@@ -60,8 +60,38 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, June 16, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. Donald Trump and Boris Johnson have both been accused of breaking rules, but they’ve had very different results – while Johnson has been trying to honor allies, Trump is facing an indictment that is causing chaos in the GOP. On top of that, Southern Baptists are fighting over female leaders in their denomination, and UCLA EV ride-sharing program is bringing low-cost clean transportation to a rural area of California. There’s also some antiwar protesting going on in Russia, and Ukrainian troops are retaking villages from Russia at great risk. In the United States, the Justice Department is about to release a Minneapolis police review after George Floyd’s murder – which also sparked nationwide protests – and Bill Gates just visited China for the first time since 2019.</p>
+There is a lot going on in the world right now. In the U.S., there has been a review of police discrimination in Minneapolis since George Floyd was murdered and efforts to &quot;defund the police&quot; have not been successful. Meanwhile, former President Trump has been prosecuted, and the polls suggest it has hurt his popularity among Republicans. In England, former Prime Minister Boris Johnson tried to honor allies but failed and is now having disputes with the current PM. Southern Baptists&#39; decision to oust women from leadership roles has offered an insight into Evangelical America&#39;s psyche ahead of 2024. Further, a unique EV ride-sharing program has brought low-cost clean transportation to California&#39;s Central Valley while miniature antiwar protesters in Russia are using symbols to demonstrate opposition to Russia&#39;s invasion of Ukraine. Finally, lastly, floodwaters recently freed some people who were stranded in Russian-occupied territory in Ukraine.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>What Has Happened in Minneapolis Since George Floyd Was Murdered</h3>
+<sub>By Adeel Hassan</sub>
+<p>A 2022 state review found that racial discrimination was endemic in the Police Department.  <a href="https://nyti.ms/43XJ3uk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>What happened to efforts to ‘defund the police’ in Minneapolis and elsewhere?</h3>
+<sub>By Ernesto Londoño</sub>
+<p>The movement faltered after activists failed to build broad support for a goal that lacked a clear definition. When crime surged, Republicans seized on it as evidence that Democrats were being recklessly soft on crime.  <a href="https://nyti.ms/3qLsIuL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Trump Prosecution, Special Counsel Seeks to Avoid Distracting Fights</h3>
+<sub>By Glenn Thrush</sub>
+<p>Jack Smith has taken an iron-fist-in-a-kid-glove approach, sidestepping secondary issues that could divert attention from the weight of the evidence he has assembled in his case against the former president.  <a href="https://nyti.ms/3qIHylz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>See How the G.O.P. Has Reacted to the Trump Indictment</h3>
+<sub>By Karen Yourish and Charlie Smart</sub>
+<p>More than half of the Republicans in Congress have made public statements about Trump’s federal indictment. Most are not pleased.  <a href="https://nyti.ms/442lDEf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>Donald Trump Has a Polling Problem</h3>
+<sub>By David Leonhardt</sub>
+<p>Most Republicans still support Trump. But the polls still suggest the federal indictment is hurting him.  <a href="https://nyti.ms/3CzYWeQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 16, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Trump and Johnson Were Accused of Breaking Rules. One Lost Party Support.</h3>
 <sub>By Mark Landler</sub>
@@ -74,16 +104,10 @@ There is a lot going on in the world right now. Donald Trump and Boris Johnson h
 <p>The former prime minister tried to elevate some lawmakers, as British leaders do when they leave office. But three didn’t make the cut, and now he’s fighting with Rishi Sunak.  <a href="https://nyti.ms/43ZIa4x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>See How the G.O.P. Has Reacted to the Trump Indictment</h3>
-<sub>By Karen Yourish and Charlie Smart</sub>
-<p>More than half of the Republicans in Congress have made public statements about Trump’s federal indictment. Most are not pleased.  <a href="https://nyti.ms/442lDEf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>Donald Trump Has a Polling Problem</h3>
-<sub>By David Leonhardt</sub>
-<p>Most Republicans still support Trump. But the polls still suggest the federal indictment is hurting him.  <a href="https://nyti.ms/3CzYWeQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Boris Johnson, Out of Parliament, Is a Columnist Again</h3>
+<sub>By Mark Landler</sub>
+<p>Britain’s former prime minister, who quit as a lawmaker in the face of a possible suspension for misleading statements about pandemic gatherings, will have a voice in The Daily Mail.  <a href="https://nyti.ms/3Xddpae"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -101,37 +125,13 @@ There is a lot going on in the world right now. Donald Trump and Boris Johnson h
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Decoding the Antiwar Messages of Miniature Protesters in Russia</h3>
 <sub>By Marco Hernandez</sub>
-<p>Fish, asterisks, blank messages and the letter Z: All of these are symbols of opposition to the invasion of Ukraine by Russia.  <a href="https://nyti.ms/445nSqk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Fish, asterisks, blank messages and the crossed out Z letter: All of these are symbols of opposition to the invasion of Ukraine by Russia.  <a href="https://nyti.ms/445nSqk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Retaking Villages Leaves Ukrainian Troops Exposed and Diving for Cover</h3>
-<sub>By Andrew E. Kramer and David Guttenfelder</sub>
-<p>The Ukrainian counteroffensive has enjoyed some early successes, but with every step forward, the soldiers are increasingly exposed to Russian firepower.  <a href="https://nyti.ms/3qHfjnj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Justice Dept. to Release Minneapolis Police Review After George Floyd Murder</h3>
-<sub>By Mitch Smith, Glenn Thrush and Ernesto Londoño</sub>
-<p>The investigation was launched after Mr. Floyd was murdered during an arrest in 2020, touching off protests nationwide.  <a href="https://nyti.ms/465WaeY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What Has Happened in Minneapolis Since George Floyd Was Murdered</h3>
-<sub>By Adeel Hassan</sub>
-<p>A 2022 state review found that racial discrimination was endemic in the Police Department.  <a href="https://nyti.ms/43XJ3uk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Blinken Heads to China, a Wall of Suspicion Awaits Him</h3>
-<sub>By Vivian Wang</sub>
-<p>Even as Beijing prepares for a visit by the secretary of state, China’s leader has made clear his expectations of more hostile superpower competition.  <a href="https://nyti.ms/3XdqvEz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Bill Gates, in First Visit to China Since 2019, Meets With Xi</h3>
-<sub>By Chang Che</sub>
-<p>China’s president, Xi Jinping, calls Mr. Gates “the first American friend I met in Beijing this year.”  <a href="https://nyti.ms/3qM7DQN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>‘I Cannot Believe We Made It’: In the Flood, a Rescue Behind the Front</h3>
+<sub>By Andrew E. Kramer and Maria Varenikova</sub>
+<p>To many, the destruction of a dam on the Dnipro River in Ukraine brought devastation. To some stranded in Russian-occupied territory, it brought freedom.  <a href="https://nyti.ms/3Cyzs1B"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
