@@ -60,7 +60,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, June 15, Central Standard Time</p>
 <p>
-Right now, the US is dealing with the aftermath of Donald Trump&#39;s presidency. After a judge ordered his lawyers to get security clearances for his ongoing documents case, it was revealed that an Airman had mishandled classified secrets and was indicted on six counts. Meanwhile, the Supreme Court recently upheld a law protecting Native American adoptees and issued several major decisions favoring the conservative majority. Back in Europe, Ukraine has been pushing back against Russian forces occupying southeastern Ukraine, but at a cost of significant blood and treasure. Finally, British actress and politician Glenda Jackson sadly passed away at 87, after leaving behind a long career in films and theater.</p>
+Right now, the US is facing a lot of legal battles related to former President Trump. A judge has ordered Trump&#39;s lawyers to get security clearances so they can handle classified information that will be fundamental to the trial. Meanwhile, an Airman was indicted on charges of mishandling US secrets after a leak. The Supreme Court also recently made a decision on a Native American adoption law and there are upcoming decisions to look out for from the court&#39;s new conservative majority. 
+
+Elsewhere in the world, Ukrainian troops are fighting a grueling and costly counteroffensive against Russia while US lawmakers are preparing for a bitter spending fight that could lead to a government shutdown this fall. Lastly, Glenda Jackson, an Oscar-winning actress and politician who had a successful acting and political career, recently passed away at 87.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>At the Heart of the Documents Case: Trump’s Attachment to His Boxes</h3>
