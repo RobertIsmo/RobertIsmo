@@ -60,18 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, June 16, Central Standard Time</p>
 <p>
-Right now, there’s a lot going on in the world. In the US, the Justice Department has published its report on their investigation into the practices of the Minneapolis Police Department following George Floyd’s death. Meanwhile, ex-President Donald Trump is facing a federal indictment and Congress is mostly unhappy about it. There have also been multiple tragic events recently, like a jury convicting someone for killing 11 people in a Pittsburgh Synagogue and hundreds of dead migrants from a boat wreck in Greece. Further, there are ongoing fights over female leadership within the Southern Baptist Church, along with various mis&#x2F;disinformation being spread over social media about the Titanic disaster at sea. On another note, Boris Johnson, former Prime Minister of Britain, has resigned and will be writing columns for a tabloid newspaper again. Lastly, there are antiwar messages that are being shared in Russia using symbols like fish and asterisks as a way to oppose their invasion of Ukraine.</p>
+There has been a lot going on in the world recently. In the US, there have been debates about defunding police and reforming law enforcement practices, as well as criminal proceedings against the former president. Elsewhere around the world, there has been a tragic migrant shipwreck in Greece that left hundreds dead, and a similar incident in Ukraine that raised safety concerns about a nuclear plant. Closer to home, we&#39;ve seen Ja Morant suspended for 25 games after appearing in a series of social media videos wielding guns. It certainly looks like it won&#39;t be quiet anytime soon!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Here Are the Most Significant Findings Against the Minneapolis Police</h3>
-<sub>By Mitch Smith, Ernesto Londoño and Glenn Thrush</sub>
-<p>The key findings in the report echo complaints that some Minneapolis residents have made for years. The report could lead to a court-enforced consent decree.  <a href="https://nyti.ms/3Ji2l60"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>How ‘Defund the Police’ Failed</h3>
+<sub>By Ernesto Londoño</sub>
+<p>In Minneapolis and elsewhere, the movement faltered after crime surged and activists failed to build broad support for a goal that lacked a clear definition.  <a href="https://nyti.ms/3qLsIuL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Read the full Justice Department report.</h3>
-<sub>By The New York Times</sub>
-<p>The report, released Friday, is the result of a multiyear investigation into the Minneapolis Police Department following the death of George Floyd in 2020.  <a href="https://nyti.ms/440Uqlo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Minneapolis Police Used Illegal, Abusive Practices for Years, Justice Dept. Finds</h3>
+<sub>By Ernesto Londoño, Glenn Thrush, Mitch Smith and Dan Simmons</sub>
+<p>The city said it would try to negotiate a court-enforced consent decree with the federal government that would require an overhaul of its police force.  <a href="https://nyti.ms/42FFEzz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -86,16 +86,16 @@ Right now, there’s a lot going on in the world. In the US, the Justice Departm
 <p>More than half of the Republicans in Congress have made public statements about Trump’s federal indictment. Most are not pleased.  <a href="https://nyti.ms/442lDEf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>Donald Trump Has a Polling Problem</h3>
-<sub>By David Leonhardt</sub>
-<p>Most Republicans still support Trump. But the polls still suggest the federal indictment is hurting him.  <a href="https://nyti.ms/3CzYWeQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Daniel Ellsberg, Who Leaked the Pentagon Papers, Is Dead at 92</h3>
+<sub>By Robert D. McFadden</sub>
+<p>Deeply disturbed by the accounting of American deceit in Vietnam, he approached The New York Times. The disclosures that followed rocked the nation.  <a href="https://nyti.ms/3p6sDRG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Jury Convicts Man in Killing of 11 in Pittsburgh Synagogue</h3>
 <sub>By Campbell Robertson and Jon Moss</sub>
-<p>Jurors will next hear arguments about whether Robert Bowers should be sentenced to death.  <a href="https://nyti.ms/3pdsY51"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Jurors will next hear arguments about whether the defendant, Robert Bowers, should be sentenced to death.  <a href="https://nyti.ms/3pdsY51"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -104,34 +104,34 @@ Right now, there’s a lot going on in the world. In the US, the Justice Departm
 <p>Greek authorities blamed smugglers for a disaster that may have been one of the worst of its kind. Critics say tougher policies are increasing the risks.  <a href="https://nyti.ms/3qRxcQA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Southern Baptists’ Fight Over Female Leaders Shows Power of Insurgent Right</h3>
-<sub>By Elizabeth Dias and Ruth Graham</sub>
-<p>Moves this week to oust women from church leadership in the nation’s largest Protestant denomination offer an early look into the psyche of evangelical America ahead of 2024.  <a href="https://nyti.ms/3qEQHeO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 16, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>The Titanic Truthers of TikTok</h3>
 <sub>By Tiffany Hsu and Sapna Maheshwari</sub>
 <p>On the short-form video app, long-established facts about the 1912 disaster at sea are being newly litigated as musty rumors merge with fresh misinformation and manipulated content.  <a href="https://nyti.ms/3XdKmDe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Trump and Johnson Were Accused of Breaking Rules. One Lost Party Support.</h3>
-<sub>By Mark Landler</sub>
-<p>Donald J. Trump and Boris Johnson are at the heart of political tempests at home, facing different accusations and far different results.  <a href="https://nyti.ms/469Mbp9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Boris Johnson, Out of Parliament, Is a Columnist Again</h3>
-<sub>By Mark Landler</sub>
-<p>Britain’s former prime minister, who quit as a lawmaker in the face of a possible suspension for misleading statements about pandemic gatherings, will write for The Daily Mail, a tabloid.  <a href="https://nyti.ms/3Xddpae"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>U.S. National Debt Tops $32 Trillion for First Time</h3>
+<sub>By Alan Rappeport</sub>
+<p>The milestone follows a recent congressional showdown over lifting the debt ceiling. Another spending fight looms this year.  <a href="https://nyti.ms/43JsP8F"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Decoding the Antiwar Messages of Miniature Protesters in Russia</h3>
-<sub>By Marco Hernandez</sub>
-<p>Fish, asterisks, blank messages and the crossed out Z letter: All of these are symbols of opposition to the invasion of Ukraine by Russia.  <a href="https://nyti.ms/445nSqk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>‘I Cannot Believe We Made It’: In the Flood, a Rescue Behind the Front</h3>
+<sub>By Andrew E. Kramer and Maria Varenikova</sub>
+<p>To many, the destruction of a dam on the Dnipro River in Ukraine brought devastation. To some stranded in Russian-occupied territory, it brought freedom.  <a href="https://nyti.ms/3Cyzs1B"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukraine Nuclear Plant in No Near-Term Risk After Dam Breach, U.N. Says</h3>
+<sub>By Matthew Mpoke Bigg</sub>
+<p>The destruction of a dam endangered the main source of water used for the critical task of cooling Zaporizhzhia’s reactors and spent fuel rods.  <a href="https://nyti.ms/3NwsiRM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Ja Morant Suspended for 25 Games After Second Gun Video</h3>
+<sub>By Sopan Deb</sub>
+<p>Morant, the Memphis Grizzlies star, was shown wielding firearms in social media videos in March and May.  <a href="https://nyti.ms/3NfaTMd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
