@@ -60,16 +60,8 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, June 15, Central Standard Time</p>
 <p>
-To bring you up to speed on what&#39;s happening in the world, there are a few major stories making headlines. In the US, an airman was indicted on charges of mishandling US government secrets. Separately, there&#39;s a big ongoing discussion around former president Trump&#39;s attachment to his &#39;beautiful mind&#39; boxes and a radical strategy he has promised to use against President Biden. Meanwhile, at home, the Supreme Court has recently upheld a Native American adoption law and justices have had some lurch-to-the-right decisions on abortion, guns, religion and climate change. 
-
-Overseas, there are reports of Ukrainian troops still facing lethal threats in liberated villages despite Ukraine&#39;s efforts in counteroffensives. On climate change specifically, New Jersey is now requiring that it be taught at all grade levels in its schools with an emphasis on problem solving rather than doom and gloom. Lastly, among medical professionals here at home, there is a moral crisis arising from the corporatization of health care causing many doctors to feel estranged from their work.</p>
+Right now, the US is dealing with the aftermath of Donald Trump&#39;s presidency. After a judge ordered his lawyers to get security clearances for his ongoing documents case, it was revealed that an Airman had mishandled classified secrets and was indicted on six counts. Meanwhile, the Supreme Court recently upheld a law protecting Native American adoptees and issued several major decisions favoring the conservative majority. Back in Europe, Ukraine has been pushing back against Russian forces occupying southeastern Ukraine, but at a cost of significant blood and treasure. Finally, British actress and politician Glenda Jackson sadly passed away at 87, after leaving behind a long career in films and theater.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Airman Is Indicted on Charges of Mishandling Secrets</h3>
-<sub>By Glenn Thrush</sub>
-<p>The airman, Jack Teixeira, 21, was arrested at his home in North Dighton, Mass., on April 13.  <a href="https://nyti.ms/3JgxOpa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>At the Heart of the Documents Case: Trump’s Attachment to His Boxes</h3>
 <sub>By Maggie Haberman, Alan Feuer and Michael S. Schmidt</sub>
@@ -77,16 +69,22 @@ Overseas, there are reports of Ukrainian troops still facing lethal threats in l
 <sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Radical Strategy Behind Trump’s Promise to ‘Go After’ Biden</h3>
-<sub>By Jonathan Swan, Charlie Savage and Maggie Haberman</sub>
-<p>Conservatives with close ties to Donald J. Trump are laying out a “paradigm-shifting” legal rationale to erase the Justice Department’s independence from the president.  <a href="https://nyti.ms/43EJ5rt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Judge Orders Lawyers in Trump Case to Start Getting Security Clearances</h3>
+<sub>By Alan Feuer, William K. Rashbaum and Maggie Haberman</sub>
+<p>Judge Aileen Cannon gave the defense team until Tuesday to begin the process, underscoring how classified information will be fundamental to the trial.  <a href="https://nyti.ms/3JgevvX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Trump and Johnson Were Accused of Breaking Rules. One Lost Party Support.</h3>
-<sub>By Mark Landler</sub>
-<p>Donald J. Trump and Boris Johnson are at the heart of political tempests at home, facing different accusations and far different results.  <a href="https://nyti.ms/469Mbp9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Airman Who Leaked Files Is Indicted on Charges of Mishandling Secrets</h3>
+<sub>By Glenn Thrush</sub>
+<p>Jack Teixeira, 21, could face up to 60 years in prison after being indicted on six counts of retaining and transmitting classified national defense information.  <a href="https://nyti.ms/3JgxOpa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>War, Weapons and Conspiracy Theories: Inside Airman Teixeira’s Online World</h3>
+<sub>By Aric Toler, Robin Stein, Glenn Thrush, Riley Mellen and Ishaan Jhaveri</sub>
+<p>A review of more than 9,500 messages obtained by The New York Times offers important clues about the mind-set of a young airman implicated in a vast leak of government secrets.  <a href="https://nyti.ms/42eg5Gq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, May 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Supreme Court Upholds Native American Adoption Law</h3>
@@ -100,18 +98,6 @@ Overseas, there are reports of Ukrainian troops still facing lethal threats in l
 <p>How the court’s 6-to-3 conservative majority is ruling this term after its lurch to the right a year ago in blockbuster decisions on abortion, guns, religion and climate change.  <a href="https://nyti.ms/43xL9Bt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Indigenous Leaders Elated by Supreme Court Ruling on Adoptions</h3>
-<sub>By Simon Romero and Jan Hoffman</sub>
-<p>The decision on Thursday bolsters Indigenous sovereignty by upholding a 1978 law aimed at keeping Native American adoptees within tribes.  <a href="https://nyti.ms/3PfVBcp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Justice Neil Gorsuch Is a Committed Defender of Tribal Rights</h3>
-<sub>By Adam Liptak</sub>
-<p>In soaring opinions steeped in history, Justice Gorsuch has demonstrated a distinctive dedication to Native American rights.  <a href="https://nyti.ms/3qDJtrs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>Hey Dad, Can You Help Me Return the Picasso I Stole?</h3>
 <sub>By Dan Barry</sub>
@@ -119,21 +105,33 @@ Overseas, there are reports of Ukrainian troops still facing lethal threats in l
 <sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Liberated Villages, Ukrainian Troops Still Face Lethal Threats</h3>
+<h3>Retaking Villages Leaves Ukrainian Troops Exposed and Diving for Cover</h3>
 <sub>By Andrew E. Kramer and David Guttenfelder</sub>
 <p>The Ukrainian counteroffensive has enjoyed some early successes, but with every step forward, the soldiers are increasingly exposed to Russian firepower.  <a href="https://nyti.ms/3qHfjnj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Penguins in Your Fridge? These 7-Year-Olds Have Climate Solutions.</h3>
-<sub>By Cara Buckley</sub>
-<p>New Jersey is the first state to require that climate change be taught at all grade levels. The focus is on problem solving, not doom and gloom.  <a href="https://nyti.ms/3CCITNj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Counteroffensive Is Grueling and Costly, but Promising, Ukraine and U.S. Say</h3>
+<sub>By Marc Santora</sub>
+<p>American and Ukrainian defense officials said the fight to dislodge dug-in Russian forces occupying southeastern Ukraine was expected to be brutal.  <a href="https://nyti.ms/3Ny5HEm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>The Moral Crisis of America’s Doctors</h3>
-<sub>By Eyal Press</sub>
-<p>The corporatization of health care has changed the practice of medicine, causing many physicians to feel alienated from their work.  <a href="https://nyti.ms/3COcB2l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Debt Deal Behind Them, Lawmakers Plunge Into Bitter Spending Fight</h3>
+<sub>By Carl Hulse</sub>
+<p>House Republicans are pushing to pass measures with spending levels below those agreed to in the debt limit compromise, infuriating Democrats and raising the prospect of a shutdown this fall.  <a href="https://nyti.ms/467CO99"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Glenda Jackson, Oscar-Winning Actress Turned Politician, Dies at 87</h3>
+<sub>By Benedict Nightingale</sub>
+<p>She walked away from a successful acting career to enter the British Parliament, before returning to the stage as the title character in an acclaimed “King Lear.”  <a href="https://nyti.ms/3N89Ygf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-theater-blue" alt="">
+<h3>Glenda Jackson, an Unnervingly Energizing Presence at Every Age</h3>
+<sub>By Ben Brantley</sub>
+<p>“I had been prepared to be awed, intimidated, even terrified,” Ben Brantley writes of meeting the actress in person five years ago.  <a href="https://nyti.ms/43IymMK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
 <hr/>
 </ol>
