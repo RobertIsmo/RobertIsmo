@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, June 16, Central Standard Time</p>
 <p>
-There are a lot of headlines in the news right now about politicians - Donald Trump and Boris Johnson are facing accusations of breaking rules, and Johnson is getting criticized for an effort to honor allies. There is also a case related to documents involving Trump with his lawyers needing security clearances. Plus, an airman has been indicted on charges of mishandling secrets. On a much different note, the Supreme Court in the US has upheld a Native American adoption law, and they have been ruling on significant cases this term. Over in Ukraine there is a counteroffensive underway being described as grueling and costly but promising. In the US, Congress is in the middle of a heated spending fight and there was recently a deadly tornado in Texas that killed 3 people and injured dozens.</p>
+There is a lot going on in the world right now. Donald Trump and Boris Johnson have both been accused of breaking rules, but they’ve had very different results – while Johnson has been trying to honor allies, Trump is facing an indictment that is causing chaos in the GOP. On top of that, Southern Baptists are fighting over female leaders in their denomination, and UCLA EV ride-sharing program is bringing low-cost clean transportation to a rural area of California. There’s also some antiwar protesting going on in Russia, and Ukrainian troops are retaking villages from Russia at great risk. In the United States, the Justice Department is about to release a Minneapolis police review after George Floyd’s murder – which also sparked nationwide protests – and Bill Gates just visited China for the first time since 2019.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Trump and Johnson Were Accused of Breaking Rules. One Lost Party Support.</h3>
@@ -75,40 +75,34 @@ There are a lot of headlines in the news right now about politicians - Donald Tr
 <sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>At the Heart of the Documents Case: Trump’s Attachment to His Boxes</h3>
-<sub>By Maggie Haberman, Alan Feuer and Michael S. Schmidt</sub>
-<p>The former president has long stowed papers and odds and ends in cartons that he liked to keep close. His aides have called it the “beautiful mind” material.  <a href="https://nyti.ms/3NhYA1I"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
+<h3>See How the G.O.P. Has Reacted to the Trump Indictment</h3>
+<sub>By Karen Yourish and Charlie Smart</sub>
+<p>More than half of the Republicans in Congress have made public statements about Trump’s federal indictment. Most are not pleased.  <a href="https://nyti.ms/442lDEf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>Donald Trump Has a Polling Problem</h3>
+<sub>By David Leonhardt</sub>
+<p>Most Republicans still support Trump. But the polls still suggest the federal indictment is hurting him.  <a href="https://nyti.ms/3CzYWeQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Judge Orders Lawyers in Trump Case to Start Getting Security Clearances</h3>
-<sub>By Alan Feuer, William K. Rashbaum and Maggie Haberman</sub>
-<p>Judge Aileen Cannon gave the defense team until Tuesday to begin the process, underscoring how classified information will be fundamental to the trial.  <a href="https://nyti.ms/3JgevvX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
+<h3>Southern Baptists’ Fight Over Female Leaders Shows Power of Insurgent Right</h3>
+<sub>By Elizabeth Dias and Ruth Graham</sub>
+<p>Moves this week to oust women from church leadership in the nation’s largest Protestant denomination offer an early look into the psyche of evangelical America ahead of 2024.  <a href="https://nyti.ms/3qEQHeO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Airman Who Leaked Files Is Indicted on Charges of Mishandling Secrets</h3>
-<sub>By Glenn Thrush</sub>
-<p>Jack Teixeira, 21, could face up to 60 years in prison after being indicted on six counts of retaining and transmitting classified national defense information.  <a href="https://nyti.ms/3JgxOpa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>There’s No Uber or Lyft. There Is a Communal Tesla.</h3>
+<sub>By Patricia Leigh Brown</sub>
+<p>An innovative E.V. ride-sharing program is bringing low-cost clean transportation to an agricultural town in California’s Central Valley. Others are following suit.  <a href="https://nyti.ms/3NyVUhu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>War, Weapons and Conspiracy Theories: Inside Airman Teixeira’s Online World</h3>
-<sub>By Aric Toler, Robin Stein, Glenn Thrush, Riley Mellen and Ishaan Jhaveri</sub>
-<p>A review of more than 9,500 messages obtained by The New York Times offers important clues about the mind-set of a young airman implicated in a vast leak of government secrets.  <a href="https://nyti.ms/42eg5Gq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, May 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Supreme Court Upholds Native American Adoption Law</h3>
-<sub>By Abbie VanSickle</sub>
-<p>At issue in the case was whether a law aimed at keeping Native American adoptees within tribes is constitutional.  <a href="https://nyti.ms/467E24A"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Major Supreme Court Decisions in 2023</h3>
-<sub>By Adam Liptak and Eli Murray</sub>
-<p>How the court’s 6-to-3 conservative majority is ruling this term after its lurch to the right a year ago in blockbuster decisions on abortion, guns, religion and climate change.  <a href="https://nyti.ms/43xL9Bt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Decoding the Antiwar Messages of Miniature Protesters in Russia</h3>
+<sub>By Marco Hernandez</sub>
+<p>Fish, asterisks, blank messages and the letter Z: All of these are symbols of opposition to the invasion of Ukraine by Russia.  <a href="https://nyti.ms/445nSqk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Retaking Villages Leaves Ukrainian Troops Exposed and Diving for Cover</h3>
@@ -116,23 +110,29 @@ There are a lot of headlines in the news right now about politicians - Donald Tr
 <p>The Ukrainian counteroffensive has enjoyed some early successes, but with every step forward, the soldiers are increasingly exposed to Russian firepower.  <a href="https://nyti.ms/3qHfjnj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Justice Dept. to Release Minneapolis Police Review After George Floyd Murder</h3>
+<sub>By Mitch Smith, Glenn Thrush and Ernesto Londoño</sub>
+<p>The investigation was launched after Mr. Floyd was murdered during an arrest in 2020, touching off protests nationwide.  <a href="https://nyti.ms/465WaeY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>What Has Happened in Minneapolis Since George Floyd Was Murdered</h3>
+<sub>By Adeel Hassan</sub>
+<p>A 2022 state review found that racial discrimination was endemic in the Police Department.  <a href="https://nyti.ms/43XJ3uk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 16, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Counteroffensive Is Grueling and Costly, but Promising, Ukraine and U.S. Say</h3>
-<sub>By Marc Santora</sub>
-<p>American and Ukrainian defense officials said the fight to dislodge dug-in Russian forces occupying southeastern Ukraine was expected to be brutal.  <a href="https://nyti.ms/3Ny5HEm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
+<h3>As Blinken Heads to China, a Wall of Suspicion Awaits Him</h3>
+<sub>By Vivian Wang</sub>
+<p>Even as Beijing prepares for a visit by the secretary of state, China’s leader has made clear his expectations of more hostile superpower competition.  <a href="https://nyti.ms/3XdqvEz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Debt Deal Behind Them, Lawmakers Plunge Into Bitter Spending Fight</h3>
-<sub>By Carl Hulse</sub>
-<p>House Republicans are pushing to pass measures with spending levels below those agreed to in the debt limit compromise, infuriating Democrats and raising the prospect of a shutdown this fall.  <a href="https://nyti.ms/467CO99"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Tornado Kills 3 in Texas and Injures Dozens</h3>
-<sub>By Livia Albeck-Ripka and Mike Ives</sub>
-<p>The tornado destroyed a trailer park as it pummeled the Texas Panhandle city of Perryton. At least 75 people were injured, the authorities said.  <a href="https://nyti.ms/43GZewp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Bill Gates, in First Visit to China Since 2019, Meets With Xi</h3>
+<sub>By Chang Che</sub>
+<p>China’s president, Xi Jinping, calls Mr. Gates “the first American friend I met in Beijing this year.”  <a href="https://nyti.ms/3qM7DQN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
