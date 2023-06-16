@@ -58,12 +58,22 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Thursday, June 15, Central Standard Time</p>
+<p>It is Friday, June 16, Central Standard Time</p>
 <p>
-Right now, the US is facing a lot of legal battles related to former President Trump. A judge has ordered Trump&#39;s lawyers to get security clearances so they can handle classified information that will be fundamental to the trial. Meanwhile, an Airman was indicted on charges of mishandling US secrets after a leak. The Supreme Court also recently made a decision on a Native American adoption law and there are upcoming decisions to look out for from the court&#39;s new conservative majority. 
-
-Elsewhere in the world, Ukrainian troops are fighting a grueling and costly counteroffensive against Russia while US lawmakers are preparing for a bitter spending fight that could lead to a government shutdown this fall. Lastly, Glenda Jackson, an Oscar-winning actress and politician who had a successful acting and political career, recently passed away at 87.</p>
+There&#39;s a lot going on in the world right now. In the US, President Trump has been accused of breaking laws, and a judge is now making his lawyers get security clearances for his trial. In Texas, there was a massive tornado that killed 3 people and injured dozens. On the international front, Boris Johnson is being criticized for how he honored allies when leaving office, and in Ukraine there is an ongoing counteroffensive which has been met with Russian firepower. Overall, it seems like there are some major political tensions brewing in multiple countries.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Trump and Johnson Were Accused of Breaking Rules. One Lost Party Support.</h3>
+<sub>By Mark Landler</sub>
+<p>Donald J. Trump and Boris Johnson are at the heart of political tempests at home, facing different accusations and far different results.  <a href="https://nyti.ms/469Mbp9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Boris Johnson’s Effort to Honor Allies Puts Glare on House of Lords</h3>
+<sub>By Stephen Castle</sub>
+<p>The former prime minister tried to elevate some lawmakers, as British leaders do when they leave office. But three didn’t make the cut, and now he’s fighting with Rishi Sunak.  <a href="https://nyti.ms/43ZIa4x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 14, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>At the Heart of the Documents Case: Trump’s Attachment to His Boxes</h3>
 <sub>By Maggie Haberman, Alan Feuer and Michael S. Schmidt</sub>
@@ -100,12 +110,6 @@ Elsewhere in the world, Ukrainian troops are fighting a grueling and costly coun
 <p>How the court’s 6-to-3 conservative majority is ruling this term after its lurch to the right a year ago in blockbuster decisions on abortion, guns, religion and climate change.  <a href="https://nyti.ms/43xL9Bt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Hey Dad, Can You Help Me Return the Picasso I Stole?</h3>
-<sub>By Dan Barry</sub>
-<p>A painting that went missing in 1969 turned up at a museum’s doorstep before the F.B.I. could hunt it down. No one knew how or why — until now.  <a href="https://nyti.ms/3NyiPtj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Retaking Villages Leaves Ukrainian Troops Exposed and Diving for Cover</h3>
 <sub>By Andrew E. Kramer and David Guttenfelder</sub>
@@ -124,16 +128,10 @@ Elsewhere in the world, Ukrainian troops are fighting a grueling and costly coun
 <p>House Republicans are pushing to pass measures with spending levels below those agreed to in the debt limit compromise, infuriating Democrats and raising the prospect of a shutdown this fall.  <a href="https://nyti.ms/467CO99"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Glenda Jackson, Oscar-Winning Actress Turned Politician, Dies at 87</h3>
-<sub>By Benedict Nightingale</sub>
-<p>She walked away from a successful acting career to enter the British Parliament, before returning to the stage as the title character in an acclaimed “King Lear.”  <a href="https://nyti.ms/3N89Ygf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-theater-blue" alt="">
-<h3>Glenda Jackson, an Unnervingly Energizing Presence at Every Age</h3>
-<sub>By Ben Brantley</sub>
-<p>“I had been prepared to be awed, intimidated, even terrified,” Ben Brantley writes of meeting the actress in person five years ago.  <a href="https://nyti.ms/43IymMK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Tornado Kills 3 in Texas and Injures Dozens</h3>
+<sub>By Livia Albeck-Ripka and Mike Ives</sub>
+<p>The tornado destroyed a trailer park as it pummeled the Texas Panhandle city of Perryton. At least 75 people were injured, the authorities said.  <a href="https://nyti.ms/445ka05"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
 <hr/>
 </ol>
