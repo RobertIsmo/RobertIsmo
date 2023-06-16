@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, June 16, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. In the US, President Trump has been accused of breaking laws, and a judge is now making his lawyers get security clearances for his trial. In Texas, there was a massive tornado that killed 3 people and injured dozens. On the international front, Boris Johnson is being criticized for how he honored allies when leaving office, and in Ukraine there is an ongoing counteroffensive which has been met with Russian firepower. Overall, it seems like there are some major political tensions brewing in multiple countries.</p>
+There are a lot of headlines in the news right now about politicians - Donald Trump and Boris Johnson are facing accusations of breaking rules, and Johnson is getting criticized for an effort to honor allies. There is also a case related to documents involving Trump with his lawyers needing security clearances. Plus, an airman has been indicted on charges of mishandling secrets. On a much different note, the Supreme Court in the US has upheld a Native American adoption law, and they have been ruling on significant cases this term. Over in Ukraine there is a counteroffensive underway being described as grueling and costly but promising. In the US, Congress is in the middle of a heated spending fight and there was recently a deadly tornado in Texas that killed 3 people and injured dozens.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Trump and Johnson Were Accused of Breaking Rules. One Lost Party Support.</h3>
@@ -131,7 +131,7 @@ There&#39;s a lot going on in the world right now. In the US, President Trump ha
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Tornado Kills 3 in Texas and Injures Dozens</h3>
 <sub>By Livia Albeck-Ripka and Mike Ives</sub>
-<p>The tornado destroyed a trailer park as it pummeled the Texas Panhandle city of Perryton. At least 75 people were injured, the authorities said.  <a href="https://nyti.ms/445ka05"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The tornado destroyed a trailer park as it pummeled the Texas Panhandle city of Perryton. At least 75 people were injured, the authorities said.  <a href="https://nyti.ms/43GZewp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
 <hr/>
 </ol>
