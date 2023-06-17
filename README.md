@@ -60,11 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, June 17, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. Russian President Vladimir Putin has asserted that Ukraine&#39;s counteroffensive against Russian-backed forces has &quot;no chance&quot; of success at an economic forum. Meanwhile, African leaders are trying to broker peace in Ukraine despite missile fire overhead.
+There are a lot of current events happening in the world right now. In Russia, President Putin is claiming at a major economic forum that Ukraine&#39;s counteracting efforts will have no chance of success. Meanwhile, African leaders are attempting to broker peace in Ukraine amidst ongoing conflict. Another news story is about an averted nuclear disaster in Ukraine after a facility&#39;s dam broke. 
 
-Domestically in the US, people have been pushing heavily for police reform since the police killing of George Floyd in Minneapolis in 2020. Recently, the Justice Department found that Minneapolis police had been using illegal and abusive practices for years. There are also ongoing investigations since Donald Trump left office, hints of which were revealed through documents concerning his case. Daniel Ellsberg, who famously leaked information (known as the Pentagon Papers) about US engagement in Vietnam for public knowledge has recently passed away at age 92. Additionally, a man was recently convicted of killing 11 people at a Pittsburgh synagogue and jurors will decide whether he should get the death penalty.
+In the US, there have been recent updates regarding the &quot;Defund the Police&quot; movement and conflicts with police practices. There have also been notions that evidence from the investigations into former President Donald Trump could indicate other ongoing criminal inquiries. Daniel Ellsberg, famous for his release of the Pentagon Papers has passed away at 92, while a jury has convicted a man for the killing of 11 people at a synagogue in Pittsburgh. A New Hampshire businessman is being charged with assaulting journalists for researching and reporting on sexual harassment allegations, and there has been recently progress towards justice for the &quot;Philadelphia 15&quot; - 15 black men wrongfully discharged from Navy duty 80 years ago. 
 
-On a less disturbing note, Chris Christie is making money and using his political profile to get profits from civilians, while in New Hampshire three men were charged in a case that spotlights attacks on the media. Finally, at the US Open golf tournament, scores are still low despite some fiercer course difficulty levels - while a golfer named Wyndham Clark is confidently showing off his skills and flirting with the top of the leaderboard.</p>
+Finally, scores at this year&#39;s US open golf tournament ended up being lower than anticipated despite an unusually fierce course setup.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Putin Asserts Ukraine’s Counteroffensive Has ‘No Chance’ at Economic Forum</h3>
@@ -76,6 +76,12 @@ On a less disturbing note, Chris Christie is making money and using his politica
 <h3>African Leaders Talk Peace in Ukraine, as Missiles Explode Overhead</h3>
 <sub>By John Eligon</sub>
 <p>After meeting with the Africans, including some who have close ties to Moscow, President Volodymyr Zelensky suggested that their peace plans were unrealistic.  <a href="https://nyti.ms/441xum3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Nuclear Disaster Averted After Ukraine Dam Break. But What Threats Remain?</h3>
+<sub>By Matthew Mpoke Bigg</sub>
+<p>The destruction of a dam endangered the main source of water used for the critical task of cooling reactors and spent fuel rods at the Zaporizhzhia nuclear power plant in southern Ukraine.  <a href="https://nyti.ms/3NwsiRM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -130,12 +136,6 @@ On a less disturbing note, Chris Christie is making money and using his politica
 <h3>U.S. Open Shows a Fiercer Side, but Low Scores Abound Anyway</h3>
 <sub>By Alan Blinder</sub>
 <p>Brooks Koepka dreads a “birdiefest” at a major. But Los Angeles Country Club is giving the Open field only so much heartburn.  <a href="https://nyti.ms/446kXxU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>At the U.S. Open, Wyndham Clark Is Confident, and It Shows</h3>
-<sub>By Bill Pennington</sub>
-<p>Bold play in honor of his mother, who died nearly 10 years ago, had Clark flirting with the top of the leaderboard for part of his second round on Friday.  <a href="https://nyti.ms/3NepYgJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
