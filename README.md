@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, June 17, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. In Russia, the military is shifting their tactics to focus on discipline, coordination and air support. Meanwhile in Ukraine, officials are preparing for possible disease outbreaks after they&#39;ve experienced heavy flooding recently. Here in the US, the constitution is looking into police misconduct, with one report revealing some significant findings. President Biden is also engaging in attempts at getting Saudi Arabia and Israel to reach a diplomatic agreement. On top of that, reproductive rights activists are passing new laws to ensure people have access to birth control, and there&#39;s controversy over the abrupt exit of a New York Police Commissioner. Lastly, Canada is facing its worst wildfire season yet and foreign firefighters have described some of the fires as being much larger than they&#39;ve seen before.</p>
+There is a lot going on in the world right now. In Russia, forces have improved discipline and coordination to better handle a potential counteroffensive. In Ukraine, officials are dealing with possible disease outbreaks that could come along with receding floodwaters. In the U.S., there is an attempt at getting a consent decree affecting policing, while Biden administration is engaging in a long-shot attempt for a Saudi-Israel deal. Additionally, advocates are pushing for right to birth control in the aftermath of one of Justice Thomas&#39;s decisions. Meanwhile, the abrupt exit of N.Y.P.D commissioner reveals much about oversight dynamics under Mayor Adams. Additionally, air quality has become an issue of debate as buildings struggle to breathe amidst Covid-19 protocols; Ugandan school attack leaves at least 37 dead, and foreign firefighters are aiding Canada in its worst wildfire season on record. Finally, Lorrie Moore is making waves in literary culture with her short stories and novel—which are focusing on art and not autobiography.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Russia, Learning From Costly Mistakes, Shifts Battlefield Tactics</h3>
@@ -131,7 +131,7 @@ There&#39;s a lot going on in the world right now. In Russia, the military is sh
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Again Has Union Support. But the Unions Look Different This Time.</h3>
 <sub>By Reid J. Epstein</sub>
-<p>President Biden partly built his political identity around organized labor, which was crucial to his 2020 victory. But changes in union membership mean that he still has work to do.  <a href="https://nyti.ms/3PgMIzm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>At a rally on Saturday hosted by the A.F.L.-C.I.O., President Biden enjoyed a warm reception. But changes in union membership mean that he still has work to do.  <a href="https://nyti.ms/3PgMIzm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 17, Central Standard Time</sub></sub>
 <hr/>
 </ol>
