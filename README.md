@@ -60,29 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, June 17, Central Standard Time</p>
 <p>
-There are a lot of current events happening in the world right now. In Russia, President Putin is claiming at a major economic forum that Ukraine&#39;s counteracting efforts will have no chance of success. Meanwhile, African leaders are attempting to broker peace in Ukraine amidst ongoing conflict. Another news story is about an averted nuclear disaster in Ukraine after a facility&#39;s dam broke. 
-
-In the US, there have been recent updates regarding the &quot;Defund the Police&quot; movement and conflicts with police practices. There have also been notions that evidence from the investigations into former President Donald Trump could indicate other ongoing criminal inquiries. Daniel Ellsberg, famous for his release of the Pentagon Papers has passed away at 92, while a jury has convicted a man for the killing of 11 people at a synagogue in Pittsburgh. A New Hampshire businessman is being charged with assaulting journalists for researching and reporting on sexual harassment allegations, and there has been recently progress towards justice for the &quot;Philadelphia 15&quot; - 15 black men wrongfully discharged from Navy duty 80 years ago. 
-
-Finally, scores at this year&#39;s US open golf tournament ended up being lower than anticipated despite an unusually fierce course setup.</p>
+In the U.S., police reforms may be on the horizon after a national outcry to &#39;Defund the Police.&#39; The Biden administration is attempting to negotiate a deal with Saudi Arabia and Israel for normalization. In New York, the abrupt exit of the NYPD commissioner reflects tensions between the mayor and police. Across the world, Russia has shifted tactics in its ongoing conflict in Ukraine. Meanwhile, authorities in Ukraine are bracing for possible disease outbreaks as they work to take back territory from Russia. Lastly, Chris Christie’s newfound status as a political commentator is sparking controversy as he supports Donald Trump&#39;s legal defense.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Putin Asserts Ukraine’s Counteroffensive Has ‘No Chance’ at Economic Forum</h3>
-<sub>By Neil MacFarquhar</sub>
-<p>By claiming to be in control at a pivotal moment, critics say, he can no longer pass any military failures off on others.  <a href="https://nyti.ms/3p9Cd6l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>African Leaders Talk Peace in Ukraine, as Missiles Explode Overhead</h3>
-<sub>By John Eligon</sub>
-<p>After meeting with the Africans, including some who have close ties to Moscow, President Volodymyr Zelensky suggested that their peace plans were unrealistic.  <a href="https://nyti.ms/441xum3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Nuclear Disaster Averted After Ukraine Dam Break. But What Threats Remain?</h3>
-<sub>By Matthew Mpoke Bigg</sub>
-<p>The destruction of a dam endangered the main source of water used for the critical task of cooling reactors and spent fuel rods at the Zaporizhzhia nuclear power plant in southern Ukraine.  <a href="https://nyti.ms/3NwsiRM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 16, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Consent Decrees Force Changes to Policing. But Do Reforms Last?</h3>
+<sub>By Shaila Dewan</sub>
+<p>The Minneapolis Police may agree to court-enforced federal oversight. Experts say it can lead to improvements, though defining success can be difficult.  <a href="https://nyti.ms/3PcX2sg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, June 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>How ‘Defund the Police’ Failed</h3>
@@ -90,29 +74,53 @@ Finally, scores at this year&#39;s US open golf tournament ended up being lower 
 <p>In Minneapolis and elsewhere, the movement faltered after crime surged and activists failed to build broad support for a goal that lacked a clear definition.  <a href="https://nyti.ms/3qLsIuL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Minneapolis Police Used Illegal, Abusive Practices for Years, Justice Dept. Finds</h3>
-<sub>By Ernesto Londoño, Glenn Thrush, Mitch Smith and Dan Simmons</sub>
-<p>The city said it would try to negotiate a court-enforced consent decree with the federal government that would require an overhaul of its police force.  <a href="https://nyti.ms/42FFEzz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 16, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russia, Learning From Costly Mistakes, Shifts Battlefield Tactics</h3>
+<sub>By Thomas Gibbons-Neff, Julian E. Barnes and Natalia Yermak</sub>
+<p>Moscow’s forces remain uneven. But while bracing for a counteroffensive, they have improved discipline, coordination and air support, foreshadowing a changing war.  <a href="https://nyti.ms/3PifRdJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, June 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As Floodwaters Recede, Ukrainian Authorities Brace for Possible Disease Outbreaks</h3>
+<sub>By Megan Specia</sub>
+<p>Concerns about waterborne illnesses add another challenge to Ukrainian officials as they report slow progress in the early stages of a counteroffensive aimed at taking back Russian territory.  <a href="https://nyti.ms/3NxllQs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, June 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Evidence in Trump Documents Case Hints at ‘Ongoing Investigations,’ Filing Says</h3>
-<sub>By Alan Feuer</sub>
-<p>Court papers from federal prosecutors in the case against Donald Trump suggested that other criminal cases could potentially emerge from the inquiry.  <a href="https://nyti.ms/3Nf48d0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 16, Central Standard Time</sub></sub>
+<h3>Biden Administration Engages in Long-Shot Attempt for Saudi-Israel Deal</h3>
+<sub>By Mark Mazzetti, Ronen Bergman, Edward Wong and Vivian Nereim</sub>
+<p>The president and his aides are pressing an aggressive diplomatic effort as Riyadh makes significant demands in exchange for normalization, including a nuclear deal and a robust U.S. security pact.  <a href="https://nyti.ms/42J8uPy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, June 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>What a Commissioner’s Abrupt Exit Says About the N.Y.P.D. Under Adams</h3>
+<sub>By Maria Cramer and Chelsia Rose Marcius</sub>
+<p>The next N.Y.P.D. commissioner will have to contend with the mayor, a wary police force eager for clear leadership and a city worried about both crime and the use of force.  <a href="https://nyti.ms/3NeGgWV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, June 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>The New War on Bad Air</h3>
+<sub>By Emily Anthes</sub>
+<p>A century ago, a well-ventilated building was considered good medicine. But by the time Covid-19 arrived, our buildings could barely breathe. How did that happen? And how do we let the fresh air back in?  <a href="https://nyti.ms/43KVVVc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, June 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Uganda School Attack Leaves at Least 37 Dead</h3>
+<sub>By Abdi Latif Dahir</sub>
+<p>The authorities attribute the attack, one of the deadliest in years, to the Allied Democratic Forces, an extremist group based in neighboring Congo.  <a href="https://nyti.ms/3CBhco8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, June 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Daniel Ellsberg, Who Leaked the Pentagon Papers, Is Dead at 92</h3>
-<sub>By Robert D. McFadden</sub>
-<p>Deeply disturbed by the accounting of American deceit in Vietnam, he approached The New York Times. The disclosures that followed rocked the nation.  <a href="https://nyti.ms/3p6sDRG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 16, Central Standard Time</sub></sub>
+<h3>In Branson, Missouri, a Two-Wheeled Fix for the Commuter Blues</h3>
+<sub>By Richard Fausset and Chase Castor</sub>
+<p>Much of the affordable housing in the tourist town is far from its famous entertainment strip. One solution: motor scooters offered for no money down.  <a href="https://nyti.ms/42LVfxv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, June 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Jury Convicts Man in Killing of 11 in Pittsburgh Synagogue</h3>
-<sub>By Campbell Robertson and Jon Moss</sub>
-<p>Jurors will next hear arguments about whether the defendant, Robert Bowers, should be sentenced to death.  <a href="https://nyti.ms/3pdsY51"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 16, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Lorrie Moore’s Intimate Secrets</h3>
+<sub>By Dan Kois</sub>
+<p>In a literary culture obsessed with confessionals, her brilliant short stories — and, now, a new novel — have always been about art, not autobiography.  <a href="https://nyti.ms/466GcBl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, June 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The Business of Being Chris Christie</h3>
@@ -120,23 +128,11 @@ Finally, scores at this year&#39;s US open golf tournament ended up being lower 
 <p>Mr. Christie left the governor’s office in New Jersey and set out to, as he put it, “make money.” He successfully traded on his political profile — and on his ties to the man he now wants to defeat.  <a href="https://nyti.ms/467cOLi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>3 Men Charged in Case That Spotlights Attacks on the Media</h3>
-<sub>By David Enrich</sub>
-<p>The homes of New Hampshire Public Radio journalists were vandalized after they aired a sexual harassment investigation involving a prominent businessman in the state.  <a href="https://nyti.ms/446KO8z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 16, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Final Fight for Black Sailors Known as the ‘Philadelphia 15’</h3>
-<sub>By John Ismay</sub>
-<p>Kicked out of the Navy in 1940 for publicly criticizing the racist abuse they suffered on their warship, 15 Black men were posthumously exonerated at the Pentagon on Friday.  <a href="https://nyti.ms/3NbYloK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>U.S. Open Shows a Fiercer Side, but Low Scores Abound Anyway</h3>
-<sub>By Alan Blinder</sub>
-<p>Brooks Koepka dreads a “birdiefest” at a major. But Los Angeles Country Club is giving the Open field only so much heartburn.  <a href="https://nyti.ms/446kXxU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 16, Central Standard Time</sub></sub>
+<h3>A Long-Shot Candidate’s Defense of Trump Could Undermine the Rule of Law</h3>
+<sub>By Jonathan Weisman</sub>
+<p>Vivek Ramaswamy is the lone Republican rival of Donald Trump to wholeheartedly claim the federal indictment is a Democratic attempt to jail the political opposition.  <a href="https://nyti.ms/43BO8Jb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, June 17, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
