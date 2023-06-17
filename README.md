@@ -60,19 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, June 17, Central Standard Time</p>
 <p>
-In the U.S., police reforms may be on the horizon after a national outcry to &#39;Defund the Police.&#39; The Biden administration is attempting to negotiate a deal with Saudi Arabia and Israel for normalization. In New York, the abrupt exit of the NYPD commissioner reflects tensions between the mayor and police. Across the world, Russia has shifted tactics in its ongoing conflict in Ukraine. Meanwhile, authorities in Ukraine are bracing for possible disease outbreaks as they work to take back territory from Russia. Lastly, Chris Christie’s newfound status as a political commentator is sparking controversy as he supports Donald Trump&#39;s legal defense.</p>
+Right now, there is a lot of unrest and change going on around the world. In the US, there are ongoing debates about police reform and a long-shot presidential attempt to negotiate a deal between Saudi Arabia and Israel. In Russia, the government is shifting its battlefield tactics due to costly mistakes from the past. Meanwhile, Ukraine is facing threats of disease outbreaks in flood regions. On a more human-level, there has been an attack on a school in Uganda that resulted in 37 casualties, and some people in Missouri are turning to motor scooters as a solution to commuting trouble. Lastly, Covid-19 has caused big shifts when it comes to air quality regulations.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Consent Decrees Force Changes to Policing. But Do Reforms Last?</h3>
 <sub>By Shaila Dewan</sub>
 <p>The Minneapolis Police may agree to court-enforced federal oversight. Experts say it can lead to improvements, though defining success can be difficult.  <a href="https://nyti.ms/3PcX2sg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How ‘Defund the Police’ Failed</h3>
-<sub>By Ernesto Londoño</sub>
-<p>In Minneapolis and elsewhere, the movement faltered after crime surged and activists failed to build broad support for a goal that lacked a clear definition.  <a href="https://nyti.ms/3qLsIuL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Russia, Learning From Costly Mistakes, Shifts Battlefield Tactics</h3>
@@ -83,7 +77,7 @@ In the U.S., police reforms may be on the horizon after a national outcry to &#3
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>As Floodwaters Recede, Ukrainian Authorities Brace for Possible Disease Outbreaks</h3>
 <sub>By Megan Specia</sub>
-<p>Concerns about waterborne illnesses add another challenge to Ukrainian officials as they report slow progress in the early stages of a counteroffensive aimed at taking back Russian territory.  <a href="https://nyti.ms/3NxllQs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Concerns about waterborne illnesses pose another challenge for Ukrainian officials as they report slow progress in the early stages of a counteroffensive aimed at taking back Russian territory.  <a href="https://nyti.ms/3NxllQs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -117,9 +111,9 @@ In the U.S., police reforms may be on the horizon after a national outcry to &#3
 <sub><sub>Saturday, June 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Lorrie Moore’s Intimate Secrets</h3>
+<h3>Lorrie Moore Will Not Confess</h3>
 <sub>By Dan Kois</sub>
-<p>In a literary culture obsessed with confessionals, her brilliant short stories — and, now, a new novel — have always been about art, not autobiography.  <a href="https://nyti.ms/466GcBl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>In a literary culture obsessed with self-disclosure, her brilliant short stories — and, now, a new novel — have always been about art, not autobiography.  <a href="https://nyti.ms/466GcBl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -132,6 +126,12 @@ In the U.S., police reforms may be on the horizon after a national outcry to &#3
 <h3>A Long-Shot Candidate’s Defense of Trump Could Undermine the Rule of Law</h3>
 <sub>By Jonathan Weisman</sub>
 <p>Vivek Ramaswamy is the lone Republican rival of Donald Trump to wholeheartedly claim the federal indictment is a Democratic attempt to jail the political opposition.  <a href="https://nyti.ms/43BO8Jb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, June 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Fact-Checking Nikki Haley on the Campaign Trail</h3>
+<sub>By Linda Qiu</sub>
+<p>The Republican presidential candidate has made inaccurate or misleading claims about abortion, trans youth, foreign policy and domestic issues.  <a href="https://nyti.ms/3qVmLuY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 17, Central Standard Time</sub></sub>
 <hr/>
 </ol>
