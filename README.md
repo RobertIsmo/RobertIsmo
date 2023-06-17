@@ -60,8 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, June 16, Central Standard Time</p>
 <p>
-There has been a lot going on in the world recently. In the US, there have been debates about defunding police and reforming law enforcement practices, as well as criminal proceedings against the former president. Elsewhere around the world, there has been a tragic migrant shipwreck in Greece that left hundreds dead, and a similar incident in Ukraine that raised safety concerns about a nuclear plant. Closer to home, we&#39;ve seen Ja Morant suspended for 25 games after appearing in a series of social media videos wielding guns. It certainly looks like it won&#39;t be quiet anytime soon!</p>
+Right now it seems like there&#39;s a lot of tension and unrest going on in the world. In Ukraine, there&#39;s a conflict and African leaders are attempting to bring about peace. Meanwhile here in the US, the &#39;Defund the Police&#39; movement has been unsuccessful despite crime surges. There have also been allegations of Minneapolis police forces using illegal and abusive practices, and former President Donald Trump is being prosecuted. In other recent news, Daniel Ellsberg who leaked the Pentagon papers has passed away, there was a jury conviction for a killer from Pittsburgh synagogue, and Chris Christie is now making money off his political profile. Lastly, there is some misinformation on TikTok surrounding the Titanic disaster.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Putin Asserts Ukraine’s Counteroffensive Has ‘No Chance’ at Economic Forum</h3>
+<sub>By Neil MacFarquhar</sub>
+<p>By claiming to be in control at a pivotal moment, critics say, he can no longer pass any military failures off on others.  <a href="https://nyti.ms/3p9Cd6l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>African Leaders Talk Peace in Ukraine, as Missiles Explode Overhead</h3>
+<sub>By John Eligon</sub>
+<p>After meeting with the Africans, including some who have close ties to Moscow, President Volodymyr Zelensky suggested that their peace plans were unrealistic.  <a href="https://nyti.ms/441xum3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 16, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>How ‘Defund the Police’ Failed</h3>
 <sub>By Ernesto Londoño</sub>
@@ -81,9 +93,9 @@ There has been a lot going on in the world recently. In the US, there have been 
 <sub><sub>Friday, June 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>See How the G.O.P. Has Reacted to the Trump Indictment</h3>
-<sub>By Karen Yourish and Charlie Smart</sub>
-<p>More than half of the Republicans in Congress have made public statements about Trump’s federal indictment. Most are not pleased.  <a href="https://nyti.ms/442lDEf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Evidence in Trump Documents Case Hints at ‘Ongoing Investigations,’ Filing Says</h3>
+<sub>By Alan Feuer</sub>
+<p>Court papers from federal prosecutors in the case against Donald Trump suggested that other criminal cases could potentially emerge from the inquiry.  <a href="https://nyti.ms/3Nf48d0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -98,10 +110,10 @@ There has been a lot going on in the world recently. In the US, there have been 
 <p>Jurors will next hear arguments about whether the defendant, Robert Bowers, should be sentenced to death.  <a href="https://nyti.ms/3pdsY51"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Hundreds Dead, 9 Arrested, and Many Questions in Migrant Wreck</h3>
-<sub>By Jason Horowitz and Niki Kitsantonis</sub>
-<p>Greek authorities blamed smugglers for a disaster that may have been one of the worst of its kind. Critics say tougher policies are increasing the risks.  <a href="https://nyti.ms/3qRxcQA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Business of Being Chris Christie</h3>
+<sub>By Nick Corasaniti and Alexandra Berzon</sub>
+<p>Mr. Christie left the governor’s office in New Jersey and set out to, as he put it, “make money.” He successfully traded on his political profile — and on his ties to the man he now wants to defeat.  <a href="https://nyti.ms/467cOLi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -111,27 +123,15 @@ There has been a lot going on in the world recently. In the US, there have been 
 <sub><sub>Friday, June 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.S. National Debt Tops $32 Trillion for First Time</h3>
-<sub>By Alan Rappeport</sub>
-<p>The milestone follows a recent congressional showdown over lifting the debt ceiling. Another spending fight looms this year.  <a href="https://nyti.ms/43JsP8F"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>3 Men Charged in Case That Spotlights Attacks on the Media</h3>
+<sub>By David Enrich</sub>
+<p>The homes of New Hampshire Public Radio journalists were vandalized after they aired a sexual harassment investigation involving a prominent businessman in the state.  <a href="https://nyti.ms/446KO8z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘I Cannot Believe We Made It’: In the Flood, a Rescue Behind the Front</h3>
-<sub>By Andrew E. Kramer and Maria Varenikova</sub>
-<p>To many, the destruction of a dam on the Dnipro River in Ukraine brought devastation. To some stranded in Russian-occupied territory, it brought freedom.  <a href="https://nyti.ms/3Cyzs1B"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Nuclear Plant in No Near-Term Risk After Dam Breach, U.N. Says</h3>
-<sub>By Matthew Mpoke Bigg</sub>
-<p>The destruction of a dam endangered the main source of water used for the critical task of cooling Zaporizhzhia’s reactors and spent fuel rods.  <a href="https://nyti.ms/3NwsiRM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Ja Morant Suspended for 25 Games After Second Gun Video</h3>
-<sub>By Sopan Deb</sub>
-<p>Morant, the Memphis Grizzlies star, was shown wielding firearms in social media videos in March and May.  <a href="https://nyti.ms/3NfaTMd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Final Fight for Black Sailors Known as the ‘Philadelphia 15’</h3>
+<sub>By John Ismay</sub>
+<p>Kicked out of the Navy in 1940 for publicly criticizing the racist abuse they suffered on their warship, 15 Black men were posthumously exonerated at the Pentagon on Friday.  <a href="https://nyti.ms/3NbYloK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
