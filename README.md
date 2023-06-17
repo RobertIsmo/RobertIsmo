@@ -60,14 +60,8 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, June 17, Central Standard Time</p>
 <p>
-Right now, there is a lot of unrest and change going on around the world. In the US, there are ongoing debates about police reform and a long-shot presidential attempt to negotiate a deal between Saudi Arabia and Israel. In Russia, the government is shifting its battlefield tactics due to costly mistakes from the past. Meanwhile, Ukraine is facing threats of disease outbreaks in flood regions. On a more human-level, there has been an attack on a school in Uganda that resulted in 37 casualties, and some people in Missouri are turning to motor scooters as a solution to commuting trouble. Lastly, Covid-19 has caused big shifts when it comes to air quality regulations.</p>
+There&#39;s a lot going on in the world right now. In Russia, the military is shifting their tactics to focus on discipline, coordination and air support. Meanwhile in Ukraine, officials are preparing for possible disease outbreaks after they&#39;ve experienced heavy flooding recently. Here in the US, the constitution is looking into police misconduct, with one report revealing some significant findings. President Biden is also engaging in attempts at getting Saudi Arabia and Israel to reach a diplomatic agreement. On top of that, reproductive rights activists are passing new laws to ensure people have access to birth control, and there&#39;s controversy over the abrupt exit of a New York Police Commissioner. Lastly, Canada is facing its worst wildfire season yet and foreign firefighters have described some of the fires as being much larger than they&#39;ve seen before.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Consent Decrees Force Changes to Policing. But Do Reforms Last?</h3>
-<sub>By Shaila Dewan</sub>
-<p>The Minneapolis Police may agree to court-enforced federal oversight. Experts say it can lead to improvements, though defining success can be difficult.  <a href="https://nyti.ms/3PcX2sg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, June 17, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Russia, Learning From Costly Mistakes, Shifts Battlefield Tactics</h3>
 <sub>By Thomas Gibbons-Neff, Julian E. Barnes and Natalia Yermak</sub>
@@ -81,9 +75,27 @@ Right now, there is a lot of unrest and change going on around the world. In the
 <sub><sub>Saturday, June 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Consent Decrees Force Changes to Policing. But Do Reforms Last?</h3>
+<sub>By Shaila Dewan</sub>
+<p>The Minneapolis Police may agree to court-enforced federal oversight. Experts say it can lead to improvements, though defining success can be difficult.  <a href="https://nyti.ms/3PcX2sg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, June 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Here Are the Most Significant Findings Against the Minneapolis Police</h3>
+<sub>By Mitch Smith, Ernesto Londoño and Glenn Thrush</sub>
+<p>The key findings in the report echo complaints that some Minneapolis residents have made for years. The report could lead to a court-enforced consent decree.  <a href="https://nyti.ms/3Ji2l60"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Administration Engages in Long-Shot Attempt for Saudi-Israel Deal</h3>
 <sub>By Mark Mazzetti, Ronen Bergman, Edward Wong and Vivian Nereim</sub>
 <p>The president and his aides are pressing an aggressive diplomatic effort as Riyadh makes significant demands in exchange for normalization, including a nuclear deal and a robust U.S. security pact.  <a href="https://nyti.ms/42J8uPy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, June 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Year After Dobbs, Advocates Push in the States for a Right to Birth Control</h3>
+<sub>By Sheryl Gay Stolberg</sub>
+<p>After Justice Clarence Thomas cast doubt on the Supreme Court decision that established a right to contraception, reproductive rights advocates are pressing for new protections at the state level.  <a href="https://nyti.ms/42LVdFT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -104,10 +116,10 @@ Right now, there is a lot of unrest and change going on around the world. In the
 <p>The authorities attribute the attack, one of the deadliest in years, to the Allied Democratic Forces, an extremist group based in neighboring Congo.  <a href="https://nyti.ms/3CBhco8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Branson, Missouri, a Two-Wheeled Fix for the Commuter Blues</h3>
-<sub>By Richard Fausset and Chase Castor</sub>
-<p>Much of the affordable housing in the tourist town is far from its famous entertainment strip. One solution: motor scooters offered for no money down.  <a href="https://nyti.ms/42LVfxv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘The Fires Here Are Unstoppable’</h3>
+<sub>By Norimitsu Onishi and Renaud Philippe</sub>
+<p>The first foreign firefighters to reach Quebec amid Canada’s worst wildfire season on record said that some of the blazes were 100 times bigger than any they had ever seen.  <a href="https://nyti.ms/42N2vt5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
@@ -117,21 +129,9 @@ Right now, there is a lot of unrest and change going on around the world. In the
 <sub><sub>Saturday, June 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Business of Being Chris Christie</h3>
-<sub>By Nick Corasaniti and Alexandra Berzon</sub>
-<p>Mr. Christie left the governor’s office in New Jersey and set out to, as he put it, “make money.” He successfully traded on his political profile — and on his ties to the man he now wants to defeat.  <a href="https://nyti.ms/467cOLi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Long-Shot Candidate’s Defense of Trump Could Undermine the Rule of Law</h3>
-<sub>By Jonathan Weisman</sub>
-<p>Vivek Ramaswamy is the lone Republican rival of Donald Trump to wholeheartedly claim the federal indictment is a Democratic attempt to jail the political opposition.  <a href="https://nyti.ms/43BO8Jb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, June 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Fact-Checking Nikki Haley on the Campaign Trail</h3>
-<sub>By Linda Qiu</sub>
-<p>The Republican presidential candidate has made inaccurate or misleading claims about abortion, trans youth, foreign policy and domestic issues.  <a href="https://nyti.ms/3qVmLuY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Biden Again Has Union Support. But the Unions Look Different This Time.</h3>
+<sub>By Reid J. Epstein</sub>
+<p>President Biden partly built his political identity around organized labor, which was crucial to his 2020 victory. But changes in union membership mean that he still has work to do.  <a href="https://nyti.ms/3PgMIzm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 17, Central Standard Time</sub></sub>
 <hr/>
 </ol>
