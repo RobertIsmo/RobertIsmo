@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, June 16, Central Standard Time</p>
 <p>
-Right now it seems like there&#39;s a lot of tension and unrest going on in the world. In Ukraine, there&#39;s a conflict and African leaders are attempting to bring about peace. Meanwhile here in the US, the &#39;Defund the Police&#39; movement has been unsuccessful despite crime surges. There have also been allegations of Minneapolis police forces using illegal and abusive practices, and former President Donald Trump is being prosecuted. In other recent news, Daniel Ellsberg who leaked the Pentagon papers has passed away, there was a jury conviction for a killer from Pittsburgh synagogue, and Chris Christie is now making money off his political profile. Lastly, there is some misinformation on TikTok surrounding the Titanic disaster.</p>
+Around the world, things are heating up. In Ukraine, there is tension as African leaders discuss peace negotiations while missiles explode overhead. Meanwhile, Russian President Vladimir Putin has declared that Ukraine&#39;s counteroffensive has &quot;no chance&quot; at an economic forum. Closer to home in the US, the &#39;Defund the Police&#39; movement has apparently failed after activists critically fell short of building support amongst the public. Police brutality and abuse in Minneapolis have been found to have gone on for years, leading to criminal investigations against those responsible. Additionally, an ongoing investigation into documents related to former US President Donald Trump have opened new potential criminal cases. Sadly, we lost another great this week- Daniel Ellsberg, the man who famously leaked The Pentagon Papers in the early 70s. Another US associated tragedy occurred with a jury convicting a mass murderer who killed 11 people in a Pittsburgh synagogue earlier this year. Moving away from serious news and onto others areas affecting our daily lives: Chris Christie&#39;s &quot;business&quot; in making money post term as governor was discussed, and finally on TikTok users pose questions regarding alleged conspiracies behind the Titanic disaster back in 1912 caused by manipulated content. All throughout last week top players also competed for a prestige golf tournament title but not without scoring some exceptional low scores!</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Putin Asserts Ukraine’s Counteroffensive Has ‘No Chance’ at Economic Forum</h3>
@@ -84,12 +84,6 @@ Right now it seems like there&#39;s a lot of tension and unrest going on in the 
 <h3>Minneapolis Police Used Illegal, Abusive Practices for Years, Justice Dept. Finds</h3>
 <sub>By Ernesto Londoño, Glenn Thrush, Mitch Smith and Dan Simmons</sub>
 <p>The city said it would try to negotiate a court-enforced consent decree with the federal government that would require an overhaul of its police force.  <a href="https://nyti.ms/42FFEzz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Trump Prosecution, Special Counsel Seeks to Avoid Distracting Fights</h3>
-<sub>By Glenn Thrush</sub>
-<p>Jack Smith has taken an iron-fist-in-a-kid-glove approach, sidestepping secondary issues that could divert attention from the weight of the evidence he has assembled in his case against the former president.  <a href="https://nyti.ms/3qIHylz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -132,6 +126,12 @@ Right now it seems like there&#39;s a lot of tension and unrest going on in the 
 <h3>The Final Fight for Black Sailors Known as the ‘Philadelphia 15’</h3>
 <sub>By John Ismay</sub>
 <p>Kicked out of the Navy in 1940 for publicly criticizing the racist abuse they suffered on their warship, 15 Black men were posthumously exonerated at the Pentagon on Friday.  <a href="https://nyti.ms/3NbYloK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>U.S. Open Shows a Fiercer Side, but Low Scores Abound Anyway</h3>
+<sub>By Alan Blinder</sub>
+<p>Brooks Koepka dreads a “birdiefest” at a major. But Los Angeles Country Club is giving the Open field only so much heartburn.  <a href="https://nyti.ms/446kXxU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
