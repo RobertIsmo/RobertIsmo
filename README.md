@@ -58,9 +58,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Friday, June 16, Central Standard Time</p>
+<p>It is Saturday, June 17, Central Standard Time</p>
 <p>
-Around the world, things are heating up. In Ukraine, there is tension as African leaders discuss peace negotiations while missiles explode overhead. Meanwhile, Russian President Vladimir Putin has declared that Ukraine&#39;s counteroffensive has &quot;no chance&quot; at an economic forum. Closer to home in the US, the &#39;Defund the Police&#39; movement has apparently failed after activists critically fell short of building support amongst the public. Police brutality and abuse in Minneapolis have been found to have gone on for years, leading to criminal investigations against those responsible. Additionally, an ongoing investigation into documents related to former US President Donald Trump have opened new potential criminal cases. Sadly, we lost another great this week- Daniel Ellsberg, the man who famously leaked The Pentagon Papers in the early 70s. Another US associated tragedy occurred with a jury convicting a mass murderer who killed 11 people in a Pittsburgh synagogue earlier this year. Moving away from serious news and onto others areas affecting our daily lives: Chris Christie&#39;s &quot;business&quot; in making money post term as governor was discussed, and finally on TikTok users pose questions regarding alleged conspiracies behind the Titanic disaster back in 1912 caused by manipulated content. All throughout last week top players also competed for a prestige golf tournament title but not without scoring some exceptional low scores!</p>
+There is a lot going on in the world right now. Russian President Vladimir Putin has asserted that Ukraine&#39;s counteroffensive against Russian-backed forces has &quot;no chance&quot; of success at an economic forum. Meanwhile, African leaders are trying to broker peace in Ukraine despite missile fire overhead.
+
+Domestically in the US, people have been pushing heavily for police reform since the police killing of George Floyd in Minneapolis in 2020. Recently, the Justice Department found that Minneapolis police had been using illegal and abusive practices for years. There are also ongoing investigations since Donald Trump left office, hints of which were revealed through documents concerning his case. Daniel Ellsberg, who famously leaked information (known as the Pentagon Papers) about US engagement in Vietnam for public knowledge has recently passed away at age 92. Additionally, a man was recently convicted of killing 11 people at a Pittsburgh synagogue and jurors will decide whether he should get the death penalty.
+
+On a less disturbing note, Chris Christie is making money and using his political profile to get profits from civilians, while in New Hampshire three men were charged in a case that spotlights attacks on the media. Finally, at the US Open golf tournament, scores are still low despite some fiercer course difficulty levels - while a golfer named Wyndham Clark is confidently showing off his skills and flirting with the top of the leaderboard.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Putin Asserts Ukraine’s Counteroffensive Has ‘No Chance’ at Economic Forum</h3>
@@ -111,12 +115,6 @@ Around the world, things are heating up. In Ukraine, there is tension as African
 <sub><sub>Friday, June 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Titanic Truthers of TikTok</h3>
-<sub>By Tiffany Hsu and Sapna Maheshwari</sub>
-<p>On the short-form video app, long-established facts about the 1912 disaster at sea are being newly litigated as musty rumors merge with fresh misinformation and manipulated content.  <a href="https://nyti.ms/3XdKmDe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>3 Men Charged in Case That Spotlights Attacks on the Media</h3>
 <sub>By David Enrich</sub>
 <p>The homes of New Hampshire Public Radio journalists were vandalized after they aired a sexual harassment investigation involving a prominent businessman in the state.  <a href="https://nyti.ms/446KO8z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -132,6 +130,12 @@ Around the world, things are heating up. In Ukraine, there is tension as African
 <h3>U.S. Open Shows a Fiercer Side, but Low Scores Abound Anyway</h3>
 <sub>By Alan Blinder</sub>
 <p>Brooks Koepka dreads a “birdiefest” at a major. But Los Angeles Country Club is giving the Open field only so much heartburn.  <a href="https://nyti.ms/446kXxU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>At the U.S. Open, Wyndham Clark Is Confident, and It Shows</h3>
+<sub>By Bill Pennington</sub>
+<p>Bold play in honor of his mother, who died nearly 10 years ago, had Clark flirting with the top of the leaderboard for part of his second round on Friday.  <a href="https://nyti.ms/3NepYgJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
