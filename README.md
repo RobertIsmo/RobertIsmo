@@ -60,12 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, June 18, Central Standard Time</p>
 <p>
-Currently, there is a lot of political upheaval happening around the world. In Russia, there is evidence that suggests that the Kakhovka Dam was destroyed from within, while in Ukraine, Kyiv&#39;s forces have been fighting to retake territory from Russian forces. Meanwhile, in the US, both presidential candidates have been playing up their age difference to voters. Donald Trump is also facing legal charges, while Joe Biden is focusing on governing the country. Additionally, in the cryptocurrency industry there have been reports of people trying to sabotage others and sway public opinion. In terms of global economics, it appears like many of the rules and guidelines have changed due to events such as the pandemic, war and China&#39;s policies. 
-
-On a different note, style-wise today&#39;s dads seem to be gravitating towards certain trends (like pastel polo shirts). There&#39;s also been some terrible news regarding a terrorist act that occurred in Uganda recently. 
-
-Finally, California rivers are too dangerous for recreational activities this winter and a celebrity is speaking out against body shaming. Meanwhile in Los Angeles people are creating &quot;hedges&quot; for privacy reasons - though it&#39;s actually good for the environment!</p>
+Recently, the world has been dealing with a lot of different issues. In the business realm, it looks like many of the economies around the world are facing an unclear future and potential new problems that have come up since the pandemic. On the international stage, we&#39;ve seen tensions rise between countries like Russia and Ukraine as Russia is suspected of taking actions against Ukraine such as blowing up the Kakhovka dam and launching a counteroffensive against Ukraine. Closer to home, both former President Donald Trump and President Joe Biden have made headlines recently for different topics - Trump for certain criminal charges, and Biden for focusing on governing in spite of this. Lastly, there have also been some sports-related news such as Lionel Messi&#39;s multi-million-dollar contract with Saudi Arabia&#39;s tourism authority.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Why It Seems Everything We Knew About the Global Economy Is No Longer True</h3>
+<sub>By Patricia Cohen</sub>
+<p>While the world’s eyes were on the pandemic, the war in Ukraine and China, the paths to prosperity and shared interests have grown murkier.  <a href="https://nyti.ms/3Poypcl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, June 18, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Why the Evidence Suggests Russia Blew Up the Kakhovka Dam</h3>
 <sub>By James Glanz, Marc Santora, Pablo Robles, Haley Willis, Lauren Leatherby, Christoph Koettl and Dmitriy Khavin</sub>
@@ -90,16 +92,16 @@ Finally, California rivers are too dangerous for recreational activities this wi
 <p>The past week appears to provide a blueprint for the way the White House wants to handle the politically touchy subject of former President Donald J. Trump’s legal troubles.  <a href="https://nyti.ms/3Xh6Mns"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, June 18, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Barr Says Documents Case Against Trump Is ‘Entirely of His Own Making’</h3>
+<sub>By Chris Cameron</sub>
+<p>The former attorney general, who has become a vocal critic of the former president, also attacked his character in extraordinary language.  <a href="https://nyti.ms/43MYfed"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, June 18, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>He Went After Crypto Companies. Then Someone Came After Him.</h3>
 <sub>By John Carreyrou</sub>
 <p>Kyle Roche was a rising star in the field of cryptocurrency law — until his career imploded. Who orchestrated his downfall?  <a href="https://nyti.ms/3XkUOJl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, June 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Why It Seems Everything We Knew About the Global Economy Is No Longer True</h3>
-<sub>By Patricia Cohen</sub>
-<p>While the world’s eyes were on the pandemic, the war in Ukraine and China, the paths to prosperity and shared interests have grown murkier.  <a href="https://nyti.ms/3Poypcl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, June 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
@@ -114,16 +116,16 @@ Finally, California rivers are too dangerous for recreational activities this wi
 <p>It was one of the worst terrorist acts to hit the nation in decades, as militants burned down dormitories with students still inside and hacked others to death.  <a href="https://nyti.ms/3NhV9I6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, June 18, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Why the Pentagon Papers Leaker Tried to Get Prosecuted Near His Life’s End</h3>
+<sub>By Charlie Savage</sub>
+<p>When Daniel Ellsberg was 42, a judge threw out Espionage Act charges against him. At 90, he sought such charges again in hope of challenging their constitutionality.  <a href="https://nyti.ms/43LdvIF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, June 18, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Lionel Messi, Saudi Arabia and the Deal That Paid Off for Both Sides</h3>
 <sub>By Karim Zidan and Tariq Panja</sub>
 <p>A contract between Messi and Saudi Arabia’s tourism authority offers a glimpse at the details of their multimillion-dollar relationship.  <a href="https://nyti.ms/3Ncq8Wc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, June 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>After a Winter Deluge, California Rivers Are Too Dangerous to Enjoy</h3>
-<sub>By Jill Cowan</sub>
-<p>Several counties have banned recreation on rivers that flow from the Sierra Nevada because of swift currents and fatalities.  <a href="https://nyti.ms/3CAowAs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, June 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
@@ -131,12 +133,6 @@ Finally, California rivers are too dangerous for recreational activities this wi
 <sub>By David Marchese</sub>
 <p>“The tyranny around loving yourself is bonkers to me,” says the best-selling author and writer for “And Just Like That.”  <a href="https://nyti.ms/3Nh1NP3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, June 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-realestate-blue" alt="">
-<h3>Hiding Behind the Hedges</h3>
-<sub>By Debra Kamin</sub>
-<p>In Los Angeles, the wealthy will pay a fortune to protect their private lives from prying eyes. At least leafy green walls are good for the environment.  <a href="https://nyti.ms/3NxyV6l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
