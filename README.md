@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, June 18, Central Standard Time</p>
 <p>
-Right now, a lot is happening in the world. In Ukraine, an ongoing counteroffensive to retake territory from Russia is continuing, and Ukrainian forces have claimed they destroyed a Russian ammunition dump in the process. In the US, Florida Governor Ron DeSantis is making moves to appeal to younger voters, pressing Republicans to end what he calls a &quot;culture of losing&quot;. In California, heavy rain has caused river currents to become too dangerous, leading to a ban on recreational activities. In business, there&#39;s been a mystery surrounding the downfall of a rising star in the field of cryptocurrency law. Closer to home in NYC, tensions between the city and its suburbs over crime, immigration and other issues have increased since the pandemic began. </p>
+There is a lot of news happening around the world right now. In Ukraine, there is a counteroffensive occurring and Kyiv&#39;s forces have retaken another village. In Uganda there was a deadly terrorist attack that killed many people. Back in the US, Governor Ron DeSantis of Florida has been selling Republicans on ending the &#39;culture of losing&#39; and former President Donald Trump is currently facing charges. Meanwhile, in California there have been restrictions put on rivers due to deluges this winter and the swift currents are dangerous. Finally, there are interesting stories about technology and fashion covering the dad canon of today.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>An Inside Job</h3>
@@ -69,9 +69,9 @@ Right now, a lot is happening in the world. In Ukraine, an ongoing counteroffens
 <sub><sub>Friday, June 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukrainian Forces Claim Strike on Russian Ammunition Dump as Counteroffensive Continues</h3>
-<sub>By Matthew Mpoke Bigg</sub>
-<p>Kyiv said Sunday that its forces had destroyed the facility in a Russian-occupied area of the south, where Ukraine has been fighting to recapture territory.  <a href="https://nyti.ms/42N06yg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Ukraine Appears to Make a Small Gain in the South as Counteroffensive Continues</h3>
+<sub>By Matthew Mpoke Bigg and Neil MacFarquhar</sub>
+<p>A Russian official and military bloggers said Sunday that Kyiv’s forces had retaken another village in their fight to recapture territory, a claim the Russian Defense Ministry denied.  <a href="https://nyti.ms/42N06yg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, June 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -116,11 +116,11 @@ Right now, a lot is happening in the world. In Ukraine, an ongoing counteroffens
 <p>While the world’s eyes were on the pandemic, the war in Ukraine and China, the paths to prosperity and shared interests have grown murkier.  <a href="https://nyti.ms/3Poypcl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, June 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Scathing Report on Police Leaves Minneapolis Reeling 3 Years After Floyd Murder</h3>
-<sub>By Ernesto Londoño and Dan Simmons</sub>
-<p>The Justice Department’s devastating findings left the city searching for next steps. Some residents found little closure.  <a href="https://nyti.ms/3NAUumD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, June 17, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘A Terrible Tragedy’: Uganda Reels From Deadly Terrorist Attack</h3>
+<sub>By Abdi Latif Dahir</sub>
+<p>It was one of the worst terrorist acts to hit the nation in decades, as militants burned down dormitories with students still inside and hacked others to death.  <a href="https://nyti.ms/3NhV9I6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, June 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
 <h3>The Dad Canon (Circa Now)</h3>
