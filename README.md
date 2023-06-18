@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, June 17, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. In Russia, its forces have improved their battlefield tactics and are bracing for a counteroffensive, while in Ukraine, officials are preparing for possible disease outbreaks as floodwaters recede. Here in the US, Minneapolis is reeling from a scathing report on its police that was released 3 years after George Floyd was murdered, and reproductive rights advocates are pushing states to strengthen protections in light of Clarence Thomas&#39; casting doubt on the Supreme Court&#39;s decision to establish a right to contraception. In Afghanistan, the Taliban is running its government using WhatsApp, but U.S. sanctions are preventing it from doing so effectively. In Uganda, an attack by an extremist group has left at least 37 dead, and in Canada there are wildfires that have been described as 100 times bigger than any firefighters had ever seen before. China and the US are having meetings about smoothing over tensions, but it&#39;s unclear if it will be constructive. Doctors in the US are facing a moral crisis because of health care corporatization making them feel alienated from their work.</p>
+There is a lot going on around the world right now. In Ukraine, they are bracing for possible disease outbreaks as floodwaters recede and trying to take back Russian territory in a counteroffensive. Russia has shifted their battlefield tactics, improving discipline and coordination. In Canada, they are facing the worst wildfire season on record, and foreign firefighters have arrived to help combat the fires. In Beijing, US Secretary of State Blinken will be chatting with Chinese officials to smooth over their tensions. In Minneapolis, there is a scathing report released by the Justice Department detailing police activity, which has left residents searching for next steps. And in Nevada, Governor DeSantis is rallying Republicans to end their &quot;culture of losing&quot;. Health care has also changed dramatically, with the corporatization of medicine leaving many physicians feeling alienated from their work.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>An Inside Job</h3>
+<sub>By James Glanz, Marc Santora, Pablo Robles, Haley Willis, Lauren Leatherby, Christoph Koettl and Dmitriy Khavin</sub>
+<p>The Kakhovka dam was designed to withstand almost any attack imaginable — from the outside. An inside job was another matter.  <a href="https://nyti.ms/3Nc5R2W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 16, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Russia, Learning From Costly Mistakes, Shifts Battlefield Tactics</h3>
 <sub>By Thomas Gibbons-Neff, Julian E. Barnes and Natalia Yermak</sub>
@@ -92,28 +98,22 @@ There&#39;s a lot going on in the world right now. In Russia, its forces have im
 <p>After Justice Clarence Thomas cast doubt on the Supreme Court decision that established a right to contraception, reproductive rights advocates are pressing for new protections at the state level.  <a href="https://nyti.ms/42LVdFT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 17, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Nevada, DeSantis Sells Republicans on Ending ‘Culture of Losing’</h3>
+<sub>By Neil Vigdor</sub>
+<p>Gov. Ron DeSantis of Florida avoided mentioning Donald Trump at a G.O.P. fund-raiser in Nevada, but he took clear aim at the former president.  <a href="https://nyti.ms/3qQEcx7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, June 17, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>The Taliban Government Runs on WhatsApp. There’s Just One Problem.</h3>
 <sub>By Christina Goldbaum and Safiullah Padshah</sub>
 <p>The Taliban administration is stuck in a cat-and-mouse game with WhatsApp, which is off-limits to the nascent government because of U.S. sanctions.  <a href="https://nyti.ms/43LqiKX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>What a Commissioner’s Abrupt Exit Says About the N.Y.P.D. Under Adams</h3>
-<sub>By Maria Cramer and Chelsia Rose Marcius</sub>
-<p>The next N.Y.P.D. commissioner will have to contend with the mayor, a wary police force eager for clear leadership and a city worried about both crime and the use of force.  <a href="https://nyti.ms/3NeGgWV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, June 17, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>The New War on Bad Air</h3>
 <sub>By Emily Anthes</sub>
 <p>A century ago, a well-ventilated building was considered good medicine. But by the time Covid-19 arrived, our buildings could barely breathe. How did that happen? And how do we let the fresh air back in?  <a href="https://nyti.ms/43KVVVc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, June 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Uganda School Attack Leaves at Least 37 Dead</h3>
-<sub>By Abdi Latif Dahir</sub>
-<p>The authorities attribute the attack, one of the deadliest in years, to the Allied Democratic Forces, an extremist group based in neighboring Congo.  <a href="https://nyti.ms/3CBhco8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
