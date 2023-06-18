@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, June 18, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. In Russia, military tactics are changing after costly mistakes in past conflicts, and in Canada, wildfires are taking over vast parts of the country. In the US, a scathing report on the Minneapolis police has revealed many worrying findings and advocates are pushing for new birth control rights after recent Supreme Court decisions. Additionally, US Secretary of State Blinken is about to visit Beijing, with a clashing set of agendas between two nations. Health care is also facing an ethical crisis after corporate takeover and high noise pollution has been linked with early death. Lastly, there’s some exciting news here at home: New York City restaurants have started reopening this summer - perfect for trying out new places with friends!</p>
+Right now, a lot is happening in the world. In Ukraine, an ongoing counteroffensive to retake territory from Russia is continuing, and Ukrainian forces have claimed they destroyed a Russian ammunition dump in the process. In the US, Florida Governor Ron DeSantis is making moves to appeal to younger voters, pressing Republicans to end what he calls a &quot;culture of losing&quot;. In California, heavy rain has caused river currents to become too dangerous, leading to a ban on recreational activities. In business, there&#39;s been a mystery surrounding the downfall of a rising star in the field of cryptocurrency law. Closer to home in NYC, tensions between the city and its suburbs over crime, immigration and other issues have increased since the pandemic began. </p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>An Inside Job</h3>
@@ -69,28 +69,16 @@ There is a lot happening in the world right now. In Russia, military tactics are
 <sub><sub>Friday, June 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia, Learning From Costly Mistakes, Shifts Battlefield Tactics</h3>
-<sub>By Thomas Gibbons-Neff, Julian E. Barnes and Natalia Yermak</sub>
-<p>Moscow’s forces remain uneven. But while bracing for a counteroffensive, they have improved discipline, coordination and air support, foreshadowing a changing war.  <a href="https://nyti.ms/3PifRdJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, June 17, Central Standard Time</sub></sub>
+<h3>Ukrainian Forces Claim Strike on Russian Ammunition Dump as Counteroffensive Continues</h3>
+<sub>By Matthew Mpoke Bigg</sub>
+<p>Kyiv said Sunday that its forces had destroyed the facility in a Russian-occupied area of the south, where Ukraine has been fighting to recapture territory.  <a href="https://nyti.ms/42N06yg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, June 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Scathing Report on Police Leaves Minneapolis Reeling 3 Years After Floyd Murder</h3>
-<sub>By Ernesto Londoño and Dan Simmons</sub>
-<p>The Justice Department’s devastating findings left the city searching for next steps. Some residents found little closure.  <a href="https://nyti.ms/3NAUumD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, June 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Here Are the Most Significant Findings Against the Minneapolis Police</h3>
-<sub>By Mitch Smith, Ernesto Londoño and Glenn Thrush</sub>
-<p>The key findings in the report echo complaints that some Minneapolis residents have made for years. The report could lead to a court-enforced consent decree.  <a href="https://nyti.ms/3Ji2l60"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Year After Dobbs, Advocates Push in the States for a Right to Birth Control</h3>
-<sub>By Sheryl Gay Stolberg</sub>
-<p>After Justice Clarence Thomas cast doubt on the Supreme Court decision that established a right to contraception, reproductive rights advocates are pressing for new protections at the state level.  <a href="https://nyti.ms/42LVdFT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, June 17, Central Standard Time</sub></sub>
+<h3>Ron DeSantis Is Young, Has Little Kids and Wants America to Know It</h3>
+<sub>By Nicholas Nehamas and Ruth Igielnik</sub>
+<p>At 44, he is more than three decades younger than Donald Trump and Joe Biden. He is subtly playing up that age gap, even if his right-wing views leave him out of step with many younger voters.  <a href="https://nyti.ms/431weP7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, June 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In Nevada, DeSantis Sells Republicans on Ending ‘Culture of Losing’</h3>
@@ -98,41 +86,53 @@ There is a lot happening in the world right now. In Russia, military tactics are
 <p>Gov. Ron DeSantis of Florida avoided mentioning Donald Trump at a G.O.P. fund-raiser in Nevada, but he took clear aim at the former president.  <a href="https://nyti.ms/3qQEcx7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Taliban Government Runs on WhatsApp. There’s Just One Problem.</h3>
-<sub>By Christina Goldbaum and Safiullah Padshah</sub>
-<p>The Taliban administration is stuck in a cat-and-mouse game with WhatsApp, which is off-limits to the nascent government because of U.S. sanctions.  <a href="https://nyti.ms/43LqiKX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>As Trump Battles Charges, Biden Focuses on the Business of Governing</h3>
+<sub>By Zolan Kanno-Youngs</sub>
+<p>The past week appears to provide a blueprint for the way the White House wants to handle the politically touchy subject of former President Donald J. Trump’s legal troubles.  <a href="https://nyti.ms/3Xh6Mns"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, June 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>He Went After Crypto Companies. Then Someone Came After Him.</h3>
+<sub>By John Carreyrou</sub>
+<p>Kyle Roche was a rising star in the field of cryptocurrency law — until his career imploded. Who orchestrated his downfall?  <a href="https://nyti.ms/3XkUOJl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, June 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>What’s Behind the Widening Divide Between New York City and Its Suburbs?</h3>
+<sub>By Jesse McKinley</sub>
+<p>Tension between the city and its surrounding areas over issues like crime, immigration and congestion pricing has grown since the pandemic.  <a href="https://nyti.ms/444WCIF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, June 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>The ‘Fiercely Loyal’ Adams Adviser Agitating From Inside City Hall</h3>
+<sub>By Brian M. Rosenthal and Jeffery C. Mays</sub>
+<p>Ingrid Lewis-Martin may be the second most powerful person in New York City government. But her views, leadership style and ethics have raised questions.  <a href="https://nyti.ms/3PAQt35"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, June 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Why It Seems Everything We Knew About the Global Economy Is No Longer True</h3>
+<sub>By Patricia Cohen</sub>
+<p>While the world’s eyes were on the pandemic, the war in Ukraine and China, the paths to prosperity and shared interests have grown murkier.  <a href="https://nyti.ms/3Poypcl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, June 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Scathing Report on Police Leaves Minneapolis Reeling 3 Years After Floyd Murder</h3>
+<sub>By Ernesto Londoño and Dan Simmons</sub>
+<p>The Justice Department’s devastating findings left the city searching for next steps. Some residents found little closure.  <a href="https://nyti.ms/3NAUumD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>The New War on Bad Air</h3>
-<sub>By Emily Anthes</sub>
-<p>A century ago, a well-ventilated building was considered good medicine. But by the time Covid-19 arrived, our buildings could barely breathe. How did that happen? And how do we let the fresh air back in?  <a href="https://nyti.ms/43KVVVc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, June 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘The Fires Here Are Unstoppable’</h3>
-<sub>By Norimitsu Onishi and Renaud Philippe</sub>
-<p>The first foreign firefighters to reach Quebec amid Canada’s worst wildfire season on record said that some of the blazes were 100 times bigger than any they had ever seen.  <a href="https://nyti.ms/42N2vt5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, June 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In China, Blinken Faces Clashing Agendas and a Question: Will Xi Show Up?</h3>
-<sub>By Edward Wong and David Pierson</sub>
-<p>There’s much to talk about, but it’s not clear if it will be constructive. Meetings in Beijing will offer clues as to whether the two nations can smooth over tensions.  <a href="https://nyti.ms/3NbWQHe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, June 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>The Moral Crisis of America’s Doctors</h3>
-<sub>By Eyal Press</sub>
-<p>The corporatization of health care has changed the practice of medicine, causing many physicians to feel alienated from their work.  <a href="https://nyti.ms/3COcB2l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The Weekender</h3>
-<sub></sub>
-<p>How noise could take years off your life. Also in this edition: where to eat in New York City this summer, and the hunt for the Idaho killer.  <a href="https://nyti.ms/46bEuP1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>The Dad Canon (Circa Now)</h3>
+<sub>By Joseph Bernstein</sub>
+<p>Our highly specific, clearly subjective taxonomy of what today’s dads can’t stop wearing, reading, and talking about.  <a href="https://nyti.ms/3Nz3RDj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>After a Winter Deluge, California Rivers Are Too Dangerous to Enjoy</h3>
+<sub>By Jill Cowan</sub>
+<p>Several counties have banned recreation on rivers that flow from the Sierra Nevada because of swift currents and fatalities.  <a href="https://nyti.ms/3CAowAs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, June 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
