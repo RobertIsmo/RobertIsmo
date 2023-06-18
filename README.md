@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Saturday, June 17, Central Standard Time</p>
+<p>It is Sunday, June 18, Central Standard Time</p>
 <p>
-There is a lot going on around the world right now. In Ukraine, they are bracing for possible disease outbreaks as floodwaters recede and trying to take back Russian territory in a counteroffensive. Russia has shifted their battlefield tactics, improving discipline and coordination. In Canada, they are facing the worst wildfire season on record, and foreign firefighters have arrived to help combat the fires. In Beijing, US Secretary of State Blinken will be chatting with Chinese officials to smooth over their tensions. In Minneapolis, there is a scathing report released by the Justice Department detailing police activity, which has left residents searching for next steps. And in Nevada, Governor DeSantis is rallying Republicans to end their &quot;culture of losing&quot;. Health care has also changed dramatically, with the corporatization of medicine leaving many physicians feeling alienated from their work.</p>
+At the moment, there are a lot of interesting news stories around the world that could be worth discussing. In Russia, the government is making changes to their battlefield tactics in order to be better prepared for war. Meanwhile in Minneapolis, a damning report on police brutality has left the city reeling three years after George Floyd&#39;s murder. Advocates in the United States are pushing for a right to birth control following Justice Clarence Thomas&#39; doubt cast on the Supreme Court decision that established this right. In Nevada, Governor Ron DeSantis is selling Republicans on ending &quot;a culture of losing&quot;. In Canada, there are wildfires raging and foreign firefighters are tasked with containing it. China and U.S. have contrasting agendas which will be discussed during Beijing meetings with Secretary of State Antony Blinken. Domestically, doctors are facing a moral crisis with the corporatization of health care changing what it means to practice medicine. Lastly, The Weekender discusses noise pollution and how it can take years off your life, as well as where to eat in NYC this summer and the hunt for an Idaho killer.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>An Inside Job</h3>
@@ -72,12 +72,6 @@ There is a lot going on around the world right now. In Ukraine, they are bracing
 <h3>Russia, Learning From Costly Mistakes, Shifts Battlefield Tactics</h3>
 <sub>By Thomas Gibbons-Neff, Julian E. Barnes and Natalia Yermak</sub>
 <p>Moscow’s forces remain uneven. But while bracing for a counteroffensive, they have improved discipline, coordination and air support, foreshadowing a changing war.  <a href="https://nyti.ms/3PifRdJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, June 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Floodwaters Recede, Ukrainian Authorities Brace for Possible Disease Outbreaks</h3>
-<sub>By Megan Specia</sub>
-<p>Concerns about waterborne illnesses pose another challenge for Ukrainian officials as they report slow progress in the early stages of a counteroffensive aimed at taking back Russian territory.  <a href="https://nyti.ms/3NxllQs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -133,6 +127,12 @@ There is a lot going on around the world right now. In Ukraine, they are bracing
 <sub>By Eyal Press</sub>
 <p>The corporatization of health care has changed the practice of medicine, causing many physicians to feel alienated from their work.  <a href="https://nyti.ms/3COcB2l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The Weekender</h3>
+<sub></sub>
+<p>How noise could take years off your life. Also in this edition: where to eat in New York City this summer, and the hunt for the Idaho killer.  <a href="https://nyti.ms/46bEuP1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
