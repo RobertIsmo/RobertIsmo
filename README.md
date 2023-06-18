@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, June 17, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In Russia, forces have improved discipline and coordination to better handle a potential counteroffensive. In Ukraine, officials are dealing with possible disease outbreaks that could come along with receding floodwaters. In the U.S., there is an attempt at getting a consent decree affecting policing, while Biden administration is engaging in a long-shot attempt for a Saudi-Israel deal. Additionally, advocates are pushing for right to birth control in the aftermath of one of Justice Thomas&#39;s decisions. Meanwhile, the abrupt exit of N.Y.P.D commissioner reveals much about oversight dynamics under Mayor Adams. Additionally, air quality has become an issue of debate as buildings struggle to breathe amidst Covid-19 protocols; Ugandan school attack leaves at least 37 dead, and foreign firefighters are aiding Canada in its worst wildfire season on record. Finally, Lorrie Moore is making waves in literary culture with her short stories and novel—which are focusing on art and not autobiography.</p>
+There&#39;s a lot going on in the world right now. In Russia, its forces have improved their battlefield tactics and are bracing for a counteroffensive, while in Ukraine, officials are preparing for possible disease outbreaks as floodwaters recede. Here in the US, Minneapolis is reeling from a scathing report on its police that was released 3 years after George Floyd was murdered, and reproductive rights advocates are pushing states to strengthen protections in light of Clarence Thomas&#39; casting doubt on the Supreme Court&#39;s decision to establish a right to contraception. In Afghanistan, the Taliban is running its government using WhatsApp, but U.S. sanctions are preventing it from doing so effectively. In Uganda, an attack by an extremist group has left at least 37 dead, and in Canada there are wildfires that have been described as 100 times bigger than any firefighters had ever seen before. China and the US are having meetings about smoothing over tensions, but it&#39;s unclear if it will be constructive. Doctors in the US are facing a moral crisis because of health care corporatization making them feel alienated from their work.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Russia, Learning From Costly Mistakes, Shifts Battlefield Tactics</h3>
@@ -75,9 +75,9 @@ There is a lot going on in the world right now. In Russia, forces have improved 
 <sub><sub>Saturday, June 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Consent Decrees Force Changes to Policing. But Do Reforms Last?</h3>
-<sub>By Shaila Dewan</sub>
-<p>The Minneapolis Police may agree to court-enforced federal oversight. Experts say it can lead to improvements, though defining success can be difficult.  <a href="https://nyti.ms/3PcX2sg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Scathing Report on Police Leaves Minneapolis Reeling 3 Years After Floyd Murder</h3>
+<sub>By Ernesto Londoño and Dan Simmons</sub>
+<p>The Justice Department’s devastating findings left the city searching for next steps. Some residents found little closure.  <a href="https://nyti.ms/3NAUumD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -87,15 +87,15 @@ There is a lot going on in the world right now. In Russia, forces have improved 
 <sub><sub>Friday, June 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Administration Engages in Long-Shot Attempt for Saudi-Israel Deal</h3>
-<sub>By Mark Mazzetti, Ronen Bergman, Edward Wong and Vivian Nereim</sub>
-<p>The president and his aides are pressing an aggressive diplomatic effort as Riyadh makes significant demands in exchange for normalization, including a nuclear deal and a robust U.S. security pact.  <a href="https://nyti.ms/42J8uPy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, June 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A Year After Dobbs, Advocates Push in the States for a Right to Birth Control</h3>
 <sub>By Sheryl Gay Stolberg</sub>
 <p>After Justice Clarence Thomas cast doubt on the Supreme Court decision that established a right to contraception, reproductive rights advocates are pressing for new protections at the state level.  <a href="https://nyti.ms/42LVdFT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, June 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The Taliban Government Runs on WhatsApp. There’s Just One Problem.</h3>
+<sub>By Christina Goldbaum and Safiullah Padshah</sub>
+<p>The Taliban administration is stuck in a cat-and-mouse game with WhatsApp, which is off-limits to the nascent government because of U.S. sanctions.  <a href="https://nyti.ms/43LqiKX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -122,17 +122,17 @@ There is a lot going on in the world right now. In Russia, forces have improved 
 <p>The first foreign firefighters to reach Quebec amid Canada’s worst wildfire season on record said that some of the blazes were 100 times bigger than any they had ever seen.  <a href="https://nyti.ms/42N2vt5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Lorrie Moore Will Not Confess</h3>
-<sub>By Dan Kois</sub>
-<p>In a literary culture obsessed with self-disclosure, her brilliant short stories — and, now, a new novel — have always been about art, not autobiography.  <a href="https://nyti.ms/466GcBl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In China, Blinken Faces Clashing Agendas and a Question: Will Xi Show Up?</h3>
+<sub>By Edward Wong and David Pierson</sub>
+<p>There’s much to talk about, but it’s not clear if it will be constructive. Meetings in Beijing will offer clues as to whether the two nations can smooth over tensions.  <a href="https://nyti.ms/3NbWQHe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Again Has Union Support. But the Unions Look Different This Time.</h3>
-<sub>By Reid J. Epstein</sub>
-<p>At a rally on Saturday hosted by the A.F.L.-C.I.O., President Biden enjoyed a warm reception. But changes in union membership mean that he still has work to do.  <a href="https://nyti.ms/3PgMIzm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, June 17, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>The Moral Crisis of America’s Doctors</h3>
+<sub>By Eyal Press</sub>
+<p>The corporatization of health care has changed the practice of medicine, causing many physicians to feel alienated from their work.  <a href="https://nyti.ms/3COcB2l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
