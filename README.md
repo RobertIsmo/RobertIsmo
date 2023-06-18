@@ -60,10 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, June 18, Central Standard Time</p>
 <p>
-There is a lot of news happening around the world right now. In Ukraine, there is a counteroffensive occurring and Kyiv&#39;s forces have retaken another village. In Uganda there was a deadly terrorist attack that killed many people. Back in the US, Governor Ron DeSantis of Florida has been selling Republicans on ending the &#39;culture of losing&#39; and former President Donald Trump is currently facing charges. Meanwhile, in California there have been restrictions put on rivers due to deluges this winter and the swift currents are dangerous. Finally, there are interesting stories about technology and fashion covering the dad canon of today.</p>
+Currently, there is a lot of political upheaval happening around the world. In Russia, there is evidence that suggests that the Kakhovka Dam was destroyed from within, while in Ukraine, Kyiv&#39;s forces have been fighting to retake territory from Russian forces. Meanwhile, in the US, both presidential candidates have been playing up their age difference to voters. Donald Trump is also facing legal charges, while Joe Biden is focusing on governing the country. Additionally, in the cryptocurrency industry there have been reports of people trying to sabotage others and sway public opinion. In terms of global economics, it appears like many of the rules and guidelines have changed due to events such as the pandemic, war and China&#39;s policies. 
+
+On a different note, style-wise today&#39;s dads seem to be gravitating towards certain trends (like pastel polo shirts). There&#39;s also been some terrible news regarding a terrorist act that occurred in Uganda recently. 
+
+Finally, California rivers are too dangerous for recreational activities this winter and a celebrity is speaking out against body shaming. Meanwhile in Los Angeles people are creating &quot;hedges&quot; for privacy reasons - though it&#39;s actually good for the environment!</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>An Inside Job</h3>
+<h3>Why the Evidence Suggests Russia Blew Up the Kakhovka Dam</h3>
 <sub>By James Glanz, Marc Santora, Pablo Robles, Haley Willis, Lauren Leatherby, Christoph Koettl and Dmitriy Khavin</sub>
 <p>The Kakhovka dam was designed to withstand almost any attack imaginable — from the outside. An inside job was another matter.  <a href="https://nyti.ms/3Nc5R2W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 16, Central Standard Time</sub></sub>
@@ -81,12 +85,6 @@ There is a lot of news happening around the world right now. In Ukraine, there i
 <sub><sub>Sunday, June 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Nevada, DeSantis Sells Republicans on Ending ‘Culture of Losing’</h3>
-<sub>By Neil Vigdor</sub>
-<p>Gov. Ron DeSantis of Florida avoided mentioning Donald Trump at a G.O.P. fund-raiser in Nevada, but he took clear aim at the former president.  <a href="https://nyti.ms/3qQEcx7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, June 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>As Trump Battles Charges, Biden Focuses on the Business of Governing</h3>
 <sub>By Zolan Kanno-Youngs</sub>
 <p>The past week appears to provide a blueprint for the way the White House wants to handle the politically touchy subject of former President Donald J. Trump’s legal troubles.  <a href="https://nyti.ms/3Xh6Mns"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -98,28 +96,10 @@ There is a lot of news happening around the world right now. In Ukraine, there i
 <p>Kyle Roche was a rising star in the field of cryptocurrency law — until his career imploded. Who orchestrated his downfall?  <a href="https://nyti.ms/3XkUOJl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, June 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>What’s Behind the Widening Divide Between New York City and Its Suburbs?</h3>
-<sub>By Jesse McKinley</sub>
-<p>Tension between the city and its surrounding areas over issues like crime, immigration and congestion pricing has grown since the pandemic.  <a href="https://nyti.ms/444WCIF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, June 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>The ‘Fiercely Loyal’ Adams Adviser Agitating From Inside City Hall</h3>
-<sub>By Brian M. Rosenthal and Jeffery C. Mays</sub>
-<p>Ingrid Lewis-Martin may be the second most powerful person in New York City government. But her views, leadership style and ethics have raised questions.  <a href="https://nyti.ms/3PAQt35"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, June 18, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Why It Seems Everything We Knew About the Global Economy Is No Longer True</h3>
 <sub>By Patricia Cohen</sub>
 <p>While the world’s eyes were on the pandemic, the war in Ukraine and China, the paths to prosperity and shared interests have grown murkier.  <a href="https://nyti.ms/3Poypcl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, June 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘A Terrible Tragedy’: Uganda Reels From Deadly Terrorist Attack</h3>
-<sub>By Abdi Latif Dahir</sub>
-<p>It was one of the worst terrorist acts to hit the nation in decades, as militants burned down dormitories with students still inside and hacked others to death.  <a href="https://nyti.ms/3NhV9I6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, June 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
@@ -128,11 +108,35 @@ There is a lot of news happening around the world right now. In Ukraine, there i
 <p>Our highly specific, clearly subjective taxonomy of what today’s dads can’t stop wearing, reading, and talking about.  <a href="https://nyti.ms/3Nz3RDj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 16, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘A Terrible Tragedy’: Uganda Reels From Deadly Terrorist Attack</h3>
+<sub>By Abdi Latif Dahir</sub>
+<p>It was one of the worst terrorist acts to hit the nation in decades, as militants burned down dormitories with students still inside and hacked others to death.  <a href="https://nyti.ms/3NhV9I6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, June 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Lionel Messi, Saudi Arabia and the Deal That Paid Off for Both Sides</h3>
+<sub>By Karim Zidan and Tariq Panja</sub>
+<p>A contract between Messi and Saudi Arabia’s tourism authority offers a glimpse at the details of their multimillion-dollar relationship.  <a href="https://nyti.ms/3Ncq8Wc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, June 18, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>After a Winter Deluge, California Rivers Are Too Dangerous to Enjoy</h3>
 <sub>By Jill Cowan</sub>
 <p>Several counties have banned recreation on rivers that flow from the Sierra Nevada because of swift currents and fatalities.  <a href="https://nyti.ms/3CAowAs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, June 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Samantha Irby Says It’s OK to Hate Your Body</h3>
+<sub>By David Marchese</sub>
+<p>“The tyranny around loving yourself is bonkers to me,” says the best-selling author and writer for “And Just Like That.”  <a href="https://nyti.ms/3Nh1NP3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, June 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-realestate-blue" alt="">
+<h3>Hiding Behind the Hedges</h3>
+<sub>By Debra Kamin</sub>
+<p>In Los Angeles, the wealthy will pay a fortune to protect their private lives from prying eyes. At least leafy green walls are good for the environment.  <a href="https://nyti.ms/3NxyV6l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
