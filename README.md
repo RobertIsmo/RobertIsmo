@@ -58,10 +58,22 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Sunday, June 18, Central Standard Time</p>
+<p>It is Monday, June 19, Central Standard Time</p>
 <p>
-Right now, the global economy is drastically changing and we&#39;re not really sure what it&#39;ll look like when it comes to prosperity. In Ukraine, there&#39;s been allegations that Russia got into a dam and blew it up, and the Ukrainian forces are on a counteroffensive. Here in America, Ron DeSantis who is only 44, has been trying to play up his age gap with Biden and Trump and make sure people know he&#39;s young. Former Attorney General Barr also recently said that Trump made the documents case against himself. There were reports of former addicts in Indonesia being enslaved after they went in for treatment instead of remorse. And finally, Samantha Irby who is an author made a statement saying it&#39;s ok to hate your body.</p>
+Currently, there is a lot going on around the world. In China, US Secretary of State Antony J. Blinken is having ‘candid’ talks with Beijing’s top foreign policy official in order to try and restart high-level diplomatic relations. There are also questions about the global economy as many of the paths to prosperity have become murkier and unpredictable. In Russia, some evidence suggests that the Kakhovka Dam was blown up by internal forces, not just external attackers.
+
+In the US, Florida Governor Ron Desantis has been playing up his age gap against President Trump and Joe Biden. Meanwhile, Attorney General Barr has reacted to a documents case against President Trump and said it was entirely his own making. On the style front, dads seem to be enjoying more trends lately including reading material and fashion items that you may find interesting! 
+
+Finally, there are reports of addicts being sent to what they thought were rehab facilities in Indonesia, but were actually enslaved instead. Even places like New Zealand are affected by remote workers relocating from different parts of the world as property prices have recently dropped significantly since November 2021. 
+
+Overall, it&#39;s definitely an interesting time in both the US and world at large so it&#39;s worth keeping an eye on developments!</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In China, Blinken Holds ‘Candid’ Talks to Restart High-Level Diplomacy</h3>
+<sub>By Edward Wong and David Pierson</sub>
+<p>The talks between Antony J. Blinken, the secretary of state, and Wang Yi, Beijing’s top foreign policy official, were a prelude to an expected meeting with China’s leader, Xi Jinping.  <a href="https://nyti.ms/42L2s0H"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, June 18, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Why It Seems Everything We Knew About the Global Economy Is No Longer True</h3>
 <sub>By Patricia Cohen</sub>
@@ -73,12 +85,6 @@ Right now, the global economy is drastically changing and we&#39;re not really s
 <sub>By James Glanz, Marc Santora, Pablo Robles, Haley Willis, Lauren Leatherby, Christoph Koettl and Dmitriy Khavin</sub>
 <p>The Kakhovka dam was designed to withstand almost any attack imaginable — from the outside. An inside job was another matter.  <a href="https://nyti.ms/3Nc5R2W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Appears to Make a Small Gain in the South as Counteroffensive Continues</h3>
-<sub>By Matthew Mpoke Bigg and Neil MacFarquhar</sub>
-<p>A Russian official and military bloggers said Sunday that Kyiv’s forces had retaken another village in their fight to recapture territory, a claim the Russian Defense Ministry denied.  <a href="https://nyti.ms/42N06yg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, June 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Ron DeSantis Is Young, Has Little Kids and Wants America to Know It</h3>
@@ -110,28 +116,28 @@ Right now, the global economy is drastically changing and we&#39;re not really s
 <p>Yes, many of them went to Austin. But consider the small Salisbury, Md., region, too.  <a href="https://nyti.ms/46bBaDu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>He Went After Crypto Companies. Then Someone Came After Him.</h3>
-<sub>By John Carreyrou</sub>
-<p>Kyle Roche was a rising star in the field of cryptocurrency law — until his career imploded. Who orchestrated his downfall?  <a href="https://nyti.ms/3XkUOJl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, June 18, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Wyndham Clark Captures the U.S. Open</h3>
 <sub>By Alan Blinder</sub>
-<p>Clark, with only one PGA Tour victory — from earlier this year — to his name, seemed to come out of nowhere to dominate the field at Los Angeles Country Club.  <a href="https://nyti.ms/3Jhh7K8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Clark, with only one PGA Tour victory to his name, seemed to come out of nowhere to dominate the field at Los Angeles Country Club.  <a href="https://nyti.ms/3Jhh7K8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, June 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Rory McIlroy Just Misses a Hollywood Ending at the U.S. Open</h3>
+<sub>By Bill Pennington</sub>
+<p>Despite briefly sharing the lead with eventual champion Wyndham Clark, McIlroy settled for second but vowed he would get a fifth major title.  <a href="https://nyti.ms/42OwReG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, June 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Where Housing Prices Have Crashed and Billions in Wealth Have Vanished</h3>
+<sub>By Natasha Frost</sub>
+<p>In New Zealand, high interest rates have sent property prices sliding nearly 18 percent since November 2021.  <a href="https://nyti.ms/3Xcxe1e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, June 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Why the Pentagon Papers Leaker Tried to Get Prosecuted Near His Life’s End</h3>
 <sub>By Charlie Savage</sub>
 <p>When Daniel Ellsberg was 42, a judge threw out Espionage Act charges against him. At 90, he sought such charges again in hope of challenging their constitutionality.  <a href="https://nyti.ms/43LdvIF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, June 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Samantha Irby Says It’s OK to Hate Your Body</h3>
-<sub>By David Marchese</sub>
-<p>“The tyranny around loving yourself is bonkers to me,” says the best-selling author and writer for “And Just Like That.”  <a href="https://nyti.ms/3Nh1NP3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, June 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
