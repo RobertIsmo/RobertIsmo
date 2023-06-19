@@ -60,18 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, June 19, Central Standard Time</p>
 <p>
-Currently, there is a lot going on around the world. In China, US Secretary of State Antony J. Blinken is having ‘candid’ talks with Beijing’s top foreign policy official in order to try and restart high-level diplomatic relations. There are also questions about the global economy as many of the paths to prosperity have become murkier and unpredictable. In Russia, some evidence suggests that the Kakhovka Dam was blown up by internal forces, not just external attackers.
-
-In the US, Florida Governor Ron Desantis has been playing up his age gap against President Trump and Joe Biden. Meanwhile, Attorney General Barr has reacted to a documents case against President Trump and said it was entirely his own making. On the style front, dads seem to be enjoying more trends lately including reading material and fashion items that you may find interesting! 
-
-Finally, there are reports of addicts being sent to what they thought were rehab facilities in Indonesia, but were actually enslaved instead. Even places like New Zealand are affected by remote workers relocating from different parts of the world as property prices have recently dropped significantly since November 2021. 
-
-Overall, it&#39;s definitely an interesting time in both the US and world at large so it&#39;s worth keeping an eye on developments!</p>
+It looks like tensions between China and the US are trying to be managed by Secretary of State Antony J. Blinken&#39;s visit. The global economy has been upended by the pandemic, making everything more complicated and murkier. Evidence suggests the Kakhovka Dam in Ukraine was blown up from inside job. Meanwhile, Florida Governor Ron DeSantis&#39; age gap with Donald Trump and Joe Biden is being played up, despite his views being out of step with many younger voters. Former Attorney General William Barr spoke out about a Trump-related documents case recently. Popular pastimes and interests of dads today were profiled in an article, as well as a story on how some individuals in Indonesia were sent to false rehab centers that ended up being brutal human enslavement ops. There have been huge shifts in housing prices and wealth boundaries due to remote workers relocating around the country. Lastly, there was a US Open championship won by Wyndham Clark, while Rory McIlroy almost made an impressive run for the title and run of former Pentagon Papers leaker Daniel Ellsberg sought prosecution at the end of his life to challenge unconstitutional charges against him.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In China, Blinken Holds ‘Candid’ Talks to Restart High-Level Diplomacy</h3>
+<h3>Blinken Meets Xi as China and the U.S. Try to Manage Tensions</h3>
 <sub>By Edward Wong and David Pierson</sub>
-<p>The talks between Antony J. Blinken, the secretary of state, and Wang Yi, Beijing’s top foreign policy official, were a prelude to an expected meeting with China’s leader, Xi Jinping.  <a href="https://nyti.ms/42L2s0H"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Secretary of State Antony J. Blinken is meeting with Xi Jinping, China’s leader, on a trip aimed at ensuring that competition “does not veer into conflict.”  <a href="https://nyti.ms/42L2s0H"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, June 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
