@@ -60,12 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, June 19, Central Standard Time</p>
 <p>
-There have been a lot of political developments around the world recently. Secretary of State Antony J. Blinken is meeting with Xi Jinping, the leader of China, in an attempt to mitigate tensions between the two countries while Germany and China work to reset their relations after an pause due to the pandemic. In the U.S., Republican leaders are embracing early voting but at odds with former President Donald Trump who opposes it. There are also recent news about Russia trying to kill a CIA spy in Florida and a failed plot in Ukraine to arm themselves with weapons that turned out to be unusable or too broken to use. Lastly, in Argentina inflation has passed the 100% mark, where people are rushing to spend pesos before they become worthless, while their restaurant scene is thriving unexpectedly.</p>
+There&#39;s a lot happening in the world right now. U.S. diplomats are visiting Beijing to find common ground between China and the U.S., as tensions between the two countries increase. Germany and China are trying to reset relations for a changed world, but it may be difficult since the U.S-China relations remain strained. In the U.S., Republican leaders are embracing early voting while Donald Trump has said they have “no choice” but to support voting by mail.  In addition, Russia attempted to kill a CIA defector in Florida last year, which led to expulsions of the agency&#39;s chief in Moscow and his counterpart in Washington. Furthermore, in Ukraine, there is a rush to arm themselves with weapons, some of which are purchased but not delivered or broken to use. Lastly, Russian opposition leader Alexei Navalny has been convicted of extremism and was given extended prison terms.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Blinken Meets Xi as China and the U.S. Try to Rein In Tensions</h3>
+<h3>Blinken Meets Xi as China and the U.S. Try to Rein in Tensions</h3>
 <sub>By Edward Wong and David Pierson</sub>
-<p>Secretary of State Antony J. Blinken met with Xi Jinping, China’s leader, on a trip aimed at ensuring that competition “does not veer into conflict.”  <a href="https://nyti.ms/42L2s0H"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>U.S. diplomats visited Beijing to try to ensure that competition “does not veer into conflict.” The talks pave the way for a possible Biden-Xi meeting.  <a href="https://nyti.ms/42L2s0H"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, June 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -86,16 +86,22 @@ There have been a lot of political developments around the world recently. Secre
 <p>The unexpected polling strength of an anti-vaccine activist with a celebrated Democratic lineage points to the president’s weaknesses, which his team is aiming to shore up.  <a href="https://nyti.ms/43YEuQQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 19, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Russia Sought to Kill Defector in Florida</h3>
+<sub>By Ronen Bergman, Adam Goldman and Julian E. Barnes</sub>
+<p>A failed plot to assassinate a C.I.A. spy in 2020 in part led to expulsions of the agency’s chief in Moscow and his Russian counterpart in Washington.  <a href="https://nyti.ms/42M9TEQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 19, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>In Rush to Arm Ukraine, Weapons Are Bought but Not Delivered, or Too Broken to Use</h3>
 <sub>By Justin Scheck and Lara Jakes</sub>
 <p>Some of the weapons sent to Ukraine by other countries have been unusable, and hundreds of millions of dollars in contracts paid up front have yet to be fulfilled.  <a href="https://nyti.ms/42MxsgT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Russia Sought to Kill Defector in Florida</h3>
-<sub>By Ronen Bergman, Adam Goldman and Julian E. Barnes</sub>
-<p>A failed plot to assassinate a C.I.A. spy in 2020 in part led to expulsions of the agency’s chief in Moscow and his Russian counterpart in Washington.  <a href="https://nyti.ms/42M9TEQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Navalny appears in a Russian court to face new charges of extremism.</h3>
+<sub>By Neil MacFarquhar</sub>
+<p>If convicted, the charges could add decades to the prison terms that the jailed opposition leader is already serving.  <a href="https://nyti.ms/3pg6zUH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
@@ -127,12 +133,6 @@ There have been a lot of political developments around the world recently. Secre
 <sub>By Soumya Karlamangla</sub>
 <p>In California, Bay Area Rapid Transit has suffered so much that it needs a state bailout — and possibly a new business model.  <a href="https://nyti.ms/3N9iv2C"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How Local Officials Seek Revenge on Their Hometown Newspapers</h3>
-<sub>By Emily Flitter</sub>
-<p>When coverage upsets them, towns and counties are revoking newspapers’ lucrative contracts to print public notices.  <a href="https://nyti.ms/3XaHIhL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, June 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
