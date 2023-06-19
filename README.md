@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, June 18, Central Standard Time</p>
 <p>
-It seems like the world is constantly in a state of flux. Right now, we&#39;re seeing shifts in the global economy that nobody predicted, and tensions remain high between China and Ukraine. In Russia, there are investigations underway about whether or not a dam was blown up from the inside. In America, people have been shocked by how young our latest governor is and how out of step some of his views are with younger voters. Our former president has been facing legal issues as a result of documents relating to him. Meanwhile dads everywhere are wearing the same styles, and people around the world are growing aware of human slavery still at work today. There&#39;s also this cryptocurrency legal issue that&#39;s perplexing those involved. Remote workers are changing where people live, even if they mostly seem to be going to Austin for some reason. An American whistleblower is trying to bring attention to an important constitutional issue by seeking new charges against him at 90 years old. Lionel Messi is also making news due to his multimillion-dollar relationship with Saudi Arabia. Samantha Irby is many people&#39;s role model in terms of body-image acceptance, while Los Angeles rich are going to great lengths to block prying eyes out from their homes.</p>
+Right now, the global economy is drastically changing and we&#39;re not really sure what it&#39;ll look like when it comes to prosperity. In Ukraine, there&#39;s been allegations that Russia got into a dam and blew it up, and the Ukrainian forces are on a counteroffensive. Here in America, Ron DeSantis who is only 44, has been trying to play up his age gap with Biden and Trump and make sure people know he&#39;s young. Former Attorney General Barr also recently said that Trump made the documents case against himself. There were reports of former addicts in Indonesia being enslaved after they went in for treatment instead of remorse. And finally, Samantha Irby who is an author made a statement saying it&#39;s ok to hate your body.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Why It Seems Everything We Knew About the Global Economy Is No Longer True</h3>
@@ -73,6 +73,12 @@ It seems like the world is constantly in a state of flux. Right now, we&#39;re s
 <sub>By James Glanz, Marc Santora, Pablo Robles, Haley Willis, Lauren Leatherby, Christoph Koettl and Dmitriy Khavin</sub>
 <p>The Kakhovka dam was designed to withstand almost any attack imaginable — from the outside. An inside job was another matter.  <a href="https://nyti.ms/3Nc5R2W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukraine Appears to Make a Small Gain in the South as Counteroffensive Continues</h3>
+<sub>By Matthew Mpoke Bigg and Neil MacFarquhar</sub>
+<p>A Russian official and military bloggers said Sunday that Kyiv’s forces had retaken another village in their fight to recapture territory, a claim the Russian Defense Ministry denied.  <a href="https://nyti.ms/42N06yg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, June 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Ron DeSantis Is Young, Has Little Kids and Wants America to Know It</h3>
@@ -98,17 +104,23 @@ It seems like the world is constantly in a state of flux. Right now, we&#39;re s
 <p>Families in Indonesia thought they were sending their sons to a rehab facility run by a powerful local official. Those who stayed there say it was a brutal human slavery operation.  <a href="https://nyti.ms/3CGi0bj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, June 18, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>The Places Most Affected by Remote Workers’ Moves Around the Country</h3>
+<sub></sub>
+<p>Yes, many of them went to Austin. But consider the small Salisbury, Md., region, too.  <a href="https://nyti.ms/46bBaDu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, June 17, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>He Went After Crypto Companies. Then Someone Came After Him.</h3>
 <sub>By John Carreyrou</sub>
 <p>Kyle Roche was a rising star in the field of cryptocurrency law — until his career imploded. Who orchestrated his downfall?  <a href="https://nyti.ms/3XkUOJl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, June 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>The Places Most Affected by Remote Workers’ Moves Around the Country</h3>
-<sub></sub>
-<p>Yes, many of them went to Austin. But consider the small Salisbury, Md., region, too.  <a href="https://nyti.ms/46bBaDu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, June 17, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Wyndham Clark Captures the U.S. Open</h3>
+<sub>By Alan Blinder</sub>
+<p>Clark, with only one PGA Tour victory — from earlier this year — to his name, seemed to come out of nowhere to dominate the field at Los Angeles Country Club.  <a href="https://nyti.ms/3Jhh7K8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, June 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Why the Pentagon Papers Leaker Tried to Get Prosecuted Near His Life’s End</h3>
@@ -116,23 +128,11 @@ It seems like the world is constantly in a state of flux. Right now, we&#39;re s
 <p>When Daniel Ellsberg was 42, a judge threw out Espionage Act charges against him. At 90, he sought such charges again in hope of challenging their constitutionality.  <a href="https://nyti.ms/43LdvIF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, June 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Lionel Messi, Saudi Arabia and the Deal That Paid Off for Both Sides</h3>
-<sub>By Karim Zidan and Tariq Panja</sub>
-<p>A contract between Messi and Saudi Arabia’s tourism authority offers a glimpse at the details of their multimillion-dollar relationship.  <a href="https://nyti.ms/3Ncq8Wc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, June 18, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
 <h3>Samantha Irby Says It’s OK to Hate Your Body</h3>
 <sub>By David Marchese</sub>
 <p>“The tyranny around loving yourself is bonkers to me,” says the best-selling author and writer for “And Just Like That.”  <a href="https://nyti.ms/3Nh1NP3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, June 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-realestate-blue" alt="">
-<h3>Hiding Behind the Hedges</h3>
-<sub>By Debra Kamin</sub>
-<p>In Los Angeles, the wealthy will pay a fortune to protect their private lives from prying eyes. At least leafy green walls are good for the environment.  <a href="https://nyti.ms/3NxyV6l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
