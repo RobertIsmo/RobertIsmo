@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, June 19, Central Standard Time</p>
 <p>
-There&#39;s a lot happening in the world right now. U.S. diplomats are visiting Beijing to find common ground between China and the U.S., as tensions between the two countries increase. Germany and China are trying to reset relations for a changed world, but it may be difficult since the U.S-China relations remain strained. In the U.S., Republican leaders are embracing early voting while Donald Trump has said they have “no choice” but to support voting by mail.  In addition, Russia attempted to kill a CIA defector in Florida last year, which led to expulsions of the agency&#39;s chief in Moscow and his counterpart in Washington. Furthermore, in Ukraine, there is a rush to arm themselves with weapons, some of which are purchased but not delivered or broken to use. Lastly, Russian opposition leader Alexei Navalny has been convicted of extremism and was given extended prison terms.</p>
+There is a lot happening in the world right now. U.S. diplomats recently visited Beijing to discuss potential conflict between the U.S. and China. Secretary of State Antony Blinken also expressed concerns over possible military support from Chinese companies to Russia. Additionally, there was an attempted assassination of a CIA spy in Russia last year that led to both the agency&#39;s chief in Moscow being expelled and his Russian counterpart in Washington. Furthermore, countries are rushing to arm Ukraine with weapons, but some of them have been too broken to use or not delivered yet. Lastly, Russian opposition leader Aleksei Navalny is currently on trial again with potential decades of jail time looming over him.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Blinken Meets Xi as China and the U.S. Try to Rein in Tensions</h3>
@@ -69,27 +69,27 @@ There&#39;s a lot happening in the world right now. U.S. diplomats are visiting 
 <sub><sub>Sunday, June 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Germany and China Try to Reset Relations for a Changed World</h3>
-<sub>By Erika Solomon and Nicole Hong</sub>
-<p>This week the two countries will restart government consultations after a pandemic hiatus, but amid the war in Ukraine and rising U.S., Chinese tensions, common ground may be elusive.  <a href="https://nyti.ms/43MGRX8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>G.O.P. Leaders Embrace Early Voting, but Will Their Base Get on Board?</h3>
-<sub>By Neil Vigdor</sub>
-<p>Former President Donald J. Trump has said that until Republicans gain power and can change the law, they have “no choice” but to support voting by mail.  <a href="https://nyti.ms/3CyHszs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Why Robert Kennedy Jr.’s 2024 Bid Is a Headache for Biden</h3>
-<sub>By Reid J. Epstein</sub>
-<p>The unexpected polling strength of an anti-vaccine activist with a celebrated Democratic lineage points to the president’s weaknesses, which his team is aiming to shore up.  <a href="https://nyti.ms/43YEuQQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>The U.S. worries about private Chinese companies aiding Russia, Blinken says.</h3>
+<sub>By Edward Wong</sub>
+<p>Secretary of State Antony J. Blinken said he urged Chinese officials “to be vigilant” as Washington continues to express concerns over possible military support to Russia.  <a href="https://nyti.ms/3Xc8w1d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Russia Sought to Kill Defector in Florida</h3>
 <sub>By Ronen Bergman, Adam Goldman and Julian E. Barnes</sub>
 <p>A failed plot to assassinate a C.I.A. spy in 2020 in part led to expulsions of the agency’s chief in Moscow and his Russian counterpart in Washington.  <a href="https://nyti.ms/42M9TEQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How Classified Evidence Could Complicate the Trump Documents Case</h3>
+<sub>By Charlie Savage</sub>
+<p>Prosecutors and defense lawyers appear to be preparing for a pretrial fight over showing sensitive evidence to the jury and the public.  <a href="https://nyti.ms/3JkMZ0l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>‘I Can’t Continue This Fight Any Longer’</h3>
+<sub>By Jonathan Abrams</sub>
+<p>Why Tyrell Terry walked away from basketball, the millions of dollars that came with it and the identity he had spent his whole life building.  <a href="https://nyti.ms/3CBIrPC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -99,27 +99,33 @@ There&#39;s a lot happening in the world right now. U.S. diplomats are visiting 
 <sub><sub>Monday, June 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Navalny appears in a Russian court to face new charges of extremism.</h3>
+<h3>Jailed Russian Opposition Leader Navalny Goes on Trial Again</h3>
 <sub>By Neil MacFarquhar</sub>
-<p>If convicted, the charges could add decades to the prison terms that the jailed opposition leader is already serving.  <a href="https://nyti.ms/3pg6zUH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The new extremism charges could add decades to the prison terms that Aleksei Navalny is already serving.  <a href="https://nyti.ms/3pg6zUH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>For Black Debutantes in Detroit, Cotillion Is More Than a Ball</h3>
-<sub>By Miranda Barnes and Charlie Brinkhurst-Cuff</sub>
-<p>The Cotillion Society of Detroit teaches girls not just dance and etiquette but also leadership skills and financial literacy, preparing them to be poised, empowered adults.  <a href="https://nyti.ms/3p4V2aW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Argentina, Inflation Passes 100% (and the Restaurants Are Packed)</h3>
-<sub>By Natalie Alcoba and Sarah Pabst</sub>
-<p>Argentina’s financial crisis has a surprising side effect: a flourishing dining scene in Buenos Aires, as residents rush to spend pesos before they lose more value.  <a href="https://nyti.ms/3CBCYIz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>These Cowboys Build a New Juneteenth Tradition at a Rodeo in Portland</h3>
+<sub>By Brent Lewis and Eduardo Medina</sub>
+<p>The cowboy is “a shorthand for independence and grit and all of these things about America,” an organizer said. “But then you combine it with Black culture, and it just wiggles your brain.”  <a href="https://nyti.ms/46cmfJl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-espanol-blue" alt="">
-<h3>En Argentina, la inflación supera el 100 por ciento (y los restaurantes están llenos)</h3>
-<sub>By Natalie Alcoba and Sarah Pabst</sub>
-<p>La crisis financiera argentina tiene un efecto secundario sorprendente: un floreciente panorama gastronómico en Buenos Aires, ya que los residentes se apresuran a gastar pesos antes de que pierdan más valor.  <a href="https://nyti.ms/3JmKHy2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Juneteenth: The History of a Holiday</h3>
+<sub>By Derrick Bryson Taylor</sub>
+<p>On June 19, 1865, enslaved African Americans in Texas were told they were free. A century and a half later, people across the United States continue to celebrate the day, which is now a federal holiday.  <a href="https://nyti.ms/30FFDPA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>G.O.P. Targets Researchers Who Study Disinformation Ahead of 2024 Election</h3>
+<sub>By Steven Lee Myers and Sheera Frenkel</sub>
+<p>A legal campaign against universities and think tanks seeks to undermine the fight against false claims about elections, vaccines and other hot political topics.  <a href="https://nyti.ms/3NgFBUT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Why Robert Kennedy Jr.’s 2024 Bid Is a Headache for Biden</h3>
+<sub>By Reid J. Epstein</sub>
+<p>The unexpected polling strength of an anti-vaccine activist with a celebrated Democratic lineage points to the president’s weaknesses, which his team is aiming to shore up.  <a href="https://nyti.ms/43YEuQQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-upshot-blue" alt="">
@@ -127,12 +133,6 @@ There&#39;s a lot happening in the world right now. U.S. diplomats are visiting 
 <sub></sub>
 <p>Yes, many of them went to Austin. But consider the small Salisbury, Md., region, too.  <a href="https://nyti.ms/46bBaDu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>With Commuters Staying Home, Transit Agencies Try to Reinvent Themselves</h3>
-<sub>By Soumya Karlamangla</sub>
-<p>In California, Bay Area Rapid Transit has suffered so much that it needs a state bailout — and possibly a new business model.  <a href="https://nyti.ms/3N9iv2C"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 19, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
