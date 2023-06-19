@@ -60,12 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, June 18, Central Standard Time</p>
 <p>
-Recently, the world has been dealing with a lot of different issues. In the business realm, it looks like many of the economies around the world are facing an unclear future and potential new problems that have come up since the pandemic. On the international stage, we&#39;ve seen tensions rise between countries like Russia and Ukraine as Russia is suspected of taking actions against Ukraine such as blowing up the Kakhovka dam and launching a counteroffensive against Ukraine. Closer to home, both former President Donald Trump and President Joe Biden have made headlines recently for different topics - Trump for certain criminal charges, and Biden for focusing on governing in spite of this. Lastly, there have also been some sports-related news such as Lionel Messi&#39;s multi-million-dollar contract with Saudi Arabia&#39;s tourism authority.</p>
+It seems like the world is constantly in a state of flux. Right now, we&#39;re seeing shifts in the global economy that nobody predicted, and tensions remain high between China and Ukraine. In Russia, there are investigations underway about whether or not a dam was blown up from the inside. In America, people have been shocked by how young our latest governor is and how out of step some of his views are with younger voters. Our former president has been facing legal issues as a result of documents relating to him. Meanwhile dads everywhere are wearing the same styles, and people around the world are growing aware of human slavery still at work today. There&#39;s also this cryptocurrency legal issue that&#39;s perplexing those involved. Remote workers are changing where people live, even if they mostly seem to be going to Austin for some reason. An American whistleblower is trying to bring attention to an important constitutional issue by seeking new charges against him at 90 years old. Lionel Messi is also making news due to his multimillion-dollar relationship with Saudi Arabia. Samantha Irby is many people&#39;s role model in terms of body-image acceptance, while Los Angeles rich are going to great lengths to block prying eyes out from their homes.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Why It Seems Everything We Knew About the Global Economy Is No Longer True</h3>
 <sub>By Patricia Cohen</sub>
-<p>While the world’s eyes were on the pandemic, the war in Ukraine and China, the paths to prosperity and shared interests have grown murkier.  <a href="https://nyti.ms/3Poypcl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>While the world’s eyes were on the pandemic, China and the war in Ukraine, the paths to prosperity and shared interests have grown murkier.  <a href="https://nyti.ms/3Poypcl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, June 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -74,12 +74,6 @@ Recently, the world has been dealing with a lot of different issues. In the busi
 <p>The Kakhovka dam was designed to withstand almost any attack imaginable — from the outside. An inside job was another matter.  <a href="https://nyti.ms/3Nc5R2W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Appears to Make a Small Gain in the South as Counteroffensive Continues</h3>
-<sub>By Matthew Mpoke Bigg and Neil MacFarquhar</sub>
-<p>A Russian official and military bloggers said Sunday that Kyiv’s forces had retaken another village in their fight to recapture territory, a claim the Russian Defense Ministry denied.  <a href="https://nyti.ms/42N06yg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, June 18, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Ron DeSantis Is Young, Has Little Kids and Wants America to Know It</h3>
 <sub>By Nicholas Nehamas and Ruth Igielnik</sub>
@@ -87,21 +81,9 @@ Recently, the world has been dealing with a lot of different issues. In the busi
 <sub><sub>Sunday, June 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>As Trump Battles Charges, Biden Focuses on the Business of Governing</h3>
-<sub>By Zolan Kanno-Youngs</sub>
-<p>The past week appears to provide a blueprint for the way the White House wants to handle the politically touchy subject of former President Donald J. Trump’s legal troubles.  <a href="https://nyti.ms/3Xh6Mns"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, June 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Barr Says Documents Case Against Trump Is ‘Entirely of His Own Making’</h3>
 <sub>By Chris Cameron</sub>
-<p>The former attorney general, who has become a vocal critic of the former president, also attacked his character in extraordinary language.  <a href="https://nyti.ms/43MYfed"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, June 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>He Went After Crypto Companies. Then Someone Came After Him.</h3>
-<sub>By John Carreyrou</sub>
-<p>Kyle Roche was a rising star in the field of cryptocurrency law — until his career imploded. Who orchestrated his downfall?  <a href="https://nyti.ms/3XkUOJl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The former attorney general, who has become a vocal critic of Donald Trump, was one of two people who served in the former president’s cabinet to question his judgment on Sunday.  <a href="https://nyti.ms/43MYfed"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, June 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
@@ -111,10 +93,22 @@ Recently, the world has been dealing with a lot of different issues. In the busi
 <sub><sub>Friday, June 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘A Terrible Tragedy’: Uganda Reels From Deadly Terrorist Attack</h3>
-<sub>By Abdi Latif Dahir</sub>
-<p>It was one of the worst terrorist acts to hit the nation in decades, as militants burned down dormitories with students still inside and hacked others to death.  <a href="https://nyti.ms/3NhV9I6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Addicts Went in for Treatment. Instead They Were Enslaved.</h3>
+<sub>By Richard C. Paddock</sub>
+<p>Families in Indonesia thought they were sending their sons to a rehab facility run by a powerful local official. Those who stayed there say it was a brutal human slavery operation.  <a href="https://nyti.ms/3CGi0bj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, June 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>He Went After Crypto Companies. Then Someone Came After Him.</h3>
+<sub>By John Carreyrou</sub>
+<p>Kyle Roche was a rising star in the field of cryptocurrency law — until his career imploded. Who orchestrated his downfall?  <a href="https://nyti.ms/3XkUOJl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, June 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>The Places Most Affected by Remote Workers’ Moves Around the Country</h3>
+<sub></sub>
+<p>Yes, many of them went to Austin. But consider the small Salisbury, Md., region, too.  <a href="https://nyti.ms/46bBaDu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, June 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Why the Pentagon Papers Leaker Tried to Get Prosecuted Near His Life’s End</h3>
@@ -133,6 +127,12 @@ Recently, the world has been dealing with a lot of different issues. In the busi
 <sub>By David Marchese</sub>
 <p>“The tyranny around loving yourself is bonkers to me,” says the best-selling author and writer for “And Just Like That.”  <a href="https://nyti.ms/3Nh1NP3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, June 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-realestate-blue" alt="">
+<h3>Hiding Behind the Hedges</h3>
+<sub>By Debra Kamin</sub>
+<p>In Los Angeles, the wealthy will pay a fortune to protect their private lives from prying eyes. At least leafy green walls are good for the environment.  <a href="https://nyti.ms/3NxyV6l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
