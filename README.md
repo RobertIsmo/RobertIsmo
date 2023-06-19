@@ -60,18 +60,26 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, June 19, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. U.S. diplomats recently visited Beijing to discuss potential conflict between the U.S. and China. Secretary of State Antony Blinken also expressed concerns over possible military support from Chinese companies to Russia. Additionally, there was an attempted assassination of a CIA spy in Russia last year that led to both the agency&#39;s chief in Moscow being expelled and his Russian counterpart in Washington. Furthermore, countries are rushing to arm Ukraine with weapons, but some of them have been too broken to use or not delivered yet. Lastly, Russian opposition leader Aleksei Navalny is currently on trial again with potential decades of jail time looming over him.</p>
+Right now, there is rising tension between the US and China. US Secretary of State Antony Blinken recently visited Beijing in an effort to try to prevent it from escalating further. In the US, the Trump Administration is facing legal action from researchers over attempts to squelch analyses of false claims made about the upcoming elections and other contentious issues. Additionally, there have been some news reports recently about a possible assassination plot against a CIA spy in Florida by Russia. 
+
+On a lighter note, some Americans are experimenting with new ways to commemorate Juneteenth, which celebrates the day enslaved African Americans in Texas found out they were free. And people are moving to different parts of the country for remote work, creating economic changes in places like Austin, Texas and Salisbury, Maryland. Lastly, China&#39;s economy has unexpectedly failed to rebound quickly following relaxation of Covid-19 precautions, leading experts to scratch their heads for solutions.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>China’s Rebound Hits a Wall, and There Is ‘No Quick Fix’ to Revive It</h3>
+<sub>By Keith Bradsher, Daisuke Wakabayashi and Claire Fu</sub>
+<p>Policymakers and investors expected China’s economy to rev up again after Beijing abruptly dropped Covid precautions, but recent data shows alarming signs of a slowdown.  <a href="https://nyti.ms/43JURRi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 19, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Blinken Meets Xi as China and the U.S. Try to Rein in Tensions</h3>
 <sub>By Edward Wong and David Pierson</sub>
 <p>U.S. diplomats visited Beijing to try to ensure that competition “does not veer into conflict.” The talks pave the way for a possible Biden-Xi meeting.  <a href="https://nyti.ms/42L2s0H"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, June 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The U.S. worries about private Chinese companies aiding Russia, Blinken says.</h3>
-<sub>By Edward Wong</sub>
-<p>Secretary of State Antony J. Blinken said he urged Chinese officials “to be vigilant” as Washington continues to express concerns over possible military support to Russia.  <a href="https://nyti.ms/3Xc8w1d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>What’s the difference between a submersible and a submarine?</h3>
+<sub>By Ben Shpigel</sub>
+<p>  <a href="https://nyti.ms/3PmX2WQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -93,15 +101,9 @@ There is a lot happening in the world right now. U.S. diplomats recently visited
 <sub><sub>Monday, June 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Rush to Arm Ukraine, Weapons Are Bought but Not Delivered, or Too Broken to Use</h3>
-<sub>By Justin Scheck and Lara Jakes</sub>
-<p>Some of the weapons sent to Ukraine by other countries have been unusable, and hundreds of millions of dollars in contracts paid up front have yet to be fulfilled.  <a href="https://nyti.ms/42MxsgT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Jailed Russian Opposition Leader Navalny Goes on Trial Again</h3>
-<sub>By Neil MacFarquhar</sub>
-<p>The new extremism charges could add decades to the prison terms that Aleksei Navalny is already serving.  <a href="https://nyti.ms/3pg6zUH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Digging Up Old Graves to Make Room for Newly Fallen Soldiers</h3>
+<sub>By Megan Specia and Brendan Hoffman</sub>
+<p>Funerals have taken on a grim routine in the Ukrainian city of Lviv, and as the fighting grows more intense during the counteroffensive, gravediggers say they are bracing for more bodies.  <a href="https://nyti.ms/3XgzDYX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
