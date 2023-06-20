@@ -60,12 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, June 20, Central Standard Time</p>
 <p>
-Right now, things are happening on the domestic front in US and abroad. In the US, the Trump documents case has a tentative trials date set for August while an ethics concern arises around one of his real estate deals in Oman. There is also discussion about different approaches to combat homelessness and handle aid for those facing poverty. On the international front, Ukraine prisoners being released by Russia are describing a harrowing experience with violence and inadequate resources while the US and China differ in how they view the rivalry between them. On top of that, China is taking more economic measures by sometimes controversially cutting key interest rates to hopefully boost its economy.</p>
+There is a lot happening in the world right now. In the US, there is attention on whether Hunter Biden had an unfair deal and Trump and other political candidates have been pushing claims of injustice. Additionally, a judge has set a tentative trial date for when documents regarding Trump may be dealt with. Meanwhile, an agreement between Trump&#39;s real estate company and a Saudi firm has raised ethical concerns. On another note, questions have arisen what the consequences would be if a Presidential candidate is convicted of something. Overseas, five people are missing after getting aboard a submersible and Ukrainian P.O.W&#39;s are being released but have suffered beatings and inadequate nutrition during their captivity. Chelsea FC was sold recently and money meant to go to war victims hasn&#39;t yet been transferred due to bureaucratic issues. There is also tension between the US and China as they perceive each other differently. Lastly, three people were convicted in New Jersey for harassing people on behalf of China&#39;s government. On the business front, Alibaba&#39;s CEO is stepping down with two co-founders taking over his position.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Hunter Biden’s journey is a complex tale that defies simple narratives.</h3>
-<sub>By Adam Entous, Michael S. Schmidt and Katie Benner</sub>
-<p>  <a href="https://nyti.ms/44709pY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>The outcome focused attention on whether Hunter Biden got a better deal than the average person would get.</h3>
+<sub>By Michael S. Schmidt</sub>
+<p>  <a href="https://nyti.ms/46c3w0A"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump, and other Republican ’24 contenders, push claims of injustice.</h3>
+<sub>By Jonathan Weisman</sub>
+<p>  <a href="https://nyti.ms/42Qp7sB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -81,15 +87,9 @@ Right now, things are happening on the domestic front in US and abroad. In the U
 <sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Federal Policy on Homelessness Becomes New Target of the Right</h3>
-<sub>By Jason DeParle</sub>
-<p>The approach known as Housing First has long enjoyed bipartisan support. But conservatives are pushing efforts to replace it with programs that put more emphasis on sobriety and employment.  <a href="https://nyti.ms/3pcfoPA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>With Pandemic Aid Ending, Vermont’s Homeless Are Forced From Hotels</h3>
-<sub>By Jenna Russell</sub>
-<p>The state has begun emptying hotels of about 2,800 homeless people living  there as part of a pandemic-era program — and offering them tents — after federal funding ran out.  <a href="https://nyti.ms/3NCgcGF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>What Happens if a Presidential Candidate Is Convicted?</h3>
+<sub>By Maggie Astor</sub>
+<p>The Constitution and American law have clear answers for only some of the questions that would arise. Others would bring the country into truly uncharted territory.  <a href="https://nyti.ms/3JnFAxt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -98,16 +98,22 @@ Right now, things are happening on the domestic front in US and abroad. In the U
 <p>A British businessman and explorer, a British father and son from a prominent Pakistani family, and a French maritime expert are among the five-person crew on the Titan.  <a href="https://nyti.ms/3Xkhk5g"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The pressure is crushing in the inky depths of the North Atlantic.</h3>
-<sub>By William J. Broad</sub>
-<p>Very few vessels can reach the depths the missing submersible was aiming for when communications were lost, complicating search and rescue efforts.  <a href="https://nyti.ms/3Xiv409"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Collective Force of Head Hits, Not Just the Number of Them, Increases Odds of C.T.E.</h3>
+<sub>By Ken Belson and Benjamin Mueller</sub>
+<p>The largest study of chronic traumatic encephalopathy to date found that the cumulative force of head hits absorbed by players in their careers is the best predictor of future brain disease.  <a href="https://nyti.ms/3NG2lzq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>They Were Captured by the Russians. Then the Hardest Fight Began.</h3>
+<h3>‘They Expected Me to Die on My Own’: Life as a Ukrainian P.O.W.</h3>
 <sub>By Carlotta Gall and Daniel Berehulak</sub>
 <p>Ukrainian captives released in prisoner exchanges say that beatings were common, and that they suffered from woefully inadequate health care and food.  <a href="https://nyti.ms/3Jiropx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Proceeds of Chelsea Sale Have Yet to Reach Any Ukraine War Victims</h3>
+<sub>By Tariq Panja</sub>
+<p>A $3.1 billion fund was established when Roman Abramovich was forced to sell the club, but the fund’s head says a “bureaucratic quagmire” has kept the money frozen.  <a href="https://nyti.ms/3qJIt5a"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -116,23 +122,17 @@ Right now, things are happening on the domestic front in US and abroad. In the U
 <p>Xi Jinping and nationalistic Chinese see recent U.S. actions as an effort to contain another superpower rather than compete with it — and they’re pushing back.  <a href="https://nyti.ms/43MtWVa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>3 Are Convicted of Harassing Family on Behalf of China’s Government</h3>
+<sub>By Karen Zraick</sub>
+<p>The defendants, including a private detective who said he did not realize he was working for an intelligence operation, pursued people living in New Jersey.  <a href="https://nyti.ms/3XjmNZK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>In Overhaul, Alibaba’s Boss Moves Aside and Two Co-Founders Step Up</h3>
 <sub>By Chang Che</sub>
 <p>The Chinese tech giant says its top leader, Daniel Zhang, will make way for two long-serving executives: Joseph Tsai takes over as chairman and Eddie Yongming Wu becomes chief executive.  <a href="https://nyti.ms/43NSahw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>E.U. Takes Aim at China in Proposed Economic Strategy</h3>
-<sub>By Matina Stevis-Gridneff</sub>
-<p>A European Commission plan seeks to ban companies from sending sensitive high-tech goods to potentially hostile countries — without naming any names.  <a href="https://nyti.ms/3XjyyzK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>China Cuts Key Interest Rates, Hoping to Kick-Start Flagging Economy</h3>
-<sub>By Keith Bradsher</sub>
-<p>The reduction in the rates, which are used to set corporate loans and home mortgages, signal concern that the country’s post-pandemic rebound is stalling.  <a href="https://nyti.ms/3NgzzDR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 19, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
