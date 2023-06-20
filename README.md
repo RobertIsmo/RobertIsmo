@@ -60,18 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, June 20, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. In the US, there is attention on whether Hunter Biden had an unfair deal and Trump and other political candidates have been pushing claims of injustice. Additionally, a judge has set a tentative trial date for when documents regarding Trump may be dealt with. Meanwhile, an agreement between Trump&#39;s real estate company and a Saudi firm has raised ethical concerns. On another note, questions have arisen what the consequences would be if a Presidential candidate is convicted of something. Overseas, five people are missing after getting aboard a submersible and Ukrainian P.O.W&#39;s are being released but have suffered beatings and inadequate nutrition during their captivity. Chelsea FC was sold recently and money meant to go to war victims hasn&#39;t yet been transferred due to bureaucratic issues. There is also tension between the US and China as they perceive each other differently. Lastly, three people were convicted in New Jersey for harassing people on behalf of China&#39;s government. On the business front, Alibaba&#39;s CEO is stepping down with two co-founders taking over his position.</p>
+There is a lot going on in the world right now. We have President Biden and his son Hunter facing some politically and personally painful troubles as Hunter has been sentenced in some agreement. Republicans are looking into this which has lead to Democrats arguing for the Justice Department&#39;s independence. Court cases regarding Trump are starting up with a trial date being set for August. There have also been some ethics concerns arising regarding Trump&#39;s real estate dealings in Oman. The Constitution and law are not clear when it comes to what would happen if a presidential candidate was convicted, so that leads us to uncharted territory. A study has come out showing that the cumulative force of head hits is the best predictor of CTE in athletes. Ukrainian prisoners of war have been sharing stories of beatings and inadequate food and health care while held captive. There are some interesting secrets behind the home field advantage in sports, like groups using ban on infield shifts to their advantage. Businesses have been trying various incentives to get employees back into the office, from generous bonuses to charity donations to poor performance evaluations when they don&#39;t show up. Lastly, four people tragically died in a fire near Chinatown which left two others critically injured.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The outcome focused attention on whether Hunter Biden got a better deal than the average person would get.</h3>
-<sub>By Michael S. Schmidt</sub>
-<p>  <a href="https://nyti.ms/46c3w0A"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>For Biden, the Personal and Politically Painful Troubles of His Son</h3>
+<sub>By Peter Baker</sub>
+<p>Hunter Biden’s sentencing agreement put him in the cross-hairs of President Biden’s adversaries once again.  <a href="https://nyti.ms/3qODxfn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump, and other Republican ’24 contenders, push claims of injustice.</h3>
-<sub>By Jonathan Weisman</sub>
-<p>  <a href="https://nyti.ms/42Qp7sB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Republicans, Claiming Double Standard, Vow to Keep Investigating Bidens</h3>
+<sub>By Kayla Guo</sub>
+<p>Congressional Republicans accused President Biden of orchestrating a lenient penalty for his son, while Democrats argued that bringing any charges reflected the Justice Department’s independence.  <a href="https://nyti.ms/3Jpfw5b"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -93,10 +93,10 @@ There is a lot happening in the world right now. In the US, there is attention o
 <sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Here Is Who Is on the Missing Submersible</h3>
-<sub>By Emma Bubola, Salman Masood and Victoria Kim</sub>
-<p>A British businessman and explorer, a British father and son from a prominent Pakistani family, and a French maritime expert are among the five-person crew on the Titan.  <a href="https://nyti.ms/3Xkhk5g"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 19, Central Standard Time</sub></sub>
+<h3>OceanGate was warned of potential for ‘catastrophic’ problems with Titanic mission.</h3>
+<sub>By Jenny Gross and Nicholas Bogel-Burroughs</sub>
+<p>Leaders in the submersible vehicle industry urged the company in 2018 to undergo a more stringent certification process.  <a href="https://nyti.ms/3JnNR4v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Collective Force of Head Hits, Not Just the Number of Them, Increases Odds of C.T.E.</h3>
@@ -111,27 +111,27 @@ There is a lot happening in the world right now. In the US, there is attention o
 <sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Proceeds of Chelsea Sale Have Yet to Reach Any Ukraine War Victims</h3>
-<sub>By Tariq Panja</sub>
-<p>A $3.1 billion fund was established when Roman Abramovich was forced to sell the club, but the fund’s head says a “bureaucratic quagmire” has kept the money frozen.  <a href="https://nyti.ms/3qJIt5a"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Blinken Visit Reveals Chasm in How U.S. and China Perceive Rivalry</h3>
-<sub>By David Pierson and Edward Wong</sub>
-<p>Xi Jinping and nationalistic Chinese see recent U.S. actions as an effort to contain another superpower rather than compete with it — and they’re pushing back.  <a href="https://nyti.ms/43MtWVa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>3 Are Convicted of Harassing Family on Behalf of China’s Government</h3>
-<sub>By Karen Zraick</sub>
-<p>The defendants, including a private detective who said he did not realize he was working for an intelligence operation, pursued people living in New Jersey.  <a href="https://nyti.ms/3XjmNZK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>The Dirty (and Grassy) Secrets Behind the Home Field Advantage</h3>
+<sub>By David Waldstein</sub>
+<p>In an era of expertly manicured fields and shared knowledge among groundskeepers, crews have an unexpected tool in their arsenal: the ban on infield shifts.  <a href="https://nyti.ms/3pbXtZ9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>In Overhaul, Alibaba’s Boss Moves Aside and Two Co-Founders Step Up</h3>
-<sub>By Chang Che</sub>
-<p>The Chinese tech giant says its top leader, Daniel Zhang, will make way for two long-serving executives: Joseph Tsai takes over as chairman and Eddie Yongming Wu becomes chief executive.  <a href="https://nyti.ms/43NSahw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Return to Office Enters the Desperation Phase</h3>
+<sub>By Emma Goldberg</sub>
+<p>The next stage of getting workers back at their desks includes incentives like $10 to the charity of their choice — and consequences like poor performance evaluations if they don’t make the trek in.  <a href="https://nyti.ms/3JnZ3xV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>A Job With a Fair Salary? What Pay Transparency Laws Are Revealing.</h3>
+<sub>By H. Claire Brown</sub>
+<p>Salary disclosure laws have been a boon for workers searching for jobs that pay fairly — but only when the advertised pay bands are narrow enough to be useful.  <a href="https://nyti.ms/3pgOMwL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>4 Die in Fire That Began at E-Bike Shop Near Chinatown</h3>
+<sub>By Hurubie Meko, Chelsia Rose Marcius, Winnie Hu and Ellen Yan</sub>
+<p>The blaze, which left two others in critical condition, began on the first floor of a building at 80 Madison Street shortly after midnight.  <a href="https://nyti.ms/3Pn0HUr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
 <hr/>
 </ol>
