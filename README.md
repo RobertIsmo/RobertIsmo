@@ -60,26 +60,36 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, June 19, Central Standard Time</p>
 <p>
-Right now, there is rising tension between the US and China. US Secretary of State Antony Blinken recently visited Beijing in an effort to try to prevent it from escalating further. In the US, the Trump Administration is facing legal action from researchers over attempts to squelch analyses of false claims made about the upcoming elections and other contentious issues. Additionally, there have been some news reports recently about a possible assassination plot against a CIA spy in Florida by Russia. 
-
-On a lighter note, some Americans are experimenting with new ways to commemorate Juneteenth, which celebrates the day enslaved African Americans in Texas found out they were free. And people are moving to different parts of the country for remote work, creating economic changes in places like Austin, Texas and Salisbury, Maryland. Lastly, China&#39;s economy has unexpectedly failed to rebound quickly following relaxation of Covid-19 precautions, leading experts to scratch their heads for solutions.</p>
+There have been a lot of tragic events in the world lately. In Greece, the Coast Guard is facing criticism for how they handled a migrant mass drowning. In Pakistan, they recently declared a day of mourning for a migrant ship disaster off Greece that killed more than 100 Pakistanis. In China, their rebound has hit a wall and there&#39;s no quick fix to revive it. There&#39;s also been some international news, such as Russia attempting to kill a CIA defector in Florida, as well as British Explorer and businessman Hamish Harding going missing aboard a submersible. On a lighter note, Florida governor Ron DeSantis made an interesting fundraising stop in California recently and poked fun at Governor Gavin Newsom. Lastly, in Ukraine’s city of Lviv, funerals have become grim routines as gravediggers brace for even more bodies due to escalation of counteroffensive fighting.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Greek Coast Guard Under Scrutiny for Response to Migrant Mass Drowning</h3>
+<sub>By Jason Horowitz, Matina Stevis-Gridneff and Niki Kitsantonis</sub>
+<p>Contradictions in the Coast Guard’s account cast new doubts over how the Greeks handled one of the worst maritime disasters in the country’s history.  <a href="https://nyti.ms/3pg3GmX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Pakistan Declares Day of Mourning for Migrant Ship Disaster Off Greece</h3>
+<sub>By Christina Goldbaum and Salman Masood</sub>
+<p>Officials say more than 100 Pakistanis were among those killed when a fishing boat overloaded with migrants capsized in deep Mediterranean waters. The death toll of the disaster is expected to rise.  <a href="https://nyti.ms/42Mht2u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 19, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>China’s Rebound Hits a Wall, and There Is ‘No Quick Fix’ to Revive It</h3>
 <sub>By Keith Bradsher, Daisuke Wakabayashi and Claire Fu</sub>
 <p>Policymakers and investors expected China’s economy to rev up again after Beijing abruptly dropped Covid precautions, but recent data shows alarming signs of a slowdown.  <a href="https://nyti.ms/43JURRi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Blinken Meets Xi as China and the U.S. Try to Rein in Tensions</h3>
-<sub>By Edward Wong and David Pierson</sub>
-<p>U.S. diplomats visited Beijing to try to ensure that competition “does not veer into conflict.” The talks pave the way for a possible Biden-Xi meeting.  <a href="https://nyti.ms/42L2s0H"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, June 18, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A British explorer and businessman is among those on the missing submersible.</h3>
+<sub>By Emma Bubola</sub>
+<p>Hamish Harding holds several Guinness World Records, including one for the longest time spent traversing the deepest part of the ocean on a single dive.  <a href="https://nyti.ms/3PnXzrk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What’s the difference between a submersible and a submarine?</h3>
-<sub>By Ben Shpigel</sub>
-<p>  <a href="https://nyti.ms/3PmX2WQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Why are undersea rescues so difficult?</h3>
+<sub>By John Ismay</sub>
+<p>  <a href="https://nyti.ms/3NEgzAs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -94,29 +104,17 @@ On a lighter note, some Americans are experimenting with new ways to commemorate
 <p>Prosecutors and defense lawyers appear to be preparing for a pretrial fight over showing sensitive evidence to the jury and the public.  <a href="https://nyti.ms/3JkMZ0l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 19, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Says ‘Secret’ Document He Described on Tape Referred to News Clippings</h3>
+<sub>By Maggie Haberman, Alan Feuer and Jonathan Swan</sub>
+<p>“There was no document,” the former president said on Fox News as he gave some of his most expansive remarks on the case that led to his federal indictment.  <a href="https://nyti.ms/3PjzMsA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 19, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>‘I Can’t Continue This Fight Any Longer’</h3>
 <sub>By Jonathan Abrams</sub>
 <p>Why Tyrell Terry walked away from basketball, the millions of dollars that came with it and the identity he had spent his whole life building.  <a href="https://nyti.ms/3CBIrPC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Digging Up Old Graves to Make Room for Newly Fallen Soldiers</h3>
-<sub>By Megan Specia and Brendan Hoffman</sub>
-<p>Funerals have taken on a grim routine in the Ukrainian city of Lviv, and as the fighting grows more intense during the counteroffensive, gravediggers say they are bracing for more bodies.  <a href="https://nyti.ms/3XgzDYX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>These Cowboys Build a New Juneteenth Tradition at a Rodeo in Portland</h3>
-<sub>By Brent Lewis and Eduardo Medina</sub>
-<p>The cowboy is “a shorthand for independence and grit and all of these things about America,” an organizer said. “But then you combine it with Black culture, and it just wiggles your brain.”  <a href="https://nyti.ms/46cmfJl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Juneteenth: The History of a Holiday</h3>
-<sub>By Derrick Bryson Taylor</sub>
-<p>On June 19, 1865, enslaved African Americans in Texas were told they were free. A century and a half later, people across the United States continue to celebrate the day, which is now a federal holiday.  <a href="https://nyti.ms/30FFDPA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>G.O.P. Targets Researchers Who Study Disinformation Ahead of 2024 Election</h3>
@@ -125,16 +123,16 @@ On a lighter note, some Americans are experimenting with new ways to commemorate
 <sub><sub>Monday, June 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Why Robert Kennedy Jr.’s 2024 Bid Is a Headache for Biden</h3>
-<sub>By Reid J. Epstein</sub>
-<p>The unexpected polling strength of an anti-vaccine activist with a celebrated Democratic lineage points to the president’s weaknesses, which his team is aiming to shore up.  <a href="https://nyti.ms/43YEuQQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>DeSantis Raises Cash in California and Pokes at Governor</h3>
+<sub>By Shawn Hubler</sub>
+<p>The Florida governor made a fund-raising stop in Sacramento not far from the home of Gov. Gavin Newsom. The two are in the midst of a mutually beneficial feud.  <a href="https://nyti.ms/3ND6mo2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>The Places Most Affected by Remote Workers’ Moves Around the Country</h3>
-<sub></sub>
-<p>Yes, many of them went to Austin. But consider the small Salisbury, Md., region, too.  <a href="https://nyti.ms/46bBaDu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, June 17, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Digging Up Old Graves to Make Room for Newly Fallen Soldiers</h3>
+<sub>By Megan Specia and Brendan Hoffman</sub>
+<p>Funerals have taken on a grim routine in the Ukrainian city of Lviv, and as the fighting grows more intense during the counteroffensive, gravediggers say they are bracing for more bodies.  <a href="https://nyti.ms/3XgzDYX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 19, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
