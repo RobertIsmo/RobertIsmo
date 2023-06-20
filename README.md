@@ -58,9 +58,10 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Monday, June 19, Central Standard Time</p>
+<p>It is Tuesday, June 20, Central Standard Time</p>
 <p>
-Recently, the Greek Coast Guard has come under scrutiny for their response to a fatal migrant mass drowning. In China, the economy has taken a hit recently despite efforts to kickstart it again with reduced interest rates, and investors are concerned about a potential economic slowdown. In the US, a British explorer and businessman is among those missing on a submersible, and another story showng how classified evidence could complicate Trump documents case. Also in the US, there&#39;s news of Russia trying to kill a defector in Florida. In sports, NBA player Tyrell Terry just walked away from basketball after years of playing. Finally, in the world, there is news of digging up old graves in the Ukrainian city of Lviv due to an ongoing counteroffensive leading to more bodies.</p>
+To my close friend: 
+Recently, it looks like the world is facing many problems. In Greece, the Coast Guard is being held accountable for a massive mass drowning of migrants. In China, the economy has experienced a sudden slowdown after recent Covid regulations were lifted. Alibaba&#39;s chairman Daniel Zhang will be stepping down and China has cut key interest rates to try and kick-start their economy again. In the United States, we are hearing news about a missing submersible with British explorer Hamish Harding on board who holds several Guinness World Records for underwater exploration. On top of that, there have been reports of an attempted assassination plot against a CIA spy in Florida and classified evidence complicating a case involving former President Trump. Looking to the future, Republican parties have started campaigns to target researchers studying disinformation — much to do with upcoming 2024 elections — while Florida governor Ron DeSantis recently visited California for campaigning and fund-raising. Lastly, in Ukraine there have been grim reports of digging up old graves to make room for newly fallen soldiers as the fighting intensifies. It&#39;s been a lot!</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Greek Coast Guard Under Scrutiny for Response to Migrant Mass Drowning</h3>
@@ -73,6 +74,12 @@ Recently, the Greek Coast Guard has come under scrutiny for their response to a 
 <sub>By Keith Bradsher, Daisuke Wakabayashi and Claire Fu</sub>
 <p>Policymakers and investors expected China’s economy to rev up again after Beijing abruptly dropped Covid precautions, but recent data shows alarming signs of a slowdown.  <a href="https://nyti.ms/43JURRi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Alibaba Says Its Chairman, Daniel Zhang, Will Step Down in September</h3>
+<sub>By Chang Che</sub>
+<p>In a shake-up, Joseph Tsai, an Alibaba veteran and executive vice chairman, will take over as chairman. Another Alibaba executive, Eddie Wu, will become C.E.O.  <a href="https://nyti.ms/43NSahw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>China Cuts Key Interest Rates, Hoping to Kick-Start Flagging Economy</h3>
@@ -110,16 +117,10 @@ Recently, the Greek Coast Guard has come under scrutiny for their response to a 
 <p>“There was no document,” the former president said on Fox News as he gave some of his most expansive remarks on the case that led to his federal indictment.  <a href="https://nyti.ms/3PjzMsA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>‘I Can’t Continue This Fight Any Longer’</h3>
-<sub>By Jonathan Abrams</sub>
-<p>Why Tyrell Terry walked away from basketball, the millions of dollars that came with it and the identity he had spent his whole life building.  <a href="https://nyti.ms/3CBIrPC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>G.O.P. Targets Researchers Who Study Disinformation Ahead of 2024 Election</h3>
 <sub>By Steven Lee Myers and Sheera Frenkel</sub>
-<p>A legal campaign against universities and think tanks seeks to undermine the fight against false claims about elections, vaccines and other hot political topics.  <a href="https://nyti.ms/3NgFBUT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>A legal campaign against universities and think tanks seeks to undermine the fight against false claims about elections, vaccines and other hot political topics.  <a href="https://nyti.ms/3XccneB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
