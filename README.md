@@ -60,8 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, June 20, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. In the US, we have seen ethical concerns raised about a former president&#39;s real estate deal with a Saudi firm; conservatives are pushing to replace government policies addressing homelessness with ones that focus more on sobriety and employment; and there has been an increase in restrictive laws related to abortion. In Greece, the coast guard is being scrutinized for its response to a mass drowning of migrants. Ukraine has reported beatings of captives and woefully inadequate health care and food being administered by Russia. Off the coast of Newfoundland, five people have gone missing after taking a submersible to explore the Titanic wreck site. China has cut interest rates to restart its slowing economy, and US Secretary of State Antony Blinken has visited, aiming to stabilize relations between China and America. Meanwhile, Alibaba&#39;s boss is handing the helm over to two co-founders.</p>
+Right now, things are happening on the domestic front in US and abroad. In the US, the Trump documents case has a tentative trials date set for August while an ethics concern arises around one of his real estate deals in Oman. There is also discussion about different approaches to combat homelessness and handle aid for those facing poverty. On the international front, Ukraine prisoners being released by Russia are describing a harrowing experience with violence and inadequate resources while the US and China differ in how they view the rivalry between them. On top of that, China is taking more economic measures by sometimes controversially cutting key interest rates to hopefully boost its economy.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Hunter Biden’s journey is a complex tale that defies simple narratives.</h3>
+<sub>By Adam Entous, Michael S. Schmidt and Katie Benner</sub>
+<p>  <a href="https://nyti.ms/44709pY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Judge in Trump Documents Case Sets Tentative Trial Date as Soon as August</h3>
+<sub>By Alan Feuer, Maggie Haberman and Charlie Savage</sub>
+<p>The judge, Aileen M. Cannon, set an aggressive schedule for moving the case forward, though the proceedings are likely to be delayed by pretrial clashes.  <a href="https://nyti.ms/43OCdI8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Real Estate Deal in Oman Underscores Ethics Concerns</h3>
 <sub>By Eric Lipton</sub>
@@ -80,29 +92,23 @@ There&#39;s a lot going on in the world right now. In the US, we have seen ethic
 <p>The state has begun emptying hotels of about 2,800 homeless people living  there as part of a pandemic-era program — and offering them tents — after federal funding ran out.  <a href="https://nyti.ms/3NCgcGF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Greek Coast Guard Under Scrutiny for Response to Migrant Mass Drowning</h3>
-<sub>By Jason Horowitz, Matina Stevis-Gridneff and Niki Kitsantonis</sub>
-<p>Contradictions in the Coast Guard’s account cast new doubts over how the Greeks handled one of the worst maritime disasters in the country’s history.  <a href="https://nyti.ms/3pg3GmX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Here Is Who Is on the Missing Submersible</h3>
+<sub>By Emma Bubola, Salman Masood and Victoria Kim</sub>
+<p>A British businessman and explorer, a British father and son from a prominent Pakistani family, and a French maritime expert are among the five-person crew on the Titan.  <a href="https://nyti.ms/3Xkhk5g"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The pressure is crushing in the inky depths of the North Atlantic.</h3>
+<sub>By William J. Broad</sub>
+<p>Very few vessels can reach the depths the missing submersible was aiming for when communications were lost, complicating search and rescue efforts.  <a href="https://nyti.ms/3Xiv409"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>They Were Captured by the Russians. Then the Hardest Fight Began.</h3>
 <sub>By Carlotta Gall and Daniel Berehulak</sub>
 <p>Ukrainian captives released in prisoner exchanges say that beatings were common, and that they suffered from woefully inadequate health care and food.  <a href="https://nyti.ms/3Jiropx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What to Know About the Missing Titan Submersible and the Race to Find It</h3>
-<sub>By Yonette Joseph</sub>
-<p>U.S. and Canadian crews are searching for the 22-foot vessel that set off on Sunday morning with five people on board to explore the Titanic shipwreck site off Newfoundland — and hasn’t been heard from since.  <a href="https://nyti.ms/3NBbVn4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Here Is Who Is on the Missing Submersible</h3>
-<sub>By Emma Bubola, Salman Masood and Victoria Kim</sub>
-<p>A Guinness World Record-holding British explorer and a businessman and his son from a prominent Pakistani family are among the five-person crew on the Titan.  <a href="https://nyti.ms/3N8Fcnq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Blinken Visit Reveals Chasm in How U.S. and China Perceive Rivalry</h3>
@@ -116,23 +122,17 @@ There&#39;s a lot going on in the world right now. In the US, we have seen ethic
 <p>The Chinese tech giant says its top leader, Daniel Zhang, will make way for two long-serving executives: Joseph Tsai takes over as chairman and Eddie Yongming Wu becomes chief executive.  <a href="https://nyti.ms/43NSahw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>E.U. Takes Aim at China in Proposed Economic Strategy</h3>
+<sub>By Matina Stevis-Gridneff</sub>
+<p>A European Commission plan seeks to ban companies from sending sensitive high-tech goods to potentially hostile countries — without naming any names.  <a href="https://nyti.ms/3XjyyzK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>China Cuts Key Interest Rates, Hoping to Kick-Start Flagging Economy</h3>
 <sub>By Keith Bradsher</sub>
 <p>The reduction in the rates, which are used to set corporate loans and home mortgages, signal concern that the country’s post-pandemic rebound is stalling.  <a href="https://nyti.ms/3NgzzDR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>What Business Learned From Blinken’s Trip to China</h3>
-<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
-<p>The secretary of state’s visit raised hopes that the world’s two biggest economies might stabilize relations, but the biggest challenges were not unresolved.  <a href="https://nyti.ms/3pdWzvf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Year After Dobbs, Republicans Push Into Risky Territory on Abortion</h3>
-<sub>By Katie Glueck</sub>
-<p>The historic ruling has hurt the party electorally, but G.O.P. lawmakers are still moving to pass more restrictive laws. These two realities represent the defining political fallout of the end of Roe v. Wade.  <a href="https://nyti.ms/43O28zE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
