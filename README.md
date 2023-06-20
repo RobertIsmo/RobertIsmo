@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, June 19, Central Standard Time</p>
 <p>
-There have been a lot of tragic events in the world lately. In Greece, the Coast Guard is facing criticism for how they handled a migrant mass drowning. In Pakistan, they recently declared a day of mourning for a migrant ship disaster off Greece that killed more than 100 Pakistanis. In China, their rebound has hit a wall and there&#39;s no quick fix to revive it. There&#39;s also been some international news, such as Russia attempting to kill a CIA defector in Florida, as well as British Explorer and businessman Hamish Harding going missing aboard a submersible. On a lighter note, Florida governor Ron DeSantis made an interesting fundraising stop in California recently and poked fun at Governor Gavin Newsom. Lastly, in Ukraine’s city of Lviv, funerals have become grim routines as gravediggers brace for even more bodies due to escalation of counteroffensive fighting.</p>
+Recently, the Greek Coast Guard has come under scrutiny for their response to a fatal migrant mass drowning. In China, the economy has taken a hit recently despite efforts to kickstart it again with reduced interest rates, and investors are concerned about a potential economic slowdown. In the US, a British explorer and businessman is among those missing on a submersible, and another story showng how classified evidence could complicate Trump documents case. Also in the US, there&#39;s news of Russia trying to kill a defector in Florida. In sports, NBA player Tyrell Terry just walked away from basketball after years of playing. Finally, in the world, there is news of digging up old graves in the Ukrainian city of Lviv due to an ongoing counteroffensive leading to more bodies.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Greek Coast Guard Under Scrutiny for Response to Migrant Mass Drowning</h3>
@@ -68,16 +68,16 @@ There have been a lot of tragic events in the world lately. In Greece, the Coast
 <p>Contradictions in the Coast Guard’s account cast new doubts over how the Greeks handled one of the worst maritime disasters in the country’s history.  <a href="https://nyti.ms/3pg3GmX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Pakistan Declares Day of Mourning for Migrant Ship Disaster Off Greece</h3>
-<sub>By Christina Goldbaum and Salman Masood</sub>
-<p>Officials say more than 100 Pakistanis were among those killed when a fishing boat overloaded with migrants capsized in deep Mediterranean waters. The death toll of the disaster is expected to rise.  <a href="https://nyti.ms/42Mht2u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 19, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>China’s Rebound Hits a Wall, and There Is ‘No Quick Fix’ to Revive It</h3>
 <sub>By Keith Bradsher, Daisuke Wakabayashi and Claire Fu</sub>
 <p>Policymakers and investors expected China’s economy to rev up again after Beijing abruptly dropped Covid precautions, but recent data shows alarming signs of a slowdown.  <a href="https://nyti.ms/43JURRi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>China Cuts Key Interest Rates, Hoping to Kick-Start Flagging Economy</h3>
+<sub>By Keith Bradsher</sub>
+<p>The reduction in the rates, which are used to set corporate loans and home mortgages, signal concern that the country’s post-pandemic rebound is stalling.  <a href="https://nyti.ms/3NgzzDR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
