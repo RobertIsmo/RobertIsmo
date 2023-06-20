@@ -60,8 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, June 20, Central Standard Time</p>
 <p>
-To my close friend: 
-Recently, it looks like the world is facing many problems. In Greece, the Coast Guard is being held accountable for a massive mass drowning of migrants. In China, the economy has experienced a sudden slowdown after recent Covid regulations were lifted. Alibaba&#39;s chairman Daniel Zhang will be stepping down and China has cut key interest rates to try and kick-start their economy again. In the United States, we are hearing news about a missing submersible with British explorer Hamish Harding on board who holds several Guinness World Records for underwater exploration. On top of that, there have been reports of an attempted assassination plot against a CIA spy in Florida and classified evidence complicating a case involving former President Trump. Looking to the future, Republican parties have started campaigns to target researchers studying disinformation — much to do with upcoming 2024 elections — while Florida governor Ron DeSantis recently visited California for campaigning and fund-raising. Lastly, in Ukraine there have been grim reports of digging up old graves to make room for newly fallen soldiers as the fighting intensifies. It&#39;s been a lot!</p>
+There&#39;s a lot of news happening around the world right now- in Greece, the Coast Guard is coming under scrutiny for how it handled a migrant mass drowning. In China, their economic rebound is faltering, despite Beijing dropping Covid precautions. The tech giant Alibaba has also announced its chairman will step down in September. Russia is being accused of attempted murder against a CIA defector in Florida, and there&#39;s an ongoing case involving classified evidence against former President Trump. Ukraine is having to dig up graves to make room for soldiers who have been killed in a counteroffensive. And the US GOP have been targeting researchers who study disinformation ahead of the 2024 election.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Greek Coast Guard Under Scrutiny for Response to Migrant Mass Drowning</h3>
@@ -88,15 +87,15 @@ Recently, it looks like the world is facing many problems. In Greece, the Coast 
 <sub><sub>Monday, June 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A British explorer and businessman is among those on the missing submersible.</h3>
-<sub>By Emma Bubola</sub>
-<p>Hamish Harding holds several Guinness World Records, including one for the longest time spent traversing the deepest part of the ocean on a single dive.  <a href="https://nyti.ms/3PnXzrk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Here Is Who Is on the Missing Submersible</h3>
+<sub>By Emma Bubola, Salman Masood and Victoria Kim</sub>
+<p>A Guinness World Record-holding British explorer and a businessman and his son from a prominent Pakistani family are among the five-person crew on the Titan.  <a href="https://nyti.ms/3N8Fcnq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Why are undersea rescues so difficult?</h3>
-<sub>By John Ismay</sub>
-<p>  <a href="https://nyti.ms/3NEgzAs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>A company created to explore deep waters.</h3>
+<sub>By Anna Betts</sub>
+<p>The company has made headlines for organizing expeditions for paying tourists to travel in submersibles to shipwrecks, including the Titanic.  <a href="https://nyti.ms/3XelCem"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -117,6 +116,12 @@ Recently, it looks like the world is facing many problems. In Greece, the Coast 
 <p>“There was no document,” the former president said on Fox News as he gave some of his most expansive remarks on the case that led to his federal indictment.  <a href="https://nyti.ms/3PjzMsA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 19, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Digging Up Old Graves to Make Room for Newly Fallen Soldiers</h3>
+<sub>By Megan Specia and Brendan Hoffman</sub>
+<p>Funerals have taken on a grim routine in the Ukrainian city of Lviv, and as the fighting grows more intense during the counteroffensive, gravediggers say they are bracing for more bodies.  <a href="https://nyti.ms/3XgzDYX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 19, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>G.O.P. Targets Researchers Who Study Disinformation Ahead of 2024 Election</h3>
 <sub>By Steven Lee Myers and Sheera Frenkel</sub>
@@ -127,12 +132,6 @@ Recently, it looks like the world is facing many problems. In Greece, the Coast 
 <h3>DeSantis Raises Cash in California and Pokes at Governor</h3>
 <sub>By Shawn Hubler</sub>
 <p>The Florida governor made a fund-raising stop in Sacramento not far from the home of Gov. Gavin Newsom. The two are in the midst of a mutually beneficial feud.  <a href="https://nyti.ms/3ND6mo2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Digging Up Old Graves to Make Room for Newly Fallen Soldiers</h3>
-<sub>By Megan Specia and Brendan Hoffman</sub>
-<p>Funerals have taken on a grim routine in the Ukrainian city of Lviv, and as the fighting grows more intense during the counteroffensive, gravediggers say they are bracing for more bodies.  <a href="https://nyti.ms/3XgzDYX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 19, Central Standard Time</sub></sub>
 <hr/>
 </ol>
