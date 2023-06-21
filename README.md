@@ -60,49 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, June 21, Central Standard Time</p>
 <p>
-Currently, politicians and experts are divided on many topics. In the US, a law banning gender transition care for minors was just struck down, and there is a trial set for a case involving documents related to President Trump. Meanwhile, Hunter Biden has reached a deal to plead guilty to misdemeanor tax charges. On the international stage, Indian Prime Minister Narendra Modi is visiting Washington this week and there have been reports of Ukrainian prisoners of war being mistreated. In the business world, organizations are getting desperate to get their workers back in the office, with incentives like donations to charity or consequences like bad performance reviews. Finally, in New York there was a fatal fire at an e-bike shop near Chinatown caused by batteries.</p>
+It looks like global politics and economics are constantly evolving.  In the US, President Biden is hosting Indian Prime Minister Narendra Modi while pushing democracy concerns to the background. Business leaders are also welcoming Modi&#39;s visit, noting India&#39;s fast-growing economy. Britain&#39;s inflation rate remains stuck at 8.7 percent, which is causing some concern about a cost-of-living crisis. Meanwhile, former President Trump has influenced the evolution of the Republican Party, calling into question a post-Watergate norm. Finally, New York City leaders are racing to regulate battery-powered mobility devices due to over 100 fires this year.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>OceanGate Was Warned of Potential for ‘Catastrophic’ Problems With Titanic Mission</h3>
-<sub>By Nicholas Bogel-Burroughs, Jenny Gross and Anna Betts</sub>
-<p>Experts inside and outside the company warned of potential dangers and urged the company to undergo a certification process.  <a href="https://nyti.ms/3JnNR4v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Judge Strikes Down Arkansas Law Banning Gender Transition Care for Minors</h3>
-<sub>By Rick Rojas and Emily Cochrane</sub>
-<p>The case had been closely watched as an important test of whether bans on transition care for minors, enacted by more than a dozen states, could withstand challenges.  <a href="https://nyti.ms/3XeVa4j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Garland’s Distance From Hunter Biden Inquiry Fails to Quell Critics</h3>
-<sub>By Glenn Thrush</sub>
-<p>The attorney general has confronted an unrelenting succession of politically sensitive investigations, underlining the intensely polarized environment he is operating in.  <a href="https://nyti.ms/3Nll0iB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>For Biden, the Troubles of His Son Are Personal and Politically Painful</h3>
-<sub>By Peter Baker</sub>
-<p>Hunter Biden’s plea agreement put him in the cross-hairs of President Biden’s adversaries once again.  <a href="https://nyti.ms/3qODxfn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Hunter Biden Reaches Deal to Plead Guilty to Misdemeanor Tax Charges</h3>
-<sub>By Michael S. Schmidt and Adam Entous</sub>
-<p>Under an agreement with the Justice Department, the president’s son agreed to probation for filing his taxes late, and he can avoid a charge that he lied about his drug use when he bought a gun.  <a href="https://nyti.ms/3qRuaMb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Judge in Trump Documents Case Sets Tentative Trial Date as Soon as August</h3>
-<sub>By Alan Feuer, Maggie Haberman and Charlie Savage</sub>
-<p>The judge, Aileen M. Cannon, set an aggressive schedule for moving the case forward, though the proceedings are likely to be delayed by pretrial clashes.  <a href="https://nyti.ms/43OCdI8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What Happens if a Presidential Candidate Is Convicted?</h3>
-<sub>By Maggie Astor</sub>
-<p>The Constitution and American law have clear answers for only some of the questions that would arise. Others would bring the country into truly uncharted territory.  <a href="https://nyti.ms/3JnFAxt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
+<h3>In Hosting Modi, Biden Pushes Democracy Concerns to the Background</h3>
+<sub>By Peter Baker and Mujib Mashal</sub>
+<p>The president who declared “the battle between democracy and autocracy” to be the defining struggle of his time has concluded that he needs to accept some imperfect but important friends.  <a href="https://nyti.ms/3CBQWKq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Why Is Narendra Modi So Popular? Tune In to Find Out.</h3>
@@ -110,29 +74,65 @@ Currently, politicians and experts are divided on many topics. In the US, a law 
 <p>The Indian leader, who visits Washington this week, has softened his image at home with an old-fashioned radio show, which feeds a vast social media apparatus.  <a href="https://nyti.ms/44aM8ri"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘They Expected Me to Die on My Own’: Life as a Ukrainian P.O.W.</h3>
-<sub>By Carlotta Gall and Daniel Berehulak</sub>
-<p>Ukrainian captives released in prisoner exchanges say that beatings were common, and that they suffered from woefully inadequate health care and food.  <a href="https://nyti.ms/3Jiropx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Says Xi Was Not Informed About Spy Balloon</h3>
+<sub>By Peter Baker</sub>
+<p>At a campaign fund-raiser, the president said China’s leader was “very embarrassed” to be kept in the dark about the surveillance craft that was shot down after crossing American airspace.  <a href="https://nyti.ms/3phkFp6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Return to Office Enters the Desperation Phase</h3>
-<sub>By Emma Goldberg</sub>
-<p>The next stage of getting workers back at their desks includes incentives like $10 to the charity of their choice — and consequences like poor performance evaluations if they don’t make the trek in.  <a href="https://nyti.ms/3JnZ3xV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Business Leaders Join Biden in Welcoming Modi to the U.S.</h3>
+<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
+<p>India’s fast-growing economy is drawing American corporate giants, even as the country faces scrutiny over ties to Russia and limits on political freedoms.  <a href="https://nyti.ms/43QkD6y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Closer Look at the Submersible Lost in the North Atlantic</h3>
+<sub>By Matthew Bloch, Keith Collins, Marco Hernandez, Mark McKeague, Scott Reinhard and Helmuth Rosales</sub>
+<p>On the vessel, there were five passengers packed into a tight interior with no seats and a single view port 21 inches in diameter.  <a href="https://nyti.ms/3NjDTSR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>OceanGate Was Warned of Potential for ‘Catastrophic’ Problems With Titanic Mission</h3>
+<sub>By Nicholas Bogel-Burroughs, Jenny Gross and Anna Betts</sub>
+<p>Experts inside and outside the company warned of potential dangers and urged the company to undergo a certification process.  <a href="https://nyti.ms/3JnNR4v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Inside the Titan: Quiet and Cramped, With a Single Porthole</h3>
+<sub>By Anushka Patil and Jacey Fortin</sub>
+<p>“You just drop like a stone for two and a half hours,” said a writer for “The Simpsons” who made the trip to the Titanic wreckage.  <a href="https://nyti.ms/3Xf5NUL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>A Job With a Fair Salary? What Pay Transparency Laws Are Revealing.</h3>
-<sub>By H. Claire Brown</sub>
-<p>Salary disclosure laws have been a boon for workers searching for jobs that pay fairly — but only when the advertised pay bands are narrow enough to be useful.  <a href="https://nyti.ms/3pgOMwL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
+<h3>Is the Inflation Battle Won? Not Yet.</h3>
+<sub>By Jeanna Smialek</sub>
+<p>Inflation has come down from its 2022 heights, but economists are worried about its stubbornness.  <a href="https://nyti.ms/3Jq2WCv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>U.K. Inflation Remains Stuck at 8.7 Percent</h3>
+<sub>By Eshe Nelson</sub>
+<p>The rate, which had been expected to edge lower in May, shows that Britain’s cost-of-living crisis persists, and is likely to prompt the Bank of England to raise interest rates again.  <a href="https://nyti.ms/3qJticb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-books-blue" alt="">
+<h3>Everyone Likes Reading. Why Are We So Afraid of It?</h3>
+<sub>By A.O. Scott</sub>
+<p>Book bans, chatbots, pedagogical warfare: What it means to read has become a minefield.  <a href="https://nyti.ms/42Q8FII"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Few of Trump’s G.O.P. Rivals Defend Justice Dept. Independence</h3>
+<sub>By Jonathan Swan, Maggie Haberman, Charlie Savage and Jonathan Weisman</sub>
+<p>The evolution of the Republican Party under the influence of former President Donald J. Trump calls into question a post-Watergate norm.  <a href="https://nyti.ms/43PVNnk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>4 Die in Fire Caused by Batteries in E-Bike Shop Near Chinatown</h3>
-<sub>By Hurubie Meko, Chelsia Rose Marcius, Winnie Hu and Ellen Yan</sub>
-<p>The blaze, which left two others in critical condition, began on the first floor of a building at 80 Madison Street shortly after midnight.  <a href="https://nyti.ms/3Pn0HUr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
+<h3>How E-Bike Battery Fires Became a Deadly Crisis in New York City</h3>
+<sub>By Winnie Hu</sub>
+<p>City leaders are racing to regulate battery-powered mobility devices, which have been the source of over 100 fires so far this year.  <a href="https://nyti.ms/3PihV5m"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
