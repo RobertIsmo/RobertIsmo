@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, June 21, Central Standard Time</p>
 <p>
-It looks like global politics and economics are constantly evolving.  In the US, President Biden is hosting Indian Prime Minister Narendra Modi while pushing democracy concerns to the background. Business leaders are also welcoming Modi&#39;s visit, noting India&#39;s fast-growing economy. Britain&#39;s inflation rate remains stuck at 8.7 percent, which is causing some concern about a cost-of-living crisis. Meanwhile, former President Trump has influenced the evolution of the Republican Party, calling into question a post-Watergate norm. Finally, New York City leaders are racing to regulate battery-powered mobility devices due to over 100 fires this year.</p>
+Right now, US President Biden is hosting Indian Prime Minister Narendra Modi and pushing concerns for democracy to the background. Modi is very popular in India due to a radio show he does that helps his social media presence. At the same time, Biden revealed that Chinese leader Xi Jinping had not been informed about a spy balloon that was shot down after crossing American airspace. To welcome Modi, American business leaders are investing in India&#39;s fast-growing economy, despite scrutiny over Russia and political freedoms. Meanwhile, OceanGate was warned of potential &quot;catastrophic&quot; problems with its Titanic mission, while the Fed Chair says there&#39;s still a &quot;long way to go&quot; on inflation fight. In the UK, inflation remains stuck at 8.7%. Finally, we are seeing more book bans, chatbots and other attempts to control what it means to read, and few of Trump&#39;s former GOP rivals are defending justice department independence.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In Hosting Modi, Biden Pushes Democracy Concerns to the Background</h3>
@@ -111,6 +111,12 @@ It looks like global politics and economics are constantly evolving.  In the US,
 <sub><sub>Wednesday, June 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Fed Chair Sees ‘Long Way to Go’ on Inflation Fight</h3>
+<sub>By Jeanna Smialek</sub>
+<p>Jerome H. Powell, the chair of the Federal Reserve, is set to tell House lawmakers that most central bank officials expect rates to rise further.  <a href="https://nyti.ms/3PonWNP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>U.K. Inflation Remains Stuck at 8.7 Percent</h3>
 <sub>By Eshe Nelson</sub>
 <p>The rate, which had been expected to edge lower in May, shows that Britain’s cost-of-living crisis persists, and is likely to prompt the Bank of England to raise interest rates again.  <a href="https://nyti.ms/3qJticb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -126,12 +132,6 @@ It looks like global politics and economics are constantly evolving.  In the US,
 <h3>Few of Trump’s G.O.P. Rivals Defend Justice Dept. Independence</h3>
 <sub>By Jonathan Swan, Maggie Haberman, Charlie Savage and Jonathan Weisman</sub>
 <p>The evolution of the Republican Party under the influence of former President Donald J. Trump calls into question a post-Watergate norm.  <a href="https://nyti.ms/43PVNnk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>How E-Bike Battery Fires Became a Deadly Crisis in New York City</h3>
-<sub>By Winnie Hu</sub>
-<p>City leaders are racing to regulate battery-powered mobility devices, which have been the source of over 100 fires so far this year.  <a href="https://nyti.ms/3PihV5m"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
