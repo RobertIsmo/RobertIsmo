@@ -60,13 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, June 21, Central Standard Time</p>
 <p>
-Recently, OceanGate was warned of potential dangers with their Titanic mission, and they were urged to undergo a certification process. Meanwhile, Arkansas had a law banning gender transition care for minors struck down by a judge. 
-
-The attorney general, Garland, has been confronted with an unrelenting succession of politically sensitive investigations as President Biden&#39;s son, Hunter Biden, reached a deal to plead guilty to misdemeanor tax charges. This happened while a judge in a Trump documents case set a tentative trial date as soon as August. 
-
-On the other hand, New York recently passed a bill to shield abortion providers sending pills into states with bans. For world news, Ukrainian captives released in prisoner exchanges are saying beatings were common while Russia is targeting Kyiv and Lviv with attack drones. Additionally, there was rescue worker shot and killed in the flood-stricken city of Kherson by Russian forces.
-
-For business news, the return to office is entering the desperation phase where workers are given incentives such as money to the charity of their choice or poor performance evaluations if they do not come back. Additionally, salary disclosure laws have been beneficial for workers looking for fair compensation but only when the advertised pay bands are narrow enough to be useful.</p>
+Currently, politicians and experts are divided on many topics. In the US, a law banning gender transition care for minors was just struck down, and there is a trial set for a case involving documents related to President Trump. Meanwhile, Hunter Biden has reached a deal to plead guilty to misdemeanor tax charges. On the international stage, Indian Prime Minister Narendra Modi is visiting Washington this week and there have been reports of Ukrainian prisoners of war being mistreated. In the business world, organizations are getting desperate to get their workers back in the office, with incentives like donations to charity or consequences like bad performance reviews. Finally, in New York there was a fatal fire at an e-bike shop near Chinatown caused by batteries.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>OceanGate Was Warned of Potential for ‘Catastrophic’ Problems With Titanic Mission</h3>
@@ -110,22 +104,16 @@ For business news, the return to office is entering the desperation phase where 
 <p>The Constitution and American law have clear answers for only some of the questions that would arise. Others would bring the country into truly uncharted territory.  <a href="https://nyti.ms/3JnFAxt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>New York Passes Bill to Shield Abortion Providers Sending Pills Into States With Bans</h3>
-<sub>By Pam Belluck and Emily Bazelon</sub>
-<p>The measure is one of several recently enacted by states aiming to expand access to medication abortion for patients who live where it is outlawed.  <a href="https://nyti.ms/43QtRj1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Why Is Narendra Modi So Popular? Tune In to Find Out.</h3>
+<sub>By Mujib Mashal</sub>
+<p>The Indian leader, who visits Washington this week, has softened his image at home with an old-fashioned radio show, which feeds a vast social media apparatus.  <a href="https://nyti.ms/44aM8ri"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>‘They Expected Me to Die on My Own’: Life as a Ukrainian P.O.W.</h3>
 <sub>By Carlotta Gall and Daniel Berehulak</sub>
 <p>Ukrainian captives released in prisoner exchanges say that beatings were common, and that they suffered from woefully inadequate health care and food.  <a href="https://nyti.ms/3Jiropx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia Targets Kyiv and Lviv With Attack Drones</h3>
-<sub>By Cassandra Vinograd and Victoria Kim</sub>
-<p>Moscow’s forces also shot and killed a rescue worker in the flood-stricken city of Kherson, Ukrainian officials said, as both sides battled for territory in the south and east.  <a href="https://nyti.ms/3JjJg35"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -138,6 +126,12 @@ For business news, the return to office is entering the desperation phase where 
 <h3>A Job With a Fair Salary? What Pay Transparency Laws Are Revealing.</h3>
 <sub>By H. Claire Brown</sub>
 <p>Salary disclosure laws have been a boon for workers searching for jobs that pay fairly — but only when the advertised pay bands are narrow enough to be useful.  <a href="https://nyti.ms/3pgOMwL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>4 Die in Fire Caused by Batteries in E-Bike Shop Near Chinatown</h3>
+<sub>By Hurubie Meko, Chelsia Rose Marcius, Winnie Hu and Ellen Yan</sub>
+<p>The blaze, which left two others in critical condition, began on the first floor of a building at 80 Madison Street shortly after midnight.  <a href="https://nyti.ms/3Pn0HUr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
 <hr/>
 </ol>
