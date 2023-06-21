@@ -60,8 +60,26 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, June 21, Central Standard Time</p>
 <p>
-Right now, US President Biden is hosting Indian Prime Minister Narendra Modi and pushing concerns for democracy to the background. Modi is very popular in India due to a radio show he does that helps his social media presence. At the same time, Biden revealed that Chinese leader Xi Jinping had not been informed about a spy balloon that was shot down after crossing American airspace. To welcome Modi, American business leaders are investing in India&#39;s fast-growing economy, despite scrutiny over Russia and political freedoms. Meanwhile, OceanGate was warned of potential &quot;catastrophic&quot; problems with its Titanic mission, while the Fed Chair says there&#39;s still a &quot;long way to go&quot; on inflation fight. In the UK, inflation remains stuck at 8.7%. Finally, we are seeing more book bans, chatbots and other attempts to control what it means to read, and few of Trump&#39;s former GOP rivals are defending justice department independence.</p>
+Right now, there are a lot of different things happening around the world. In the US, Justice Alito has been defending his luxurious private jet travel expenses for a fishing trip, and a closer look at a submersible lost in the North Atlantic has revealed cramped conditions with only one view port. To make matters worse, when President Biden welcomed Prime Minister Narendra Modi of India last week, he pushed democracy concerns to the background. On the other hand, Modi is trying to reach out to people by employing an old-fashioned radio show in India which has helped boost his popularity. At the United Nations he celebrated yoga and encouraged inclusivity. Meanwhile, back in the US, student loan payments are restarting with consequences for the economy and Federal Reserve Chair Jerome H. Powell declared there&#39;s still a &#39;long way to go&#39; in the battle against inflation. And in an interesting sidenote - Magazine reported that The Simpsons writer was part of something called &quot;The Dark Side of The Rainbow&quot; when Pink Floyd music was played over The Wizard of Oz movie - weird! On a less lighthearted note, there have been several stories about bad mishaps on boats in the Mediterranean sea - with lives lost due to crowded conditions and migrants thrown into the sea without any hope of a better life. Thankfully, a superyacht did come to the rescue and help save some lives in what is one of the region&#39;s worst wrecks in decades. It&#39;s certainly a difficult time for many but we can hope that awareness will bring relief soon.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Justice Alito Defends Private Jet Travel to Luxury Fishing Trip</h3>
+<sub>By Adam Liptak</sub>
+<p>In an opinion essay in The Wall Street Journal, the justice disputed a ProPublica report, saying he was not required to disclose the trip or recuse himself from his benefactor’s cases.  <a href="https://nyti.ms/44666Di"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Closer Look at the Submersible Lost in the North Atlantic</h3>
+<sub>By Matthew Bloch, Keith Collins, Marco Hernandez, Mark McKeague, Scott Reinhard and Helmuth Rosales</sub>
+<p>On the vessel, there were five passengers packed into a tight interior with no seats and a single view port 21 inches in diameter.  <a href="https://nyti.ms/3NjDTSR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Inside the Titan: Quiet and Cramped, With a Single Porthole</h3>
+<sub>By Anushka Patil and Jacey Fortin</sub>
+<p>“You just drop like a stone for two and a half hours,” said a writer for “The Simpsons” who made the trip to the Titanic wreckage.  <a href="https://nyti.ms/3Xf5NUL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In Hosting Modi, Biden Pushes Democracy Concerns to the Background</h3>
 <sub>By Peter Baker and Mujib Mashal</sub>
@@ -74,35 +92,17 @@ Right now, US President Biden is hosting Indian Prime Minister Narendra Modi and
 <p>The Indian leader, who visits Washington this week, has softened his image at home with an old-fashioned radio show, which feeds a vast social media apparatus.  <a href="https://nyti.ms/44aM8ri"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Says Xi Was Not Informed About Spy Balloon</h3>
-<sub>By Peter Baker</sub>
-<p>At a campaign fund-raiser, the president said China’s leader was “very embarrassed” to be kept in the dark about the surveillance craft that was shot down after crossing American airspace.  <a href="https://nyti.ms/3phkFp6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>At U.N., Narendra Modi Celebrates Yoga, and Joins In on a Pose</h3>
+<sub>By Sarah Maslin Nir</sub>
+<p>Prime Minister Narendra Modi has cracked down on dissent in India. In New York on Wednesday, he stressed inclusivity.  <a href="https://nyti.ms/3PpZifR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Business Leaders Join Biden in Welcoming Modi to the U.S.</h3>
-<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
-<p>India’s fast-growing economy is drawing American corporate giants, even as the country faces scrutiny over ties to Russia and limits on political freedoms.  <a href="https://nyti.ms/43QkD6y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Student Loan Pause Is Ending, With Consequences for Economy</h3>
+<sub>By Lydia DePillis</sub>
+<p>Three years of relief from payments on $1.6 trillion in student debt allowed for other borrowing and spending — and will shift into reverse.  <a href="https://nyti.ms/46cHTgx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Closer Look at the Submersible Lost in the North Atlantic</h3>
-<sub>By Matthew Bloch, Keith Collins, Marco Hernandez, Mark McKeague, Scott Reinhard and Helmuth Rosales</sub>
-<p>On the vessel, there were five passengers packed into a tight interior with no seats and a single view port 21 inches in diameter.  <a href="https://nyti.ms/3NjDTSR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>OceanGate Was Warned of Potential for ‘Catastrophic’ Problems With Titanic Mission</h3>
-<sub>By Nicholas Bogel-Burroughs, Jenny Gross and Anna Betts</sub>
-<p>Experts inside and outside the company warned of potential dangers and urged the company to undergo a certification process.  <a href="https://nyti.ms/3JnNR4v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Inside the Titan: Quiet and Cramped, With a Single Porthole</h3>
-<sub>By Anushka Patil and Jacey Fortin</sub>
-<p>“You just drop like a stone for two and a half hours,” said a writer for “The Simpsons” who made the trip to the Titanic wreckage.  <a href="https://nyti.ms/3Xf5NUL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Is the Inflation Battle Won? Not Yet.</h3>
@@ -113,25 +113,25 @@ Right now, US President Biden is hosting Indian Prime Minister Narendra Modi and
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Fed Chair Sees ‘Long Way to Go’ on Inflation Fight</h3>
 <sub>By Jeanna Smialek</sub>
-<p>Jerome H. Powell, the chair of the Federal Reserve, is set to tell House lawmakers that most central bank officials expect rates to rise further.  <a href="https://nyti.ms/3PonWNP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Jerome H. Powell, the chair of the Federal Reserve, told House lawmakers that most central bank officials expect rates to rise further.  <a href="https://nyti.ms/3PonWNP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.K. Inflation Remains Stuck at 8.7 Percent</h3>
-<sub>By Eshe Nelson</sub>
-<p>The rate, which had been expected to edge lower in May, shows that Britain’s cost-of-living crisis persists, and is likely to prompt the Bank of England to raise interest rates again.  <a href="https://nyti.ms/3qJticb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Pink Floyd, ‘The Wizard of Oz’ and Me</h3>
+<sub>By CHARLIE SAVAGE</sub>
+<p>The inside story of a Times reporter’s strange role in a foundational moment in early internet culture: “The Dark Side of the Rainbow.”  <a href="https://nyti.ms/3pcHOZC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-books-blue" alt="">
-<h3>Everyone Likes Reading. Why Are We So Afraid of It?</h3>
-<sub>By A.O. Scott</sub>
-<p>Book bans, chatbots, pedagogical warfare: What it means to read has become a minefield.  <a href="https://nyti.ms/42Q8FII"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘Like Doomsday’: How Hope of a Better Life Ended on a Boat in the Mediterranean</h3>
+<sub>By Christina Goldbaum and Zia ur-Rehman</sub>
+<p>About two dozen of those on the fishing vessel that capsized off Greece came from Bandli, a community in northeastern Pakistan with a long history of young men chasing a brighter future abroad.  <a href="https://nyti.ms/3XlDuUL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Few of Trump’s G.O.P. Rivals Defend Justice Dept. Independence</h3>
-<sub>By Jonathan Swan, Maggie Haberman, Charlie Savage and Jonathan Weisman</sub>
-<p>The evolution of the Republican Party under the influence of former President Donald J. Trump calls into question a post-Watergate norm.  <a href="https://nyti.ms/43PVNnk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Superyacht Gave a Lifeline to 100 Migrants Thrown Into the Sea</h3>
+<sub>By Jason Horowitz and Matina Stevis-Gridneff</sub>
+<p>A $175 million vessel responded to a distress call and helped rescue survivors in one of the Mediterranean’s worst wrecks in decades, reflecting the new inequality of the seas.  <a href="https://nyti.ms/42QI7Hw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
