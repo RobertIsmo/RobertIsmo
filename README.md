@@ -58,9 +58,15 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Tuesday, June 20, Central Standard Time</p>
+<p>It is Wednesday, June 21, Central Standard Time</p>
 <p>
-There&#39;s a lot going on right now. OceanGate was warned that its mission to the Titanic could be catastrophic, and judges are striking down laws that ban gender transition care for minors. Popular topics like the Hunter Biden investigation are also still happening, with Hunter recently striking a plea deal. The trouble for President Biden is both personal and politically painful. There’s also an upcoming trial in Trump documents case set for as soon as August. Plus, New York just passed a bill to shield abortion providers sending pills into states with bans and Russia is now attacking Kyiv and Lviv with attack drones. On top of that, groundskeepers are using an unexpected tool in their arsenal, a ban on infield shifts, to maintain the home field advantage. Finally, businesses are entering the desperation phase to get workers back at their desks by offering incentives and consequences alike.</p>
+Recently, OceanGate was warned of potential dangers with their Titanic mission, and they were urged to undergo a certification process. Meanwhile, Arkansas had a law banning gender transition care for minors struck down by a judge. 
+
+The attorney general, Garland, has been confronted with an unrelenting succession of politically sensitive investigations as President Biden&#39;s son, Hunter Biden, reached a deal to plead guilty to misdemeanor tax charges. This happened while a judge in a Trump documents case set a tentative trial date as soon as August. 
+
+On the other hand, New York recently passed a bill to shield abortion providers sending pills into states with bans. For world news, Ukrainian captives released in prisoner exchanges are saying beatings were common while Russia is targeting Kyiv and Lviv with attack drones. Additionally, there was rescue worker shot and killed in the flood-stricken city of Kherson by Russian forces.
+
+For business news, the return to office is entering the desperation phase where workers are given incentives such as money to the charity of their choice or poor performance evaluations if they do not come back. Additionally, salary disclosure laws have been beneficial for workers looking for fair compensation but only when the advertised pay bands are narrow enough to be useful.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>OceanGate Was Warned of Potential for ‘Catastrophic’ Problems With Titanic Mission</h3>
@@ -122,16 +128,16 @@ There&#39;s a lot going on right now. OceanGate was warned that its mission to t
 <p>Moscow’s forces also shot and killed a rescue worker in the flood-stricken city of Kherson, Ukrainian officials said, as both sides battled for territory in the south and east.  <a href="https://nyti.ms/3JjJg35"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>The Dirty (and Grassy) Secrets Behind the Home Field Advantage</h3>
-<sub>By David Waldstein</sub>
-<p>In an era of expertly manicured fields and shared knowledge among groundskeepers, crews have an unexpected tool in their arsenal: the ban on infield shifts.  <a href="https://nyti.ms/3pbXtZ9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Return to Office Enters the Desperation Phase</h3>
 <sub>By Emma Goldberg</sub>
 <p>The next stage of getting workers back at their desks includes incentives like $10 to the charity of their choice — and consequences like poor performance evaluations if they don’t make the trek in.  <a href="https://nyti.ms/3JnZ3xV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>A Job With a Fair Salary? What Pay Transparency Laws Are Revealing.</h3>
+<sub>By H. Claire Brown</sub>
+<p>Salary disclosure laws have been a boon for workers searching for jobs that pay fairly — but only when the advertised pay bands are narrow enough to be useful.  <a href="https://nyti.ms/3pgOMwL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
 <hr/>
 </ol>
