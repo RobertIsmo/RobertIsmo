@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, June 21, Central Standard Time</p>
 <p>
-Right now, there are a lot of different things happening around the world. In the US, Justice Alito has been defending his luxurious private jet travel expenses for a fishing trip, and a closer look at a submersible lost in the North Atlantic has revealed cramped conditions with only one view port. To make matters worse, when President Biden welcomed Prime Minister Narendra Modi of India last week, he pushed democracy concerns to the background. On the other hand, Modi is trying to reach out to people by employing an old-fashioned radio show in India which has helped boost his popularity. At the United Nations he celebrated yoga and encouraged inclusivity. Meanwhile, back in the US, student loan payments are restarting with consequences for the economy and Federal Reserve Chair Jerome H. Powell declared there&#39;s still a &#39;long way to go&#39; in the battle against inflation. And in an interesting sidenote - Magazine reported that The Simpsons writer was part of something called &quot;The Dark Side of The Rainbow&quot; when Pink Floyd music was played over The Wizard of Oz movie - weird! On a less lighthearted note, there have been several stories about bad mishaps on boats in the Mediterranean sea - with lives lost due to crowded conditions and migrants thrown into the sea without any hope of a better life. Thankfully, a superyacht did come to the rescue and help save some lives in what is one of the region&#39;s worst wrecks in decades. It&#39;s certainly a difficult time for many but we can hope that awareness will bring relief soon.</p>
+The world has been facing a lot of tough issues lately. In the US, Justice Alito defended private jet travel to a luxury fishing trip even though he didn&#39;t have to disclose the trip. A submersible lost in the North Atlantic has shed more light on how it was operating, as did a $175 million boat that rescued 100 migrants from the Mediterranean sea. On the business side, the end of a student loan pause could have consequences on the economy. The Federal Reserve&#39;s chair says there&#39;s still a long way to go in fighting inflation. Addressing the opioid overdose crisis is being met with debate because of new laws regarding fentanyl. There is also an interesting story about a New York Times reporter and their role in early internet culture. Political allies are pledging billions for Ukraine&#39;s recovery, while someone who assaulted an officer during the Capitol riot got one of the stiffest sentences yet.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Justice Alito Defends Private Jet Travel to Luxury Fishing Trip</h3>
@@ -80,24 +80,6 @@ Right now, there are a lot of different things happening around the world. In th
 <p>“You just drop like a stone for two and a half hours,” said a writer for “The Simpsons” who made the trip to the Titanic wreckage.  <a href="https://nyti.ms/3Xf5NUL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Hosting Modi, Biden Pushes Democracy Concerns to the Background</h3>
-<sub>By Peter Baker and Mujib Mashal</sub>
-<p>The president who declared “the battle between democracy and autocracy” to be the defining struggle of his time has concluded that he needs to accept some imperfect but important friends.  <a href="https://nyti.ms/3CBQWKq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Why Is Narendra Modi So Popular? Tune In to Find Out.</h3>
-<sub>By Mujib Mashal</sub>
-<p>The Indian leader, who visits Washington this week, has softened his image at home with an old-fashioned radio show, which feeds a vast social media apparatus.  <a href="https://nyti.ms/44aM8ri"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>At U.N., Narendra Modi Celebrates Yoga, and Joins In on a Pose</h3>
-<sub>By Sarah Maslin Nir</sub>
-<p>Prime Minister Narendra Modi has cracked down on dissent in India. In New York on Wednesday, he stressed inclusivity.  <a href="https://nyti.ms/3PpZifR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 21, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Student Loan Pause Is Ending, With Consequences for Economy</h3>
 <sub>By Lydia DePillis</sub>
@@ -105,15 +87,15 @@ Right now, there are a lot of different things happening around the world. In th
 <sub><sub>Wednesday, June 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Is the Inflation Battle Won? Not Yet.</h3>
-<sub>By Jeanna Smialek</sub>
-<p>Inflation has come down from its 2022 heights, but economists are worried about its stubbornness.  <a href="https://nyti.ms/3Jq2WCv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Fed Chair Sees ‘Long Way to Go’ on Inflation Fight</h3>
 <sub>By Jeanna Smialek</sub>
 <p>Jerome H. Powell, the chair of the Federal Reserve, told House lawmakers that most central bank officials expect rates to rise further.  <a href="https://nyti.ms/3PonWNP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Harsh New Fentanyl Laws Ignite Debate Over How to Combat Overdose Crisis</h3>
+<sub>By Jan Hoffman</sub>
+<p>Critics say a fierce law-and-order approach could undermine public health goals and advances in addiction treatment.  <a href="https://nyti.ms/3PpnwGZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
@@ -123,15 +105,33 @@ Right now, there are a lot of different things happening around the world. In th
 <sub><sub>Wednesday, June 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘Like Doomsday’: How Hope of a Better Life Ended on a Boat in the Mediterranean</h3>
-<sub>By Christina Goldbaum and Zia ur-Rehman</sub>
-<p>About two dozen of those on the fishing vessel that capsized off Greece came from Bandli, a community in northeastern Pakistan with a long history of young men chasing a brighter future abroad.  <a href="https://nyti.ms/3XlDuUL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Allies Pledge Billions for Ukraine’s Recovery as Zelensky Stresses Urgency</h3>
+<sub>By Mark Landler</sub>
+<p>The price tag for reconstruction has soared, driving debate among U.S. and European officials, legal experts and others about using frozen Russian assets to pay for it.  <a href="https://nyti.ms/46ijZR2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Ebon Moss-Bachrach Gives ‘The Bear’ Its Abrasive Edge</h3>
+<sub>By Melena Ryzik</sub>
+<p>This thoughtful Brooklyn dad excels at playing stunted men like Richie, his volatile character in the FX hit. Just don’t call them dirtbags: “I get a little sensitive,” he said.  <a href="https://nyti.ms/42OKAlE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>A Superyacht Gave a Lifeline to 100 Migrants Thrown Into the Sea</h3>
 <sub>By Jason Horowitz and Matina Stevis-Gridneff</sub>
 <p>A $175 million vessel responded to a distress call and helped rescue survivors in one of the Mediterranean’s worst wrecks in decades, reflecting the new inequality of the seas.  <a href="https://nyti.ms/42QI7Hw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘Like Doomsday’: How Hope of a Better Life Ended on a Boat in the Mediterranean</h3>
+<sub>By Christina Goldbaum and Zia ur-Rehman</sub>
+<p>About two dozen of those on the fishing vessel that capsized off Greece came from Bandli, a community in northeastern Pakistan with a long history of young men chasing a brighter future abroad.  <a href="https://nyti.ms/3XlDuUL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Man Who Assaulted Officer on Jan. 6 Is Sentenced to More Than 12 Years</h3>
+<sub>By Glenn Thrush and Alan Feuer</sub>
+<p>Daniel Rodriguez, whom the judge called a “one-man army of hate,” received one of the stiffest sentences so far in the Justice Department’s investigation of the Capitol riot.  <a href="https://nyti.ms/3XiaHQE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
