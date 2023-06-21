@@ -60,18 +60,36 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, June 20, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. We have President Biden and his son Hunter facing some politically and personally painful troubles as Hunter has been sentenced in some agreement. Republicans are looking into this which has lead to Democrats arguing for the Justice Department&#39;s independence. Court cases regarding Trump are starting up with a trial date being set for August. There have also been some ethics concerns arising regarding Trump&#39;s real estate dealings in Oman. The Constitution and law are not clear when it comes to what would happen if a presidential candidate was convicted, so that leads us to uncharted territory. A study has come out showing that the cumulative force of head hits is the best predictor of CTE in athletes. Ukrainian prisoners of war have been sharing stories of beatings and inadequate food and health care while held captive. There are some interesting secrets behind the home field advantage in sports, like groups using ban on infield shifts to their advantage. Businesses have been trying various incentives to get employees back into the office, from generous bonuses to charity donations to poor performance evaluations when they don&#39;t show up. Lastly, four people tragically died in a fire near Chinatown which left two others critically injured.</p>
+Recently, a judge in Arkansas struck down a law banning gender transition care for minors, which had been enacted by more than a dozen states. An underwater exploration company in Seattle called OceanGate was warned of potential for ‘catastrophic’ problems with their Titanic mission and urged to undergo a certification process. President Biden is facing criticism from political adversaries due to his son Hunter&#39;s plea agreement with the Justice Department regarding misdemeanor tax charges. Furthermore, Aileen M. Cannon, the judge in Trump documents case, has set a tentative trial date as soon as August. In addition, New York just passed a bill to shield abortion providers sending pills to states with bans, while Russia has targeted major cities Kyiv and Lviv with attack drones. On the sport side, groundskeepers have an unexpected tool at their disposal due to the ban on infield shifts. Lastly, companies trying to get people back into their offices are getting desperate and starting to offer incentives like $10 donations to charities and consequences like poor performance evaluations if workers don&#39;t return to work.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>For Biden, the Personal and Politically Painful Troubles of His Son</h3>
-<sub>By Peter Baker</sub>
-<p>Hunter Biden’s sentencing agreement put him in the cross-hairs of President Biden’s adversaries once again.  <a href="https://nyti.ms/3qODxfn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Judge Strikes Down Arkansas Law Banning Gender Transition Care for Minors</h3>
+<sub>By Rick Rojas and Emily Cochrane</sub>
+<p>The case had been closely watched as an important test of whether bans on transition care for minors, enacted by more than a dozen states, could withstand challenges.  <a href="https://nyti.ms/3XeVa4j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Republicans, Claiming Double Standard, Vow to Keep Investigating Bidens</h3>
-<sub>By Kayla Guo</sub>
-<p>Congressional Republicans accused President Biden of orchestrating a lenient penalty for his son, while Democrats argued that bringing any charges reflected the Justice Department’s independence.  <a href="https://nyti.ms/3Jpfw5b"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>OceanGate Was Warned of Potential for ‘Catastrophic’ Problems With Titanic Mission</h3>
+<sub>By Nicholas Bogel-Burroughs, Jenny Gross and Anna Betts</sub>
+<p>Experts inside and outside the company warned of potential dangers and urged the company to undergo a certification process.  <a href="https://nyti.ms/3JnNR4v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Garland’s Distance From Hunter Biden Inquiry Fails to Quell Critics</h3>
+<sub>By Glenn Thrush</sub>
+<p>The attorney general has confronted an unrelenting succession of politically sensitive investigations, underlining the intensely polarized environment he is operating in.  <a href="https://nyti.ms/3Nll0iB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>For Biden, the Troubles of His Son Are Personal and Politically Painful</h3>
+<sub>By Peter Baker</sub>
+<p>Hunter Biden’s plea agreement put him in the cross-hairs of President Biden’s adversaries once again.  <a href="https://nyti.ms/3qODxfn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Hunter Biden Reaches Deal to Plead Guilty to Misdemeanor Tax Charges</h3>
+<sub>By Michael S. Schmidt and Adam Entous</sub>
+<p>Under an agreement with the Justice Department, the president’s son agreed to probation for filing his taxes late, and he can avoid a charge that he lied about his drug use when he bought a gun.  <a href="https://nyti.ms/3qRuaMb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -81,33 +99,27 @@ There is a lot going on in the world right now. We have President Biden and his 
 <sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Real Estate Deal in Oman Underscores Ethics Concerns</h3>
-<sub>By Eric Lipton</sub>
-<p>Details of the former president’s agreement to work with a Saudi firm to develop a hotel and golf complex overlooking the Gulf of Oman highlight the ways his business and political roles intersect.  <a href="https://nyti.ms/4494icR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>What Happens if a Presidential Candidate Is Convicted?</h3>
 <sub>By Maggie Astor</sub>
 <p>The Constitution and American law have clear answers for only some of the questions that would arise. Others would bring the country into truly uncharted territory.  <a href="https://nyti.ms/3JnFAxt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>OceanGate was warned of potential for ‘catastrophic’ problems with Titanic mission.</h3>
-<sub>By Jenny Gross and Nicholas Bogel-Burroughs</sub>
-<p>Leaders in the submersible vehicle industry urged the company in 2018 to undergo a more stringent certification process.  <a href="https://nyti.ms/3JnNR4v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Collective Force of Head Hits, Not Just the Number of Them, Increases Odds of C.T.E.</h3>
-<sub>By Ken Belson and Benjamin Mueller</sub>
-<p>The largest study of chronic traumatic encephalopathy to date found that the cumulative force of head hits absorbed by players in their careers is the best predictor of future brain disease.  <a href="https://nyti.ms/3NG2lzq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>New York Passes Bill to Shield Abortion Providers Sending Pills Into States With Bans</h3>
+<sub>By Pam Belluck and Emily Bazelon</sub>
+<p>The measure is one of several recently enacted by states aiming to expand access to medication abortion for patients who live where it is outlawed.  <a href="https://nyti.ms/43QtRj1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>‘They Expected Me to Die on My Own’: Life as a Ukrainian P.O.W.</h3>
 <sub>By Carlotta Gall and Daniel Berehulak</sub>
 <p>Ukrainian captives released in prisoner exchanges say that beatings were common, and that they suffered from woefully inadequate health care and food.  <a href="https://nyti.ms/3Jiropx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russia Targets Kyiv and Lviv With Attack Drones</h3>
+<sub>By Cassandra Vinograd and Victoria Kim</sub>
+<p>Moscow’s forces also shot and killed a rescue worker in the flood-stricken city of Kherson, Ukrainian officials said, as both sides battled for territory in the south and east.  <a href="https://nyti.ms/3JjJg35"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
@@ -120,18 +132,6 @@ There is a lot going on in the world right now. We have President Biden and his 
 <h3>Return to Office Enters the Desperation Phase</h3>
 <sub>By Emma Goldberg</sub>
 <p>The next stage of getting workers back at their desks includes incentives like $10 to the charity of their choice — and consequences like poor performance evaluations if they don’t make the trek in.  <a href="https://nyti.ms/3JnZ3xV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>A Job With a Fair Salary? What Pay Transparency Laws Are Revealing.</h3>
-<sub>By H. Claire Brown</sub>
-<p>Salary disclosure laws have been a boon for workers searching for jobs that pay fairly — but only when the advertised pay bands are narrow enough to be useful.  <a href="https://nyti.ms/3pgOMwL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>4 Die in Fire That Began at E-Bike Shop Near Chinatown</h3>
-<sub>By Hurubie Meko, Chelsia Rose Marcius, Winnie Hu and Ellen Yan</sub>
-<p>The blaze, which left two others in critical condition, began on the first floor of a building at 80 Madison Street shortly after midnight.  <a href="https://nyti.ms/3Pn0HUr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
 <hr/>
 </ol>
