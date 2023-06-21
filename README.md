@@ -60,18 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, June 20, Central Standard Time</p>
 <p>
-Recently, a judge in Arkansas struck down a law banning gender transition care for minors, which had been enacted by more than a dozen states. An underwater exploration company in Seattle called OceanGate was warned of potential for ‘catastrophic’ problems with their Titanic mission and urged to undergo a certification process. President Biden is facing criticism from political adversaries due to his son Hunter&#39;s plea agreement with the Justice Department regarding misdemeanor tax charges. Furthermore, Aileen M. Cannon, the judge in Trump documents case, has set a tentative trial date as soon as August. In addition, New York just passed a bill to shield abortion providers sending pills to states with bans, while Russia has targeted major cities Kyiv and Lviv with attack drones. On the sport side, groundskeepers have an unexpected tool at their disposal due to the ban on infield shifts. Lastly, companies trying to get people back into their offices are getting desperate and starting to offer incentives like $10 donations to charities and consequences like poor performance evaluations if workers don&#39;t return to work.</p>
+There&#39;s a lot going on right now. OceanGate was warned that its mission to the Titanic could be catastrophic, and judges are striking down laws that ban gender transition care for minors. Popular topics like the Hunter Biden investigation are also still happening, with Hunter recently striking a plea deal. The trouble for President Biden is both personal and politically painful. There’s also an upcoming trial in Trump documents case set for as soon as August. Plus, New York just passed a bill to shield abortion providers sending pills into states with bans and Russia is now attacking Kyiv and Lviv with attack drones. On top of that, groundskeepers are using an unexpected tool in their arsenal, a ban on infield shifts, to maintain the home field advantage. Finally, businesses are entering the desperation phase to get workers back at their desks by offering incentives and consequences alike.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Judge Strikes Down Arkansas Law Banning Gender Transition Care for Minors</h3>
-<sub>By Rick Rojas and Emily Cochrane</sub>
-<p>The case had been closely watched as an important test of whether bans on transition care for minors, enacted by more than a dozen states, could withstand challenges.  <a href="https://nyti.ms/3XeVa4j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>OceanGate Was Warned of Potential for ‘Catastrophic’ Problems With Titanic Mission</h3>
 <sub>By Nicholas Bogel-Burroughs, Jenny Gross and Anna Betts</sub>
 <p>Experts inside and outside the company warned of potential dangers and urged the company to undergo a certification process.  <a href="https://nyti.ms/3JnNR4v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Judge Strikes Down Arkansas Law Banning Gender Transition Care for Minors</h3>
+<sub>By Rick Rojas and Emily Cochrane</sub>
+<p>The case had been closely watched as an important test of whether bans on transition care for minors, enacted by more than a dozen states, could withstand challenges.  <a href="https://nyti.ms/3XeVa4j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
