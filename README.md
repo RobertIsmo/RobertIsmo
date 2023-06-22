@@ -58,15 +58,15 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Wednesday, June 21, Central Standard Time</p>
+<p>It is Thursday, June 22, Central Standard Time</p>
 <p>
-Right now, the US is embroiled in tensions with China over cloud computing companies, after the Biden administration proposed steps to tackle big tech giants like Alibaba and Huawei. On a different note, Supreme Court Justice Samuel A. Alito Jr. made news when he wrote an opinion essay in The Wall Street Journal responding to a ProPublica article on his private jet travels for luxurious fishing trips. 
+There&#39;s a lot happening in the world right now. In technology, the Biden administration is looking into potential action against Chinese firms like Alibaba and Huawei. In US news, Supreme Court Justice Alito defended himself and his private jet travel in a rival publication to ProPublica, causing a stir. 
 
-In unrelated news, a three-person submersible known as Alvin recently revealed an alien world following a dive. However, the biggest threat to the submersible&#39;s passengers now may be a dwindling oxygen supply they have less than a day&#39;s worth of left.
+In business news, rents in New York City will increase for the second year in a row. In science, we learn about the risks that come with exploring underwater worlds through an exploration story from decades ago. 
 
-Meanwhile, there is debate on how to fight against the opioid crisis as there are new fentanyl laws that are being implemented, drawing criticism along with it. Lastly, a New York Times reporter revealed the inside story of their strange role in early internet culture — specifically regarding Pink Floyd and ‘The Wizard of Oz&#39;. 
+Healthwise, there is debate over tough new fentanyl laws and how they interact with public health goals. In international news, Ukraine is facing high expectations while battling Russia&#39;s aggressive tactics. 
 
-Back here in the US, Oklahoma is facing serious storms and extreme heat which has put strain on resources there and in Texas. In another recent event in the country, Daniel Rodriguez who assaulted an officer during the Capitol riot was sentenced to more than 12 years.</p>
+In sports, we learn about a boot camp to hot takes and analysis of NBLA players and former players. On the US population front, more people are aging than ever before - 38 is now the median age compared to 30 in 1980. Finally in criminal justice news, a man who assaulted an officer at the January 6th Capitol riot was sentenced to more than 12 years in prison. Extreme heat and storms are threatening Oklahoma which is already struggling with its resources.</p>
 <ol>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>China’s Cloud Computing Firms Raise Concern for U.S.</h3>
@@ -104,12 +104,6 @@ Back here in the US, Oklahoma is facing serious storms and extreme heat which ha
 <p>Critics say a fierce law-and-order approach could undermine public health goals and advances in addiction treatment.  <a href="https://nyti.ms/3PpnwGZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Pink Floyd, ‘The Wizard of Oz’ and Me</h3>
-<sub>By CHARLIE SAVAGE</sub>
-<p>The inside story of a Times reporter’s strange role in a foundational moment in early internet culture: “The Dark Side of the Rainbow.”  <a href="https://nyti.ms/3pcHOZC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 21, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Rents for 2 Million New Yorkers to Rise Again This Year</h3>
 <sub>By Mihir Zaveri and Olivia Bensimon</sub>
@@ -126,6 +120,12 @@ Back here in the US, Oklahoma is facing serious storms and extreme heat which ha
 <h3>The Boot Camp for N.B.A. Hot Takes and Analysis</h3>
 <sub>By Sopan Deb and Allison Zaucha</sub>
 <p>A two-day camp trains current and former basketball players in the lucrative art of broadcasting, podcasting and throwing verbal bombs on camera.  <a href="https://nyti.ms/3NGASxb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The U.S. Population Is Older Than It Has Ever Been</h3>
+<sub>By Dana Goldstein</sub>
+<p>New census data shows that the country’s median age is now 38. In 1980, it was 30.  <a href="https://nyti.ms/3JrcVrw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
