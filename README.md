@@ -60,42 +60,42 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, June 22, Central Standard Time</p>
 <p>
-There&#39;s a lot going on right now in the world. President Biden is hosting Prime Minister Narendra Modi of India for meetings and a state dinner. India is profiting from its neutrality in the Ukraine War, buying huge amounts of Russian oil. Modi&#39;s visit has big implications for U.S.-India relations, as President Biden seeks to shore up an alliance against Russia&#39;s aggression and China&#39;s economic influence. Meanwhile, Belarus is fast becoming a &#39;vassal state&#39; of Russia, and a Wall Street Journal reporter has been detained there and charged with spying. In California, experts are warning that a superstorm could lead to floods. A court is set to reveal who bailed out a first-term GOP congressman, and writers have compiled a list of 25 most influential works of postwar queer literature. Here in the US, the population is older than ever before due to longevity gains, and storms have killed 4 people in North Texas town while heatwave spread across much of the region.</p>
+There&#39;s a lot happening in the world right now. In India, Prime Minister Modi is not known for fielding questions from the press and his single status is understood to be motivated by keeping corruption at bay. Speaking of corruption, there&#39;s been a scandal involving US Congressman George Santos and questions about his personal finances as well as campaign fund-raising and spending. Belarus is becoming a &quot;vassal state&quot; of Russia, allowing Moscow to station nuclear weapons on its soil, and some are concerned that California&#39;s dams may fail if hit by a large storm. Closer to home, the US population has now become older than ever with a median age of 38, and North Texas has recently been hit by severe storms that have killed at least four people. Finally, several authors have come together to debate and create a list of the 25 most influential works of postwar queer literature.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Welcomes Modi with Pomp and Pageantry as He Seeks to Bolster Ties</h3>
-<sub>By Peter Baker</sub>
-<p>President Biden will host Prime Minister Narendra Modi of India for meetings and a state dinner, only the third since Mr. Biden took office two and a half years ago.  <a href="https://nyti.ms/3NFlz8a"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How India Profits From Its Neutrality in the Ukraine War</h3>
-<sub>By Lazaro Gamio, Leanne Abraham, Ana Swanson and Alex Travelli</sub>
-<p>India, a critical security partner of the United States, now buys huge amounts of Russian oil, purchasing one of every two barrels shipped at sea.  <a href="https://nyti.ms/3Xh5Orf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>What to Know About Modi’s Visit and U.S.-India Relations</h3>
-<sub>By Victoria Kim</sub>
-<p>The visit has big implications for U.S.-India relations as President Biden seeks to shore up an alliance against Russia’s aggression and China’s economic influence.  <a href="https://nyti.ms/3CF8khx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>If Modi does field reporters’ questions, mark the day — it may be the first.</h3>
+<sub>By Mujib Mashal</sub>
+<p>The Indian prime minister and his staff have tightly controlled his message and media availability. Speeches to huge crowds? All good. Answering reporters’ questions live? Almost never seen.  <a href="https://nyti.ms/3NHLBaG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘The Country Is His Family’: Why Modi and Other Indian Leaders Stay Single</h3>
+<h3>Why Modi and Other Indian Leaders Stay Single</h3>
 <sub>By Suhasini Raj</sub>
 <p>India’s politicians need a lot of time to attend to 1.4 billion people. And with corruption widespread, those without families are often seen as less likely to steal.  <a href="https://nyti.ms/3p9ADBH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Extreme Travel Rescue Operations Are Vast in Scale and Cost. Who Foots the Bill Is Murky.</h3>
+<sub>By Christine Chung</sub>
+<p>The enormous response has involved the U.S., Canada and France. It is unclear whether taxpayers in those countries will be paying for it.  <a href="https://nyti.ms/3r0o1go"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>George Santos Was Bailed Out by His Father and Aunt, Court Records Show</h3>
+<sub>By Michael Gold and Grace Ashford</sub>
+<p>Mr. Santos, a first-term G.O.P. congressman, had tried to keep the names of the people who guaranteed his $500,000 bond sealed, but two judges rejected his efforts.  <a href="https://nyti.ms/3CHGiBP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Lies, Charges and Questions Remaining in the George Santos Scandal</h3>
+<sub>By Michael Gold and Grace Ashford</sub>
+<p>George Santos has told so many stories they can be hard to keep straight. We cataloged them, including major questions about his personal finances and his campaign fund-raising and spending.  <a href="https://nyti.ms/42O9HFB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Belarus Is Fast Becoming a ‘Vassal State’ of Russia</h3>
 <sub>By Valerie Hopkins</sub>
 <p>Allowing Moscow to place tactical nuclear weapons on its soil is just the latest sign of its loss of sovereignty to the Kremlin, military experts and pro-democracy activists say.  <a href="https://nyti.ms/447A2Pq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Russian court upholds a Wall Street Journal reporter’s detention.</h3>
-<sub>By Valerie Hopkins</sub>
-<p>Evan Gershkovich, an American journalist who has been based in Russia for years, was arrested in March and charged with spying, which he denies.  <a href="https://nyti.ms/3CFfFh5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
@@ -104,16 +104,22 @@ There&#39;s a lot going on right now in the world. President Biden is hosting Pr
 <p>One superstorm could send walls of water sweeping through populated areas. There’s not much time to act.  <a href="https://nyti.ms/42TSJVR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Who Bailed George Santos Out? Court Is Set to Reveal the Mystery.</h3>
-<sub>By Michael Gold and Grace Ashford</sub>
-<p>Mr. Santos, a first-term G.O.P. congressman, has tried to keep the names of his bail sureties sealed, but two judges have now rejected his efforts.  <a href="https://nyti.ms/3CHGiBP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A North Korean Dissident Defects to the American Right</h3>
+<sub>By Charles Homans</sub>
+<p>Yeonmi Park’s account of the horrors of North Korea made her a human rights celebrity. Her new claims that America is on the same path have made her a right-wing media star.  <a href="https://nyti.ms/44eTj1K"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-t-magazine-blue" alt="">
 <h3>The 25 Most Influential Works of Postwar Queer Literature</h3>
 <sub>By Kurt Soller, Liz Brown, Rose Courteau, Kate Guadagnino, Sara Holdren, Brian Keith Jackson, Evan Moffitt, Miguel Morales, Tomi Obaro, Coco Romack, Michael Snyder and June Thomas</sub>
 <p>Six opinionated writers debate — and define — the state of L.G.B.T.Q. writing in order to make a list of the most essential works of fiction, poetry and drama right now.  <a href="https://nyti.ms/3NHjjNH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>N.T.S.B. Convenes Hearing in East Palestine to Examine Train Derailment</h3>
+<sub>By Mark Walker and Peter Eavis</sub>
+<p>In advance of a two-day hearing on the derailment of a Norfolk Southern freight train in Ohio, investigators released a trove of documents about the accident.  <a href="https://nyti.ms/3r1sn72"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -127,12 +133,6 @@ There&#39;s a lot going on right now in the world. President Biden is hosting Pr
 <sub>By Eduardo Medina, Mike Ives and Claire Moses</sub>
 <p>The National Weather Service said the storm in Matador most likely produced a tornado. It hit during a heat wave that has spread across much of the region.  <a href="https://nyti.ms/42VNG7g"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Tracking Dangerous Heat in the U.S.</h3>
-<sub>By Matthew Bloch, Lazaro Gamio, Zach Levitt, Eleanor Lutz, Bea Malsky and John-Michael Murphy</sub>
-<p>See detailed maps of the latest heat index forecasts in the United States.  <a href="https://nyti.ms/3calp8v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 12, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
