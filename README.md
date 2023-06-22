@@ -60,7 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, June 21, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. In the tech industry, the Biden administration is looking into how it could take action against Chinese cloud computing companies like Alibaba and Huawei. In the justice system, Supreme Court Justice Samuel A. Alito Jr. wrote an opinion essay in The Wall Street Journal defending his private jet travel to a luxury fishing trip after a ProPublica article came out about it. In science, a reporter recounts his dive in Alvin, a three-person submersible, and the dangers behind that adventure. In the fight against opioid crisis, there is debate going on over new Fentanyl laws and whether it will be helpful of not. People also remember how Pink Floyd&#39;s music was synched with &quot;The Wizard of Oz&quot; movie decades ago by a Times reporter. Rent rises could affect two million renters in New York and Ukraine just announced its counteroffensive battle against Russia with leaders trying to bolster morale and Western support. NBA players are training in boot camp to become broadcasters and commentators, and an insurrectionist Daniel Rodriguez who assaulted an officer during Jan 6th riot has been sentenced to more than 12 years of jail time. Lastly, Oklahoma is fighting extreme heat in addition to storm damage they have already endured with many people being without power.</p>
+Right now, the US is embroiled in tensions with China over cloud computing companies, after the Biden administration proposed steps to tackle big tech giants like Alibaba and Huawei. On a different note, Supreme Court Justice Samuel A. Alito Jr. made news when he wrote an opinion essay in The Wall Street Journal responding to a ProPublica article on his private jet travels for luxurious fishing trips. 
+
+In unrelated news, a three-person submersible known as Alvin recently revealed an alien world following a dive. However, the biggest threat to the submersible&#39;s passengers now may be a dwindling oxygen supply they have less than a day&#39;s worth of left.
+
+Meanwhile, there is debate on how to fight against the opioid crisis as there are new fentanyl laws that are being implemented, drawing criticism along with it. Lastly, a New York Times reporter revealed the inside story of their strange role in early internet culture — specifically regarding Pink Floyd and ‘The Wizard of Oz&#39;. 
+
+Back here in the US, Oklahoma is facing serious storms and extreme heat which has put strain on resources there and in Texas. In another recent event in the country, Daniel Rodriguez who assaulted an officer during the Capitol riot was sentenced to more than 12 years.</p>
 <ol>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>China’s Cloud Computing Firms Raise Concern for U.S.</h3>
@@ -118,7 +124,7 @@ There is a lot happening in the world right now. In the tech industry, the Biden
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>The Boot Camp for N.B.A. Hot Takes and Analysis</h3>
-<sub>By Sopan Deb</sub>
+<sub>By Sopan Deb and Allison Zaucha</sub>
 <p>A two-day camp trains current and former basketball players in the lucrative art of broadcasting, podcasting and throwing verbal bombs on camera.  <a href="https://nyti.ms/3NGASxb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 21, Central Standard Time</sub></sub>
 <hr/>
