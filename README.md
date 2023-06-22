@@ -60,12 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, June 22, Central Standard Time</p>
 <p>
-There are a lot of things happening in the world right now. President Biden is hosting Prime Minister Modi for a state dinner, only the third since Mr. Biden assumed office two and a half years ago. India is profiting from its neutrality in the Ukraine war by buying huge amounts of Russian oil. Modi&#39;s visit to the US has big implications for their relations as Biden seeks to shore up their alliance against Russia and China&#39;s aggression. Indian politicians stay single when they get elected as it is seen as less likely that they would steal if they don&#39;t have families. Belarus has just become a vassal state of Russia, allowing Moscow to place nuclear weapons on its soil while a Wall Street Journal reporter in Russia has been detained and charged with spying - something he denies. On one hand, we have these geopolitical happenings, and on the other, there&#39;s a countdown going on in California about a possible failure of its dams, due to changes in weather patterns - putting lives at stake. Additionally, census data shows that the US population is now older than it has ever been, with a median age of over 38 compared to 30 forty years ago. Now why would someone bail out Congressman George Santos despite him wanting to keep the names under wraps? Well, turns out that the court is set to reveal who did it - making this another interesting case worth knowing about.</p>
+There&#39;s a lot going on right now in the world. President Biden is hosting Prime Minister Narendra Modi of India for meetings and a state dinner. India is profiting from its neutrality in the Ukraine War, buying huge amounts of Russian oil. Modi&#39;s visit has big implications for U.S.-India relations, as President Biden seeks to shore up an alliance against Russia&#39;s aggression and China&#39;s economic influence. Meanwhile, Belarus is fast becoming a &#39;vassal state&#39; of Russia, and a Wall Street Journal reporter has been detained there and charged with spying. In California, experts are warning that a superstorm could lead to floods. A court is set to reveal who bailed out a first-term GOP congressman, and writers have compiled a list of 25 most influential works of postwar queer literature. Here in the US, the population is older than ever before due to longevity gains, and storms have killed 4 people in North Texas town while heatwave spread across much of the region.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Plans Lavish Formal Welcome for Modi as He Seeks to Bolster Ties</h3>
+<h3>Biden Welcomes Modi with Pomp and Pageantry as He Seeks to Bolster Ties</h3>
 <sub>By Peter Baker</sub>
-<p>President Biden will host Prime Minister Narendra Modi for meetings and a state dinner, only the third since Mr. Biden took office two and a half years ago.  <a href="https://nyti.ms/3NFlz8a"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>President Biden will host Prime Minister Narendra Modi of India for meetings and a state dinner, only the third since Mr. Biden took office two and a half years ago.  <a href="https://nyti.ms/3NFlz8a"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -98,28 +98,10 @@ There are a lot of things happening in the world right now. President Biden is h
 <p>Evan Gershkovich, an American journalist who has been based in Russia for years, was arrested in March and charged with spying, which he denies.  <a href="https://nyti.ms/3CFfFh5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-t-magazine-blue" alt="">
-<h3>The 25 Most Influential Works of Postwar Queer Literature</h3>
-<sub>By Kurt Soller, Liz Brown, Rose Courteau, Kate Guadagnino, Sara Holdren, Brian Keith Jackson, Evan Moffitt, Miguel Morales, Tomi Obaro, Coco Romack, Michael Snyder and June Thomas</sub>
-<p>Six opinionated writers debate — and define — the state of L.G.B.T.Q. writing in order to make a list of the most essential works of fiction, poetry and drama right now.  <a href="https://nyti.ms/3NHjjNH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>China’s Cloud Computing Firms Raise Concern for U.S.</h3>
-<sub>By David McCabe</sub>
-<p>The Biden administration is exploring whether it can mount a campaign against Chinese tech giants like Alibaba and Huawei, potentially fueling tensions with Beijing.  <a href="https://nyti.ms/46kWoPp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 21, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
 <h3>The Trillion-Gallon Question: What if California’s Dams Fail?</h3>
 <sub>By Christopher Cox and Spencer Lowell</sub>
 <p>One superstorm could send walls of water sweeping through populated areas. There’s not much time to act.  <a href="https://nyti.ms/42TSJVR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Basement of Horrors in Seoul, Where Past and Present Collide</h3>
-<sub>By Lauretta Charlton</sub>
-<p>A building where South Korean dissidents were interrogated and tortured by a powerful government agency is now home to a popular youth hostel.  <a href="https://nyti.ms/3Poyc8K"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -128,11 +110,29 @@ There are a lot of things happening in the world right now. President Biden is h
 <p>Mr. Santos, a first-term G.O.P. congressman, has tried to keep the names of his bail sureties sealed, but two judges have now rejected his efforts.  <a href="https://nyti.ms/3CHGiBP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-t-magazine-blue" alt="">
+<h3>The 25 Most Influential Works of Postwar Queer Literature</h3>
+<sub>By Kurt Soller, Liz Brown, Rose Courteau, Kate Guadagnino, Sara Holdren, Brian Keith Jackson, Evan Moffitt, Miguel Morales, Tomi Obaro, Coco Romack, Michael Snyder and June Thomas</sub>
+<p>Six opinionated writers debate — and define — the state of L.G.B.T.Q. writing in order to make a list of the most essential works of fiction, poetry and drama right now.  <a href="https://nyti.ms/3NHjjNH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The U.S. Population Is Older Than It Has Ever Been</h3>
 <sub>By Dana Goldstein</sub>
 <p>New census data shows that the country’s median age is now over 38. In 1980, it was 30.  <a href="https://nyti.ms/3JrcVrw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Storm Kills at Least 4 in North Texas Town</h3>
+<sub>By Eduardo Medina, Mike Ives and Claire Moses</sub>
+<p>The National Weather Service said the storm in Matador most likely produced a tornado. It hit during a heat wave that has spread across much of the region.  <a href="https://nyti.ms/42VNG7g"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Tracking Dangerous Heat in the U.S.</h3>
+<sub>By Matthew Bloch, Lazaro Gamio, Zach Levitt, Eleanor Lutz, Bea Malsky and John-Michael Murphy</sub>
+<p>See detailed maps of the latest heat index forecasts in the United States.  <a href="https://nyti.ms/3calp8v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 12, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
