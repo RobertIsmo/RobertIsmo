@@ -60,36 +60,36 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, June 21, Central Standard Time</p>
 <p>
-The world has been facing a lot of tough issues lately. In the US, Justice Alito defended private jet travel to a luxury fishing trip even though he didn&#39;t have to disclose the trip. A submersible lost in the North Atlantic has shed more light on how it was operating, as did a $175 million boat that rescued 100 migrants from the Mediterranean sea. On the business side, the end of a student loan pause could have consequences on the economy. The Federal Reserve&#39;s chair says there&#39;s still a long way to go in fighting inflation. Addressing the opioid overdose crisis is being met with debate because of new laws regarding fentanyl. There is also an interesting story about a New York Times reporter and their role in early internet culture. Political allies are pledging billions for Ukraine&#39;s recovery, while someone who assaulted an officer during the Capitol riot got one of the stiffest sentences yet.</p>
+There is a lot happening in the world right now. In the tech industry, the Biden administration is looking into how it could take action against Chinese cloud computing companies like Alibaba and Huawei. In the justice system, Supreme Court Justice Samuel A. Alito Jr. wrote an opinion essay in The Wall Street Journal defending his private jet travel to a luxury fishing trip after a ProPublica article came out about it. In science, a reporter recounts his dive in Alvin, a three-person submersible, and the dangers behind that adventure. In the fight against opioid crisis, there is debate going on over new Fentanyl laws and whether it will be helpful of not. People also remember how Pink Floyd&#39;s music was synched with &quot;The Wizard of Oz&quot; movie decades ago by a Times reporter. Rent rises could affect two million renters in New York and Ukraine just announced its counteroffensive battle against Russia with leaders trying to bolster morale and Western support. NBA players are training in boot camp to become broadcasters and commentators, and an insurrectionist Daniel Rodriguez who assaulted an officer during Jan 6th riot has been sentenced to more than 12 years of jail time. Lastly, Oklahoma is fighting extreme heat in addition to storm damage they have already endured with many people being without power.</p>
 <ol>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>China’s Cloud Computing Firms Raise Concern for U.S.</h3>
+<sub>By David McCabe</sub>
+<p>The Biden administration is exploring whether it can mount a campaign against Chinese tech giants like Alibaba and Huawei, potentially fueling tensions with Beijing.  <a href="https://nyti.ms/46kWoPp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 21, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Justice Alito Defends Private Jet Travel to Luxury Fishing Trip</h3>
 <sub>By Adam Liptak</sub>
 <p>In an opinion essay in The Wall Street Journal, the justice disputed a ProPublica report, saying he was not required to disclose the trip or recuse himself from his benefactor’s cases.  <a href="https://nyti.ms/44666Di"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Closer Look at the Submersible Lost in the North Atlantic</h3>
-<sub>By Matthew Bloch, Keith Collins, Marco Hernandez, Mark McKeague, Scott Reinhard and Helmuth Rosales</sub>
-<p>On the vessel, there were five passengers packed into a tight interior with no seats and a single view port 21 inches in diameter.  <a href="https://nyti.ms/3NjDTSR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Alito’s Reply in a Rival Publication Surprises ProPublica</h3>
+<sub>By Katie Robertson</sub>
+<p>The Wall Street Journal made the unusual decision to let Justice Samuel A. Alito Jr. pre-empt ProPublica’s article about him in its opinion pages.  <a href="https://nyti.ms/3PpGaP3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>Three decades ago, a reporter took a plunge into wonder, and danger.</h3>
+<sub>By William J. Broad</sub>
+<p>A dive in Alvin, a three-person submersible, revealed not only an alien world but why people engage in such risky pursuits.  <a href="https://nyti.ms/3JpEd1g"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Inside the Titan: Quiet and Cramped, With a Single Porthole</h3>
-<sub>By Anushka Patil and Jacey Fortin</sub>
-<p>“You just drop like a stone for two and a half hours,” said a writer for “The Simpsons” who made the trip to the Titanic wreckage.  <a href="https://nyti.ms/3Xf5NUL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Student Loan Pause Is Ending, With Consequences for Economy</h3>
-<sub>By Lydia DePillis</sub>
-<p>Three years of relief from payments on $1.6 trillion in student debt allowed for other borrowing and spending — and will shift into reverse.  <a href="https://nyti.ms/46cHTgx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Fed Chair Sees ‘Long Way to Go’ on Inflation Fight</h3>
-<sub>By Jeanna Smialek</sub>
-<p>Jerome H. Powell, the chair of the Federal Reserve, told House lawmakers that most central bank officials expect rates to rise further.  <a href="https://nyti.ms/3PonWNP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Biggest Threat to Submersible’s Passengers May Now Be Dwindling Oxygen</h3>
+<sub>By Matt Richtel</sub>
+<p>There may be less than a day’s worth of breathable air left in the Titan, limiting the window for possible rescue of the five people on board.  <a href="https://nyti.ms/3XlmgGJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
@@ -104,34 +104,34 @@ The world has been facing a lot of tough issues lately. In the US, Justice Alito
 <p>The inside story of a Times reporter’s strange role in a foundational moment in early internet culture: “The Dark Side of the Rainbow.”  <a href="https://nyti.ms/3pcHOZC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Allies Pledge Billions for Ukraine’s Recovery as Zelensky Stresses Urgency</h3>
-<sub>By Mark Landler</sub>
-<p>The price tag for reconstruction has soared, driving debate among U.S. and European officials, legal experts and others about using frozen Russian assets to pay for it.  <a href="https://nyti.ms/46ijZR2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Ebon Moss-Bachrach Gives ‘The Bear’ Its Abrasive Edge</h3>
-<sub>By Melena Ryzik</sub>
-<p>This thoughtful Brooklyn dad excels at playing stunted men like Richie, his volatile character in the FX hit. Just don’t call them dirtbags: “I get a little sensitive,” he said.  <a href="https://nyti.ms/42OKAlE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Superyacht Gave a Lifeline to 100 Migrants Thrown Into the Sea</h3>
-<sub>By Jason Horowitz and Matina Stevis-Gridneff</sub>
-<p>A $175 million vessel responded to a distress call and helped rescue survivors in one of the Mediterranean’s worst wrecks in decades, reflecting the new inequality of the seas.  <a href="https://nyti.ms/42QI7Hw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Rents for 2 Million New Yorkers to Rise Again This Year</h3>
+<sub>By Mihir Zaveri and Olivia Bensimon</sub>
+<p>Rent-stabilized apartments have enabled many people to stay in a city that grows ever more expensive. But for the second year in a row, rents will rise.  <a href="https://nyti.ms/3Xgi4Ii"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘Like Doomsday’: How Hope of a Better Life Ended on a Boat in the Mediterranean</h3>
-<sub>By Christina Goldbaum and Zia ur-Rehman</sub>
-<p>About two dozen of those on the fishing vessel that capsized off Greece came from Bandli, a community in northeastern Pakistan with a long history of young men chasing a brighter future abroad.  <a href="https://nyti.ms/3XlDuUL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Battling Russia, Ukrainian Leaders Also Fight High Expectations</h3>
+<sub>By Cassandra Vinograd</sub>
+<p>Seeking to bolster morale and Western support, President Volodymyr Zelensky and his aides say that the slow progress of Ukraine’s counteroffensive is to be expected.  <a href="https://nyti.ms/3CHp7R1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>The Boot Camp for N.B.A. Hot Takes and Analysis</h3>
+<sub>By Sopan Deb</sub>
+<p>A two-day camp trains current and former basketball players in the lucrative art of broadcasting, podcasting and throwing verbal bombs on camera.  <a href="https://nyti.ms/3NGASxb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Man Who Assaulted Officer on Jan. 6 Is Sentenced to More Than 12 Years</h3>
 <sub>By Glenn Thrush and Alan Feuer</sub>
 <p>Daniel Rodriguez, whom the judge called a “one-man army of hate,” received one of the stiffest sentences so far in the Justice Department’s investigation of the Capitol riot.  <a href="https://nyti.ms/3XiaHQE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Extreme Heat and More Storms Threaten an Already Battered Oklahoma</h3>
+<sub>By Edgar Sandoval and Judson Jones</sub>
+<p>Thousands of people were without power in the state, and days of sweltering temperatures are expected to put further strain on resources there and in Texas.  <a href="https://nyti.ms/3JpUsLS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
