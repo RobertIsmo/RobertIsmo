@@ -60,78 +60,78 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, June 22, Central Standard Time</p>
 <p>
-It&#39;s been a wild few weeks in the news, in the US and beyond! In tech, Chinese cloud computing firms have raised some concerns for the Biden administration. Justice Alito is getting some attention over his private jet trip to a luxury fishing trip. There&#39;s even a report about him that was pre-empted by The Wall Street Journal - an unusual decision that has surprised everyone. On the science front, there was a dive to explore an alien world and its wonders and dangers. As temperatures rise, so does the conversation around harsh fentanyl laws to address drug overdose crises. Here in the US, rising rents could be cause for concern for 2 million New Yorkers, while Ukrainian leaders are trying to manage expectations about their counteroffensive against Russia. NBA players have been doing boot camps for hot takes and analysis. And finally, extreme heat and storms here in the US are threatening Oklahoma while there has been another sentencing related to the Capitol riot.</p>
+There are a lot of things happening in the world right now. President Biden is hosting Prime Minister Modi for a state dinner, only the third since Mr. Biden assumed office two and a half years ago. India is profiting from its neutrality in the Ukraine war by buying huge amounts of Russian oil. Modi&#39;s visit to the US has big implications for their relations as Biden seeks to shore up their alliance against Russia and China&#39;s aggression. Indian politicians stay single when they get elected as it is seen as less likely that they would steal if they don&#39;t have families. Belarus has just become a vassal state of Russia, allowing Moscow to place nuclear weapons on its soil while a Wall Street Journal reporter in Russia has been detained and charged with spying - something he denies. On one hand, we have these geopolitical happenings, and on the other, there&#39;s a countdown going on in California about a possible failure of its dams, due to changes in weather patterns - putting lives at stake. Additionally, census data shows that the US population is now older than it has ever been, with a median age of over 38 compared to 30 forty years ago. Now why would someone bail out Congressman George Santos despite him wanting to keep the names under wraps? Well, turns out that the court is set to reveal who did it - making this another interesting case worth knowing about.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Plans Lavish Formal Welcome for Modi as He Seeks to Bolster Ties</h3>
+<sub>By Peter Baker</sub>
+<p>President Biden will host Prime Minister Narendra Modi for meetings and a state dinner, only the third since Mr. Biden took office two and a half years ago.  <a href="https://nyti.ms/3NFlz8a"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>How India Profits From Its Neutrality in the Ukraine War</h3>
+<sub>By Lazaro Gamio, Leanne Abraham, Ana Swanson and Alex Travelli</sub>
+<p>India, a critical security partner of the United States, now buys huge amounts of Russian oil, purchasing one of every two barrels shipped at sea.  <a href="https://nyti.ms/3Xh5Orf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>What to Know About Modi’s Visit and U.S.-India Relations</h3>
+<sub>By Victoria Kim</sub>
+<p>The visit has big implications for U.S.-India relations as President Biden seeks to shore up an alliance against Russia’s aggression and China’s economic influence.  <a href="https://nyti.ms/3CF8khx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘The Country Is His Family’: Why Modi and Other Indian Leaders Stay Single</h3>
+<sub>By Suhasini Raj</sub>
+<p>India’s politicians need a lot of time to attend to 1.4 billion people. And with corruption widespread, those without families are often seen as less likely to steal.  <a href="https://nyti.ms/3p9ADBH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Belarus Is Fast Becoming a ‘Vassal State’ of Russia</h3>
+<sub>By Valerie Hopkins</sub>
+<p>Allowing Moscow to place tactical nuclear weapons on its soil is just the latest sign of its loss of sovereignty to the Kremlin, military experts and pro-democracy activists say.  <a href="https://nyti.ms/447A2Pq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Russian court upholds a Wall Street Journal reporter’s detention.</h3>
+<sub>By Valerie Hopkins</sub>
+<p>Evan Gershkovich, an American journalist who has been based in Russia for years, was arrested in March and charged with spying, which he denies.  <a href="https://nyti.ms/3CFfFh5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-t-magazine-blue" alt="">
+<h3>The 25 Most Influential Works of Postwar Queer Literature</h3>
+<sub>By Kurt Soller, Liz Brown, Rose Courteau, Kate Guadagnino, Sara Holdren, Brian Keith Jackson, Evan Moffitt, Miguel Morales, Tomi Obaro, Coco Romack, Michael Snyder and June Thomas</sub>
+<p>Six opinionated writers debate — and define — the state of L.G.B.T.Q. writing in order to make a list of the most essential works of fiction, poetry and drama right now.  <a href="https://nyti.ms/3NHjjNH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>China’s Cloud Computing Firms Raise Concern for U.S.</h3>
 <sub>By David McCabe</sub>
 <p>The Biden administration is exploring whether it can mount a campaign against Chinese tech giants like Alibaba and Huawei, potentially fueling tensions with Beijing.  <a href="https://nyti.ms/46kWoPp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Justice Alito Defends Private Jet Travel to Luxury Fishing Trip</h3>
-<sub>By Adam Liptak</sub>
-<p>In an opinion essay in The Wall Street Journal, the justice disputed a ProPublica report, saying he was not required to disclose the trip or recuse himself from his benefactor’s cases.  <a href="https://nyti.ms/44666Di"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Alito’s Reply in a Rival Publication Surprises ProPublica</h3>
-<sub>By Katie Robertson</sub>
-<p>The Wall Street Journal made the unusual decision to let Justice Samuel A. Alito Jr. pre-empt ProPublica’s article about him in its opinion pages.  <a href="https://nyti.ms/3PpGaP3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>Three decades ago, a reporter took a plunge into wonder, and danger.</h3>
-<sub>By William J. Broad</sub>
-<p>A dive in Alvin, a three-person submersible, revealed not only an alien world but why people engage in such risky pursuits.  <a href="https://nyti.ms/3JpEd1g"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biggest Threat to Submersible’s Passengers May Now Be Dwindling Oxygen</h3>
-<sub>By Matt Richtel</sub>
-<p>There may be less than a day’s worth of breathable air left in the Titan, limiting the window for possible rescue of the five people on board.  <a href="https://nyti.ms/3XlmgGJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Harsh New Fentanyl Laws Ignite Debate Over How to Combat Overdose Crisis</h3>
-<sub>By Jan Hoffman</sub>
-<p>Critics say a fierce law-and-order approach could undermine public health goals and advances in addiction treatment.  <a href="https://nyti.ms/3PpnwGZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Rents for 2 Million New Yorkers to Rise Again This Year</h3>
-<sub>By Mihir Zaveri and Olivia Bensimon</sub>
-<p>Rent-stabilized apartments have enabled many people to stay in a city that grows ever more expensive. But for the second year in a row, rents will rise.  <a href="https://nyti.ms/3Xgi4Ii"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 21, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>The Trillion-Gallon Question: What if California’s Dams Fail?</h3>
+<sub>By Christopher Cox and Spencer Lowell</sub>
+<p>One superstorm could send walls of water sweeping through populated areas. There’s not much time to act.  <a href="https://nyti.ms/42TSJVR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Battling Russia, Ukrainian Leaders Also Fight High Expectations</h3>
-<sub>By Cassandra Vinograd</sub>
-<p>Seeking to bolster morale and Western support, President Volodymyr Zelensky and his aides say that the slow progress of Ukraine’s counteroffensive is to be expected.  <a href="https://nyti.ms/3CHp7R1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 21, Central Standard Time</sub></sub>
+<h3>A Basement of Horrors in Seoul, Where Past and Present Collide</h3>
+<sub>By Lauretta Charlton</sub>
+<p>A building where South Korean dissidents were interrogated and tortured by a powerful government agency is now home to a popular youth hostel.  <a href="https://nyti.ms/3Poyc8K"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>The Boot Camp for N.B.A. Hot Takes and Analysis</h3>
-<sub>By Sopan Deb and Allison Zaucha</sub>
-<p>A two-day camp trains current and former basketball players in the lucrative art of broadcasting, podcasting and throwing verbal bombs on camera.  <a href="https://nyti.ms/3NGASxb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 21, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Who Bailed George Santos Out? Court Is Set to Reveal the Mystery.</h3>
+<sub>By Michael Gold and Grace Ashford</sub>
+<p>Mr. Santos, a first-term G.O.P. congressman, has tried to keep the names of his bail sureties sealed, but two judges have now rejected his efforts.  <a href="https://nyti.ms/3CHGiBP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The U.S. Population Is Older Than It Has Ever Been</h3>
 <sub>By Dana Goldstein</sub>
-<p>New census data shows that the country’s median age is now 38. In 1980, it was 30.  <a href="https://nyti.ms/3JrcVrw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Man Who Assaulted Officer on Jan. 6 Is Sentenced to More Than 12 Years</h3>
-<sub>By Glenn Thrush and Alan Feuer</sub>
-<p>Daniel Rodriguez, whom the judge called a “one-man army of hate,” received one of the stiffest sentences so far in the Justice Department’s investigation of the Capitol riot.  <a href="https://nyti.ms/3XiaHQE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Extreme Heat and More Storms Threaten an Already Battered Oklahoma</h3>
-<sub>By Edgar Sandoval and Judson Jones</sub>
-<p>Thousands of people were without power in the state, and days of sweltering temperatures are expected to put further strain on resources there and in Texas.  <a href="https://nyti.ms/3JpUsLS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>New census data shows that the country’s median age is now over 38. In 1980, it was 30.  <a href="https://nyti.ms/3JrcVrw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
