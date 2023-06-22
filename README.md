@@ -60,25 +60,25 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, June 22, Central Standard Time</p>
 <p>
-There&#39;s a lot happening in the world right now. In India, Prime Minister Modi is not known for fielding questions from the press and his single status is understood to be motivated by keeping corruption at bay. Speaking of corruption, there&#39;s been a scandal involving US Congressman George Santos and questions about his personal finances as well as campaign fund-raising and spending. Belarus is becoming a &quot;vassal state&quot; of Russia, allowing Moscow to station nuclear weapons on its soil, and some are concerned that California&#39;s dams may fail if hit by a large storm. Closer to home, the US population has now become older than ever with a median age of 38, and North Texas has recently been hit by severe storms that have killed at least four people. Finally, several authors have come together to debate and create a list of the 25 most influential works of postwar queer literature.</p>
+Things in the world are pretty crazy right now. In the US, there have been a few tragic deaths on a submersible, and there&#39;s been some protesting of an Indian leader&#39;s human rights record. In New York, a Republican congressman is dealing with some major financial scandals, while California is worrying about the potential failure of its dams. North Korea has been in the news too; one of its defectors has become a star in right-wing media. Over in the occupied West Bank, there&#39;s been an upswing in violence and tension between Palestinian Authority and Israeli forces. Meanwhile, Florida might be sending 4 candidates for the presidential race, and the Supreme Court recently ruled that Congress can&#39;t make states carry out federal orders. It&#39;s really hectic out there!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>If Modi does field reporters’ questions, mark the day — it may be the first.</h3>
-<sub>By Mujib Mashal</sub>
-<p>The Indian prime minister and his staff have tightly controlled his message and media availability. Speeches to huge crowds? All good. Answering reporters’ questions live? Almost never seen.  <a href="https://nyti.ms/3NHLBaG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
+<h3>The Five Lives Lost in the Titanic Submersible</h3>
+<sub>By Emma Bubola, Salman Masood and Victoria Kim</sub>
+<p>On board the submersible were the founder of the company that operates the vessel; a British businessman and explorer; a British father and teenage son from a prominent Pakistani family; and a French maritime expert.  <a href="https://nyti.ms/3PrGsVD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Why Modi and Other Indian Leaders Stay Single</h3>
-<sub>By Suhasini Raj</sub>
-<p>India’s politicians need a lot of time to attend to 1.4 billion people. And with corruption widespread, those without families are often seen as less likely to steal.  <a href="https://nyti.ms/3p9ADBH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Liberal Democrats Boycott Modi’s Speech to Congress</h3>
+<sub>By Karoun Demirjian</sub>
+<p>“We must never sacrifice human rights at the altar of political expediency,” four of the protesting House members said, objecting to the Indian leader’s human rights record.  <a href="https://nyti.ms/3PloPa2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Extreme Travel Rescue Operations Are Vast in Scale and Cost. Who Foots the Bill Is Murky.</h3>
-<sub>By Christine Chung</sub>
-<p>The enormous response has involved the U.S., Canada and France. It is unclear whether taxpayers in those countries will be paying for it.  <a href="https://nyti.ms/3r0o1go"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 20, Central Standard Time</sub></sub>
+<h3>Mark the day: Modi fielded live questions from the press.</h3>
+<sub>By Mujib Mashal</sub>
+<p>The Indian prime minister and his staff have tightly controlled his message and media availability. His appearance with Biden at a White House conference was a notable departure.  <a href="https://nyti.ms/3NHLBaG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>George Santos Was Bailed Out by His Father and Aunt, Court Records Show</h3>
@@ -116,23 +116,23 @@ There&#39;s a lot happening in the world right now. In India, Prime Minister Mod
 <p>Six opinionated writers debate — and define — the state of L.G.B.T.Q. writing in order to make a list of the most essential works of fiction, poetry and drama right now.  <a href="https://nyti.ms/3NHjjNH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>N.T.S.B. Convenes Hearing in East Palestine to Examine Train Derailment</h3>
-<sub>By Mark Walker and Peter Eavis</sub>
-<p>In advance of a two-day hearing on the derailment of a Norfolk Southern freight train in Ohio, investigators released a trove of documents about the accident.  <a href="https://nyti.ms/3r1sn72"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Spiraling Violence in the Occupied West Bank Signals a Loss of Control</h3>
+<sub>By Isabel Kershner</sub>
+<p>The Palestinian Authority is absent from the hotbeds of militancy while Israeli forces have failed to prevent violent reprisal attacks by Jewish extremists.  <a href="https://nyti.ms/3r46nZa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The U.S. Population Is Older Than It Has Ever Been</h3>
-<sub>By Dana Goldstein</sub>
-<p>New census data shows that the country’s median age is now over 38. In 1980, it was 30.  <a href="https://nyti.ms/3JrcVrw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 21, Central Standard Time</sub></sub>
+<h3>Christie Lashes Trump, to the Slice of the G.O.P. Open to It</h3>
+<sub>By Trip Gabriel</sub>
+<p>Missing from Chris Christie’s campaign stop: Republicans who are leaning toward Donald J. Trump but open to an alternative.  <a href="https://nyti.ms/3NIcDif"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Storm Kills at Least 4 in North Texas Town</h3>
-<sub>By Eduardo Medina, Mike Ives and Claire Moses</sub>
-<p>The National Weather Service said the storm in Matador most likely produced a tornado. It hit during a heat wave that has spread across much of the region.  <a href="https://nyti.ms/42VNG7g"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 21, Central Standard Time</sub></sub>
+<h3>Senator Rick Scott Has Been Weighing a Presidential Run</h3>
+<sub>By Jonathan Swan and Maggie Haberman</sub>
+<p>If he runs, Mr. Scott would become the fourth Republican presidential candidate from Florida, joining Donald Trump, Gov. Ron DeSantis and Mayor Francis X. Suarez of Miami.  <a href="https://nyti.ms/44d6q3d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
