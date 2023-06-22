@@ -60,13 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, June 22, Central Standard Time</p>
 <p>
-There&#39;s a lot happening in the world right now. In technology, the Biden administration is looking into potential action against Chinese firms like Alibaba and Huawei. In US news, Supreme Court Justice Alito defended himself and his private jet travel in a rival publication to ProPublica, causing a stir. 
-
-In business news, rents in New York City will increase for the second year in a row. In science, we learn about the risks that come with exploring underwater worlds through an exploration story from decades ago. 
-
-Healthwise, there is debate over tough new fentanyl laws and how they interact with public health goals. In international news, Ukraine is facing high expectations while battling Russia&#39;s aggressive tactics. 
-
-In sports, we learn about a boot camp to hot takes and analysis of NBLA players and former players. On the US population front, more people are aging than ever before - 38 is now the median age compared to 30 in 1980. Finally in criminal justice news, a man who assaulted an officer at the January 6th Capitol riot was sentenced to more than 12 years in prison. Extreme heat and storms are threatening Oklahoma which is already struggling with its resources.</p>
+It&#39;s been a wild few weeks in the news, in the US and beyond! In tech, Chinese cloud computing firms have raised some concerns for the Biden administration. Justice Alito is getting some attention over his private jet trip to a luxury fishing trip. There&#39;s even a report about him that was pre-empted by The Wall Street Journal - an unusual decision that has surprised everyone. On the science front, there was a dive to explore an alien world and its wonders and dangers. As temperatures rise, so does the conversation around harsh fentanyl laws to address drug overdose crises. Here in the US, rising rents could be cause for concern for 2 million New Yorkers, while Ukrainian leaders are trying to manage expectations about their counteroffensive against Russia. NBA players have been doing boot camps for hot takes and analysis. And finally, extreme heat and storms here in the US are threatening Oklahoma while there has been another sentencing related to the Capitol riot.</p>
 <ol>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>China’s Cloud Computing Firms Raise Concern for U.S.</h3>
