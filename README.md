@@ -58,9 +58,15 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Thursday, June 22, Central Standard Time</p>
+<p>It is Friday, June 23, Central Standard Time</p>
 <p>
-There have been some recent tragedies in the world, like the &quot;catastrophic implosion&quot; that sunk a submarine deep in the Atlantic, resulting in five lives lost. On top of that, US President Joe Biden recently held a state dinner with India&#39;s Prime Minister Narendra Modi to strengthen diplomatic ties despite current discord between both nations. In other news, 3M has reportedly reached a settlement worth $10.3 billion for claims of contamination in drinking water due to chemicals used by companies while closer to home, a judge rejected efforts by Republican Congressman George Santos to keep sealed the names of those who guaranteed his $500,000 bond. And finally, missiles recently struck a bridge in Russian-occupied Crimea and a North Korean refugee who escaped to South Korea has now become an unlikely star of right-wing media in America.</p>
+Right now, there&#39;s been a tragic &#39;catastrophic implosion&#39; in the Atlantic Ocean that sadly cost five lives. The Navy attempted to locate the missing submersible containing the five victims, but found pieces of it on the floor 1,600 feet from the Titanic. In addition to this, director James Cameron brought up flaws in the Titan submersible&#39;s design that may have caused this disaster.
+
+President Biden is trying to build better ties with Indian Prime Minister Narendra Modi, and held a state dinner with him at the White House—with over 380 guests. But beyond the gates things were still a bit tense.
+
+On top of this, 3M has reached a $10.3 billion settlement in regards to claims they contaminated drinking water and G.O.P. Congressman George Santos was bailed out by his father and aunt through court records. Trump&#39;s upcoming trial could provide a conservative jury pool and missiles recently struck a bridge in Russian-occupied Crimea. 
+
+Finally, 19-year-old French basketball star Victor Wembanyama is the most-hyped prospect since LeBron James and was just drafted number one overall by the San Antonio Spurs!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Deep in the Atlantic, a ‘Catastrophic Implosion’ and Five Lives Lost</h3>
@@ -128,10 +134,10 @@ There have been some recent tragedies in the world, like the &quot;catastrophic 
 <p>The attack damaged a bridge in the Russian-occupied Crimean Peninsula that Moscow uses to resupply its forces in Ukraine.  <a href="https://nyti.ms/3NH6qTS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A North Korean Dissident Defects to the American Right</h3>
-<sub>By Charles Homans</sub>
-<p>Yeonmi Park’s account of the horrors of North Korea made her a human rights celebrity. Her new claims that America is on the same path have made her a right-wing media star.  <a href="https://nyti.ms/44eTj1K"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Victor Wembanyama Drafted No. 1 Overall by San Antonio Spurs</h3>
+<sub>By Tania Ganguli</sub>
+<p>Wembanyama, the 19-year-old French basketball star, had been perhaps the most-hyped prospect since LeBron James.  <a href="https://nyti.ms/46dLprf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
