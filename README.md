@@ -60,13 +60,35 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, June 22, Central Standard Time</p>
 <p>
-Things in the world are pretty crazy right now. In the US, there have been a few tragic deaths on a submersible, and there&#39;s been some protesting of an Indian leader&#39;s human rights record. In New York, a Republican congressman is dealing with some major financial scandals, while California is worrying about the potential failure of its dams. North Korea has been in the news too; one of its defectors has become a star in right-wing media. Over in the occupied West Bank, there&#39;s been an upswing in violence and tension between Palestinian Authority and Israeli forces. Meanwhile, Florida might be sending 4 candidates for the presidential race, and the Supreme Court recently ruled that Congress can&#39;t make states carry out federal orders. It&#39;s really hectic out there!</p>
+Recently, a secret Navy sensor detected a possible implosion around the time a submersible called the Titan&#39;s communications failed, though the search continued without certainty of a disaster. Five lives were lost on the vessel, and James Cameron, director and deep-sea explorer, pointed to flaws in its design. 
+
+On the political front, President Biden has been trying to bolster ties with India&#39;s Prime Minister Modi while liberal democrats continue to boycott Modi’s speech to Congress. Biden will host a state dinner for Modi in which he will try to convince him to align with American interests without making progress in enlisting help against Russian aggression. The full guest list includes government officials, business leaders, fashion designers and prominent Indian Americans.
+
+Meanwhile, 3M has reached a $10.3 billion settlement in chemical contamination suits while Republican Congressman George Santos was bailed out by his father and aunt according to court records. A potential jury pool was identified in Trump&#39;s hometown for his upcoming trial while missiles struck a bridge far behind Ukraine’s front line that is held by Russia. Lastly, a North Korean dissident has defected to America’s right with claims that America is following down the same path as North Korea.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Secret Navy sensors detected a possible implosion around the time the Titan’s communications failed.</h3>
+<sub>By Eric Schmitt</sub>
+<p>Two senior Navy officials said the information was shared with the Coast Guard official in charge of the search. But without certainty of a disaster, one said, the search continued.  <a href="https://nyti.ms/3JxmpRR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The Five Lives Lost in the Titanic Submersible</h3>
 <sub>By Emma Bubola, Salman Masood and Victoria Kim</sub>
 <p>On board the submersible were the founder of the company that operates the vessel; a British businessman and explorer; a British father and teenage son from a prominent Pakistani family; and a French maritime expert.  <a href="https://nyti.ms/3PrGsVD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>The director and deep-sea explorer James Cameron points to flaws in the Titan submersible’s design.</h3>
+<sub>By William J. Broad</sub>
+<p>The “Titanic” director and diving expert said he’d had concerns from the start about the vehicle’s hull composition and claims about its network of hull sensors.  <a href="https://nyti.ms/3Juvhrz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Seeks to Bolster Ties With Modi While Soft-Pedaling Differences</h3>
+<sub>By Peter Baker</sub>
+<p>At the White House, the president emphasized common ground with India’s prime minister and announced joint initiatives without making progress in enlisting help against Russian aggression.  <a href="https://nyti.ms/3NFlz8a"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Liberal Democrats Boycott Modi’s Speech to Congress</h3>
@@ -75,9 +97,21 @@ Things in the world are pretty crazy right now. In the US, there have been a few
 <sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Mark the day: Modi fielded live questions from the press.</h3>
-<sub>By Mujib Mashal</sub>
-<p>The Indian prime minister and his staff have tightly controlled his message and media availability. His appearance with Biden at a White House conference was a notable departure.  <a href="https://nyti.ms/3NHLBaG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>State Dinners: Who Gets Them, Who Doesn’t and Why They Matter</h3>
+<sub>By Zolan Kanno-Youngs</sub>
+<p>Under the guise of pomp and pageantry, state visits can be a chance to push foreign dignitaries to align with American interests.  <a href="https://nyti.ms/3r1U5Ay"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Full Guest List for Biden’s State Dinner With Modi</h3>
+<sub>By Chris Cameron</sub>
+<p>More than 380 guests were invited, including government officials, business leaders, fashion designers and prominent Indian Americans.  <a href="https://nyti.ms/3pmZdPp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>3M Reaches $10.3 Billion Settlement in ‘Forever Chemicals’ Suits</h3>
+<sub>By Lisa Friedman and Vivian Giang</sub>
+<p>The deal followed an agreement by Chemours, DuPont and Corteva to pay $1.19 billion to help resolve claims that the chemical manufacturers contaminated drinking water across the country.  <a href="https://nyti.ms/3CKXu9Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -86,52 +120,22 @@ Things in the world are pretty crazy right now. In the US, there have been a few
 <p>Mr. Santos, a first-term G.O.P. congressman, had tried to keep the names of the people who guaranteed his $500,000 bond sealed, but two judges rejected his efforts.  <a href="https://nyti.ms/3CHGiBP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Lies, Charges and Questions Remaining in the George Santos Scandal</h3>
-<sub>By Michael Gold and Grace Ashford</sub>
-<p>George Santos has told so many stories they can be hard to keep straight. We cataloged them, including major questions about his personal finances and his campaign fund-raising and spending.  <a href="https://nyti.ms/42O9HFB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Belarus Is Fast Becoming a ‘Vassal State’ of Russia</h3>
-<sub>By Valerie Hopkins</sub>
-<p>Allowing Moscow to place tactical nuclear weapons on its soil is just the latest sign of its loss of sovereignty to the Kremlin, military experts and pro-democracy activists say.  <a href="https://nyti.ms/447A2Pq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Trial Setting Could Provide Conservative Jury Pool</h3>
+<sub>By Maggie Haberman, Jonathan Swan and Alan Feuer</sub>
+<p>If Judge Aileen Cannon sticks to her initial decision to hold the trial in Fort Pierce, Fla., the jury would be drawn largely from counties that Donald Trump won handily in his previous campaigns.  <a href="https://nyti.ms/43UzPQa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>The Trillion-Gallon Question: What if California’s Dams Fail?</h3>
-<sub>By Christopher Cox and Spencer Lowell</sub>
-<p>One superstorm could send walls of water sweeping through populated areas. There’s not much time to act.  <a href="https://nyti.ms/42TSJVR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Missiles Strike Russian-Held Bridge Far Behind Ukraine Front Line</h3>
+<sub>By Cassandra Vinograd and Ivan Nechepurenko</sub>
+<p>The attack damaged a bridge in the Russian-occupied Crimean Peninsula that Moscow uses to resupply its forces in Ukraine.  <a href="https://nyti.ms/3NH6qTS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A North Korean Dissident Defects to the American Right</h3>
 <sub>By Charles Homans</sub>
 <p>Yeonmi Park’s account of the horrors of North Korea made her a human rights celebrity. Her new claims that America is on the same path have made her a right-wing media star.  <a href="https://nyti.ms/44eTj1K"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-t-magazine-blue" alt="">
-<h3>The 25 Most Influential Works of Postwar Queer Literature</h3>
-<sub>By Kurt Soller, Liz Brown, Rose Courteau, Kate Guadagnino, Sara Holdren, Brian Keith Jackson, Evan Moffitt, Miguel Morales, Tomi Obaro, Coco Romack, Michael Snyder and June Thomas</sub>
-<p>Six opinionated writers debate — and define — the state of L.G.B.T.Q. writing in order to make a list of the most essential works of fiction, poetry and drama right now.  <a href="https://nyti.ms/3NHjjNH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Spiraling Violence in the Occupied West Bank Signals a Loss of Control</h3>
-<sub>By Isabel Kershner</sub>
-<p>The Palestinian Authority is absent from the hotbeds of militancy while Israeli forces have failed to prevent violent reprisal attacks by Jewish extremists.  <a href="https://nyti.ms/3r46nZa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Christie Lashes Trump, to the Slice of the G.O.P. Open to It</h3>
-<sub>By Trip Gabriel</sub>
-<p>Missing from Chris Christie’s campaign stop: Republicans who are leaning toward Donald J. Trump but open to an alternative.  <a href="https://nyti.ms/3NIcDif"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Senator Rick Scott Has Been Weighing a Presidential Run</h3>
-<sub>By Jonathan Swan and Maggie Haberman</sub>
-<p>If he runs, Mr. Scott would become the fourth Republican presidential candidate from Florida, joining Donald Trump, Gov. Ron DeSantis and Mayor Francis X. Suarez of Miami.  <a href="https://nyti.ms/44d6q3d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
