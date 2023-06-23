@@ -60,26 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, June 23, Central Standard Time</p>
 <p>
-There are a lot of major things happening in the world right now. In the US, we&#39;ve reached a year since Roe v. Wade was struck down, leading to drastic changes in the abortion landscape across the country. Polls have been showing that people&#39;s support for legal abortion is increasing, more evidence that this law has really mobilized people. The Supreme Court also revived Biden&#39;s immigration guidelines, which had been temporarily blocked by a Texas federal judge. There are also a lot of big cases currently being heard by the 6-to-3 conservative majority Supreme Court; lots of legal battles going on around guns and religion and climate change. 
+Right now, there is a lot happening in the world. In the US, the Supreme Court has revived Biden&#39;s immigration guidelines, setting priorities for which unauthorized immigrants should be detained. The court itself has also been dealing with significant cases this term after it underwent a conservative shift last year. At the same time, people are feeling the effects of a decision from last year to strike down Roe v. Wade. People are scrambling to adjust to the new legal landscape around abortion, and polls show that opinion is increasingly shifting towards legal abortion with potential political consequences for 2024. 
 
-In Ukraine, there&#39;s increased military activity as western-trained brigades have started to enter the fight. In addition, there&#39;s news out of China and Russia that a state-owned Chinese company sent large shipments of gunpowder to a Russian munitions factory last year. 
+In international news, there have been reports of Yevgeny V. Prigozhin - who leads a private force - deriding Russia&#39;s invasion of Ukraine as being about enriching Russia&#39;s elite rather than defending national interests. On that front, Ukraine has been slowly making progress in its counteroffensive with western-trained brigades entering the fight. Meanwhile in Ukraine itself, there is a war-themed restaurant that celebrates the struggles in earlier wars finding success again. 
 
-Internationally, there was an unsuccessful search for a missing American submersible in the Atlantic Ocean which ended when pieces were discovered on the ocean floor--five lives were lost in the incident. James Cameron made some comments about possible flaws in its design afterwards, and recent studies have backed some of his claims up. 
-
-Finally, there&#39;s new developments in terms of racial reconciliation in the US. Charleston was recently opened up with a public museum honoring African American survival and resilience--it’s about more than just slavery. On another front, far-right groups are pushing through an alternate narrative around January 6th which is now at the heart of presidential politics.</p>
+On the science front, a new study bolsters the claim that room-temperature superconductor exists and it was verified by a team of researchers from earlier this year that had faced doubts from other scientists. Also on an entirely different note is Barbie and her Dreamhouse living out the American Dream without Ken present on the deed! Lastly, some Americans have started to understand why people buy guns and how this can alter behavior through social scientists questioning this concept.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>One Year, 61 Clinics: How Dobbs Changed the Abortion Landscape</h3>
-<sub>By Allison McCann and Amy Schoenfeld Walker</sub>
-<p>In the year since Roe was struck down, clinic owners have scrambled to adjust to the new legal landscape around abortion. Here’s what happened to them, and their communities.  <a href="https://nyti.ms/43S2NQL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How a Year Without Roe Shifted American Views on Abortion</h3>
-<sub>By Kate Zernike</sub>
-<p>New and extensive polling shows public opinion increasingly supports legal abortion, with potential political consequences for 2024.  <a href="https://nyti.ms/42XmyFc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 23, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Supreme Court Revives Biden Immigration Guidelines</h3>
 <sub>By Adam Liptak</sub>
@@ -93,51 +79,63 @@ Finally, there&#39;s new developments in terms of racial reconciliation in the U
 <sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>One Year, 61 Clinics: How Dobbs Changed the Abortion Landscape</h3>
+<sub>By Allison McCann and Amy Schoenfeld Walker</sub>
+<p>In the year since Roe was struck down, clinic owners have scrambled to adjust to the new legal landscape around abortion. Here’s what happened to them, and their communities.  <a href="https://nyti.ms/43S2NQL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How a Year Without Roe Shifted American Views on Abortion</h3>
+<sub>By Kate Zernike</sub>
+<p>New and extensive polling shows public opinion increasingly supports legal abortion, with potential political consequences for 2024.  <a href="https://nyti.ms/42XmyFc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Pence Challenges 2024 Republicans to Embrace 15-Week National Abortion Ban</h3>
+<sub>By Shane Goldmacher</sub>
+<p>The former vice president called on his rivals to back the ban, which is more strict than what former President Donald J. Trump has said he would support.  <a href="https://nyti.ms/42UMbXg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Submersible Expert Raised Safety Concerns After 2019 Trip on Titan</h3>
+<sub>By Jenny Gross</sub>
+<p>After hearing a loud cracking sound during the dive, the expert, Karl Stanley, emailed OceanGate’s C.E.O., Stockton Rush, to urge him to hold off on future trips.  <a href="https://nyti.ms/3qOXYc3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Prigozhin Derides Ukraine Invasion as ‘Racket’ to Enrich Russia’s Elite</h3>
+<sub>By Anton Troianovski</sub>
+<p>Yevgeny V. Prigozhin, who leads the private Wagner force, has been scathing of Russia’s military leadership for months, but the 30-minute video he released on Friday took his criticism to a new level.  <a href="https://nyti.ms/3r35HTU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Ukraine’s Western-Trained Brigades Begin to Enter the Fight</h3>
 <sub>By Helene Cooper and Eric Schmitt</sub>
 <p>The arrival of new units could be pivotal. But progress has been slow for Ukraine in the early stage of its counteroffensive.  <a href="https://nyti.ms/42XQBwe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Chinese Firm Sent Large Shipments of Gunpowder to Russian Munitions Factory</h3>
-<sub>By Ana Swanson and John Ismay</sub>
-<p>The previously unreported shipments between a state-owned Chinese company and a Russian munitions factory last year raise new questions about Beijing’s role in Russia’s war against Ukraine.  <a href="https://nyti.ms/46mNrW6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Deep in the Atlantic, a ‘Catastrophic Implosion’ and Five Lives Lost</h3>
-<sub>By Jenna Russell</sub>
-<p>The vast multinational search for the missing submersible ended after pieces of it were found on the ocean floor, 1,600 feet from the bow of the Titanic.  <a href="https://nyti.ms/3NTDYhP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Navy Detected a Possible Implosion Near Titan Sub as Communications Failed</h3>
-<sub>By Eric Schmitt</sub>
-<p>Two senior Navy officials said the information was shared with the Coast Guard official in charge of the search. But without certainty of a disaster, one said, the search continued.  <a href="https://nyti.ms/3JxmpRR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>‘Titanic’ Director James Cameron Points to Flaws in Titan Sub’s Design</h3>
-<sub>By William J. Broad</sub>
-<p>The “Titanic” director and diving expert said he’d had concerns from the start about the vehicle’s hull composition and claims about its network of hull sensors.  <a href="https://nyti.ms/3Juvhrz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>In Charleston, a Museum Honors a Journey of Grief and Grace</h3>
-<sub>By Holland Cotter</sub>
-<p>The International African American Museum, in a former slave port, is about more than slavery. It’s about survival and resilience.  <a href="https://nyti.ms/3CFGFgt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Far Right Pushes a Through-the-Looking-Glass Narrative on Jan. 6</h3>
-<sub>By Robert Draper</sub>
-<p>An ecosystem of true believers is promoting a tale of persecution rather than prosecution that has migrated to the heart of presidential politics.  <a href="https://nyti.ms/433SGXS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>It’s a War-Themed Restaurant, but There Is No Need to Pretend</h3>
+<sub>By Patricia Cohen</sub>
+<p>A restaurant that celebrates Ukraine’s struggles in earlier wars is finding a second life in this one.  <a href="https://nyti.ms/3NU3rYt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
 <h3>New Study Bolsters Room-Temperature Superconductor Claim</h3>
 <sub>By Kenneth Chang</sub>
 <p>A team of researchers verified a key measurement from a study earlier this year that had faced doubts from other scientists.  <a href="https://nyti.ms/3D2g2Tb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-realestate-blue" alt="">
+<h3>Barbie, Her House and the American Dream</h3>
+<sub>By Anna Kodé</sub>
+<p>Take a stop-motion journey with the young, single homeowner of the Dreamhouse. Ken isn’t on the deed.  <a href="https://nyti.ms/3NJt3ab"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Why Some Americans Buy Guns</h3>
+<sub>By Roni Caryn Rabin</sub>
+<p>Social scientists are just beginning to understand who is purchasing firearms and how gun ownership may alter behavior.  <a href="https://nyti.ms/3NmN7hd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 23, Central Standard Time</sub></sub>
 <hr/>
 </ol>
