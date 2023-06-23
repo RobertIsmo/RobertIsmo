@@ -60,13 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, June 23, Central Standard Time</p>
 <p>
-Right now, there&#39;s been a tragic &#39;catastrophic implosion&#39; in the Atlantic Ocean that sadly cost five lives. The Navy attempted to locate the missing submersible containing the five victims, but found pieces of it on the floor 1,600 feet from the Titanic. In addition to this, director James Cameron brought up flaws in the Titan submersible&#39;s design that may have caused this disaster.
-
-President Biden is trying to build better ties with Indian Prime Minister Narendra Modi, and held a state dinner with him at the White House—with over 380 guests. But beyond the gates things were still a bit tense.
-
-On top of this, 3M has reached a $10.3 billion settlement in regards to claims they contaminated drinking water and G.O.P. Congressman George Santos was bailed out by his father and aunt through court records. Trump&#39;s upcoming trial could provide a conservative jury pool and missiles recently struck a bridge in Russian-occupied Crimea. 
-
-Finally, 19-year-old French basketball star Victor Wembanyama is the most-hyped prospect since LeBron James and was just drafted number one overall by the San Antonio Spurs!</p>
+Right now, there is an incredible tragedy in the Atlantic Ocean: a submersible was lost with five people on board during a multinational search for it. It appears to have imploded deep underwater, and pieces of it were found near the Titanic wreckage. Meanwhile, President Biden is making an effort to improve relationships between the U.S. and India, despite underlying tensions between the two countries. He hosted a state dinner for Indian Prime Minister Modi at the White House, bringing together more than 380 guests from all different backgrounds. There was also an announcement that 3M has agreed to pay $10.3 billion in a settlement over “forever chemicals” contaminating drinking water throughout the U.S. On top of that, former President Trump&#39;s trial is set to begin in a conservative-leaning area of Florida, and missiles recently struck a bridge deep inside Crimea -- territory held by Russia but technically part of Ukraine. Finally, French basketball phenom Victor Wembanyama became the number one overall pick in this year&#39;s NBA draft by the San Antonio Spurs.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Deep in the Atlantic, a ‘Catastrophic Implosion’ and Five Lives Lost</h3>
