@@ -60,12 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, June 23, Central Standard Time</p>
 <p>
-Right now, there is a lot happening in the world. In the US, the Supreme Court has revived Biden&#39;s immigration guidelines, setting priorities for which unauthorized immigrants should be detained. The court itself has also been dealing with significant cases this term after it underwent a conservative shift last year. At the same time, people are feeling the effects of a decision from last year to strike down Roe v. Wade. People are scrambling to adjust to the new legal landscape around abortion, and polls show that opinion is increasingly shifting towards legal abortion with potential political consequences for 2024. 
-
-In international news, there have been reports of Yevgeny V. Prigozhin - who leads a private force - deriding Russia&#39;s invasion of Ukraine as being about enriching Russia&#39;s elite rather than defending national interests. On that front, Ukraine has been slowly making progress in its counteroffensive with western-trained brigades entering the fight. Meanwhile in Ukraine itself, there is a war-themed restaurant that celebrates the struggles in earlier wars finding success again. 
-
-On the science front, a new study bolsters the claim that room-temperature superconductor exists and it was verified by a team of researchers from earlier this year that had faced doubts from other scientists. Also on an entirely different note is Barbie and her Dreamhouse living out the American Dream without Ken present on the deed! Lastly, some Americans have started to understand why people buy guns and how this can alter behavior through social scientists questioning this concept.</p>
+In the US, Ukraine’s Western-trained brigades are beginning to enter the fight in what could be a pivotal moment. Meanwhile, social scientists are starting to understand why more Americans are purchasing guns and how that’s changing their behavior. In the courts, the Supreme Court recently revived Biden immigration guidelines which were blocked by a Texas federal judge, rejected a free speech challenge to an immigration law, and narrowed the right to confront one&#39;s accuser in joint trials. Elsewhere, an expert raised safety concerns after a 2019 trip on Titan and a year since Roe was struck down has shifted how abortion politics takes center stage. Finally, there’s been a new study about room temperature superconductors while Barbie is taking us on a journey to explore her Dreamhouse and the American dream without Ken.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Ukraine’s Western-Trained Brigades Begin to Enter the Fight</h3>
+<sub>By Helene Cooper and Eric Schmitt</sub>
+<p>The arrival of new units could be pivotal. But progress has been slow for Ukraine in the early stage of its counteroffensive.  <a href="https://nyti.ms/42XQBwe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Why Some Americans Buy Guns</h3>
+<sub>By Roni Caryn Rabin</sub>
+<p>Social scientists are just beginning to understand who is purchasing firearms and how gun ownership may alter behavior.  <a href="https://nyti.ms/3NmN7hd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 23, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Supreme Court Revives Biden Immigration Guidelines</h3>
 <sub>By Adam Liptak</sub>
@@ -73,10 +81,22 @@ On the science front, a new study bolsters the claim that room-temperature super
 <sub><sub>Friday, June 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Tracking Major Supreme Court Cases in 2023</h3>
-<sub>By Adam Liptak and Eli Murray</sub>
-<p>How the court’s 6-to-3 conservative majority is ruling this term after its lurch to the right a year ago in blockbuster decisions on abortion, guns, religion and climate change.  <a href="https://nyti.ms/43xL9Bt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
+<h3>Supreme Court Rejects Free Speech Challenge to Immigration Law</h3>
+<sub>By Adam Liptak</sub>
+<p>In a 7-to-2 decision, the court gave a narrow reading to a statute that made it a crime to encourage unauthorized immigrants to come to or stay in the United States.  <a href="https://nyti.ms/3qZcuOG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Supreme Court Narrows the Right to Confront One’s Accuser in Joint Trials</h3>
+<sub>By Charlie Savage</sub>
+<p>In a murder-for-hire conspiracy trial, the majority allowed a defendant’s confession implicating a co-defendant to be used, with limitations.  <a href="https://nyti.ms/3qQKZXm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Submersible Expert Raised Safety Concerns After 2019 Trip on Titan</h3>
+<sub>By Jenny Gross</sub>
+<p>After hearing a loud cracking sound during the dive, the expert, Karl Stanley, emailed OceanGate’s C.E.O., Stockton Rush, to urge him to hold off on future trips.  <a href="https://nyti.ms/3qOXYc3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>One Year, 61 Clinics: How Dobbs Changed the Abortion Landscape</h3>
@@ -91,33 +111,9 @@ On the science front, a new study bolsters the claim that room-temperature super
 <sub><sub>Friday, June 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Pence Challenges 2024 Republicans to Embrace 15-Week National Abortion Ban</h3>
+<h3>Abortion Politics Takes Center Stage at Evangelical Event, but Trump Remains the Focus</h3>
 <sub>By Shane Goldmacher</sub>
-<p>The former vice president called on his rivals to back the ban, which is more strict than what former President Donald J. Trump has said he would support.  <a href="https://nyti.ms/42UMbXg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Submersible Expert Raised Safety Concerns After 2019 Trip on Titan</h3>
-<sub>By Jenny Gross</sub>
-<p>After hearing a loud cracking sound during the dive, the expert, Karl Stanley, emailed OceanGate’s C.E.O., Stockton Rush, to urge him to hold off on future trips.  <a href="https://nyti.ms/3qOXYc3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Prigozhin Derides Ukraine Invasion as ‘Racket’ to Enrich Russia’s Elite</h3>
-<sub>By Anton Troianovski</sub>
-<p>Yevgeny V. Prigozhin, who leads the private Wagner force, has been scathing of Russia’s military leadership for months, but the 30-minute video he released on Friday took his criticism to a new level.  <a href="https://nyti.ms/3r35HTU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Ukraine’s Western-Trained Brigades Begin to Enter the Fight</h3>
-<sub>By Helene Cooper and Eric Schmitt</sub>
-<p>The arrival of new units could be pivotal. But progress has been slow for Ukraine in the early stage of its counteroffensive.  <a href="https://nyti.ms/42XQBwe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>It’s a War-Themed Restaurant, but There Is No Need to Pretend</h3>
-<sub>By Patricia Cohen</sub>
-<p>A restaurant that celebrates Ukraine’s struggles in earlier wars is finding a second life in this one.  <a href="https://nyti.ms/3NU3rYt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>At a gathering of evangelicals, the former vice president and other top Republican candidates backed a ban that is more strict than what former President Donald J. Trump has said he would support.  <a href="https://nyti.ms/42UMbXg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
@@ -132,10 +128,10 @@ On the science front, a new study bolsters the claim that room-temperature super
 <p>Take a stop-motion journey with the young, single homeowner of the Dreamhouse. Ken isn’t on the deed.  <a href="https://nyti.ms/3NJt3ab"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Why Some Americans Buy Guns</h3>
-<sub>By Roni Caryn Rabin</sub>
-<p>Social scientists are just beginning to understand who is purchasing firearms and how gun ownership may alter behavior.  <a href="https://nyti.ms/3NmN7hd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Garland Pushes Back at G.O.P. Claims of Bias in Hunter Biden Investigation</h3>
+<sub>By Glenn Thrush, Michael S. Schmidt and Luke Broadwater</sub>
+<p>The attorney general denied assertions that he had interfered with the case and blocked a prosecutor from lodging more charges.  <a href="https://nyti.ms/3CL7G1Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 23, Central Standard Time</sub></sub>
 <hr/>
 </ol>
