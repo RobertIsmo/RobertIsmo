@@ -60,8 +60,32 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, June 23, Central Standard Time</p>
 <p>
-Right now, there is an incredible tragedy in the Atlantic Ocean: a submersible was lost with five people on board during a multinational search for it. It appears to have imploded deep underwater, and pieces of it were found near the Titanic wreckage. Meanwhile, President Biden is making an effort to improve relationships between the U.S. and India, despite underlying tensions between the two countries. He hosted a state dinner for Indian Prime Minister Modi at the White House, bringing together more than 380 guests from all different backgrounds. There was also an announcement that 3M has agreed to pay $10.3 billion in a settlement over “forever chemicals” contaminating drinking water throughout the U.S. On top of that, former President Trump&#39;s trial is set to begin in a conservative-leaning area of Florida, and missiles recently struck a bridge deep inside Crimea -- territory held by Russia but technically part of Ukraine. Finally, French basketball phenom Victor Wembanyama became the number one overall pick in this year&#39;s NBA draft by the San Antonio Spurs.</p>
+Right now, there are some major events happening around the world. In Ukraine, Western-trained brigades have begun to enter the fight, bringing a potential turning point against their adversary. In Russia, a Chinese state-owned gunpowder company has been making large shipments to munitions factories, raising questions about China&#39;s involvement in the conflict. There is also a lot happening in the United States. A year after Roe v Wade was struck down, new polling shows that public opinion is increasingly supportive of legal abortion. Additionally, the tragic story of five lost lives in an Atlantic Ocean submarine disaster is still unfolding. In Charleston, there is a museum dedicated to honoring a journey of grief and grace. Finally, Texas is currently experiencing an incredibly dangerous heat wave with no signs of slowing down.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Ukraine’s Western-Trained Brigades Begin to Enter the Fight</h3>
+<sub>By Helene Cooper and Eric Schmitt</sub>
+<p>The arrival of new units could be pivotal. But progress has been slow for Ukraine in the early stage of its counteroffensive.  <a href="https://nyti.ms/42XQBwe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Chinese Firm Sent Large Shipments of Gunpowder to Russian Munitions Factory</h3>
+<sub>By Ana Swanson and John Ismay</sub>
+<p>The previously unreported shipments between a state-owned Chinese company and a Russian munitions factory last year raise new questions about Beijing’s role in Russia’s war against Ukraine.  <a href="https://nyti.ms/46mNrW6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How a Year Without Roe Shifted American Views on Abortion</h3>
+<sub>By Kate Zernike</sub>
+<p>New and extensive polling shows public opinion increasingly supports legal abortion, with potential political consequences for 2024.  <a href="https://nyti.ms/42XmyFc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>One Year, 61 Clinics: How Dobbs Changed the Abortion Landscape</h3>
+<sub>By Allison McCann and Amy Schoenfeld Walker</sub>
+<p>In the year since Roe was struck down, clinic owners have scrambled to adjust to the new legal landscape around abortion. Here’s what happened to them, and their communities.  <a href="https://nyti.ms/43S2NQL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Deep in the Atlantic, a ‘Catastrophic Implosion’ and Five Lives Lost</h3>
 <sub>By Jenna Russell</sub>
@@ -69,70 +93,46 @@ Right now, there is an incredible tragedy in the Atlantic Ocean: a submersible w
 <sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Secret Navy sensors detected a possible implosion around the time the Titan’s communications failed.</h3>
+<h3>U.S. Navy Detected a Possible Implosion Near Titan Sub as Communications Failed</h3>
 <sub>By Eric Schmitt</sub>
 <p>Two senior Navy officials said the information was shared with the Coast Guard official in charge of the search. But without certainty of a disaster, one said, the search continued.  <a href="https://nyti.ms/3JxmpRR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Five Lives Lost in the Titanic Submersible</h3>
-<sub>By Emma Bubola, Salman Masood and Victoria Kim</sub>
-<p>On board the submersible were the founder of the company that operates the vessel; a British businessman and explorer; a British father and teenage son from a prominent Pakistani family; and a French maritime expert.  <a href="https://nyti.ms/3PrGsVD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 19, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>The director and deep-sea explorer James Cameron points to flaws in the Titan submersible’s design.</h3>
+<h3>‘Titanic’ Director James Cameron Points to Flaws in Titan Sub’s Design</h3>
 <sub>By William J. Broad</sub>
 <p>The “Titanic” director and diving expert said he’d had concerns from the start about the vehicle’s hull composition and claims about its network of hull sensors.  <a href="https://nyti.ms/3Juvhrz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Seeks to Bolster Ties With Modi While Soft-Pedaling Differences</h3>
-<sub>By Peter Baker</sub>
-<p>At the White House, the president emphasized common ground with India’s prime minister and announced joint initiatives without making progress in enlisting help against Russian aggression.  <a href="https://nyti.ms/3NFlz8a"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>In Charleston, a Museum Honors a Journey of Grief and Grace</h3>
+<sub>By Holland Cotter</sub>
+<p>The International African American Museum, in a former slave port, is about more than slavery. It’s about survival and resilience.  <a href="https://nyti.ms/3CFGFgt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden’s State Dinner Ignores the Discord Just Beyond the Gates</h3>
-<sub>By Katie Rogers</sub>
-<p>The mix of political adversaries created a dinner scene so dissonant that no amount of glass clinking could have drowned out the partisan undercurrents.  <a href="https://nyti.ms/46iDmJs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
+<h3>Far-Right Pushes a Through-the-Looking-Glass Narrative on Jan. 6</h3>
+<sub>By Robert Draper</sub>
+<p>An ecosystem of true believers is promoting a tale of persecution rather than prosecution that has migrated to the heart of presidential politics.  <a href="https://nyti.ms/433SGXS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>New Study Bolsters Room-Temperature Superconductor Claim</h3>
+<sub>By Kenneth Chang</sub>
+<p>A team of researchers verified a key measurement from a study earlier this year that had faced doubts from other scientists.  <a href="https://nyti.ms/3D2g2Tb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Full Guest List for Biden’s State Dinner With Modi</h3>
-<sub>By Chris Cameron</sub>
-<p>More than 380 guests were invited, including government officials, business leaders, fashion designers and prominent Indian Americans.  <a href="https://nyti.ms/3pmZdPp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>3M Reaches $10.3 Billion Settlement in ‘Forever Chemicals’ Suits</h3>
-<sub>By Lisa Friedman and Vivian Giang</sub>
-<p>The deal followed an agreement by Chemours, DuPont and Corteva to pay $1.19 billion to help resolve claims that the chemical manufacturers contaminated drinking water across the country.  <a href="https://nyti.ms/3CKXu9Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>George Santos Was Bailed Out by His Father and Aunt, Court Records Show</h3>
-<sub>By Michael Gold and Grace Ashford</sub>
-<p>Mr. Santos, a first-term G.O.P. congressman, had tried to keep the names of the people who guaranteed his $500,000 bond sealed, but two judges rejected his efforts.  <a href="https://nyti.ms/3CHGiBP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
+<h3>Texas Heat Wave Shows No Signs of Letting Up</h3>
+<sub>By Judson Jones</sub>
+<p>A record-breaking heat wave is expected to worsen through the weekend as it spreads through nearby states.  <a href="https://nyti.ms/42QyDvT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Trial Setting Could Provide Conservative Jury Pool</h3>
-<sub>By Maggie Haberman, Jonathan Swan and Alan Feuer</sub>
-<p>If Judge Aileen Cannon sticks to her initial decision to hold the trial in Fort Pierce, Fla., the jury would be drawn largely from counties that Donald Trump won handily in his previous campaigns.  <a href="https://nyti.ms/43UzPQa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Missiles Strike Russian-Held Bridge Far Behind Ukraine Front Line</h3>
-<sub>By Cassandra Vinograd and Ivan Nechepurenko</sub>
-<p>The attack damaged a bridge in the Russian-occupied Crimean Peninsula that Moscow uses to resupply its forces in Ukraine.  <a href="https://nyti.ms/3NH6qTS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Victor Wembanyama Drafted No. 1 Overall by San Antonio Spurs</h3>
-<sub>By Tania Ganguli</sub>
-<p>Wembanyama, the 19-year-old French basketball star, had been perhaps the most-hyped prospect since LeBron James.  <a href="https://nyti.ms/46dLprf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
+<h3>Tracking Dangerous Heat in the U.S.</h3>
+<sub>By Matthew Bloch, Lazaro Gamio, Zach Levitt, Eleanor Lutz, Bea Malsky and John-Michael Murphy</sub>
+<p>See detailed maps of the latest heat index forecasts in the United States.  <a href="https://nyti.ms/3calp8v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 12, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
