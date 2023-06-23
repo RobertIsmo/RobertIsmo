@@ -60,12 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, June 22, Central Standard Time</p>
 <p>
-Recently, a secret Navy sensor detected a possible implosion around the time a submersible called the Titan&#39;s communications failed, though the search continued without certainty of a disaster. Five lives were lost on the vessel, and James Cameron, director and deep-sea explorer, pointed to flaws in its design. 
-
-On the political front, President Biden has been trying to bolster ties with India&#39;s Prime Minister Modi while liberal democrats continue to boycott Modi’s speech to Congress. Biden will host a state dinner for Modi in which he will try to convince him to align with American interests without making progress in enlisting help against Russian aggression. The full guest list includes government officials, business leaders, fashion designers and prominent Indian Americans.
-
-Meanwhile, 3M has reached a $10.3 billion settlement in chemical contamination suits while Republican Congressman George Santos was bailed out by his father and aunt according to court records. A potential jury pool was identified in Trump&#39;s hometown for his upcoming trial while missiles struck a bridge far behind Ukraine’s front line that is held by Russia. Lastly, a North Korean dissident has defected to America’s right with claims that America is following down the same path as North Korea.</p>
+There have been some recent tragedies in the world, like the &quot;catastrophic implosion&quot; that sunk a submarine deep in the Atlantic, resulting in five lives lost. On top of that, US President Joe Biden recently held a state dinner with India&#39;s Prime Minister Narendra Modi to strengthen diplomatic ties despite current discord between both nations. In other news, 3M has reportedly reached a settlement worth $10.3 billion for claims of contamination in drinking water due to chemicals used by companies while closer to home, a judge rejected efforts by Republican Congressman George Santos to keep sealed the names of those who guaranteed his $500,000 bond. And finally, missiles recently struck a bridge in Russian-occupied Crimea and a North Korean refugee who escaped to South Korea has now become an unlikely star of right-wing media in America.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Deep in the Atlantic, a ‘Catastrophic Implosion’ and Five Lives Lost</h3>
+<sub>By Jenna Russell</sub>
+<p>The vast multinational search for the missing submersible ended after pieces of it were found on the ocean floor, 1,600 feet from the bow of the Titanic.  <a href="https://nyti.ms/3NTDYhP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Secret Navy sensors detected a possible implosion around the time the Titan’s communications failed.</h3>
 <sub>By Eric Schmitt</sub>
@@ -91,15 +93,9 @@ Meanwhile, 3M has reached a $10.3 billion settlement in chemical contamination s
 <sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Liberal Democrats Boycott Modi’s Speech to Congress</h3>
-<sub>By Karoun Demirjian</sub>
-<p>“We must never sacrifice human rights at the altar of political expediency,” four of the protesting House members said, objecting to the Indian leader’s human rights record.  <a href="https://nyti.ms/3PloPa2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>State Dinners: Who Gets Them, Who Doesn’t and Why They Matter</h3>
-<sub>By Zolan Kanno-Youngs</sub>
-<p>Under the guise of pomp and pageantry, state visits can be a chance to push foreign dignitaries to align with American interests.  <a href="https://nyti.ms/3r1U5Ay"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Biden’s State Dinner Ignores the Discord Just Beyond the Gates</h3>
+<sub>By Katie Rogers</sub>
+<p>The mix of political adversaries created a dinner scene so dissonant that no amount of glass clinking could have drowned out the partisan undercurrents.  <a href="https://nyti.ms/46iDmJs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
