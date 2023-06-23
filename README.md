@@ -60,8 +60,38 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, June 23, Central Standard Time</p>
 <p>
-Right now, there are some major events happening around the world. In Ukraine, Western-trained brigades have begun to enter the fight, bringing a potential turning point against their adversary. In Russia, a Chinese state-owned gunpowder company has been making large shipments to munitions factories, raising questions about China&#39;s involvement in the conflict. There is also a lot happening in the United States. A year after Roe v Wade was struck down, new polling shows that public opinion is increasingly supportive of legal abortion. Additionally, the tragic story of five lost lives in an Atlantic Ocean submarine disaster is still unfolding. In Charleston, there is a museum dedicated to honoring a journey of grief and grace. Finally, Texas is currently experiencing an incredibly dangerous heat wave with no signs of slowing down.</p>
+There are a lot of major things happening in the world right now. In the US, we&#39;ve reached a year since Roe v. Wade was struck down, leading to drastic changes in the abortion landscape across the country. Polls have been showing that people&#39;s support for legal abortion is increasing, more evidence that this law has really mobilized people. The Supreme Court also revived Biden&#39;s immigration guidelines, which had been temporarily blocked by a Texas federal judge. There are also a lot of big cases currently being heard by the 6-to-3 conservative majority Supreme Court; lots of legal battles going on around guns and religion and climate change. 
+
+In Ukraine, there&#39;s increased military activity as western-trained brigades have started to enter the fight. In addition, there&#39;s news out of China and Russia that a state-owned Chinese company sent large shipments of gunpowder to a Russian munitions factory last year. 
+
+Internationally, there was an unsuccessful search for a missing American submersible in the Atlantic Ocean which ended when pieces were discovered on the ocean floor--five lives were lost in the incident. James Cameron made some comments about possible flaws in its design afterwards, and recent studies have backed some of his claims up. 
+
+Finally, there&#39;s new developments in terms of racial reconciliation in the US. Charleston was recently opened up with a public museum honoring African American survival and resilience--it’s about more than just slavery. On another front, far-right groups are pushing through an alternate narrative around January 6th which is now at the heart of presidential politics.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>One Year, 61 Clinics: How Dobbs Changed the Abortion Landscape</h3>
+<sub>By Allison McCann and Amy Schoenfeld Walker</sub>
+<p>In the year since Roe was struck down, clinic owners have scrambled to adjust to the new legal landscape around abortion. Here’s what happened to them, and their communities.  <a href="https://nyti.ms/43S2NQL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How a Year Without Roe Shifted American Views on Abortion</h3>
+<sub>By Kate Zernike</sub>
+<p>New and extensive polling shows public opinion increasingly supports legal abortion, with potential political consequences for 2024.  <a href="https://nyti.ms/42XmyFc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Supreme Court Revives Biden Immigration Guidelines</h3>
+<sub>By Adam Liptak</sub>
+<p>The guidelines, setting priorities for which unauthorized immigrants should be detained, were blocked by a federal judge in Texas.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Tracking Major Supreme Court Cases in 2023</h3>
+<sub>By Adam Liptak and Eli Murray</sub>
+<p>How the court’s 6-to-3 conservative majority is ruling this term after its lurch to the right a year ago in blockbuster decisions on abortion, guns, religion and climate change.  <a href="https://nyti.ms/43xL9Bt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Ukraine’s Western-Trained Brigades Begin to Enter the Fight</h3>
 <sub>By Helene Cooper and Eric Schmitt</sub>
@@ -73,18 +103,6 @@ Right now, there are some major events happening around the world. In Ukraine, W
 <sub>By Ana Swanson and John Ismay</sub>
 <p>The previously unreported shipments between a state-owned Chinese company and a Russian munitions factory last year raise new questions about Beijing’s role in Russia’s war against Ukraine.  <a href="https://nyti.ms/46mNrW6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How a Year Without Roe Shifted American Views on Abortion</h3>
-<sub>By Kate Zernike</sub>
-<p>New and extensive polling shows public opinion increasingly supports legal abortion, with potential political consequences for 2024.  <a href="https://nyti.ms/42XmyFc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>One Year, 61 Clinics: How Dobbs Changed the Abortion Landscape</h3>
-<sub>By Allison McCann and Amy Schoenfeld Walker</sub>
-<p>In the year since Roe was struck down, clinic owners have scrambled to adjust to the new legal landscape around abortion. Here’s what happened to them, and their communities.  <a href="https://nyti.ms/43S2NQL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Deep in the Atlantic, a ‘Catastrophic Implosion’ and Five Lives Lost</h3>
@@ -111,7 +129,7 @@ Right now, there are some major events happening around the world. In Ukraine, W
 <sub><sub>Friday, June 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Far-Right Pushes a Through-the-Looking-Glass Narrative on Jan. 6</h3>
+<h3>Far Right Pushes a Through-the-Looking-Glass Narrative on Jan. 6</h3>
 <sub>By Robert Draper</sub>
 <p>An ecosystem of true believers is promoting a tale of persecution rather than prosecution that has migrated to the heart of presidential politics.  <a href="https://nyti.ms/433SGXS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 23, Central Standard Time</sub></sub>
@@ -121,18 +139,6 @@ Right now, there are some major events happening around the world. In Ukraine, W
 <sub>By Kenneth Chang</sub>
 <p>A team of researchers verified a key measurement from a study earlier this year that had faced doubts from other scientists.  <a href="https://nyti.ms/3D2g2Tb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Texas Heat Wave Shows No Signs of Letting Up</h3>
-<sub>By Judson Jones</sub>
-<p>A record-breaking heat wave is expected to worsen through the weekend as it spreads through nearby states.  <a href="https://nyti.ms/42QyDvT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Tracking Dangerous Heat in the U.S.</h3>
-<sub>By Matthew Bloch, Lazaro Gamio, Zach Levitt, Eleanor Lutz, Bea Malsky and John-Michael Murphy</sub>
-<p>See detailed maps of the latest heat index forecasts in the United States.  <a href="https://nyti.ms/3calp8v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 12, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
