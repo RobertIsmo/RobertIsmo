@@ -58,9 +58,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Friday, June 23, Central Standard Time</p>
+<p>It is Saturday, June 24, Central Standard Time</p>
 <p>
-Currently, there is a lot going on in the world related to politics. In Russia, Google News was blocked after a falling out between the government and a private military leader called Yevgeny Prigozhin. Meanwhile in the US, immigration law is receiving much scrutiny following recent Supreme Court decisions. Additionally, President Biden has denounced abortion bans and attempted to galvanize supporters of pro-choice rights. Outside of political news, people are paying attention to an event wherein hundreds of migrants died at sea - prompting questions about class and ethnicity - and a company seeking to become the &quot;SpaceX of the ocean&quot; is facing criticisms for their focus on underwater exploration. Finally, Barbie has recently launched her own Dreamhouse, seemingly embracing modern adulthood without a husband.</p>
+There is a lot of news related to international events happening in the world. For instance, there&#39;s a Russian businessman, Yevgeny Prigozhin, who has risen from a known &quot;Putin chef&quot; to leading a private army and there&#39;s been a feud between him and Moscow&#39;s military leadership that led to an attack on Kyiv. Additionally, Google News was blocked in Russia as tensions escalated. 
+
+In addition to the conflict in Russia, there was a tragedy at sea involving migrants which has highlighted the differences of class and ethnicity when the response was considered too late. On the other hand, there&#39;s a company that is pushing for more deep-sea travel despite concerns, which reflects people&#39;s desire to explore the unknown.
+
+On the domestic front, there are a number of Supreme Court decisions involving immigration laws and free speech rights. President Biden has also come out to denounce abortion bans and Arizona&#39;s Governor has declared that prosecutors cannot enforce it. All in all, it&#39;s been a busy week following these news stories!</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Who is Yevgeny Prigozhin, the mercenary leader Russia accused of mounting a coup?</h3>
@@ -72,6 +76,12 @@ Currently, there is a lot going on in the world related to politics. In Russia, 
 <h3>Google News Blocked in Russia as Feud With Mercenary Leader Intensifies</h3>
 <sub>By Nico Grant</sub>
 <p>At least five telecommunications companies have blocked the service, which aggregates news from various sources, according to an analysis from NetBlocks, an internet observatory.  <a href="https://nyti.ms/3NiWQFg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Debris From Russian Missile Kills Three in Kyiv Apartment Building</h3>
+<sub>By Megan Specia</sub>
+<p>The capital came under attack as anxiety grew in Russia over a confrontation between Yevgeny V. Prigozhin, the founder of the Wagner mercenary group, and Moscow’s military leadership.  <a href="https://nyti.ms/46i4Qz5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -126,12 +136,6 @@ Currently, there is a lot going on in the world related to politics. In Russia, 
 <h3>Arizona Governor Says Prosecutors Cannot Enforce Abortion Law</h3>
 <sub>By Jack Healy</sub>
 <p>Gov. Katie Hobbs, a Democrat, says she is doing what she can to protect abortion rights in a state with a 15-week ban on the procedure.  <a href="https://nyti.ms/448qmVe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-realestate-blue" alt="">
-<h3>Barbie, Her House and the American Dream</h3>
-<sub>By Anna Kodé</sub>
-<p>Take a stop-motion journey with the young, single homeowner of the Dreamhouse. Ken isn’t on the deed.  <a href="https://nyti.ms/3NJt3ab"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 23, Central Standard Time</sub></sub>
 <hr/>
 </ol>
