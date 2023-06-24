@@ -60,12 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, June 24, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In Russia, President Vladimir V. Putin is facing turmoil that has threatened his leadership after two decades of rule. In the US, President Biden is struggling to rally support around abortion rights despite Congress resistance. In Myanmar, critically endangered turtles have hatched for the first time in Indawgyi Lake. On the crypto front, the fugitive founder of a digital coin has made claims about campaign funding in Montenegro ahead of an election there. Meanwhile, Meghan Trainor is gaining a whole new generation of fans through TikTok and we may be entering a golden age in medicine. Finally, if you want to spend 36 hours in Paris, there&#39;s an article about that too!</p>
+Right now, in the United States, some activists are celebrating a year since the Supreme Court&#39;s decision to eliminate the national right to abortion. Meanwhile, President Biden is seeking to rally supporters on this issue using executive orders and other tools. Elsewhere in the world, an investigation is underway after a ship that had launched an ill-fated Titan submersible returned to Newfoundland. Furthermore, extreme floods and heat in China are affecting harvests and wreaking havoc on animal populations. Finally, conservationists in Myanmar recently captured videos of rare critically endangered turtles hatching.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Putin embraced turmoil, and now it is rattling his leadership.</h3>
-<sub>By Anton Troianovski</sub>
-<p>For more than two decades, the system helped President Vladimir V. Putin secure his unrivaled authority, ensuring that he personally held the keys to wealth and influence in modern Russia.  <a href="https://nyti.ms/4437Lu4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>‘The Impossible Became Possible’: The Women Celebrating a Year Without Roe</h3>
+<sub>By Ruth Graham</sub>
+<p>For anti-abortion activists, the anniversary of the Supreme Court’s decision eliminating the national right to abortion is festive, but also a time to acknowledge challenges.  <a href="https://nyti.ms/3Xl4VOt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -75,22 +75,16 @@ There is a lot going on in the world right now. In Russia, President Vladimir V.
 <sub><sub>Saturday, June 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘The Impossible Became Possible’: The Women Celebrating a Year Without Roe</h3>
-<sub>By Ruth Graham</sub>
-<p>For anti-abortion activists, the anniversary of the Supreme Court’s decision eliminating the national right to abortion is festive, but also a time to acknowledge challenges.  <a href="https://nyti.ms/3Xl4VOt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, June 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>OceanGate Founder Pushed to Expand Deep Sea Travel Despite Chorus of Concerns</h3>
 <sub>By Shawn Hubler, Nicholas Bogel-Burroughs and Anna Betts</sub>
 <p>After his early astronaut dreams were cut short, Stockton Rush was determined to open up underwater exploration and saw his company as the “SpaceX for the ocean.”  <a href="https://nyti.ms/3NIPXi2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>5 Deaths at Sea Gripped the World. Hundreds of Others Got a Shrug.</h3>
-<sub>By Richard Pérez-Peña</sub>
-<p>Many see harsh realities about class and ethnicity in the attention paid to the Titan submersible and the halfhearted attempts to aid a ship before it sank, killing hundreds of migrants. But there are other factors.  <a href="https://nyti.ms/46nPZDl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 23, Central Standard Time</sub></sub>
+<h3>Ship That Launched Ill-Fated Titan Submersible Returns to Newfoundland</h3>
+<sub>By Ian Austen</sub>
+<p>Investigators boarded the Polar Prince, which docked at the Atlantic headquarters of the Canadian Coast Guard, looking for answers.  <a href="https://nyti.ms/3NNQBLf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, June 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>This City Had Quietly Celebrated Pride Before. In 2023, That Was Not an Option.</h3>
@@ -132,6 +126,12 @@ There is a lot going on in the world right now. In Russia, President Vladimir V.
 <h3>The Weekender</h3>
 <sub>By Jaclyn Reiss</sub>
 <p>How to spend 36 hours in Paris. Also: The significance of Barbie&#39;s Dreamhouse, and John Corbett on reprising his “Sex and the City” role.  <a href="https://nyti.ms/46opGwz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The New York Times News Quiz, June 23, 2023</h3>
+<sub></sub>
+<p>Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.  <a href="https://nyti.ms/3Xk8017"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 23, Central Standard Time</sub></sub>
 <hr/>
 </ol>
