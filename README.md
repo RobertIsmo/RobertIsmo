@@ -60,28 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, June 24, Central Standard Time</p>
 <p>
-There is a lot of news related to international events happening in the world. For instance, there&#39;s a Russian businessman, Yevgeny Prigozhin, who has risen from a known &quot;Putin chef&quot; to leading a private army and there&#39;s been a feud between him and Moscow&#39;s military leadership that led to an attack on Kyiv. Additionally, Google News was blocked in Russia as tensions escalated. 
-
-In addition to the conflict in Russia, there was a tragedy at sea involving migrants which has highlighted the differences of class and ethnicity when the response was considered too late. On the other hand, there&#39;s a company that is pushing for more deep-sea travel despite concerns, which reflects people&#39;s desire to explore the unknown.
-
-On the domestic front, there are a number of Supreme Court decisions involving immigration laws and free speech rights. President Biden has also come out to denounce abortion bans and Arizona&#39;s Governor has declared that prosecutors cannot enforce it. All in all, it&#39;s been a busy week following these news stories!</p>
+There has been a lot of political tension in the world lately, especially in Russia. Recently, the founder of the Wagner mercenary group confronted President Vladimir Putin, leading to increased tensions. In Ukraine, debris from a Russian missile killed three people in an apartment building. Additionally, we have seen the tragic story of hundreds of people on a sinking migrant ship that garnered global attention. Here at home, the Supreme Court has revived Biden immigration guidelines only to reject challenges to them shortly afterwards. They also gave a narrow reading to a law making it illegal to encourage unauthorized immigrants to come to or stay in the US and narrowed the right to confront an accuser in joint trials. Meanwhile, President Biden is doing what he can to ensure abortion rights remain protected and prosecutors are seeking a December date for Donald Trump’s documents trial while Michael Roman, a former Trump campaign official, is now in talks to cooperate with Jan. 6 inquiry.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Who is Yevgeny Prigozhin, the mercenary leader Russia accused of mounting a coup?</h3>
-<sub>By Anton Troianovski, Ben Shpigel and Gaya Gupta</sub>
-<p>Mr. Prigozhin has risen from a businessmen known as President Vladimir V. Putin’s ‘chef’ to a symbol of wartime Russia, controlling a private army operating from Ukraine to Central African Republic.  <a href="https://nyti.ms/3JS2zRJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 23, Central Standard Time</sub></sub>
+<h3>Putin strikes a tough tone in his first address since the uprising started.</h3>
+<sub>By Anton Troianovski</sub>
+<p>  <a href="https://nyti.ms/43WJwO2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, June 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Google News Blocked in Russia as Feud With Mercenary Leader Intensifies</h3>
-<sub>By Nico Grant</sub>
-<p>At least five telecommunications companies have blocked the service, which aggregates news from various sources, according to an analysis from NetBlocks, an internet observatory.  <a href="https://nyti.ms/3NiWQFg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 23, Central Standard Time</sub></sub>
+<h3>What’s happening in Russia? Here’s what we know.</h3>
+<sub>By Mike Ives</sub>
+<p>The Wagner chief’s broadside against the Russian military establishment has escalated tensions drastically, but it isn’t yet clear how much of a threat the situation poses to the Kremlin.  <a href="https://nyti.ms/3pi54FL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, June 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Debris From Russian Missile Kills Three in Kyiv Apartment Building</h3>
 <sub>By Megan Specia</sub>
-<p>The capital came under attack as anxiety grew in Russia over a confrontation between Yevgeny V. Prigozhin, the founder of the Wagner mercenary group, and Moscow’s military leadership.  <a href="https://nyti.ms/46i4Qz5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The capital came under attack as anxiety grew in Russia over a confrontation between Yevgeny V. Prigozhin, the founder of the Wagner mercenary group, and President Vladimir V. Putin of Russia.  <a href="https://nyti.ms/46i4Qz5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -94,18 +90,6 @@ On the domestic front, there are a number of Supreme Court decisions involving i
 <h3>OceanGate Founder Pushed to Expand Deep Sea Travel Despite Chorus of Concerns</h3>
 <sub>By Shawn Hubler, Nicholas Bogel-Burroughs and Anna Betts</sub>
 <p>After his early astronaut dreams were cut short, Stockton Rush was determined to open up underwater exploration and saw his company as the “SpaceX for the ocean.”  <a href="https://nyti.ms/3NIPXi2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>At Titanic Site, the Grim Job Now Is Assessing the Submersible’s Debris</h3>
-<sub>By Jacey Fortin</sub>
-<p>With hopes for rescue dashed, searchers are turning to documenting and perhaps retrieving parts of the imploded vessel, as an investigation of the disaster gets underway.  <a href="https://nyti.ms/441dobZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-travel-blue" alt="">
-<h3>Money Can Buy a Visit to Space or the Deep Sea, but It Can’t Guarantee Safety</h3>
-<sub>By Christine Chung</sub>
-<p>The Titan submersible tragedy spotlights the issues around rescue operations and government oversight as an increasing number of wealthy thrill seekers undertake risky adventures and expeditions.  <a href="https://nyti.ms/43VYCDc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -136,6 +120,18 @@ On the domestic front, there are a number of Supreme Court decisions involving i
 <h3>Arizona Governor Says Prosecutors Cannot Enforce Abortion Law</h3>
 <sub>By Jack Healy</sub>
 <p>Gov. Katie Hobbs, a Democrat, says she is doing what she can to protect abortion rights in a state with a 15-week ban on the procedure.  <a href="https://nyti.ms/448qmVe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Prosecutors Seek to Delay Trump Documents Trial to December</h3>
+<sub>By Glenn Thrush</sub>
+<p>The special counsel argued that the August date set by the judge did not allow enough time to deal with the complications of classified evidence, but still proposed a relatively speedy timetable.  <a href="https://nyti.ms/46n4Rlm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Former Trump Campaign Official in Talks to Cooperate in Jan. 6 Inquiry</h3>
+<sub>By Alan Feuer and Maggie Haberman</sub>
+<p>The office of the special counsel is negotiating with Michael Roman, who was closely involved in the efforts to create slates of pro-Trump electors in states won in 2020 by Joseph R. Biden Jr.  <a href="https://nyti.ms/3JtUX7J"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 23, Central Standard Time</sub></sub>
 <hr/>
 </ol>
