@@ -60,18 +60,42 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, June 23, Central Standard Time</p>
 <p>
-In the US, Ukraine’s Western-trained brigades are beginning to enter the fight in what could be a pivotal moment. Meanwhile, social scientists are starting to understand why more Americans are purchasing guns and how that’s changing their behavior. In the courts, the Supreme Court recently revived Biden immigration guidelines which were blocked by a Texas federal judge, rejected a free speech challenge to an immigration law, and narrowed the right to confront one&#39;s accuser in joint trials. Elsewhere, an expert raised safety concerns after a 2019 trip on Titan and a year since Roe was struck down has shifted how abortion politics takes center stage. Finally, there’s been a new study about room temperature superconductors while Barbie is taking us on a journey to explore her Dreamhouse and the American dream without Ken.</p>
+Right now, there&#39;s a lot happening in the world. In Russia, Google News is blocked as a feud with a mercenary leader intensifies. In the ocean, 5 deaths at sea have highlighted harsh realities about ethnicity while the investigation into a submersible disaster continues. Meanwhile, in the US, Supreme Court rulings have addressed immigration laws, free speech challenges and abortion bans. There&#39;s also been a push to increase deep-sea travel and the president denounced abortion bans while an Arizona governor has blocked her state&#39;s 15-week ban on abortion procedure. Finally Barbie has attained her dreamhouse, evoking conversations related to American Dream.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Ukraine’s Western-Trained Brigades Begin to Enter the Fight</h3>
-<sub>By Helene Cooper and Eric Schmitt</sub>
-<p>The arrival of new units could be pivotal. But progress has been slow for Ukraine in the early stage of its counteroffensive.  <a href="https://nyti.ms/42XQBwe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Who is Yevgeny Prigozhin, the mercenary leader Russia accused of mounting a coup?</h3>
+<sub>By Anton Troianovski, Ben Shpigel and Gaya Gupta</sub>
+<p>  <a href="https://nyti.ms/43W2dRU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Why Some Americans Buy Guns</h3>
-<sub>By Roni Caryn Rabin</sub>
-<p>Social scientists are just beginning to understand who is purchasing firearms and how gun ownership may alter behavior.  <a href="https://nyti.ms/3NmN7hd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Google News Blocked in Russia as Feud With Mercenary Leader Intensifies</h3>
+<sub>By Nico Grant</sub>
+<p>At least five telecommunications companies have blocked the service, which aggregates news from various sources, according to an analysis from NetBlocks, an internet observatory.  <a href="https://nyti.ms/3NiWQFg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>5 Deaths at Sea Gripped the World. Hundreds of Others Got a Shrug.</h3>
+<sub>By Richard Pérez-Peña</sub>
+<p>Many see harsh realities about class and ethnicity in the attention paid to the Titan submersible and the halfhearted attempts to aid a ship before it sank, killing hundreds of migrants. But there are other factors.  <a href="https://nyti.ms/46nPZDl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>OceanGate Founder Pushed to Expand Deep Sea Travel Despite Chorus of Concerns</h3>
+<sub>By Shawn Hubler, Nicholas Bogel-Burroughs and Anna Betts</sub>
+<p>After his early astronaut dreams were cut short, Stockton Rush was determined to open up underwater exploration and saw his company as the “SpaceX for the ocean.”  <a href="https://nyti.ms/3NIPXi2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>At Titanic Site, the Grim Job Now Is Assessing the Submersible’s Debris</h3>
+<sub>By Jacey Fortin</sub>
+<p>With hopes for rescue dashed, searchers are turning to documenting and perhaps retrieving parts of the imploded vessel, as an investigation of the disaster gets underway.  <a href="https://nyti.ms/441dobZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-travel-blue" alt="">
+<h3>Money Can Buy a Visit to Space or the Deep Sea, but It Can’t Guarantee Safety</h3>
+<sub>By Christine Chung</sub>
+<p>The Titan submersible tragedy spotlights the issues around rescue operations and government oversight as an increasing number of wealthy thrill seekers undertake risky adventures and expeditions.  <a href="https://nyti.ms/43VYCDc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -93,45 +117,21 @@ In the US, Ukraine’s Western-trained brigades are beginning to enter the fight
 <sub><sub>Friday, June 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Submersible Expert Raised Safety Concerns After 2019 Trip on Titan</h3>
-<sub>By Jenny Gross</sub>
-<p>After hearing a loud cracking sound during the dive, the expert, Karl Stanley, emailed OceanGate’s C.E.O., Stockton Rush, to urge him to hold off on future trips.  <a href="https://nyti.ms/3qOXYc3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Biden Denounces Abortion Bans, Warning That Privacy Is Next</h3>
+<sub>By Peter Baker</sub>
+<p>The president sought to galvanize supporters a year after the Supreme Court overturned Roe v. Wade as Democrats hope the issue helps them win next year’s elections.  <a href="https://nyti.ms/3XDA9k5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>One Year, 61 Clinics: How Dobbs Changed the Abortion Landscape</h3>
-<sub>By Allison McCann and Amy Schoenfeld Walker</sub>
-<p>In the year since Roe was struck down, clinic owners have scrambled to adjust to the new legal landscape around abortion. Here’s what happened to them, and their communities.  <a href="https://nyti.ms/43S2NQL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How a Year Without Roe Shifted American Views on Abortion</h3>
-<sub>By Kate Zernike</sub>
-<p>New and extensive polling shows public opinion increasingly supports legal abortion, with potential political consequences for 2024.  <a href="https://nyti.ms/42XmyFc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Abortion Politics Takes Center Stage at Evangelical Event, but Trump Remains the Focus</h3>
-<sub>By Shane Goldmacher</sub>
-<p>At a gathering of evangelicals, the former vice president and other top Republican candidates backed a ban that is more strict than what former President Donald J. Trump has said he would support.  <a href="https://nyti.ms/42UMbXg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>New Study Bolsters Room-Temperature Superconductor Claim</h3>
-<sub>By Kenneth Chang</sub>
-<p>A team of researchers verified a key measurement from a study earlier this year that had faced doubts from other scientists.  <a href="https://nyti.ms/3D2g2Tb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Arizona Governor Says Prosecutors Cannot Enforce Abortion Law</h3>
+<sub>By Jack Healy</sub>
+<p>Gov. Katie Hobbs, a Democrat, says she is doing what she can to protect abortion rights in a state with a 15-week ban on the procedure.  <a href="https://nyti.ms/448qmVe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-realestate-blue" alt="">
 <h3>Barbie, Her House and the American Dream</h3>
 <sub>By Anna Kodé</sub>
 <p>Take a stop-motion journey with the young, single homeowner of the Dreamhouse. Ken isn’t on the deed.  <a href="https://nyti.ms/3NJt3ab"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Garland Pushes Back at G.O.P. Claims of Bias in Hunter Biden Investigation</h3>
-<sub>By Glenn Thrush, Michael S. Schmidt and Luke Broadwater</sub>
-<p>The attorney general denied assertions that he had interfered with the case and blocked a prosecutor from lodging more charges.  <a href="https://nyti.ms/3CL7G1Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 23, Central Standard Time</sub></sub>
 <hr/>
 </ol>
