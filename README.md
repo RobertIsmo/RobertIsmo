@@ -60,12 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, June 23, Central Standard Time</p>
 <p>
-Right now, there&#39;s a lot happening in the world. In Russia, Google News is blocked as a feud with a mercenary leader intensifies. In the ocean, 5 deaths at sea have highlighted harsh realities about ethnicity while the investigation into a submersible disaster continues. Meanwhile, in the US, Supreme Court rulings have addressed immigration laws, free speech challenges and abortion bans. There&#39;s also been a push to increase deep-sea travel and the president denounced abortion bans while an Arizona governor has blocked her state&#39;s 15-week ban on abortion procedure. Finally Barbie has attained her dreamhouse, evoking conversations related to American Dream.</p>
+Currently, there is a lot going on in the world related to politics. In Russia, Google News was blocked after a falling out between the government and a private military leader called Yevgeny Prigozhin. Meanwhile in the US, immigration law is receiving much scrutiny following recent Supreme Court decisions. Additionally, President Biden has denounced abortion bans and attempted to galvanize supporters of pro-choice rights. Outside of political news, people are paying attention to an event wherein hundreds of migrants died at sea - prompting questions about class and ethnicity - and a company seeking to become the &quot;SpaceX of the ocean&quot; is facing criticisms for their focus on underwater exploration. Finally, Barbie has recently launched her own Dreamhouse, seemingly embracing modern adulthood without a husband.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Who is Yevgeny Prigozhin, the mercenary leader Russia accused of mounting a coup?</h3>
 <sub>By Anton Troianovski, Ben Shpigel and Gaya Gupta</sub>
-<p>  <a href="https://nyti.ms/43W2dRU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Mr. Prigozhin has risen from a businessmen known as President Vladimir V. Putin’s ‘chef’ to a symbol of wartime Russia, controlling a private army operating from Ukraine to Central African Republic.  <a href="https://nyti.ms/3JS2zRJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
