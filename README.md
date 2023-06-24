@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, June 24, Central Standard Time</p>
 <p>
-There is a lot happening around the world right now - from political to environmental news. In Russia, President Vladimir V. Putin&#39;s dominance is being challenged by turmoil and there are questions about how he has used his power in the past. In the US, issues like abortion rights and challenges to Roe v. Wade are still present. There is also good news, like a possible golden age of medicine emerging or critically endangered turtles hatching in Myanmar. Finally, here at home, New York Democrats are facing challengers from the right for various positions like Queens district attorney.</p>
+There is a lot going on in the world right now. In Russia, President Vladimir V. Putin is facing turmoil that has threatened his leadership after two decades of rule. In the US, President Biden is struggling to rally support around abortion rights despite Congress resistance. In Myanmar, critically endangered turtles have hatched for the first time in Indawgyi Lake. On the crypto front, the fugitive founder of a digital coin has made claims about campaign funding in Montenegro ahead of an election there. Meanwhile, Meghan Trainor is gaining a whole new generation of fans through TikTok and we may be entering a golden age in medicine. Finally, if you want to spend 36 hours in Paris, there&#39;s an article about that too!</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Putin embraced turmoil, and now it is rattling his leadership.</h3>
@@ -69,21 +69,15 @@ There is a lot happening around the world right now - from political to environm
 <sub><sub>Saturday, June 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Warns That Republicans Are Not Finished on Abortion</h3>
+<h3>Stymied by Congress, Biden Seeks to Rally Voters on Abortion</h3>
 <sub>By Katie Rogers and Zolan Kanno-Youngs</sub>
-<p>A year after the end of Roe v. Wade, Biden administration officials are working with a limited set of tools, including executive orders and the bully pulpit, to galvanize supporters on abortion rights.  <a href="https://nyti.ms/3PwTNMm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>A year after the end of Roe v. Wade, Biden administration officials are working with a limited set of tools, including executive orders and the bully pulpit, to galvanize supporters.  <a href="https://nyti.ms/3PwTNMm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>‘The Impossible Became Possible’: The Women Celebrating a Year Without Roe</h3>
 <sub>By Ruth Graham</sub>
-<p>For anti-abortion activists, the anniversary of the Supreme Court’s decision eliminating the national right to abortion is festive, but also a time to acknowledge challenges.  <a href="https://nyti.ms/3PtQtSk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, June 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Five Things to Know One Year After the Dobbs Decision</h3>
-<sub>By Michael Levenson</sub>
-<p>The Supreme Court ruling that overturned Roe v. Wade has produced some unexpected legal and political changes, as well as a shift in public opinion.  <a href="https://nyti.ms/3CR8X7v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>For anti-abortion activists, the anniversary of the Supreme Court’s decision eliminating the national right to abortion is festive, but also a time to acknowledge challenges.  <a href="https://nyti.ms/3Xl4VOt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -116,23 +110,29 @@ There is a lot happening around the world right now - from political to environm
 <p>We may be on the cusp of an era of astonishing innovation — the limits of which aren’t even clear yet.  <a href="https://nyti.ms/3JtByUo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 23, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Extreme Floods and Heat in China Ravage Farms and Kill Animals</h3>
+<sub>By Nicole Hong</sub>
+<p>China’s leader has made it a national priority to ensure the country can feed its large population. But weather shocks have disrupted wheat harvests and threatened pig and fish farming.  <a href="https://nyti.ms/3JuTo9y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, June 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>How a Crypto Fugitive Upended the Politics of a Troubled Balkan Nation</h3>
+<sub>By Andrew Higgins</sub>
+<p>Only days before an election in Montenegro, a letter from Do Kwon, the fugitive founder of the Luna digital coin, claimed that crypto “friends” had provided campaign funding to a leading candidate.  <a href="https://nyti.ms/3Psrdf6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, June 24, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>Tiny Bundles of Hope: Critically Endangered Turtles Hatch in Myanmar</h3>
 <sub>By Delger Erdenesanaa</sub>
 <p>Local conservationists at Indawgyi Lake captured the first known videos of rare Burmese peacock turtles hatching.  <a href="https://nyti.ms/3CR8XV3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Race to Prevent ‘the Worst Case Scenario for Machine Learning’</h3>
-<sub>By Issie Lapowsky</sub>
-<p>A.I. companies have an edge in blocking the creation and distribution of child sexual abuse material. They’ve seen how social media companies failed.  <a href="https://nyti.ms/3CIqdfi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, June 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>In N.Y. Primaries, Democrats Face a Swell of Challengers From the Right</h3>
-<sub>By Jeffery C. Mays</sub>
-<p>The Queens district attorney and several City Council members face more conservative challengers who are criticizing them on issues including public safety.  <a href="https://nyti.ms/46lB1xl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, June 24, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The Weekender</h3>
+<sub>By Jaclyn Reiss</sub>
+<p>How to spend 36 hours in Paris. Also: The significance of Barbie&#39;s Dreamhouse, and John Corbett on reprising his “Sex and the City” role.  <a href="https://nyti.ms/46opGwz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 23, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
