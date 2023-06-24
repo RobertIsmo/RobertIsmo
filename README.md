@@ -60,12 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, June 24, Central Standard Time</p>
 <p>
-There are a lot of different stories taking shape right now across the world. In Russia, Putin is taking a hardline approach in addressing an uprising occurring in the country. In the US, many are celebrating the anniversary of Roe v. Wade while, at the same time, Republicans are pushing abortion-related policies and initiatives. OceanGate&#39;s founder worked to expand underwater exploration regardless of concerns, but it&#39;s come under scrutiny recently as five deaths were reported at sea. The city of Franklin, Tennessee had quietly celebrated Pride before 2023, but right-wing activists have created a backlash since then. On the more positive side, TikTok has helped Meghan Trainor gain new fans via her popular dance soundtracks and medicine appears to be entering a golden era due to Innovations being made. Finally, Burmese peacock turtles have hatched in Myanmar and A.I. companies are developing better ways to prevent child sexual abuse material from circulating online. Lastly, here in New York City a lot of Democratic Party members are facing challengers from more conservative elements who are pushing for changes on issues such as public safety.</p>
+There is a lot happening around the world right now - from political to environmental news. In Russia, President Vladimir V. Putin&#39;s dominance is being challenged by turmoil and there are questions about how he has used his power in the past. In the US, issues like abortion rights and challenges to Roe v. Wade are still present. There is also good news, like a possible golden age of medicine emerging or critically endangered turtles hatching in Myanmar. Finally, here at home, New York Democrats are facing challengers from the right for various positions like Queens district attorney.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Putin strikes a tough tone in his first address since the uprising started.</h3>
+<h3>Putin embraced turmoil, and now it is rattling his leadership.</h3>
 <sub>By Anton Troianovski</sub>
-<p>  <a href="https://nyti.ms/43WJwO2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>For more than two decades, the system helped President Vladimir V. Putin secure his unrivaled authority, ensuring that he personally held the keys to wealth and influence in modern Russia.  <a href="https://nyti.ms/4437Lu4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
