@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, June 24, Central Standard Time</p>
 <p>
-There has been a lot of political tension in the world lately, especially in Russia. Recently, the founder of the Wagner mercenary group confronted President Vladimir Putin, leading to increased tensions. In Ukraine, debris from a Russian missile killed three people in an apartment building. Additionally, we have seen the tragic story of hundreds of people on a sinking migrant ship that garnered global attention. Here at home, the Supreme Court has revived Biden immigration guidelines only to reject challenges to them shortly afterwards. They also gave a narrow reading to a law making it illegal to encourage unauthorized immigrants to come to or stay in the US and narrowed the right to confront an accuser in joint trials. Meanwhile, President Biden is doing what he can to ensure abortion rights remain protected and prosecutors are seeking a December date for Donald Trump’s documents trial while Michael Roman, a former Trump campaign official, is now in talks to cooperate with Jan. 6 inquiry.</p>
+There are a lot of different stories taking shape right now across the world. In Russia, Putin is taking a hardline approach in addressing an uprising occurring in the country. In the US, many are celebrating the anniversary of Roe v. Wade while, at the same time, Republicans are pushing abortion-related policies and initiatives. OceanGate&#39;s founder worked to expand underwater exploration regardless of concerns, but it&#39;s come under scrutiny recently as five deaths were reported at sea. The city of Franklin, Tennessee had quietly celebrated Pride before 2023, but right-wing activists have created a backlash since then. On the more positive side, TikTok has helped Meghan Trainor gain new fans via her popular dance soundtracks and medicine appears to be entering a golden era due to Innovations being made. Finally, Burmese peacock turtles have hatched in Myanmar and A.I. companies are developing better ways to prevent child sexual abuse material from circulating online. Lastly, here in New York City a lot of Democratic Party members are facing challengers from more conservative elements who are pushing for changes on issues such as public safety.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Putin strikes a tough tone in his first address since the uprising started.</h3>
@@ -68,16 +68,28 @@ There has been a lot of political tension in the world lately, especially in Rus
 <p>  <a href="https://nyti.ms/43WJwO2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>What’s happening in Russia? Here’s what we know.</h3>
-<sub>By Mike Ives</sub>
-<p>The Wagner chief’s broadside against the Russian military establishment has escalated tensions drastically, but it isn’t yet clear how much of a threat the situation poses to the Kremlin.  <a href="https://nyti.ms/3pi54FL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Warns That Republicans Are Not Finished on Abortion</h3>
+<sub>By Katie Rogers and Zolan Kanno-Youngs</sub>
+<p>A year after the end of Roe v. Wade, Biden administration officials are working with a limited set of tools, including executive orders and the bully pulpit, to galvanize supporters on abortion rights.  <a href="https://nyti.ms/3PwTNMm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Debris From Russian Missile Kills Three in Kyiv Apartment Building</h3>
-<sub>By Megan Specia</sub>
-<p>The capital came under attack as anxiety grew in Russia over a confrontation between Yevgeny V. Prigozhin, the founder of the Wagner mercenary group, and President Vladimir V. Putin of Russia.  <a href="https://nyti.ms/46i4Qz5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>‘The Impossible Became Possible’: The Women Celebrating a Year Without Roe</h3>
+<sub>By Ruth Graham</sub>
+<p>For anti-abortion activists, the anniversary of the Supreme Court’s decision eliminating the national right to abortion is festive, but also a time to acknowledge challenges.  <a href="https://nyti.ms/3PtQtSk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, June 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Five Things to Know One Year After the Dobbs Decision</h3>
+<sub>By Michael Levenson</sub>
+<p>The Supreme Court ruling that overturned Roe v. Wade has produced some unexpected legal and political changes, as well as a shift in public opinion.  <a href="https://nyti.ms/3CR8X7v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, June 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>OceanGate Founder Pushed to Expand Deep Sea Travel Despite Chorus of Concerns</h3>
+<sub>By Shawn Hubler, Nicholas Bogel-Burroughs and Anna Betts</sub>
+<p>After his early astronaut dreams were cut short, Stockton Rush was determined to open up underwater exploration and saw his company as the “SpaceX for the ocean.”  <a href="https://nyti.ms/3NIPXi2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -87,52 +99,40 @@ There has been a lot of political tension in the world lately, especially in Rus
 <sub><sub>Friday, June 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>OceanGate Founder Pushed to Expand Deep Sea Travel Despite Chorus of Concerns</h3>
-<sub>By Shawn Hubler, Nicholas Bogel-Burroughs and Anna Betts</sub>
-<p>After his early astronaut dreams were cut short, Stockton Rush was determined to open up underwater exploration and saw his company as the “SpaceX for the ocean.”  <a href="https://nyti.ms/3NIPXi2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>This City Had Quietly Celebrated Pride Before. In 2023, That Was Not an Option.</h3>
+<sub>By Emily Cochrane</sub>
+<p>After right-wing activists portrayed a Pride event in Franklin, Tenn., as a threat to children, the small city unexpectedly found itself at the center of a backlash.  <a href="https://nyti.ms/3CIIGIu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, June 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>TikTok Is Our DJ Now. It’s Playing a Lot of Meghan Trainor.</h3>
+<sub>By Sapna Maheshwari</sub>
+<p>The video app drives streams on Spotify and influences the Billboard charts. Years after she broke through as a musician, the singer is gaining new fans, one viral dance soundtrack at a time.  <a href="https://nyti.ms/3CPB2fq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, June 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Suddenly, It Looks Like We’re in a Golden Age for Medicine</h3>
+<sub>By David Wallace-Wells</sub>
+<p>We may be on the cusp of an era of astonishing innovation — the limits of which aren’t even clear yet.  <a href="https://nyti.ms/3JtByUo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Supreme Court Revives Biden Immigration Guidelines</h3>
-<sub>By Adam Liptak</sub>
-<p>The guidelines, setting priorities for which unauthorized immigrants should be detained, were blocked by a federal judge in Texas.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 23, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Tiny Bundles of Hope: Critically Endangered Turtles Hatch in Myanmar</h3>
+<sub>By Delger Erdenesanaa</sub>
+<p>Local conservationists at Indawgyi Lake captured the first known videos of rare Burmese peacock turtles hatching.  <a href="https://nyti.ms/3CR8XV3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, June 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Supreme Court Rejects Free Speech Challenge to Immigration Law</h3>
-<sub>By Adam Liptak</sub>
-<p>In a 7-to-2 decision, the court gave a narrow reading to a statute that made it a crime to encourage unauthorized immigrants to come to or stay in the United States.  <a href="https://nyti.ms/3qZcuOG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 23, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>The Race to Prevent ‘the Worst Case Scenario for Machine Learning’</h3>
+<sub>By Issie Lapowsky</sub>
+<p>A.I. companies have an edge in blocking the creation and distribution of child sexual abuse material. They’ve seen how social media companies failed.  <a href="https://nyti.ms/3CIqdfi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, June 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Supreme Court Narrows the Right to Confront One’s Accuser in Joint Trials</h3>
-<sub>By Charlie Savage</sub>
-<p>In a murder-for-hire conspiracy trial, the majority allowed a defendant’s confession implicating a co-defendant to be used, with limitations.  <a href="https://nyti.ms/3qQKZXm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Denounces Abortion Bans, Warning That Privacy Is Next</h3>
-<sub>By Peter Baker</sub>
-<p>The president sought to galvanize supporters a year after the Supreme Court overturned Roe v. Wade as Democrats hope the issue helps them win next year’s elections.  <a href="https://nyti.ms/3XDA9k5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Arizona Governor Says Prosecutors Cannot Enforce Abortion Law</h3>
-<sub>By Jack Healy</sub>
-<p>Gov. Katie Hobbs, a Democrat, says she is doing what she can to protect abortion rights in a state with a 15-week ban on the procedure.  <a href="https://nyti.ms/448qmVe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Prosecutors Seek to Delay Trump Documents Trial to December</h3>
-<sub>By Glenn Thrush</sub>
-<p>The special counsel argued that the August date set by the judge did not allow enough time to deal with the complications of classified evidence, but still proposed a relatively speedy timetable.  <a href="https://nyti.ms/46n4Rlm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Former Trump Campaign Official in Talks to Cooperate in Jan. 6 Inquiry</h3>
-<sub>By Alan Feuer and Maggie Haberman</sub>
-<p>The office of the special counsel is negotiating with Michael Roman, who was closely involved in the efforts to create slates of pro-Trump electors in states won in 2020 by Joseph R. Biden Jr.  <a href="https://nyti.ms/3JtUX7J"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 23, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>In N.Y. Primaries, Democrats Face a Swell of Challengers From the Right</h3>
+<sub>By Jeffery C. Mays</sub>
+<p>The Queens district attorney and several City Council members face more conservative challengers who are criticizing them on issues including public safety.  <a href="https://nyti.ms/46lB1xl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, June 24, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
