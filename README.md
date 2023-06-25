@@ -60,18 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, June 24, Central Standard Time</p>
 <p>
-In the world right now, Russia and a mercenary group led by &quot;Prigozhin&quot; have been in an ongoing standoff. The United States has suspicions that Prigozhin is preparing to take military action against Russia. Meanwhile, this year marks a year since the Supreme Court&#39;s decision eliminating the national right to abortion, leading to many activists rallying around this issue. Internationally, there&#39;s been developments in Canada as investigators board a ship that launched an ill-fated submersible, and a current Hollywood producer in Israel is set to testify at an important trial for the country&#39;s prime minister. Closer to home, TikTok has provided more music exposure for Meghan Trainor, while health care is looking very bright for new innovations. Finally, endangering turtles in Myanmar have made good progress with a recent hatching of eggs captured on video by local conservationists.</p>
+In the world right now, a rebellion in Russia unfolded over 36 hours, the U.S. suspected that a Russian billionaire was planning to take military action against his own country, anti-abortion activists celebrated a year without Roe, an ill-fated submersible launched from a ship returned to Newfoundland, insurance companies are offering extreme travel coverages, a city quietly celebrated Pride this year before right-wing activists challenged the event, TikTok continues to influence music streaming and the Billboard charts, an Israeli Prime Minister is facing corruption charges due to a Hollywood producer friend, French basketball star Victor Wembanyama was selected as number one overall in the NBA draft and conservationists captured footage of rare Burmese peacock turtles hatching in Myanmar.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Timeline: What Led to the Standoff Between Russia and Prigozhin</h3>
-<sub>By Gaya Gupta</sub>
-<p>The leader of the Wagner mercenary group had kept a low profile for years, only acknowledging his force’s existence in September of last year.  <a href="https://nyti.ms/46k6Tmc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>How a Rebellion in Russia Unfolded Over 36 Hours</h3>
+<sub>By Lazaro Gamio, Marco Hernandez, Josh Holder, Anatoly Kurmanaev and Christine Zhang</sub>
+<p>From 11 a.m. Friday to 11 p.m. Saturday, here are the key events from Yevgeny V. Prigozhin’s armed uprising.  <a href="https://nyti.ms/3NhTbaM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>U.S. Suspected Prigozhin Was Preparing to Take Military Action Against Russia</h3>
 <sub>By David E. Sanger and Julian E. Barnes</sub>
-<p>The information was considered both solid and alarming because of the possibility that a major nuclear-armed rival of the United States could descend into chaos.  <a href="https://nyti.ms/3pmkEjz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The information was considered both solid and alarming because of the possibility that a major nuclear-armed rival of the United States could descend into chaos.  <a href="https://nyti.ms/3r2gLAX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -80,16 +80,16 @@ In the world right now, Russia and a mercenary group led by &quot;Prigozhin&quot
 <p>For anti-abortion activists, the anniversary of the Supreme Court’s decision eliminating the national right to abortion is festive, but also a time to acknowledge challenges.  <a href="https://nyti.ms/3Xl4VOt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Stymied by Congress, Biden Seeks to Rally Voters on Abortion</h3>
-<sub>By Katie Rogers and Zolan Kanno-Youngs</sub>
-<p>A year after the end of Roe v. Wade, Biden administration officials are working with a limited set of tools, including executive orders and the bully pulpit, to galvanize supporters.  <a href="https://nyti.ms/3PwTNMm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, June 24, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ship That Launched Ill-Fated Titan Submersible Returns to Newfoundland</h3>
 <sub>By Ian Austen</sub>
 <p>Investigators boarded the Polar Prince, which docked at the Atlantic headquarters of the Canadian Coast Guard, looking for answers.  <a href="https://nyti.ms/3NNQBLf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, June 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Extreme Travel Is Inspiring New Types of Insurance</h3>
+<sub>By Ephrat Livni, Ravi Mattu and Michael J. de la Merced</sub>
+<p>Some offer evacuations and others provide coverage for accidental death or injury to cater to the growing adventure tourism market.  <a href="https://nyti.ms/3CMTxl0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -103,12 +103,6 @@ In the world right now, Russia and a mercenary group led by &quot;Prigozhin&quot
 <sub>By Sapna Maheshwari</sub>
 <p>The video app drives streams on Spotify and influences the Billboard charts. Years after she broke through as a musician, the singer is gaining new fans, one viral dance soundtrack at a time.  <a href="https://nyti.ms/3CPB2fq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Suddenly, It Looks Like We’re in a Golden Age for Medicine</h3>
-<sub>By David Wallace-Wells</sub>
-<p>We may be on the cusp of an era of astonishing innovation — the limits of which aren’t even clear yet.  <a href="https://nyti.ms/3JtByUo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>The Hollywood Producer Who Could Bring Down Israel’s Netanyahu</h3>
@@ -132,6 +126,12 @@ In the world right now, Russia and a mercenary group led by &quot;Prigozhin&quot
 <h3>The Weekender</h3>
 <sub>By Jaclyn Reiss</sub>
 <p>How to spend 36 hours in Paris. Also: The significance of Barbie&#39;s Dreamhouse, and John Corbett on reprising his “Sex and the City” role.  <a href="https://nyti.ms/46opGwz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The New York Times News Quiz, June 23, 2023</h3>
+<sub></sub>
+<p>Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.  <a href="https://nyti.ms/3Xk8017"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 23, Central Standard Time</sub></sub>
 <hr/>
 </ol>
