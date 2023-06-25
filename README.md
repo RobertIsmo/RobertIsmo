@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Saturday, June 24, Central Standard Time</p>
+<p>It is Sunday, June 25, Central Standard Time</p>
 <p>
-In the world right now, a rebellion in Russia unfolded over 36 hours, the U.S. suspected that a Russian billionaire was planning to take military action against his own country, anti-abortion activists celebrated a year without Roe, an ill-fated submersible launched from a ship returned to Newfoundland, insurance companies are offering extreme travel coverages, a city quietly celebrated Pride this year before right-wing activists challenged the event, TikTok continues to influence music streaming and the Billboard charts, an Israeli Prime Minister is facing corruption charges due to a Hollywood producer friend, French basketball star Victor Wembanyama was selected as number one overall in the NBA draft and conservationists captured footage of rare Burmese peacock turtles hatching in Myanmar.</p>
+There has been an armed uprising in Russia unfolded over the past 36 hours. In the U.S., Donald Trump recently tried to position himself as a Christian crusader in an attempt to attract more evangelical voters. A ship has returned to Newfoundland after launching an ill-fated Titan submersible, new types of insurance are being developed to cater to extreme travel and adventure tourism, there is a backlash against a Pride event in Franklin, Tennessee which was portrayed as threatening to children by right-wing activists, an old friend of Israeli Prime Minister Benjamin Netanyahu is about to testify at his corruption trial, San Antonio businesses are preparing for the N.B.A. draft no. 1 pick Victor Wembanyama, rare Burmese peacock turtles have hatched in Myanmar and the New York Times recently released their news quiz for June 23, 2023.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>How a Rebellion in Russia Unfolded Over 36 Hours</h3>
@@ -75,9 +75,9 @@ In the world right now, a rebellion in Russia unfolded over 36 hours, the U.S. s
 <sub><sub>Saturday, June 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘The Impossible Became Possible’: The Women Celebrating a Year Without Roe</h3>
-<sub>By Ruth Graham</sub>
-<p>For anti-abortion activists, the anniversary of the Supreme Court’s decision eliminating the national right to abortion is festive, but also a time to acknowledge challenges.  <a href="https://nyti.ms/3Xl4VOt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>In Pitch to Evangelicals, Trump Casts Himself as Christian Crusader Who Helped End Roe v. Wade</h3>
+<sub>By Neil Vigdor</sub>
+<p>Former President Donald J. Trump told an evangelical gathering that no president had done more for Christians than he did.  <a href="https://nyti.ms/3Xlq9M9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
