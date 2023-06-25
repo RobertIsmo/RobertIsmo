@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, June 25, Central Standard Time</p>
 <p>
-Right now, tensions are high in Russia following an armed uprising by Yevgeny V. Prigozhin over the weekend. We&#39;re also seeing a scramble for guardrails as artificial intelligence technology is increasingly being used in election campaigns due to gaps in campaign rules. In the US, legal fees have mounted for former President Donald J. Trump and he&#39;s redirecting donations into a PAC that has covered those fees. He recently told an evangelical gathering that no president had done more for Christians than him, but there has been increasing violence and attacks towards members of the LGBTQIA+ community lately. On a brighter note, financial planning looks like it&#39;s improving for LGBTQIA+ people, while Bangladesh is using strategies to cope with their water crisis and offer lessons for the world. Finally, this Hokusai printmaker from Edo Japan is inspiring all sorts of art right now!</p>
+There are a lot of newsworthy events happening in the world recently. In Russia, there was a rebellion over the weekend that reportedly unfolded over 36 hours. Vladimir Putin may also face backlash from an individual who he created, named Yevgeny V. Prigozhin. Here in the US, Donald Trump is steering donations to a political action committee that covers his legal fees, and he&#39;s currently trying to appeal to evangelical Christians in the country by representing himself as some form of Christian crusader. Artificial intelligence is being used more for elections without regulations in place to protect its use, which could be dangerous. There&#39;s also been a tragic case where one man has been charged with murder for trying to save his friend from an overdose. In New York City, officials are helping mentally ill homeless people get access into permanent housing. Saudi Arabia is seeing a newfound interest from evangelicals as tourists and Taiwan has started its own #MeToo movement due to Netflix content. Bangladesh&#39;s water crisis could have implications for other parts of the world as it struggles with climate change and Japan&#39;s Hokusai art has influenced many artists today such as Gauguin and Lichtenstein. Lastly, if you&#39;re ever looking for plans on the weekends, The Weekender offers ideas like how to spend 36 hours exploring Paris or checking out Barbie’s Dreamhouse!</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>How a Rebellion in Russia Unfolded Over 36 Hours</h3>
@@ -116,16 +116,10 @@ Right now, tensions are high in Russia following an armed uprising by Yevgeny V.
 <p>Bangladesh, a river delta nation, is on the front line of climate change. Its coping strategies could offer lessons for the wider world.  <a href="https://nyti.ms/3NK0rOa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, June 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Ahead of New York Pride Parade, Worries About L.G.B.T.Q. Rights</h3>
-<sub>By Liam Stack</sub>
-<p>Support for L.G.B.T.Q. people has risen, but so have attacks against them, even in a city known for the strength of its community.  <a href="https://nyti.ms/3CNpsS6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, June 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>What Financial Planning Looks Like for L.G.B.T.Q. People</h3>
-<sub>By Sara Youngblood Gregory</sub>
-<p>The cost of family planning and transition care — and other personal finance stories from L.G.B.T.Q. people.  <a href="https://nyti.ms/3NLV9Sh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Taiwan Faces a #MeToo Wave, Set Off by a Netflix Hit</h3>
+<sub>By Amy Chang Chien</sub>
+<p>A torrent of sexual harassment accusations has prompted questions about the state of women’s rights on an island democracy that has long been one of Asia’s most progressive places.  <a href="https://nyti.ms/3NNEVYX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, June 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
@@ -133,6 +127,12 @@ Right now, tensions are high in Russia following an armed uprising by Yevgeny V.
 <sub>By Jason Farago</sub>
 <p>The MFA Boston shows how one of the greatest printmakers, from Edo Japan, inspired a tidal wave of followers, from Gauguin to Lichtenstein.  <a href="https://nyti.ms/3JmyGZu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The Weekender</h3>
+<sub>By Jaclyn Reiss</sub>
+<p>How to spend 36 hours in Paris. Also: The significance of Barbie&#39;s Dreamhouse, and John Corbett on reprising his “Sex and the City” role.  <a href="https://nyti.ms/46opGwz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 23, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
