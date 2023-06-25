@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, June 25, Central Standard Time</p>
 <p>
-There is a lot happening around the world right now. In Russia, there was a rebellion that unfolded over 36 hours. The US suspected one of their leaders was planning military action against Russia, and tensions between them remain high. In Tennessee, former President Trump called himself a Christian Crusader and declared his support for the overturn of Roe v. Wade. A ship that launched an ill-fated submersible in Newfoundland has returned for investigators to search for answers. People are taking out extreme travel insurance as adventure tourism ramps up. In Israel, a Hollywood producer is about to testify in Prime Minister Benjamin Netanyahu&#39;s corruption trial. San Antonio businesses are eager to capitalize on the NBA draft pick from France Victor Wembanyama. And endangered turtles are hatching for the first time in Myanmar. There are stories about how to spend 36 hours in Paris and a Times News quiz for readers to test their understanding of the week&#39;s news.</p>
+Right now, tensions are high in Russia following an armed uprising by Yevgeny V. Prigozhin over the weekend. We&#39;re also seeing a scramble for guardrails as artificial intelligence technology is increasingly being used in election campaigns due to gaps in campaign rules. In the US, legal fees have mounted for former President Donald J. Trump and he&#39;s redirecting donations into a PAC that has covered those fees. He recently told an evangelical gathering that no president had done more for Christians than him, but there has been increasing violence and attacks towards members of the LGBTQIA+ community lately. On a brighter note, financial planning looks like it&#39;s improving for LGBTQIA+ people, while Bangladesh is using strategies to cope with their water crisis and offer lessons for the world. Finally, this Hokusai printmaker from Edo Japan is inspiring all sorts of art right now!</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>How a Rebellion in Russia Unfolded Over 36 Hours</h3>
@@ -69,10 +69,16 @@ There is a lot happening around the world right now. In Russia, there was a rebe
 <sub><sub>Saturday, June 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>U.S. Suspected Prigozhin Was Preparing to Take Military Action Against Russia</h3>
-<sub>By David E. Sanger and Julian E. Barnes</sub>
-<p>The information was considered both solid and alarming because of the possibility that a major nuclear-armed rival of the United States could descend into chaos.  <a href="https://nyti.ms/3r2gLAX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, June 24, Central Standard Time</sub></sub>
+<h3>Putin’s Beast That Would Now Devour Him</h3>
+<sub>By Roger Cohen</sub>
+<p>Yevgeny V. Prigozhin, the founder of the paramilitary Wagner Group, has been driven to fury by a mismanaged war in Ukraine. He turned on his creator, before apparently reversing course.  <a href="https://nyti.ms/43YNANA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, June 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>As Legal Fees Mount, Trump Steers Donations Into PAC That Has Covered Them</h3>
+<sub>By Shane Goldmacher and Maggie Haberman</sub>
+<p>A previously unnoticed change in Donald Trump’s online fund-raising appeals allows him to divert a sizable chunk of his 2024 contributions to a group that has spent millions to cover his legal fees.  <a href="https://nyti.ms/44lRTm5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, June 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In Pitch to Evangelicals, Trump Casts Himself as Christian Crusader Who Helped End Roe v. Wade</h3>
@@ -80,59 +86,53 @@ There is a lot happening around the world right now. In Russia, there was a rebe
 <p>Former President Donald J. Trump told an evangelical gathering that no president had done more for Christians than he did.  <a href="https://nyti.ms/3Xlq9M9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ship That Launched Ill-Fated Titan Submersible Returns to Newfoundland</h3>
-<sub>By Ian Austen</sub>
-<p>Investigators boarded the Polar Prince, which docked at the Atlantic headquarters of the Canadian Coast Guard, looking for answers.  <a href="https://nyti.ms/3NNQBLf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, June 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Extreme Travel Is Inspiring New Types of Insurance</h3>
-<sub>By Ephrat Livni, Ravi Mattu and Michael J. de la Merced</sub>
-<p>Some offer evacuations and others provide coverage for accidental death or injury to cater to the growing adventure tourism market.  <a href="https://nyti.ms/3CMTxl0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, June 24, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>A.I.’s Use in Elections Sets Off a Scramble for Guardrails</h3>
+<sub>By Tiffany Hsu and Steven Lee Myers</sub>
+<p>Gaps in campaign rules allow politicians to spread images and messaging generated by increasingly powerful artificial intelligence technology.  <a href="https://nyti.ms/3NLfXJr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, June 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>This City Had Quietly Celebrated Pride Before. In 2023, That Was Not an Option.</h3>
-<sub>By Emily Cochrane</sub>
-<p>After right-wing activists portrayed a Pride event in Franklin, Tenn., as a threat to children, the small city unexpectedly found itself at the center of a backlash.  <a href="https://nyti.ms/3CIIGIu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, June 24, Central Standard Time</sub></sub>
+<h3>He Tried to Save a Friend. They Charged Him With Murder.</h3>
+<sub>By Eli Saslow and Erin Schaff</sub>
+<p>They bought $30 worth of fentanyl before making it into rehab. One overdosed. The other was charged in his death.  <a href="https://nyti.ms/3Pou3Sq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, June 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>TikTok Is Our DJ Now. It’s Playing a Lot of Meghan Trainor.</h3>
-<sub>By Sapna Maheshwari</sub>
-<p>The video app drives streams on Spotify and influences the Billboard charts. Years after she broke through as a musician, the singer is gaining new fans, one viral dance soundtrack at a time.  <a href="https://nyti.ms/3CPB2fq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, June 24, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>He Was Handcuffed and Hospitalized. Now He’s on Track for Housing.</h3>
+<sub>By Andy Newman</sub>
+<p>A contentious New York City policy to send more mentally ill homeless people to hospitals has helped some move into permanent homes.  <a href="https://nyti.ms/3CNL5le"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, June 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Hollywood Producer Who Could Bring Down Israel’s Netanyahu</h3>
-<sub>By Isabel Kershner</sub>
-<p>Arnon Milchan, the movie mogul, billionaire spy and old friend of Benjamin Netanyahu, is about to testify at the Israeli prime minister’s corruption trial.  <a href="https://nyti.ms/3CJMCsz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, June 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Victor Wembanyama Buzz Has San Antonio Businesses Eager to Cash In</h3>
-<sub>By Santul Nerkar</sub>
-<p>The Spurs selected Wembanyama, a French basketball star, No. 1 overall in the N.B.A. draft on Thursday. San Antonio has been celebrating for weeks.  <a href="https://nyti.ms/44fmHoh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Saudi Arabia Wants Tourists. It Didn’t Expect Christians.</h3>
+<sub>By Vivian Nereim and Iman Al-Dabbagh</sub>
+<p>In a fluid new age for the conservative Islamic kingdom, evangelicals have become some of its most enthusiastic visitors.  <a href="https://nyti.ms/3CLPdm0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Tiny Bundles of Hope: Critically Endangered Turtles Hatch in Myanmar</h3>
-<sub>By Delger Erdenesanaa</sub>
-<p>Local conservationists at Indawgyi Lake captured the first known videos of rare Burmese peacock turtles hatching.  <a href="https://nyti.ms/3CR8XV3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, June 24, Central Standard Time</sub></sub>
+<h3>Here’s a Look at the Water Crises That Might Be Coming to You Soon</h3>
+<sub>By Somini Sengupta</sub>
+<p>Bangladesh, a river delta nation, is on the front line of climate change. Its coping strategies could offer lessons for the wider world.  <a href="https://nyti.ms/3NK0rOa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, June 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The Weekender</h3>
-<sub>By Jaclyn Reiss</sub>
-<p>How to spend 36 hours in Paris. Also: The significance of Barbie&#39;s Dreamhouse, and John Corbett on reprising his “Sex and the City” role.  <a href="https://nyti.ms/46opGwz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 23, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Ahead of New York Pride Parade, Worries About L.G.B.T.Q. Rights</h3>
+<sub>By Liam Stack</sub>
+<p>Support for L.G.B.T.Q. people has risen, but so have attacks against them, even in a city known for the strength of its community.  <a href="https://nyti.ms/3CNpsS6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, June 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The New York Times News Quiz, June 23, 2023</h3>
-<sub></sub>
-<p>Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.  <a href="https://nyti.ms/3Xk8017"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 23, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>What Financial Planning Looks Like for L.G.B.T.Q. People</h3>
+<sub>By Sara Youngblood Gregory</sub>
+<p>The cost of family planning and transition care — and other personal finance stories from L.G.B.T.Q. people.  <a href="https://nyti.ms/3NLV9Sh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, June 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>How Hokusai’s Art Crashed Over the Modern World</h3>
+<sub>By Jason Farago</sub>
+<p>The MFA Boston shows how one of the greatest printmakers, from Edo Japan, inspired a tidal wave of followers, from Gauguin to Lichtenstein.  <a href="https://nyti.ms/3JmyGZu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
