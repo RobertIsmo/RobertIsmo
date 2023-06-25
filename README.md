@@ -60,8 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, June 24, Central Standard Time</p>
 <p>
-Right now, in the United States, some activists are celebrating a year since the Supreme Court&#39;s decision to eliminate the national right to abortion. Meanwhile, President Biden is seeking to rally supporters on this issue using executive orders and other tools. Elsewhere in the world, an investigation is underway after a ship that had launched an ill-fated Titan submersible returned to Newfoundland. Furthermore, extreme floods and heat in China are affecting harvests and wreaking havoc on animal populations. Finally, conservationists in Myanmar recently captured videos of rare critically endangered turtles hatching.</p>
+In the world right now, Russia and a mercenary group led by &quot;Prigozhin&quot; have been in an ongoing standoff. The United States has suspicions that Prigozhin is preparing to take military action against Russia. Meanwhile, this year marks a year since the Supreme Court&#39;s decision eliminating the national right to abortion, leading to many activists rallying around this issue. Internationally, there&#39;s been developments in Canada as investigators board a ship that launched an ill-fated submersible, and a current Hollywood producer in Israel is set to testify at an important trial for the country&#39;s prime minister. Closer to home, TikTok has provided more music exposure for Meghan Trainor, while health care is looking very bright for new innovations. Finally, endangering turtles in Myanmar have made good progress with a recent hatching of eggs captured on video by local conservationists.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Timeline: What Led to the Standoff Between Russia and Prigozhin</h3>
+<sub>By Gaya Gupta</sub>
+<p>The leader of the Wagner mercenary group had kept a low profile for years, only acknowledging his force’s existence in September of last year.  <a href="https://nyti.ms/46k6Tmc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, June 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>U.S. Suspected Prigozhin Was Preparing to Take Military Action Against Russia</h3>
+<sub>By David E. Sanger and Julian E. Barnes</sub>
+<p>The information was considered both solid and alarming because of the possibility that a major nuclear-armed rival of the United States could descend into chaos.  <a href="https://nyti.ms/3pmkEjz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, June 24, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>‘The Impossible Became Possible’: The Women Celebrating a Year Without Roe</h3>
 <sub>By Ruth Graham</sub>
@@ -73,12 +85,6 @@ Right now, in the United States, some activists are celebrating a year since the
 <sub>By Katie Rogers and Zolan Kanno-Youngs</sub>
 <p>A year after the end of Roe v. Wade, Biden administration officials are working with a limited set of tools, including executive orders and the bully pulpit, to galvanize supporters.  <a href="https://nyti.ms/3PwTNMm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>OceanGate Founder Pushed to Expand Deep Sea Travel Despite Chorus of Concerns</h3>
-<sub>By Shawn Hubler, Nicholas Bogel-Burroughs and Anna Betts</sub>
-<p>After his early astronaut dreams were cut short, Stockton Rush was determined to open up underwater exploration and saw his company as the “SpaceX for the ocean.”  <a href="https://nyti.ms/3NIPXi2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ship That Launched Ill-Fated Titan Submersible Returns to Newfoundland</h3>
@@ -105,15 +111,15 @@ Right now, in the United States, some activists are celebrating a year since the
 <sub><sub>Friday, June 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Extreme Floods and Heat in China Ravage Farms and Kill Animals</h3>
-<sub>By Nicole Hong</sub>
-<p>China’s leader has made it a national priority to ensure the country can feed its large population. But weather shocks have disrupted wheat harvests and threatened pig and fish farming.  <a href="https://nyti.ms/3JuTo9y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>The Hollywood Producer Who Could Bring Down Israel’s Netanyahu</h3>
+<sub>By Isabel Kershner</sub>
+<p>Arnon Milchan, the movie mogul, billionaire spy and old friend of Benjamin Netanyahu, is about to testify at the Israeli prime minister’s corruption trial.  <a href="https://nyti.ms/3CJMCsz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>How a Crypto Fugitive Upended the Politics of a Troubled Balkan Nation</h3>
-<sub>By Andrew Higgins</sub>
-<p>Only days before an election in Montenegro, a letter from Do Kwon, the fugitive founder of the Luna digital coin, claimed that crypto “friends” had provided campaign funding to a leading candidate.  <a href="https://nyti.ms/3Psrdf6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Victor Wembanyama Buzz Has San Antonio Businesses Eager to Cash In</h3>
+<sub>By Santul Nerkar</sub>
+<p>The Spurs selected Wembanyama, a French basketball star, No. 1 overall in the N.B.A. draft on Thursday. San Antonio has been celebrating for weeks.  <a href="https://nyti.ms/44fmHoh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, June 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
@@ -126,12 +132,6 @@ Right now, in the United States, some activists are celebrating a year since the
 <h3>The Weekender</h3>
 <sub>By Jaclyn Reiss</sub>
 <p>How to spend 36 hours in Paris. Also: The significance of Barbie&#39;s Dreamhouse, and John Corbett on reprising his “Sex and the City” role.  <a href="https://nyti.ms/46opGwz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The New York Times News Quiz, June 23, 2023</h3>
-<sub></sub>
-<p>Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.  <a href="https://nyti.ms/3Xk8017"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 23, Central Standard Time</sub></sub>
 <hr/>
 </ol>
