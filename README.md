@@ -60,7 +60,8 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, June 25, Central Standard Time</p>
 <p>
-There are a lot of newsworthy events happening in the world recently. In Russia, there was a rebellion over the weekend that reportedly unfolded over 36 hours. Vladimir Putin may also face backlash from an individual who he created, named Yevgeny V. Prigozhin. Here in the US, Donald Trump is steering donations to a political action committee that covers his legal fees, and he&#39;s currently trying to appeal to evangelical Christians in the country by representing himself as some form of Christian crusader. Artificial intelligence is being used more for elections without regulations in place to protect its use, which could be dangerous. There&#39;s also been a tragic case where one man has been charged with murder for trying to save his friend from an overdose. In New York City, officials are helping mentally ill homeless people get access into permanent housing. Saudi Arabia is seeing a newfound interest from evangelicals as tourists and Taiwan has started its own #MeToo movement due to Netflix content. Bangladesh&#39;s water crisis could have implications for other parts of the world as it struggles with climate change and Japan&#39;s Hokusai art has influenced many artists today such as Gauguin and Lichtenstein. Lastly, if you&#39;re ever looking for plans on the weekends, The Weekender offers ideas like how to spend 36 hours exploring Paris or checking out Barbie’s Dreamhouse!</p>
+Recently in Russia, there was an armed uprising led by Yevgeny V. Prigozhin, the founder of a paramilitary group. In the United States, Donald Trump is using donations from his 2024 campaign to pay off his legal fees. Evangelicals have also seen Trump as a Christian crusader who has helped end Roe v. Wade. Meanwhile, A.I.&#39;s use in elections is rising and there are worries about how it should be regulated. 
+In Saudi Arabia, they welcomed Christian tourists which was quite progressive for such an Islamic nation. Bangladesh is facing a water crisis due to climate change which could be relevant for other countries around the world too. Pride marches saw jubilation, but there&#39;s still worry concerning L.G.B.T.Q. people&#39;s safety and rights around the world. A &#39;Queering the Map&#39; project collects anonymous memories about queer identity while Hokusai&#39;s artwork has influenced generations of artists since its introduction in Edo Japan. Lastly, running tours through the Dolomites provide a thrilling experience while taking in the mountain view in Italy!</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>How a Rebellion in Russia Unfolded Over 36 Hours</h3>
@@ -98,12 +99,6 @@ There are a lot of newsworthy events happening in the world recently. In Russia,
 <p>They bought $30 worth of fentanyl before making it into rehab. One overdosed. The other was charged in his death.  <a href="https://nyti.ms/3Pou3Sq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, June 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>He Was Handcuffed and Hospitalized. Now He’s on Track for Housing.</h3>
-<sub>By Andy Newman</sub>
-<p>A contentious New York City policy to send more mentally ill homeless people to hospitals has helped some move into permanent homes.  <a href="https://nyti.ms/3CNL5le"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, June 25, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Saudi Arabia Wants Tourists. It Didn’t Expect Christians.</h3>
 <sub>By Vivian Nereim and Iman Al-Dabbagh</sub>
@@ -116,10 +111,16 @@ There are a lot of newsworthy events happening in the world recently. In Russia,
 <p>Bangladesh, a river delta nation, is on the front line of climate change. Its coping strategies could offer lessons for the wider world.  <a href="https://nyti.ms/3NK0rOa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, June 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Taiwan Faces a #MeToo Wave, Set Off by a Netflix Hit</h3>
-<sub>By Amy Chang Chien</sub>
-<p>A torrent of sexual harassment accusations has prompted questions about the state of women’s rights on an island democracy that has long been one of Asia’s most progressive places.  <a href="https://nyti.ms/3NNEVYX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Dancing, Jubilation, and Worries About L.G.B.T.Q. Rights at Pride March</h3>
+<sub>By Liam Stack and Michael Wilson</sub>
+<p>Support for L.G.B.T.Q. people has risen, but so have attacks against them, even in a city known for the strength of its community.  <a href="https://nyti.ms/3CNpsS6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, June 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>Just Made a Queer Memory? Drop a Pin.</h3>
+<sub>By Katherine Oung</sub>
+<p>Queering the Map, a crowdsourced digital atlas, has collected over half a million intimate recollections from anonymous contributors.  <a href="https://nyti.ms/3NJA22O"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, June 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
@@ -128,10 +129,10 @@ There are a lot of newsworthy events happening in the world recently. In Russia,
 <p>The MFA Boston shows how one of the greatest printmakers, from Edo Japan, inspired a tidal wave of followers, from Gauguin to Lichtenstein.  <a href="https://nyti.ms/3JmyGZu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The Weekender</h3>
-<sub>By Jaclyn Reiss</sub>
-<p>How to spend 36 hours in Paris. Also: The significance of Barbie&#39;s Dreamhouse, and John Corbett on reprising his “Sex and the City” role.  <a href="https://nyti.ms/46opGwz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-travel-blue" alt="">
+<h3>Altitude Meets Adrenaline: Running the Dolomites</h3>
+<sub>By Christopher Solomon</sub>
+<p>The limestone pinnacles and green meadows of one of the most scenic mountain ranges on earth provide the backdrop to a seven-day adventure in Italy.  <a href="https://nyti.ms/42V36sw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 23, Central Standard Time</sub></sub>
 <hr/>
 </ol>
