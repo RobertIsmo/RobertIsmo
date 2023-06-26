@@ -60,12 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, June 25, Central Standard Time</p>
 <p>
-There are a lot of interesting developments happening around the world lately. For starters, there’s been a revolt in Russia that has questioned Putin’s staying power, as some have accused him of looking weak. In Belarus, an ally of Putin&#39;s appears to be rebranding himself as a statesman. Closer to home, Donald Trump has found more ways to fundraise legally and one of the least expected groups of tourists in Saudi Arabia is Christians. Here in the U.S., Tulare Lake has refilled after intense storms this winter and NYC is celebrating their Pride march with jubilation but also worries for LGBPTQ rights. Kylie Minogue’s single “Padam Padam” is quickly becoming a gay-classic and New York City’s policy to send homeless mentally ill people to hospitals has helped some move into permanent homes. Lastly, at MFA Boston visitors are getting to admire the beautiful printmaking of Edo Japan artist Hokusai and how modern artists have been inspired by his work.</p>
+There have been a lot of developments around the world this week. In Russia, there was an armed rebellion that raised the question of whether President Vladimir Putin is losing power. The lack of public appearances by either Putin or the mercenaries&#39; leader in the aftermath of the mutiny has caused uncertainty in the nation. Meanwhile, interstate relations are also continuing to evolve. Alliance between Belarus and Russia has been strengthening, while the Saudi Arabian government is welcoming more visitors, including evangelical Christians, which is causing a shift in their conservative Islamic culture. 
+
+In the United States, Donald Trump announced fundraising changes that will let him use a significant portion of his 2024 campaign donations for his legal fees. There&#39;s also a story highlighting how one man in California was charged with murder after trying to help his friend who had overdosed on fentanyl. Finally, New York City has seen increased celebrations for Pride Month and activists standing up for LGBTQ rights as well as new mental health policy that allows homeless people receive hospital care and eventually find homes.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Prigozhin Revolt Raises Searing Question: Did It Harm Putin’s Staying Power?</h3>
+<h3>Revolt Raises Searing Question: Could Putin Lose Power?</h3>
 <sub>By Anton Troianovski</sub>
-<p>Russians with ties to the Kremlin expressed relief that Wagner’s mutiny did not spark a civil war. But they agreed that Vladimir Putin had come off looking weak in a way that could be lasting.  <a href="https://nyti.ms/3NWILz3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Russians with ties to the Kremlin expressed relief that the mercenary leader’s mutiny did not spark a civil war. But they agreed that Vladimir Putin had come off looking weak in a way that could be lasting.  <a href="https://nyti.ms/3NWILz3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, June 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Gripped by Uncertainty After Mutiny, Russians Note Absence of Kremlin Leaders</h3>
+<sub>By Neil MacFarquhar</sub>
+<p>Neither Vladimir V. Putin nor the leader of the Wagner mercenary group made public appearances on Sunday, a day after an armed rebellion shook the nation.  <a href="https://nyti.ms/46lUkGY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, June 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -127,12 +135,6 @@ There are a lot of interesting developments happening around the world lately. F
 <sub>By Andy Newman</sub>
 <p>A contentious New York City policy to send more mentally ill homeless people to hospitals has helped some move into permanent homes.  <a href="https://nyti.ms/3CNL5le"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, June 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>How Hokusai’s Art Crashed Over the Modern World</h3>
-<sub>By Jason Farago</sub>
-<p>The MFA Boston shows how one of the greatest printmakers, from Edo Japan, inspired a tidal wave of followers, from Gauguin to Lichtenstein.  <a href="https://nyti.ms/3JmyGZu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
