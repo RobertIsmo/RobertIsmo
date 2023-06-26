@@ -60,13 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, June 26, Central Standard Time</p>
 <p>
-It&#39;s been a busy month in the world, with a lot of news from different parts of the globe. In Ukraine, we&#39;ve seen a raging battle between Russian forces and the Ukrainian army, and it looks like the mercenary army known as Wagner may have its future in doubt. Meanwhile in Suriname, a tiny nation facing recession and severe debt, politics between the US and China has complicated their relief efforts. 
-
-Back in the US, there&#39;s an ongoing debate over abortion access on isolated Guam, as well as a fight to save a crumbling Manhattan church from condos. In the housing market, construction is up even with interest rates at 15-year highs. Meanwhile, celebrities are joining the fight to save West Park Presbyterian Church from redevelopment. 
-
-In the Philippines, people are still celebrating their thriving cowboy culture with an annual rodeo. There&#39;s also news about generic chemotherapy drugs being in short supply and disrupting cancer treatment. Meanwhile on the Caribbean Island of Martinique, young people have found freedom in a kind of motorbike rodeo called Cabrage. 
-
-Finally in sports news, some technological advancements have helped runners set new world records in track events. A system called wavelights has enabled them to stick to precise pacing that gets them record times.</p>
+There is a lot going on in the world right now! In Ukraine, the military is facing a lot of challenges as they fight to keep their territory safe. The U.S. territory of Guam makes abortion legal but very hard to access and Suriname is feeling the strains of being caught between two big countries in the US-China rivalry. Meanwhile, in the US, residents near Manhattan are struggling to save a well-known, old church from being torn down and replaced with condos. Cancer treatments are becoming increasingly difficult due to drug shortages, while there is some hope for those in the housing market. Intensifying storms have created hidden flood risks across the US and Goodreads has enabled book review-bombing which can tank books before they are even published. Finally, young people in Martinique Copenhagen are finding freedom in bike life and runners can break world records with help from wavelights.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>With Wagner’s Future in Doubt, Ukraine Could Capitalize on Chaos</h3>
@@ -87,15 +81,15 @@ Finally in sports news, some technological advancements have helped runners set 
 <sub><sub>Monday, June 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The U.S.-China Rivalry Is Complicating the World’s Debt Crisis</h3>
+<h3>Trapped in the Crossfire of the U.S.-China Rivalry</h3>
 <sub>By Peter S. Goodman and Adriana Loureiro Fernandez</sub>
 <p>Suriname, a tiny nation ravaged by recession, inflation and impossible debts, saw its relief held up by superpower politics. It won’t be the only country.  <a href="https://nyti.ms/3NiQq9a"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>They Ride and Lasso Like Texans. They Live 8,000 Miles Away.</h3>
-<sub>By Jes Aznar and Mike Ives</sub>
-<p>In the Philippines, men and women compete in an annual rodeo that celebrates a thriving cowboy culture with roots in the Spanish and American colonial eras.  <a href="https://nyti.ms/3NtjTgA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Why Mark Ruffalo and Wendell Pierce Are Fighting for a Crumbling Church</h3>
+<sub>By Mihir Zaveri</sub>
+<p>Congregants of the West Park Presbyterian Church, a Manhattan landmark, want it torn down and replaced by condos. Celebrities are joining the fight to save it.  <a href="https://nyti.ms/3NowDVL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
@@ -104,10 +98,10 @@ Finally in sports news, some technological advancements have helped runners set 
 <p>Older generic chemotherapy drugs remain scarce, forcing doctors to put a priority on the patients who have the best chance of survival.  <a href="https://nyti.ms/46pfV16"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Why Mark Ruffalo and Wendell Pierce Are Fighting for a Crumbling Church</h3>
-<sub>By Mihir Zaveri</sub>
-<p>Congregants of the West Park Presbyterian Church, a Manhattan landmark, want to tear it down to be replaced by condos. Celebrities are joining the fight to save it.  <a href="https://nyti.ms/3NowDVL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>They Ride and Lasso Like Texans. They Live 8,000 Miles Away.</h3>
+<sub>By Jes Aznar and Mike Ives</sub>
+<p>In the Philippines, men and women compete in an annual rodeo that celebrates a thriving cowboy culture with roots in the Spanish and American colonial eras.  <a href="https://nyti.ms/3NtjTgA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -116,15 +110,15 @@ Finally in sports news, some technological advancements have helped runners set 
 <p>Home construction surged in May and prices have ticked up, even with interest rates at a 15-year high. The resilience has surprised some economists.  <a href="https://nyti.ms/3NrK87b"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>A High-Profile Primary Tests Black Buffalo’s Political Power Structure</h3>
-<sub>By Jesse McKinley and Dan Higgins</sub>
-<p>Zeneta Everhart, whose son was gravely wounded in the racist mass shooting in Buffalo; and India Walton, who nearly unseated the city’s mayor, are facing off on Tuesday.  <a href="https://nyti.ms/443n3yL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 26, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Intensifying Rains Pose Hidden Flood Risks Across the U.S.</h3>
+<sub>By Raymond Zhong</sub>
+<p>In some of the nation’s most populous areas, hazardous storms can dump significantly more water than previously believed, new calculations show.  <a href="https://nyti.ms/3r48Va0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, June 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-books-blue" alt="">
 <h3>How Review-Bombing Can Tank a Book Before It’s Published</h3>
-<sub>By Alexandra Alter and Elizabeth Harris</sub>
+<sub>By Alexandra Alter and Elizabeth A. Harris</sub>
 <p>The website Goodreads has become an essential avenue for building readership, but the same features that help generate excitement can also backfire.  <a href="https://nyti.ms/43Yem8Y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 26, Central Standard Time</sub></sub>
 <hr/>
