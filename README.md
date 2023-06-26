@@ -60,7 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, June 26, Central Standard Time</p>
 <p>
-In the world right now, there&#39;s been a lot of political drama. In Ukraine, Russia&#39;s ambitions are being put at risk by the potential loss of an outsize mercenary army. Meanwhile in Russia, people are raising questions about whether or not President Vladimir Putin could actually lose power in the face of a mutiny. In the U.S., President Donald Trump has been diverting donations into a PAC that helps cover his legal fees as they mount. On a more uplifting note, Saudi Arabia has begun welcoming tourists from other religions which is helping bring about a new and fluid era for the conservative Islamic kingdom. People in California are currently reveling in a rare site - Tulare Lake resurfacing due to intense storms - that will likely remain for months, and maybe years to come. L.G.B.T.Q. rights are being celebrated around the world while also being attacked in some areas, like New York City where they&#39;ve been attacked even though it&#39;s known for its strong community. Additionally, women&#39;s soccer has seen a rapid rise with Y Michele Kang leading the way with her new team in Washington Spirit transforming ownership and management worldwide - it truly is an exciting moment for female athletes! Lastly, if you&#39;re feeling adventurous, consider running through the Dolomites - Italy&#39;s most scenic mountain range promising seven days of beautiful views and adrenaline!</p>
+It&#39;s been a busy month in the world, with a lot of news from different parts of the globe. In Ukraine, we&#39;ve seen a raging battle between Russian forces and the Ukrainian army, and it looks like the mercenary army known as Wagner may have its future in doubt. Meanwhile in Suriname, a tiny nation facing recession and severe debt, politics between the US and China has complicated their relief efforts. 
+
+Back in the US, there&#39;s an ongoing debate over abortion access on isolated Guam, as well as a fight to save a crumbling Manhattan church from condos. In the housing market, construction is up even with interest rates at 15-year highs. Meanwhile, celebrities are joining the fight to save West Park Presbyterian Church from redevelopment. 
+
+In the Philippines, people are still celebrating their thriving cowboy culture with an annual rodeo. There&#39;s also news about generic chemotherapy drugs being in short supply and disrupting cancer treatment. Meanwhile on the Caribbean Island of Martinique, young people have found freedom in a kind of motorbike rodeo called Cabrage. 
+
+Finally in sports news, some technological advancements have helped runners set new world records in track events. A system called wavelights has enabled them to stick to precise pacing that gets them record times.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>With Wagner’s Future in Doubt, Ukraine Could Capitalize on Chaos</h3>
@@ -69,69 +75,69 @@ In the world right now, there&#39;s been a lot of political drama. In Ukraine, R
 <sub><sub>Sunday, June 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Revolt Raises Searing Question: Could Putin Lose Power?</h3>
-<sub>By Anton Troianovski</sub>
-<p>Russians with ties to the Kremlin expressed relief that the mercenary leader’s mutiny did not spark a civil war. But they agreed that Vladimir Putin had come off looking weak in a way that could be lasting.  <a href="https://nyti.ms/3NWILz3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, June 25, Central Standard Time</sub></sub>
+<h3>Minefields and Menace: Why Ukraine’s Pushback Is Off to a Halting Start</h3>
+<sub>By Andrew E. Kramer, Eric Schmitt and David Guttenfelder</sub>
+<p>The Ukrainian Army is encountering an array of challenges that has complicated the early stages of its counteroffensive, especially the large swaths of minefields. But its leaders are urging patience, insisting the main push is yet to come.  <a href="https://nyti.ms/3NMbB4L"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Isolated Guam, Abortion Is Legal. And Nearly Impossible to Get.</h3>
+<sub>By David W. Chen and Noriko Hayashi</sub>
+<p>The tiny U.S. territory in the western Pacific Ocean is thousands of miles from the nearest state, and has no resident doctors who perform abortions. Court decisions could cut access to pills, the only legal option left.  <a href="https://nyti.ms/444K04Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>The U.S.-China Rivalry Is Complicating the World’s Debt Crisis</h3>
+<sub>By Peter S. Goodman and Adriana Loureiro Fernandez</sub>
+<p>Suriname, a tiny nation ravaged by recession, inflation and impossible debts, saw its relief held up by superpower politics. It won’t be the only country.  <a href="https://nyti.ms/3NiQq9a"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia’s State Media Blamed Prigozhin, But Some Criticism of Putin Surfaced</h3>
-<sub>By Neil MacFarquhar</sub>
-<p>Yevgeny Prigozhin, the head of Wagner forces, appeared to have little popular support for his uprising. Still, some voices expressed criticism of President Vladimir V. Putin.  <a href="https://nyti.ms/3CNmblV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, June 25, Central Standard Time</sub></sub>
+<h3>They Ride and Lasso Like Texans. They Live 8,000 Miles Away.</h3>
+<sub>By Jes Aznar and Mike Ives</sub>
+<p>In the Philippines, men and women compete in an annual rodeo that celebrates a thriving cowboy culture with roots in the Spanish and American colonial eras.  <a href="https://nyti.ms/3NtjTgA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>As Legal Fees Mount, Trump Steers Donations Into PAC That Has Covered Them</h3>
-<sub>By Shane Goldmacher and Maggie Haberman</sub>
-<p>A previously unnoticed change in Donald Trump’s online fund-raising appeals allows him to divert a sizable chunk of his 2024 contributions to a group that has spent millions to cover his legal fees.  <a href="https://nyti.ms/44lRTm5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, June 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Campaigns in Michigan, a Battleground That’s Tinted Blue</h3>
-<sub>By Anjali Huynh</sub>
-<p>With their party out of power, some Republicans in the state are worried that the former president could cost Michigan its status as a swing state.  <a href="https://nyti.ms/3PvDAa7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, June 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Saudi Arabia Wants Tourists. It Didn’t Expect Christians.</h3>
-<sub>By Vivian Nereim and Iman Al-Dabbagh</sub>
-<p>In a fluid new age for the conservative Islamic kingdom, evangelicals have become some of its most enthusiastic visitors.  <a href="https://nyti.ms/3CLPdm0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, June 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Vast Lake Has Captivated California Where Farms Stood a Year Ago</h3>
-<sub>By Shawn Hubler and Mark Abramson</sub>
-<p>Tulare Lake re-emerged after intense storms battered the state this winter, and will likely remain in the Central Valley for months — and maybe years — to come.  <a href="https://nyti.ms/3NMMzma"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, June 25, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>How the Shortage of a $15 Cancer Drug Is Upending Treatment</h3>
+<sub>By Christina Jewett</sub>
+<p>Older generic chemotherapy drugs remain scarce, forcing doctors to put a priority on the patients who have the best chance of survival.  <a href="https://nyti.ms/46pfV16"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Dancing, Jubilation, and Worries About L.G.B.T.Q. Rights at Pride March</h3>
-<sub>By Liam Stack and Michael Wilson</sub>
-<p>Support for L.G.B.T.Q. people has risen, but so have attacks against them, even in a city known for the strength of its community.  <a href="https://nyti.ms/3CNpsS6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, June 25, Central Standard Time</sub></sub>
+<h3>Why Mark Ruffalo and Wendell Pierce Are Fighting for a Crumbling Church</h3>
+<sub>By Mihir Zaveri</sub>
+<p>Congregants of the West Park Presbyterian Church, a Manhattan landmark, want to tear it down to be replaced by condos. Celebrities are joining the fight to save it.  <a href="https://nyti.ms/3NowDVL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>What Is Happening in the Housing Market?</h3>
+<sub>By Jeanna Smialek</sub>
+<p>Home construction surged in May and prices have ticked up, even with interest rates at a 15-year high. The resilience has surprised some economists.  <a href="https://nyti.ms/3NrK87b"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>A High-Profile Primary Tests Black Buffalo’s Political Power Structure</h3>
+<sub>By Jesse McKinley and Dan Higgins</sub>
+<p>Zeneta Everhart, whose son was gravely wounded in the racist mass shooting in Buffalo; and India Walton, who nearly unseated the city’s mayor, are facing off on Tuesday.  <a href="https://nyti.ms/443n3yL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-books-blue" alt="">
+<h3>How Review-Bombing Can Tank a Book Before It’s Published</h3>
+<sub>By Alexandra Alter and Elizabeth Harris</sub>
+<p>The website Goodreads has become an essential avenue for building readership, but the same features that help generate excitement can also backfire.  <a href="https://nyti.ms/43Yem8Y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>‘Padam Padam’: You Hear It and You Know It’s Pride</h3>
-<sub>By Shane O’Neill</sub>
-<p>Kylie Minogue’s latest single appears to be on the fast track to gay-classic status. We asked D.J.s booked for Pride events to weigh in on the track’s devoted cult following.  <a href="https://nyti.ms/3PrSZbw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, June 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>He Was Handcuffed and Hospitalized. Now He’s on Track for Housing.</h3>
-<sub>By Andy Newman</sub>
-<p>A contentious New York City policy to send more mentally ill homeless people to hospitals has helped some move into permanent homes.  <a href="https://nyti.ms/3CNL5le"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, June 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-travel-blue" alt="">
-<h3>Altitude Meets Adrenaline: Running the Dolomites</h3>
-<sub>By Christopher Solomon</sub>
-<p>The limestone pinnacles and green meadows of one of the most scenic mountain ranges on earth provide the backdrop to a seven-day adventure in Italy.  <a href="https://nyti.ms/42V36sw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 23, Central Standard Time</sub></sub>
+<h3>On a Caribbean Island, Young People Find Freedom in ‘Bike Life’</h3>
+<sub>By Cédrine Scheidig and Steven Moity</sub>
+<p>Cabrage, a kind of rodeo on wheels, offers riders exhilarating thrills and a deep sense of camaraderie in Fort-de-France, Martinique.  <a href="https://nyti.ms/3pg1rQy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>She’s Calling It: ‘That Moment’ for Women’s Soccer Is Now.</h3>
-<sub>By Talya Minsberg</sub>
-<p>With the rapid rise of women’s soccer, Y. Michele Kang, the owner of the Washington Spirit, is in the vanguard of transforming ownership and management worldwide.  <a href="https://nyti.ms/3CMrsKx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Want to Run a World-Record Time? Follow the Green Lights.</h3>
+<sub>By Ben Bloom</sub>
+<p>Wavelights have helped runners stay on a pace to break multiple world records. They were developed by a former pacer.  <a href="https://nyti.ms/3NmV0mS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 23, Central Standard Time</sub></sub>
 <hr/>
 </ol>
