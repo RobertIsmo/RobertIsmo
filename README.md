@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, June 26, Central Standard Time</p>
 <p>
-There has been a lot going on around the world recently. In Ukraine, Russia&#39;s ambitions there have been dealt a blow as the one major battlefield victory for Moscow this year was lost and a mercenary army called Wagner may be in doubt. In Russia itself, a mutiny by a mercenary leader had people asking if there is now a risk of Vladimir Putin losing power. The uncertainty has been felt across the nation, with neither Putin nor the Wagner leader making public appearances recently. On the US side of things, Donald Trump has created a PAC that has received donations to help cover his legal fees, while campaigning in Michigan which has become increasingly leaning Democratic in recent years. Recently too, Saudi Arabia welcomed Christian tourists, while Californians are celebrating the appearance of an immense lake where farms used to be. Recently in New York, at the Pride March there were overjoyed attendees yet also worries about L.G.B.T.Q rights. Kylie Minogue&#39;s latest single has become something of an anthem for Pride events and D.J.s are talking it up. Finally, one man who was handcuffed and hospitalized for serious mental illness is now on track for being placed in permanent housing as part of a contentious new policy for homeless people from New York City authorities, while adventurers can take to running through the Dolomites mountain range in Italy for an altitude-meeting-adrenaline thrill.</p>
+In the world right now, there&#39;s been a lot of political drama. In Ukraine, Russia&#39;s ambitions are being put at risk by the potential loss of an outsize mercenary army. Meanwhile in Russia, people are raising questions about whether or not President Vladimir Putin could actually lose power in the face of a mutiny. In the U.S., President Donald Trump has been diverting donations into a PAC that helps cover his legal fees as they mount. On a more uplifting note, Saudi Arabia has begun welcoming tourists from other religions which is helping bring about a new and fluid era for the conservative Islamic kingdom. People in California are currently reveling in a rare site - Tulare Lake resurfacing due to intense storms - that will likely remain for months, and maybe years to come. L.G.B.T.Q. rights are being celebrated around the world while also being attacked in some areas, like New York City where they&#39;ve been attacked even though it&#39;s known for its strong community. Additionally, women&#39;s soccer has seen a rapid rise with Y Michele Kang leading the way with her new team in Washington Spirit transforming ownership and management worldwide - it truly is an exciting moment for female athletes! Lastly, if you&#39;re feeling adventurous, consider running through the Dolomites - Italy&#39;s most scenic mountain range promising seven days of beautiful views and adrenaline!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>With Wagner’s Future in Doubt, Ukraine Could Capitalize on Chaos</h3>
@@ -75,15 +75,9 @@ There has been a lot going on around the world recently. In Ukraine, Russia&#39;
 <sub><sub>Sunday, June 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Gripped by Uncertainty After Mutiny, Russians Note Absence of Kremlin Leaders</h3>
+<h3>Russia’s State Media Blamed Prigozhin, But Some Criticism of Putin Surfaced</h3>
 <sub>By Neil MacFarquhar</sub>
-<p>Neither Vladimir V. Putin nor the leader of the Wagner mercenary group made public appearances on Sunday, a day after an armed rebellion shook the nation.  <a href="https://nyti.ms/46lUkGY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, June 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russian state media blames and belittles Prigozhin, but some criticism of Putin and others surfaces.</h3>
-<sub>By Neil MacFarquhar</sub>
-<p>  <a href="https://nyti.ms/3PwjVXN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Yevgeny Prigozhin, the head of Wagner forces, appeared to have little popular support for his uprising. Still, some voices expressed criticism of President Vladimir V. Putin.  <a href="https://nyti.ms/3CNmblV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, June 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -132,6 +126,12 @@ There has been a lot going on around the world recently. In Ukraine, Russia&#39;
 <h3>Altitude Meets Adrenaline: Running the Dolomites</h3>
 <sub>By Christopher Solomon</sub>
 <p>The limestone pinnacles and green meadows of one of the most scenic mountain ranges on earth provide the backdrop to a seven-day adventure in Italy.  <a href="https://nyti.ms/42V36sw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>She’s Calling It: ‘That Moment’ for Women’s Soccer Is Now.</h3>
+<sub>By Talya Minsberg</sub>
+<p>With the rapid rise of women’s soccer, Y. Michele Kang, the owner of the Washington Spirit, is in the vanguard of transforming ownership and management worldwide.  <a href="https://nyti.ms/3CMrsKx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 23, Central Standard Time</sub></sub>
 <hr/>
 </ol>
