@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, June 26, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now! In Ukraine, the military is facing a lot of challenges as they fight to keep their territory safe. The U.S. territory of Guam makes abortion legal but very hard to access and Suriname is feeling the strains of being caught between two big countries in the US-China rivalry. Meanwhile, in the US, residents near Manhattan are struggling to save a well-known, old church from being torn down and replaced with condos. Cancer treatments are becoming increasingly difficult due to drug shortages, while there is some hope for those in the housing market. Intensifying storms have created hidden flood risks across the US and Goodreads has enabled book review-bombing which can tank books before they are even published. Finally, young people in Martinique Copenhagen are finding freedom in bike life and runners can break world records with help from wavelights.</p>
+There is a lot going on in the world right now. In Ukraine, there is chaos due to a mercenary army called Wagner that is playing an outsize role in Russia&#39;s campaign to take Bakhmut. Also, in Guam, abortion is legal but nearly impossible to get since there are no resident doctors who perform abortions. In New York City, celebrities are joining a fight to save a crumbling church from being replaced by condos. Jenna Lyons of J. Crew has joined the rebooted “Real Housewives of New York City” show. Schools in Newark are testing out automatic teaching aid from Khan Academy but the report card says it &quot;could use improvement.&quot; There&#39;s a plea deal with the accused shooter at Club Q in Colorado Springs which means they will spend a lifetime in prison for killing five people. John B Goodenough passed away recently - he was an unassuming professor who greatly contributed to today&#39;s electronic devices with his lithium-ion battery invention. Goodreads website has good features to help generate excitement, but it can also backfire when books are review bombed before publication. Scientists have found areas in the US that are at risk for greater flooding due to intensifying rains. Fox news network is shuffling up its prime time lineup after Carlonson was taken off air which dropped ratings by around one-third without him. The US government has funded a 5 billion dollar program aiming to make better Covid vaccines but vaccine makers don&#39;t understand any of the regulatory guidance.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>With Wagner’s Future in Doubt, Ukraine Could Capitalize on Chaos</h3>
@@ -68,22 +68,10 @@ There is a lot going on in the world right now! In Ukraine, the military is faci
 <p>The group played an outsize role in the campaign to take Bakhmut, Moscow’s one major battlefield victory this year. The loss of the mercenary army could hurt Russia’s ambitions in the Ukraine war.  <a href="https://nyti.ms/43UzPiY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, June 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Minefields and Menace: Why Ukraine’s Pushback Is Off to a Halting Start</h3>
-<sub>By Andrew E. Kramer, Eric Schmitt and David Guttenfelder</sub>
-<p>The Ukrainian Army is encountering an array of challenges that has complicated the early stages of its counteroffensive, especially the large swaths of minefields. But its leaders are urging patience, insisting the main push is yet to come.  <a href="https://nyti.ms/3NMbB4L"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 26, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In Isolated Guam, Abortion Is Legal. And Nearly Impossible to Get.</h3>
 <sub>By David W. Chen and Noriko Hayashi</sub>
 <p>The tiny U.S. territory in the western Pacific Ocean is thousands of miles from the nearest state, and has no resident doctors who perform abortions. Court decisions could cut access to pills, the only legal option left.  <a href="https://nyti.ms/444K04Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Trapped in the Crossfire of the U.S.-China Rivalry</h3>
-<sub>By Peter S. Goodman and Adriana Loureiro Fernandez</sub>
-<p>Suriname, a tiny nation ravaged by recession, inflation and impossible debts, saw its relief held up by superpower politics. It won’t be the only country.  <a href="https://nyti.ms/3NiQq9a"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -92,22 +80,40 @@ There is a lot going on in the world right now! In Ukraine, the military is faci
 <p>Congregants of the West Park Presbyterian Church, a Manhattan landmark, want it torn down and replaced by condos. Celebrities are joining the fight to save it.  <a href="https://nyti.ms/3NowDVL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>How the Shortage of a $15 Cancer Drug Is Upending Treatment</h3>
-<sub>By Christina Jewett</sub>
-<p>Older generic chemotherapy drugs remain scarce, forcing doctors to put a priority on the patients who have the best chance of survival.  <a href="https://nyti.ms/46pfV16"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>Jenna Lyons, Unlikely Housewife</h3>
+<sub>By Jessica Testa</sub>
+<p>The famously stylish former president of J. Crew has joined the rebooted “Real Housewives of New York City.” Why?  <a href="https://nyti.ms/3r00kF9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, June 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>In Classrooms, Teachers Put A.I. Tutoring Bots to the Test</h3>
+<sub>By Natasha Singer</sub>
+<p>Newark public schools are cautiously trying out a new automated teaching aid from Khan Academy. The preliminary report card: “could use improvement.”  <a href="https://nyti.ms/46pL6ta"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>They Ride and Lasso Like Texans. They Live 8,000 Miles Away.</h3>
-<sub>By Jes Aznar and Mike Ives</sub>
-<p>In the Philippines, men and women compete in an annual rodeo that celebrates a thriving cowboy culture with roots in the Spanish and American colonial eras.  <a href="https://nyti.ms/3NtjTgA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>A.I. May Someday Work Medical Miracles. For Now, It Helps Do Paperwork.</h3>
+<sub>By Steve Lohr</sub>
+<p>For now, the best use for generative A.I. in health care is to ease the heavy burden of documentation that takes doctors hours a day and contributes to burnout.  <a href="https://nyti.ms/46kVMtd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>What Is Happening in the Housing Market?</h3>
-<sub>By Jeanna Smialek</sub>
-<p>Home construction surged in May and prices have ticked up, even with interest rates at a 15-year high. The resilience has surprised some economists.  <a href="https://nyti.ms/3NrK87b"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Accused Club Q Shooter Pleads Guilty in Court</h3>
+<sub>By Jack Healy and Kelley Manley</sub>
+<p>A plea deal means the 23-year-old shooter will spend a lifetime in prison for a rampage at an L.G.B.T.Q. bar in Colorado Springs last year that left five people dead.  <a href="https://nyti.ms/3PqthnX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>John B. Goodenough, 100, Dies; Nobel-Winning Creator of the Lithium-Ion Battery</h3>
+<sub>By Robert D. McFadden</sub>
+<p>An unassuming professor who remained active into his 90s, he is credited with the breakthrough that gave rise to the batteries powering today’s electronic devices.  <a href="https://nyti.ms/46k9r3D"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-books-blue" alt="">
+<h3>How Review-Bombing Can Tank a Book Before It’s Published</h3>
+<sub>By Alexandra Alter and Elizabeth A. Harris</sub>
+<p>The website Goodreads has become an essential avenue for building readership, but the same features that help generate excitement can also backfire.  <a href="https://nyti.ms/43Yem8Y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
@@ -116,23 +122,17 @@ There is a lot going on in the world right now! In Ukraine, the military is faci
 <p>In some of the nation’s most populous areas, hazardous storms can dump significantly more water than previously believed, new calculations show.  <a href="https://nyti.ms/3r48Va0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, June 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-books-blue" alt="">
-<h3>How Review-Bombing Can Tank a Book Before It’s Published</h3>
-<sub>By Alexandra Alter and Elizabeth A. Harris</sub>
-<p>The website Goodreads has become an essential avenue for building readership, but the same features that help generate excitement can also backfire.  <a href="https://nyti.ms/43Yem8Y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Jesse Watters to Fill Tucker Carlson’s Old Slot as Fox Shuffles Prime-Time Lineup</h3>
+<sub>By Jeremy W. Peters</sub>
+<p>Fox’s prime time ratings have consistently been the highest in cable news but have fallen off by roughly one-third since the network took Mr. Carlson off the air.  <a href="https://nyti.ms/3r6sle8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>On a Caribbean Island, Young People Find Freedom in ‘Bike Life’</h3>
-<sub>By Cédrine Scheidig and Steven Moity</sub>
-<p>Cabrage, a kind of rodeo on wheels, offers riders exhilarating thrills and a deep sense of camaraderie in Fort-de-France, Martinique.  <a href="https://nyti.ms/3pg1rQy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Want to Run a World-Record Time? Follow the Green Lights.</h3>
-<sub>By Ben Bloom</sub>
-<p>Wavelights have helped runners stay on a pace to break multiple world records. They were developed by a former pacer.  <a href="https://nyti.ms/3NmV0mS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 23, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>U.S. Vaccine Program Now Flush With Cash, but Short on Key Details</h3>
+<sub>By Benjamin Mueller, Noah Weiland and Carl Zimmer</sub>
+<p>A $5 billion federal program aims to make better Covid vaccines. But vaccine makers are confused by murky regulatory guidance.  <a href="https://nyti.ms/3r3q0AZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 26, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
