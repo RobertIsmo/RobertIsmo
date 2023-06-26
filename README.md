@@ -58,10 +58,16 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Sunday, June 25, Central Standard Time</p>
+<p>It is Monday, June 26, Central Standard Time</p>
 <p>
-There&#39;s a lot happening in the world right now. In Russia, there was a mutiny involving mercenaries that raised questions about whether Putin could lose power. Meanwhile in Saudi Arabia, tourists – including Christians – are visiting more frequently. In California, a vast lake has appeared where farms stood just a year ago. The Pride March in New York City was recently held with dancing and jubilation, but still issues regarding LGBTQ rights remain. In the US, Donald Trump is steering donations into his PAC to cover legal fees, and people are being charged with murder for trying to help friends. Lastly, a digital atlas has started collecting intimate recollections from anonymous contributors.</p>
+There has been a lot going on around the world recently. In Ukraine, Russia&#39;s ambitions there have been dealt a blow as the one major battlefield victory for Moscow this year was lost and a mercenary army called Wagner may be in doubt. In Russia itself, a mutiny by a mercenary leader had people asking if there is now a risk of Vladimir Putin losing power. The uncertainty has been felt across the nation, with neither Putin nor the Wagner leader making public appearances recently. On the US side of things, Donald Trump has created a PAC that has received donations to help cover his legal fees, while campaigning in Michigan which has become increasingly leaning Democratic in recent years. Recently too, Saudi Arabia welcomed Christian tourists, while Californians are celebrating the appearance of an immense lake where farms used to be. Recently in New York, at the Pride March there were overjoyed attendees yet also worries about L.G.B.T.Q rights. Kylie Minogue&#39;s latest single has become something of an anthem for Pride events and D.J.s are talking it up. Finally, one man who was handcuffed and hospitalized for serious mental illness is now on track for being placed in permanent housing as part of a contentious new policy for homeless people from New York City authorities, while adventurers can take to running through the Dolomites mountain range in Italy for an altitude-meeting-adrenaline thrill.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>With Wagner’s Future in Doubt, Ukraine Could Capitalize on Chaos</h3>
+<sub>By Julian E. Barnes and Thomas Gibbons-Neff</sub>
+<p>The group played an outsize role in the campaign to take Bakhmut, Moscow’s one major battlefield victory this year. The loss of the mercenary army could hurt Russia’s ambitions in the Ukraine war.  <a href="https://nyti.ms/43UzPiY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, June 25, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Revolt Raises Searing Question: Could Putin Lose Power?</h3>
 <sub>By Anton Troianovski</sub>
@@ -80,12 +86,6 @@ There&#39;s a lot happening in the world right now. In Russia, there was a mutin
 <p>  <a href="https://nyti.ms/3PwjVXN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, June 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>One Big Winner of Kremlin-Wagner Clash? The Dictator Next Door.</h3>
-<sub>By Valerie Hopkins</sub>
-<p>The strongman leader of Belarus, a dependable ally of Vladimir Putin’s, may see a chance to rebrand himself as a statesman.  <a href="https://nyti.ms/3NIvARX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, June 25, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>As Legal Fees Mount, Trump Steers Donations Into PAC That Has Covered Them</h3>
 <sub>By Shane Goldmacher and Maggie Haberman</sub>
@@ -93,9 +93,9 @@ There&#39;s a lot happening in the world right now. In Russia, there was a mutin
 <sub><sub>Sunday, June 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>He Tried to Save a Friend. They Charged Him With Murder.</h3>
-<sub>By Eli Saslow and Erin Schaff</sub>
-<p>They bought $30 worth of fentanyl before making it into rehab. One overdosed. The other was charged in his death.  <a href="https://nyti.ms/3Pou3Sq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Trump Campaigns in Michigan, a Battleground That’s Tinted Blue</h3>
+<sub>By Anjali Huynh</sub>
+<p>With their party out of power, some Republicans in the state are worried that the former president could cost Michigan its status as a swing state.  <a href="https://nyti.ms/3PvDAa7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, June 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -117,12 +117,6 @@ There&#39;s a lot happening in the world right now. In Russia, there was a mutin
 <sub><sub>Sunday, June 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>Just Made a Queer Memory? Drop a Pin.</h3>
-<sub>By Katherine Oung</sub>
-<p>Queering the Map, a crowdsourced digital atlas, has collected over half a million intimate recollections from anonymous contributors.  <a href="https://nyti.ms/3NJA22O"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, June 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
 <h3>‘Padam Padam’: You Hear It and You Know It’s Pride</h3>
 <sub>By Shane O’Neill</sub>
 <p>Kylie Minogue’s latest single appears to be on the fast track to gay-classic status. We asked D.J.s booked for Pride events to weigh in on the track’s devoted cult following.  <a href="https://nyti.ms/3PrSZbw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -133,6 +127,12 @@ There&#39;s a lot happening in the world right now. In Russia, there was a mutin
 <sub>By Andy Newman</sub>
 <p>A contentious New York City policy to send more mentally ill homeless people to hospitals has helped some move into permanent homes.  <a href="https://nyti.ms/3CNL5le"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, June 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-travel-blue" alt="">
+<h3>Altitude Meets Adrenaline: Running the Dolomites</h3>
+<sub>By Christopher Solomon</sub>
+<p>The limestone pinnacles and green meadows of one of the most scenic mountain ranges on earth provide the backdrop to a seven-day adventure in Italy.  <a href="https://nyti.ms/42V36sw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 23, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
