@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, June 27, Central Standard Time</p>
 <p>
-Right now, the US Supreme Court has rejected an election theory that many feared would have taken away power from people and given it to states. Some big cases are still waiting to be decided by the court, which leans heavily towards a conservative majority. In Russia, there was a failed mutiny against Putin which has other foreign leaders concerned. There&#39;s a new audio clip of former President Trump that appears to contradict his recent claims about having unclassified documents in a meeting. Ivanka Trump was just cleared from a New York civil lawsuit, and could mean the same for her father and his company. Fox News managed to beat The Tonight Show in the ratings, likely thanks to Greg Gutfeld&#39;s insult conservatism. There have been a large number of transgender laws passed across the US that tackle things like medical care and restroom access. Studies have also shown higher suicide risks for transgender people. Ryan Seacrest recently became the new host of &quot;Wheel of Fortune&quot;. And lastly, there&#39;s a terrifying three-body problem out there which could cause global races for new armaments and ultimately lead to thermonuclear war. On top of all this, parts of the South and Gulf regions are experiencing extreme heatwaves.</p>
+There have been a lot of developments in American politics recently. The Supreme Court has made a few decisions that could shape how federal elections are run and how corporations can be sued in certain states. There were also some key cases the Supreme Court is still deciding. At the same time, a lot of state laws have been passing concerning transgender people, including what medical care they can access and what kind of bathroom use is allowed. There was also an audio recording contradicting Donald Trump&#39;s recent statement, and the New York court threw out a case against Ivanka Trump. On the international stage, Putin has been trying to control the narrative over a mercenary mutiny in Russia, while there are still questions about what will happen to those involved in it. Lastly, Fox News has managed to beat out &#39;The Tonight Show&#39; in ratings.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Supreme Court Rejects Theory That Would Have Transformed American Elections</h3>
@@ -74,16 +74,40 @@ Right now, the US Supreme Court has rejected an election theory that many feared
 <p>How the court’s 6-to-3 conservative majority is ruling this term after its lurch to the right a year ago in blockbuster decisions on abortion, guns, religion and climate change.  <a href="https://nyti.ms/43xL9Bt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>His Glory Fading, a Russian Warlord Took One Last Stab at Power</h3>
-<sub>By Paul Sonne and Anatoly Kurmanaev</sub>
-<p>Whatever the Wagner uprising says about Vladimir Putin’s hold on the Kremlin, it is also the story of a mercurial mercenary leader’s growing desperation.  <a href="https://nyti.ms/3PtqlqH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 26, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Supreme Court Allows Unusual Pennsylvania Law on Corporate Suits</h3>
+<sub>By Abbie VanSickle and Adam Liptak</sub>
+<p>A novel Pennsylvania law requires corporations that do business in the state to consent to being sued there, even if the suits have nothing to do with the state.  <a href="https://nyti.ms/439SC92"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Supreme Court Puts First Amendment Limits on Laws Banning Online Threats</h3>
+<sub>By Adam Liptak</sub>
+<p>The case concerned Billy Counterman, a Colorado man who became obsessed with a singer-songwriter, sending her disturbing messages on Facebook.  <a href="https://nyti.ms/3JAlLD0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>After Mutiny Against Putin, Russia’s Friends Have Reason to Hedge Bets</h3>
-<sub>By Mark Landler</sub>
-<p>Leaders from Iran, Qatar and Saudi Arabia, among others, expressed support for Vladimir Putin in the face of the Wagner uprising. But concerns may linger, analysts say.  <a href="https://nyti.ms/44fS2Id"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>In Kremlin Stagecraft, Putin Tries to Rewrite the Mutiny in Russia</h3>
+<sub>By Alan Yuhas</sub>
+<p>President Vladimir V. Putin appeared only once during a mercenary’s daylong mutiny against the military. He was all over Russian TV on Tuesday, seeking to project an image of control.  <a href="https://nyti.ms/3Xpj9Oh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>What Will Happen to Prigozhin and His Wagner Fighters? Here’s What We Know.</h3>
+<sub>By Matthew Mpoke Bigg</sub>
+<p>Days after an uprising in Russia, Moscow said the charges of “armed mutiny” would be dropped. Here is how the events may affect the mercenary fighters, President Vladimir V. Putin and the war in Ukraine.  <a href="https://nyti.ms/46rlBYM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Mother Had Three Minutes to Address Her Son’s Killer</h3>
+<sub>By Jack Healy</sub>
+<p>Adriana Vance lost her son Raymond in a mass shooting seven months ago. The night before she would face the shooter in court, she still wasn’t sure what she would say.  <a href="https://nyti.ms/46sTmZu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Schools Bring Police Back to Campuses, Reversing Racial Justice Decisions</h3>
+<sub>By Tim Arango</sub>
+<p>Denver’s school system is the latest to reinstate officers, responding to parental concerns over campus violence. Critics say the move will disproportionately hurt students of color.  <a href="https://nyti.ms/433yCor"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -108,30 +132,6 @@ Right now, the US Supreme Court has rejected an election theory that many feared
 <h3>States Passed a Record Number of Transgender Laws. Here’s What They Say.</h3>
 <sub>By Adeel Hassan</sub>
 <p>Many of the bills denied certain medical care to transgender people, while others targeted bathroom use and preferred personal pronouns.  <a href="https://nyti.ms/433oNXF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Landmark Study Shows Higher Suicide Risk for Transgender People</h3>
-<sub>By Azeen Ghorayshi</sub>
-<p>Using four decades of health data from Denmark, the study offers the clearest picture yet of the suicide risk among transgender people.  <a href="https://nyti.ms/46mIAEb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Ryan Seacrest Named New Host of ‘Wheel of Fortune’</h3>
-<sub>By John Koblin</sub>
-<p>The game show has demonstrated remarkable durability even as traditional television has declined in the wake of streaming entertainment.  <a href="https://nyti.ms/46s0rJK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>The Terror of Threes in the Heavens and on Earth</h3>
-<sub>By William J. Broad</sub>
-<p>Physicists have long explored how phenomena in groups of three can sow chaos. A new three-body problem, they warn, could lead to not only global races for new armaments but also thermonuclear war.  <a href="https://nyti.ms/44dwL18"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘It’s Dangerous’: Heat Wave Spreads From Texas to Bake the Southeast</h3>
-<sub>By Marie Elizabeth Oliver, Carmen K. Sisson and David Montgomery</sub>
-<p>More of the Gulf region will see dangerous heat on Tuesday, lasting in some places through the Fourth of July.  <a href="https://nyti.ms/3qWlPXk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 27, Central Standard Time</sub></sub>
 <hr/>
 </ol>
