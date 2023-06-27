@@ -60,13 +60,31 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, June 27, Central Standard Time</p>
 <p>
-There are a lot of important events happening in the world right now. In Russia, a warlord is trying to gain power but it looks like he won&#39;t be successful. In Ukraine, an 11-year-old boy is trying to adjust to life after war changes his lives. In the US, audio has been released that contradicts former President Trump&#39;s assertions while a judge denied an attempt to seal witness lists in another case against him. The US Supreme Court also has many key cases left to decide this year and people are discussing whether Donald Trump can break his hold on New Hampshire or not. Meanwhile, President Biden may be facing economic challenges and a Senate report was released detailing failures related to the Jan. 6 event. Finally, some new mothers are sharing their struggles with postpartum depression and people in New York City are leaving messages where they can be found.</p>
+There is a lot going on in the world right now. In the US, the Supreme Court has recently rejected a theory that could have transformed American elections, and there are also still key court cases waiting to be decided. In Russia, a warlord recently took a last stab at power but was foiled by criminal charges being dropped against him. There is also a moving story about an 11-year-old boy living on the front lines of a Ukrainian town affected by war. Closer to home, audio has recently emerged that appears to contradict former President Trump&#39;s assertion he did not have classified documents and Judge Aileen Cannon has denied a request to seal the witness list in the documents case against him. Lastly, President Biden&#39;s re-election campaign might be endangered by fears of inflation and recession overshadowing his economic achievements, while new mothers are struggling with postpartum depression as they try to adjust to life with a newborn baby.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Supreme Court Rejects Theory That Would Have Transformed American Elections</h3>
+<sub>By Adam Liptak</sub>
+<p>The 6-3 majority dismissed the “independent state legislature” theory, which would have given state lawmakers nearly unchecked power over federal elections.  <a href="https://nyti.ms/3Nnoscm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Key Cases the Supreme Court Has Yet to Decide in 2023</h3>
+<sub>By Adam Liptak and Eli Murray</sub>
+<p>How the court’s 6-to-3 conservative majority is ruling this term after its lurch to the right a year ago in blockbuster decisions on abortion, guns, religion and climate change.  <a href="https://nyti.ms/43xL9Bt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>His Glory Fading, a Russian Warlord Took One Last Stab at Power</h3>
 <sub>By Paul Sonne and Anatoly Kurmanaev</sub>
 <p>Whatever the Wagner uprising says about Vladimir Putin’s hold on the Kremlin, it is also the story of a mercurial mercenary leader’s growing desperation.  <a href="https://nyti.ms/3PtqlqH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russia Drops Criminal Charges Against Prigozhin After Wagner Rebellion</h3>
+<sub>By Valerie Hopkins</sub>
+<p>The Russian authorities said that Wagner members would face no criminal charges for the mutiny and would hand over equipment, but the fate of the group’s thousands of fighters was unclear.  <a href="https://nyti.ms/42YRO6M"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
 <h3>A Boy’s Life on the Front Lines</h3>
@@ -85,12 +103,6 @@ There are a lot of important events happening in the world right now. In Russia,
 <sub>By Alan Feuer</sub>
 <p>The order by Judge Aileen Cannon means the identities of some or all of the Justice Department’s 84 potential witnesses in the case against the former president could become public.  <a href="https://nyti.ms/3r5ucA3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Key Cases the Supreme Court Has Yet to Decide in 2023</h3>
-<sub>By Adam Liptak and Eli Murray</sub>
-<p>How the court’s 6-to-3 conservative majority is ruling this term after its lurch to the right a year ago in blockbuster decisions on abortion, guns, religion and climate change.  <a href="https://nyti.ms/43xL9Bt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Can DeSantis Break Trump’s Hold on New Hampshire?</h3>
@@ -116,22 +128,10 @@ There are a lot of important events happening in the world right now. In Russia,
 <p>Four new mothers open up about the common yet isolating struggle.  <a href="https://nyti.ms/43WTLBO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Indigenous Guardsmen Who Rescued Colombia’s Missing Children</h3>
-<sub>By Genevieve Glatsky and Julie Turkewitz</sub>
-<p>Colombia’s Indigenous Guard has long had to fight for a space in the national narrative. Today, it is at the center of the country’s biggest story.  <a href="https://nyti.ms/3r5g6Pf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 27, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>DMs From New York City</h3>
-<sub>By Dodai Stewart</sub>
-<p>If you know where to look — down in the subway, up on a light pole, inside a taxi — you’ll find messages from New Yorkers trying hard to make themselves heard.  <a href="https://nyti.ms/3Jv56AM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Senate Report Details Jan. 6 Intelligence and Law Enforcement Failures</h3>
-<sub>By Luke Broadwater</sub>
-<p>The report by Democrats provided the most comprehensive picture to date of how federal officials missed, downplayed or failed to act on multiple threats of and plans for violence.  <a href="https://nyti.ms/42WanIx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Report on Epstein’s Death Finds Errors and Mismanagement at Manhattan Jail</h3>
+<sub>By Glenn Thrush and Benjamin Weiser</sub>
+<p>The inspector general’s report comes nearly four years after Jeffrey Epstein, 66, was found dead in his cell with a bedsheet tied around his neck.  <a href="https://nyti.ms/3r3bWqY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 27, Central Standard Time</sub></sub>
 <hr/>
 </ol>
