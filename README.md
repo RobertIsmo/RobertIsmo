@@ -60,7 +60,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, June 26, Central Standard Time</p>
 <p>
-There is a lot of news happening both in the US and around the world. In Russia, President Putin spoke out against a rebellion that was led by his former ally, Yevgeny Prigozhin. Meanwhile, Biden and Putin had dueling messages about this event. In the US, a plan for congestion pricing in New York City has finally cleared its last hurdle, meaning drivers will soon have to pay to enter Midtown Manhattan. Unfortunately, it&#39;s been unbearably hot in Texas and Oklahoma recently, resulting in the tragic deaths of a teen and her stepfather on a hike due to heat exhaustion. This dangerous heatwave is expected to move eastward this week and blanket areas from Arizona to Alabama. In other news, a judge denied a request to seal the witness list in the Trump documents case, which may reveal some interesting information. Lastly, Jenna Lyons and celebrities Mark Ruffalo and Wendell Pierce are fighting against plans to demolish a historically significant church in Manhattan and turn it into condos. Finally, we’ve learned about the passing of Richard Ravitch who devotedly saved the subways and New York City’s finances back in the 1970s.</p>
+Right now, Vladimir V. Putin is trying to contain a rebellion that occurred in Russia recently. In the United States, audio has surfaced that appears to contradict former President Trump&#39;s assertion he was not looking at classified documents in a meeting. Meanwhile, a judge has denied a request to keep the identities of witnesses secret in an upcoming legal case against Trump. 
+
+In New York City, officials have cleared the final hurdle for an ambitious congestion pricing plan and celebrities like Mark Ruffalo and Wendell Pierce are fighting to save a crumbling church from development. Also in the area, Richard Ravitch, rescuer of the subways and New York&#39;s finances, recently passed away at 89. Lastly, fashion icon Jenna Lyons is the latest addition to the cast of Real Housewives of New York City.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Putin Says Russia Is United Behind Him, After Quelling Rebellion</h3>
@@ -78,6 +80,18 @@ There is a lot of news happening both in the US and around the world. In Russia,
 <h3>Biden and Putin Have Dueling Messages on the Mutiny in Russia</h3>
 <sub>By David E. Sanger</sub>
 <p>The White House concluded that it had to get ahead of any argument by Vladimir V. Putin that the uprising was serving the interests of Russia’s adversaries.  <a href="https://nyti.ms/42U99h2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Audio Undercuts Trump’s Assertion He Did Not Have Classified Document</h3>
+<sub>By Maggie Haberman and Alan Feuer</sub>
+<p>A recording of a meeting in 2021 in which the former president described a sensitive document in front of him appears to contradict his recent assertion that the material was just news clippings.  <a href="https://nyti.ms/3JxxPVO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Judge Denies Request to Seal Witness List in Trump Documents Case</h3>
+<sub>By Alan Feuer</sub>
+<p>The order by Judge Aileen Cannon means the identities of some or all of the Justice Department’s 84 potential witnesses in the case against the former president could become public.  <a href="https://nyti.ms/3r5ucA3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -99,22 +113,10 @@ There is a lot of news happening both in the US and around the world. In Russia,
 <sub><sub>Monday, June 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What to Know About Heat Waves</h3>
-<sub>By Adeel Hassan and Derrick Bryson Taylor</sub>
-<p>In most parts of the United States, temperatures must be above the historical average in an area for two or more days before the label “heat wave” is applied.  <a href="https://nyti.ms/2UzbLUB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Tracking Dangerous Heat in the U.S.</h3>
 <sub>By Matthew Bloch, Lazaro Gamio, Zach Levitt, Eleanor Lutz, Bea Malsky and John-Michael Murphy</sub>
 <p>See detailed maps of the latest heat index forecasts in the United States.  <a href="https://nyti.ms/3calp8v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Judge Denies Request to Seal Witness List in Trump Documents Case</h3>
-<sub>By Alan Feuer</sub>
-<p>The order by Judge Aileen Cannon means the identities of some or all of the Justice Department’s 84 potential witnesses in the case against the former president could become public.  <a href="https://nyti.ms/3r5ucA3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
 <h3>Jenna Lyons, Unlikely Housewife</h3>
