@@ -60,30 +60,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, June 26, Central Standard Time</p>
 <p>
-This week, a member of Russia&#39;s elite marched on his rivals in an event that has demonstrated the fragility of Vladimir V. Putin&#39;s hold over powerful individuals in the region. In New York City, a congestion pricing plan is going to be put in place that will involve charging drivers to enter Midtown Manhattan with funds going towards improving public transportation. Jenna Lyons, formerly the president of J. Crew, has joined Bravo&#39;s &quot;Real Housewives of New York City.&quot; Mark Ruffalo and Wendell Pierce are teaming up to save a Manhattan landmark from being demolished and replaced with condos. In Texas, a heat dome has been affecting the area for days and oppressive heat continues to expand from Arizona to Alabama. Educators have started testing A.I.-operated teaching bots in classrooms while doctors claim the best use for genereative A.I. is to reduce paperwork burden in healthcare. Lastly, a 23-year-old man plead guilty in court following a shooting at a Colorado L.G.B.T bar last year that resulted in five fatalities and Goodreads recently had an instance where reviews were deliberately negative for a book before its publication.</p>
+There is a lot of news happening both in the US and around the world. In Russia, President Putin spoke out against a rebellion that was led by his former ally, Yevgeny Prigozhin. Meanwhile, Biden and Putin had dueling messages about this event. In the US, a plan for congestion pricing in New York City has finally cleared its last hurdle, meaning drivers will soon have to pay to enter Midtown Manhattan. Unfortunately, it&#39;s been unbearably hot in Texas and Oklahoma recently, resulting in the tragic deaths of a teen and her stepfather on a hike due to heat exhaustion. This dangerous heatwave is expected to move eastward this week and blanket areas from Arizona to Alabama. In other news, a judge denied a request to seal the witness list in the Trump documents case, which may reveal some interesting information. Lastly, Jenna Lyons and celebrities Mark Ruffalo and Wendell Pierce are fighting against plans to demolish a historically significant church in Manhattan and turn it into condos. Finally, we’ve learned about the passing of Richard Ravitch who devotedly saved the subways and New York City’s finances back in the 1970s.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Putin Says Russia Is United Behind Him, After Quelling Rebellion</h3>
+<sub>By Valerie Hopkins</sub>
+<p>President Vladimir V. Putin spoke angrily of those who want “Russians to fight each other,” but his former ally, Yevgeny V. Prigozhin, said the mutiny he led was not a coup attempt.  <a href="https://nyti.ms/44e1lrm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 26, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>A Mutiny That Showed the Stress on Putin’s System of Rule</h3>
 <sub>By Amanda Taub</sub>
 <p>A member of Russia’s elite marched on his rivals, with a mercenary army at his back, suggesting that Vladimir V. Putin’s grip over a coalition of powerful figures may be more brittle than it appeared.  <a href="https://nyti.ms/3CTCJsh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 26, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden and Putin Have Dueling Messages on the Mutiny in Russia</h3>
+<sub>By David E. Sanger</sub>
+<p>The White House concluded that it had to get ahead of any argument by Vladimir V. Putin that the uprising was serving the interests of Russia’s adversaries.  <a href="https://nyti.ms/42U99h2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 26, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Congestion Pricing Plan in New York City Clears Final Federal Hurdle</h3>
 <sub>By Ana Ley</sub>
 <p>The program, which could begin next year, would charge drivers to enter Midtown Manhattan, with the revenues going to improve mass transit.  <a href="https://nyti.ms/3JsZcQD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>Jenna Lyons, Unlikely Housewife</h3>
-<sub>By Jessica Testa</sub>
-<p>The famously stylish former president of J. Crew has joined the rebooted “Real Housewives of New York City.” Why?  <a href="https://nyti.ms/3r00kF9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, June 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Why Mark Ruffalo and Wendell Pierce Are Fighting for a Crumbling Church</h3>
-<sub>By Mihir Zaveri</sub>
-<p>Congregants of the West Park Presbyterian Church, a Manhattan landmark, want it torn down and replaced by condos. Celebrities are joining the fight to save it.  <a href="https://nyti.ms/3NowDVL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -110,28 +110,28 @@ This week, a member of Russia&#39;s elite marched on his rivals in an event that
 <p>See detailed maps of the latest heat index forecasts in the United States.  <a href="https://nyti.ms/3calp8v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>In Classrooms, Teachers Put A.I. Tutoring Bots to the Test</h3>
-<sub>By Natasha Singer</sub>
-<p>Newark public schools are cautiously trying out a new automated teaching aid from Khan Academy. The preliminary report card: “could use improvement.”  <a href="https://nyti.ms/46pL6ta"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>A.I. May Someday Work Medical Miracles. For Now, It Helps Do Paperwork.</h3>
-<sub>By Steve Lohr</sub>
-<p>The best use for generative A.I. in health care, doctors say, is to ease the heavy burden of documentation that takes them hours a day and contributes to burnout.  <a href="https://nyti.ms/46kVMtd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 26, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Accused Club Q Shooter Pleads Guilty in Court</h3>
-<sub>By Jack Healy and Kelley Manley</sub>
-<p>A plea deal means the 23-year-old will spend a lifetime in prison for a rampage at an L.G.B.T.Q. bar in Colorado Springs last year that left five people dead.  <a href="https://nyti.ms/3PqthnX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Judge Denies Request to Seal Witness List in Trump Documents Case</h3>
+<sub>By Alan Feuer</sub>
+<p>The order by Judge Aileen Cannon means the identities of some or all of the Justice Department’s 84 potential witnesses in the case against the former president could become public.  <a href="https://nyti.ms/3r5ucA3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-books-blue" alt="">
-<h3>How Review-Bombing Can Tank a Book Before It’s Published</h3>
-<sub>By Alexandra Alter and Elizabeth A. Harris</sub>
-<p>The website Goodreads has become an essential avenue for building readership, but the same features that help generate excitement can also backfire.  <a href="https://nyti.ms/43Yem8Y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>Jenna Lyons, Unlikely Housewife</h3>
+<sub>By Jessica Testa</sub>
+<p>The famously stylish former president of J. Crew has joined the rebooted “Real Housewives of New York City.” Why?  <a href="https://nyti.ms/3r00kF9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, June 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Why Mark Ruffalo and Wendell Pierce Are Fighting for a Crumbling Church</h3>
+<sub>By Mihir Zaveri</sub>
+<p>Congregants of the West Park Presbyterian Church, a Manhattan landmark, want it torn down and replaced by condos. Celebrities are joining the fight to save it.  <a href="https://nyti.ms/3NowDVL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Richard Ravitch, Rescuer of the Subways and New York’s Finances, Dies at 89</h3>
+<sub>By Sam Roberts</sub>
+<p>He helped New York City avoid bankruptcy in the mid-1970s, ran the Metropolitan Transportation Authority and later served as lieutenant governor.  <a href="https://nyti.ms/44jR516"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 26, Central Standard Time</sub></sub>
 <hr/>
 </ol>
