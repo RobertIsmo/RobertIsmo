@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, June 27, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In the US, the Supreme Court has recently rejected a theory that could have transformed American elections, and there are also still key court cases waiting to be decided. In Russia, a warlord recently took a last stab at power but was foiled by criminal charges being dropped against him. There is also a moving story about an 11-year-old boy living on the front lines of a Ukrainian town affected by war. Closer to home, audio has recently emerged that appears to contradict former President Trump&#39;s assertion he did not have classified documents and Judge Aileen Cannon has denied a request to seal the witness list in the documents case against him. Lastly, President Biden&#39;s re-election campaign might be endangered by fears of inflation and recession overshadowing his economic achievements, while new mothers are struggling with postpartum depression as they try to adjust to life with a newborn baby.</p>
+Right now, the US Supreme Court has rejected an election theory that many feared would have taken away power from people and given it to states. Some big cases are still waiting to be decided by the court, which leans heavily towards a conservative majority. In Russia, there was a failed mutiny against Putin which has other foreign leaders concerned. There&#39;s a new audio clip of former President Trump that appears to contradict his recent claims about having unclassified documents in a meeting. Ivanka Trump was just cleared from a New York civil lawsuit, and could mean the same for her father and his company. Fox News managed to beat The Tonight Show in the ratings, likely thanks to Greg Gutfeld&#39;s insult conservatism. There have been a large number of transgender laws passed across the US that tackle things like medical care and restroom access. Studies have also shown higher suicide risks for transgender people. Ryan Seacrest recently became the new host of &quot;Wheel of Fortune&quot;. And lastly, there&#39;s a terrifying three-body problem out there which could cause global races for new armaments and ultimately lead to thermonuclear war. On top of all this, parts of the South and Gulf regions are experiencing extreme heatwaves.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Supreme Court Rejects Theory That Would Have Transformed American Elections</h3>
@@ -81,16 +81,10 @@ There is a lot going on in the world right now. In the US, the Supreme Court has
 <sub><sub>Monday, June 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia Drops Criminal Charges Against Prigozhin After Wagner Rebellion</h3>
-<sub>By Valerie Hopkins</sub>
-<p>The Russian authorities said that Wagner members would face no criminal charges for the mutiny and would hand over equipment, but the fate of the group’s thousands of fighters was unclear.  <a href="https://nyti.ms/42YRO6M"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>After Mutiny Against Putin, Russia’s Friends Have Reason to Hedge Bets</h3>
+<sub>By Mark Landler</sub>
+<p>Leaders from Iran, Qatar and Saudi Arabia, among others, expressed support for Vladimir Putin in the face of the Wagner uprising. But concerns may linger, analysts say.  <a href="https://nyti.ms/44fS2Id"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>A Boy’s Life on the Front Lines</h3>
-<sub>By Lynsey Addario</sub>
-<p>In a Ukrainian town once teeming with families, an 11-year-old navigates a childhood transformed by war.  <a href="https://nyti.ms/445FpPS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Audio Undercuts Trump’s Assertion He Did Not Have Classified Document</h3>
@@ -98,40 +92,46 @@ There is a lot going on in the world right now. In the US, the Supreme Court has
 <p>A recording of a meeting in 2021 in which the former president described a sensitive document in front of him appears to contradict his recent assertion that the material was just news clippings.  <a href="https://nyti.ms/3JxxPVO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Judge Denies Request to Seal Witness List in Trump Documents Case</h3>
-<sub>By Alan Feuer</sub>
-<p>The order by Judge Aileen Cannon means the identities of some or all of the Justice Department’s 84 potential witnesses in the case against the former president could become public.  <a href="https://nyti.ms/3r5ucA3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Can DeSantis Break Trump’s Hold on New Hampshire?</h3>
-<sub>By Jonathan Swan, Maggie Haberman and Shane Goldmacher</sub>
-<p>Donald Trump is looking to the state as an early chance to clear a crowded field, while Ron DeSantis’s camp is banking on winnowing the Republican race to two.  <a href="https://nyti.ms/46lQIov"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Vivek Ramaswamy Made the Fortune Fueling His Presidential Run</h3>
-<sub>By Jonathan Weisman, Rebecca Robbins and Maureen Farrell</sub>
-<p>Mr. Ramaswamy calls himself a scientist from the biotech industry, but his vast fortune stems from two huge paydays that speak to hope and hype in the world of finance.  <a href="https://nyti.ms/3NPw1Ks"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Court Throws Out New York’s Civil Case Against Ivanka Trump</h3>
+<sub>By Jonah E. Bromwich, Ben Protess and William K. Rashbaum</sub>
+<p>The decision could mean that claims against Donald J. Trump and his company might also be limited.  <a href="https://nyti.ms/3CO0YrV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Can Bidenomics Save Biden’s Re-election Bid?</h3>
-<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
-<p>The president plans to extol his economic achievements in a big campaign-style speech. But inflation and recession fears could overshadow the message.  <a href="https://nyti.ms/3PFGdWW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>How Fox News (Yes, Fox News) Managed to Beat ‘The Tonight Show’</h3>
+<sub>By Matt Flegenheimer and Jeremy W. Peters</sub>
+<p>Greg Gutfeld has installed his brand of insult conservatism as the institutional voice for the next generation of Fox News viewer. And it’s catching on.  <a href="https://nyti.ms/3CQ3MFa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>Life in the Throes of Postpartum Depression</h3>
-<sub>By Catherine Pearson</sub>
-<p>Four new mothers open up about the common yet isolating struggle.  <a href="https://nyti.ms/43WTLBO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>States Passed a Record Number of Transgender Laws. Here’s What They Say.</h3>
+<sub>By Adeel Hassan</sub>
+<p>Many of the bills denied certain medical care to transgender people, while others targeted bathroom use and preferred personal pronouns.  <a href="https://nyti.ms/433oNXF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Report on Epstein’s Death Finds Errors and Mismanagement at Manhattan Jail</h3>
-<sub>By Glenn Thrush and Benjamin Weiser</sub>
-<p>The inspector general’s report comes nearly four years after Jeffrey Epstein, 66, was found dead in his cell with a bedsheet tied around his neck.  <a href="https://nyti.ms/3r3bWqY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Landmark Study Shows Higher Suicide Risk for Transgender People</h3>
+<sub>By Azeen Ghorayshi</sub>
+<p>Using four decades of health data from Denmark, the study offers the clearest picture yet of the suicide risk among transgender people.  <a href="https://nyti.ms/46mIAEb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Ryan Seacrest Named New Host of ‘Wheel of Fortune’</h3>
+<sub>By John Koblin</sub>
+<p>The game show has demonstrated remarkable durability even as traditional television has declined in the wake of streaming entertainment.  <a href="https://nyti.ms/46s0rJK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>The Terror of Threes in the Heavens and on Earth</h3>
+<sub>By William J. Broad</sub>
+<p>Physicists have long explored how phenomena in groups of three can sow chaos. A new three-body problem, they warn, could lead to not only global races for new armaments but also thermonuclear war.  <a href="https://nyti.ms/44dwL18"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>‘It’s Dangerous’: Heat Wave Spreads From Texas to Bake the Southeast</h3>
+<sub>By Marie Elizabeth Oliver, Carmen K. Sisson and David Montgomery</sub>
+<p>More of the Gulf region will see dangerous heat on Tuesday, lasting in some places through the Fourth of July.  <a href="https://nyti.ms/3qWlPXk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 27, Central Standard Time</sub></sub>
 <hr/>
 </ol>
