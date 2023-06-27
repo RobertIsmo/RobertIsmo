@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, June 27, Central Standard Time</p>
 <p>
-Something dramatic is happening in Russia right now. A warlord who has been loyal to President Vladimir Putin has made a last ditch effort for power by leading a mercenary army against the Kremlin. In response, President Putin has put out his own messaging trying to control the situation. Meanwhile, in the United States, former President Donald Trump is facing legal troubles and audio recordings appear to contradict his recent assertions. Additionally, there is an ongoing plans for congestion pricing in New York City and extreme heat wave conditions are affecting much of the country. Celebrities like Mark Ruffalo and Wendell Pierce have come out in support of protecting historic West Park Presbyterian Church from being demolished for construction, and Richard Ravitch, an iconic New York official who served as MTA head governor and lieutenant governor, recently passed away at age 89. Lastly, John B. Goodenough, creator of the lithium-ion battery and Nobel prize winner, has also recently died aged 100.</p>
+There are a lot of important events happening in the world right now. In Russia, a warlord is trying to gain power but it looks like he won&#39;t be successful. In Ukraine, an 11-year-old boy is trying to adjust to life after war changes his lives. In the US, audio has been released that contradicts former President Trump&#39;s assertions while a judge denied an attempt to seal witness lists in another case against him. The US Supreme Court also has many key cases left to decide this year and people are discussing whether Donald Trump can break his hold on New Hampshire or not. Meanwhile, President Biden may be facing economic challenges and a Senate report was released detailing failures related to the Jan. 6 event. Finally, some new mothers are sharing their struggles with postpartum depression and people in New York City are leaving messages where they can be found.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>His Glory Fading, a Russian Warlord Took One Last Stab at Power</h3>
@@ -68,16 +68,10 @@ Something dramatic is happening in Russia right now. A warlord who has been loya
 <p>Whatever the Wagner uprising says about Vladimir Putin’s hold on the Kremlin, it is also the story of a mercurial mercenary leader’s growing desperation.  <a href="https://nyti.ms/3PtqlqH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Mutiny That Showed the Stress on Putin’s System of Rule</h3>
-<sub>By Amanda Taub</sub>
-<p>A member of Russia’s elite marched on his rivals, with a mercenary army at his back, suggesting that Vladimir V. Putin’s grip over a coalition of powerful figures may be more brittle than it appeared.  <a href="https://nyti.ms/3CTCJsh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden and Putin Have Dueling Messages on the Mutiny in Russia</h3>
-<sub>By David E. Sanger</sub>
-<p>The White House concluded that it had to get ahead of any argument by Vladimir V. Putin that the uprising was serving the interests of Russia’s adversaries.  <a href="https://nyti.ms/42U99h2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>A Boy’s Life on the Front Lines</h3>
+<sub>By Lynsey Addario</sub>
+<p>In a Ukrainian town once teeming with families, an 11-year-old navigates a childhood transformed by war.  <a href="https://nyti.ms/445FpPS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -92,47 +86,53 @@ Something dramatic is happening in Russia right now. A warlord who has been loya
 <p>The order by Judge Aileen Cannon means the identities of some or all of the Justice Department’s 84 potential witnesses in the case against the former president could become public.  <a href="https://nyti.ms/3r5ucA3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 26, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Key Cases the Supreme Court Has Yet to Decide in 2023</h3>
+<sub>By Adam Liptak and Eli Murray</sub>
+<p>How the court’s 6-to-3 conservative majority is ruling this term after its lurch to the right a year ago in blockbuster decisions on abortion, guns, religion and climate change.  <a href="https://nyti.ms/43xL9Bt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Can DeSantis Break Trump’s Hold on New Hampshire?</h3>
+<sub>By Jonathan Swan, Maggie Haberman and Shane Goldmacher</sub>
+<p>Donald Trump is looking to the state as an early chance to clear a crowded field, while Ron DeSantis’s camp is banking on winnowing the Republican race to two.  <a href="https://nyti.ms/46lQIov"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How Vivek Ramaswamy Made the Fortune Fueling His Presidential Run</h3>
+<sub>By Jonathan Weisman, Rebecca Robbins and Maureen Farrell</sub>
+<p>Mr. Ramaswamy calls himself a scientist from the biotech industry, but his vast fortune stems from two huge paydays that speak to hope and hype in the world of finance.  <a href="https://nyti.ms/3NPw1Ks"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Can Bidenomics Save Biden’s Re-election Bid?</h3>
+<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
+<p>The president plans to extol his economic achievements in a big campaign-style speech. But inflation and recession fears could overshadow the message.  <a href="https://nyti.ms/3PFGdWW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>Life in the Throes of Postpartum Depression</h3>
+<sub>By Catherine Pearson</sub>
+<p>Four new mothers open up about the common yet isolating struggle.  <a href="https://nyti.ms/43WTLBO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The Indigenous Guardsmen Who Rescued Colombia’s Missing Children</h3>
+<sub>By Genevieve Glatsky and Julie Turkewitz</sub>
+<p>Colombia’s Indigenous Guard has long had to fight for a space in the national narrative. Today, it is at the center of the country’s biggest story.  <a href="https://nyti.ms/3r5g6Pf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 27, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Congestion Pricing Plan in New York City Clears Final Federal Hurdle</h3>
-<sub>By Ana Ley</sub>
-<p>The program, which could begin next year, would charge drivers to enter Midtown Manhattan, with the revenues going to improve mass transit.  <a href="https://nyti.ms/3JsZcQD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>DMs From New York City</h3>
+<sub>By Dodai Stewart</sub>
+<p>If you know where to look — down in the subway, up on a light pole, inside a taxi — you’ll find messages from New Yorkers trying hard to make themselves heard.  <a href="https://nyti.ms/3Jv56AM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Teen and Stepfather Die on Hike in Near-Record Texas Heat</h3>
-<sub>By Jacey Fortin and Mary Beth Gahan</sub>
-<p>The high-pressure “heat dome” that has engulfed Texas and Oklahoma for several days is forecast to shift eastward this week, bringing dangerous temperatures to the Gulf States.  <a href="https://nyti.ms/3Px1an4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Dangerous Heat Wave Will Continue to Bake the U.S. This Week</h3>
-<sub>By Judson Jones</sub>
-<p>Oppressive heat will expand out of Texas to blanket an area from Arizona to Alabama.  <a href="https://nyti.ms/3PuHf8g"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Tracking Dangerous Heat in the U.S.</h3>
-<sub>By Matthew Bloch, Lazaro Gamio, Zach Levitt, Eleanor Lutz, Bea Malsky and John-Michael Murphy</sub>
-<p>See detailed maps of the latest heat index forecasts in the United States.  <a href="https://nyti.ms/3calp8v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Why Mark Ruffalo and Wendell Pierce Are Fighting for a Crumbling Church</h3>
-<sub>By Mihir Zaveri</sub>
-<p>Congregants of the West Park Presbyterian Church, a Manhattan landmark, want it torn down and replaced by condos. Celebrities are joining the fight to save it.  <a href="https://nyti.ms/3NowDVL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Richard Ravitch, Rescuer of the Subways and New York’s Finances, Dies at 89</h3>
-<sub>By Sam Roberts</sub>
-<p>He helped New York City avoid bankruptcy in the mid-1970s, ran the Metropolitan Transportation Authority and later served as lieutenant governor.  <a href="https://nyti.ms/44jR516"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>John B. Goodenough, 100, Dies; Nobel-Winning Creator of the Lithium-Ion Battery</h3>
-<sub>By Robert D. McFadden</sub>
-<p>An unassuming professor who remained active into his 90s, he is credited with the breakthrough that gave rise to the batteries powering today’s electronic devices.  <a href="https://nyti.ms/46k9r3D"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 26, Central Standard Time</sub></sub>
+<h3>Senate Report Details Jan. 6 Intelligence and Law Enforcement Failures</h3>
+<sub>By Luke Broadwater</sub>
+<p>The report by Democrats provided the most comprehensive picture to date of how federal officials missed, downplayed or failed to act on multiple threats of and plans for violence.  <a href="https://nyti.ms/42WanIx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 27, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
