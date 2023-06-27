@@ -58,12 +58,16 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Monday, June 26, Central Standard Time</p>
+<p>It is Tuesday, June 27, Central Standard Time</p>
 <p>
-Right now, Vladimir V. Putin is trying to contain a rebellion that occurred in Russia recently. In the United States, audio has surfaced that appears to contradict former President Trump&#39;s assertion he was not looking at classified documents in a meeting. Meanwhile, a judge has denied a request to keep the identities of witnesses secret in an upcoming legal case against Trump. 
-
-In New York City, officials have cleared the final hurdle for an ambitious congestion pricing plan and celebrities like Mark Ruffalo and Wendell Pierce are fighting to save a crumbling church from development. Also in the area, Richard Ravitch, rescuer of the subways and New York&#39;s finances, recently passed away at 89. Lastly, fashion icon Jenna Lyons is the latest addition to the cast of Real Housewives of New York City.</p>
+A lot is going on in the world right now. In Russia, a former ally of President Vladimir V. Putin tried to lead a rebellion against him with a mercenary army. The uprising was quickly put down, although it has caused some debate about Putin&#39;s political power. Meanwhile, President Biden and Putin have had differing opinions on this issue. In the United States, a recording of a past meeting between former President Trump and his administration revealed Trump&#39;s claim that he did not have classified documents with him to be false. Also, a judge has denied a request to seal the list of potential witness’ names in the case against Trump. Elsewhere, New York City is set to begin a congestion pricing plan with revenues used to improve mass transit. In Texas and Oklahoma, a heat wave is causing dangerous temperatures, potentially leading to other issues from Arizona to Alabama. Lastly, celebrities are joining the fight against tearing down the West Park Presbyterian Church in Manhattan and replacing it with condos. Lastly, Richard Ravitch, rescuer of the subways and New York&#39;s finances has passed away at 89.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>His Glory Fading, a Russian Warlord Took One Last Stab at Power</h3>
+<sub>By Paul Sonne and Anatoly Kurmanaev</sub>
+<p>Whatever the Wagner uprising says about Vladimir Putin’s hold on the Kremlin, it is also the story of a mercurial mercenary leader’s growing desperation.  <a href="https://nyti.ms/3PtqlqH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 26, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Putin Says Russia Is United Behind Him, After Quelling Rebellion</h3>
 <sub>By Valerie Hopkins</sub>
@@ -117,12 +121,6 @@ In New York City, officials have cleared the final hurdle for an ambitious conge
 <sub>By Matthew Bloch, Lazaro Gamio, Zach Levitt, Eleanor Lutz, Bea Malsky and John-Michael Murphy</sub>
 <p>See detailed maps of the latest heat index forecasts in the United States.  <a href="https://nyti.ms/3calp8v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>Jenna Lyons, Unlikely Housewife</h3>
-<sub>By Jessica Testa</sub>
-<p>The famously stylish former president of J. Crew has joined the rebooted “Real Housewives of New York City.” Why?  <a href="https://nyti.ms/3r00kF9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, June 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Why Mark Ruffalo and Wendell Pierce Are Fighting for a Crumbling Church</h3>
