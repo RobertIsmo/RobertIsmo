@@ -60,18 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, June 27, Central Standard Time</p>
 <p>
-A lot is going on in the world right now. In Russia, a former ally of President Vladimir V. Putin tried to lead a rebellion against him with a mercenary army. The uprising was quickly put down, although it has caused some debate about Putin&#39;s political power. Meanwhile, President Biden and Putin have had differing opinions on this issue. In the United States, a recording of a past meeting between former President Trump and his administration revealed Trump&#39;s claim that he did not have classified documents with him to be false. Also, a judge has denied a request to seal the list of potential witness’ names in the case against Trump. Elsewhere, New York City is set to begin a congestion pricing plan with revenues used to improve mass transit. In Texas and Oklahoma, a heat wave is causing dangerous temperatures, potentially leading to other issues from Arizona to Alabama. Lastly, celebrities are joining the fight against tearing down the West Park Presbyterian Church in Manhattan and replacing it with condos. Lastly, Richard Ravitch, rescuer of the subways and New York&#39;s finances has passed away at 89.</p>
+Something dramatic is happening in Russia right now. A warlord who has been loyal to President Vladimir Putin has made a last ditch effort for power by leading a mercenary army against the Kremlin. In response, President Putin has put out his own messaging trying to control the situation. Meanwhile, in the United States, former President Donald Trump is facing legal troubles and audio recordings appear to contradict his recent assertions. Additionally, there is an ongoing plans for congestion pricing in New York City and extreme heat wave conditions are affecting much of the country. Celebrities like Mark Ruffalo and Wendell Pierce have come out in support of protecting historic West Park Presbyterian Church from being demolished for construction, and Richard Ravitch, an iconic New York official who served as MTA head governor and lieutenant governor, recently passed away at age 89. Lastly, John B. Goodenough, creator of the lithium-ion battery and Nobel prize winner, has also recently died aged 100.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>His Glory Fading, a Russian Warlord Took One Last Stab at Power</h3>
 <sub>By Paul Sonne and Anatoly Kurmanaev</sub>
 <p>Whatever the Wagner uprising says about Vladimir Putin’s hold on the Kremlin, it is also the story of a mercurial mercenary leader’s growing desperation.  <a href="https://nyti.ms/3PtqlqH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Putin Says Russia Is United Behind Him, After Quelling Rebellion</h3>
-<sub>By Valerie Hopkins</sub>
-<p>President Vladimir V. Putin spoke angrily of those who want “Russians to fight each other,” but his former ally, Yevgeny V. Prigozhin, said the mutiny he led was not a coup attempt.  <a href="https://nyti.ms/44e1lrm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -132,6 +126,12 @@ A lot is going on in the world right now. In Russia, a former ally of President 
 <h3>Richard Ravitch, Rescuer of the Subways and New York’s Finances, Dies at 89</h3>
 <sub>By Sam Roberts</sub>
 <p>He helped New York City avoid bankruptcy in the mid-1970s, ran the Metropolitan Transportation Authority and later served as lieutenant governor.  <a href="https://nyti.ms/44jR516"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>John B. Goodenough, 100, Dies; Nobel-Winning Creator of the Lithium-Ion Battery</h3>
+<sub>By Robert D. McFadden</sub>
+<p>An unassuming professor who remained active into his 90s, he is credited with the breakthrough that gave rise to the batteries powering today’s electronic devices.  <a href="https://nyti.ms/46k9r3D"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 26, Central Standard Time</sub></sub>
 <hr/>
 </ol>
