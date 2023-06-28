@@ -60,9 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, June 28, Central Standard Time</p>
 <p>
-There have been a few major events in the world recently. In Russia, General Evgeny Prigozhin was implicated in a plan to lead a rebellion against Vladimir Putin&#39;s government. This attracted attention from leaders around the world. Meanwhile, in the U.S., the Supreme Court rejected a theory that would have given unprecedented power to state legislatures when it comes to federal elections. They also allowed an unusual Pennsylvania law which lets corporations be sued even if the suits aren&#39;t connected to the state. 
-
-In New York, one of the Central Park 5, Yusef Salaam, appears to have a big lead in a primary for a New York City Council seat. Meanwhile, a mother who lost her son to gun violence got three minutes in court facing her son&#39;s killer. Some schools are bringing police back onto campus, reversing decisions pushed by movements for racial justice, which critics argue disproportionately targets people of color. Separately, there were conflicting accounts about how the Justice Department handled an inquiry into President Biden&#39;s son Hunter Biden and his handling of classified material. Hunter Biden has been making appearances with his father&#39;s support - something that makes some Democrats feel uneasy. Lastly, physicists have been exploring how phenomena in groups of three can cause chaos - they warn that it could potentially even lead to nuclear war.</p>
+There are a few major things happening in the world right now. A Russian general is suspected of knowing about a mercenary leader&#39;s plans to rebel, and it has echoes back to a similar incident in 1917.  Germany&#39;s defense minister is making an official visit to the US and has promised a more assertive geopolitical role. There are currently wildfires in Canada causing air pollution issues down to the US Midwest and across into Europe, and extreme heat waves spreading across the south. Finally, China is struggling economically, risking putting export efforts as their main solution.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Russian General Knew About Mercenary Chief’s Rebellion Plans, U.S. Officials Say</h3>
@@ -71,70 +69,70 @@ In New York, one of the Central Park 5, Yusef Salaam, appears to have a big lead
 <sub><sub>Tuesday, June 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>After Mutiny Against Putin, Russia’s Friends Have Reason to Hedge Bets</h3>
-<sub>By Mark Landler</sub>
-<p>Leaders from Iran, Qatar and Saudi Arabia, among others, expressed support for Vladimir Putin in the face of the Wagner uprising. But concerns may linger, analysts say.  <a href="https://nyti.ms/44fS2Id"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Wagner’s Mutiny Has Century-Old Echoes of Another Russian Debacle</h3>
+<sub>By Anatoly Kurmanaev</sub>
+<p>Amid a flagging war effort, a popular commander turned his troops toward Russia’s own capital, undermining the government. It happened last weekend — and in 1917.  <a href="https://nyti.ms/3NvpJhz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>German Defense Minister Vows Stronger Geopolitical Role Ahead of U.S. Visit</h3>
+<sub>By Erika Solomon</sub>
+<p>In an interview before his first official trip to Washington, Boris Pistorius made clear he is intent on helping the United States by taking a more assertive stance.  <a href="https://nyti.ms/44kXvNd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>What Will Happen to Prigozhin and His Wagner Fighters? Here’s What We Know.</h3>
-<sub>By Matthew Mpoke Bigg</sub>
-<p>Days after an uprising in Russia, Moscow said the charges of “armed mutiny” would be dropped. Here is how the events may affect the mercenary fighters, President Vladimir V. Putin and the war in Ukraine.  <a href="https://nyti.ms/46rlBYM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 27, Central Standard Time</sub></sub>
+<h3>What to Know About Canadian Wildfires and U.S. Air Quality</h3>
+<sub>By Dan Bilefsky</sub>
+<p>The ongoing outbreak of fires in Canada is sending new waves of smoke into the American Midwest, and the pollution has been seen as far away as Europe.  <a href="https://nyti.ms/3JvIYWX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Supreme Court Rejects Theory That Would Have Transformed American Elections</h3>
-<sub>By Adam Liptak</sub>
-<p>The 6-to-3 majority dismissed the “independent state legislature” theory, which would have given state lawmakers nearly unchecked power over federal elections.  <a href="https://nyti.ms/3Nnoscm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 27, Central Standard Time</sub></sub>
+<h3>Maps: Tracking Air Quality and Smoke From Canada Wildfires</h3>
+<sub>By Madison Dong, Bea Malsky, Lazaro Gamio, Matthew Bloch, Scott Reinhard, Leanne Abraham, Martín González Gómez, Judson Jones, John-Michael Murphy and Marco Hernandez</sub>
+<p>See maps of where smoke is traveling and how harmful the air has become across the region.  <a href="https://nyti.ms/3CfwHlB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Supreme Court Allows Unusual Pennsylvania Law on Corporate Suits</h3>
-<sub>By Abbie VanSickle and Adam Liptak</sub>
-<p>A novel Pennsylvania law requires corporations that do business in the state to consent to being sued there, even if the suits have nothing to do with the state.  <a href="https://nyti.ms/439SC92"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Salaam, of Central Park 5, Holds Large Lead in Harlem Council Primary</h3>
-<sub>By Jeffery C. Mays</sub>
-<p>Primaries were contested Tuesday for a range of New York City Council seats, district attorneys in the Bronx and Queens, and offices throughout New York State.  <a href="https://nyti.ms/46nfswx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 27, Central Standard Time</sub></sub>
+<h3>In Battle Over Direction of Texas, an Unlikely Casualty: Water Breaks</h3>
+<sub>By Mary Beth Gahan, J. David Goodman and David Montgomery</sub>
+<p>A new law pre-empting local labor rules is part of an effort by Republicans in the Capitol to exert control over the state’s Democratic-led major cities.  <a href="https://nyti.ms/3pyuZZI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Mother Had Three Minutes to Address Her Son’s Killer</h3>
-<sub>By Jack Healy</sub>
-<p>Adriana Vance lost her son Raymond in a mass shooting seven months ago. The night before she would face the shooter in court, she still wasn’t sure what she would say.  <a href="https://nyti.ms/46sTmZu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 27, Central Standard Time</sub></sub>
+<h3>Brutal Heat Wave Is Expected to Spread Across the South</h3>
+<sub>By Livia Albeck-Ripka</sub>
+<p>The dangerous heat crippling Texas and other parts of the Southeast is forecast to spread north and east.  <a href="https://nyti.ms/3Nx0POw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Schools Bring Police Back to Campuses, Reversing Racial Justice Decisions</h3>
-<sub>By Tim Arango</sub>
-<p>Denver’s school system is the latest to reinstate officers, responding to parental concerns over campus violence. Critics say the move will disproportionately hurt students of color.  <a href="https://nyti.ms/433yCor"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 27, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>How Easy Is It to Fool A.I.-Detection Tools?</h3>
+<sub>By Stuart A. Thompson and Tiffany Hsu</sub>
+<p>We tested five services that claim to detect what is real and what isn’t.  <a href="https://nyti.ms/3NwCQ1U"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Competing Accounts of Justice Dept.’s Handling of Hunter Biden Case</h3>
-<sub>By Glenn Thrush and Michael S. Schmidt</sub>
-<p>An I.R.S. investigator’s testimony describing strains over the inquiry into President Biden’s son is at odds with the version laid out by Attorney General Merrick Garland.  <a href="https://nyti.ms/3NtZOXx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 27, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Barred From Grocery Stores by Facial Recognition</h3>
+<sub>By Adam Satariano and Kashmir Hill</sub>
+<p>British merchants are increasingly using the technology to combat shoplifting, raising questions about its spread as artificial intelligence rapidly improves it.  <a href="https://nyti.ms/44o4eX0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Hunter Biden Isn’t Hiding. Even Some Democrats Are Uncomfortable.</h3>
-<sub>By Peter Baker</sub>
-<p>Hunter Biden’s public appearances came across as a message of defiance by the president, who is determined to show that he stands by his son.  <a href="https://nyti.ms/3r90eLk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 27, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Something Was Messing With Earth’s Axis. The Answer Has to Do With Us.</h3>
+<sub>By Raymond Zhong</sub>
+<p>Scientists knew the planet’s centerline could move. But it took a sharp turn sometime around the start of the 2000s.  <a href="https://nyti.ms/3JvINef"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>The Terror of Threes in the Heavens and on Earth</h3>
-<sub>By William J. Broad</sub>
-<p>Physicists have long explored how phenomena in groups of three can sow chaos. A new three-body problem, they warn, could lead to not only global races for new armaments but also thermonuclear war.  <a href="https://nyti.ms/44dwL18"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 26, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>No Job, No Marriage, No Kid: China’s Workers and the Curse of 35</h3>
+<sub>By Li Yuan</sub>
+<p>It’s widely discussed in China: Employers don’t want you after 35. Some job listings say it plainly, leaving a generation of prime-age workers feeling defeated.  <a href="https://nyti.ms/3CNLrsc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Attention Was All on Mar-a-Lago. Some of the Action Was at Bedminster.</h3>
-<sub>By Alan Feuer, Maggie Haberman and Jonathan Swan</sub>
-<p>The inquiry into Donald Trump’s handling of classified material revolved largely around his Florida club and residence, but investigators were also quietly focused on his New Jersey property.  <a href="https://nyti.ms/3Nvyyrz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 27, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Can China Export Its Way Out of Its Economic Slump?</h3>
+<sub>By Keith Bradsher</sub>
+<p>No country has had more export success than China. But Beijing faces risks in turning to the tested method of selling more abroad.  <a href="https://nyti.ms/3CMo0zD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
