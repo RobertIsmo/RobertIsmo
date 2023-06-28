@@ -58,13 +58,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Tuesday, June 27, Central Standard Time</p>
+<p>It is Wednesday, June 28, Central Standard Time</p>
 <p>
-There has been a lot of news related to Russia recently. U.S. officials have accused a Russian General of knowing about plans for a rebellion led by the head of a mercenary group called Wagner. President Vladimir Putin has been trying to rewrite the narrative of the mutiny, and there are questions about what will happen to the mercenaries now that the charges of “armed mutiny” have been dropped. 
+My friend, it looks like in the world right now we&#39;re seeing some scrutiny over President Vladimir V. Putin&#39;s stagecraft in Russia. There&#39;s a lot of interest in Yevgeny Prigozhin, the head of a mercenary group named Wagner, and there are questions about how mutiny attempts will be handled. 
 
-Meanwhile, in the United States, the Supreme Court has made some interesting decisions concerning elections and corporate law. A mother who lost her son in a mass shooting has spoken out about facing his killer in court, and schools are bringing police back to campuses despite protests from racial justice advocates. The Justice Department is also under scrutiny because of their handling of an investigation into President Biden’s son. Hunter Biden has made some surprising appearances despite criticism, and even Fox News is beating out &#39;The Tonight Show&#39;. 
+Meanwhile, in the United States, the Supreme Court is tackling issues with elections and corporate suits. There was also recently a mother who went to court after her son was killed in a mass shooting. Another issue over here is the push to reinstate police officers in schools, which critics say will disproportionately affect students of color. 
 
-In other news, physicists have begun to uncover something they call the three-body problem which could potentially have dangerous consequences - including thermonuclear war. Finally, people have begun digging into Donald Trump&#39;s handling of classified material during his time as president, with much of the inquiry focusing on his Mar-a-Lago residence in Florida but also with attention being paid to his Bedminster estate in New Jersey.</p>
+The Biden administration is also facing inquiries over Hunter Biden&#39;s handling of certain cases, while President Biden remains determined to stand by his son. Finally, scientists have warned that a new three-body problem may result in global races for new armaments and thermonuclear war.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Russian General Knew About Mercenary Chief’s Rebellion Plans, U.S. Officials Say</h3>
@@ -96,6 +96,12 @@ In other news, physicists have begun to uncover something they call the three-bo
 <p>A novel Pennsylvania law requires corporations that do business in the state to consent to being sued there, even if the suits have nothing to do with the state.  <a href="https://nyti.ms/439SC92"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 27, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Salaam, of Central Park 5, Holds Large Lead in Harlem Council Primary</h3>
+<sub>By Jeffery C. Mays</sub>
+<p>Primaries were contested Tuesday for a range of New York City Council seats, district attorneys in the Bronx and Queens, and offices throughout New York State.  <a href="https://nyti.ms/46nfswx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 27, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A Mother Had Three Minutes to Address Her Son’s Killer</h3>
 <sub>By Jack Healy</sub>
@@ -118,12 +124,6 @@ In other news, physicists have begun to uncover something they call the three-bo
 <h3>Hunter Biden Isn’t Hiding. Even Some Democrats Are Uncomfortable.</h3>
 <sub>By Peter Baker</sub>
 <p>Hunter Biden’s public appearances came across as a message of defiance by the president, who is determined to show that he stands by his son.  <a href="https://nyti.ms/3r90eLk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How Fox News (Yes, Fox News) Managed to Beat ‘The Tonight Show’</h3>
-<sub>By Matt Flegenheimer and Jeremy W. Peters</sub>
-<p>Greg Gutfeld has installed his brand of insult conservatism as the institutional voice for the next generation of Fox News viewer. And it’s catching on.  <a href="https://nyti.ms/3CQ3MFa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
