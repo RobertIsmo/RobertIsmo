@@ -60,11 +60,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, June 28, Central Standard Time</p>
 <p>
-My friend, it looks like in the world right now we&#39;re seeing some scrutiny over President Vladimir V. Putin&#39;s stagecraft in Russia. There&#39;s a lot of interest in Yevgeny Prigozhin, the head of a mercenary group named Wagner, and there are questions about how mutiny attempts will be handled. 
+There have been a few major events in the world recently. In Russia, General Evgeny Prigozhin was implicated in a plan to lead a rebellion against Vladimir Putin&#39;s government. This attracted attention from leaders around the world. Meanwhile, in the U.S., the Supreme Court rejected a theory that would have given unprecedented power to state legislatures when it comes to federal elections. They also allowed an unusual Pennsylvania law which lets corporations be sued even if the suits aren&#39;t connected to the state. 
 
-Meanwhile, in the United States, the Supreme Court is tackling issues with elections and corporate suits. There was also recently a mother who went to court after her son was killed in a mass shooting. Another issue over here is the push to reinstate police officers in schools, which critics say will disproportionately affect students of color. 
-
-The Biden administration is also facing inquiries over Hunter Biden&#39;s handling of certain cases, while President Biden remains determined to stand by his son. Finally, scientists have warned that a new three-body problem may result in global races for new armaments and thermonuclear war.</p>
+In New York, one of the Central Park 5, Yusef Salaam, appears to have a big lead in a primary for a New York City Council seat. Meanwhile, a mother who lost her son to gun violence got three minutes in court facing her son&#39;s killer. Some schools are bringing police back onto campus, reversing decisions pushed by movements for racial justice, which critics argue disproportionately targets people of color. Separately, there were conflicting accounts about how the Justice Department handled an inquiry into President Biden&#39;s son Hunter Biden and his handling of classified material. Hunter Biden has been making appearances with his father&#39;s support - something that makes some Democrats feel uneasy. Lastly, physicists have been exploring how phenomena in groups of three can cause chaos - they warn that it could potentially even lead to nuclear war.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Russian General Knew About Mercenary Chief’s Rebellion Plans, U.S. Officials Say</h3>
@@ -73,9 +71,9 @@ The Biden administration is also facing inquiries over Hunter Biden&#39;s handli
 <sub><sub>Tuesday, June 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Kremlin Stagecraft, Putin Tries to Rewrite the Mutiny in Russia</h3>
-<sub>By Alan Yuhas</sub>
-<p>President Vladimir V. Putin appeared only once during a mercenary’s daylong mutiny against the military. He was all over Russian TV on Tuesday, seeking to project an image of control.  <a href="https://nyti.ms/3Xpj9Oh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>After Mutiny Against Putin, Russia’s Friends Have Reason to Hedge Bets</h3>
+<sub>By Mark Landler</sub>
+<p>Leaders from Iran, Qatar and Saudi Arabia, among others, expressed support for Vladimir Putin in the face of the Wagner uprising. But concerns may linger, analysts say.  <a href="https://nyti.ms/44fS2Id"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
