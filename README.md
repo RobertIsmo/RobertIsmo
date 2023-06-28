@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, June 28, Central Standard Time</p>
 <p>
-There are a few major things happening in the world right now. A Russian general is suspected of knowing about a mercenary leader&#39;s plans to rebel, and it has echoes back to a similar incident in 1917.  Germany&#39;s defense minister is making an official visit to the US and has promised a more assertive geopolitical role. There are currently wildfires in Canada causing air pollution issues down to the US Midwest and across into Europe, and extreme heat waves spreading across the south. Finally, China is struggling economically, risking putting export efforts as their main solution.</p>
+Currently, there is a lot happening around the world. In the US, officials have said that a Russian general knew about plans for a rebellion led by the head of Wagner, a mercenary group. In Ukraine, there is currently an intense battle taking place over terrain that is proving difficult to overcome. In Canada, ongoing wildfires are impacting air quality as far away as Europe and North America. Unsurprisingly, climate change has been linked to increasing temperatures and dryness which worsen these conditions. Texas is experiencing increased political control from the Republicans who have passed laws pre-empting local labor rules. Moreover, most of the South is facing extreme heat due to dangerous heatwaves. With regards to technology, artificial intelligence is being increasingly used among British merchants to combat shoplifting with its improved accuracy. However, it has been revealed that this technology has flaws which could potentially be exploited. Scientists have also discovered that our planet&#39;s axis of rotation shifted dramatically in the early 2000s, connected to human-caused factors such as climate change and pollution. Lastly, China is currently struggling economically and some employers now deem workers over 35 years old to be undesirable job prospectives. To reverse this decline, Beijing hopes to reassert its global prominence by exporting goods abroad.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Russian General Knew About Mercenary Chief’s Rebellion Plans, U.S. Officials Say</h3>
@@ -69,16 +69,16 @@ There are a few major things happening in the world right now. A Russian general
 <sub><sub>Tuesday, June 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>21 Miles of Obstacles</h3>
+<sub>By Thomas Gibbons-Neff, Josh Holder and Marco Hernandez</sub>
+<p>The Ukrainian counteroffensive faces an enemy nearly as daunting as the Russians: the terrain.  <a href="https://nyti.ms/3NxoPBh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Wagner’s Mutiny Has Century-Old Echoes of Another Russian Debacle</h3>
 <sub>By Anatoly Kurmanaev</sub>
 <p>Amid a flagging war effort, a popular commander turned his troops toward Russia’s own capital, undermining the government. It happened last weekend — and in 1917.  <a href="https://nyti.ms/3NvpJhz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>German Defense Minister Vows Stronger Geopolitical Role Ahead of U.S. Visit</h3>
-<sub>By Erika Solomon</sub>
-<p>In an interview before his first official trip to Washington, Boris Pistorius made clear he is intent on helping the United States by taking a more assertive stance.  <a href="https://nyti.ms/44kXvNd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>What to Know About Canadian Wildfires and U.S. Air Quality</h3>
@@ -86,11 +86,11 @@ There are a few major things happening in the world right now. A Russian general
 <p>The ongoing outbreak of fires in Canada is sending new waves of smoke into the American Midwest, and the pollution has been seen as far away as Europe.  <a href="https://nyti.ms/3JvIYWX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Maps: Tracking Air Quality and Smoke From Canada Wildfires</h3>
-<sub>By Madison Dong, Bea Malsky, Lazaro Gamio, Matthew Bloch, Scott Reinhard, Leanne Abraham, Martín González Gómez, Judson Jones, John-Michael Murphy and Marco Hernandez</sub>
-<p>See maps of where smoke is traveling and how harmful the air has become across the region.  <a href="https://nyti.ms/3CfwHlB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>The Crises of Heat and Smoke Share a Common Thread: Climate Change</h3>
+<sub>By Raymond Zhong and Delger Erdenesanaa</sub>
+<p>Human-caused climate change is making high temperatures more common and intensifying dryness that fuels catastrophic wildfires.  <a href="https://nyti.ms/3CSmbRw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In Battle Over Direction of Texas, an Unlikely Casualty: Water Breaks</h3>
