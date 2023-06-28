@@ -60,18 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, June 28, Central Standard Time</p>
 <p>
-The world is dealing with lots of issues right now. In Canada, ongoing wildfires have been sending waves of smoke into the United States, impacting air quality in cities across the Midwest and Europe. In the southern U.S., temperatures are up to 20 degrees above normal due to a heat wave that is bringing miserable conditions. Russian General Yevgeny Prigozhin is said to have known about a mercenary chief&#39;s plans for rebellion, and in Ukraine, there is a counteroffensive underway against enemy forces located in difficult terrain. Human-caused climate change is intensifying dryness that fuels fires, making extreme temperatures more common, and scientists discovered something has been messing with Earth’s axis over the last few decades. The Biden administration is considering clamping down on sales of artificial intelligence chips to China. Lastly, Robert F. Kennedy Jr., son of the late former President John F. Kennedy, has been gaining foothold for a possible presidential bid in 2024 due to his family name, libertarian views, and tech support.</p>
+Right now, it looks like humanity is struggling on multiple fronts. In terms of climate change, wildfire smoke and high heat are becoming more common due to human-caused climate change. There’s also a heat wave affecting much of the southern US with no relief in sight. On the world stage, Russia is already engaging in some shady behavior behind the scenes—they’re believed to have had knowledge of a mercenary chief’s rebellion plans and recently launched a missile strike that killed 11 people. Ukraine is attempting to counter this with a counteroffensive but is facing the daunting task of their tough terrain. Technology-wise, there’s a new push for A.I. chips sales restrictions for China that sent tech stocks tumbling, as well as research about how easy it is to fool A.I. detection tools. On the politics front, former President Trump&#39;s personal lawyer Giuliani was interviewed regarding his attempts at maintaining power after his election loss, and Florida governor DeSantis has recently been scrutinized for a taxpayer-funded helicopter ride in Texas.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>What to Know About Canadian Wildfires and U.S. Air Quality</h3>
-<sub>By Dan Bilefsky</sub>
-<p>The ongoing outbreak of fires in Canada is sending new waves of smoke into the American Midwest, and the pollution has been seen as far away as Europe.  <a href="https://nyti.ms/3JvIYWX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>Wildfire Smoke and High Heat Have Something in Common. Guess What.</h3>
 <sub>By Raymond Zhong and Delger Erdenesanaa</sub>
-<p>Human-caused climate change is making extreme temperatures more common and also intensifying dryness that fuels catastrophic wildfires.  <a href="https://nyti.ms/3CSmbRw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Human-caused climate change is making high temperatures more common and intensifying the dryness that fuels catastrophic wildfires.  <a href="https://nyti.ms/3CSmbRw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -90,6 +84,12 @@ The world is dealing with lots of issues right now. In Canada, ongoing wildfires
 <h3>21 Miles of Obstacles</h3>
 <sub>By Thomas Gibbons-Neff, Josh Holder and Marco Hernandez</sub>
 <p>The Ukrainian counteroffensive faces an enemy nearly as daunting as the Russians: the terrain.  <a href="https://nyti.ms/3NxoPBh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Night Out for Dinner Ends in Destruction and Death</h3>
+<sub>By Natalia Yermak, Dzvinka Pinchuk and Mauricio Lima</sub>
+<p>A Russian missile strike on a popular restaurant in Kramatorsk, Ukraine killed at least 11 people, wounded dozens more, and showed the peril of trying to claim pieces of ordinary life during war.  <a href="https://nyti.ms/3NTR2nj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -125,13 +125,13 @@ The world is dealing with lots of issues right now. In Canada, ongoing wildfires
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Giuliani Sat for Voluntary Interview in Jan. 6 Investigation</h3>
 <sub>By Ben Protess, Alan Feuer and Maggie Haberman</sub>
-<p>The one-time personal lawyer for Donald Trump answered questions from federal prosecutors about the former president’s efforts to remain in power after his 2020 election loss.  <a href="https://nyti.ms/3pnUm0v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The onetime personal lawyer for Donald Trump answered questions from federal prosecutors about the former president’s efforts to remain in power after his 2020 election loss.  <a href="https://nyti.ms/3pnUm0v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Kennedy, Condemning ‘Censorship,’ Hits Democrats and Courts the Disaffected</h3>
-<sub>By Rebecca Davis O’Brien</sub>
-<p>His family name, libertarian bent and support from the tech world, along with his views on censorship and vaccines, have given Robert F. Kennedy Jr. a foothold in the 2024 contest.  <a href="https://nyti.ms/3XsBBpg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>DeSantis’s Taxpayer-Funded Helicopter Ride in Texas Draws Scrutiny</h3>
+<sub>By Neil Vigdor and Nicholas Nehamas</sub>
+<p>It’s not the first time that the Florida governor has faced accusations of inappropriately blurring the lines between his official duties and his presidential campaign.  <a href="https://nyti.ms/3COWktE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
