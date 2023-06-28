@@ -60,19 +60,25 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, June 27, Central Standard Time</p>
 <p>
-There have been a lot of developments in American politics recently. The Supreme Court has made a few decisions that could shape how federal elections are run and how corporations can be sued in certain states. There were also some key cases the Supreme Court is still deciding. At the same time, a lot of state laws have been passing concerning transgender people, including what medical care they can access and what kind of bathroom use is allowed. There was also an audio recording contradicting Donald Trump&#39;s recent statement, and the New York court threw out a case against Ivanka Trump. On the international stage, Putin has been trying to control the narrative over a mercenary mutiny in Russia, while there are still questions about what will happen to those involved in it. Lastly, Fox News has managed to beat out &#39;The Tonight Show&#39; in ratings.</p>
+There&#39;s a lot happening in the world right now! In Russia, there was an uprising against the military, and President Vladimir Putin is trying to project an image of control. On the other hand, in the US, the Supreme Court has been making rulings on different cases related to corporate suits and bans on online threats. There&#39;s also been discussions about whether state legislatures should have unchecked power over federal elections. Closer to home, in Denver, schools are bringing police back to their campuses, which is sparking debates around racial justice. Lastly, former President Donald Trump is being investigated over how he handled classified material at his Florida and New Jersey residences.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Supreme Court Rejects Theory That Would Have Transformed American Elections</h3>
-<sub>By Adam Liptak</sub>
-<p>The 6-3 majority dismissed the “independent state legislature” theory, which would have given state lawmakers nearly unchecked power over federal elections.  <a href="https://nyti.ms/3Nnoscm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Kremlin Stagecraft, Putin Tries to Rewrite the Mutiny in Russia</h3>
+<sub>By Alan Yuhas</sub>
+<p>President Vladimir V. Putin appeared only once during a mercenary’s daylong mutiny against the military. He was all over Russian TV on Tuesday, seeking to project an image of control.  <a href="https://nyti.ms/3Xpj9Oh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>What Will Happen to Prigozhin and His Wagner Fighters? Here’s What We Know.</h3>
+<sub>By Matthew Mpoke Bigg</sub>
+<p>Days after an uprising in Russia, Moscow said the charges of “armed mutiny” would be dropped. Here is how the events may affect the mercenary fighters, President Vladimir V. Putin and the war in Ukraine.  <a href="https://nyti.ms/46rlBYM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Key Cases the Supreme Court Has Yet to Decide in 2023</h3>
-<sub>By Adam Liptak and Eli Murray</sub>
-<p>How the court’s 6-to-3 conservative majority is ruling this term after its lurch to the right a year ago in blockbuster decisions on abortion, guns, religion and climate change.  <a href="https://nyti.ms/43xL9Bt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
+<h3>Supreme Court Rejects Theory That Would Have Transformed American Elections</h3>
+<sub>By Adam Liptak</sub>
+<p>The 6-to-3 majority dismissed the “independent state legislature” theory, which would have given state lawmakers nearly unchecked power over federal elections.  <a href="https://nyti.ms/3Nnoscm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Supreme Court Allows Unusual Pennsylvania Law on Corporate Suits</h3>
@@ -84,18 +90,6 @@ There have been a lot of developments in American politics recently. The Supreme
 <h3>Supreme Court Puts First Amendment Limits on Laws Banning Online Threats</h3>
 <sub>By Adam Liptak</sub>
 <p>The case concerned Billy Counterman, a Colorado man who became obsessed with a singer-songwriter, sending her disturbing messages on Facebook.  <a href="https://nyti.ms/3JAlLD0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Kremlin Stagecraft, Putin Tries to Rewrite the Mutiny in Russia</h3>
-<sub>By Alan Yuhas</sub>
-<p>President Vladimir V. Putin appeared only once during a mercenary’s daylong mutiny against the military. He was all over Russian TV on Tuesday, seeking to project an image of control.  <a href="https://nyti.ms/3Xpj9Oh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>What Will Happen to Prigozhin and His Wagner Fighters? Here’s What We Know.</h3>
-<sub>By Matthew Mpoke Bigg</sub>
-<p>Days after an uprising in Russia, Moscow said the charges of “armed mutiny” would be dropped. Here is how the events may affect the mercenary fighters, President Vladimir V. Putin and the war in Ukraine.  <a href="https://nyti.ms/46rlBYM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -111,15 +105,15 @@ There have been a lot of developments in American politics recently. The Supreme
 <sub><sub>Tuesday, June 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Audio Undercuts Trump’s Assertion He Did Not Have Classified Document</h3>
-<sub>By Maggie Haberman and Alan Feuer</sub>
-<p>A recording of a meeting in 2021 in which the former president described a sensitive document in front of him appears to contradict his recent assertion that the material was just news clippings.  <a href="https://nyti.ms/3JxxPVO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 26, Central Standard Time</sub></sub>
+<h3>Competing Accounts of Justice Dept.’s Handling of Hunter Biden Case</h3>
+<sub>By Glenn Thrush and Michael S. Schmidt</sub>
+<p>An I.R.S. investigator’s testimony describing strains over the inquiry into President Biden’s son is at odds with the version laid out by Attorney General Merrick Garland.  <a href="https://nyti.ms/3NtZOXx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Court Throws Out New York’s Civil Case Against Ivanka Trump</h3>
-<sub>By Jonah E. Bromwich, Ben Protess and William K. Rashbaum</sub>
-<p>The decision could mean that claims against Donald J. Trump and his company might also be limited.  <a href="https://nyti.ms/3CO0YrV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Hunter Biden Isn’t Hiding. Even Some Democrats Are Uncomfortable.</h3>
+<sub>By Peter Baker</sub>
+<p>Hunter Biden’s public appearances came across as a message of defiance by the president, who is determined to show that he stands by his son.  <a href="https://nyti.ms/3r90eLk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -128,10 +122,16 @@ There have been a lot of developments in American politics recently. The Supreme
 <p>Greg Gutfeld has installed his brand of insult conservatism as the institutional voice for the next generation of Fox News viewer. And it’s catching on.  <a href="https://nyti.ms/3CQ3MFa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 27, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>The Terror of Threes in the Heavens and on Earth</h3>
+<sub>By William J. Broad</sub>
+<p>Physicists have long explored how phenomena in groups of three can sow chaos. A new three-body problem, they warn, could lead to not only global races for new armaments but also thermonuclear war.  <a href="https://nyti.ms/44dwL18"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 26, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>States Passed a Record Number of Transgender Laws. Here’s What They Say.</h3>
-<sub>By Adeel Hassan</sub>
-<p>Many of the bills denied certain medical care to transgender people, while others targeted bathroom use and preferred personal pronouns.  <a href="https://nyti.ms/433oNXF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>The Attention Was All on Mar-a-Lago. Some of the Action Was at Bedminster.</h3>
+<sub>By Alan Feuer, Maggie Haberman and Jonathan Swan</sub>
+<p>The inquiry into Donald Trump’s handling of classified material revolved largely around his Florida club and residence, but investigators were also quietly focused on his New Jersey property.  <a href="https://nyti.ms/3Nvyyrz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 27, Central Standard Time</sub></sub>
 <hr/>
 </ol>
