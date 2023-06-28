@@ -60,8 +60,26 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, June 28, Central Standard Time</p>
 <p>
-Currently, there is a lot happening around the world. In the US, officials have said that a Russian general knew about plans for a rebellion led by the head of Wagner, a mercenary group. In Ukraine, there is currently an intense battle taking place over terrain that is proving difficult to overcome. In Canada, ongoing wildfires are impacting air quality as far away as Europe and North America. Unsurprisingly, climate change has been linked to increasing temperatures and dryness which worsen these conditions. Texas is experiencing increased political control from the Republicans who have passed laws pre-empting local labor rules. Moreover, most of the South is facing extreme heat due to dangerous heatwaves. With regards to technology, artificial intelligence is being increasingly used among British merchants to combat shoplifting with its improved accuracy. However, it has been revealed that this technology has flaws which could potentially be exploited. Scientists have also discovered that our planet&#39;s axis of rotation shifted dramatically in the early 2000s, connected to human-caused factors such as climate change and pollution. Lastly, China is currently struggling economically and some employers now deem workers over 35 years old to be undesirable job prospectives. To reverse this decline, Beijing hopes to reassert its global prominence by exporting goods abroad.</p>
+The world is dealing with lots of issues right now. In Canada, ongoing wildfires have been sending waves of smoke into the United States, impacting air quality in cities across the Midwest and Europe. In the southern U.S., temperatures are up to 20 degrees above normal due to a heat wave that is bringing miserable conditions. Russian General Yevgeny Prigozhin is said to have known about a mercenary chief&#39;s plans for rebellion, and in Ukraine, there is a counteroffensive underway against enemy forces located in difficult terrain. Human-caused climate change is intensifying dryness that fuels fires, making extreme temperatures more common, and scientists discovered something has been messing with Earth’s axis over the last few decades. The Biden administration is considering clamping down on sales of artificial intelligence chips to China. Lastly, Robert F. Kennedy Jr., son of the late former President John F. Kennedy, has been gaining foothold for a possible presidential bid in 2024 due to his family name, libertarian views, and tech support.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>What to Know About Canadian Wildfires and U.S. Air Quality</h3>
+<sub>By Dan Bilefsky</sub>
+<p>The ongoing outbreak of fires in Canada is sending new waves of smoke into the American Midwest, and the pollution has been seen as far away as Europe.  <a href="https://nyti.ms/3JvIYWX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Wildfire Smoke and High Heat Have Something in Common. Guess What.</h3>
+<sub>By Raymond Zhong and Delger Erdenesanaa</sub>
+<p>Human-caused climate change is making extreme temperatures more common and also intensifying dryness that fuels catastrophic wildfires.  <a href="https://nyti.ms/3CSmbRw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Misery Engulfs the South as Heat Wave Spreads</h3>
+<sub>By Marie Elizabeth Oliver, Stacey Cato and Livia Albeck-Ripka</sub>
+<p>Temperatures will be up to 20 degrees above normal for much of the region through at least the weekend, with no nighttime relief.  <a href="https://nyti.ms/3Nx0POw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Russian General Knew About Mercenary Chief’s Rebellion Plans, U.S. Officials Say</h3>
 <sub>By Julian E. Barnes, Helene Cooper and Eric Schmitt</sub>
@@ -74,46 +92,16 @@ Currently, there is a lot happening around the world. In the US, officials have 
 <p>The Ukrainian counteroffensive faces an enemy nearly as daunting as the Russians: the terrain.  <a href="https://nyti.ms/3NxoPBh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Wagner’s Mutiny Has Century-Old Echoes of Another Russian Debacle</h3>
-<sub>By Anatoly Kurmanaev</sub>
-<p>Amid a flagging war effort, a popular commander turned his troops toward Russia’s own capital, undermining the government. It happened last weekend — and in 1917.  <a href="https://nyti.ms/3NvpJhz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>What to Know About Canadian Wildfires and U.S. Air Quality</h3>
-<sub>By Dan Bilefsky</sub>
-<p>The ongoing outbreak of fires in Canada is sending new waves of smoke into the American Midwest, and the pollution has been seen as far away as Europe.  <a href="https://nyti.ms/3JvIYWX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>The Crises of Heat and Smoke Share a Common Thread: Climate Change</h3>
-<sub>By Raymond Zhong and Delger Erdenesanaa</sub>
-<p>Human-caused climate change is making high temperatures more common and intensifying dryness that fuels catastrophic wildfires.  <a href="https://nyti.ms/3CSmbRw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Battle Over Direction of Texas, an Unlikely Casualty: Water Breaks</h3>
-<sub>By Mary Beth Gahan, J. David Goodman and David Montgomery</sub>
-<p>A new law pre-empting local labor rules is part of an effort by Republicans in the Capitol to exert control over the state’s Democratic-led major cities.  <a href="https://nyti.ms/3pyuZZI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Brutal Heat Wave Is Expected to Spread Across the South</h3>
-<sub>By Livia Albeck-Ripka</sub>
-<p>The dangerous heat crippling Texas and other parts of the Southeast is forecast to spread north and east.  <a href="https://nyti.ms/3Nx0POw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>How Easy Is It to Fool A.I.-Detection Tools?</h3>
 <sub>By Stuart A. Thompson and Tiffany Hsu</sub>
 <p>We tested five services that claim to detect what is real and what isn’t.  <a href="https://nyti.ms/3NwCQ1U"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Barred From Grocery Stores by Facial Recognition</h3>
-<sub>By Adam Satariano and Kashmir Hill</sub>
-<p>British merchants are increasingly using the technology to combat shoplifting, raising questions about its spread as artificial intelligence rapidly improves it.  <a href="https://nyti.ms/44o4eX0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Biden Administration Weighs Further Curbs on Sales of A.I. Chips to China</h3>
+<sub>By Ana Swanson, David McCabe and Michael Crowley</sub>
+<p>Reports that the White House may clamp down on sales of semiconductors that power artificial intelligence capabilities sent tech stocks diving.  <a href="https://nyti.ms/44dM5Lk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
@@ -122,16 +110,28 @@ Currently, there is a lot happening around the world. In the US, officials have 
 <p>Scientists knew the planet’s centerline could move. But it took a sharp turn sometime around the start of the 2000s.  <a href="https://nyti.ms/3JvINef"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>No Job, No Marriage, No Kid: China’s Workers and the Curse of 35</h3>
-<sub>By Li Yuan</sub>
-<p>It’s widely discussed in China: Employers don’t want you after 35. Some job listings say it plainly, leaving a generation of prime-age workers feeling defeated.  <a href="https://nyti.ms/3CNLrsc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Welcome Aboard the Aquidaban, the Floating Jungle Supermarket</h3>
+<sub>By Jack Nicas and María Magdalena Arréllaga</sub>
+<p>The Aquidaban has long attracted colorful characters as the only ferry in one of South America’s most remote stretches. Now it may disappear.  <a href="https://nyti.ms/3NqMHGJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Can China Export Its Way Out of Its Economic Slump?</h3>
-<sub>By Keith Bradsher</sub>
-<p>No country has had more export success than China. But Beijing faces risks in turning to the tested method of selling more abroad.  <a href="https://nyti.ms/3CMo0zD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Kiki or Bouba?</h3>
+<sub>By Laurel Schwulst</sub>
+<p>Nearly a century after a landmark psychology study was conducted, we revisit its findings — with your help!  <a href="https://nyti.ms/3XwnK1h"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Giuliani Sat for Voluntary Interview in Jan. 6 Investigation</h3>
+<sub>By Ben Protess, Alan Feuer and Maggie Haberman</sub>
+<p>The one-time personal lawyer for Donald Trump answered questions from federal prosecutors about the former president’s efforts to remain in power after his 2020 election loss.  <a href="https://nyti.ms/3pnUm0v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Kennedy, Condemning ‘Censorship,’ Hits Democrats and Courts the Disaffected</h3>
+<sub>By Rebecca Davis O’Brien</sub>
+<p>His family name, libertarian bent and support from the tech world, along with his views on censorship and vaccines, have given Robert F. Kennedy Jr. a foothold in the 2024 contest.  <a href="https://nyti.ms/3XsBBpg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
