@@ -60,8 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, June 27, Central Standard Time</p>
 <p>
-There&#39;s a lot happening in the world right now! In Russia, there was an uprising against the military, and President Vladimir Putin is trying to project an image of control. On the other hand, in the US, the Supreme Court has been making rulings on different cases related to corporate suits and bans on online threats. There&#39;s also been discussions about whether state legislatures should have unchecked power over federal elections. Closer to home, in Denver, schools are bringing police back to their campuses, which is sparking debates around racial justice. Lastly, former President Donald Trump is being investigated over how he handled classified material at his Florida and New Jersey residences.</p>
+There has been a lot of news related to Russia recently. U.S. officials have accused a Russian General of knowing about plans for a rebellion led by the head of a mercenary group called Wagner. President Vladimir Putin has been trying to rewrite the narrative of the mutiny, and there are questions about what will happen to the mercenaries now that the charges of “armed mutiny” have been dropped. 
+
+Meanwhile, in the United States, the Supreme Court has made some interesting decisions concerning elections and corporate law. A mother who lost her son in a mass shooting has spoken out about facing his killer in court, and schools are bringing police back to campuses despite protests from racial justice advocates. The Justice Department is also under scrutiny because of their handling of an investigation into President Biden’s son. Hunter Biden has made some surprising appearances despite criticism, and even Fox News is beating out &#39;The Tonight Show&#39;. 
+
+In other news, physicists have begun to uncover something they call the three-body problem which could potentially have dangerous consequences - including thermonuclear war. Finally, people have begun digging into Donald Trump&#39;s handling of classified material during his time as president, with much of the inquiry focusing on his Mar-a-Lago residence in Florida but also with attention being paid to his Bedminster estate in New Jersey.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Russian General Knew About Mercenary Chief’s Rebellion Plans, U.S. Officials Say</h3>
+<sub>By Julian E. Barnes, Helene Cooper and Eric Schmitt</sub>
+<p>Yevgeny Prigozhin, the head of Wagner, may have believed he had support in Russia’s military.  <a href="https://nyti.ms/46sIA5q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 27, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>In Kremlin Stagecraft, Putin Tries to Rewrite the Mutiny in Russia</h3>
 <sub>By Alan Yuhas</sub>
@@ -84,12 +94,6 @@ There&#39;s a lot happening in the world right now! In Russia, there was an upri
 <h3>Supreme Court Allows Unusual Pennsylvania Law on Corporate Suits</h3>
 <sub>By Abbie VanSickle and Adam Liptak</sub>
 <p>A novel Pennsylvania law requires corporations that do business in the state to consent to being sued there, even if the suits have nothing to do with the state.  <a href="https://nyti.ms/439SC92"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Supreme Court Puts First Amendment Limits on Laws Banning Online Threats</h3>
-<sub>By Adam Liptak</sub>
-<p>The case concerned Billy Counterman, a Colorado man who became obsessed with a singer-songwriter, sending her disturbing messages on Facebook.  <a href="https://nyti.ms/3JAlLD0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
