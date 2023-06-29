@@ -58,22 +58,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Wednesday, June 28, Central Standard Time</p>
+<p>It is Thursday, June 29, Central Standard Time</p>
 <p>
-There have been a lot of concerning developments around the world recently. In the US, smoky skies from Canadian wildfires are driving people indoors and putting public health at risk. In Russia, President Putin is punishing allies of a Wagner group leader. Satellite images have revealed rapid construction at a deserted military base in Belarus, which may be the new home for mercenaries who failed in a rebellion against Putin. Sadly, a missile strike in Ukraine resulted in death and destruction for people who were just trying to enjoy dinner together. Human remains believed to belong to the lost Titan have been recovered off the coast of Newfoundland. Astronomers are also picking up gravitational waves across the cosmos. 
-
-Locally, people in NYC are voting in more moderate candidates as part of a generational power shift. The homeless shelter system is reaching an all-time high, with over 100,000 people currently living in shelters. Artificial intelligence detection tools are also being tested to see just how easy it is to fool them. And finally, Rudy Giuliani answered questions from federal prosecutors about Donald Trump&#39;s efforts to remain in power after his election loss.</p>
+There have been a lot of news stories lately that show what&#39;s going on in the world. Smoke from Canadian wildfires is making cities across the US very unhealthy. Meanwhile in Russia, President Putin is punishing associates of the Wagner Group, a mercenary group that tried to rebel against him. In Belarus, satellite images suggest that Wagner might be relocating there. In sports, Yankees pitcher Domingo German threw a perfect game, which hasn&#39;t happened since 2012. In other bad news, debris and human remains from the lost vessel Titan were recovered in Newfoundland recently, and all five passengers are assumed to be dead. On the cosmic side of things, astronomers are detecting huge gravitational waves coming from supermassive black holes in the early universe. Here in New York, voters are shifting more towards moderate candidates like Yusef Salaam—who was exonerated as one of the Central Park 5—which is resulting in a generational power shift. Unfortunately, record numbers of people here and everywhere else are ending up in homeless shelters due to migrants coming into our country. In terms of technology, it&#39;s becoming easier for AI-detection tools to be fooled by certain images or videos. Closer to home too, former president Donald Trump&#39;s lawyer Rudy Giuliani was interrogated about his attempts to stay in office after his election loss last year, and Florida Governor DeSantis got himself into a sticky situation after using taxpayer-funded helicopters while campaigning for president. Even though there has been a lot of bad news lately, President Biden says he is still &quot;turning things around&quot; on the economy front. </p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Smoky Skies Menace U.S. Cities, Driving Residents Indoors</h3>
 <sub>By Julie Bosman</sub>
 <p>Across the nation’s middle, unhealthy air from Canadian wildfires sent summer campers home and left residents coughing, and asking when this would end.  <a href="https://nyti.ms/3pifmG0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>The Emerging Science of Tracing Smoke Back to Wildfires</h3>
-<sub>By Delger Erdenesanaa</sub>
-<p>An upcoming study links smoke pollution across the United States to individual wildfires and could help predict which fires will be most harmful to public health.  <a href="https://nyti.ms/3pqZ25K"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -88,10 +80,10 @@ Locally, people in NYC are voting in more moderate candidates as part of a gener
 <p>The images reveal a possible location for the mercenaries who were given the option of relocating to Belarus after the group’s failed rebellion against President Vladimir V. Putin of Russia.  <a href="https://nyti.ms/3NRVToU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Night Out for Dinner Ends in Destruction and Death</h3>
-<sub>By Natalia Yermak, Dzvinka Pinchuk and Mauricio Lima</sub>
-<p>A Russian missile strike on a popular restaurant in Kramatorsk, Ukraine killed at least 11 people, wounded dozens more, and showed the peril of trying to claim pieces of ordinary life during war.  <a href="https://nyti.ms/3NTR2nj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Yankees Pitcher Throws M.L.B.’s First Perfect Game Since 2012</h3>
+<sub>By Evan Easterling</sub>
+<p>Domingo Germán was masterful, cruising through the Oakland Athletics and securing baseball’s 24th perfect game.  <a href="https://nyti.ms/3PyKtrm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -130,10 +122,16 @@ Locally, people in NYC are voting in more moderate candidates as part of a gener
 <p>The onetime personal lawyer for Donald Trump answered questions from federal prosecutors about the former president’s efforts to remain in power after his 2020 election loss.  <a href="https://nyti.ms/3pnUm0v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Welcome Aboard the Aquidaban, the Floating Jungle Supermarket</h3>
-<sub>By Jack Nicas and María Magdalena Arréllaga</sub>
-<p>The Aquidaban has long attracted colorful characters as the only ferry in one of South America’s most remote stretches. Now it may disappear.  <a href="https://nyti.ms/3NqMHGJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>DeSantis’s Taxpayer-Funded Helicopter Ride in Texas Draws Scrutiny</h3>
+<sub>By Neil Vigdor and Nicholas Nehamas</sub>
+<p>It’s not the first time that the Florida governor has faced accusations of inappropriately blurring the lines between his official duties and his presidential campaign.  <a href="https://nyti.ms/3COWktE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Says He Is ‘Turning Things Around’ on the Economy</h3>
+<sub>By Michael D. Shear and Jim Tankersley</sub>
+<p>President Biden hopes to claim credit for what the White House describes as a record-breaking economic revival in America.  <a href="https://nyti.ms/44k6Zs1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
