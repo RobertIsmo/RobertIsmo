@@ -60,8 +60,16 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, June 28, Central Standard Time</p>
 <p>
-The world is currently going through a lot of changes. In the US, former president Donald Trump&#39;s personal lawyer is being questioned about his attempts to remain in power after the election, and Florida governor DeSantis is facing scrutiny for a taxpayer-funded helicopter ride in Texas. On the international stage, Russia&#39;s President Putin has announced plans to punish allies of Wagner group leader Prigozhin, and satellite images have revealed possible new homes for Wagner mercenaries. There is also destruction and death from a Russian missile strike in Ukraine, as well as suspected human remains being recovered from a lost Titan vessel off Newfoundland. Scientists are also finding evidence of gravitational waves being emitted from supermassive black holes in the early universe. Closer to home, climate change is an issue with a new study linking smoke pollution across the US to individual wildfires. Meanwhile, New York City is seeing record numbers of homeless people while voting in cities like Harlem indicate a generational power shift toward moderate candidates. Finally, a floating supermarket known as Aquidaban is at risk of disappearing along South America&#39;s remote stretches.</p>
+There have been a lot of concerning developments around the world recently. In the US, smoky skies from Canadian wildfires are driving people indoors and putting public health at risk. In Russia, President Putin is punishing allies of a Wagner group leader. Satellite images have revealed rapid construction at a deserted military base in Belarus, which may be the new home for mercenaries who failed in a rebellion against Putin. Sadly, a missile strike in Ukraine resulted in death and destruction for people who were just trying to enjoy dinner together. Human remains believed to belong to the lost Titan have been recovered off the coast of Newfoundland. Astronomers are also picking up gravitational waves across the cosmos. 
+
+Locally, people in NYC are voting in more moderate candidates as part of a generational power shift. The homeless shelter system is reaching an all-time high, with over 100,000 people currently living in shelters. Artificial intelligence detection tools are also being tested to see just how easy it is to fool them. And finally, Rudy Giuliani answered questions from federal prosecutors about Donald Trump&#39;s efforts to remain in power after his election loss.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Smoky Skies Menace U.S. Cities, Driving Residents Indoors</h3>
+<sub>By Julie Bosman</sub>
+<p>Across the nation’s middle, unhealthy air from Canadian wildfires sent summer campers home and left residents coughing, and asking when this would end.  <a href="https://nyti.ms/3pifmG0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>The Emerging Science of Tracing Smoke Back to Wildfires</h3>
 <sub>By Delger Erdenesanaa</sub>
@@ -99,7 +107,7 @@ The world is currently going through a lot of changes. In the US, former preside
 <sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>In Harlem and Beyond, City Election Points to a Generational Power Shift</h3>
+<h3>In Harlem and Beyond, N.Y.C. Election Points to Generational Power Shift</h3>
 <sub>By Jeffery C. Mays</sub>
 <p>Yusef Salaam, exonerated as part of the Central Park 5 in 2002, appeared to be heading toward a City Council victory as voters embraced more moderate candidates.  <a href="https://nyti.ms/3r4QamT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
@@ -126,12 +134,6 @@ The world is currently going through a lot of changes. In the US, former preside
 <h3>Welcome Aboard the Aquidaban, the Floating Jungle Supermarket</h3>
 <sub>By Jack Nicas and María Magdalena Arréllaga</sub>
 <p>The Aquidaban has long attracted colorful characters as the only ferry in one of South America’s most remote stretches. Now it may disappear.  <a href="https://nyti.ms/3NqMHGJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis’s Taxpayer-Funded Helicopter Ride in Texas Draws Scrutiny</h3>
-<sub>By Neil Vigdor and Nicholas Nehamas</sub>
-<p>It’s not the first time that the Florida governor has faced accusations of inappropriately blurring the lines between his official duties and his presidential campaign.  <a href="https://nyti.ms/3COWktE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
