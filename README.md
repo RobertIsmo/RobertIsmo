@@ -60,25 +60,39 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, June 29, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. In Russia, President Putin is taking measures to punish allies of Prigozhin, leader of a group called Wagner. Meanwhile, satellite images are showing rapid construction at a military base in Belarus which may be involved with this group. In the US, smoke from Canadian wildfires is dangerously affecting the air quality of cities and driving people indoors. On a more positive note, Domingo Germán threw the first perfect game in baseball since 2012. There is also an interesting study being conducted looking into how easy it is to fool A.I.-detection tools and Rudolph Giuliani has given a voluntary interview for an investigation surrounding Donald Trump&#39;s 2020 election loss.</p>
+Right now, it seems like there&#39;s a lot of new and different technology being used to help keep people safe and healthy. Companies are using sensors to detect potential hazards in indoor air, especially with the ongoing pandemic. It&#39;s been really hot in Texas lately where some prisons don&#39;t even have air conditioning, so that&#39;s been difficult for inmates. In Russia, a military leader&#39;s departure has highlighted communication and coordination issues in the country. Over in Ukraine, the invasion has been going on for over a year now and is causing a lot of trauma for the people living there. 
+Switching gears, the Supreme Court has come to lots of important decisions concerning abortion, guns, religion and climate change recently — I&#39;m sure more will come this year as well. On a less serious note, we just had its first perfect game since 2012 with Yankees pitcher Domingo Germán absolutely crushing against the Oakland Athletics! Oh, and there&#39;s also this huge equal-rights movement being funded by Democrats to help with 2024 N.Y. House campaigns. Finally, Republicans are struggling a bit when it comes to criticizing President Biden since they voted for several of his economic bills anyway. 
+Phew! All in all — it&#39;s been an eventful few months!</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Putin Moves to Punish Prigozhin Allies</h3>
-<sub>By Anton Troianovski</sub>
-<p>Russia’s president indicates that associates of the Wagner group’s leader in government and the military will face punishment.  <a href="https://nyti.ms/440W9aU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Satellite images show rapid construction at a deserted military base in Belarus. Is it Wagner’s new home?</h3>
-<sub>By Christoph Koettl, Riley Mellen and Dmitriy Khavin</sub>
-<p>The images reveal a possible location for the mercenaries who were given the option of relocating to Belarus after the group’s failed rebellion against President Vladimir V. Putin of Russia.  <a href="https://nyti.ms/3NRVToU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Through Pandemics and Wildfires, Can Air Sensors Keep Offices Safe?</h3>
+<sub>By Emily Anthes</sub>
+<p>Some companies are turning to technology to illuminate potential hazards in indoor air.  <a href="https://nyti.ms/3NSeXTS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Smoky Skies Menace U.S. Cities, Driving Residents Indoors</h3>
-<sub>By Julie Bosman</sub>
-<p>Across the nation’s middle, unhealthy air from Canadian wildfires sent summer campers home and left residents coughing, and asking when this would end.  <a href="https://nyti.ms/3pifmG0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
+<h3>‘Man Down!’: Surviving the Texas Heat in Prisons Without Air-Conditioning</h3>
+<sub>By J. David Goodman</sub>
+<p>The record June heat has been particularly dangerous inside the state’s prisons, where indoor temperatures can top 110 degrees.  <a href="https://nyti.ms/46u1j0M"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Prigozhin May Be Gone, but Not the Failings He Ranted About</h3>
+<sub>By Neil MacFarquhar</sub>
+<p>The Russian military still suffers from poor communication, coordination and leadership, but most of all, analysts say, from a morale-sapping lack of accountability.  <a href="https://nyti.ms/46FzjHF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>On Ukraine’s Front Lines</h3>
+<sub>By German Lopez</sub>
+<p>Ukrainian combat medics share their stories of war, more than a year after the invasion began.  <a href="https://nyti.ms/3PCljbw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Key Cases the Supreme Court Has Yet to Decide in 2023</h3>
+<sub>By Adam Liptak and Eli Murray</sub>
+<p>How the court’s 6-to-3 conservative majority is ruling this term after its lurch to the right a year ago in blockbuster decisions on abortion, guns, religion and climate change.  <a href="https://nyti.ms/43xL9Bt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Yankees Pitcher Throws M.L.B.’s First Perfect Game Since 2012</h3>
@@ -92,11 +106,17 @@ There is a lot happening in the world right now. In Russia, President Putin is t
 <p>Booed off the mound in his last start for the Yankees, Germán joined a fraternity of pitchers that runs the gamut from Hall of Famers to otherwise forgettable fill-ins.  <a href="https://nyti.ms/3r6tJxs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>The Cosmos Is Thrumming With Gravitational Waves, Astronomers Find</h3>
-<sub>By Katrina Miller</sub>
-<p>Radio telescopes around the world picked up a telltale hum reverberating across the cosmos, most likely from supermassive black holes merging in the early universe.  <a href="https://nyti.ms/3raGIOA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>They Followed Doctors’ Orders. Then Their Children Were Taken Away.</h3>
+<sub>By Shoshana Walter</sub>
+<p>Federal law has put thousands of women on anti-addiction medications into an impossible bind: Give up your treatment or risk losing your baby.  <a href="https://nyti.ms/3NV5ifC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In These Corners of Kabul, Western Influences Live On</h3>
+<sub>By Christina Goldbaum and Jim Huylebroek</sub>
+<p>While the Taliban have erased most obvious vestiges of the U.S. nation-building effort in Afghanistan, the cultural legacy of two decades of American occupation has been harder to stamp out.  <a href="https://nyti.ms/3NTP1Yj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Debris and Presumed Human Remains From Lost Titan Are Recovered</h3>
@@ -105,34 +125,16 @@ There is a lot happening in the world right now. In Russia, President Putin is t
 <sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>In Harlem and Beyond, N.Y.C. Election Points to Generational Power Shift</h3>
-<sub>By Jeffery C. Mays</sub>
-<p>Yusef Salaam, exonerated as part of the Central Park 5 in 2002, appeared to be heading toward a City Council victory as voters embraced more moderate candidates.  <a href="https://nyti.ms/3r4QamT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>A Record 100,000 People in New York Homeless Shelters</h3>
-<sub>By Andy Newman</sub>
-<p>An influx of migrants has contributed to record numbers of people entering the city’s shelter system.  <a href="https://nyti.ms/44kvZj5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>How Easy Is It to Fool A.I.-Detection Tools?</h3>
-<sub>By Stuart A. Thompson and Tiffany Hsu</sub>
-<p>We tested five services that claim to detect what is real and what isn’t.  <a href="https://nyti.ms/3NwCQ1U"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
+<h3>Democrats to Use $20 Million Equal Rights Push to Aid 2024 N.Y. House Bids</h3>
+<sub>By Dana Rubinstein</sub>
+<p>Numerous left-leaning groups are behind a statewide effort to focus attention on a 2024 equal-rights referendum, hoping to increase voter turnout.  <a href="https://nyti.ms/3NSyxQ0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Giuliani Sat for Voluntary Interview in Jan. 6 Investigation</h3>
-<sub>By Ben Protess, Alan Feuer and Maggie Haberman</sub>
-<p>The onetime personal lawyer for Donald Trump answered questions from federal prosecutors about the former president’s efforts to remain in power after his 2020 election loss.  <a href="https://nyti.ms/3pnUm0v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Kiki or Bouba?</h3>
-<sub>By Laurel Schwulst</sub>
-<p>Nearly a century after a landmark psychology study was conducted, we revisit its findings — with your help!  <a href="https://nyti.ms/3XwnK1h"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
+<h3>Republicans’ Problem in Attacking Biden: They Helped Pass His Economic Bills</h3>
+<sub>By Jonathan Weisman and Reid J. Epstein</sub>
+<p>No doubt they will take swings at him anyway. But it may be more difficult to land punches given that plenty of them voted for the bipartisan infrastructure and semiconductor manufacturing bills.  <a href="https://nyti.ms/46pwXfJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
