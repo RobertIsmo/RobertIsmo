@@ -60,13 +60,29 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, June 29, Central Standard Time</p>
 <p>
-It&#39;s been a busy news week! First, the US Air Quality Index has been explained and scientists have provided some tips on how to stay safe from air pollution. In Texas, prisons are extremely hot due to the lack of air conditioning, a dangerous situation for prisoners. In Russia, analysts have reported a lack of accountability in military operations. The US is allegedly asking Ukraine not to conduct any covert attacks in Russia as the country faces civil unrest.  Businesses are pushing back against the import of refined Russian oil as human rights groups voice concerns over production practices. And within the US, Cindy Birdsong&#39;s family is currently in court over the control of her life while a fast fashion company has become increasingly unpopular among influencers for their labor policies. The Koch Network has raised over $70 million in an effort to prevent Trump’s re-election, and Moms for Liberty are hosting multiple presidential candidates in their national convention this week. Homelessness is becoming an increasingly serious problem in cities like Los Angeles and New York City due to a lack of affordable housing. Finally, two sisters are attempting to live together again, but they need help figuring out who gets the bigger bedroom!</p>
+Right now, there&#39;s a lot of controversy over police presence on school campuses and the impact it could have on minority students. In Denver, school districts are bringing police officers back to their campuses against racial justice advocates&#39; objections. Meanwhile, Canadian officials have called for help from the US and other international countries to fight devastating wildfires. Here in the US, prison inmates suffer at the hands of this year&#39;s record-breaking summer heat with insufficient air conditioning. In Russia, experts say military advancements still haven&#39;t been made despite a prominent figure&#39;s departure.
+
+On the lighter side, some family drama at the Supreme Court has everyone talking. Cindy Birdsong&#39;s relatives are trying to gain control over her care and finances by placing her in a conservatorship. Shein, an online fast-fashion company, caused a stir when they flew influencers to China to try and reverse negative accusations against them. And it looks like Koch Network is teaming up with Republicans to support Trump in 2024 - they&#39;ve already raised over $70 million for campaign efforts. Finally, two sisters in Washington opted to move in together as roommates while searching for their first apartment - but who got the better bedroom? 
+
+Oh, and don&#39;t forget the opinion pieces! There&#39;s one about Harvard undermining itself with affirmative action against Asian applicants and another one discussing class-based admissions rather than race-based ones as an alternative solution.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Air Quality Index Explained: What It Means and How to Stay Safe</h3>
-<sub>By Adeel Hassan</sub>
-<p>Here’s what we know about air pollution and a few tips to protect yourself.  <a href="https://nyti.ms/35w77Zd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 17, Central Standard Time</sub></sub>
+<h3>Jury Acquits Deputy Who Failed to Confront Parkland Gunman</h3>
+<sub>By Patricia Mazzei</sub>
+<p>Scot Peterson was found not guilty of child neglect, culpable negligence and perjury in a rare trial over police inaction in a school shooting.  <a href="https://nyti.ms/3NAlfGi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Schools Bring Police Back to Campuses, Reversing Racial Justice Decisions</h3>
+<sub>By Tim Arango</sub>
+<p>Denver’s school system is the latest to reinstate officers, responding to parental concerns over campus violence. Critics say the move will disproportionately hurt students of color.  <a href="https://nyti.ms/433yCor"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Canadian Wildfires Have Mobilized Firefighters From the U.S., Australia, France and South Africa</h3>
+<sub>By Meagan Campbell and Dan Bilefsky</sub>
+<p>Nearly 400 American firefighters have been fighting fires in Alberta, Quebec and British Columbia.  <a href="https://nyti.ms/3NoHmPW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>‘Man Down!’: Surviving the Texas Heat in Prisons Without Air-Conditioning</h3>
@@ -78,18 +94,6 @@ It&#39;s been a busy news week! First, the US Air Quality Index has been explain
 <h3>Prigozhin May Be Gone, but Not the Failings He Ranted About</h3>
 <sub>By Neil MacFarquhar</sub>
 <p>The Russian military still suffers from poor communication, coordination and leadership, but most of all, analysts say, from a morale-sapping lack of accountability.  <a href="https://nyti.ms/46FzjHF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Asked Ukraine Not to Conduct Covert Attacks in Russia During Rebellion, Officials Say</h3>
-<sub>By Julian E. Barnes, Eric Schmitt and Anton Troianovski</sub>
-<p>Washington advised Kyiv not to do anything that would either try to influence the outcome of events or take immediate advantage of the chaos, according to American officials.  <a href="https://nyti.ms/46uMhb2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Opposition Grows to U.S. Imports of Refined Russian Oil</h3>
-<sub>By Ana Swanson</sub>
-<p>Human rights groups and Ukrainian officials want the United States to stop buying Russian crude oil that has been refined into other products in third countries like India  <a href="https://nyti.ms/436cB8v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
@@ -116,22 +120,22 @@ It&#39;s been a busy news week! First, the US Air Quality Index has been explain
 <p>Five presidential candidates will appear at the group’s national convention in Philadelphia this week, after a local group provoked outrage for quoting Hitler.  <a href="https://nyti.ms/44lnTqm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Number of Homeless People in Los Angeles Increases by 9%</h3>
-<sub>By Jill Cowan</sub>
-<p>An annual count of the city’s homeless population revealed a trend also seen in cities like Chicago where a lack of affordable housing is driving homelessness.  <a href="https://nyti.ms/441SU2J"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>A Record 100,000 People in New York Homeless Shelters</h3>
-<sub>By Andy Newman</sub>
-<p>An influx of migrants has contributed to record numbers of people entering the city’s shelter system.  <a href="https://nyti.ms/44kvZj5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-realestate-blue" alt="">
 <h3>Two Sisters Try Living Together (Again) in Washington. Who Gets the Bigger Bedroom?</h3>
 <sub>By Michele Lerner</sub>
 <p>With a budget of $650,000, a first-time buyer invited her younger sister to share a two-bedroom apartment in the nation’s capital — if she agreed to pay rent. Here’s where they landed.  <a href="https://nyti.ms/3CUP5AF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>Harvard Undermined Itself on Affirmative Action</h3>
+<sub>By David French</sub>
+<p>The Supreme Court’s ruling reflected the school’s clear discrimination against Asian applicants.  <a href="https://nyti.ms/4439KOZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>Affirmative Action Is Dead. Campus Diversity Doesn’t Have to Be.</h3>
+<sub>By David Brooks and Sophia Alvarez Boyd</sub>
+<p>David Brooks makes the case for class-based admissions.  <a href="https://nyti.ms/449bExp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
 <hr/>
 </ol>
