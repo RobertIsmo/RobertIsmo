@@ -60,30 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, June 28, Central Standard Time</p>
 <p>
-Right now, it looks like humanity is struggling on multiple fronts. In terms of climate change, wildfire smoke and high heat are becoming more common due to human-caused climate change. There’s also a heat wave affecting much of the southern US with no relief in sight. On the world stage, Russia is already engaging in some shady behavior behind the scenes—they’re believed to have had knowledge of a mercenary chief’s rebellion plans and recently launched a missile strike that killed 11 people. Ukraine is attempting to counter this with a counteroffensive but is facing the daunting task of their tough terrain. Technology-wise, there’s a new push for A.I. chips sales restrictions for China that sent tech stocks tumbling, as well as research about how easy it is to fool A.I. detection tools. On the politics front, former President Trump&#39;s personal lawyer Giuliani was interviewed regarding his attempts at maintaining power after his election loss, and Florida governor DeSantis has recently been scrutinized for a taxpayer-funded helicopter ride in Texas.</p>
+The world is currently going through a lot of changes. In the US, former president Donald Trump&#39;s personal lawyer is being questioned about his attempts to remain in power after the election, and Florida governor DeSantis is facing scrutiny for a taxpayer-funded helicopter ride in Texas. On the international stage, Russia&#39;s President Putin has announced plans to punish allies of Wagner group leader Prigozhin, and satellite images have revealed possible new homes for Wagner mercenaries. There is also destruction and death from a Russian missile strike in Ukraine, as well as suspected human remains being recovered from a lost Titan vessel off Newfoundland. Scientists are also finding evidence of gravitational waves being emitted from supermassive black holes in the early universe. Closer to home, climate change is an issue with a new study linking smoke pollution across the US to individual wildfires. Meanwhile, New York City is seeing record numbers of homeless people while voting in cities like Harlem indicate a generational power shift toward moderate candidates. Finally, a floating supermarket known as Aquidaban is at risk of disappearing along South America&#39;s remote stretches.</p>
 <ol>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Wildfire Smoke and High Heat Have Something in Common. Guess What.</h3>
-<sub>By Raymond Zhong and Delger Erdenesanaa</sub>
-<p>Human-caused climate change is making high temperatures more common and intensifying the dryness that fuels catastrophic wildfires.  <a href="https://nyti.ms/3CSmbRw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>The Emerging Science of Tracing Smoke Back to Wildfires</h3>
+<sub>By Delger Erdenesanaa</sub>
+<p>An upcoming study links smoke pollution across the United States to individual wildfires and could help predict which fires will be most harmful to public health.  <a href="https://nyti.ms/3pqZ25K"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Misery Engulfs the South as Heat Wave Spreads</h3>
-<sub>By Marie Elizabeth Oliver, Stacey Cato and Livia Albeck-Ripka</sub>
-<p>Temperatures will be up to 20 degrees above normal for much of the region through at least the weekend, with no nighttime relief.  <a href="https://nyti.ms/3Nx0POw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Russian General Knew About Mercenary Chief’s Rebellion Plans, U.S. Officials Say</h3>
-<sub>By Julian E. Barnes, Helene Cooper and Eric Schmitt</sub>
-<p>Yevgeny Prigozhin, the head of Wagner, may have believed he had support in Russia’s military.  <a href="https://nyti.ms/46sIA5q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>21 Miles of Obstacles</h3>
-<sub>By Thomas Gibbons-Neff, Josh Holder and Marco Hernandez</sub>
-<p>The Ukrainian counteroffensive faces an enemy nearly as daunting as the Russians: the terrain.  <a href="https://nyti.ms/3NxoPBh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Putin Moves to Punish Prigozhin Allies</h3>
+<sub>By Anton Troianovski</sub>
+<p>Russia’s president indicates that associates of the Wagner group’s leader in government and the military will face punishment.  <a href="https://nyti.ms/440W9aU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Satellite images show rapid construction at a deserted military base in Belarus. Is it Wagner’s new home?</h3>
+<sub>By Christoph Koettl, Riley Mellen and Dmitriy Khavin</sub>
+<p>The images reveal a possible location for the mercenaries who were given the option of relocating to Belarus after the group’s failed rebellion against President Vladimir V. Putin of Russia.  <a href="https://nyti.ms/3NRVToU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -92,40 +86,46 @@ Right now, it looks like humanity is struggling on multiple fronts. In terms of 
 <p>A Russian missile strike on a popular restaurant in Kramatorsk, Ukraine killed at least 11 people, wounded dozens more, and showed the peril of trying to claim pieces of ordinary life during war.  <a href="https://nyti.ms/3NTR2nj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Debris and Presumed Human Remains From Lost Titan Are Recovered</h3>
+<sub>By Remy Tumin and Rebecca Carballo</sub>
+<p>Debris from the Titan was returned to land off Newfoundland, nearly a week after an international search-and-rescue effort for the vessel ended and its five passengers were presumed dead.  <a href="https://nyti.ms/3NRy3cM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>The Cosmos Is Thrumming With Gravitational Waves, Astronomers Find</h3>
+<sub>By Katrina Miller</sub>
+<p>Radio telescopes around the world picked up a telltale hum reverberating across the cosmos, most likely from supermassive black holes merging in the early universe.  <a href="https://nyti.ms/3raGIOA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>In Harlem and Beyond, City Election Points to a Generational Power Shift</h3>
+<sub>By Jeffery C. Mays</sub>
+<p>Yusef Salaam, exonerated as part of the Central Park 5 in 2002, appeared to be heading toward a City Council victory as voters embraced more moderate candidates.  <a href="https://nyti.ms/3r4QamT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>A Record 100,000 People in New York Homeless Shelters</h3>
+<sub>By Andy Newman</sub>
+<p>An influx of migrants has contributed to record numbers of people entering the city’s shelter system.  <a href="https://nyti.ms/44kvZj5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>How Easy Is It to Fool A.I.-Detection Tools?</h3>
 <sub>By Stuart A. Thompson and Tiffany Hsu</sub>
 <p>We tested five services that claim to detect what is real and what isn’t.  <a href="https://nyti.ms/3NwCQ1U"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Biden Administration Weighs Further Curbs on Sales of A.I. Chips to China</h3>
-<sub>By Ana Swanson, David McCabe and Michael Crowley</sub>
-<p>Reports that the White House may clamp down on sales of semiconductors that power artificial intelligence capabilities sent tech stocks diving.  <a href="https://nyti.ms/44dM5Lk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Something Was Messing With Earth’s Axis. The Answer Has to Do With Us.</h3>
-<sub>By Raymond Zhong</sub>
-<p>Scientists knew the planet’s centerline could move. But it took a sharp turn sometime around the start of the 2000s.  <a href="https://nyti.ms/3JvINef"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Giuliani Sat for Voluntary Interview in Jan. 6 Investigation</h3>
+<sub>By Ben Protess, Alan Feuer and Maggie Haberman</sub>
+<p>The onetime personal lawyer for Donald Trump answered questions from federal prosecutors about the former president’s efforts to remain in power after his 2020 election loss.  <a href="https://nyti.ms/3pnUm0v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Welcome Aboard the Aquidaban, the Floating Jungle Supermarket</h3>
 <sub>By Jack Nicas and María Magdalena Arréllaga</sub>
 <p>The Aquidaban has long attracted colorful characters as the only ferry in one of South America’s most remote stretches. Now it may disappear.  <a href="https://nyti.ms/3NqMHGJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Kiki or Bouba?</h3>
-<sub>By Laurel Schwulst</sub>
-<p>Nearly a century after a landmark psychology study was conducted, we revisit its findings — with your help!  <a href="https://nyti.ms/3XwnK1h"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Giuliani Sat for Voluntary Interview in Jan. 6 Investigation</h3>
-<sub>By Ben Protess, Alan Feuer and Maggie Haberman</sub>
-<p>The onetime personal lawyer for Donald Trump answered questions from federal prosecutors about the former president’s efforts to remain in power after his 2020 election loss.  <a href="https://nyti.ms/3pnUm0v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
