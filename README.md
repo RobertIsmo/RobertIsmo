@@ -60,14 +60,8 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, June 29, Central Standard Time</p>
 <p>
-There have been a lot of news stories lately that show what&#39;s going on in the world. Smoke from Canadian wildfires is making cities across the US very unhealthy. Meanwhile in Russia, President Putin is punishing associates of the Wagner Group, a mercenary group that tried to rebel against him. In Belarus, satellite images suggest that Wagner might be relocating there. In sports, Yankees pitcher Domingo German threw a perfect game, which hasn&#39;t happened since 2012. In other bad news, debris and human remains from the lost vessel Titan were recovered in Newfoundland recently, and all five passengers are assumed to be dead. On the cosmic side of things, astronomers are detecting huge gravitational waves coming from supermassive black holes in the early universe. Here in New York, voters are shifting more towards moderate candidates like Yusef Salaam—who was exonerated as one of the Central Park 5—which is resulting in a generational power shift. Unfortunately, record numbers of people here and everywhere else are ending up in homeless shelters due to migrants coming into our country. In terms of technology, it&#39;s becoming easier for AI-detection tools to be fooled by certain images or videos. Closer to home too, former president Donald Trump&#39;s lawyer Rudy Giuliani was interrogated about his attempts to stay in office after his election loss last year, and Florida Governor DeSantis got himself into a sticky situation after using taxpayer-funded helicopters while campaigning for president. Even though there has been a lot of bad news lately, President Biden says he is still &quot;turning things around&quot; on the economy front. </p>
+There is a lot happening in the world right now. In Russia, President Putin is taking measures to punish allies of Prigozhin, leader of a group called Wagner. Meanwhile, satellite images are showing rapid construction at a military base in Belarus which may be involved with this group. In the US, smoke from Canadian wildfires is dangerously affecting the air quality of cities and driving people indoors. On a more positive note, Domingo Germán threw the first perfect game in baseball since 2012. There is also an interesting study being conducted looking into how easy it is to fool A.I.-detection tools and Rudolph Giuliani has given a voluntary interview for an investigation surrounding Donald Trump&#39;s 2020 election loss.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Smoky Skies Menace U.S. Cities, Driving Residents Indoors</h3>
-<sub>By Julie Bosman</sub>
-<p>Across the nation’s middle, unhealthy air from Canadian wildfires sent summer campers home and left residents coughing, and asking when this would end.  <a href="https://nyti.ms/3pifmG0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Putin Moves to Punish Prigozhin Allies</h3>
 <sub>By Anton Troianovski</sub>
@@ -80,22 +74,34 @@ There have been a lot of news stories lately that show what&#39;s going on in th
 <p>The images reveal a possible location for the mercenaries who were given the option of relocating to Belarus after the group’s failed rebellion against President Vladimir V. Putin of Russia.  <a href="https://nyti.ms/3NRVToU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Smoky Skies Menace U.S. Cities, Driving Residents Indoors</h3>
+<sub>By Julie Bosman</sub>
+<p>Across the nation’s middle, unhealthy air from Canadian wildfires sent summer campers home and left residents coughing, and asking when this would end.  <a href="https://nyti.ms/3pifmG0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Yankees Pitcher Throws M.L.B.’s First Perfect Game Since 2012</h3>
 <sub>By Evan Easterling</sub>
 <p>Domingo Germán was masterful, cruising through the Oakland Athletics and securing baseball’s 24th perfect game.  <a href="https://nyti.ms/3PyKtrm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Debris and Presumed Human Remains From Lost Titan Are Recovered</h3>
-<sub>By Remy Tumin and Rebecca Carballo</sub>
-<p>Debris from the Titan was returned to land off Newfoundland, nearly a week after an international search-and-rescue effort for the vessel ended and its five passengers were presumed dead.  <a href="https://nyti.ms/3NRy3cM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Domingo Germán Proves Perfection Can Come at Any Time</h3>
+<sub>By Tyler Kepner</sub>
+<p>Booed off the mound in his last start for the Yankees, Germán joined a fraternity of pitchers that runs the gamut from Hall of Famers to otherwise forgettable fill-ins.  <a href="https://nyti.ms/3r6tJxs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
 <h3>The Cosmos Is Thrumming With Gravitational Waves, Astronomers Find</h3>
 <sub>By Katrina Miller</sub>
 <p>Radio telescopes around the world picked up a telltale hum reverberating across the cosmos, most likely from supermassive black holes merging in the early universe.  <a href="https://nyti.ms/3raGIOA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Debris and Presumed Human Remains From Lost Titan Are Recovered</h3>
+<sub>By Remy Tumin and Rebecca Carballo</sub>
+<p>Debris from the Titan was returned to land off Newfoundland, nearly a week after an international search-and-rescue effort for the vessel ended and its five passengers were presumed dead.  <a href="https://nyti.ms/3NRy3cM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -122,16 +128,10 @@ There have been a lot of news stories lately that show what&#39;s going on in th
 <p>The onetime personal lawyer for Donald Trump answered questions from federal prosecutors about the former president’s efforts to remain in power after his 2020 election loss.  <a href="https://nyti.ms/3pnUm0v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis’s Taxpayer-Funded Helicopter Ride in Texas Draws Scrutiny</h3>
-<sub>By Neil Vigdor and Nicholas Nehamas</sub>
-<p>It’s not the first time that the Florida governor has faced accusations of inappropriately blurring the lines between his official duties and his presidential campaign.  <a href="https://nyti.ms/3COWktE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Says He Is ‘Turning Things Around’ on the Economy</h3>
-<sub>By Michael D. Shear and Jim Tankersley</sub>
-<p>President Biden hopes to claim credit for what the White House describes as a record-breaking economic revival in America.  <a href="https://nyti.ms/44k6Zs1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Kiki or Bouba?</h3>
+<sub>By Laurel Schwulst</sub>
+<p>Nearly a century after a landmark psychology study was conducted, we revisit its findings — with your help!  <a href="https://nyti.ms/3XwnK1h"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
