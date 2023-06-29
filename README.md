@@ -60,13 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, June 29, Central Standard Time</p>
 <p>
-A lot of things have been happening recently in the world. In terms of health, there&#39;s a debate about how safe indoor air is, especially during the pandemic. In Texas prisons, temperatures inside can get as high as 110 degrees due to lack of air-conditioning. In terms of foreign policy, there&#39;s opposition to imports of Russian crude oil and India&#39;s role in it. There have also been protests against federal law that forces women on anti-addiction medication to give up treatment or risk losing their baby. Meanwhile, sports news saw New York Yankees pitcher Domingo German throw the first perfect game since 2012 while in Afghanistan, certain corners remain affected by Western influences more than two decades after the U.S. nation-building effort. On a lighter note, an opinion piece suggested incentivizing people to reduce power use during peak hours instead of suffering through heat wave power outages.</p>
+It&#39;s been a busy news week! First, the US Air Quality Index has been explained and scientists have provided some tips on how to stay safe from air pollution. In Texas, prisons are extremely hot due to the lack of air conditioning, a dangerous situation for prisoners. In Russia, analysts have reported a lack of accountability in military operations. The US is allegedly asking Ukraine not to conduct any covert attacks in Russia as the country faces civil unrest.  Businesses are pushing back against the import of refined Russian oil as human rights groups voice concerns over production practices. And within the US, Cindy Birdsong&#39;s family is currently in court over the control of her life while a fast fashion company has become increasingly unpopular among influencers for their labor policies. The Koch Network has raised over $70 million in an effort to prevent Trump’s re-election, and Moms for Liberty are hosting multiple presidential candidates in their national convention this week. Homelessness is becoming an increasingly serious problem in cities like Los Angeles and New York City due to a lack of affordable housing. Finally, two sisters are attempting to live together again, but they need help figuring out who gets the bigger bedroom!</p>
 <ol>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>How Safe Is Your Office Air? There’s One Way to Find Out.</h3>
-<sub>By Emily Anthes</sub>
-<p>An architecture and design firm in New York installed an indoor air sensors during the pandemic. Then the wildfires hit.  <a href="https://nyti.ms/3NSeXTS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Air Quality Index Explained: What It Means and How to Stay Safe</h3>
+<sub>By Adeel Hassan</sub>
+<p>Here’s what we know about air pollution and a few tips to protect yourself.  <a href="https://nyti.ms/35w77Zd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>‘Man Down!’: Surviving the Texas Heat in Prisons Without Air-Conditioning</h3>
@@ -80,58 +80,58 @@ A lot of things have been happening recently in the world. In terms of health, t
 <p>The Russian military still suffers from poor communication, coordination and leadership, but most of all, analysts say, from a morale-sapping lack of accountability.  <a href="https://nyti.ms/46FzjHF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. Asked Ukraine Not to Conduct Covert Attacks in Russia During Rebellion, Officials Say</h3>
+<sub>By Julian E. Barnes, Eric Schmitt and Anton Troianovski</sub>
+<p>Washington advised Kyiv not to do anything that would either try to influence the outcome of events or take immediate advantage of the chaos, according to American officials.  <a href="https://nyti.ms/46uMhb2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Opposition Grows to U.S. Imports of Refined Russian Oil</h3>
 <sub>By Ana Swanson</sub>
 <p>Human rights groups and Ukrainian officials want the United States to stop buying Russian crude oil that has been refined into other products in third countries like India  <a href="https://nyti.ms/436cB8v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Yankees Pitcher Throws M.L.B.’s First Perfect Game Since 2012</h3>
-<sub>By Evan Easterling</sub>
-<p>Domingo Germán was masterly, cruising through the Oakland Athletics’ lineup and securing baseball’s 24th perfect game.  <a href="https://nyti.ms/3PyKtrm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>The Family of a Former Supreme Battles for Control of Her Life</h3>
+<sub>By Julia Jacobs and Christopher Petkanas</sub>
+<p>Cindy Birdsong’s relatives have asked a court to place her in a conservatorship after they became concerned that her longtime friend had too much say over her care and finances.  <a href="https://nyti.ms/3JBnwjF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Shein Flew Influencers to China to Help Its Image. A Backlash Ensued.</h3>
+<sub>By Jordyn Holman and Sapna Maheshwari</sub>
+<p>The fast-fashion company’s attempt to rebut allegations of forced labor and poor working conditions was met with incredulity online.  <a href="https://nyti.ms/3NUZhQ1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Koch Network Raises Over $70 Million for Push to Sink Trump</h3>
+<sub>By Maggie Haberman, Jonathan Swan and Shane Goldmacher</sub>
+<p>Americans for Prosperity Action is wading into a Republican presidential primary for the first time, and waiting to see which candidate it will get behind for 2024.  <a href="https://nyti.ms/43axHSV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Moms for Liberty’s School Board Antagonism Draws G.O.P. Heavyweights</h3>
+<sub>By Jonathan Weisman</sub>
+<p>Five presidential candidates will appear at the group’s national convention in Philadelphia this week, after a local group provoked outrage for quoting Hitler.  <a href="https://nyti.ms/44lnTqm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Number of Homeless People in Los Angeles Increases by 9%</h3>
+<sub>By Jill Cowan</sub>
+<p>An annual count of the city’s homeless population revealed a trend also seen in cities like Chicago where a lack of affordable housing is driving homelessness.  <a href="https://nyti.ms/441SU2J"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>A Record 100,000 People in New York Homeless Shelters</h3>
+<sub>By Andy Newman</sub>
+<p>An influx of migrants has contributed to record numbers of people entering the city’s shelter system.  <a href="https://nyti.ms/44kvZj5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Domingo Germán Proves Perfection Can Come at Any Time</h3>
-<sub>By Tyler Kepner</sub>
-<p>Booed off the mound in his last start for the Yankees, Germán joined a fraternity of pitchers that runs the gamut from Hall of Famers to otherwise forgettable fill-ins.  <a href="https://nyti.ms/3r6tJxs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>They Followed Doctors’ Orders. Then Their Children Were Taken Away.</h3>
-<sub>By Shoshana Walter</sub>
-<p>Federal law has put thousands of women on anti-addiction medications into an impossible bind: Give up your treatment or risk losing your baby.  <a href="https://nyti.ms/3NV5ifC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In These Corners of Kabul, Western Influences Live On</h3>
-<sub>By Christina Goldbaum and Jim Huylebroek</sub>
-<p>While the Taliban have erased most obvious vestiges of the U.S. nation-building effort in Afghanistan, the cultural legacy of two decades of American occupation has been harder to stamp out.  <a href="https://nyti.ms/3NTP1Yj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>Episode 1: The Patients</h3>
-<sub>By Susan Burton, Laura Starecheski, Julie Snyder and Carla Pallone</sub>
-<p>From Serial Productions. Women experience unexpected pain during fertility treatment.  <a href="https://nyti.ms/44pPE0U"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>Affirmative Action Is Dead. Campus Diversity Doesn’t Have to Be.</h3>
-<sub>By David Brooks and Sophia Alvarez Boyd</sub>
-<p>David Brooks makes the case for class-based admissions.  <a href="https://nyti.ms/449bExp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>‘My Body Is a Clock’: The Private Life of Chronic Care</h3>
-<sub>By Sara J. Winston</sub>
-<p>Every 28 days, I point the camera toward myself to document my illness, care and time.  <a href="https://nyti.ms/3pqCWjE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>You Should Be Getting Paid to Prevent Heat Wave Power Outages</h3>
-<sub>By Michael E. Webber</sub>
-<p>What if utilities just gave money to people to reduce their power use during peak hours?  <a href="https://nyti.ms/3pvcntS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-realestate-blue" alt="">
+<h3>Two Sisters Try Living Together (Again) in Washington. Who Gets the Bigger Bedroom?</h3>
+<sub>By Michele Lerner</sub>
+<p>With a budget of $650,000, a first-time buyer invited her younger sister to share a two-bedroom apartment in the nation’s capital — if she agreed to pay rent. Here’s where they landed.  <a href="https://nyti.ms/3CUP5AF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
 <hr/>
 </ol>
