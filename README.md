@@ -60,14 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, June 29, Central Standard Time</p>
 <p>
-Right now, it seems like there&#39;s a lot of new and different technology being used to help keep people safe and healthy. Companies are using sensors to detect potential hazards in indoor air, especially with the ongoing pandemic. It&#39;s been really hot in Texas lately where some prisons don&#39;t even have air conditioning, so that&#39;s been difficult for inmates. In Russia, a military leader&#39;s departure has highlighted communication and coordination issues in the country. Over in Ukraine, the invasion has been going on for over a year now and is causing a lot of trauma for the people living there. 
-Switching gears, the Supreme Court has come to lots of important decisions concerning abortion, guns, religion and climate change recently — I&#39;m sure more will come this year as well. On a less serious note, we just had its first perfect game since 2012 with Yankees pitcher Domingo Germán absolutely crushing against the Oakland Athletics! Oh, and there&#39;s also this huge equal-rights movement being funded by Democrats to help with 2024 N.Y. House campaigns. Finally, Republicans are struggling a bit when it comes to criticizing President Biden since they voted for several of his economic bills anyway. 
-Phew! All in all — it&#39;s been an eventful few months!</p>
+A lot of things have been happening recently in the world. In terms of health, there&#39;s a debate about how safe indoor air is, especially during the pandemic. In Texas prisons, temperatures inside can get as high as 110 degrees due to lack of air-conditioning. In terms of foreign policy, there&#39;s opposition to imports of Russian crude oil and India&#39;s role in it. There have also been protests against federal law that forces women on anti-addiction medication to give up treatment or risk losing their baby. Meanwhile, sports news saw New York Yankees pitcher Domingo German throw the first perfect game since 2012 while in Afghanistan, certain corners remain affected by Western influences more than two decades after the U.S. nation-building effort. On a lighter note, an opinion piece suggested incentivizing people to reduce power use during peak hours instead of suffering through heat wave power outages.</p>
 <ol>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Through Pandemics and Wildfires, Can Air Sensors Keep Offices Safe?</h3>
+<h3>How Safe Is Your Office Air? There’s One Way to Find Out.</h3>
 <sub>By Emily Anthes</sub>
-<p>Some companies are turning to technology to illuminate potential hazards in indoor air.  <a href="https://nyti.ms/3NSeXTS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>An architecture and design firm in New York installed an indoor air sensors during the pandemic. Then the wildfires hit.  <a href="https://nyti.ms/3NSeXTS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -82,22 +80,16 @@ Phew! All in all — it&#39;s been an eventful few months!</p>
 <p>The Russian military still suffers from poor communication, coordination and leadership, but most of all, analysts say, from a morale-sapping lack of accountability.  <a href="https://nyti.ms/46FzjHF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>On Ukraine’s Front Lines</h3>
-<sub>By German Lopez</sub>
-<p>Ukrainian combat medics share their stories of war, more than a year after the invasion began.  <a href="https://nyti.ms/3PCljbw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Opposition Grows to U.S. Imports of Refined Russian Oil</h3>
+<sub>By Ana Swanson</sub>
+<p>Human rights groups and Ukrainian officials want the United States to stop buying Russian crude oil that has been refined into other products in third countries like India  <a href="https://nyti.ms/436cB8v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Key Cases the Supreme Court Has Yet to Decide in 2023</h3>
-<sub>By Adam Liptak and Eli Murray</sub>
-<p>How the court’s 6-to-3 conservative majority is ruling this term after its lurch to the right a year ago in blockbuster decisions on abortion, guns, religion and climate change.  <a href="https://nyti.ms/43xL9Bt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Yankees Pitcher Throws M.L.B.’s First Perfect Game Since 2012</h3>
 <sub>By Evan Easterling</sub>
-<p>Domingo Germán was masterful, cruising through the Oakland Athletics and securing baseball’s 24th perfect game.  <a href="https://nyti.ms/3PyKtrm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Domingo Germán was masterly, cruising through the Oakland Athletics’ lineup and securing baseball’s 24th perfect game.  <a href="https://nyti.ms/3PyKtrm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
@@ -118,22 +110,28 @@ Phew! All in all — it&#39;s been an eventful few months!</p>
 <p>While the Taliban have erased most obvious vestiges of the U.S. nation-building effort in Afghanistan, the cultural legacy of two decades of American occupation has been harder to stamp out.  <a href="https://nyti.ms/3NTP1Yj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Debris and Presumed Human Remains From Lost Titan Are Recovered</h3>
-<sub>By Remy Tumin and Rebecca Carballo</sub>
-<p>Debris from the Titan was returned to land off Newfoundland, nearly a week after an international search-and-rescue effort for the vessel ended and its five passengers were presumed dead.  <a href="https://nyti.ms/3NRy3cM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Democrats to Use $20 Million Equal Rights Push to Aid 2024 N.Y. House Bids</h3>
-<sub>By Dana Rubinstein</sub>
-<p>Numerous left-leaning groups are behind a statewide effort to focus attention on a 2024 equal-rights referendum, hoping to increase voter turnout.  <a href="https://nyti.ms/3NSyxQ0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>Episode 1: The Patients</h3>
+<sub>By Susan Burton, Laura Starecheski, Julie Snyder and Carla Pallone</sub>
+<p>From Serial Productions. Women experience unexpected pain during fertility treatment.  <a href="https://nyti.ms/44pPE0U"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Republicans’ Problem in Attacking Biden: They Helped Pass His Economic Bills</h3>
-<sub>By Jonathan Weisman and Reid J. Epstein</sub>
-<p>No doubt they will take swings at him anyway. But it may be more difficult to land punches given that plenty of them voted for the bipartisan infrastructure and semiconductor manufacturing bills.  <a href="https://nyti.ms/46pwXfJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>Affirmative Action Is Dead. Campus Diversity Doesn’t Have to Be.</h3>
+<sub>By David Brooks and Sophia Alvarez Boyd</sub>
+<p>David Brooks makes the case for class-based admissions.  <a href="https://nyti.ms/449bExp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>‘My Body Is a Clock’: The Private Life of Chronic Care</h3>
+<sub>By Sara J. Winston</sub>
+<p>Every 28 days, I point the camera toward myself to document my illness, care and time.  <a href="https://nyti.ms/3pqCWjE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>You Should Be Getting Paid to Prevent Heat Wave Power Outages</h3>
+<sub>By Michael E. Webber</sub>
+<p>What if utilities just gave money to people to reduce their power use during peak hours?  <a href="https://nyti.ms/3pvcntS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
 <hr/>
 </ol>
