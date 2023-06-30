@@ -60,10 +60,32 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, June 30, Central Standard Time</p>
 <p>
-There&#39;s a lot happening in the world right now. In the US, the Supreme Court recently released a decision impacting college admissions that has some conservatives promising to monitor and if necessary, go back to court. Also in the US, due to a recent ruling, universities could start changing how they evaluate applicants. Across large parts of the US there is pollution due to smoke from wildfires in Canada and temperatures are rising in the south and west.
+Recently, the Supreme Court ruled on a few important cases: they decided that the Biden administration overstepped their authority with student loan cancellation and the Colorado website maker did not have to make wedding websites celebrating same-sex marriages. This could lead to college admissions becoming more subjective and affirmative action policies ending in universities which could have an effect on corporate diversity.
 
-In France, there have been protests after a police officer fatally shot a teenage driver. There were more than 600 people arrested after the third night of riots and the government is having a crisis meeting. Also, journalists at a leading newspaper are striking because they feel an appointed editor will turn it into a right-wing platform.</p>
+A heatwave is affecting the south, southwest, and Midwest causing smoky conditions. In Ukraine, Russia destroyed a town and only 1,700 people remain.
+
+A nationwide dispute has broken out related to pickleball noise leading to petitions, calls to police, and even lawsuits. Alan Arkin passed away recently at the age of 89; he was known for his comedic roles but also had a flair for drama.
+
+In France, police are now allowed to shoot at drivers without training which has resulted in an increase of fatal shootings. This has incited angry protests.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Read the document</h3>
+<sub></sub>
+<p>The Supreme Court ruled that the Biden administration had overstepped its authority with its plan to wipe out more than $400 billion in student debt.  <a href="https://nyti.ms/431y6XP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Six Ways You Can Still Cancel Your Federal Student Loan Debt</h3>
+<sub>By Ron Lieber</sub>
+<p>The Supreme Court’s decision on student loan cancellation does not change programs that help public servants and low-income or disabled borrowers.  <a href="https://nyti.ms/3Nu9wt7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Read the Document</h3>
+<sub></sub>
+<p>The Supreme Court has ruled, 6-to-3, in favor of a Colorado website maker who does not want to make wedding websites celebrating same-sex marriages.  <a href="https://nyti.ms/3preA9D"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 30, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>With Supreme Court Decision, College Admissions Could Become More Subjective</h3>
 <sub>By Anemona Hartocollis</sub>
@@ -71,21 +93,15 @@ In France, there have been protests after a police officer fatally shot a teenag
 <sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Affirmative Action Ruling, Black Justices Take Aim at Each Other</h3>
-<sub>By Abbie VanSickle</sub>
-<p>Even as Justices Clarence Thomas and Ketanji Brown Jackson appeared to agree over the policy’s aim, they harshly criticized each other’s conclusions on what to do.  <a href="https://nyti.ms/3ptUviR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Key Cases the Supreme Court Has Yet to Decide in 2023</h3>
-<sub>By Adam Liptak and Eli Murray</sub>
-<p>How the court’s 6-to-3 conservative majority is ruling this term after its lurch to the right a year ago in blockbuster decisions on abortion, guns, religion and climate change.  <a href="https://nyti.ms/43xL9Bt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Five Ways College Admissions Could Change</h3>
 <sub>By Stephanie Saul</sub>
 <p>The Supreme Court’s affirmative action decision could upend how students apply to college, and how they are judged. Here’s how.  <a href="https://nyti.ms/3PACnys"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Why Corporate America Is Worried About Affirmative Action</h3>
+<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Michael J. de la Merced and Lauren Hirsch</sub>
+<p>Many businesses have adopted policies to diversify hiring but the Supreme Court’s ruling to end the policy in universities endangers those efforts.  <a href="https://nyti.ms/3qYNUgH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -108,8 +124,14 @@ In France, there have been protests after a police officer fatally shot a teenag
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Shattered Nerves, Sleepless Nights: Pickleball Noise Is Driving Everyone Nuts</h3>
-<sub>By Andrew Keh</sub>
+<sub>By Andrew Keh and Alyssa Schukar</sub>
 <p>The incessant pop-pop-pop of the fast-growing sport has brought on a nationwide scourge of unneighborly clashes, petitions, calls to the police and lawsuits, with no solution in sight.  <a href="https://nyti.ms/3plEtYx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>Alan Arkin, Comic Actor With a Serious Side, Dies at 89</h3>
+<sub>By Robert Berkvist and Peter Keepnews</sub>
+<p>He got laughs (and won awards) on Broadway in “Enter Laughing” and in movies like “Little Miss Sunshine.” But he also had a flair for drama.  <a href="https://nyti.ms/46HIdV5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -117,24 +139,6 @@ In France, there have been protests after a police officer fatally shot a teenag
 <sub>By Constant Méheut</sub>
 <p>Data showed a spike in fatal shootings like the one that has incited angry protests. Experts say it’s an unintended consequence of a rushed response to terrorism.  <a href="https://nyti.ms/44Ij8HN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Over 600 Arrested in France After Another Night of Unrest</h3>
-<sub>By Aurelien Breeden</sub>
-<p>Protesters set cars on fire and looted stores in cities around the country for the third night in a row after the fatal police shooting of a teenage driver. The government is holding a crisis meeting.  <a href="https://nyti.ms/437snQv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Who is Nahel M.?</h3>
-<sub>By Catherine Porter</sub>
-<p>The 17-year-old fatally shot by a police officer was an only child being raised by his mother in Nanterre, a Paris suburb.  <a href="https://nyti.ms/3JxeAMc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>A French Newsroom on Strike After Appointment of ‘Far-Right’ Editor</h3>
-<sub>By Liz Alderman</sub>
-<p>Journalists at a leading newspaper, Le Journal du Dimanche, have walked out over fears that Geoffroy Lejeune will turn it into a right-wing platform.  <a href="https://nyti.ms/46sJsXM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
