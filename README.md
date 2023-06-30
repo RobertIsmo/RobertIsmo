@@ -60,48 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, June 30, Central Standard Time</p>
 <p>
-Recently, the Supreme Court ruled on a few important cases: they decided that the Biden administration overstepped their authority with student loan cancellation and the Colorado website maker did not have to make wedding websites celebrating same-sex marriages. This could lead to college admissions becoming more subjective and affirmative action policies ending in universities which could have an effect on corporate diversity.
-
-A heatwave is affecting the south, southwest, and Midwest causing smoky conditions. In Ukraine, Russia destroyed a town and only 1,700 people remain.
-
-A nationwide dispute has broken out related to pickleball noise leading to petitions, calls to police, and even lawsuits. Alan Arkin passed away recently at the age of 89; he was known for his comedic roles but also had a flair for drama.
-
-In France, police are now allowed to shoot at drivers without training which has resulted in an increase of fatal shootings. This has incited angry protests.</p>
+Right now, a lot of news stories are happening across the world.  In the business sector, the pandemic pause on student loan payments is ending soon, but a new system of calculating repayments may potentially lower monthly bills.  In the US, the Supreme Court is going to consider taking away guns from people subject to restraining orders for domestic abuse. There&#39;s also a decision against affirmative action in college admissions that could have a wide-ranging effect. Temperature-wise, outrageous heat is expected in Texas and places along the Gulf of Mexico while smoke from Canadian wildfires can be seen lingering in the Northeast and Midwest. And in Brazil, ex-President Jair Bolsonaro is facing electoral fraud charges and has been blocked from office until 2030.  Over in France, continue clashes happened between protesters and police with crowds chanting “we don’t forget, we don’t forgive”. Elsewhere in TV and movies, there&#39;s been a surge of content focusing on young people navigating through apocalyptic events. Finally, there&#39;s some hope from the Opinion section as Supreme Court overturns decades of precedents and programs to help students.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Read the document</h3>
-<sub></sub>
-<p>The Supreme Court ruled that the Biden administration had overstepped its authority with its plan to wipe out more than $400 billion in student debt.  <a href="https://nyti.ms/431y6XP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 30, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Six Ways You Can Still Cancel Your Federal Student Loan Debt</h3>
-<sub>By Ron Lieber</sub>
-<p>The Supreme Court’s decision on student loan cancellation does not change programs that help public servants and low-income or disabled borrowers.  <a href="https://nyti.ms/3Nu9wt7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Here’s what will happen to your student loans now.</h3>
+<sub>By Ron Lieber and Tara Siegel Bernard</sub>
+<p>The pandemic pause on student loan payments will end soon, but a new system for calculating repayments may lower monthly bills.  <a href="https://nyti.ms/431mQeh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Read the Document</h3>
-<sub></sub>
-<p>The Supreme Court has ruled, 6-to-3, in favor of a Colorado website maker who does not want to make wedding websites celebrating same-sex marriages.  <a href="https://nyti.ms/3preA9D"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Supreme Court to Hear Major Guns Case Involving Domestic Violence</h3>
+<sub>By Adam Liptak</sub>
+<p>The court, which has decided very few Second Amendment cases, will consider whether the government may disarm people subject to restraining orders for domestic abuse.  <a href="https://nyti.ms/3pvFr4m"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>With Supreme Court Decision, College Admissions Could Become More Subjective</h3>
-<sub>By Anemona Hartocollis</sub>
-<p>Colleges have a game plan, like emphasizing the personal essay, but so do conservative groups that promise to monitor and, if necessary, go back to court.  <a href="https://nyti.ms/433PJqe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Five Ways College Admissions Could Change</h3>
+<h3>What the Affirmative Action Ruling Means for Colleges and Universities</h3>
 <sub>By Stephanie Saul</sub>
-<p>The Supreme Court’s affirmative action decision could upend how students apply to college, and how they are judged. Here’s how.  <a href="https://nyti.ms/3PACnys"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Why Corporate America Is Worried About Affirmative Action</h3>
-<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Michael J. de la Merced and Lauren Hirsch</sub>
-<p>Many businesses have adopted policies to diversify hiring but the Supreme Court’s ruling to end the policy in universities endangers those efforts.  <a href="https://nyti.ms/3qYNUgH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The end of race-conscious admissions could have wide-ranging effects. Here’s what might happen.  <a href="https://nyti.ms/3r1yuIy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -112,14 +88,8 @@ In France, police are now allowed to shoot at drivers without training which has
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Smoky Conditions Persist Across Large Parts of U.S.</h3>
-<sub>By Derrick Bryson Taylor</sub>
+<sub>By Derrick Bryson Taylor and Christopher Maag</sub>
 <p>Smoke driven by the wildfires in Canada lingered over the Northeast and Midwest on Friday. Conditions were expected to improve over the Fourth of July weekend.  <a href="https://nyti.ms/44awhJB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia Destroyed Their Town. They’re Not Leaving.</h3>
-<sub>By Tyler Hicks, Megan Specia and Gaëlle Girbes</sub>
-<p>Avdiivka, Ukraine, once had a prewar population of about 30,000. By March, only around 1,700 people remained.  <a href="https://nyti.ms/3PEESQw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
@@ -131,13 +101,37 @@ In France, police are now allowed to shoot at drivers without training which has
 <img src="https://img.shields.io/badge/-movies-blue" alt="">
 <h3>Alan Arkin, Comic Actor With a Serious Side, Dies at 89</h3>
 <sub>By Robert Berkvist and Peter Keepnews</sub>
-<p>He got laughs (and won awards) on Broadway in “Enter Laughing” and in movies like “Little Miss Sunshine.” But he also had a flair for drama.  <a href="https://nyti.ms/46HIdV5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>He got laughs and won awards on Broadway in “Enter Laughing” and in movies like “Little Miss Sunshine.” But he also had a flair for drama.  <a href="https://nyti.ms/46HIdV5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-books-blue" alt="">
+<h3>Bridget Jones Deserved Better. We All Did.</h3>
+<sub>By Elisabeth Egan</sub>
+<p>Helen Fielding’s ditzy heroine was all the rage when she was introduced to American audiences in 1998. Today, her nuttiness and self-loathing read like a relic from another time.  <a href="https://nyti.ms/3JyZQMv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>French Police Won Authority to Shoot at Drivers, but Got ‘No Training Whatsoever’</h3>
-<sub>By Constant Méheut</sub>
-<p>Data showed a spike in fatal shootings like the one that has incited angry protests. Experts say it’s an unintended consequence of a rushed response to terrorism.  <a href="https://nyti.ms/44Ij8HN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Brazil Votes to Bar Bolsonaro From Office for Election-Fraud Claims</h3>
+<sub>By Jack Nicas</sub>
+<p>A majority of Brazil’s electoral court voted to block former President Jair Bolsonaro from office until 2030 for spreading false claims about voting.  <a href="https://nyti.ms/3CYS0Ik"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Visual Timeline of the Protests in France</h3>
+<sub>By Jenny Gross, Sarah Kerr and Adam Dean</sub>
+<p>Clashes between protesters and police continued in cities across France. “We don’t forget, we don’t forgive,” crowds chanted.  <a href="https://nyti.ms/435bt54"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-t-magazine-blue" alt="">
+<h3>Will Children Save Us at the End of the World?</h3>
+<sub>By Noreen Malone</sub>
+<p>A wave of recent and forthcoming TV series, books and movies meditate on how young people might fare during an apocalyptic event — with varying degrees of optimism.  <a href="https://nyti.ms/3PCCGsK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>The Supreme Court Turns ‘Equal Protection’ Upside Down</h3>
+<sub>By The Editorial Board</sub>
+<p>Its ruling on affirmative action in college admissions overturns decades of precedents and programs that helped thousands of American students.  <a href="https://nyti.ms/3rabLu7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 30, Central Standard Time</sub></sub>
 <hr/>
 </ol>
