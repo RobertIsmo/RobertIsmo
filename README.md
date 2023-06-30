@@ -58,12 +58,15 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Thursday, June 29, Central Standard Time</p>
-<p>There is a lot happening in the world right now. In the US, a jury acquitted a deputy of child neglect, culpable negligence and perjury after he failed to confront the Parkland school gunman. Also, some US schools have been reinstating police officers on their campuses, leading to criticism that it will disproportionately hurt students of color. 
+<p>It is Friday, June 30, Central Standard Time</p>
+<p>
+Right now, there&#39;s a lot going on around the world. In the US, a jury recently acquitted a deputy who failed to confront a Parkland gunman, while schools are bringing police back to campuses reversing some racial justice decisions. 
 
-In the NY region, a mayor compared a housing activist to a plantation owner after she questioned him about back-to-back rent increases, and there has been severe haze and wildfire smoke across North America. In Canada, firefighters from the US, Australia, France, and South Africa are fighting wildfires there.
+In New York, the Mayor has caused some controversy by comparing a housing activist to a plantation owner. Meanwhile, in the Midwest, smoke is causing dangerous heat and impacting cities from Pittsburgh to Chicago. In Canada, wildfires have mobilized firefighters from the US, Australia, France and South Africa. 
 
-In Russia, President Putin has been posing for selfies while US officials say he may have detained a top general. In Africa, Russia is enmeshed in several countries with an effort to ‘tame’ the Wagner mercenary group but not destroy it; and in France a police shooting sparked protests from people who saw it as kin and friend of theirs being killed.  This has presented a new challenge for French President Macron as he seeks to restore calm following pension overhauls sparking turbulence in the streets.  Meanwhile on television, game shows like &quot;Wheel of Fortune,&quot; “Jeopardy!” and “Family Feud” are still drawing big audiences even in the streaming era.</p>
+In France, a police shooting has presented a new challenge for Macron, and protests have erupted in response. Also out of France comes an interesting discovery - the oldest known proto-pizza in 2,000-year-old painting on the walls of Pompeii! 
+
+On the business front, game shows continue to thrive and be popular - Wheel of Fortune and Jeopardy being noteworthy examples. Meanwhile, Koch Network raised over $70 million towards sinking Trump in 2024&#39;s Republican presidential primary. </p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Jury Acquits Deputy Who Failed to Confront Parkland Gunman</h3>
@@ -81,6 +84,24 @@ In Russia, President Putin has been posing for selfies while US officials say he
 <h3>Mayor Compares Housing Activist, Whose Family Fled Holocaust, to Plantation Owner</h3>
 <sub>By Emma G. Fitzsimmons</sub>
 <p>Mayor Eric Adams criticized the woman, whose family left Germany in the 1930s, after she questioned him about back-to-back rent increases.  <a href="https://nyti.ms/3NUUIVV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Can Russia Tame Wagner in Africa Without Destroying It?</h3>
+<sub>By Elian Peltier and Raja Abdulrahim</sub>
+<p>The mercenary group is so deeply enmeshed in the Central African Republic and several other nations that it can’t be easily replaced, experts say.  <a href="https://nyti.ms/44phEC0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Nahel M., a Stranger Killed by Police, French Protesters See Friend and Kin</h3>
+<sub>By Catherine Porter</sub>
+<p>“We don’t forget, we don’t forgive,” crowds chanted as they denounced the shooting death of a 17-year-old from the Paris suburb of Nanterre.  <a href="https://nyti.ms/3NQO7LU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Police Shooting in France Presents New Challenge for Macron</h3>
+<sub>By Roger Cohen</sub>
+<p>Protests over the fatal police shooting of a teenager come as President Emmanuel Macron seeks to restore a sense of calm after his pension overhaul ignited turbulence in the streets.  <a href="https://nyti.ms/3PTXXyj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -101,41 +122,23 @@ In Russia, President Putin has been posing for selfies while US officials say he
 <p>Nearly 400 American firefighters have been fighting fires in Alberta, Quebec and British Columbia.  <a href="https://nyti.ms/3NoHmPW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Putin Poses for Selfies, U.S. Says Russia May Have Detained a Top General</h3>
-<sub>By Ivan Nechepurenko, Valerie Hopkins, Helene Cooper, Julian E. Barnes and Eric Schmitt</sub>
-<p>President Vladimir V. Putin of Russia made highly choreographed appearances in an effort to project power and control, and U.S. officials suggested Gen. Sergei Surovikin was probably being held.  <a href="https://nyti.ms/3NyEaRT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Can Russia Tame Wagner in Africa Without Destroying It?</h3>
-<sub>By Elian Peltier and Raja Abdulrahim</sub>
-<p>The mercenary group is so deeply enmeshed in the Central African Republic and several other nations that it can’t be easily replaced, experts say.  <a href="https://nyti.ms/44phEC0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Pence Meets With Zelensky in Ukraine, Highlighting G.O.P. Split Over War</h3>
-<sub>By Neil Vigdor</sub>
-<p>Former President Donald J. Trump has been critical of U.S. involvement in Ukraine’s defense, as has Gov. Ron DeSantis of Florida.  <a href="https://nyti.ms/3NAt8vo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Nahel M., a Stranger Killed by Police, French Protesters See Friend and Kin</h3>
-<sub>By Catherine Porter</sub>
-<p>“We don’t forget, we don’t forgive,” crowds chanted as they denounced the shooting death of a 17-year-old from the Paris suburb of Nanterre.  <a href="https://nyti.ms/3NQO7LU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Police Shooting in France Presents New Challenge for Macron</h3>
-<sub>By Roger Cohen</sub>
-<p>Protests over the fatal police shooting of a teenager come as President Emmanuel Macron seeks to restore a sense of calm after his pension overhaul ignited turbulence in the streets.  <a href="https://nyti.ms/3PTXXyj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>This Broadcast TV Genre Continues to Thrive. (What Are Game Shows?)</h3>
 <sub>By John Koblin</sub>
 <p>“Wheel of Fortune,” “Jeopardy!” and “Family Feud” continue to attract big audiences even as streaming upends viewing habits.  <a href="https://nyti.ms/3NSXStd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Koch Network Raises Over $70 Million for Push to Sink Trump</h3>
+<sub>By Maggie Haberman, Jonathan Swan and Shane Goldmacher</sub>
+<p>Americans for Prosperity Action is wading into a Republican presidential primary for the first time, and waiting to see which candidate it will get behind for 2024.  <a href="https://nyti.ms/43axHSV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Proto-Pizza Emerges From a Fresco on a Pompeii Wall</h3>
+<sub>By Elisabetta Povoledo</sub>
+<p>That doughy disc with delectable toppings seen in a 2,000-year-old painting is not a pizza, experts insist. But can we get one delivered anyway?  <a href="https://nyti.ms/3O0gkQN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 27, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
