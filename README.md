@@ -60,26 +60,8 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, June 30, Central Standard Time</p>
 <p>
-Right now, there&#39;s a lot going on around the world. In the US, a jury recently acquitted a deputy who failed to confront a Parkland gunman, while schools are bringing police back to campuses reversing some racial justice decisions. 
-
-In New York, the Mayor has caused some controversy by comparing a housing activist to a plantation owner. Meanwhile, in the Midwest, smoke is causing dangerous heat and impacting cities from Pittsburgh to Chicago. In Canada, wildfires have mobilized firefighters from the US, Australia, France and South Africa. 
-
-In France, a police shooting has presented a new challenge for Macron, and protests have erupted in response. Also out of France comes an interesting discovery - the oldest known proto-pizza in 2,000-year-old painting on the walls of Pompeii! 
-
-On the business front, game shows continue to thrive and be popular - Wheel of Fortune and Jeopardy being noteworthy examples. Meanwhile, Koch Network raised over $70 million towards sinking Trump in 2024&#39;s Republican presidential primary. </p>
+The world is facing a lot of unrest right now. In France, protesters are denouncing the police shooting of a 17-year-old in Paris and over 600 people have been arrested after three days of protests. In North America, dangerous heat waves and heavy wildfire smoke have sickened people and spread across the continent. Hundreds of American firefighters are helping out with Canadian wildfires. In the US, a jury acquitted a deputy responsible for inaction during the Parkland shooting and some schools are bringing back police officers to their campuses due to parental concerns over campus violence. Finally, the Koch network has raised over $70 million for the push to sink Trump in 2024.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Jury Acquits Deputy Who Failed to Confront Parkland Gunman</h3>
-<sub>By Patricia Mazzei</sub>
-<p>Scot Peterson was found not guilty of child neglect, culpable negligence and perjury in a rare trial over police inaction in a school shooting.  <a href="https://nyti.ms/3NAlfGi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Schools Bring Police Back to Campuses, Reversing Racial Justice Decisions</h3>
-<sub>By Tim Arango</sub>
-<p>Denver’s school system is the latest to reinstate officers, responding to parental concerns over campus violence. Critics say the move will disproportionately hurt students of color.  <a href="https://nyti.ms/433yCor"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 27, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Mayor Compares Housing Activist, Whose Family Fled Holocaust, to Plantation Owner</h3>
 <sub>By Emma G. Fitzsimmons</sub>
@@ -99,10 +81,28 @@ On the business front, game shows continue to thrive and be popular - Wheel of F
 <sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Over 600 Arrested in France After Fresh Night of Unrest</h3>
+<sub>By Aurelien Breeden</sub>
+<p>Protesters set cars on fire and looted stores in cities around the country for the third day in a row after the fatal police shooting of a teenage driver.  <a href="https://nyti.ms/437snQv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Police Shooting in France Presents New Challenge for Macron</h3>
 <sub>By Roger Cohen</sub>
 <p>Protests over the fatal police shooting of a teenager come as President Emmanuel Macron seeks to restore a sense of calm after his pension overhaul ignited turbulence in the streets.  <a href="https://nyti.ms/3PTXXyj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Jury Acquits Deputy Who Failed to Confront Parkland Gunman</h3>
+<sub>By Patricia Mazzei</sub>
+<p>Scot Peterson was found not guilty of child neglect, culpable negligence and perjury in a rare trial over police inaction in a school shooting.  <a href="https://nyti.ms/3NAlfGi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Schools Bring Police Back to Campuses, Reversing Racial Justice Decisions</h3>
+<sub>By Tim Arango</sub>
+<p>Denver’s school system is the latest to reinstate officers, responding to parental concerns over campus violence. Critics say the move will disproportionately hurt students of color.  <a href="https://nyti.ms/433yCor"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Haze Moves Through Midwest, as New York City Avoids the Worst for Now</h3>
@@ -133,12 +133,6 @@ On the business front, game shows continue to thrive and be popular - Wheel of F
 <sub>By Maggie Haberman, Jonathan Swan and Shane Goldmacher</sub>
 <p>Americans for Prosperity Action is wading into a Republican presidential primary for the first time, and waiting to see which candidate it will get behind for 2024.  <a href="https://nyti.ms/43axHSV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Proto-Pizza Emerges From a Fresco on a Pompeii Wall</h3>
-<sub>By Elisabetta Povoledo</sub>
-<p>That doughy disc with delectable toppings seen in a 2,000-year-old painting is not a pizza, experts insist. But can we get one delivered anyway?  <a href="https://nyti.ms/3O0gkQN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 27, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
