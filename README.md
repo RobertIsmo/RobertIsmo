@@ -59,12 +59,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, June 29, Central Standard Time</p>
-<p>
-There are a lot of news stories coming out of around the world right now. In the US, a jury has acquitted a deputy who failed to confront the Parkland gunman. Schools in Denver have brought back police to their campuses despite controversy over racial justice decisions. Meanwhile, a mayor has compared an elderly Holocaust survivor to a plantation owner after she questioned him about rent increases.
+<p>There is a lot happening in the world right now. In the US, a jury acquitted a deputy of child neglect, culpable negligence and perjury after he failed to confront the Parkland school gunman. Also, some US schools have been reinstating police officers on their campuses, leading to criticism that it will disproportionately hurt students of color. 
 
-We&#39;re also feeling the effects of dangerous heat and wildfire smoke across North America - Canada&#39;s even enlisted firefighters from around the globe to help put out raging fires. On the international front, Russia is making headlines as Vladimir Putin is posing for selfies and possibly detaining a top general while there is concern about their mercenary groups&#39; activities in Africa. 
+In the NY region, a mayor compared a housing activist to a plantation owner after she questioned him about back-to-back rent increases, and there has been severe haze and wildfire smoke across North America. In Canada, firefighters from the US, Australia, France, and South Africa are fighting wildfires there.
 
-The US Vice President recently visited Ukraine and there are protests in France over a 17-year-old&#39;s death by police officer. This is all putting Macron under pressure as he&#39;s trying to restore order after his pension overhaul. Lastly, show game shows still remain popular in broadcast TV formats despite streaming becoming more prevalent.</p>
+In Russia, President Putin has been posing for selfies while US officials say he may have detained a top general. In Africa, Russia is enmeshed in several countries with an effort to ‘tame’ the Wagner mercenary group but not destroy it; and in France a police shooting sparked protests from people who saw it as kin and friend of theirs being killed.  This has presented a new challenge for French President Macron as he seeks to restore calm following pension overhauls sparking turbulence in the streets.  Meanwhile on television, game shows like &quot;Wheel of Fortune,&quot; “Jeopardy!” and “Family Feud” are still drawing big audiences even in the streaming era.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Jury Acquits Deputy Who Failed to Confront Parkland Gunman</h3>
@@ -79,7 +78,7 @@ The US Vice President recently visited Ukraine and there are protests in France 
 <sub><sub>Tuesday, June 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Mayor Compares Housing Activist, Who Fled Holocaust, to Plantation Owner</h3>
+<h3>Mayor Compares Housing Activist, Whose Family Fled Holocaust, to Plantation Owner</h3>
 <sub>By Emma G. Fitzsimmons</sub>
 <p>Mayor Eric Adams criticized the woman, whose family left Germany in the 1930s, after she questioned him about back-to-back rent increases.  <a href="https://nyti.ms/3NUUIVV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
