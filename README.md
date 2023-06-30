@@ -60,11 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, June 29, Central Standard Time</p>
 <p>
-Right now, there&#39;s a lot of controversy over police presence on school campuses and the impact it could have on minority students. In Denver, school districts are bringing police officers back to their campuses against racial justice advocates&#39; objections. Meanwhile, Canadian officials have called for help from the US and other international countries to fight devastating wildfires. Here in the US, prison inmates suffer at the hands of this year&#39;s record-breaking summer heat with insufficient air conditioning. In Russia, experts say military advancements still haven&#39;t been made despite a prominent figure&#39;s departure.
+There are a lot of news stories coming out of around the world right now. In the US, a jury has acquitted a deputy who failed to confront the Parkland gunman. Schools in Denver have brought back police to their campuses despite controversy over racial justice decisions. Meanwhile, a mayor has compared an elderly Holocaust survivor to a plantation owner after she questioned him about rent increases.
 
-On the lighter side, some family drama at the Supreme Court has everyone talking. Cindy Birdsong&#39;s relatives are trying to gain control over her care and finances by placing her in a conservatorship. Shein, an online fast-fashion company, caused a stir when they flew influencers to China to try and reverse negative accusations against them. And it looks like Koch Network is teaming up with Republicans to support Trump in 2024 - they&#39;ve already raised over $70 million for campaign efforts. Finally, two sisters in Washington opted to move in together as roommates while searching for their first apartment - but who got the better bedroom? 
+We&#39;re also feeling the effects of dangerous heat and wildfire smoke across North America - Canada&#39;s even enlisted firefighters from around the globe to help put out raging fires. On the international front, Russia is making headlines as Vladimir Putin is posing for selfies and possibly detaining a top general while there is concern about their mercenary groups&#39; activities in Africa. 
 
-Oh, and don&#39;t forget the opinion pieces! There&#39;s one about Harvard undermining itself with affirmative action against Asian applicants and another one discussing class-based admissions rather than race-based ones as an alternative solution.</p>
+The US Vice President recently visited Ukraine and there are protests in France over a 17-year-old&#39;s death by police officer. This is all putting Macron under pressure as he&#39;s trying to restore order after his pension overhaul. Lastly, show game shows still remain popular in broadcast TV formats despite streaming becoming more prevalent.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Jury Acquits Deputy Who Failed to Confront Parkland Gunman</h3>
@@ -78,64 +78,64 @@ Oh, and don&#39;t forget the opinion pieces! There&#39;s one about Harvard under
 <p>Denver’s school system is the latest to reinstate officers, responding to parental concerns over campus violence. Critics say the move will disproportionately hurt students of color.  <a href="https://nyti.ms/433yCor"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 27, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Mayor Compares Housing Activist, Who Fled Holocaust, to Plantation Owner</h3>
+<sub>By Emma G. Fitzsimmons</sub>
+<p>Mayor Eric Adams criticized the woman, whose family left Germany in the 1930s, after she questioned him about back-to-back rent increases.  <a href="https://nyti.ms/3NUUIVV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Haze Moves Through Midwest, as New York City Avoids the Worst for Now</h3>
+<sub>By Liam Stack</sub>
+<p>The impact of the smoke was less severe than earlier this month and was most strongly felt in cities from Pittsburgh and Cleveland to Chicago and Detroit.  <a href="https://nyti.ms/3CZnv53"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Dangerous Heat and Heavy Wildfire Smoke March Across North America</h3>
+<sub>By Somini Sengupta</sub>
+<p>The twin threats have sickened people across the continent with little relief in sight.  <a href="https://nyti.ms/44oFw8F"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Canadian Wildfires Have Mobilized Firefighters From the U.S., Australia, France and South Africa</h3>
 <sub>By Meagan Campbell and Dan Bilefsky</sub>
 <p>Nearly 400 American firefighters have been fighting fires in Alberta, Quebec and British Columbia.  <a href="https://nyti.ms/3NoHmPW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘Man Down!’: Surviving the Texas Heat in Prisons Without Air-Conditioning</h3>
-<sub>By J. David Goodman</sub>
-<p>The record June heat has been particularly dangerous inside the state’s prisons, where indoor temperatures can top 110 degrees.  <a href="https://nyti.ms/46u1j0M"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As Putin Poses for Selfies, U.S. Says Russia May Have Detained a Top General</h3>
+<sub>By Ivan Nechepurenko, Valerie Hopkins, Helene Cooper, Julian E. Barnes and Eric Schmitt</sub>
+<p>President Vladimir V. Putin of Russia made highly choreographed appearances in an effort to project power and control, and U.S. officials suggested Gen. Sergei Surovikin was probably being held.  <a href="https://nyti.ms/3NyEaRT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Prigozhin May Be Gone, but Not the Failings He Ranted About</h3>
-<sub>By Neil MacFarquhar</sub>
-<p>The Russian military still suffers from poor communication, coordination and leadership, but most of all, analysts say, from a morale-sapping lack of accountability.  <a href="https://nyti.ms/46FzjHF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Can Russia Tame Wagner in Africa Without Destroying It?</h3>
+<sub>By Elian Peltier and Raja Abdulrahim</sub>
+<p>The mercenary group is so deeply enmeshed in the Central African Republic and several other nations that it can’t be easily replaced, experts say.  <a href="https://nyti.ms/44phEC0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>The Family of a Former Supreme Battles for Control of Her Life</h3>
-<sub>By Julia Jacobs and Christopher Petkanas</sub>
-<p>Cindy Birdsong’s relatives have asked a court to place her in a conservatorship after they became concerned that her longtime friend had too much say over her care and finances.  <a href="https://nyti.ms/3JBnwjF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Pence Meets With Zelensky in Ukraine, Highlighting G.O.P. Split Over War</h3>
+<sub>By Neil Vigdor</sub>
+<p>Former President Donald J. Trump has been critical of U.S. involvement in Ukraine’s defense, as has Gov. Ron DeSantis of Florida.  <a href="https://nyti.ms/3NAt8vo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Nahel M., a Stranger Killed by Police, French Protesters See Friend and Kin</h3>
+<sub>By Catherine Porter</sub>
+<p>“We don’t forget, we don’t forgive,” crowds chanted as they denounced the shooting death of a 17-year-old from the Paris suburb of Nanterre.  <a href="https://nyti.ms/3NQO7LU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Police Shooting in France Presents New Challenge for Macron</h3>
+<sub>By Roger Cohen</sub>
+<p>Protests over the fatal police shooting of a teenager come as President Emmanuel Macron seeks to restore a sense of calm after his pension overhaul ignited turbulence in the streets.  <a href="https://nyti.ms/3PTXXyj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Shein Flew Influencers to China to Help Its Image. A Backlash Ensued.</h3>
-<sub>By Jordyn Holman and Sapna Maheshwari</sub>
-<p>The fast-fashion company’s attempt to rebut allegations of forced labor and poor working conditions was met with incredulity online.  <a href="https://nyti.ms/3NUZhQ1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Koch Network Raises Over $70 Million for Push to Sink Trump</h3>
-<sub>By Maggie Haberman, Jonathan Swan and Shane Goldmacher</sub>
-<p>Americans for Prosperity Action is wading into a Republican presidential primary for the first time, and waiting to see which candidate it will get behind for 2024.  <a href="https://nyti.ms/43axHSV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Moms for Liberty’s School Board Antagonism Draws G.O.P. Heavyweights</h3>
-<sub>By Jonathan Weisman</sub>
-<p>Five presidential candidates will appear at the group’s national convention in Philadelphia this week, after a local group provoked outrage for quoting Hitler.  <a href="https://nyti.ms/44lnTqm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-realestate-blue" alt="">
-<h3>Two Sisters Try Living Together (Again) in Washington. Who Gets the Bigger Bedroom?</h3>
-<sub>By Michele Lerner</sub>
-<p>With a budget of $650,000, a first-time buyer invited her younger sister to share a two-bedroom apartment in the nation’s capital — if she agreed to pay rent. Here’s where they landed.  <a href="https://nyti.ms/3CUP5AF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>Harvard Undermined Itself on Affirmative Action</h3>
-<sub>By David French</sub>
-<p>The Supreme Court’s ruling reflected the school’s clear discrimination against Asian applicants.  <a href="https://nyti.ms/4439KOZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>Affirmative Action Is Dead. Campus Diversity Doesn’t Have to Be.</h3>
-<sub>By David Brooks and Sophia Alvarez Boyd</sub>
-<p>David Brooks makes the case for class-based admissions.  <a href="https://nyti.ms/449bExp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>This Broadcast TV Genre Continues to Thrive. (What Are Game Shows?)</h3>
+<sub>By John Koblin</sub>
+<p>“Wheel of Fortune,” “Jeopardy!” and “Family Feud” continue to attract big audiences even as streaming upends viewing habits.  <a href="https://nyti.ms/3NSXStd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
 <hr/>
 </ol>
