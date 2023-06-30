@@ -60,78 +60,80 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, June 30, Central Standard Time</p>
 <p>
-The world is facing a lot of unrest right now. In France, protesters are denouncing the police shooting of a 17-year-old in Paris and over 600 people have been arrested after three days of protests. In North America, dangerous heat waves and heavy wildfire smoke have sickened people and spread across the continent. Hundreds of American firefighters are helping out with Canadian wildfires. In the US, a jury acquitted a deputy responsible for inaction during the Parkland shooting and some schools are bringing back police officers to their campuses due to parental concerns over campus violence. Finally, the Koch network has raised over $70 million for the push to sink Trump in 2024.</p>
+There&#39;s a lot happening in the world right now. In the US, the Supreme Court recently released a decision impacting college admissions that has some conservatives promising to monitor and if necessary, go back to court. Also in the US, due to a recent ruling, universities could start changing how they evaluate applicants. Across large parts of the US there is pollution due to smoke from wildfires in Canada and temperatures are rising in the south and west.
+
+In France, there have been protests after a police officer fatally shot a teenage driver. There were more than 600 people arrested after the third night of riots and the government is having a crisis meeting. Also, journalists at a leading newspaper are striking because they feel an appointed editor will turn it into a right-wing platform.</p>
 <ol>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Mayor Compares Housing Activist, Whose Family Fled Holocaust, to Plantation Owner</h3>
-<sub>By Emma G. Fitzsimmons</sub>
-<p>Mayor Eric Adams criticized the woman, whose family left Germany in the 1930s, after she questioned him about back-to-back rent increases.  <a href="https://nyti.ms/3NUUIVV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>With Supreme Court Decision, College Admissions Could Become More Subjective</h3>
+<sub>By Anemona Hartocollis</sub>
+<p>Colleges have a game plan, like emphasizing the personal essay, but so do conservative groups that promise to monitor and, if necessary, go back to court.  <a href="https://nyti.ms/433PJqe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Can Russia Tame Wagner in Africa Without Destroying It?</h3>
-<sub>By Elian Peltier and Raja Abdulrahim</sub>
-<p>The mercenary group is so deeply enmeshed in the Central African Republic and several other nations that it can’t be easily replaced, experts say.  <a href="https://nyti.ms/44phEC0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Affirmative Action Ruling, Black Justices Take Aim at Each Other</h3>
+<sub>By Abbie VanSickle</sub>
+<p>Even as Justices Clarence Thomas and Ketanji Brown Jackson appeared to agree over the policy’s aim, they harshly criticized each other’s conclusions on what to do.  <a href="https://nyti.ms/3ptUviR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Nahel M., a Stranger Killed by Police, French Protesters See Friend and Kin</h3>
-<sub>By Catherine Porter</sub>
-<p>“We don’t forget, we don’t forgive,” crowds chanted as they denounced the shooting death of a 17-year-old from the Paris suburb of Nanterre.  <a href="https://nyti.ms/3NQO7LU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Key Cases the Supreme Court Has Yet to Decide in 2023</h3>
+<sub>By Adam Liptak and Eli Murray</sub>
+<p>How the court’s 6-to-3 conservative majority is ruling this term after its lurch to the right a year ago in blockbuster decisions on abortion, guns, religion and climate change.  <a href="https://nyti.ms/43xL9Bt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Over 600 Arrested in France After Fresh Night of Unrest</h3>
-<sub>By Aurelien Breeden</sub>
-<p>Protesters set cars on fire and looted stores in cities around the country for the third day in a row after the fatal police shooting of a teenage driver.  <a href="https://nyti.ms/437snQv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Five Ways College Admissions Could Change</h3>
+<sub>By Stephanie Saul</sub>
+<p>The Supreme Court’s affirmative action decision could upend how students apply to college, and how they are judged. Here’s how.  <a href="https://nyti.ms/3PACnys"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>As the South Stews, Temperatures Are Set to Rise in the West, Too</h3>
+<sub>By Emily Cochrane and Judson Jones</sub>
+<p>In the South, oppressive temperatures are expected to continue through Sunday in southern Texas and places along the Gulf of Mexico. Out West, an arid heat will take hold.  <a href="https://nyti.ms/46sZyka"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Smoky Conditions Persist Across Large Parts of U.S.</h3>
+<sub>By Derrick Bryson Taylor</sub>
+<p>Smoke driven by the wildfires in Canada lingered over the Northeast and Midwest on Friday. Conditions were expected to improve over the Fourth of July weekend.  <a href="https://nyti.ms/44awhJB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Police Shooting in France Presents New Challenge for Macron</h3>
-<sub>By Roger Cohen</sub>
-<p>Protests over the fatal police shooting of a teenager come as President Emmanuel Macron seeks to restore a sense of calm after his pension overhaul ignited turbulence in the streets.  <a href="https://nyti.ms/3PTXXyj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
+<h3>Russia Destroyed Their Town. They’re Not Leaving.</h3>
+<sub>By Tyler Hicks, Megan Specia and Gaëlle Girbes</sub>
+<p>Avdiivka, Ukraine, once had a prewar population of about 30,000. By March, only around 1,700 people remained.  <a href="https://nyti.ms/3PEESQw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Jury Acquits Deputy Who Failed to Confront Parkland Gunman</h3>
-<sub>By Patricia Mazzei</sub>
-<p>Scot Peterson was found not guilty of child neglect, culpable negligence and perjury in a rare trial over police inaction in a school shooting.  <a href="https://nyti.ms/3NAlfGi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Shattered Nerves, Sleepless Nights: Pickleball Noise Is Driving Everyone Nuts</h3>
+<sub>By Andrew Keh</sub>
+<p>The incessant pop-pop-pop of the fast-growing sport has brought on a nationwide scourge of unneighborly clashes, petitions, calls to the police and lawsuits, with no solution in sight.  <a href="https://nyti.ms/3plEtYx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Schools Bring Police Back to Campuses, Reversing Racial Justice Decisions</h3>
-<sub>By Tim Arango</sub>
-<p>Denver’s school system is the latest to reinstate officers, responding to parental concerns over campus violence. Critics say the move will disproportionately hurt students of color.  <a href="https://nyti.ms/433yCor"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 27, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>French Police Won Authority to Shoot at Drivers, but Got ‘No Training Whatsoever’</h3>
+<sub>By Constant Méheut</sub>
+<p>Data showed a spike in fatal shootings like the one that has incited angry protests. Experts say it’s an unintended consequence of a rushed response to terrorism.  <a href="https://nyti.ms/44Ij8HN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Haze Moves Through Midwest, as New York City Avoids the Worst for Now</h3>
-<sub>By Liam Stack</sub>
-<p>The impact of the smoke was less severe than earlier this month and was most strongly felt in cities from Pittsburgh and Cleveland to Chicago and Detroit.  <a href="https://nyti.ms/3CZnv53"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Over 600 Arrested in France After Another Night of Unrest</h3>
+<sub>By Aurelien Breeden</sub>
+<p>Protesters set cars on fire and looted stores in cities around the country for the third night in a row after the fatal police shooting of a teenage driver. The government is holding a crisis meeting.  <a href="https://nyti.ms/437snQv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Dangerous Heat and Heavy Wildfire Smoke March Across North America</h3>
-<sub>By Somini Sengupta</sub>
-<p>The twin threats have sickened people across the continent with little relief in sight.  <a href="https://nyti.ms/44oFw8F"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Canadian Wildfires Have Mobilized Firefighters From the U.S., Australia, France and South Africa</h3>
-<sub>By Meagan Campbell and Dan Bilefsky</sub>
-<p>Nearly 400 American firefighters have been fighting fires in Alberta, Quebec and British Columbia.  <a href="https://nyti.ms/3NoHmPW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Who is Nahel M.?</h3>
+<sub>By Catherine Porter</sub>
+<p>The 17-year-old fatally shot by a police officer was an only child being raised by his mother in Nanterre, a Paris suburb.  <a href="https://nyti.ms/3JxeAMc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>This Broadcast TV Genre Continues to Thrive. (What Are Game Shows?)</h3>
-<sub>By John Koblin</sub>
-<p>“Wheel of Fortune,” “Jeopardy!” and “Family Feud” continue to attract big audiences even as streaming upends viewing habits.  <a href="https://nyti.ms/3NSXStd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Koch Network Raises Over $70 Million for Push to Sink Trump</h3>
-<sub>By Maggie Haberman, Jonathan Swan and Shane Goldmacher</sub>
-<p>Americans for Prosperity Action is wading into a Republican presidential primary for the first time, and waiting to see which candidate it will get behind for 2024.  <a href="https://nyti.ms/43axHSV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>A French Newsroom on Strike After Appointment of ‘Far-Right’ Editor</h3>
+<sub>By Liz Alderman</sub>
+<p>Journalists at a leading newspaper, Le Journal du Dimanche, have walked out over fears that Geoffroy Lejeune will turn it into a right-wing platform.  <a href="https://nyti.ms/46sJsXM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
 <hr/>
 </ol>
