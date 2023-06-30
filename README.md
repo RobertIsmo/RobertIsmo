@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, June 30, Central Standard Time</p>
 <p>
-Right now, a lot of news stories are happening across the world.  In the business sector, the pandemic pause on student loan payments is ending soon, but a new system of calculating repayments may potentially lower monthly bills.  In the US, the Supreme Court is going to consider taking away guns from people subject to restraining orders for domestic abuse. There&#39;s also a decision against affirmative action in college admissions that could have a wide-ranging effect. Temperature-wise, outrageous heat is expected in Texas and places along the Gulf of Mexico while smoke from Canadian wildfires can be seen lingering in the Northeast and Midwest. And in Brazil, ex-President Jair Bolsonaro is facing electoral fraud charges and has been blocked from office until 2030.  Over in France, continue clashes happened between protesters and police with crowds chanting “we don’t forget, we don’t forgive”. Elsewhere in TV and movies, there&#39;s been a surge of content focusing on young people navigating through apocalyptic events. Finally, there&#39;s some hope from the Opinion section as Supreme Court overturns decades of precedents and programs to help students.</p>
+We&#39;re entering the end of the pandemic pause on student loan payments, which could lower monthly bills for borrowers. The Supreme Court is hearing a major guns case involving domestic violence, and it will affect the rules around who can legally possess guns. In terms of admissions to universities and colleges, there is now an end to race-conscious admissions. In Europe, satellite imagery revealed hundreds of new tents at a potential base for a private military company in Belarus. New York City found that 18 Hasidic schools failed to provide adequate education to thousands of students. Fox News recently reached a settlement with a former producer over allegations of hostile workplace. Alan Arkin, a celebrated actor, passed away this week at the age of 89. There was discussion on Bridget Jones, an iconic character from 1998 who has become a relic from another time. There are rival camps forming in France over police shootings in recent days. Temperatures have been increasing this weekend both in the South and West of the United States, accompanied by smoke from the continued Canadian wildfires lingering over the Northeast and Midwest.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Here’s what will happen to your student loans now.</h3>
@@ -80,22 +80,22 @@ Right now, a lot of news stories are happening across the world.  In the busines
 <p>The end of race-conscious admissions could have wide-ranging effects. Here’s what might happen.  <a href="https://nyti.ms/3r1yuIy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>As the South Stews, Temperatures Are Set to Rise in the West, Too</h3>
-<sub>By Emily Cochrane and Judson Jones</sub>
-<p>In the South, oppressive temperatures are expected to continue through Sunday in southern Texas and places along the Gulf of Mexico. Out West, an arid heat will take hold.  <a href="https://nyti.ms/46sZyka"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Satellite imagery reveals more than 300 new tents at a site that could be a base for Wagner in Belarus.</h3>
+<sub>By Christoph Koettl, Riley Mellen and Dmitriy Khavin</sub>
+<p>  <a href="https://nyti.ms/3PDrr37"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Smoky Conditions Persist Across Large Parts of U.S.</h3>
-<sub>By Derrick Bryson Taylor and Christopher Maag</sub>
-<p>Smoke driven by the wildfires in Canada lingered over the Northeast and Midwest on Friday. Conditions were expected to improve over the Fourth of July weekend.  <a href="https://nyti.ms/44awhJB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>18 Hasidic Schools Failed to Provide Basic Education, New York City Finds</h3>
+<sub>By Eliza Shapiro and Brian M. Rosenthal</sub>
+<p>An eight-year investigation determined that the religious schools were breaking the law by not offering thousands of students adequate instruction in English and math.  <a href="https://nyti.ms/46xFblW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Shattered Nerves, Sleepless Nights: Pickleball Noise Is Driving Everyone Nuts</h3>
-<sub>By Andrew Keh and Alyssa Schukar</sub>
-<p>The incessant pop-pop-pop of the fast-growing sport has brought on a nationwide scourge of unneighborly clashes, petitions, calls to the police and lawsuits, with no solution in sight.  <a href="https://nyti.ms/3plEtYx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Fox News Agrees to Pay $12 Million to Settle Hostile Workplace Suit</h3>
+<sub>By Katie Robertson</sub>
+<p>The settlement with a former producer, Abby Grossberg, is the latest development in a series of legal battles involving Fox.  <a href="https://nyti.ms/3CQtRUB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-movies-blue" alt="">
@@ -111,9 +111,9 @@ Right now, a lot of news stories are happening across the world.  In the busines
 <sub><sub>Friday, June 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Brazil Votes to Bar Bolsonaro From Office for Election-Fraud Claims</h3>
-<sub>By Jack Nicas</sub>
-<p>A majority of Brazil’s electoral court voted to block former President Jair Bolsonaro from office until 2030 for spreading false claims about voting.  <a href="https://nyti.ms/3CYS0Ik"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>France Splits Into Rival Camps Over Police Shooting of a Teenager</h3>
+<sub>By Roger Cohen</sub>
+<p>Society is increasingly divided between a law-and-order faction and those who see racism in a pattern of police killings or mistreatment of minorities.  <a href="https://nyti.ms/3NV8dVl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -122,16 +122,16 @@ Right now, a lot of news stories are happening across the world.  In the busines
 <p>Clashes between protesters and police continued in cities across France. “We don’t forget, we don’t forgive,” crowds chanted.  <a href="https://nyti.ms/435bt54"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-t-magazine-blue" alt="">
-<h3>Will Children Save Us at the End of the World?</h3>
-<sub>By Noreen Malone</sub>
-<p>A wave of recent and forthcoming TV series, books and movies meditate on how young people might fare during an apocalyptic event — with varying degrees of optimism.  <a href="https://nyti.ms/3PCCGsK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>As the South Stews, Temperatures Are Set to Rise in the West, Too</h3>
+<sub>By Emily Cochrane and Judson Jones</sub>
+<p>In the South, oppressive temperatures are expected to continue through Sunday in southern Texas and places along the Gulf of Mexico. Out West, an arid heat will take hold.  <a href="https://nyti.ms/46sZyka"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>The Supreme Court Turns ‘Equal Protection’ Upside Down</h3>
-<sub>By The Editorial Board</sub>
-<p>Its ruling on affirmative action in college admissions overturns decades of precedents and programs that helped thousands of American students.  <a href="https://nyti.ms/3rabLu7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Smoky Conditions Persist Across Large Parts of U.S.</h3>
+<sub>By Derrick Bryson Taylor and Christopher Maag</sub>
+<p>Smoke driven by the wildfires in Canada lingered over the Northeast and Midwest on Friday. Conditions were expected to improve over the Fourth of July weekend.  <a href="https://nyti.ms/44awhJB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 30, Central Standard Time</sub></sub>
 <hr/>
 </ol>
