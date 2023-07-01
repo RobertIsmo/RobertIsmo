@@ -60,9 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, July 1, Central Standard Time</p>
 <p>
-The world is dealing with a lot at the moment. In the US, a Supreme Court decision on affirmative action and student loans has given Democrats an opening to make a case on class and appeal to voters. Meanwhile, France is in turmoil after the police shooting of a 17-year-old led to unrest across the country, further deepening divisions between law-and-order and those identifying racism in police violence. Away from politics, it&#39;s also been an incredibly hot summer in the South, messing with people&#39;s routines. 
+Right now, there are a lot of important legal decisions being made in the US. The Supreme Court issued a ruling about affirmative action for college admissions that might affect workplaces and hiring policies. It&#39;s also handed down decisions about student loans and other topics that could open up new political opportunities for Democrats.
 
-In other news, a migrant ship was recently doomed off the coast of Europe with hundreds of deaths being seen as preventable. Additionally, China and Russia are involved in developments as Wagner troops are ready for arrival in Belarus and China&#39;s company ByteDance is beginning to publish books. </p>
+Meanwhile, in other parts of the world, people are talking about some tragic events. Satellite images revealed this week that hundreds of people died in a migrant ship disaster off the Libyan coast due to lack of rescue efforts. In Russia, protesters have risen up against the government&#39;s foreign policy, particularly with regards to China and Ukraine. And in France, there were widespread protests after a police officer killed an unarmed Black teenager.
+
+The heat is also unbearable right now — here in the US, temperatures are unusually high across the South and an early heat wave has disrupted people&#39;s lives. To stay safe, New York City has implemented prevention techniques, such as expanding shaded areas and offering cooling centers for those who may be vulnerable to heat-related illnesses.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Affirmative Action Ruling May Upend Hiring Policies, Too</h3>
@@ -100,12 +102,6 @@ In other news, a migrant ship was recently doomed off the coast of Europe with h
 <p>Xi Jinping needs Vladimir Putin to remain in power, and Russia to maintain stability, to help uphold the countries’ shared interests and to keep challenging the United States.  <a href="https://nyti.ms/3r5ZYwJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-video-blue" alt="">
-<h3>‘It’s a Struggle Against Death’: Ukrainian Combat Medics Race to Save Lives</h3>
-<sub>By Yousur Al-Hlou, Masha Froliak and Ben Laffin</sub>
-<p>Every day in Ukraine, combat medics are racing to save the lives of wounded soldiers. In this exclusive video, The New York Times spent a week inside a military field hospital to capture the relentless toll of Russia’s war.  <a href="https://nyti.ms/46kqUJg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ukraine Says It Is Ready for Arrival of Wagner Troops in Belarus</h3>
 <sub>By Megan Specia</sub>
@@ -119,9 +115,9 @@ In other news, a migrant ship was recently doomed off the coast of Europe with h
 <sub><sub>Saturday, July 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>France Arrests Over 1,300 in Unrest on Eve of Slain Teenager’s Funeral</h3>
-<sub>By Isabella Kwai</sub>
-<p>As the authorities pressed ahead with efforts to contain violence set off by the police killing of a 17-year-old at a traffic stop, officials said the violence was less intense than in previous nights.  <a href="https://nyti.ms/3r9AiiV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Macron Cancels State Visit to Germany Amid Unrest at Home</h3>
+<sub>By Isabella Kwai and Aurelien Breeden</sub>
+<p>More than 1,300 people were arrested overnight as riotous protests again gripped France over the police killing of a 17-year-old, although officials said the violence was less intense than in previous nights.  <a href="https://nyti.ms/3r9AiiV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -134,6 +130,12 @@ In other news, a migrant ship was recently doomed off the coast of Europe with h
 <h3>An Early Heat Wave Upsets the Rhythm of Life in the South</h3>
 <sub>By Emily Cochrane and Bryan Tarnowski</sub>
 <p>Outdoor workers, fishermen and a group of students who waited all year for an intensive band camp are all searching for ways to adapt to the pervasive heat.  <a href="https://nyti.ms/44np9cA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>9 Ways to Stay Shaded on a Sweltering Day in New York City</h3>
+<sub>By Jane Margolies</sub>
+<p>The city is preparing for extreme heat by introducing new methods to keep out of the sun and expanding on those more tried and true.  <a href="https://nyti.ms/437NlPb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
