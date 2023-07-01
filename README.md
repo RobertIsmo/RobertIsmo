@@ -60,14 +60,10 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, July 1, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now that affects people everywhere. In the United States, the Supreme Court issued a ruling about affirmative action in college admissions, and a case involving a person who refused to serve customers due to religious convictions. Over in France, protests have broken out over racism and police shootings. And closer to home, the pandemic pause on student loans is set to end soon but it may mean lower monthly bills for some people. Many countries are dealing with deep inequality as evidenced by schools failing to provide basic education in New York City. There was also recently news of how Alan Arkin, an iconic actor of both comedy and drama, passed away at 89 years old.</p>
+The world is dealing with a lot at the moment. In the US, a Supreme Court decision on affirmative action and student loans has given Democrats an opening to make a case on class and appeal to voters. Meanwhile, France is in turmoil after the police shooting of a 17-year-old led to unrest across the country, further deepening divisions between law-and-order and those identifying racism in police violence. Away from politics, it&#39;s also been an incredibly hot summer in the South, messing with people&#39;s routines. 
+
+In other news, a migrant ship was recently doomed off the coast of Europe with hundreds of deaths being seen as preventable. Additionally, China and Russia are involved in developments as Wagner troops are ready for arrival in Belarus and China&#39;s company ByteDance is beginning to publish books. </p>
 <ol>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Here’s what will happen to your student loans now.</h3>
-<sub>By Ron Lieber and Tara Siegel Bernard</sub>
-<p>The pandemic pause on student loan payments will end soon, but a new system for calculating repayments may lower monthly bills.  <a href="https://nyti.ms/431mQeh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 30, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Affirmative Action Ruling May Upend Hiring Policies, Too</h3>
 <sub>By Noam Scheiber</sub>
@@ -75,16 +71,58 @@ There is a lot happening in the world right now that affects people everywhere. 
 <sub><sub>Friday, June 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Supreme Court Backs Web Designer Opposed to Same-Sex Marriage</h3>
-<sub>By Abbie VanSickle and Adam Liptak</sub>
-<p>The justices settled a question left open in 2018: whether businesses open to the public and engaged in expression may refuse to serve customers based on religious convictions.  <a href="https://nyti.ms/3r7nSIr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 30, Central Standard Time</sub></sub>
+<h3>The ‘Unseen’ Students in the Affirmative Action Debate</h3>
+<sub>By Sarah Mervosh and Troy Closson</sub>
+<p>Race-conscious admissions helped only a tiny fraction of Black and Hispanic students. It could not address the many obstacles to a college degree.  <a href="https://nyti.ms/46srp4b"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Supreme Court Decisions on Education Could Offer Democrats an Opening</h3>
+<sub>By Jonathan Weisman</sub>
+<p>The decisions this week on affirmative action and student loans give Democrats a way to make a case on class and appeal to voters who have drifted away from the party.  <a href="https://nyti.ms/3r9xHFH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Major Supreme Court Decisions in 2023</h3>
+<sub>By Adam Liptak and Eli Murray</sub>
+<p>How the court’s 6-to-3 conservative majority ruled this term on affirmative action, student loans and other topics after its lurch to the right a year ago.  <a href="https://nyti.ms/43xL9Bt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Dismissing Rebellion as ‘Minor,’ Kremlin Dismantles Prigozhin’s Empire</h3>
-<sub>By Ivan Nechepurenko and Cassandra Vinograd</sub>
-<p>Foreign Minister Sergei V. Lavrov of Russia warned the Western countries helping Ukraine not to think that the Wagner group’s mutiny had undermined Moscow’s power.  <a href="https://nyti.ms/3CUXKTy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 30, Central Standard Time</sub></sub>
+<h3>Everyone Knew the Migrant Ship Was Doomed. No One Helped.</h3>
+<sub>By Matina Stevis-Gridneff and Karam Shoumali</sub>
+<p>Satellite imagery, sealed court documents and interviews with survivors suggest that hundreds of deaths were preventable.  <a href="https://nyti.ms/46xa764"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Wagner Uprising Highlights China’s Risks With Russia</h3>
+<sub>By David Pierson and Olivia Wang</sub>
+<p>Xi Jinping needs Vladimir Putin to remain in power, and Russia to maintain stability, to help uphold the countries’ shared interests and to keep challenging the United States.  <a href="https://nyti.ms/3r5ZYwJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-video-blue" alt="">
+<h3>‘It’s a Struggle Against Death’: Ukrainian Combat Medics Race to Save Lives</h3>
+<sub>By Yousur Al-Hlou, Masha Froliak and Ben Laffin</sub>
+<p>Every day in Ukraine, combat medics are racing to save the lives of wounded soldiers. In this exclusive video, The New York Times spent a week inside a military field hospital to capture the relentless toll of Russia’s war.  <a href="https://nyti.ms/46kqUJg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, June 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukraine Says It Is Ready for Arrival of Wagner Troops in Belarus</h3>
+<sub>By Megan Specia</sub>
+<p>Ukrainian officials have tried to tamp down concerns while heralding their preparations, with President Volodymyr Zelensky nodding to plans for reinforcing the border.  <a href="https://nyti.ms/44qgbvb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-books-blue" alt="">
+<h3>TikTok Sells A Lot of Books. Now, Its Owner Wants to Publish Them, Too.</h3>
+<sub>By Elizabeth A. Harris and Alexandra Alter</sub>
+<p>As ByteDance launches a publishing company, many in the book world wonder if it will create an uneven playing field by boosting its own authors at the expense of others.  <a href="https://nyti.ms/46IMHe7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>France Arrests Over 1,300 in Unrest on Eve of Slain Teenager’s Funeral</h3>
+<sub>By Isabella Kwai</sub>
+<p>As the authorities pressed ahead with efforts to contain violence set off by the police killing of a 17-year-old at a traffic stop, officials said the violence was less intense than in previous nights.  <a href="https://nyti.ms/3r9AiiV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>France Splits Into Rival Camps Over Police Shooting of a Teenager</h3>
@@ -92,47 +130,11 @@ There is a lot happening in the world right now that affects people everywhere. 
 <p>Society is increasingly divided between a law-and-order faction and those who see racism in a pattern of police killings or mistreatment of minorities.  <a href="https://nyti.ms/3NV8dVl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Visual Timeline of the Protests in France</h3>
-<sub>By Jenny Gross, Sarah Kerr and Adam Dean</sub>
-<p>Clashes between protesters and police continued in cities across France. “We don’t forget, we don’t forgive,” crowds chanted.  <a href="https://nyti.ms/435bt54"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>18 Hasidic Schools Failed to Provide Basic Education, New York City Finds</h3>
-<sub>By Eliza Shapiro and Brian M. Rosenthal</sub>
-<p>An eight-year investigation determined that the religious schools were breaking the law by not offering thousands of students adequate instruction in English and math.  <a href="https://nyti.ms/46xFblW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Fox News Agrees to Pay $12 Million to Settle Hostile Workplace Suit</h3>
-<sub>By Katie Robertson</sub>
-<p>The settlement with a former producer, Abby Grossberg, is the latest development in a series of legal battles involving Fox.  <a href="https://nyti.ms/3CQtRUB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 30, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump, Crossing Paths With DeSantis, Tries to Outflank Him</h3>
-<sub>By Anjali Huynh</sub>
-<p>At a gathering of right-wing activists, Donald Trump vowed to target federal diversity programs and to use the Justice Department to investigate schools and corporations over supposed racial discrimination.  <a href="https://nyti.ms/3NutjbT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis Financial Disclosure Puts Him in the Millionaires Club</h3>
-<sub>By Nicholas Nehamas</sub>
-<p>The Florida governor, who has spent almost his entire career in public service, made more than $1 million from his best-selling memoir.  <a href="https://nyti.ms/3XxOsX3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>Alan Arkin Could Do It All. In ‘Glengarry Glen Ross,’ He Did.</h3>
-<sub>By Jason Bailey</sub>
-<p>The actor’s distinguished career is best captured by the humanity in his portrayal of a real estate salesman in the 1992 film written by David Mamet.  <a href="https://nyti.ms/3rbdlMp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>Alan Arkin, Comic Actor With a Serious Side, Dies at 89</h3>
-<sub>By Robert Berkvist and Peter Keepnews</sub>
-<p>He got laughs and won awards on Broadway in “Enter Laughing” and in movies like “Little Miss Sunshine.” But he also had a flair for drama.  <a href="https://nyti.ms/46HIdV5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 30, Central Standard Time</sub></sub>
+<h3>An Early Heat Wave Upsets the Rhythm of Life in the South</h3>
+<sub>By Emily Cochrane and Bryan Tarnowski</sub>
+<p>Outdoor workers, fishermen and a group of students who waited all year for an intensive band camp are all searching for ways to adapt to the pervasive heat.  <a href="https://nyti.ms/44np9cA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
