@@ -58,15 +58,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Friday, June 30, Central Standard Time</p>
+<p>It is Saturday, July 1, Central Standard Time</p>
 <p>
-Recently, there has been a lot of news activity around the world. In the United States, the Supreme Court ruled on an affirmative action case, which could change hiring practices at companies. Trump made a speech vowing to target diversity programs and investigate schools and corporations over alleged racial discrimination. Meanwhile in Florida, the governor made over one million dollars from his book plus disclosed that he is part of the millionaires club. 
+It looks like a lot of news related to business, US politics, and international issues are in the headlines right now. Here in the US, President Trump is trying to gain support from right-wing activists by targeting federal diversity programs. Meanwhile, the Supreme Court has settled a question about businesses open to the public and engaged in expression. 
 
-France has been facing social unrest and division due to a police shooting of a teenager. Continuing protests have resulted in clashes between protesters and police all across France. 
+Internationally, there are unrest and protests in France over police shootings targeting minorities. In Russia, a former oligarch&#39;s empire is being dismantled due to an attempted rebellion. And news from New York includes 18 Hasidic schools failing to provide basic education due to inadequate instruction in English and math. 
 
-The pandemic has also affected student loan payments in the US as they will soon no longer be paused and new calculations may lower monthly bills. Fox News has settled a hostile workplace lawsuit with a former producer.
-
-On a more somber note, Alan Arkin--a comedic actor with a serious side--has passed away at 89 years old. He was known for roles in Broadway musicals as well as movies such as Little Miss Sunshine.</p>
+In the entertainment world, we’ve also lost an icon – actor Alan Arkin passed away at 89. He was known for his comedic and dramatic works on Broadway and in movies like ‘Little Miss Sunshine’.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Here’s what will happen to your student loans now.</h3>
@@ -80,10 +78,28 @@ On a more somber note, Alan Arkin--a comedic actor with a serious side--has pass
 <p>The Supreme Court decision on college admissions could lead companies to alter recruitment and promotion practices to pre-empt legal challenges.  <a href="https://nyti.ms/44htMF4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 30, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Supreme Court Backs Web Designer Opposed to Same-Sex Marriage</h3>
+<sub>By Abbie VanSickle and Adam Liptak</sub>
+<p>The justices settled a question left open in 2018: whether businesses open to the public and engaged in expression may refuse to serve customers based on religious convictions.  <a href="https://nyti.ms/3r7nSIr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 30, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Dismissing Rebellion as ‘Minor,’ Kremlin Dismantles Prigozhin’s Empire</h3>
 <sub>By Ivan Nechepurenko and Cassandra Vinograd</sub>
 <p>Foreign Minister Sergei V. Lavrov of Russia warned the Western countries helping Ukraine not to think that the Wagner group’s mutiny had undermined Moscow’s power.  <a href="https://nyti.ms/3CUXKTy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>France Splits Into Rival Camps Over Police Shooting of a Teenager</h3>
+<sub>By Roger Cohen</sub>
+<p>Society is increasingly divided between a law-and-order faction and those who see racism in a pattern of police killings or mistreatment of minorities.  <a href="https://nyti.ms/3NV8dVl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Visual Timeline of the Protests in France</h3>
+<sub>By Jenny Gross, Sarah Kerr and Adam Dean</sub>
+<p>Clashes between protesters and police continued in cities across France. “We don’t forget, we don’t forgive,” crowds chanted.  <a href="https://nyti.ms/435bt54"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -111,33 +127,15 @@ On a more somber note, Alan Arkin--a comedic actor with a serious side--has pass
 <sub><sub>Friday, June 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>Alan Arkin, Comic Actor With a Serious Side, Dies at 89</h3>
-<sub>By Robert Berkvist and Peter Keepnews</sub>
-<p>He got laughs and won awards on Broadway in “Enter Laughing” and in movies like “Little Miss Sunshine.” But he also had a flair for drama.  <a href="https://nyti.ms/46HIdV5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
 <h3>Alan Arkin Could Do It All. In ‘Glengarry Glen Ross,’ He Did.</h3>
 <sub>By Jason Bailey</sub>
 <p>The actor’s distinguished career is best captured by the humanity in his portrayal of a real estate salesman in the 1992 film written by David Mamet.  <a href="https://nyti.ms/3rbdlMp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-books-blue" alt="">
-<h3>Bridget Jones Deserved Better. We All Did.</h3>
-<sub>By Elisabeth Egan</sub>
-<p>Helen Fielding’s ditzy heroine was all the rage when she was introduced to American audiences in 1998. Today, her nuttiness and self-loathing read like a relic from another time.  <a href="https://nyti.ms/3JyZQMv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>France Splits Into Rival Camps Over Police Shooting of a Teenager</h3>
-<sub>By Roger Cohen</sub>
-<p>Society is increasingly divided between a law-and-order faction and those who see racism in a pattern of police killings or mistreatment of minorities.  <a href="https://nyti.ms/3NV8dVl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Visual Timeline of the Protests in France</h3>
-<sub>By Jenny Gross, Sarah Kerr and Adam Dean</sub>
-<p>Clashes between protesters and police continued in cities across France. “We don’t forget, we don’t forgive,” crowds chanted.  <a href="https://nyti.ms/435bt54"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>Alan Arkin, Comic Actor With a Serious Side, Dies at 89</h3>
+<sub>By Robert Berkvist and Peter Keepnews</sub>
+<p>He got laughs and won awards on Broadway in “Enter Laughing” and in movies like “Little Miss Sunshine.” But he also had a flair for drama.  <a href="https://nyti.ms/46HIdV5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 30, Central Standard Time</sub></sub>
 <hr/>
 </ol>
