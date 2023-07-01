@@ -60,11 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, July 1, Central Standard Time</p>
 <p>
-It looks like a lot of news related to business, US politics, and international issues are in the headlines right now. Here in the US, President Trump is trying to gain support from right-wing activists by targeting federal diversity programs. Meanwhile, the Supreme Court has settled a question about businesses open to the public and engaged in expression. 
-
-Internationally, there are unrest and protests in France over police shootings targeting minorities. In Russia, a former oligarch&#39;s empire is being dismantled due to an attempted rebellion. And news from New York includes 18 Hasidic schools failing to provide basic education due to inadequate instruction in English and math. 
-
-In the entertainment world, we’ve also lost an icon – actor Alan Arkin passed away at 89. He was known for his comedic and dramatic works on Broadway and in movies like ‘Little Miss Sunshine’.</p>
+There is a lot happening in the world right now that affects people everywhere. In the United States, the Supreme Court issued a ruling about affirmative action in college admissions, and a case involving a person who refused to serve customers due to religious convictions. Over in France, protests have broken out over racism and police shootings. And closer to home, the pandemic pause on student loans is set to end soon but it may mean lower monthly bills for some people. Many countries are dealing with deep inequality as evidenced by schools failing to provide basic education in New York City. There was also recently news of how Alan Arkin, an iconic actor of both comedy and drama, passed away at 89 years old.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Here’s what will happen to your student loans now.</h3>
