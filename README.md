@@ -60,13 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, June 30, Central Standard Time</p>
 <p>
-Currently, there is a lot happening around the world. In the United States, Donald Trump is attempting to target federal diversity programs and to use the Justice Department to investigate schools and corporations over supposed racial discrimination. This comes after Florida Governor DeSantis was found to have made more than $1 million from a best-selling memoir. Meanwhile, Fox News agreed to pay $12 million to settle a hostile workplace suit. 
+Recently, there has been a lot of news activity around the world. In the United States, the Supreme Court ruled on an affirmative action case, which could change hiring practices at companies. Trump made a speech vowing to target diversity programs and investigate schools and corporations over alleged racial discrimination. Meanwhile in Florida, the governor made over one million dollars from his book plus disclosed that he is part of the millionaires club. 
 
-In Europe, France is particularly heated as protests continue following the police shooting of a teenager. There is an increasing division between those who view it as a law-and-order issue versus those who see racism in the pattern of police killings or mistreatment of minorities. Elsewhere, satellite imagery revealed more than 300 new tents at a site that could be linked to Wagner in Belarus. 
+France has been facing social unrest and division due to a police shooting of a teenager. Continuing protests have resulted in clashes between protesters and police all across France. 
 
-In terms of education, New York City recently found that 18 Hasidic schools failed to provide basic instruction in English and math for thousands of students. And now that pandemic pause on student loan payments will end soon in the US, necessitating a new system for calculating repayments which may lower monthly bills. 
+The pandemic has also affected student loan payments in the US as they will soon no longer be paused and new calculations may lower monthly bills. Fox News has settled a hostile workplace lawsuit with a former producer.
 
-Finally, beloved actor Alan Arkin passed away at 89 this week after having both comedic and dramatic roles across stage and film including Little Miss Sunshine and Glengarry Glen Ross.</p>
+On a more somber note, Alan Arkin--a comedic actor with a serious side--has passed away at 89 years old. He was known for roles in Broadway musicals as well as movies such as Little Miss Sunshine.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Here’s what will happen to your student loans now.</h3>
@@ -81,9 +81,9 @@ Finally, beloved actor Alan Arkin passed away at 89 this week after having both 
 <sub><sub>Friday, June 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Satellite imagery reveals more than 300 new tents at a site that could be a base for Wagner in Belarus.</h3>
-<sub>By Christoph Koettl, Riley Mellen and Dmitriy Khavin</sub>
-<p>  <a href="https://nyti.ms/3PDrr37"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Dismissing Rebellion as ‘Minor,’ Kremlin Dismantles Prigozhin’s Empire</h3>
+<sub>By Ivan Nechepurenko and Cassandra Vinograd</sub>
+<p>Foreign Minister Sergei V. Lavrov of Russia warned the Western countries helping Ukraine not to think that the Wagner group’s mutiny had undermined Moscow’s power.  <a href="https://nyti.ms/3CUXKTy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
