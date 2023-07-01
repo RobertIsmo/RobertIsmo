@@ -60,17 +60,17 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, July 1, Central Standard Time</p>
 <p>
-Right now, there are a lot of important legal decisions being made in the US. The Supreme Court issued a ruling about affirmative action for college admissions that might affect workplaces and hiring policies. It&#39;s also handed down decisions about student loans and other topics that could open up new political opportunities for Democrats.
+There are several major events unfolding around the world right now. In the US, the Supreme Court recently issued rulings on affirmative action and student loans that could be significant for both college admissions and hiring practices. In addition, the justices provided significant wins for conservatives, but they&#39;ve also shown signs of caution in some of their decisions. 
 
-Meanwhile, in other parts of the world, people are talking about some tragic events. Satellite images revealed this week that hundreds of people died in a migrant ship disaster off the Libyan coast due to lack of rescue efforts. In Russia, protesters have risen up against the government&#39;s foreign policy, particularly with regards to China and Ukraine. And in France, there were widespread protests after a police officer killed an unarmed Black teenager.
+Elsewhere, there have been tragedies at sea that appear to have been preventable - a migrant ship carrying hundreds of people sank while nearby vessels failed to respond to distress calls. In Russia, an uprising by an ally of Vladimir Putin provided a glimpse of what a new leadership could look like after his departure. And in Ukraine, there are reports of Wagner troops arriving in Belarus which has raised tensions in the region. 
 
-The heat is also unbearable right now — here in the US, temperatures are unusually high across the South and an early heat wave has disrupted people&#39;s lives. To stay safe, New York City has implemented prevention techniques, such as expanding shaded areas and offering cooling centers for those who may be vulnerable to heat-related illnesses.</p>
+Finally, here in France we are dealing with our own crisis right now. A young man was shot and killed by police near Paris, sparking protests and riots throughout many suburbs as residents struggle with racial tensions. President Macron had to cancel a state visit to Germany in response and is working to resolve the situation here at home.</p>
 <ol>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Affirmative Action Ruling May Upend Hiring Policies, Too</h3>
-<sub>By Noam Scheiber</sub>
-<p>The Supreme Court decision on college admissions could lead companies to alter recruitment and promotion practices to pre-empt legal challenges.  <a href="https://nyti.ms/44htMF4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 30, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Along With Conservative Triumphs, Signs of New Caution at Supreme Court</h3>
+<sub>By Adam Liptak and Alicia Parlapiano</sub>
+<p>Chief Justice Roberts delivered both landmark victories for the right and significant rulings in which he forged alliances with the liberal justices.  <a href="https://nyti.ms/444uoyf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The ‘Unseen’ Students in the Affirmative Action Debate</h3>
@@ -78,22 +78,28 @@ The heat is also unbearable right now — here in the US, temperatures are unusu
 <p>Race-conscious admissions helped only a tiny fraction of Black and Hispanic students. It could not address the many obstacles to a college degree.  <a href="https://nyti.ms/46srp4b"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 1, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Affirmative Action Ruling May Upend Hiring Policies, Too</h3>
+<sub>By Noam Scheiber</sub>
+<p>The Supreme Court decision on college admissions could lead companies to alter recruitment and promotion practices to pre-empt legal challenges.  <a href="https://nyti.ms/44htMF4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 30, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Supreme Court Decisions on Education Could Offer Democrats an Opening</h3>
 <sub>By Jonathan Weisman</sub>
 <p>The decisions this week on affirmative action and student loans give Democrats a way to make a case on class and appeal to voters who have drifted away from the party.  <a href="https://nyti.ms/3r9xHFH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Major Supreme Court Decisions in 2023</h3>
-<sub>By Adam Liptak and Eli Murray</sub>
-<p>How the court’s 6-to-3 conservative majority ruled this term on affirmative action, student loans and other topics after its lurch to the right a year ago.  <a href="https://nyti.ms/43xL9Bt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 7, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Everyone Knew the Migrant Ship Was Doomed. No One Helped.</h3>
 <sub>By Matina Stevis-Gridneff and Karam Shoumali</sub>
 <p>Satellite imagery, sealed court documents and interviews with survivors suggest that hundreds of deaths were preventable.  <a href="https://nyti.ms/46xa764"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Mutiny Provided Glimpse of a Post-Putin Russia. Is the Window Still Open?</h3>
+<sub>By Paul Sonne</sub>
+<p>Yevgeny Prigozhin’s revolt showed the possibility of a Russia after Vladimir Putin — and how pro-democracy forces may not be the ones that take over.  <a href="https://nyti.ms/44rH5CR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -115,27 +121,21 @@ The heat is also unbearable right now — here in the US, temperatures are unusu
 <sub><sub>Saturday, July 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Macron Cancels State Visit to Germany Amid Unrest at Home</h3>
-<sub>By Isabella Kwai and Aurelien Breeden</sub>
-<p>More than 1,300 people were arrested overnight as riotous protests again gripped France over the police killing of a 17-year-old, although officials said the violence was less intense than in previous nights.  <a href="https://nyti.ms/3r9AiiV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>At Funeral for Nahel M. Near Paris, Anguish, Anger and Racial Tensions</h3>
+<sub>By Roger Cohen</sub>
+<p>For many in the crowd, including hundreds who could not fit in the mosque to mourn the teenager killed by a police officer, his story felt familiar.  <a href="https://nyti.ms/44K0M9l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>France Splits Into Rival Camps Over Police Shooting of a Teenager</h3>
-<sub>By Roger Cohen</sub>
-<p>Society is increasingly divided between a law-and-order faction and those who see racism in a pattern of police killings or mistreatment of minorities.  <a href="https://nyti.ms/3NV8dVl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>An Early Heat Wave Upsets the Rhythm of Life in the South</h3>
-<sub>By Emily Cochrane and Bryan Tarnowski</sub>
-<p>Outdoor workers, fishermen and a group of students who waited all year for an intensive band camp are all searching for ways to adapt to the pervasive heat.  <a href="https://nyti.ms/44np9cA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Macron Cancels State Visit to Germany Amid Unrest at Home</h3>
+<sub>By Isabella Kwai and Aurelien Breeden</sub>
+<p>More than 1,300 people were arrested overnight as riotous protests again gripped France over the police killing of a 17-year-oldand the country’s president stayed home to deal with the crisis.  <a href="https://nyti.ms/3r9AiiV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>9 Ways to Stay Shaded on a Sweltering Day in New York City</h3>
-<sub>By Jane Margolies</sub>
-<p>The city is preparing for extreme heat by introducing new methods to keep out of the sun and expanding on those more tried and true.  <a href="https://nyti.ms/437NlPb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In the Paris Suburb Where Police Shot a Teenager, Violence and Vigilance</h3>
+<sub>By Constant Méheut</sub>
+<p>French suburbs have been rocked by riots that have tapped into a deep-seated resentment toward the police. Many residents understand the anger, but not the violence.  <a href="https://nyti.ms/3JHl5Ml"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
