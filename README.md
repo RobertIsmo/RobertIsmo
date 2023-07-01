@@ -60,11 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, July 1, Central Standard Time</p>
 <p>
-There are several major events unfolding around the world right now. In the US, the Supreme Court recently issued rulings on affirmative action and student loans that could be significant for both college admissions and hiring practices. In addition, the justices provided significant wins for conservatives, but they&#39;ve also shown signs of caution in some of their decisions. 
-
-Elsewhere, there have been tragedies at sea that appear to have been preventable - a migrant ship carrying hundreds of people sank while nearby vessels failed to respond to distress calls. In Russia, an uprising by an ally of Vladimir Putin provided a glimpse of what a new leadership could look like after his departure. And in Ukraine, there are reports of Wagner troops arriving in Belarus which has raised tensions in the region. 
-
-Finally, here in France we are dealing with our own crisis right now. A young man was shot and killed by police near Paris, sparking protests and riots throughout many suburbs as residents struggle with racial tensions. President Macron had to cancel a state visit to Germany in response and is working to resolve the situation here at home.</p>
+There is a lot going on in the world right now. In the US, the Supreme Court is tackling big issues, from affirmative action and student loans to conservative triumphs. In other news, there is a never-ending migrant crisis around the world; just recently no one intervened when a migrant ship was doomed. In addition, we are seeing rising racial tensions between China and Russia in light of Wagner Uprising, and Ukraine is bracing for Wagner troops to arrive in Belarus. Meanwhile, in France, police brutality has sparked riots and vigils over the death of teenage Nahel M., with President Macron cancelling a state visit as a result. Back home in the South, an early heat wave is disrupting daily life for many people.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Along With Conservative Triumphs, Signs of New Caution at Supreme Court</h3>
@@ -77,12 +73,6 @@ Finally, here in France we are dealing with our own crisis right now. A young ma
 <sub>By Sarah Mervosh and Troy Closson</sub>
 <p>Race-conscious admissions helped only a tiny fraction of Black and Hispanic students. It could not address the many obstacles to a college degree.  <a href="https://nyti.ms/46srp4b"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Affirmative Action Ruling May Upend Hiring Policies, Too</h3>
-<sub>By Noam Scheiber</sub>
-<p>The Supreme Court decision on college admissions could lead companies to alter recruitment and promotion practices to pre-empt legal challenges.  <a href="https://nyti.ms/44htMF4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Supreme Court Decisions on Education Could Offer Democrats an Opening</h3>
@@ -129,13 +119,19 @@ Finally, here in France we are dealing with our own crisis right now. A young ma
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Macron Cancels State Visit to Germany Amid Unrest at Home</h3>
 <sub>By Isabella Kwai and Aurelien Breeden</sub>
-<p>More than 1,300 people were arrested overnight as riotous protests again gripped France over the police killing of a 17-year-oldand the country’s president stayed home to deal with the crisis.  <a href="https://nyti.ms/3r9AiiV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>More than 1,300 people were arrested overnight as riotous protests again gripped France over the police killing of a 17-year-old and the country’s president stayed home to deal with the crisis.  <a href="https://nyti.ms/3r9AiiV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>In the Paris Suburb Where Police Shot a Teenager, Violence and Vigilance</h3>
 <sub>By Constant Méheut</sub>
 <p>French suburbs have been rocked by riots that have tapped into a deep-seated resentment toward the police. Many residents understand the anger, but not the violence.  <a href="https://nyti.ms/3JHl5Ml"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>An Early Heat Wave Upsets the Rhythm of Life in the South</h3>
+<sub>By Emily Cochrane and Bryan Tarnowski</sub>
+<p>Outdoor workers, fishermen and a group of students who waited all year for an intensive band camp are all searching for ways to adapt to the pervasive heat.  <a href="https://nyti.ms/44np9cA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
