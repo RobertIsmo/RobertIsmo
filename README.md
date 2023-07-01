@@ -60,7 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, June 30, Central Standard Time</p>
 <p>
-We&#39;re entering the end of the pandemic pause on student loan payments, which could lower monthly bills for borrowers. The Supreme Court is hearing a major guns case involving domestic violence, and it will affect the rules around who can legally possess guns. In terms of admissions to universities and colleges, there is now an end to race-conscious admissions. In Europe, satellite imagery revealed hundreds of new tents at a potential base for a private military company in Belarus. New York City found that 18 Hasidic schools failed to provide adequate education to thousands of students. Fox News recently reached a settlement with a former producer over allegations of hostile workplace. Alan Arkin, a celebrated actor, passed away this week at the age of 89. There was discussion on Bridget Jones, an iconic character from 1998 who has become a relic from another time. There are rival camps forming in France over police shootings in recent days. Temperatures have been increasing this weekend both in the South and West of the United States, accompanied by smoke from the continued Canadian wildfires lingering over the Northeast and Midwest.</p>
+Currently, there is a lot happening around the world. In the United States, Donald Trump is attempting to target federal diversity programs and to use the Justice Department to investigate schools and corporations over supposed racial discrimination. This comes after Florida Governor DeSantis was found to have made more than $1 million from a best-selling memoir. Meanwhile, Fox News agreed to pay $12 million to settle a hostile workplace suit. 
+
+In Europe, France is particularly heated as protests continue following the police shooting of a teenager. There is an increasing division between those who view it as a law-and-order issue versus those who see racism in the pattern of police killings or mistreatment of minorities. Elsewhere, satellite imagery revealed more than 300 new tents at a site that could be linked to Wagner in Belarus. 
+
+In terms of education, New York City recently found that 18 Hasidic schools failed to provide basic instruction in English and math for thousands of students. And now that pandemic pause on student loan payments will end soon in the US, necessitating a new system for calculating repayments which may lower monthly bills. 
+
+Finally, beloved actor Alan Arkin passed away at 89 this week after having both comedic and dramatic roles across stage and film including Little Miss Sunshine and Glengarry Glen Ross.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Here’s what will happen to your student loans now.</h3>
@@ -68,16 +74,10 @@ We&#39;re entering the end of the pandemic pause on student loan payments, which
 <p>The pandemic pause on student loan payments will end soon, but a new system for calculating repayments may lower monthly bills.  <a href="https://nyti.ms/431mQeh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Supreme Court to Hear Major Guns Case Involving Domestic Violence</h3>
-<sub>By Adam Liptak</sub>
-<p>The court, which has decided very few Second Amendment cases, will consider whether the government may disarm people subject to restraining orders for domestic abuse.  <a href="https://nyti.ms/3pvFr4m"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What the Affirmative Action Ruling Means for Colleges and Universities</h3>
-<sub>By Stephanie Saul</sub>
-<p>The end of race-conscious admissions could have wide-ranging effects. Here’s what might happen.  <a href="https://nyti.ms/3r1yuIy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Affirmative Action Ruling May Upend Hiring Policies, Too</h3>
+<sub>By Noam Scheiber</sub>
+<p>The Supreme Court decision on college admissions could lead companies to alter recruitment and promotion practices to pre-empt legal challenges.  <a href="https://nyti.ms/44htMF4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -98,10 +98,28 @@ We&#39;re entering the end of the pandemic pause on student loan payments, which
 <p>The settlement with a former producer, Abby Grossberg, is the latest development in a series of legal battles involving Fox.  <a href="https://nyti.ms/3CQtRUB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 30, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump, Crossing Paths With DeSantis, Tries to Outflank Him</h3>
+<sub>By Anjali Huynh</sub>
+<p>At a gathering of right-wing activists, Donald Trump vowed to target federal diversity programs and to use the Justice Department to investigate schools and corporations over supposed racial discrimination.  <a href="https://nyti.ms/3NutjbT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>DeSantis Financial Disclosure Puts Him in the Millionaires Club</h3>
+<sub>By Nicholas Nehamas</sub>
+<p>The Florida governor, who has spent almost his entire career in public service, made more than $1 million from his best-selling memoir.  <a href="https://nyti.ms/3XxOsX3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 30, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-movies-blue" alt="">
 <h3>Alan Arkin, Comic Actor With a Serious Side, Dies at 89</h3>
 <sub>By Robert Berkvist and Peter Keepnews</sub>
 <p>He got laughs and won awards on Broadway in “Enter Laughing” and in movies like “Little Miss Sunshine.” But he also had a flair for drama.  <a href="https://nyti.ms/46HIdV5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>Alan Arkin Could Do It All. In ‘Glengarry Glen Ross,’ He Did.</h3>
+<sub>By Jason Bailey</sub>
+<p>The actor’s distinguished career is best captured by the humanity in his portrayal of a real estate salesman in the 1992 film written by David Mamet.  <a href="https://nyti.ms/3rbdlMp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-books-blue" alt="">
@@ -120,18 +138,6 @@ We&#39;re entering the end of the pandemic pause on student loan payments, which
 <h3>A Visual Timeline of the Protests in France</h3>
 <sub>By Jenny Gross, Sarah Kerr and Adam Dean</sub>
 <p>Clashes between protesters and police continued in cities across France. “We don’t forget, we don’t forgive,” crowds chanted.  <a href="https://nyti.ms/435bt54"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>As the South Stews, Temperatures Are Set to Rise in the West, Too</h3>
-<sub>By Emily Cochrane and Judson Jones</sub>
-<p>In the South, oppressive temperatures are expected to continue through Sunday in southern Texas and places along the Gulf of Mexico. Out West, an arid heat will take hold.  <a href="https://nyti.ms/46sZyka"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Smoky Conditions Persist Across Large Parts of U.S.</h3>
-<sub>By Derrick Bryson Taylor and Christopher Maag</sub>
-<p>Smoke driven by the wildfires in Canada lingered over the Northeast and Midwest on Friday. Conditions were expected to improve over the Fourth of July weekend.  <a href="https://nyti.ms/44awhJB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 30, Central Standard Time</sub></sub>
 <hr/>
 </ol>
