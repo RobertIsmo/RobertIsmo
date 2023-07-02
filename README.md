@@ -60,18 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, July 2, Central Standard Time</p>
 <p>
-It looks like the world is in a state of flux right now. In the US, there&#39;s a push for universities to use &quot;Adversity Scores&quot; to build a more diverse student body, which is prompting a renewed conversation around affirmative action. There&#39;s also been a Supreme Court ruling that has caused a lot of people to think about the legacy of slavery. Meanwhile, in Ukraine, Russian forces have launched drone attacks and military counteroffensives against the capital city Kyiv. Across Europe, two Russians and a Ukrainian have been arrested for allegedly being spies while exploring an abandoned armory. In Los Angeles, hotel workers are going on strike due to high living costs and across America there are conflicted feelings about celebrating the Fourth of July. Everyone is awaiting news from an exploratory expedition to the Titanic wreckage, which was last heard when they sent a series of text messages. Also, Artificial Intelligence technology is becoming increasingly complex and advanced so much so that it&#39;s even invading mathematics now - people are both excited and scared about what this means for the future. Finally, chatbots are being developed that don&#39;t have many boundaries and constraints which could open up new possibilities - and potential risks.</p>
+I wanted to catch up and let you know what&#39;s going on in the world. It seems like North Carolina Republicans are doing everything they can to protect their party&#39;s edge before the 2024 election, leading to clashes over voting rights. Universities are now considering ranking student applicants based on how disadvantaged they are in an effort to build more diverse classes. In Ukraine, a volunteer Ukrainian unit faced two days of tough Russian resistance during a counteroffensive. There have been drone attacks around the Ukrainian capital of Kyiv in the past couple of weeks. Five voyagers embarked on a mission aboard a submersible to visit the wreck of the Titanic, but suddenly stopped sending text messages. The discussion about artificial intelligence coming for mathematics has been prominent lately. Chatbot companies like Google and OpenAI have proved controversial recently because of their lack of guardrails. Phoebe Waller-Bridge commented about her new role as the female lead in an upcoming Indiana Jones film, calling out characters that behave dangerously. Some Americans are conflicted about celebrating Fourth of July amid crowds, politics, and a loss of patriotism. Fireworks will still take place in the New York City area this year, however with reduced shows due to the pandemic. Just a few days ago there was a large shooting in Baltimore leaving two people dead and 28 wounded, and another one right outside of Harlem&#39;s Riverbank State Park where a young boy was killed.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>As 2024 Voting Battles Heat Up, North Carolina G.O.P. Presses Forward</h3>
+<sub>By Nick Corasaniti</sub>
+<p>Republicans, whose edge in the state has narrowed in recent years, have gone on offense politically, leading to clashes over voting access and control over elections.  <a href="https://nyti.ms/3NALgW7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>With End of Affirmative Action, a Push for a New Tool: Adversity Scores</h3>
 <sub>By Stephanie Saul</sub>
 <p>To build a diverse class of students, the medical school at U.C. Davis ranks applicants by the disadvantages they have faced. Can it work nationally?  <a href="https://nyti.ms/3pvRajq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>One Black Family, One Affirmative Action Ruling, and Lots of Thoughts</h3>
-<sub>By Audra D. S. Burch</sub>
-<p>The Supreme Court ruling is just the latest version of a question that the Whitehead family — and the nation — has been grappling with for years: How to deal with the legacy of slavery?  <a href="https://nyti.ms/3rcSrMV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -122,16 +122,16 @@ It looks like the world is in a state of flux right now. In the US, there&#39;s 
 <p>Macy’s world-famous show, Coney Island’s display and alternative celebrations in Staten Island and New Jersey: here’s where to enjoy a show this year.  <a href="https://nyti.ms/3XwLZMK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘Urban Explorers’ and Accused Spies Chafe in Legal Limbo in Albania</h3>
-<sub>By Isabella Kwai</sub>
-<p>Since their arrest at a derelict arms factory in Albania that they said they were exploring to document in pictures, the two Russians and a Ukrainian have been unable to leave the country.  <a href="https://nyti.ms/3JIaFw6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Shooting in Baltimore Leaves at Least 2 Dead and 28 Wounded</h3>
+<sub>By Tiffany May and Emma Bubola</sub>
+<p>The police were searching for a suspect or suspects in the shooting, which happened early on Sunday at a block party in the city’s southern neighborhood of Brooklyn.  <a href="https://nyti.ms/3PG0JH8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Los Angeles Hotel Workers Go on Strike</h3>
-<sub>By Jill Cowan and Kurtis Lee</sub>
-<p>The strike is part of a wave of recent labor actions in the nation’s second-largest metropolis, where high costs of living have made it difficult for workers to stay afloat.  <a href="https://nyti.ms/3r2VZRy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Fatal Shooting of a Teenager Shocks an Urban Oasis</h3>
+<sub>By Katherine Rosman and Chelsia Rose Marcius</sub>
+<p>A 15-year-old boy was killed near basketball courts at Riverbank State Park in Harlem, a popular spot for picnics, gardening and swimming.  <a href="https://nyti.ms/3PHNwxG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
 <hr/>
 </ol>
