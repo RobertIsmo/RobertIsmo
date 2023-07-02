@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, July 1, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In the US, the Supreme Court is tackling big issues, from affirmative action and student loans to conservative triumphs. In other news, there is a never-ending migrant crisis around the world; just recently no one intervened when a migrant ship was doomed. In addition, we are seeing rising racial tensions between China and Russia in light of Wagner Uprising, and Ukraine is bracing for Wagner troops to arrive in Belarus. Meanwhile, in France, police brutality has sparked riots and vigils over the death of teenage Nahel M., with President Macron cancelling a state visit as a result. Back home in the South, an early heat wave is disrupting daily life for many people.</p>
+There&#39;s been a lot going on in the world lately. In the US, the Supreme Court has issued decisions on affirmative action and student loans that could have an influence on the upcoming election. In other parts of the world, a migrant ship tragically sank without support from any rescue teams, and there was a mutiny in Russia that offered a glimpse into a different political future. In Belarus, Ukraine is preparing for troops from Russia-based Wagner to arrive. Meanwhile in France, there was sorrow and anger at a funeral for a teenager killed by police officers, and violence is projected to continue due to deep-seated resentment toward law enforcement.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Along With Conservative Triumphs, Signs of New Caution at Supreme Court</h3>
@@ -104,10 +104,22 @@ There is a lot going on in the world right now. In the US, the Supreme Court is 
 <p>Ukrainian officials have tried to tamp down concerns while heralding their preparations, with President Volodymyr Zelensky nodding to plans for reinforcing the border.  <a href="https://nyti.ms/44qgbvb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-books-blue" alt="">
-<h3>TikTok Sells A Lot of Books. Now, Its Owner Wants to Publish Them, Too.</h3>
-<sub>By Elizabeth A. Harris and Alexandra Alter</sub>
-<p>As ByteDance launches a publishing company, many in the book world wonder if it will create an uneven playing field by boosting its own authors at the expense of others.  <a href="https://nyti.ms/46IMHe7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>First He Was Perfect, and Then Things Got Interesting</h3>
+<sub>By Benjamin Hoffman</sub>
+<p>Having thrown baseball’s second perfect game keeps John Ward’s name alive. But the pitcher, shortstop, golfer, lawyer, activist and author was decades ahead of his time.  <a href="https://nyti.ms/3pya3SL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Small Town’s Fourth of July: Flags, a 5K and Trump’s Attacks on American Institutions</h3>
+<sub>By Michael Gold</sub>
+<p>Ahead of a holiday meant to celebrate the country’s history, the former president tore into American institutions and attacked his political opponents.  <a href="https://nyti.ms/44v9xUz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>DeSantis, Seeking Attention, Uses L.G.B.T.Q. Issues to Attack Trump</h3>
+<sub>By Nicholas Nehamas and Maggie Haberman</sub>
+<p>The Florida governor sought to contrast his record opposing gay and transgender rights in a video highlighting comments made by the former president during the 2016 campaign — but has gotten some pushback.  <a href="https://nyti.ms/3JHqKC5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -117,21 +129,9 @@ There is a lot going on in the world right now. In the US, the Supreme Court is 
 <sub><sub>Saturday, July 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Macron Cancels State Visit to Germany Amid Unrest at Home</h3>
-<sub>By Isabella Kwai and Aurelien Breeden</sub>
-<p>More than 1,300 people were arrested overnight as riotous protests again gripped France over the police killing of a 17-year-old and the country’s president stayed home to deal with the crisis.  <a href="https://nyti.ms/3r9AiiV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>In the Paris Suburb Where Police Shot a Teenager, Violence and Vigilance</h3>
 <sub>By Constant Méheut</sub>
 <p>French suburbs have been rocked by riots that have tapped into a deep-seated resentment toward the police. Many residents understand the anger, but not the violence.  <a href="https://nyti.ms/3JHl5Ml"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>An Early Heat Wave Upsets the Rhythm of Life in the South</h3>
-<sub>By Emily Cochrane and Bryan Tarnowski</sub>
-<p>Outdoor workers, fishermen and a group of students who waited all year for an intensive band camp are all searching for ways to adapt to the pervasive heat.  <a href="https://nyti.ms/44np9cA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
