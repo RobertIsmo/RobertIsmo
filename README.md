@@ -60,79 +60,85 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, July 2, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In the US, there have been some conservative legal victories at the Supreme Court but also some rulings that demonstrate caution. The court has also made some decisions around education that give the Democrats some hope as they look to voters in upcoming elections. Overseas, there are reports of a tragedy offshore where hundreds of deaths could have been prevented. In Russia, an uprising has highlighted discussions of post-Putin rule and China&#39;s risks. Ukraine is getting ready for Wagner Troops to come through Belarus. On a lighter note, a small town in US is celebrating Independence Day with flags and 5Ks but former President Trump has been attacking American institutions and current Florida Governor DeSantis made a video pointing out Trump&#39;s words against LGBTQ rights from the 2016 campaign. Finally, in France, there is mourning and racial tension in a Paris suburb after Nahel M was shot by police. Many understand the anger but not the violence that follows it.</p>
+There have been some big developments in the world recently. In the US, some medical schools are using a new tool—adversity scores—to try to create a more diverse class of students. The Supreme Court has also ruled on affirmative action, sparking a lot of conversation about its implications for the legacy of slavery in America.
+
+In Eastern Europe, Ukraine is battling Russia in their conflict—it&#39;s been a brutal and grueling fight but protests have been taking place against it. Experts in Russia and Ukraine have been discussing Putin&#39;s invasion and weighing its impacts in several recent books. Meanwhile, Russia conducted a drone attack on Kyiv overnight.
+
+In Michigan, there have been efforts to accelerate climate change initiatives despite their lag behind other states due to long-term resistance from lawmakers. In France, racial divisions are being highlighted as a police killing occurred at the same time that a ban on headscarves in soccer was announced. Protests have broken out across the country as 700 people were arrested during the fifth night of unrest.
+
+On an industrial level, carmakers are being forced to go into the mining business to ensure they don&#39;t suffer from shortages of raw materials needed for electric vehicles. Last but not least, Olympic champion Caeleb Dressel is slowly but determinedly back in competition after taking a break for mental health reasons.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Along With Conservative Triumphs, Signs of New Caution at Supreme Court</h3>
-<sub>By Adam Liptak and Alicia Parlapiano</sub>
-<p>Chief Justice Roberts delivered both landmark victories for the right and significant rulings in which he forged alliances with the liberal justices.  <a href="https://nyti.ms/444uoyf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 1, Central Standard Time</sub></sub>
+<h3>With End of Affirmative Action, a Push for a New Tool: Adversity Scores</h3>
+<sub>By Stephanie Saul</sub>
+<p>To build a diverse class of students, the medical school at U.C. Davis ranks applicants by the disadvantages they have faced. Can it work nationally?  <a href="https://nyti.ms/3pvRajq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The ‘Unseen’ Students in the Affirmative Action Debate</h3>
-<sub>By Sarah Mervosh and Troy Closson</sub>
-<p>Race-conscious admissions helped only a tiny fraction of Black and Hispanic students. It could not address the many obstacles to a college degree.  <a href="https://nyti.ms/46srp4b"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 1, Central Standard Time</sub></sub>
+<h3>One Black Family, One Affirmative Action Ruling, and Lots of Thoughts</h3>
+<sub>By Audra D. S. Burch</sub>
+<p>The Supreme Court ruling is just the latest version of a question that the Whitehead family — and the nation — have been grappling with for years: How to deal with the legacy of slavery?  <a href="https://nyti.ms/3rcSrMV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Small Victory, Signs of Grueling Combat Ahead in Ukrainian Counteroffensive</h3>
+<sub>By Thomas Gibbons-Neff, Yurii Shyvala and David Guttenfelder</sub>
+<p>Expecting a quick retreat, a volunteer Ukrainian unit instead faced two days of tough resistance from dug-in Russian forces.  <a href="https://nyti.ms/3PF8QDP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-books-blue" alt="">
+<h3>Reading the Tea Leaves on the End of the War in Ukraine</h3>
+<sub>By Thomas E. Ricks</sub>
+<p>In several recent books, experts on Russia and Ukraine weigh the importance of the Wagner Group and try to predict how Putin’s invasion will play out.  <a href="https://nyti.ms/44pdpX7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russian Forces Launch Overnight Drone Attacks on Kyiv</h3>
+<sub>By Cassandra Vinograd</sub>
+<p>The assault was the first pre-dawn drone barrage to target the Ukrainian capital in almost two weeks, officials said.  <a href="https://nyti.ms/46qkDMl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Supreme Court Decisions on Education Could Offer Democrats an Opening</h3>
-<sub>By Jonathan Weisman</sub>
-<p>The decisions this week on affirmative action and student loans give Democrats a way to make a case on class and appeal to voters who have drifted away from the party.  <a href="https://nyti.ms/3r9xHFH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 1, Central Standard Time</sub></sub>
+<h3>A Rubik’s Cube, Thick Socks and Giddy Anticipation: The Last Hours of the Titan</h3>
+<sub>By John Branch and Christina Goldbaum</sub>
+<p>Five voyagers climbed into the Titan submersible in hopes of joining the select few who have seen the wreck of the Titanic up close. But within hours, their text messages stopped coming.  <a href="https://nyti.ms/3rcSto1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>A Climate Laggard in America’s Industrial Heartland Has a Plan to Change, Fast</h3>
+<sub>By Coral Davenport</sub>
+<p>Lawmakers in Michigan have long fought tough pollution controls. But the toll of flooding, lost crops and damage to the Great Lakes appears to be changing minds.  <a href="https://nyti.ms/3rcSrwp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Phoebe Waller-Bridge’s Great ‘Indiana Jones’ Adventure</h3>
+<sub>By David Marchese</sub>
+<p>“I’m not interested in perfectly behaved men or women,” the actress says. “I’m drawn to the ones who feel a bit dangerous.”  <a href="https://nyti.ms/3NybOat"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-international-home-blue" alt="">
+<h3>A Fatal Shooting and a Hijab Ban: Two Faces of France’s Racial Divisions</h3>
+<sub>By Catherine Porter</sub>
+<p>The almost simultaneous police killing of Nahel M. and a ban on head scarves in soccer were coincidental, but they illuminate France’s crisis of identity and inclusion.  <a href="https://nyti.ms/432UDDO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Everyone Knew the Migrant Ship Was Doomed. No One Helped.</h3>
-<sub>By Matina Stevis-Gridneff and Karam Shoumali</sub>
-<p>Satellite imagery, sealed court documents and interviews with survivors suggest that hundreds of deaths were preventable.  <a href="https://nyti.ms/46xa764"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>France Arrests Hundreds More in Fifth Night of Unrest</h3>
+<sub>By Vivek Shankar and Emma Bubola</sub>
+<p>The authorities arrested more than 700 people, deploying additional officers in the cities of Grenoble, Lyon and Marseille to quell violent protests.  <a href="https://nyti.ms/3Nw5aBL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Mutiny Provided Glimpse of a Post-Putin Russia. Is the Window Still Open?</h3>
-<sub>By Paul Sonne</sub>
-<p>Yevgeny Prigozhin’s revolt showed the possibility of a Russia after Vladimir Putin — and how pro-democracy forces may not be the ones that take over.  <a href="https://nyti.ms/44rH5CR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Wagner Uprising Highlights China’s Risks With Russia</h3>
-<sub>By David Pierson and Olivia Wang</sub>
-<p>Xi Jinping needs Vladimir Putin to remain in power, and Russia to maintain stability, to help uphold the countries’ shared interests and to keep challenging the United States.  <a href="https://nyti.ms/3r5ZYwJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Says It Is Ready for Arrival of Wagner Troops in Belarus</h3>
-<sub>By Megan Specia</sub>
-<p>Ukrainian officials have tried to tamp down concerns while heralding their preparations, with President Volodymyr Zelensky nodding to plans for reinforcing the border.  <a href="https://nyti.ms/44qgbvb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 1, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Lithium Scarcity Pushes Carmakers Into the Mining Business</h3>
+<sub>By Clifford Krauss and Jack Ewing</sub>
+<p>Ford, General Motors and others are striking deals with mining companies to avoid raw material shortages that could thwart their electric vehicle ambitions.  <a href="https://nyti.ms/3rcSqIR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>First He Was Perfect, and Then Things Got Interesting</h3>
-<sub>By Benjamin Hoffman</sub>
-<p>Having thrown baseball’s second perfect game keeps John Ward’s name alive. But the pitcher, shortstop, golfer, lawyer, activist and author was decades ahead of his time.  <a href="https://nyti.ms/3pya3SL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Small Town’s Fourth of July: Flags, a 5K and Trump’s Attacks on American Institutions</h3>
-<sub>By Michael Gold</sub>
-<p>Ahead of a holiday meant to celebrate the country’s history, the former president tore into American institutions and attacked his political opponents.  <a href="https://nyti.ms/44v9xUz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis, Seeking Attention, Uses L.G.B.T.Q. Issues to Attack Trump</h3>
-<sub>By Nicholas Nehamas and Maggie Haberman</sub>
-<p>The Florida governor sought to contrast his record opposing gay and transgender rights in a video highlighting comments made by the former president during the 2016 campaign — but has gotten some pushback.  <a href="https://nyti.ms/3JHqKC5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>At Funeral for Nahel M. Near Paris, Anguish, Anger and Racial Tensions</h3>
-<sub>By Roger Cohen</sub>
-<p>For many in the crowd, including hundreds who could not fit in the mosque to mourn the teenager killed by a police officer, his story felt familiar.  <a href="https://nyti.ms/44K0M9l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In the Paris Suburb Where Police Shot a Teenager, Violence and Vigilance</h3>
-<sub>By Constant Méheut</sub>
-<p>French suburbs have been rocked by riots that have tapped into a deep-seated resentment toward the police. Many residents understand the anger, but not the violence.  <a href="https://nyti.ms/3JHl5Ml"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 1, Central Standard Time</sub></sub>
+<h3>A Champion Swimmer Returns, Slowly but Determinedly, to Competition</h3>
+<sub>By Jenny Vrentas</sub>
+<p>Caeleb Dressel, the seven-time Olympic champion, swam in the nationals after taking a break for mental health reasons. He didn’t win, but he loved everything about being back, even the chlorine.  <a href="https://nyti.ms/3rcSqZn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
