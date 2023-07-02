@@ -58,9 +58,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Saturday, July 1, Central Standard Time</p>
+<p>It is Sunday, July 2, Central Standard Time</p>
 <p>
-Right now, there&#39;s a lot going on in the world. In the US, Supreme Court decisions have given Democrats an opening to reach out to voters. And we&#39;ve been seeing many conversations about issues related to affirmative action and student loans in education. Meanwhile, tragedy has struck across the globe as there appears to have been preventable deaths in a recent migrant boat incident. Russia is facing attention by China and Ukraine to its connection with troop deployment. And French suburbs are reeling from police brutality and violence in response to it.</p>
+There is a lot happening in the world right now. In the U.S., the Supreme Court recently handed down some landmark victories for conservatives, as well as a number of rulings that forged alliances with liberal justices. There&#39;s been a lot of discussion around affirmative action and student loans, and how Democrats might be able to use them to sway voters.
+
+In world news, there&#39;s been an outcry over the tragedy of a doomed migrant ship in which hundreds of lives were lost - satellite imagery, sealed court documents, and survivors&#39; interviews suggest these deaths may have been preventable. In addition to this, there is unrest in Russia and Belarus, due to a pro-democracy mutiny led by Yevgeny Prigozhin against Vladimir Putin&#39;s rule. Ukraine has readied itself for the arrival of Wagner troops from Russia in Belarus, while China is risking its stability in the region if Putin loses control of Russia or fails to maintain it. 
+
+Finally, in France there have been racial tensions and serious anger surrounding the police shooting of teenager Nahel M - funeral-goers filled a Parisian mosque to mourn his death. His story has resonated with people in many French suburbs who feel resentment towards police officers - though not everyone agrees with the violence that followed his death.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Along With Conservative Triumphs, Signs of New Caution at Supreme Court</h3>
