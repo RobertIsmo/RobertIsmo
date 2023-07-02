@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, July 2, Central Standard Time</p>
 <p>
-Right now, it&#39;s a turbulent time in many parts of the world. In the US, affirmative action is winding down, and there&#39;s a lot of conversation about how to combat racism and privilege. On the international stage, troops in Ukraine are facing off against Russian forces, while in France, civil unrest continues over police violence against minorities. Meanwhile, environmental issues are happening right here in the US too - cities like Michigan have started to combat high levels of pollution. But aside from all that, there&#39;s still a lot of joy amidst all the chaos - for example, Olympic champion Caeleb Dressel has been gaining traction after his return to competitive swimming after taking a break for mental health reasons.</p>
+It looks like the world is in a state of flux right now. In the US, there&#39;s a push for universities to use &quot;Adversity Scores&quot; to build a more diverse student body, which is prompting a renewed conversation around affirmative action. There&#39;s also been a Supreme Court ruling that has caused a lot of people to think about the legacy of slavery. Meanwhile, in Ukraine, Russian forces have launched drone attacks and military counteroffensives against the capital city Kyiv. Across Europe, two Russians and a Ukrainian have been arrested for allegedly being spies while exploring an abandoned armory. In Los Angeles, hotel workers are going on strike due to high living costs and across America there are conflicted feelings about celebrating the Fourth of July. Everyone is awaiting news from an exploratory expedition to the Titanic wreckage, which was last heard when they sent a series of text messages. Also, Artificial Intelligence technology is becoming increasingly complex and advanced so much so that it&#39;s even invading mathematics now - people are both excited and scared about what this means for the future. Finally, chatbots are being developed that don&#39;t have many boundaries and constraints which could open up new possibilities - and potential risks.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>With End of Affirmative Action, a Push for a New Tool: Adversity Scores</h3>
@@ -80,12 +80,6 @@ Right now, it&#39;s a turbulent time in many parts of the world. In the US, affi
 <p>Expecting a quick retreat, a volunteer Ukrainian unit instead faced two days of tough resistance from dug-in Russian forces.  <a href="https://nyti.ms/3PF8QDP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-books-blue" alt="">
-<h3>Reading the Tea Leaves on the End of the War in Ukraine</h3>
-<sub>By Thomas E. Ricks</sub>
-<p>In several recent books, experts on Russia and Ukraine weigh the importance of the Wagner Group and try to predict how Putin’s invasion will play out.  <a href="https://nyti.ms/44pdpX7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 27, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Russian Forces Launch Overnight Drone Attacks on Kyiv</h3>
 <sub>By Cassandra Vinograd</sub>
@@ -98,10 +92,16 @@ Right now, it&#39;s a turbulent time in many parts of the world. In the US, affi
 <p>Five voyagers climbed into the Titan submersible in hopes of joining the select few who have seen the wreck of the Titanic up close. But within hours, their text messages stopped coming.  <a href="https://nyti.ms/3rcSto1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>A Climate Laggard in America’s Industrial Heartland Has a Plan to Change, Fast</h3>
-<sub>By Coral Davenport</sub>
-<p>Lawmakers in Michigan have long fought tough pollution controls. But the toll of flooding, lost crops and damage to the Great Lakes appears to be changing minds.  <a href="https://nyti.ms/3rcSrwp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>A.I. Is Coming for Mathematics, Too</h3>
+<sub>By Siobhan Roberts</sub>
+<p>For thousands of years, mathematicians have adapted to the latest advances in logic and reasoning. Are they ready for artificial intelligence?  <a href="https://nyti.ms/3PGsO18"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Uncensored Chatbots Provoke a Fracas Over Free Speech</h3>
+<sub>By Stuart A. Thompson</sub>
+<p>A new generation of chatbots doesn’t have many of the guardrails put in place by companies like Google and OpenAI, presenting new possibilities — and risks.  <a href="https://nyti.ms/3PyU3KW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
@@ -110,28 +110,28 @@ Right now, it&#39;s a turbulent time in many parts of the world. In the US, affi
 <p>“I’m not interested in perfectly behaved men or women,” the actress says. “I’m drawn to the ones who feel a bit dangerous.”  <a href="https://nyti.ms/3NybOat"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-international-home-blue" alt="">
-<h3>A Fatal Shooting and a Hijab Ban: Two Faces of France’s Racial Divisions</h3>
-<sub>By Catherine Porter</sub>
-<p>The almost simultaneous police killing of Nahel M. and a ban on head scarves in soccer were coincidental, but they illuminate France’s crisis of identity and inclusion.  <a href="https://nyti.ms/432UDDO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>No Sparklers for These Folks</h3>
+<sub>By Alyson Krueger</sub>
+<p>Whether because of crowds, politics or a loss of patriotism, some Americans are conflicted about celebrating the Fourth of July.  <a href="https://nyti.ms/3CTeACq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Mayors Are Targeted in Fifth Night of Protests Across France</h3>
-<sub>By Emma Bubola and Vivek Shankar</sub>
-<p>Despite a generally calmer evening of demonstrations over the police killing of a 17-year-old, two attacks aimed at civic leaders highlighted the tinderbox situation.  <a href="https://nyti.ms/3Nw5aBL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Where to Watch July 4 Fireworks in the New York City Area</h3>
+<sub>By Erin Nolan</sub>
+<p>Macy’s world-famous show, Coney Island’s display and alternative celebrations in Staten Island and New Jersey: here’s where to enjoy a show this year.  <a href="https://nyti.ms/3XwLZMK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘Urban Explorers’ and Accused Spies Chafe in Legal Limbo in Albania</h3>
+<sub>By Isabella Kwai</sub>
+<p>Since their arrest at a derelict arms factory in Albania that they said they were exploring to document in pictures, the two Russians and a Ukrainian have been unable to leave the country.  <a href="https://nyti.ms/3JIaFw6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Los Angeles Hotel Workers Go on Strike</h3>
 <sub>By Jill Cowan and Kurtis Lee</sub>
 <p>The strike is part of a wave of recent labor actions in the nation’s second-largest metropolis, where high costs of living have made it difficult for workers to stay afloat.  <a href="https://nyti.ms/3r2VZRy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>A Champion Swimmer Returns, Slowly but Determinedly, to Competition</h3>
-<sub>By Jenny Vrentas</sub>
-<p>Caeleb Dressel, the seven-time Olympic champion, swam in the nationals after taking a break for mental health reasons. He didn’t win, but he loved everything about being back, even the chlorine.  <a href="https://nyti.ms/3rcSqZn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
 <hr/>
 </ol>
