@@ -60,13 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, July 2, Central Standard Time</p>
 <p>
-There have been some big developments in the world recently. In the US, some medical schools are using a new tool—adversity scores—to try to create a more diverse class of students. The Supreme Court has also ruled on affirmative action, sparking a lot of conversation about its implications for the legacy of slavery in America.
-
-In Eastern Europe, Ukraine is battling Russia in their conflict—it&#39;s been a brutal and grueling fight but protests have been taking place against it. Experts in Russia and Ukraine have been discussing Putin&#39;s invasion and weighing its impacts in several recent books. Meanwhile, Russia conducted a drone attack on Kyiv overnight.
-
-In Michigan, there have been efforts to accelerate climate change initiatives despite their lag behind other states due to long-term resistance from lawmakers. In France, racial divisions are being highlighted as a police killing occurred at the same time that a ban on headscarves in soccer was announced. Protests have broken out across the country as 700 people were arrested during the fifth night of unrest.
-
-On an industrial level, carmakers are being forced to go into the mining business to ensure they don&#39;t suffer from shortages of raw materials needed for electric vehicles. Last but not least, Olympic champion Caeleb Dressel is slowly but determinedly back in competition after taking a break for mental health reasons.</p>
+Right now, it&#39;s a turbulent time in many parts of the world. In the US, affirmative action is winding down, and there&#39;s a lot of conversation about how to combat racism and privilege. On the international stage, troops in Ukraine are facing off against Russian forces, while in France, civil unrest continues over police violence against minorities. Meanwhile, environmental issues are happening right here in the US too - cities like Michigan have started to combat high levels of pollution. But aside from all that, there&#39;s still a lot of joy amidst all the chaos - for example, Olympic champion Caeleb Dressel has been gaining traction after his return to competitive swimming after taking a break for mental health reasons.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>With End of Affirmative Action, a Push for a New Tool: Adversity Scores</h3>
@@ -77,7 +71,7 @@ On an industrial level, carmakers are being forced to go into the mining busines
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>One Black Family, One Affirmative Action Ruling, and Lots of Thoughts</h3>
 <sub>By Audra D. S. Burch</sub>
-<p>The Supreme Court ruling is just the latest version of a question that the Whitehead family — and the nation — have been grappling with for years: How to deal with the legacy of slavery?  <a href="https://nyti.ms/3rcSrMV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The Supreme Court ruling is just the latest version of a question that the Whitehead family — and the nation — has been grappling with for years: How to deal with the legacy of slavery?  <a href="https://nyti.ms/3rcSrMV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -123,15 +117,15 @@ On an industrial level, carmakers are being forced to go into the mining busines
 <sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>France Arrests Hundreds More in Fifth Night of Unrest</h3>
-<sub>By Vivek Shankar and Emma Bubola</sub>
-<p>The authorities arrested more than 700 people, deploying additional officers in the cities of Grenoble, Lyon and Marseille to quell violent protests.  <a href="https://nyti.ms/3Nw5aBL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Mayors Are Targeted in Fifth Night of Protests Across France</h3>
+<sub>By Emma Bubola and Vivek Shankar</sub>
+<p>Despite a generally calmer evening of demonstrations over the police killing of a 17-year-old, two attacks aimed at civic leaders highlighted the tinderbox situation.  <a href="https://nyti.ms/3Nw5aBL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Lithium Scarcity Pushes Carmakers Into the Mining Business</h3>
-<sub>By Clifford Krauss and Jack Ewing</sub>
-<p>Ford, General Motors and others are striking deals with mining companies to avoid raw material shortages that could thwart their electric vehicle ambitions.  <a href="https://nyti.ms/3rcSqIR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Los Angeles Hotel Workers Go on Strike</h3>
+<sub>By Jill Cowan and Kurtis Lee</sub>
+<p>The strike is part of a wave of recent labor actions in the nation’s second-largest metropolis, where high costs of living have made it difficult for workers to stay afloat.  <a href="https://nyti.ms/3r2VZRy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
