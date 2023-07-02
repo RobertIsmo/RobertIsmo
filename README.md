@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, July 1, Central Standard Time</p>
 <p>
-There&#39;s been a lot going on in the world lately. In the US, the Supreme Court has issued decisions on affirmative action and student loans that could have an influence on the upcoming election. In other parts of the world, a migrant ship tragically sank without support from any rescue teams, and there was a mutiny in Russia that offered a glimpse into a different political future. In Belarus, Ukraine is preparing for troops from Russia-based Wagner to arrive. Meanwhile in France, there was sorrow and anger at a funeral for a teenager killed by police officers, and violence is projected to continue due to deep-seated resentment toward law enforcement.</p>
+Right now, there&#39;s a lot going on in the world. In the US, Supreme Court decisions have given Democrats an opening to reach out to voters. And we&#39;ve been seeing many conversations about issues related to affirmative action and student loans in education. Meanwhile, tragedy has struck across the globe as there appears to have been preventable deaths in a recent migrant boat incident. Russia is facing attention by China and Ukraine to its connection with troop deployment. And French suburbs are reeling from police brutality and violence in response to it.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Along With Conservative Triumphs, Signs of New Caution at Supreme Court</h3>
