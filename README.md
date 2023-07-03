@@ -60,18 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, July 3, Central Standard Time</p>
 <p>
-There has been a lot going on in the world lately, especially in the Middle East. Israel recently launched an intense air attack on the West Bank city of Jenin, resulting in the death of at least five Palestinians. Over in Russia, dissents are being suppressed through a growing industry of digital surveillance tools. Closer to home, Ukrainian writer Victoria Amelina passed away in a missile strike on Kramatorsk. Meanwhile at UChicago, there has been some debate over free speech and cyber bullying. 
-
-In Canada, climate change is taking its toll with effects ranging from wildfires to other industries feeling the strain. To help prevent these disasters some countries have started offering small sums - as low as $50 - to their citizens to better protect themselves and their property before disaster strikes. 
-
-At the US border crossings have gone down after nearly two years of increased activity, but for how long is unclear. On top of that many of those migrants that did cross are having difficulty applying for asylum due to complexities of process. 
-
-Lastly while it may be politicized, Florida is still experiencing a boom in tourism, ranging from flag apparel to civil rights groups suggesting travelers visit there despite new laws enacted by Republican lawmakers.</p>
+Right now, there&#39;s a lot of upheaval around the world. In Israel, there was recently a very serious air attack against militants in the West Bank — it&#39;s one of the biggest they&#39;ve seen in nearly two decades. Meanwhile, Russia is ramping up its surveillance abilities to crack down on dissenters within its own borders, and Ukraine&#39;s capital city of Kyiv is under attack. People there are being provided with both physical and mental health care by emergency responders. In Canada, wildfires are taking a toll on the economy there. On top of that, people are dealing with climate change in a whole new way — they&#39;re offering cash to those who live in poorer countries before disaster strikes so they can protect themselves and their property. There have also been some ongoing tensions between hard-right Republicans and law enforcement agencies here in the U.S., who might be reined in soon by Congress. Last but not least, there&#39;s been an uptick in sales for Americana apparel like t-shirts, while dementia villages are popping up as new care facilities for those affected with dementia. Finally, it looks like the number of migrants crossing the U.S. southern border is decreasing — for now.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israel Unleashes Fiercest Air Attack on West Bank in Nearly Two Decades</h3>
+<h3>Israel Launches Biggest Air Attack on West Bank in Nearly Two Decades</h3>
 <sub>By Isabel Kershner</sub>
-<p>At least five Palestinians were killed in a new assault on militant targets in the occupied West Bank city of Jenin, which involved a series of drone airstrikes and hundreds of ground forces.  <a href="https://nyti.ms/3Nzj71B"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Israel said it used drone-fired missiles and ground troops against militant targets in the Jenin refugee camp. The assault killed at least eight Palestinians, the Palestinian health ministry said.  <a href="https://nyti.ms/3Nzj71B"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -98,10 +92,10 @@ Lastly while it may be politicized, Florida is still experiencing a boom in tour
 <p>A student objected to a class, “The Problem of Whiteness,” and tweeted the lecturer’s photo and email address. Hate mail poured in. What should the school do?  <a href="https://nyti.ms/3PEbrOk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>‘American Made’ T-Shirts Are Having Their Best Year Yet</h3>
-<sub>By Jordyn Holman</sub>
-<p>Flag-themed apparel and other Americana are always July Fourth favorites, but it now may matter more where those stars and stripes were stitched.  <a href="https://nyti.ms/3Nz0s68"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>An Elite School, a Boy’s Suicide and a Question of Blame</h3>
+<sub>By John Leland</sub>
+<p>An eighth grader was asked to leave Saint Ann’s, a prestigious private school in Brooklyn. Three months later, he ended his life. Now his parents are suing the school.  <a href="https://nyti.ms/437vJ5N"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -117,28 +111,28 @@ Lastly while it may be politicized, Florida is still experiencing a boom in tour
 <sub><sub>Monday, July 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>G.O.P. Threatens Spy Agencies’ Surveillance Tool</h3>
+<sub>By Karoun Demirjian</sub>
+<p>With hard-right Republicans attacking federal law enforcement agencies and unwilling to extend their broad powers, a major warrantless surveillance program targeting foreigners overseas may face new limits from Congress.  <a href="https://nyti.ms/3NWm1Or"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>‘American Made’ T-Shirts Are Having Their Best Year Yet</h3>
+<sub>By Jordyn Holman</sub>
+<p>Flag-themed apparel and other Americana are always July Fourth favorites, but it now may matter more where those stars and stripes were stitched.  <a href="https://nyti.ms/3Nz0s68"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-realestate-blue" alt="">
+<h3>As Cases Soar, ‘Dementia Villages’ Look Like the Future of Home Care</h3>
+<sub>By  Joann Plockova</sub>
+<p>A new generation of treatment facilities is aiming to integrate dementia patients with the communities around them, blurring lines between home and hospital.  <a href="https://nyti.ms/3XAuTNP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Number of Migrants Crossing U.S. Southern Border Is Down. But for How Long?</h3>
 <sub>By Eileen Sullivan</sub>
 <p>Officials say the lull after nearly two years of increased crossings is not going to last.  <a href="https://nyti.ms/3PEbt8U"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>New Migrants Have a Year to Apply for Asylum. Many Won’t Make It.</h3>
-<sub>By Hurubie Meko and Raúl Vilchis</sub>
-<p>Tens of thousands of people who crossed the border in the last year planned to apply for asylum. But the complexities of the process mean many will fail.  <a href="https://nyti.ms/44bAJYA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>With DeSantis on the Stump, Disney Sees a Long Campaign Ahead</h3>
-<sub>By Brooks Barnes</sub>
-<p>The company, long allergic to controversy, is likely to be the subject of very public and partisan criticism throughout the Republican primary.  <a href="https://nyti.ms/3PEfUjY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-travel-blue" alt="">
-<h3>Despite Battle Over Politics, Florida Tourism Rolls On</h3>
-<sub>By Tariro Mzezewa</sub>
-<p>Even as civil rights groups suggest travelers should rethink trips to the state because of policies enacted by its Republican lawmakers, it remains a tourism juggernaut. And some visitors say their spending actually supports opposition to the new laws.  <a href="https://nyti.ms/43ljLpD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 30, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
