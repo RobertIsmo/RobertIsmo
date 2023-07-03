@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, July 2, Central Standard Time</p>
 <p>
-I wanted to catch up and let you know what&#39;s going on in the world. It seems like North Carolina Republicans are doing everything they can to protect their party&#39;s edge before the 2024 election, leading to clashes over voting rights. Universities are now considering ranking student applicants based on how disadvantaged they are in an effort to build more diverse classes. In Ukraine, a volunteer Ukrainian unit faced two days of tough Russian resistance during a counteroffensive. There have been drone attacks around the Ukrainian capital of Kyiv in the past couple of weeks. Five voyagers embarked on a mission aboard a submersible to visit the wreck of the Titanic, but suddenly stopped sending text messages. The discussion about artificial intelligence coming for mathematics has been prominent lately. Chatbot companies like Google and OpenAI have proved controversial recently because of their lack of guardrails. Phoebe Waller-Bridge commented about her new role as the female lead in an upcoming Indiana Jones film, calling out characters that behave dangerously. Some Americans are conflicted about celebrating Fourth of July amid crowds, politics, and a loss of patriotism. Fireworks will still take place in the New York City area this year, however with reduced shows due to the pandemic. Just a few days ago there was a large shooting in Baltimore leaving two people dead and 28 wounded, and another one right outside of Harlem&#39;s Riverbank State Park where a young boy was killed.</p>
+There is currently a lot of tension surrounding voting access in the US, with North Carolina&#39;s Republican Party pushing forward politically. Universities across the US are adapting to the end of Affirmative Action by introducing Adversity Scores to build a diverse student class. In Ukraine, there has been a small victory following some grueling combat. This comes as five voyagers have ventured into the depths of the ocean to explore the historic Titanic wreck on board a submersible. Meanwhile, US Treasury Secretary Yellen is visiting China in an attempt to foster a better economic relationship. Additionally, Artificial Intelligence is being used more frequently in mathematics and free speech is being taken into consideration due to censorship-free chatbots. On the Fourth of July, some Americans are feeling conflicted about celebrating due to political and safety issues. There are several firework shows available to view for those who do take part in it. Lastly, there have been both Denver and Baltimore shootings over the weekend, with two people killed and 28 wounded in Baltimore, and a 15-year-old tragically shot dead in New York City&#39;s Riverbank State Park. Chicago is also taking its partnership with NASCAR to the streets this weekend but reviews are mixed.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>As 2024 Voting Battles Heat Up, North Carolina G.O.P. Presses Forward</h3>
@@ -80,16 +80,16 @@ I wanted to catch up and let you know what&#39;s going on in the world. It seems
 <p>Expecting a quick retreat, a volunteer Ukrainian unit instead faced two days of tough resistance from dug-in Russian forces.  <a href="https://nyti.ms/3PF8QDP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russian Forces Launch Overnight Drone Attacks on Kyiv</h3>
-<sub>By Cassandra Vinograd</sub>
-<p>The assault was the first pre-dawn drone barrage to target the Ukrainian capital in almost two weeks, officials said.  <a href="https://nyti.ms/46qkDMl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A Rubik’s Cube, Thick Socks and Giddy Anticipation: The Last Hours of the Titan</h3>
 <sub>By John Branch and Christina Goldbaum</sub>
 <p>Five voyagers climbed into the Titan submersible in hopes of joining the select few who have seen the wreck of the Titanic up close. But within hours, their text messages stopped coming.  <a href="https://nyti.ms/3rcSto1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Yellen to Visit China in Bid to Steady Economic Ties</h3>
+<sub>By Alan Rappeport and Keith Bradsher</sub>
+<p>The trip to Beijing will be her first as Treasury secretary and is intended to ease tensions between the world’s two largest economies.  <a href="https://nyti.ms/3CU3eOq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
@@ -102,12 +102,6 @@ I wanted to catch up and let you know what&#39;s going on in the world. It seems
 <h3>Uncensored Chatbots Provoke a Fracas Over Free Speech</h3>
 <sub>By Stuart A. Thompson</sub>
 <p>A new generation of chatbots doesn’t have many of the guardrails put in place by companies like Google and OpenAI, presenting new possibilities — and risks.  <a href="https://nyti.ms/3PyU3KW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Phoebe Waller-Bridge’s Great ‘Indiana Jones’ Adventure</h3>
-<sub>By David Marchese</sub>
-<p>“I’m not interested in perfectly behaved men or women,” the actress says. “I’m drawn to the ones who feel a bit dangerous.”  <a href="https://nyti.ms/3NybOat"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
@@ -123,15 +117,21 @@ I wanted to catch up and let you know what&#39;s going on in the world. It seems
 <sub><sub>Saturday, July 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Shooting in Baltimore Leaves at Least 2 Dead and 28 Wounded</h3>
-<sub>By Tiffany May and Emma Bubola</sub>
-<p>The police were searching for a suspect or suspects in the shooting, which happened early on Sunday at a block party in the city’s southern neighborhood of Brooklyn.  <a href="https://nyti.ms/3PG0JH8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Shooting in Baltimore Leaves 2 Dead and 28 Wounded</h3>
+<sub>By Donna Owens and Amanda Holpuch</sub>
+<p>Frustrated officials sought information from the public about the shooting, which happened early on Sunday at a block party in the city’s southern neighborhood of Brooklyn.  <a href="https://nyti.ms/3PG0JH8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Fatal Shooting of a Teenager Shocks an Urban Oasis</h3>
 <sub>By Katherine Rosman and Chelsia Rose Marcius</sub>
 <p>A 15-year-old boy was killed near basketball courts at Riverbank State Park in Harlem, a popular spot for picnics, gardening and swimming.  <a href="https://nyti.ms/3PHNwxG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Chicago and NASCAR, an Odd Couple With High Hopes, Take It to the Streets</h3>
+<sub>By Mitch Smith and Jamie Kelter Davis</sub>
+<p>The city and the sport, whose partnership was doubted by many, became acquainted on a soggy weekend downtown. The reviews were mixed.  <a href="https://nyti.ms/3PFJw0t"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
 <hr/>
 </ol>
