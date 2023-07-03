@@ -60,7 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, July 2, Central Standard Time</p>
 <p>
-There is currently a lot of tension surrounding voting access in the US, with North Carolina&#39;s Republican Party pushing forward politically. Universities across the US are adapting to the end of Affirmative Action by introducing Adversity Scores to build a diverse student class. In Ukraine, there has been a small victory following some grueling combat. This comes as five voyagers have ventured into the depths of the ocean to explore the historic Titanic wreck on board a submersible. Meanwhile, US Treasury Secretary Yellen is visiting China in an attempt to foster a better economic relationship. Additionally, Artificial Intelligence is being used more frequently in mathematics and free speech is being taken into consideration due to censorship-free chatbots. On the Fourth of July, some Americans are feeling conflicted about celebrating due to political and safety issues. There are several firework shows available to view for those who do take part in it. Lastly, there have been both Denver and Baltimore shootings over the weekend, with two people killed and 28 wounded in Baltimore, and a 15-year-old tragically shot dead in New York City&#39;s Riverbank State Park. Chicago is also taking its partnership with NASCAR to the streets this weekend but reviews are mixed.</p>
+It looks like things are starting to heat up in the United States in terms of voting and election control. Some universities are trying out a new tool called &#39;adversity scores&#39;, which evaluates applicants based on their disadvantages, in order to increase diversity in admissions. Over in Ukraine, there&#39;s been a small battle between Russian forces and a volunteer Ukrainian unit, and it doesn&#39;t look like it will be resolved any time soon. 
+
+On a lighter note, five voyagers recently had the chance to explore the wreck of the Titanic with a submersible, but the texts they sent kept coming up short. Treasury secretary Janet Yellin will be visiting China soon to lessen tensions between two of the largest economies in the world. Artificial intelligence is now making its way into math studies too, which has changed how mathematicians have been adapting issues of logic and reasoning for thousands of years. 
+
+In America, there was a tragic shooting in Baltimore that left two dead and 28 wounded. And also there was one in Manhattan at Riverbank State Park that killed a 15-year-old boy. This Fourth of July should be an interesting one — some Americans are conflicted about celebrating due to crowds, politics or patriotism. Chicago and NASCAR have decided to partner up for a weekend street event with mixed reviews, and tennis star Andy Murray is once again ready for his long run at Wimbledon. Lastly, there&#39;s a YouTuber named Ms. Rachel who gathers millions of views from her series &#39;Songs for Littles&#39; — she teaches children through song!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>As 2024 Voting Battles Heat Up, North Carolina G.O.P. Presses Forward</h3>
@@ -98,23 +102,11 @@ There is currently a lot of tension surrounding voting access in the US, with No
 <p>For thousands of years, mathematicians have adapted to the latest advances in logic and reasoning. Are they ready for artificial intelligence?  <a href="https://nyti.ms/3PGsO18"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Uncensored Chatbots Provoke a Fracas Over Free Speech</h3>
-<sub>By Stuart A. Thompson</sub>
-<p>A new generation of chatbots doesn’t have many of the guardrails put in place by companies like Google and OpenAI, presenting new possibilities — and risks.  <a href="https://nyti.ms/3PyU3KW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
 <h3>No Sparklers for These Folks</h3>
 <sub>By Alyson Krueger</sub>
 <p>Whether because of crowds, politics or a loss of patriotism, some Americans are conflicted about celebrating the Fourth of July.  <a href="https://nyti.ms/3CTeACq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Where to Watch July 4 Fireworks in the New York City Area</h3>
-<sub>By Erin Nolan</sub>
-<p>Macy’s world-famous show, Coney Island’s display and alternative celebrations in Staten Island and New Jersey: here’s where to enjoy a show this year.  <a href="https://nyti.ms/3XwLZMK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Shooting in Baltimore Leaves 2 Dead and 28 Wounded</h3>
@@ -132,6 +124,18 @@ There is currently a lot of tension surrounding voting access in the US, with No
 <h3>Chicago and NASCAR, an Odd Couple With High Hopes, Take It to the Streets</h3>
 <sub>By Mitch Smith and Jamie Kelter Davis</sub>
 <p>The city and the sport, whose partnership was doubted by many, became acquainted on a soggy weekend downtown. The reviews were mixed.  <a href="https://nyti.ms/3PFJw0t"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>‘Now, Let’s Be a Starfish!’: Learning With Ms. Rachel, Song by Song</h3>
+<sub>By McKenna Oxenden</sub>
+<p>The YouTube star of “Songs for Littles,” an online video series that pulls millions of views, says she’s found her calling in encouraging children to speak.  <a href="https://nyti.ms/43lzqoV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Andy Murray Returns to Wimbledon Aiming for Another Long Run</h3>
+<sub>By Matthew Futterman</sub>
+<p>A decade ago, Murray broke the 77-year singles championship drought for British men at Wimbledon. It has been up and down since. Can he recapture the magic?  <a href="https://nyti.ms/3rcSpVj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
 <hr/>
 </ol>
