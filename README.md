@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, July 3, Central Standard Time</p>
 <p>
-There&#39;s a lot happening in the world right now. Russia is cracking down on domestic dissent by developing tech tools to suppress opposition to the war in Ukraine--which could be sold overseas. In the US, the Republican Party is leading to clashes over voting access and control of elections in North Carolina. There are new initiatives putting adversity scores into effect, which could potentially expand across the nation to build a diverse class of students. Five voyagers embarked on a mission to explore the Titanic up close but their text messages stopped coming as of late. Meanwhile, Treasury Secretary Yellen is visiting China to quell tensions between their two countries. On the tech front, artificial intelligence is being applied to mathematics. Citizens are conflicted on celebrating the Fourth of July due to politics or patriotism. In Baltimore, two were killed and 28 wounded at a block party shooting. A teenager was also killed near basketball courts in Harlem&#39;s popular Riverbank State Park spot. Lastly, Chicago teamed up with NASCAR for a weekend downtown event met with mixed reviews. Finally, Andy Murray is returning to Wimbledon with hopes of recapturing his winning magic from 10 years ago when he broke the 77-year singles championship drought for British men at Wimbledon.</p>
+It looks like the world is currently facing a lot of tension - from the crackdown on dissent in Russia to Israeli forces launching assaults in the West Bank. In the US, North Carolina Republicans are getting increasingly political leading to clashes over voting rights and even adversity scores are being proposed as a tool for admissions. The US Treasury secretary, Yellen, is visiting China to ease their strained economic ties. In terms of news closer to home, there was a mass shooting in Baltimore over the weekend which killed two and injured 28. There was also a fatal shooting at Riverbank State Park in Harlem that shocked the neighborhood. Finally, on a lighter note, Andy Murray is returning to Wimbledon for another long run!</p>
 <ol>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Cracking Down on Dissent, Russia Seeds a Surveillance Supply Chain</h3>
@@ -92,6 +92,12 @@ There&#39;s a lot happening in the world right now. Russia is cracking down on d
 <p>The trip to Beijing will be her first as Treasury secretary and is intended to ease tensions between the world’s two largest economies.  <a href="https://nyti.ms/3CU3eOq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Israel Launches Assault on Armed Militants in West Bank City</h3>
+<sub>By Isabel Kershner</sub>
+<p>With tensions high in the area, Israel said it had begun a major military operation in Jenin. At least five people were reported killed.  <a href="https://nyti.ms/3Nzj71B"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
 <h3>A.I. Is Coming for Mathematics, Too</h3>
 <sub>By Siobhan Roberts</sub>
@@ -114,12 +120,6 @@ There&#39;s a lot happening in the world right now. Russia is cracking down on d
 <h3>Fatal Shooting of a Teenager Shocks an Urban Oasis</h3>
 <sub>By Katherine Rosman and Chelsia Rose Marcius</sub>
 <p>A 15-year-old boy was killed near basketball courts at Riverbank State Park in Harlem, a popular spot for picnics, gardening and swimming.  <a href="https://nyti.ms/3PHNwxG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Chicago and NASCAR, an Odd Couple With High Hopes, Take It to the Streets</h3>
-<sub>By Mitch Smith and Jamie Kelter Davis</sub>
-<p>The city and the sport, whose partnership was doubted by many, became acquainted on a soggy weekend downtown. The reviews were mixed.  <a href="https://nyti.ms/3PFJw0t"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
