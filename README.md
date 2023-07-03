@@ -60,12 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, July 3, Central Standard Time</p>
 <p>
-Some startling news is happening around the world right now. In Russia, they are cracking down on domestic dissent by developing new digital technology so as to suppress opposition against a war in Ukraine. Additionally, in Ukraine, emergency responders have been offering psychosocial help to victims of air strikes and missile attacks. In Israel, hundreds of ground forces conducted an air strike that lead to the death of five Palestinians in Jenin. 
+There has been a lot going on in the world lately, especially in the Middle East. Israel recently launched an intense air attack on the West Bank city of Jenin, resulting in the death of at least five Palestinians. Over in Russia, dissents are being suppressed through a growing industry of digital surveillance tools. Closer to home, Ukrainian writer Victoria Amelina passed away in a missile strike on Kramatorsk. Meanwhile at UChicago, there has been some debate over free speech and cyber bullying. 
 
-In the US, there has been debate over free speech and online bullying at the University of Chicago while there has also been an increase in American-made t-shirt sales amidst the upcoming 4th of July celebration. On the other hand, there are significantly fewer migrants crossing the southern US border than usual but it is unknown how long this period will remain. 
+In Canada, climate change is taking its toll with effects ranging from wildfires to other industries feeling the strain. To help prevent these disasters some countries have started offering small sums - as low as $50 - to their citizens to better protect themselves and their property before disaster strikes. 
 
-Meanwhile, Tunisia has become obsessed with canned tuna to add into nearly everything and inflation is pushing it beyond reach for many at prices that were once affordable. Lastly, some disaster aid experiments have suggested giving as little as $50 to people living in poverty can help protect them from disasters before they even strike!</p>
+At the US border crossings have gone down after nearly two years of increased activity, but for how long is unclear. On top of that many of those migrants that did cross are having difficulty applying for asylum due to complexities of process. 
+
+Lastly while it may be politicized, Florida is still experiencing a boom in tourism, ranging from flag apparel to civil rights groups suggesting travelers visit there despite new laws enacted by Republican lawmakers.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Israel Unleashes Fiercest Air Attack on West Bank in Nearly Two Decades</h3>
+<sub>By Isabel Kershner</sub>
+<p>At least five Palestinians were killed in a new assault on militant targets in the occupied West Bank city of Jenin, which involved a series of drone airstrikes and hundreds of ground forces.  <a href="https://nyti.ms/3Nzj71B"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Cracking Down on Dissent, Russia Seeds a Surveillance Supply Chain</h3>
 <sub>By Aaron Krolik, Paul Mozur and Adam Satariano</sub>
@@ -84,12 +92,6 @@ Meanwhile, Tunisia has become obsessed with canned tuna to add into nearly every
 <p>The 37-year-old poet and novelist became the 13th person to be killed in the missile strike on a restaurant in eastern Ukraine on June 27.  <a href="https://nyti.ms/3JIXX02"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israel Unleashes Fiercest Air Attack on West Bank in Nearly Two Decades</h3>
-<sub>By Isabel Kershner</sub>
-<p>At least five Palestinians were killed in a new assault on militant targets in the occupied West Bank city of Jenin, which involved a series of drone airstrikes and hundreds of ground forces.  <a href="https://nyti.ms/3Nzj71B"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>At UChicago, a Debate Over Free Speech and Cyber Bullying</h3>
 <sub>By Vimal Patel</sub>
@@ -101,6 +103,18 @@ Meanwhile, Tunisia has become obsessed with canned tuna to add into nearly every
 <sub>By Jordyn Holman</sub>
 <p>Flag-themed apparel and other Americana are always July Fourth favorites, but it now may matter more where those stars and stripes were stitched.  <a href="https://nyti.ms/3Nz0s68"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Canada Offers Lesson in the Economic Toll of Climate Change</h3>
+<sub>By Lydia DePillis</sub>
+<p>Wildfires are hurting many industries and could strain households across Canada, one of many countries reckoning with the impact of extreme weather.  <a href="https://nyti.ms/3pAw2IU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>A New Kind of Disaster Aid: Pay People Cash, Before Disaster Strikes</h3>
+<sub>By Somini Sengupta</sub>
+<p>Experiments suggest that sums as low as $50 can help the world’s poorest protect themselves and their property in ways they couldn’t otherwise.  <a href="https://nyti.ms/3NzLpJq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Number of Migrants Crossing U.S. Southern Border Is Down. But for How Long?</h3>
@@ -120,23 +134,11 @@ Meanwhile, Tunisia has become obsessed with canned tuna to add into nearly every
 <p>The company, long allergic to controversy, is likely to be the subject of very public and partisan criticism throughout the Republican primary.  <a href="https://nyti.ms/3PEfUjY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>As 2024 Voting Battles Heat Up, North Carolina G.O.P. Presses Forward</h3>
-<sub>By Nick Corasaniti</sub>
-<p>Republicans, whose edge in the state has narrowed in recent years, have gone on offense politically, leading to clashes over voting access and control over elections.  <a href="https://nyti.ms/3NALgW7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>A New Kind of Disaster Aid: Pay People Cash, Before Disaster Strikes</h3>
-<sub>By Somini Sengupta</sub>
-<p>Experiments suggest that sums as low as $50 can help the world’s poorest protect themselves and their property in ways they couldn’t otherwise.  <a href="https://nyti.ms/3NzLpJq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Tuna-Obsessed Tunisia, a Favorite Food Becomes a Lot Less Affordable</h3>
-<sub>By Vivian Yee</sub>
-<p>Tunisians put canned tuna on pizza, pastries and pretty much everything else. Don’t even ask for a tuna-free sandwich. But inflation risks turning an everyday essential into a luxury out of reach.  <a href="https://nyti.ms/3PAPfER"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 3, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-travel-blue" alt="">
+<h3>Despite Battle Over Politics, Florida Tourism Rolls On</h3>
+<sub>By Tariro Mzezewa</sub>
+<p>Even as civil rights groups suggest travelers should rethink trips to the state because of policies enacted by its Republican lawmakers, it remains a tourism juggernaut. And some visitors say their spending actually supports opposition to the new laws.  <a href="https://nyti.ms/43ljLpD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 30, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
