@@ -60,7 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, July 3, Central Standard Time</p>
 <p>
-It looks like the world is currently facing a lot of tension - from the crackdown on dissent in Russia to Israeli forces launching assaults in the West Bank. In the US, North Carolina Republicans are getting increasingly political leading to clashes over voting rights and even adversity scores are being proposed as a tool for admissions. The US Treasury secretary, Yellen, is visiting China to ease their strained economic ties. In terms of news closer to home, there was a mass shooting in Baltimore over the weekend which killed two and injured 28. There was also a fatal shooting at Riverbank State Park in Harlem that shocked the neighborhood. Finally, on a lighter note, Andy Murray is returning to Wimbledon for another long run!</p>
+Some startling news is happening around the world right now. In Russia, they are cracking down on domestic dissent by developing new digital technology so as to suppress opposition against a war in Ukraine. Additionally, in Ukraine, emergency responders have been offering psychosocial help to victims of air strikes and missile attacks. In Israel, hundreds of ground forces conducted an air strike that lead to the death of five Palestinians in Jenin. 
+
+In the US, there has been debate over free speech and online bullying at the University of Chicago while there has also been an increase in American-made t-shirt sales amidst the upcoming 4th of July celebration. On the other hand, there are significantly fewer migrants crossing the southern US border than usual but it is unknown how long this period will remain. 
+
+Meanwhile, Tunisia has become obsessed with canned tuna to add into nearly everything and inflation is pushing it beyond reach for many at prices that were once affordable. Lastly, some disaster aid experiments have suggested giving as little as $50 to people living in poverty can help protect them from disasters before they even strike!</p>
 <ol>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Cracking Down on Dissent, Russia Seeds a Surveillance Supply Chain</h3>
@@ -68,71 +72,71 @@ It looks like the world is currently facing a lot of tension - from the crackdow
 <p>Russia is incubating a cottage industry of new digital surveillance tools to suppress domestic opposition to the war in Ukraine. The tech may also be sold overseas.  <a href="https://nyti.ms/3pvq3Vx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>When Missiles Strike Kyiv, These Psychologists Race to Help</h3>
+<sub>By Megan Specia</sub>
+<p>Emergency responders in Ukraine’s capital offer not only physical care to the victims of airstrikes, but also mental health support for survivors in crisis.  <a href="https://nyti.ms/3JCF131"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukrainian Writer Victoria Amelina Dies After Kramatorsk Strike</h3>
+<sub>By Cassandra Vinograd</sub>
+<p>The 37-year-old poet and novelist became the 13th person to be killed in the missile strike on a restaurant in eastern Ukraine on June 27.  <a href="https://nyti.ms/3JIXX02"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Israel Unleashes Fiercest Air Attack on West Bank in Nearly Two Decades</h3>
+<sub>By Isabel Kershner</sub>
+<p>At least five Palestinians were killed in a new assault on militant targets in the occupied West Bank city of Jenin, which involved a series of drone airstrikes and hundreds of ground forces.  <a href="https://nyti.ms/3Nzj71B"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>At UChicago, a Debate Over Free Speech and Cyber Bullying</h3>
+<sub>By Vimal Patel</sub>
+<p>A student objected to a class, “The Problem of Whiteness,” and tweeted the lecturer’s photo and email address. Hate mail poured in. What should the school do?  <a href="https://nyti.ms/3PEbrOk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>‘American Made’ T-Shirts Are Having Their Best Year Yet</h3>
+<sub>By Jordyn Holman</sub>
+<p>Flag-themed apparel and other Americana are always July Fourth favorites, but it now may matter more where those stars and stripes were stitched.  <a href="https://nyti.ms/3Nz0s68"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Number of Migrants Crossing U.S. Southern Border Is Down. But for How Long?</h3>
+<sub>By Eileen Sullivan</sub>
+<p>Officials say the lull after nearly two years of increased crossings is not going to last.  <a href="https://nyti.ms/3PEbt8U"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>New Migrants Have a Year to Apply for Asylum. Many Won’t Make It.</h3>
+<sub>By Hurubie Meko and Raúl Vilchis</sub>
+<p>Tens of thousands of people who crossed the border in the last year planned to apply for asylum. But the complexities of the process mean many will fail.  <a href="https://nyti.ms/44bAJYA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>With DeSantis on the Stump, Disney Sees a Long Campaign Ahead</h3>
+<sub>By Brooks Barnes</sub>
+<p>The company, long allergic to controversy, is likely to be the subject of very public and partisan criticism throughout the Republican primary.  <a href="https://nyti.ms/3PEfUjY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 3, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>As 2024 Voting Battles Heat Up, North Carolina G.O.P. Presses Forward</h3>
 <sub>By Nick Corasaniti</sub>
 <p>Republicans, whose edge in the state has narrowed in recent years, have gone on offense politically, leading to clashes over voting access and control over elections.  <a href="https://nyti.ms/3NALgW7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>With End of Affirmative Action, a Push for a New Tool: Adversity Scores</h3>
-<sub>By Stephanie Saul</sub>
-<p>To build a diverse class of students, the medical school at U.C. Davis ranks applicants by the disadvantages they have faced. Can it work nationally?  <a href="https://nyti.ms/3pvRajq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Rubik’s Cube, Thick Socks and Giddy Anticipation: The Last Hours of the Titan</h3>
-<sub>By John Branch and Christina Goldbaum</sub>
-<p>Five voyagers climbed into the Titan submersible in hopes of joining the select few who have seen the wreck of the Titanic up close. But within hours, their text messages stopped coming.  <a href="https://nyti.ms/3rcSto1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Yellen to Visit China in Bid to Steady Economic Ties</h3>
-<sub>By Alan Rappeport and Keith Bradsher</sub>
-<p>The trip to Beijing will be her first as Treasury secretary and is intended to ease tensions between the world’s two largest economies.  <a href="https://nyti.ms/3CU3eOq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>A New Kind of Disaster Aid: Pay People Cash, Before Disaster Strikes</h3>
+<sub>By Somini Sengupta</sub>
+<p>Experiments suggest that sums as low as $50 can help the world’s poorest protect themselves and their property in ways they couldn’t otherwise.  <a href="https://nyti.ms/3NzLpJq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israel Launches Assault on Armed Militants in West Bank City</h3>
-<sub>By Isabel Kershner</sub>
-<p>With tensions high in the area, Israel said it had begun a major military operation in Jenin. At least five people were reported killed.  <a href="https://nyti.ms/3Nzj71B"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>A.I. Is Coming for Mathematics, Too</h3>
-<sub>By Siobhan Roberts</sub>
-<p>For thousands of years, mathematicians have adapted to the latest advances in logic and reasoning. Are they ready for artificial intelligence?  <a href="https://nyti.ms/3PGsO18"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>No Sparklers for These Folks</h3>
-<sub>By Alyson Krueger</sub>
-<p>Whether because of crowds, politics or a loss of patriotism, some Americans are conflicted about celebrating the Fourth of July.  <a href="https://nyti.ms/3CTeACq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Shooting in Baltimore Leaves 2 Dead and 28 Wounded</h3>
-<sub>By Donna Owens and Amanda Holpuch</sub>
-<p>Frustrated officials sought information from the public about the shooting, which happened early on Sunday at a block party in the city’s southern neighborhood of Brooklyn.  <a href="https://nyti.ms/3PG0JH8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Fatal Shooting of a Teenager Shocks an Urban Oasis</h3>
-<sub>By Katherine Rosman and Chelsia Rose Marcius</sub>
-<p>A 15-year-old boy was killed near basketball courts at Riverbank State Park in Harlem, a popular spot for picnics, gardening and swimming.  <a href="https://nyti.ms/3PHNwxG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>‘Now, Let’s Be a Starfish!’: Learning With Ms. Rachel, Song by Song</h3>
-<sub>By McKenna Oxenden</sub>
-<p>The YouTube star of “Songs for Littles,” an online video series that pulls millions of views, says she’s found her calling in encouraging children to speak.  <a href="https://nyti.ms/43lzqoV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Andy Murray Returns to Wimbledon Aiming for Another Long Run</h3>
-<sub>By Matthew Futterman</sub>
-<p>A decade ago, Murray broke the 77-year singles championship drought for British men at Wimbledon. It has been up and down since. Can he recapture the magic?  <a href="https://nyti.ms/3rcSpVj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
+<h3>In Tuna-Obsessed Tunisia, a Favorite Food Becomes a Lot Less Affordable</h3>
+<sub>By Vivian Yee</sub>
+<p>Tunisians put canned tuna on pizza, pastries and pretty much everything else. Don’t even ask for a tuna-free sandwich. But inflation risks turning an everyday essential into a luxury out of reach.  <a href="https://nyti.ms/3PAPfER"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
