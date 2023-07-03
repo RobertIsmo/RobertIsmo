@@ -58,14 +58,16 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Sunday, July 2, Central Standard Time</p>
+<p>It is Monday, July 3, Central Standard Time</p>
 <p>
-It looks like things are starting to heat up in the United States in terms of voting and election control. Some universities are trying out a new tool called &#39;adversity scores&#39;, which evaluates applicants based on their disadvantages, in order to increase diversity in admissions. Over in Ukraine, there&#39;s been a small battle between Russian forces and a volunteer Ukrainian unit, and it doesn&#39;t look like it will be resolved any time soon. 
-
-On a lighter note, five voyagers recently had the chance to explore the wreck of the Titanic with a submersible, but the texts they sent kept coming up short. Treasury secretary Janet Yellin will be visiting China soon to lessen tensions between two of the largest economies in the world. Artificial intelligence is now making its way into math studies too, which has changed how mathematicians have been adapting issues of logic and reasoning for thousands of years. 
-
-In America, there was a tragic shooting in Baltimore that left two dead and 28 wounded. And also there was one in Manhattan at Riverbank State Park that killed a 15-year-old boy. This Fourth of July should be an interesting one — some Americans are conflicted about celebrating due to crowds, politics or patriotism. Chicago and NASCAR have decided to partner up for a weekend street event with mixed reviews, and tennis star Andy Murray is once again ready for his long run at Wimbledon. Lastly, there&#39;s a YouTuber named Ms. Rachel who gathers millions of views from her series &#39;Songs for Littles&#39; — she teaches children through song!</p>
+There&#39;s a lot happening in the world right now. Russia is cracking down on domestic dissent by developing tech tools to suppress opposition to the war in Ukraine--which could be sold overseas. In the US, the Republican Party is leading to clashes over voting access and control of elections in North Carolina. There are new initiatives putting adversity scores into effect, which could potentially expand across the nation to build a diverse class of students. Five voyagers embarked on a mission to explore the Titanic up close but their text messages stopped coming as of late. Meanwhile, Treasury Secretary Yellen is visiting China to quell tensions between their two countries. On the tech front, artificial intelligence is being applied to mathematics. Citizens are conflicted on celebrating the Fourth of July due to politics or patriotism. In Baltimore, two were killed and 28 wounded at a block party shooting. A teenager was also killed near basketball courts in Harlem&#39;s popular Riverbank State Park spot. Lastly, Chicago teamed up with NASCAR for a weekend downtown event met with mixed reviews. Finally, Andy Murray is returning to Wimbledon with hopes of recapturing his winning magic from 10 years ago when he broke the 77-year singles championship drought for British men at Wimbledon.</p>
 <ol>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Cracking Down on Dissent, Russia Seeds a Surveillance Supply Chain</h3>
+<sub>By Aaron Krolik, Paul Mozur and Adam Satariano</sub>
+<p>Russia is incubating a cottage industry of new digital surveillance tools to suppress domestic opposition to the war in Ukraine. The tech may also be sold overseas.  <a href="https://nyti.ms/3pvq3Vx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>As 2024 Voting Battles Heat Up, North Carolina G.O.P. Presses Forward</h3>
 <sub>By Nick Corasaniti</sub>
@@ -76,12 +78,6 @@ In America, there was a tragic shooting in Baltimore that left two dead and 28 w
 <h3>With End of Affirmative Action, a Push for a New Tool: Adversity Scores</h3>
 <sub>By Stephanie Saul</sub>
 <p>To build a diverse class of students, the medical school at U.C. Davis ranks applicants by the disadvantages they have faced. Can it work nationally?  <a href="https://nyti.ms/3pvRajq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Small Victory, Signs of Grueling Combat Ahead in Ukrainian Counteroffensive</h3>
-<sub>By Thomas Gibbons-Neff, Yurii Shyvala and David Guttenfelder</sub>
-<p>Expecting a quick retreat, a volunteer Ukrainian unit instead faced two days of tough resistance from dug-in Russian forces.  <a href="https://nyti.ms/3PF8QDP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
