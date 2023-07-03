@@ -60,36 +60,34 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, July 3, Central Standard Time</p>
 <p>
-Right now, there&#39;s a lot of upheaval around the world. In Israel, there was recently a very serious air attack against militants in the West Bank — it&#39;s one of the biggest they&#39;ve seen in nearly two decades. Meanwhile, Russia is ramping up its surveillance abilities to crack down on dissenters within its own borders, and Ukraine&#39;s capital city of Kyiv is under attack. People there are being provided with both physical and mental health care by emergency responders. In Canada, wildfires are taking a toll on the economy there. On top of that, people are dealing with climate change in a whole new way — they&#39;re offering cash to those who live in poorer countries before disaster strikes so they can protect themselves and their property. There have also been some ongoing tensions between hard-right Republicans and law enforcement agencies here in the U.S., who might be reined in soon by Congress. Last but not least, there&#39;s been an uptick in sales for Americana apparel like t-shirts, while dementia villages are popping up as new care facilities for those affected with dementia. Finally, it looks like the number of migrants crossing the U.S. southern border is decreasing — for now.</p>
+It looks like tensions are continuing to rise between the US and Russia, with protests taking place outside the Russian Embassy in Washington. In Israel, there&#39;s been the biggest air attack on the West Bank in nearly two decades – at least 8 Palestinians have been killed. Meanwhile, there&#39;s a challenge to Harvard&#39;s admissions policy accusing them of favoring rich white students. 
+
+In New York there&#39;s a lawsuit against an elite school over the suicide of an eighth grader who was asked to leave. Canada is feeling the economic toll of climate change in the form of wildfires that are impacting many industries. In Washington, hard-right Republicans are threatening to limit a major surveillance program targeting foreigners overseas. 
+
+There&#39;s also a new generation of dementia healthcare facilities integrating patients with their communities and a professional ultrarunner racing against himself after being diagnosed with borderline personality disorder. Lastly, Disney is likely to face public criticism throughout the Republican primaries as Governor DeSantis campaigns for re-election.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Russia’s Embassy in Washington Becomes a Different Kind of Battle Zone</h3>
+<sub>By Michael Crowley</sub>
+<p>The compound has turned into the scene of protests, spy games and general weirdness as the most hostile relations in decades play out between the United States and Russia.  <a href="https://nyti.ms/3pyTXZ3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The U.S. ambassador to Russia meets with a Wall Street Journal reporter as his 100th day in detention looms.</h3>
+<sub>By Edward Wong and Gabriela Sá Pessoa</sub>
+<p>  <a href="https://nyti.ms/3JEH2eY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 3, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Israel Launches Biggest Air Attack on West Bank in Nearly Two Decades</h3>
 <sub>By Isabel Kershner</sub>
 <p>Israel said it used drone-fired missiles and ground troops against militant targets in the Jenin refugee camp. The assault killed at least eight Palestinians, the Palestinian health ministry said.  <a href="https://nyti.ms/3Nzj71B"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Cracking Down on Dissent, Russia Seeds a Surveillance Supply Chain</h3>
-<sub>By Aaron Krolik, Paul Mozur and Adam Satariano</sub>
-<p>Russia is incubating a cottage industry of new digital surveillance tools to suppress domestic opposition to the war in Ukraine. The tech may also be sold overseas.  <a href="https://nyti.ms/3pvq3Vx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>When Missiles Strike Kyiv, These Psychologists Race to Help</h3>
-<sub>By Megan Specia</sub>
-<p>Emergency responders in Ukraine’s capital offer not only physical care to the victims of airstrikes, but also mental health support for survivors in crisis.  <a href="https://nyti.ms/3JCF131"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukrainian Writer Victoria Amelina Dies After Kramatorsk Strike</h3>
-<sub>By Cassandra Vinograd</sub>
-<p>The 37-year-old poet and novelist became the 13th person to be killed in the missile strike on a restaurant in eastern Ukraine on June 27.  <a href="https://nyti.ms/3JIXX02"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 3, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>At UChicago, a Debate Over Free Speech and Cyber Bullying</h3>
-<sub>By Vimal Patel</sub>
-<p>A student objected to a class, “The Problem of Whiteness,” and tweeted the lecturer’s photo and email address. Hate mail poured in. What should the school do?  <a href="https://nyti.ms/3PEbrOk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Harvard’s Admissions Is Challenged for Favoring Children of Alumni</h3>
+<sub>By Stephanie Saul</sub>
+<p>After the Supreme Court banned race-conscious affirmative action, activists filed a complaint, saying legacy admissions helped students who are overwhelmingly rich and white.  <a href="https://nyti.ms/3CYsKlC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -104,23 +102,11 @@ Right now, there&#39;s a lot of upheaval around the world. In Israel, there was 
 <p>Wildfires are hurting many industries and could strain households across Canada, one of many countries reckoning with the impact of extreme weather.  <a href="https://nyti.ms/3pAw2IU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>A New Kind of Disaster Aid: Pay People Cash, Before Disaster Strikes</h3>
-<sub>By Somini Sengupta</sub>
-<p>Experiments suggest that sums as low as $50 can help the world’s poorest protect themselves and their property in ways they couldn’t otherwise.  <a href="https://nyti.ms/3NzLpJq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 3, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>G.O.P. Threatens Spy Agencies’ Surveillance Tool</h3>
 <sub>By Karoun Demirjian</sub>
 <p>With hard-right Republicans attacking federal law enforcement agencies and unwilling to extend their broad powers, a major warrantless surveillance program targeting foreigners overseas may face new limits from Congress.  <a href="https://nyti.ms/3NWm1Or"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>‘American Made’ T-Shirts Are Having Their Best Year Yet</h3>
-<sub>By Jordyn Holman</sub>
-<p>Flag-themed apparel and other Americana are always July Fourth favorites, but it now may matter more where those stars and stripes were stitched.  <a href="https://nyti.ms/3Nz0s68"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-realestate-blue" alt="">
 <h3>As Cases Soar, ‘Dementia Villages’ Look Like the Future of Home Care</h3>
@@ -129,9 +115,27 @@ Right now, there&#39;s a lot of upheaval around the world. In Israel, there was 
 <sub><sub>Monday, July 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Number of Migrants Crossing U.S. Southern Border Is Down. But for How Long?</h3>
-<sub>By Eileen Sullivan</sub>
-<p>Officials say the lull after nearly two years of increased crossings is not going to last.  <a href="https://nyti.ms/3PEbt8U"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>At UChicago, a Debate Over Free Speech and Cyber Bullying</h3>
+<sub>By Vimal Patel</sub>
+<p>A student objected to a class, “The Problem of Whiteness,” and tweeted the lecturer’s photo and email address. Hate mail poured in. What should the school do?  <a href="https://nyti.ms/3PEbrOk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>The Ultramarathoner Racing Against the Course, and Himself</h3>
+<sub>By Rebecca Byerly</sub>
+<p>Nickademus de la Rosa, an ultrarunning prodigy who has run across Death Valley and the Alps, is taking a pause from the sport as he copes with borderline personality disorder.  <a href="https://nyti.ms/3JIYE9s"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>With DeSantis on the Stump, Disney Sees a Long Campaign Ahead</h3>
+<sub>By Brooks Barnes</sub>
+<p>The company, long allergic to controversy, is likely to be the subject of very public and partisan criticism throughout the Republican primary.  <a href="https://nyti.ms/3PEfUjY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Republicans Have to Sign a Loyalty Pledge to Debate. Who Will and Who Won’t?</h3>
+<sub>By Maggie Astor</sub>
+<p>Donald J. Trump and Ron DeSantis have not given straight answers on whether they will sign the pledge, which is required to make the debate stage.  <a href="https://nyti.ms/43b0JC9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
