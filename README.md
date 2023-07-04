@@ -60,7 +60,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, July 4, Central Standard Time</p>
 <p>
-There is a lot of political and economic tension between the US, China, Russia, and Ukraine. Recently Yellen visited China to try and ease some of these tensions. The US has had very hostile relations with Russia recently, and the US ambassador to Russia met with a detained journalist from the WSJ. In the US, there is a legal challenge being made against Harvard University regarding admissions bias favoring wealthy white children of alumni. Canada is going through hardships due to climate change results like wildfires impacting multiple industries. In Baltimore, there was a party that ended in a shooting that killed two people and wounded 28 others. Also, another shooting in Philadelphia left four dead. Lastly, there is a new development in dementia care known as &quot;dementia villages&quot; that are aiming to integrate those with dementia into their surrounding communities.</p>
+Right now there is a lot of tension between China and the United States due to their differences on a range of economic and security issues. In addition to this, Russia&#39;s Embassy in Washington has become almost like a battlefield. Ukrainians are also facing problems with a nuclear power plant that Russia occupies. On top of this, there is debate happening in the US about admissions at Harvard possibly favoring wealthy white applicants.
+
+In terms of good news, India is making headway in the world&#39;s space industry and Canada is providing a lesson in the economic toll of climate change. Unfortunately, there have been shootings and gun violence recently in Baltimore and Philadelphia and Israel has launched its biggest air attack on the West Bank in nearly two decades. Lastly, researchers are looking into dementia villages as a way to provide more home care for those suffering from dementia-related illnesses.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Yellen’s China Visit Aims to Ease Tensions Amid Deep Divisions</h3>
