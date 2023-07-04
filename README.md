@@ -60,9 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, July 4, Central Standard Time</p>
 <p>
-Right now there is a lot of tension between China and the United States due to their differences on a range of economic and security issues. In addition to this, Russia&#39;s Embassy in Washington has become almost like a battlefield. Ukrainians are also facing problems with a nuclear power plant that Russia occupies. On top of this, there is debate happening in the US about admissions at Harvard possibly favoring wealthy white applicants.
-
-In terms of good news, India is making headway in the world&#39;s space industry and Canada is providing a lesson in the economic toll of climate change. Unfortunately, there have been shootings and gun violence recently in Baltimore and Philadelphia and Israel has launched its biggest air attack on the West Bank in nearly two decades. Lastly, researchers are looking into dementia villages as a way to provide more home care for those suffering from dementia-related illnesses.</p>
+To start off, there is tension building between the US and China which escalated when US Treasury Secretary Janet Yellen visited over the weekend. President Putin in Russia is trying to reinforce his government&#39;s defenses, and a prominent Russian journalist was injured during an attack in Chechnya. Meanwhile, there are battles erupting in classrooms stages at school plays over what can be taught and performed, and many Americans are rethinking whether they will go to large public gatherings out of concerns for gun violence. July 4 celebrations this year are being adapted to more eco-friendly forms such as laser light shows due to environmental concerns, while some are taking the opportunity for political campaigning such as Mike Pence or Ron Desantis. Finally, cities across the US are facing conversion issues with piles of regulations holding them back from creating something new.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Yellen’s China Visit Aims to Ease Tensions Amid Deep Divisions</h3>
@@ -70,29 +68,41 @@ In terms of good news, India is making headway in the world&#39;s space industry
 <p>Mutual skepticism between the United States and China over a wide range of economic and security issues has festered in recent years.  <a href="https://nyti.ms/46Min2f"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Russia’s Embassy in Washington Becomes a Different Kind of Battle Zone</h3>
-<sub>By Michael Crowley</sub>
-<p>The compound has turned into the scene of protests, spy games and general weirdness as the most hostile relations in decades play out between the United States and Russia.  <a href="https://nyti.ms/3pyTXZ3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 3, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>After Armed Rebellion, Putin Tries to Reinforce His Defenses</h3>
+<sub>By Anton Troianovski</sub>
+<p>Long focused on security, the Russian president is rewarding loyalty among the ruling elite and showering his most important constituency — the men with guns — with cash.  <a href="https://nyti.ms/3PHJXYj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukrainian Nuclear Plant Is Just One of Innumerable Problems for Its Neighbors</h3>
-<sub>By Jeffrey Gettleman and Finbarr O’Reilly</sub>
-<p>Ukrainians who live near the Russian-occupied Zaporizhzhia nuclear power plant have grown largely complacent about the dangers despite warnings that the facility has a bull’s-eye on it.  <a href="https://nyti.ms/3NW01nM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 3, Central Standard Time</sub></sub>
+<h3>Prominent Russian Journalist Injured in Attack in Chechnya</h3>
+<sub>By Victoria Kim and Anatoly Kurmanaev</sub>
+<p>Elena Milashina, known for her work on human rights, was assaulted along with Alexander Nemov, a lawyer.  <a href="https://nyti.ms/3pvL3vx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The U.S. ambassador to Russia meets with detained WSJ reporter.</h3>
-<sub>By Gabriela Sá Pessoa and Edward Wong</sub>
-<p>Evan Gershkovich has been held at Moscow’s notorious Lefortovo Prison since late March on accusations of espionage that the United States and his employer vehemently reject.  <a href="https://nyti.ms/43ccUyH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 3, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-theater-blue" alt="">
+<h3>It’s Getting Hard to Stage a School Play Without Political Drama</h3>
+<sub>By Michael Paulson</sub>
+<p>At a time when lawmakers and parents are seeking to restrict what can and cannot be taught in classrooms, many teachers are seeing efforts to limit what can be staged in their auditoriums.  <a href="https://nyti.ms/447YPDr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Harvard’s Admissions Is Challenged for Favoring Children of Alumni</h3>
-<sub>By Stephanie Saul</sub>
-<p>After the Supreme Court banned race-conscious affirmative action, activists filed a complaint, saying legacy admissions helped students who are overwhelmingly rich and white.  <a href="https://nyti.ms/3CYsKlC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 3, Central Standard Time</sub></sub>
+<h3>A Year After July 4 Parade Shooting, Some Americans Rethink Big Gatherings</h3>
+<sub>By Julie Bosman</sub>
+<p>Concerns about gun violence at large public events leave some contemplating safety measures or even staying home.  <a href="https://nyti.ms/3NBv3A3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>About Those July 4 Fireworks and Climate Change</h3>
+<sub>By Delger Erdenesanaa</sub>
+<p>As concerns over wildfires and air quality mount, drones and laser shows offer an alternative to fireworks on July 4 and other holidays.  <a href="https://nyti.ms/3PBoaBs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Where to Watch July 4 Fireworks in the New York City Area</h3>
+<sub>By Erin Nolan</sub>
+<p>Macy’s world-famous show, Coney Island’s display and alternative celebrations in Staten Island and New Jersey: here’s where to enjoy a show this year.  <a href="https://nyti.ms/3XwLZMK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>The Surprising Striver in the World’s Space Business</h3>
@@ -100,41 +110,29 @@ In terms of good news, India is making headway in the world&#39;s space industry
 <p>With at least 140 registered space-tech start-ups, India stands to transform the planet’s connection to the final frontier.  <a href="https://nyti.ms/46Milr9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Canada Offers Lesson in the Economic Toll of Climate Change</h3>
-<sub>By Lydia DePillis</sub>
-<p>Wildfires are hurting many industries and could strain households across Canada, one of many countries reckoning with the impact of extreme weather.  <a href="https://nyti.ms/3pAw2IU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 3, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Sidesteps Any Notion That He’s a ‘Flaming Woke Warrior’</h3>
+<sub>By Reid J. Epstein</sub>
+<p>Despite his alliance with abortion-rights supporters and L.G.B.T.Q. advocates, the president has deftly avoided becoming enmeshed in battles over hotly contested social issues.  <a href="https://nyti.ms/44NnLQT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Baltimore Party, a Hail of Gunfire and a Neighborhood Shattered</h3>
-<sub>By Kayla Guo and Nicholas Bogel-Burroughs</sub>
-<p>The shooting on Sunday in the city’s Brooklyn neighborhood killed two people and wounded 28 others.  <a href="https://nyti.ms/3XBAsvs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 3, Central Standard Time</sub></sub>
+<h3>Republicans Are Divided on Impeaching Biden as Panel Begins New Inquiry</h3>
+<sub>By Karoun Demirjian</sub>
+<p>A vote to send the Homeland Security Committee impeachment articles against President Biden for his border policies has underscored rifts in the G.O.P. about whether to try to remove him, and for what.  <a href="https://nyti.ms/44r6U64"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Gunman Kills Four in Southwest Philadelphia, Police Say</h3>
-<sub>By Jon Hurdle and Livia Albeck-Ripka</sub>
-<p>The suspect was wearing body armor and three guns were recovered, the police said.  <a href="https://nyti.ms/3rel9gg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 3, Central Standard Time</sub></sub>
+<h3>The Republican Not Heading to a July 4 Parade? Trump.</h3>
+<sub>By Jonathan Weisman</sub>
+<p>But for early-state G.O.P. voters hoping for more attention on Independence Day, the pickings will be plentiful: Mike Pence, Ron DeSantis and others will be on the trail.  <a href="https://nyti.ms/436kISh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-realestate-blue" alt="">
-<h3>As Cases Soar, ‘Dementia Villages’ Look Like the Future of Home Care</h3>
-<sub>By  Joann Plockova</sub>
-<p>A new generation of treatment facilities is aiming to integrate dementia patients with the communities around them, blurring lines between home and hospital.  <a href="https://nyti.ms/3XAuTNP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israel Launches Biggest Air Attack on West Bank in Nearly Two Decades</h3>
-<sub>By Isabel Kershner</sub>
-<p>Israel said it used drone-fired missiles and ground troops against militant targets in the Jenin refugee camp. The assault killed at least eight Palestinians, the Palestinian health ministry said.  <a href="https://nyti.ms/3Nzj71B"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What to Know About a Seemingly Fake Document in a Gay Rights Case</h3>
-<sub>By Adam Liptak</sub>
-<p>A supposed request for a website for a same-sex wedding played a minor role in a major clash between free speech and gay rights at the Supreme Court.  <a href="https://nyti.ms/44wasUw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 3, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>American Cities Have a Conversion Problem, and It’s Not Just Offices</h3>
+<sub>By Emily Badger</sub>
+<p>Piles of regulations, or “kludge,” and a culture of “no” are limiting the ability to turn building blocks into something new.  <a href="https://nyti.ms/3r06p4n"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
