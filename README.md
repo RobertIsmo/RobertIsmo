@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, July 4, Central Standard Time</p>
 <p>
-There has been a lot happening in the world recently. In Russia, President Putin is trying to reinforce his defenses after an armed rebellion and a journalist covering human rights issues was injured in an attack. Near Moscow, several drones were intercepted. The United States and China have deep divisions and it&#39;s getting harder to stage school plays without political drama due to lawmakers wanting to restrict what can be taught. It&#39;s also July 4th, so we are seeing fireworks and barbeques all across the country, but some people are starting to rethink large public gatherings due to gun violence. In Fort Worth, three people died in a shooting near an Independence Day party and in Southwest Philadelpia another shooting occurred with five fatalities. Biden is also taking a sidestep from being seen as a &quot;flaming woke warrior&quot; but he has built an alliance with abortion-rights supporters and LGBTQ advocates.</p>
+Right now, a lot is happening in the world. In the US, Republicans are considering launching impeachment proceedings against President Biden for his border policies, and former President Trump won&#39;t be at the July 4th parades. At a meeting of the Shanghai Cooperation Organization, Putin, Xi and Modi met on camera but without signs of greater unity. Meanwhile, in Philadelphia and Fort Worth, shootings have left eight people dead and two injured in the last few days. On the international stage, Putin is trying to rein in rebels who oppose him while also giving cash rewards to members of his own elite circle. Lastly, fireworks have become a political hot topic as fire concerns and air quality mount.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Federal Judge Limits Biden Officials’ Contacts With Social Media Sites</h3>
+<sub>By Steven Lee Myers and David McCabe</sub>
+<p>The order came in a lawsuit filed by the attorneys general of Missouri and Louisiana, who claim the administration is trying to silence its critics.  <a href="https://nyti.ms/3rbFN0u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 4, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>After Armed Rebellion, Putin Tries to Reinforce His Defenses</h3>
 <sub>By Anton Troianovski</sub>
@@ -69,22 +75,34 @@ There has been a lot happening in the world recently. In Russia, President Putin
 <sub><sub>Tuesday, July 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Prominent Russian Journalist Injured in Attack in Chechnya</h3>
-<sub>By Victoria Kim and Anatoly Kurmanaev</sub>
-<p>Elena Milashina, known for her work on human rights, was assaulted along with Alexander Nemov, a lawyer.  <a href="https://nyti.ms/3pvL3vx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Putin, Xi and Modi Meet on Camera, but With No Signs of Greater Unity</h3>
+<sub>By David Pierson, Anatoly Kurmanaev and Sameer Yasir</sub>
+<p>At a virtual summit meeting of the Shanghai Cooperation Organization, the leaders of Russia, China and India each focused on their own driving issues.  <a href="https://nyti.ms/44sfKk3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Several drones were intercepted near Moscow, the mayor says.</h3>
-<sub>By Victoria Kim</sub>
-<p>It appeared to be the first such attack near the Russian capital since May, when two waves of drones got close to the Kremlin.  <a href="https://nyti.ms/3rii136"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Kremlin Addresses Possible Swap After Ambassador Meets With Gershkovich</h3>
+<sub>By Gabriela Sá Pessoa, Edward Wong and Anatoly Kurmanaev</sub>
+<p>The comment was an apparent reference to Evan Gershkovich, who has been held since late March on accusations of espionage that the United States and his employer vehemently reject.  <a href="https://nyti.ms/43ccUyH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Sidesteps Any Notion That He’s a ‘Flaming Woke Warrior’</h3>
+<sub>By Reid J. Epstein</sub>
+<p>Despite his alliance with abortion-rights supporters and L.G.B.T.Q. advocates, the president has deftly avoided becoming enmeshed in battles over hotly contested social issues.  <a href="https://nyti.ms/44NnLQT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Yellen’s China Visit Aims to Ease Tensions Amid Deep Divisions</h3>
-<sub>By Alan Rappeport, Keith Bradsher and Ana Swanson</sub>
-<p>Mutual skepticism between the United States and China over a wide range of economic and security issues has festered in recent years.  <a href="https://nyti.ms/46Min2f"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 3, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Republicans Are Divided on Impeaching Biden as Panel Begins New Inquiry</h3>
+<sub>By Karoun Demirjian</sub>
+<p>A vote to send the Homeland Security Committee impeachment articles against President Biden for his border policies has underscored rifts in the G.O.P. about whether to try to remove him, and for what.  <a href="https://nyti.ms/44r6U64"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Republican Not Heading to a July 4 Parade? Trump.</h3>
+<sub>By Jazmine Ulloa and Jonathan Weisman</sub>
+<p>But for early-state G.O.P. voters hoping for more attention on Independence Day, the pickings will be plentiful: Mike Pence, Ron DeSantis and others will be on the trail.  <a href="https://nyti.ms/436kISh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-theater-blue" alt="">
 <h3>It’s Getting Hard to Stage a School Play Without Political Drama</h3>
@@ -93,9 +111,9 @@ There has been a lot happening in the world recently. In Russia, President Putin
 <sub><sub>Tuesday, July 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Heat, Gluttony and Hot Dogs: It Must Be the 4th of July</h3>
+<h3>Nathan’s July 4 Contest: Sudo Narrowly Defends Women’s Title Amid Chaos</h3>
 <sub>By Liam Stack</sub>
-<p>The returning men’s and women’s champions, Joey Chestnut and Miki Sudo, are expected to defend their titles, but the spectacle is more about the journey than the victor.  <a href="https://nyti.ms/3PHSTg1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The hot-dog eating spectacle is often more about the journey than the victor. On Tuesday, weather became a new factor, with torrential rain and lightning delaying the men’s contest.  <a href="https://nyti.ms/3PHSTg1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
@@ -104,34 +122,16 @@ There has been a lot happening in the world recently. In Russia, President Putin
 <p>As concerns over wildfires and air quality mount, drones and laser shows offer an alternative to fireworks on July 4 and other holidays.  <a href="https://nyti.ms/3PBoaBs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Where to Watch July 4 Fireworks in the New York City Area</h3>
-<sub>By Erin Nolan</sub>
-<p>Macy’s world-famous show, Coney Island’s display and alternative celebrations in Staten Island and New Jersey: here’s where to enjoy a show this year.  <a href="https://nyti.ms/3XwLZMK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 1, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Fifth Person Found Dead in Southwest Philadelphia Shooting, Police Say</h3>
-<sub>By Campbell Robertson, Jon Hurdle and Livia Albeck-Ripka</sub>
-<p>The victim was found in his home with multiple gun shots. Two children were also injured. A suspect is in custody.  <a href="https://nyti.ms/44NHPmb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Year After July 4 Parade Shooting, Some Americans Rethink Big Gatherings</h3>
-<sub>By Julie Bosman</sub>
-<p>Concerns about gun violence at large public events leave some contemplating safety measures or even staying home.  <a href="https://nyti.ms/3NBv3A3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Shootings in Philadelphia May Have Been Random, District Attorney Says</h3>
+<sub>By Jon Hurdle, Campbell Robertson and Livia Albeck-Ripka</sub>
+<p>Five men were killed and two children were injured. A male suspect has been taken into custody.  <a href="https://nyti.ms/44NHPmb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>3 Are Fatally Shot in Fort Worth, Police Say</h3>
 <sub>By Jenny Gross and Derrick Bryson Taylor</sub>
 <p>The shooting took place just before midnight on Monday in the Como neighborhood, southwest of downtown, where a crowd had gathered for an Independence Day party, the authorities said.  <a href="https://nyti.ms/3JIuTpf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Sidesteps Any Notion That He’s a ‘Flaming Woke Warrior’</h3>
-<sub>By Reid J. Epstein</sub>
-<p>Despite his alliance with abortion-rights supporters and L.G.B.T.Q. advocates, the president has deftly avoided becoming enmeshed in battles over hotly contested social issues.  <a href="https://nyti.ms/44NnLQT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
