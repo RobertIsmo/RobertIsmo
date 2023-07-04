@@ -60,14 +60,8 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, July 4, Central Standard Time</p>
 <p>
-To start off, there is tension building between the US and China which escalated when US Treasury Secretary Janet Yellen visited over the weekend. President Putin in Russia is trying to reinforce his government&#39;s defenses, and a prominent Russian journalist was injured during an attack in Chechnya. Meanwhile, there are battles erupting in classrooms stages at school plays over what can be taught and performed, and many Americans are rethinking whether they will go to large public gatherings out of concerns for gun violence. July 4 celebrations this year are being adapted to more eco-friendly forms such as laser light shows due to environmental concerns, while some are taking the opportunity for political campaigning such as Mike Pence or Ron Desantis. Finally, cities across the US are facing conversion issues with piles of regulations holding them back from creating something new.</p>
+There has been a lot happening in the world recently. In Russia, President Putin is trying to reinforce his defenses after an armed rebellion and a journalist covering human rights issues was injured in an attack. Near Moscow, several drones were intercepted. The United States and China have deep divisions and it&#39;s getting harder to stage school plays without political drama due to lawmakers wanting to restrict what can be taught. It&#39;s also July 4th, so we are seeing fireworks and barbeques all across the country, but some people are starting to rethink large public gatherings due to gun violence. In Fort Worth, three people died in a shooting near an Independence Day party and in Southwest Philadelpia another shooting occurred with five fatalities. Biden is also taking a sidestep from being seen as a &quot;flaming woke warrior&quot; but he has built an alliance with abortion-rights supporters and LGBTQ advocates.</p>
 <ol>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Yellen’s China Visit Aims to Ease Tensions Amid Deep Divisions</h3>
-<sub>By Alan Rappeport, Keith Bradsher and Ana Swanson</sub>
-<p>Mutual skepticism between the United States and China over a wide range of economic and security issues has festered in recent years.  <a href="https://nyti.ms/46Min2f"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 3, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>After Armed Rebellion, Putin Tries to Reinforce His Defenses</h3>
 <sub>By Anton Troianovski</sub>
@@ -80,20 +74,32 @@ To start off, there is tension building between the US and China which escalated
 <p>Elena Milashina, known for her work on human rights, was assaulted along with Alexander Nemov, a lawyer.  <a href="https://nyti.ms/3pvL3vx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 4, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Several drones were intercepted near Moscow, the mayor says.</h3>
+<sub>By Victoria Kim</sub>
+<p>It appeared to be the first such attack near the Russian capital since May, when two waves of drones got close to the Kremlin.  <a href="https://nyti.ms/3rii136"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Yellen’s China Visit Aims to Ease Tensions Amid Deep Divisions</h3>
+<sub>By Alan Rappeport, Keith Bradsher and Ana Swanson</sub>
+<p>Mutual skepticism between the United States and China over a wide range of economic and security issues has festered in recent years.  <a href="https://nyti.ms/46Min2f"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 3, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-theater-blue" alt="">
 <h3>It’s Getting Hard to Stage a School Play Without Political Drama</h3>
 <sub>By Michael Paulson</sub>
 <p>At a time when lawmakers and parents are seeking to restrict what can and cannot be taught in classrooms, many teachers are seeing efforts to limit what can be staged in their auditoriums.  <a href="https://nyti.ms/447YPDr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Year After July 4 Parade Shooting, Some Americans Rethink Big Gatherings</h3>
-<sub>By Julie Bosman</sub>
-<p>Concerns about gun violence at large public events leave some contemplating safety measures or even staying home.  <a href="https://nyti.ms/3NBv3A3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Heat, Gluttony and Hot Dogs: It Must Be the 4th of July</h3>
+<sub>By Liam Stack</sub>
+<p>The returning men’s and women’s champions, Joey Chestnut and Miki Sudo, are expected to defend their titles, but the spectacle is more about the journey than the victor.  <a href="https://nyti.ms/3PHSTg1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>About Those July 4 Fireworks and Climate Change</h3>
+<h3>About Those July 4 Fireworks and Air Pollution</h3>
 <sub>By Delger Erdenesanaa</sub>
 <p>As concerns over wildfires and air quality mount, drones and laser shows offer an alternative to fireworks on July 4 and other holidays.  <a href="https://nyti.ms/3PBoaBs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 4, Central Standard Time</sub></sub>
@@ -104,35 +110,29 @@ To start off, there is tension building between the US and China which escalated
 <p>Macy’s world-famous show, Coney Island’s display and alternative celebrations in Staten Island and New Jersey: here’s where to enjoy a show this year.  <a href="https://nyti.ms/3XwLZMK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Surprising Striver in the World’s Space Business</h3>
-<sub>By Alex Travelli</sub>
-<p>With at least 140 registered space-tech start-ups, India stands to transform the planet’s connection to the final frontier.  <a href="https://nyti.ms/46Milr9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 3, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Fifth Person Found Dead in Southwest Philadelphia Shooting, Police Say</h3>
+<sub>By Campbell Robertson, Jon Hurdle and Livia Albeck-Ripka</sub>
+<p>The victim was found in his home with multiple gun shots. Two children were also injured. A suspect is in custody.  <a href="https://nyti.ms/44NHPmb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Year After July 4 Parade Shooting, Some Americans Rethink Big Gatherings</h3>
+<sub>By Julie Bosman</sub>
+<p>Concerns about gun violence at large public events leave some contemplating safety measures or even staying home.  <a href="https://nyti.ms/3NBv3A3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>3 Are Fatally Shot in Fort Worth, Police Say</h3>
+<sub>By Jenny Gross and Derrick Bryson Taylor</sub>
+<p>The shooting took place just before midnight on Monday in the Como neighborhood, southwest of downtown, where a crowd had gathered for an Independence Day party, the authorities said.  <a href="https://nyti.ms/3JIuTpf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Sidesteps Any Notion That He’s a ‘Flaming Woke Warrior’</h3>
 <sub>By Reid J. Epstein</sub>
 <p>Despite his alliance with abortion-rights supporters and L.G.B.T.Q. advocates, the president has deftly avoided becoming enmeshed in battles over hotly contested social issues.  <a href="https://nyti.ms/44NnLQT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Republicans Are Divided on Impeaching Biden as Panel Begins New Inquiry</h3>
-<sub>By Karoun Demirjian</sub>
-<p>A vote to send the Homeland Security Committee impeachment articles against President Biden for his border policies has underscored rifts in the G.O.P. about whether to try to remove him, and for what.  <a href="https://nyti.ms/44r6U64"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Republican Not Heading to a July 4 Parade? Trump.</h3>
-<sub>By Jonathan Weisman</sub>
-<p>But for early-state G.O.P. voters hoping for more attention on Independence Day, the pickings will be plentiful: Mike Pence, Ron DeSantis and others will be on the trail.  <a href="https://nyti.ms/436kISh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>American Cities Have a Conversion Problem, and It’s Not Just Offices</h3>
-<sub>By Emily Badger</sub>
-<p>Piles of regulations, or “kludge,” and a culture of “no” are limiting the ability to turn building blocks into something new.  <a href="https://nyti.ms/3r06p4n"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
