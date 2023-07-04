@@ -58,10 +58,16 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Monday, July 3, Central Standard Time</p>
+<p>It is Tuesday, July 4, Central Standard Time</p>
 <p>
-There is a lot of tension in the world right now. In Washington, D.C., Russia&#39;s Embassy has become a battleground for protests between the U.S. and Russia. Meanwhile, Ukraine&#39;s nuclear plant poses a risk of danger to its neighboring countries. In the U.S., Harvard is being accused of favoring wealthy and white applicants in its admissions process, and a prestigious private school in Brooklyn is under fire after a student committed suicide after being asked to leave. Canada is facing economic damage due to wildfires, and Baltimore and Philadelphia both experienced mass shootings. There&#39;s also been an air attack on the West Bank originating from Israel recently which killed 8 Palestinians. On top of all that, the Supreme Court is confronting a conflict between First Amendment rights and gay rights with a wrong document at play. Ultimately, ultrarunning sensation Nickademus de la Rosa is taking a break due to struggling with his mental health issues.</p>
+There is a lot of political and economic tension between the US, China, Russia, and Ukraine. Recently Yellen visited China to try and ease some of these tensions. The US has had very hostile relations with Russia recently, and the US ambassador to Russia met with a detained journalist from the WSJ. In the US, there is a legal challenge being made against Harvard University regarding admissions bias favoring wealthy white children of alumni. Canada is going through hardships due to climate change results like wildfires impacting multiple industries. In Baltimore, there was a party that ended in a shooting that killed two people and wounded 28 others. Also, another shooting in Philadelphia left four dead. Lastly, there is a new development in dementia care known as &quot;dementia villages&quot; that are aiming to integrate those with dementia into their surrounding communities.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Yellen’s China Visit Aims to Ease Tensions Amid Deep Divisions</h3>
+<sub>By Alan Rappeport, Keith Bradsher and Ana Swanson</sub>
+<p>Mutual skepticism between the United States and China over a wide range of economic and security issues has festered in recent years.  <a href="https://nyti.ms/46Min2f"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 3, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Russia’s Embassy in Washington Becomes a Different Kind of Battle Zone</h3>
 <sub>By Michael Crowley</sub>
@@ -86,11 +92,11 @@ There is a lot of tension in the world right now. In Washington, D.C., Russia&#3
 <p>After the Supreme Court banned race-conscious affirmative action, activists filed a complaint, saying legacy admissions helped students who are overwhelmingly rich and white.  <a href="https://nyti.ms/3CYsKlC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>An Elite School, a Boy’s Suicide and a Question of Blame</h3>
-<sub>By John Leland</sub>
-<p>An eighth grader was asked to leave Saint Ann’s, a prestigious private school in Brooklyn. Three months later, he ended his life. Now his parents are suing the school.  <a href="https://nyti.ms/437vJ5N"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>The Surprising Striver in the World’s Space Business</h3>
+<sub>By Alex Travelli</sub>
+<p>With at least 140 registered space-tech start-ups, India stands to transform the planet’s connection to the final frontier.  <a href="https://nyti.ms/46Milr9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Canada Offers Lesson in the Economic Toll of Climate Change</h3>
@@ -106,7 +112,7 @@ There is a lot of tension in the world right now. In Washington, D.C., Russia&#3
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Gunman Kills Four in Southwest Philadelphia, Police Say</h3>
-<sub>By Livia Albeck-Ripka and Jon Hurdle</sub>
+<sub>By Jon Hurdle and Livia Albeck-Ripka</sub>
 <p>The suspect was wearing body armor and three guns were recovered, the police said.  <a href="https://nyti.ms/3rel9gg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 3, Central Standard Time</sub></sub>
 <hr/>
@@ -126,12 +132,6 @@ There is a lot of tension in the world right now. In Washington, D.C., Russia&#3
 <h3>What to Know About a Seemingly Fake Document in a Gay Rights Case</h3>
 <sub>By Adam Liptak</sub>
 <p>A supposed request for a website for a same-sex wedding played a minor role in a major clash between free speech and gay rights at the Supreme Court.  <a href="https://nyti.ms/44wasUw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>The Ultramarathoner Racing Against the Course, and Himself</h3>
-<sub>By Rebecca Byerly</sub>
-<p>Nickademus de la Rosa, an ultrarunning prodigy who has run across Death Valley and the Alps, is taking a pause from the sport as he copes with borderline personality disorder.  <a href="https://nyti.ms/3JIYE9s"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
