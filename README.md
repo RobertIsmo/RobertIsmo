@@ -60,11 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, July 3, Central Standard Time</p>
 <p>
-It looks like tensions are continuing to rise between the US and Russia, with protests taking place outside the Russian Embassy in Washington. In Israel, there&#39;s been the biggest air attack on the West Bank in nearly two decades – at least 8 Palestinians have been killed. Meanwhile, there&#39;s a challenge to Harvard&#39;s admissions policy accusing them of favoring rich white students. 
-
-In New York there&#39;s a lawsuit against an elite school over the suicide of an eighth grader who was asked to leave. Canada is feeling the economic toll of climate change in the form of wildfires that are impacting many industries. In Washington, hard-right Republicans are threatening to limit a major surveillance program targeting foreigners overseas. 
-
-There&#39;s also a new generation of dementia healthcare facilities integrating patients with their communities and a professional ultrarunner racing against himself after being diagnosed with borderline personality disorder. Lastly, Disney is likely to face public criticism throughout the Republican primaries as Governor DeSantis campaigns for re-election.</p>
+Right now, the relations between the US and Russia are incredibly hostile, and there are protests happening at the Russian embassy in Washington. In Ukraine, people living near a Russian-occupied nuclear plant don’t feel very safe despite warnings of a potential threat. The US ambassador to Russia is currently in prison after being accused of espionage by Moscow. Meanwhile, Harvard’s admissions policy is facing scrutiny from activists who argue that legacy admissions disproportionately affect wealthy white students. In New York, a prestigious private school is being sued by parents of an eighth grader who committed suicide after being expelled from the institution. Canada faces major economic consequences due to recent wildfires caused by climate change. There was an awful shooting at a party in Baltimore that killed two people and wounded 28 others. As cases of dementia continue to rise, “dementia villages” have been developed as a new type of home care solution for those with the condition. In Israel, there was just the biggest air attack on the West Bank in almost two decades which killed eight Palestinians according to the Palestinian health ministry. A Supreme Court case recently hinged on a seemingly fake document related to gay rights and Donald Trump and Ron DeSantis are refusing to sign a loyalty pledge for upcoming debate stages. Finally, an ultrarunner is taking a pause from his sport as he deals with personal issues relating to borderline personality disorder.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Russia’s Embassy in Washington Becomes a Different Kind of Battle Zone</h3>
@@ -73,16 +69,16 @@ There&#39;s also a new generation of dementia healthcare facilities integrating 
 <sub><sub>Monday, July 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The U.S. ambassador to Russia meets with a Wall Street Journal reporter as his 100th day in detention looms.</h3>
-<sub>By Edward Wong and Gabriela Sá Pessoa</sub>
-<p>  <a href="https://nyti.ms/3JEH2eY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Ukrainian Nuclear Plant Is Just One of Innumerable Problems for Its Neighbors</h3>
+<sub>By Jeffrey Gettleman and Finbarr O’Reilly</sub>
+<p>Ukrainians who live near the Russian-occupied Zaporizhzhia nuclear power plant have grown largely complacent about the dangers despite warnings that the facility has a bull’s-eye on it.  <a href="https://nyti.ms/3NW01nM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israel Launches Biggest Air Attack on West Bank in Nearly Two Decades</h3>
-<sub>By Isabel Kershner</sub>
-<p>Israel said it used drone-fired missiles and ground troops against militant targets in the Jenin refugee camp. The assault killed at least eight Palestinians, the Palestinian health ministry said.  <a href="https://nyti.ms/3Nzj71B"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
+<h3>The U.S. ambassador to Russia meets with a Wall Street Journal reporter as his 100th day in detention looms.</h3>
+<sub>By Gabriela Sá Pessoa and Edward Wong</sub>
+<p>Evan Gershkovich has been held at Moscow’s notorious Lefortovo Prison since late March on accusations of espionage that the United States and his employer vehemently reject.  <a href="https://nyti.ms/43ccUyH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Harvard’s Admissions Is Challenged for Favoring Children of Alumni</h3>
@@ -103,9 +99,9 @@ There&#39;s also a new generation of dementia healthcare facilities integrating 
 <sub><sub>Monday, July 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>G.O.P. Threatens Spy Agencies’ Surveillance Tool</h3>
-<sub>By Karoun Demirjian</sub>
-<p>With hard-right Republicans attacking federal law enforcement agencies and unwilling to extend their broad powers, a major warrantless surveillance program targeting foreigners overseas may face new limits from Congress.  <a href="https://nyti.ms/3NWm1Or"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>A Baltimore Party, a Hail of Gunfire and a Neighborhood Shattered</h3>
+<sub>By Kayla Guo and Nicholas Bogel-Burroughs</sub>
+<p>The shooting on Sunday in the city’s Brooklyn neighborhood killed two people and wounded 28 others.  <a href="https://nyti.ms/3XBAsvs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-realestate-blue" alt="">
@@ -114,22 +110,22 @@ There&#39;s also a new generation of dementia healthcare facilities integrating 
 <p>A new generation of treatment facilities is aiming to integrate dementia patients with the communities around them, blurring lines between home and hospital.  <a href="https://nyti.ms/3XAuTNP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 3, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Israel Launches Biggest Air Attack on West Bank in Nearly Two Decades</h3>
+<sub>By Isabel Kershner</sub>
+<p>Israel said it used drone-fired missiles and ground troops against militant targets in the Jenin refugee camp. The assault killed at least eight Palestinians, the Palestinian health ministry said.  <a href="https://nyti.ms/3Nzj71B"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 2, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>At UChicago, a Debate Over Free Speech and Cyber Bullying</h3>
-<sub>By Vimal Patel</sub>
-<p>A student objected to a class, “The Problem of Whiteness,” and tweeted the lecturer’s photo and email address. Hate mail poured in. What should the school do?  <a href="https://nyti.ms/3PEbrOk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>What to Know About a Seemingly Fake Document in a Gay Rights Case</h3>
+<sub>By Adam Liptak</sub>
+<p>A supposed request for a website for a same-sex wedding played a minor role in a major clash between free speech and gay rights at the Supreme Court.  <a href="https://nyti.ms/44wasUw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>The Ultramarathoner Racing Against the Course, and Himself</h3>
 <sub>By Rebecca Byerly</sub>
 <p>Nickademus de la Rosa, an ultrarunning prodigy who has run across Death Valley and the Alps, is taking a pause from the sport as he copes with borderline personality disorder.  <a href="https://nyti.ms/3JIYE9s"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>With DeSantis on the Stump, Disney Sees a Long Campaign Ahead</h3>
-<sub>By Brooks Barnes</sub>
-<p>The company, long allergic to controversy, is likely to be the subject of very public and partisan criticism throughout the Republican primary.  <a href="https://nyti.ms/3PEfUjY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
