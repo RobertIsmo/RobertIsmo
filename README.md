@@ -60,13 +60,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, July 4, Central Standard Time</p>
 <p>
-Right now, a lot is happening in the world. In the US, Republicans are considering launching impeachment proceedings against President Biden for his border policies, and former President Trump won&#39;t be at the July 4th parades. At a meeting of the Shanghai Cooperation Organization, Putin, Xi and Modi met on camera but without signs of greater unity. Meanwhile, in Philadelphia and Fort Worth, shootings have left eight people dead and two injured in the last few days. On the international stage, Putin is trying to rein in rebels who oppose him while also giving cash rewards to members of his own elite circle. Lastly, fireworks have become a political hot topic as fire concerns and air quality mount.</p>
+It looks like there are a lot of things happening in the world right now. In the US, there are shootings in Philadelphia and Fort Worth that have resulted in multiple fatalities, and some politicians are trying to limit the content of school plays. Overseas, Russian president Vladimir Putin is looking to reinforce his regime&#39;s security during a virtual summit of Asian leaders while a Wall Street Journal reporter is currently being held on accusations of espionage in Russia. On top of all of that, there&#39;s a legal battle between Biden administration officials and social media sites over freedom of speech and disinformation. Finally, to add something a bit more lighthearted - Nathan&#39;s hot dog eating contest went off as usual despite torrential rain!</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Federal Judge Limits Biden Officials’ Contacts With Social Media Sites</h3>
 <sub>By Steven Lee Myers and David McCabe</sub>
 <p>The order came in a lawsuit filed by the attorneys general of Missouri and Louisiana, who claim the administration is trying to silence its critics.  <a href="https://nyti.ms/3rbFN0u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Free Speech vs. Disinformation Comes to a Head</h3>
+<sub>By Steven Lee Myers</sub>
+<p>The outcome of a case in federal court could help decide whether the First Amendment is a barrier to virtually any government efforts to stifle disinformation.  <a href="https://nyti.ms/3x5vkU9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>After Armed Rebellion, Putin Tries to Reinforce His Defenses</h3>
@@ -82,38 +88,20 @@ Right now, a lot is happening in the world. In the US, Republicans are consideri
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Kremlin Addresses Possible Swap After Ambassador Meets With Gershkovich</h3>
-<sub>By Gabriela Sá Pessoa, Edward Wong and Anatoly Kurmanaev</sub>
-<p>The comment was an apparent reference to Evan Gershkovich, who has been held since late March on accusations of espionage that the United States and his employer vehemently reject.  <a href="https://nyti.ms/43ccUyH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub>By Anatoly Kurmanaev, Michael Crowley and Gabriela Sá Pessoa</sub>
+<p>The comment is an apparent reference to the Wall Street Journal reporter Evan Gershkovich, who has been held on accusations of espionage that the United States and his employer vehemently reject.  <a href="https://nyti.ms/43ccUyH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Sidesteps Any Notion That He’s a ‘Flaming Woke Warrior’</h3>
-<sub>By Reid J. Epstein</sub>
-<p>Despite his alliance with abortion-rights supporters and L.G.B.T.Q. advocates, the president has deftly avoided becoming enmeshed in battles over hotly contested social issues.  <a href="https://nyti.ms/44NnLQT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Republicans Are Divided on Impeaching Biden as Panel Begins New Inquiry</h3>
-<sub>By Karoun Demirjian</sub>
-<p>A vote to send the Homeland Security Committee impeachment articles against President Biden for his border policies has underscored rifts in the G.O.P. about whether to try to remove him, and for what.  <a href="https://nyti.ms/44r6U64"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Republican Not Heading to a July 4 Parade? Trump.</h3>
+<h3>Stumping on July 4, Trump’s Rivals Pitch Themselves to Early-State Voters</h3>
 <sub>By Jazmine Ulloa and Jonathan Weisman</sub>
-<p>But for early-state G.O.P. voters hoping for more attention on Independence Day, the pickings will be plentiful: Mike Pence, Ron DeSantis and others will be on the trail.  <a href="https://nyti.ms/436kISh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-theater-blue" alt="">
-<h3>It’s Getting Hard to Stage a School Play Without Political Drama</h3>
-<sub>By Michael Paulson</sub>
-<p>At a time when lawmakers and parents are seeking to restrict what can and cannot be taught in classrooms, many teachers are seeing efforts to limit what can be staged in their auditoriums.  <a href="https://nyti.ms/447YPDr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Donald J. Trump loomed large over the campaign trail, even though he was among the few G.O.P. contenders who stayed away from it.  <a href="https://nyti.ms/3NZcsiN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Nathan’s July 4 Contest: Sudo Narrowly Defends Women’s Title Amid Chaos</h3>
+<h3>Nathan’s Hot Dog Contest Finds Familiar Winners Amid Unexpected Drama</h3>
 <sub>By Liam Stack</sub>
-<p>The hot-dog eating spectacle is often more about the journey than the victor. On Tuesday, weather became a new factor, with torrential rain and lightning delaying the men’s contest.  <a href="https://nyti.ms/3PHSTg1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Joey Chestnut and Miki Sudo defended their titles, but the spectacle was less about the victors, and more about the journey, which this year included torrential rain.  <a href="https://nyti.ms/3PHSTg1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
@@ -122,16 +110,28 @@ Right now, a lot is happening in the world. In the US, Republicans are consideri
 <p>As concerns over wildfires and air quality mount, drones and laser shows offer an alternative to fireworks on July 4 and other holidays.  <a href="https://nyti.ms/3PBoaBs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 4, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-theater-blue" alt="">
+<h3>It’s Getting Hard to Stage a School Play Without Political Drama</h3>
+<sub>By Michael Paulson</sub>
+<p>At a time when lawmakers and parents are seeking to restrict what can and cannot be taught in classrooms, many teachers are seeing efforts to limit what can be staged in their auditoriums.  <a href="https://nyti.ms/447YPDr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 4, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Shootings in Philadelphia May Have Been Random, District Attorney Says</h3>
 <sub>By Jon Hurdle, Campbell Robertson and Livia Albeck-Ripka</sub>
-<p>Five men were killed and two children were injured. A male suspect has been taken into custody.  <a href="https://nyti.ms/44NHPmb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Five people were killed and two were injured. A suspect has been taken into custody.  <a href="https://nyti.ms/44NHPmb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>3 Are Fatally Shot in Fort Worth, Police Say</h3>
 <sub>By Jenny Gross and Derrick Bryson Taylor</sub>
-<p>The shooting took place just before midnight on Monday in the Como neighborhood, southwest of downtown, where a crowd had gathered for an Independence Day party, the authorities said.  <a href="https://nyti.ms/3JIuTpf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The shooting took place just before midnight on Monday in the Como neighborhood, southwest of downtown, the authorities said.  <a href="https://nyti.ms/3JIuTpf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Maggie Harrison’s War on Wine</h3>
+<sub>By Alex Halberstadt</sub>
+<p>Her painstaking blends are dazzling diners and critics — and upending long-held notions about how winemaking is supposed to work.  <a href="https://nyti.ms/46wo6ZJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
