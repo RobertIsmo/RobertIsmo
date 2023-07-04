@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, July 3, Central Standard Time</p>
 <p>
-Right now, the relations between the US and Russia are incredibly hostile, and there are protests happening at the Russian embassy in Washington. In Ukraine, people living near a Russian-occupied nuclear plant don’t feel very safe despite warnings of a potential threat. The US ambassador to Russia is currently in prison after being accused of espionage by Moscow. Meanwhile, Harvard’s admissions policy is facing scrutiny from activists who argue that legacy admissions disproportionately affect wealthy white students. In New York, a prestigious private school is being sued by parents of an eighth grader who committed suicide after being expelled from the institution. Canada faces major economic consequences due to recent wildfires caused by climate change. There was an awful shooting at a party in Baltimore that killed two people and wounded 28 others. As cases of dementia continue to rise, “dementia villages” have been developed as a new type of home care solution for those with the condition. In Israel, there was just the biggest air attack on the West Bank in almost two decades which killed eight Palestinians according to the Palestinian health ministry. A Supreme Court case recently hinged on a seemingly fake document related to gay rights and Donald Trump and Ron DeSantis are refusing to sign a loyalty pledge for upcoming debate stages. Finally, an ultrarunner is taking a pause from his sport as he deals with personal issues relating to borderline personality disorder.</p>
+There is a lot of tension in the world right now. In Washington, D.C., Russia&#39;s Embassy has become a battleground for protests between the U.S. and Russia. Meanwhile, Ukraine&#39;s nuclear plant poses a risk of danger to its neighboring countries. In the U.S., Harvard is being accused of favoring wealthy and white applicants in its admissions process, and a prestigious private school in Brooklyn is under fire after a student committed suicide after being asked to leave. Canada is facing economic damage due to wildfires, and Baltimore and Philadelphia both experienced mass shootings. There&#39;s also been an air attack on the West Bank originating from Israel recently which killed 8 Palestinians. On top of all that, the Supreme Court is confronting a conflict between First Amendment rights and gay rights with a wrong document at play. Ultimately, ultrarunning sensation Nickademus de la Rosa is taking a break due to struggling with his mental health issues.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Russia’s Embassy in Washington Becomes a Different Kind of Battle Zone</h3>
@@ -75,7 +75,7 @@ Right now, the relations between the US and Russia are incredibly hostile, and t
 <sub><sub>Monday, July 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The U.S. ambassador to Russia meets with a Wall Street Journal reporter as his 100th day in detention looms.</h3>
+<h3>The U.S. ambassador to Russia meets with detained WSJ reporter.</h3>
 <sub>By Gabriela Sá Pessoa and Edward Wong</sub>
 <p>Evan Gershkovich has been held at Moscow’s notorious Lefortovo Prison since late March on accusations of espionage that the United States and his employer vehemently reject.  <a href="https://nyti.ms/43ccUyH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 3, Central Standard Time</sub></sub>
@@ -104,6 +104,12 @@ Right now, the relations between the US and Russia are incredibly hostile, and t
 <p>The shooting on Sunday in the city’s Brooklyn neighborhood killed two people and wounded 28 others.  <a href="https://nyti.ms/3XBAsvs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 3, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Gunman Kills Four in Southwest Philadelphia, Police Say</h3>
+<sub>By Livia Albeck-Ripka and Jon Hurdle</sub>
+<p>The suspect was wearing body armor and three guns were recovered, the police said.  <a href="https://nyti.ms/3rel9gg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 3, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-realestate-blue" alt="">
 <h3>As Cases Soar, ‘Dementia Villages’ Look Like the Future of Home Care</h3>
 <sub>By  Joann Plockova</sub>
@@ -126,12 +132,6 @@ Right now, the relations between the US and Russia are incredibly hostile, and t
 <h3>The Ultramarathoner Racing Against the Course, and Himself</h3>
 <sub>By Rebecca Byerly</sub>
 <p>Nickademus de la Rosa, an ultrarunning prodigy who has run across Death Valley and the Alps, is taking a pause from the sport as he copes with borderline personality disorder.  <a href="https://nyti.ms/3JIYE9s"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Republicans Have to Sign a Loyalty Pledge to Debate. Who Will and Who Won’t?</h3>
-<sub>By Maggie Astor</sub>
-<p>Donald J. Trump and Ron DeSantis have not given straight answers on whether they will sign the pledge, which is required to make the debate stage.  <a href="https://nyti.ms/43b0JC9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
