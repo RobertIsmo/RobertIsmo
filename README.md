@@ -60,7 +60,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, July 5, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In the Ukraine, a Russian soldier&#39;s story of fighting in the war has gone viral, and Rabbi&#39;s brush with danger in Ukraine has also been widely reported. In Israel, there was a deadly raid on the West Bank City and teenagers have been writing their last words due to the increased violence. In New Jersey, a paralyzed man was injured by a police bullet. On the movie front, Andrew Ridgeley is discussing life and career after Wham! Lastly, federal officials are planning for three vaccines to be released this fall against the flu, Covid-19, and R.S.V., and you should check with your doctor to see which vaccines are recommended for your age group.</p>
+There is a lot of conflict happening around the world. In Ukraine, a Russian soldier has been fighting in the war and experiencing the drudgery of trench work. Meanwhile, the chief rabbi of Ukraine has become well-known for his humanitarian efforts since Russia&#39;s full-scale invasion. In Israel, there was a deadly raid on the West Bank City that left at least 12 Palestinians and one Israeli soldier dead. Also, Palestinian attacks on Tel Aviv left at least eight wounded. There has also been violence in the West Bank with many teenagers writing out their last words. 
+
+In other news, paralyzed by a police bullet, Khalif Cooper describes his life as forever changed. Meanwhile, Andrew Ridgeley talks about George Michael and life after the band Wham! plus there is a review of the duo&#39;s success and turbulent end. In China, a woman was left to uncover her husband&#39;s secret cause as he was a brilliant anonymous dissident blogger. Closer to home in Philadelphia and Louisiana there were mass shootings, leaving five dead and seven wounded. To top it off, the Democratic National Committee has had a primary problem with South Carolina voting first in 2024 not going according to plan.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>The Ukraine War Changed This Company Forever</h3>
@@ -92,12 +94,6 @@ There is a lot going on in the world right now. In the Ukraine, a Russian soldie
 <p>In one of the deadliest periods in years in the Israeli-occupied West Bank, young Palestinians drawn into the struggle against Israel are writing farewell messages to their loved ones.  <a href="https://nyti.ms/3O2B1eR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israel’s Raid on Jenin, in Pictures</h3>
-<sub>By The New York Times</sub>
-<p>The major incursion into the West Bank city, which the military said was focused on rooting out militants, left several dead and forced thousands from their homes.  <a href="https://nyti.ms/3pHdyGq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 4, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Paralyzed by a Police Bullet, He Describes a Life Forever Changed</h3>
 <sub>By Tracey Tully</sub>
@@ -116,22 +112,28 @@ There is a lot going on in the world right now. In the Ukraine, a Russian soldie
 <p>A new movie documents George Michael and Andrew Ridgeley’s storming of the pop airwaves as the duo Wham! and laughs past the thorny questions.  <a href="https://nyti.ms/449AgG9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>China Took Her Husband. She Was Left to Uncover His Secret Cause.</h3>
+<sub>By Vivian Wang</sub>
+<p>He was brilliant, quirky and intensely private — and also, she now suspects, an anonymous dissident blogger who had won fame for years of evading the surveillance state.  <a href="https://nyti.ms/3resGM0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Mass Shooting in Philadelphia: What to Know</h3>
+<sub>By Sarah Mervosh</sub>
+<p>An assailant dressed in a ski mask and body armor killed five people and injured two others, the authorities said, in what officials are treating as a random attack.  <a href="https://nyti.ms/3JMg6ds"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>4 Killed and 7 Wounded in Shooting at July 4 Party in Louisiana</h3>
+<sub>By Derrick Bryson Taylor and Remy Tumin</sub>
+<p>The shooting comes amid a long and violent holiday weekend in the United States, where shootings were reported in multiple cities.  <a href="https://nyti.ms/3riblSw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
 <h3>The D.N.C. Has a Primary Problem</h3>
 <sub>By Ross Barkan</sub>
 <p>The White House wanted South Carolina to vote first in 2024. The Democratic National Committee obliged. It hasn’t gone according to plan.  <a href="https://nyti.ms/3NY6wqk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Federal Officials Hatch a Three-Pronged Defense Against Another ‘Tripledemic’</h3>
-<sub>By Apoorva Mandavilli</sub>
-<p>This fall, Americans will be urged to get shots against the flu, Covid and, if they’re older, R.S.V.  <a href="https://nyti.ms/3PHozlO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Three Vaccines for Fall: What You Need to Know</h3>
-<sub>By Apoorva Mandavilli</sub>
-<p>Here’s who should get the flu, Covid and R.S.V. vaccines, and when.  <a href="https://nyti.ms/3rfkzyS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
 <hr/>
 </ol>
