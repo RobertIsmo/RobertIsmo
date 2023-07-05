@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, July 4, Central Standard Time</p>
 <p>
-It looks like there are a lot of things happening in the world right now. In the US, there are shootings in Philadelphia and Fort Worth that have resulted in multiple fatalities, and some politicians are trying to limit the content of school plays. Overseas, Russian president Vladimir Putin is looking to reinforce his regime&#39;s security during a virtual summit of Asian leaders while a Wall Street Journal reporter is currently being held on accusations of espionage in Russia. On top of all of that, there&#39;s a legal battle between Biden administration officials and social media sites over freedom of speech and disinformation. Finally, to add something a bit more lighthearted - Nathan&#39;s hot dog eating contest went off as usual despite torrential rain!</p>
+Currently, there is a lot of attention on the tensions between the US and other nations. Putin, Xi, and Modi recently met to discuss foreign policy issues at a virtual summit for the Shanghai Cooperation Organization. Meanwhile, the US Ambassador to Russia has been meeting with Evan Gershkovich, an American journalist imprisoned by Russia on charges of espionage that are rejected by both the US and his employer. There is also a rising tension closer to home; in Philadelphia 5 people were killed in a mass shooting, 3 more were fatally shot in Fort Worth, Texas, a federal judge has limited Biden officials’ contact social media sites amidst a case filed by Missouri and Louisiana claiming that the Biden administration was trying to silence its critics. Finally, there has been launching of rockets from Gaza recently after an Israeli raid into Jenin resulted in one Israeli soldier and 12 Palestinians dead.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Federal Judge Limits Biden Officials’ Contacts With Social Media Sites</h3>
@@ -75,12 +75,6 @@ It looks like there are a lot of things happening in the world right now. In the
 <sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>After Armed Rebellion, Putin Tries to Reinforce His Defenses</h3>
-<sub>By Anton Troianovski</sub>
-<p>Long focused on security, the Russian president is rewarding loyalty among the ruling elite and showering his most important constituency — the men with guns — with cash.  <a href="https://nyti.ms/3PHJXYj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Putin, Xi and Modi Meet on Camera, but With No Signs of Greater Unity</h3>
 <sub>By David Pierson, Anatoly Kurmanaev and Sameer Yasir</sub>
 <p>At a virtual summit meeting of the Shanghai Cooperation Organization, the leaders of Russia, China and India each focused on their own driving issues.  <a href="https://nyti.ms/44sfKk3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -91,6 +85,12 @@ It looks like there are a lot of things happening in the world right now. In the
 <sub>By Anatoly Kurmanaev, Michael Crowley and Gabriela Sá Pessoa</sub>
 <p>The comment is an apparent reference to the Wall Street Journal reporter Evan Gershkovich, who has been held on accusations of espionage that the United States and his employer vehemently reject.  <a href="https://nyti.ms/43ccUyH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Solemn Walk Through Highland Park One Year After Parade Massacre</h3>
+<sub>By Mitch Smith</sub>
+<p>Residents of the Chicago suburb marched down Central Avenue as they do every Fourth of July. But this was no parade.  <a href="https://nyti.ms/44uKvEZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Stumping on July 4, Trump’s Rivals Pitch Themselves to Early-State Voters</h3>
@@ -104,12 +104,6 @@ It looks like there are a lot of things happening in the world right now. In the
 <p>Joey Chestnut and Miki Sudo defended their titles, but the spectacle was less about the victors, and more about the journey, which this year included torrential rain.  <a href="https://nyti.ms/3PHSTg1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>About Those July 4 Fireworks and Air Pollution</h3>
-<sub>By Delger Erdenesanaa</sub>
-<p>As concerns over wildfires and air quality mount, drones and laser shows offer an alternative to fireworks on July 4 and other holidays.  <a href="https://nyti.ms/3PBoaBs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 4, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-theater-blue" alt="">
 <h3>It’s Getting Hard to Stage a School Play Without Political Drama</h3>
 <sub>By Michael Paulson</sub>
@@ -117,9 +111,9 @@ It looks like there are a lot of things happening in the world right now. In the
 <sub><sub>Tuesday, July 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Shootings in Philadelphia May Have Been Random, District Attorney Says</h3>
-<sub>By Jon Hurdle, Campbell Robertson and Livia Albeck-Ripka</sub>
-<p>Five people were killed and two were injured. A suspect has been taken into custody.  <a href="https://nyti.ms/44NHPmb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>In Philadelphia, a Mass Shooting Leaves Five Dead</h3>
+<sub>By Campbell Robertson, Jon Hurdle and Joel Wolfram</sub>
+<p>In a neighborhood where violence is not uncommon, witnesses described an intense barrage. A suspect has been taken into custody.  <a href="https://nyti.ms/44NHPmb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -132,6 +126,12 @@ It looks like there are a lot of things happening in the world right now. In the
 <h3>Maggie Harrison’s War on Wine</h3>
 <sub>By Alex Halberstadt</sub>
 <p>Her painstaking blends are dazzling diners and critics — and upending long-held notions about how winemaking is supposed to work.  <a href="https://nyti.ms/46wo6ZJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Rockets Launched From Gaza Amid Israeli Raid in West Bank and Tel Aviv Attack</h3>
+<sub>By Isabel Kershner and Aaron Boxerman</sub>
+<p>The launches into Israel came after a military incursion into the Palestinian city of Jenin left at least 12 Palestinians and one Israeli soldier dead.  <a href="https://nyti.ms/3PJRExa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
