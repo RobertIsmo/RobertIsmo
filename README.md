@@ -60,26 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, July 5, Central Standard Time</p>
 <p>
-There is a lot of conflict happening around the world. In Ukraine, a Russian soldier has been fighting in the war and experiencing the drudgery of trench work. Meanwhile, the chief rabbi of Ukraine has become well-known for his humanitarian efforts since Russia&#39;s full-scale invasion. In Israel, there was a deadly raid on the West Bank City that left at least 12 Palestinians and one Israeli soldier dead. Also, Palestinian attacks on Tel Aviv left at least eight wounded. There has also been violence in the West Bank with many teenagers writing out their last words. 
-
-In other news, paralyzed by a police bullet, Khalif Cooper describes his life as forever changed. Meanwhile, Andrew Ridgeley talks about George Michael and life after the band Wham! plus there is a review of the duo&#39;s success and turbulent end. In China, a woman was left to uncover her husband&#39;s secret cause as he was a brilliant anonymous dissident blogger. Closer to home in Philadelphia and Louisiana there were mass shootings, leaving five dead and seven wounded. To top it off, the Democratic National Committee has had a primary problem with South Carolina voting first in 2024 not going according to plan.</p>
+It&#39;s been a difficult time around the world. President Biden is backing a plan for Sweden to join NATO, but it has been stalled by Turkey&#39;s opposition. In Israel, there was a devastating military incursion in the West Bank that left many dead, and teenagers there are writing out their last words. Another conflict taking place is in Ukraine, where fighting between Russia and Ukraine has created problems for a company based in Finland. In addition, there have been several shootings in the US this holiday weekend, including one in Louisiana that left four dead and seven wounded.</p>
 <ol>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Ukraine War Changed This Company Forever</h3>
-<sub>By Patricia Cohen</sub>
-<p>Nokian Tyres of Finland made 80 percent of its tires in Russia, where energy was cheap. After losing billions, it prioritized political security over business efficiency.  <a href="https://nyti.ms/3D0JB7y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘Dig, Dig, Dig’: A Russian Soldier’s Story</h3>
-<sub>By Thomas Gibbons-Neff and Natalia Yermak</sub>
-<p>An inmate hoped to start over with a clean slate by fighting in Ukraine. Instead, he was confronted by the drudgery of trench work and the terror of battle. “You’re going in as meat,” he said he was told.  <a href="https://nyti.ms/44xWPnM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Hosts Sweden’s Prime Minister as the Nordic Nation Looks to Join NATO</h3>
+<sub>By Katie Rogers and Michael Crowley</sub>
+<p>President Biden backs the plan for Sweden to join the military alliance, but movement has been stalled by Turkey’s opposition.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Rabbi’s Brush With Danger in Ukraine Went Viral</h3>
-<sub>By Cassandra Vinograd</sub>
-<p>A video put a fresh spotlight on the chief rabbi of Ukraine, whose renown predates his humanitarian efforts since Russia’s full-scale invasion.  <a href="https://nyti.ms/3rgAlJT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Israel’s Major Incursion in the West Bank Is Over. Did It Solve Anything?</h3>
+<sub>By Isabel Kershner</sub>
+<p>Israelis and Palestinians said the armed groups that were the targets of the military raid would quickly rebuild and the Israeli soldiers would be back soon.  <a href="https://nyti.ms/3O1vpkP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -92,6 +84,24 @@ In other news, paralyzed by a police bullet, Khalif Cooper describes his life as
 <h3>West Bank Teenagers Are Writing Out Their Last Words</h3>
 <sub>By Raja Abdulrahim and Hiba Yazbek</sub>
 <p>In one of the deadliest periods in years in the Israeli-occupied West Bank, young Palestinians drawn into the struggle against Israel are writing farewell messages to their loved ones.  <a href="https://nyti.ms/3O2B1eR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>The Ukraine War Changed This Company Forever</h3>
+<sub>By Patricia Cohen</sub>
+<p>Nokian Tyres of Finland made 80 percent of its tires in Russia, where energy was cheap. After losing billions, it prioritized political security over business efficiency.  <a href="https://nyti.ms/3D0JB7y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘Dig, Dig, Dig’: A Russian Soldier’s Story</h3>
+<sub>By Thomas Gibbons-Neff and Natalia Yermak</sub>
+<p>An inmate hoped to start over with a clean slate by fighting in Ukraine. Instead, he was confronted by the drudgery of trench work and the terror of battle. “You’re going in as meat,” he said he was told.  <a href="https://nyti.ms/44xWPnM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Where the Republican Candidates Stand on Ukraine</h3>
+<sub>By Maggie Astor</sub>
+<p>The war has illuminated one of the biggest ideological divides within the Republican Party: between members who see a significant global role for the United States, and a more isolationist wing.  <a href="https://nyti.ms/44yph9o"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -119,21 +129,9 @@ In other news, paralyzed by a police bullet, Khalif Cooper describes his life as
 <sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Mass Shooting in Philadelphia: What to Know</h3>
-<sub>By Sarah Mervosh</sub>
-<p>An assailant dressed in a ski mask and body armor killed five people and injured two others, the authorities said, in what officials are treating as a random attack.  <a href="https://nyti.ms/3JMg6ds"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>4 Killed and 7 Wounded in Shooting at July 4 Party in Louisiana</h3>
-<sub>By Derrick Bryson Taylor and Remy Tumin</sub>
-<p>The shooting comes amid a long and violent holiday weekend in the United States, where shootings were reported in multiple cities.  <a href="https://nyti.ms/3riblSw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>The D.N.C. Has a Primary Problem</h3>
-<sub>By Ross Barkan</sub>
-<p>The White House wanted South Carolina to vote first in 2024. The Democratic National Committee obliged. It hasn’t gone according to plan.  <a href="https://nyti.ms/3NY6wqk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Deadly Louisiana Shooting Caps a Holiday Weekend of Violence</h3>
+<sub>By Michael Levenson, Derrick Bryson Taylor and Adeel Hassan</sub>
+<p>The shooting, which left four dead and seven wounded, was one of several in multiple cities since Friday.  <a href="https://nyti.ms/3riblSw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
 <hr/>
 </ol>
