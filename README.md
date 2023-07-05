@@ -58,21 +58,17 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Tuesday, July 4, Central Standard Time</p>
+<p>It is Wednesday, July 5, Central Standard Time</p>
 <p>
-It&#39;s been an eventful few days in the global news. In the US, five people were killed in a mass shooting in Philadelphia, and three more were fatally shot in Fort Worth. There&#39;s also been drama with Biden&#39;s officials after a federal judge limited contacts between them and social media sites, following a lawsuit from the attorneys general of Missouri and Louisiana who claim the administration is trying to silence its critics. Meanwhile, world leaders Putin, Xi and Modi had an important meeting, but no signs of greater unity emerged. In Gaza rockets were launched following a military incursion into the Palestinian city of Jenin which left several dead. Finally, while Donald Trump was stumping on July 4th, Nathan&#39;s Hot Dog Contest saw familiar winners amid some unexpected drama at their own event.</p>
+It&#39;s been a tumultuous few days all over the world. In the Ukraine, a company has lost billions after changes caused by the war there and has made political security its priority over business efficiency. Putin, Xi, and Modi had a virtual summit to discuss various issues, but it seems no form of unity was achieved.
+
+In Israel, there has been fighting between Israelis and Palestinians, with at least 13 people dead as a result of these clashes. On the US front, President Trump held no Fourth of July campaign event and his opponents held rallies in key early state locations for their campaigns. Also, in Philadelphia and Fort Worth there were mass shootings that claimed five and three lives respectively.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Federal Judge Limits Biden Officials’ Contacts With Social Media Sites</h3>
-<sub>By Steven Lee Myers and David McCabe</sub>
-<p>The order came in a lawsuit filed by the attorneys general of Missouri and Louisiana, who claim the administration is trying to silence its critics.  <a href="https://nyti.ms/3rbFN0u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>The Ukraine War Changed This Company Forever</h3>
+<sub>By Patricia Cohen</sub>
+<p>Nokian Tyres of Finland made 80 percent of its tires in Russia, where energy was cheap. After losing billions, it prioritized political security over business efficiency.  <a href="https://nyti.ms/3D0JB7y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Free Speech vs. Disinformation Comes to a Head</h3>
-<sub>By Steven Lee Myers</sub>
-<p>The outcome of a case in federal court could help decide whether the First Amendment is a barrier to virtually any government efforts to stifle disinformation.  <a href="https://nyti.ms/3x5vkU9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Putin, Xi and Modi Meet on Camera, but With No Signs of Greater Unity</h3>
@@ -85,6 +81,18 @@ It&#39;s been an eventful few days in the global news. In the US, five people we
 <sub>By Anatoly Kurmanaev, Michael Crowley and Gabriela Sá Pessoa</sub>
 <p>The comment is an apparent reference to the Wall Street Journal reporter Evan Gershkovich, who has been held on accusations of espionage that the United States and his employer vehemently reject.  <a href="https://nyti.ms/43ccUyH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Federal Judge Limits Biden Officials’ Contacts With Social Media Sites</h3>
+<sub>By Steven Lee Myers and David McCabe</sub>
+<p>The order came in a lawsuit filed by the attorneys general of Missouri and Louisiana, who claim the administration is trying to silence its critics.  <a href="https://nyti.ms/3rbFN0u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Free Speech vs. Disinformation Comes to a Head</h3>
+<sub>By Steven Lee Myers</sub>
+<p>The outcome of a case in federal court could help decide whether the First Amendment is a barrier to virtually any government efforts to stifle disinformation.  <a href="https://nyti.ms/3x5vkU9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A Solemn Walk Through Highland Park One Year After Parade Massacre</h3>
@@ -122,17 +130,11 @@ It&#39;s been an eventful few days in the global news. In the US, five people we
 <p>The shooting took place just before midnight on Monday in the Como neighborhood, southwest of downtown, the authorities said.  <a href="https://nyti.ms/3JIuTpf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Maggie Harrison’s War on Wine</h3>
-<sub>By Alex Halberstadt</sub>
-<p>Her painstaking blends are dazzling diners and critics — and upending long-held notions about how winemaking is supposed to work.  <a href="https://nyti.ms/46wo6ZJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 4, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Rockets Launched From Gaza Amid Israeli Raid in West Bank and Tel Aviv Attack</h3>
+<h3>Israel’s Military Says It Withdrew From West Bank City After Deadly Raid</h3>
 <sub>By Isabel Kershner and Aaron Boxerman</sub>
-<p>The launches into Israel came after a military incursion into the Palestinian city of Jenin left at least 12 Palestinians and one Israeli soldier dead.  <a href="https://nyti.ms/3PJRExa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 4, Central Standard Time</sub></sub>
+<p>The major military incursion into the Palestinian city of Jenin left at least 12 Palestinians and one Israeli soldier dead, while an assault on civilians in Tel Aviv wounded at least eight.  <a href="https://nyti.ms/3NZhnQD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
