@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, July 5, Central Standard Time</p>
 <p>
-There have been a lot of conflicts around the world recently that are making news headlines. In the Ukraine, a company is still feeling the effects of a war that happened years ago and an inmate who wanted to fight in Ukraine was instead stuck in trenchwork. Meanwhile, a rabbi of Ukraine&#39;s renown has earned more attention after humanitarian efforts following Russia&#39;s full-scale invasion, and there has been an Israeli raid on Jenin in the West Bank with many casualties. More tragically, there are young Palestinians writing farewells to their loved ones. Other news closer to home includes a police shooting in New Jersey that severely wounded someone and President Trump&#39;s rivals stumping on July 4th for voters in early primary states.</p>
+There is a lot going on in the world right now. In the Ukraine, a Russian soldier&#39;s story of fighting in the war has gone viral, and Rabbi&#39;s brush with danger in Ukraine has also been widely reported. In Israel, there was a deadly raid on the West Bank City and teenagers have been writing their last words due to the increased violence. In New Jersey, a paralyzed man was injured by a police bullet. On the movie front, Andrew Ridgeley is discussing life and career after Wham! Lastly, federal officials are planning for three vaccines to be released this fall against the flu, Covid-19, and R.S.V., and you should check with your doctor to see which vaccines are recommended for your age group.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>The Ukraine War Changed This Company Forever</h3>
@@ -87,7 +87,7 @@ There have been a lot of conflicts around the world recently that are making new
 <sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘Don’t Be Sad, Father’: Farewells Reflect Deadly Period in West Bank</h3>
+<h3>West Bank Teenagers Are Writing Out Their Last Words</h3>
 <sub>By Raja Abdulrahim and Hiba Yazbek</sub>
 <p>In one of the deadliest periods in years in the Israeli-occupied West Bank, young Palestinians drawn into the struggle against Israel are writing farewell messages to their loved ones.  <a href="https://nyti.ms/3O2B1eR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
@@ -122,17 +122,17 @@ There have been a lot of conflicts around the world recently that are making new
 <p>The White House wanted South Carolina to vote first in 2024. The Democratic National Committee obliged. It hasn’t gone according to plan.  <a href="https://nyti.ms/3NY6wqk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Solemn Walk Through Highland Park One Year After Parade Massacre</h3>
-<sub>By Mitch Smith</sub>
-<p>Residents of the Chicago suburb marched down Central Avenue as they do every Fourth of July. But this was no parade.  <a href="https://nyti.ms/44uKvEZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 4, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Federal Officials Hatch a Three-Pronged Defense Against Another ‘Tripledemic’</h3>
+<sub>By Apoorva Mandavilli</sub>
+<p>This fall, Americans will be urged to get shots against the flu, Covid and, if they’re older, R.S.V.  <a href="https://nyti.ms/3PHozlO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Stumping on July 4, Trump’s Rivals Pitch Themselves to Early-State Voters</h3>
-<sub>By Jazmine Ulloa and Jonathan Weisman</sub>
-<p>Donald J. Trump loomed large over the campaign trail, even though he was among the few G.O.P. contenders who stayed away from it.  <a href="https://nyti.ms/3NZcsiN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 4, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Three Vaccines for Fall: What You Need to Know</h3>
+<sub>By Apoorva Mandavilli</sub>
+<p>Here’s who should get the flu, Covid and R.S.V. vaccines, and when.  <a href="https://nyti.ms/3rfkzyS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
