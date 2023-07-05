@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, July 5, Central Standard Time</p>
 <p>
-There is a lot going on right now to keep track of. In the business world, Nokian Tyres of Finland had to drastically change their operations after the Ukraine War for political security reasons, and a judge recently limited Biden officials’ contacts with social media sites in response to a lawsuit. In world news, the leaders of Russia, China, and India met for a summit but failed to reach a greater level of unity. Additionally, Israel&#39;s military withdrew from Jenin in the northern West Bank after a deadly raid that left multiple dead, and both Tel Aviv and Jenin have long legacies of Palestinian armed struggle. Closer to home, many people showed up in Highland Park last Fourth of July for a solemn walk instead of traditional celebrations and Donald Trump&#39;s rivals held events to win over early voters. Hot Dog fans still had their annual Nathan&#39;s contest at Coney Island amid unexpected challenges, and drama is arising around staging school plays due to parents wanting to restrict what can be taught. Lastly, there have been mass shootings this week in Philadelphia and Fort Worth, leaving multiple dead.</p>
+There have been a lot of conflicts around the world recently that are making news headlines. In the Ukraine, a company is still feeling the effects of a war that happened years ago and an inmate who wanted to fight in Ukraine was instead stuck in trenchwork. Meanwhile, a rabbi of Ukraine&#39;s renown has earned more attention after humanitarian efforts following Russia&#39;s full-scale invasion, and there has been an Israeli raid on Jenin in the West Bank with many casualties. More tragically, there are young Palestinians writing farewells to their loved ones. Other news closer to home includes a police shooting in New Jersey that severely wounded someone and President Trump&#39;s rivals stumping on July 4th for voters in early primary states.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>The Ukraine War Changed This Company Forever</h3>
@@ -69,34 +69,58 @@ There is a lot going on right now to keep track of. In the business world, Nokia
 <sub><sub>Tuesday, July 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Putin, Xi and Modi Meet on Camera, but With No Signs of Greater Unity</h3>
-<sub>By David Pierson, Anatoly Kurmanaev and Sameer Yasir</sub>
-<p>At a virtual summit meeting of the Shanghai Cooperation Organization, the leaders of Russia, China and India each focused on their own driving issues.  <a href="https://nyti.ms/44sfKk3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Federal Judge Limits Biden Officials’ Contacts With Social Media Sites</h3>
-<sub>By Steven Lee Myers and David McCabe</sub>
-<p>The order came in a lawsuit filed by the attorneys general of Missouri and Louisiana, who claim the administration is trying to silence its critics.  <a href="https://nyti.ms/3rbFN0u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Free Speech vs. Disinformation Comes to a Head</h3>
-<sub>By Steven Lee Myers</sub>
-<p>The outcome of a case in federal court could help decide whether the First Amendment is a barrier to virtually any government efforts to stifle disinformation.  <a href="https://nyti.ms/3x5vkU9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israel’s Military Says It Has Withdrawn From West Bank City After Deadly Raid</h3>
-<sub>By Isabel Kershner and Aaron Boxerman</sub>
-<p>The major military incursion into the Palestinian city of Jenin left at least 12 Palestinians and one Israeli soldier dead, while an assault on civilians in Tel Aviv wounded at least eight.  <a href="https://nyti.ms/3NZhnQD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>‘Dig, Dig, Dig’: A Russian Soldier’s Story</h3>
+<sub>By Thomas Gibbons-Neff and Natalia Yermak</sub>
+<p>An inmate hoped to start over with a clean slate by fighting in Ukraine. Instead, he was confronted by the drudgery of trench work and the terror of battle. “You’re going in as meat,” he said he was told.  <a href="https://nyti.ms/44xWPnM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Jenin Has a Long Legacy as a Bastion of Palestinian Armed Struggle</h3>
-<sub>By Isabel Kershner</sub>
-<p>In the northern reaches of the occupied West Bank, near the boundary with Israel, Jenin and its refugee camp have nurtured an ethos of defiance.  <a href="https://nyti.ms/46ySH8S"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Rabbi’s Brush With Danger in Ukraine Went Viral</h3>
+<sub>By Cassandra Vinograd</sub>
+<p>A video put a fresh spotlight on the chief rabbi of Ukraine, whose renown predates his humanitarian efforts since Russia’s full-scale invasion.  <a href="https://nyti.ms/3rgAlJT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Israel Says Deadly Raid on West Bank City Is Over</h3>
+<sub>By Isabel Kershner and Aaron Boxerman</sub>
+<p>A major military incursion into the city of Jenin left at least 12 Palestinians and one Israeli soldier dead. A Palestinian attack on Tel Aviv wounded at least eight.  <a href="https://nyti.ms/3NZhnQD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘Don’t Be Sad, Father’: Farewells Reflect Deadly Period in West Bank</h3>
+<sub>By Raja Abdulrahim and Hiba Yazbek</sub>
+<p>In one of the deadliest periods in years in the Israeli-occupied West Bank, young Palestinians drawn into the struggle against Israel are writing farewell messages to their loved ones.  <a href="https://nyti.ms/3O2B1eR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Israel’s Raid on Jenin, in Pictures</h3>
+<sub>By The New York Times</sub>
+<p>The major incursion into the West Bank city, which the military said was focused on rooting out militants, left several dead and forced thousands from their homes.  <a href="https://nyti.ms/3pHdyGq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Paralyzed by a Police Bullet, He Describes a Life Forever Changed</h3>
+<sub>By Tracey Tully</sub>
+<p>“Why did you run from me?” an officer asked Khalif Cooper, then 28, immediately after the shooting in Paterson, N.J. “I was scared,” he answered.  <a href="https://nyti.ms/3XAPaTF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>Andrew Ridgeley on George Michael and Life After Wham!</h3>
+<sub>By Erik Piepenburg</sub>
+<p>“The only thing I ever wanted to do from the age of 14 was to be in a band,” but he is content with the duo’s short career, which is chronicled in a new documentary.  <a href="https://nyti.ms/3O12tcT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>‘Wham!’ Review: They Made It Big, Then Broke Up</h3>
+<sub>By Wesley Morris</sub>
+<p>A new movie documents George Michael and Andrew Ridgeley’s storming of the pop airwaves as the duo Wham! and laughs past the thorny questions.  <a href="https://nyti.ms/449AgG9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>The D.N.C. Has a Primary Problem</h3>
+<sub>By Ross Barkan</sub>
+<p>The White House wanted South Carolina to vote first in 2024. The Democratic National Committee obliged. It hasn’t gone according to plan.  <a href="https://nyti.ms/3NY6wqk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A Solemn Walk Through Highland Park One Year After Parade Massacre</h3>
@@ -108,30 +132,6 @@ There is a lot going on right now to keep track of. In the business world, Nokia
 <h3>Stumping on July 4, Trump’s Rivals Pitch Themselves to Early-State Voters</h3>
 <sub>By Jazmine Ulloa and Jonathan Weisman</sub>
 <p>Donald J. Trump loomed large over the campaign trail, even though he was among the few G.O.P. contenders who stayed away from it.  <a href="https://nyti.ms/3NZcsiN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Nathan’s Hot Dog Contest Finds Familiar Winners Amid Unexpected Drama</h3>
-<sub>By Liam Stack</sub>
-<p>Joey Chestnut and Miki Sudo defended their titles, but the spectacle was less about the victors, and more about the journey, which this year included torrential rain.  <a href="https://nyti.ms/3PHSTg1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-theater-blue" alt="">
-<h3>It’s Getting Hard to Stage a School Play Without Political Drama</h3>
-<sub>By Michael Paulson</sub>
-<p>At a time when lawmakers and parents are seeking to restrict what can and cannot be taught in classrooms, many teachers are seeing efforts to limit what can be staged in their auditoriums.  <a href="https://nyti.ms/447YPDr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Philadelphia, a Mass Shooting Leaves Five Dead</h3>
-<sub>By Campbell Robertson, Jon Hurdle and Joel Wolfram</sub>
-<p>In a neighborhood where violence is not uncommon, witnesses described an intense barrage. A suspect has been taken into custody.  <a href="https://nyti.ms/44NHPmb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>3 Are Fatally Shot in Fort Worth, Police Say</h3>
-<sub>By Jenny Gross and Derrick Bryson Taylor</sub>
-<p>The shooting took place just before midnight on Monday in the Como neighborhood, southwest of downtown, the authorities said.  <a href="https://nyti.ms/3JIuTpf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
