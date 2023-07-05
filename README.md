@@ -60,9 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, July 5, Central Standard Time</p>
 <p>
-It&#39;s been a tumultuous few days all over the world. In the Ukraine, a company has lost billions after changes caused by the war there and has made political security its priority over business efficiency. Putin, Xi, and Modi had a virtual summit to discuss various issues, but it seems no form of unity was achieved.
-
-In Israel, there has been fighting between Israelis and Palestinians, with at least 13 people dead as a result of these clashes. On the US front, President Trump held no Fourth of July campaign event and his opponents held rallies in key early state locations for their campaigns. Also, in Philadelphia and Fort Worth there were mass shootings that claimed five and three lives respectively.</p>
+There is a lot going on right now to keep track of. In the business world, Nokian Tyres of Finland had to drastically change their operations after the Ukraine War for political security reasons, and a judge recently limited Biden officials’ contacts with social media sites in response to a lawsuit. In world news, the leaders of Russia, China, and India met for a summit but failed to reach a greater level of unity. Additionally, Israel&#39;s military withdrew from Jenin in the northern West Bank after a deadly raid that left multiple dead, and both Tel Aviv and Jenin have long legacies of Palestinian armed struggle. Closer to home, many people showed up in Highland Park last Fourth of July for a solemn walk instead of traditional celebrations and Donald Trump&#39;s rivals held events to win over early voters. Hot Dog fans still had their annual Nathan&#39;s contest at Coney Island amid unexpected challenges, and drama is arising around staging school plays due to parents wanting to restrict what can be taught. Lastly, there have been mass shootings this week in Philadelphia and Fort Worth, leaving multiple dead.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>The Ukraine War Changed This Company Forever</h3>
@@ -76,12 +74,6 @@ In Israel, there has been fighting between Israelis and Palestinians, with at le
 <p>At a virtual summit meeting of the Shanghai Cooperation Organization, the leaders of Russia, China and India each focused on their own driving issues.  <a href="https://nyti.ms/44sfKk3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Kremlin Addresses Possible Swap After Ambassador Meets With Gershkovich</h3>
-<sub>By Anatoly Kurmanaev, Michael Crowley and Gabriela Sá Pessoa</sub>
-<p>The comment is an apparent reference to the Wall Street Journal reporter Evan Gershkovich, who has been held on accusations of espionage that the United States and his employer vehemently reject.  <a href="https://nyti.ms/43ccUyH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 3, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Federal Judge Limits Biden Officials’ Contacts With Social Media Sites</h3>
 <sub>By Steven Lee Myers and David McCabe</sub>
@@ -93,6 +85,18 @@ In Israel, there has been fighting between Israelis and Palestinians, with at le
 <sub>By Steven Lee Myers</sub>
 <p>The outcome of a case in federal court could help decide whether the First Amendment is a barrier to virtually any government efforts to stifle disinformation.  <a href="https://nyti.ms/3x5vkU9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Israel’s Military Says It Has Withdrawn From West Bank City After Deadly Raid</h3>
+<sub>By Isabel Kershner and Aaron Boxerman</sub>
+<p>The major military incursion into the Palestinian city of Jenin left at least 12 Palestinians and one Israeli soldier dead, while an assault on civilians in Tel Aviv wounded at least eight.  <a href="https://nyti.ms/3NZhnQD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Jenin Has a Long Legacy as a Bastion of Palestinian Armed Struggle</h3>
+<sub>By Isabel Kershner</sub>
+<p>In the northern reaches of the occupied West Bank, near the boundary with Israel, Jenin and its refugee camp have nurtured an ethos of defiance.  <a href="https://nyti.ms/46ySH8S"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A Solemn Walk Through Highland Park One Year After Parade Massacre</h3>
@@ -129,12 +133,6 @@ In Israel, there has been fighting between Israelis and Palestinians, with at le
 <sub>By Jenny Gross and Derrick Bryson Taylor</sub>
 <p>The shooting took place just before midnight on Monday in the Como neighborhood, southwest of downtown, the authorities said.  <a href="https://nyti.ms/3JIuTpf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israel’s Military Says It Withdrew From West Bank City After Deadly Raid</h3>
-<sub>By Isabel Kershner and Aaron Boxerman</sub>
-<p>The major military incursion into the Palestinian city of Jenin left at least 12 Palestinians and one Israeli soldier dead, while an assault on civilians in Tel Aviv wounded at least eight.  <a href="https://nyti.ms/3NZhnQD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
