@@ -60,12 +60,36 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, July 6, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. First, the U.S. is close to finishing its massive task of destroying chemical weapons, which they&#39;ve been working on for decades. The NATO alliance is encountering some complications in celebrating its latest member—Sweden—owing to Turkey and Hungary&#39;s objections. Ukraine has requested cluster munitions from the U.S., which has caused a controversy due to the weapons being largely banned. Treasury Secretary Yellen will be visiting China soon and will need to address economic issues between both countries. German businesses are panicking over regional risks that are straining their economy&#39;s model, while some famous people (like Tom Brady) have taken a hit from the crypto crash. Many transgender care clinics are struggling due to 20 states passing laws against them, while social media platforms are at a crossroads in deciding how best to combat fake news without infringing upon free speech. Finally, there is a massive transit grant on the way for a Hudson tunnel project, as well as a search warrant for former President Trump&#39;s residence and club being fully revealed, and Instagram debuting their &#39;Twitter Killer&#39;.</p>
+There are some big changes happening in the world right now. The economy has seen a lot of job switching in recent years that have resulted in big gains for low-wage workers, but it seems like the pendulum is starting to swing back towards employers. There is also a push for &quot;second-chance hiring&quot; for ex-prisoners, and the number of job openings dipped in May to signal continued cooling. 
+
+On the international front, the leader of Belarus has gained new prominence in Russia’s politics and NATO was planning to celebrate the arrival of a new member at their summit but it looks like that&#39;s been put on hold due to objections from Hungary and Turkey. 
+
+Tom Brady is one celebrity dealing with the fall out from the crypto crash while transgender care bans have left families and doctors scrambling to find care across state lines. 
+
+Finally, there are some promising developments too - like Hudson Tunnel Project which just got $6.9 billion in federal funding, allowing it to start by next year. Treasury Secretary Yellen is also visiting China to explain how the US does not intend to harm their economy while promoting export controls and tariffs.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Is Destroying the Last of Its Once-Vast Chemical Weapons Arsenal</h3>
-<sub>By Dave Philipps and John Ismay</sub>
-<p>Decades behind its initial schedule, the dangerous job of eliminating the world’s only remaining declared stockpile of lethal chemical munitions will be completed as soon as Friday.  <a href="https://nyti.ms/44aymFB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>The ‘Great Resignation’ Is Over. Can Workers’ Power Endure?</h3>
+<sub>By Ben Casselman</sub>
+<p>The furious pace of job-switching in recent years has led to big gains for low-wage workers. But the pendulum could be swinging back toward employers.  <a href="https://nyti.ms/3CZGPPV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Ex-Prisoners Face Headwinds as Job Seekers, Even as Openings Abound</h3>
+<sub>By Talmon Joseph Smith</sub>
+<p>An estimated 60 percent of those leaving prison are unemployed a year later. But after a push for “second-chance hiring,” some programs show promise.  <a href="https://nyti.ms/3pv6VXY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Job Openings Dipped in May, a Sign of Continued Cooling</h3>
+<sub>By J. Edward Moreno</sub>
+<p>Hiring was largely unchanged, and the number of workers quitting their jobs increased. The data will be watched closely by Federal Reserve policymakers.  <a href="https://nyti.ms/43elk8v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The leader of Belarus has gained new prominence in Russia’s politics.</h3>
+<sub>By Matthew Mpoke Bigg</sub>
+<p>  <a href="https://nyti.ms/3D7ZXuR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -74,10 +98,16 @@ There is a lot going on in the world right now. First, the U.S. is close to fini
 <p>Alliance leaders wanted their summit next week to celebrate the arrival of a new member, but stalling by Hungary and objections from Turkey have made that nearly impossible.  <a href="https://nyti.ms/46DMUPG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>U.S. Expected to Provide Cluster Munitions to Ukraine, Official Says</h3>
-<sub>By Victoria Kim</sub>
-<p>Ukraine has pressed the United States to supply it with the munitions. Here’s a guide to why this type of weapon is controversial and widely banned — and why Kyiv wants it.  <a href="https://nyti.ms/43tt8nf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>The Mayor Had a Photo of a Fallen Officer. Was His Story About It True?</h3>
+<sub>By Emma G. Fitzsimmons</sub>
+<p>Mayor Eric Adams has often talked about a wrinkled photo of a fallen police officer that he kept in his wallet. Now that photo and the story have been called into question.  <a href="https://nyti.ms/3CXWgYV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. Is Destroying the Last of Its Once-Vast Chemical Weapons Arsenal</h3>
+<sub>By Dave Philipps and John Ismay</sub>
+<p>Decades behind its initial schedule, the dangerous job of eliminating the world’s only remaining declared stockpile of lethal chemical munitions will be completed as soon as Friday.  <a href="https://nyti.ms/44aymFB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -104,34 +134,10 @@ There is a lot going on in the world right now. First, the U.S. is close to fini
 <p>Laws in 20 states have left the fate of clinics in doubt and families with transgender children searching for medical care across state lines.  <a href="https://nyti.ms/3resCvU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Ruling Puts Social Media at Crossroads of Disinformation and Free Speech</h3>
-<sub>By Michael D. Shear and David McCabe</sub>
-<p>The case, which could alter how the government battles disinformation, is a flashpoint in a broader effort by conservatives to document what they contend is a liberal conspiracy to silence their views.  <a href="https://nyti.ms/3PL6inJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Hudson Tunnel Project to Get $6.9 Billion in Largest U.S. Transit Grant</h3>
 <sub>By Patrick McGeehan</sub>
 <p>The federal funding would allow work on the long-delayed Gateway tunnel to start by next year, said Senator Chuck Schumer of New York.  <a href="https://nyti.ms/3XHmWGA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Judge Unseals More of Affidavit Used to Seek Mar-a-Lago Search Warrant</h3>
-<sub>By Alan Feuer and Maggie Haberman</sub>
-<p>The newly disclosed sections revealed more of the evidence cited by the Justice Department as a basis for searching former President Donald J. Trump’s club and residence last summer.  <a href="https://nyti.ms/3O2hRpp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Threads, Instagram’s ‘Twitter Killer,’ Has Arrived</h3>
-<sub>By Mike Isaac</sub>
-<p>Here’s what to know about Instagram’s new app for public conversations and how it differs from Twitter.  <a href="https://nyti.ms/3rc2Wjj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Advertisers Pay Attention as Meta’s Twitter Rival Surges</h3>
-<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
-<p>The technology giant’s new social network, Threads, pulled in more than 10 million sign-ups within hours of making its debut.  <a href="https://nyti.ms/3pGLD9B"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
 <hr/>
 </ol>
