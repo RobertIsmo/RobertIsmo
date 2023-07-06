@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, July 5, Central Standard Time</p>
 <p>
-There is a legal case happening that could have a major impact on how the government handles disinformation, which is all false information intentionally spread on social media. Researchers fear that this could hinder their efforts to stop false claims about vaccines and voter fraud. In other news, tensions in the Middle East rose with a major incursion by Israel into the West Bank which didn&#39;t solve anything. President Biden is pushing for Sweden to join NATO, but there has been opposition from Turkey. In the US, the governor of Florida has been struggling to make a strong case against Donald Trump ahead of November&#39;s Presidential Election. There was also a huge explosion in Ukraine that both sides attributed to different causes. Immigration between the US and Ukraine has been a major topic recently within the Republican Party, with some members wanting a more isolationist approach. Instagram just launched Threads, which many people are comparing to Twitter and could be its competitor in the future. There&#39;s also a new documentary about the band Wham! Finally, there was a deadly shooting in Louisiana over the holiday weekend and another in Philadelphia where police suspect that the shooter might have been wearing a bulletproof vest around his house beforehand.</p>
+Right now, there&#39;s a lot of news across the world related to issues around disinformation, social media networks, and government control. In the U.S., a judge is ruling on a case that could redefine how the government responds to false claims and disinformation. In Israel, authorities just finished a major raid in the West Bank. Meanwhile, Biden is trying to get Sweden to join NATO, and Florida governor DeSantis is trying to make a strong case against Trump in terms of his campaigning. In Ukraine, they&#39;ve recently launched airstrikes against a Russian-occupied city. Instagram released a new app called Threads which many are speculating will compete with Twitter. China has been taking people&#39;s spouses as part of its surveillance state - one woman recently discovered her husband was a secret dissident blogger. Across the country over the past weekend, there have been shootings in multiple cities, including Louisiana where four people were killed. Lastly, at the local level, Yusef Salaam-one of the Central Park Five who were wrongfully convicted-was declared winner in an NYC City Council Primary race.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Ruling Puts Social Media at Crossroads of Disinformation and Free Speech</h3>
@@ -98,22 +98,10 @@ There is a legal case happening that could have a major impact on how the govern
 <p>Ukrainian and Russian officials differed on whether a military or civilian area had been struck. Earlier in the war, Russia lost dozens of soldiers, if not hundreds, in a strike on the city.  <a href="https://nyti.ms/3O1oHeA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Where the Republican Candidates Stand on Ukraine</h3>
-<sub>By Maggie Astor</sub>
-<p>The war has illuminated one of the biggest ideological divides within the Republican Party: between members who see a significant global role for the United States, and a more isolationist wing.  <a href="https://nyti.ms/44yph9o"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Threads, Instagram’s ‘Twitter Killer,’ Has Arrived</h3>
 <sub>By Mike Isaac</sub>
 <p>Here’s what to know about Instagram’s new app for public conversations and how it differs from Twitter.  <a href="https://nyti.ms/3rc2Wjj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>Andrew Ridgeley on George Michael and Life After Wham!</h3>
-<sub>By Erik Piepenburg</sub>
-<p>“The only thing I ever wanted to do from the age of 14 was to be in a band,” but he is content with the duo’s short career, which is chronicled in a new documentary.  <a href="https://nyti.ms/3O12tcT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -132,6 +120,18 @@ There is a legal case happening that could have a major impact on how the govern
 <h3>Suspect Showed Troubling Signs Before Philadelphia Rampage, D.A. Says</h3>
 <sub>By Joel Wolfram and Campbell Robertson</sub>
 <p>People who lived with the suspect told investigators that he was wearing a bulletproof vest around the house in the days before five people were gunned down.  <a href="https://nyti.ms/3NDNeoI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Judge Unseals More of Affidavit Used to Seek Mar-a-Lago Search Warrant</h3>
+<sub>By Alan Feuer and Maggie Haberman</sub>
+<p>The newly disclosed sections revealed more of the evidence cited by the Justice Department as a basis for searching former President Donald J. Trump’s club and residence last summer.  <a href="https://nyti.ms/3O2hRpp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Yusef Salaam Is Declared Winner of Harlem City Council Primary Race</h3>
+<sub>By Jeffery C. Mays</sub>
+<p>Mr. Salaam was one of the Central Park Five who were wrongly convicted and then exonerated in the rape and assault of a jogger in Central Park in 1989.  <a href="https://nyti.ms/44aiKBD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
 <hr/>
 </ol>
