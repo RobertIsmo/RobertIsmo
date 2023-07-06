@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Wednesday, July 5, Central Standard Time</p>
+<p>It is Thursday, July 6, Central Standard Time</p>
 <p>
-Right now, there&#39;s a lot of news across the world related to issues around disinformation, social media networks, and government control. In the U.S., a judge is ruling on a case that could redefine how the government responds to false claims and disinformation. In Israel, authorities just finished a major raid in the West Bank. Meanwhile, Biden is trying to get Sweden to join NATO, and Florida governor DeSantis is trying to make a strong case against Trump in terms of his campaigning. In Ukraine, they&#39;ve recently launched airstrikes against a Russian-occupied city. Instagram released a new app called Threads which many are speculating will compete with Twitter. China has been taking people&#39;s spouses as part of its surveillance state - one woman recently discovered her husband was a secret dissident blogger. Across the country over the past weekend, there have been shootings in multiple cities, including Louisiana where four people were killed. Lastly, at the local level, Yusef Salaam-one of the Central Park Five who were wrongfully convicted-was declared winner in an NYC City Council Primary race.</p>
+There is currently a lot of tension between the U.S. government, social media companies, and citizens over free speech and disinformation. Disinformation researchers are worried that a recent ruling could interfere with their efforts to stop the spread of false vaccine and voter fraud claims. In Israel, there was a major incursion into the West Bank recently, but it appears to have done little to solve the underlying conflict. In Ukraine, a huge explosion was set off after a Ukrainian strike on a Russian-occupied city. Meanwhile, President Biden is anxious for Sweden to join NATO while resistance from Turkey continues to keep them from doing so. In the U.S., there were several shootings over the weekend and now there are more details about the suspect in one of those shootings in Philadelphia. There are also unsealed documents revealing evidence against former President Trump that was used to search his Mar-a-Lago residence last year. On a more positive note, Yusef Salaam of the Central Park Five has been declared winner of a Harlem City Council primary race and looks to take office next year!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Ruling Puts Social Media at Crossroads of Disinformation and Free Speech</h3>
@@ -80,6 +80,12 @@ Right now, there&#39;s a lot of news across the world related to issues around d
 <p>Israelis and Palestinians said the armed groups that were the targets of the military raid would quickly rebuild and the Israeli soldiers would be back soon.  <a href="https://nyti.ms/3O1vpkP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukraine Strikes a Russian-Occupied City, Igniting a Huge Blast</h3>
+<sub>By Cassandra Vinograd</sub>
+<p>Ukrainian and Russian officials differed on whether a military or civilian area had been struck. Earlier in the war, Russia lost dozens of soldiers, if not hundreds, in a strike on the city.  <a href="https://nyti.ms/3O1oHeA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Says He Is ‘Anxiously’ Waiting for Sweden to Join NATO</h3>
 <sub>By Katie Rogers and Michael Crowley</sub>
@@ -92,22 +98,10 @@ Right now, there&#39;s a lot of news across the world related to issues around d
 <p>The Florida governor, who has yet to demonstrate himself as a campaigner on a national stage, has been plagued by a series of unforced errors and has yet to make a strong case against Donald Trump.  <a href="https://nyti.ms/3XLi2ss"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Strikes a Russian-Occupied City, Igniting a Huge Blast</h3>
-<sub>By Cassandra Vinograd</sub>
-<p>Ukrainian and Russian officials differed on whether a military or civilian area had been struck. Earlier in the war, Russia lost dozens of soldiers, if not hundreds, in a strike on the city.  <a href="https://nyti.ms/3O1oHeA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Threads, Instagram’s ‘Twitter Killer,’ Has Arrived</h3>
 <sub>By Mike Isaac</sub>
 <p>Here’s what to know about Instagram’s new app for public conversations and how it differs from Twitter.  <a href="https://nyti.ms/3rc2Wjj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>China Took Her Husband. She Was Left to Uncover His Secret Cause.</h3>
-<sub>By Vivian Wang</sub>
-<p>He was brilliant, quirky and intensely private — and also, she now suspects, an anonymous dissident blogger who had won fame for years of evading the surveillance state.  <a href="https://nyti.ms/3resGM0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -132,6 +126,12 @@ Right now, there&#39;s a lot of news across the world related to issues around d
 <h3>Yusef Salaam Is Declared Winner of Harlem City Council Primary Race</h3>
 <sub>By Jeffery C. Mays</sub>
 <p>Mr. Salaam was one of the Central Park Five who were wrongly convicted and then exonerated in the rape and assault of a jogger in Central Park in 1989.  <a href="https://nyti.ms/44aiKBD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>For Yusef Salaam, a Landslide Just Might Be the Best Revenge</h3>
+<sub>By Ginia Bellafante</sub>
+<p>After his wrongful conviction as one of the Central Park Five was overturned, Mr. Salaam found it hard to rebuild his life. Now he stands to take office next year.  <a href="https://nyti.ms/439UWwx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
 <hr/>
 </ol>
