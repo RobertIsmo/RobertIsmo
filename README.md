@@ -60,48 +60,66 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, July 6, Central Standard Time</p>
 <p>
-Right now, I&#39;m seeing news about a legal ruling that could have a big impact on how people use social media and what they can falsely claim online. In other news, authorities in Ukraine and Russia are arguing over who was to blame for a recent deadly missile strike in Lviv, while Israel has just ended a major military incursion in the West Bank but it&#39;s unclear if the raid actually achieved anything. President Biden is lobbying Sweden to join NATO, while Florida Governor DeSantis is having trouble finding ways to prove himself as a national campaigner. Instagram just released an app called &quot;Threads&quot; to compete with Twitter, another holiday weekend of violence has concluded in Louisiana with 4 dead and 7 wounded, and Philadelphia is trying to get to the bottom of why this suspect was heavily armed before gunning down 5 people. Finally, Yusef Salaam—one of the wrongly convicted Central Park 5—was recently declared the winner of a primary race in Harlem City Council.</p>
+There is a lot going on in the world right now. First, the U.S. is close to finishing its massive task of destroying chemical weapons, which they&#39;ve been working on for decades. The NATO alliance is encountering some complications in celebrating its latest member—Sweden—owing to Turkey and Hungary&#39;s objections. Ukraine has requested cluster munitions from the U.S., which has caused a controversy due to the weapons being largely banned. Treasury Secretary Yellen will be visiting China soon and will need to address economic issues between both countries. German businesses are panicking over regional risks that are straining their economy&#39;s model, while some famous people (like Tom Brady) have taken a hit from the crypto crash. Many transgender care clinics are struggling due to 20 states passing laws against them, while social media platforms are at a crossroads in deciding how best to combat fake news without infringing upon free speech. Finally, there is a massive transit grant on the way for a Hudson tunnel project, as well as a search warrant for former President Trump&#39;s residence and club being fully revealed, and Instagram debuting their &#39;Twitter Killer&#39;.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. Is Destroying the Last of Its Once-Vast Chemical Weapons Arsenal</h3>
+<sub>By Dave Philipps and John Ismay</sub>
+<p>Decades behind its initial schedule, the dangerous job of eliminating the world’s only remaining declared stockpile of lethal chemical munitions will be completed as soon as Friday.  <a href="https://nyti.ms/44aymFB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>NATO’s Welcome Party for Sweden Is Back on Ice</h3>
+<sub>By Ben Hubbard and Steven Erlanger</sub>
+<p>Alliance leaders wanted their summit next week to celebrate the arrival of a new member, but stalling by Hungary and objections from Turkey have made that nearly impossible.  <a href="https://nyti.ms/46DMUPG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>U.S. Expected to Provide Cluster Munitions to Ukraine, Official Says</h3>
+<sub>By Victoria Kim</sub>
+<p>Ukraine has pressed the United States to supply it with the munitions. Here’s a guide to why this type of weapon is controversial and widely banned — and why Kyiv wants it.  <a href="https://nyti.ms/43tt8nf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Yellen Faces a Diplomatic Test in Her High-Stakes Visit to China</h3>
+<sub>By Alan Rappeport</sub>
+<p>The Treasury secretary will need to defend export controls and tariffs while explaining that the United States does not aim to harm China’s economy.  <a href="https://nyti.ms/3XGEQJH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>German Businesses Bet Big on China, and They’re Starting to Worry</h3>
+<sub>By Erika Solomon</sub>
+<p>Geopolitical risks have exposed long-ignored strains on Germany’s socioeconomic model. The family businesses underpinning its economy are seeking a new path.  <a href="https://nyti.ms/3PKKCs2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>How Tom Brady’s Crypto Ambitions Collided With Reality</h3>
+<sub>By Erin Griffith and David Yaffe-Bellany</sub>
+<p>The superstar quarterback is among the celebrities dealing with the fallout from the crypto crash. Others, like Taylor Swift, escaped.  <a href="https://nyti.ms/44si8rz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Fight or Flight: Transgender Care Bans Leave Families and Doctors Scrambling</h3>
+<sub>By Ernesto Londoño, Azeen Ghorayshi and Jamie Kelter Davis</sub>
+<p>Laws in 20 states have left the fate of clinics in doubt and families with transgender children searching for medical care across state lines.  <a href="https://nyti.ms/3resCvU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Ruling Puts Social Media at Crossroads of Disinformation and Free Speech</h3>
 <sub>By Michael D. Shear and David McCabe</sub>
 <p>The case, which could alter how the government battles disinformation, is a flashpoint in a broader effort by conservatives to document what they contend is a liberal conspiracy to silence their views.  <a href="https://nyti.ms/3PL6inJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Disinformation Researchers Fret About Fallout From Judge’s Order</h3>
-<sub>By Tiffany Hsu and Stuart A. Thompson</sub>
-<p>They said a restriction on government interaction with social media companies could impede efforts to curb false claims about vaccines and voter fraud.  <a href="https://nyti.ms/3NYQSLc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russian missile strike kills four people in Lviv.</h3>
-<sub>By Cassandra Vinograd and Andrés R. Martínez</sub>
-<p>  <a href="https://nyti.ms/44rCXCI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Strikes a Russian-Occupied City, Igniting a Huge Blast</h3>
-<sub>By Cassandra Vinograd</sub>
-<p>Ukrainian and Russian officials differed on whether a military or civilian area had been struck. Earlier in the war, Russia lost dozens of soldiers, if not hundreds, in a strike on the city.  <a href="https://nyti.ms/3O1oHeA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israel’s Major Incursion in the West Bank Is Over. Did It Solve Anything?</h3>
-<sub>By Isabel Kershner</sub>
-<p>Israelis and Palestinians said the armed groups that were the targets of the military raid would quickly rebuild and the Israeli soldiers would be back soon.  <a href="https://nyti.ms/3O1vpkP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Hudson Tunnel Project to Get $6.9 Billion in Largest U.S. Transit Grant</h3>
+<sub>By Patrick McGeehan</sub>
+<p>The federal funding would allow work on the long-delayed Gateway tunnel to start by next year, said Senator Chuck Schumer of New York.  <a href="https://nyti.ms/3XHmWGA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Says He Is ‘Anxiously’ Waiting for Sweden to Join NATO</h3>
-<sub>By Katie Rogers and Michael Crowley</sub>
-<p>In an Oval Office meeting, President Biden again backed the plan for Sweden to join the military alliance, but movement has been stalled by Turkey’s opposition.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis Campaign Continues to Struggle to Find Its Footing</h3>
-<sub>By Nicholas Nehamas</sub>
-<p>The Florida governor, who has yet to demonstrate himself as a campaigner on a national stage, has been plagued by a series of unforced errors and has yet to make a strong case against Donald Trump.  <a href="https://nyti.ms/3XLi2ss"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Judge Unseals More of Affidavit Used to Seek Mar-a-Lago Search Warrant</h3>
+<sub>By Alan Feuer and Maggie Haberman</sub>
+<p>The newly disclosed sections revealed more of the evidence cited by the Justice Department as a basis for searching former President Donald J. Trump’s club and residence last summer.  <a href="https://nyti.ms/3O2hRpp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -110,29 +128,11 @@ Right now, I&#39;m seeing news about a legal ruling that could have a big impact
 <p>Here’s what to know about Instagram’s new app for public conversations and how it differs from Twitter.  <a href="https://nyti.ms/3rc2Wjj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Deadly Louisiana Shooting Caps a Holiday Weekend of Violence</h3>
-<sub>By Michael Levenson, Derrick Bryson Taylor and Adeel Hassan</sub>
-<p>The shooting, which left four dead and seven wounded, was one of several in multiple cities since Friday.  <a href="https://nyti.ms/3riblSw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Suspect Showed Troubling Signs Before Philadelphia Rampage, D.A. Says</h3>
-<sub>By Joel Wolfram and Campbell Robertson</sub>
-<p>People who lived with the suspect told investigators that he was wearing a bulletproof vest around the house in the days before five people were gunned down.  <a href="https://nyti.ms/3NDNeoI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Judge Unseals More of Affidavit Used to Seek Mar-a-Lago Search Warrant</h3>
-<sub>By Alan Feuer and Maggie Haberman</sub>
-<p>The newly disclosed sections revealed more of the evidence cited by the Justice Department as a basis for searching former President Donald J. Trump’s club and residence last summer.  <a href="https://nyti.ms/3O2hRpp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Yusef Salaam Is Declared Winner of Harlem City Council Primary Race</h3>
-<sub>By Jeffery C. Mays</sub>
-<p>Mr. Salaam was one of the Central Park Five who were wrongly convicted and then exonerated in the rape and assault of a jogger in Central Park in 1989.  <a href="https://nyti.ms/44aiKBD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Advertisers Pay Attention as Meta’s Twitter Rival Surges</h3>
+<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
+<p>The technology giant’s new social network, Threads, pulled in more than 10 million sign-ups within hours of making its debut.  <a href="https://nyti.ms/3pGLD9B"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
