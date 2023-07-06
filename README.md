@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, July 6, Central Standard Time</p>
 <p>
-There is currently a lot of tension between the U.S. government, social media companies, and citizens over free speech and disinformation. Disinformation researchers are worried that a recent ruling could interfere with their efforts to stop the spread of false vaccine and voter fraud claims. In Israel, there was a major incursion into the West Bank recently, but it appears to have done little to solve the underlying conflict. In Ukraine, a huge explosion was set off after a Ukrainian strike on a Russian-occupied city. Meanwhile, President Biden is anxious for Sweden to join NATO while resistance from Turkey continues to keep them from doing so. In the U.S., there were several shootings over the weekend and now there are more details about the suspect in one of those shootings in Philadelphia. There are also unsealed documents revealing evidence against former President Trump that was used to search his Mar-a-Lago residence last year. On a more positive note, Yusef Salaam of the Central Park Five has been declared winner of a Harlem City Council primary race and looks to take office next year!</p>
+Right now, I&#39;m seeing news about a legal ruling that could have a big impact on how people use social media and what they can falsely claim online. In other news, authorities in Ukraine and Russia are arguing over who was to blame for a recent deadly missile strike in Lviv, while Israel has just ended a major military incursion in the West Bank but it&#39;s unclear if the raid actually achieved anything. President Biden is lobbying Sweden to join NATO, while Florida Governor DeSantis is having trouble finding ways to prove himself as a national campaigner. Instagram just released an app called &quot;Threads&quot; to compete with Twitter, another holiday weekend of violence has concluded in Louisiana with 4 dead and 7 wounded, and Philadelphia is trying to get to the bottom of why this suspect was heavily armed before gunning down 5 people. Finally, Yusef Salaam—one of the wrongly convicted Central Park 5—was recently declared the winner of a primary race in Harlem City Council.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Ruling Puts Social Media at Crossroads of Disinformation and Free Speech</h3>
@@ -75,15 +75,21 @@ There is currently a lot of tension between the U.S. government, social media co
 <sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israel’s Major Incursion in the West Bank Is Over. Did It Solve Anything?</h3>
-<sub>By Isabel Kershner</sub>
-<p>Israelis and Palestinians said the armed groups that were the targets of the military raid would quickly rebuild and the Israeli soldiers would be back soon.  <a href="https://nyti.ms/3O1vpkP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Russian missile strike kills four people in Lviv.</h3>
+<sub>By Cassandra Vinograd and Andrés R. Martínez</sub>
+<p>  <a href="https://nyti.ms/44rCXCI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ukraine Strikes a Russian-Occupied City, Igniting a Huge Blast</h3>
 <sub>By Cassandra Vinograd</sub>
 <p>Ukrainian and Russian officials differed on whether a military or civilian area had been struck. Earlier in the war, Russia lost dozens of soldiers, if not hundreds, in a strike on the city.  <a href="https://nyti.ms/3O1oHeA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Israel’s Major Incursion in the West Bank Is Over. Did It Solve Anything?</h3>
+<sub>By Isabel Kershner</sub>
+<p>Israelis and Palestinians said the armed groups that were the targets of the military raid would quickly rebuild and the Israeli soldiers would be back soon.  <a href="https://nyti.ms/3O1vpkP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -126,12 +132,6 @@ There is currently a lot of tension between the U.S. government, social media co
 <h3>Yusef Salaam Is Declared Winner of Harlem City Council Primary Race</h3>
 <sub>By Jeffery C. Mays</sub>
 <p>Mr. Salaam was one of the Central Park Five who were wrongly convicted and then exonerated in the rape and assault of a jogger in Central Park in 1989.  <a href="https://nyti.ms/44aiKBD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>For Yusef Salaam, a Landslide Just Might Be the Best Revenge</h3>
-<sub>By Ginia Bellafante</sub>
-<p>After his wrongful conviction as one of the Central Park Five was overturned, Mr. Salaam found it hard to rebuild his life. Now he stands to take office next year.  <a href="https://nyti.ms/439UWwx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
 <hr/>
 </ol>
