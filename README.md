@@ -60,13 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, July 6, Central Standard Time</p>
 <p>
-There are some big changes happening in the world right now. The economy has seen a lot of job switching in recent years that have resulted in big gains for low-wage workers, but it seems like the pendulum is starting to swing back towards employers. There is also a push for &quot;second-chance hiring&quot; for ex-prisoners, and the number of job openings dipped in May to signal continued cooling. 
-
-On the international front, the leader of Belarus has gained new prominence in Russia’s politics and NATO was planning to celebrate the arrival of a new member at their summit but it looks like that&#39;s been put on hold due to objections from Hungary and Turkey. 
-
-Tom Brady is one celebrity dealing with the fall out from the crypto crash while transgender care bans have left families and doctors scrambling to find care across state lines. 
-
-Finally, there are some promising developments too - like Hudson Tunnel Project which just got $6.9 billion in federal funding, allowing it to start by next year. Treasury Secretary Yellen is also visiting China to explain how the US does not intend to harm their economy while promoting export controls and tariffs.</p>
+There&#39;s a lot of news in the world at the moment. For example, job openings decreased in May and Federal Reserve policymakers are watching it closely. In addition, there has been a lot of heat waves around the globe as climate change continues to worsen. The U.S. is also in the process of destroying its last remaining chemical weapons arsenal, and Treasury Secretary Janet Yellen is visiting China to explain why the U.S. does not want to harm their economy while defending export controls and tariffs. Plus, Tom Brady’s crypto ambitions have collided with reality due to the crypto crash, and a conservation park in Zambia is feeling the long-term effects of a crusade to protect animals from poachers by a novelist and her husband. Lastly, Hudson Tunnel Project recently got $6.9 billion in funding from the federal government which will allow work on the project to start next year.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>The ‘Great Resignation’ Is Over. Can Workers’ Power Endure?</h3>
@@ -87,12 +81,6 @@ Finally, there are some promising developments too - like Hudson Tunnel Project 
 <sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The leader of Belarus has gained new prominence in Russia’s politics.</h3>
-<sub>By Matthew Mpoke Bigg</sub>
-<p>  <a href="https://nyti.ms/3D7ZXuR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>NATO’s Welcome Party for Sweden Is Back on Ice</h3>
 <sub>By Ben Hubbard and Steven Erlanger</sub>
 <p>Alliance leaders wanted their summit next week to celebrate the arrival of a new member, but stalling by Hungary and objections from Turkey have made that nearly impossible.  <a href="https://nyti.ms/46DMUPG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -102,6 +90,18 @@ Finally, there are some promising developments too - like Hudson Tunnel Project 
 <h3>The Mayor Had a Photo of a Fallen Officer. Was His Story About It True?</h3>
 <sub>By Emma G. Fitzsimmons</sub>
 <p>Mayor Eric Adams has often talked about a wrinkled photo of a fallen police officer that he kept in his wallet. Now that photo and the story have been called into question.  <a href="https://nyti.ms/3CXWgYV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Heat Records Fall Around the Globe as Earth Warms, Fast</h3>
+<sub>By Brad Plumer</sub>
+<p>From north to south, temperatures are surging as greenhouse gases trap heat in the atmosphere and combine with effects from El Niño.  <a href="https://nyti.ms/3JLmt0l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>What 120 Degrees Looks Like in One of Mexico’s Hottest Cities</h3>
+<sub>By Cesar Rodriguez and Elda Cantú</sub>
+<p>During the most recent heat wave, residents of the northern city of Hermosillo struggled to breathe in the scorching temperatures.  <a href="https://nyti.ms/438npTu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -116,22 +116,16 @@ Finally, there are some promising developments too - like Hudson Tunnel Project 
 <p>The Treasury secretary will need to defend export controls and tariffs while explaining that the United States does not aim to harm China’s economy.  <a href="https://nyti.ms/3XGEQJH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>German Businesses Bet Big on China, and They’re Starting to Worry</h3>
-<sub>By Erika Solomon</sub>
-<p>Geopolitical risks have exposed long-ignored strains on Germany’s socioeconomic model. The family businesses underpinning its economy are seeking a new path.  <a href="https://nyti.ms/3PKKCs2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>How Tom Brady’s Crypto Ambitions Collided With Reality</h3>
 <sub>By Erin Griffith and David Yaffe-Bellany</sub>
 <p>The superstar quarterback is among the celebrities dealing with the fallout from the crypto crash. Others, like Taylor Swift, escaped.  <a href="https://nyti.ms/44si8rz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Fight or Flight: Transgender Care Bans Leave Families and Doctors Scrambling</h3>
-<sub>By Ernesto Londoño, Azeen Ghorayshi and Jamie Kelter Davis</sub>
-<p>Laws in 20 states have left the fate of clinics in doubt and families with transgender children searching for medical care across state lines.  <a href="https://nyti.ms/3resCvU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Americans Tried to Save Elephants in Zambia. Were They the Good Guys?</h3>
+<sub>By Ruth Maclean, Collins Chilumba Sampa and Gulshan Khan</sub>
+<p>A visit to a remote conservation park reveals the long-term impact on villagers of a crusade by the novelist Delia Owens and her husband to protect animals from poachers.  <a href="https://nyti.ms/3NHxvF3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
