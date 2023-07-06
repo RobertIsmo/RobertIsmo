@@ -60,12 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, July 5, Central Standard Time</p>
 <p>
-It&#39;s been a difficult time around the world. President Biden is backing a plan for Sweden to join NATO, but it has been stalled by Turkey&#39;s opposition. In Israel, there was a devastating military incursion in the West Bank that left many dead, and teenagers there are writing out their last words. Another conflict taking place is in Ukraine, where fighting between Russia and Ukraine has created problems for a company based in Finland. In addition, there have been several shootings in the US this holiday weekend, including one in Louisiana that left four dead and seven wounded.</p>
+There is a legal case happening that could have a major impact on how the government handles disinformation, which is all false information intentionally spread on social media. Researchers fear that this could hinder their efforts to stop false claims about vaccines and voter fraud. In other news, tensions in the Middle East rose with a major incursion by Israel into the West Bank which didn&#39;t solve anything. President Biden is pushing for Sweden to join NATO, but there has been opposition from Turkey. In the US, the governor of Florida has been struggling to make a strong case against Donald Trump ahead of November&#39;s Presidential Election. There was also a huge explosion in Ukraine that both sides attributed to different causes. Immigration between the US and Ukraine has been a major topic recently within the Republican Party, with some members wanting a more isolationist approach. Instagram just launched Threads, which many people are comparing to Twitter and could be its competitor in the future. There&#39;s also a new documentary about the band Wham! Finally, there was a deadly shooting in Louisiana over the holiday weekend and another in Philadelphia where police suspect that the shooter might have been wearing a bulletproof vest around his house beforehand.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Hosts Sweden’s Prime Minister as the Nordic Nation Looks to Join NATO</h3>
-<sub>By Katie Rogers and Michael Crowley</sub>
-<p>President Biden backs the plan for Sweden to join the military alliance, but movement has been stalled by Turkey’s opposition.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Ruling Puts Social Media at Crossroads of Disinformation and Free Speech</h3>
+<sub>By Michael D. Shear and David McCabe</sub>
+<p>The case, which could alter how the government battles disinformation, is a flashpoint in a broader effort by conservatives to document what they contend is a liberal conspiracy to silence their views.  <a href="https://nyti.ms/3PL6inJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Disinformation Researchers Fret About Fallout From Judge’s Order</h3>
+<sub>By Tiffany Hsu and Stuart A. Thompson</sub>
+<p>They said a restriction on government interaction with social media companies could impede efforts to curb false claims about vaccines and voter fraud.  <a href="https://nyti.ms/3NYQSLc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -74,28 +80,22 @@ It&#39;s been a difficult time around the world. President Biden is backing a pl
 <p>Israelis and Palestinians said the armed groups that were the targets of the military raid would quickly rebuild and the Israeli soldiers would be back soon.  <a href="https://nyti.ms/3O1vpkP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israel Says Deadly Raid on West Bank City Is Over</h3>
-<sub>By Isabel Kershner and Aaron Boxerman</sub>
-<p>A major military incursion into the city of Jenin left at least 12 Palestinians and one Israeli soldier dead. A Palestinian attack on Tel Aviv wounded at least eight.  <a href="https://nyti.ms/3NZhnQD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Says He Is ‘Anxiously’ Waiting for Sweden to Join NATO</h3>
+<sub>By Katie Rogers and Michael Crowley</sub>
+<p>In an Oval Office meeting, President Biden again backed the plan for Sweden to join the military alliance, but movement has been stalled by Turkey’s opposition.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>DeSantis Campaign Continues to Struggle to Find Its Footing</h3>
+<sub>By Nicholas Nehamas</sub>
+<p>The Florida governor, who has yet to demonstrate himself as a campaigner on a national stage, has been plagued by a series of unforced errors and has yet to make a strong case against Donald Trump.  <a href="https://nyti.ms/3XLi2ss"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>West Bank Teenagers Are Writing Out Their Last Words</h3>
-<sub>By Raja Abdulrahim and Hiba Yazbek</sub>
-<p>In one of the deadliest periods in years in the Israeli-occupied West Bank, young Palestinians drawn into the struggle against Israel are writing farewell messages to their loved ones.  <a href="https://nyti.ms/3O2B1eR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Ukraine War Changed This Company Forever</h3>
-<sub>By Patricia Cohen</sub>
-<p>Nokian Tyres of Finland made 80 percent of its tires in Russia, where energy was cheap. After losing billions, it prioritized political security over business efficiency.  <a href="https://nyti.ms/3D0JB7y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘Dig, Dig, Dig’: A Russian Soldier’s Story</h3>
-<sub>By Thomas Gibbons-Neff and Natalia Yermak</sub>
-<p>An inmate hoped to start over with a clean slate by fighting in Ukraine. Instead, he was confronted by the drudgery of trench work and the terror of battle. “You’re going in as meat,” he said he was told.  <a href="https://nyti.ms/44xWPnM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Ukraine Strikes a Russian-Occupied City, Igniting a Huge Blast</h3>
+<sub>By Cassandra Vinograd</sub>
+<p>Ukrainian and Russian officials differed on whether a military or civilian area had been struck. Earlier in the war, Russia lost dozens of soldiers, if not hundreds, in a strike on the city.  <a href="https://nyti.ms/3O1oHeA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -104,22 +104,16 @@ It&#39;s been a difficult time around the world. President Biden is backing a pl
 <p>The war has illuminated one of the biggest ideological divides within the Republican Party: between members who see a significant global role for the United States, and a more isolationist wing.  <a href="https://nyti.ms/44yph9o"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Paralyzed by a Police Bullet, He Describes a Life Forever Changed</h3>
-<sub>By Tracey Tully</sub>
-<p>“Why did you run from me?” an officer asked Khalif Cooper, then 28, immediately after the shooting in Paterson, N.J. “I was scared,” he answered.  <a href="https://nyti.ms/3XAPaTF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Threads, Instagram’s ‘Twitter Killer,’ Has Arrived</h3>
+<sub>By Mike Isaac</sub>
+<p>Here’s what to know about Instagram’s new app for public conversations and how it differs from Twitter.  <a href="https://nyti.ms/3rc2Wjj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-movies-blue" alt="">
 <h3>Andrew Ridgeley on George Michael and Life After Wham!</h3>
 <sub>By Erik Piepenburg</sub>
 <p>“The only thing I ever wanted to do from the age of 14 was to be in a band,” but he is content with the duo’s short career, which is chronicled in a new documentary.  <a href="https://nyti.ms/3O12tcT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>‘Wham!’ Review: They Made It Big, Then Broke Up</h3>
-<sub>By Wesley Morris</sub>
-<p>A new movie documents George Michael and Andrew Ridgeley’s storming of the pop airwaves as the duo Wham! and laughs past the thorny questions.  <a href="https://nyti.ms/449AgG9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -132,6 +126,12 @@ It&#39;s been a difficult time around the world. President Biden is backing a pl
 <h3>Deadly Louisiana Shooting Caps a Holiday Weekend of Violence</h3>
 <sub>By Michael Levenson, Derrick Bryson Taylor and Adeel Hassan</sub>
 <p>The shooting, which left four dead and seven wounded, was one of several in multiple cities since Friday.  <a href="https://nyti.ms/3riblSw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Suspect Showed Troubling Signs Before Philadelphia Rampage, D.A. Says</h3>
+<sub>By Joel Wolfram and Campbell Robertson</sub>
+<p>People who lived with the suspect told investigators that he was wearing a bulletproof vest around the house in the days before five people were gunned down.  <a href="https://nyti.ms/3NDNeoI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
 <hr/>
 </ol>
