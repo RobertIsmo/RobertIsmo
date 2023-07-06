@@ -60,8 +60,34 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, July 6, Central Standard Time</p>
 <p>
-There&#39;s a lot of news in the world at the moment. For example, job openings decreased in May and Federal Reserve policymakers are watching it closely. In addition, there has been a lot of heat waves around the globe as climate change continues to worsen. The U.S. is also in the process of destroying its last remaining chemical weapons arsenal, and Treasury Secretary Janet Yellen is visiting China to explain why the U.S. does not want to harm their economy while defending export controls and tariffs. Plus, Tom Brady’s crypto ambitions have collided with reality due to the crypto crash, and a conservation park in Zambia is feeling the long-term effects of a crusade to protect animals from poachers by a novelist and her husband. Lastly, Hudson Tunnel Project recently got $6.9 billion in funding from the federal government which will allow work on the project to start next year.</p>
+At the moment, global temperatures are rising quickly due to the effects of greenhouse gases and El Niño. This has been causing record-high temperatures around the globe. For example, in Mexico&#39;s northern city of Hermosillo, temperatures have been reaching an unbelievable 120 degrees.
+
+In terms of health news, a new Alzheimer&#39;s drug called Leqembi has just been made widely accessible after receiving full approval from the F.D.A., although with a warning about potential safety risks. Medicare will cover most of the cost for those who need it.
+
+The workforce is also undergoing some significant changes, with many job-switching opportunities popping up leading to higher wages for low-income workers. Despite this, ex-prisoners face tremendous hurdles when seeking employment as only 60 percent are employed a year later.
+
+Elsewhere, Belarus&#39; autocratic leader Aleksandr G. Lukashenko has made claims about a photo of a fallen police officer in his wallet - although some have called his story&#39;s validity into question - and U.S. is on track to finish its arsenal of chemical weapons by Friday.
+
+Meanwhile there is drama in the tech world as well. Tom Brady&#39;s ambitions in crypto crashed hard, while Instagram released an app Threads which quickly racked up 30 million downloads in 16 hours - angering rival Twitter - and Taylor Swift escaped unscathed. Lastly, Delia Owens and her husband are trying to fight poachers in order to save Zambian elephants, although their efforts have divided opinions among locals in the area.</p>
 <ol>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Heat Records Are Broken Around the Globe as Earth Warms, Fast</h3>
+<sub>By Brad Plumer and Elena Shao</sub>
+<p>From north to south, temperatures are surging as greenhouse gases trap heat in the atmosphere and combine with effects from El Niño.  <a href="https://nyti.ms/3JLmt0l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>What 120 Degrees Looks Like in One of Mexico’s Hottest Cities</h3>
+<sub>By Cesar Rodriguez and Elda Cantú</sub>
+<p>During the most recent heat wave, residents of the northern city of Hermosillo struggled to breathe in the scorching temperatures.  <a href="https://nyti.ms/438npTu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>New Federal Decisions Make Alzheimer’s Drug Leqembi Widely Accessible</h3>
+<sub>By Pam Belluck</sub>
+<p>The F.D.A. gave full approval to the drug, but added a black-box warning about safety risks. Medicare said it would cover most of the high cost.  <a href="https://nyti.ms/3D4bBHs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>The ‘Great Resignation’ Is Over. Can Workers’ Power Endure?</h3>
 <sub>By Ben Casselman</sub>
@@ -74,34 +100,16 @@ There&#39;s a lot of news in the world at the moment. For example, job openings 
 <p>An estimated 60 percent of those leaving prison are unemployed a year later. But after a push for “second-chance hiring,” some programs show promise.  <a href="https://nyti.ms/3pv6VXY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Job Openings Dipped in May, a Sign of Continued Cooling</h3>
-<sub>By J. Edward Moreno</sub>
-<p>Hiring was largely unchanged, and the number of workers quitting their jobs increased. The data will be watched closely by Federal Reserve policymakers.  <a href="https://nyti.ms/43elk8v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>NATO’s Welcome Party for Sweden Is Back on Ice</h3>
-<sub>By Ben Hubbard and Steven Erlanger</sub>
-<p>Alliance leaders wanted their summit next week to celebrate the arrival of a new member, but stalling by Hungary and objections from Turkey have made that nearly impossible.  <a href="https://nyti.ms/46DMUPG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>In his new spotlight, the Belarusian leader could gain leverage.</h3>
+<sub>By Matthew Mpoke Bigg</sub>
+<p>The brief mutiny by the Wagner mercenary force last month has given Belarus’s autocratic leader Aleksandr G. Lukashenko an opening to upend his subservient relationship with Moscow.  <a href="https://nyti.ms/3D7ZXuR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>The Mayor Had a Photo of a Fallen Officer. Was His Story About It True?</h3>
 <sub>By Emma G. Fitzsimmons</sub>
 <p>Mayor Eric Adams has often talked about a wrinkled photo of a fallen police officer that he kept in his wallet. Now that photo and the story have been called into question.  <a href="https://nyti.ms/3CXWgYV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Heat Records Fall Around the Globe as Earth Warms, Fast</h3>
-<sub>By Brad Plumer</sub>
-<p>From north to south, temperatures are surging as greenhouse gases trap heat in the atmosphere and combine with effects from El Niño.  <a href="https://nyti.ms/3JLmt0l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>What 120 Degrees Looks Like in One of Mexico’s Hottest Cities</h3>
-<sub>By Cesar Rodriguez and Elda Cantú</sub>
-<p>During the most recent heat wave, residents of the northern city of Hermosillo struggled to breathe in the scorching temperatures.  <a href="https://nyti.ms/438npTu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -128,10 +136,10 @@ There&#39;s a lot of news in the world at the moment. For example, job openings 
 <p>A visit to a remote conservation park reveals the long-term impact on villagers of a crusade by the novelist Delia Owens and her husband to protect animals from poachers.  <a href="https://nyti.ms/3NHxvF3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Hudson Tunnel Project to Get $6.9 Billion in Largest U.S. Transit Grant</h3>
-<sub>By Patrick McGeehan</sub>
-<p>The federal funding would allow work on the long-delayed Gateway tunnel to start by next year, said Senator Chuck Schumer of New York.  <a href="https://nyti.ms/3XHmWGA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Threads Becomes Most Rapidly Downloaded App, Raising Twitter’s Ire</h3>
+<sub>By Mike Isaac</sub>
+<p>Instagram’s new app was downloaded more than 30 million times in 16 hours. Twitter threatened legal action against its rival.  <a href="https://nyti.ms/3D3t2Ic"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
 <hr/>
 </ol>
