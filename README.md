@@ -60,16 +60,26 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, July 6, Central Standard Time</p>
 <p>
-At the moment, global temperatures are rising quickly due to the effects of greenhouse gases and El Niño. This has been causing record-high temperatures around the globe. For example, in Mexico&#39;s northern city of Hermosillo, temperatures have been reaching an unbelievable 120 degrees.
-
-In terms of health news, a new Alzheimer&#39;s drug called Leqembi has just been made widely accessible after receiving full approval from the F.D.A., although with a warning about potential safety risks. Medicare will cover most of the cost for those who need it.
-
-The workforce is also undergoing some significant changes, with many job-switching opportunities popping up leading to higher wages for low-income workers. Despite this, ex-prisoners face tremendous hurdles when seeking employment as only 60 percent are employed a year later.
-
-Elsewhere, Belarus&#39; autocratic leader Aleksandr G. Lukashenko has made claims about a photo of a fallen police officer in his wallet - although some have called his story&#39;s validity into question - and U.S. is on track to finish its arsenal of chemical weapons by Friday.
-
-Meanwhile there is drama in the tech world as well. Tom Brady&#39;s ambitions in crypto crashed hard, while Instagram released an app Threads which quickly racked up 30 million downloads in 16 hours - angering rival Twitter - and Taylor Swift escaped unscathed. Lastly, Delia Owens and her husband are trying to fight poachers in order to save Zambian elephants, although their efforts have divided opinions among locals in the area.</p>
+Currently, the Biden administration is considering if the US should provide Ukraine with weapons despite other allied countries banning them due to its reportedly high chances of causing civilian casualties. On the health side, a new drug called Leqembi has been found to be helpful for Alzheimer&#39;s patients, but comes with some safety risks. Medicare will cover most of its cost. The climate is also being heavily impacted on a global level with temperature records being broken around the world as Earth warms at an alarming rate and nations are aiming to zero out shipping emissions by mid-century. In Mexico, people in the northern city of Hermosillo are struggling to cope with blistering temperatures of up to 120 degrees. Closer to home in New York City, Mayor Eric Adams is being questioned about a photo he claimed was of a fallen police officer in his wallet and firefighters from Newark succumbed to a fire on a cargo ship they were ill-equipped to handle. Lastly, Tom Brady&#39;s crypto ambitions were pushed back due to the crypto crash but others such as Taylor Swift seemingly avoided entanglement in all that.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Weighs Giving Ukraine Weapons Banned by Many U.S. Allies</h3>
+<sub>By David E. Sanger and Eric Schmitt</sub>
+<p>Ukraine is seeking cluster munitions, which are known to cause grievous injuries to civilians, as its ammunition supply runs low.  <a href="https://nyti.ms/44CJvyN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>New Federal Decisions Make Alzheimer’s Drug Leqembi Widely Accessible</h3>
+<sub>By Pam Belluck</sub>
+<p>The F.D.A. gave full approval to the drug, but added a black-box warning about safety risks. Medicare said it would cover most of the high cost.  <a href="https://nyti.ms/3D4bBHs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>What to Know if You’re Considering the Alzheimer’s Drug Leqembi</h3>
+<sub>By Pam Belluck</sub>
+<p>Medicare will cover much of the cost for patients in the early stages of the disease, but Leqembi has safety risks and can only modestly slow cognitive decline.  <a href="https://nyti.ms/3XJW5K7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>Heat Records Are Broken Around the Globe as Earth Warms, Fast</h3>
 <sub>By Brad Plumer and Elena Shao</sub>
@@ -82,28 +92,10 @@ Meanwhile there is drama in the tech world as well. Tom Brady&#39;s ambitions in
 <p>During the most recent heat wave, residents of the northern city of Hermosillo struggled to breathe in the scorching temperatures.  <a href="https://nyti.ms/438npTu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>New Federal Decisions Make Alzheimer’s Drug Leqembi Widely Accessible</h3>
-<sub>By Pam Belluck</sub>
-<p>The F.D.A. gave full approval to the drug, but added a black-box warning about safety risks. Medicare said it would cover most of the high cost.  <a href="https://nyti.ms/3D4bBHs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The ‘Great Resignation’ Is Over. Can Workers’ Power Endure?</h3>
-<sub>By Ben Casselman</sub>
-<p>The furious pace of job-switching in recent years has led to big gains for low-wage workers. But the pendulum could be swinging back toward employers.  <a href="https://nyti.ms/3CZGPPV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Ex-Prisoners Face Headwinds as Job Seekers, Even as Openings Abound</h3>
-<sub>By Talmon Joseph Smith</sub>
-<p>An estimated 60 percent of those leaving prison are unemployed a year later. But after a push for “second-chance hiring,” some programs show promise.  <a href="https://nyti.ms/3pv6VXY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In his new spotlight, the Belarusian leader could gain leverage.</h3>
-<sub>By Matthew Mpoke Bigg</sub>
-<p>The brief mutiny by the Wagner mercenary force last month has given Belarus’s autocratic leader Aleksandr G. Lukashenko an opening to upend his subservient relationship with Moscow.  <a href="https://nyti.ms/3D7ZXuR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Nations Aim to Zero Out Shipping Emissions by Midcentury</h3>
+<sub>By Max Bearak</sub>
+<p>Regulators reached a provisional deal on how quickly the transition to zero-emissions fuels should happen for cargo ships, which often burn particularly dirty oil.  <a href="https://nyti.ms/46Fbwas"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -112,34 +104,34 @@ Meanwhile there is drama in the tech world as well. Tom Brady&#39;s ambitions in
 <p>Mayor Eric Adams has often talked about a wrinkled photo of a fallen police officer that he kept in his wallet. Now that photo and the story have been called into question.  <a href="https://nyti.ms/3CXWgYV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Is Destroying the Last of Its Once-Vast Chemical Weapons Arsenal</h3>
-<sub>By Dave Philipps and John Ismay</sub>
-<p>Decades behind its initial schedule, the dangerous job of eliminating the world’s only remaining declared stockpile of lethal chemical munitions will be completed as soon as Friday.  <a href="https://nyti.ms/44aymFB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Yellen Faces a Diplomatic Test in Her High-Stakes Visit to China</h3>
 <sub>By Alan Rappeport</sub>
 <p>The Treasury secretary will need to defend export controls and tariffs while explaining that the United States does not aim to harm China’s economy.  <a href="https://nyti.ms/3XGEQJH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>John Kerry to Visit China to Restart Climate Negotiations</h3>
+<sub>By Lisa Friedman</sub>
+<p>A yearlong freeze in climate talks appears to be ending as the United States and China, the world’s biggest polluters, resume discussions.  <a href="https://nyti.ms/3D279c5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>How 2 Firefighters Died in a Blaze They Were Ill-Equipped to Face</h3>
+<sub>By Tracey Tully, Mike Ives and Elise Young</sub>
+<p>The fire broke out on a ship carrying more than 1,000 vehicles, owned by an Italian company and anchored at Port Newark.  <a href="https://nyti.ms/3rmgb0P"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>2 Newark Firefighters Brought Years of Service to Their Final Fire</h3>
+<sub>By Michael Wilson</sub>
+<p>Augusto Acabou and Wayne Brooks Jr., who died fighting a blaze on a cargo ship, were products of Engine 16 in Newark’s Ironbound neighborhood.  <a href="https://nyti.ms/3O3y3Xt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>How Tom Brady’s Crypto Ambitions Collided With Reality</h3>
 <sub>By Erin Griffith and David Yaffe-Bellany</sub>
 <p>The superstar quarterback is among the celebrities dealing with the fallout from the crypto crash. Others, like Taylor Swift, escaped.  <a href="https://nyti.ms/44si8rz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Americans Tried to Save Elephants in Zambia. Were They the Good Guys?</h3>
-<sub>By Ruth Maclean, Collins Chilumba Sampa and Gulshan Khan</sub>
-<p>A visit to a remote conservation park reveals the long-term impact on villagers of a crusade by the novelist Delia Owens and her husband to protect animals from poachers.  <a href="https://nyti.ms/3NHxvF3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Threads Becomes Most Rapidly Downloaded App, Raising Twitter’s Ire</h3>
-<sub>By Mike Isaac</sub>
-<p>Instagram’s new app was downloaded more than 30 million times in 16 hours. Twitter threatened legal action against its rival.  <a href="https://nyti.ms/3D3t2Ic"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
 <hr/>
 </ol>
