@@ -58,18 +58,32 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Thursday, July 6, Central Standard Time</p>
+<p>It is Friday, July 7, Central Standard Time</p>
 <p>
-There are a lot of big things happening in the world right now. President Biden is considering providing Ukraine with weapons banned by many U.S. allies, which could cause issues with civilian casualties due to cluster munitions. On the health front, a new Alzheimer&#39;s drug has become widely accessible after being given full approval by the FDA, but a black-box warning accompanied the decision due to potential safety risks. And speaking of safety risks, two Newark firefighters recently died in an unexpected blaze that was too intense for them to keep up with while they lacked proper equipment. 
-
-Heat records around the globe are being broken as temperatures surge due to effects of greenhouse gases and El Niño. In addition, countries are aiming to zero out shipping emissions by midcentury so cargo ships can operate with zero-emissions fuel, and Treasury Secretary Yellen will be visiting China soon to discuss export controls, tariffs, and not wanting to harm their economy. John Kerry is set to join as well in order to restart climate negotiations with China - the biggest polluter of them all.
-
-Finally, Tom Brady&#39;s attempt at getting into the crypto space didn&#39;t work out so well after the crypto market crashed, and luckily other celebrities like Taylor Swift avoided any losses.</p>
+Right now, there is a lot of tension between the US and China, with the US Secretary of the Treasury Janet Yellen criticizing China&#39;s treatment of US companies during her visit in Beijing. John Kerry is visiting China to restart negotiations on climate change, as the world is facing record-breaking heat due to global warming and emissions from cargo ships. Meanwhile, President Biden is considering giving Ukraine weapons that many US allies have banned because of their potential high risk of causing injuries to civilians. There is also an ongoing mystery surrounding Russian mercenary boss Yevgeniy Prigozhin, as the leader of Belarus said he&#39;d taken him in only to later say he was in St. Petersburg and then &quot;maybe he went to Moscow&quot;. On the health front, there&#39;s a new Alzheimer&#39;s drug called Leqembi that has been made widely accessible by federal decisions and it comes with a black-box warning about safety risks, although Medicare will cover most of its high cost. Lastly, two firefighters tragically lost their lives in a blaze due to them being ill-equipped to face it at Newark Port.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Yellen, in Beijing, Criticizes China’s Treatment of U.S. Companies</h3>
+<sub>By Alan Rappeport</sub>
+<p>Treasury Secretary Janet Yellen’s concerns reflected continuing tensions between the two countries.  <a href="https://nyti.ms/44RrFIv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>John Kerry to Visit China to Restart Climate Negotiations</h3>
+<sub>By Lisa Friedman</sub>
+<p>A yearlong freeze in climate talks appears to be ending as the United States and China, the world’s biggest polluters, resume discussions.  <a href="https://nyti.ms/3D279c5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Weighs Giving Ukraine Weapons Banned by Many U.S. Allies</h3>
 <sub>By David E. Sanger and Eric Schmitt</sub>
 <p>Ukraine is seeking cluster munitions, which are known to cause grievous injuries to civilians, as its ammunition supply runs low.  <a href="https://nyti.ms/44CJvyN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Prigozhin Is Said to Be in Russia, as Wagner Mystery Deepens</h3>
+<sub>By Valerie Hopkins</sub>
+<p>After the mercenary boss staged a brief insurrection in Russia, the leader of Belarus said his country had taken him in, but now says the Wagner leader was in St. Petersburg and then “maybe he went to Moscow.”  <a href="https://nyti.ms/3PKGk3y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
@@ -108,18 +122,6 @@ Finally, Tom Brady&#39;s attempt at getting into the crypto space didn&#39;t wor
 <p>Mayor Eric Adams has often talked about a wrinkled photo of a fallen police officer that he kept in his wallet. Now that photo and the story have been called into question.  <a href="https://nyti.ms/3CXWgYV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Yellen Faces a Diplomatic Test in Her High-Stakes Visit to China</h3>
-<sub>By Alan Rappeport</sub>
-<p>The Treasury secretary will need to defend export controls and tariffs while explaining that the United States does not aim to harm China’s economy.  <a href="https://nyti.ms/3XGEQJH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>John Kerry to Visit China to Restart Climate Negotiations</h3>
-<sub>By Lisa Friedman</sub>
-<p>A yearlong freeze in climate talks appears to be ending as the United States and China, the world’s biggest polluters, resume discussions.  <a href="https://nyti.ms/3D279c5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>How 2 Firefighters Died in a Blaze They Were Ill-Equipped to Face</h3>
 <sub>By Tracey Tully, Mike Ives and Elise Young</sub>
@@ -130,12 +132,6 @@ Finally, Tom Brady&#39;s attempt at getting into the crypto space didn&#39;t wor
 <h3>2 Newark Firefighters Brought Years of Service to Their Final Fire</h3>
 <sub>By Michael Wilson</sub>
 <p>Augusto Acabou and Wayne Brooks Jr., who died fighting a blaze on a cargo ship, were products of Engine 16 in Newark’s Ironbound neighborhood.  <a href="https://nyti.ms/3O3y3Xt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>How Tom Brady’s Crypto Ambitions Collided With Reality</h3>
-<sub>By Erin Griffith and David Yaffe-Bellany</sub>
-<p>The superstar quarterback is among the celebrities dealing with the fallout from the crypto crash. Others, like Taylor Swift, escaped.  <a href="https://nyti.ms/44si8rz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
 <hr/>
 </ol>
