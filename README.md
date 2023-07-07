@@ -60,12 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, July 7, Central Standard Time</p>
 <p>
-Right now, there is a lot of tension between the US and China, with the US Secretary of the Treasury Janet Yellen criticizing China&#39;s treatment of US companies during her visit in Beijing. John Kerry is visiting China to restart negotiations on climate change, as the world is facing record-breaking heat due to global warming and emissions from cargo ships. Meanwhile, President Biden is considering giving Ukraine weapons that many US allies have banned because of their potential high risk of causing injuries to civilians. There is also an ongoing mystery surrounding Russian mercenary boss Yevgeniy Prigozhin, as the leader of Belarus said he&#39;d taken him in only to later say he was in St. Petersburg and then &quot;maybe he went to Moscow&quot;. On the health front, there&#39;s a new Alzheimer&#39;s drug called Leqembi that has been made widely accessible by federal decisions and it comes with a black-box warning about safety risks, although Medicare will cover most of its high cost. Lastly, two firefighters tragically lost their lives in a blaze due to them being ill-equipped to face it at Newark Port.</p>
+Recently, U.S. Treasury Secretary Janet Yellen visited Beijing to criticize China&#39;s treatment of U.S. companies, reflecting ongoing tensions between the world&#39;s two biggest economic powers. There have been a number of reports on the contentious relationship, from military spending to movie theaters, as well as global warming records being broken around the world as Earth warms fast and countries aiming to zero out shipping emissions by midcentury. In America, President Biden is apparently considering arming Ukraine with weapons banned by many allies, while on a health front there&#39;s a new Alzheimer&#39;s drug Leqembi that has been approved but with a black-box warning about safety risks. Closer to home in New York, Mayor Eric Adams recently had his story about having a photo of a fallen police officer in his wallet called into question, and last week saw two firefighters tragically dying in a blaze while ill-equipped to face it.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Yellen, in Beijing, Criticizes China’s Treatment of U.S. Companies</h3>
 <sub>By Alan Rappeport</sub>
 <p>Treasury Secretary Janet Yellen’s concerns reflected continuing tensions between the two countries.  <a href="https://nyti.ms/44RrFIv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>The Contentious U.S.-China Relationship, by the Numbers</h3>
+<sub>By Ana Swanson</sub>
+<p>From movie theaters to military spending, here’s how one of the world’s most important economic relationships stacks up.  <a href="https://nyti.ms/3PTzOrg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
@@ -127,12 +133,6 @@ Right now, there is a lot of tension between the US and China, with the US Secre
 <sub>By Tracey Tully, Mike Ives and Elise Young</sub>
 <p>The fire broke out on a ship carrying more than 1,000 vehicles, owned by an Italian company and anchored at Port Newark.  <a href="https://nyti.ms/3rmgb0P"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>2 Newark Firefighters Brought Years of Service to Their Final Fire</h3>
-<sub>By Michael Wilson</sub>
-<p>Augusto Acabou and Wayne Brooks Jr., who died fighting a blaze on a cargo ship, were products of Engine 16 in Newark’s Ironbound neighborhood.  <a href="https://nyti.ms/3O3y3Xt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
