@@ -60,12 +60,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, July 7, Central Standard Time</p>
 <p>
-Recently, U.S. Treasury Secretary Janet Yellen visited Beijing to criticize China&#39;s treatment of U.S. companies, reflecting ongoing tensions between the world&#39;s two biggest economic powers. There have been a number of reports on the contentious relationship, from military spending to movie theaters, as well as global warming records being broken around the world as Earth warms fast and countries aiming to zero out shipping emissions by midcentury. In America, President Biden is apparently considering arming Ukraine with weapons banned by many allies, while on a health front there&#39;s a new Alzheimer&#39;s drug Leqembi that has been approved but with a black-box warning about safety risks. Closer to home in New York, Mayor Eric Adams recently had his story about having a photo of a fallen police officer in his wallet called into question, and last week saw two firefighters tragically dying in a blaze while ill-equipped to face it.</p>
+Recently, the Federal Reserve is closely watching the June jobs report to decide how to adjust interest rates. Economists are expecting 225,000 new jobs in June. Treasury Secretary Janet Yellen criticized China&#39;s treatment of US companies while the Biden Administration is placing pressure on China to reduce the global fentanyl crisis. Meanwhile in the US, Biden is considering giving weapons, including cluster munitions, to Ukraine and their military is having difficulty raising funds due to the war dragging on. Here in NY, Penn Station looks to be improving and the iconic New York Public Library has added a visitor center and a gift shop and cafe. And finally, there may be hope for predators like wolves appearing in the Northeast as one was killed in upstate NY. There&#39;s also some good news for those dealing with Alzheimer&#39;s as a new drug has become widely accessible through government decisions.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Fed Watchers to Parse June Jobs Report Closely</h3>
+<sub>By Jeanna Smialek</sub>
+<p>How much more the Federal Reserve raises interest rates this year will hinge on the strength of the economy — particularly the labor market.  <a href="https://nyti.ms/3rkDUic"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Why a Strong Jobs Report Could Rattle the Markets</h3>
+<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
+<p>Economists have forecast that employers created 225,000 jobs last month. A bigger-than-expected number could complicate the Federal Reserve’s efforts to tame inflation.  <a href="https://nyti.ms/3JOaoHN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 7, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Yellen, in Beijing, Criticizes China’s Treatment of U.S. Companies</h3>
 <sub>By Alan Rappeport</sub>
 <p>Treasury Secretary Janet Yellen’s concerns reflected continuing tensions between the two countries.  <a href="https://nyti.ms/44RrFIv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>U.S. Raises Pressure on China to Combat Global Fentanyl Crisis</h3>
+<sub>By David Pierson, Edward Wong and Olivia Wang</sub>
+<p>The Biden administration push comes after cooperation on halting the flow of the drug into the United States was derailed by wider geopolitical tensions.  <a href="https://nyti.ms/3XK1PDU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -74,11 +92,11 @@ Recently, U.S. Treasury Secretary Janet Yellen visited Beijing to criticize Chin
 <p>From movie theaters to military spending, here’s how one of the world’s most important economic relationships stacks up.  <a href="https://nyti.ms/3PTzOrg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>John Kerry to Visit China to Restart Climate Negotiations</h3>
-<sub>By Lisa Friedman</sub>
-<p>A yearlong freeze in climate talks appears to be ending as the United States and China, the world’s biggest polluters, resume discussions.  <a href="https://nyti.ms/3D279c5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>An Uneasy Quiet at NATO’s Newest Border With Russia</h3>
+<sub>By Michael Crowley</sub>
+<p>Finland’s membership in the Western military alliance has increased NATO’s borders with Russia by 830 miles — and angered Moscow.  <a href="https://nyti.ms/3O3c6HO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Weighs Giving Ukraine Weapons Banned by Many U.S. Allies</h3>
@@ -87,52 +105,34 @@ Recently, U.S. Treasury Secretary Janet Yellen visited Beijing to criticize Chin
 <sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Prigozhin Is Said to Be in Russia, as Wagner Mystery Deepens</h3>
-<sub>By Valerie Hopkins</sub>
-<p>After the mercenary boss staged a brief insurrection in Russia, the leader of Belarus said his country had taken him in, but now says the Wagner leader was in St. Petersburg and then “maybe he went to Moscow.”  <a href="https://nyti.ms/3PKGk3y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
+<h3>Donors Are War-Weary, So Ukrainian Soldiers Get Creative for Funds</h3>
+<sub>By Megan Specia and Thomas Gibbons-Neff</sub>
+<p>A robust fund-raising operation has been critical in supplying Ukraine’s military. But as the war drags on, contributions have lagged.  <a href="https://nyti.ms/3pCncua"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Penn Station Is a Perpetual Mess. Change May Be at Hand.</h3>
+<sub>By Michael Kimmelman</sub>
+<p>There may finally be hope for New York’s busiest, dreariest train hub, with a new plan to improve it, the stars aligning and the clock ticking.  <a href="https://nyti.ms/43a4c3X"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Turning New York’s Stately Public Library Into a Place ‘to Hang Out In’</h3>
+<sub>By Winnie Hu</sub>
+<p>Behind the stone lions on Fifth Avenue, the New York Public Library’s imposing Fifth Avenue branch has added a new visitor center and an expanded gift shop and cafe.  <a href="https://nyti.ms/3puQ7Ap"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>How Mistaken Identity and One Bullet Revealed a Star Predator Far From Home</h3>
+<sub>By Catrin Einhorn and Tristan Spinski</sub>
+<p>A hunter’s kill in upstate New York brought new hope, and trepidation, that wolves could slowly be making their way back to the Northeast.  <a href="https://nyti.ms/3O1HghR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>New Federal Decisions Make Alzheimer’s Drug Leqembi Widely Accessible</h3>
 <sub>By Pam Belluck</sub>
 <p>The F.D.A. gave full approval to the drug, but added a black-box warning about safety risks. Medicare said it would cover most of the high cost.  <a href="https://nyti.ms/3D4bBHs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>What to Know if You’re Considering the Alzheimer’s Drug Leqembi</h3>
-<sub>By Pam Belluck</sub>
-<p>Medicare will cover much of the cost for patients in the early stages of the disease, but Leqembi has safety risks and can only modestly slow cognitive decline.  <a href="https://nyti.ms/3XJW5K7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Heat Records Are Broken Around the Globe as Earth Warms, Fast</h3>
-<sub>By Brad Plumer and Elena Shao</sub>
-<p>From north to south, temperatures are surging as greenhouse gases trap heat in the atmosphere and combine with effects from El Niño.  <a href="https://nyti.ms/3JLmt0l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>What 120 Degrees Looks Like in One of Mexico’s Hottest Cities</h3>
-<sub>By Cesar Rodriguez and Elda Cantú</sub>
-<p>During the most recent heat wave, residents of the northern city of Hermosillo struggled to breathe in the scorching temperatures.  <a href="https://nyti.ms/438npTu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Nations Aim to Zero Out Shipping Emissions by Midcentury</h3>
-<sub>By Max Bearak</sub>
-<p>Regulators reached a provisional deal on how quickly the transition to zero-emissions fuels should happen for cargo ships, which often burn particularly dirty oil.  <a href="https://nyti.ms/46Fbwas"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>The Mayor Had a Photo of a Fallen Officer. Was His Story About It True?</h3>
-<sub>By Emma G. Fitzsimmons</sub>
-<p>Mayor Eric Adams has often talked about a wrinkled photo of a fallen police officer that he kept in his wallet. Now that photo and the story have been called into question.  <a href="https://nyti.ms/3CXWgYV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>How 2 Firefighters Died in a Blaze They Were Ill-Equipped to Face</h3>
-<sub>By Tracey Tully, Mike Ives and Elise Young</sub>
-<p>The fire broke out on a ship carrying more than 1,000 vehicles, owned by an Italian company and anchored at Port Newark.  <a href="https://nyti.ms/3rmgb0P"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
