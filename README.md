@@ -60,8 +60,27 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, July 7, Central Standard Time</p>
 <p>
-It seems like there are a lot of interesting things going on in the world right now. In the U.S. economy, unemployment is low and wages are rising, and the Federal Reserve&#39;s campaign to fight inflation may be taking hold. On the international front, there are tensions between the U.S. and China over business practices, while in Europe, Finland is increasing NATO&#39;s borders with Russia and straining relations there. On the homefront, there is a plan to remake New York’s Penn Station, while also sparking debates about preserving crime scenes of mass violence around the country. Meanwhile, scientists have spotted a wolf predator far from its natural home in Upstate New York -- offering hope and trepidation about their return to the Northeast.</p>
+There&#39;s a lot going on in the world right now.  Democrats are criticizing Joe Biden for sending cluster munitions to Ukraine, while Republicans are cheering it. Questions remain about the Wagner mercenary group and what is happening in Belarus. In Ukraine, people are asking why they are still involved in conflicts. 
+In the United states, the economy is doing relatively well despite some fears lingering, and Janet Yellen is in Beijing to bring up concerns about how US companies are being treated by China. The US is also raising pressure to combat fentanyl crisis working with China, and Austin Krajicek won the French Open after being close to giving up tennis. Closer to home, Justice Ketanji Brown Jackson has established herself on the Supreme Court quickly in her first term. Additionally, a man was sentenced for federal hate crimes for a mass shooting that happened and officials want to tear down a house related to a notorious crime scene. Lastly, six people were charged with organizing illegal donations related to NYC Mayor Eric Adam&#39;s campaign this 2021.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Democrats Denounce Biden’s Decision to Send Cluster Munitions to Ukraine</h3>
+<sub>By Karoun Demirjian</sub>
+<p>Some lawmakers questioned how the United States could maintain the moral high ground while supplying Ukraine with weapons that could harm civilians. Republicans cheered the move.  <a href="https://nyti.ms/3D3dqnT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>No Wagner Group Here: Riddles Grow as Belarus Displays an Empty Base</h3>
+<sub>By Valerie Hopkins and Nanna Heitmann</sub>
+<p>Two weeks after the Wagner mercenary group’s rebellion against Russian military leadership, its fate is as murky as ever — as is the purpose of a newly revived military base in Belarus.  <a href="https://nyti.ms/3D8uvg0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As Ukraine battles on around Bakhmut, some are asking why.</h3>
+<sub>By Cassandra Vinograd and Thomas Gibbons-Neff</sub>
+<p>  <a href="https://nyti.ms/3JN0gze"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 7, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Against the Odds, the U.S. Economy Chugs Along, as Fears Linger</h3>
 <sub>By Talmon Joseph Smith</sub>
@@ -71,7 +90,7 @@ It seems like there are a lot of interesting things going on in the world right 
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>The June Payrolls Report Probably Doesn’t Change Much for the Fed</h3>
 <sub>By Jeanna Smialek and Joe Rennison</sub>
-<p>Federal Reserve officials are still expected to raise interest rates in July after a solid jobs report that showed continued wage growth.  <a href="https://nyti.ms/3PFHAVQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Federal Reserve officials are still expected to raise interest rates in July after a solid jobs report showed continued wage growth.  <a href="https://nyti.ms/3PFHAVQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -86,26 +105,8 @@ It seems like there are a lot of interesting things going on in the world right 
 <p>The Biden administration push comes after cooperation on halting the flow of the drug into the United States was derailed by wider geopolitical tensions.  <a href="https://nyti.ms/3XK1PDU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>An Uneasy Quiet at NATO’s Newest Border With Russia</h3>
-<sub>By Michael Crowley</sub>
-<p>Finland’s membership in the Western military alliance has increased NATO’s borders with Russia by 830 miles — and angered Moscow.  <a href="https://nyti.ms/3O3c6HO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Ukraine battles on around Bakhmut, some are asking why.</h3>
-<sub>By Cassandra Vinograd and Thomas Gibbons-Neff</sub>
-<p>  <a href="https://nyti.ms/3JN0gze"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Penn Station Is a Perpetual Mess. Change May Be at Hand.</h3>
-<sub>By Michael Kimmelman</sub>
-<p>There may finally be hope for New York’s busiest, dreariest train hub, with a new plan to improve it, the stars aligning and the clock ticking.  <a href="https://nyti.ms/43a4c3X"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 7, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>He Nearly Gave Up on Tennis to Sell Insurance. Then a Friend Called.</h3>
+<h3>This French Open Champion Nearly Gave Up Tennis to Sell Insurance</h3>
 <sub>By Matthew Futterman</sub>
 <p>After years of frustration in singles, Austin Krajicek nearly quit tennis. Then an old friend asked him if he wanted to give the sport one more shot.  <a href="https://nyti.ms/3pvdSbv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 7, Central Standard Time</sub></sub>
@@ -128,10 +129,10 @@ It seems like there are a lot of interesting things going on in the world right 
 <p>The gunman had pleaded guilty to the charges in federal court. He still faces a state murder trial later this year, and Texas prosecutors said they would seek the death penalty.  <a href="https://nyti.ms/43iyr8N"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>How Mistaken Identity and One Bullet Revealed a Star Predator Far From Home</h3>
-<sub>By Catrin Einhorn and Tristan Spinski</sub>
-<p>A hunter’s kill in upstate New York brought new hope, and trepidation, that wolves could slowly be making their way back to the Northeast.  <a href="https://nyti.ms/3O1HghR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Six Charged With Organizing Illegal Donations to Adams’s 2021 Campaign</h3>
+<sub>By Dana Rubinstein and William K. Rashbaum</sub>
+<p>Prosecutors did not accuse Mayor Eric Adams of any misconduct or having knowledge of what they said was a scheme to acquire thousands of dollars in extra public matching funds.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
