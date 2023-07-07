@@ -60,42 +60,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, July 7, Central Standard Time</p>
 <p>
-There&#39;s a lot of tension between the U.S and China, with the U.S pushing for more restrictions to combat a global fentanyl crisis. The Federal Reserve raised interest rates, potentially based on the strength of the labor market. Businesses are preparing for a looming UPS strike and having to rethink their supply chains. The New York Public Library is making changes in hopes of drawing in more visitors, which could also be true for Penn Station in New York. The Biden administration is also pushing for a drug called Leqembi to become widely accessible, since it may treat Alzheimer&#39;s disease. Lastly, wolves have been spotted back in the Northeast after a hunter shot one in upstate New York, symbolizing change for wildlife conservation.</p>
+It seems like there are a lot of interesting things going on in the world right now. In the U.S. economy, unemployment is low and wages are rising, and the Federal Reserve&#39;s campaign to fight inflation may be taking hold. On the international front, there are tensions between the U.S. and China over business practices, while in Europe, Finland is increasing NATO&#39;s borders with Russia and straining relations there. On the homefront, there is a plan to remake New York’s Penn Station, while also sparking debates about preserving crime scenes of mass violence around the country. Meanwhile, scientists have spotted a wolf predator far from its natural home in Upstate New York -- offering hope and trepidation about their return to the Northeast.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The June Payrolls Report Probably Doesn’t Change Much for the Fed</h3>
-<sub>By Jeanna Smialek</sub>
-<p>How much more the Federal Reserve raises interest rates this year will hinge on the strength of the economy — particularly the labor market.  <a href="https://nyti.ms/3PFHAVQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Against the Odds, the U.S. Economy Chugs Along, as Fears Linger</h3>
+<sub>By Talmon Joseph Smith</sub>
+<p>Hiring slowed last month, a sign that the Federal Reserve’s inflation-fighting campaign is taking hold. But with rising wages and low unemployment, the labor market remains resilient.  <a href="https://nyti.ms/3pwvjbJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The ‘Great Resignation’ Is Over. Can Workers’ Power Endure?</h3>
-<sub>By Ben Casselman</sub>
-<p>The furious pace of job-switching in recent years has led to big gains for low-wage workers. But the pendulum could be swinging back toward employers.  <a href="https://nyti.ms/3CZGPPV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Looming UPS Strike Spurs Some Companies to Rethink Supply Chains</h3>
-<sub>By Jordyn Holman and J. Edward Moreno</sub>
-<p>Businesses around the country are facing what could be the latest disruption to how they get their goods to their customers in a timely and affordable fashion.  <a href="https://nyti.ms/3PM5rmJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>The June Payrolls Report Probably Doesn’t Change Much for the Fed</h3>
+<sub>By Jeanna Smialek and Joe Rennison</sub>
+<p>Federal Reserve officials are still expected to raise interest rates in July after a solid jobs report that showed continued wage growth.  <a href="https://nyti.ms/3PFHAVQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Yellen, in Beijing, Criticizes China’s Treatment of U.S. Companies</h3>
-<sub>By Alan Rappeport</sub>
-<p>Treasury Secretary Janet Yellen’s concerns reflected continuing tensions between the two countries.  <a href="https://nyti.ms/44RrFIv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub>By Alan Rappeport and Keith Bradsher</sub>
+<p>The concerns of Treasury Secretary Janet Yellen reflect continuing tensions between the two countries.  <a href="https://nyti.ms/44RrFIv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>U.S. Raises Pressure on China to Combat Global Fentanyl Crisis</h3>
 <sub>By David Pierson, Edward Wong and Olivia Wang</sub>
 <p>The Biden administration push comes after cooperation on halting the flow of the drug into the United States was derailed by wider geopolitical tensions.  <a href="https://nyti.ms/3XK1PDU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Contentious U.S.-China Relationship, by the Numbers</h3>
-<sub>By Ana Swanson</sub>
-<p>From movie theaters to military spending, here’s how one of the world’s most important economic relationships stacks up.  <a href="https://nyti.ms/3PTzOrg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -105,9 +93,9 @@ There&#39;s a lot of tension between the U.S and China, with the U.S pushing for
 <sub><sub>Friday, July 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Donors Are War-Weary, So Ukrainian Soldiers Get Creative for Funds</h3>
-<sub>By Megan Specia and Thomas Gibbons-Neff</sub>
-<p>A robust fund-raising operation has been critical in supplying Ukraine’s military. But as the war drags on, contributions have lagged.  <a href="https://nyti.ms/3pCncua"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>As Ukraine battles on around Bakhmut, some are asking why.</h3>
+<sub>By Cassandra Vinograd and Thomas Gibbons-Neff</sub>
+<p>  <a href="https://nyti.ms/3JN0gze"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
@@ -116,10 +104,28 @@ There&#39;s a lot of tension between the U.S and China, with the U.S pushing for
 <p>There may finally be hope for New York’s busiest, dreariest train hub, with a new plan to improve it, the stars aligning and the clock ticking.  <a href="https://nyti.ms/43a4c3X"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Turning New York’s Stately Public Library Into a Place ‘to Hang Out In’</h3>
-<sub>By Winnie Hu</sub>
-<p>Behind the stone lions on Fifth Avenue, the New York Public Library’s imposing Fifth Avenue branch has added a new visitor center and an expanded gift shop and cafe.  <a href="https://nyti.ms/3puQ7Ap"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>He Nearly Gave Up on Tennis to Sell Insurance. Then a Friend Called.</h3>
+<sub>By Matthew Futterman</sub>
+<p>After years of frustration in singles, Austin Krajicek nearly quit tennis. Then an old friend asked him if he wanted to give the sport one more shot.  <a href="https://nyti.ms/3pvdSbv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Should a Notorious Crime Scene Be Demolished Before Trial?</h3>
+<sub>By Mike Baker and Nicholas Bogel-Burroughs</sub>
+<p>Officials want to tear down the house where four Idaho college students were murdered last year, setting off a debate over preserving the scenes of mass violence.  <a href="https://nyti.ms/3pERKeK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Her First Term, Justice Ketanji Brown Jackson ‘Came to Play’</h3>
+<sub>By Adam Liptak</sub>
+<p>The first Black female member of the Supreme Court wasted no time in finding her footing, asserting herself in dissents, alliances and questions from the bench.  <a href="https://nyti.ms/3XFmb10"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Gunman in El Paso Mass Shooting Sentenced for Federal Hate Crimes</h3>
+<sub>By Edgar Sandoval</sub>
+<p>The gunman had pleaded guilty to the charges in federal court. He still faces a state murder trial later this year, and Texas prosecutors said they would seek the death penalty.  <a href="https://nyti.ms/43iyr8N"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
@@ -127,12 +133,6 @@ There&#39;s a lot of tension between the U.S and China, with the U.S pushing for
 <sub>By Catrin Einhorn and Tristan Spinski</sub>
 <p>A hunter’s kill in upstate New York brought new hope, and trepidation, that wolves could slowly be making their way back to the Northeast.  <a href="https://nyti.ms/3O1HghR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>New Federal Decisions Make Alzheimer’s Drug Leqembi Widely Accessible</h3>
-<sub>By Pam Belluck</sub>
-<p>The F.D.A. gave full approval to the drug, but added a black-box warning about safety risks. Medicare said it would cover most of the high cost.  <a href="https://nyti.ms/3D4bBHs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
