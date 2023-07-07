@@ -60,18 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, July 7, Central Standard Time</p>
 <p>
-Recently, the Federal Reserve is closely watching the June jobs report to decide how to adjust interest rates. Economists are expecting 225,000 new jobs in June. Treasury Secretary Janet Yellen criticized China&#39;s treatment of US companies while the Biden Administration is placing pressure on China to reduce the global fentanyl crisis. Meanwhile in the US, Biden is considering giving weapons, including cluster munitions, to Ukraine and their military is having difficulty raising funds due to the war dragging on. Here in NY, Penn Station looks to be improving and the iconic New York Public Library has added a visitor center and a gift shop and cafe. And finally, there may be hope for predators like wolves appearing in the Northeast as one was killed in upstate NY. There&#39;s also some good news for those dealing with Alzheimer&#39;s as a new drug has become widely accessible through government decisions.</p>
+There&#39;s a lot of tension between the U.S and China, with the U.S pushing for more restrictions to combat a global fentanyl crisis. The Federal Reserve raised interest rates, potentially based on the strength of the labor market. Businesses are preparing for a looming UPS strike and having to rethink their supply chains. The New York Public Library is making changes in hopes of drawing in more visitors, which could also be true for Penn Station in New York. The Biden administration is also pushing for a drug called Leqembi to become widely accessible, since it may treat Alzheimer&#39;s disease. Lastly, wolves have been spotted back in the Northeast after a hunter shot one in upstate New York, symbolizing change for wildlife conservation.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Fed Watchers to Parse June Jobs Report Closely</h3>
+<h3>The June Payrolls Report Probably Doesn’t Change Much for the Fed</h3>
 <sub>By Jeanna Smialek</sub>
-<p>How much more the Federal Reserve raises interest rates this year will hinge on the strength of the economy — particularly the labor market.  <a href="https://nyti.ms/3rkDUic"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>How much more the Federal Reserve raises interest rates this year will hinge on the strength of the economy — particularly the labor market.  <a href="https://nyti.ms/3PFHAVQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Why a Strong Jobs Report Could Rattle the Markets</h3>
-<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
-<p>Economists have forecast that employers created 225,000 jobs last month. A bigger-than-expected number could complicate the Federal Reserve’s efforts to tame inflation.  <a href="https://nyti.ms/3JOaoHN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>The ‘Great Resignation’ Is Over. Can Workers’ Power Endure?</h3>
+<sub>By Ben Casselman</sub>
+<p>The furious pace of job-switching in recent years has led to big gains for low-wage workers. But the pendulum could be swinging back toward employers.  <a href="https://nyti.ms/3CZGPPV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Looming UPS Strike Spurs Some Companies to Rethink Supply Chains</h3>
+<sub>By Jordyn Holman and J. Edward Moreno</sub>
+<p>Businesses around the country are facing what could be the latest disruption to how they get their goods to their customers in a timely and affordable fashion.  <a href="https://nyti.ms/3PM5rmJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -97,12 +103,6 @@ Recently, the Federal Reserve is closely watching the June jobs report to decide
 <sub>By Michael Crowley</sub>
 <p>Finland’s membership in the Western military alliance has increased NATO’s borders with Russia by 830 miles — and angered Moscow.  <a href="https://nyti.ms/3O3c6HO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Weighs Giving Ukraine Weapons Banned by Many U.S. Allies</h3>
-<sub>By David E. Sanger and Eric Schmitt</sub>
-<p>Ukraine is seeking cluster munitions, which are known to cause grievous injuries to civilians, as its ammunition supply runs low.  <a href="https://nyti.ms/44CJvyN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Donors Are War-Weary, So Ukrainian Soldiers Get Creative for Funds</h3>
