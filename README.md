@@ -58,9 +58,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Friday, July 7, Central Standard Time</p>
+<p>It is Saturday, July 8, Central Standard Time</p>
 <p>
-In terms of the world, it seems like different nations are communicating with each other a lot. The US and China are restarting climate negotiations while the US is sending cluster munitions to Ukraine in an effort to fight the Russian presence. Meanwhile, the Dutch government is collapsing over its attempt to restrict immigration into the country. On a lighter note, there&#39;s an inspiring story about a French Open champion who was able to make a comeback after nearly giving up tennis, and on the Supreme Court Justice Ketanji Brown Jackson is proving to be a force not to be reckoned with! Finally There&#39;s been some controversial activity as former president Donald Trump asked about having the IRS investigate two FBI officials and discussions are arising about whether or not an infamous crime scene should be demolished before trial.</p>
+In the US, President Biden has made a difficult decision to send cluster munitions to Ukraine. There is also an ongoing IRS inquiry into two FBI officials. In Idaho, there is a debate over whether or not to demolish the site of a notorious crime scene before the trial. Meanwhile, a Supreme Court justice appointed by Biden recently joined and has quickly found her footing. 
+
+In the business world, Janet Yellen has urged China to step up its climate change investments, while chipmakers are finding it increasingly more difficult to operate in the country. The Guardian in the U.K. has also recently apologized and reflected on its ties to slavery and the slave trade. Finally, there are some puzzling questions involving the Belarusian military and a mercenary group involved in a rebellion against Russian military leadership.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Yellen Urges China to Step Up Climate Finance Investments</h3>
@@ -68,11 +70,11 @@ In terms of the world, it seems like different nations are communicating with ea
 <p>Janet Yellen, the Treasury secretary, said China, the largest emitter of greenhouse gases, can have “greater impact” tackling climate change by working with other nations.  <a href="https://nyti.ms/44aAvAW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>John Kerry to Visit China to Restart Climate Negotiations</h3>
-<sub>By Lisa Friedman</sub>
-<p>A yearlong freeze in climate talks appears to be ending as the United States and China, the world’s biggest polluters, resume discussions.  <a href="https://nyti.ms/3D279c5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>One Reason the U.S. Can’t Quit China? Chips.</h3>
+<sub>By Ana Swanson</sub>
+<p>Chipmakers are finding it increasingly hard to operate in China but say doing business in the country is still key to their survival.  <a href="https://nyti.ms/44AJACV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Defends ‘Difficult’ Decision to Send Cluster Munitions to Ukraine</h3>
@@ -98,16 +100,16 @@ In terms of the world, it seems like different nations are communicating with ea
 <p>The Biden administration and the family of the Wall Street Journal reporter take note of his reaching 100 days in jail.  <a href="https://nyti.ms/44BQqYK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>This French Open Champion Nearly Gave Up Tennis to Sell Insurance</h3>
-<sub>By Matthew Futterman</sub>
-<p>After years of frustration in singles, Austin Krajicek nearly quit tennis. Then an old friend asked him if he wanted to give the sport one more shot.  <a href="https://nyti.ms/3pvdSbv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 7, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Dutch Government Collapses Over Plan to Further Limit Immigration</h3>
 <sub>By Claire Moses and Dan Bilefsky</sub>
 <p>Prime Minister Mark Rutte, one of Europe’s longest-serving leaders, had struggled to reach an agreement with his coalition partners about migration, including more restrictions.  <a href="https://nyti.ms/3JMvSF4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>A Top U.K. Newspaper Explores Its Ties to Slavery, and Britain’s</h3>
+<sub>By David Segal</sub>
+<p>In a multimedia series, The Guardian becomes the latest British institution to confront — and apologize for — its role in the slave trade.  <a href="https://nyti.ms/44r8Prk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
