@@ -60,12 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, July 8, Central Standard Time</p>
 <p>
-Lots of news coming out of Europe recently, especially about migration policies and some right-wing parties gaining power. It&#39;s also been a busy week for news coming out of Ukraine as the war enters its 500th day—there have been reports of Russian shelling and Ukrainian defiance of the occupation. Closer to home, the Supreme Court just made a ruling on affirmative action in college admissions, so it&#39;s important to understand the ramifications for those seeking higher education. On the business side, China has come under the spotlight with both Janet Yellen encouraging investments in climate finance and reports about a growing debt bomb in the country. </p>
+There are a lot of interesting developments happening in the world. In Europe, the Dutch government collapsed because members of their coalition couldn&#39;t agree on how to handle refugees and migration. Meanwhile, there are fears that far-right parties will take power in Spain. In Ukraine, they&#39;re facing off against Russia in a conflict that&#39;s lasted 500 days so far. Closer to home, Asian Americans in the US wonder what comes next after the Supreme Court ruled against affirmative action in college admissions. Also related to the US, Edward Blum succeeded in overturning affirmative action policies and now people worry if he&#39;ll turn his attention to other areas like employment. Finally, Treasury Secretary Janet Yellen has urged China to increase investments in climate finance while also investigating China&#39;s increasing debt crisis.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Collapse of Dutch Government Highlights Europe’s New Migration Politics</h3>
 <sub>By Matina Stevis-Gridneff and Claire Moses</sub>
 <p>Prime Minister Mark Rutte resigned after his coalition partners rejected his tough new line on refugees, favoring his own political future, critics say, over compromise.  <a href="https://nyti.ms/3NLBpNq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>What You Need to Know About the Dutch Government Collapse</h3>
+<sub>By Claire Moses</sub>
+<p>The coalition parties couldn’t come to an agreement on the country’s migration policy. What were they fighting over and what comes next?  <a href="https://nyti.ms/3PJHUD3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -126,12 +132,6 @@ Lots of news coming out of Europe recently, especially about migration policies 
 <h3>He Worked for Years to Overturn Affirmative Action and Finally Won. He’s Not Done.</h3>
 <sub>By Lulu Garcia-Navarro</sub>
 <p>Edward Blum’s latest victory at the Supreme Court is the culmination of a long fight to take race out of college admissions. Is the workplace next?  <a href="https://nyti.ms/44fFH6G"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>After Supreme Court Rulings, Answering Reader Questions About Paying for College</h3>
-<sub>By Ron Lieber and Tara Siegel Bernard</sub>
-<p>Responses to queries about financial aid, 529 plans, need-blind schools and more.  <a href="https://nyti.ms/3NImd3t"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 8, Central Standard Time</sub></sub>
 <hr/>
 </ol>
