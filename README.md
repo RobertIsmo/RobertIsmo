@@ -60,8 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, July 7, Central Standard Time</p>
 <p>
-The world is experiencing a lot of political and economic developments. In the US, President Biden recently sent cluster munitions to Ukraine to help fight against Russian-backed separatists. Meanwhile, Treasury Secretary Janet Yellen has criticized China’s treatment of US companies during her visit to Beijing. In Europe, the Dutch government collapsed over a plan to further limit immigration, and in the US former President Trump has been accused of trying to have the IRS investigate FBI officials. In Idaho, there’s a debate over whether or not to demolish the house where four college students were murdered last year. And in New York City, six people have been charged with organizing illegal donations to Mayor Eric Adams’ 2021 campaign.</p>
+In terms of the world, it seems like different nations are communicating with each other a lot. The US and China are restarting climate negotiations while the US is sending cluster munitions to Ukraine in an effort to fight the Russian presence. Meanwhile, the Dutch government is collapsing over its attempt to restrict immigration into the country. On a lighter note, there&#39;s an inspiring story about a French Open champion who was able to make a comeback after nearly giving up tennis, and on the Supreme Court Justice Ketanji Brown Jackson is proving to be a force not to be reckoned with! Finally There&#39;s been some controversial activity as former president Donald Trump asked about having the IRS investigate two FBI officials and discussions are arising about whether or not an infamous crime scene should be demolished before trial.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Yellen Urges China to Step Up Climate Finance Investments</h3>
+<sub>By Alan Rappeport, Lisa Friedman and Keith Bradsher</sub>
+<p>Janet Yellen, the Treasury secretary, said China, the largest emitter of greenhouse gases, can have “greater impact” tackling climate change by working with other nations.  <a href="https://nyti.ms/44aAvAW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>John Kerry to Visit China to Restart Climate Negotiations</h3>
+<sub>By Lisa Friedman</sub>
+<p>A yearlong freeze in climate talks appears to be ending as the United States and China, the world’s biggest polluters, resume discussions.  <a href="https://nyti.ms/3D279c5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 6, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Defends ‘Difficult’ Decision to Send Cluster Munitions to Ukraine</h3>
 <sub>By Katie Rogers and Eric Schmitt</sub>
@@ -80,10 +92,10 @@ The world is experiencing a lot of political and economic developments. In the U
 <p>Two weeks after the Wagner mercenary group’s rebellion against Russian military leadership, its fate is as murky as ever — as is the purpose of a newly revived military base in Belarus.  <a href="https://nyti.ms/3D8uvg0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Yellen, in Beijing, Criticizes China’s Treatment of U.S. Companies</h3>
-<sub>By Alan Rappeport and Keith Bradsher</sub>
-<p>The concerns of Treasury Secretary Janet Yellen reflect continuing tensions between the two countries.  <a href="https://nyti.ms/44RrFIv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>U.S. confirms talks with Russia on prisoner swap for Evan Gershkovich, but tempers expectations.</h3>
+<sub>By Anushka Patil</sub>
+<p>The Biden administration and the family of the Wall Street Journal reporter take note of his reaching 100 days in jail.  <a href="https://nyti.ms/44BQqYK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
@@ -120,18 +132,6 @@ The world is experiencing a lot of political and economic developments. In the U
 <h3>Ramaswamy Investments Seem at Odds With His Position on ‘Woke’ Culture</h3>
 <sub>By Trip Gabriel</sub>
 <p>The billionaire biotech mogul has railed against socially conscious companies. But his financial disclosure shows he has a stake in some of the leaders in the field.  <a href="https://nyti.ms/44fT4Uu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Ag-Friendly Iowa, Trump Goes After DeSantis on Farming Issues</h3>
-<sub>By Lisa Lerer</sub>
-<p>At a rally in Iowa on Friday, the former president questioned his top Republican rival’s support for the agriculture industry.  <a href="https://nyti.ms/3JM0dUh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Six Charged With Organizing Illegal Donations to Adams’s 2021 Campaign</h3>
-<sub>By Dana Rubinstein, William K. Rashbaum and Susan C. Beachy</sub>
-<p>One defendant knew Mayor Eric Adams when they were police officers. Prosecutors did not accuse the mayor of knowing about what they called a scheme to acquire thousands of dollars in extra public matching funds.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
