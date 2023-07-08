@@ -60,16 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, July 8, Central Standard Time</p>
 <p>
-There are a lot of big news stories happening in the world right now. The US Treasury Secretary Janet Yellen recently urged China, the world&#39;s largest emitter of greenhouse gases, to step up their efforts to tackle climate change. Also, there is an increasing number of mounting debts owed by local governments, financial affiliates, and real estate developers within China. The stakes are even higher abroad with chipmakers struggling to operate in the country while US-China relations remain tense. 
-
-Meanwhile, in Ukraine, Bucha has undergone a major transformation after being taken back from Russian troops; however pain still lingers behind the facade as acknowledged by President Volodymyr Zelensky when the war between the two countries reached its 500th day with another outburst of shelling that killed at least eight people. 
-
-To counter this threat of Russia, the US is planning on sending cluster weapons to Ukraine – however, a recent analysis found 14% failure rate among some of these grenades. 
-
-Back in Europe, there has been a major shift in British government with prime minister Mark Rutte’s resignation from Dutch government following inability to agree on further limits for immigration.
-
-Also alarming is the situation in US – rising temperatures are increasingly posing threats to older Americans and may last for several more weeks.</p>
+Lots of news coming out of Europe recently, especially about migration policies and some right-wing parties gaining power. It&#39;s also been a busy week for news coming out of Ukraine as the war enters its 500th day—there have been reports of Russian shelling and Ukrainian defiance of the occupation. Closer to home, the Supreme Court just made a ruling on affirmative action in college admissions, so it&#39;s important to understand the ramifications for those seeking higher education. On the business side, China has come under the spotlight with both Janet Yellen encouraging investments in climate finance and reports about a growing debt bomb in the country. </p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Collapse of Dutch Government Highlights Europe’s New Migration Politics</h3>
+<sub>By Matina Stevis-Gridneff and Claire Moses</sub>
+<p>Prime Minister Mark Rutte resigned after his coalition partners rejected his tough new line on refugees, favoring his own political future, critics say, over compromise.  <a href="https://nyti.ms/3NLBpNq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Far-Right Parties Are Rising to Power Around Europe. Is Spain Next?</h3>
+<sub>By Jason Horowitz</sub>
+<p>As Spain prepares for elections, some liberal European politicians fear that the hard-right Vox party could become the first right-wing party since the Franco era to enter Spain’s national government.  <a href="https://nyti.ms/3NFisMh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 8, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Yellen Urges China to Step Up Climate Finance Investments</h3>
 <sub>By Alan Rappeport, Lisa Friedman and Keith Bradsher</sub>
@@ -82,10 +86,10 @@ Also alarming is the situation in US – rising temperatures are increasingly po
 <p>A major lender abroad, China is facing a debt bomb at home: trillions of dollars owed by local governments, their financial affiliates, and real estate developers.  <a href="https://nyti.ms/44rgPbQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>One Reason the U.S. Can’t Quit China? Chips.</h3>
-<sub>By Ana Swanson</sub>
-<p>Chipmakers are finding it increasingly hard to operate in China but say doing business in the country is still key to their survival.  <a href="https://nyti.ms/44AJACV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Ukraine, They’re Doctors; in Britain, They’re Unemployed</h3>
+<sub>By Euan Ward</sub>
+<p>Often jobless or languishing in low-skilled posts, doctors who fled Russia’s invasion are forced to confront a difficult dilemma: see their skills go unused, or return to a country at war.  <a href="https://nyti.ms/3JNDx5W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -97,20 +101,14 @@ Also alarming is the situation in US – rising temperatures are increasingly po
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>On Ukraine War’s 500th Day, Russia Strikes and Zelensky Shows Defiance</h3>
 <sub>By Cassandra Vinograd, Thomas Gibbons-Neff and Natalia Yermak</sub>
-<p>President Volodymyr Zelensky of Ukraine shared a video of a trip to Snake Island, a symbol of his country’s fierce resistance, as Russian shelling in the east killed at least eight.  <a href="https://nyti.ms/3NIBSQv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>President Volodymyr Zelensky of Ukraine shared a video of a trip to Snake Island in the Black Sea, a symbol of his country’s fierce resistance, as Russian shelling in the east killed at least seven.  <a href="https://nyti.ms/3NIBSQv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Cluster Weapons U.S. Is Sending Ukraine Often Fail to Detonate</h3>
-<sub>By John Ismay</sub>
-<p>The Pentagon’s statements indicate that the cluster munitions that will be sent to Ukraine contain older grenades known to have a failure rate of 14 percent or more.  <a href="https://nyti.ms/3NI6oK7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>A Top U.K. Newspaper Explores Its Ties to Slavery, and Britain’s</h3>
-<sub>By David Segal</sub>
-<p>In a multimedia series, The Guardian becomes the latest British institution to confront — and apologize for — its role in the slave trade.  <a href="https://nyti.ms/44r8Prk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 7, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>With War as a Backdrop, a Russian Fencing Drama Plays Out in the U.S.</h3>
+<sub>By Jeré Longman</sub>
+<p>The departure of Russian fencers who object to their country’s invasion of Ukraine has created a stir at home and left their sporting futures in question.  <a href="https://nyti.ms/44eDEQp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>The End of the Magic World’s 50-Year Grudge</h3>
@@ -118,29 +116,23 @@ Also alarming is the situation in US – rising temperatures are increasingly po
 <p>In 1973, Uri Geller claimed to bend metal with his mind on live television. Skeptics couldn’t beat him. Now they’ve joined him.  <a href="https://nyti.ms/44CfgaT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Dutch Government Collapses Over Plan to Further Limit Immigration</h3>
-<sub>By Claire Moses and Dan Bilefsky</sub>
-<p>Prime Minister Mark Rutte, one of Europe’s longest-serving leaders, had struggled to reach an agreement with his coalition partners about migration, including more restrictions.  <a href="https://nyti.ms/3JMvSF4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Drowning Is No. 1 Killer of Young Children. U.S. Efforts to Fix It Are Lagging.</h3>
-<sub>By Emily Baumgaertner</sub>
-<p>Thirty years of progress in decreasing drowning deaths in the United States appears to have plateaued, and disparities in deaths among some racial groups have worsened.  <a href="https://nyti.ms/3rf7AwZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>After the Affirmative Action Ruling, Asian Americans Ask What Happens Next</h3>
+<sub>By Anemona Hartocollis</sub>
+<p>No matter their views of race-conscious admissions, students were wary of the college application process — and some thought little would change.  <a href="https://nyti.ms/46GGak0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Rising Temperatures Threaten More Than Misery for Oldest Americans</h3>
-<sub>By Shannon Sims and Rick Rojas</sub>
-<p>A wave of extreme heat has posed particular perils for older people, who are uniquely susceptible to such conditions.  <a href="https://nyti.ms/44dGbdn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>He Worked for Years to Overturn Affirmative Action and Finally Won. He’s Not Done.</h3>
+<sub>By Lulu Garcia-Navarro</sub>
+<p>Edward Blum’s latest victory at the Supreme Court is the culmination of a long fight to take race out of college admissions. Is the workplace next?  <a href="https://nyti.ms/44fFH6G"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Heat Is Likely to Get Worse Next Week</h3>
-<sub>By Judson Jones</sub>
-<p>Forecasters say dangerous heat is expected to return across the South. It could last another two weeks, and possibly longer.  <a href="https://nyti.ms/3XFzkH8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 7, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>After Supreme Court Rulings, Answering Reader Questions About Paying for College</h3>
+<sub>By Ron Lieber and Tara Siegel Bernard</sub>
+<p>Responses to queries about financial aid, 529 plans, need-blind schools and more.  <a href="https://nyti.ms/3NImd3t"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 8, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
