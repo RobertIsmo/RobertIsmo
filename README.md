@@ -60,13 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, July 7, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now.  Democrats are criticizing Joe Biden for sending cluster munitions to Ukraine, while Republicans are cheering it. Questions remain about the Wagner mercenary group and what is happening in Belarus. In Ukraine, people are asking why they are still involved in conflicts. 
-In the United states, the economy is doing relatively well despite some fears lingering, and Janet Yellen is in Beijing to bring up concerns about how US companies are being treated by China. The US is also raising pressure to combat fentanyl crisis working with China, and Austin Krajicek won the French Open after being close to giving up tennis. Closer to home, Justice Ketanji Brown Jackson has established herself on the Supreme Court quickly in her first term. Additionally, a man was sentenced for federal hate crimes for a mass shooting that happened and officials want to tear down a house related to a notorious crime scene. Lastly, six people were charged with organizing illegal donations related to NYC Mayor Eric Adam&#39;s campaign this 2021.</p>
+The world is experiencing a lot of political and economic developments. In the US, President Biden recently sent cluster munitions to Ukraine to help fight against Russian-backed separatists. Meanwhile, Treasury Secretary Janet Yellen has criticized China’s treatment of US companies during her visit to Beijing. In Europe, the Dutch government collapsed over a plan to further limit immigration, and in the US former President Trump has been accused of trying to have the IRS investigate FBI officials. In Idaho, there’s a debate over whether or not to demolish the house where four college students were murdered last year. And in New York City, six people have been charged with organizing illegal donations to Mayor Eric Adams’ 2021 campaign.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Democrats Denounce Biden’s Decision to Send Cluster Munitions to Ukraine</h3>
-<sub>By Karoun Demirjian</sub>
-<p>Some lawmakers questioned how the United States could maintain the moral high ground while supplying Ukraine with weapons that could harm civilians. Republicans cheered the move.  <a href="https://nyti.ms/3D3dqnT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Defends ‘Difficult’ Decision to Send Cluster Munitions to Ukraine</h3>
+<sub>By Katie Rogers and Eric Schmitt</sub>
+<p>With Ukraine burning through stockpiles of conventional artillery, President Biden concluded that he had little choice but to provide the weapons.  <a href="https://nyti.ms/46BeBZk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Cluster Weapons U.S. Is Sending Ukraine Often Fail to Detonate</h3>
+<sub>By John Ismay</sub>
+<p>The Pentagon’s statements indicate that the cluster munitions that will be sent to Ukraine contain older grenades known to have a failure rate of 14 percent or more.  <a href="https://nyti.ms/3NI6oK7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -75,40 +80,28 @@ In the United states, the economy is doing relatively well despite some fears li
 <p>Two weeks after the Wagner mercenary group’s rebellion against Russian military leadership, its fate is as murky as ever — as is the purpose of a newly revived military base in Belarus.  <a href="https://nyti.ms/3D8uvg0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Ukraine battles on around Bakhmut, some are asking why.</h3>
-<sub>By Cassandra Vinograd and Thomas Gibbons-Neff</sub>
-<p>  <a href="https://nyti.ms/3JN0gze"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Against the Odds, the U.S. Economy Chugs Along, as Fears Linger</h3>
-<sub>By Talmon Joseph Smith</sub>
-<p>Hiring slowed last month, a sign that the Federal Reserve’s inflation-fighting campaign is taking hold. But with rising wages and low unemployment, the labor market remains resilient.  <a href="https://nyti.ms/3pwvjbJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The June Payrolls Report Probably Doesn’t Change Much for the Fed</h3>
-<sub>By Jeanna Smialek and Joe Rennison</sub>
-<p>Federal Reserve officials are still expected to raise interest rates in July after a solid jobs report showed continued wage growth.  <a href="https://nyti.ms/3PFHAVQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 7, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Yellen, in Beijing, Criticizes China’s Treatment of U.S. Companies</h3>
 <sub>By Alan Rappeport and Keith Bradsher</sub>
 <p>The concerns of Treasury Secretary Janet Yellen reflect continuing tensions between the two countries.  <a href="https://nyti.ms/44RrFIv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>U.S. Raises Pressure on China to Combat Global Fentanyl Crisis</h3>
-<sub>By David Pierson, Edward Wong and Olivia Wang</sub>
-<p>The Biden administration push comes after cooperation on halting the flow of the drug into the United States was derailed by wider geopolitical tensions.  <a href="https://nyti.ms/3XK1PDU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 7, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>This French Open Champion Nearly Gave Up Tennis to Sell Insurance</h3>
 <sub>By Matthew Futterman</sub>
 <p>After years of frustration in singles, Austin Krajicek nearly quit tennis. Then an old friend asked him if he wanted to give the sport one more shot.  <a href="https://nyti.ms/3pvdSbv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Dutch Government Collapses Over Plan to Further Limit Immigration</h3>
+<sub>By Claire Moses and Dan Bilefsky</sub>
+<p>Prime Minister Mark Rutte, one of Europe’s longest-serving leaders, had struggled to reach an agreement with his coalition partners about migration, including more restrictions.  <a href="https://nyti.ms/3JMvSF4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Asked About I.R.S. Inquiry of F.B.I. Officials, Ex-Aide Says Under Oath</h3>
+<sub>By Michael S. Schmidt</sub>
+<p>In a court filing, John Kelly, who was a chief of staff under Donald Trump, said the former president had asked about having the tax agency look into Peter Strzok and Lisa Page.  <a href="https://nyti.ms/3O3f3rT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -124,15 +117,21 @@ In the United states, the economy is doing relatively well despite some fears li
 <sub><sub>Friday, July 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Gunman in El Paso Mass Shooting Sentenced for Federal Hate Crimes</h3>
-<sub>By Edgar Sandoval</sub>
-<p>The gunman had pleaded guilty to the charges in federal court. He still faces a state murder trial later this year, and Texas prosecutors said they would seek the death penalty.  <a href="https://nyti.ms/43iyr8N"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Ramaswamy Investments Seem at Odds With His Position on ‘Woke’ Culture</h3>
+<sub>By Trip Gabriel</sub>
+<p>The billionaire biotech mogul has railed against socially conscious companies. But his financial disclosure shows he has a stake in some of the leaders in the field.  <a href="https://nyti.ms/44fT4Uu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Ag-Friendly Iowa, Trump Goes After DeSantis on Farming Issues</h3>
+<sub>By Lisa Lerer</sub>
+<p>At a rally in Iowa on Friday, the former president questioned his top Republican rival’s support for the agriculture industry.  <a href="https://nyti.ms/3JM0dUh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Six Charged With Organizing Illegal Donations to Adams’s 2021 Campaign</h3>
-<sub>By Dana Rubinstein and William K. Rashbaum</sub>
-<p>Prosecutors did not accuse Mayor Eric Adams of any misconduct or having knowledge of what they said was a scheme to acquire thousands of dollars in extra public matching funds.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub>By Dana Rubinstein, William K. Rashbaum and Susan C. Beachy</sub>
+<p>One defendant knew Mayor Eric Adams when they were police officers. Prosecutors did not accuse the mayor of knowing about what they called a scheme to acquire thousands of dollars in extra public matching funds.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
