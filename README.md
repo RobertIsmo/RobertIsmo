@@ -60,7 +60,15 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, July 8, Central Standard Time</p>
 <p>
-Right now, the world is facing a range of political and economic issues.  Treasury Secretary Janet Yellen is pushing for China to increase investment in climate finance, as the country is the largest greenhouse gas emitter. China itself is dealing with high levels of debt from local governments, real estate developers, and financial affiliates.  In addition, US-China trade relations are tense because many chip makers have difficulty operating in China but need to be in the country due to market importance. Ukraine is also facing a conflict with Russian forces, which escalated recently after 500 days of conflict. On top of this, there are social issues; The Guardian has just issued an apology to those affected by slavery and Britain’s role in the slave trade, and the US government is sending cluster weapons with a high failure rate to Ukraine. The Supreme Court recently passed a bill removing Affirmative Action from college admissions, which will profoundly affect future applicants. Finally, drowning deaths among young children have plateaued globally and there are worrying racial disparities across the US that need to be addressed.</p>
+There are a lot of big news stories happening in the world right now. The US Treasury Secretary Janet Yellen recently urged China, the world&#39;s largest emitter of greenhouse gases, to step up their efforts to tackle climate change. Also, there is an increasing number of mounting debts owed by local governments, financial affiliates, and real estate developers within China. The stakes are even higher abroad with chipmakers struggling to operate in the country while US-China relations remain tense. 
+
+Meanwhile, in Ukraine, Bucha has undergone a major transformation after being taken back from Russian troops; however pain still lingers behind the facade as acknowledged by President Volodymyr Zelensky when the war between the two countries reached its 500th day with another outburst of shelling that killed at least eight people. 
+
+To counter this threat of Russia, the US is planning on sending cluster weapons to Ukraine – however, a recent analysis found 14% failure rate among some of these grenades. 
+
+Back in Europe, there has been a major shift in British government with prime minister Mark Rutte’s resignation from Dutch government following inability to agree on further limits for immigration.
+
+Also alarming is the situation in US – rising temperatures are increasingly posing threats to older Americans and may last for several more weeks.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Yellen Urges China to Step Up Climate Finance Investments</h3>
@@ -87,9 +95,9 @@ Right now, the world is facing a range of political and economic issues.  Treasu
 <sub><sub>Saturday, July 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>On Ukraine War’s 500th Day, Zelensky Shows Defiance and Russia Strikes</h3>
-<sub>By Cassandra Vinograd</sub>
-<p>President Volodymyr Zelensky of Ukraine shared a video of himself visiting Snake Island, which has become a symbol of his country’s fight, as a Russian strike in the east killed at least eight.  <a href="https://nyti.ms/3NIBSQv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>On Ukraine War’s 500th Day, Russia Strikes and Zelensky Shows Defiance</h3>
+<sub>By Cassandra Vinograd, Thomas Gibbons-Neff and Natalia Yermak</sub>
+<p>President Volodymyr Zelensky of Ukraine shared a video of a trip to Snake Island, a symbol of his country’s fierce resistance, as Russian shelling in the east killed at least eight.  <a href="https://nyti.ms/3NIBSQv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -123,16 +131,16 @@ Right now, the world is facing a range of political and economic issues.  Treasu
 <sub><sub>Saturday, July 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>He Worked for Years to Overturn Affirmative Action and Finally Won. He’s Not Done.</h3>
-<sub>By Lulu Garcia-Navarro</sub>
-<p>Edward Blum’s latest victory at the Supreme Court is the culmination of a long fight to take race out of college admissions. Is the workplace next?  <a href="https://nyti.ms/44fFH6G"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Rising Temperatures Threaten More Than Misery for Oldest Americans</h3>
+<sub>By Shannon Sims and Rick Rojas</sub>
+<p>A wave of extreme heat has posed particular perils for older people, who are uniquely susceptible to such conditions.  <a href="https://nyti.ms/44dGbdn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What to Know About College Admissions Now That Affirmative Action Is Gone</h3>
-<sub>By Stephanie Saul and Anemona Hartocollis</sub>
-<p>Do extracurriculars help? How about being a guy? Getting into selective schools this year will look different. Here are a few answers to questions from readers.  <a href="https://nyti.ms/3JJ9zQM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 8, Central Standard Time</sub></sub>
+<h3>The Heat Is Likely to Get Worse Next Week</h3>
+<sub>By Judson Jones</sub>
+<p>Forecasters say dangerous heat is expected to return across the South. It could last another two weeks, and possibly longer.  <a href="https://nyti.ms/3XFzkH8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
