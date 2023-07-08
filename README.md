@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, July 8, Central Standard Time</p>
 <p>
-Right now, there&#39;s a lot happening around the world. Treasury Secretary Janet Yellen is encouraging China to take steps towards tackling climate change, while chipmakers are finding it harder to do business in the country. President Biden has recently come under criticism about his decision to send cluster munitions to Ukraine — weapons that have a high potential failure rate. Meanwhile, Belarus is heading into murky waters after a rebellion by mercenaries and the Dutch government has collapsed over issues of immigration. In the UK, The Guardian has been examining its own ties to the slave trade. In the US, former President Trump has been linked to an IRS inquiry into FBI agents and there&#39;s debate about whether or not the house associated with a notorious crime should be demolished before trial. Lastly, Justice Ketanji Brown Jackson is quickly finding her footing as the first Black female member of the Supreme Court, but there are questions about billionaire biotech mogul Ramaswamy&#39;s investments and their potential conflict with his stance on &#39;woke&#39; companies.</p>
+Right now, the world is facing a range of political and economic issues.  Treasury Secretary Janet Yellen is pushing for China to increase investment in climate finance, as the country is the largest greenhouse gas emitter. China itself is dealing with high levels of debt from local governments, real estate developers, and financial affiliates.  In addition, US-China trade relations are tense because many chip makers have difficulty operating in China but need to be in the country due to market importance. Ukraine is also facing a conflict with Russian forces, which escalated recently after 500 days of conflict. On top of this, there are social issues; The Guardian has just issued an apology to those affected by slavery and Britain’s role in the slave trade, and the US government is sending cluster weapons with a high failure rate to Ukraine. The Supreme Court recently passed a bill removing Affirmative Action from college admissions, which will profoundly affect future applicants. Finally, drowning deaths among young children have plateaued globally and there are worrying racial disparities across the US that need to be addressed.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Yellen Urges China to Step Up Climate Finance Investments</h3>
@@ -69,39 +69,33 @@ Right now, there&#39;s a lot happening around the world. Treasury Secretary Jane
 <sub><sub>Friday, July 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Why China Has a Giant Pile of Debt</h3>
+<sub>By Keith Bradsher</sub>
+<p>A major lender abroad, China is facing a debt bomb at home: trillions of dollars owed by local governments, their financial affiliates, and real estate developers.  <a href="https://nyti.ms/44rgPbQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>One Reason the U.S. Can’t Quit China? Chips.</h3>
 <sub>By Ana Swanson</sub>
 <p>Chipmakers are finding it increasingly hard to operate in China but say doing business in the country is still key to their survival.  <a href="https://nyti.ms/44AJACV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Defends ‘Difficult’ Decision to Send Cluster Munitions to Ukraine</h3>
-<sub>By Katie Rogers and Eric Schmitt</sub>
-<p>With Ukraine burning through stockpiles of conventional artillery, President Biden concluded that he had little choice but to provide the weapons.  <a href="https://nyti.ms/46BeBZk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 7, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Bucha Gets a Remake, but Pain Lingers Behind the Facade</h3>
+<sub>By Megan Specia and Oleksandr Chubko</sub>
+<p>More than a year after Ukrainian forces wrested back Bucha from Russian troops, the town is physically transformed. But so much remains unresolved.  <a href="https://nyti.ms/44Cfkr9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>On Ukraine War’s 500th Day, Zelensky Shows Defiance and Russia Strikes</h3>
+<sub>By Cassandra Vinograd</sub>
+<p>President Volodymyr Zelensky of Ukraine shared a video of himself visiting Snake Island, which has become a symbol of his country’s fight, as a Russian strike in the east killed at least eight.  <a href="https://nyti.ms/3NIBSQv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Cluster Weapons U.S. Is Sending Ukraine Often Fail to Detonate</h3>
 <sub>By John Ismay</sub>
 <p>The Pentagon’s statements indicate that the cluster munitions that will be sent to Ukraine contain older grenades known to have a failure rate of 14 percent or more.  <a href="https://nyti.ms/3NI6oK7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>No Wagner Group Here: Riddles Grow as Belarus Displays an Empty Base</h3>
-<sub>By Valerie Hopkins and Nanna Heitmann</sub>
-<p>Two weeks after the Wagner mercenary group’s rebellion against Russian military leadership, its fate is as murky as ever — as is the purpose of a newly revived military base in Belarus.  <a href="https://nyti.ms/3D8uvg0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>U.S. confirms talks with Russia on prisoner swap for Evan Gershkovich, but tempers expectations.</h3>
-<sub>By Anushka Patil</sub>
-<p>The Biden administration and the family of the Wall Street Journal reporter take note of his reaching 100 days in jail.  <a href="https://nyti.ms/44BQqYK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Dutch Government Collapses Over Plan to Further Limit Immigration</h3>
-<sub>By Claire Moses and Dan Bilefsky</sub>
-<p>Prime Minister Mark Rutte, one of Europe’s longest-serving leaders, had struggled to reach an agreement with his coalition partners about migration, including more restrictions.  <a href="https://nyti.ms/3JMvSF4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -110,29 +104,35 @@ Right now, there&#39;s a lot happening around the world. Treasury Secretary Jane
 <p>In a multimedia series, The Guardian becomes the latest British institution to confront — and apologize for — its role in the slave trade.  <a href="https://nyti.ms/44r8Prk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Asked About I.R.S. Inquiry of F.B.I. Officials, Ex-Aide Says Under Oath</h3>
-<sub>By Michael S. Schmidt</sub>
-<p>In a court filing, John Kelly, who was a chief of staff under Donald Trump, said the former president had asked about having the tax agency look into Peter Strzok and Lisa Page.  <a href="https://nyti.ms/3O3f3rT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>The End of the Magic World’s 50-Year Grudge</h3>
+<sub>By David Segal</sub>
+<p>In 1973, Uri Geller claimed to bend metal with his mind on live television. Skeptics couldn’t beat him. Now they’ve joined him.  <a href="https://nyti.ms/44CfgaT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Dutch Government Collapses Over Plan to Further Limit Immigration</h3>
+<sub>By Claire Moses and Dan Bilefsky</sub>
+<p>Prime Minister Mark Rutte, one of Europe’s longest-serving leaders, had struggled to reach an agreement with his coalition partners about migration, including more restrictions.  <a href="https://nyti.ms/3JMvSF4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Should a Notorious Crime Scene Be Demolished Before Trial?</h3>
-<sub>By Mike Baker and Nicholas Bogel-Burroughs</sub>
-<p>Officials want to tear down the house where four Idaho college students were murdered last year, setting off a debate over preserving the scenes of mass violence.  <a href="https://nyti.ms/3pERKeK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 7, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Drowning Is No. 1 Killer of Young Children. U.S. Efforts to Fix It Are Lagging.</h3>
+<sub>By Emily Baumgaertner</sub>
+<p>Thirty years of progress in decreasing drowning deaths in the United States appears to have plateaued, and disparities in deaths among some racial groups have worsened.  <a href="https://nyti.ms/3rf7AwZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Her First Term, Justice Ketanji Brown Jackson ‘Came to Play’</h3>
-<sub>By Adam Liptak</sub>
-<p>The first Black female member of the Supreme Court wasted no time in finding her footing, asserting herself in dissents, alliances and questions from the bench.  <a href="https://nyti.ms/3XFmb10"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 7, Central Standard Time</sub></sub>
+<h3>He Worked for Years to Overturn Affirmative Action and Finally Won. He’s Not Done.</h3>
+<sub>By Lulu Garcia-Navarro</sub>
+<p>Edward Blum’s latest victory at the Supreme Court is the culmination of a long fight to take race out of college admissions. Is the workplace next?  <a href="https://nyti.ms/44fFH6G"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Ramaswamy Investments Seem at Odds With His Position on ‘Woke’ Culture</h3>
-<sub>By Trip Gabriel</sub>
-<p>The billionaire biotech mogul has railed against socially conscious companies. But his financial disclosure shows he has a stake in some of the leaders in the field.  <a href="https://nyti.ms/44fT4Uu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 7, Central Standard Time</sub></sub>
+<h3>What to Know About College Admissions Now That Affirmative Action Is Gone</h3>
+<sub>By Stephanie Saul and Anemona Hartocollis</sub>
+<p>Do extracurriculars help? How about being a guy? Getting into selective schools this year will look different. Here are a few answers to questions from readers.  <a href="https://nyti.ms/3JJ9zQM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 8, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
