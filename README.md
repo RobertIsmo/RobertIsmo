@@ -60,10 +60,16 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, July 8, Central Standard Time</p>
 <p>
-There are a lot of changes happening around the world right now. In Europe, the Netherlands recently experienced the collapse of their government due to disagreements over migration policy. In Spain, far-right parties have been gaining power, raising fears that their turn-of-the-century dictator might return. In Ukraine, many doctors have fled to places like Britain due to Russia&#39;s invasion, only to be unemployment upon arrival. Also, Uri Geller recently ended his grudge with skeptics after 50 years. 
+Right now, a lot of heated political disputes are happening around the world. In the Netherlands, the government recently collapsed over disagreements on immigration policies. Meanwhile, in Europe, far-right parties are gaining power and there are fears that they may soon enter Spain&#39;s national government. In Ukraine, many doctors have fled to Europe but can&#39;t find employment because of limited opportunities for educated workers. Some are now facing a difficult decision between going back home or staying unemployed. 
 
-On the US side, the college admissions process is under debate in light of affirmative action rulings and the cost of tuition is a concern for those seeking higher education. Meanwhile, real estate agents are vulnerable to abuse due to a lack of protections from potential clients and older Americans are facing dangerous heat waves with temperatures expected to get even worse next week.</p>
+Stateside, Supreme Court rulings on affirmative action and college tuition have left some people feeling uncertain about their future. At the same time, real estate agents and older Americans are struggling with extreme heat waves caused by rising temperatures. Experts say conditions will likely worsen in the coming weeks.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>One Reason the U.S. Can’t Quit China? Chips.</h3>
+<sub>By Ana Swanson</sub>
+<p>Chipmakers are finding it increasingly hard to operate in China but say doing business in the country is still key to their survival.  <a href="https://nyti.ms/44AJACV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 8, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Collapse of Dutch Government Highlights Europe’s New Migration Politics</h3>
 <sub>By Matina Stevis-Gridneff and Claire Moses</sub>
@@ -110,12 +116,6 @@ On the US side, the college admissions process is under debate in light of affir
 <h3>After Supreme Court Rulings, Answering Reader Questions About Paying for College</h3>
 <sub>By Ron Lieber and Tara Siegel Bernard</sub>
 <p>Responses to queries about financial aid, 529 plans, need-blind schools and more.  <a href="https://nyti.ms/3NImd3t"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Drowning Is No. 1 Killer of Young Children. U.S. Efforts to Fix It Are Lagging.</h3>
-<sub>By Emily Baumgaertner</sub>
-<p>Thirty years of progress in decreasing drowning deaths in the United States appears to have plateaued, and disparities in deaths among some racial groups have worsened.  <a href="https://nyti.ms/3rf7AwZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-realestate-blue" alt="">
