@@ -60,16 +60,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, July 9, Central Standard Time</p>
 <p>
-Recently, China and the US have started to meet more often despite their disagreements in hopes of establishing better relations. During a meeting between US Treasury Secretary Janet Yellen and Chinese officials, it was decided the two sides would move forward with more communication. However, there are still many issues between them that need to be addressed. Meanwhile, NATO is trying to figure out how to best help Ukraine as it continues conflict with Russia. President Biden recently made the decision not to allow Ukraine into NATO just yet because it is not ready. On a more positive note, five commanders of an Ukrainian regiment were released from being prisoners of war and returned home to a heroes&#39; welcome.  
-
-In the US, Supreme Court Justice Clarence Thomas gained entry to an elite circle which provided VIP treatment which he went on to reciprocate through other ways. Vivek Ramaswamy is a Republican candidate running for president who has been leaning into his Hindu faith in order to gain the support of Christian voters. Lastly, magazine articles have recently discussed how US military build-up in Pacific territories such as Guam affects citizens, often forgotten and underrepresented ones. 
-
-On health topics, there have been tips circulating on how people can get adequate sleep no matter their age group. Lastly, due to global warming Florida&#39;s Lake Okeechobee has experienced electric green algal blooms threatening wildlife and nearby cities.</p>
+There is a lot of activity happening in the world right now. In the US, Supreme Court Justice Clarence Thomas recently gained access to an elite circle that opened doors to the court, while President Biden has stated that Ukraine is not yet ready for NATO membership. NATO is trying to get a better understanding of its relationship with the alliance, while Ukraine celebrated the return of Azov commanders who were held as prisoners of war. Meanwhile, the US and China are talking despite their deep differences, with Treasury Secretary Janet Yellen visiting Beijing to discuss their differences. In New York, a man who was wrongfully convicted of rape has gone from being behind bars to running for city hall. The number of migrants at the border has also decreased because Mexico has been helping the US stem the flow. Finally, experts are pointing out how sleep needs vary depending on age and stage in life. In Mississippi Delta, residents have been left with the difficult decision whether to rebuild after a tornado or move on due to years of disinvestment and decline.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Where Clarence Thomas Entered an Elite Circle and Opened a Door to the Court</h3>
 <sub>By Abbie VanSickle and Steve Eder</sub>
 <p>The exclusive Horatio Alger Association brought the justice access to wealthy members and unreported V.I.P. treatment. He, in turn, offered another kind of access.  <a href="https://nyti.ms/44CBF7Y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Says Ukraine Is Not Ready for NATO Membership</h3>
+<sub>By Katie Rogers</sub>
+<p>President Biden, who will attend a NATO summit in Europe this week, said it was “premature” to allow Ukraine to join the alliance as the war with Russia continues.  <a href="https://nyti.ms/44yAJla"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>NATO Tries to Remember What It Means to Fight a European War</h3>
+<sub>By Steven Erlanger</sub>
+<p>Supporting Ukraine and clarifying its relationship with the alliance will be a dominant theme at an upcoming summit. But NATO’s efforts to strengthen its own defenses along its eastern flank will also be key.  <a href="https://nyti.ms/44zS5Oz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukraine Celebrates Return of Azov Commanders Held as Prisoners of War</h3>
+<sub>By Matthew Mpoke Bigg</sub>
+<p>Five members of the regiment returned home from Turkey to a heroes’ welcome on Saturday. The Kremlin accused Ankara of violating the terms of the deal that freed them.  <a href="https://nyti.ms/3rf3eG5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -90,41 +104,11 @@ On health topics, there have been tips circulating on how people can get adequat
 <p>Desmond Shum built a multibillion-dollar empire in the boom times, and says the economy is in far worse shape than outsiders realize.  <a href="https://nyti.ms/43igyqL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Vivek Ramaswamy Leans Into His Hindu Faith to Court Christian Voters</h3>
-<sub>By Ruth Graham</sub>
-<p>The Republican candidate for president makes a pitch that the faiths have much in common, but for many religious conservatives, the difference is a hurdle.  <a href="https://nyti.ms/3NBvQB2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>From Cell to City Hall: Candidate’s Win Shows Shift in Politics of Crime</h3>
+<sub>By Corey Kilgannon</sub>
+<p>After a wrongful conviction in a notorious rape, Yusef Salaam was freed and won an election. His case was part of a wave of exonerations created by the discredited police tactics of a long-ago New York.  <a href="https://nyti.ms/3rcwWeS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>NATO Tries to Remember What It Means to Fight a European War</h3>
-<sub>By Steven Erlanger</sub>
-<p>Supporting Ukraine and clarifying its relationship with the alliance will be a dominant theme at an upcoming summit. But NATO’s efforts to strengthen its own defenses along its eastern flank will also be key.  <a href="https://nyti.ms/44zS5Oz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Says Ukraine Is Not Ready for NATO Membership</h3>
-<sub>By Katie Rogers</sub>
-<p>President Biden, who will attend a NATO summit in Europe this week, said it was “premature” to allow Ukraine to join the alliance as the war with Russia continues.  <a href="https://nyti.ms/44yAJla"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Celebrates Return of Azov Commanders Held as Prisoners of War</h3>
-<sub>By Matthew Mpoke Bigg</sub>
-<p>Five members of the regiment returned home from Turkey to a heroes’ welcome on Saturday. The Kremlin accused Ankara of violating the terms of the deal that freed them.  <a href="https://nyti.ms/3rf3eG5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>The America That Americans Forget</h3>
-<sub>By Sarah A. Topol and Glenna Gordon</sub>
-<p>As tensions with China mount, the U.S. military continues to build up Guam and other Pacific territories — placing the burdens of imperial power on the nation’s most ignored and underrepresented citizens.  <a href="https://nyti.ms/43uKDUd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>Sleep Better at Every Age</h3>
-<sub>By Dani Blum</sub>
-<p>Sleep needs shift throughout the lifespan. Experts offer tips to get more rest —  no matter how old you are.  <a href="https://nyti.ms/44BpDM6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Number of Migrants at the Border Plunges as Mexico Helps U.S. to Stem Flow</h3>
@@ -132,10 +116,22 @@ On health topics, there have been tips circulating on how people can get adequat
 <p>Mexico is taking steps to keep migrants from massing along the border. But as they flow into southern Mexico the calm may be short-lived.  <a href="https://nyti.ms/3D5WTj6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>It’s Toxic Slime Time on Florida’s Lake Okeechobee</h3>
-<sub></sub>
-<p>Electric green algal blooms are spreading, threatening wildlife, pets, people and cities. And algae season is only getting started.  <a href="https://nyti.ms/3rl98pm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-espanol-blue" alt="">
+<h3>Cae la cantidad de migrantes en la frontera mientras México ayuda a EE. UU. a controlar el flujo</h3>
+<sub>By Simon Romero, Miriam Jordan and Emiliano Rodríguez Mega</sub>
+<p>México está tomando medidas para evitar aglomeraciones migratorias a lo largo de la frontera. Pero la calma puede durar poco.  <a href="https://nyti.ms/3XHpRPQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>Sleep Better at Every Age</h3>
+<sub>By Dani Blum</sub>
+<p>Sleep needs shift throughout the lifespan. Experts offer tips to get more rest —  no matter how old you are.  <a href="https://nyti.ms/44BpDM6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In the Mississippi Delta, Hoping for Opportunity After a Ruinous Tornado</h3>
+<sub>By Rick Rojas and Emily Kask</sub>
+<p>Rolling Fork, Miss., like much of the Delta, had already been wrecked by disinvestment and decline before a giant tornado swept through in late March, leaving residents to ponder whether to rebuild or move on.  <a href="https://nyti.ms/3pEEJ4U"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 9, Central Standard Time</sub></sub>
 <hr/>
 </ol>
