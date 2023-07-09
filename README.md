@@ -60,11 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, July 9, Central Standard Time</p>
 <p>
-There&#39;s a lot going on around the world right now. In the U.S., Supreme Court Justice Clarence Thomas has been given an exclusive invite to join the Horatio Alger Association, and that brings up questions about how this can give him an advantage. Elsewhere, China and the U.S. are talking for the first time in a while despite their deep differences; we&#39;re also hearing from an ex-insider on business in China who is saying that the economy is much worse off than outsiders realize. 
-
-Meanwhile, appealing to Christian voters has become a focus of one politician in the US, while Nikki Haley is making a pitch in New Hampshire but its unclear if it will have any effect moving into 2024. NATO is looking to strengthen its own defenses along its eastern flank at an upcoming summit and there still exists talk of imperial power being unfairly placed on America&#39;s most forgotten citizens in certain Pacific territories. 
-
-On a lighter note, experts are offering some tips on how to sleeps better no matter what age you are, although North Korean refugees trying to escape via China have been running into some roadblocks due to digital surveillance and profiteering. And in Florida, toxic slime blooms have been threatening wildlife and people alike, while females in real estate have been facing their own dangers from potential clients with virtually no protections in place. Finally, the Weekender offers an update on the &#39;tale of Hunter Biden&#39;s child&#39; as well as Tom Brady&#39;s crypto ambitions colliding with reality - so that might be something worth checking out too!</p>
+There&#39;s some interesting news happening in the world right now. In the US, lawyers and commentators are debating a Supreme Court justice Clarence Thomas&#39;s entrance into a prestigious circle. On the business side, China and the US are opening relationships again since the pandemic while US Treasury Secretary Janet Yellen is making some takeaways after her trip to Beijing. Around the world, NATO is discussing ways to manage European wars and Ukraine is also celebrating the return of war captives. In other places, Americans are forgetting about remote territories in Guam as North Koreans in China face heightened risks in seeking freedom from their government. In Florida, an electric green algae bloom is spreading and threatening wildlife, pet, and people.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Where Clarence Thomas Entered an Elite Circle and Opened a Door to the Court</h3>
@@ -76,6 +72,12 @@ On a lighter note, experts are offering some tips on how to sleeps better no mat
 <h3>China and the U.S., Still Adversaries, Are Talking. That’s a Start.</h3>
 <sub>By Alan Rappeport and Keith Bradsher</sub>
 <p>Treasury Secretary Janet Yellen, after 10 hours of meetings with Chinese officials, said the two sides would pursue “more frequent communication” despite their deep differences.  <a href="https://nyti.ms/46zSRNz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>3 Takeaways From Janet Yellen’s Trip to Beijing</h3>
+<sub>By Keith Bradsher</sub>
+<p>The U.S. Treasury secretary met with China’s new economic policy leaders and toned down Washington’s talk of “decoupling.” But the two nations remain at odds on many issues.  <a href="https://nyti.ms/43cdJYc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -102,6 +104,12 @@ On a lighter note, experts are offering some tips on how to sleeps better no mat
 <p>Supporting Ukraine and clarifying its relationship with the alliance will be a dominant theme at an upcoming summit. But NATO’s efforts to strengthen its own defenses along its eastern flank will also be key.  <a href="https://nyti.ms/44zS5Oz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 8, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukraine Celebrates Return of Azov Commanders Held as Prisoners of War</h3>
+<sub>By Matthew Mpoke Bigg</sub>
+<p>Five members of the regiment returned home from Turkey to a heroes’ welcome on Saturday. The Kremlin accused Ankara of violating the terms of the deal that freed them.  <a href="https://nyti.ms/3rgdHBb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 9, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
 <h3>The America That Americans Forget</h3>
 <sub>By Sarah A. Topol and Glenna Gordon</sub>
@@ -117,7 +125,7 @@ On a lighter note, experts are offering some tips on how to sleeps better no mat
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>For North Koreans in China, Seeking Freedom Is More Perilous Than Ever</h3>
 <sub>By Choe Sang-Hun</sub>
-<p>Recent rescue efforts to escape Kim Jong-un’s regime via China have been thwarted by digital surveillance, profiteering and the pandemic.  <a href="https://nyti.ms/3NLzY1g"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Recent efforts to help people escape Kim Jong-un’s regime via China have been thwarted by digital surveillance, profiteering and the pandemic.  <a href="https://nyti.ms/3NLzY1g"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
@@ -125,18 +133,6 @@ On a lighter note, experts are offering some tips on how to sleeps better no mat
 <sub></sub>
 <p>Electric green algal blooms are spreading, threatening wildlife, pets, people and cities. And algae season is only getting started.  <a href="https://nyti.ms/3rl98pm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-realestate-blue" alt="">
-<h3>Alone in an Empty House, Female Real Estate Agents Face Danger</h3>
-<sub>By Debra Kamin</sub>
-<p>Most sexual harassment comes from potential clients, and agents say they are vulnerable to abuse in an industry that offers few protections.  <a href="https://nyti.ms/3NIB6TB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The Weekender</h3>
-<sub>By Christine Chun</sub>
-<p>The last hours of the Titan. Also in this edition: the tale of Hunter Biden’s child and how Tom Brady’s crypto ambitions collided with reality.  <a href="https://nyti.ms/3JJ9exp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
