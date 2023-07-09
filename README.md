@@ -60,8 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, July 9, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. The US and China are still adversaries, but they&#39;re talking and trying to find common ground. Chipmakers are struggling to operate in China, but say that keep doing so is key for their own survival. There&#39;s a new migration politics emerging in Europe, such as with the collapse of the Dutch government due to conflict over refugee policy. Far-right parties are on the rise, with Spain potentially next. In Ukraine, doctors who fled have had to face the dilemma of going back to a country at war or having their skills go unused in Britain. There&#39;s a rising tide of intense heat globally that&#39;s especially dangerous for older people. Lastly, relationships between skeptics and &#39;mindbenders&#39; have shifted, providing hope for better communication between opposites.</p>
+There&#39;s a lot going on around the world right now. In the U.S., Supreme Court Justice Clarence Thomas has been given an exclusive invite to join the Horatio Alger Association, and that brings up questions about how this can give him an advantage. Elsewhere, China and the U.S. are talking for the first time in a while despite their deep differences; we&#39;re also hearing from an ex-insider on business in China who is saying that the economy is much worse off than outsiders realize. 
+
+Meanwhile, appealing to Christian voters has become a focus of one politician in the US, while Nikki Haley is making a pitch in New Hampshire but its unclear if it will have any effect moving into 2024. NATO is looking to strengthen its own defenses along its eastern flank at an upcoming summit and there still exists talk of imperial power being unfairly placed on America&#39;s most forgotten citizens in certain Pacific territories. 
+
+On a lighter note, experts are offering some tips on how to sleeps better no matter what age you are, although North Korean refugees trying to escape via China have been running into some roadblocks due to digital surveillance and profiteering. And in Florida, toxic slime blooms have been threatening wildlife and people alike, while females in real estate have been facing their own dangers from potential clients with virtually no protections in place. Finally, the Weekender offers an update on the &#39;tale of Hunter Biden&#39;s child&#39; as well as Tom Brady&#39;s crypto ambitions colliding with reality - so that might be something worth checking out too!</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Where Clarence Thomas Entered an Elite Circle and Opened a Door to the Court</h3>
+<sub>By Abbie VanSickle and Steve Eder</sub>
+<p>The exclusive Horatio Alger Association brought the justice access to wealthy members and unreported V.I.P. treatment. He, in turn, offered another kind of access.  <a href="https://nyti.ms/44CBF7Y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 9, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>China and the U.S., Still Adversaries, Are Talking. That’s a Start.</h3>
 <sub>By Alan Rappeport and Keith Bradsher</sub>
@@ -69,58 +79,52 @@ There is a lot going on in the world right now. The US and China are still adver
 <sub><sub>Sunday, July 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>One Reason the U.S. Can’t Quit China? Chips.</h3>
-<sub>By Ana Swanson</sub>
-<p>Chipmakers are finding it increasingly hard to operate in China but say doing business in the country is still key to their survival.  <a href="https://nyti.ms/44AJACV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Collapse of Dutch Government Highlights Europe’s New Migration Politics</h3>
-<sub>By Matina Stevis-Gridneff and Claire Moses</sub>
-<p>Prime Minister Mark Rutte resigned after his coalition partners rejected his tough new line on refugees, favoring his own political future, critics say, over compromise.  <a href="https://nyti.ms/3NLBpNq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>What You Need to Know About the Dutch Government Collapse</h3>
-<sub>By Claire Moses</sub>
-<p>The coalition parties couldn’t come to an agreement on the country’s migration policy. What were they fighting over and what comes next?  <a href="https://nyti.ms/3PJHUD3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Far-Right Parties Are Rising to Power Around Europe. Is Spain Next?</h3>
-<sub>By Jason Horowitz</sub>
-<p>As Spain prepares for elections, some liberal European politicians fear that the hard-right Vox party could become the first right-wing party since the Franco era to enter Spain’s national government.  <a href="https://nyti.ms/3NFisMh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Ukraine, They’re Doctors; in Britain, They’re Unemployed</h3>
-<sub>By Euan Ward</sub>
-<p>Often jobless or languishing in low-skilled posts, doctors who fled Russia’s invasion are forced to confront a difficult dilemma: see their skills go unused, or return to a country at war.  <a href="https://nyti.ms/3JNDx5W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>With War as a Backdrop, a Russian Fencing Drama Plays Out in the U.S.</h3>
-<sub>By Jeré Longman</sub>
-<p>The departure of Russian fencers who object to their country’s invasion of Ukraine has created a stir at home and left their sporting futures in question.  <a href="https://nyti.ms/44eDEQp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The End of the Magic World’s 50-Year Grudge</h3>
-<sub>By David Segal</sub>
-<p>In 1973, Uri Geller claimed to bend metal with his mind on live television. Skeptics couldn’t beat him. Now they’ve joined him.  <a href="https://nyti.ms/44CfgaT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>‘Several Things Have Shocked Me’: An Ex-Insider on Business in China</h3>
+<sub>By Ravi Mattu</sub>
+<p>Desmond Shum built a multibillion-dollar empire in the boom times, and says the economy is in far worse shape than outsiders realize.  <a href="https://nyti.ms/43igyqL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>After the Affirmative Action Ruling, Asian Americans Ask What Happens Next</h3>
-<sub>By Anemona Hartocollis</sub>
-<p>No matter their views of race-conscious admissions, students were wary of the college application process — and some thought little would change.  <a href="https://nyti.ms/46GGak0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Vivek Ramaswamy Leans Into His Hindu Faith to Court Christian Voters</h3>
+<sub>By Ruth Graham</sub>
+<p>The Republican candidate for president makes a pitch that the faiths have much in common, but for many religious conservatives, the difference is a hurdle.  <a href="https://nyti.ms/3NBvQB2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Nikki Haley Makes Her Pitch in New Hampshire. It’s Unclear Whether Voters Will Swing.</h3>
+<sub>By Maya King</sub>
+<p>The former South Carolina governor and United Nations ambassador is intensely focused on the state. But her brand of politics may not resonate in the 2024 political climate.  <a href="https://nyti.ms/43wWMIh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>NATO Tries to Remember What It Means to Fight a European War</h3>
+<sub>By Steven Erlanger</sub>
+<p>Supporting Ukraine and clarifying its relationship with the alliance will be a dominant theme at an upcoming summit. But NATO’s efforts to strengthen its own defenses along its eastern flank will also be key.  <a href="https://nyti.ms/44zS5Oz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>After Supreme Court Rulings, Answering Reader Questions About Paying for College</h3>
-<sub>By Ron Lieber and Tara Siegel Bernard</sub>
-<p>Responses to queries about financial aid, 529 plans, need-blind schools and more.  <a href="https://nyti.ms/3NImd3t"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 8, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>The America That Americans Forget</h3>
+<sub>By Sarah A. Topol and Glenna Gordon</sub>
+<p>As tensions with China mount, the U.S. military continues to build up Guam and other Pacific territories — placing the burdens of imperial power on the nation’s most ignored and underrepresented citizens.  <a href="https://nyti.ms/43uKDUd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>Sleep Better at Every Age</h3>
+<sub>By Dani Blum</sub>
+<p>Sleep needs shift throughout the lifespan. Experts offer tips to get more rest —  no matter how old you are.  <a href="https://nyti.ms/44BpDM6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>For North Koreans in China, Seeking Freedom Is More Perilous Than Ever</h3>
+<sub>By Choe Sang-Hun</sub>
+<p>Recent rescue efforts to escape Kim Jong-un’s regime via China have been thwarted by digital surveillance, profiteering and the pandemic.  <a href="https://nyti.ms/3NLzY1g"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>It’s Toxic Slime Time on Florida’s Lake Okeechobee</h3>
+<sub></sub>
+<p>Electric green algal blooms are spreading, threatening wildlife, pets, people and cities. And algae season is only getting started.  <a href="https://nyti.ms/3rl98pm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-realestate-blue" alt="">
 <h3>Alone in an Empty House, Female Real Estate Agents Face Danger</h3>
@@ -128,11 +132,11 @@ There is a lot going on in the world right now. The US and China are still adver
 <p>Most sexual harassment comes from potential clients, and agents say they are vulnerable to abuse in an industry that offers few protections.  <a href="https://nyti.ms/3NIB6TB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Rising Temperatures Threaten More Than Misery for Oldest Americans</h3>
-<sub>By Shannon Sims and Rick Rojas</sub>
-<p>A wave of extreme heat has posed particular perils for older people, who are uniquely susceptible to such conditions.  <a href="https://nyti.ms/44dGbdn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 8, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The Weekender</h3>
+<sub>By Christine Chun</sub>
+<p>The last hours of the Titan. Also in this edition: the tale of Hunter Biden’s child and how Tom Brady’s crypto ambitions collided with reality.  <a href="https://nyti.ms/3JJ9exp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
