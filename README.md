@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, July 9, Central Standard Time</p>
 <p>
-There are a lot of big developments happening right now in the world. Businesses are finding it increasingly hard to operate in China due to geopolitical tensions, but at the same time can&#39;t afford to quit doing business there. In Europe, the Dutch government has collapsed over migration policies, and elsewhere far-right parties are gaining traction. In Ukraine, there has been an influx of medical professionals forced to flee Russia that are still unemployed in Britain. There&#39;s even drama in the world of fencing among Russian athletes due to Russia&#39;s occupation of Ukraine. On top of all that, some affirmative action rulings have put Asian Americans in a tricky spot as they navigate college admissions and new questions about college finances have come up. Finally, female real estate agents are facing danger in their line of work, and extreme heat is posing particular risks for older Americans. It doesn&#39;t look like relief will be coming any time soon either - forecasters are expecting dangerous heat to last for 2 weeks or more.</p>
+There is a lot going on in the world right now. The US and China are still adversaries, but they&#39;re talking and trying to find common ground. Chipmakers are struggling to operate in China, but say that keep doing so is key for their own survival. There&#39;s a new migration politics emerging in Europe, such as with the collapse of the Dutch government due to conflict over refugee policy. Far-right parties are on the rise, with Spain potentially next. In Ukraine, doctors who fled have had to face the dilemma of going back to a country at war or having their skills go unused in Britain. There&#39;s a rising tide of intense heat globally that&#39;s especially dangerous for older people. Lastly, relationships between skeptics and &#39;mindbenders&#39; have shifted, providing hope for better communication between opposites.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>China and the U.S., Still Adversaries, Are Talking. That’s a Start.</h3>
+<sub>By Alan Rappeport and Keith Bradsher</sub>
+<p>Treasury Secretary Janet Yellen, after 10 hours of meetings with Chinese officials, said the two sides would pursue “more frequent communication” despite their deep differences.  <a href="https://nyti.ms/46zSRNz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 9, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>One Reason the U.S. Can’t Quit China? Chips.</h3>
 <sub>By Ana Swanson</sub>
@@ -127,12 +133,6 @@ There are a lot of big developments happening right now in the world. Businesses
 <sub>By Shannon Sims and Rick Rojas</sub>
 <p>A wave of extreme heat has posed particular perils for older people, who are uniquely susceptible to such conditions.  <a href="https://nyti.ms/44dGbdn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Heat Is Likely to Get Worse Next Week</h3>
-<sub>By Judson Jones</sub>
-<p>Forecasters say dangerous heat is expected to return across the South. It could last another two weeks, and possibly longer.  <a href="https://nyti.ms/3XFzkH8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
