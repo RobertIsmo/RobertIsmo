@@ -60,7 +60,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, July 8, Central Standard Time</p>
 <p>
-There are a lot of interesting developments happening in the world. In Europe, the Dutch government collapsed because members of their coalition couldn&#39;t agree on how to handle refugees and migration. Meanwhile, there are fears that far-right parties will take power in Spain. In Ukraine, they&#39;re facing off against Russia in a conflict that&#39;s lasted 500 days so far. Closer to home, Asian Americans in the US wonder what comes next after the Supreme Court ruled against affirmative action in college admissions. Also related to the US, Edward Blum succeeded in overturning affirmative action policies and now people worry if he&#39;ll turn his attention to other areas like employment. Finally, Treasury Secretary Janet Yellen has urged China to increase investments in climate finance while also investigating China&#39;s increasing debt crisis.</p>
+There are a lot of changes happening around the world right now. In Europe, the Netherlands recently experienced the collapse of their government due to disagreements over migration policy. In Spain, far-right parties have been gaining power, raising fears that their turn-of-the-century dictator might return. In Ukraine, many doctors have fled to places like Britain due to Russia&#39;s invasion, only to be unemployment upon arrival. Also, Uri Geller recently ended his grudge with skeptics after 50 years. 
+
+On the US side, the college admissions process is under debate in light of affirmative action rulings and the cost of tuition is a concern for those seeking higher education. Meanwhile, real estate agents are vulnerable to abuse due to a lack of protections from potential clients and older Americans are facing dangerous heat waves with temperatures expected to get even worse next week.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Collapse of Dutch Government Highlights Europe’s New Migration Politics</h3>
@@ -80,34 +82,10 @@ There are a lot of interesting developments happening in the world. In Europe, t
 <p>As Spain prepares for elections, some liberal European politicians fear that the hard-right Vox party could become the first right-wing party since the Franco era to enter Spain’s national government.  <a href="https://nyti.ms/3NFisMh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Yellen Urges China to Step Up Climate Finance Investments</h3>
-<sub>By Alan Rappeport, Lisa Friedman and Keith Bradsher</sub>
-<p>Janet Yellen, the Treasury secretary, said China, the largest emitter of greenhouse gases, can have “greater impact” tackling climate change by working with other nations.  <a href="https://nyti.ms/44aAvAW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Why China Has a Giant Pile of Debt</h3>
-<sub>By Keith Bradsher</sub>
-<p>A major lender abroad, China is facing a debt bomb at home: trillions of dollars owed by local governments, their financial affiliates, and real estate developers.  <a href="https://nyti.ms/44rgPbQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 8, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>In Ukraine, They’re Doctors; in Britain, They’re Unemployed</h3>
 <sub>By Euan Ward</sub>
 <p>Often jobless or languishing in low-skilled posts, doctors who fled Russia’s invasion are forced to confront a difficult dilemma: see their skills go unused, or return to a country at war.  <a href="https://nyti.ms/3JNDx5W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Bucha Gets a Remake, but Pain Lingers Behind the Facade</h3>
-<sub>By Megan Specia and Oleksandr Chubko</sub>
-<p>More than a year after Ukrainian forces wrested back Bucha from Russian troops, the town is physically transformed. But so much remains unresolved.  <a href="https://nyti.ms/44Cfkr9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>On Ukraine War’s 500th Day, Russia Strikes and Zelensky Shows Defiance</h3>
-<sub>By Cassandra Vinograd, Thomas Gibbons-Neff and Natalia Yermak</sub>
-<p>President Volodymyr Zelensky of Ukraine shared a video of a trip to Snake Island in the Black Sea, a symbol of his country’s fierce resistance, as Russian shelling in the east killed at least seven.  <a href="https://nyti.ms/3NIBSQv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
@@ -128,11 +106,35 @@ There are a lot of interesting developments happening in the world. In Europe, t
 <p>No matter their views of race-conscious admissions, students were wary of the college application process — and some thought little would change.  <a href="https://nyti.ms/46GGak0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>He Worked for Years to Overturn Affirmative Action and Finally Won. He’s Not Done.</h3>
-<sub>By Lulu Garcia-Navarro</sub>
-<p>Edward Blum’s latest victory at the Supreme Court is the culmination of a long fight to take race out of college admissions. Is the workplace next?  <a href="https://nyti.ms/44fFH6G"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>After Supreme Court Rulings, Answering Reader Questions About Paying for College</h3>
+<sub>By Ron Lieber and Tara Siegel Bernard</sub>
+<p>Responses to queries about financial aid, 529 plans, need-blind schools and more.  <a href="https://nyti.ms/3NImd3t"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Drowning Is No. 1 Killer of Young Children. U.S. Efforts to Fix It Are Lagging.</h3>
+<sub>By Emily Baumgaertner</sub>
+<p>Thirty years of progress in decreasing drowning deaths in the United States appears to have plateaued, and disparities in deaths among some racial groups have worsened.  <a href="https://nyti.ms/3rf7AwZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-realestate-blue" alt="">
+<h3>Alone in an Empty House, Female Real Estate Agents Face Danger</h3>
+<sub>By Debra Kamin</sub>
+<p>Most sexual harassment comes from potential clients, and agents say they are vulnerable to abuse in an industry that offers few protections.  <a href="https://nyti.ms/3NIB6TB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Rising Temperatures Threaten More Than Misery for Oldest Americans</h3>
+<sub>By Shannon Sims and Rick Rojas</sub>
+<p>A wave of extreme heat has posed particular perils for older people, who are uniquely susceptible to such conditions.  <a href="https://nyti.ms/44dGbdn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Heat Is Likely to Get Worse Next Week</h3>
+<sub>By Judson Jones</sub>
+<p>Forecasters say dangerous heat is expected to return across the South. It could last another two weeks, and possibly longer.  <a href="https://nyti.ms/3XFzkH8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
