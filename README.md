@@ -60,7 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, July 9, Central Standard Time</p>
 <p>
-There&#39;s some interesting news happening in the world right now. In the US, lawyers and commentators are debating a Supreme Court justice Clarence Thomas&#39;s entrance into a prestigious circle. On the business side, China and the US are opening relationships again since the pandemic while US Treasury Secretary Janet Yellen is making some takeaways after her trip to Beijing. Around the world, NATO is discussing ways to manage European wars and Ukraine is also celebrating the return of war captives. In other places, Americans are forgetting about remote territories in Guam as North Koreans in China face heightened risks in seeking freedom from their government. In Florida, an electric green algae bloom is spreading and threatening wildlife, pet, and people.</p>
+Recently, China and the US have started to meet more often despite their disagreements in hopes of establishing better relations. During a meeting between US Treasury Secretary Janet Yellen and Chinese officials, it was decided the two sides would move forward with more communication. However, there are still many issues between them that need to be addressed. Meanwhile, NATO is trying to figure out how to best help Ukraine as it continues conflict with Russia. President Biden recently made the decision not to allow Ukraine into NATO just yet because it is not ready. On a more positive note, five commanders of an Ukrainian regiment were released from being prisoners of war and returned home to a heroes&#39; welcome.  
+
+In the US, Supreme Court Justice Clarence Thomas gained entry to an elite circle which provided VIP treatment which he went on to reciprocate through other ways. Vivek Ramaswamy is a Republican candidate running for president who has been leaning into his Hindu faith in order to gain the support of Christian voters. Lastly, magazine articles have recently discussed how US military build-up in Pacific territories such as Guam affects citizens, often forgotten and underrepresented ones. 
+
+On health topics, there have been tips circulating on how people can get adequate sleep no matter their age group. Lastly, due to global warming Florida&#39;s Lake Okeechobee has experienced electric green algal blooms threatening wildlife and nearby cities.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Where Clarence Thomas Entered an Elite Circle and Opened a Door to the Court</h3>
@@ -92,22 +96,22 @@ There&#39;s some interesting news happening in the world right now. In the US, l
 <p>The Republican candidate for president makes a pitch that the faiths have much in common, but for many religious conservatives, the difference is a hurdle.  <a href="https://nyti.ms/3NBvQB2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Nikki Haley Makes Her Pitch in New Hampshire. It’s Unclear Whether Voters Will Swing.</h3>
-<sub>By Maya King</sub>
-<p>The former South Carolina governor and United Nations ambassador is intensely focused on the state. But her brand of politics may not resonate in the 2024 political climate.  <a href="https://nyti.ms/43wWMIh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 9, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>NATO Tries to Remember What It Means to Fight a European War</h3>
 <sub>By Steven Erlanger</sub>
 <p>Supporting Ukraine and clarifying its relationship with the alliance will be a dominant theme at an upcoming summit. But NATO’s efforts to strengthen its own defenses along its eastern flank will also be key.  <a href="https://nyti.ms/44zS5Oz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 8, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Says Ukraine Is Not Ready for NATO Membership</h3>
+<sub>By Katie Rogers</sub>
+<p>President Biden, who will attend a NATO summit in Europe this week, said it was “premature” to allow Ukraine to join the alliance as the war with Russia continues.  <a href="https://nyti.ms/44yAJla"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 9, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ukraine Celebrates Return of Azov Commanders Held as Prisoners of War</h3>
 <sub>By Matthew Mpoke Bigg</sub>
-<p>Five members of the regiment returned home from Turkey to a heroes’ welcome on Saturday. The Kremlin accused Ankara of violating the terms of the deal that freed them.  <a href="https://nyti.ms/3rgdHBb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Five members of the regiment returned home from Turkey to a heroes’ welcome on Saturday. The Kremlin accused Ankara of violating the terms of the deal that freed them.  <a href="https://nyti.ms/3rf3eG5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
@@ -123,9 +127,9 @@ There&#39;s some interesting news happening in the world right now. In the US, l
 <sub><sub>Friday, July 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>For North Koreans in China, Seeking Freedom Is More Perilous Than Ever</h3>
-<sub>By Choe Sang-Hun</sub>
-<p>Recent efforts to help people escape Kim Jong-un’s regime via China have been thwarted by digital surveillance, profiteering and the pandemic.  <a href="https://nyti.ms/3NLzY1g"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Number of Migrants at the Border Plunges as Mexico Helps U.S. to Stem Flow</h3>
+<sub>By Simon Romero, Miriam Jordan and Emiliano Rodríguez Mega</sub>
+<p>Mexico is taking steps to keep migrants from massing along the border. But as they flow into southern Mexico the calm may be short-lived.  <a href="https://nyti.ms/3D5WTj6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
