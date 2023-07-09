@@ -58,11 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Saturday, July 8, Central Standard Time</p>
+<p>It is Sunday, July 9, Central Standard Time</p>
 <p>
-Right now, a lot of heated political disputes are happening around the world. In the Netherlands, the government recently collapsed over disagreements on immigration policies. Meanwhile, in Europe, far-right parties are gaining power and there are fears that they may soon enter Spain&#39;s national government. In Ukraine, many doctors have fled to Europe but can&#39;t find employment because of limited opportunities for educated workers. Some are now facing a difficult decision between going back home or staying unemployed. 
-
-Stateside, Supreme Court rulings on affirmative action and college tuition have left some people feeling uncertain about their future. At the same time, real estate agents and older Americans are struggling with extreme heat waves caused by rising temperatures. Experts say conditions will likely worsen in the coming weeks.</p>
+There are a lot of big developments happening right now in the world. Businesses are finding it increasingly hard to operate in China due to geopolitical tensions, but at the same time can&#39;t afford to quit doing business there. In Europe, the Dutch government has collapsed over migration policies, and elsewhere far-right parties are gaining traction. In Ukraine, there has been an influx of medical professionals forced to flee Russia that are still unemployed in Britain. There&#39;s even drama in the world of fencing among Russian athletes due to Russia&#39;s occupation of Ukraine. On top of all that, some affirmative action rulings have put Asian Americans in a tricky spot as they navigate college admissions and new questions about college finances have come up. Finally, female real estate agents are facing danger in their line of work, and extreme heat is posing particular risks for older Americans. It doesn&#39;t look like relief will be coming any time soon either - forecasters are expecting dangerous heat to last for 2 weeks or more.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>One Reason the U.S. Can’t Quit China? Chips.</h3>
