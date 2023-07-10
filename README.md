@@ -60,11 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, July 10, Central Standard Time</p>
 <p>
-There are a lot of weather-related events taking place around the world. The Southwest in the US is dealing with an intense heatwave and record temperatures over 110 degrees, while New York is contending with heavy rains that have caused flash flooding and the Hudson Valley has received up to eight inches of rain. Also, a huge tornado recently swept through Mississippi and people are deciding whether to rebuild or move on in its aftermath. 
-
-Internationally, President Biden has said that Ukraine is not yet ready for NATO membership and he will be attending a summit in Europe this week to discuss this and other matters. In addition, the President is meeting with King Charles III in Britain and the two share similar interests and challenges that might help them get along. 
-
-In other news, sleep patterns change throughout one&#39;s lifespan and experts have provided tips to get better rest regardless of age. Plus, a man exonerated after a wrongful rape conviction has gone on to win an election to city hall in New York, which speaks to a shift in attitudes toward crime. Finally, Mexico is helping the US to control the number of migrants at their border but some worry this won&#39;t last long since more migrants are flowing into southern Mexico. Last but not least, visitors to the Pantheon in Italy must now pay 5 euros for entry, which has caused confusion for some people and further concerns about abuse of the system.</p>
+There&#39;s a heatwave gripping the Southwestern United States, with temperatures around Phoenix potentially reaching their highest levels recorded in over a decade. On the East Coast, areas around New York and New Jersey have been hit by heavy rains and flooding while Mississippi has just experienced major tornado damage. Overseas, US President Biden is visiting NATO in Europe and will be meeting with King Charles III of Britain, while the situation at the US-Mexico border is improving due to Mexican efforts to curb the flow of migrants. Lastly, there is much confusion among tourists trying to visit the famed Pantheon in Rome as a new ticketing system has been implemented.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The Southwest Bakes With More Heat on the Way</h3>
