@@ -60,8 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, July 10, Central Standard Time</p>
 <p>
-There&#39;s a heatwave gripping the Southwestern United States, with temperatures around Phoenix potentially reaching their highest levels recorded in over a decade. On the East Coast, areas around New York and New Jersey have been hit by heavy rains and flooding while Mississippi has just experienced major tornado damage. Overseas, US President Biden is visiting NATO in Europe and will be meeting with King Charles III of Britain, while the situation at the US-Mexico border is improving due to Mexican efforts to curb the flow of migrants. Lastly, there is much confusion among tourists trying to visit the famed Pantheon in Rome as a new ticketing system has been implemented.</p>
+Right now, there is a lot of unrest in the world. NATO is having difficulty sustaining unity as a war wages in Ukraine and their membership of the alliance remains unclear. In Poland, Ukrainian refugees have created tension due to turbulent past between the two countries. In the US, Arizona and other desert states are dealing with an extreme heatwave that is setting records. New York recently experienced flash flooding that caused one death and inflicted severe damage. Technology can help people prepare for extreme weather events such as this. Meanwhile, Fox News may face a lawsuit for spreading a conspiracy theory which could ultimately impact the network&#39;s future. On top of all this, Joe Biden is meeting with King Charles III in spite of hints of tension between Washington and London. Lastly, China&#39;s youth are not getting married in response to recent political and economic turmoil - making it the lowest on record. </p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>As NATO Gathers, Unity Among the Alliance Has Become Harder to Sustain</h3>
+<sub>By David E. Sanger and Steven Erlanger</sub>
+<p>The international cooperation celebrated by President Biden has been challenged as the war in Ukraine drags on and questions linger over that country’s membership in the alliance.  <a href="https://nyti.ms/3JLxqPt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Tangled Past Complicates Poland’s Welcome to Ukrainian Refugees</h3>
+<sub>By Andrew Higgins</sub>
+<p>Polish memories of ethnic pogroms by Ukrainian nationalists in the 1940s jostle with the trauma left by Russia and its war in Ukraine.  <a href="https://nyti.ms/3D724PS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 10, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The Southwest Bakes With More Heat on the Way</h3>
 <sub>By John Washington, Anna Betts and Maria Jimenez Moya</sub>
@@ -74,23 +86,23 @@ There&#39;s a heatwave gripping the Southwestern United States, with temperature
 <p>The Hudson Valley was the most affected by the storm system on Sunday, with sections getting up to eight inches of rain, the National Weather Service said.  <a href="https://nyti.ms/3JPbAL2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In the Mississippi Delta, Hoping for Opportunity After a Ruinous Tornado</h3>
-<sub>By Rick Rojas and Emily Kask</sub>
-<p>Rolling Fork, Miss., like much of the Delta, had already been wrecked by disinvestment and decline before a giant tornado swept through in late March, leaving residents to ponder whether to rebuild or move on.  <a href="https://nyti.ms/3pEEJ4U"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 9, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>See Pictures of the Flooding in New York</h3>
+<sub>By Claire Moses and Judson Jones</sub>
+<p>At least one person died as heavy rain inundated the Hudson Valley and nearby areas of the state. More rain is expected in the Northeast on Monday.  <a href="https://nyti.ms/43kd9Yz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Says Ukraine Is Not Ready for NATO Membership</h3>
-<sub>By Katie Rogers</sub>
-<p>President Biden, who will attend a NATO summit in Europe this week, said it was “premature” to allow Ukraine to join the alliance as the war with Russia continues.  <a href="https://nyti.ms/44yAJla"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 9, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>A Tech Checklist for the Dark Side of Summer Weather</h3>
+<sub>By J. D. Biersdorfer</sub>
+<p>This season has seen excessive heat, violent storms and hazardous smoke already, but you can prepare for future events with a few apps and tools.  <a href="https://nyti.ms/3O2aXAz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Where Clarence Thomas Entered an Elite Circle and Opened a Door to the Court</h3>
-<sub>By Abbie VanSickle and Steve Eder</sub>
-<p>The exclusive Horatio Alger Association brought the justice access to wealthy members and unreported V.I.P. treatment. He, in turn, offered another kind of access.  <a href="https://nyti.ms/44CBF7Y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 9, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>The Case That Could Be Fox’s Next Dominion</h3>
+<sub>By Jeremy W. Peters and Alan Feuer</sub>
+<p>Tucker Carlson, before he was sidelined by Fox, repeatedly endorsed a conspiracy theory about an Arizona man, who may sue for defamation. Legal experts say it would be a viable case.  <a href="https://nyti.ms/3O5HqFP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>For a President and a King, the View From the Top Is Curiously Similar</h3>
@@ -98,41 +110,29 @@ There&#39;s a heatwave gripping the Southwestern United States, with temperature
 <p>Despite hints of tension between Washington and London, President Biden and King Charles III share interests — and have faced comparable challenges — that should help smooth their meeting.  <a href="https://nyti.ms/44Bajzj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>Sleep Better at Every Age</h3>
-<sub>By Dani Blum</sub>
-<p>Sleep needs shift throughout the lifespan. Experts offer tips to get more rest —  no matter how old you are.  <a href="https://nyti.ms/44BpDM6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 7, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Robert Downey Jr.’s Post-Marvel Balancing Act</h3>
+<sub>By David Marchese</sub>
+<p>“I regained my connection with a more purist approach to making movies,” says the co-star of “Oppenheimer.”  <a href="https://nyti.ms/3D5sL7j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>From Cell to City Hall: Candidate’s Win Shows Shift in Politics of Crime</h3>
-<sub>By Corey Kilgannon</sub>
-<p>After a wrongful conviction in a notorious rape, Yusef Salaam was freed and won an election. His case was part of a wave of exonerations created by discredited police tactics.  <a href="https://nyti.ms/3rcwWeS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Tuberville Blockade Over Abortion Policy Threatens Top Military Promotions</h3>
+<sub>By Karoun Demirjian</sub>
+<p>The Alabama Republican’s bid to force the Pentagon to drop a policy ensuring access to abortion services for personnel could leave the Joint Chiefs of Staff with more temporary occupants than it has ever faced.  <a href="https://nyti.ms/44iO6pO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Where Clarence Thomas Entered an Elite Circle and Opened a Door to the Court</h3>
+<sub>By Abbie VanSickle and Steve Eder</sub>
+<p>The exclusive Horatio Alger Association brought the justice access to wealthy members and unreported V.I.P. treatment. He, in turn, offered another kind of access.  <a href="https://nyti.ms/44CBF7Y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Number of Migrants at the Border Plunges as Mexico Helps U.S. to Stem Flow</h3>
-<sub>By Simon Romero, Miriam Jordan and Emiliano Rodríguez Mega</sub>
-<p>Mexico is taking steps to keep migrants from massing along the border. But as they flow into southern Mexico the calm may be short-lived.  <a href="https://nyti.ms/3D5WTj6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-espanol-blue" alt="">
-<h3>Cae la cantidad de migrantes en la frontera mientras México ayuda a EE. UU. a controlar el flujo</h3>
-<sub>By Simon Romero, Miriam Jordan and Emiliano Rodríguez Mega</sub>
-<p>México está tomando medidas para evitar aglomeraciones a lo largo de la frontera. Pero la calma puede durar poco.  <a href="https://nyti.ms/3XHpRPQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Is Aretha Franklin’s True Will the One Found in the Couch or a Cabinet?</h3>
-<sub>By Julia Jacobs</sub>
-<p>A trial starting on Monday is to decide whether either of two handwritten documents represents the singer’s last wishes. Her sons have battled in court for years over the question.  <a href="https://nyti.ms/3D2X6U8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Line? Online? Either Way, a Ticket to Frustration for Pantheon Tourists</h3>
-<sub>By Elisabetta Povoledo</sub>
-<p>There is now a 5 euro fee to get into one of Italy’s most popular sites, but the process has been bewildering for some, and there are fears the system could be abused.  <a href="https://nyti.ms/44CSobE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 9, Central Standard Time</sub></sub>
+<h3>Why China’s Young People Are Not Getting Married</h3>
+<sub>By Nicole Hong and Zixu Wang</sub>
+<p>Marriages in China are at a record low. Recent political and economic turmoil have added another reason to postpone tying the knot.  <a href="https://nyti.ms/3rdCOEG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 10, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
