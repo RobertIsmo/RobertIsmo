@@ -60,13 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, July 10, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. On the international front, NATO leaders are gathering for a summit that is being threatened by tensions over the war in Ukraine and its potential membership in the alliance. Turkish president Erdogan has also made controversial demands as Sweden makes its bid for NATO membership. In Europe, a new study suggests that last year&#39;s summer heat waves killed 61,000 people. Between Poland welcoming Ukrainian refugees and China&#39;s record-low marriage rates due to political and economic turmoil, things are changing rapidly. 
-
-The US news is just as intriguing. President Biden celebrated international cooperation recently, but his home country is still dealing with natural disasters like flash flooding in the Northeast and extreme temperatures in the Southwest. Fox is facing legal troubles due to Tucker Carlson&#39;s promotion of an Arizona man&#39;s conspiracy theory. Meanwhile, Robert Downey Jr. is enjoying some post-Marvel acclaim. And Senator Tuberville is blocking military promotions unless the Pentagon agrees to drop a policy guaranteeing abortion services for personnel. 
-
-In terms of international data, both the US and EU have finalized a much-needed agreement on data sharing that&#39;s been years in the making. 
-
-So yeah - it&#39;s been a wild few months!</p>
+There is a lot going on around the world right now. For instance, tension is increasing among NATO allies as questions over Ukraine&#39;s membership lingers. Turkish president Erdogan is demanding that the EU clear the way for Sweden to join NATO in a surprise move just before their summit. Poland is facing a complicated situation as Ukrainian refugees arrive due to Russia and its war in Ukraine, while also bringing up past trauma from ethnic pogroms. The Southwestern US is also suffering from a heat dome bringing record-breaking temperatures. In Europe this past summer, researchers claim that heat waves killed 61,000 people and strategies to cope with higher temperatures are not keeping up with global warming. Fox&#39;s legal case may be threatened as Tucker Carlson allegedly backed a conspiracy theory about an Arizona man who may sue for defamation. President Biden and King Charles III recently had a meeting, despite hints of tension between their countries, since they share interests and challenges similar to one another. Lastly, NASCAR driver Lawrence G. Nassar was recently stabbed multiple times in prison and Robert Downey Jr. has been promoting his new movie &quot;Oppenheimer&quot; with his transition out of Marvel Studios. Lastly, if it&#39;s too hot outside to cook use these 24 no-cook recipes as an alternative!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>As NATO Gathers, Unity Among the Alliance Has Become Harder to Sustain</h3>
@@ -84,12 +78,6 @@ So yeah - it&#39;s been a wild few months!</p>
 <h3>A Tangled Past Complicates Poland’s Welcome to Ukrainian Refugees</h3>
 <sub>By Andrew Higgins</sub>
 <p>Polish memories of ethnic pogroms by Ukrainian nationalists in the 1940s jostle with the trauma left by Russia and its war in Ukraine.  <a href="https://nyti.ms/3D724PS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>More Rain Expected in Northeast After Deadly Weekend Floods</h3>
-<sub>By Jesse McKinley, Christine Hauser and Judson Jones</sub>
-<p>At least one person died as heavy rain inundated New York’s Hudson Valley and the surrounding areas. More flash flooding is expected in New York and New England.  <a href="https://nyti.ms/46E1E0O"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -116,11 +104,11 @@ So yeah - it&#39;s been a wild few months!</p>
 <p>Despite hints of tension between Washington and London, President Biden and King Charles III share interests and have faced comparable challenges, which might have helped smooth their meeting.  <a href="https://nyti.ms/44Bajzj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Robert Downey Jr.’s Post-Marvel Balancing Act</h3>
-<sub>By David Marchese</sub>
-<p>“I regained my connection with a more purist approach to making movies,” says the co-star of “Oppenheimer.”  <a href="https://nyti.ms/3D5sL7j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 9, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>They Caught the Fish, but the $3.5 Million Prize Got Away</h3>
+<sub>By Brandon Sneed</sub>
+<p>The guys aboard Sensation celebrated like lottery winners when they boated a monster marlin in the last hours of the fishing tournament. The party ended when they got back to shore.  <a href="https://nyti.ms/44iO6WQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Tuberville Blockade Over Abortion Policy Threatens Top Military Promotions</h3>
@@ -128,16 +116,22 @@ So yeah - it&#39;s been a wild few months!</p>
 <p>The Alabama Republican’s bid to force the Pentagon to drop a policy ensuring access to abortion services for personnel could leave the Joint Chiefs of Staff with more temporary occupants than it has ever faced.  <a href="https://nyti.ms/44iO6pO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>U.S. and E.U. Finalize Long-Awaited Deal on Sharing Data</h3>
-<sub>By Adam Satariano, Monika Pronczuk and David McCabe</sub>
-<p>The agreement ends legal uncertainty for Meta, Google and scores of companies — at least for now.  <a href="https://nyti.ms/3XRs7UD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Nassar Is Said to Have Been Stabbed Multiple Times in Florida Prison</h3>
+<sub>By Glenn Thrush</sub>
+<p>Lawrence G. Nassar, 59, is in stable condition after he was attacked by another inmate at a federal prison in Central Florida.  <a href="https://nyti.ms/3JPpEUS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Why China’s Young People Are Not Getting Married</h3>
-<sub>By Nicole Hong and Zixu Wang</sub>
-<p>Marriages in China are at a record low. Recent political and economic turmoil have added another reason to postpone tying the knot.  <a href="https://nyti.ms/3rdCOEG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Robert Downey Jr.’s Post-Marvel Balancing Act</h3>
+<sub>By David Marchese</sub>
+<p>“I regained my connection with a more purist approach to making movies,” says the co-star of “Oppenheimer.”  <a href="https://nyti.ms/3D5sL7j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-dining-blue" alt="">
+<h3>It’s Too Hot to Cook. Make These Cool Summer Recipes Instead.</h3>
+<sub>By Krysten Chambrot</sub>
+<p>Here are 24 no-cook recipes for when it’s too sweltering outside to sear, roast, sauté, boil or even think of turning on the stove.  <a href="https://nyti.ms/3uXK3zK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 10, Central Standard Time</sub></sub>
 <hr/>
 </ol>
