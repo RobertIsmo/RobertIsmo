@@ -60,7 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, July 10, Central Standard Time</p>
 <p>
-Right now, there is a lot of unrest in the world. NATO is having difficulty sustaining unity as a war wages in Ukraine and their membership of the alliance remains unclear. In Poland, Ukrainian refugees have created tension due to turbulent past between the two countries. In the US, Arizona and other desert states are dealing with an extreme heatwave that is setting records. New York recently experienced flash flooding that caused one death and inflicted severe damage. Technology can help people prepare for extreme weather events such as this. Meanwhile, Fox News may face a lawsuit for spreading a conspiracy theory which could ultimately impact the network&#39;s future. On top of all this, Joe Biden is meeting with King Charles III in spite of hints of tension between Washington and London. Lastly, China&#39;s youth are not getting married in response to recent political and economic turmoil - making it the lowest on record. </p>
+There is a lot going on in the world right now. On the international front, NATO leaders are gathering for a summit that is being threatened by tensions over the war in Ukraine and its potential membership in the alliance. Turkish president Erdogan has also made controversial demands as Sweden makes its bid for NATO membership. In Europe, a new study suggests that last year&#39;s summer heat waves killed 61,000 people. Between Poland welcoming Ukrainian refugees and China&#39;s record-low marriage rates due to political and economic turmoil, things are changing rapidly. 
+
+The US news is just as intriguing. President Biden celebrated international cooperation recently, but his home country is still dealing with natural disasters like flash flooding in the Northeast and extreme temperatures in the Southwest. Fox is facing legal troubles due to Tucker Carlson&#39;s promotion of an Arizona man&#39;s conspiracy theory. Meanwhile, Robert Downey Jr. is enjoying some post-Marvel acclaim. And Senator Tuberville is blocking military promotions unless the Pentagon agrees to drop a policy guaranteeing abortion services for personnel. 
+
+In terms of international data, both the US and EU have finalized a much-needed agreement on data sharing that&#39;s been years in the making. 
+
+So yeah - it&#39;s been a wild few months!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>As NATO Gathers, Unity Among the Alliance Has Become Harder to Sustain</h3>
@@ -69,9 +75,21 @@ Right now, there is a lot of unrest in the world. NATO is having difficulty sust
 <sub><sub>Monday, July 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Erdogan Says E.U. Must ‘Clear the Way’ for Turkey Before It Will Support Sweden’s NATO Bid</h3>
+<sub>By Ben Hubbard</sub>
+<p>The Turkish president’s surprising new demand was bound to frustrate other leaders in the military alliance one day before a high-profile summit.  <a href="https://nyti.ms/43hYrkA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>A Tangled Past Complicates Poland’s Welcome to Ukrainian Refugees</h3>
 <sub>By Andrew Higgins</sub>
 <p>Polish memories of ethnic pogroms by Ukrainian nationalists in the 1940s jostle with the trauma left by Russia and its war in Ukraine.  <a href="https://nyti.ms/3D724PS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>More Rain Expected in Northeast After Deadly Weekend Floods</h3>
+<sub>By Jesse McKinley, Christine Hauser and Judson Jones</sub>
+<p>At least one person died as heavy rain inundated New York’s Hudson Valley and the surrounding areas. More flash flooding is expected in New York and New England.  <a href="https://nyti.ms/46E1E0O"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -80,23 +98,11 @@ Right now, there is a lot of unrest in the world. NATO is having difficulty sust
 <p>Phoenix could be on track to break its record of 18 consecutive days with temperatures above 110 as a heat dome has settled over the desert Southwest.  <a href="https://nyti.ms/3NIJ7rE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>At Least 1 Dead as Heavy Rains Set Off Flash Flooding in New York</h3>
-<sub>By Eduardo Medina, Livia Albeck-Ripka and Jesse McKinley</sub>
-<p>The Hudson Valley was the most affected by the storm system on Sunday, with sections getting up to eight inches of rain, the National Weather Service said.  <a href="https://nyti.ms/3JPbAL2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>See Pictures of the Flooding in New York</h3>
-<sub>By Claire Moses and Judson Jones</sub>
-<p>At least one person died as heavy rain inundated the Hudson Valley and nearby areas of the state. More rain is expected in the Northeast on Monday.  <a href="https://nyti.ms/43kd9Yz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Summer Heat Waves Killed 61,000 in Europe Last Year, Study Says</h3>
+<sub>By Delger Erdenesanaa</sub>
+<p>Researchers suggest that strategies to cope with higher temperatures aren’t keeping pace with global warming.  <a href="https://nyti.ms/3pxnanq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>A Tech Checklist for the Dark Side of Summer Weather</h3>
-<sub>By J. D. Biersdorfer</sub>
-<p>This season has seen excessive heat, violent storms and hazardous smoke already, but you can prepare for future events with a few apps and tools.  <a href="https://nyti.ms/3O2aXAz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>The Case That Could Be Fox’s Next Dominion</h3>
@@ -107,7 +113,7 @@ Right now, there is a lot of unrest in the world. NATO is having difficulty sust
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>For a President and a King, the View From the Top Is Curiously Similar</h3>
 <sub>By Zolan Kanno-Youngs and Mark Landler</sub>
-<p>Despite hints of tension between Washington and London, President Biden and King Charles III share interests — and have faced comparable challenges — that should help smooth their meeting.  <a href="https://nyti.ms/44Bajzj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Despite hints of tension between Washington and London, President Biden and King Charles III share interests and have faced comparable challenges, which might have helped smooth their meeting.  <a href="https://nyti.ms/44Bajzj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
@@ -122,11 +128,11 @@ Right now, there is a lot of unrest in the world. NATO is having difficulty sust
 <p>The Alabama Republican’s bid to force the Pentagon to drop a policy ensuring access to abortion services for personnel could leave the Joint Chiefs of Staff with more temporary occupants than it has ever faced.  <a href="https://nyti.ms/44iO6pO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Where Clarence Thomas Entered an Elite Circle and Opened a Door to the Court</h3>
-<sub>By Abbie VanSickle and Steve Eder</sub>
-<p>The exclusive Horatio Alger Association brought the justice access to wealthy members and unreported V.I.P. treatment. He, in turn, offered another kind of access.  <a href="https://nyti.ms/44CBF7Y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 9, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>U.S. and E.U. Finalize Long-Awaited Deal on Sharing Data</h3>
+<sub>By Adam Satariano, Monika Pronczuk and David McCabe</sub>
+<p>The agreement ends legal uncertainty for Meta, Google and scores of companies — at least for now.  <a href="https://nyti.ms/3XRs7UD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Why China’s Young People Are Not Getting Married</h3>
