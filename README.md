@@ -60,8 +60,26 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, July 9, Central Standard Time</p>
 <p>
-There is a lot of activity happening in the world right now. In the US, Supreme Court Justice Clarence Thomas recently gained access to an elite circle that opened doors to the court, while President Biden has stated that Ukraine is not yet ready for NATO membership. NATO is trying to get a better understanding of its relationship with the alliance, while Ukraine celebrated the return of Azov commanders who were held as prisoners of war. Meanwhile, the US and China are talking despite their deep differences, with Treasury Secretary Janet Yellen visiting Beijing to discuss their differences. In New York, a man who was wrongfully convicted of rape has gone from being behind bars to running for city hall. The number of migrants at the border has also decreased because Mexico has been helping the US stem the flow. Finally, experts are pointing out how sleep needs vary depending on age and stage in life. In Mississippi Delta, residents have been left with the difficult decision whether to rebuild after a tornado or move on due to years of disinvestment and decline.</p>
+There is a heat wave happening in the Southwest US right now, with temperatures reaching as high as 110 degrees over several consecutive days and possibly breaking a record. Over the weekend, a storm system caused flash flooding along the Hudson Valley, causing at least one death. At the same time in Mississippi, a huge tornado swept through, leaving residents to deal with the destruction and decide whether to rebuild or move on. In terms of politics, President Biden recently said it is too early for Ukraine to become part of NATO as there is still ongoing conflict with Russia. On a more positive note, five members of an Azov regiment were freed from being held prisoner of war in Turkey and received a heroes&#39; welcome. Elsewhere, Yusef Salaam, who was wrongly convicted of rape and won an election afterward, is helping to inspire shift in politics about crime. In terms of health advice, experts are offering tips on how to sleep better regardless of age. Lastly, China and the US remain adversaries but are using more frequent communication to try and bridge their differences.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Southwest Bakes With More Heat on the Way</h3>
+<sub>By John Washington, Anna Betts and Maria Jimenez Moya</sub>
+<p>Phoenix could be on track to break its record of 18 consecutive days with temperatures above 110 as a heat dome has settled over the desert Southwest.  <a href="https://nyti.ms/3NIJ7rE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>At Least 1 Dead as Heavy Rains Set Off Flash Flooding in New York</h3>
+<sub>By Eduardo Medina, Livia Albeck-Ripka and Jesse McKinley</sub>
+<p>The Hudson Valley was the most affected by the storm system on Sunday, with sections getting up to eight inches of rain, the National Weather Service said.  <a href="https://nyti.ms/3JPbAL2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In the Mississippi Delta, Hoping for Opportunity After a Ruinous Tornado</h3>
+<sub>By Rick Rojas and Emily Kask</sub>
+<p>Rolling Fork, Miss., like much of the Delta, had already been wrecked by disinvestment and decline before a giant tornado swept through in late March, leaving residents to ponder whether to rebuild or move on.  <a href="https://nyti.ms/3pEEJ4U"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 9, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Where Clarence Thomas Entered an Elite Circle and Opened a Door to the Court</h3>
 <sub>By Abbie VanSickle and Steve Eder</sub>
@@ -75,40 +93,22 @@ There is a lot of activity happening in the world right now. In the US, Supreme 
 <sub><sub>Sunday, July 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>NATO Tries to Remember What It Means to Fight a European War</h3>
-<sub>By Steven Erlanger</sub>
-<p>Supporting Ukraine and clarifying its relationship with the alliance will be a dominant theme at an upcoming summit. But NATO’s efforts to strengthen its own defenses along its eastern flank will also be key.  <a href="https://nyti.ms/44zS5Oz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ukraine Celebrates Return of Azov Commanders Held as Prisoners of War</h3>
 <sub>By Matthew Mpoke Bigg</sub>
 <p>Five members of the regiment returned home from Turkey to a heroes’ welcome on Saturday. The Kremlin accused Ankara of violating the terms of the deal that freed them.  <a href="https://nyti.ms/3rf3eG5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>China and the U.S., Still Adversaries, Are Talking. That’s a Start.</h3>
-<sub>By Alan Rappeport and Keith Bradsher</sub>
-<p>Treasury Secretary Janet Yellen, after 10 hours of meetings with Chinese officials, said the two sides would pursue “more frequent communication” despite their deep differences.  <a href="https://nyti.ms/46zSRNz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>3 Takeaways From Janet Yellen’s Trip to Beijing</h3>
-<sub>By Keith Bradsher</sub>
-<p>The U.S. Treasury secretary met with China’s new economic policy leaders and toned down Washington’s talk of “decoupling.” But the two nations remain at odds on many issues.  <a href="https://nyti.ms/43cdJYc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>‘Several Things Have Shocked Me’: An Ex-Insider on Business in China</h3>
-<sub>By Ravi Mattu</sub>
-<p>Desmond Shum built a multibillion-dollar empire in the boom times, and says the economy is in far worse shape than outsiders realize.  <a href="https://nyti.ms/43igyqL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 8, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>From Cell to City Hall: Candidate’s Win Shows Shift in Politics of Crime</h3>
 <sub>By Corey Kilgannon</sub>
-<p>After a wrongful conviction in a notorious rape, Yusef Salaam was freed and won an election. His case was part of a wave of exonerations created by the discredited police tactics of a long-ago New York.  <a href="https://nyti.ms/3rcwWeS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>After a wrongful conviction in a notorious rape, Yusef Salaam was freed and won an election. His case was part of a wave of exonerations created by discredited police tactics.  <a href="https://nyti.ms/3rcwWeS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>Sleep Better at Every Age</h3>
+<sub>By Dani Blum</sub>
+<p>Sleep needs shift throughout the lifespan. Experts offer tips to get more rest —  no matter how old you are.  <a href="https://nyti.ms/44BpDM6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Number of Migrants at the Border Plunges as Mexico Helps U.S. to Stem Flow</h3>
@@ -119,20 +119,20 @@ There is a lot of activity happening in the world right now. In the US, Supreme 
 <img src="https://img.shields.io/badge/-espanol-blue" alt="">
 <h3>Cae la cantidad de migrantes en la frontera mientras México ayuda a EE. UU. a controlar el flujo</h3>
 <sub>By Simon Romero, Miriam Jordan and Emiliano Rodríguez Mega</sub>
-<p>México está tomando medidas para evitar aglomeraciones migratorias a lo largo de la frontera. Pero la calma puede durar poco.  <a href="https://nyti.ms/3XHpRPQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>México está tomando medidas para evitar aglomeraciones a lo largo de la frontera. Pero la calma puede durar poco.  <a href="https://nyti.ms/3XHpRPQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>Sleep Better at Every Age</h3>
-<sub>By Dani Blum</sub>
-<p>Sleep needs shift throughout the lifespan. Experts offer tips to get more rest —  no matter how old you are.  <a href="https://nyti.ms/44BpDM6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In the Mississippi Delta, Hoping for Opportunity After a Ruinous Tornado</h3>
-<sub>By Rick Rojas and Emily Kask</sub>
-<p>Rolling Fork, Miss., like much of the Delta, had already been wrecked by disinvestment and decline before a giant tornado swept through in late March, leaving residents to ponder whether to rebuild or move on.  <a href="https://nyti.ms/3pEEJ4U"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>China and the U.S., Still Adversaries, Are Talking. That’s a Start.</h3>
+<sub>By Alan Rappeport and Keith Bradsher</sub>
+<p>Treasury Secretary Janet Yellen, after 10 hours of meetings with Chinese officials, said the two sides would pursue “more frequent communication” despite their deep differences.  <a href="https://nyti.ms/46zSRNz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>‘Several Things Have Shocked Me’: An Ex-Insider on Business in China</h3>
+<sub>By Ravi Mattu</sub>
+<p>Desmond Shum built a multibillion-dollar empire in the boom times, and says the economy is in far worse shape than outsiders realize.  <a href="https://nyti.ms/43igyqL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 8, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
