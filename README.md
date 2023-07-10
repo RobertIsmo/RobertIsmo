@@ -58,9 +58,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Sunday, July 9, Central Standard Time</p>
+<p>It is Monday, July 10, Central Standard Time</p>
 <p>
-There is record-breaking heat in the Southwestern United States, while heavy rains caused flash flooding in some parts of New York. In Mississippi, people are still dealing with the aftermath of a devastating tornado. Meanwhile, President Biden spoke out against admitting Ukraine into NATO. In addition, Yusef Salaam won an election after being wrongfully convicted of a rape in New York. On the health front, experts have tips for how to sleep better, no matter your age. At the same time, Mexico is helping to stem the flow of migrants at its southern border with the U.S. Finally, there is a court case to decide whether one of two supposed wills is that of late icon Aretha Franklin. Lastly, Major League Baseball&#39;s draft process has changed dramatically in order to increase efficiency and prevent unlimited picks from previous years. There are also online ticketing issues for tourists hoping to visit some of Italy&#39;s most popular sites.</p>
+There are a lot of weather-related events taking place around the world. The Southwest in the US is dealing with an intense heatwave and record temperatures over 110 degrees, while New York is contending with heavy rains that have caused flash flooding and the Hudson Valley has received up to eight inches of rain. Also, a huge tornado recently swept through Mississippi and people are deciding whether to rebuild or move on in its aftermath. 
+
+Internationally, President Biden has said that Ukraine is not yet ready for NATO membership and he will be attending a summit in Europe this week to discuss this and other matters. In addition, the President is meeting with King Charles III in Britain and the two share similar interests and challenges that might help them get along. 
+
+In other news, sleep patterns change throughout one&#39;s lifespan and experts have provided tips to get better rest regardless of age. Plus, a man exonerated after a wrongful rape conviction has gone on to win an election to city hall in New York, which speaks to a shift in attitudes toward crime. Finally, Mexico is helping the US to control the number of migrants at their border but some worry this won&#39;t last long since more migrants are flowing into southern Mexico. Last but not least, visitors to the Pantheon in Italy must now pay 5 euros for entry, which has caused confusion for some people and further concerns about abuse of the system.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The Southwest Bakes With More Heat on the Way</h3>
@@ -81,21 +85,21 @@ There is record-breaking heat in the Southwestern United States, while heavy rai
 <sub><sub>Sunday, July 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Says Ukraine Is Not Ready for NATO Membership</h3>
+<sub>By Katie Rogers</sub>
+<p>President Biden, who will attend a NATO summit in Europe this week, said it was “premature” to allow Ukraine to join the alliance as the war with Russia continues.  <a href="https://nyti.ms/44yAJla"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Where Clarence Thomas Entered an Elite Circle and Opened a Door to the Court</h3>
 <sub>By Abbie VanSickle and Steve Eder</sub>
 <p>The exclusive Horatio Alger Association brought the justice access to wealthy members and unreported V.I.P. treatment. He, in turn, offered another kind of access.  <a href="https://nyti.ms/44CBF7Y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Says Ukraine Is Not Ready for NATO Membership</h3>
-<sub>By Katie Rogers</sub>
-<p>President Biden, who will attend a NATO summit in Europe this week, said it was “premature” to allow Ukraine to join the alliance as the war with Russia continues.  <a href="https://nyti.ms/44yAJla"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>From Cell to City Hall: Candidate’s Win Shows Shift in Politics of Crime</h3>
-<sub>By Corey Kilgannon</sub>
-<p>After a wrongful conviction in a notorious rape, Yusef Salaam was freed and won an election. His case was part of a wave of exonerations created by discredited police tactics.  <a href="https://nyti.ms/3rcwWeS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>For a President and a King, the View From the Top Is Curiously Similar</h3>
+<sub>By Zolan Kanno-Youngs and Mark Landler</sub>
+<p>Despite hints of tension between Washington and London, President Biden and King Charles III share interests — and have faced comparable challenges — that should help smooth their meeting.  <a href="https://nyti.ms/44Bajzj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-well-blue" alt="">
@@ -103,6 +107,12 @@ There is record-breaking heat in the Southwestern United States, while heavy rai
 <sub>By Dani Blum</sub>
 <p>Sleep needs shift throughout the lifespan. Experts offer tips to get more rest —  no matter how old you are.  <a href="https://nyti.ms/44BpDM6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>From Cell to City Hall: Candidate’s Win Shows Shift in Politics of Crime</h3>
+<sub>By Corey Kilgannon</sub>
+<p>After a wrongful conviction in a notorious rape, Yusef Salaam was freed and won an election. His case was part of a wave of exonerations created by discredited police tactics.  <a href="https://nyti.ms/3rcwWeS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Number of Migrants at the Border Plunges as Mexico Helps U.S. to Stem Flow</h3>
@@ -121,12 +131,6 @@ There is record-breaking heat in the Southwestern United States, while heavy rai
 <sub>By Julia Jacobs</sub>
 <p>A trial starting on Monday is to decide whether either of two handwritten documents represents the singer’s last wishes. Her sons have battled in court for years over the question.  <a href="https://nyti.ms/3D2X6U8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>M.L.B. Draft Trades Magic for Efficiency</h3>
-<sub>By Tyler Kepner</sub>
-<p>The days of unlimited picks are over, and while the league says the opportunities are still there, previous late-round picks aren’t so sure.  <a href="https://nyti.ms/3O5Bm0l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>In Line? Online? Either Way, a Ticket to Frustration for Pantheon Tourists</h3>
