@@ -60,31 +60,25 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, July 10, Central Standard Time</p>
 <p>
-There is a lot going on around the world right now. For instance, tension is increasing among NATO allies as questions over Ukraine&#39;s membership lingers. Turkish president Erdogan is demanding that the EU clear the way for Sweden to join NATO in a surprise move just before their summit. Poland is facing a complicated situation as Ukrainian refugees arrive due to Russia and its war in Ukraine, while also bringing up past trauma from ethnic pogroms. The Southwestern US is also suffering from a heat dome bringing record-breaking temperatures. In Europe this past summer, researchers claim that heat waves killed 61,000 people and strategies to cope with higher temperatures are not keeping up with global warming. Fox&#39;s legal case may be threatened as Tucker Carlson allegedly backed a conspiracy theory about an Arizona man who may sue for defamation. President Biden and King Charles III recently had a meeting, despite hints of tension between their countries, since they share interests and challenges similar to one another. Lastly, NASCAR driver Lawrence G. Nassar was recently stabbed multiple times in prison and Robert Downey Jr. has been promoting his new movie &quot;Oppenheimer&quot; with his transition out of Marvel Studios. Lastly, if it&#39;s too hot outside to cook use these 24 no-cook recipes as an alternative!</p>
+There&#39;s a lot going on right now! It looks like NATO is having some difficulty sustaining unity. On the international front, Russian President Vladimir Putin had a three-hour meeting with someone called Prigozhin. Climate-wise, there&#39;s been an increase in devastating floods, heat waves, and storms throughout the US, leading to 61,000 deaths in Europe last year. In business news, there&#39;s talk of a potential lawsuit against Fox News and Tucker Carlson for defamation. Speaking of lawsuits, recently the prosecutor in the Hunter Biden case disputes the I.R.S. official&#39;s account and Lawrence G. Nassar, 59, was attacked by another inmate at a federal prison in Central Florida. In lighter news, there are some cool summer recipes circulating when it&#39;s too hot to cook anything on the stove and artists and designers are finding ways to address contemporary anxieties with early modern European history themes. Finally, cluster munitions have been sent to Ukraine which has caused some ethical debate as they pose a continuing risk to people there.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>As NATO Gathers, Unity Among the Alliance Has Become Harder to Sustain</h3>
-<sub>By David E. Sanger and Steven Erlanger</sub>
-<p>The international cooperation celebrated by President Biden has been challenged as the war in Ukraine drags on and questions linger over that country’s membership in the alliance.  <a href="https://nyti.ms/3JLxqPt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub>By David E. Sanger, Steven Erlanger and Lara Jakes</sub>
+<p>Even as Sweden now appears close to joining the alliance, the international cooperation celebrated by President Biden has been challenged as the war in Ukraine drags on.  <a href="https://nyti.ms/3JLxqPt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Erdogan Says E.U. Must ‘Clear the Way’ for Turkey Before It Will Support Sweden’s NATO Bid</h3>
-<sub>By Ben Hubbard</sub>
-<p>The Turkish president’s surprising new demand was bound to frustrate other leaders in the military alliance one day before a high-profile summit.  <a href="https://nyti.ms/43hYrkA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Putin and Prigozhin held a meeting in June, their first known contact since the mutiny.</h3>
+<sub>By Paul Sonne</sub>
+<p>President Vladimir V. Putin held a three-hour meeting with  <a href="https://nyti.ms/44hRpxs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Tangled Past Complicates Poland’s Welcome to Ukrainian Refugees</h3>
-<sub>By Andrew Higgins</sub>
-<p>Polish memories of ethnic pogroms by Ukrainian nationalists in the 1940s jostle with the trauma left by Russia and its war in Ukraine.  <a href="https://nyti.ms/3D724PS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Climate Disasters Daily? Welcome to the ‘New Normal.’</h3>
+<sub>By David Gelles</sub>
+<p>Around the United States, dangerous floods, heat and storms are happening more frequently.  <a href="https://nyti.ms/44ERM5k"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Southwest Bakes With More Heat on the Way</h3>
-<sub>By John Washington, Anna Betts and Maria Jimenez Moya</sub>
-<p>Phoenix could be on track to break its record of 18 consecutive days with temperatures above 110 as a heat dome has settled over the desert Southwest.  <a href="https://nyti.ms/3NIJ7rE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>Summer Heat Waves Killed 61,000 in Europe Last Year, Study Says</h3>
@@ -111,9 +105,9 @@ There is a lot going on around the world right now. For instance, tension is inc
 <sub><sub>Monday, July 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Tuberville Blockade Over Abortion Policy Threatens Top Military Promotions</h3>
-<sub>By Karoun Demirjian</sub>
-<p>The Alabama Republican’s bid to force the Pentagon to drop a policy ensuring access to abortion services for personnel could leave the Joint Chiefs of Staff with more temporary occupants than it has ever faced.  <a href="https://nyti.ms/44iO6pO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Prosecutor Rebuts I.R.S. Official’s Account of Request in Hunter Biden Case</h3>
+<sub>By Glenn Thrush</sub>
+<p>David Weiss, the U.S. attorney in Delaware, said he never asked to be named a special counsel, disputing testimony to a House panel.  <a href="https://nyti.ms/3D5ArGH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -122,16 +116,22 @@ There is a lot going on around the world right now. For instance, tension is inc
 <p>Lawrence G. Nassar, 59, is in stable condition after he was attacked by another inmate at a federal prison in Central Florida.  <a href="https://nyti.ms/3JPpEUS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Robert Downey Jr.’s Post-Marvel Balancing Act</h3>
-<sub>By David Marchese</sub>
-<p>“I regained my connection with a more purist approach to making movies,” says the co-star of “Oppenheimer.”  <a href="https://nyti.ms/3D5sL7j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 9, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-dining-blue" alt="">
 <h3>It’s Too Hot to Cook. Make These Cool Summer Recipes Instead.</h3>
 <sub>By Krysten Chambrot</sub>
 <p>Here are 24 no-cook recipes for when it’s too sweltering outside to sear, roast, sauté, boil or even think of turning on the stove.  <a href="https://nyti.ms/3uXK3zK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-t-magazine-blue" alt="">
+<h3>The Renaissance Is Having a Renaissance</h3>
+<sub>By Rachel Wetzler</sub>
+<p>In revisiting early modern European history, artists and designers are finding old ways to address contemporary anxieties.  <a href="https://nyti.ms/44hAD1E"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>The Flawed Moral Logic of Sending Cluster Munitions to Ukraine</h3>
+<sub>By The Editorial Board</sub>
+<p>The weapons will remain a threat to the people of Ukraine, no matter the outcome of this conflict.  <a href="https://nyti.ms/43geDD6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 10, Central Standard Time</sub></sub>
 <hr/>
 </ol>
