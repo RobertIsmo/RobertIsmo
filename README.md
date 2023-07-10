@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, July 9, Central Standard Time</p>
 <p>
-There is a heat wave happening in the Southwest US right now, with temperatures reaching as high as 110 degrees over several consecutive days and possibly breaking a record. Over the weekend, a storm system caused flash flooding along the Hudson Valley, causing at least one death. At the same time in Mississippi, a huge tornado swept through, leaving residents to deal with the destruction and decide whether to rebuild or move on. In terms of politics, President Biden recently said it is too early for Ukraine to become part of NATO as there is still ongoing conflict with Russia. On a more positive note, five members of an Azov regiment were freed from being held prisoner of war in Turkey and received a heroes&#39; welcome. Elsewhere, Yusef Salaam, who was wrongly convicted of rape and won an election afterward, is helping to inspire shift in politics about crime. In terms of health advice, experts are offering tips on how to sleep better regardless of age. Lastly, China and the US remain adversaries but are using more frequent communication to try and bridge their differences.</p>
+There is record-breaking heat in the Southwestern United States, while heavy rains caused flash flooding in some parts of New York. In Mississippi, people are still dealing with the aftermath of a devastating tornado. Meanwhile, President Biden spoke out against admitting Ukraine into NATO. In addition, Yusef Salaam won an election after being wrongfully convicted of a rape in New York. On the health front, experts have tips for how to sleep better, no matter your age. At the same time, Mexico is helping to stem the flow of migrants at its southern border with the U.S. Finally, there is a court case to decide whether one of two supposed wills is that of late icon Aretha Franklin. Lastly, Major League Baseball&#39;s draft process has changed dramatically in order to increase efficiency and prevent unlimited picks from previous years. There are also online ticketing issues for tourists hoping to visit some of Italy&#39;s most popular sites.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The Southwest Bakes With More Heat on the Way</h3>
@@ -92,12 +92,6 @@ There is a heat wave happening in the Southwest US right now, with temperatures 
 <p>President Biden, who will attend a NATO summit in Europe this week, said it was “premature” to allow Ukraine to join the alliance as the war with Russia continues.  <a href="https://nyti.ms/44yAJla"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Celebrates Return of Azov Commanders Held as Prisoners of War</h3>
-<sub>By Matthew Mpoke Bigg</sub>
-<p>Five members of the regiment returned home from Turkey to a heroes’ welcome on Saturday. The Kremlin accused Ankara of violating the terms of the deal that freed them.  <a href="https://nyti.ms/3rf3eG5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 9, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>From Cell to City Hall: Candidate’s Win Shows Shift in Politics of Crime</h3>
 <sub>By Corey Kilgannon</sub>
@@ -122,17 +116,23 @@ There is a heat wave happening in the Southwest US right now, with temperatures 
 <p>México está tomando medidas para evitar aglomeraciones a lo largo de la frontera. Pero la calma puede durar poco.  <a href="https://nyti.ms/3XHpRPQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>China and the U.S., Still Adversaries, Are Talking. That’s a Start.</h3>
-<sub>By Alan Rappeport and Keith Bradsher</sub>
-<p>Treasury Secretary Janet Yellen, after 10 hours of meetings with Chinese officials, said the two sides would pursue “more frequent communication” despite their deep differences.  <a href="https://nyti.ms/46zSRNz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Is Aretha Franklin’s True Will the One Found in the Couch or a Cabinet?</h3>
+<sub>By Julia Jacobs</sub>
+<p>A trial starting on Monday is to decide whether either of two handwritten documents represents the singer’s last wishes. Her sons have battled in court for years over the question.  <a href="https://nyti.ms/3D2X6U8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>‘Several Things Have Shocked Me’: An Ex-Insider on Business in China</h3>
-<sub>By Ravi Mattu</sub>
-<p>Desmond Shum built a multibillion-dollar empire in the boom times, and says the economy is in far worse shape than outsiders realize.  <a href="https://nyti.ms/43igyqL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 8, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>M.L.B. Draft Trades Magic for Efficiency</h3>
+<sub>By Tyler Kepner</sub>
+<p>The days of unlimited picks are over, and while the league says the opportunities are still there, previous late-round picks aren’t so sure.  <a href="https://nyti.ms/3O5Bm0l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Line? Online? Either Way, a Ticket to Frustration for Pantheon Tourists</h3>
+<sub>By Elisabetta Povoledo</sub>
+<p>There is now a 5 euro fee to get into one of Italy’s most popular sites, but the process has been bewildering for some, and there are fears the system could be abused.  <a href="https://nyti.ms/44CSobE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 9, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
