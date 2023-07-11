@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, July 11, Central Standard Time</p>
 <p>
-There are a lot of things happening around the world right now. In the US, there is a long-running heatwave that has been intensifying in the Southwest. There is also a court battle over documents related to former President Donald Trump. Meanwhile, over in Europe, there is tension as protesters have gathered at an Israeli airport in objection to a government plan to limit judicial oversight. Additionally, Turkish President Recep Tayyip Erdogan appears to be refocusing his attention from Russia to the West, raising speculation about the future of diplomatic ties. Finally, there is business news as well; Microsoft is set to finalize a $70 billion deal with Activision and presidential candidate Vivek Ramaswamy has developed an innovative fundraising strategy.</p>
+It looks like climate change is really hitting home for many people. Vermont recently experienced devastating floods linked to climate change, and there&#39;s even a lack of comprehensive data and maps in the US when it comes to preparing for storms intensified by climate change. At the same time, in the international world, Turkish President Recep Tayyip Erdogan might be attempting to mend ties with the Biden administration by scaling back close ties with Russia. Meanwhile, protests have broken out in response to plans by Israel&#39;s governing coalition to limit the power of its Supreme Court. And in the US, former President Trump is still making news; his lawyers are asking for an indefinite postponement of a trial related to documents, he&#39;s picking fights in Iowa (despite 2024 consequences), and his legal team is trying to avoid &quot;smoke and mirrors&quot; in their online fund-raising. On a lighter note, Mattel enlisted Greta Gerwig to write a summer blockbuster as part of their new wave of brand-extension movies. We&#39;re also hearing about the resolution of a family dispute over Aretha Franklin&#39;s estate involving a handwritten will found in her couch after her death, and an A.I. start-up that&#39;s striving to prevent an A.I. apocalypse while competing with ChatGPT.</p>
 <ol>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>Vermont Floods Show Limits of America’s Efforts to Adapt to Climate Change</h3>
@@ -69,33 +69,21 @@ There are a lot of things happening around the world right now. In the US, there
 <sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Heat Down Below Is Making the Ground Shift Under Chicago</h3>
-<sub>By Raymond Zhong and Jamie Kelter Davis</sub>
-<p>Basements and train tunnels constantly leak heat, causing the land to sink and straining building foundations. Scientists call it “underground climate change.”  <a href="https://nyti.ms/3Dr8GsB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>When Climate Change Hits Home</h3>
+<sub>By David Gelles</sub>
+<p>A dispatch from the flooded house of our new lead writer.  <a href="https://nyti.ms/3pGoa8J"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Heat Endures in the Southwest as the Monsoon Season Lags</h3>
-<sub>By Jacey Fortin and Mary Beth Gahan</sub>
-<p>A high-pressure dome parked over the Southwest is elevating temperatures from Florida to California, a heat wave that forecasters say could last two weeks.  <a href="https://nyti.ms/3PL3NBU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>See How Much Rain Fell in the Northeast</h3>
+<sub>By Judson Jones and Lazaro Gamio</sub>
+<p>Mapping where the extreme levels of rainfall in the Northeast unleashed widespread flooding across the region.  <a href="https://nyti.ms/3XJoD6F"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Dirty Socks and Rotting Bodies: What Russians Left Behind in the Trenches</h3>
-<sub>By Andrew E. Kramer and David Guttenfelder</sub>
-<p>As Ukrainian troops inch forward in the counteroffensive, they are occupying positions abandoned by enemy troops. Says one: “It’s not very pleasant.”  <a href="https://nyti.ms/44kJYWp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Erdogan’s U-turn on Sweden could signal a warming of ties with the West.</h3>
-<sub>By Ben Hubbard</sub>
-<p>Long seen as an in-house disrupter in NATO, President Recep Tayyip Erdogan of Turkey could be scaling back his close ties with Russia.  <a href="https://nyti.ms/3pR8TSm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Lawyers Seek Indefinite Postponement of Documents Trial</h3>
-<sub>By Alan Feuer and Maggie Haberman</sub>
-<p>The former president’s legal team argued in a court filing that no trial date should be set until all “substantive motions” in the case were resolved, setting up an early key decision by Judge Aileen M. Cannon.  <a href="https://nyti.ms/3D8wdy4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Erdogan’s Flip on Sweden Signals Mending of Ties With U.S.</h3>
+<sub>By Ben Hubbard and Zolan Kanno-Youngs</sub>
+<p>Long seen as an in-house disrupter in NATO, President Recep Tayyip Erdogan of Turkey could be trying to repair relations with the Biden administration, partly by scaling back close ties with Russia.  <a href="https://nyti.ms/3pR8TSm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
@@ -110,16 +98,16 @@ There are a lot of things happening around the world right now. In the US, there
 <p>Tens of thousands of demonstrators across the country caused widespread disruption after the governing coalition pushed forward with plans to limit the power of the Supreme Court.  <a href="https://nyti.ms/44jGNOO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israeli Government Presses Ahead With Judicial Overhaul</h3>
-<sub>By Patrick Kingsley</sub>
-<p>In a first reading of a bill that would limit the Supreme Court’s ability to strike down decisions by elected officials, lawmakers voted to pass the provision early Tuesday. Here’s what to know.  <a href="https://nyti.ms/3NGqe8J"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 10, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Lawyers Seek Indefinite Postponement of Documents Trial</h3>
+<sub>By Alan Feuer and Maggie Haberman</sub>
+<p>The former president’s legal team argued in a court filing that no trial date should be set until all “substantive motions” in the case were resolved, setting up an early key decision by Judge Aileen M. Cannon.  <a href="https://nyti.ms/3D8wdy4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Judge Rejects F.T.C. Delay of $70 Billion Microsoft-Activision Deal</h3>
-<sub>By Kellen Browning, David McCabe and Karen Weise</sub>
-<p>Microsoft also said it was negotiating changes to the deal to satisfy objections made by a British regulator, which could allow it to complete its purchase of the video game giant as soon as this month.  <a href="https://nyti.ms/3KfYXcr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Is Picking Fights in Iowa, No Matter the 2024 Consequences</h3>
+<sub>By Shane Goldmacher and Maggie Haberman</sub>
+<p>The former president snubbed one influential Iowa leader and attacked another, testing his immunity to traditional political pitfalls in a crucial state.  <a href="https://nyti.ms/44hYOgk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -128,10 +116,22 @@ There are a lot of things happening around the world right now. In the US, there
 <p>Diverging from Donald Trump, who has often cajoled, guilt-tripped and even misled small donors, the DeSantis team is pledging to avoid “smoke and mirrors” in its online fund-raising.  <a href="https://nyti.ms/44GE2qn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Vivek Ramaswamy Takes Aim at a Political Fund-raising ‘Oligopoly’</h3>
-<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
-<p>The longshot Republican candidate is seeking to raise an army of fund-raisers — by giving them a cut of any money they collect for his campaign.  <a href="https://nyti.ms/3JPEDOw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Former Manson Family Member Leslie Van Houten Is Released on Parole</h3>
+<sub>By Derrick Bryson Taylor</sub>
+<p>At the direction of Charles Manson, Ms. Van Houten participated in the murder of a California couple in 1969. She was initially sentenced to death.  <a href="https://nyti.ms/3PSnEiK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Four Pages Found in a Couch Are Ruled Aretha Franklin’s True Will</h3>
+<sub>By Ben Sisario and Ryan Patrick Hooper</sub>
+<p>In deciding a family dispute over her estate, a jury in Michigan ruled that a handwritten document found in a couch at Franklin’s home after her death represented her last wishes.  <a href="https://nyti.ms/3XMx3tP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Inside the White-Hot Center of A.I. Doomerism</h3>
+<sub>By Kevin Roose</sub>
+<p>Anthropic, a safety-focused A.I. start-up, is trying to compete with ChatGPT while preventing an A.I. apocalypse. It’s been a little stressful.  <a href="https://nyti.ms/44Ae3Sd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
 <hr/>
 </ol>
