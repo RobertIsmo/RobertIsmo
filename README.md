@@ -60,11 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, July 11, Central Standard Time</p>
 <p>
-It&#39;s been a turbulent time in the world lately. In Russia, troops have uncovered a depressing sight as they advance in a counteroffensive - dirty socks, rotting bodies, and other detritus left behind by abandoning enemy forces. In Norway, the war in Ukraine is threatening livelihoods in the Arctic Circle by disrupting cross-border trade that had been a mainstay up there. NATO has played an important role in attempting to push back against Russian aggression since Ukraine is not a member of NATO. 
-
-Meanwhile, there&#39;s some really weird weather patterns happening as a result of climate change here in the US - heat beneath the ground is causing parts of Chicago to sink, and Southern California is experiencing landslides which are taking out hillsides and houses. Japan&#39;s been hit with torrential rain leading to devastating floods and landslides, and back here in America students&#39; academic progress has stalled for the past school year despite billions of dollars of federal aid. 
-
-In Israel, people are protesting government plans to curb judicial power evidenced by large scale demonstrations and disruption throughout the country. And lastly, former president Trump&#39;s lawyers are pushing for an indefinite postponement of his documents trial before Judge Aileen M. Cannon makes her decision on all motions at hand.</p>
+There is a lot going on in the world right now. In Ukraine, there is a counteroffensive going on and many Russian troops have abandoned their positions, leaving dirty socks and dead bodies behind. This is threatening livelihoods in the Arctic Circle as cross-border trade has been disrupted. NATO has become central to the pushback against Russia even though Ukraine isn&#39;t a member. In the US, there is an extreme heat wave affecting much of the Southwest and areas like Chicago have seen land shift due to all the excess heat underground. California is also dealing with landslides that have destroyed hilltop homes in Palos Verdes and left residents fleeing. Meanwhile, businesses have prevented governments from penalizing companies that park trains across roads for hours or days, leaving local officials without many options. There is also a court case involving former President Trump that his lawyers are seeking indefinite postponement for. Finally, AI technology is being used to make jokes, but it&#39;s not doing much to help humanity right now. Lastly, students in the US aren&#39;t making any progress in reading or math according to a recent study. Lastly, there have been protests in Israel caused by plans to limit the power of the Supreme Court.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Dirty Socks and Rotting Bodies: What Russians Left Behind in the Trenches</h3>
@@ -91,16 +87,16 @@ In Israel, people are protesting government plans to curb judicial power evidenc
 <sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Heat Endures in the Southwest as the Monsoon Season Lags</h3>
+<sub>By Jacey Fortin and Mary Beth Gahan</sub>
+<p>A high-pressure dome parked over the Southwest is elevating temperatures from Florida to California, a heat wave that forecasters say could last two weeks.  <a href="https://nyti.ms/3PL3NBU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In Southern California, Hilltop Homes Sink Into a Canyon</h3>
 <sub>By Corina Knoll and Shawn Hubler</sub>
 <p>A landslide destroyed a dozen homes and forced residents to flee a wealthy city on the Palos Verdes Peninsula. The effects of torrential winter storms may be to blame.  <a href="https://nyti.ms/44jTpoX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘Heaviest Rain Ever’ in Japan’s South Sets Off Floods and Landslides</h3>
-<sub>By John Yoon and Hisako Ueno</sub>
-<p>Unusually heavy rain on the mountainous island of Kyushu has killed at least six people and left three others missing.  <a href="https://nyti.ms/3pFlJmR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Blocked Rail Crossings Snarl Towns, but Congress Won’t Act</h3>
