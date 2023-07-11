@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Monday, July 10, Central Standard Time</p>
+<p>It is Tuesday, July 11, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now! First, Turkey cleared the way for Sweden to join NATO on the eve of a summit, which is a big movement towards unity for the military alliance considering the ongoing war in Ukraine. Following this, Russian President Putin recently held a meeting with Yevgeny V. Prigozhin and other mercenary leaders who he had previously condemned as “traitors” during a mutiny, which shows how powerful these individuals are. In addition, climate disasters that include dangerous floods, heat waves, and storms are happening more frequently all over the United States. In Vermont, roads are being flooded and river levels are expected to crest in the upcoming days. Other areas like New York’s Hudson Valley and Highland Falls have experienced a lot of rain and destruction from these natural disasters as well. On the political side, President Biden is taking high-level diplomatic measures with China to bring tensions between both countries under control before the 2024 U.S. elections. Lastly, at least one person died due to botched police responses in Philadelphia to a fatal shooting and there may be court action for ongoing issues at Rikers jail facilities regarding living conditions. On a healthier note, it’s too hot outside to think about cooking but don’t worry—there are still cool recipes out there that you can easily make without having to turn on your stove or oven!</p>
+There are a few big things happening in the world right now. First, tensions between the US and China are high, and President Biden is hoping some high-level diplomacy will help bring them down. Second, NATO might be welcoming Sweden into its ranks soon, which would project unity among the nations involved. Third, a lot of extreme weather events have been happening in the US lately: floods, heat waves, and storms. And finally, there&#39;s been an ongoing investigation into the finances of Hunter Biden that recently hit some snags.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Turkey Clears the Way for Sweden’s Entry to NATO on the Eve of Summit</h3>
@@ -104,10 +104,10 @@ There is a lot happening in the world right now! First, Turkey cleared the way f
 <p>President Biden hopes the diplomatic trips this summer by his aides lead to frank talks with Xi Jinping and other Chinese officials before the 2024 U.S. elections.  <a href="https://nyti.ms/3NFDLxc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>They Caught the Fish, but the $3.5 Million Prize Got Away</h3>
-<sub>By Brandon Sneed</sub>
-<p>The guys aboard Sensation celebrated like lottery winners when they boated a monster marlin in the last hours of the fishing tournament. The party ended when they got back to shore.  <a href="https://nyti.ms/44iO6WQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. Students’ Progress Stagnated Last School Year, Study Finds</h3>
+<sub>By Sarah Mervosh</sub>
+<p>Despite billions in federal aid, students are not making up ground in reading and math: “We are actually seeing evidence of backsliding.”  <a href="https://nyti.ms/3O7jBgR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
