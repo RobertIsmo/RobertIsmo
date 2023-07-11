@@ -60,18 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, July 10, Central Standard Time</p>
 <p>
-There&#39;s a lot going on right now! It looks like NATO is having some difficulty sustaining unity. On the international front, Russian President Vladimir Putin had a three-hour meeting with someone called Prigozhin. Climate-wise, there&#39;s been an increase in devastating floods, heat waves, and storms throughout the US, leading to 61,000 deaths in Europe last year. In business news, there&#39;s talk of a potential lawsuit against Fox News and Tucker Carlson for defamation. Speaking of lawsuits, recently the prosecutor in the Hunter Biden case disputes the I.R.S. official&#39;s account and Lawrence G. Nassar, 59, was attacked by another inmate at a federal prison in Central Florida. In lighter news, there are some cool summer recipes circulating when it&#39;s too hot to cook anything on the stove and artists and designers are finding ways to address contemporary anxieties with early modern European history themes. Finally, cluster munitions have been sent to Ukraine which has caused some ethical debate as they pose a continuing risk to people there.</p>
+Well, there&#39;s been a lot of news around the world lately. Turkey and Sweden are getting closer to joining NATO, Russian president Putin met with mercenary leaders he had called traitors recently, climate changes have been causing more natural disasters, and people need to be more prepared for extreme weather. In Vermont and New York&#39;s Hudson Valley, severe flooding has forced people to evacuate, and help has been rushing to affected areas. On the political front, President Biden is hoping to use diplomacy to cool US-China relations before the next American election. There was also a recent case where former Fox News presenter Tucker Carlson may face a defamation lawsuit over his coverage of an Arizona man. Oh, and I almost forgot, an I.R.S. official recently testified to a House panel about a request surrounding the Hunter Biden case, but the U.S. attorney in Delaware said his account wasn&#39;t true! On something much lighter--it&#39;s too hot these days for cooking so there are some really great no-cook summer recipes that you can try out instead!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>As NATO Gathers, Unity Among the Alliance Has Become Harder to Sustain</h3>
-<sub>By David E. Sanger, Steven Erlanger and Lara Jakes</sub>
-<p>Even as Sweden now appears close to joining the alliance, the international cooperation celebrated by President Biden has been challenged as the war in Ukraine drags on.  <a href="https://nyti.ms/3JLxqPt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Turkey Clears the Way for Sweden’s Entry to NATO on the Eve of Summit</h3>
+<sub>By David E. Sanger, Steven Erlanger, Ben Hubbard and Lara Jakes</sub>
+<p>The announcement allows the military alliance to project unity, which is getting harder to sustain as the war in Ukraine goes on.  <a href="https://nyti.ms/3JLxqPt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Putin and Prigozhin held a meeting in June, their first known contact since the mutiny.</h3>
+<h3>Putin Met With Mercenary Leaders He Had Called Traitors During Mutiny</h3>
 <sub>By Paul Sonne</sub>
-<p>President Vladimir V. Putin held a three-hour meeting with  <a href="https://nyti.ms/44hRpxs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The Kremlin’s disclosure of the meeting with Yevgeny V. Prigozhin and other Wagner group commanders hinted at the power they wield, but left many questions unanswered.  <a href="https://nyti.ms/44k5Uko"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
@@ -80,10 +80,16 @@ There&#39;s a lot going on right now! It looks like NATO is having some difficul
 <p>Around the United States, dangerous floods, heat and storms are happening more frequently.  <a href="https://nyti.ms/44ERM5k"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Summer Heat Waves Killed 61,000 in Europe Last Year, Study Says</h3>
-<sub>By Delger Erdenesanaa</sub>
-<p>Researchers suggest that strategies to cope with higher temperatures aren’t keeping pace with global warming.  <a href="https://nyti.ms/3pxnanq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Flooding Closes Roads and Threatens Towns Through Much of Vermont</h3>
+<sub>By Liam Stack, Jesse McKinley and Kristin Chapman</sub>
+<p>At least one person died as rain inundated New York’s Hudson Valley and the surrounding areas. In Vermont, rivers were expected to crest on Tuesday.  <a href="https://nyti.ms/46E1E0O"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>When the Water Rushed In, Help Rushed Over</h3>
+<sub>By Michael Wilson</sub>
+<p>It was as if a river had suddenly been diverted into an apartment complex in Highland Falls, N.Y.  <a href="https://nyti.ms/3O7VPkX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -93,15 +99,27 @@ There&#39;s a lot going on right now! It looks like NATO is having some difficul
 <sub><sub>Monday, July 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>For a President and a King, the View From the Top Is Curiously Similar</h3>
-<sub>By Zolan Kanno-Youngs and Mark Landler</sub>
-<p>Despite hints of tension between Washington and London, President Biden and King Charles III share interests and have faced comparable challenges, which might have helped smooth their meeting.  <a href="https://nyti.ms/44Bajzj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 9, Central Standard Time</sub></sub>
+<h3>Biden Bets High-Level Diplomacy Can Cool Fiery Relations With China</h3>
+<sub>By Edward Wong, Keith Bradsher and Alan Rappeport</sub>
+<p>President Biden hopes the diplomatic trips this summer by his aides lead to frank talks with Xi Jinping and other Chinese officials before the 2024 U.S. elections.  <a href="https://nyti.ms/3NFDLxc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>They Caught the Fish, but the $3.5 Million Prize Got Away</h3>
 <sub>By Brandon Sneed</sub>
 <p>The guys aboard Sensation celebrated like lottery winners when they boated a monster marlin in the last hours of the fishing tournament. The party ended when they got back to shore.  <a href="https://nyti.ms/44iO6WQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Judge Should Consider Contempt of Court Action Over Rikers, Monitor Says</h3>
+<sub>By Chelsia Rose Marcius and Hurubie Meko</sub>
+<p>A contempt finding could force the Correction commissioner, Louis A. Molina, to implement new policies to improve conditions in the jails.  <a href="https://nyti.ms/3JR2spw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Philadelphia Police Officials Detail Botched Response to a Fatal Shooting</h3>
+<sub>By Joel Wolfram and Campbell Robertson</sub>
+<p>Officers were sent to the wrong address, delaying discovery of the victim who investigators believe was the first of five people killed by the gunman.  <a href="https://nyti.ms/3pFHwL4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -110,28 +128,10 @@ There&#39;s a lot going on right now! It looks like NATO is having some difficul
 <p>David Weiss, the U.S. attorney in Delaware, said he never asked to be named a special counsel, disputing testimony to a House panel.  <a href="https://nyti.ms/3D5ArGH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Nassar Is Said to Have Been Stabbed Multiple Times in Florida Prison</h3>
-<sub>By Glenn Thrush</sub>
-<p>Lawrence G. Nassar, 59, is in stable condition after he was attacked by another inmate at a federal prison in Central Florida.  <a href="https://nyti.ms/3JPpEUS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 10, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-dining-blue" alt="">
 <h3>It’s Too Hot to Cook. Make These Cool Summer Recipes Instead.</h3>
 <sub>By Krysten Chambrot</sub>
 <p>Here are 24 no-cook recipes for when it’s too sweltering outside to sear, roast, sauté, boil or even think of turning on the stove.  <a href="https://nyti.ms/3uXK3zK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-t-magazine-blue" alt="">
-<h3>The Renaissance Is Having a Renaissance</h3>
-<sub>By Rachel Wetzler</sub>
-<p>In revisiting early modern European history, artists and designers are finding old ways to address contemporary anxieties.  <a href="https://nyti.ms/44hAD1E"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>The Flawed Moral Logic of Sending Cluster Munitions to Ukraine</h3>
-<sub>By The Editorial Board</sub>
-<p>The weapons will remain a threat to the people of Ukraine, no matter the outcome of this conflict.  <a href="https://nyti.ms/43geDD6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 10, Central Standard Time</sub></sub>
 <hr/>
 </ol>
