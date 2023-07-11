@@ -60,48 +60,70 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, July 11, Central Standard Time</p>
 <p>
-There are a lot of things going on in the world right now. For example, Turkey and Sweden have been pushing for entry into NATO on the eve of the summit while Russia is dealing with a mutiny and Putin has been meeting with mercenary group leaders he previously called traitors. On top of that, climate disasters have been becoming more frequent around the United States. And just recently, there was flooding in Vermont that closed roads and threatened towns—and help quickly came to an area where it seemed like a river suddenly diverted into an apartment complex in New York. But past recent events, President Biden is hoping international diplomacy can cool temperatures with China before the 2024 U.S. elections, while studies are finding students in the US are not making progress after getting billions of dollars from federal aid. There&#39;s also a case involving Fox Network and Tucker Carlson that could be a defamation lawsuit against an Arizona man if it goes forward. Plus, there&#39;s been scrutiny over police responses to fatal shootings in Philadelphia as well as questions surrounding the Correction Commissioner for Rikers Island Jail. But at least we can still make some cool summer recipes without having to cook!</p>
+It&#39;s been a turbulent time in the world lately. In Russia, troops have uncovered a depressing sight as they advance in a counteroffensive - dirty socks, rotting bodies, and other detritus left behind by abandoning enemy forces. In Norway, the war in Ukraine is threatening livelihoods in the Arctic Circle by disrupting cross-border trade that had been a mainstay up there. NATO has played an important role in attempting to push back against Russian aggression since Ukraine is not a member of NATO. 
+
+Meanwhile, there&#39;s some really weird weather patterns happening as a result of climate change here in the US - heat beneath the ground is causing parts of Chicago to sink, and Southern California is experiencing landslides which are taking out hillsides and houses. Japan&#39;s been hit with torrential rain leading to devastating floods and landslides, and back here in America students&#39; academic progress has stalled for the past school year despite billions of dollars of federal aid. 
+
+In Israel, people are protesting government plans to curb judicial power evidenced by large scale demonstrations and disruption throughout the country. And lastly, former president Trump&#39;s lawyers are pushing for an indefinite postponement of his documents trial before Judge Aileen M. Cannon makes her decision on all motions at hand.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Turkey Clears the Way for Sweden’s Entry to NATO on the Eve of Summit</h3>
-<sub>By David E. Sanger, Steven Erlanger, Ben Hubbard and Lara Jakes</sub>
-<p>The announcement allows the military alliance to project unity, which is getting harder to sustain as the war in Ukraine goes on.  <a href="https://nyti.ms/3JLxqPt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Dirty Socks and Rotting Bodies: What Russians Left Behind in the Trenches</h3>
+<sub>By Andrew E. Kramer and David Guttenfelder</sub>
+<p>As Ukrainian troops inch forward in the counteroffensive, they are occupying positions abandoned by enemy troops. Says one: “It’s not very pleasant.”  <a href="https://nyti.ms/44kJYWp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>How a Distant War Is Threatening Livelihoods in the Arctic Circle</h3>
+<sub>By Melissa Eddy and Patrick Junker</sub>
+<p>The fighting in Ukraine has disrupted a region in northern Norway that had thrived on cross-border trade and cooperation with Russia.  <a href="https://nyti.ms/44eAHPC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Putin Met With Mercenary Leaders He Had Called Traitors During Mutiny</h3>
-<sub>By Paul Sonne</sub>
-<p>The Kremlin’s disclosure of the meeting with Yevgeny V. Prigozhin and other Wagner group commanders hinted at the power they wield, but left many questions unanswered.  <a href="https://nyti.ms/44k5Uko"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 10, Central Standard Time</sub></sub>
+<h3>What Is NATO, and How Has the War in Ukraine Changed It?</h3>
+<sub>By Matthew Mpoke Bigg</sub>
+<p>This Western mutual-defense alliance is central to the pushback against Russia, even though Ukraine is not a member.  <a href="https://nyti.ms/3sMtO84"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Climate Disasters Daily? Welcome to the ‘New Normal.’</h3>
-<sub>By David Gelles</sub>
-<p>Around the United States, dangerous floods, heat and storms are happening more frequently.  <a href="https://nyti.ms/44ERM5k"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Flooding Closes Roads and Threatens Towns Through Much of Vermont</h3>
-<sub>By Liam Stack, Jesse McKinley and Kristin Chapman</sub>
-<p>At least one person died as rain inundated New York’s Hudson Valley and the surrounding areas. In Vermont, rivers were expected to crest on Tuesday.  <a href="https://nyti.ms/46E1E0O"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>When the Water Rushed In, Help Rushed Over</h3>
-<sub>By Michael Wilson</sub>
-<p>It was as if a river had suddenly been diverted into an apartment complex in Highland Falls, N.Y.  <a href="https://nyti.ms/3O7VPkX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Case That Could Be Fox’s Next Dominion</h3>
-<sub>By Jeremy W. Peters and Alan Feuer</sub>
-<p>Tucker Carlson, before he was sidelined by Fox, repeatedly endorsed a conspiracy theory about an Arizona man, who may sue for defamation. Legal experts say it would be a viable case.  <a href="https://nyti.ms/3O5HqFP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 10, Central Standard Time</sub></sub>
+<h3>Heat Down Below Is Making the Ground Shift Under Chicago</h3>
+<sub>By Raymond Zhong and Jamie Kelter Davis</sub>
+<p>Basements and train tunnels constantly leak heat, causing the land to sink and straining building foundations. Scientists call it “underground climate change.”  <a href="https://nyti.ms/3Dr8GsB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Bets High-Level Diplomacy Can Cool Fiery Relations With China</h3>
-<sub>By Edward Wong, Keith Bradsher and Alan Rappeport</sub>
-<p>President Biden hopes the diplomatic trips this summer by his aides lead to frank talks with Xi Jinping and other Chinese officials before the 2024 U.S. elections.  <a href="https://nyti.ms/3NFDLxc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>In Southern California, Hilltop Homes Sink Into a Canyon</h3>
+<sub>By Corina Knoll and Shawn Hubler</sub>
+<p>A landslide destroyed a dozen homes and forced residents to flee a wealthy city on the Palos Verdes Peninsula. The effects of torrential winter storms may be to blame.  <a href="https://nyti.ms/44jTpoX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘Heaviest Rain Ever’ in Japan’s South Sets Off Floods and Landslides</h3>
+<sub>By John Yoon and Hisako Ueno</sub>
+<p>Unusually heavy rain on the mountainous island of Kyushu has killed at least six people and left three others missing.  <a href="https://nyti.ms/3pFlJmR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Blocked Rail Crossings Snarl Towns, but Congress Won’t Act</h3>
+<sub>By Peter Eavis, Mark Walker and Niraj Chokshi</sub>
+<p>The industry has used its muscle to prevent federal, state and local governments from penalizing companies that park freight trains across roads for hours or days.  <a href="https://nyti.ms/3pBBfAf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>When Trains Block a Road, Local Officials Have Few Options</h3>
+<sub>By Niraj Chokshi</sub>
+<p>The federal government has begun offering $3 billion for bridges and tunnels, but many local governments say they cannot take advantage of the money.  <a href="https://nyti.ms/44kVGAg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Lawyers Seek Indefinite Postponement of Documents Trial</h3>
+<sub>By Alan Feuer and Maggie Haberman</sub>
+<p>The former president’s legal team argued in a court filing that no trial date should be set until all “substantive motions” in the case were resolved, setting up an early key decision by Judge Aileen M. Cannon.  <a href="https://nyti.ms/3D8wdy4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>Is A.I. the Greatest Technology Ever for Making Dumb Jokes?</h3>
+<sub></sub>
+<p>It may or may not alter the course of humanity, but at least the memes are fun.  <a href="https://nyti.ms/3Y0fOpj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -110,29 +132,11 @@ There are a lot of things going on in the world right now. For example, Turkey a
 <p>Despite billions in federal aid, students are not making up ground in reading and math: “We are actually seeing evidence of backsliding.”  <a href="https://nyti.ms/3O7jBgR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Prosecutor Rebuts I.R.S. Official’s Account of Request in Hunter Biden Case</h3>
-<sub>By Glenn Thrush</sub>
-<p>David Weiss, the U.S. attorney in Delaware, said he never asked to be named a special counsel, disputing testimony to a House panel.  <a href="https://nyti.ms/3D5ArGH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Philadelphia Police Officials Detail Botched Response to a Fatal Shooting</h3>
-<sub>By Joel Wolfram and Campbell Robertson</sub>
-<p>Officers were sent to the wrong address, delaying discovery of the victim who investigators believe was the first of five people killed by the gunman.  <a href="https://nyti.ms/3pFHwL4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Judge Should Consider Contempt of Court Action Over Rikers, Monitor Says</h3>
-<sub>By Chelsia Rose Marcius and Hurubie Meko</sub>
-<p>A contempt finding could force the Correction commissioner, Louis A. Molina, to implement new policies to improve conditions in the jails.  <a href="https://nyti.ms/3JR2spw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-dining-blue" alt="">
-<h3>It’s Too Hot to Cook. Make These Cool Summer Recipes Instead.</h3>
-<sub>By Krysten Chambrot</sub>
-<p>Here are 24 no-cook recipes for when it’s too sweltering outside to sear, roast, sauté, boil or even think of turning on the stove.  <a href="https://nyti.ms/3uXK3zK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 10, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Protests Erupt in Israel as Government Takes Step to Rein In Judiciary</h3>
+<sub>By Patrick Kingsley</sub>
+<p>Demonstrators caused widespread disruption after the governing coalition moved forward with plans to limit the power of the Supreme Court.  <a href="https://nyti.ms/44jGNOO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
