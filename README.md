@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, July 10, Central Standard Time</p>
 <p>
-Well, there&#39;s been a lot of news around the world lately. Turkey and Sweden are getting closer to joining NATO, Russian president Putin met with mercenary leaders he had called traitors recently, climate changes have been causing more natural disasters, and people need to be more prepared for extreme weather. In Vermont and New York&#39;s Hudson Valley, severe flooding has forced people to evacuate, and help has been rushing to affected areas. On the political front, President Biden is hoping to use diplomacy to cool US-China relations before the next American election. There was also a recent case where former Fox News presenter Tucker Carlson may face a defamation lawsuit over his coverage of an Arizona man. Oh, and I almost forgot, an I.R.S. official recently testified to a House panel about a request surrounding the Hunter Biden case, but the U.S. attorney in Delaware said his account wasn&#39;t true! On something much lighter--it&#39;s too hot these days for cooking so there are some really great no-cook summer recipes that you can try out instead!</p>
+There is a lot happening in the world right now! First, Turkey cleared the way for Sweden to join NATO on the eve of a summit, which is a big movement towards unity for the military alliance considering the ongoing war in Ukraine. Following this, Russian President Putin recently held a meeting with Yevgeny V. Prigozhin and other mercenary leaders who he had previously condemned as “traitors” during a mutiny, which shows how powerful these individuals are. In addition, climate disasters that include dangerous floods, heat waves, and storms are happening more frequently all over the United States. In Vermont, roads are being flooded and river levels are expected to crest in the upcoming days. Other areas like New York’s Hudson Valley and Highland Falls have experienced a lot of rain and destruction from these natural disasters as well. On the political side, President Biden is taking high-level diplomatic measures with China to bring tensions between both countries under control before the 2024 U.S. elections. Lastly, at least one person died due to botched police responses in Philadelphia to a fatal shooting and there may be court action for ongoing issues at Rikers jail facilities regarding living conditions. On a healthier note, it’s too hot outside to think about cooking but don’t worry—there are still cool recipes out there that you can easily make without having to turn on your stove or oven!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Turkey Clears the Way for Sweden’s Entry to NATO on the Eve of Summit</h3>
@@ -110,10 +110,10 @@ Well, there&#39;s been a lot of news around the world lately. Turkey and Sweden 
 <p>The guys aboard Sensation celebrated like lottery winners when they boated a monster marlin in the last hours of the fishing tournament. The party ended when they got back to shore.  <a href="https://nyti.ms/44iO6WQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Judge Should Consider Contempt of Court Action Over Rikers, Monitor Says</h3>
-<sub>By Chelsia Rose Marcius and Hurubie Meko</sub>
-<p>A contempt finding could force the Correction commissioner, Louis A. Molina, to implement new policies to improve conditions in the jails.  <a href="https://nyti.ms/3JR2spw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Prosecutor Rebuts I.R.S. Official’s Account of Request in Hunter Biden Case</h3>
+<sub>By Glenn Thrush</sub>
+<p>David Weiss, the U.S. attorney in Delaware, said he never asked to be named a special counsel, disputing testimony to a House panel.  <a href="https://nyti.ms/3D5ArGH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -122,10 +122,10 @@ Well, there&#39;s been a lot of news around the world lately. Turkey and Sweden 
 <p>Officers were sent to the wrong address, delaying discovery of the victim who investigators believe was the first of five people killed by the gunman.  <a href="https://nyti.ms/3pFHwL4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Prosecutor Rebuts I.R.S. Official’s Account of Request in Hunter Biden Case</h3>
-<sub>By Glenn Thrush</sub>
-<p>David Weiss, the U.S. attorney in Delaware, said he never asked to be named a special counsel, disputing testimony to a House panel.  <a href="https://nyti.ms/3D5ArGH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Judge Should Consider Contempt of Court Action Over Rikers, Monitor Says</h3>
+<sub>By Chelsia Rose Marcius and Hurubie Meko</sub>
+<p>A contempt finding could force the Correction commissioner, Louis A. Molina, to implement new policies to improve conditions in the jails.  <a href="https://nyti.ms/3JR2spw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-dining-blue" alt="">
