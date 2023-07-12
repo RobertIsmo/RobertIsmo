@@ -60,36 +60,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, July 12, Central Standard Time</p>
 <p>
-Right now, there are a lot of things happening in the world. In Russia, there is uncertainty surrounding the military after one general was killed and another is absent. In terms of international security, Turkish President Erdogan is expressing skepticism towards Sweden&#39;s bid to join NATO. In terms of economics, inflation rates have cooled significantly in June which is a relief for shoppers and could signal a soft landing. Additionally, airfare prices have tumbled recently and airline tickets are cheaper than ever before. US President Biden has been touting the easing inflation as a result of his policies in what he calls &#39;Bidenomics&#39;. Meanwhile, sea temperatures off Florida&#39;s coast have been record-breakingly hot and this poses risks to coral reefs and other marine life. There have also been devastating floods in Vermont recently and, similarly, flash flooding is expected in Southern Arkansas and North Louisiana causing life-threatening situations. The FBI director is also testifying before a House panel as Republicans are trying to undermine the agency&#39;s legitimacy due to former President Donald Trump. Finally, Czech literary star Milan Kundera passed away at 94. His books were known for their sexually charged content as well as capturing the absurdity of life under communist rule.</p>
+There are a lot of interesting things happening in the world right now. At the NATO Summit, there was some progress made, but still some major divisions remain. President Biden is suggesting that the war may be very long, and Russian military officials are dealing with uncertainty in leadership. Inflation has cooled off in June, and there&#39;s a dangerous heat wave spreading across the south. The FBI is still facing opposition from congressional Republicans who think it&#39;s not legitimate. A mysterious neighbor helped bring attention to an overlooked form letter situation while the world mourns the death of author Milan Kundera. Emmy nominations have been released for 2023, as well as a list of Snubs and Surprises.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Despite Successes at NATO Summit, Divisions Remain</h3>
+<sub>By Steven Erlanger</sub>
+<p>The alliance added Sweden, laid out new ambitions for itself and offered long-term support for Ukraine, promising membership someday. But Kyiv wanted more.  <a href="https://nyti.ms/3Q1QOvw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Biden’s speech hints that the war may be very long.</h3>
+<sub>By David E. Sanger and Zolan Kanno-Youngs</sub>
+<p>  <a href="https://nyti.ms/44mDcj0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Russian Military Hit by Uncertainty as One General Is Killed and Another Remains Absent</h3>
 <sub>By Paul Sonne</sub>
 <p>A Russian lawmaker says that Gen. Sergei Surovikin, who has not been seen in public since a short-lived mutiny, has been “taking a rest.”  <a href="https://nyti.ms/3JTVoIA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Erdogan Says Yes, but Not So Fast, to Sweden’s NATO Bid</h3>
-<sub>By Ben Hubbard and Gulsin Harman</sub>
-<p>After voicing his support for Sweden joining NATO, President Erdogan of Turkey said Sweden needed to take more steps to win the support of his country’s parliament, which he said will not take up the matter until October.  <a href="https://nyti.ms/3pDiGeZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Inflation Cools Sharply in June, Good News for Consumers and the Fed</h3>
 <sub>By Jeanna Smialek</sub>
 <p>The Consumer Price Index climbed far more slowly in June, a relief for shoppers and a hopeful — though inconclusive — sign that America might pull off a “soft landing.”  <a href="https://nyti.ms/3D6Tbpv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Airfares tumble, helping bring down overall inflation.</h3>
-<sub>By Lydia DePillis</sub>
-<p>Ticket prices are subject to several idiosyncratic factors, but they have eased markedly since last summer’s surge in demand.  <a href="https://nyti.ms/44IMC86"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Biden Touts Easing Inflation as ‘Bidenomics in Action’</h3>
-<sub>By Alan Rappeport</sub>
-<p>The White House has been making the case that the president’s policies have kept the economy on a steady path and maintained a healthy labor market.  <a href="https://nyti.ms/46LCXiT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
@@ -99,39 +93,45 @@ Right now, there are a lot of things happening in the world. In Russia, there is
 <sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What to Know About Vermont’s Devastating Floods</h3>
-<sub>By Anna Betts</sub>
-<p>Forecasters are warning of more rain in the coming days after the state was inundated by a historic deluge.  <a href="https://nyti.ms/44jIg7N"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
+<h3>Dangerous Heat Wave Is Forecast to Get Worse</h3>
+<sub>By Judson Jones</sub>
+<p>Forecasters say dangerous heat is expected to return across the South. It could last another two weeks, and possibly longer.  <a href="https://nyti.ms/3XFzkH8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Flash Flooding Expected in Southern Arkansas and North Louisiana</h3>
-<sub>By Lauren McCarthy</sub>
-<p>The National Weather Service in Shreveport, La., warned that flash flooding could cause “a life-threatening situation.”  <a href="https://nyti.ms/44y3cro"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>F.B.I. Director Testifying Before House Panel as It Assails the Bureau</h3>
+<h3>F.B.I. Director Testifies Before House Panel as It Assails the Bureau</h3>
 <sub>By Adam Goldman and Glenn Thrush</sub>
 <p>Stoked by former President Donald J. Trump, congressional Republicans have been trying to undermine the F.B.I.’s legitimacy with the public.  <a href="https://nyti.ms/3XP1Aaz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>The A-Bomb, Selma, Broadway: She Saw It All and Knew Everyone</h3>
+<h3>The Glamorous Stranger Next Door Knew Everyone. And She Needed Help.</h3>
 <sub>By Michael Wilson</sub>
-<p>The mysterious neighbor brushed off Sinatra, snubbed DiMaggio and married one of the top stars of 1960s TV. Would an overlooked form letter be her downfall?  <a href="https://nyti.ms/3JWB8WC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Milan Kundera, Czech Literary Star and Communist Party Outcast, Dies at 94</h3>
-<sub>By Daniel Lewis</sub>
-<p>The author of “The Unbearable Lightness of Being,” he was known for sexually charged novels that captured the suffocating absurdity of life in his native Czechoslovakia.  <a href="https://nyti.ms/3XRi2XY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The mysterious neighbor claimed to have witnessed a nuclear detonation, marched on Selma and acted on Broadway. Would an overlooked form letter be her downfall?  <a href="https://nyti.ms/3JWB8WC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-books-blue" alt="">
 <h3>In Milan Kundera’s Work, the Erotic Meets the Subversive</h3>
 <sub>By Dwight Garner</sub>
 <p>His best novels, charged with a distrust of authority, retain their sweep and power.  <a href="https://nyti.ms/3JSeIWs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Milan Kundera, Literary Star Who Skewered Communist Rule, Dies at 94</h3>
+<sub>By Daniel Lewis</sub>
+<p>The author of “The Unbearable Lightness of Being,” he was known for sexually charged novels that captured the suffocating absurdity of life in his native Czechoslovakia.  <a href="https://nyti.ms/3XRi2XY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Emmy Nominees 2023: The Complete List</h3>
+<sub>By Rachel Sherman</sub>
+<p>The 75th Emmy Awards ceremony is planned for Sept. 18, but it may be delayed because of the Hollywood writers’ strike.  <a href="https://nyti.ms/3PVvbgI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Emmy Snubs and Surprises: ‘Jury Duty’ In, ‘Yellowstone’ Still Out</h3>
+<sub>By Mike Hale</sub>
+<p>The 75th Primetime Emmy nominations proceeded mostly as anticipated on Wednesday, but there were a few surprises.  <a href="https://nyti.ms/44o9KZQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
 <hr/>
 </ol>
