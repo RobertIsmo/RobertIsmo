@@ -60,12 +60,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, July 12, Central Standard Time</p>
 <p>
-In the US, hard-right Republicans are pushing for culture wars to be fought on defense bills, risking the passage of the bill. The FTC has suffered a court loss that is raising questions about their strategy against big tech companies. In international news, Turkey&#39;s President Erdogan is trying to mend ties with the Biden administration by cutting ties with Russia and NATO has announced some new pledges in relation to Ukraine. Floods in Vermont have exposed issues in America&#39;s ability to respond to climate change, while Phoenix is experiencing extreme temperatures. In Iowa, abortion access could be severely limited if a pushed-for new bill passes and Trump has been picking fights with state leaders in Iowa as part of his potential 2024 plans. Sports fans have found the latest obsession of grid-based gambling games involving Baseball teams, while an old couch was found to have Aretha Franklin&#39;s true will written in it. On a less positive note, Microsoft recently revealed that Chinese hackers managed to breach government email accounts for a month without being detected.</p>
+It looks like there are some worrying signs in the economy with the yield curve suggesting a recession. However, President Erdogan of Turkey is trying to smooth tensions with the US and repair relations with NATO. There has been a global shift to invest in its own military defense following the Russian invasion of Ukraine. Companies like Microsoft may feel bolder to move forward in takeovers, but the FTC has had a court loss which may point to flaws in their strategy. A new white paint which cools the temperature of roofs is being developed in Purdue. Additionally, Czech novelist Milan Kundera passed away at 94. Vermont has been hit by devastating floods recently and Iowa Republicans are moving to limit abortion. There&#39;s also a bit of culture war debate going on regarding this year&#39;s annual military budget and policy legislation.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Hard Right Presses Culture War Fights on Defense Bill, Imperiling Passage</h3>
-<sub>By Karoun Demirjian</sub>
-<p>Right-wing Republicans want to use the annual military budget and policy legislation, traditionally a bipartisan affair, as a tool to pick fights on abortion and other social issues.  <a href="https://nyti.ms/3NR5w67"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Wall Street’s Recession Warning Is Flashing. Some Wonder if it’s Wrong.</h3>
+<sub>By Joe Rennison</sub>
+<p>The yield curve began suggesting last year that the economy was headed for a slump.  <a href="https://nyti.ms/3JTxDjZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Erdogan’s Flip on Sweden Signals Mending of Ties With U.S.</h3>
+<sub>By Ben Hubbard and Zolan Kanno-Youngs</sub>
+<p>Long seen as an in-house disrupter in NATO, President Recep Tayyip Erdogan of Turkey could be trying to repair relations with the Biden administration, partly by scaling back close ties with Russia.  <a href="https://nyti.ms/3pR8TSm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>A Turning Point for Military Spending</h3>
+<sub>By David Leonhardt</sub>
+<p>Russia’s invasion of Ukraine has led to a new willingness for countries to pay for their own defense.  <a href="https://nyti.ms/44lQmwG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>What NATO Said About Ukraine: Highlights of the Alliance’s Communiqué</h3>
+<sub>By Steven Erlanger</sub>
+<p>Ukraine’s president wanted firmer commitments about when his country could join, but NATO’s 31 members did make some new pledges to draw Kyiv closer to the alliance.  <a href="https://nyti.ms/3D7ZtVA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -74,64 +92,46 @@ In the US, hard-right Republicans are pushing for culture wars to be fought on d
 <p>Lina Khan has said a fear of defeat should not deter the agency from suing big tech companies. But after Microsoft won a ruling this week, her critics say that strategy is flawed.  <a href="https://nyti.ms/3D9hEdD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Erdogan’s Flip on Sweden Signals Mending of Ties With U.S.</h3>
-<sub>By Ben Hubbard and Zolan Kanno-Youngs</sub>
-<p>Long seen as an in-house disrupter in NATO, President Recep Tayyip Erdogan of Turkey could be trying to repair relations with the Biden administration, partly by scaling back close ties with Russia.  <a href="https://nyti.ms/3pR8TSm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>What NATO Said About Ukraine: Highlights of the Alliance’s Communiqué</h3>
-<sub>By Steven Erlanger</sub>
-<p>Ukraine’s president wanted firmer commitments about when his country could join, but NATO’s 31 members did make some new pledges to draw Kyiv closer to the alliance.  <a href="https://nyti.ms/3D7ZtVA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>What the Microsoft-Activision Ruling Means for the Future of Deal-Making</h3>
+<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
+<p>Corporate leaders are feeling emboldened by another legal defeat for the Federal Trade Commission, though the agency may still fight to block the takeover.  <a href="https://nyti.ms/3XNzEDQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Vermont Floods Show Limits of America’s Efforts to Adapt to Climate Change</h3>
-<sub>By Christopher Flavelle and Rick Rojas</sub>
-<p>The lack of a comprehensive national rainfall database and current flood maps hampers the ability to prepare for storms intensified by climate change.  <a href="https://nyti.ms/44qQ8EI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
+<h3>How Hot Is the Sea Off Florida Right Now? Think 90s Fahrenheit.</h3>
+<sub>By Catrin Einhorn and Elena Shao</sub>
+<p>Researchers are recording ocean temperatures that pose severe risks to coral reefs and other marine life.  <a href="https://nyti.ms/3pPed8P"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>To Help Cool a Hot Planet, the Whitest of White Coats</h3>
+<sub>By Cara Buckley</sub>
+<p>Scientists at Purdue have created a white paint that, when applied, can reduce the surface temperature on a roof and cool the building beneath it.  <a href="https://nyti.ms/3NOmh1F"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Milan Kundera, Czech Literary Star and Communist Party Outcast, Dies at 94</h3>
+<sub>By Daniel Lewis</sub>
+<p>The author of “The Unbearable Lightness of Being,” he was known for sexually charged novels that captured the suffocating absurdity of life in his native Czechoslovakia.  <a href="https://nyti.ms/3XRi2XY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Cities and Small Towns, Vermonters Reckon With the Devastation of Flooding</h3>
-<sub>By Jenna Russell</sub>
-<p>Calls for search and rescue missions continued, as residents and business owners started assessing damage, fueling an anxious, unsettled mood.  <a href="https://nyti.ms/44HHstk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
+<h3>What to Know About Vermont’s Devastating Floods</h3>
+<sub>By Anna Betts</sub>
+<p>Forecasters are warning of more rain in the coming days after the state was inundated by a historic deluge.  <a href="https://nyti.ms/44jIg7N"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Phoenix, Heat Becomes a Brutal Test of Endurance</h3>
-<sub>By Jack Healy</sub>
-<p>Arizona is used to scorching summers, but the region’s 11th straight day of 110-degree temperatures is straining patience and resources.  <a href="https://nyti.ms/3NMgoSH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Hard Right Presses Culture War Fights on Defense Bill, Imperiling Passage</h3>
+<sub>By Karoun Demirjian</sub>
+<p>Right-wing Republicans want to use the annual military budget and policy legislation, traditionally a bipartisan affair, as a tool to pick fights on abortion and other social issues.  <a href="https://nyti.ms/3NR5w67"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Iowa Republicans Move to Sharply Limit Abortion</h3>
 <sub>By Mitch Smith</sub>
 <p>Gov. Kim Reynolds called the Legislature for a special session to consider sweeping new restrictions on abortion.  <a href="https://nyti.ms/43gXNDX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Is Picking Fights in Iowa, No Matter the 2024 Consequences</h3>
-<sub>By Shane Goldmacher and Maggie Haberman</sub>
-<p>The former president snubbed one influential Iowa leader and attacked another, testing his immunity to traditional political pitfalls in a crucial state.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>The Hottest Thing in Baseball Is a Grid of Nine Blank Squares</h3>
-<sub>By Tyler Kepner</sub>
-<p>Immaculate Grid has become a daily obsession for fans, journalists and even some ex-players. Being purchased by Baseball Reference should only help it grow.  <a href="https://nyti.ms/3XPxt2w"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Four Pages Found in a Couch Are Ruled Aretha Franklin’s True Will</h3>
-<sub>By Ben Sisario and Ryan Patrick Hooper</sub>
-<p>In deciding a family dispute over her estate, a jury in Michigan ruled that a handwritten document found in a couch at Franklin’s home after her death represented her last wishes.  <a href="https://nyti.ms/3XMx3tP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Chinese Hackers Breached Government Email Accounts, Microsoft Says</h3>
-<sub>By Julian E. Barnes, Maggie Haberman and Jonathan Swan</sub>
-<p>The hack, by a Chinese group that the company said was intent on conducting espionage, went undetected for a month.  <a href="https://nyti.ms/3OaWWR5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
 <hr/>
 </ol>
