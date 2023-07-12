@@ -60,16 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, July 11, Central Standard Time</p>
 <p>
-Recently in the US, hard right politicians have been pushing for culture war fights and taking them to the defense bill, which has the potential to derail its passage.  On the climate front, recent floods in Vermont have highlighted America&#39;s lack of preparedness for natural disasters intensified by climate change. Meanwhile, temperatures continue to soar in Phoenix where it&#39;s now been over 110 degrees for 11 days straight. 
+There have been a lot of developments in the US recently. Hard-right Republicans are trying to pass social issues into the military budget, which is usually a bipartisan affair. In Phoenix, Arizona, people are enduring 11 days of 110-degree temperatures, straining both resources and patience. Former president Trump is picking fights in Iowa lately with a few influential leaders, potentially risking his future 2024 chances. In Michigan, Aretha Franklin&#39;s will has finally been settled after four handwritten pages were found inside a couch. On a more tech-related front, the FTC lost court ruling against Microsoft this week, making some question Lina Khan&#39;s strategy as chair of the agency. 
 
-In international news, Turkish president Erdogan has started to mend bridges with the Biden administration and NATO has confirmed plans to invite Ukraine into the alliance eventually but gave no timetable. Across the US, much of the Northeast has experienced extreme levels of rainfall and caused flooding. 
-
-Something a bit less serious – Greta Gerwig is producing a movie for the Mattel brand Barbie! In other US news, former president Trump is making waves in Iowa which could complicate his 2024 presidential polling prospects. The hottest thing in baseball right now isn&#39;t even a player – it&#39;s a game called Immaculate Grid which is causing a stir among fans and players alike. And lastly, a Michigan court ruled that four pages found in Aretha Franklin&#39;s couch were her true will. Finally, Leslie Van Houten (the youngest of Charles Manson&#39;s followers) was recently released from parole after her 1969 conviction of murder.</p>
+Globally, Turkey has reportedly been reversing ties with Russia to please the Biden administration in an effort to mend strained relationships with the U.S. NATO has also said they are planning to invite Ukraine eventually but refused to give any time frame for it, frustrating some of its East European members. Lastly, Vermont floods have exposed the limits of America&#39;s efforts to adapt to climate change due to lack of comprehensive data on rainfall and current flood maps.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Hard Right Presses Culture War Fights on Defense Bill, Imperiling Passage</h3>
 <sub>By Karoun Demirjian</sub>
 <p>Right-wing Republicans want to use the annual military budget and policy legislation, traditionally a bipartisan affair, as a tool to pick fights on abortion and other social issues.  <a href="https://nyti.ms/3NR5w67"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>F.T.C.’s Court Loss Raises Fresh Questions About Its Chair’s Strategy</h3>
+<sub>By Cecilia Kang</sub>
+<p>Lina Khan has said a fear of defeat should not deter the agency from suing big tech companies. But after Microsoft won a ruling this week, her critics say that strategy is flawed.  <a href="https://nyti.ms/3D9hEdD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
@@ -78,16 +82,10 @@ Something a bit less serious – Greta Gerwig is producing a movie for the Matte
 <p>The lack of a comprehensive national rainfall database and current flood maps hampers the ability to prepare for storms intensified by climate change.  <a href="https://nyti.ms/44qQ8EI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>When Climate Change Hits Home</h3>
-<sub>By David Gelles</sub>
-<p>A dispatch from the flooded house of our new lead writer.  <a href="https://nyti.ms/3pGoa8J"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>See How Much Rain Fell in the Northeast</h3>
-<sub>By Judson Jones and Lazaro Gamio</sub>
-<p>Mapping where the extreme levels of rainfall in the Northeast unleashed widespread flooding across the region.  <a href="https://nyti.ms/3XJoD6F"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>In Cities and Small Towns, Vermonters Reckon With the Devastation of Flooding</h3>
+<sub>By Jenna Russell</sub>
+<p>Calls for search and rescue missions continued, as residents and business owners started assessing damage, fueling an anxious, unsettled mood.  <a href="https://nyti.ms/44HHstk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -117,7 +115,7 @@ Something a bit less serious – Greta Gerwig is producing a movie for the Matte
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Is Picking Fights in Iowa, No Matter the 2024 Consequences</h3>
 <sub>By Shane Goldmacher and Maggie Haberman</sub>
-<p>The former president snubbed one influential Iowa leader and attacked another, testing his immunity to traditional political pitfalls in a crucial state.  <a href="https://nyti.ms/44hYOgk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The former president snubbed one influential Iowa leader and attacked another, testing his immunity to traditional political pitfalls in a crucial state.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
@@ -133,9 +131,9 @@ Something a bit less serious – Greta Gerwig is producing a movie for the Matte
 <sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Former Manson Family Member Leslie Van Houten Is Released on Parole</h3>
-<sub>By Derrick Bryson Taylor</sub>
-<p>At the direction of Charles Manson, Ms. Van Houten participated in the murder of a California couple in 1969. She was initially sentenced to death.  <a href="https://nyti.ms/3PSnEiK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Chinese Hackers Gained Access to Government Email Accounts, Microsoft Says</h3>
+<sub>By Julian E. Barnes, Maggie Haberman and Jonathan Swan</sub>
+<p>The hack, by a Chinese group that the company said was intent on conducting espionage, went undetected for a month.  <a href="https://nyti.ms/3OaWWR5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
 <hr/>
 </ol>
