@@ -60,12 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, July 12, Central Standard Time</p>
 <p>
-It looks like there are some worrying signs in the economy with the yield curve suggesting a recession. However, President Erdogan of Turkey is trying to smooth tensions with the US and repair relations with NATO. There has been a global shift to invest in its own military defense following the Russian invasion of Ukraine. Companies like Microsoft may feel bolder to move forward in takeovers, but the FTC has had a court loss which may point to flaws in their strategy. A new white paint which cools the temperature of roofs is being developed in Purdue. Additionally, Czech novelist Milan Kundera passed away at 94. Vermont has been hit by devastating floods recently and Iowa Republicans are moving to limit abortion. There&#39;s also a bit of culture war debate going on regarding this year&#39;s annual military budget and policy legislation.</p>
+The world is seeing some changes lately. Airfare prices seem to have tumbled, resulting in lower inflation, and food prices are rising a bit more slowly. On the political side, Biden is promoting his policies as inflation eases and Erdogan showed signs of repairing ties with the U.S. Meanwhile, countries are paying more for their own military expenses because of Russia&#39;s appropriation of Ukraine. There&#39;s also news coming out of the technology sector: Microsoft won a ruling against the F.T.C., which has enabled it to go ahead with larger deal-making. The ocean temperatures off Florida are reaching 90 degrees Fahrenheit, indicating severe risks for marine life and the environment overall. Purdue scientists have devised an innovative new paint that can reduce the surface temperature when applied. In literary news, Milan Kundera recently passed away at 94 -- he was known for writing about human absurdity in Czechoslovakia. Finally, Vermont was hit by devastating floods recently and more rain is expected this week.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Wall Street’s Recession Warning Is Flashing. Some Wonder if it’s Wrong.</h3>
-<sub>By Joe Rennison</sub>
-<p>The yield curve began suggesting last year that the economy was headed for a slump.  <a href="https://nyti.ms/3JTxDjZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Airfare prices tumble, helping bring down overall inflation.</h3>
+<sub>By Lydia DePillis</sub>
+<p>Although subject to several idiosyncratic factors, the price of flights has eased markedly since last summer’s shortages.  <a href="https://nyti.ms/46D2Gdo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Food prices rose at a slower rate in June.</h3>
+<sub>By Madeleine Ngo</sub>
+<p>il  <a href="https://nyti.ms/44DuzQT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Biden touts ‘Bidenomics in action’ as inflation eases.</h3>
+<sub>By Alan Rappeport</sub>
+<p>  <a href="https://nyti.ms/3rtX98Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -121,18 +133,6 @@ It looks like there are some worrying signs in the economy with the yield curve 
 <sub>By Anna Betts</sub>
 <p>Forecasters are warning of more rain in the coming days after the state was inundated by a historic deluge.  <a href="https://nyti.ms/44jIg7N"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Hard Right Presses Culture War Fights on Defense Bill, Imperiling Passage</h3>
-<sub>By Karoun Demirjian</sub>
-<p>Right-wing Republicans want to use the annual military budget and policy legislation, traditionally a bipartisan affair, as a tool to pick fights on abortion and other social issues.  <a href="https://nyti.ms/3NR5w67"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Iowa Republicans Move to Sharply Limit Abortion</h3>
-<sub>By Mitch Smith</sub>
-<p>Gov. Kim Reynolds called the Legislature for a special session to consider sweeping new restrictions on abortion.  <a href="https://nyti.ms/43gXNDX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
