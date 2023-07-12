@@ -58,11 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Tuesday, July 11, Central Standard Time</p>
+<p>It is Wednesday, July 12, Central Standard Time</p>
 <p>
-There have been a lot of developments in the US recently. Hard-right Republicans are trying to pass social issues into the military budget, which is usually a bipartisan affair. In Phoenix, Arizona, people are enduring 11 days of 110-degree temperatures, straining both resources and patience. Former president Trump is picking fights in Iowa lately with a few influential leaders, potentially risking his future 2024 chances. In Michigan, Aretha Franklin&#39;s will has finally been settled after four handwritten pages were found inside a couch. On a more tech-related front, the FTC lost court ruling against Microsoft this week, making some question Lina Khan&#39;s strategy as chair of the agency. 
-
-Globally, Turkey has reportedly been reversing ties with Russia to please the Biden administration in an effort to mend strained relationships with the U.S. NATO has also said they are planning to invite Ukraine eventually but refused to give any time frame for it, frustrating some of its East European members. Lastly, Vermont floods have exposed the limits of America&#39;s efforts to adapt to climate change due to lack of comprehensive data on rainfall and current flood maps.</p>
+Right now, it looks like countries around the world are struggling with a number of different issues. In the US, hardline Republicans are trying to use military spending to push through social issues, while Iowa Republicans are looking to restrict abortion rights. Meanwhile, Turkey and Ukraine are also trying to repair their relationships with the US. We&#39;re also seeing some pretty nasty weather things happen here in the US - heavy flooding in Vermont and extreme heat in Phoenix. On top of that, Microsoft discovered that Chinese hackers had managed to break into government email accounts and steal data. Finally, there&#39;s some lighter news: Baseball Reference just bought a popular new game called Immaculate Grid, and a jury ruled on the true will of Aretha Franklin!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Hard Right Presses Culture War Fights on Defense Bill, Imperiling Passage</h3>
@@ -74,18 +72,6 @@ Globally, Turkey has reportedly been reversing ties with Russia to please the Bi
 <h3>F.T.C.’s Court Loss Raises Fresh Questions About Its Chair’s Strategy</h3>
 <sub>By Cecilia Kang</sub>
 <p>Lina Khan has said a fear of defeat should not deter the agency from suing big tech companies. But after Microsoft won a ruling this week, her critics say that strategy is flawed.  <a href="https://nyti.ms/3D9hEdD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Vermont Floods Show Limits of America’s Efforts to Adapt to Climate Change</h3>
-<sub>By Christopher Flavelle and Rick Rojas</sub>
-<p>The lack of a comprehensive national rainfall database and current flood maps hampers the ability to prepare for storms intensified by climate change.  <a href="https://nyti.ms/44qQ8EI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Cities and Small Towns, Vermonters Reckon With the Devastation of Flooding</h3>
-<sub>By Jenna Russell</sub>
-<p>Calls for search and rescue missions continued, as residents and business owners started assessing damage, fueling an anxious, unsettled mood.  <a href="https://nyti.ms/44HHstk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -100,16 +86,28 @@ Globally, Turkey has reportedly been reversing ties with Russia to please the Bi
 <p>The alliance firmed up its plans to include Ukraine eventually, but gave no timetable, siding with President Biden and frustrating some East European members.  <a href="https://nyti.ms/44CzDF5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Vermont Floods Show Limits of America’s Efforts to Adapt to Climate Change</h3>
+<sub>By Christopher Flavelle and Rick Rojas</sub>
+<p>The lack of a comprehensive national rainfall database and current flood maps hampers the ability to prepare for storms intensified by climate change.  <a href="https://nyti.ms/44qQ8EI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Cities and Small Towns, Vermonters Reckon With the Devastation of Flooding</h3>
+<sub>By Jenna Russell</sub>
+<p>Calls for search and rescue missions continued, as residents and business owners started assessing damage, fueling an anxious, unsettled mood.  <a href="https://nyti.ms/44HHstk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In Phoenix, Heat Becomes a Brutal Test of Endurance</h3>
 <sub>By Jack Healy</sub>
 <p>Arizona is used to scorching summers, but the region’s 11th straight day of 110-degree temperatures is straining patience and resources.  <a href="https://nyti.ms/3NMgoSH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Greta Gerwig’s ‘Barbie’ Dream Job</h3>
-<sub>By Willa Paskin</sub>
-<p>Mattel wanted a summer blockbuster to kick off its new wave of brand-extension movies. She wanted it to be a work of art.  <a href="https://nyti.ms/3D9Lcbg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Iowa Republicans Move to Sharply Limit Abortion</h3>
+<sub>By Mitch Smith</sub>
+<p>Gov. Kim Reynolds called the Legislature for a special session to consider sweeping new restrictions on abortion.  <a href="https://nyti.ms/43gXNDX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -131,7 +129,7 @@ Globally, Turkey has reportedly been reversing ties with Russia to please the Bi
 <sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Chinese Hackers Gained Access to Government Email Accounts, Microsoft Says</h3>
+<h3>Chinese Hackers Breached Government Email Accounts, Microsoft Says</h3>
 <sub>By Julian E. Barnes, Maggie Haberman and Jonathan Swan</sub>
 <p>The hack, by a Chinese group that the company said was intent on conducting espionage, went undetected for a month.  <a href="https://nyti.ms/3OaWWR5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
