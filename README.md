@@ -60,8 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, July 11, Central Standard Time</p>
 <p>
-It looks like climate change is really hitting home for many people. Vermont recently experienced devastating floods linked to climate change, and there&#39;s even a lack of comprehensive data and maps in the US when it comes to preparing for storms intensified by climate change. At the same time, in the international world, Turkish President Recep Tayyip Erdogan might be attempting to mend ties with the Biden administration by scaling back close ties with Russia. Meanwhile, protests have broken out in response to plans by Israel&#39;s governing coalition to limit the power of its Supreme Court. And in the US, former President Trump is still making news; his lawyers are asking for an indefinite postponement of a trial related to documents, he&#39;s picking fights in Iowa (despite 2024 consequences), and his legal team is trying to avoid &quot;smoke and mirrors&quot; in their online fund-raising. On a lighter note, Mattel enlisted Greta Gerwig to write a summer blockbuster as part of their new wave of brand-extension movies. We&#39;re also hearing about the resolution of a family dispute over Aretha Franklin&#39;s estate involving a handwritten will found in her couch after her death, and an A.I. start-up that&#39;s striving to prevent an A.I. apocalypse while competing with ChatGPT.</p>
+Recently in the US, hard right politicians have been pushing for culture war fights and taking them to the defense bill, which has the potential to derail its passage.  On the climate front, recent floods in Vermont have highlighted America&#39;s lack of preparedness for natural disasters intensified by climate change. Meanwhile, temperatures continue to soar in Phoenix where it&#39;s now been over 110 degrees for 11 days straight. 
+
+In international news, Turkish president Erdogan has started to mend bridges with the Biden administration and NATO has confirmed plans to invite Ukraine into the alliance eventually but gave no timetable. Across the US, much of the Northeast has experienced extreme levels of rainfall and caused flooding. 
+
+Something a bit less serious – Greta Gerwig is producing a movie for the Mattel brand Barbie! In other US news, former president Trump is making waves in Iowa which could complicate his 2024 presidential polling prospects. The hottest thing in baseball right now isn&#39;t even a player – it&#39;s a game called Immaculate Grid which is causing a stir among fans and players alike. And lastly, a Michigan court ruled that four pages found in Aretha Franklin&#39;s couch were her true will. Finally, Leslie Van Houten (the youngest of Charles Manson&#39;s followers) was recently released from parole after her 1969 conviction of murder.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Hard Right Presses Culture War Fights on Defense Bill, Imperiling Passage</h3>
+<sub>By Karoun Demirjian</sub>
+<p>Right-wing Republicans want to use the annual military budget and policy legislation, traditionally a bipartisan affair, as a tool to pick fights on abortion and other social issues.  <a href="https://nyti.ms/3NR5w67"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>Vermont Floods Show Limits of America’s Efforts to Adapt to Climate Change</h3>
 <sub>By Christopher Flavelle and Rick Rojas</sub>
@@ -86,22 +96,22 @@ It looks like climate change is really hitting home for many people. Vermont rec
 <p>Long seen as an in-house disrupter in NATO, President Recep Tayyip Erdogan of Turkey could be trying to repair relations with the Biden administration, partly by scaling back close ties with Russia.  <a href="https://nyti.ms/3pR8TSm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>NATO Says It Will Invite Ukraine Some Day, Resisting Calls to Act Soon</h3>
+<sub>By Steven Erlanger, David E. Sanger and Lara Jakes</sub>
+<p>The alliance firmed up its plans to include Ukraine eventually, but gave no timetable, siding with President Biden and frustrating some East European members.  <a href="https://nyti.ms/44CzDF5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Phoenix, Heat Becomes a Brutal Test of Endurance</h3>
+<sub>By Jack Healy</sub>
+<p>Arizona is used to scorching summers, but the region’s 11th straight day of 110-degree temperatures is straining patience and resources.  <a href="https://nyti.ms/3NMgoSH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
 <h3>Greta Gerwig’s ‘Barbie’ Dream Job</h3>
 <sub>By Willa Paskin</sub>
 <p>Mattel wanted a summer blockbuster to kick off its new wave of brand-extension movies. She wanted it to be a work of art.  <a href="https://nyti.ms/3D9Lcbg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Protesters Throng Israeli Airport After Government Moves to Rein In Judiciary</h3>
-<sub>By Patrick Kingsley</sub>
-<p>Tens of thousands of demonstrators across the country caused widespread disruption after the governing coalition pushed forward with plans to limit the power of the Supreme Court.  <a href="https://nyti.ms/44jGNOO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Lawyers Seek Indefinite Postponement of Documents Trial</h3>
-<sub>By Alan Feuer and Maggie Haberman</sub>
-<p>The former president’s legal team argued in a court filing that no trial date should be set until all “substantive motions” in the case were resolved, setting up an early key decision by Judge Aileen M. Cannon.  <a href="https://nyti.ms/3D8wdy4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -110,16 +120,10 @@ It looks like climate change is really hitting home for many people. Vermont rec
 <p>The former president snubbed one influential Iowa leader and attacked another, testing his immunity to traditional political pitfalls in a crucial state.  <a href="https://nyti.ms/44hYOgk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis’s Striking, Risky Strategy: Not Trying to Trick Small Donors</h3>
-<sub>By Nicholas Nehamas, Rebecca Davis O’Brien and Shane Goldmacher</sub>
-<p>Diverging from Donald Trump, who has often cajoled, guilt-tripped and even misled small donors, the DeSantis team is pledging to avoid “smoke and mirrors” in its online fund-raising.  <a href="https://nyti.ms/44GE2qn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Former Manson Family Member Leslie Van Houten Is Released on Parole</h3>
-<sub>By Derrick Bryson Taylor</sub>
-<p>At the direction of Charles Manson, Ms. Van Houten participated in the murder of a California couple in 1969. She was initially sentenced to death.  <a href="https://nyti.ms/3PSnEiK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>The Hottest Thing in Baseball Is a Grid of Nine Blank Squares</h3>
+<sub>By Tyler Kepner</sub>
+<p>Immaculate Grid has become a daily obsession for fans, journalists and even some ex-players. Being purchased by Baseball Reference should only help it grow.  <a href="https://nyti.ms/3XPxt2w"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
@@ -128,10 +132,10 @@ It looks like climate change is really hitting home for many people. Vermont rec
 <p>In deciding a family dispute over her estate, a jury in Michigan ruled that a handwritten document found in a couch at Franklin’s home after her death represented her last wishes.  <a href="https://nyti.ms/3XMx3tP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Inside the White-Hot Center of A.I. Doomerism</h3>
-<sub>By Kevin Roose</sub>
-<p>Anthropic, a safety-focused A.I. start-up, is trying to compete with ChatGPT while preventing an A.I. apocalypse. It’s been a little stressful.  <a href="https://nyti.ms/44Ae3Sd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Former Manson Family Member Leslie Van Houten Is Released on Parole</h3>
+<sub>By Derrick Bryson Taylor</sub>
+<p>At the direction of Charles Manson, Ms. Van Houten participated in the murder of a California couple in 1969. She was initially sentenced to death.  <a href="https://nyti.ms/3PSnEiK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
 <hr/>
 </ol>
