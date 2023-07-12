@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, July 12, Central Standard Time</p>
 <p>
-Right now, it looks like countries around the world are struggling with a number of different issues. In the US, hardline Republicans are trying to use military spending to push through social issues, while Iowa Republicans are looking to restrict abortion rights. Meanwhile, Turkey and Ukraine are also trying to repair their relationships with the US. We&#39;re also seeing some pretty nasty weather things happen here in the US - heavy flooding in Vermont and extreme heat in Phoenix. On top of that, Microsoft discovered that Chinese hackers had managed to break into government email accounts and steal data. Finally, there&#39;s some lighter news: Baseball Reference just bought a popular new game called Immaculate Grid, and a jury ruled on the true will of Aretha Franklin!</p>
+In the US, hard-right Republicans are pushing for culture wars to be fought on defense bills, risking the passage of the bill. The FTC has suffered a court loss that is raising questions about their strategy against big tech companies. In international news, Turkey&#39;s President Erdogan is trying to mend ties with the Biden administration by cutting ties with Russia and NATO has announced some new pledges in relation to Ukraine. Floods in Vermont have exposed issues in America&#39;s ability to respond to climate change, while Phoenix is experiencing extreme temperatures. In Iowa, abortion access could be severely limited if a pushed-for new bill passes and Trump has been picking fights with state leaders in Iowa as part of his potential 2024 plans. Sports fans have found the latest obsession of grid-based gambling games involving Baseball teams, while an old couch was found to have Aretha Franklin&#39;s true will written in it. On a less positive note, Microsoft recently revealed that Chinese hackers managed to breach government email accounts for a month without being detected.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Hard Right Presses Culture War Fights on Defense Bill, Imperiling Passage</h3>
@@ -81,9 +81,9 @@ Right now, it looks like countries around the world are struggling with a number
 <sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>NATO Says It Will Invite Ukraine Some Day, Resisting Calls to Act Soon</h3>
-<sub>By Steven Erlanger, David E. Sanger and Lara Jakes</sub>
-<p>The alliance firmed up its plans to include Ukraine eventually, but gave no timetable, siding with President Biden and frustrating some East European members.  <a href="https://nyti.ms/44CzDF5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>What NATO Said About Ukraine: Highlights of the Alliance’s Communiqué</h3>
+<sub>By Steven Erlanger</sub>
+<p>Ukraine’s president wanted firmer commitments about when his country could join, but NATO’s 31 members did make some new pledges to draw Kyiv closer to the alliance.  <a href="https://nyti.ms/3D7ZtVA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
