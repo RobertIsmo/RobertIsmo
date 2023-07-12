@@ -60,54 +60,36 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, July 12, Central Standard Time</p>
 <p>
-The world is seeing some changes lately. Airfare prices seem to have tumbled, resulting in lower inflation, and food prices are rising a bit more slowly. On the political side, Biden is promoting his policies as inflation eases and Erdogan showed signs of repairing ties with the U.S. Meanwhile, countries are paying more for their own military expenses because of Russia&#39;s appropriation of Ukraine. There&#39;s also news coming out of the technology sector: Microsoft won a ruling against the F.T.C., which has enabled it to go ahead with larger deal-making. The ocean temperatures off Florida are reaching 90 degrees Fahrenheit, indicating severe risks for marine life and the environment overall. Purdue scientists have devised an innovative new paint that can reduce the surface temperature when applied. In literary news, Milan Kundera recently passed away at 94 -- he was known for writing about human absurdity in Czechoslovakia. Finally, Vermont was hit by devastating floods recently and more rain is expected this week.</p>
+Right now, there are a lot of things happening in the world. In Russia, there is uncertainty surrounding the military after one general was killed and another is absent. In terms of international security, Turkish President Erdogan is expressing skepticism towards Sweden&#39;s bid to join NATO. In terms of economics, inflation rates have cooled significantly in June which is a relief for shoppers and could signal a soft landing. Additionally, airfare prices have tumbled recently and airline tickets are cheaper than ever before. US President Biden has been touting the easing inflation as a result of his policies in what he calls &#39;Bidenomics&#39;. Meanwhile, sea temperatures off Florida&#39;s coast have been record-breakingly hot and this poses risks to coral reefs and other marine life. There have also been devastating floods in Vermont recently and, similarly, flash flooding is expected in Southern Arkansas and North Louisiana causing life-threatening situations. The FBI director is also testifying before a House panel as Republicans are trying to undermine the agency&#39;s legitimacy due to former President Donald Trump. Finally, Czech literary star Milan Kundera passed away at 94. His books were known for their sexually charged content as well as capturing the absurdity of life under communist rule.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russian Military Hit by Uncertainty as One General Is Killed and Another Remains Absent</h3>
+<sub>By Paul Sonne</sub>
+<p>A Russian lawmaker says that Gen. Sergei Surovikin, who has not been seen in public since a short-lived mutiny, has been “taking a rest.”  <a href="https://nyti.ms/3JTVoIA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Erdogan Says Yes, but Not So Fast, to Sweden’s NATO Bid</h3>
+<sub>By Ben Hubbard and Gulsin Harman</sub>
+<p>After voicing his support for Sweden joining NATO, President Erdogan of Turkey said Sweden needed to take more steps to win the support of his country’s parliament, which he said will not take up the matter until October.  <a href="https://nyti.ms/3pDiGeZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Airfare prices tumble, helping bring down overall inflation.</h3>
+<h3>Inflation Cools Sharply in June, Good News for Consumers and the Fed</h3>
+<sub>By Jeanna Smialek</sub>
+<p>The Consumer Price Index climbed far more slowly in June, a relief for shoppers and a hopeful — though inconclusive — sign that America might pull off a “soft landing.”  <a href="https://nyti.ms/3D6Tbpv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Airfares tumble, helping bring down overall inflation.</h3>
 <sub>By Lydia DePillis</sub>
-<p>Although subject to several idiosyncratic factors, the price of flights has eased markedly since last summer’s shortages.  <a href="https://nyti.ms/46D2Gdo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Ticket prices are subject to several idiosyncratic factors, but they have eased markedly since last summer’s surge in demand.  <a href="https://nyti.ms/44IMC86"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Food prices rose at a slower rate in June.</h3>
-<sub>By Madeleine Ngo</sub>
-<p>il  <a href="https://nyti.ms/44DuzQT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Biden touts ‘Bidenomics in action’ as inflation eases.</h3>
+<h3>Biden Touts Easing Inflation as ‘Bidenomics in Action’</h3>
 <sub>By Alan Rappeport</sub>
-<p>  <a href="https://nyti.ms/3rtX98Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Erdogan’s Flip on Sweden Signals Mending of Ties With U.S.</h3>
-<sub>By Ben Hubbard and Zolan Kanno-Youngs</sub>
-<p>Long seen as an in-house disrupter in NATO, President Recep Tayyip Erdogan of Turkey could be trying to repair relations with the Biden administration, partly by scaling back close ties with Russia.  <a href="https://nyti.ms/3pR8TSm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>A Turning Point for Military Spending</h3>
-<sub>By David Leonhardt</sub>
-<p>Russia’s invasion of Ukraine has led to a new willingness for countries to pay for their own defense.  <a href="https://nyti.ms/44lQmwG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>What NATO Said About Ukraine: Highlights of the Alliance’s Communiqué</h3>
-<sub>By Steven Erlanger</sub>
-<p>Ukraine’s president wanted firmer commitments about when his country could join, but NATO’s 31 members did make some new pledges to draw Kyiv closer to the alliance.  <a href="https://nyti.ms/3D7ZtVA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>F.T.C.’s Court Loss Raises Fresh Questions About Its Chair’s Strategy</h3>
-<sub>By Cecilia Kang</sub>
-<p>Lina Khan has said a fear of defeat should not deter the agency from suing big tech companies. But after Microsoft won a ruling this week, her critics say that strategy is flawed.  <a href="https://nyti.ms/3D9hEdD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>What the Microsoft-Activision Ruling Means for the Future of Deal-Making</h3>
-<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
-<p>Corporate leaders are feeling emboldened by another legal defeat for the Federal Trade Commission, though the agency may still fight to block the takeover.  <a href="https://nyti.ms/3XNzEDQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The White House has been making the case that the president’s policies have kept the economy on a steady path and maintained a healthy labor market.  <a href="https://nyti.ms/46LCXiT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
@@ -116,10 +98,28 @@ The world is seeing some changes lately. Airfare prices seem to have tumbled, re
 <p>Researchers are recording ocean temperatures that pose severe risks to coral reefs and other marine life.  <a href="https://nyti.ms/3pPed8P"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>To Help Cool a Hot Planet, the Whitest of White Coats</h3>
-<sub>By Cara Buckley</sub>
-<p>Scientists at Purdue have created a white paint that, when applied, can reduce the surface temperature on a roof and cool the building beneath it.  <a href="https://nyti.ms/3NOmh1F"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>What to Know About Vermont’s Devastating Floods</h3>
+<sub>By Anna Betts</sub>
+<p>Forecasters are warning of more rain in the coming days after the state was inundated by a historic deluge.  <a href="https://nyti.ms/44jIg7N"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Flash Flooding Expected in Southern Arkansas and North Louisiana</h3>
+<sub>By Lauren McCarthy</sub>
+<p>The National Weather Service in Shreveport, La., warned that flash flooding could cause “a life-threatening situation.”  <a href="https://nyti.ms/44y3cro"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>F.B.I. Director Testifying Before House Panel as It Assails the Bureau</h3>
+<sub>By Adam Goldman and Glenn Thrush</sub>
+<p>Stoked by former President Donald J. Trump, congressional Republicans have been trying to undermine the F.B.I.’s legitimacy with the public.  <a href="https://nyti.ms/3XP1Aaz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>The A-Bomb, Selma, Broadway: She Saw It All and Knew Everyone</h3>
+<sub>By Michael Wilson</sub>
+<p>The mysterious neighbor brushed off Sinatra, snubbed DiMaggio and married one of the top stars of 1960s TV. Would an overlooked form letter be her downfall?  <a href="https://nyti.ms/3JWB8WC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -128,10 +128,10 @@ The world is seeing some changes lately. Airfare prices seem to have tumbled, re
 <p>The author of “The Unbearable Lightness of Being,” he was known for sexually charged novels that captured the suffocating absurdity of life in his native Czechoslovakia.  <a href="https://nyti.ms/3XRi2XY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What to Know About Vermont’s Devastating Floods</h3>
-<sub>By Anna Betts</sub>
-<p>Forecasters are warning of more rain in the coming days after the state was inundated by a historic deluge.  <a href="https://nyti.ms/44jIg7N"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-books-blue" alt="">
+<h3>In Milan Kundera’s Work, the Erotic Meets the Subversive</h3>
+<sub>By Dwight Garner</sub>
+<p>His best novels, charged with a distrust of authority, retain their sweep and power.  <a href="https://nyti.ms/3JSeIWs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
 <hr/>
 </ol>
