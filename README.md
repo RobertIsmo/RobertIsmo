@@ -60,23 +60,25 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, July 13, Central Standard Time</p>
 <p>
-In the US, tensions between China and the US are rising as the US government looks to impose new restrictions on Chinese investments. On the other side of the political spectrum, some far right members of the GOP are attempting to use a defense bill to defund efforts in Ukraine, resulting in increased partisan tensions. Meanwhile, Joe Biden has pledged long-term support towards Ukraine, while NATO leaders have expressed concerns that support may waver if power shifts in the US.
-
-Elsewhere, the debate over equal rights amendments is being reignited as democrats use a creative legal theory to push for their passage. Meanwhile, some migrants are defying expectations by prospering in New York City despite politicians claiming it is destroying the city. In Hollywood, SAG-AFTRA is threatening to strike after failed contract negotiations. In Vermont, Tropical Storm Irene has exposed that existing flood defenses may not be enough against extreme storms caused by climate change. India is also being hard hit by monsoonal flooding, leading to evacuations and dozens of deaths in nearby states.
-
-Finally, legal fights and racial discrimination complaints have caused turmoil within a 94-year-old civil rights organization called LULAC. While one town in England has turned their main street around by offering free rent to local businesses for two years. Meanwhile an American soccer coach is facing a defining moment as she works to lead her team to successful international showings and cement her legacy in the sport.</p>
+It looks like there&#39;s a number of interesting things happening in the world right now. The FDA has just approved the first ever over-the-counter birth control pill, potentially expanding access to contraception for many. In Hollywood, actors are preparing to strike because contract negotiations have collapsed, joining screenwriters who have been picketing for over 70 days. Meanwhile, President Biden has recently pledged long-term backing for Ukraine as the U.S. election rolls around. Democrats are trying to resurrect the Equal Rights Amendment to enshrine a guarantee of sex equality into the Constitution using a creative legal theory. The FTC has opened an investigation into ChatGPT maker OpenAI, which makes the artificial intelligence chatbot technology, over potential harms and security practices. A biography on physicist Robert Oppenheimer that was 25 years in the making is set to be released soon too, written by Martin Sherwin and Kai Bird. Finally, while politicians cry crisis due to migrants arriving in New York City, economists claim that their arrival will eventually be a boon. Looming U.S. investment restrictions on China threaten diplomatic outreach as Germany releases a strategy statement on dealing with their largest trading partner. And in Pittsburgh, jurors are deciding whether Robert Bowers—accused of massacring 11 Jews at a synagogue—is eligible for death penalty sentencing or life in prison, looking particularly at Tropical Storm Irene flood defenses in Vermont that have proven both successful and insufficient over time due to increasingly extreme storms across the nation.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Looming U.S. Investment Restrictions on China Threaten Diplomatic Outreach</h3>
-<sub>By Alan Rappeport and Ana Swanson</sub>
-<p>Any such restrictions are expected to anger Beijing and will be the first test of the new channels of communication that the world’s two largest economies are trying to restore.  <a href="https://nyti.ms/44JOwFt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>F.D.A. Approves First U.S. Over-the-Counter Birth Control Pill</h3>
+<sub>By Pam Belluck</sub>
+<p>The move could significantly expand access to contraception. The pill is expected to be available in early 2024.  <a href="https://nyti.ms/3D88RsB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>G.O.P.’s Far Right Seeks to Use Defense Bill to Defund Ukraine War Effort</h3>
-<sub>By Karoun Demirjian</sub>
-<p>The group’s proposals have no chance of passage, but they have further mired the military spending bill in a partisan fight and highlighted Republican divisions over the war.  <a href="https://nyti.ms/3NOdw7O"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>A Birth Control Pill Will Soon Be Available Without a Prescription. Here’s What to Know.</h3>
+<sub>By Alisha Haridasani Gupta</sub>
+<p>Opill, also known as a “mini pill,” contains only progestin, a synthetic version of progesterone.  <a href="https://nyti.ms/3Bg9ZJF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Hollywood Shutdown Looms as Actors Say Contract Talks Have Collapsed</h3>
+<sub>By Brooks Barnes, John Koblin and Nicole Sperling</sub>
+<p>SAG-AFTRA, representing 160,000 television and movie actors, could strike as soon as Thursday, joining screenwriters who have been picketing for over 70 days.  <a href="https://nyti.ms/3pLnnn0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Biden Pledges Long-Term Backing for Ukraine, but a U.S. Election Looms</h3>
@@ -90,53 +92,47 @@ Finally, legal fights and racial discrimination complaints have caused turmoil w
 <p>Proponents of the measure to enshrine a guarantee of sex equality into the Constitution are using a creative legal theory to try to resurrect the long-stalled amendment.  <a href="https://nyti.ms/44GUBmb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>F.T.C. Opens Investigation Into ChatGPT Maker Over Technology’s Potential Harms</h3>
+<sub>By Cecilia Kang and Cade Metz</sub>
+<p>The agency sent OpenAI, which makes ChatGPT, a letter this week over the chatbot’s potential harms and the company’s security practices.  <a href="https://nyti.ms/3rqTFnL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-books-blue" alt="">
+<h3>Behind ‘Oppenheimer,’ a Prizewinning Biography 25 Years in the Making</h3>
+<sub>By Andy Kifer</sub>
+<p>Martin Sherwin struck the deal and dove into the research. But it was only when Kai Bird joined as a collaborator that “American Prometheus” came to be.  <a href="https://nyti.ms/3D8IzGo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 10, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>As Politicians Cry ‘Crisis,’ Some Migrants Are Finding Their Way</h3>
 <sub>By Christopher Maag and Raúl Vilchis</sub>
 <p>New York City’s leadership says housing and caring for migrants is costing billions, and “destroying” the city. But economists say their arrival will eventually be a boon.  <a href="https://nyti.ms/3D8DoXc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Looming U.S. Investment Restrictions on China Threaten Diplomatic Outreach</h3>
+<sub>By Alan Rappeport and Ana Swanson</sub>
+<p>Any such restrictions are expected to anger Beijing and will be the first test of the new channels of communication that the world’s two largest economies are trying to restore.  <a href="https://nyti.ms/44JOwFt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Hollywood Shutdown Looms as Actors Say Contract Talks Have Collapsed</h3>
-<sub>By Brooks Barnes, John Koblin and Nicole Sperling</sub>
-<p>SAG-AFTRA, representing 160,000 television and movie actors, could strike as soon as Thursday, joining screenwriters who have been picketing for over 70 days.  <a href="https://nyti.ms/3pLnnn0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Germany Says China Trade Could Create Perilous Dependence</h3>
+<sub>By Melissa Eddy</sub>
+<p>A long-awaited strategy statement is an attempt to set a coherent approach for dealing with China, Germany’s largest trading partner, in policy and business.  <a href="https://nyti.ms/3XX7GWn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Jury in Pittsburgh Synagogue Trial Finds Gunman’s Crimes Eligible for Death Penalty</h3>
+<sub>By Jon Moss and Campbell Robertson</sub>
+<p>Next, in the final phase of the federal trial, jurors will weigh whether to recommend sentencing Robert Bowers to death or to life in prison.  <a href="https://nyti.ms/46MbVrO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Vermont Storm Exposes the Strengths, and Limits, of New Flood Defenses</h3>
-<sub>By Jenna Russell</sub>
+<sub>By Jenna Russell, Richard Beaven and Hilary Swift</sub>
 <p>The state began new flood protection efforts after being battered by Tropical Storm Irene in 2011. Many appeared to be effective, but experts say more will be needed as storms become more extreme.  <a href="https://nyti.ms/44Gz119"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>Compounding Disasters</h3>
-<sub>By German Lopez</sub>
-<p>America’s compounding natural disasters show the reality of climate change.  <a href="https://nyti.ms/3rvem1E"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Evacuations Ordered in Delhi: Monsoon Flooding in Pictures</h3>
-<sub>By Sameer Yasir and Hari Kumar</sub>
-<p>The authorities warned of widespread flooding in the Indian capital after days of torrential rains claimed dozens of lives in neighboring states.  <a href="https://nyti.ms/3O8caWR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Legal Fights and Charges of Discrimination Send Latino Group Into Turmoil</h3>
-<sub>By Jazmine Ulloa</sub>
-<p>A battle over Puerto Rico statehood and claims of a “takeover” are testing a 94-year-old civil rights organization known as LULAC.  <a href="https://nyti.ms/3rjx3p0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How to Revive a Dying Main Street? One U.K. Landlord Offered Free Rent.</h3>
-<sub>By Eshe Nelson</sub>
-<p>In a coastal English town, a floundering shopping district was given new life after 10 local businesses were given free rent for two years.  <a href="https://nyti.ms/44oDgPo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>She’s Got the Hardest Job in Soccer. Can She Keep Winning?</h3>
-<sub>By Bruce Schoenfeld</sub>
-<p>A former World Cup winner, Cindy Parlow Cone is now working to help America realize its global soccer ambitions. Her legacy may be defined by a few games.  <a href="https://nyti.ms/3Dd0dZM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
