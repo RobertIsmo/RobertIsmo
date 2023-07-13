@@ -60,7 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, July 13, Central Standard Time</p>
 <p>
-It looks like there&#39;s a number of interesting things happening in the world right now. The FDA has just approved the first ever over-the-counter birth control pill, potentially expanding access to contraception for many. In Hollywood, actors are preparing to strike because contract negotiations have collapsed, joining screenwriters who have been picketing for over 70 days. Meanwhile, President Biden has recently pledged long-term backing for Ukraine as the U.S. election rolls around. Democrats are trying to resurrect the Equal Rights Amendment to enshrine a guarantee of sex equality into the Constitution using a creative legal theory. The FTC has opened an investigation into ChatGPT maker OpenAI, which makes the artificial intelligence chatbot technology, over potential harms and security practices. A biography on physicist Robert Oppenheimer that was 25 years in the making is set to be released soon too, written by Martin Sherwin and Kai Bird. Finally, while politicians cry crisis due to migrants arriving in New York City, economists claim that their arrival will eventually be a boon. Looming U.S. investment restrictions on China threaten diplomatic outreach as Germany releases a strategy statement on dealing with their largest trading partner. And in Pittsburgh, jurors are deciding whether Robert Bowers—accused of massacring 11 Jews at a synagogue—is eligible for death penalty sentencing or life in prison, looking particularly at Tropical Storm Irene flood defenses in Vermont that have proven both successful and insufficient over time due to increasingly extreme storms across the nation.</p>
+Recently, the FDA approved over-the-counter birth control pills in the U.S., which could significantly expand access to contraception for many women. The pill is expected to be available in early 2024. In addition, there&#39;s a movement to revive the Equal Rights Amendment and enshrine sex equality into the U.S Constitution. On the other side of the country, New York has been ordered to redraw its house map as it may give Democrats an advantage in congressional races.
+
+The tech industry has been facing investigation too, with the FTC probing into ChatGPT maker OpenAI&#39;s consumer harms and security practices. On a lighter note, a man in Central Park named &quot;Paddleball Paul&quot; has been fighting a lonely war against pickleball taking over the handball courts. Scientists have been studying natural gas emissions too and found that leaks can cause it to be just as harmful for the climate as coal.
+
+At court, a jury ruled that Pittsburgh Synagogue shooter Robert Bowers&#39; crimes are eligible for death penalty and are currently deciding whether he should face life in prison or death sentence as punishment. Vermont&#39;s Tropical Storm Irene in 2011 also reignited conversation on flood defenses and their effectiveness, prompting discussions on possible improvements and stricter disaster response plans.</p>
 <ol>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>F.D.A. Approves First U.S. Over-the-Counter Birth Control Pill</h3>
@@ -75,15 +79,15 @@ It looks like there&#39;s a number of interesting things happening in the world 
 <sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Hollywood Shutdown Looms as Actors Say Contract Talks Have Collapsed</h3>
-<sub>By Brooks Barnes, John Koblin and Nicole Sperling</sub>
-<p>SAG-AFTRA, representing 160,000 television and movie actors, could strike as soon as Thursday, joining screenwriters who have been picketing for over 70 days.  <a href="https://nyti.ms/3pLnnn0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>What’s happening with the writers’ strike?</h3>
+<sub>By Brooks Barnes, John Koblin, Nicole Sperling and Daniel Victor</sub>
+<p>  <a href="https://nyti.ms/44MTQbr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Biden Pledges Long-Term Backing for Ukraine, but a U.S. Election Looms</h3>
-<sub>By Zolan Kanno-Youngs</sub>
-<p>Citing American politics, some NATO leaders expressed concern that Washington could waver in its support if there were a shift in power.  <a href="https://nyti.ms/3OctU3q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>House to Vote on Abortion Access for Military, Bowing to the Far Right</h3>
+<sub>By Karoun Demirjian</sub>
+<p>G.O.P. leaders acceded to the demands of ultraconservatives to use the annual defense policy bill to lodge cultural grievances and protest continued U.S. support for Ukraine.  <a href="https://nyti.ms/3PVAVXQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -95,7 +99,13 @@ It looks like there&#39;s a number of interesting things happening in the world 
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>F.T.C. Opens Investigation Into ChatGPT Maker Over Technology’s Potential Harms</h3>
 <sub>By Cecilia Kang and Cade Metz</sub>
-<p>The agency sent OpenAI, which makes ChatGPT, a letter this week over the chatbot’s potential harms and the company’s security practices.  <a href="https://nyti.ms/3rqTFnL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The agency sent OpenAI, which makes ChatGPT, a letter this week over consumer harms and the company’s security practices.  <a href="https://nyti.ms/3rqTFnL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>New York Is Ordered by Appeals Court to Redraw House Map</h3>
+<sub>By Nicholas Fandos</sub>
+<p>The decision, if upheld, could allow Democrats to shift as many as six G.O.P.-held seats in their direction. Republicans vowed to appeal.  <a href="https://nyti.ms/44Kkjqa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-books-blue" alt="">
@@ -105,21 +115,15 @@ It looks like there&#39;s a number of interesting things happening in the world 
 <sub><sub>Monday, July 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>As Politicians Cry ‘Crisis,’ Some Migrants Are Finding Their Way</h3>
-<sub>By Christopher Maag and Raúl Vilchis</sub>
-<p>New York City’s leadership says housing and caring for migrants is costing billions, and “destroying” the city. But economists say their arrival will eventually be a boon.  <a href="https://nyti.ms/3D8DoXc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>One Man’s Lonely War on Central Park Pickleball</h3>
+<sub>By Allie Conti and Lanna Apisukh</sub>
+<p>Pickleball is everywhere, and “Paddleball Paul” is making his last stand on the handball courts of Central Park. It’s not going very well.  <a href="https://nyti.ms/46KN0F7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Looming U.S. Investment Restrictions on China Threaten Diplomatic Outreach</h3>
-<sub>By Alan Rappeport and Ana Swanson</sub>
-<p>Any such restrictions are expected to anger Beijing and will be the first test of the new channels of communication that the world’s two largest economies are trying to restore.  <a href="https://nyti.ms/44JOwFt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Germany Says China Trade Could Create Perilous Dependence</h3>
-<sub>By Melissa Eddy</sub>
-<p>A long-awaited strategy statement is an attempt to set a coherent approach for dealing with China, Germany’s largest trading partner, in policy and business.  <a href="https://nyti.ms/3XX7GWn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Leaks Can Make Natural Gas as Bad for the Climate as Coal, a Study Says</h3>
+<sub>By HIROKO TABUCHI</sub>
+<p>The findings cast doubt on the idea that natural gas can serve as a transitional fuel to a future powered entirely by renewables like solar and wind.  <a href="https://nyti.ms/44lClzd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
