@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, July 12, Central Standard Time</p>
 <p>
-There are a lot of interesting things happening in the world right now. At the NATO Summit, there was some progress made, but still some major divisions remain. President Biden is suggesting that the war may be very long, and Russian military officials are dealing with uncertainty in leadership. Inflation has cooled off in June, and there&#39;s a dangerous heat wave spreading across the south. The FBI is still facing opposition from congressional Republicans who think it&#39;s not legitimate. A mysterious neighbor helped bring attention to an overlooked form letter situation while the world mourns the death of author Milan Kundera. Emmy nominations have been released for 2023, as well as a list of Snubs and Surprises.</p>
+There are a few big stories happening around the world right now. At the NATO summit, the alliance added Sweden and laid out plans for long-term support to Ukraine, although Kyiv wanted more. President Biden is vowing that NATO would oppose Russian aggression for as long as needed, making it seem like a Cold War parallel. In the US, House Republicans are trying to undermine the legitimacy of FBI with former President Trump&#39;s help. In Vermont there was a storm that tested the success of new flood defenses, and Chicago residents needed to take shelter after a tornado warning. There is also a dangerous heat wave forecasts in the South that could last for weeks or longer. Additionally, Emmy nominations have been announced with HBO&#39;s &#39;Succession&#39; getting 27 nods and &#39;Ted Lasso&#39; getting 21 - though it may be delayed due to a writers’ strike. The list of Emmy nominees have also been released, but there were some unexpected snubs and surprises. </p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Despite Successes at NATO Summit, Divisions Remain</h3>
@@ -69,27 +69,27 @@ There are a lot of interesting things happening in the world right now. At the N
 <sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Biden’s speech hints that the war may be very long.</h3>
+<h3>Biden Braces NATO for Long Conflict With Russia, Making Cold War Parallel</h3>
 <sub>By David E. Sanger and Zolan Kanno-Youngs</sub>
-<p>  <a href="https://nyti.ms/44mDcj0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Concluding a NATO summit focused on the war in Ukraine and other fast-changing challenges, President Biden vowed that the alliance would oppose Russian aggression for as long as needed.  <a href="https://nyti.ms/43q6ITw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russian Military Hit by Uncertainty as One General Is Killed and Another Remains Absent</h3>
-<sub>By Paul Sonne</sub>
-<p>A Russian lawmaker says that Gen. Sergei Surovikin, who has not been seen in public since a short-lived mutiny, has been “taking a rest.”  <a href="https://nyti.ms/3JTVoIA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>House Republicans Criticize F.B.I. in Contentious Hearing</h3>
+<sub>By Adam Goldman and Glenn Thrush</sub>
+<p>Stoked by former President Donald J. Trump, congressional Republicans have been trying to undermine the bureau’s legitimacy with the public.  <a href="https://nyti.ms/3XP1Aaz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Inflation Cools Sharply in June, Good News for Consumers and the Fed</h3>
-<sub>By Jeanna Smialek</sub>
-<p>The Consumer Price Index climbed far more slowly in June, a relief for shoppers and a hopeful — though inconclusive — sign that America might pull off a “soft landing.”  <a href="https://nyti.ms/3D6Tbpv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Vermont Storm Exposes the Strengths, and Limits, of New Flood Defenses</h3>
+<sub>By Jenna Russell</sub>
+<p>The state began new flood protection efforts after being battered by Tropical Storm Irene in 2011. Many appeared to be effective, but experts say more will be needed as storms become more extreme.  <a href="https://nyti.ms/44Gz119"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>How Hot Is the Sea Off Florida Right Now? Think 90s Fahrenheit.</h3>
-<sub>By Catrin Einhorn and Elena Shao</sub>
-<p>Researchers are recording ocean temperatures that pose severe risks to coral reefs and other marine life.  <a href="https://nyti.ms/3pPed8P"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Chicago Residents Take Shelter After Tornado Touches Down</h3>
+<sub>By Orlando Mayorquin and Livia Albeck-Ripka</sub>
+<p>A tornado warning was issued for the Chicago area on Wednesday evening. The National Weather Service confirmed a tornado had landed near O’Hare International Airport.  <a href="https://nyti.ms/3Ddm7w6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -98,28 +98,28 @@ There are a lot of interesting things happening in the world right now. At the N
 <p>Forecasters say dangerous heat is expected to return across the South. It could last another two weeks, and possibly longer.  <a href="https://nyti.ms/3XFzkH8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>F.B.I. Director Testifies Before House Panel as It Assails the Bureau</h3>
-<sub>By Adam Goldman and Glenn Thrush</sub>
-<p>Stoked by former President Donald J. Trump, congressional Republicans have been trying to undermine the F.B.I.’s legitimacy with the public.  <a href="https://nyti.ms/3XP1Aaz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>The Glamorous Stranger Next Door Knew Everyone. And She Needed Help.</h3>
 <sub>By Michael Wilson</sub>
 <p>The mysterious neighbor claimed to have witnessed a nuclear detonation, marched on Selma and acted on Broadway. Would an overlooked form letter be her downfall?  <a href="https://nyti.ms/3JWB8WC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-books-blue" alt="">
-<h3>In Milan Kundera’s Work, the Erotic Meets the Subversive</h3>
-<sub>By Dwight Garner</sub>
-<p>His best novels, charged with a distrust of authority, retain their sweep and power.  <a href="https://nyti.ms/3JSeIWs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Inflation Cools Sharply in June, Good News for Consumers and the Fed</h3>
+<sub>By Jeanna Smialek</sub>
+<p>The Consumer Price Index climbed far more slowly in June, a relief for shoppers and a hopeful — though inconclusive — sign that America might pull off a “soft landing.”  <a href="https://nyti.ms/3D6Tbpv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Milan Kundera, Literary Star Who Skewered Communist Rule, Dies at 94</h3>
-<sub>By Daniel Lewis</sub>
-<p>The author of “The Unbearable Lightness of Being,” he was known for sexually charged novels that captured the suffocating absurdity of life in his native Czechoslovakia.  <a href="https://nyti.ms/3XRi2XY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>A Year of Cosmic Wonder With the James Webb Space Telescope</h3>
+<sub>By Katrina Miller</sub>
+<p>With a new image, NASA commemorates the first anniversary of doing science with the most powerful observatory ever sent to space.  <a href="https://nyti.ms/3D85mSW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>HBO’s ‘Succession’ Dominates Emmy Nominations in Uncertain Year</h3>
+<sub>John Koblin</sub>
+<p>Its final season earned 27 nods, the most of any drama, while “Ted Lasso” got 21, the most of any comedy. But the writers’ strike could delay the ceremony, planned for September.  <a href="https://nyti.ms/44LNjOd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
