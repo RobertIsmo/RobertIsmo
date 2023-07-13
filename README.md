@@ -58,10 +58,28 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Wednesday, July 12, Central Standard Time</p>
+<p>It is Thursday, July 13, Central Standard Time</p>
 <p>
-It looks like it&#39;s been a busy couple of weeks globally! At the NATO summit, many countries were added, and there were new ambitions and pledges of long-term support for Ukraine. President Biden also spoke at the event about standing up to Russian aggression. In the US, House Republicans have been criticizing an FBI investigation while in states like Vermont, extreme weather has been putting protective measures to the test. High temperatures have been hitting Southern areas of the US all week and they are predicted to get worse. Meanwhile, there have been some unusual events taking place in NY this week- someone claiming to have seen a nuclear detonation moved in next door! Economically, inflation cooled off in June which is good news for consumers and the Fed. Finally, a few Emmy nominations were released this week, although there could be delays due to a Hollywood writers&#39; strike. Oh, and one last thing - Milan Kundera&#39;s classic work is still amazing - subversive and full of eroticism!</p>
+The world is seeing a lot of tension between the US and China, with the US threatening to impose investment restrictions on the country. Meanwhile, there have been Chinese hackers attempting to target US officials in the state and commerce departments. 
+
+NATO is also having its summit where they are still trying to tackle divisions within the alliance. President Biden reassured them that support against Russian aggression will be available for as long as necessary.  
+
+The US is also facing congressional Republicans who are trying to undermine the FBI’s legitimacy. On a more positive note, Vermont has been trying out new flood defenses after being hit by a tropical storm and so far they are proving to be effective. Inflation has also cooled down in June which is good news for consumers and the Fed. 
+
+NASA&#39;s James Webb Space Telescope celebrated its first anniversary recently with an image. In terms of Emmy nominations this year, HBO&#39;s &quot;Succession&quot; dominated with 27 nominations, while &quot;Ted Lasso&quot; got 21 nods for comedy categories. There were some surprising snubs this Emmy season including Yellowstone being left out and &#39;Jury Duty&#39; being surprisingly included.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Looming U.S. Investment Restrictions on China Threaten Diplomatic Outreach</h3>
+<sub>By Alan Rappeport and Ana Swanson</sub>
+<p>Any such restrictions are expected to anger Beijing and will be the first test of the new channels of communication that the world’s two largest economies are trying to restore.  <a href="https://nyti.ms/44JOwFt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Chinese Hackers Targeted Commerce Secretary and Other U.S. Officials</h3>
+<sub>By Julian E. Barnes and Edward Wong</sub>
+<p>The hackers took aim at specific email accounts in the State and Commerce Departments, officials said.  <a href="https://nyti.ms/3O9xk5Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Despite Successes at NATO Summit, Divisions Remain</h3>
 <sub>By Steven Erlanger</sub>
@@ -92,12 +110,6 @@ It looks like it&#39;s been a busy couple of weeks globally! At the NATO summit,
 <p>Forecasters say dangerous heat is expected to return across the South. It could last another two weeks, and possibly longer.  <a href="https://nyti.ms/3XFzkH8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>The Glamorous Stranger Next Door Knew Everyone. And She Needed Help.</h3>
-<sub>By Michael Wilson</sub>
-<p>The mysterious neighbor claimed to have witnessed a nuclear detonation, marched on Selma and acted on Broadway. Would an overlooked form letter be her downfall?  <a href="https://nyti.ms/3JWB8WC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Inflation Cools Sharply in June, Good News for Consumers and the Fed</h3>
 <sub>By Jeanna Smialek</sub>
@@ -126,12 +138,6 @@ It looks like it&#39;s been a busy couple of weeks globally! At the NATO summit,
 <h3>Emmy Snubs and Surprises: ‘Jury Duty’ In, ‘Yellowstone’ Still Out</h3>
 <sub>By Mike Hale</sub>
 <p>The 75th Primetime Emmy nominations proceeded mostly as anticipated on Wednesday, but there were a few surprises.  <a href="https://nyti.ms/44o9KZQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-books-blue" alt="">
-<h3>In Milan Kundera’s Work, the Erotic Meets the Subversive</h3>
-<sub>By Dwight Garner</sub>
-<p>His best novels, charged with a distrust of authority, retain their sweep and power.  <a href="https://nyti.ms/3JSeIWs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
 <hr/>
 </ol>
