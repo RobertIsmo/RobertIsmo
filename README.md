@@ -60,7 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, July 13, Central Standard Time</p>
 <p>
-There are some tense dynamics going on between the United States and China right now, with the U.S. potentially imposing investment restrictions on China which could damage diplomatic relations. On top of that, Chinese hackers have been targeting U.S. officials in the State and Commerce Departments. At NATO&#39;s summit this week, there was progress made but divisions still remain, particularly between Russia and other countries like Ukraine. Meanwhile in the U.S., House Republicans have been critical of the FBI in a contentious hearing and there is an ongoing dangerous heat wave in many parts of the South. Hollywood actors are threatening to go on strike if their contract talks collapse while inflation has cooled significantly in June, giving more hope for a soft landing. There are also interesting new developments from Milan Kundera&#39;s novels which combine elements of eroticism and subversiveness, while in Thailand, a progressive party won the election though its leader may not get voted in as prime minister due to recent setbacks.</p>
+In the US, tensions between China and the US are rising as the US government looks to impose new restrictions on Chinese investments. On the other side of the political spectrum, some far right members of the GOP are attempting to use a defense bill to defund efforts in Ukraine, resulting in increased partisan tensions. Meanwhile, Joe Biden has pledged long-term support towards Ukraine, while NATO leaders have expressed concerns that support may waver if power shifts in the US.
+
+Elsewhere, the debate over equal rights amendments is being reignited as democrats use a creative legal theory to push for their passage. Meanwhile, some migrants are defying expectations by prospering in New York City despite politicians claiming it is destroying the city. In Hollywood, SAG-AFTRA is threatening to strike after failed contract negotiations. In Vermont, Tropical Storm Irene has exposed that existing flood defenses may not be enough against extreme storms caused by climate change. India is also being hard hit by monsoonal flooding, leading to evacuations and dozens of deaths in nearby states.
+
+Finally, legal fights and racial discrimination complaints have caused turmoil within a 94-year-old civil rights organization called LULAC. While one town in England has turned their main street around by offering free rent to local businesses for two years. Meanwhile an American soccer coach is facing a defining moment as she works to lead her team to successful international showings and cement her legacy in the sport.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Looming U.S. Investment Restrictions on China Threaten Diplomatic Outreach</h3>
@@ -69,46 +73,28 @@ There are some tense dynamics going on between the United States and China right
 <sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Chinese Hackers Targeted Commerce Secretary and Other U.S. Officials</h3>
-<sub>By Julian E. Barnes and Edward Wong</sub>
-<p>The hackers took aim at specific email accounts in the State and Commerce Departments, officials said.  <a href="https://nyti.ms/3O9xk5Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>G.O.P.’s Far Right Seeks to Use Defense Bill to Defund Ukraine War Effort</h3>
+<sub>By Karoun Demirjian</sub>
+<p>The group’s proposals have no chance of passage, but they have further mired the military spending bill in a partisan fight and highlighted Republican divisions over the war.  <a href="https://nyti.ms/3NOdw7O"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Despite Successes at NATO Summit, Divisions Remain</h3>
-<sub>By Steven Erlanger</sub>
-<p>The alliance added Sweden, laid out new ambitions for itself and offered long-term support for Ukraine, promising membership someday. But Kyiv wanted more.  <a href="https://nyti.ms/3Q1QOvw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Biden Braces NATO for Long Conflict With Russia, Making Cold War Parallel</h3>
-<sub>By David E. Sanger and Zolan Kanno-Youngs</sub>
-<p>Concluding a NATO summit focused on the war in Ukraine and other fast-changing challenges, President Biden vowed that the alliance would oppose Russian aggression for as long as needed.  <a href="https://nyti.ms/43q6ITw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
+<h3>Biden Pledges Long-Term Backing for Ukraine, but a U.S. Election Looms</h3>
+<sub>By Zolan Kanno-Youngs</sub>
+<p>Citing American politics, some NATO leaders expressed concern that Washington could waver in its support if there were a shift in power.  <a href="https://nyti.ms/3OctU3q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>House Republicans Criticize F.B.I. in Contentious Hearing</h3>
-<sub>By Adam Goldman and Glenn Thrush</sub>
-<p>Stoked by former President Donald J. Trump, congressional Republicans have been trying to undermine the bureau’s legitimacy with the public.  <a href="https://nyti.ms/3XP1Aaz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
+<h3>Democrats Try a Novel Tactic to Revive the Equal Rights Amendment</h3>
+<sub>By Annie Karni</sub>
+<p>Proponents of the measure to enshrine a guarantee of sex equality into the Constitution are using a creative legal theory to try to resurrect the long-stalled amendment.  <a href="https://nyti.ms/44GUBmb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Vermont Storm Exposes the Strengths, and Limits, of New Flood Defenses</h3>
-<sub>By Jenna Russell</sub>
-<p>The state began new flood protection efforts after being battered by Tropical Storm Irene in 2011. Many appeared to be effective, but experts say more will be needed as storms become more extreme.  <a href="https://nyti.ms/44Gz119"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Dangerous Heat Wave Is Forecast to Get Worse</h3>
-<sub>By Judson Jones</sub>
-<p>Forecasters say dangerous heat is expected to return across the South. It could last another two weeks, and possibly longer.  <a href="https://nyti.ms/3XFzkH8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>A Year of Cosmic Wonder With the James Webb Space Telescope</h3>
-<sub>By Katrina Miller</sub>
-<p>With a new image, NASA commemorates the first anniversary of doing science with the most powerful observatory ever sent to space.  <a href="https://nyti.ms/3D85mSW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>As Politicians Cry ‘Crisis,’ Some Migrants Are Finding Their Way</h3>
+<sub>By Christopher Maag and Raúl Vilchis</sub>
+<p>New York City’s leadership says housing and caring for migrants is costing billions, and “destroying” the city. But economists say their arrival will eventually be a boon.  <a href="https://nyti.ms/3D8DoXc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Hollywood Shutdown Looms as Actors Say Contract Talks Have Collapsed</h3>
@@ -116,22 +102,40 @@ There are some tense dynamics going on between the United States and China right
 <p>SAG-AFTRA, representing 160,000 television and movie actors, could strike as soon as Thursday, joining screenwriters who have been picketing for over 70 days.  <a href="https://nyti.ms/3pLnnn0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Inflation Cools Sharply in June, Good News for Consumers and the Fed</h3>
-<sub>By Jeanna Smialek</sub>
-<p>The Consumer Price Index climbed far more slowly in June, a relief for shoppers and a hopeful — though inconclusive — sign that America might pull off a “soft landing.”  <a href="https://nyti.ms/3D6Tbpv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Vermont Storm Exposes the Strengths, and Limits, of New Flood Defenses</h3>
+<sub>By Jenna Russell</sub>
+<p>The state began new flood protection efforts after being battered by Tropical Storm Irene in 2011. Many appeared to be effective, but experts say more will be needed as storms become more extreme.  <a href="https://nyti.ms/44Gz119"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-books-blue" alt="">
-<h3>In Milan Kundera’s Work, the Erotic Meets the Subversive</h3>
-<sub>By Dwight Garner</sub>
-<p>His best novels, charged with a distrust of authority, retain their sweep and power.  <a href="https://nyti.ms/3JSeIWs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>Compounding Disasters</h3>
+<sub>By German Lopez</sub>
+<p>America’s compounding natural disasters show the reality of climate change.  <a href="https://nyti.ms/3rvem1E"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>His Party Won Thailand’s Election. But the Top Job Is a Long Shot.</h3>
-<sub>By Mike Ives and Muktita Suhartono</sub>
-<p>Pita Limjaroenrat, a progressive who led his party to victory in May, was hit by two setbacks on the eve of the vote for prime minister.  <a href="https://nyti.ms/3PSS8km"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Evacuations Ordered in Delhi: Monsoon Flooding in Pictures</h3>
+<sub>By Sameer Yasir and Hari Kumar</sub>
+<p>The authorities warned of widespread flooding in the Indian capital after days of torrential rains claimed dozens of lives in neighboring states.  <a href="https://nyti.ms/3O8caWR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Legal Fights and Charges of Discrimination Send Latino Group Into Turmoil</h3>
+<sub>By Jazmine Ulloa</sub>
+<p>A battle over Puerto Rico statehood and claims of a “takeover” are testing a 94-year-old civil rights organization known as LULAC.  <a href="https://nyti.ms/3rjx3p0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>How to Revive a Dying Main Street? One U.K. Landlord Offered Free Rent.</h3>
+<sub>By Eshe Nelson</sub>
+<p>In a coastal English town, a floundering shopping district was given new life after 10 local businesses were given free rent for two years.  <a href="https://nyti.ms/44oDgPo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>She’s Got the Hardest Job in Soccer. Can She Keep Winning?</h3>
+<sub>By Bruce Schoenfeld</sub>
+<p>A former World Cup winner, Cindy Parlow Cone is now working to help America realize its global soccer ambitions. Her legacy may be defined by a few games.  <a href="https://nyti.ms/3Dd0dZM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
