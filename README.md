@@ -60,13 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, July 13, Central Standard Time</p>
 <p>
-The world is seeing a lot of tension between the US and China, with the US threatening to impose investment restrictions on the country. Meanwhile, there have been Chinese hackers attempting to target US officials in the state and commerce departments. 
-
-NATO is also having its summit where they are still trying to tackle divisions within the alliance. President Biden reassured them that support against Russian aggression will be available for as long as necessary.  
-
-The US is also facing congressional Republicans who are trying to undermine the FBI’s legitimacy. On a more positive note, Vermont has been trying out new flood defenses after being hit by a tropical storm and so far they are proving to be effective. Inflation has also cooled down in June which is good news for consumers and the Fed. 
-
-NASA&#39;s James Webb Space Telescope celebrated its first anniversary recently with an image. In terms of Emmy nominations this year, HBO&#39;s &quot;Succession&quot; dominated with 27 nominations, while &quot;Ted Lasso&quot; got 21 nods for comedy categories. There were some surprising snubs this Emmy season including Yellowstone being left out and &#39;Jury Duty&#39; being surprisingly included.</p>
+There are some tense dynamics going on between the United States and China right now, with the U.S. potentially imposing investment restrictions on China which could damage diplomatic relations. On top of that, Chinese hackers have been targeting U.S. officials in the State and Commerce Departments. At NATO&#39;s summit this week, there was progress made but divisions still remain, particularly between Russia and other countries like Ukraine. Meanwhile in the U.S., House Republicans have been critical of the FBI in a contentious hearing and there is an ongoing dangerous heat wave in many parts of the South. Hollywood actors are threatening to go on strike if their contract talks collapse while inflation has cooled significantly in June, giving more hope for a soft landing. There are also interesting new developments from Milan Kundera&#39;s novels which combine elements of eroticism and subversiveness, while in Thailand, a progressive party won the election though its leader may not get voted in as prime minister due to recent setbacks.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Looming U.S. Investment Restrictions on China Threaten Diplomatic Outreach</h3>
@@ -110,35 +104,35 @@ NASA&#39;s James Webb Space Telescope celebrated its first anniversary recently 
 <p>Forecasters say dangerous heat is expected to return across the South. It could last another two weeks, and possibly longer.  <a href="https://nyti.ms/3XFzkH8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Inflation Cools Sharply in June, Good News for Consumers and the Fed</h3>
-<sub>By Jeanna Smialek</sub>
-<p>The Consumer Price Index climbed far more slowly in June, a relief for shoppers and a hopeful — though inconclusive — sign that America might pull off a “soft landing.”  <a href="https://nyti.ms/3D6Tbpv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
 <h3>A Year of Cosmic Wonder With the James Webb Space Telescope</h3>
 <sub>By Katrina Miller</sub>
 <p>With a new image, NASA commemorates the first anniversary of doing science with the most powerful observatory ever sent to space.  <a href="https://nyti.ms/3D85mSW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>HBO’s ‘Succession’ Dominates Emmy Nominations in Uncertain Year</h3>
-<sub>John Koblin</sub>
-<p>Its final season earned 27 nods, the most of any drama, while “Ted Lasso” got 21, the most of any comedy. But the writers’ strike could delay the ceremony, planned for September.  <a href="https://nyti.ms/44LNjOd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Hollywood Shutdown Looms as Actors Say Contract Talks Have Collapsed</h3>
+<sub>By Brooks Barnes, John Koblin and Nicole Sperling</sub>
+<p>SAG-AFTRA, representing 160,000 television and movie actors, could strike as soon as Thursday, joining screenwriters who have been picketing for over 70 days.  <a href="https://nyti.ms/3pLnnn0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Inflation Cools Sharply in June, Good News for Consumers and the Fed</h3>
+<sub>By Jeanna Smialek</sub>
+<p>The Consumer Price Index climbed far more slowly in June, a relief for shoppers and a hopeful — though inconclusive — sign that America might pull off a “soft landing.”  <a href="https://nyti.ms/3D6Tbpv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Emmy Nominees 2023: The Complete List</h3>
-<sub>By Rachel Sherman</sub>
-<p>The 75th Emmy Awards ceremony is planned for Sept. 18, but it may be delayed because of the Hollywood writers’ strike.  <a href="https://nyti.ms/3PVvbgI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-books-blue" alt="">
+<h3>In Milan Kundera’s Work, the Erotic Meets the Subversive</h3>
+<sub>By Dwight Garner</sub>
+<p>His best novels, charged with a distrust of authority, retain their sweep and power.  <a href="https://nyti.ms/3JSeIWs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Emmy Snubs and Surprises: ‘Jury Duty’ In, ‘Yellowstone’ Still Out</h3>
-<sub>By Mike Hale</sub>
-<p>The 75th Primetime Emmy nominations proceeded mostly as anticipated on Wednesday, but there were a few surprises.  <a href="https://nyti.ms/44o9KZQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>His Party Won Thailand’s Election. But the Top Job Is a Long Shot.</h3>
+<sub>By Mike Ives and Muktita Suhartono</sub>
+<p>Pita Limjaroenrat, a progressive who led his party to victory in May, was hit by two setbacks on the eve of the vote for prime minister.  <a href="https://nyti.ms/3PSS8km"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
