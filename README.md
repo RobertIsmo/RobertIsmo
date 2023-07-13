@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, July 12, Central Standard Time</p>
 <p>
-There are a few big stories happening around the world right now. At the NATO summit, the alliance added Sweden and laid out plans for long-term support to Ukraine, although Kyiv wanted more. President Biden is vowing that NATO would oppose Russian aggression for as long as needed, making it seem like a Cold War parallel. In the US, House Republicans are trying to undermine the legitimacy of FBI with former President Trump&#39;s help. In Vermont there was a storm that tested the success of new flood defenses, and Chicago residents needed to take shelter after a tornado warning. There is also a dangerous heat wave forecasts in the South that could last for weeks or longer. Additionally, Emmy nominations have been announced with HBO&#39;s &#39;Succession&#39; getting 27 nods and &#39;Ted Lasso&#39; getting 21 - though it may be delayed due to a writers’ strike. The list of Emmy nominees have also been released, but there were some unexpected snubs and surprises. </p>
+It looks like it&#39;s been a busy couple of weeks globally! At the NATO summit, many countries were added, and there were new ambitions and pledges of long-term support for Ukraine. President Biden also spoke at the event about standing up to Russian aggression. In the US, House Republicans have been criticizing an FBI investigation while in states like Vermont, extreme weather has been putting protective measures to the test. High temperatures have been hitting Southern areas of the US all week and they are predicted to get worse. Meanwhile, there have been some unusual events taking place in NY this week- someone claiming to have seen a nuclear detonation moved in next door! Economically, inflation cooled off in June which is good news for consumers and the Fed. Finally, a few Emmy nominations were released this week, although there could be delays due to a Hollywood writers&#39; strike. Oh, and one last thing - Milan Kundera&#39;s classic work is still amazing - subversive and full of eroticism!</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Despite Successes at NATO Summit, Divisions Remain</h3>
@@ -84,12 +84,6 @@ There are a few big stories happening around the world right now. At the NATO su
 <h3>Vermont Storm Exposes the Strengths, and Limits, of New Flood Defenses</h3>
 <sub>By Jenna Russell</sub>
 <p>The state began new flood protection efforts after being battered by Tropical Storm Irene in 2011. Many appeared to be effective, but experts say more will be needed as storms become more extreme.  <a href="https://nyti.ms/44Gz119"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Chicago Residents Take Shelter After Tornado Touches Down</h3>
-<sub>By Orlando Mayorquin and Livia Albeck-Ripka</sub>
-<p>A tornado warning was issued for the Chicago area on Wednesday evening. The National Weather Service confirmed a tornado had landed near O’Hare International Airport.  <a href="https://nyti.ms/3Ddm7w6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -132,6 +126,12 @@ There are a few big stories happening around the world right now. At the NATO su
 <h3>Emmy Snubs and Surprises: ‘Jury Duty’ In, ‘Yellowstone’ Still Out</h3>
 <sub>By Mike Hale</sub>
 <p>The 75th Primetime Emmy nominations proceeded mostly as anticipated on Wednesday, but there were a few surprises.  <a href="https://nyti.ms/44o9KZQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-books-blue" alt="">
+<h3>In Milan Kundera’s Work, the Erotic Meets the Subversive</h3>
+<sub>By Dwight Garner</sub>
+<p>His best novels, charged with a distrust of authority, retain their sweep and power.  <a href="https://nyti.ms/3JSeIWs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
 <hr/>
 </ol>
