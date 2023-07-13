@@ -60,12 +60,26 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, July 13, Central Standard Time</p>
 <p>
-Recently, the FDA approved over-the-counter birth control pills in the U.S., which could significantly expand access to contraception for many women. The pill is expected to be available in early 2024. In addition, there&#39;s a movement to revive the Equal Rights Amendment and enshrine sex equality into the U.S Constitution. On the other side of the country, New York has been ordered to redraw its house map as it may give Democrats an advantage in congressional races.
-
-The tech industry has been facing investigation too, with the FTC probing into ChatGPT maker OpenAI&#39;s consumer harms and security practices. On a lighter note, a man in Central Park named &quot;Paddleball Paul&quot; has been fighting a lonely war against pickleball taking over the handball courts. Scientists have been studying natural gas emissions too and found that leaks can cause it to be just as harmful for the climate as coal.
-
-At court, a jury ruled that Pittsburgh Synagogue shooter Robert Bowers&#39; crimes are eligible for death penalty and are currently deciding whether he should face life in prison or death sentence as punishment. Vermont&#39;s Tropical Storm Irene in 2011 also reignited conversation on flood defenses and their effectiveness, prompting discussions on possible improvements and stricter disaster response plans.</p>
+There&#39;s a lot happening in the world right now! Actors and writers in Hollywood are striking right now, which is impacting the production of movies and TV shows. In a historic move, the U.S. Food and Drug Administration just approved the first over-the-counter birth control pill that will be available in a couple years. The U.S. House of Representatives just voted on limiting access to abortions for military personnel, and President Biden recently voiced support for a prisoner swap to free an American held abroad. On top of that, the Federal Trade Commission is investigating some of the potential harms of certain technologies, and the chair was recently criticized at a congressional hearing. There&#39;s even some drama with pickleball in Central Park!</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Hollywood studios say it’s a crisis moment for them, too.</h3>
+<sub>By John Koblin</sub>
+<p>  <a href="https://nyti.ms/3NL5Z9Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>What to Know About the Actors’ Strike</h3>
+<sub>By Matt Stevens</sub>
+<p>Here’s why Hollywood is facing its first industrywide shutdown in more than 60 years, and what it could mean for your favorite shows.  <a href="https://nyti.ms/46P8Zec"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>What the Hollywood Actors and Writers Strikes Mean for TV and Movies</h3>
+<sub>By John Koblin</sub>
+<p>After two months without new late-night TV shows, viewers are likely to notice the effects of the dual walkouts more broadly within the next couple of months unless agreements are reached quickly.  <a href="https://nyti.ms/44v96dm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>F.D.A. Approves First U.S. Over-the-Counter Birth Control Pill</h3>
 <sub>By Pam Belluck</sub>
@@ -78,22 +92,22 @@ At court, a jury ruled that Pittsburgh Synagogue shooter Robert Bowers&#39; crim
 <p>Opill, also known as a “mini pill,” contains only progestin, a synthetic version of progesterone.  <a href="https://nyti.ms/3Bg9ZJF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>What’s happening with the writers’ strike?</h3>
-<sub>By Brooks Barnes, John Koblin, Nicole Sperling and Daniel Victor</sub>
-<p>  <a href="https://nyti.ms/44MTQbr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>House to Vote on Abortion Access for Military, Bowing to the Far Right</h3>
+<h3>House to Vote on Limiting Abortion Access for Military, Bowing to the Right</h3>
 <sub>By Karoun Demirjian</sub>
 <p>G.O.P. leaders acceded to the demands of ultraconservatives to use the annual defense policy bill to lodge cultural grievances and protest continued U.S. support for Ukraine.  <a href="https://nyti.ms/3PVAVXQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Biden said the U.S. is open to a prisoner swap to free Evan Gershkovich.</h3>
+<sub>By Gabriela Sá Pessoa</sub>
+<p>The president confirmed that a ‘process is underway’ during a news conference in Finland.  <a href="https://nyti.ms/3pEWCkd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Democrats Try a Novel Tactic to Revive the Equal Rights Amendment</h3>
-<sub>By Annie Karni</sub>
-<p>Proponents of the measure to enshrine a guarantee of sex equality into the Constitution are using a creative legal theory to try to resurrect the long-stalled amendment.  <a href="https://nyti.ms/44GUBmb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Biden Criticizes Supreme Court Rulings, but Not the Court</h3>
+<sub>By Michael D. Shear</sub>
+<p>President Biden has resisted a full-throated attack on the Supreme Court or the individual justices, despite mounting pressure from activists and from within the Democratic Party.  <a href="https://nyti.ms/46POOwo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -102,10 +116,10 @@ At court, a jury ruled that Pittsburgh Synagogue shooter Robert Bowers&#39; crim
 <p>The agency sent OpenAI, which makes ChatGPT, a letter this week over consumer harms and the company’s security practices.  <a href="https://nyti.ms/3rqTFnL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>New York Is Ordered by Appeals Court to Redraw House Map</h3>
-<sub>By Nicholas Fandos</sub>
-<p>The decision, if upheld, could allow Democrats to shift as many as six G.O.P.-held seats in their direction. Republicans vowed to appeal.  <a href="https://nyti.ms/44Kkjqa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>F.T.C. Chair Faces Criticism in Congressional Hearing</h3>
+<sub>By Cecilia Kang</sub>
+<p>Lina Khan faced more than three hours of questioning from the Republican-led House Judiciary Committee.  <a href="https://nyti.ms/46Fwq9w"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-books-blue" alt="">
@@ -119,24 +133,6 @@ At court, a jury ruled that Pittsburgh Synagogue shooter Robert Bowers&#39; crim
 <sub>By Allie Conti and Lanna Apisukh</sub>
 <p>Pickleball is everywhere, and “Paddleball Paul” is making his last stand on the handball courts of Central Park. It’s not going very well.  <a href="https://nyti.ms/46KN0F7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Leaks Can Make Natural Gas as Bad for the Climate as Coal, a Study Says</h3>
-<sub>By HIROKO TABUCHI</sub>
-<p>The findings cast doubt on the idea that natural gas can serve as a transitional fuel to a future powered entirely by renewables like solar and wind.  <a href="https://nyti.ms/44lClzd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Jury in Pittsburgh Synagogue Trial Finds Gunman’s Crimes Eligible for Death Penalty</h3>
-<sub>By Jon Moss and Campbell Robertson</sub>
-<p>Next, in the final phase of the federal trial, jurors will weigh whether to recommend sentencing Robert Bowers to death or to life in prison.  <a href="https://nyti.ms/46MbVrO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Vermont Storm Exposes the Strengths, and Limits, of New Flood Defenses</h3>
-<sub>By Jenna Russell, Richard Beaven and Hilary Swift</sub>
-<p>The state began new flood protection efforts after being battered by Tropical Storm Irene in 2011. Many appeared to be effective, but experts say more will be needed as storms become more extreme.  <a href="https://nyti.ms/44Gz119"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
