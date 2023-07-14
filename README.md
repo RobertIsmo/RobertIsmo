@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, July 14, Central Standard Time</p>
 <p>
-Many things are going on in the world right now. In the US, the House recently passed a defense bill, but it will likely not survive in the Senate due to a variety of social policy provisions that were included. In New York, someone was arrested for the serial killing of women near Gilgo Beach, and the police chief has brought a renewed sense of urgency to what was once a cold case. In Hollywood, Fran Drescher (who is most famous for her role as &quot;The Nanny&quot;) is now the president of an actors&#39; union that is preparing to go on strike. Meanwhile,in Ukraine, there are villages destroyed by war that have become overgrown with weeds and largely forgotten. And Europe is once again dealing with a major heat wave.</p>
+Currently, some important news stories are happening in the US and NYC area. In the US, the House of Representatives recently passed a defense bill that had controversial social policy provisions attached, setting up a potential showdown with the Senate. In NYC, there were some major developments in two cases. There was an arrest made in a series of serial killings near Gilgo Beach on Long Island, and police are reporting new progress due to their new chief. There is also a actors&#39; strike happening in Hollywood, with Fran Drescher - who became famous as &#39;The Nanny&#39; - now taking the lead as president of the union leading the strike. This could have affect on movie theaters and festivals. Meanwhile in Iowa, there was an exchange between VP Pence and an Iowa voter, which could be indicative of Pence&#39;s 2024 campaign ambitions. On Long Island again, there&#39;s some interesting news about freshman Republican George Santos who has been using most of his fundraising money to pay himself back, while his colleague Mike Lawler revealed he raised $900K in the same period. Finally, NYC Mayor Bill de Blasio is unexpectedly winning praise from New Yorkers for his handling of his split from his wife Chirlane McCray. And at Wimbledon, a team of workers is picking and packing two million strawberries that will be served over the course of the tournament.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>House Narrowly Passes Defense Bill, Setting Up Showdown Over Social Issues</h3>
@@ -70,7 +70,7 @@ Many things are going on in the world right now. In the US, the House recently p
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Suspect Arrested in Serial Killings of Women Near Gilgo Beach</h3>
-<sub>By William K. Rashbaum, Ellen Yan and Corey Kilgannon</sub>
+<sub>By William K. Rashbaum, Corey Kilgannon and Maria Cramer</sub>
 <p>In all, the remains of nine women, a man and a toddler have been found in the area on Long Island. Investigators believe some deaths were the work of a serial killer.  <a href="https://nyti.ms/3OeW1PC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 14, Central Standard Time</sub></sub>
 <hr/>
@@ -79,6 +79,12 @@ Many things are going on in the world right now. In the US, the House recently p
 <sub>By Robert Kolker</sub>
 <p>After a decade of little movement in a series of killings on Long Island, a new sense of urgency.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Strike Prevents Actors From Promoting Films at Premieres or Festivals</h3>
+<sub>By Nicole Sperling</sub>
+<p>While on strike, actors are barred from publicizing any studio projects they’ve appeared in. Their absence could affect movie theaters and the festival circuit.  <a href="https://nyti.ms/44q0STs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Once ‘The Nanny,’ Now Center Stage as the Actors’ Union Leader</h3>
@@ -92,22 +98,10 @@ Many things are going on in the world right now. In the US, the House recently p
 <p>Here’s why Hollywood is facing its first industrywide shutdown in more than 60 years, and what it could mean for your favorite shows.  <a href="https://nyti.ms/46P8Zec"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Economic Stakes in the Hollywood Shutdown</h3>
-<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
-<p>Strikes by actors and screenwriters have ground movie and TV productions to a halt, with consequences likely to be felt across the entertainment industry.  <a href="https://nyti.ms/3PZpE8G"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ruined, Empty, Mined and Overgrown: Ukraine’s Forgotten Villages</h3>
-<sub>By Thomas Gibbons-Neff, Natalia Yermak and Mauricio Lima</sub>
-<p>Settlements along Ukraine’s eastern steppe were reduced to wreckage as the war passed through them. Now choked with weeds and with few residents, they are at risk of disappearing.  <a href="https://nyti.ms/3PZhzkm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Ukrainian commander describes the grueling battle against dug-in Russian forces.</h3>
-<sub>By Andrew E. Kramer and Maria Varenikova</sub>
-<p>Troops with the 36th Marine Brigade have been the tip of the spear in Ukraine’s counteroffensive and have advanced about five miles into a bulge into Russian lines in southern Ukraine.  <a href="https://nyti.ms/3PZIYTh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. Cluster Munitions Arrive in Ukraine, but Impact on Battlefield Remains Unclear</h3>
+<sub>By Eric Schmitt</sub>
+<p>U.S. officials and military analysts say the weapons, which are banned by many countries, will ease Ukraine’s artillery ammunition shortage but may not have an immediate impact in the war.  <a href="https://nyti.ms/3rkwATy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -116,22 +110,28 @@ Many things are going on in the world right now. In the US, the House recently p
 <p>The figure far surpasses what Donald Trump raised, though it is well short of what Mr. Trump and his allies collected during the same period in the 2020 election cycle.  <a href="https://nyti.ms/3pL3v3n"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 14, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Iowa, Pence Is Put on the Spot Over Jan. 6</h3>
+<sub>By Trip Gabriel</sub>
+<p>An exchange with an Iowa voter who accused the former vice president of putting President Biden in the White House illustrated a larger issue for his 2024 campaign.  <a href="https://nyti.ms/3roPY1P"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>George Santos Used Most of His Campaign Cash to Pay Himself Back</h3>
+<sub>By Michael Gold, Nicholas Fandos and Grace Ashford</sub>
+<p>Mr. Santos spent more than half of the $150,000 he raised in the most recent quarter repaying loans he made to his campaign, new filings show. Another freshman Republican, Mike Lawler, revealed a $900,000 haul.  <a href="https://nyti.ms/43thcSh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>The Strawberry Fields of Wimbledon</h3>
+<sub></sub>
+<p>A team of workers has been racing to pick, pack and transport the more than two million strawberries that are expected to be served over the course of the tournament.  <a href="https://nyti.ms/44jYyxo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Finally, Bill de Blasio Wins New Yorkers’ Praise. For His Breakup.</h3>
 <sub>By Sharon Otterman and Olivia Bensimon</sub>
 <p>Many New Yorkers weren’t impressed with Bill de Blasio as mayor. But the way he’s handling his separation from his wife, Chirlane McCray? “Inspiring.”  <a href="https://nyti.ms/3PWg8TW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Will There Ever Be Another Popular Mayor of New York City?</h3>
-<sub>By Ginia Bellafante</sub>
-<p>Eric Adams — like most of his recent predecessors — hovers around a 50 percent approval rating. It’s hard to govern when only half the city is on your side.  <a href="https://nyti.ms/3PQZ15T"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>New Heat Wave Descends on Europe, as It Struggles to Adapt</h3>
-<sub>By Gaia Pianigiani</sub>
-<p>European governments have been slow to put in place broader mitigation strategies for extreme heat, allowing deaths to increase. This year may be no different.  <a href="https://nyti.ms/3DfKokU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
