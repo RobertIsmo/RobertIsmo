@@ -58,10 +58,22 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Thursday, July 13, Central Standard Time</p>
+<p>It is Friday, July 14, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In Hollywood, actors and writers are on strike against old-line and tech studios like Disney, Sony, Netflix, and Amazon. Fran Drescher, who starred in the 1990s sitcom &#39;The Nanny&#39;, is now president of the union going on strike. Meanwhile, in U.S. politics, ultraconservatives are trying to use the annual defense policy bill to lodge cultural grievances and challenge continued U.S. support for Ukraine. There&#39;s also bipartisan support to force the release of UFO records. In health news, the World Health Organization has declared aspartame a possible cause of cancer in humans which has sparked debate over diet soda consumption - though experts say not to panic. On top of that, former president Donald Trump&#39;s request to delay his documents trial has been rejected by prosecutors and it was revealed that a Trump-affiliated super pac paid $155,000 to Melania Trump this year for a &#39;speaking engagement&#39;. Pretty wild world we&#39;re living in right now!</p>
+I&#39;ve got some wild news to tell you! It looks like the fate of a Defense Bill is up in the air after the Republican party added some controversial social issues to it. Then, some Democrats and Republicans have come together to create a measure that will eventually lead to the release of documents about unidentified aerial phenomena. It&#39;s chaos in Hollywood right now too; actors have gone on strike with writers, which is causing a standstill in production for all of these old-line studios and tech giants. Then to top it off, the World Health Organization has declared aspartame possibly carcinogenic, which is scary because it&#39;s an artificial sweetener found in so many food and drinks. There&#39;s been a lot of stuff going on related to former President Donald Trump too. There&#39;s been a case against him pushed back after he tried to delay it and then there was also a $155,000 payment from one of his Super PACs to Melania which was listed as payment for a &quot;speaking engagement&quot;. Feel like I&#39;m forgetting something else but that covers most of it! Crazy times we&#39;re living in!</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Defense Bill’s Fate Teeters After G.O.P. Wedges In Social Issues</h3>
+<sub>By Karoun Demirjian</sub>
+<p>Democrats said they could not support the measure after the House adopted a raft of social policy provisions, including limits on abortions, gender transition procedures and diversity training.  <a href="https://nyti.ms/44GvUGD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Bipartisan Measure Aims to Force Release of U.F.O. Records</h3>
+<sub>By Julian E. Barnes</sub>
+<p>Legislation backed by Chuck Schumer, the Senate majority leader, would create a review board to declassify documents related to unidentified aerial phenomena across the government.  <a href="https://nyti.ms/3PPx6Do"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Actors Join Writers on Strike, Bringing Hollywood to a Standstill</h3>
 <sub>By Brooks Barnes, John Koblin and Nicole Sperling</sub>
@@ -78,18 +90,6 @@ There is a lot going on in the world right now. In Hollywood, actors and writers
 <h3>What to Know About the Actors’ Strike</h3>
 <sub>By Matt Stevens</sub>
 <p>Here’s why Hollywood is facing its first industrywide shutdown in more than 60 years, and what it could mean for your favorite shows.  <a href="https://nyti.ms/46P8Zec"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>House Votes to Limit Abortion Access in the Military, Bowing to the Right</h3>
-<sub>By Karoun Demirjian</sub>
-<p>G.O.P. leaders acceded to the demands of ultraconservatives to use the annual defense policy bill to lodge cultural grievances and protest continued U.S. support for Ukraine. Now its fate is in doubt.  <a href="https://nyti.ms/3PVAVXQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Bipartisan Measure Aims to Force Release of U.F.O. Records</h3>
-<sub>By Julian E. Barnes</sub>
-<p>Legislation backed by Chuck Schumer, the Senate majority leader, would create a review board to declassify documents related to unidentified aerial phenomena across the government.  <a href="https://nyti.ms/3PPx6Do"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
