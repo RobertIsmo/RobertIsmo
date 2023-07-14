@@ -60,19 +60,25 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, July 14, Central Standard Time</p>
 <p>
-In the US, politicians are arguing about a military spending bill as it includes provisions on social issues such as abortion access, gender transition procedures, and diversity training. In Ukraine, settlements that were wrecked during their war have been left abandoned and now overgrown with weeds to the point where they&#39;re at risk of disappearing. On the other side of the world, Hollywood is facing its largest shutdown in 60 years due to actors and screenwriters going on strike. Back in the US, New Yorkers aren&#39;t too impressed with their mayor but instead gave praise to his newfound determination to separate from his wife. Investors are hopeful for a brighter future in the market despite companies reporting low profits - and prosecutors are questioning whether former president Donald Trump knew he had lost the election last November. Meanwhile, an insurance company in Florida is pulling out policies as insurance companies struggle to cover climate change related damage which has led to a crisis with no clear resolution.</p>
+Many things are going on in the world right now. In the US, the House recently passed a defense bill, but it will likely not survive in the Senate due to a variety of social policy provisions that were included. In New York, someone was arrested for the serial killing of women near Gilgo Beach, and the police chief has brought a renewed sense of urgency to what was once a cold case. In Hollywood, Fran Drescher (who is most famous for her role as &quot;The Nanny&quot;) is now the president of an actors&#39; union that is preparing to go on strike. Meanwhile,in Ukraine, there are villages destroyed by war that have become overgrown with weeds and largely forgotten. And Europe is once again dealing with a major heat wave.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Defense Bill’s Fate Teeters After G.O.P. Wedges In Social Issues</h3>
+<h3>House Narrowly Passes Defense Bill, Setting Up Showdown Over Social Issues</h3>
 <sub>By Karoun Demirjian</sub>
-<p>Democrats said they could not support the measure after the House adopted a raft of social policy provisions, including limits on abortions, gender transition procedures and diversity training.  <a href="https://nyti.ms/44GvUGD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Republicans loaded the measure with a raft of social policy provisions — including limits on abortions, gender transition procedures and diversity training — that have little chance of surviving in the Senate.  <a href="https://nyti.ms/44GvUGD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ruined, Empty, Mined and Overgrown: Ukraine’s Forgotten Villages</h3>
-<sub>By Thomas Gibbons-Neff, Natalia Yermak and Mauricio Lima</sub>
-<p>Settlements along Ukraine’s eastern steppe were reduced to wreckage as the war passed through them. Now choked with weeds and with few residents, they are at risk of disappearing.  <a href="https://nyti.ms/3PZhzkm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Suspect Arrested in Serial Killings of Women Near Gilgo Beach</h3>
+<sub>By William K. Rashbaum, Ellen Yan and Corey Kilgannon</sub>
+<p>In all, the remains of nine women, a man and a toddler have been found in the area on Long Island. Investigators believe some deaths were the work of a serial killer.  <a href="https://nyti.ms/3OeW1PC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>The Gilgo Beach Murders Were a Cold Case. Then a New Police Chief Arrived.</h3>
+<sub>By Robert Kolker</sub>
+<p>After a decade of little movement in a series of killings on Long Island, a new sense of urgency.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Once ‘The Nanny,’ Now Center Stage as the Actors’ Union Leader</h3>
@@ -92,15 +98,27 @@ In the US, politicians are arguing about a military spending bill as it includes
 <p>Strikes by actors and screenwriters have ground movie and TV productions to a halt, with consequences likely to be felt across the entertainment industry.  <a href="https://nyti.ms/3PZpE8G"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How Netflix Plans Total Global Domination, One Korean Drama at a Time</h3>
-<sub>By Daisuke Wakabayashi and Jin Yu Young</sub>
-<p>Popular content produced in Asia and around the world has taken on greater significance with most of Hollywood now on strike.  <a href="https://nyti.ms/44Eq9cs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ruined, Empty, Mined and Overgrown: Ukraine’s Forgotten Villages</h3>
+<sub>By Thomas Gibbons-Neff, Natalia Yermak and Mauricio Lima</sub>
+<p>Settlements along Ukraine’s eastern steppe were reduced to wreckage as the war passed through them. Now choked with weeds and with few residents, they are at risk of disappearing.  <a href="https://nyti.ms/3PZhzkm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Ukrainian commander describes the grueling battle against dug-in Russian forces.</h3>
+<sub>By Andrew E. Kramer and Maria Varenikova</sub>
+<p>Troops with the 36th Marine Brigade have been the tip of the spear in Ukraine’s counteroffensive and have advanced about five miles into a bulge into Russian lines in southern Ukraine.  <a href="https://nyti.ms/3PZIYTh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden and D.N.C. Announce $72 Million in Fund-Raising, a Substantial Haul</h3>
+<sub>By Reid J. Epstein</sub>
+<p>The figure far surpasses what Donald Trump raised, though it is well short of what Mr. Trump and his allies collected during the same period in the 2020 election cycle.  <a href="https://nyti.ms/3pL3v3n"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Finally, Bill de Blasio Wins New Yorkers’ Praise. For His Breakup.</h3>
-<sub>By Sharon Otterman</sub>
+<sub>By Sharon Otterman and Olivia Bensimon</sub>
 <p>Many New Yorkers weren’t impressed with Bill de Blasio as mayor. But the way he’s handling his separation from his wife, Chirlane McCray? “Inspiring.”  <a href="https://nyti.ms/3PWg8TW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 14, Central Standard Time</sub></sub>
 <hr/>
@@ -110,28 +128,10 @@ In the US, politicians are arguing about a military spending bill as it includes
 <p>Eric Adams — like most of his recent predecessors — hovers around a 50 percent approval rating. It’s hard to govern when only half the city is on your side.  <a href="https://nyti.ms/3PQZ15T"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>JPMorgan’s Profit Jumps, but Interest Rates Remain a Threat</h3>
-<sub>By Rob Copeland</sub>
-<p>It was another quarter of banner financial results for the largest lender in America.  <a href="https://nyti.ms/46LUuHX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Investors Look for Reasons the Market Could ‘Grind Higher’</h3>
-<sub>By Joe Rennison and J. Edward Moreno</sub>
-<p>Companies are expected to report a fall in profits, but some analysts see brighter times ahead.  <a href="https://nyti.ms/44pdZEE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Prosecutors Ask Witnesses Whether Trump Acknowledged He Lost 2020 Race</h3>
-<sub>By Michael S. Schmidt and Maggie Haberman</sub>
-<p>Jared Kushner was questioned before a federal grand jury as prosecutors appeared to be trying to establish if the former president knew his efforts to stay in power were built on a lie.  <a href="https://nyti.ms/3DeEzEm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Insurer’s Retreat in Florida Signals Crisis With No Easy Fix</h3>
-<sub>By Emily Flitter</sub>
-<p>Farmers is ending some policies in the Sunshine State as insurers struggle with the rising costs of covering climate change-related damage. No one can agree on whom to blame.  <a href="https://nyti.ms/46Kxrx3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>New Heat Wave Descends on Europe, as It Struggles to Adapt</h3>
+<sub>By Gaia Pianigiani</sub>
+<p>European governments have been slow to put in place broader mitigation strategies for extreme heat, allowing deaths to increase. This year may be no different.  <a href="https://nyti.ms/3DfKokU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
