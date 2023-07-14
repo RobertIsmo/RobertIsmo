@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, July 14, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In US politics, the fate of a defense bill comes down to social issues, and senators have proposed bipartisan legislation about UFO records. On the entertainment side, Hollywood actors and writers are on strike against big-name studios, and Fran Drescher, who was the star of a 1990s sitcom, is now leading the union. In health news, a World Health Organization agency has said that aspartame may have carcinogenic qualities. Politically, prosecutors are looking into whether former US President Donald Trump knew his efforts to stay in power were based on lies, and his super PAC paid Melania Trump for a &quot;speaking engagement.&quot; Additionally, prosecutors have pushed back on Trump&#39;s motion to delay documents trial until after Election Day.</p>
+In the US, politicians are arguing about a military spending bill as it includes provisions on social issues such as abortion access, gender transition procedures, and diversity training. In Ukraine, settlements that were wrecked during their war have been left abandoned and now overgrown with weeds to the point where they&#39;re at risk of disappearing. On the other side of the world, Hollywood is facing its largest shutdown in 60 years due to actors and screenwriters going on strike. Back in the US, New Yorkers aren&#39;t too impressed with their mayor but instead gave praise to his newfound determination to separate from his wife. Investors are hopeful for a brighter future in the market despite companies reporting low profits - and prosecutors are questioning whether former president Donald Trump knew he had lost the election last November. Meanwhile, an insurance company in Florida is pulling out policies as insurance companies struggle to cover climate change related damage which has led to a crisis with no clear resolution.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Defense Bill’s Fate Teeters After G.O.P. Wedges In Social Issues</h3>
@@ -68,17 +68,11 @@ There is a lot going on in the world right now. In US politics, the fate of a de
 <p>Democrats said they could not support the measure after the House adopted a raft of social policy provisions, including limits on abortions, gender transition procedures and diversity training.  <a href="https://nyti.ms/44GvUGD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Bipartisan Measure Aims to Force Release of U.F.O. Records</h3>
-<sub>By Julian E. Barnes</sub>
-<p>Legislation backed by Chuck Schumer, the Senate majority leader, would create a review board to declassify documents related to unidentified aerial phenomena across the government.  <a href="https://nyti.ms/3PPx6Do"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Actors Join Writers on Strike, Bringing Hollywood to a Standstill</h3>
-<sub>By Brooks Barnes, John Koblin and Nicole Sperling</sub>
-<p>The dual walkouts pit more than 170,000 workers against old-line studios like Disney and Sony, as well as tech juggernauts like Netflix and Amazon.  <a href="https://nyti.ms/3pLnnn0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ruined, Empty, Mined and Overgrown: Ukraine’s Forgotten Villages</h3>
+<sub>By Thomas Gibbons-Neff, Natalia Yermak and Mauricio Lima</sub>
+<p>Settlements along Ukraine’s eastern steppe were reduced to wreckage as the war passed through them. Now choked with weeds and with few residents, they are at risk of disappearing.  <a href="https://nyti.ms/3PZhzkm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Once ‘The Nanny,’ Now Center Stage as the Actors’ Union Leader</h3>
@@ -92,23 +86,41 @@ There is a lot going on in the world right now. In US politics, the fate of a de
 <p>Here’s why Hollywood is facing its first industrywide shutdown in more than 60 years, and what it could mean for your favorite shows.  <a href="https://nyti.ms/46P8Zec"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Aspartame Is a Possible Cause of Cancer in Humans, a W.H.O. Agency Says</h3>
-<sub>By Christina Jewett</sub>
-<p>The F.D.A. and the powerful beverage industry protested the new findings, and a second W.H.O. group stood by its standard that the sweetener is generally safe.  <a href="https://nyti.ms/44J0eQN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>The Economic Stakes in the Hollywood Shutdown</h3>
+<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
+<p>Strikes by actors and screenwriters have ground movie and TV productions to a halt, with consequences likely to be felt across the entertainment industry.  <a href="https://nyti.ms/3PZpE8G"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>How Netflix Plans Total Global Domination, One Korean Drama at a Time</h3>
+<sub>By Daisuke Wakabayashi and Jin Yu Young</sub>
+<p>Popular content produced in Asia and around the world has taken on greater significance with most of Hollywood now on strike.  <a href="https://nyti.ms/44Eq9cs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>The W.H.O. Says Aspartame Is ‘Possibly Carcinogenic.’ What Does That Mean?</h3>
-<sub>By Dani Blum</sub>
-<p>Experts say there’s no need to panic about your diet soda habit.  <a href="https://nyti.ms/3XS6qnh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Finally, Bill de Blasio Wins New Yorkers’ Praise. For His Breakup.</h3>
+<sub>By Sharon Otterman</sub>
+<p>Many New Yorkers weren’t impressed with Bill de Blasio as mayor. But the way he’s handling his separation from his wife, Chirlane McCray? “Inspiring.”  <a href="https://nyti.ms/3PWg8TW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-dining-blue" alt="">
-<h3>Breaking Up With Diet Soda? Here Are 11 Aspartame-Free Alternatives.</h3>
-<sub>By Melissa Clark</sub>
-<p>If the World Health Organization’s warning about the artificial sweetener has you worried, try these other refreshers.  <a href="https://nyti.ms/44J0gIp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Will There Ever Be Another Popular Mayor of New York City?</h3>
+<sub>By Ginia Bellafante</sub>
+<p>Eric Adams — like most of his recent predecessors — hovers around a 50 percent approval rating. It’s hard to govern when only half the city is on your side.  <a href="https://nyti.ms/3PQZ15T"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>JPMorgan’s Profit Jumps, but Interest Rates Remain a Threat</h3>
+<sub>By Rob Copeland</sub>
+<p>It was another quarter of banner financial results for the largest lender in America.  <a href="https://nyti.ms/46LUuHX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Investors Look for Reasons the Market Could ‘Grind Higher’</h3>
+<sub>By Joe Rennison and J. Edward Moreno</sub>
+<p>Companies are expected to report a fall in profits, but some analysts see brighter times ahead.  <a href="https://nyti.ms/44pdZEE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Prosecutors Ask Witnesses Whether Trump Acknowledged He Lost 2020 Race</h3>
@@ -116,23 +128,11 @@ There is a lot going on in the world right now. In US politics, the fate of a de
 <p>Jared Kushner was questioned before a federal grand jury as prosecutors appeared to be trying to establish if the former president knew his efforts to stay in power were built on a lie.  <a href="https://nyti.ms/3DeEzEm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Butcher Who Assaulted Officers on Jan. 6 Is Sentenced to 7 Years in Prison</h3>
-<sub>By Alan Feuer and Zach Montague</sub>
-<p>The sentence for Kyle Fitzsimons was handed down the same day a California man who placed conspiracy theories at the heart of his trial defense was convicted in connection with the Capitol attack.  <a href="https://nyti.ms/47115hZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Super PAC Made $155,000 Payment to Melania Trump in 2021</h3>
-<sub>By Shane Goldmacher and Maggie Haberman</sub>
-<p>The money was listed as pay for a “speaking engagement” by Ms. Trump in a new personal financial disclosure by her husband.  <a href="https://nyti.ms/3XQaaFT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Prosecutors Push Back on Trump’s Request to Delay Documents Trial</h3>
-<sub>By Alan Feuer</sub>
-<p>The office of the special counsel, Jack Smith, said there “is no basis in law or fact” for granting a motion from former President Donald J. Trump that could push the start of the trial until after Election Day.  <a href="https://nyti.ms/46Oz78J"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Insurer’s Retreat in Florida Signals Crisis With No Easy Fix</h3>
+<sub>By Emily Flitter</sub>
+<p>Farmers is ending some policies in the Sunshine State as insurers struggle with the rising costs of covering climate change-related damage. No one can agree on whom to blame.  <a href="https://nyti.ms/46Kxrx3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
