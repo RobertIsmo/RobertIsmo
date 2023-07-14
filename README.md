@@ -60,12 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, July 13, Central Standard Time</p>
 <p>
-There&#39;s a lot happening in the world right now! Actors and writers in Hollywood are striking right now, which is impacting the production of movies and TV shows. In a historic move, the U.S. Food and Drug Administration just approved the first over-the-counter birth control pill that will be available in a couple years. The U.S. House of Representatives just voted on limiting access to abortions for military personnel, and President Biden recently voiced support for a prisoner swap to free an American held abroad. On top of that, the Federal Trade Commission is investigating some of the potential harms of certain technologies, and the chair was recently criticized at a congressional hearing. There&#39;s even some drama with pickleball in Central Park!</p>
+There’s a lot going on in the world right now. There is an actors&#39; strike where more than 170,000 workers are pitted against old-line studios like Disney and Sony, as well as tech giants like Netflix and Amazon. Fran Drescher, the star of the &#39;90s sitcom &#39;The Nanny,&#39; is now president of the union going on strike. In the US, the House recently voted to limit abortion access in the military, and now a bipartisan measure has been proposed that will force the release of U.F.O. records in the government. Health news wise, a World Health Organization agency recently said that aspartame may be a possible cause of cancer in humans. On top of that, Donald Trump&#39;s former special counsel is now pushing back on his request to delay documents trial related to his case and Trump Super PAC made $155,000 payment to Melania Trump&#39;s speaking engagements this year.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Hollywood studios say it’s a crisis moment for them, too.</h3>
-<sub>By John Koblin</sub>
-<p>  <a href="https://nyti.ms/3NL5Z9Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Actors Join Writers on Strike, Bringing Hollywood to a Standstill</h3>
+<sub>By Brooks Barnes, John Koblin and Nicole Sperling</sub>
+<p>The dual walkouts pit more than 170,000 workers against old-line studios like Disney and Sony, as well as tech juggernauts like Netflix and Amazon.  <a href="https://nyti.ms/3pLnnn0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Once ‘The Nanny,’ Now Center Stage as the Actors’ Union Leader</h3>
+<sub>By John Koblin and Nicole Sperling</sub>
+<p>Fran Drescher, who became a household name for her role on a 1990s sitcom, is now president of the union going on strike.  <a href="https://nyti.ms/3XP2fJ0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
@@ -74,64 +80,58 @@ There&#39;s a lot happening in the world right now! Actors and writers in Hollyw
 <p>Here’s why Hollywood is facing its first industrywide shutdown in more than 60 years, and what it could mean for your favorite shows.  <a href="https://nyti.ms/46P8Zec"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>What the Hollywood Actors and Writers Strikes Mean for TV and Movies</h3>
-<sub>By John Koblin</sub>
-<p>After two months without new late-night TV shows, viewers are likely to notice the effects of the dual walkouts more broadly within the next couple of months unless agreements are reached quickly.  <a href="https://nyti.ms/44v96dm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>House Votes to Limit Abortion Access in the Military, Bowing to the Right</h3>
+<sub>By Karoun Demirjian</sub>
+<p>G.O.P. leaders acceded to the demands of ultraconservatives to use the annual defense policy bill to lodge cultural grievances and protest continued U.S. support for Ukraine. Now its fate is in doubt.  <a href="https://nyti.ms/3PVAVXQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Bipartisan Measure Aims to Force Release of U.F.O. Records</h3>
+<sub>By Julian E. Barnes</sub>
+<p>Legislation backed by Chuck Schumer, the Senate majority leader, would create a review board to declassify documents related to unidentified aerial phenomena across the government.  <a href="https://nyti.ms/3PPx6Do"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>F.D.A. Approves First U.S. Over-the-Counter Birth Control Pill</h3>
-<sub>By Pam Belluck</sub>
-<p>The move could significantly expand access to contraception. The pill is expected to be available in early 2024.  <a href="https://nyti.ms/3D88RsB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Aspartame Is a Possible Cause of Cancer in Humans, a W.H.O. Agency Says</h3>
+<sub>By Christina Jewett</sub>
+<p>The F.D.A. and the powerful beverage industry protested the new findings, and a second W.H.O. group stood by its standard that the sweetener is generally safe.  <a href="https://nyti.ms/44J0eQN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>A Birth Control Pill Will Soon Be Available Without a Prescription. Here’s What to Know.</h3>
-<sub>By Alisha Haridasani Gupta</sub>
-<p>Opill, also known as a “mini pill,” contains only progestin, a synthetic version of progesterone.  <a href="https://nyti.ms/3Bg9ZJF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>House to Vote on Limiting Abortion Access for Military, Bowing to the Right</h3>
-<sub>By Karoun Demirjian</sub>
-<p>G.O.P. leaders acceded to the demands of ultraconservatives to use the annual defense policy bill to lodge cultural grievances and protest continued U.S. support for Ukraine.  <a href="https://nyti.ms/3PVAVXQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>The W.H.O. Says Aspartame Is ‘Possibly Carcinogenic.’ What Does That Mean?</h3>
+<sub>By Dani Blum</sub>
+<p>Experts say there’s no need to panic about your diet soda habit.  <a href="https://nyti.ms/3XS6qnh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Biden said the U.S. is open to a prisoner swap to free Evan Gershkovich.</h3>
-<sub>By Gabriela Sá Pessoa</sub>
-<p>The president confirmed that a ‘process is underway’ during a news conference in Finland.  <a href="https://nyti.ms/3pEWCkd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-dining-blue" alt="">
+<h3>Breaking Up With Diet Soda? Here Are 11 Aspartame-Free Alternatives.</h3>
+<sub>By Melissa Clark</sub>
+<p>If the World Health Organization’s warning about the artificial sweetener has you worried, try these other refreshers.  <a href="https://nyti.ms/44J0gIp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Criticizes Supreme Court Rulings, but Not the Court</h3>
-<sub>By Michael D. Shear</sub>
-<p>President Biden has resisted a full-throated attack on the Supreme Court or the individual justices, despite mounting pressure from activists and from within the Democratic Party.  <a href="https://nyti.ms/46POOwo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Prosecutors Ask Witnesses Whether Trump Acknowledged He Lost 2020 Race</h3>
+<sub>By Michael S. Schmidt and Maggie Haberman</sub>
+<p>Jared Kushner was questioned before a federal grand jury as prosecutors appeared to be trying to establish if the former president knew his efforts to stay in power were built on a lie.  <a href="https://nyti.ms/3DeEzEm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>F.T.C. Opens Investigation Into ChatGPT Maker Over Technology’s Potential Harms</h3>
-<sub>By Cecilia Kang and Cade Metz</sub>
-<p>The agency sent OpenAI, which makes ChatGPT, a letter this week over consumer harms and the company’s security practices.  <a href="https://nyti.ms/3rqTFnL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Butcher Who Assaulted Officers on Jan. 6 Is Sentenced to 7 Years in Prison</h3>
+<sub>By Alan Feuer and Zach Montague</sub>
+<p>The sentence for Kyle Fitzsimons was handed down the same day a California man who placed conspiracy theories at the heart of his trial defense was convicted in connection with the Capitol attack.  <a href="https://nyti.ms/47115hZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>F.T.C. Chair Faces Criticism in Congressional Hearing</h3>
-<sub>By Cecilia Kang</sub>
-<p>Lina Khan faced more than three hours of questioning from the Republican-led House Judiciary Committee.  <a href="https://nyti.ms/46Fwq9w"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Super PAC Made $155,000 Payment to Melania Trump in 2021</h3>
+<sub>By Shane Goldmacher and Maggie Haberman</sub>
+<p>The money was listed as pay for a “speaking engagement” by Ms. Trump in a new personal financial disclosure by her husband.  <a href="https://nyti.ms/3XQaaFT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-books-blue" alt="">
-<h3>Behind ‘Oppenheimer,’ a Prizewinning Biography 25 Years in the Making</h3>
-<sub>By Andy Kifer</sub>
-<p>Martin Sherwin struck the deal and dove into the research. But it was only when Kai Bird joined as a collaborator that “American Prometheus” came to be.  <a href="https://nyti.ms/3D8IzGo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>One Man’s Lonely War on Central Park Pickleball</h3>
-<sub>By Allie Conti and Lanna Apisukh</sub>
-<p>Pickleball is everywhere, and “Paddleball Paul” is making his last stand on the handball courts of Central Park. It’s not going very well.  <a href="https://nyti.ms/46KN0F7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Prosecutors Push Back on Trump’s Request to Delay Documents Trial</h3>
+<sub>By Alan Feuer</sub>
+<p>The office of the special counsel, Jack Smith, said there “is no basis in law or fact” for granting a motion from former President Donald J. Trump that could push the start of the trial until after Election Day.  <a href="https://nyti.ms/46Oz78J"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
