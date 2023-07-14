@@ -60,18 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, July 14, Central Standard Time</p>
 <p>
-Currently, some important news stories are happening in the US and NYC area. In the US, the House of Representatives recently passed a defense bill that had controversial social policy provisions attached, setting up a potential showdown with the Senate. In NYC, there were some major developments in two cases. There was an arrest made in a series of serial killings near Gilgo Beach on Long Island, and police are reporting new progress due to their new chief. There is also a actors&#39; strike happening in Hollywood, with Fran Drescher - who became famous as &#39;The Nanny&#39; - now taking the lead as president of the union leading the strike. This could have affect on movie theaters and festivals. Meanwhile in Iowa, there was an exchange between VP Pence and an Iowa voter, which could be indicative of Pence&#39;s 2024 campaign ambitions. On Long Island again, there&#39;s some interesting news about freshman Republican George Santos who has been using most of his fundraising money to pay himself back, while his colleague Mike Lawler revealed he raised $900K in the same period. Finally, NYC Mayor Bill de Blasio is unexpectedly winning praise from New Yorkers for his handling of his split from his wife Chirlane McCray. And at Wimbledon, a team of workers is picking and packing two million strawberries that will be served over the course of the tournament.</p>
+There’s been some troubling news lately. In New York, a suspect was arrested in the serial killings of women near Gilgo Beach - it turns out that there were nine women, a man and a toddler found dead in the area. There’s still some mystery surrounding what exactly happened. Meanwhile, in the US, House Republicans managed to pass a defense bill containing a ton of social policy provisions - such as limits on abortions and gender transition procedures - that are unlikely to make it through the Senate. On top of that, actors in both LA and NY have gone on strike to demand a better deal from major studios; unfortunately, this means their absence from movie premieres and festivals could affect movie theaters and the festival circuit. Last but not least, former Vice President Pence had an awkward moment when he visited Iowa recently to answer questions about the Capitol riots on January 6th. Finally, the current US President Biden is switching up his big-money operation ahead of 2024 with the help of a new super PAC called Future Forward.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>House Narrowly Passes Defense Bill, Setting Up Showdown Over Social Issues</h3>
-<sub>By Karoun Demirjian</sub>
-<p>Republicans loaded the measure with a raft of social policy provisions — including limits on abortions, gender transition procedures and diversity training — that have little chance of surviving in the Senate.  <a href="https://nyti.ms/44GvUGD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Suspect Arrested in Serial Killings of Women Near Gilgo Beach</h3>
+<sub>By William K. Rashbaum, Corey Kilgannon, Maria Cramer and Joseph Goldstein</sub>
+<p>In all, the remains of nine women, a man and a toddler have been found in the area on Long Island. Simple and sophisticated clues led investigators to the arrest.  <a href="https://nyti.ms/3OeW1PC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Suspect Arrested in Serial Killings of Women Near Gilgo Beach</h3>
-<sub>By William K. Rashbaum, Corey Kilgannon and Maria Cramer</sub>
-<p>In all, the remains of nine women, a man and a toddler have been found in the area on Long Island. Investigators believe some deaths were the work of a serial killer.  <a href="https://nyti.ms/3OeW1PC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>What We Know About the Gilgo Beach Victims</h3>
+<sub>By Hurubie Meko</sub>
+<p>Rex Heuermann was accused of killing three women and is the prime suspect in the death of a fourth. All were found in the same spot, wrapped in burlap.  <a href="https://nyti.ms/3PZhmOk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -80,17 +80,29 @@ Currently, some important news stories are happening in the US and NYC area. In 
 <p>After a decade of little movement in a series of killings on Long Island, a new sense of urgency.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 25, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>A Timeline of Events in the Gilgo Beach Serial Killings</h3>
+<sub>By Lola Fadulu</sub>
+<p>The Suffolk County police found 10 bodies while searching for a 24-year-old aspiring actress who had disappeared in 2010. No arrest was made in connection with the killings until now.  <a href="https://nyti.ms/3XOUqDb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>House Narrowly Passes Defense Bill, Setting Up Showdown Over Social Issues</h3>
+<sub>By Karoun Demirjian</sub>
+<p>Republicans loaded the measure with a raft of social policy provisions — including limits on abortions, gender transition procedures and diversity training — that have little chance of surviving in the Senate.  <a href="https://nyti.ms/44GvUGD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Actors Picket From Coast to Coast as Strike Gets Underway</h3>
+<sub>By Corina Knoll and Matt Stevens</sub>
+<p>In Los Angeles and New York, actors and screenwriters braved the heat to admonish the major studios and demand a new deal.  <a href="https://nyti.ms/46ROzB2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 14, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Strike Prevents Actors From Promoting Films at Premieres or Festivals</h3>
 <sub>By Nicole Sperling</sub>
 <p>While on strike, actors are barred from publicizing any studio projects they’ve appeared in. Their absence could affect movie theaters and the festival circuit.  <a href="https://nyti.ms/44q0STs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Once ‘The Nanny,’ Now Center Stage as the Actors’ Union Leader</h3>
-<sub>By John Koblin and Nicole Sperling</sub>
-<p>Fran Drescher, who became a household name for her role on a 1990s sitcom, is now president of the union going on strike.  <a href="https://nyti.ms/3XP2fJ0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>What to Know About the Actors’ Strike</h3>
@@ -105,33 +117,21 @@ Currently, some important news stories are happening in the US and NYC area. In 
 <sub><sub>Friday, July 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden and D.N.C. Announce $72 Million in Fund-Raising, a Substantial Haul</h3>
-<sub>By Reid J. Epstein</sub>
-<p>The figure far surpasses what Donald Trump raised, though it is well short of what Mr. Trump and his allies collected during the same period in the 2020 election cycle.  <a href="https://nyti.ms/3pL3v3n"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In Iowa, Pence Is Put on the Spot Over Jan. 6</h3>
 <sub>By Trip Gabriel</sub>
 <p>An exchange with an Iowa voter who accused the former vice president of putting President Biden in the White House illustrated a larger issue for his 2024 campaign.  <a href="https://nyti.ms/3roPY1P"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>George Santos Used Most of His Campaign Cash to Pay Himself Back</h3>
-<sub>By Michael Gold, Nicholas Fandos and Grace Ashford</sub>
-<p>Mr. Santos spent more than half of the $150,000 he raised in the most recent quarter repaying loans he made to his campaign, new filings show. Another freshman Republican, Mike Lawler, revealed a $900,000 haul.  <a href="https://nyti.ms/43thcSh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Switches Up His Big-Money Operation Ahead of 2024</h3>
+<sub>By Shane Goldmacher and Reid J. Epstein</sub>
+<p>The president and his advisers are elevating a new super PAC, Future Forward, as their leading outside group to rake in cash from his wealthiest benefactors.  <a href="https://nyti.ms/44HqdIv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>The Strawberry Fields of Wimbledon</h3>
-<sub></sub>
-<p>A team of workers has been racing to pick, pack and transport the more than two million strawberries that are expected to be served over the course of the tournament.  <a href="https://nyti.ms/44jYyxo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Finally, Bill de Blasio Wins New Yorkers’ Praise. For His Breakup.</h3>
-<sub>By Sharon Otterman and Olivia Bensimon</sub>
-<p>Many New Yorkers weren’t impressed with Bill de Blasio as mayor. But the way he’s handling his separation from his wife, Chirlane McCray? “Inspiring.”  <a href="https://nyti.ms/3PWg8TW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>George Santos Used New Campaign Cash to Pay Himself Back</h3>
+<sub>By Nicholas Fandos, Michael Gold and Grace Ashford</sub>
+<p>Mr. Santos spent more than half of the $150,000 he raised in the most recent quarter repaying loans he made to his campaign, new filings show. Another freshman Republican, Mike Lawler, revealed a $900,000 haul.  <a href="https://nyti.ms/43thcSh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
