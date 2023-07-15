@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Friday, July 14, Central Standard Time</p>
+<p>It is Saturday, July 15, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now! In New York, a suspect has been arrested in the serial killings of women near Gilgo Beach. In Iowa, former Vice President Pence was put on the spot over the Jan. 6 insurrection at the Capitol. He also recently raised just $1.2 million for his 2024 bid, which some are seeing as a worrying sign about his political future. Meanwhile, in Wimbledon, Dead &amp; Company are closing out their &#39;Final Tour&#39; and Novak Djokovic is playing in the tournament finals. In Texas during this punishing summer heat wave, people are seeking refuge in Barton Springs. Additionally, the Education Department is cancelling $39 billion in student debt for 800,000 borrowers, and offering one-time credits to fix mistakes made by loan servicers when collecting payments under income-driven repayment programs. All this and more make it an incredibly interesting - and busy - time!</p>
+Hey friend! It&#39;s been a pretty wild few days in the news. In New York, police have arrested a man who they believe is connected to the serial killings of four women near Gilgo Beach. Meanwhile, Republicans are dealing with the political fall-out of an abortion vote, and former Vice President Pence is entering the 2024 presidential race, but his fundraising efforts don&#39;t seem to be generating much enthusiasm. Wimbledon is in full swing, with Novak Djokovic headed into the finals match and teams of workers packing all the strawberries that will get eaten over the tournament. Plus, Texas is experiencing an intense heat wave, but luckily Austin residents can take refuge at Barton Springs. Lastly, the Education Department announced it&#39;ll cancel $39 billion worth of student debt for 800,000 borrowers and President Biden is working to fix any mistakes that have been made by loan servicers. Oh and if you&#39;re in need of some travel ideas, Lausanne and the Joux Valley in Switzerland has some incredible art pieces and scenery to explore.</p>
 <ol>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Suspect Arrested in Serial Killings of Women Near Gilgo Beach</h3>
@@ -98,12 +98,6 @@ There is a lot happening in the world right now! In New York, a suspect has been
 <p>The Iowa evangelical leader Bob Vander Plaats gathered Republican White House hopefuls in Des Moines, then gave Tucker Carlson the microphone.  <a href="https://nyti.ms/43pgPIn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Saying Goodbye to the Dead. (Again.)</h3>
-<sub>By Marc Tracy and Peter Fisher</sub>
-<p>Jerry Garcia died in 1995. The band bade fans farewell in 2015. This weekend, Dead &amp; Company will close out its Final Tour. Why can’t we stop quitting one of rock’s beloved acts?  <a href="https://nyti.ms/3XYydCH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 14, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>The Strawberry Fields of Wimbledon</h3>
 <sub></sub>
@@ -133,6 +127,12 @@ There is a lot happening in the world right now! In New York, a suspect has been
 <sub>By Tara Siegel Bernard</sub>
 <p>The Education Department announced that more than 800,000 borrowers would see their debt eliminated thanks to fixes made to its income-driven repayment programs.  <a href="https://nyti.ms/3XQkBJw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-travel-blue" alt="">
+<h3>An Art-Filled Swiss Idyll in Lausanne and the Joux Valley</h3>
+<sub>By Christopher Solomon</sub>
+<p>Breathtaking modern architecture, museums dedicated to watch-making, and bucolic views from a train window await visitors willing to venture beyond Switzerland’s major cities.  <a href="https://nyti.ms/3rdCOoa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 10, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
