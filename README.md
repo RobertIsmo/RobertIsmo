@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, July 15, Central Standard Time</p>
 <p>
-Hey friend! It&#39;s been a pretty wild few days in the news. In New York, police have arrested a man who they believe is connected to the serial killings of four women near Gilgo Beach. Meanwhile, Republicans are dealing with the political fall-out of an abortion vote, and former Vice President Pence is entering the 2024 presidential race, but his fundraising efforts don&#39;t seem to be generating much enthusiasm. Wimbledon is in full swing, with Novak Djokovic headed into the finals match and teams of workers packing all the strawberries that will get eaten over the tournament. Plus, Texas is experiencing an intense heat wave, but luckily Austin residents can take refuge at Barton Springs. Lastly, the Education Department announced it&#39;ll cancel $39 billion worth of student debt for 800,000 borrowers and President Biden is working to fix any mistakes that have been made by loan servicers. Oh and if you&#39;re in need of some travel ideas, Lausanne and the Joux Valley in Switzerland has some incredible art pieces and scenery to explore.</p>
+Right now, there&#39;s a lot going on in the news. In my region, a suspect has been arrested in connection to a serial killing of women near Gilgo Beach. In other US news, politics is heating up as Republicans take a political risk with their abortion vote, and vulnerable candidates like former vice president Mike Pence are raising doubts about his campaign. Additionally, Hollywood is on strike and we&#39;re wondering what will happen to Los Angeles without it. On top of that, sports have also been affected with Wimbledon finals coming up soon between Ons Jabeur versus Marketa Vondrousova and Novak Djokovic against Carlos Alcaraz. And like clockwork, the Wimbledon tournament requires its strawberry fields to be picked - over two million of them!</p>
 <ol>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Suspect Arrested in Serial Killings of Women Near Gilgo Beach</h3>
@@ -69,15 +69,27 @@ Hey friend! It&#39;s been a pretty wild few days in the news. In New York, polic
 <sub><sub>Friday, July 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>For Years, Quiet Gilgo Beach Was a Place of ‘Murders and Mayhem’</h3>
-<sub>By Christopher Maag</sub>
-<p>The arrest of a man charged in three of the killings brought a sense of safety to a community long accustomed to being on edge.  <a href="https://nyti.ms/44BLnrs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 14, Central Standard Time</sub></sub>
+<h3>The Gilgo Beach Victims Were Always More Than Escorts</h3>
+<sub>By Robert Kolker</sub>
+<p>From the beginning, the women who were found murdered were reduced to being prostitutes. More than a decade after they went missing, that seems to have changed.  <a href="https://nyti.ms/46MIrtU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Vulnerable Republicans Take a Political Risk With Abortion Vote</h3>
 <sub>By Annie Karni</sub>
 <p>In uniting his party behind a defense bill loaded with social policy restrictions, Speaker Kevin McCarthy has raised questions over whether his short-term victory could imperil his majority.  <a href="https://nyti.ms/3pMvLm4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Without Hollywood, What Happens to Los Angeles?</h3>
+<sub>By Shawn Hubler</sub>
+<p>With actors and screenwriters on strike, Hollywood is shut down for the foreseeable future. Los Angeles isn’t a pure company town, but the industry is inextricable from the city in many ways.  <a href="https://nyti.ms/3pGtNUx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Strike Prevents Actors From Promoting Films at Premieres or Festivals</h3>
+<sub>By Nicole Sperling</sub>
+<p>While on strike, actors are barred from publicizing any studio projects they’ve appeared in. Their absence could affect movie theaters and the festival circuit.  <a href="https://nyti.ms/44q0STs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -99,10 +111,16 @@ Hey friend! It&#39;s been a pretty wild few days in the news. In New York, polic
 <sub><sub>Friday, July 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>The Strawberry Fields of Wimbledon</h3>
-<sub></sub>
-<p>A team of workers has been racing to pick, pack and transport the more than two million strawberries that are expected to be served over the course of the tournament.  <a href="https://nyti.ms/44jYyxo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Jabeur and Vondrousova Finesse Way to Wimbledon Final</h3>
+<sub>By Matthew Futterman</sub>
+<p>Ons Jabeur will try for a third time to become the first Arab woman to win a Grand Slam event. But don’t count out the crafty Marketa Vondrousova.  <a href="https://nyti.ms/43kVOOV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Carlos Alcaraz Gets a Shot at Novak Djokovic in Wimbledon Singles Final</h3>
+<sub>By David Waldstein</sub>
+<p>“For Novak, it is one more day, one more moment,” Alcaraz said of Sunday’s final. “For me, it’s going to be the best moment of my life, I think.”  <a href="https://nyti.ms/46OENja"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Novak Djokovic Relaxes, and Lands in Another Wimbledon Final</h3>
@@ -110,29 +128,11 @@ Hey friend! It&#39;s been a pretty wild few days in the news. In New York, polic
 <p>The 23-time Grand Slam champion may have mellowed, but he is as determined as ever to win his favorite title again. He will play Carlos Alcaraz on Sunday.  <a href="https://nyti.ms/3NSV3XV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>An Oasis in the Middle of a Scorching Texas Summer</h3>
-<sub>By David Montgomery</sub>
-<p>Barton Springs, whose cool, natural waters have created summer memories for generations in Austin, Texas, has become an important refuge during the current heat wave.  <a href="https://nyti.ms/44rH5Dc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Education Dept. Cancels $39 Billion in Student Debt for 800,000 Borrowers</h3>
-<sub>By Stacy Cowley</sub>
-<p>One-time credits will wipe out loans, fixing mistakes made by loan servicers when collecting payments under income-driven repayment programs.  <a href="https://nyti.ms/470oQqm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-your-money-blue" alt="">
-<h3>Do You Qualify for Biden’s $39 Billion Student Debt Cancellation?</h3>
-<sub>By Tara Siegel Bernard</sub>
-<p>The Education Department announced that more than 800,000 borrowers would see their debt eliminated thanks to fixes made to its income-driven repayment programs.  <a href="https://nyti.ms/3XQkBJw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-travel-blue" alt="">
-<h3>An Art-Filled Swiss Idyll in Lausanne and the Joux Valley</h3>
-<sub>By Christopher Solomon</sub>
-<p>Breathtaking modern architecture, museums dedicated to watch-making, and bucolic views from a train window await visitors willing to venture beyond Switzerland’s major cities.  <a href="https://nyti.ms/3rdCOoa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 10, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>The Strawberry Fields of Wimbledon</h3>
+<sub></sub>
+<p>A team of workers has been racing to pick, pack and transport the more than two million strawberries that are expected to be served over the course of the tournament.  <a href="https://nyti.ms/44jYyxo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
