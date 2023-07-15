@@ -60,11 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, July 15, Central Standard Time</p>
 <p>
-There&#39;s a lot happening all around the world right now. In Hollywood, they&#39;re trying to figure out how to make streaming work financially. At the same time, they’re struggling with what technology will mean for the future of the industry. Los Angeles is feeling the effects of strike action in Hollywood, as the entertainment industry is inextricably connected to the city. On a health-related note, medical device makers are profiting from artery-clearing procedures that often lead to amputations.
-
-Moving close to home, there is some news related to New York and Long Island. For instance, there is an ongoing investigation into the Gilgo Beach killings. And New York has $1.1 billion allocated towards fighting floods, but researchers are concerned that it won&#39;t be enough.
-
-Finally, there&#39;s good news out of Texas this summer - Barton Springs has become an oasis during this heat wave!</p>
+It seems like the world is going through a really tough time right now. In Hollywood, movie production has been shut down because of strikes, so people are worried about what comes next for the entertainment industry. In New York City, there have been a series of murders that can be linked back to one suspect with a chaotic home life. On the other side of the country, there&#39;s a heat wave in Texas and some natural springs have become an essential oasis for people without access to air conditioning. Closer to home, medical device makers have been exploiting vulnerable patients and profiting from their treatments. And A.I. companies are taking online content without permission and apparently getting away with it, so people are pushing back against that. Meanwhile, people who were trying to put down roots in Vermont were almost wiped out by flooding rivers, and New Yorkers are unsure whether a new billion-dollar investment will be enough to prevent more flooding disasters.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>In Hollywood, the Strikes Are Just Part of the Problem</h3>
@@ -105,13 +101,7 @@ Finally, there&#39;s good news out of Texas this summer - Barton Springs has bec
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>‘Not for Machines to Harvest’: Data Revolts Break Out Against A.I.</h3>
 <sub>By Sheera Frenkel and Stuart A. Thompson</sub>
-<p>Fed up with A.I. companies consuming online content without consent, fan fiction writers, actors, social media companies and news organizations are among those rebelling.  <a href="https://nyti.ms/3XQASOE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Can A.I. Invent?</h3>
-<sub>By Steve Lohr</sub>
-<p>A group of legal experts are pressing patent agencies, courts and policymakers to address the question as generative A.I. seems on the brink of invading another uniquely human endeavor.  <a href="https://nyti.ms/3rk4qbh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Fed up with A.I. companies consuming online content without consent, fan fiction writers, actors, social media companies and news organizations are among those rebelling.  <a href="https://nyti.ms/3K0eoFd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -119,6 +109,12 @@ Finally, there&#39;s good news out of Texas this summer - Barton Springs has bec
 <sub>By Kevin Roose</sub>
 <p>Anthropic, a safety-focused A.I. start-up, is trying to compete with ChatGPT while preventing an A.I. apocalypse. It’s been a little stressful.  <a href="https://nyti.ms/44Ae3Sd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Can A.I. Invent?</h3>
+<sub>By Steve Lohr</sub>
+<p>A group of legal experts are pressing patent agencies, courts and policymakers to address the question as generative A.I. seems on the brink of invading another uniquely human endeavor.  <a href="https://nyti.ms/3rk4qbh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>They Put Down Roots In Small-Town Vermont. Then the River Reared Up.</h3>
