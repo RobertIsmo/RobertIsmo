@@ -60,11 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, July 15, Central Standard Time</p>
 <p>
-The world is currently facing a global crisis that has drastically shifted everyone&#39;s lives. In the US, extreme heat waves are wreaking havoc on people in Texas as they seek refuge in Barton Springs. On the other side of the country, residents of Vermont are dealing with dangerous river floods that threaten homes and businesses. 
-
-Meanwhile in Hollywood, writers and actors are striking over the streaming industry. In Los Angeles, people are wondering what this means for the city, historically linked to Hollywood. Ukraine is also facing a major conflict as Russian forces attempt to seize control. Ukrainians have lost weapons in battle and now have had to rethink their strategy. 
-
-In South Korea, monsoon rains have caused massive flooding and landslides, resulting in at least 26 deaths and 10 people missing. Finally, a disturbing article from New York investigates a man accused of a string of murders and exposes how he had kept it hidden for many years. And tech companies are trying to grapple with A.I harvesting data without consent, leading many to now fight back against it.</p>
+Right now the world is facing a lot of instability. In terms of health, there are reports of doctors and health care giants profiting from patients who have lost their legs due to artery-clearing procedures. Businesses in Hollywood are struggling to figure out how to keep up with streaming platforms, while Los Angeles is facing economic hardship from the ripple effects of the Hollywood actor and screenwriter strike. On a global level, Russian forces are doing &#39;everything they can&#39; to stop a counteroffensive in Ukraine, and there has been losses suffered on both sides. On a more positive note, Marketa Vondrousova won her first grand slam title at Wimbledon!</p>
 <ol>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>They Lost Their Legs. Doctors and Health Care Giants Profited.</h3>
@@ -109,22 +105,16 @@ In South Korea, monsoon rains have caused massive flooding and landslides, resul
 <sub><sub>Saturday, July 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>They Put Down Roots In Small-Town Vermont. Then the River Reared Up.</h3>
-<sub>By Jenna Russell</sub>
-<p>Bex Prasse and Craig Kovalsky had worked nearly a year to restore a rundown building so they could open a gourmet deli. The river behind it had other plans.  <a href="https://nyti.ms/46RbcWw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>The Weather by the Numbers</h3>
+<sub>By Colbi Edmonds</sub>
+<p>Lots of triple-digit numbers tell the story of the early summer’s torrid heat wave.  <a href="https://nyti.ms/3K3NlsH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>South Korea Reels From Monsoon Rains as Floods and Landslides Kill 26</h3>
-<sub>By John Yoon</sub>
-<p>At least 10 people were missing after the deluge, and rainfall was expected to intensify in the next few days.  <a href="https://nyti.ms/3OeOqQQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 14, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>An Oasis in the Middle of a Scorching Texas Summer</h3>
-<sub>By David Montgomery</sub>
-<p>Barton Springs, whose cool, natural waters have created summer memories for generations in Austin, Texas, has become an important refuge during the current heat wave.  <a href="https://nyti.ms/44rH5Dc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 14, Central Standard Time</sub></sub>
+<h3>The Southwest Braces for Record-Breaking Heat</h3>
+<sub>By Orlando Mayorquin</sub>
+<p>The National Weather Service forecast 45 record-high temperatures across the country, mostly in the Southwest, ahead of the weekend.  <a href="https://nyti.ms/3Ohn6Sj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Russian Forces Are Doing ‘Everything They Can’ to Stop Counteroffensive, Zelensky Says</h3>
@@ -136,6 +126,12 @@ In South Korea, monsoon rains have caused massive flooding and landslides, resul
 <h3>After Suffering Heavy Losses, Ukrainians Paused to Rethink Strategy</h3>
 <sub>By Lara Jakes, Andrew E. Kramer and Eric Schmitt</sub>
 <p>Early in the counteroffensive, Ukraine lost as much as 20 percent of its weapons and armor. The rate dropped as the campaign slowed and commanders shifted tactics.  <a href="https://nyti.ms/44JY1EL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Marketa Vondrousova Wins Wimbledon and Her First Grand Slam Title</h3>
+<sub>By Matthew Futterman</sub>
+<p>Vondrousova of the Czech Republic overpowered Ons Jabeur of Tunisia in the first set and never looked back, winning 6-4, 6-4.  <a href="https://nyti.ms/3XUxXEJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 15, Central Standard Time</sub></sub>
 <hr/>
 </ol>
