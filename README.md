@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, July 14, Central Standard Time</p>
 <p>
-There is some troubling news coming out of New York – a 59-year-old architect has been charged with killing 3 women near Gilgo Beach and is the prime suspect in the death of a fourth. This comes shortly after Speaker Kevin McCarthy and the Republicans had passed a defense bill with social policy restrictions, including limits on abortion, gender transition procedures, and diversity training. In Iowa, a voter held Vice President Pence accountable for the insurrection at the Capitol on Jan. 6 and this raises questions about his 2024 campaign, as his fundraising was surprisingly low with only $1.2 million raised. On a lighter note, Jerry Garcia&#39;s iconic band The Grateful Dead are performing their Final Tour over the weekend and Novak Djokovic is in yet another Wimbledon final match. Texas is facing an extreme heatwave but Austin natives can take refuge in Barton Springs, where the cool natural pools provide some respite from the heat. Lastly, 800,000 borrowers will have their student loan debt canceled thanks to credits by the Education Department, who discovered loan servicers made mistakes when collecting payments under income-driven repayment programs.</p>
+There is a lot happening in the world right now! In New York, a suspect has been arrested in the serial killings of women near Gilgo Beach. In Iowa, former Vice President Pence was put on the spot over the Jan. 6 insurrection at the Capitol. He also recently raised just $1.2 million for his 2024 bid, which some are seeing as a worrying sign about his political future. Meanwhile, in Wimbledon, Dead &amp; Company are closing out their &#39;Final Tour&#39; and Novak Djokovic is playing in the tournament finals. In Texas during this punishing summer heat wave, people are seeking refuge in Barton Springs. Additionally, the Education Department is cancelling $39 billion in student debt for 800,000 borrowers, and offering one-time credits to fix mistakes made by loan servicers when collecting payments under income-driven repayment programs. All this and more make it an incredibly interesting - and busy - time!</p>
 <ol>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Suspect Arrested in Serial Killings of Women Near Gilgo Beach</h3>
@@ -78,12 +78,6 @@ There is some troubling news coming out of New York – a 59-year-old architect 
 <h3>Vulnerable Republicans Take a Political Risk With Abortion Vote</h3>
 <sub>By Annie Karni</sub>
 <p>In uniting his party behind a defense bill loaded with social policy restrictions, Speaker Kevin McCarthy has raised questions over whether his short-term victory could imperil his majority.  <a href="https://nyti.ms/3pMvLm4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>House Narrowly Passes Defense Bill, Setting Up Showdown Over Social Issues</h3>
-<sub>By Karoun Demirjian</sub>
-<p>Republicans loaded the measure with a raft of social policy provisions — including limits on abortions, gender transition procedures and diversity training — that have little chance of surviving in the Senate.  <a href="https://nyti.ms/44GvUGD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -132,6 +126,12 @@ There is some troubling news coming out of New York – a 59-year-old architect 
 <h3>Education Dept. Cancels $39 Billion in Student Debt for 800,000 Borrowers</h3>
 <sub>By Stacy Cowley</sub>
 <p>One-time credits will wipe out loans, fixing mistakes made by loan servicers when collecting payments under income-driven repayment programs.  <a href="https://nyti.ms/470oQqm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-your-money-blue" alt="">
+<h3>Do You Qualify for Biden’s $39 Billion Student Debt Cancellation?</h3>
+<sub>By Tara Siegel Bernard</sub>
+<p>The Education Department announced that more than 800,000 borrowers would see their debt eliminated thanks to fixes made to its income-driven repayment programs.  <a href="https://nyti.ms/3XQkBJw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
