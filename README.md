@@ -60,8 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, July 15, Central Standard Time</p>
 <p>
-It seems like the world is going through a really tough time right now. In Hollywood, movie production has been shut down because of strikes, so people are worried about what comes next for the entertainment industry. In New York City, there have been a series of murders that can be linked back to one suspect with a chaotic home life. On the other side of the country, there&#39;s a heat wave in Texas and some natural springs have become an essential oasis for people without access to air conditioning. Closer to home, medical device makers have been exploiting vulnerable patients and profiting from their treatments. And A.I. companies are taking online content without permission and apparently getting away with it, so people are pushing back against that. Meanwhile, people who were trying to put down roots in Vermont were almost wiped out by flooding rivers, and New Yorkers are unsure whether a new billion-dollar investment will be enough to prevent more flooding disasters.</p>
+The world is currently facing a global crisis that has drastically shifted everyone&#39;s lives. In the US, extreme heat waves are wreaking havoc on people in Texas as they seek refuge in Barton Springs. On the other side of the country, residents of Vermont are dealing with dangerous river floods that threaten homes and businesses. 
+
+Meanwhile in Hollywood, writers and actors are striking over the streaming industry. In Los Angeles, people are wondering what this means for the city, historically linked to Hollywood. Ukraine is also facing a major conflict as Russian forces attempt to seize control. Ukrainians have lost weapons in battle and now have had to rethink their strategy. 
+
+In South Korea, monsoon rains have caused massive flooding and landslides, resulting in at least 26 deaths and 10 people missing. Finally, a disturbing article from New York investigates a man accused of a string of murders and exposes how he had kept it hidden for many years. And tech companies are trying to grapple with A.I harvesting data without consent, leading many to now fight back against it.</p>
 <ol>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>They Lost Their Legs. Doctors and Health Care Giants Profited.</h3>
+<sub>By Katie Thomas, Jessica Silver-Greenberg and Robert Gebeloff</sub>
+<p>Medical device makers have bankrolled a cottage industry of doctors and clinics that perform artery-clearing procedures that can lead to amputations.  <a href="https://nyti.ms/3XQOXvs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 15, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>In Hollywood, the Strikes Are Just Part of the Problem</h3>
 <sub>By Brooks Barnes</sub>
@@ -73,12 +83,6 @@ It seems like the world is going through a really tough time right now. In Holly
 <sub>By Shawn Hubler</sub>
 <p>With actors and screenwriters on strike, Hollywood is shut down for the foreseeable future. Los Angeles isn’t a pure company town, but the industry is inextricable from the city in many ways.  <a href="https://nyti.ms/3pGtNUx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>They Lost Their Legs. Doctors and Health Care Giants Profited.</h3>
-<sub>By Katie Thomas, Jessica Silver-Greenberg and Robert Gebeloff</sub>
-<p>Medical device makers have bankrolled a cottage industry of doctors and clinics that perform artery-clearing procedures that can lead to amputations.  <a href="https://nyti.ms/3XQOXvs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Suspect in Gilgo Beach Killings Led a Life of Chaos and Control</h3>
@@ -104,35 +108,35 @@ It seems like the world is going through a really tough time right now. In Holly
 <p>Fed up with A.I. companies consuming online content without consent, fan fiction writers, actors, social media companies and news organizations are among those rebelling.  <a href="https://nyti.ms/3K0eoFd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Inside the White-Hot Center of A.I. Doomerism</h3>
-<sub>By Kevin Roose</sub>
-<p>Anthropic, a safety-focused A.I. start-up, is trying to compete with ChatGPT while preventing an A.I. apocalypse. It’s been a little stressful.  <a href="https://nyti.ms/44Ae3Sd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Can A.I. Invent?</h3>
-<sub>By Steve Lohr</sub>
-<p>A group of legal experts are pressing patent agencies, courts and policymakers to address the question as generative A.I. seems on the brink of invading another uniquely human endeavor.  <a href="https://nyti.ms/3rk4qbh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 15, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>They Put Down Roots In Small-Town Vermont. Then the River Reared Up.</h3>
 <sub>By Jenna Russell</sub>
 <p>Bex Prasse and Craig Kovalsky had worked nearly a year to restore a rundown building so they could open a gourmet deli. The river behind it had other plans.  <a href="https://nyti.ms/46RbcWw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>New York Has $1.1 Billion to Fight Flooding. Will It Be Enough?</h3>
-<sub>By Hilary Howard</sub>
-<p>“It’s kind of like we’re patching the boat but it’s already filling up with water,” one climate researcher said.  <a href="https://nyti.ms/3pRA4wz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 15, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>South Korea Reels From Monsoon Rains as Floods and Landslides Kill 26</h3>
+<sub>By John Yoon</sub>
+<p>At least 10 people were missing after the deluge, and rainfall was expected to intensify in the next few days.  <a href="https://nyti.ms/3OeOqQQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>An Oasis in the Middle of a Scorching Texas Summer</h3>
 <sub>By David Montgomery</sub>
 <p>Barton Springs, whose cool, natural waters have created summer memories for generations in Austin, Texas, has become an important refuge during the current heat wave.  <a href="https://nyti.ms/44rH5Dc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russian Forces Are Doing ‘Everything They Can’ to Stop Counteroffensive, Zelensky Says</h3>
+<sub>By Cassandra Vinograd</sub>
+<p>The Ukrainian leader has secured new weapons pledges, but it was not clear when the aid would arrive, or how consequential it would be on the battlefield.  <a href="https://nyti.ms/44s6QU7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>After Suffering Heavy Losses, Ukrainians Paused to Rethink Strategy</h3>
+<sub>By Lara Jakes, Andrew E. Kramer and Eric Schmitt</sub>
+<p>Early in the counteroffensive, Ukraine lost as much as 20 percent of its weapons and armor. The rate dropped as the campaign slowed and commanders shifted tactics.  <a href="https://nyti.ms/44JY1EL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 15, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
