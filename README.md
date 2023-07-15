@@ -60,13 +60,35 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, July 15, Central Standard Time</p>
 <p>
-Right now, there&#39;s a lot going on in the news. In my region, a suspect has been arrested in connection to a serial killing of women near Gilgo Beach. In other US news, politics is heating up as Republicans take a political risk with their abortion vote, and vulnerable candidates like former vice president Mike Pence are raising doubts about his campaign. Additionally, Hollywood is on strike and we&#39;re wondering what will happen to Los Angeles without it. On top of that, sports have also been affected with Wimbledon finals coming up soon between Ons Jabeur versus Marketa Vondrousova and Novak Djokovic against Carlos Alcaraz. And like clockwork, the Wimbledon tournament requires its strawberry fields to be picked - over two million of them!</p>
+There&#39;s a lot happening all around the world right now. In Hollywood, they&#39;re trying to figure out how to make streaming work financially. At the same time, they’re struggling with what technology will mean for the future of the industry. Los Angeles is feeling the effects of strike action in Hollywood, as the entertainment industry is inextricably connected to the city. On a health-related note, medical device makers are profiting from artery-clearing procedures that often lead to amputations.
+
+Moving close to home, there is some news related to New York and Long Island. For instance, there is an ongoing investigation into the Gilgo Beach killings. And New York has $1.1 billion allocated towards fighting floods, but researchers are concerned that it won&#39;t be enough.
+
+Finally, there&#39;s good news out of Texas this summer - Barton Springs has become an oasis during this heat wave!</p>
 <ol>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Suspect Arrested in Serial Killings of Women Near Gilgo Beach</h3>
-<sub>By Maria Cramer, William K. Rashbaum, Joseph Goldstein and Corey Kilgannon</sub>
-<p>Rex Heuermann, a 59-year-old architect who lives in Nassau County, was charged with killing three women and is the “prime suspect” in the death of a fourth woman.  <a href="https://nyti.ms/3OeW1PC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>In Hollywood, the Strikes Are Just Part of the Problem</h3>
+<sub>By Brooks Barnes</sub>
+<p>The entertainment industry is trying to figure out the economics of streaming. It’s also facing angst over a tech-powered future and fighting to stay culturally dominant.  <a href="https://nyti.ms/3NR9cF2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Without Hollywood, What Happens to Los Angeles?</h3>
+<sub>By Shawn Hubler</sub>
+<p>With actors and screenwriters on strike, Hollywood is shut down for the foreseeable future. Los Angeles isn’t a pure company town, but the industry is inextricable from the city in many ways.  <a href="https://nyti.ms/3pGtNUx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>They Lost Their Legs. Doctors and Health Care Giants Profited.</h3>
+<sub>By Katie Thomas, Jessica Silver-Greenberg and Robert Gebeloff</sub>
+<p>Medical device makers have bankrolled a cottage industry of doctors and clinics that perform artery-clearing procedures that can lead to amputations.  <a href="https://nyti.ms/3XQOXvs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Suspect in Gilgo Beach Killings Led a Life of Chaos and Control</h3>
+<sub>By Andy Newman and Nate Schweber</sub>
+<p>Rex Heuermann was painstaking in his Manhattan professional pursuits. At home in Massapequa Park, he left neighbors discomfited.  <a href="https://nyti.ms/3pOMqpb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>The Gilgo Beach Victims Were Always More Than Escorts</h3>
@@ -75,64 +97,46 @@ Right now, there&#39;s a lot going on in the news. In my region, a suspect has b
 <sub><sub>Saturday, July 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Vulnerable Republicans Take a Political Risk With Abortion Vote</h3>
-<sub>By Annie Karni</sub>
-<p>In uniting his party behind a defense bill loaded with social policy restrictions, Speaker Kevin McCarthy has raised questions over whether his short-term victory could imperil his majority.  <a href="https://nyti.ms/3pMvLm4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>The Maverick Design Choices That May Have Doomed Titan</h3>
+<sub>By Helmuth Rosales, William J. Broad, Eleanor Lutz and Bedel Saget</sub>
+<p>Engineers interviewed by The New York Times pointed out several weak points in Titan that were cost-saving departures from proven submersible designs.  <a href="https://nyti.ms/3OefIad"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Without Hollywood, What Happens to Los Angeles?</h3>
-<sub>By Shawn Hubler</sub>
-<p>With actors and screenwriters on strike, Hollywood is shut down for the foreseeable future. Los Angeles isn’t a pure company town, but the industry is inextricable from the city in many ways.  <a href="https://nyti.ms/3pGtNUx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Strike Prevents Actors From Promoting Films at Premieres or Festivals</h3>
-<sub>By Nicole Sperling</sub>
-<p>While on strike, actors are barred from publicizing any studio projects they’ve appeared in. Their absence could affect movie theaters and the festival circuit.  <a href="https://nyti.ms/44q0STs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Iowa, Pence Is Put on the Spot Over Jan. 6</h3>
-<sub>By Trip Gabriel</sub>
-<p>An exchange with an Iowa voter who accused the former vice president of putting President Biden in the White House illustrated a larger issue for his 2024 campaign.  <a href="https://nyti.ms/3roPY1P"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Pence Raises Just $1.2 Million, Aides Say, in Worrying Sign for 2024 Bid</h3>
-<sub>By Reid J. Epstein and Maggie Haberman</sub>
-<p>The notably low figure raised new doubts about Republican voters’ enthusiasm for the former vice president, as well as questions about whether he will qualify for the first G.O.P. debate.  <a href="https://nyti.ms/3DckGh8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Tucker Carlson Turns a Christian Presidential Forum Into a Putin Showcase</h3>
-<sub>By Jonathan Weisman</sub>
-<p>The Iowa evangelical leader Bob Vander Plaats gathered Republican White House hopefuls in Des Moines, then gave Tucker Carlson the microphone.  <a href="https://nyti.ms/43pgPIn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Jabeur and Vondrousova Finesse Way to Wimbledon Final</h3>
-<sub>By Matthew Futterman</sub>
-<p>Ons Jabeur will try for a third time to become the first Arab woman to win a Grand Slam event. But don’t count out the crafty Marketa Vondrousova.  <a href="https://nyti.ms/43kVOOV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Carlos Alcaraz Gets a Shot at Novak Djokovic in Wimbledon Singles Final</h3>
-<sub>By David Waldstein</sub>
-<p>“For Novak, it is one more day, one more moment,” Alcaraz said of Sunday’s final. “For me, it’s going to be the best moment of my life, I think.”  <a href="https://nyti.ms/46OENja"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>‘Not for Machines to Harvest’: Data Revolts Break Out Against A.I.</h3>
+<sub>By Sheera Frenkel and Stuart A. Thompson</sub>
+<p>Fed up with A.I. companies consuming online content without consent, fan fiction writers, actors, social media companies and news organizations are among those rebelling.  <a href="https://nyti.ms/3XQASOE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Novak Djokovic Relaxes, and Lands in Another Wimbledon Final</h3>
-<sub>By Matthew Futterman</sub>
-<p>The 23-time Grand Slam champion may have mellowed, but he is as determined as ever to win his favorite title again. He will play Carlos Alcaraz on Sunday.  <a href="https://nyti.ms/3NSV3XV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 14, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Can A.I. Invent?</h3>
+<sub>By Steve Lohr</sub>
+<p>A group of legal experts are pressing patent agencies, courts and policymakers to address the question as generative A.I. seems on the brink of invading another uniquely human endeavor.  <a href="https://nyti.ms/3rk4qbh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>The Strawberry Fields of Wimbledon</h3>
-<sub></sub>
-<p>A team of workers has been racing to pick, pack and transport the more than two million strawberries that are expected to be served over the course of the tournament.  <a href="https://nyti.ms/44jYyxo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Inside the White-Hot Center of A.I. Doomerism</h3>
+<sub>By Kevin Roose</sub>
+<p>Anthropic, a safety-focused A.I. start-up, is trying to compete with ChatGPT while preventing an A.I. apocalypse. It’s been a little stressful.  <a href="https://nyti.ms/44Ae3Sd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>They Put Down Roots In Small-Town Vermont. Then the River Reared Up.</h3>
+<sub>By Jenna Russell</sub>
+<p>Bex Prasse and Craig Kovalsky had worked nearly a year to restore a rundown building so they could open a gourmet deli. The river behind it had other plans.  <a href="https://nyti.ms/46RbcWw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>New York Has $1.1 Billion to Fight Flooding. Will It Be Enough?</h3>
+<sub>By Hilary Howard</sub>
+<p>“It’s kind of like we’re patching the boat but it’s already filling up with water,” one climate researcher said.  <a href="https://nyti.ms/3pRA4wz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>An Oasis in the Middle of a Scorching Texas Summer</h3>
+<sub>By David Montgomery</sub>
+<p>Barton Springs, whose cool, natural waters have created summer memories for generations in Austin, Texas, has become an important refuge during the current heat wave.  <a href="https://nyti.ms/44rH5Dc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
