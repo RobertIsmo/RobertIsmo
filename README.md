@@ -60,60 +60,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, July 14, Central Standard Time</p>
 <p>
-There’s been some troubling news lately. In New York, a suspect was arrested in the serial killings of women near Gilgo Beach - it turns out that there were nine women, a man and a toddler found dead in the area. There’s still some mystery surrounding what exactly happened. Meanwhile, in the US, House Republicans managed to pass a defense bill containing a ton of social policy provisions - such as limits on abortions and gender transition procedures - that are unlikely to make it through the Senate. On top of that, actors in both LA and NY have gone on strike to demand a better deal from major studios; unfortunately, this means their absence from movie premieres and festivals could affect movie theaters and the festival circuit. Last but not least, former Vice President Pence had an awkward moment when he visited Iowa recently to answer questions about the Capitol riots on January 6th. Finally, the current US President Biden is switching up his big-money operation ahead of 2024 with the help of a new super PAC called Future Forward.</p>
+There is some troubling news coming out of New York – a 59-year-old architect has been charged with killing 3 women near Gilgo Beach and is the prime suspect in the death of a fourth. This comes shortly after Speaker Kevin McCarthy and the Republicans had passed a defense bill with social policy restrictions, including limits on abortion, gender transition procedures, and diversity training. In Iowa, a voter held Vice President Pence accountable for the insurrection at the Capitol on Jan. 6 and this raises questions about his 2024 campaign, as his fundraising was surprisingly low with only $1.2 million raised. On a lighter note, Jerry Garcia&#39;s iconic band The Grateful Dead are performing their Final Tour over the weekend and Novak Djokovic is in yet another Wimbledon final match. Texas is facing an extreme heatwave but Austin natives can take refuge in Barton Springs, where the cool natural pools provide some respite from the heat. Lastly, 800,000 borrowers will have their student loan debt canceled thanks to credits by the Education Department, who discovered loan servicers made mistakes when collecting payments under income-driven repayment programs.</p>
 <ol>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Suspect Arrested in Serial Killings of Women Near Gilgo Beach</h3>
-<sub>By William K. Rashbaum, Corey Kilgannon, Maria Cramer and Joseph Goldstein</sub>
-<p>In all, the remains of nine women, a man and a toddler have been found in the area on Long Island. Simple and sophisticated clues led investigators to the arrest.  <a href="https://nyti.ms/3OeW1PC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub>By Maria Cramer, William K. Rashbaum, Joseph Goldstein and Corey Kilgannon</sub>
+<p>Rex Heuermann, a 59-year-old architect who lives in Nassau County, was charged with killing three women and is the “prime suspect” in the death of a fourth woman.  <a href="https://nyti.ms/3OeW1PC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>What We Know About the Gilgo Beach Victims</h3>
-<sub>By Hurubie Meko</sub>
-<p>Rex Heuermann was accused of killing three women and is the prime suspect in the death of a fourth. All were found in the same spot, wrapped in burlap.  <a href="https://nyti.ms/3PZhmOk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>For Years, Quiet Gilgo Beach Was a Place of ‘Murders and Mayhem’</h3>
+<sub>By Christopher Maag</sub>
+<p>The arrest of a man charged in three of the killings brought a sense of safety to a community long accustomed to being on edge.  <a href="https://nyti.ms/44BLnrs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>The Gilgo Beach Murders Were a Cold Case. Then a New Police Chief Arrived.</h3>
-<sub>By Robert Kolker</sub>
-<p>After a decade of little movement in a series of killings on Long Island, a new sense of urgency.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>A Timeline of Events in the Gilgo Beach Serial Killings</h3>
-<sub>By Lola Fadulu</sub>
-<p>The Suffolk County police found 10 bodies while searching for a 24-year-old aspiring actress who had disappeared in 2010. No arrest was made in connection with the killings until now.  <a href="https://nyti.ms/3XOUqDb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Vulnerable Republicans Take a Political Risk With Abortion Vote</h3>
+<sub>By Annie Karni</sub>
+<p>In uniting his party behind a defense bill loaded with social policy restrictions, Speaker Kevin McCarthy has raised questions over whether his short-term victory could imperil his majority.  <a href="https://nyti.ms/3pMvLm4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>House Narrowly Passes Defense Bill, Setting Up Showdown Over Social Issues</h3>
 <sub>By Karoun Demirjian</sub>
 <p>Republicans loaded the measure with a raft of social policy provisions — including limits on abortions, gender transition procedures and diversity training — that have little chance of surviving in the Senate.  <a href="https://nyti.ms/44GvUGD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Actors Picket From Coast to Coast as Strike Gets Underway</h3>
-<sub>By Corina Knoll and Matt Stevens</sub>
-<p>In Los Angeles and New York, actors and screenwriters braved the heat to admonish the major studios and demand a new deal.  <a href="https://nyti.ms/46ROzB2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Strike Prevents Actors From Promoting Films at Premieres or Festivals</h3>
-<sub>By Nicole Sperling</sub>
-<p>While on strike, actors are barred from publicizing any studio projects they’ve appeared in. Their absence could affect movie theaters and the festival circuit.  <a href="https://nyti.ms/44q0STs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>What to Know About the Actors’ Strike</h3>
-<sub>By Matt Stevens</sub>
-<p>Here’s why Hollywood is facing its first industrywide shutdown in more than 60 years, and what it could mean for your favorite shows.  <a href="https://nyti.ms/46P8Zec"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Cluster Munitions Arrive in Ukraine, but Impact on Battlefield Remains Unclear</h3>
-<sub>By Eric Schmitt</sub>
-<p>U.S. officials and military analysts say the weapons, which are banned by many countries, will ease Ukraine’s artillery ammunition shortage but may not have an immediate impact in the war.  <a href="https://nyti.ms/3rkwATy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -123,15 +93,45 @@ There’s been some troubling news lately. In New York, a suspect was arrested i
 <sub><sub>Friday, July 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Switches Up His Big-Money Operation Ahead of 2024</h3>
-<sub>By Shane Goldmacher and Reid J. Epstein</sub>
-<p>The president and his advisers are elevating a new super PAC, Future Forward, as their leading outside group to rake in cash from his wealthiest benefactors.  <a href="https://nyti.ms/44HqdIv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Pence Raises Just $1.2 Million, Aides Say, in Worrying Sign for 2024 Bid</h3>
+<sub>By Reid J. Epstein and Maggie Haberman</sub>
+<p>The notably low figure raised new doubts about Republican voters’ enthusiasm for the former vice president, as well as questions about whether he will qualify for the first G.O.P. debate.  <a href="https://nyti.ms/3DckGh8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>George Santos Used New Campaign Cash to Pay Himself Back</h3>
-<sub>By Nicholas Fandos, Michael Gold and Grace Ashford</sub>
-<p>Mr. Santos spent more than half of the $150,000 he raised in the most recent quarter repaying loans he made to his campaign, new filings show. Another freshman Republican, Mike Lawler, revealed a $900,000 haul.  <a href="https://nyti.ms/43thcSh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Tucker Carlson Turns a Christian Presidential Forum Into a Putin Showcase</h3>
+<sub>By Jonathan Weisman</sub>
+<p>The Iowa evangelical leader Bob Vander Plaats gathered Republican White House hopefuls in Des Moines, then gave Tucker Carlson the microphone.  <a href="https://nyti.ms/43pgPIn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Saying Goodbye to the Dead. (Again.)</h3>
+<sub>By Marc Tracy and Peter Fisher</sub>
+<p>Jerry Garcia died in 1995. The band bade fans farewell in 2015. This weekend, Dead &amp; Company will close out its Final Tour. Why can’t we stop quitting one of rock’s beloved acts?  <a href="https://nyti.ms/3XYydCH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>The Strawberry Fields of Wimbledon</h3>
+<sub></sub>
+<p>A team of workers has been racing to pick, pack and transport the more than two million strawberries that are expected to be served over the course of the tournament.  <a href="https://nyti.ms/44jYyxo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Novak Djokovic Relaxes, and Lands in Another Wimbledon Final</h3>
+<sub>By Matthew Futterman</sub>
+<p>The 23-time Grand Slam champion may have mellowed, but he is as determined as ever to win his favorite title again. He will play Carlos Alcaraz on Sunday.  <a href="https://nyti.ms/3NSV3XV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>An Oasis in the Middle of a Scorching Texas Summer</h3>
+<sub>By David Montgomery</sub>
+<p>Barton Springs, whose cool, natural waters have created summer memories for generations in Austin, Texas, has become an important refuge during the current heat wave.  <a href="https://nyti.ms/44rH5Dc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Education Dept. Cancels $39 Billion in Student Debt for 800,000 Borrowers</h3>
+<sub>By Stacy Cowley</sub>
+<p>One-time credits will wipe out loans, fixing mistakes made by loan servicers when collecting payments under income-driven repayment programs.  <a href="https://nyti.ms/470oQqm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
