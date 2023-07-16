@@ -60,7 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, July 16, Central Standard Time</p>
 <p>
-There is a massive population shift around the world that will change the shape of our world and its most powerful countries. In Ukraine, there is still a deep battle with Russian land mines which stall their counteroffensive. There have been 11th-hour talks to help stabilize global grain prices to avert famines. In Gilgo Beach, an arrest bears out a decade-old prediction of the killer&#39;s characteristics. There is also a case against Rex Heuermann for the Gilgo Beach killings. Britain&#39;s health service is in the deepest crisis of its history, while President Biden has yet to gain much support from small donors. Former President Trump appears to have more traction with polls. Carlos Alcaraz won his first Wimbledon singles title and left Novak Djokovic with his first final&#39;s loss at the All England Club in a decade. Designers are seeking disaster-proof homes that can better protect against extreme weather due to climate shocks, while New York City subway riders are stuck in hot cars due to poor air conditioning in some cars. Finally, Detroit is stepping up code enforcement and sprucing up parks after filing for bankruptcy 10 years ago, although the changes bring risks as well.</p>
+There has been a lot happening in the world recently. In terms of global demographics, the most powerful countries are facing changes as their large workforces retire, and this could have an effect on their positions. In Ukraine, Russian land mines are making a counteroffensive in the country more challenging. At the same time, a deal between Russia and other countries over grains is in danger of ending due to last minute talks.
+
+Closer to home, there have been some disturbing developments. In Long Island, NY, an arrest has been made related to decade-old killings at Gilgo beach that fulfill many of the predicted characteristics of the suspect. There were also deadly floods in Philadelphia suburbs last week that killed five people. Meanwhile, Phoenix firefighters are struggling with an invisible inferno caused by 110 degree days.
+
+Europe is also having a heat wave that is only going to get worse over the coming days. Unfortunately, Britain&#39;s health service is also struggling as it turns 75 years old. Biden&#39;s campaign for president is slow taking off because many small donors have yet to contribute compared to wealthy Democrats who have shown support for his re-election bid. Finally, Carlos Alcaraz won a thrilling Wimbledon match against Novak Djokovic, leaving him with his first finals loss at the All England Club in 10 years.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>How a Vast Demographic Shift Will Reshape the World</h3>
@@ -92,6 +96,24 @@ There is a massive population shift around the world that will change the shape 
 <p>Suffolk County, N.Y., prosecutors argued against bail for Mr. Heuermann in a 32-page document that explicitly details the investigation into the Gilgo Beach killings. The New York Times has redacted phone numbers, email addresses, personal addresses and the names of private social media accounts. It has also redacted offensive material that was included in Mr. Heuermann’s internet searches.  <a href="https://nyti.ms/3PVn8Ak"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 14, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Five Dead in Flash Flooding in Philadelphia Suburbs</h3>
+<sub>By Anna Betts and Elise Young</sub>
+<p>Sudden, torrential rains struck areas in Bucks County, Pa., trapping people in their cars. Much of the Northeast was experiencing periods of heavy rainfall.  <a href="https://nyti.ms/3JZSaDi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Phoenix, Firefighters Battle an Invisible Inferno</h3>
+<sub>By Jack Healy</sub>
+<p>A two-week stretch of 110-degree days sends the fire department scrambling to rescue people overcome by heat, and tests a force already accustomed to tough summers.  <a href="https://nyti.ms/46TZnyA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Heat Wave Hits Europe, and It’s Only Going to Get Hotter</h3>
+<sub>By Isabella Kwai</sub>
+<p>More scorching weather is expected in the southern part of the continent and the Balkans in the coming days. Here’s what to know.  <a href="https://nyti.ms/44qnKlT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 14, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>A National Treasure, Tarnished: Can Britain Fix Its Health Service?</h3>
 <sub>By Mark Landler</sub>
@@ -113,25 +135,7 @@ There is a massive population shift around the world that will change the shape 
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Alcaraz Wins Wimbledon in a Thrilling Comeback Against Djokovic</h3>
 <sub>By Matthew Futterman</sub>
-<p>Carlos Alcaraz won his first Wimbledon singles title and left Novak Djokovic, the overwhelming favorite, with his first finals loss at the All England Club in a decade.  <a href="https://nyti.ms/3pYHVZ4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>As Climate Shocks Multiply, Designers Seek Holy Grail: Disaster-Proof Homes</h3>
-<sub>By Christopher Flavelle</sub>
-<p>The homebuilding industry has been slow to adopt changes that can better protect against extreme weather. Some architects are showing what’s possible.  <a href="https://nyti.ms/3pOHrVo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>What’s Worse Than Heat and Humidity? Heat and Humidity on the Subway.</h3>
-<sub>By Lola Fadulu</sub>
-<p>In most New York City subway cars, the air-conditioning works. But if you find yourself in a hot car, the journey can be excruciating. Just ask the riders of Car 1859.  <a href="https://nyti.ms/3pYeHtk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Detroit Takes On Problems That Were Once Beyond Reach</h3>
-<sub>By Mitch Smith</sub>
-<p>Ten years after becoming the largest American city to file for bankruptcy, Detroit is stepping up code enforcement and sprucing up parks. The new moment carries risks, too.  <a href="https://nyti.ms/3XVdUGi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Carlos Alcaraz won his first Wimbledon title and left Novak Djokovic, the overwhelming favorite, with his first finals loss at the All England Club in a decade.  <a href="https://nyti.ms/3pYHVZ4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
