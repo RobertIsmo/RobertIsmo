@@ -58,24 +58,44 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Saturday, July 15, Central Standard Time</p>
+<p>It is Sunday, July 16, Central Standard Time</p>
 <p>
-Things have been pretty chaotic in the world lately. In the U.S., we&#39;re seeing record-breaking temperatures, and out West, people are having to deal with that heat wave. On top of that, there&#39;s a lot of turmoil over 2024 presidential candidates&#39; finances and some talk about a possible third-party White House run from a bipartisan group. 
-
-In Canada, politicians who criticize China have become the focus of Chinese state interference in their government. 
-
-And overseas in Ukraine, tensions with Russia continue to rise, as Russian forces try to stop Ukraine&#39;s counteroffensive. The fight has put an economic strain on Ukraine and its citizens, prompting them to rethink their strategies. 
-
-To make matters worse, medical device makers are being accused of profiting off people&#39;s misery after some lost their legs due to artery-clearing procedures. 
-
-Plus, in Hollywood there&#39;s unrest over a tech-powered future as the entertainment industry struggles to adapt to streaming services and remain culturally dominant. 
-
-It&#39;s definitely an interesting time!</p>
+There is a lot of tension in the world right now. In Ukraine, Russian forces have infiltrated the country and are using land mines to try and stop Ukraine’s counteroffensive. In the US, political rivalries between Donald Trump and Governor Ron DeSantis have been heating up ahead of the 2024 presidential race. Meanwhile, Robert F. Kennedy Jr. has come under fire after making comments which were perceived as antisemitic. In Britain, its beloved National Health Service is facing increasing criticism and is in urgent need of reform, while doctors in the US are profiting from medical procedures which cause limb loss. China is also a major source of controversy; it has been accused of interfering in Canadian politics and targeting certain politicians who have spoken out against it.</p>
 <ol>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>They Lost Their Legs. Doctors and Health Care Giants Profited.</h3>
-<sub>By Katie Thomas, Jessica Silver-Greenberg and Robert Gebeloff</sub>
-<p>Medical device makers have bankrolled a cottage industry of doctors and clinics that perform artery-clearing procedures that can lead to amputations.  <a href="https://nyti.ms/3XQOXvs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Small, Hidden and Deadly: Mines Stymie Ukraine’s Counteroffensive</h3>
+<sub>By Andrew E. Kramer</sub>
+<p>To gain ground, Ukrainian forces have to make their way through a variety and density of Russian land mines they never imagined.  <a href="https://nyti.ms/44KQTYH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russian Forces Are Doing ‘Everything They Can’ to Stop Counteroffensive, Zelensky Says</h3>
+<sub>By Cassandra Vinograd</sub>
+<p>The Ukrainian leader has secured new weapons pledges, but it was not clear when the aid would arrive, or how consequential it would be on the battlefield.  <a href="https://nyti.ms/44s6QU7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>DeSantis Sheds Staff Amid Heavy Spending</h3>
+<sub>By Maggie Haberman and Rebecca Davis O’Brien</sub>
+<p>The dismissals come as his campaign for the Republican nomination for president struggles to gain traction against former President Donald J. Trump, who is leading in polls.  <a href="https://nyti.ms/3DkDjQ0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>DeSantis Burns Cash, and Pence Struggles: 5 Takeaways From 2024 Filings</h3>
+<sub>By Rebecca Davis O’Brien and Reid J. Epstein</sub>
+<p>Warning signs for Ron DeSantis were among the biggest developments of the latest campaign filings, which created a fuller financial picture of the 2024 field.  <a href="https://nyti.ms/44NBEyu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Robert F. Kennedy Jr.’s Covid Remarks Raise Questions of Antisemitism</h3>
+<sub>By Jonathan Weisman</sub>
+<p>The long-shot candidate for the Democratic presidential nomination has a history of embracing conspiracy theories. His latest comments claimed the virus spared certain ethnic and religious groups.  <a href="https://nyti.ms/3NQ7nYV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Florida, Trump Says DeSantis Has No Path to Victory</h3>
+<sub>By Neil Vigdor</sub>
+<p>Former President Donald J. Trump taunted Gov. Ron DeSantis, his chief Republican rival, for his absence from the conservative Turning Point Action Conference.  <a href="https://nyti.ms/43mIycI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -90,16 +110,16 @@ It&#39;s definitely an interesting time!</p>
 <p>From the beginning, the women who were found murdered were reduced to being prostitutes. More than a decade after they went missing, that seems to have changed.  <a href="https://nyti.ms/46MIrtU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis Burns Cash, and Pence Struggles: 4 Takeaways From 2024 Filings</h3>
-<sub>By Rebecca Davis O’Brien</sub>
-<p>Warning signs for Ron DeSantis were among the biggest developments of the latest campaign filings, which created a fuller financial picture of the 2024 field.  <a href="https://nyti.ms/44NBEyu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A National Treasure, Tarnished: Can Britain Fix Its Health Service?</h3>
+<sub>By Mark Landler</sub>
+<p>As it turns 75, the N.H.S., a proud symbol of Britain’s welfare state, is in the deepest crisis of its history.  <a href="https://nyti.ms/3JVigHt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>With a Centrist Manifesto, No Labels Pushes Its Presidential Bid Forward</h3>
-<sub>By Jonathan Weisman and Luke Broadwater</sub>
-<p>The bipartisan group, facing enormous opposition from Democrats, hopes a new policy document will advance its political cause — and possible third-party White House run.  <a href="https://nyti.ms/3pTvDRK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>They Lost Their Legs. Doctors and Health Care Giants Profited.</h3>
+<sub>By Katie Thomas, Jessica Silver-Greenberg and Robert Gebeloff</sub>
+<p>Medical device makers have bankrolled a cottage industry of doctors and clinics that perform artery-clearing procedures that can lead to amputations.  <a href="https://nyti.ms/3XQOXvs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -112,36 +132,6 @@ It&#39;s definitely an interesting time!</p>
 <h3>Canadian Politicians Who Criticize China Become Its Targets</h3>
 <sub>By Norimitsu Onishi</sub>
 <p>As China increases its reach in diaspora communities, Chinese Canadian politicians in Vancouver are the focus of Chinese state interference in Canadian politics.  <a href="https://nyti.ms/3ruYWL2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>In Hollywood, the Strikes Are Just Part of the Problem</h3>
-<sub>By Brooks Barnes</sub>
-<p>The entertainment industry is trying to figure out the economics of streaming. It’s also facing angst over a tech-powered future and fighting to stay culturally dominant.  <a href="https://nyti.ms/3NR9cF2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Weather by the Numbers</h3>
-<sub>By Colbi Edmonds</sub>
-<p>Lots of triple-digit numbers tell the story of the early summer’s torrid heat wave.  <a href="https://nyti.ms/3K3NlsH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Southwest Braces for Record-Breaking Heat</h3>
-<sub>By Orlando Mayorquin</sub>
-<p>The National Weather Service forecast 45 record-high temperatures across the country, mostly in the Southwest, ahead of the weekend.  <a href="https://nyti.ms/3Ohn6Sj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russian Forces Are Doing ‘Everything They Can’ to Stop Counteroffensive, Zelensky Says</h3>
-<sub>By Cassandra Vinograd</sub>
-<p>The Ukrainian leader has secured new weapons pledges, but it was not clear when the aid would arrive, or how consequential it would be on the battlefield.  <a href="https://nyti.ms/44s6QU7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>After Suffering Heavy Losses, Ukrainians Paused to Rethink Strategy</h3>
-<sub>By Lara Jakes, Andrew E. Kramer and Eric Schmitt</sub>
-<p>Early in the counteroffensive, Ukraine lost as much as 20 percent of its weapons and armor. The rate dropped as the campaign slowed and commanders shifted tactics.  <a href="https://nyti.ms/44JY1EL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 15, Central Standard Time</sub></sub>
 <hr/>
 </ol>
