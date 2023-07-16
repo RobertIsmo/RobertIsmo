@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, July 15, Central Standard Time</p>
 <p>
-Right now the world is facing a lot of instability. In terms of health, there are reports of doctors and health care giants profiting from patients who have lost their legs due to artery-clearing procedures. Businesses in Hollywood are struggling to figure out how to keep up with streaming platforms, while Los Angeles is facing economic hardship from the ripple effects of the Hollywood actor and screenwriter strike. On a global level, Russian forces are doing &#39;everything they can&#39; to stop a counteroffensive in Ukraine, and there has been losses suffered on both sides. On a more positive note, Marketa Vondrousova won her first grand slam title at Wimbledon!</p>
+Right now, there are a lot of interesting challenges and developments going on in the world. On one hand, health care giants have been profiting off artery-clearing procedures that could put patients at risk for amputations. In Hollywood, workers are striking and trying to negotiate the economics of streaming while trying to remain culturally dominant. In Ukraine, Russians are actively trying to push their agenda and Ukrainian leaders are struggling to build up enough forces to fight back. Here in the US, it&#39;s been hot! We&#39;ve had heat waves with record-high temperatures mainly out West. And it seems like people are rethinking their strategies for dealing with the heatwave. Finally, over at Wimbledon, Marketa Vondrousova from the Czech Republic won her first Grand Slam and Ons Jabeur of Tunisia called it &quot;the most painful&quot; loss of her career.</p>
 <ol>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>They Lost Their Legs. Doctors and Health Care Giants Profited.</h3>
@@ -73,12 +73,6 @@ Right now the world is facing a lot of instability. In terms of health, there ar
 <sub>By Brooks Barnes</sub>
 <p>The entertainment industry is trying to figure out the economics of streaming. It’s also facing angst over a tech-powered future and fighting to stay culturally dominant.  <a href="https://nyti.ms/3NR9cF2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Without Hollywood, What Happens to Los Angeles?</h3>
-<sub>By Shawn Hubler</sub>
-<p>With actors and screenwriters on strike, Hollywood is shut down for the foreseeable future. Los Angeles isn’t a pure company town, but the industry is inextricable from the city in many ways.  <a href="https://nyti.ms/3pGtNUx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Suspect in Gilgo Beach Killings Led a Life of Chaos and Control</h3>
@@ -98,10 +92,10 @@ Right now the world is facing a lot of instability. In terms of health, there ar
 <p>Engineers interviewed by The New York Times pointed out several weak points in Titan that were cost-saving departures from proven submersible designs.  <a href="https://nyti.ms/3OefIad"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>‘Not for Machines to Harvest’: Data Revolts Break Out Against A.I.</h3>
-<sub>By Sheera Frenkel and Stuart A. Thompson</sub>
-<p>Fed up with A.I. companies consuming online content without consent, fan fiction writers, actors, social media companies and news organizations are among those rebelling.  <a href="https://nyti.ms/3K0eoFd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Canadian Politicians Who Criticize China Become Its Targets</h3>
+<sub>By Norimitsu Onishi</sub>
+<p>As China increases its reach in diaspora communities, Chinese Canadian politicians in Vancouver are the focus of Chinese state interference in Canadian politics.  <a href="https://nyti.ms/3ruYWL2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -132,6 +126,12 @@ Right now the world is facing a lot of instability. In terms of health, there ar
 <h3>Marketa Vondrousova Wins Wimbledon and Her First Grand Slam Title</h3>
 <sub>By Matthew Futterman</sub>
 <p>Vondrousova of the Czech Republic overpowered Ons Jabeur of Tunisia in the first set and never looked back, winning 6-4, 6-4.  <a href="https://nyti.ms/3XUxXEJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Ons Jabeur Calls Wimbledon Loss ‘the Most Painful’ of Her Career</h3>
+<sub>By David Waldstein</sub>
+<p>“Honestly, I felt a lot of pressure, feeling a lot of stress,” Jabeur said after losing the women’s singles final to Marketa Vondrousova.  <a href="https://nyti.ms/44NmF7o"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 15, Central Standard Time</sub></sub>
 <hr/>
 </ol>
