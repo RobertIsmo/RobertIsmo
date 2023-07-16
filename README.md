@@ -60,18 +60,22 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, July 15, Central Standard Time</p>
 <p>
-Right now, there are a lot of interesting challenges and developments going on in the world. On one hand, health care giants have been profiting off artery-clearing procedures that could put patients at risk for amputations. In Hollywood, workers are striking and trying to negotiate the economics of streaming while trying to remain culturally dominant. In Ukraine, Russians are actively trying to push their agenda and Ukrainian leaders are struggling to build up enough forces to fight back. Here in the US, it&#39;s been hot! We&#39;ve had heat waves with record-high temperatures mainly out West. And it seems like people are rethinking their strategies for dealing with the heatwave. Finally, over at Wimbledon, Marketa Vondrousova from the Czech Republic won her first Grand Slam and Ons Jabeur of Tunisia called it &quot;the most painful&quot; loss of her career.</p>
+Things have been pretty chaotic in the world lately. In the U.S., we&#39;re seeing record-breaking temperatures, and out West, people are having to deal with that heat wave. On top of that, there&#39;s a lot of turmoil over 2024 presidential candidates&#39; finances and some talk about a possible third-party White House run from a bipartisan group. 
+
+In Canada, politicians who criticize China have become the focus of Chinese state interference in their government. 
+
+And overseas in Ukraine, tensions with Russia continue to rise, as Russian forces try to stop Ukraine&#39;s counteroffensive. The fight has put an economic strain on Ukraine and its citizens, prompting them to rethink their strategies. 
+
+To make matters worse, medical device makers are being accused of profiting off people&#39;s misery after some lost their legs due to artery-clearing procedures. 
+
+Plus, in Hollywood there&#39;s unrest over a tech-powered future as the entertainment industry struggles to adapt to streaming services and remain culturally dominant. 
+
+It&#39;s definitely an interesting time!</p>
 <ol>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>They Lost Their Legs. Doctors and Health Care Giants Profited.</h3>
 <sub>By Katie Thomas, Jessica Silver-Greenberg and Robert Gebeloff</sub>
 <p>Medical device makers have bankrolled a cottage industry of doctors and clinics that perform artery-clearing procedures that can lead to amputations.  <a href="https://nyti.ms/3XQOXvs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>In Hollywood, the Strikes Are Just Part of the Problem</h3>
-<sub>By Brooks Barnes</sub>
-<p>The entertainment industry is trying to figure out the economics of streaming. It’s also facing angst over a tech-powered future and fighting to stay culturally dominant.  <a href="https://nyti.ms/3NR9cF2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -87,6 +91,18 @@ Right now, there are a lot of interesting challenges and developments going on i
 <sub><sub>Saturday, July 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>DeSantis Burns Cash, and Pence Struggles: 4 Takeaways From 2024 Filings</h3>
+<sub>By Rebecca Davis O’Brien</sub>
+<p>Warning signs for Ron DeSantis were among the biggest developments of the latest campaign filings, which created a fuller financial picture of the 2024 field.  <a href="https://nyti.ms/44NBEyu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>With a Centrist Manifesto, No Labels Pushes Its Presidential Bid Forward</h3>
+<sub>By Jonathan Weisman and Luke Broadwater</sub>
+<p>The bipartisan group, facing enormous opposition from Democrats, hopes a new policy document will advance its political cause — and possible third-party White House run.  <a href="https://nyti.ms/3pTvDRK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The Maverick Design Choices That May Have Doomed Titan</h3>
 <sub>By Helmuth Rosales, William J. Broad, Eleanor Lutz and Bedel Saget</sub>
 <p>Engineers interviewed by The New York Times pointed out several weak points in Titan that were cost-saving departures from proven submersible designs.  <a href="https://nyti.ms/3OefIad"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -96,6 +112,12 @@ Right now, there are a lot of interesting challenges and developments going on i
 <h3>Canadian Politicians Who Criticize China Become Its Targets</h3>
 <sub>By Norimitsu Onishi</sub>
 <p>As China increases its reach in diaspora communities, Chinese Canadian politicians in Vancouver are the focus of Chinese state interference in Canadian politics.  <a href="https://nyti.ms/3ruYWL2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>In Hollywood, the Strikes Are Just Part of the Problem</h3>
+<sub>By Brooks Barnes</sub>
+<p>The entertainment industry is trying to figure out the economics of streaming. It’s also facing angst over a tech-powered future and fighting to stay culturally dominant.  <a href="https://nyti.ms/3NR9cF2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -120,18 +142,6 @@ Right now, there are a lot of interesting challenges and developments going on i
 <h3>After Suffering Heavy Losses, Ukrainians Paused to Rethink Strategy</h3>
 <sub>By Lara Jakes, Andrew E. Kramer and Eric Schmitt</sub>
 <p>Early in the counteroffensive, Ukraine lost as much as 20 percent of its weapons and armor. The rate dropped as the campaign slowed and commanders shifted tactics.  <a href="https://nyti.ms/44JY1EL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Marketa Vondrousova Wins Wimbledon and Her First Grand Slam Title</h3>
-<sub>By Matthew Futterman</sub>
-<p>Vondrousova of the Czech Republic overpowered Ons Jabeur of Tunisia in the first set and never looked back, winning 6-4, 6-4.  <a href="https://nyti.ms/3XUxXEJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Ons Jabeur Calls Wimbledon Loss ‘the Most Painful’ of Her Career</h3>
-<sub>By David Waldstein</sub>
-<p>“Honestly, I felt a lot of pressure, feeling a lot of stress,” Jabeur said after losing the women’s singles final to Marketa Vondrousova.  <a href="https://nyti.ms/44NmF7o"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 15, Central Standard Time</sub></sub>
 <hr/>
 </ol>
