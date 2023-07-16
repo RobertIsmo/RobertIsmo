@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, July 16, Central Standard Time</p>
 <p>
-There are a lot of important events happening around the world right now. In Ukraine, there is a counteroffensive against Russian forces that involves dealing with all kinds of land mines they didn&#39;t expect. Meanwhile, Russia and other countries are negotiating a grain trade agreement at the last minute to help stabilize global food prices and prevent famines. In New York, an arrest has been made related to a decade-old set of killings in Gilgo Beach. In Britain, the National Health Service is turning 75, but it&#39;s facing possibly its deepest crisis in history. In America, Biden&#39;s presidential campaign is being supported by wealthy donors, but small donations are lagging behind. Also in America, DeSantis is shedding staff as he runs for the Republican nominations for president and there is growing recognition of cricket as a sport in Houston due to the large South Asian population living there. And finally, people are trying to design disaster-proof homes that can withstand extreme weather as the impact of climate change continues to grow stronger. On top of this, there are problems with high heat and humidity on New York City subways and Detroit is addressing code enforcement challenges 10 years after filing for bankruptcy.</p>
+There is a massive population shift around the world that will change the shape of our world and its most powerful countries. In Ukraine, there is still a deep battle with Russian land mines which stall their counteroffensive. There have been 11th-hour talks to help stabilize global grain prices to avert famines. In Gilgo Beach, an arrest bears out a decade-old prediction of the killer&#39;s characteristics. There is also a case against Rex Heuermann for the Gilgo Beach killings. Britain&#39;s health service is in the deepest crisis of its history, while President Biden has yet to gain much support from small donors. Former President Trump appears to have more traction with polls. Carlos Alcaraz won his first Wimbledon singles title and left Novak Djokovic with his first final&#39;s loss at the All England Club in a decade. Designers are seeking disaster-proof homes that can better protect against extreme weather due to climate shocks, while New York City subway riders are stuck in hot cars due to poor air conditioning in some cars. Finally, Detroit is stepping up code enforcement and sprucing up parks after filing for bankruptcy 10 years ago, although the changes bring risks as well.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>How a Vast Demographic Shift Will Reshape the World</h3>
+<sub>By Lauren Leatherby</sub>
+<p>The most powerful countries have benefited from large work forces for decades. What happens when they retire?  <a href="https://nyti.ms/3rwNrTp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 16, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Small, Hidden and Deadly: Mines Stymie Ukraine’s Counteroffensive</h3>
 <sub>By Andrew E. Kramer</sub>
@@ -69,9 +75,9 @@ There are a lot of important events happening around the world right now. In Ukr
 <sub><sub>Saturday, July 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Black Sea Grain Deal Hangs On 11th-Hour Talks, Again</h3>
+<h3>Black Sea Grain Deal Hangs on 11th-Hour Talks, Again</h3>
 <sub>By Matthew Mpoke Bigg, Anatoly Kurmanaev and Vivek Shankar</sub>
-<p>Russia has repeatedly threatened to pull out of the wartime export agreement, which has helped stabilize global grain prices and avert famines. The latest deadline to renew it is midnight Monday.  <a href="https://nyti.ms/472oGPg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Russia has repeatedly threatened to pull out of the wartime export agreement, which has helped stabilize global grain prices and avert famines. The latest deadline to renew it is Monday.  <a href="https://nyti.ms/472oGPg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -104,16 +110,10 @@ There are a lot of important events happening around the world right now. In Ukr
 <p>The dismissals come as his campaign for the Republican nomination for president struggles to gain traction against former President Donald J. Trump, who is leading in polls.  <a href="https://nyti.ms/3DkDjQ0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In the Land of Football, a Cricket Oasis Rises Outside Houston</h3>
-<sub>By J. David Goodman and Meridith Kohut</sub>
-<p>The game of cricket has taken hold in Texas’ largest city, as a culture of sports competition meets a growing South Asian population.  <a href="https://nyti.ms/3NQUkpX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>How a Vast Demographic Shift Will Reshape the World</h3>
-<sub>By Lauren Leatherby</sub>
-<p>The most powerful countries have benefited from large work forces for decades. What happens when they retire?  <a href="https://nyti.ms/3rwNrTp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Alcaraz Wins Wimbledon in a Thrilling Comeback Against Djokovic</h3>
+<sub>By Matthew Futterman</sub>
+<p>Carlos Alcaraz won his first Wimbledon singles title and left Novak Djokovic, the overwhelming favorite, with his first finals loss at the All England Club in a decade.  <a href="https://nyti.ms/3pYHVZ4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
