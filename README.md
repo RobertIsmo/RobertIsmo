@@ -60,7 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, July 16, Central Standard Time</p>
 <p>
-There is a lot of news happening in the world right now. We&#39;re seeing a vast demographic shift taking place that will reshape the world, with powerful countries benefiting from large workforces and then entering retirement. In Gilgo Beach, an arrest was made in regards to a decade-old murder case, with experts making predictions that have now come tragically true. Meanwhile in the US, President Biden has been releasing files related to the assassination of JFK that still remain redacted, and there was recently flash flooding and extreme heat in Philadelphia and Phoenix respectively that led to tragic losses of life. On the international stage, Ukraine has had to navigate a landscape of landmines planted by Russia, while in Britain the National Health Service is experiencing its deepest crisis yet. In sports, Carlos Alcaraz recently pulled off an exciting win against Novak Djokovic at Wimbledon, showing that Djokovic&#39;s championships are numbered. With climate change still ravaging many parts of the world, people are looking to architects for methods of making homes more disaster-proof. Some sad news in the arts as well, with Jane Birkin passing away at 76 after being an incredible musical collaborator and fashion inspiration throughout her entire life.</p>
+There are a lot of changes happening around the world right now. In particular, huge demographic shifts that are reshaping the global landscape and altering power dynamics.  Additionally, experts in the US made some predictions more than a decade ago about the serial killer case in Gilgo Beach, NY, and an arrest has now borne out those predictions.  
+
+In the US, President Biden has finished his review on the Kennedy Files and while many documents have been released there are still some that remain redacted. There have also been flash flooding and dangerous heat waves recently in various parts of the country. In Ukraine there is a massive landmine issue making it difficult for counteroffensives. 
+
+On another note, there has been an increase in activity at a newly built military field camp in Belarus as well as evidence of Wagner&#39;s presence there. In Britain, the National Health Service (NHS) is facing its deepest crisis in its 75-year history. As far as sports go, Carlos Alcaraz won a thrilling come-back against Novak Djokovic at Wimbledon over the weekend, showing that while his dominance is undeniable, he can still be challenged. 
+
+Finally, architects are beginning to look into creating disaster-proof homes to protect against climate shocks like extreme weather, while fashion icon Jane Birkin passed away recently at 76.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>How a Vast Demographic Shift Will Reshape the World</h3>
