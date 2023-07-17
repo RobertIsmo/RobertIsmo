@@ -60,28 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, July 16, Central Standard Time</p>
 <p>
-There has been a lot happening in the world recently. In terms of global demographics, the most powerful countries are facing changes as their large workforces retire, and this could have an effect on their positions. In Ukraine, Russian land mines are making a counteroffensive in the country more challenging. At the same time, a deal between Russia and other countries over grains is in danger of ending due to last minute talks.
-
-Closer to home, there have been some disturbing developments. In Long Island, NY, an arrest has been made related to decade-old killings at Gilgo beach that fulfill many of the predicted characteristics of the suspect. There were also deadly floods in Philadelphia suburbs last week that killed five people. Meanwhile, Phoenix firefighters are struggling with an invisible inferno caused by 110 degree days.
-
-Europe is also having a heat wave that is only going to get worse over the coming days. Unfortunately, Britain&#39;s health service is also struggling as it turns 75 years old. Biden&#39;s campaign for president is slow taking off because many small donors have yet to contribute compared to wealthy Democrats who have shown support for his re-election bid. Finally, Carlos Alcaraz won a thrilling Wimbledon match against Novak Djokovic, leaving him with his first finals loss at the All England Club in 10 years.</p>
+There is a lot of news happening in the world right now. We&#39;re seeing a vast demographic shift taking place that will reshape the world, with powerful countries benefiting from large workforces and then entering retirement. In Gilgo Beach, an arrest was made in regards to a decade-old murder case, with experts making predictions that have now come tragically true. Meanwhile in the US, President Biden has been releasing files related to the assassination of JFK that still remain redacted, and there was recently flash flooding and extreme heat in Philadelphia and Phoenix respectively that led to tragic losses of life. On the international stage, Ukraine has had to navigate a landscape of landmines planted by Russia, while in Britain the National Health Service is experiencing its deepest crisis yet. In sports, Carlos Alcaraz recently pulled off an exciting win against Novak Djokovic at Wimbledon, showing that Djokovic&#39;s championships are numbered. With climate change still ravaging many parts of the world, people are looking to architects for methods of making homes more disaster-proof. Some sad news in the arts as well, with Jane Birkin passing away at 76 after being an incredible musical collaborator and fashion inspiration throughout her entire life.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>How a Vast Demographic Shift Will Reshape the World</h3>
 <sub>By Lauren Leatherby</sub>
 <p>The most powerful countries have benefited from large work forces for decades. What happens when they retire?  <a href="https://nyti.ms/3rwNrTp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Small, Hidden and Deadly: Mines Stymie Ukraine’s Counteroffensive</h3>
-<sub>By Andrew E. Kramer</sub>
-<p>To gain ground, Ukrainian forces have to make their way through a variety and density of Russian land mines they never imagined.  <a href="https://nyti.ms/44KQTYH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Black Sea Grain Deal Hangs on 11th-Hour Talks, Again</h3>
-<sub>By Matthew Mpoke Bigg, Anatoly Kurmanaev and Vivek Shankar</sub>
-<p>Russia has repeatedly threatened to pull out of the wartime export agreement, which has helped stabilize global grain prices and avert famines. The latest deadline to renew it is Monday.  <a href="https://nyti.ms/472oGPg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -91,10 +75,10 @@ Europe is also having a heat wave that is only going to get worse over the comin
 <sub><sub>Sunday, July 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Case Against Rex Heuermann: Read the Document</h3>
-<sub></sub>
-<p>Suffolk County, N.Y., prosecutors argued against bail for Mr. Heuermann in a 32-page document that explicitly details the investigation into the Gilgo Beach killings. The New York Times has redacted phone numbers, email addresses, personal addresses and the names of private social media accounts. It has also redacted offensive material that was included in Mr. Heuermann’s internet searches.  <a href="https://nyti.ms/3PVn8Ak"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 14, Central Standard Time</sub></sub>
+<h3>Biden’s ‘Final’ Order on Kennedy Files Leaves Some Still Wanting More</h3>
+<sub>By Peter Baker</sub>
+<p>The president has finished a review first mandated by law in 1992, and while a vast majority of papers related to the assassination of President John F. Kennedy have been released, some remain redacted.  <a href="https://nyti.ms/3rqhD2h"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Five Dead in Flash Flooding in Philadelphia Suburbs</h3>
@@ -109,10 +93,16 @@ Europe is also having a heat wave that is only going to get worse over the comin
 <sub><sub>Sunday, July 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Heat Wave Hits Europe, and It’s Only Going to Get Hotter</h3>
-<sub>By Isabella Kwai</sub>
-<p>More scorching weather is expected in the southern part of the continent and the Balkans in the coming days. Here’s what to know.  <a href="https://nyti.ms/44qnKlT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 14, Central Standard Time</sub></sub>
+<h3>Small, Hidden and Deadly: Mines Stymie Ukraine’s Counteroffensive</h3>
+<sub>By Andrew E. Kramer</sub>
+<p>To gain ground, Ukrainian forces have to make their way through a variety and density of Russian land mines they never imagined.  <a href="https://nyti.ms/44KQTYH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-video-blue" alt="">
+<h3>Satellite Images of Belarusian Base Suggest Wagner’s Possible Arrival</h3>
+<sub>By Christoph Koettl</sub>
+<p>More than a dozen vehicles have arrived at a rapidly built military field camp in Belarus, and video from Russia showed a convoy flying Wagner flags on the move.  <a href="https://nyti.ms/3XWpf9d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>A National Treasure, Tarnished: Can Britain Fix Its Health Service?</h3>
@@ -120,22 +110,28 @@ Europe is also having a heat wave that is only going to get worse over the comin
 <p>As it turns 75, the N.H.S., a proud symbol of Britain’s welfare state, is in the deepest crisis of its history.  <a href="https://nyti.ms/3JVigHt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden, With Sluggish Small Donations, Waits for Liberal Energy to Rise</h3>
-<sub>By Reid J. Epstein</sub>
-<p>Wealthy Democrats have thrown their money behind the president’s re-election bid, but for many reasons, the party’s small donors have yet to step up their contributions.  <a href="https://nyti.ms/44oAlpG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis Sheds Staff Amid Heavy Spending</h3>
-<sub>By Maggie Haberman and Rebecca Davis O’Brien</sub>
-<p>The dismissals come as his campaign for the Republican nomination for president struggles to gain traction against former President Donald J. Trump, who is leading in polls.  <a href="https://nyti.ms/3DkDjQ0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 15, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Alcaraz Wins Wimbledon in a Thrilling Comeback Against Djokovic</h3>
 <sub>By Matthew Futterman</sub>
 <p>Carlos Alcaraz won his first Wimbledon title and left Novak Djokovic, the overwhelming favorite, with his first finals loss at the All England Club in a decade.  <a href="https://nyti.ms/3pYHVZ4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Carlos Alcaraz Shows Novak Djokovic That His Championships Are Numbered</h3>
+<sub>By David Waldstein</sub>
+<p>Djokovic had won the past three Grand Slams he played in to reach 23 major titles, but Alcaraz, Wimbledon’s newest singles champion, proved on Sunday he is not invincible.  <a href="https://nyti.ms/3pHiMCo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>As Climate Shocks Multiply, Designers Seek Holy Grail: Disaster-Proof Homes</h3>
+<sub>By Christopher Flavelle</sub>
+<p>The homebuilding industry has been slow to adopt changes that can better protect against extreme weather. Some architects are showing what’s possible.  <a href="https://nyti.ms/3pOHrVo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Jane Birkin, Singer, Actress and Fashion Inspiration, Dies at 76</h3>
+<sub>By Constant Méheut and Alex Traub</sub>
+<p>She was a lithe beauty of 1960s European film, a famous musical collaborator and lover of Serge Gainsbourg, and the namesake of elegant Hermès handbags.  <a href="https://nyti.ms/3DeYhQn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
