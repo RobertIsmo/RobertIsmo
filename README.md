@@ -60,30 +60,36 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, July 17, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In Russia, the Kremlin recently pulled out of a black sea grain deal that was seen as essential to stabilizing global food prices. Israel&#39;s president is visiting the White House, which highlights tensions between President Biden and Prime Minister Netanyahu. There is also controversy in Israel about proposed changes to the Supreme Court’s power. Here in the US, allies of former President Trump are planning to increase presidential power by 2025. Also, President Eric Adams has appointed Edward Caban as the first Latino Police Commissioner of New York City&#39;s police department. Meanwhile, China&#39;s economy has been struggling and its foreign minister has not made a public appearance for three weeks.  Finally, Wang Ping recently rowed down river where she writes her poetic verses.</p>
+Right now, tension between the U.S. and Israel seems to be easing with Biden having invited Netanyahu to a visit. There are plans in Israel to reduce the power of the Supreme Court and that could be voted on soon. Here in the U.S., Trump and his allies are working on plans to increase presidential power come 2025 and Republican presidential candidate Ramaswamy is looking to highlight conservative views through Supreme Court nominees. Meanwhile, Canadian wildfires have blanketed several states with smoke pollution, causing dangerous air quality levels in some areas, while a heat wave is also persisting in the South and West. Lastly, Edward Caban has just become the first Latino Police Commissioner of New York City.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia Pulls Out of the Black Sea Grain Deal</h3>
-<sub>By Matthew Mpoke Bigg and Ivan Nechepurenko</sub>
-<p>The Kremlin terminated an agreement that had allowed Ukraine to export its grain by sea despite a wartime blockade, a deal seen as essential to keeping global food prices stable.  <a href="https://nyti.ms/3pPPelQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>What We Know About the Attack on the Crimean Bridge</h3>
-<sub>By Matthew Mpoke Bigg</sub>
-<p>Monday’s strike was the second in less than a year to target the Kerch Strait Bridge, which holds strategic and symbolic importance for Russia.  <a href="https://nyti.ms/3rBHSTr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israeli President to Visit White House</h3>
-<sub>By Patrick Kingsley</sub>
-<p>The visit by President Isaac Herzog of Israel seemed to underscore tensions between Mr. Biden and Prime Minister Benjamin Netanyahu, until Mr. Netanyahu said he had also been invited to the White House in the future.  <a href="https://nyti.ms/3OsdrIJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Biden Invites Netanyahu to U.S., Easing Tensions</h3>
+<sub>By Patrick Kingsley and Michael D. Shear</sub>
+<p>President Isaac Herzog will meet with President Biden this week and address Congress. And Prime Minister Benjamin Netanyahu said he also got a presidential invitation.  <a href="https://nyti.ms/3OsdrIJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>What’s Next for Israel’s Judicial Overhaul?</h3>
 <sub>By Isabel Kershner and Patrick Kingsley</sub>
 <p>Israeli lawmakers are advancing parts of a contentious plan by the right-wing government to reduce the power of the Supreme Court. A final vote is expected by early next week.  <a href="https://nyti.ms/3Y2i8vN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Jerome Powell’s Prized Labor Market Is Back. Can He Keep It?</h3>
+<sub>By Jeanna Smialek</sub>
+<p>The Federal Reserve chair spent the early pandemic bemoaning the loss of a strong job market. It roared back — and now its fate is in his hands.  <a href="https://nyti.ms/3pOZ8Ev"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>At the Met, She Holds Court. At Home, She Held 71 Looted Antiquities.</h3>
+<sub>By Graham Bowley and Tom Mashberg</sub>
+<p>Shelby White has given the museum generous gifts and 33 years of service as a trustee. But investigators recently seized many of her ancient artifacts, including 17 that were on loan to the Met.  <a href="https://nyti.ms/46JPR0W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russia Stops Ukraine Grain Deal, Shaking World Food Markets</h3>
+<sub>By Matthew Mpoke Bigg, Ivan Nechepurenko, Liz Alderman and Farnaz Fassihi</sub>
+<p>Moscow, which has repeatedly complained that the U.N.-brokered agreement is one-sided in Ukraine’s favor, said it could return to the deal if its demands were met.  <a href="https://nyti.ms/3Dj88Vt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -98,40 +104,34 @@ There is a lot going on in the world right now. In Russia, the Kremlin recently 
 <p>The long-shot Republican presidential candidate is releasing a list of potential justices to highlight his bona fides with key voters.  <a href="https://nyti.ms/43zKYVj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>At the Met, She Holds Court. At Home, She Held 71 Looted Antiquities.</h3>
-<sub>By Graham Bowley and Tom Mashberg</sub>
-<p>Shelby White has given the museum generous gifts and 33 years of service as a trustee. But investigators recently seized many of her ancient artifacts, including 17 that were on loan to the Met.  <a href="https://nyti.ms/46JPR0W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Edward Caban Becomes First Latino Police Commissioner in New York</h3>
-<sub>By Maria Cramer, Hurubie Meko and William K. Rashbaum</sub>
-<p>Mayor Eric Adams named Mr. Caban as the 46th commissioner of the New York Police Department. He follows Keechant Sewell, who resigned after 18 months.  <a href="https://nyti.ms/3Q07NyD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>At N.Y.C. Police Union, Will the New Leader Be a Lot Like the Old One?</h3>
-<sub>By Chelsia Rose Marcius</sub>
-<p>Patrick Hendry, a reserved, behind-the-scenes power, is succeeding the fiery Patrick Lynch, who ran the Police Benevolent Association at top volume.  <a href="https://nyti.ms/46SBNST"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>One Reason China Is Willing to Engage Again: Its Troubled Economy</h3>
-<sub>By Keith Bradsher</sub>
-<p>China was on track to recover after closing itself off during the pandemic. Now the country’s growth is staggering and Beijing is signaling it is open to talking.  <a href="https://nyti.ms/46UO6OL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Where Is China’s Foreign Minister? Beijing Won’t Clear Up the Mystery.</h3>
-<sub>By Chris Buckley and David Pierson</sub>
-<p>Qin Gang has not made a public appearance in three weeks. The Communist Party’s habitual secrecy around top officials has fueled speculation over the reasons for his absence.  <a href="https://nyti.ms/3pVv0ak"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 17, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>A Long, Shining River of Verse, Flowing From a Rower and Writer</h3>
 <sub>By John Branch and Adam Stoltman</sub>
 <p>Spend a day on the water with Wang Ping and you will discover a source of her poetry.  <a href="https://nyti.ms/43w9pmJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Smoke Pollution From Canadian Wildfires Blankets U.S. Cities, Again</h3>
+<sub>By Christine Hauser and Claire Moses</sub>
+<p>Wildfires in western Canada are expected to create smoky conditions in the United States this week. Parts of the U.S. had unhealthy air in June from wildfires in other parts of Canada.  <a href="https://nyti.ms/3pO901h"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Maps: Tracking Air Quality and Smoke From Wildfires</h3>
+<sub>By Madison Dong, Bea Malsky, Lazaro Gamio, Matthew Bloch, Scott Reinhard, Leanne Abraham, Martín González Gómez, Judson Jones, John-Michael Murphy and Marco Hernandez</sub>
+<p>See maps of where smoke is traveling and how harmful the air has become.  <a href="https://nyti.ms/3CfwHlB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Dangerous Heat Wave Continues to Batter the South and West</h3>
+<sub>By Claire Moses and Johnny Diaz</sub>
+<p>Tens of millions of people face dangerous levels of heat as record-breaking temperatures are expected this week from Texas to the lower Mississippi Valley, forecasters said.  <a href="https://nyti.ms/3pPOfCa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Edward Caban Becomes First Latino Police Commissioner in New York</h3>
+<sub>By Maria Cramer and Karen Zraick</sub>
+<p>Mayor Eric Adams named Mr. Caban as the 46th commissioner of the New York Police Department. He follows Keechant Sewell, who resigned after 18 months.  <a href="https://nyti.ms/3Q07NyD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 17, Central Standard Time</sub></sub>
 <hr/>
 </ol>
