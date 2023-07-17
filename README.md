@@ -60,11 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, July 17, Central Standard Time</p>
 <p>
-Things have been quite busy lately in the world! In Russia, they&#39;ve decided to pull out of a grain deal with Ukraine, so that could cause problems with food stability. Meanwhile, many towns in Ukraine are doing their part to support the war effort. In politics, Trump and his allies are planning to increase presidential power in 2025 and the US is keeping track of which candidates have raised the most money for 2024. 
-
-Speaking of 2024, Hollywood is having some issues with labor strikes that could affect the box office and fall broadcast lineup. China&#39;s economy has been faltering which poses a major challenge for global growth... people in France have been rioting to call attention to the longstanding issues between police and ethnic minorities. There&#39;s also wildfire smoke from Canada that&#39;s come back to parts of the US. 
-
-Finally, there was an interesting interview with Joyce Carol Oates talking about how one can achieve immortality while Democrats are pushing for new Supreme Court ethics rules despite Republican opposition.</p>
+There is a lot going on in the world right now. In Russia, the Kremlin has suspended its participation in a major grain deal with Ukraine that could affect global food prices. Also, there have been two attacks on the Crimean Bridge which holds strategic and symbolic importance for Russia. In the US, former President Trump and his allies are planning to increase presidential power in 2025, and we are already thinking ahead to the 2024 presidential race and who is leading in terms of campaign cash. There are labor strikes looming around the world that could disrupt entertainment industries and box offices, and China&#39;s economy has been staggering lately causing Beijing to be open to communication. The US&#39;s Secretary of State, John Kerry, recently visited Beijing to discuss Climate Change. In France there have been riots in response to police enforcement violence. On a brighter note, Joyce Carol Oates was quoted discussing achieving immortality through ephemeral ideas. Lastly, New York City appointed Edward Caban as their first Latino Police Commissioner, and Patrick Hendry is taking over as head of the Police Benevolent Association following Patrick Lynch&#39;s departure.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Russia Pulls Out of the Black Sea Grain Deal</h3>
@@ -73,9 +69,9 @@ Finally, there was an interesting interview with Joyce Carol Oates talking about
 <sub><sub>Monday, July 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Far From the Front, They Stand in Honor of Ukraine</h3>
-<sub>By Jeffrey Gettleman and Finbarr O’Reilly</sub>
-<p>The city of Chernivtsi in western Ukraine has been spared the mayhem of the Russian invasion. But like other towns in the region, it is doing its part, and has become, in effect, a back office of the war effort.  <a href="https://nyti.ms/46Pnw9D"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>What We Know About the Attack on the Crimean Bridge</h3>
+<sub>By Matthew Mpoke Bigg</sub>
+<p>Monday’s strike was the second in less than a year to target the Kerch Strait Bridge, which holds strategic and symbolic importance for Russia.  <a href="https://nyti.ms/3rBHSTr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -102,16 +98,16 @@ Finally, there was an interesting interview with Joyce Carol Oates talking about
 <p>China was on track to recover after closing itself off during the pandemic. Now the country’s growth is staggering and Beijing is signaling it is open to talking.  <a href="https://nyti.ms/46UO6OL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>China’s Rebound Falters, Tripped Up by Debt and Weak Exports</h3>
-<sub>By Keith Bradsher</sub>
-<p>Government data shows gross domestic product growth slowed in the second quarter from earlier in the year, even though it rose over the same period in 2022.  <a href="https://nyti.ms/3PT9r50"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 16, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Where Is China’s Foreign Minister? Beijing Won’t Clear Up the Mystery.</h3>
+<sub>By Chris Buckley and David Pierson</sub>
+<p>Qin Gang has not made a public appearance in three weeks. The Communist Party’s habitual secrecy around top officials has fueled speculation over the reasons for his absence.  <a href="https://nyti.ms/3pVv0ak"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>China’s Economy is Stuttering, Posing a Challenge for Global Growth</h3>
-<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
-<p>New data published on Monday shows a post-pandemic recovery has not materialized after restrictions were lifted last year.  <a href="https://nyti.ms/43ykWBU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Kerry Says U.S. and China Must Set Aside Politics to Tackle Climate Change</h3>
+<sub>By Lisa Friedman</sub>
+<p>John Kerry, President Biden’s climate envoy, is in Beijing for three days of talks between the world’s largest emitters of greenhouse gas pollution.  <a href="https://nyti.ms/3PZZaUx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -126,16 +122,16 @@ Finally, there was an interesting interview with Joyce Carol Oates talking about
 <p>“Everything that you think is solid,” says the celebrated writer, “is actually fleeting and ephemeral.”  <a href="https://nyti.ms/3pOHrES"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Democrats to Press Supreme Court Ethics Rules Over G.O.P. Opposition</h3>
-<sub>By Carl Hulse</sub>
-<p>The Senate Judiciary Committee is slated to approve new disclosure requirements, although the legislation is unlikely to advance.  <a href="https://nyti.ms/3NTGnHN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Edward Caban Becomes First Latino Police Commissioner in New York</h3>
+<sub>By Maria Cramer, Hurubie Meko and William K. Rashbaum</sub>
+<p>Mayor Eric Adams named Mr. Caban as the 46th commissioner of the New York Police Department. He follows Keechant Sewell, who resigned after 18 months.  <a href="https://nyti.ms/3Q07NyD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Smoke Pollution From Canadian Wildfires Returns to Parts of U.S.</h3>
-<sub>By Claire Moses</sub>
-<p>Wildfires in western Canada are expected to create smoky conditions in the United States again this week.  <a href="https://nyti.ms/3pO901h"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>At N.Y.C. Police Union, Will the New Leader Be a Lot Like the Old One?</h3>
+<sub>By Chelsia Rose Marcius</sub>
+<p>Patrick Hendry, a reserved, behind-the-scenes power, is succeeding fiery Patrick Lynch, who ran the Police Benevolent Association at top volume.  <a href="https://nyti.ms/46SBNST"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 17, Central Standard Time</sub></sub>
 <hr/>
 </ol>
