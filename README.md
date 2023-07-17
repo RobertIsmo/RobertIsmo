@@ -60,79 +60,83 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, July 17, Central Standard Time</p>
 <p>
-Right now the world is facing some massive changes - both socially and environmentally. We&#39;re seeing a demographic shift that will reshape how powerful countries have operated for decades, as more and more of their workforce retires. In Ukraine, counteroffensives against Russia have been stymied by hidden land mines. The movement of troops on the Belarusian border is being monitored as Russia flags suggest an arrival of Wagner forces. Meanwhile, in the U.S., President Biden has completed a review of documents relating to the assassination of John F Kennedy - although there are still many that remain redacted. Flash flooding in the suburbs of Philadelphia has brought about devastating consequences, while firefighters in Phoenix are working to combat yet another invisible inferno during a record-breaking heatwave. Finally, Britain&#39;s National Health Service is going through its deepest crisis yet - as it celebrates its 75th year running. On a lighter note, Carlos Alcaraz has won Wimbledon, a victory that proves Novak Djokovic&#39;s reign as champ isn&#39;t invincible; with architects bringing forth more disaster-proof homes, and Jane Birkin being remembered for her life-long influence in music, acting and fashion.</p>
+Things have been quite busy lately in the world! In Russia, they&#39;ve decided to pull out of a grain deal with Ukraine, so that could cause problems with food stability. Meanwhile, many towns in Ukraine are doing their part to support the war effort. In politics, Trump and his allies are planning to increase presidential power in 2025 and the US is keeping track of which candidates have raised the most money for 2024. 
+
+Speaking of 2024, Hollywood is having some issues with labor strikes that could affect the box office and fall broadcast lineup. China&#39;s economy has been faltering which poses a major challenge for global growth... people in France have been rioting to call attention to the longstanding issues between police and ethnic minorities. There&#39;s also wildfire smoke from Canada that&#39;s come back to parts of the US. 
+
+Finally, there was an interesting interview with Joyce Carol Oates talking about how one can achieve immortality while Democrats are pushing for new Supreme Court ethics rules despite Republican opposition.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>How a Vast Demographic Shift Will Reshape the World</h3>
-<sub>By Lauren Leatherby</sub>
-<p>The most powerful countries have benefited from large work forces for decades. What happens when they retire?  <a href="https://nyti.ms/3rwNrTp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>In Gilgo Beach Killings, an Arrest Bears Out a Decade-Old Prediction</h3>
-<sub>By Hurubie Meko and Erin Nolan</sub>
-<p>In 2011, experts made a list of characteristics they predicted the suspect would have. The man charged in three of the killings checks many of those boxes.  <a href="https://nyti.ms/3rwFIEV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 16, Central Standard Time</sub></sub>
+<h3>Russia Pulls Out of the Black Sea Grain Deal</h3>
+<sub>By Matthew Mpoke Bigg, Daniel Victor and Ivan Nechepurenko</sub>
+<p>The Kremlin paused its participation in an agreement that allowed Ukraine to export its grain by sea despite a wartime blockade, a deal seen as essential to keeping global food prices stable.  <a href="https://nyti.ms/3pPPelQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Small, Hidden and Deadly: Mines Stymie Ukraine’s Counteroffensive</h3>
-<sub>By Andrew E. Kramer</sub>
-<p>To gain ground, Ukrainian forces have to make their way through a variety and density of Russian land mines they never imagined.  <a href="https://nyti.ms/44KQTYH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-video-blue" alt="">
-<h3>Satellite Images of Belarusian Base Suggest Wagner’s Possible Arrival</h3>
-<sub>By Christoph Koettl</sub>
-<p>More than a dozen vehicles have arrived at a rapidly built military field camp in Belarus, and video from Russia showed a convoy flying Wagner flags on the move.  <a href="https://nyti.ms/3XWpf9d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 16, Central Standard Time</sub></sub>
+<h3>Far From the Front, They Stand in Honor of Ukraine</h3>
+<sub>By Jeffrey Gettleman and Finbarr O’Reilly</sub>
+<p>The city of Chernivtsi in western Ukraine has been spared the mayhem of the Russian invasion. But like other towns in the region, it is doing its part, and has become, in effect, a back office of the war effort.  <a href="https://nyti.ms/46Pnw9D"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden’s ‘Final’ Order on Kennedy Files Leaves Some Still Wanting More</h3>
-<sub>By Peter Baker</sub>
-<p>The president has finished a review first mandated by law in 1992, and while a vast majority of papers related to the assassination of President John F. Kennedy have been released, some remain redacted.  <a href="https://nyti.ms/3rqhD2h"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 16, Central Standard Time</sub></sub>
+<h3>Trump and Allies Forge Plans to Increase Presidential Power in 2025</h3>
+<sub>By Jonathan Swan, Charlie Savage and Maggie Haberman</sub>
+<p>The former president and his backers aim to strengthen the power of the White House and limit the independence of federal agencies.  <a href="https://nyti.ms/46SBLKL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Five Dead in Flash Flooding in Philadelphia Suburbs</h3>
-<sub>By Anna Betts and Elise Young</sub>
-<p>Sudden, torrential rains struck areas in Bucks County, Pa., trapping people in their cars. Much of the Northeast was experiencing periods of heavy rainfall.  <a href="https://nyti.ms/3JZSaDi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Which Presidential Candidates Are Leading the 2024 Money Race?</h3>
+<sub>By Molly Cook Escobar, Rachel Shorey, Charlie Smart and Christine Zhang</sub>
+<p>See who has amassed the most campaign cash so far.  <a href="https://nyti.ms/3ruNijk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Phoenix, Firefighters Battle an Invisible Inferno</h3>
-<sub>By Jack Healy</sub>
-<p>A two-week stretch of 110-degree days sends the fire department scrambling to rescue people overcome by heat, and tests a force already accustomed to tough summers.  <a href="https://nyti.ms/46TZnyA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Labor Day Looms as Crisis Point in Hollywood Stalemate</h3>
+<sub>By Benjamin Mullin, Brooks Barnes and Nicole Sperling</sub>
+<p>Ongoing strikes could disrupt the entertainment industry in fundamental ways, putting the 2024 box office and the fall broadcast lineup in jeopardy.  <a href="https://nyti.ms/46SBMhN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>One Reason China Is Willing to Engage Again: Its Troubled Economy</h3>
+<sub>By Keith Bradsher</sub>
+<p>China was on track to recover after closing itself off during the pandemic. Now the country’s growth is staggering and Beijing is signaling it is open to talking.  <a href="https://nyti.ms/46UO6OL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>China’s Rebound Falters, Tripped Up by Debt and Weak Exports</h3>
+<sub>By Keith Bradsher</sub>
+<p>Government data shows gross domestic product growth slowed in the second quarter from earlier in the year, even though it rose over the same period in 2022.  <a href="https://nyti.ms/3PT9r50"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>China’s Economy is Stuttering, Posing a Challenge for Global Growth</h3>
+<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
+<p>New data published on Monday shows a post-pandemic recovery has not materialized after restrictions were lifted last year.  <a href="https://nyti.ms/43ykWBU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A National Treasure, Tarnished: Can Britain Fix Its Health Service?</h3>
-<sub>By Mark Landler</sub>
-<p>As it turns 75, the N.H.S., a proud symbol of Britain’s welfare state, is in the deepest crisis of its history.  <a href="https://nyti.ms/3JVigHt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 15, Central Standard Time</sub></sub>
+<h3>Riots in France Highlight a Vicious Cycle Between Police and Minorities</h3>
+<sub>By Catherine Porter and Constant Méheut</sub>
+<p>Calls to overhaul the police go back decades. But violent episodes of police enforcement continue. So do violent outpourings on the street.  <a href="https://nyti.ms/43smJbM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Alcaraz Wins Wimbledon in a Thrilling Comeback Against Djokovic</h3>
-<sub>By Matthew Futterman</sub>
-<p>Carlos Alcaraz won his first Wimbledon title and left Novak Djokovic, the overwhelming favorite, with his first finals loss at the All England Club in a decade.  <a href="https://nyti.ms/3pYHVZ4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Joyce Carol Oates Figured Out the Secret to Immortality</h3>
+<sub></sub>
+<p>“Everything that you think is solid,” says the celebrated writer, “is actually fleeting and ephemeral.”  <a href="https://nyti.ms/3pOHrES"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Carlos Alcaraz Shows Novak Djokovic That His Championships Are Numbered</h3>
-<sub>By David Waldstein</sub>
-<p>Djokovic had won the past three Grand Slams he played in to reach 23 major titles, but Alcaraz, Wimbledon’s newest singles champion, proved on Sunday he is not invincible.  <a href="https://nyti.ms/3pHiMCo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 16, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Democrats to Press Supreme Court Ethics Rules Over G.O.P. Opposition</h3>
+<sub>By Carl Hulse</sub>
+<p>The Senate Judiciary Committee is slated to approve new disclosure requirements, although the legislation is unlikely to advance.  <a href="https://nyti.ms/3NTGnHN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>As Climate Shocks Multiply, Designers Seek Holy Grail: Disaster-Proof Homes</h3>
-<sub>By Christopher Flavelle</sub>
-<p>The homebuilding industry has been slow to adopt changes that can better protect against extreme weather. Some architects are showing what’s possible.  <a href="https://nyti.ms/3pOHrVo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Jane Birkin, Singer, Actress and Fashion Inspiration, Dies at 76</h3>
-<sub>By Constant Méheut and Alex Traub</sub>
-<p>She was a lithe beauty of 1960s European film, a famous musical collaborator and lover of Serge Gainsbourg, and the namesake of elegant Hermès handbags.  <a href="https://nyti.ms/3DeYhQn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 16, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Smoke Pollution From Canadian Wildfires Returns to Parts of U.S.</h3>
+<sub>By Claire Moses</sub>
+<p>Wildfires in western Canada are expected to create smoky conditions in the United States again this week.  <a href="https://nyti.ms/3pO901h"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 17, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
