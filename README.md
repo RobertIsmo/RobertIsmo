@@ -60,18 +60,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, July 17, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In Russia, the Kremlin has suspended its participation in a major grain deal with Ukraine that could affect global food prices. Also, there have been two attacks on the Crimean Bridge which holds strategic and symbolic importance for Russia. In the US, former President Trump and his allies are planning to increase presidential power in 2025, and we are already thinking ahead to the 2024 presidential race and who is leading in terms of campaign cash. There are labor strikes looming around the world that could disrupt entertainment industries and box offices, and China&#39;s economy has been staggering lately causing Beijing to be open to communication. The US&#39;s Secretary of State, John Kerry, recently visited Beijing to discuss Climate Change. In France there have been riots in response to police enforcement violence. On a brighter note, Joyce Carol Oates was quoted discussing achieving immortality through ephemeral ideas. Lastly, New York City appointed Edward Caban as their first Latino Police Commissioner, and Patrick Hendry is taking over as head of the Police Benevolent Association following Patrick Lynch&#39;s departure.</p>
+There is a lot going on in the world right now. In Russia, the Kremlin recently pulled out of a black sea grain deal that was seen as essential to stabilizing global food prices. Israel&#39;s president is visiting the White House, which highlights tensions between President Biden and Prime Minister Netanyahu. There is also controversy in Israel about proposed changes to the Supreme Court’s power. Here in the US, allies of former President Trump are planning to increase presidential power by 2025. Also, President Eric Adams has appointed Edward Caban as the first Latino Police Commissioner of New York City&#39;s police department. Meanwhile, China&#39;s economy has been struggling and its foreign minister has not made a public appearance for three weeks.  Finally, Wang Ping recently rowed down river where she writes her poetic verses.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Russia Pulls Out of the Black Sea Grain Deal</h3>
-<sub>By Matthew Mpoke Bigg, Daniel Victor and Ivan Nechepurenko</sub>
-<p>The Kremlin paused its participation in an agreement that allowed Ukraine to export its grain by sea despite a wartime blockade, a deal seen as essential to keeping global food prices stable.  <a href="https://nyti.ms/3pPPelQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub>By Matthew Mpoke Bigg and Ivan Nechepurenko</sub>
+<p>The Kremlin terminated an agreement that had allowed Ukraine to export its grain by sea despite a wartime blockade, a deal seen as essential to keeping global food prices stable.  <a href="https://nyti.ms/3pPPelQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>What We Know About the Attack on the Crimean Bridge</h3>
 <sub>By Matthew Mpoke Bigg</sub>
 <p>Monday’s strike was the second in less than a year to target the Kerch Strait Bridge, which holds strategic and symbolic importance for Russia.  <a href="https://nyti.ms/3rBHSTr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Israeli President to Visit White House</h3>
+<sub>By Patrick Kingsley</sub>
+<p>The visit by President Isaac Herzog of Israel seemed to underscore tensions between Mr. Biden and Prime Minister Benjamin Netanyahu, until Mr. Netanyahu said he had also been invited to the White House in the future.  <a href="https://nyti.ms/3OsdrIJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>What’s Next for Israel’s Judicial Overhaul?</h3>
+<sub>By Isabel Kershner and Patrick Kingsley</sub>
+<p>Israeli lawmakers are advancing parts of a contentious plan by the right-wing government to reduce the power of the Supreme Court. A final vote is expected by early next week.  <a href="https://nyti.ms/3Y2i8vN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -81,15 +93,27 @@ There is a lot going on in the world right now. In Russia, the Kremlin has suspe
 <sub><sub>Monday, July 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Which Presidential Candidates Are Leading the 2024 Money Race?</h3>
-<sub>By Molly Cook Escobar, Rachel Shorey, Charlie Smart and Christine Zhang</sub>
-<p>See who has amassed the most campaign cash so far.  <a href="https://nyti.ms/3ruNijk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 16, Central Standard Time</sub></sub>
+<h3>Ramaswamy Looks to Supreme Court in Effort to Appeal to Conservatives</h3>
+<sub>By Maggie Haberman</sub>
+<p>The long-shot Republican presidential candidate is releasing a list of potential justices to highlight his bona fides with key voters.  <a href="https://nyti.ms/43zKYVj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Labor Day Looms as Crisis Point in Hollywood Stalemate</h3>
-<sub>By Benjamin Mullin, Brooks Barnes and Nicole Sperling</sub>
-<p>Ongoing strikes could disrupt the entertainment industry in fundamental ways, putting the 2024 box office and the fall broadcast lineup in jeopardy.  <a href="https://nyti.ms/46SBMhN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>At the Met, She Holds Court. At Home, She Held 71 Looted Antiquities.</h3>
+<sub>By Graham Bowley and Tom Mashberg</sub>
+<p>Shelby White has given the museum generous gifts and 33 years of service as a trustee. But investigators recently seized many of her ancient artifacts, including 17 that were on loan to the Met.  <a href="https://nyti.ms/46JPR0W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Edward Caban Becomes First Latino Police Commissioner in New York</h3>
+<sub>By Maria Cramer, Hurubie Meko and William K. Rashbaum</sub>
+<p>Mayor Eric Adams named Mr. Caban as the 46th commissioner of the New York Police Department. He follows Keechant Sewell, who resigned after 18 months.  <a href="https://nyti.ms/3Q07NyD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>At N.Y.C. Police Union, Will the New Leader Be a Lot Like the Old One?</h3>
+<sub>By Chelsia Rose Marcius</sub>
+<p>Patrick Hendry, a reserved, behind-the-scenes power, is succeeding the fiery Patrick Lynch, who ran the Police Benevolent Association at top volume.  <a href="https://nyti.ms/46SBNST"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -104,34 +128,10 @@ There is a lot going on in the world right now. In Russia, the Kremlin has suspe
 <p>Qin Gang has not made a public appearance in three weeks. The Communist Party’s habitual secrecy around top officials has fueled speculation over the reasons for his absence.  <a href="https://nyti.ms/3pVv0ak"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Kerry Says U.S. and China Must Set Aside Politics to Tackle Climate Change</h3>
-<sub>By Lisa Friedman</sub>
-<p>John Kerry, President Biden’s climate envoy, is in Beijing for three days of talks between the world’s largest emitters of greenhouse gas pollution.  <a href="https://nyti.ms/3PZZaUx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Riots in France Highlight a Vicious Cycle Between Police and Minorities</h3>
-<sub>By Catherine Porter and Constant Méheut</sub>
-<p>Calls to overhaul the police go back decades. But violent episodes of police enforcement continue. So do violent outpourings on the street.  <a href="https://nyti.ms/43smJbM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Joyce Carol Oates Figured Out the Secret to Immortality</h3>
-<sub></sub>
-<p>“Everything that you think is solid,” says the celebrated writer, “is actually fleeting and ephemeral.”  <a href="https://nyti.ms/3pOHrES"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Edward Caban Becomes First Latino Police Commissioner in New York</h3>
-<sub>By Maria Cramer, Hurubie Meko and William K. Rashbaum</sub>
-<p>Mayor Eric Adams named Mr. Caban as the 46th commissioner of the New York Police Department. He follows Keechant Sewell, who resigned after 18 months.  <a href="https://nyti.ms/3Q07NyD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>At N.Y.C. Police Union, Will the New Leader Be a Lot Like the Old One?</h3>
-<sub>By Chelsia Rose Marcius</sub>
-<p>Patrick Hendry, a reserved, behind-the-scenes power, is succeeding fiery Patrick Lynch, who ran the Police Benevolent Association at top volume.  <a href="https://nyti.ms/46SBNST"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>A Long, Shining River of Verse, Flowing From a Rower and Writer</h3>
+<sub>By John Branch and Adam Stoltman</sub>
+<p>Spend a day on the water with Wang Ping and you will discover a source of her poetry.  <a href="https://nyti.ms/43w9pmJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 17, Central Standard Time</sub></sub>
 <hr/>
 </ol>
