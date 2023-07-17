@@ -58,15 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Sunday, July 16, Central Standard Time</p>
+<p>It is Monday, July 17, Central Standard Time</p>
 <p>
-There are a lot of changes happening around the world right now. In particular, huge demographic shifts that are reshaping the global landscape and altering power dynamics.  Additionally, experts in the US made some predictions more than a decade ago about the serial killer case in Gilgo Beach, NY, and an arrest has now borne out those predictions.  
-
-In the US, President Biden has finished his review on the Kennedy Files and while many documents have been released there are still some that remain redacted. There have also been flash flooding and dangerous heat waves recently in various parts of the country. In Ukraine there is a massive landmine issue making it difficult for counteroffensives. 
-
-On another note, there has been an increase in activity at a newly built military field camp in Belarus as well as evidence of Wagner&#39;s presence there. In Britain, the National Health Service (NHS) is facing its deepest crisis in its 75-year history. As far as sports go, Carlos Alcaraz won a thrilling come-back against Novak Djokovic at Wimbledon over the weekend, showing that while his dominance is undeniable, he can still be challenged. 
-
-Finally, architects are beginning to look into creating disaster-proof homes to protect against climate shocks like extreme weather, while fashion icon Jane Birkin passed away recently at 76.</p>
+There are huge demographic shifts happening around the world that could drastically reshape countries that have long relied on large workforces. In NY, there has been an arrest made in a decade old series of killings that oddly matches characteristics predicted in 2011. Ukraine is facing a deadly conflict with an abundance of Russian land mines. There are also new developments in Belarus that point to the presence of Wagner forces. Back in the US, Biden has released the remainder of Kennedy-related files but there are still many redacted items. Flash flooding in Philadelphia suburbs over the weekend caused several deaths. Firefighters in Phoenix are working hard to protect citizens from dangerous heat waves. Over in England, the nation&#39;s health service is seeing one of its worst crises since its founding 75 years ago. In sports news, Carlos Alcaraz pulled off an incredible comeback against Novak Djokovic at Wimbledon as Djokovic experiences his first loss in 10 years at the All England Club. As concerns over climate change rise, designer&#39;s increasingly seek ways to create homes that can survive natural disasters. Finally, renowned singer and actress Jane Birkin passed away at 76 years old, leaving behind an impressive legacy and her name being immortalized for the widely famous Hermès Birkin bag.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>How a Vast Demographic Shift Will Reshape the World</h3>
@@ -78,6 +72,18 @@ Finally, architects are beginning to look into creating disaster-proof homes to 
 <h3>In Gilgo Beach Killings, an Arrest Bears Out a Decade-Old Prediction</h3>
 <sub>By Hurubie Meko and Erin Nolan</sub>
 <p>In 2011, experts made a list of characteristics they predicted the suspect would have. The man charged in three of the killings checks many of those boxes.  <a href="https://nyti.ms/3rwFIEV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Small, Hidden and Deadly: Mines Stymie Ukraine’s Counteroffensive</h3>
+<sub>By Andrew E. Kramer</sub>
+<p>To gain ground, Ukrainian forces have to make their way through a variety and density of Russian land mines they never imagined.  <a href="https://nyti.ms/44KQTYH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-video-blue" alt="">
+<h3>Satellite Images of Belarusian Base Suggest Wagner’s Possible Arrival</h3>
+<sub>By Christoph Koettl</sub>
+<p>More than a dozen vehicles have arrived at a rapidly built military field camp in Belarus, and video from Russia showed a convoy flying Wagner flags on the move.  <a href="https://nyti.ms/3XWpf9d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -96,18 +102,6 @@ Finally, architects are beginning to look into creating disaster-proof homes to 
 <h3>In Phoenix, Firefighters Battle an Invisible Inferno</h3>
 <sub>By Jack Healy</sub>
 <p>A two-week stretch of 110-degree days sends the fire department scrambling to rescue people overcome by heat, and tests a force already accustomed to tough summers.  <a href="https://nyti.ms/46TZnyA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Small, Hidden and Deadly: Mines Stymie Ukraine’s Counteroffensive</h3>
-<sub>By Andrew E. Kramer</sub>
-<p>To gain ground, Ukrainian forces have to make their way through a variety and density of Russian land mines they never imagined.  <a href="https://nyti.ms/44KQTYH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-video-blue" alt="">
-<h3>Satellite Images of Belarusian Base Suggest Wagner’s Possible Arrival</h3>
-<sub>By Christoph Koettl</sub>
-<p>More than a dozen vehicles have arrived at a rapidly built military field camp in Belarus, and video from Russia showed a convoy flying Wagner flags on the move.  <a href="https://nyti.ms/3XWpf9d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
