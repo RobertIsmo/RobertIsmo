@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Monday, July 17, Central Standard Time</p>
+<p>It is Tuesday, July 18, Central Standard Time</p>
 <p>
-There are a lot of changes happening in the world right now! Biden has extended an invitation to Israeli Prime Minister Netanyahu in an effort to ease tensions between Israel and the US. Congress is divided over Israel, with liberal lawmakers boycotting a speech by Israeli president Isaac Herzog. In addition, Republicans DeSantis, Haley and Pence made speeches criticizing Democrats during a Christians United for Israel Summit. Further abroad, Russia stopped a grain deal with Ukraine which shook world food markets and Russia claims Ukraine was responsible for explosions that damaged a bridge in Crimea. In the US, Trump and his allies are planning to increase presidential power come 2025 while Georgia Supreme Court rejected his efforts to quash an investigation into election interference last year. On a lighter note, Edward Caban has become the first Latino Police Commissioner in New York City and Wang Ping is using her time rowing on the river to inspire some stellar poetry!</p>
+To a close friend, I&#39;d sum up what is happening in the world right now as steadily improving relations between the US and Israel. Biden has invited Israeli Prime Minister Netanyahu to the US to ease tensions, and President Herzog of Israel is visiting the White House soon. At the same time, tensions between Democrats are flaring over Israel, especially amongst progressive members. Republicans have also stepped in to criticize Democrats at the Christians United for Israel Summit. On the economic side, Federal Reserve Chair Jerome Powell is having luck bringing back labor market success while trying to prevent it from weakening again. There are also some issues around antiquities being seized from home collections and a break in grain deals between Russia and Ukraine that is shaking world food markets. Additionally, Trump and allies are looking to increase presidential power in 2025, while here in New York City a federal prosecutor wants to take over Rikers Island jail complex and Edward Caban has become the first Latino Police Commissioner for the NYPD. Iowa has also temporarily suspended its new abortion ban. Lastly, a family of a boat crash victim in Florida has reached a $15 million settlement.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Biden Invites Netanyahu to U.S., Easing Tensions</h3>
@@ -93,12 +93,6 @@ There are a lot of changes happening in the world right now! Biden has extended 
 <sub><sub>Monday, July 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Explosions Damage Crimea Bridge as Russia Blames Ukraine for Attack</h3>
-<sub>By Marc Santora, Neil MacFarquhar and Haley Willis</sub>
-<p>Russia accused Ukraine of hitting the Kerch Strait Bridge for the second time in 10 months, saying that two maritime drones had struck the bridge, an essential supply line for Russian troops.  <a href="https://nyti.ms/44sYqvL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Russia Stops Ukraine Grain Deal, Shaking World Food Markets</h3>
 <sub>By Matthew Mpoke Bigg, Ivan Nechepurenko, Liz Alderman and Farnaz Fassihi</sub>
 <p>Moscow, which has repeatedly complained that the U.N.-brokered agreement is one-sided in Ukraine’s favor, said it could return to the deal if its demands were met.  <a href="https://nyti.ms/3Dj88Vt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -116,12 +110,6 @@ There are a lot of changes happening in the world right now! Biden has extended 
 <p>With indictment decisions imminent, the court refused to scuttle an investigation into whether the former president and his allies interfered in the 2020 election.  <a href="https://nyti.ms/3DfgbTg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>A Long, Shining River of Verse, Flowing From a Rower and Writer</h3>
-<sub>By John Branch and Adam Stoltman</sub>
-<p>Spend a day on the water with Wang Ping and you will discover a source of her poetry.  <a href="https://nyti.ms/43w9pmJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 17, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Federal Prosecutor Urges Takeover of Rikers Island</h3>
 <sub>By Benjamin Weiser and Jonah E. Bromwich</sub>
@@ -132,6 +120,18 @@ There are a lot of changes happening in the world right now! Biden has extended 
 <h3>Edward Caban Becomes First Latino Police Commissioner in New York</h3>
 <sub>By Maria Cramer and Karen Zraick</sub>
 <p>Mayor Eric Adams named Mr. Caban as the 46th commissioner of the New York Police Department. He follows Keechant Sewell, who resigned after 18 months.  <a href="https://nyti.ms/3Q07NyD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Iowa Judge Temporarily Suspends New Abortion Ban</h3>
+<sub>By Colbi Edmonds</sub>
+<p>Judge Joseph Seidlin put a hold on the law, which prohibits abortion after six weeks of pregnancy, days after the governor signed it.  <a href="https://nyti.ms/3NUUWuY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Family of Murdaugh Boat Crash Victim Reaches $15 Million Settlement</h3>
+<sub>By Nicholas Bogel-Burroughs</sub>
+<p>The crash, in which a 19-year-old woman was killed, brought scrutiny to Alex Murdaugh and his family. He was later convicted of murdering his wife and son.  <a href="https://nyti.ms/3q0SOto"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 17, Central Standard Time</sub></sub>
 <hr/>
 </ol>
