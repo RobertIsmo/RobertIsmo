@@ -60,18 +60,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, July 18, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now! The Biden administration recently extended an invitation to Israeli Prime Minister Netanyahu in efforts to promote peace and stability in the region. In Congress, tensions between Democrats over Israeli politics are also on the rise—as protests have swept through Israel in opposition to a controversial legal overhaul proposed by Netanyahu. Turning back to the US, President Trump and his allies are devising plans to increase White House power potentially as far out as 2025. A Georgia Supreme Court ruling denied Trump&#39;s effort to quash a criminal investigation into his role in influencing the 2020 election. Besides national politics, there is a Federal Prosecutor’s call in New York for the takeover of Rikers Island jails while Mayor Eric Adams has appointed the first-ever Latino Police Commissioner of New York City. Lastly, legislators in Iowa passed an abortion ban which has since been temporarily suspended and a family has reached a $15 million settlement for a boat crash in Murdaugh that killed one woman and brought scrutiny against Alex Murdaugh, convicted of killing his own wife and son.</p>
+There is extreme heat in the United States, with temperatures reaching as high as 110 degrees in Phoenix which is set to break a record from half a century ago. Meanwhile, in China, a heat wave is causing temperatures to rise to record highs and is bringing up discussions on climate change between President Biden&#39;s envoy and Beijing officials. In Ukraine, World War II has come onto the battlefield of the current war, as well as an ideological battlefield between those involved. Continuing in the international realm, there have been protests in Israel in opposition to Prime Minister Benjamin Netanyahu&#39;s plans to limit the power of the judiciary. Additionally, tensions between Israel and America have become apparent as President Biden meets with Isaac Herzog and makes declarations of support for Israel. Back in the US, Trump&#39;s legal efforts in Georgia have been blocked while a hearing on secret documents might spark a long battle over classified evidence. Plus, advancements in AI (artificial intelligence) technologies are being used for advertising by some companies while other organizations are wary about it due to its potential consequences.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Phoenix, 18 Days of Extreme Heat With No End in Sight</h3>
+<sub>By Jacey Fortin and Mary Beth Gahan</sub>
+<p>As much of the South bakes, Phoenix is poised to break a record set half a century ago of consecutive days with 110-degree or higher temperatures.  <a href="https://nyti.ms/3DkEDTk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Biden Invites Netanyahu to U.S., Easing Tensions</h3>
-<sub>By Michael D. Shear and Patrick Kingsley</sub>
-<p>The invitation to the Israeli prime minister came on the eve of a visit to the White House by Isaac Herzog, the Israeli president.  <a href="https://nyti.ms/3OsdrIJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 17, Central Standard Time</sub></sub>
+<h3>As China Bakes in Record Heat, Kerry Presses Beijing on Climate Change</h3>
+<sub>By Vivian Wang and Lisa Friedman</sub>
+<p>The extreme heat wave choking China has become a talking point for John Kerry, President Biden’s climate envoy, in his meetings with officials in Beijing.  <a href="https://nyti.ms/43w4CBP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Congress, Democrats’ Rift Over Israel Flares on Eve of Herzog Visit</h3>
-<sub>By Karoun Demirjian</sub>
-<p>After a leading progressive called Israel “a racist state,” Democratic leaders criticized the statement. But a planned boycott of the Israeli president’s speech by liberals underscored tensions.  <a href="https://nyti.ms/3Q1ujH5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Tracking Dangerous Heat in the U.S.</h3>
+<sub>By Matthew Bloch, Lazaro Gamio, Zach Levitt, Eleanor Lutz, Bea Malsky and John-Michael Murphy</sub>
+<p>See detailed maps of the latest heat index forecasts in the United States.  <a href="https://nyti.ms/3calp8v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Current War Collides With the Past: Remnants of World War II in Ukraine</h3>
+<sub>By Andrew E. Kramer</sub>
+<p>World War II has been an ideological battlefield in today’s war in Ukraine, and it is cropping up on the actual battlefield as well.  <a href="https://nyti.ms/3DfsrTM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -80,29 +92,23 @@ There is a lot going on in the world right now! The Biden administration recentl
 <p>Thousands of Israelis blocked roads and demonstrated over Benjamin Netanyahu’s plans to limit the power of the judiciary.  <a href="https://nyti.ms/3OkEs0D"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Jerome Powell’s Prized Labor Market Is Back. Can He Keep It?</h3>
-<sub>By Jeanna Smialek</sub>
-<p>The Federal Reserve chair spent the early pandemic bemoaning the loss of a strong job market. It roared back — and now its fate is in his hands.  <a href="https://nyti.ms/3pOZ8Ev"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>At the Met, She Holds Court. At Home, She Held 71 Looted Antiquities.</h3>
-<sub>By Graham Bowley and Tom Mashberg</sub>
-<p>Shelby White has given the museum generous gifts and 33 years of service as a trustee. But investigators recently seized many of her ancient artifacts, including 17 that were on loan to the Met.  <a href="https://nyti.ms/46JPR0W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia Stops Ukraine Grain Deal, Shaking World Food Markets</h3>
-<sub>By Matthew Mpoke Bigg, Ivan Nechepurenko, Liz Alderman and Farnaz Fassihi</sub>
-<p>Moscow, which has repeatedly complained that the U.N.-brokered agreement is one-sided in Ukraine’s favor, said it could return to the deal if its demands were met.  <a href="https://nyti.ms/3Dj88Vt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Congress, Democrats’ Rift Over Israel Flares on Eve of Herzog Visit</h3>
+<sub>By Karoun Demirjian</sub>
+<p>After a leading progressive called Israel “a racist state,” Democratic leaders criticized the statement. But a planned boycott of the Israeli president’s speech by liberals underscored tensions.  <a href="https://nyti.ms/3Q1ujH5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump and Allies Forge Plans to Increase Presidential Power in 2025</h3>
-<sub>By Jonathan Swan, Charlie Savage and Maggie Haberman</sub>
-<p>The former president and his backers aim to strengthen the power of the White House and limit the independence of federal agencies.  <a href="https://nyti.ms/46SBLKL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 17, Central Standard Time</sub></sub>
+<h3>Israeli President to Meet With Biden Amid U.S. Unease With Netanyahu</h3>
+<sub>By Michael D. Shear</sub>
+<p>President Biden’s meeting with Isaac Herzog and accompanying declarations of support for Israel have masked strains between the White House and Prime Minister Benjamin Netanyahu.  <a href="https://nyti.ms/44OQFQl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Documents Hearing Could Set Off Lengthy Fight Over Classified Evidence</h3>
+<sub>By Charlie Savage</sub>
+<p>The role of secret evidence at public trials is expected to raise a series of tricky legal issues and logistical hurdles. Here’s a closer look.  <a href="https://nyti.ms/44RKr2l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Georgia Supreme Court Rejects Trump Effort to Quash Investigation</h3>
@@ -110,29 +116,23 @@ There is a lot going on in the world right now! The Biden administration recentl
 <p>With indictment decisions imminent, the court refused to scuttle an investigation into whether the former president and his allies interfered in the 2020 election.  <a href="https://nyti.ms/3DfgbTg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Federal Prosecutor Urges Takeover of Rikers Island</h3>
-<sub>By Benjamin Weiser and Jonah E. Bromwich</sub>
-<p>The statement from Damian Williams was a major shift and could help persuade a judge to strip Mayor Eric Adams of his power over the troubled jails complex.  <a href="https://nyti.ms/3XUi6G8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 17, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Wikipedia’s Moment of Truth</h3>
+<sub>By Jon Gertner</sub>
+<p>Can the online encyclopedia help teach A.I. chatbots to get their facts right — without destroying itself in the process?  <a href="https://nyti.ms/3O0znsC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Edward Caban Becomes First Latino Police Commissioner in New York</h3>
-<sub>By Maria Cramer and Karen Zraick</sub>
-<p>Mayor Eric Adams named Mr. Caban as the 46th commissioner of the New York Police Department. He follows Keechant Sewell, who resigned after 18 months.  <a href="https://nyti.ms/3Q07NyD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 17, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>OpenAI Worries About What Its Chatbot Will Say About People’s Faces</h3>
+<sub>By Kashmir Hill</sub>
+<p>An advanced version of ChatGPT can analyze images and is already helping the blind. But its ability to put a name to a face is one reason the public doesn’t have access to it.  <a href="https://nyti.ms/3NPpU7C"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Iowa Judge Temporarily Suspends New Abortion Ban</h3>
-<sub>By Colbi Edmonds</sub>
-<p>Judge Joseph Seidlin put a hold on the law, which prohibits abortion after six weeks of pregnancy, days after the governor signed it.  <a href="https://nyti.ms/3NUUWuY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Family of Murdaugh Boat Crash Victim Reaches $15 Million Settlement</h3>
-<sub>By Nicholas Bogel-Burroughs</sub>
-<p>The crash, in which a 19-year-old woman was killed, brought scrutiny to Alex Murdaugh and his family. He was later convicted of murdering his wife and son.  <a href="https://nyti.ms/3q0SOto"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 17, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>A Blessing and a Boogeyman: Advertisers Warily Embrace A.I.</h3>
+<sub>By Tiffany Hsu and Yiwen Lu</sub>
+<p>Many ads are easier to make with the fast-improving technology. It also poses a threat to an industry already in flux.  <a href="https://nyti.ms/3ro8APp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
