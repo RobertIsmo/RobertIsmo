@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, July 18, Central Standard Time</p>
 <p>
-To a close friend, I&#39;d sum up what is happening in the world right now as steadily improving relations between the US and Israel. Biden has invited Israeli Prime Minister Netanyahu to the US to ease tensions, and President Herzog of Israel is visiting the White House soon. At the same time, tensions between Democrats are flaring over Israel, especially amongst progressive members. Republicans have also stepped in to criticize Democrats at the Christians United for Israel Summit. On the economic side, Federal Reserve Chair Jerome Powell is having luck bringing back labor market success while trying to prevent it from weakening again. There are also some issues around antiquities being seized from home collections and a break in grain deals between Russia and Ukraine that is shaking world food markets. Additionally, Trump and allies are looking to increase presidential power in 2025, while here in New York City a federal prosecutor wants to take over Rikers Island jail complex and Edward Caban has become the first Latino Police Commissioner for the NYPD. Iowa has also temporarily suspended its new abortion ban. Lastly, a family of a boat crash victim in Florida has reached a $15 million settlement.</p>
+There is a lot going on in the world right now! The Biden administration recently extended an invitation to Israeli Prime Minister Netanyahu in efforts to promote peace and stability in the region. In Congress, tensions between Democrats over Israeli politics are also on the rise—as protests have swept through Israel in opposition to a controversial legal overhaul proposed by Netanyahu. Turning back to the US, President Trump and his allies are devising plans to increase White House power potentially as far out as 2025. A Georgia Supreme Court ruling denied Trump&#39;s effort to quash a criminal investigation into his role in influencing the 2020 election. Besides national politics, there is a Federal Prosecutor’s call in New York for the takeover of Rikers Island jails while Mayor Eric Adams has appointed the first-ever Latino Police Commissioner of New York City. Lastly, legislators in Iowa passed an abortion ban which has since been temporarily suspended and a family has reached a $15 million settlement for a boat crash in Murdaugh that killed one woman and brought scrutiny against Alex Murdaugh, convicted of killing his own wife and son.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Biden Invites Netanyahu to U.S., Easing Tensions</h3>
@@ -74,11 +74,11 @@ To a close friend, I&#39;d sum up what is happening in the world right now as st
 <p>After a leading progressive called Israel “a racist state,” Democratic leaders criticized the statement. But a planned boycott of the Israeli president’s speech by liberals underscored tensions.  <a href="https://nyti.ms/3Q1ujH5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis, Haley and Pence Attack Democrats in Speeches Supporting Israel</h3>
-<sub>By Jazmine Ulloa</sub>
-<p>President Biden and progressive congresswomen were the focus of Republican presidential hopefuls’ criticism at the Christians United for Israel Summit.  <a href="https://nyti.ms/3pPp2rJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 17, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Protesters Rally Across Israel in New Push Against Legal Overhaul</h3>
+<sub>By Patrick Kingsley</sub>
+<p>Thousands of Israelis blocked roads and demonstrated over Benjamin Netanyahu’s plans to limit the power of the judiciary.  <a href="https://nyti.ms/3OkEs0D"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Jerome Powell’s Prized Labor Market Is Back. Can He Keep It?</h3>
