@@ -60,19 +60,25 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, July 18, Central Standard Time</p>
 <p>
-The world is in an interesting state right now. In the US, there are legal battles about classified evidence and the Justice Department is sending out target letters as part of its investigations into certain individuals. In Canada, wildfires have burned 25 million acres this year due to record warm temperatures. On the global front, Europe has been hit hard by a recent heat wave – a divide has emerged with low-income workers being the most vulnerable. Even worse, the Middle East saw life-threatening temperature indices of 152 degrees recently. In politics, North Korea has detained a US soldier for unauthorized border crossing; tensions between the White House and Prime Minister Benjamin Netanyahu of Israel have arisen; and protests against legal overhauls have flared in Israel. On a lighter note, one magazine writer is attempting to track down Tom Cruise! Closer to home, a wife was questioned in connection with her husband&#39;s murder at Gilgo Beach, NY.</p>
+There&#39;s a lot of news happening around the world right now. In the United States, Michigan has charged 16 people with felonies for attempting to overturn President Trump&#39;s 2020 election loss. Prosecutors and Trump lawyers are also clashing in a classified documents case. In Europe, North America and Asia, a heat wave is gripping millions of people, and governments are scrambling to address it as a threat to humanity. Canada is also experiencing record wildfires this year that have burned 25 million acres of land. Al Gore has been speaking out about the need to fight against fossil fuels in light of the extreme heat. North Korea has detained an American soldier for crossing the border illegally, and protesters are rallying across Israel in opposition to a legal overhaul proposed by Prime Minister Benjamin Netanyahu. President Biden recently welcomed Israeli President Isaac Herzog in during his visit despite some tensions between him and Netanyahu, while Democrats in Congress are facing their own internal divide regarding Israel. Finally, a writer set off on an impossible mission to try and find Tom Cruise, who&#39;s been avoiding the press for years.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What is a target letter?</h3>
-<sub>By Remy Tumin</sub>
-<p>A target letter is an official piece of correspondence from the Justice Department informing a person that he or she is being investigated.  <a href="https://nyti.ms/3NYxL2J"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Michigan Charges 16 in False Elector Scheme to Overturn Trump’s 2020 Loss</h3>
+<sub>By Maggie Astor and Alexandra Berzon</sub>
+<p>Among those facing felony charges was Meshawn Maddock, a Trump ally and a former co-chair of the Michigan Republican Party.  <a href="https://nyti.ms/3XTPehr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Documents Hearing Could Set Off Lengthy Fight Over Classified Evidence</h3>
-<sub>By Charlie Savage</sub>
-<p>The role of secret evidence at public trials is expected to raise a series of tricky legal issues and logistical hurdles. Here’s a closer look.  <a href="https://nyti.ms/44RKr2l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 19, Central Standard Time</sub></sub>
+<h3>Prosecutors and Trump Lawyers Clash Over Timing in Classified Documents Case</h3>
+<sub>By Alan Feuer</sub>
+<p>In the first hearing before Judge Aileen M. Cannon, the two sides sparred over a trial date and how to prosecute a former president and current candidate.  <a href="https://nyti.ms/3PWPH0k"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Heat Waves Grip 3 Continents as Climate Change Warms Earth</h3>
+<sub>By Alan Yuhas</sub>
+<p>Across North America, Europe and Asia, hundreds of millions of people endured blistering conditions. The U.S. special envoy for climate change called it “a threat to all of humankind.”  <a href="https://nyti.ms/3O16Jb5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>How Canada’s Record Wildfires Got So Bad, So Fast</h3>
@@ -80,21 +86,15 @@ The world is in an interesting state right now. In the US, there are legal battl
 <p>Blazes have burned 25 million acres so far this year, and there’s still a month to go in peak fire season.  <a href="https://nyti.ms/44Mz1Nc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Heat Divide Leaves Low-Income Workers Among the Most Vulnerable</h3>
-<sub>By Emma Bubola</sub>
-<p>Europe’s latest heat wave has highlighted the inequities between those who can afford to shelter from the heat and those who can’t.  <a href="https://nyti.ms/3rCGvE2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The heat index reached a life-threatening 152 degrees in the Middle East.</h3>
-<sub>By Vivian Yee</sub>
-<p>  <a href="https://nyti.ms/3OiSVtP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Al Gore on Extreme Heat and the Fight Against Fossil Fuels</h3>
+<sub></sub>
+<p>The past few weeks have him even more worried than usual.  <a href="https://nyti.ms/3XZ3mpz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>North Korea Detains U.S. Soldier After Unauthorized Border Crossing</h3>
-<sub>By Choe Sang-Hun, John Ismay and Michael D. Shear</sub>
+<sub>By Choe Sang-Hun, Michael D. Shear and John Ismay</sub>
 <p>The service member is the first known American to be held in North Korean custody since​ Bruce Byron Lowrance​ was detained for a month after illegally entering the country from China in 2018.​  <a href="https://nyti.ms/3pRxPcy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
 <hr/>
@@ -113,7 +113,7 @@ The world is in an interesting state right now. In the US, there are legal battl
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Protesters Rally Across Israel in New Push Against Legal Overhaul</h3>
 <sub>By Patrick Kingsley</sub>
-<p>Thousands of Israelis blocked roads and demonstrated over Benjamin Netanyahu’s plans to limit the power of the judiciary.  <a href="https://nyti.ms/3OkEs0D"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Tens of thousands of Israelis blocked roads and demonstrated over Benjamin Netanyahu’s plans to limit the power of the judiciary.  <a href="https://nyti.ms/3OkEs0D"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
