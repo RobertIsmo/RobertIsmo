@@ -60,18 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, July 17, Central Standard Time</p>
 <p>
-Right now, tension between the U.S. and Israel seems to be easing with Biden having invited Netanyahu to a visit. There are plans in Israel to reduce the power of the Supreme Court and that could be voted on soon. Here in the U.S., Trump and his allies are working on plans to increase presidential power come 2025 and Republican presidential candidate Ramaswamy is looking to highlight conservative views through Supreme Court nominees. Meanwhile, Canadian wildfires have blanketed several states with smoke pollution, causing dangerous air quality levels in some areas, while a heat wave is also persisting in the South and West. Lastly, Edward Caban has just become the first Latino Police Commissioner of New York City.</p>
+There is a lot happening in the world right now. President Biden has sent an invitation to the Israeli Prime Minister Netanyahu in an effort to ease tensions between the two countries. Meanwhile, Democrats in Congress have been debating over the statement of a progressive leader calling Israel &quot;a racist state.&quot; Down South, Governor DeSantis is trying to make his pro-Israel credentials look better by speaking at the Christians United for Israel Summit. On the economic front, Federal Reserve Chair Jerome Powell is struggling to maintain a strong job market in the aftermath of the pandemic. Elsewhere, explosions damaged Crimea Bridge as Russia blamed Ukraine for an attack on the supply line. Additionally, Russia stopped a grain agreement with Ukraine which shook world food markets. U.S.-wise, Trump and his allies are coming up with ways to increase presidential power in 2025. Georgia Supreme Court, however, rejected Trump&#39;s effort to quash an investigation whether he interfered in the 2020 election or not. On a lighter note, there has been some positive news too including an ode to rowing and writing from Wang Ping and also Edward Caban becoming the first Latino Police Commissioner in New York.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Biden Invites Netanyahu to U.S., Easing Tensions</h3>
-<sub>By Patrick Kingsley and Michael D. Shear</sub>
-<p>President Isaac Herzog will meet with President Biden this week and address Congress. And Prime Minister Benjamin Netanyahu said he also got a presidential invitation.  <a href="https://nyti.ms/3OsdrIJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub>By Michael D. Shear and Patrick Kingsley</sub>
+<p>The invitation to the Israeli prime minister came on the eve of a visit to the White House by Isaac Herzog, the Israeli president.  <a href="https://nyti.ms/3OsdrIJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>What’s Next for Israel’s Judicial Overhaul?</h3>
-<sub>By Isabel Kershner and Patrick Kingsley</sub>
-<p>Israeli lawmakers are advancing parts of a contentious plan by the right-wing government to reduce the power of the Supreme Court. A final vote is expected by early next week.  <a href="https://nyti.ms/3Y2i8vN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Congress, Democrats’ Rift Over Israel Flares on Eve of Herzog Visit</h3>
+<sub>By Karoun Demirjian</sub>
+<p>After a leading progressive called Israel “a racist state,” Democratic leaders criticized the statement. But a planned boycott of the Israeli president’s speech by liberals underscored tensions.  <a href="https://nyti.ms/3Q1ujH5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>DeSantis, Attacking Biden Policies, Seeks to Burnish Pro-Israel Credentials</h3>
+<sub>By Jazmine Ulloa</sub>
+<p>He delivered remarks at the Christians United for Israel Summit as he courts evangelical voters.  <a href="https://nyti.ms/3pPp2rJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -87,6 +93,12 @@ Right now, tension between the U.S. and Israel seems to be easing with Biden hav
 <sub><sub>Monday, July 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Explosions Damage Crimea Bridge as Russia Blames Ukraine for Attack</h3>
+<sub>By Marc Santora, Neil MacFarquhar and Haley Willis</sub>
+<p>Russia accused Ukraine of hitting the Kerch Strait Bridge for the second time in 10 months, saying that two maritime drones had struck the bridge, an essential supply line for Russian troops.  <a href="https://nyti.ms/44sYqvL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Russia Stops Ukraine Grain Deal, Shaking World Food Markets</h3>
 <sub>By Matthew Mpoke Bigg, Ivan Nechepurenko, Liz Alderman and Farnaz Fassihi</sub>
 <p>Moscow, which has repeatedly complained that the U.N.-brokered agreement is one-sided in Ukraine’s favor, said it could return to the deal if its demands were met.  <a href="https://nyti.ms/3Dj88Vt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -99,9 +111,9 @@ Right now, tension between the U.S. and Israel seems to be easing with Biden hav
 <sub><sub>Monday, July 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Ramaswamy Looks to Supreme Court in Effort to Appeal to Conservatives</h3>
-<sub>By Maggie Haberman</sub>
-<p>The long-shot Republican presidential candidate is releasing a list of potential justices to highlight his bona fides with key voters.  <a href="https://nyti.ms/43zKYVj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Georgia Supreme Court Rejects Trump Effort to Quash Investigation</h3>
+<sub>By Danny Hakim</sub>
+<p>With indictment decisions imminent, the court refused to scuttle an investigation into whether the former president and his allies interfered in the 2020 election.  <a href="https://nyti.ms/3DfgbTg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
@@ -110,22 +122,10 @@ Right now, tension between the U.S. and Israel seems to be easing with Biden hav
 <p>Spend a day on the water with Wang Ping and you will discover a source of her poetry.  <a href="https://nyti.ms/43w9pmJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Smoke Pollution From Canadian Wildfires Blankets U.S. Cities, Again</h3>
-<sub>By Christine Hauser and Claire Moses</sub>
-<p>Wildfires in western Canada are expected to create smoky conditions in the United States this week. Parts of the U.S. had unhealthy air in June from wildfires in other parts of Canada.  <a href="https://nyti.ms/3pO901h"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Maps: Tracking Air Quality and Smoke From Wildfires</h3>
-<sub>By Madison Dong, Bea Malsky, Lazaro Gamio, Matthew Bloch, Scott Reinhard, Leanne Abraham, Martín González Gómez, Judson Jones, John-Michael Murphy and Marco Hernandez</sub>
-<p>See maps of where smoke is traveling and how harmful the air has become.  <a href="https://nyti.ms/3CfwHlB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Dangerous Heat Wave Continues to Batter the South and West</h3>
-<sub>By Claire Moses and Johnny Diaz</sub>
-<p>Tens of millions of people face dangerous levels of heat as record-breaking temperatures are expected this week from Texas to the lower Mississippi Valley, forecasters said.  <a href="https://nyti.ms/3pPOfCa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Federal Prosecutor Urges Takeover of Rikers Island</h3>
+<sub>By Benjamin Weiser and Jonah E. Bromwich</sub>
+<p>The statement from Damian Williams was a major shift and could help persuade a judge to strip Mayor Eric Adams of his power over the troubled jails complex.  <a href="https://nyti.ms/3XUi6G8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
