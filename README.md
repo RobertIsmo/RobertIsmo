@@ -60,8 +60,22 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, July 18, Central Standard Time</p>
 <p>
-There is extreme heat in the United States, with temperatures reaching as high as 110 degrees in Phoenix which is set to break a record from half a century ago. Meanwhile, in China, a heat wave is causing temperatures to rise to record highs and is bringing up discussions on climate change between President Biden&#39;s envoy and Beijing officials. In Ukraine, World War II has come onto the battlefield of the current war, as well as an ideological battlefield between those involved. Continuing in the international realm, there have been protests in Israel in opposition to Prime Minister Benjamin Netanyahu&#39;s plans to limit the power of the judiciary. Additionally, tensions between Israel and America have become apparent as President Biden meets with Isaac Herzog and makes declarations of support for Israel. Back in the US, Trump&#39;s legal efforts in Georgia have been blocked while a hearing on secret documents might spark a long battle over classified evidence. Plus, advancements in AI (artificial intelligence) technologies are being used for advertising by some companies while other organizations are wary about it due to its potential consequences.</p>
+A lot is going on in the world right now! In the US, there&#39;s a hearing involving Trump documents that could set off a long legal fight. In addition, the Georgia Supreme Court just blocked an investigation into potential election interference by Trump and his allies. Meanwhile, temperatures are reaching record highs in parts of the country. 
+The heat index is also dangerously high in the Middle East right now, but that hasn&#39;t abated European tourists visiting various parts of the continent. The current war in Ukraine is also intensifying as World War II artifacts become a battlefield of ideologies. In Israel, protesters are pushing against potential legal changes proposed by Prime Minister Netanyahu, while President Biden will be meeting with Israeli President Isaac Herzog soon to counter rising tension between the US and Netanyahu&#39;s administration. 
+Lastly, A.I. is being both embraced and warily regarded by advertisers who recognize its potential to improve their ads, but worry it may disrupt their industry further. There&#39;s also an open debate about how ChatGPT technology will use images to make decisions - something that&#39;s too advanced for the public to access currently.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Documents Hearing Could Set Off Lengthy Fight Over Classified Evidence</h3>
+<sub>By Charlie Savage</sub>
+<p>The role of secret evidence at public trials is expected to raise a series of tricky legal issues and logistical hurdles. Here’s a closer look.  <a href="https://nyti.ms/44RKr2l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Georgia Supreme Court Rejects Trump Effort to Quash Investigation</h3>
+<sub>By Danny Hakim</sub>
+<p>With indictment decisions imminent, the court refused to scuttle an investigation into whether the former president and his allies interfered in the 2020 election.  <a href="https://nyti.ms/3DfgbTg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 17, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In Phoenix, 18 Days of Extreme Heat With No End in Sight</h3>
 <sub>By Jacey Fortin and Mary Beth Gahan</sub>
@@ -69,16 +83,16 @@ There is extreme heat in the United States, with temperatures reaching as high a
 <sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As China Bakes in Record Heat, Kerry Presses Beijing on Climate Change</h3>
-<sub>By Vivian Wang and Lisa Friedman</sub>
-<p>The extreme heat wave choking China has become a talking point for John Kerry, President Biden’s climate envoy, in his meetings with officials in Beijing.  <a href="https://nyti.ms/43w4CBP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>The heat index reached a life-threatening 152 degrees in the Middle East.</h3>
+<sub>By Vivian Yee</sub>
+<p>  <a href="https://nyti.ms/3OiSVtP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Tracking Dangerous Heat in the U.S.</h3>
-<sub>By Matthew Bloch, Lazaro Gamio, Zach Levitt, Eleanor Lutz, Bea Malsky and John-Michael Murphy</sub>
-<p>See detailed maps of the latest heat index forecasts in the United States.  <a href="https://nyti.ms/3calp8v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 12, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As Heat Waves Descend on Europe, So Do Tourists</h3>
+<sub>By Isabella Kwai</sub>
+<p>Soaring temperatures have gripped the continent during one of its most popular travel seasons.  <a href="https://nyti.ms/3K55feF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>A Current War Collides With the Past: Remnants of World War II in Ukraine</h3>
@@ -103,18 +117,6 @@ There is extreme heat in the United States, with temperatures reaching as high a
 <sub>By Michael D. Shear</sub>
 <p>President Biden’s meeting with Isaac Herzog and accompanying declarations of support for Israel have masked strains between the White House and Prime Minister Benjamin Netanyahu.  <a href="https://nyti.ms/44OQFQl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Documents Hearing Could Set Off Lengthy Fight Over Classified Evidence</h3>
-<sub>By Charlie Savage</sub>
-<p>The role of secret evidence at public trials is expected to raise a series of tricky legal issues and logistical hurdles. Here’s a closer look.  <a href="https://nyti.ms/44RKr2l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Georgia Supreme Court Rejects Trump Effort to Quash Investigation</h3>
-<sub>By Danny Hakim</sub>
-<p>With indictment decisions imminent, the court refused to scuttle an investigation into whether the former president and his allies interfered in the 2020 election.  <a href="https://nyti.ms/3DfgbTg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
 <h3>Wikipedia’s Moment of Truth</h3>
