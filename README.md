@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, July 17, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. President Biden has sent an invitation to the Israeli Prime Minister Netanyahu in an effort to ease tensions between the two countries. Meanwhile, Democrats in Congress have been debating over the statement of a progressive leader calling Israel &quot;a racist state.&quot; Down South, Governor DeSantis is trying to make his pro-Israel credentials look better by speaking at the Christians United for Israel Summit. On the economic front, Federal Reserve Chair Jerome Powell is struggling to maintain a strong job market in the aftermath of the pandemic. Elsewhere, explosions damaged Crimea Bridge as Russia blamed Ukraine for an attack on the supply line. Additionally, Russia stopped a grain agreement with Ukraine which shook world food markets. U.S.-wise, Trump and his allies are coming up with ways to increase presidential power in 2025. Georgia Supreme Court, however, rejected Trump&#39;s effort to quash an investigation whether he interfered in the 2020 election or not. On a lighter note, there has been some positive news too including an ode to rowing and writing from Wang Ping and also Edward Caban becoming the first Latino Police Commissioner in New York.</p>
+There are a lot of changes happening in the world right now! Biden has extended an invitation to Israeli Prime Minister Netanyahu in an effort to ease tensions between Israel and the US. Congress is divided over Israel, with liberal lawmakers boycotting a speech by Israeli president Isaac Herzog. In addition, Republicans DeSantis, Haley and Pence made speeches criticizing Democrats during a Christians United for Israel Summit. Further abroad, Russia stopped a grain deal with Ukraine which shook world food markets and Russia claims Ukraine was responsible for explosions that damaged a bridge in Crimea. In the US, Trump and his allies are planning to increase presidential power come 2025 while Georgia Supreme Court rejected his efforts to quash an investigation into election interference last year. On a lighter note, Edward Caban has become the first Latino Police Commissioner in New York City and Wang Ping is using her time rowing on the river to inspire some stellar poetry!</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Biden Invites Netanyahu to U.S., Easing Tensions</h3>
@@ -75,9 +75,9 @@ There is a lot happening in the world right now. President Biden has sent an inv
 <sub><sub>Monday, July 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis, Attacking Biden Policies, Seeks to Burnish Pro-Israel Credentials</h3>
+<h3>DeSantis, Haley and Pence Attack Democrats in Speeches Supporting Israel</h3>
 <sub>By Jazmine Ulloa</sub>
-<p>He delivered remarks at the Christians United for Israel Summit as he courts evangelical voters.  <a href="https://nyti.ms/3pPp2rJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>President Biden and progressive congresswomen were the focus of Republican presidential hopefuls’ criticism at the Christians United for Israel Summit.  <a href="https://nyti.ms/3pPp2rJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
