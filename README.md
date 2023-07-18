@@ -60,26 +60,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, July 18, Central Standard Time</p>
 <p>
-A lot is going on in the world right now! In the US, there&#39;s a hearing involving Trump documents that could set off a long legal fight. In addition, the Georgia Supreme Court just blocked an investigation into potential election interference by Trump and his allies. Meanwhile, temperatures are reaching record highs in parts of the country. 
-The heat index is also dangerously high in the Middle East right now, but that hasn&#39;t abated European tourists visiting various parts of the continent. The current war in Ukraine is also intensifying as World War II artifacts become a battlefield of ideologies. In Israel, protesters are pushing against potential legal changes proposed by Prime Minister Netanyahu, while President Biden will be meeting with Israeli President Isaac Herzog soon to counter rising tension between the US and Netanyahu&#39;s administration. 
-Lastly, A.I. is being both embraced and warily regarded by advertisers who recognize its potential to improve their ads, but worry it may disrupt their industry further. There&#39;s also an open debate about how ChatGPT technology will use images to make decisions - something that&#39;s too advanced for the public to access currently.</p>
+The world is in an interesting state right now. In the US, there are legal battles about classified evidence and the Justice Department is sending out target letters as part of its investigations into certain individuals. In Canada, wildfires have burned 25 million acres this year due to record warm temperatures. On the global front, Europe has been hit hard by a recent heat wave – a divide has emerged with low-income workers being the most vulnerable. Even worse, the Middle East saw life-threatening temperature indices of 152 degrees recently. In politics, North Korea has detained a US soldier for unauthorized border crossing; tensions between the White House and Prime Minister Benjamin Netanyahu of Israel have arisen; and protests against legal overhauls have flared in Israel. On a lighter note, one magazine writer is attempting to track down Tom Cruise! Closer to home, a wife was questioned in connection with her husband&#39;s murder at Gilgo Beach, NY.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>What is a target letter?</h3>
+<sub>By Remy Tumin</sub>
+<p>A target letter is an official piece of correspondence from the Justice Department informing a person that he or she is being investigated.  <a href="https://nyti.ms/3NYxL2J"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Documents Hearing Could Set Off Lengthy Fight Over Classified Evidence</h3>
 <sub>By Charlie Savage</sub>
 <p>The role of secret evidence at public trials is expected to raise a series of tricky legal issues and logistical hurdles. Here’s a closer look.  <a href="https://nyti.ms/44RKr2l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, June 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Georgia Supreme Court Rejects Trump Effort to Quash Investigation</h3>
-<sub>By Danny Hakim</sub>
-<p>With indictment decisions imminent, the court refused to scuttle an investigation into whether the former president and his allies interfered in the 2020 election.  <a href="https://nyti.ms/3DfgbTg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 17, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>How Canada’s Record Wildfires Got So Bad, So Fast</h3>
+<sub>By Nadja Popovich</sub>
+<p>Blazes have burned 25 million acres so far this year, and there’s still a month to go in peak fire season.  <a href="https://nyti.ms/44Mz1Nc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Phoenix, 18 Days of Extreme Heat With No End in Sight</h3>
-<sub>By Jacey Fortin and Mary Beth Gahan</sub>
-<p>As much of the South bakes, Phoenix is poised to break a record set half a century ago of consecutive days with 110-degree or higher temperatures.  <a href="https://nyti.ms/3DkEDTk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Heat Divide Leaves Low-Income Workers Among the Most Vulnerable</h3>
+<sub>By Emma Bubola</sub>
+<p>Europe’s latest heat wave has highlighted the inequities between those who can afford to shelter from the heat and those who can’t.  <a href="https://nyti.ms/3rCGvE2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -89,9 +93,9 @@ Lastly, A.I. is being both embraced and warily regarded by advertisers who recog
 <sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Heat Waves Descend on Europe, So Do Tourists</h3>
-<sub>By Isabella Kwai</sub>
-<p>Soaring temperatures have gripped the continent during one of its most popular travel seasons.  <a href="https://nyti.ms/3K55feF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>North Korea Detains U.S. Soldier After Unauthorized Border Crossing</h3>
+<sub>By Choe Sang-Hun, John Ismay and Michael D. Shear</sub>
+<p>The service member is the first known American to be held in North Korean custody since​ Bruce Byron Lowrance​ was detained for a month after illegally entering the country from China in 2018.​  <a href="https://nyti.ms/3pRxPcy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -99,6 +103,12 @@ Lastly, A.I. is being both embraced and warily regarded by advertisers who recog
 <sub>By Andrew E. Kramer</sub>
 <p>World War II has been an ideological battlefield in today’s war in Ukraine, and it is cropping up on the actual battlefield as well.  <a href="https://nyti.ms/3DfsrTM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Israeli President Meets With Biden Amid U.S. Unease With Netanyahu</h3>
+<sub>By Michael D. Shear</sub>
+<p>President Biden’s meeting with Isaac Herzog and accompanying declarations of support for Israel have masked strains between the White House and Prime Minister Benjamin Netanyahu.  <a href="https://nyti.ms/44OQFQl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Protesters Rally Across Israel in New Push Against Legal Overhaul</h3>
@@ -112,28 +122,16 @@ Lastly, A.I. is being both embraced and warily regarded by advertisers who recog
 <p>After a leading progressive called Israel “a racist state,” Democratic leaders criticized the statement. But a planned boycott of the Israeli president’s speech by liberals underscored tensions.  <a href="https://nyti.ms/3Q1ujH5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Israeli President to Meet With Biden Amid U.S. Unease With Netanyahu</h3>
-<sub>By Michael D. Shear</sub>
-<p>President Biden’s meeting with Isaac Herzog and accompanying declarations of support for Israel have masked strains between the White House and Prime Minister Benjamin Netanyahu.  <a href="https://nyti.ms/44OQFQl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Wikipedia’s Moment of Truth</h3>
-<sub>By Jon Gertner</sub>
-<p>Can the online encyclopedia help teach A.I. chatbots to get their facts right — without destroying itself in the process?  <a href="https://nyti.ms/3O0znsC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
+<h3>My Impossible Mission to Find Tom Cruise</h3>
+<sub>By Caity Weaver</sub>
+<p>The action star has gone to great lengths to avoid the press for more than a decade. But maybe our writer could track him down anyway?  <a href="https://nyti.ms/3XS3OGf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>OpenAI Worries About What Its Chatbot Will Say About People’s Faces</h3>
-<sub>By Kashmir Hill</sub>
-<p>An advanced version of ChatGPT can analyze images and is already helping the blind. But its ability to put a name to a face is one reason the public doesn’t have access to it.  <a href="https://nyti.ms/3NPpU7C"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>A Blessing and a Boogeyman: Advertisers Warily Embrace A.I.</h3>
-<sub>By Tiffany Hsu and Yiwen Lu</sub>
-<p>Many ads are easier to make with the fast-improving technology. It also poses a threat to an industry already in flux.  <a href="https://nyti.ms/3ro8APp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>In Gilgo Beach Case, a Wife Nearby but Apparently Unknowing</h3>
+<sub>By Corey Kilgannon</sub>
+<p>Asa Ellerup, married to Rex Heuermann, who has been charged with murder, cut a glum figure. She was away when the killings happened, yet became central to the investigation.  <a href="https://nyti.ms/43BkcvL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
