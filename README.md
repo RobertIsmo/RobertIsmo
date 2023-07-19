@@ -60,11 +60,23 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, July 18, Central Standard Time</p>
 <p>
-There&#39;s a lot of news happening around the world right now. In the United States, Michigan has charged 16 people with felonies for attempting to overturn President Trump&#39;s 2020 election loss. Prosecutors and Trump lawyers are also clashing in a classified documents case. In Europe, North America and Asia, a heat wave is gripping millions of people, and governments are scrambling to address it as a threat to humanity. Canada is also experiencing record wildfires this year that have burned 25 million acres of land. Al Gore has been speaking out about the need to fight against fossil fuels in light of the extreme heat. North Korea has detained an American soldier for crossing the border illegally, and protesters are rallying across Israel in opposition to a legal overhaul proposed by Prime Minister Benjamin Netanyahu. President Biden recently welcomed Israeli President Isaac Herzog in during his visit despite some tensions between him and Netanyahu, while Democrats in Congress are facing their own internal divide regarding Israel. Finally, a writer set off on an impossible mission to try and find Tom Cruise, who&#39;s been avoiding the press for years.</p>
+There is a lot going on in the world right now. In the U.S., former President Trump is facing potential criminal charges related to his involvement in the Capitol riot on January 6th. Meanwhile, 16 people have been charged in a false elector scheme to overturn the result of the 2020 election. Also in the U.S., extremes of heat are being felt across North America, Europe, and Asia due to climate change and a heat record set in 1974 has been broken in Phoenix. Scott Desantis is defending himself in a rare CNN interview despite facing rising criticism, and a super PAC supporting him has announced a $40-million ad campaign. And finally, there is an independent mission to find Tom Cruise that might actually be successful!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Says He’s Target in Special Counsel’s Investigation Into Jan. 6</h3>
+<sub>By Maggie Haberman, Glenn Thrush, Adam Goldman and Alan Feuer</sub>
+<p>It would be the second time the special counsel has notified the former president that he is likely to face indictment, this time in connection with the criminal investigation of the Capitol attack.  <a href="https://nyti.ms/4591soX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Target Letter to Trump Raises Possibility of Obstruction and Fraud Charges</h3>
+<sub>By Charlie Savage</sub>
+<p>The former president did not say which crimes, if any, prosecutors specified in a letter notifying him that he may be indicted again.  <a href="https://nyti.ms/3QausYO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Michigan Charges 16 in False Elector Scheme to Overturn Trump’s 2020 Loss</h3>
-<sub>By Maggie Astor and Alexandra Berzon</sub>
+<sub>By Danny Hakim, Alexandra Berzon and Maggie Astor</sub>
 <p>Among those facing felony charges was Meshawn Maddock, a Trump ally and a former co-chair of the Michigan Republican Party.  <a href="https://nyti.ms/3XTPehr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
 <hr/>
@@ -80,10 +92,10 @@ There&#39;s a lot of news happening around the world right now. In the United St
 <p>Across North America, Europe and Asia, hundreds of millions of people endured blistering conditions. The U.S. special envoy for climate change called it “a threat to all of humankind.”  <a href="https://nyti.ms/3O16Jb5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>How Canada’s Record Wildfires Got So Bad, So Fast</h3>
-<sub>By Nadja Popovich</sub>
-<p>Blazes have burned 25 million acres so far this year, and there’s still a month to go in peak fire season.  <a href="https://nyti.ms/44Mz1Nc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Phoenix Breaks Heat Record Set in 1974</h3>
+<sub>By Jacey Fortin and Mary Beth Gahan</sub>
+<p>As much of the South bakes, Phoenix blazed past a milestone set half a century ago for consecutive days with 110-degree or higher temperatures.  <a href="https://nyti.ms/3DkEDTk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
@@ -92,34 +104,22 @@ There&#39;s a lot of news happening around the world right now. In the United St
 <p>The past few weeks have him even more worried than usual.  <a href="https://nyti.ms/3XZ3mpz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>North Korea Detains U.S. Soldier After Unauthorized Border Crossing</h3>
-<sub>By Choe Sang-Hun, Michael D. Shear and John Ismay</sub>
-<p>The service member is the first known American to be held in North Korean custody since​ Bruce Byron Lowrance​ was detained for a month after illegally entering the country from China in 2018.​  <a href="https://nyti.ms/3pRxPcy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Current War Collides With the Past: Remnants of World War II in Ukraine</h3>
-<sub>By Andrew E. Kramer</sub>
-<p>World War II has been an ideological battlefield in today’s war in Ukraine, and it is cropping up on the actual battlefield as well.  <a href="https://nyti.ms/3DfsrTM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 17, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Israeli President Meets With Biden Amid U.S. Unease With Netanyahu</h3>
-<sub>By Michael D. Shear</sub>
-<p>President Biden’s meeting with Isaac Herzog and accompanying declarations of support for Israel have masked strains between the White House and Prime Minister Benjamin Netanyahu.  <a href="https://nyti.ms/44OQFQl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Protesters Rally Across Israel in New Push Against Legal Overhaul</h3>
-<sub>By Patrick Kingsley</sub>
-<p>Tens of thousands of Israelis blocked roads and demonstrated over Benjamin Netanyahu’s plans to limit the power of the judiciary.  <a href="https://nyti.ms/3OkEs0D"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>DeSantis, in Rare CNN Interview, Defends His Struggling Campaign</h3>
+<sub>By Jonathan Weisman and Maya King</sub>
+<p>Despite rising scrutiny, the Florida governor stuck to the same strategy — including by defending his top rival, Donald Trump, in the face of new legal troubles.  <a href="https://nyti.ms/3ry8jcO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Congress, Democrats’ Rift Over Israel Flares on Eve of Herzog Visit</h3>
-<sub>By Karoun Demirjian</sub>
-<p>After a leading progressive called Israel “a racist state,” Democratic leaders criticized the statement. But a planned boycott of the Israeli president’s speech by liberals underscored tensions.  <a href="https://nyti.ms/3Q1ujH5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Super PAC Backing Scott Plans $40 Million Ad Campaign</h3>
+<sub>By Shane Goldmacher</sub>
+<p>The ads will give Senator Tim Scott a significant boost as he draws attention from rival campaigns in the Republican presidential race.  <a href="https://nyti.ms/3pLGe1n"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Third Party Soft Launches, but Its Politicians Disagree on Details</h3>
+<sub>By Jonathan Weisman</sub>
+<p>Senator Joe Manchin III and former Gov. Jon Huntsman Jr. stressed that they were not a third-party presidential ticket — yet. And on issues like climate and guns, they debated their views.  <a href="https://nyti.ms/3Oknsrk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
