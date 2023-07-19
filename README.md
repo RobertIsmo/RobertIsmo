@@ -60,12 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, July 19, Central Standard Time</p>
 <p>
-In the US, Donald Trump has been targeted in a special counsel investigation into the Capitol attack on January 6th, and he could face potential charges of obstruction and fraud. In Michigan, 16 people are facing felony charges in a false elector scheme to overturn Trump&#39;s 2020 loss. Meanwhile in Phoenix, they have broken a heat record set in 1974 pushing many across North America, Europe, and Asia to struggle with extreme temperatures. Al Gore is warning about the impact of fossil fuels and how it is causing increased heat waves. In Florida, gubernatorial candidate DeSantis is on CNN defending his campaign while a new $40 million ad campaign has been launched by a super PAC to support Senator Tim Scott&#39;s presidential bid. Additionally, two politicians in Joe Manchin III and former Governor Jon Huntsman Jr. are trying to form a third political party with plenty of disagreements about their views including climate and guns. Lastly, Rex Heuermann who is charged with murder for the Gilgo Beach case will have his wife stand trial in New York as apparently unknowing of the situation - even though she was away when it happened. Last but not least, Hollywood is currently shut down after their actors and writers went on strike but surprisingly their directors actually agreed on a deal with the studios last month.</p>
+In Ukraine, soldiers are joining the fight to reclaim towns occupied by the Russian military. Meanwhile, South Africa recently announced that Russian president Putin will not be attending an upcoming diplomatic summit. In the US, former president Trump may face obstruction and fraud charges following a target letter from the Dept. of Justice. Also in the US, Michigan has charged 16 people for attempting to overturn Trump&#39;s 2020 election loss and Florida is experiencing record hot temperatures from a relentless early-summer heat wave. In Spain, they&#39;re turning to medieval solutions to address draught caused by climate change and hip-hop has celebrated its 50th anniversary while facing abuse allegations against Mississippi sheriff Eddie Scott. Lastly, authorities in New York have charged a man with murder for 11 bodies found near Gilgo Beach and are investigating if more may be connected to him.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Says He’s Target in Special Counsel’s Investigation Into Jan. 6</h3>
-<sub>By Maggie Haberman, Glenn Thrush, Adam Goldman and Alan Feuer</sub>
-<p>It would be the second time the special counsel has notified the former president that he is likely to face indictment, this time in connection with the criminal investigation of the Capitol attack.  <a href="https://nyti.ms/4591soX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>For These Ukrainian Soldiers, the Fight Is Personal</h3>
+<sub>By Maria Varenikova</sub>
+<p>Ukraine lets soldiers from towns occupied by the Russian military join the battle to reclaim them.  <a href="https://nyti.ms/3QaIwl4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>South Africa’s President Says Putin Will Not Attend Diplomatic Summit</h3>
+<sub>By John Eligon</sub>
+<p>The decision allows South Africa to avoid the predicament of whether to arrest the Russian leader, who is the subject of an international warrant, if he traveled to Johannesburg for a BRICS meeting.  <a href="https://nyti.ms/3Oi8C4u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -75,64 +81,58 @@ In the US, Donald Trump has been targeted in a special counsel investigation int
 <sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Third Verse, Same as the First: Republicans Shrug at Latest Trump Case</h3>
+<sub>By Shane Goldmacher and Maggie Haberman</sub>
+<p>News of a possible indictment related to Jan. 6 brought a muddled response from some of Donald Trump’s 2024 rivals, and familiar attacks on President Biden from his allies in Congress.  <a href="https://nyti.ms/3Y22ssn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Michigan Charges 16 in False Elector Scheme to Overturn Trump’s 2020 Loss</h3>
 <sub>By Danny Hakim, Alexandra Berzon and Maggie Astor</sub>
 <p>Among those facing felony charges was Meshawn Maddock, a Trump ally and a former co-chair of the Michigan Republican Party.  <a href="https://nyti.ms/3XTPehr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>A Looming Indictment</h3>
+<sub>By German Lopez</sub>
+<p>Three big questions about a potential indictment of Trump in the special counsel investigation.  <a href="https://nyti.ms/43wyEFx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Prosecutors and Trump Lawyers Clash Over Timing in Classified Documents Case</h3>
-<sub>By Alan Feuer</sub>
-<p>In the first hearing before Judge Aileen M. Cannon, the two sides sparred over a trial date and how to prosecute a former president and current candidate.  <a href="https://nyti.ms/3PWPH0k"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
+<h3>In Florida, Swimmers Brave an Ocean That Feels Like Steamy Syrup</h3>
+<sub>By Patricia Mazzei</sub>
+<p>Toweling off seemed unnecessary, as no one felt cold emerging from water that reached record temperatures off the coast of South Florida in recent days.  <a href="https://nyti.ms/44t3kIY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The U.S. Weather by the Numbers</h3>
+<sub>By Colbi Edmonds</sub>
+<p>Lots of triple-digit temperatures tell the story of the relentless early-summer heat.  <a href="https://nyti.ms/3rDHqEA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Heat Waves Grip 3 Continents as Climate Change Warms Earth</h3>
-<sub>By Alan Yuhas</sub>
-<p>Across North America, Europe and Asia, hundreds of millions of people endured blistering conditions. The U.S. special envoy for climate change called it “a threat to all of humankind.”  <a href="https://nyti.ms/3O16Jb5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Facing a Future of Drought, Spain Turns to Medieval Solutions and ‘Ancient Wisdom’</h3>
+<sub>By Constant Méheut</sub>
+<p>Acequias, a network of water channels created by the Moors over 1,000 years ago, are being excavated and brought back to life to adapt to the crises of climate change.  <a href="https://nyti.ms/3NWBpdC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>50 Rappers, 50 Stories</h3>
+<sub>By Joe Coscarelli and Jon Caramanica</sub>
+<p>Over five decades, hip-hop has grown from a new artform to a culture-defining superpower. In their own words, 50 influential voices chronicle its evolution.  <a href="https://nyti.ms/3JZy8cf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Phoenix Breaks Heat Record Set in 1974</h3>
-<sub>By Jacey Fortin and Mary Beth Gahan</sub>
-<p>As much of the South bakes, Phoenix blazed past a milestone set half a century ago for consecutive days with 110-degree or higher temperatures.  <a href="https://nyti.ms/3DkEDTk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Al Gore on Extreme Heat and the Fight Against Fossil Fuels</h3>
-<sub></sub>
-<p>The past few weeks have him even more worried than usual.  <a href="https://nyti.ms/3XZ3mpz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis, in Rare CNN Interview, Defends His Struggling Campaign</h3>
-<sub>By Jonathan Weisman and Maya King</sub>
-<p>Despite rising scrutiny, the Florida governor stuck to the same strategy — including by defending his top rival, Donald Trump, in the face of new legal troubles.  <a href="https://nyti.ms/3ry8jcO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Super PAC Backing Scott Plans $40 Million Ad Campaign</h3>
-<sub>By Shane Goldmacher</sub>
-<p>The ads will give Senator Tim Scott a significant boost as he draws attention from rival campaigns in the Republican presidential race.  <a href="https://nyti.ms/3pLGe1n"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Third Party Soft Launches, but Its Politicians Disagree on Details</h3>
-<sub>By Jonathan Weisman</sub>
-<p>Senator Joe Manchin III and former Gov. Jon Huntsman Jr. stressed that they were not a third-party presidential ticket — yet. And on issues like climate and guns, they debated their views.  <a href="https://nyti.ms/3Oknsrk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 17, Central Standard Time</sub></sub>
+<h3>Where the Sheriff Is King, These Women Say He Coerced Them Into Sex</h3>
+<sub>By Ilyssa Daly, Jerry Mitchell and Rory Doyle</sub>
+<p>Sheriff Eddie Scott has been the top lawman in rural Clay County, Miss., for more than a decade despite repeated allegations.  <a href="https://nyti.ms/3Q1kiK2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>In Gilgo Beach Case, a Wife Nearby but Apparently Unknowing</h3>
-<sub>By Corey Kilgannon</sub>
-<p>Asa Ellerup, married to Rex Heuermann, who has been charged with murder, cut a glum figure. She was away when the killings happened, yet became central to the investigation.  <a href="https://nyti.ms/43BkcvL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>In Hollywood’s Labor Tumult, Directors Stand Apart</h3>
-<sub>By Nicole Sperling</sub>
-<p>Their union agreed to a deal with the studios last month. With actors and writers on strike, the industry is shut down anyway.  <a href="https://nyti.ms/44waDzB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
+<h3>3 Charges, 11 Bodies: Families Hope for Answers in Gilgo Beach Case</h3>
+<sub>By Hurubie Meko, Erin Nolan and Ellen Yan</sub>
+<p>Authorities continue to investigate whether other corpses found along miles of sand are linked to Rex Heuermann, who they say is a serial killer.  <a href="https://nyti.ms/44IoeUs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
