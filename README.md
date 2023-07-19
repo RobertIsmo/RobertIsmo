@@ -60,42 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, July 19, Central Standard Time</p>
 <p>
-There is a lot going on right now in the world. In Ukraine, soldiers from towns held by the Russian military are fighting to reclaim them. Meanwhile, Vladimir Putin won&#39;t attend a summit in South Africa after that country issued a warrant for him at the International Criminal Court. In the US, charges of obstruction and fraud are being considered against former president Donald Trump for his role in the storming of Capitol Hill - though Republicans seem to be shrugging off the news. In Michigan, 16 people have been charged with taking part in a scheme to try and overturn Trump&#39;s 2020 election loss. There are also protests simmering in Israel as their President addresses Congress, and ocean temperatures reaching record high levels in Florida. In China, official data shows that Covid deaths may have been vastly undercounted, and Henry Kissinger visited and was greeted warmly by officials there.</p>
+There is a lot of political unrest going on in the world right now. In Odesa, a missile hit a cemetery and left a crater at the site where a woman&#39;s father was buried. In Israel, protests are simmering as their President prepares to address Congress about plans to overhaul the judiciary. In Florida, swimmers are taking a dip in water that is reaching record temperatures off the coast of south Florida due to climate change. Meanwhile, some economists are predicting that a recession may be on the horizon in the near future because of rising interest rates. On the culture front, 50 rappers have come together to tell the story of how hip-hop has grown over five decades from an art form to a powerful force in popular culture. In movies, Christopher Nolan released &quot;Oppenheimer,&quot; a complex portrait of the “father of the atomic bomb,” while Greta Gerwig produced “Barbie” which takes us out of the box and onto new adventures. Finally, there is concern about an injury epidemic in women&#39;s soccer with no explanation yet as to why it is happening or how to fix it.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>For These Ukrainian Soldiers, the Fight Is Personal</h3>
-<sub>By Maria Varenikova</sub>
-<p>Ukraine lets soldiers from towns occupied by the Russian military join the battle to reclaim them.  <a href="https://nyti.ms/3QaIwl4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Putin, Wanted for War Crimes, Will Not Attend Summit in South Africa in Person, Kremlin Says</h3>
-<sub>By John Eligon</sub>
-<p>The decision allows South Africa to avoid a predicament over whether to arrest the Russian leader. He is the subject of a warrant issued by the International Criminal Court, to which South Africa is a signatory.  <a href="https://nyti.ms/3Oi8C4u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Target Letter to Trump Raises Possibility of Obstruction and Fraud Charges</h3>
-<sub>By Charlie Savage</sub>
-<p>A person briefed on the matter said the letter cited three statutes that could be applied in a prosecution of the former president.  <a href="https://nyti.ms/3QausYO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Republicans Shrug at Latest Possible Trump Indictment</h3>
-<sub>By Shane Goldmacher and Maggie Haberman</sub>
-<p>News of a possible indictment related to Jan. 6 brought a muddled response from some of Donald Trump’s 2024 rivals, and familiar attacks on President Biden from his allies in Congress.  <a href="https://nyti.ms/3Y22ssn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Michigan Charges 16 in False Elector Scheme to Overturn Trump’s 2020 Loss</h3>
-<sub>By Danny Hakim, Alexandra Berzon and Maggie Astor</sub>
-<p>Among those facing felony charges was Meshawn Maddock, a Trump ally and a former co-chair of the Michigan Republican Party.  <a href="https://nyti.ms/3XTPehr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>A Looming Indictment</h3>
-<sub>By German Lopez</sub>
-<p>Three big questions about a potential indictment of Trump in the special counsel investigation.  <a href="https://nyti.ms/43wyEFx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>In Odesa, a missile slams into a cemetery, leaving a crater where a woman’s father was buried.</h3>
+<sub>By Marc Santora</sub>
+<p>  <a href="https://nyti.ms/3OiJ4Eo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -104,34 +74,64 @@ There is a lot going on right now in the world. In Ukraine, soldiers from towns 
 <p>The small protests reflect the broad nature of popular opposition to plans by Israel’s government to overhaul the judiciary, and seemed timed to coincide with the speech by President Isaac Herzog.  <a href="https://nyti.ms/3pLls1S"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-dining-blue" alt="">
+<h3>Starving Orcas and the Fate of Alaska’s Disappearing King Salmon</h3>
+<sub>By Julia O’Malley</sub>
+<p>With the fish numbers at historic lows, scientists, chefs and others are asking whether we should be eating them anymore, and what it means for the future of all wild salmon.  <a href="https://nyti.ms/3DnETRr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In Florida, Swimmers Brave an Ocean That Feels Like Steamy Syrup</h3>
 <sub>By Patricia Mazzei</sub>
 <p>Toweling off seemed unnecessary, as no one felt cold emerging from water that reached record temperatures off the coast of South Florida in recent days.  <a href="https://nyti.ms/44t3kIY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Stanford President Will Resign After Report Found Flaws in His Research</h3>
+<sub>By Stephanie Saul</sub>
+<p>Marc Tessier-Lavigne was cleared of accusations of scientific fraud and misconduct. But the review said his work had “multiple problems” and “fell below customary standards of scientific rigor.”  <a href="https://nyti.ms/46SIvIG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Could the Recession in the Distance Be Just a Mirage?</h3>
+<sub>By Ben Casselman and Jeanna Smialek</sub>
+<p>Rising interest rates were widely expected to put the U.S. economy in reverse. Now things are looking rosier, but don’t pop the Champagne corks yet.  <a href="https://nyti.ms/3pTgMa2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>The Pandemic’s Labor Market Myths</h3>
+<sub>By Jeanna Smialek and Ben Casselman</sub>
+<p>Amid the pandemic, people thought the labor market had permanently changed in important ways. It was a bad bet.  <a href="https://nyti.ms/3q2Y5Rf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>She’s on a Mission From God: Suing Big Oil for Climate Damages</h3>
+<sub>By David Gelles and Erin Schaff</sub>
+<p>A lawyer started small with a creative tactic. It grew into an effort that could force fossil fuel companies to pay hundreds of billions in damages.  <a href="https://nyti.ms/3PZr5nJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>‘Oppenheimer’ Review: A Man for Our Time</h3>
+<sub>By Manohla Dargis</sub>
+<p>Christopher Nolan’s complex, vivid portrait of J. Robert Oppenheimer, the “father of the atomic bomb,” is a brilliant achievement in formal and conceptual terms.  <a href="https://nyti.ms/44vnYZb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>‘Barbie’ Review: Out of the Box and On the Road</h3>
+<sub>By Manohla Dargis</sub>
+<p>She’s in the driver’s seat, headed for uncharted territory (flat feet!). But there are limits to how much dimension even Greta Gerwig can give this branded material.  <a href="https://nyti.ms/3QawXKG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>The Curse Stalking Women’s Soccer</h3>
+<sub>By Rory Smith</sub>
+<p>The World Cup is missing some of the sport’s biggest stars because of a knee injury epidemic. No one can say for sure why it’s happening, or how to fix it.  <a href="https://nyti.ms/3pSZmdA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>50 Rappers, 50 Stories</h3>
 <sub>By Joe Coscarelli and Jon Caramanica</sub>
 <p>Over five decades, hip-hop has grown from a new art form to a culture-defining superpower. In their own words, 50 influential voices chronicle its evolution.  <a href="https://nyti.ms/3JZy8cf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Where the Sheriff Is King, These Women Say He Coerced Them Into Sex</h3>
-<sub>By Ilyssa Daly, Jerry Mitchell and Rory Doyle</sub>
-<p>Sheriff Eddie Scott has been the top lawman in rural Clay County, Miss., for more than a decade despite repeated allegations.  <a href="https://nyti.ms/3Q1kiK2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Official Data Hinted at China’s Hidden Covid Toll. Then It Vanished.</h3>
-<sub>By Muyi Xiao, Mara Hvistendahl and James Glanz</sub>
-<p>Epidemiologists say a rise in cremations in an eastern province was the latest indication that the country’s official death toll from Covid is a vast undercount.  <a href="https://nyti.ms/3NZDGEJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Kissinger Meets Top Officials in China and Gets a Warm Greeting</h3>
-<sub>By Vivian Wang</sub>
-<p>At 100, Henry Kissinger met with China’s top diplomat as well as its defense minister, who last month rejected an invitation to meet with the U.S. defense secretary.  <a href="https://nyti.ms/44PF9nX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
