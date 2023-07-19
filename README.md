@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Tuesday, July 18, Central Standard Time</p>
+<p>It is Wednesday, July 19, Central Standard Time</p>
 <p>
-Recently, President Trump has been charged by the special counsel with obstruction and fraud in connection with the Capitol attack on January 6th, and the case is progressing. In Michigan, 16 individuals have been charged for a scheme to overturn Trump&#39;s loss in the US general election of 2020. On a global scale, heatwaves are hitting continents across North America, Europe, and Asia. Places like Phoenix, Arizona have set new records for consecutive days with temperatures of 110°F or higher. Meanwhile, climate activists such as Al Gore are calling more attention to these disasters and pushing for policies to fight against fossil fuels. Politically, Florida Governor DeSantis is being criticized for his presidential campaign and Senator Tim Scott of South Carolina has received $40 million in advertisements from a Super PAC. At the same time, there&#39;s a soft launch of a potential third-party presidential ticket between Senator Joe Manchin III and former Governor Jon Huntsman Jr., however they don&#39;t agree on all their views yet. Finally, there&#39;s an ongoing search by magazine writers to find Tom Cruise as he has avoided the press for more than a decade.</p>
+I&#39;ve been seeing a lot of news lately about politics in America and beyond. In the US, former President Trump is likely to face an indictment connected to the Capitol attack. Other people are facing charges too, from an alleged elector scheme to obstruction of justice and fraud. Russia is also escalating their tensions against Ukraine with multiple missile and drone attacks after a bridge attack and a grain deal collapsing. Meanwhile, North America, Europe and Asia are all being affected by extremely hot weather, breaking heat records in some places. It’s clear Climate Change is still on-going, with Al Gore, former US Vice President, stressing it’s a threat to humanity. In Florida, current Governor DeSantis is facing scrutiny over his campaign strategies while Senator Tim Scott received a boost from a Super PAC for $40 million ad campaign. Lastly Joe Manchin III and former Governor Jon Huntsman Jr have soft launched their own political party- although they disagree on some major issues such as climate and guns. Finally, in theGilgo Beach Case in NY region, Asa Ellerup- wife of Rex Heuermann who has been charged with murder- became central to the investigation despite her absence at the time of the killings occuring</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Says He’s Target in Special Counsel’s Investigation Into Jan. 6</h3>
@@ -122,16 +122,16 @@ Recently, President Trump has been charged by the special counsel with obstructi
 <p>Senator Joe Manchin III and former Gov. Jon Huntsman Jr. stressed that they were not a third-party presidential ticket — yet. And on issues like climate and guns, they debated their views.  <a href="https://nyti.ms/3Oknsrk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>My Impossible Mission to Find Tom Cruise</h3>
-<sub>By Caity Weaver</sub>
-<p>The action star has gone to great lengths to avoid the press for more than a decade. But maybe our writer could track him down anyway?  <a href="https://nyti.ms/3XS3OGf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 17, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>In Gilgo Beach Case, a Wife Nearby but Apparently Unknowing</h3>
 <sub>By Corey Kilgannon</sub>
 <p>Asa Ellerup, married to Rex Heuermann, who has been charged with murder, cut a glum figure. She was away when the killings happened, yet became central to the investigation.  <a href="https://nyti.ms/43BkcvL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russia Bombards Ukraine Port After Bridge Attack and Grain Deal Collapse</h3>
+<sub>By Marc Santora, Ivan Nechepurenko and Matthew Mpoke Bigg</sub>
+<p>Russian forces launched a barrage of missiles and drones at Odesa, not usually a major target, a day after important shifts in the conduct of the war.  <a href="https://nyti.ms/3XV8Xxe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
