@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, July 18, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In the U.S., former President Trump is facing potential criminal charges related to his involvement in the Capitol riot on January 6th. Meanwhile, 16 people have been charged in a false elector scheme to overturn the result of the 2020 election. Also in the U.S., extremes of heat are being felt across North America, Europe, and Asia due to climate change and a heat record set in 1974 has been broken in Phoenix. Scott Desantis is defending himself in a rare CNN interview despite facing rising criticism, and a super PAC supporting him has announced a $40-million ad campaign. And finally, there is an independent mission to find Tom Cruise that might actually be successful!</p>
+Recently, President Trump has been charged by the special counsel with obstruction and fraud in connection with the Capitol attack on January 6th, and the case is progressing. In Michigan, 16 individuals have been charged for a scheme to overturn Trump&#39;s loss in the US general election of 2020. On a global scale, heatwaves are hitting continents across North America, Europe, and Asia. Places like Phoenix, Arizona have set new records for consecutive days with temperatures of 110°F or higher. Meanwhile, climate activists such as Al Gore are calling more attention to these disasters and pushing for policies to fight against fossil fuels. Politically, Florida Governor DeSantis is being criticized for his presidential campaign and Senator Tim Scott of South Carolina has received $40 million in advertisements from a Super PAC. At the same time, there&#39;s a soft launch of a potential third-party presidential ticket between Senator Joe Manchin III and former Governor Jon Huntsman Jr., however they don&#39;t agree on all their views yet. Finally, there&#39;s an ongoing search by magazine writers to find Tom Cruise as he has avoided the press for more than a decade.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Says He’s Target in Special Counsel’s Investigation Into Jan. 6</h3>
@@ -71,7 +71,7 @@ There is a lot going on in the world right now. In the U.S., former President Tr
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Target Letter to Trump Raises Possibility of Obstruction and Fraud Charges</h3>
 <sub>By Charlie Savage</sub>
-<p>The former president did not say which crimes, if any, prosecutors specified in a letter notifying him that he may be indicted again.  <a href="https://nyti.ms/3QausYO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>A person briefed on the matter said the letter cited three statutes that could be applied in a prosecution of the former president.  <a href="https://nyti.ms/3QausYO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
