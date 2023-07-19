@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, July 19, Central Standard Time</p>
 <p>
-I&#39;ve been seeing a lot of news lately about politics in America and beyond. In the US, former President Trump is likely to face an indictment connected to the Capitol attack. Other people are facing charges too, from an alleged elector scheme to obstruction of justice and fraud. Russia is also escalating their tensions against Ukraine with multiple missile and drone attacks after a bridge attack and a grain deal collapsing. Meanwhile, North America, Europe and Asia are all being affected by extremely hot weather, breaking heat records in some places. It’s clear Climate Change is still on-going, with Al Gore, former US Vice President, stressing it’s a threat to humanity. In Florida, current Governor DeSantis is facing scrutiny over his campaign strategies while Senator Tim Scott received a boost from a Super PAC for $40 million ad campaign. Lastly Joe Manchin III and former Governor Jon Huntsman Jr have soft launched their own political party- although they disagree on some major issues such as climate and guns. Finally, in theGilgo Beach Case in NY region, Asa Ellerup- wife of Rex Heuermann who has been charged with murder- became central to the investigation despite her absence at the time of the killings occuring</p>
+In the US, Donald Trump has been targeted in a special counsel investigation into the Capitol attack on January 6th, and he could face potential charges of obstruction and fraud. In Michigan, 16 people are facing felony charges in a false elector scheme to overturn Trump&#39;s 2020 loss. Meanwhile in Phoenix, they have broken a heat record set in 1974 pushing many across North America, Europe, and Asia to struggle with extreme temperatures. Al Gore is warning about the impact of fossil fuels and how it is causing increased heat waves. In Florida, gubernatorial candidate DeSantis is on CNN defending his campaign while a new $40 million ad campaign has been launched by a super PAC to support Senator Tim Scott&#39;s presidential bid. Additionally, two politicians in Joe Manchin III and former Governor Jon Huntsman Jr. are trying to form a third political party with plenty of disagreements about their views including climate and guns. Lastly, Rex Heuermann who is charged with murder for the Gilgo Beach case will have his wife stand trial in New York as apparently unknowing of the situation - even though she was away when it happened. Last but not least, Hollywood is currently shut down after their actors and writers went on strike but surprisingly their directors actually agreed on a deal with the studios last month.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Says He’s Target in Special Counsel’s Investigation Into Jan. 6</h3>
@@ -128,10 +128,10 @@ I&#39;ve been seeing a lot of news lately about politics in America and beyond. 
 <p>Asa Ellerup, married to Rex Heuermann, who has been charged with murder, cut a glum figure. She was away when the killings happened, yet became central to the investigation.  <a href="https://nyti.ms/43BkcvL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia Bombards Ukraine Port After Bridge Attack and Grain Deal Collapse</h3>
-<sub>By Marc Santora, Ivan Nechepurenko and Matthew Mpoke Bigg</sub>
-<p>Russian forces launched a barrage of missiles and drones at Odesa, not usually a major target, a day after important shifts in the conduct of the war.  <a href="https://nyti.ms/3XV8Xxe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>In Hollywood’s Labor Tumult, Directors Stand Apart</h3>
+<sub>By Nicole Sperling</sub>
+<p>Their union agreed to a deal with the studios last month. With actors and writers on strike, the industry is shut down anyway.  <a href="https://nyti.ms/44waDzB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
