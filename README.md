@@ -60,12 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, July 19, Central Standard Time</p>
 <p>
-There is a lot of political unrest going on in the world right now. In Odesa, a missile hit a cemetery and left a crater at the site where a woman&#39;s father was buried. In Israel, protests are simmering as their President prepares to address Congress about plans to overhaul the judiciary. In Florida, swimmers are taking a dip in water that is reaching record temperatures off the coast of south Florida due to climate change. Meanwhile, some economists are predicting that a recession may be on the horizon in the near future because of rising interest rates. On the culture front, 50 rappers have come together to tell the story of how hip-hop has grown over five decades from an art form to a powerful force in popular culture. In movies, Christopher Nolan released &quot;Oppenheimer,&quot; a complex portrait of the “father of the atomic bomb,” while Greta Gerwig produced “Barbie” which takes us out of the box and onto new adventures. Finally, there is concern about an injury epidemic in women&#39;s soccer with no explanation yet as to why it is happening or how to fix it.</p>
+Right now, tensions are high between China and the United States over climate change. In Belarus, there is a video suggesting Wagner leader visited to address his troops. In Israel, protests are brewing over the government&#39;s plans to overhaul the judiciary. Meanwhile, in Alaska, an endangered species of salmon is on the brink of extinction.  In the US, Stanford president Marc Tessier-Lavigne will be resigning after criticism of his research emerged. In addition, economists are uncertain about how a potential recession could play out for the US economy. To fight against climate change, we have seen a surge of lawyers suing Big Oil companies for damages. On the entertainment side, this weekend has two major movies - &#39;Barbie&#39; and &#39;Oppenheimer&#39; - being released and critics are divided on their view of both.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Odesa, a missile slams into a cemetery, leaving a crater where a woman’s father was buried.</h3>
-<sub>By Marc Santora</sub>
-<p>  <a href="https://nyti.ms/3OiJ4Eo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>China’s Xi Rebuffs Kerry’s Call for Faster Climate Action</h3>
+<sub>By Lisa Friedman, Chris Buckley and Keith Bradsher</sub>
+<p>John Kerry, President Biden’s climate envoy, emerges from talks in Beijing without a new agreement. But just talking is progress, he said.  <a href="https://nyti.ms/3K3ZEFy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Video suggests Wagner leader visited Belarus to address his troops this week.</h3>
+<sub>By Ivan Nechepurenko and Riley Mellen</sub>
+<p>In the video, a man whose silhouette and voice closely resemble Mr. Prigozhin said that the Wagner fighters will stay in Belarus for some time to train its army.  <a href="https://nyti.ms/3rESP6M"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -78,12 +84,6 @@ There is a lot of political unrest going on in the world right now. In Odesa, a 
 <h3>Starving Orcas and the Fate of Alaska’s Disappearing King Salmon</h3>
 <sub>By Julia O’Malley</sub>
 <p>With the fish numbers at historic lows, scientists, chefs and others are asking whether we should be eating them anymore, and what it means for the future of all wild salmon.  <a href="https://nyti.ms/3DnETRr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Florida, Swimmers Brave an Ocean That Feels Like Steamy Syrup</h3>
-<sub>By Patricia Mazzei</sub>
-<p>Toweling off seemed unnecessary, as no one felt cold emerging from water that reached record temperatures off the coast of South Florida in recent days.  <a href="https://nyti.ms/44t3kIY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -122,17 +122,17 @@ There is a lot of political unrest going on in the world right now. In Odesa, a 
 <p>She’s in the driver’s seat, headed for uncharted territory (flat feet!). But there are limits to how much dimension even Greta Gerwig can give this branded material.  <a href="https://nyti.ms/3QawXKG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>The Curse Stalking Women’s Soccer</h3>
-<sub>By Rory Smith</sub>
-<p>The World Cup is missing some of the sport’s biggest stars because of a knee injury epidemic. No one can say for sure why it’s happening, or how to fix it.  <a href="https://nyti.ms/3pSZmdA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>‘Barbie’ Reviews Are In: Slickly Subversive or Inescapably Corporate?</h3>
+<sub>By Julia Jacobs</sub>
+<p>Some critics viewed the highly-anticipated movie as satirically capitalistic, while others saw it as capitalistically satirical.  <a href="https://nyti.ms/44CaMl9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>50 Rappers, 50 Stories</h3>
-<sub>By Joe Coscarelli and Jon Caramanica</sub>
-<p>Over five decades, hip-hop has grown from a new art form to a culture-defining superpower. In their own words, 50 influential voices chronicle its evolution.  <a href="https://nyti.ms/3JZy8cf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>Can’t Decide Whether to See ‘Barbie,’ ‘Oppenheimer’ or Both? Our Barbenheimer Quiz Can Help.</h3>
+<sub>By Melena Ryzik</sub>
+<p>Answer these five questions about the biggest moviegoing weekend of the year.  <a href="https://nyti.ms/3Okz9y5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
