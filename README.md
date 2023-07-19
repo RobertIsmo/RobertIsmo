@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, July 19, Central Standard Time</p>
 <p>
-In Ukraine, soldiers are joining the fight to reclaim towns occupied by the Russian military. Meanwhile, South Africa recently announced that Russian president Putin will not be attending an upcoming diplomatic summit. In the US, former president Trump may face obstruction and fraud charges following a target letter from the Dept. of Justice. Also in the US, Michigan has charged 16 people for attempting to overturn Trump&#39;s 2020 election loss and Florida is experiencing record hot temperatures from a relentless early-summer heat wave. In Spain, they&#39;re turning to medieval solutions to address draught caused by climate change and hip-hop has celebrated its 50th anniversary while facing abuse allegations against Mississippi sheriff Eddie Scott. Lastly, authorities in New York have charged a man with murder for 11 bodies found near Gilgo Beach and are investigating if more may be connected to him.</p>
+There is a lot going on right now in the world. In Ukraine, soldiers from towns held by the Russian military are fighting to reclaim them. Meanwhile, Vladimir Putin won&#39;t attend a summit in South Africa after that country issued a warrant for him at the International Criminal Court. In the US, charges of obstruction and fraud are being considered against former president Donald Trump for his role in the storming of Capitol Hill - though Republicans seem to be shrugging off the news. In Michigan, 16 people have been charged with taking part in a scheme to try and overturn Trump&#39;s 2020 election loss. There are also protests simmering in Israel as their President addresses Congress, and ocean temperatures reaching record high levels in Florida. In China, official data shows that Covid deaths may have been vastly undercounted, and Henry Kissinger visited and was greeted warmly by officials there.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>For These Ukrainian Soldiers, the Fight Is Personal</h3>
@@ -69,9 +69,9 @@ In Ukraine, soldiers are joining the fight to reclaim towns occupied by the Russ
 <sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>South Africa’s President Says Putin Will Not Attend Diplomatic Summit</h3>
+<h3>Putin, Wanted for War Crimes, Will Not Attend Summit in South Africa in Person, Kremlin Says</h3>
 <sub>By John Eligon</sub>
-<p>The decision allows South Africa to avoid the predicament of whether to arrest the Russian leader, who is the subject of an international warrant, if he traveled to Johannesburg for a BRICS meeting.  <a href="https://nyti.ms/3Oi8C4u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The decision allows South Africa to avoid a predicament over whether to arrest the Russian leader. He is the subject of a warrant issued by the International Criminal Court, to which South Africa is a signatory.  <a href="https://nyti.ms/3Oi8C4u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -81,7 +81,7 @@ In Ukraine, soldiers are joining the fight to reclaim towns occupied by the Russ
 <sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Third Verse, Same as the First: Republicans Shrug at Latest Trump Case</h3>
+<h3>Republicans Shrug at Latest Possible Trump Indictment</h3>
 <sub>By Shane Goldmacher and Maggie Haberman</sub>
 <p>News of a possible indictment related to Jan. 6 brought a muddled response from some of Donald Trump’s 2024 rivals, and familiar attacks on President Biden from his allies in Congress.  <a href="https://nyti.ms/3Y22ssn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
@@ -98,28 +98,22 @@ In Ukraine, soldiers are joining the fight to reclaim towns occupied by the Russ
 <p>Three big questions about a potential indictment of Trump in the special counsel investigation.  <a href="https://nyti.ms/43wyEFx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Protests Simmer in Israel as Country’s President Prepares to Address Congress</h3>
+<sub>By Isabel Kershner</sub>
+<p>The small protests reflect the broad nature of popular opposition to plans by Israel’s government to overhaul the judiciary, and seemed timed to coincide with the speech by President Isaac Herzog.  <a href="https://nyti.ms/3pLls1S"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In Florida, Swimmers Brave an Ocean That Feels Like Steamy Syrup</h3>
 <sub>By Patricia Mazzei</sub>
 <p>Toweling off seemed unnecessary, as no one felt cold emerging from water that reached record temperatures off the coast of South Florida in recent days.  <a href="https://nyti.ms/44t3kIY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The U.S. Weather by the Numbers</h3>
-<sub>By Colbi Edmonds</sub>
-<p>Lots of triple-digit temperatures tell the story of the relentless early-summer heat.  <a href="https://nyti.ms/3rDHqEA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Facing a Future of Drought, Spain Turns to Medieval Solutions and ‘Ancient Wisdom’</h3>
-<sub>By Constant Méheut</sub>
-<p>Acequias, a network of water channels created by the Moors over 1,000 years ago, are being excavated and brought back to life to adapt to the crises of climate change.  <a href="https://nyti.ms/3NWBpdC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>50 Rappers, 50 Stories</h3>
 <sub>By Joe Coscarelli and Jon Caramanica</sub>
-<p>Over five decades, hip-hop has grown from a new artform to a culture-defining superpower. In their own words, 50 influential voices chronicle its evolution.  <a href="https://nyti.ms/3JZy8cf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Over five decades, hip-hop has grown from a new art form to a culture-defining superpower. In their own words, 50 influential voices chronicle its evolution.  <a href="https://nyti.ms/3JZy8cf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -128,11 +122,17 @@ In Ukraine, soldiers are joining the fight to reclaim towns occupied by the Russ
 <p>Sheriff Eddie Scott has been the top lawman in rural Clay County, Miss., for more than a decade despite repeated allegations.  <a href="https://nyti.ms/3Q1kiK2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>3 Charges, 11 Bodies: Families Hope for Answers in Gilgo Beach Case</h3>
-<sub>By Hurubie Meko, Erin Nolan and Ellen Yan</sub>
-<p>Authorities continue to investigate whether other corpses found along miles of sand are linked to Rex Heuermann, who they say is a serial killer.  <a href="https://nyti.ms/44IoeUs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Official Data Hinted at China’s Hidden Covid Toll. Then It Vanished.</h3>
+<sub>By Muyi Xiao, Mara Hvistendahl and James Glanz</sub>
+<p>Epidemiologists say a rise in cremations in an eastern province was the latest indication that the country’s official death toll from Covid is a vast undercount.  <a href="https://nyti.ms/3NZDGEJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Kissinger Meets Top Officials in China and Gets a Warm Greeting</h3>
+<sub>By Vivian Wang</sub>
+<p>At 100, Henry Kissinger met with China’s top diplomat as well as its defense minister, who last month rejected an invitation to meet with the U.S. defense secretary.  <a href="https://nyti.ms/44PF9nX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
