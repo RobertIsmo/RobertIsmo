@@ -60,13 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, July 20, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In the US, the potential charges against former President Donald Trump include the civil rights law used in voting fraud cases. Meanwhile, a judge has ruled that the hush money case against Trump will remain in New York State court, and Stanford&#39;s president is resigning after a report found flaws in his research. 
-
-In China, President Biden&#39;s climate envoy emerged without a new agreement after meeting with President Xi, but both sides made progress in their talks. In Russia, they are hitting grain ports and threatening ships headed to Ukraine, and there are allegations of a deal between Putin and a mercenary chief. 
-
-In Britain, the low numbers of king salmon has sparked conversations about whether we should be eating them. In Texas, there are reports of new border tactics that are injuring migrants. And New York City is telling migrants there&#39;s &quot;no guarantee&quot; of finding help there.
-
-Finally, Cannes Film Festival 2021 saw the premier of Christopher Nolan&#39;s movie about J Robert Oppenheimer, described as a brilliant achievement.</p>
+There are a lot of interesting things happening in the world right now. The US is looking at possible criminal charges against former President Trump, including civil rights law violations in voting fraud cases. In New York, a judge refused to move a criminal case against Trump to federal court. Meanwhile, John Kerry, President Biden&#39;s climate envoy, has been talking to China about taking faster action on climate change. A spy in Britain claims that Russian President Putin made a deal with the head of a mercenary group called Wagner LLP. In Alaska, there&#39;s concern over low numbers of King Salmon and whether people should stop eating them. Stanford&#39;s president has resigned after admitting flaws in his research. Student journalists are getting more attention after reports they did about the president of Stanford and head football coach of Northwestern lead to their resignations. Texas is using harsh tactics at its border with Mexico that have some federal agents concerned about more drownings. NYC is discouraging migrants from even coming by telling them there is not a guarantee of finding help here. Lastly, there was recently released Barbie movie, which critics had mixed opinions about whether it was actually subversive or just corporate capitalism at work.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Potential Trump Charges Include Civil Rights Law Used in Voting Fraud Cases</h3>
@@ -84,12 +78,6 @@ Finally, Cannes Film Festival 2021 saw the premier of Christopher Nolan&#39;s mo
 <h3>China’s Xi Rebuffs Kerry’s Call for Faster Climate Action</h3>
 <sub>By Lisa Friedman, Chris Buckley and Keith Bradsher</sub>
 <p>John Kerry, President Biden’s climate envoy, emerges from talks in Beijing without a new agreement. But just talking is progress, he said.  <a href="https://nyti.ms/3K3ZEFy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia Hits Grain Ports and Threatens Ships Headed to Ukraine</h3>
-<sub>By Marc Santora, Matthew Mpoke Bigg and Joe Rennison</sub>
-<p>Ukraine accused Moscow of specifically targeting the infrastructure for exporting food, after Russia pulled out of an agreement allowing ships carrying grain to sail past its Black Sea blockade.  <a href="https://nyti.ms/3pXXgta"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -116,12 +104,6 @@ Finally, Cannes Film Festival 2021 saw the premier of Christopher Nolan&#39;s mo
 <p>The president of Stanford and the head football coach at Northwestern left their positions after being scrutinized in campus newspapers.  <a href="https://nyti.ms/43DUPJL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Analysis Says Biden’s New Student Debt Plan Could Cost $475 Billion</h3>
-<sub>By Stacy Cowley</sub>
-<p>The report estimates that the plan will slash borrowers’ payments and cost more than President Biden’s recently rejected debt cancellation plan.  <a href="https://nyti.ms/3DhqhTH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Texas’ Harsh New Border Tactics Are Injuring Migrants</h3>
 <sub>By Edgar Sandoval, Jay Root and J. David Goodman</sub>
@@ -138,6 +120,18 @@ Finally, Cannes Film Festival 2021 saw the premier of Christopher Nolan&#39;s mo
 <h3>‘Oppenheimer’ Review: A Man for Our Time</h3>
 <sub>By Manohla Dargis</sub>
 <p>Christopher Nolan’s complex, vivid portrait of J. Robert Oppenheimer, the “father of the atomic bomb,” is a brilliant achievement in formal and conceptual terms.  <a href="https://nyti.ms/44vnYZb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>‘Barbie’ Review: Out of the Box and On the Road</h3>
+<sub>By Manohla Dargis</sub>
+<p>She’s in the driver’s seat, headed for uncharted territory (flat feet!). But there are limits to how much dimension even Greta Gerwig can give this branded material.  <a href="https://nyti.ms/3QawXKG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>‘Barbie’ Reviews Are In: Slickly Subversive or Inescapably Corporate?</h3>
+<sub>By Julia Jacobs</sub>
+<p>Some critics viewed the highly-anticipated movie as satirically capitalistic, while others saw it as capitalistically satirical.  <a href="https://nyti.ms/44CaMl9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
 <hr/>
 </ol>
