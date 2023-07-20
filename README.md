@@ -60,8 +60,26 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, July 19, Central Standard Time</p>
 <p>
-Right now, tensions are high between China and the United States over climate change. In Belarus, there is a video suggesting Wagner leader visited to address his troops. In Israel, protests are brewing over the government&#39;s plans to overhaul the judiciary. Meanwhile, in Alaska, an endangered species of salmon is on the brink of extinction.  In the US, Stanford president Marc Tessier-Lavigne will be resigning after criticism of his research emerged. In addition, economists are uncertain about how a potential recession could play out for the US economy. To fight against climate change, we have seen a surge of lawyers suing Big Oil companies for damages. On the entertainment side, this weekend has two major movies - &#39;Barbie&#39; and &#39;Oppenheimer&#39; - being released and critics are divided on their view of both.</p>
+Things are getting pretty wild out in the world right now. The Trump administration is facing potential charges under Civil Rights Laws related to voting fraud cases. Plus, a judge rejected his effort to move criminal proceedings against him to federal court.
+
+On the global level, China continues to resist taking action on climate change, despite pressure from John Kerry, President Biden&#39;s Climate Envoy. Russia is also sending a chilling message by targeting grain ports headed to Ukraine and reportedly making a deal with a mercenary chief. 
+
+In the U.S., the Stanford University president just resigned after a report found flaws in his research. Student journalists are making headlines too, as they reported on issues that led to the resignations of the Stanford president and Northwestern head football coach. And there&#39;s more news of Biden&#39;s plans taking shape - this time for student debt - which some analysts estimate could cost up to $475 billion dollars. 
+
+Meanwhile, Texas has imposed some harsh new border tactics, injuring migrants in the process, and NYC recently announced rules to limit migration into their city. Finally, an environmental lawyer is spearheading an effort to sue big oil companies for climate damages. </p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Potential Trump Charges Include Civil Rights Law Used in Voting Fraud Cases</h3>
+<sub>By Maggie Haberman, Adam Goldman, Charlie Savage and Alan Feuer</sub>
+<p>A target letter sent by the special counsel investigating Donald Trump’s efforts to reverse his election loss cited three statutes that could be the basis for a prosecution.  <a href="https://nyti.ms/3DjfEjh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Trump Hush Money Case Will Remain in New York State Court, Judge Rules</h3>
+<sub>By Jonah E. Bromwich</sub>
+<p>Lawyers for former President Donald J. Trump had sought to move the first criminal case against him to federal court, but a judge put an end to the effort.  <a href="https://nyti.ms/44LFp7e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>China’s Xi Rebuffs Kerry’s Call for Faster Climate Action</h3>
 <sub>By Lisa Friedman, Chris Buckley and Keith Bradsher</sub>
@@ -69,15 +87,15 @@ Right now, tensions are high between China and the United States over climate ch
 <sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Video suggests Wagner leader visited Belarus to address his troops this week.</h3>
-<sub>By Ivan Nechepurenko and Riley Mellen</sub>
-<p>In the video, a man whose silhouette and voice closely resemble Mr. Prigozhin said that the Wagner fighters will stay in Belarus for some time to train its army.  <a href="https://nyti.ms/3rESP6M"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Russia Hits Grain Ports and Threatens Ships Headed to Ukraine</h3>
+<sub>By Marc Santora, Matthew Mpoke Bigg and Joe Rennison</sub>
+<p>Ukraine accused Moscow of specifically targeting the infrastructure for exporting food, after Russia pulled out of an agreement allowing ships carrying grain to sail past its Black Sea blockade.  <a href="https://nyti.ms/3pXXgta"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Protests Simmer in Israel as Country’s President Prepares to Address Congress</h3>
-<sub>By Isabel Kershner</sub>
-<p>The small protests reflect the broad nature of popular opposition to plans by Israel’s government to overhaul the judiciary, and seemed timed to coincide with the speech by President Isaac Herzog.  <a href="https://nyti.ms/3pLls1S"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Britain’s Spy Master Says Putin Cut Deal With Wagner Mercenary Chief</h3>
+<sub>By Megan Specia and Julian E. Barnes</sub>
+<p>Richard Moore, the chief of MI6, said the Russian leader acted “to save his skin,” offering rare insights into the events surrounding the sudden end of Yevgeny V. Prigozhin’s march on Moscow.  <a href="https://nyti.ms/3rB6xru"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-dining-blue" alt="">
@@ -93,45 +111,33 @@ Right now, tensions are high between China and the United States over climate ch
 <sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Could the Recession in the Distance Be Just a Mirage?</h3>
-<sub>By Ben Casselman and Jeanna Smialek</sub>
-<p>Rising interest rates were widely expected to put the U.S. economy in reverse. Now things are looking rosier, but don’t pop the Champagne corks yet.  <a href="https://nyti.ms/3pTgMa2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>University Departures Put Student Journalists in Spotlight</h3>
+<sub>By Katie Robertson</sub>
+<p>The president of Stanford and the head football coach at Northwestern left their positions after being scrutinized in campus newspapers.  <a href="https://nyti.ms/43DUPJL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Pandemic’s Labor Market Myths</h3>
-<sub>By Jeanna Smialek and Ben Casselman</sub>
-<p>Amid the pandemic, people thought the labor market had permanently changed in important ways. It was a bad bet.  <a href="https://nyti.ms/3q2Y5Rf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Analysis Says Biden’s New Student Debt Plan Could Cost $475 Billion</h3>
+<sub>By Stacy Cowley</sub>
+<p>The report estimates that the plan will slash borrowers’ payments and cost more than President Biden’s recently rejected debt cancellation plan.  <a href="https://nyti.ms/3DhqhTH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Texas’ Harsh New Border Tactics Are Injuring Migrants</h3>
+<sub>By Edgar Sandoval, Jay Root and J. David Goodman</sub>
+<p>A “hold-the-line” operation has created tensions with federal agents who warn it could lead to more drownings. Officers ordered to carry out the measures are raising alarms.  <a href="https://nyti.ms/3NXMpHG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>New York City Tells Migrants There’s ‘No Guarantee’ of Finding Help Here</h3>
+<sub>By Jeffery C. Mays</sub>
+<p>Mayor Eric Adams announced new shelter rules for some asylum seekers, and will begin discouraging migrants at the southern border from coming to New York City.  <a href="https://nyti.ms/3pU3YjE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>She’s on a Mission From God: Suing Big Oil for Climate Damages</h3>
 <sub>By David Gelles and Erin Schaff</sub>
 <p>A lawyer started small with a creative tactic. It grew into an effort that could force fossil fuel companies to pay hundreds of billions in damages.  <a href="https://nyti.ms/3PZr5nJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>‘Oppenheimer’ Review: A Man for Our Time</h3>
-<sub>By Manohla Dargis</sub>
-<p>Christopher Nolan’s complex, vivid portrait of J. Robert Oppenheimer, the “father of the atomic bomb,” is a brilliant achievement in formal and conceptual terms.  <a href="https://nyti.ms/44vnYZb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>‘Barbie’ Review: Out of the Box and On the Road</h3>
-<sub>By Manohla Dargis</sub>
-<p>She’s in the driver’s seat, headed for uncharted territory (flat feet!). But there are limits to how much dimension even Greta Gerwig can give this branded material.  <a href="https://nyti.ms/3QawXKG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>‘Barbie’ Reviews Are In: Slickly Subversive or Inescapably Corporate?</h3>
-<sub>By Julia Jacobs</sub>
-<p>Some critics viewed the highly-anticipated movie as satirically capitalistic, while others saw it as capitalistically satirical.  <a href="https://nyti.ms/44CaMl9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>Can’t Decide Whether to See ‘Barbie,’ ‘Oppenheimer’ or Both? Our Barbenheimer Quiz Can Help.</h3>
-<sub>By Melena Ryzik</sub>
-<p>Answer these five questions about the biggest moviegoing weekend of the year.  <a href="https://nyti.ms/3Okz9y5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
 <hr/>
 </ol>
