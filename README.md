@@ -60,11 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, July 20, Central Standard Time</p>
 <p>
-I&#39;ve been hearing some really wild news lately. In Russia, they withdrew from a deal that allowed Ukraine to export grain across the Black Sea despite a wartime blockade, and warned ships sailing around Ukrainian ports would be seen as military targets. On top of that, families of children with cancer in Ukraine are struggling even more due to the war with Russia.
-
-Over in the US, Donald Trump’s legal woes are mounting as key criminal and civil trials could overlap with next year&#39;s presidential primaries. It&#39;s also been hot all over Europe lately – so much so that countries that weren&#39;t used to napping in the middle of the day are now looking into it. There&#39;s also been reports about genetic mutations causing the elderly to go into dementia in middle age and writers in Hollywood fighting for better roles.
-
-Closer to home, people have been gathering around hookah lounges and a new bill has just passed the House to improve air travel. Lastly, some intriguing insight came from documents written by Caroline Ellison – a key witness in an FTX crypto exchange case. Pretty wild, right?</p>
+There is a lot going on in the world right now. Russia recently withdrew from a deal that allowed Ukraine to export grain across the Black Sea, which has caused a wartime blockade. On top of this, Ukrainian children with cancer are facing even greater challenges as a result of the war. In the US, President Donald Trump is facing a growing tangle of criminal and civil trials which will coincide with the Presidential primaries next year. There is also an extreme heatwave in many parts of the US and in Europe people are advocating for siestas to help protect them from the heat. On top of all this, TV writers are seeing an increase in job insecurity due to studios limiting their roles in production. Finally, young Arab Americans in Michigan find connection and community through hookah lounges.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>What Russia’s Grain Deal Actions Mean for Ukraine</h3>
@@ -79,7 +75,7 @@ Closer to home, people have been gathering around hookah lounges and a new bill 
 <sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Inside the Hunt for the Gilgo Beach Serial Killer</h3>
+<h3>The Polygon and the Avalanche: How the Gilgo Beach Suspect Was Found</h3>
 <sub>By William K. Rashbaum, Joseph Goldstein and Johnny Milano</sub>
 <p>As investigators spent years looking for a suspect, a key clue was buried in their files. Could they have solved the case years earlier?  <a href="https://nyti.ms/3OpJbhC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
@@ -90,10 +86,22 @@ Closer to home, people have been gathering around hookah lounges and a new bill 
 <p>The Republican front-runner is facing a growing tangle of criminal and civil trials that will overlap with next year’s presidential primaries.  <a href="https://nyti.ms/3XVJWlz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>For Europe’s Older Population, Heat Is the New Covid</h3>
-<sub>By Gaia Pianigiani</sub>
-<p>Scorching temperatures have threatened the health of the elderly and pushed them inside, while governments are trying to take extraordinary steps to protect them.  <a href="https://nyti.ms/3Q4RXmn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Obstruction Law Cited by Prosecutors in Trump Case Has Drawn Challenges</h3>
+<sub>By Alan Feuer</sub>
+<p>Hundreds of Jan. 6 rioters have been charged with obstruction of an official proceeding, but the charge, which could be applied to former President Donald J. Trump, has come under scrutiny.  <a href="https://nyti.ms/46R2tUd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Most Essential Worker in a Heat Wave? The A.C. Guy</h3>
+<sub>By Jack Healy</sub>
+<p>While trying to cool brutally hot Phoenix, Roberto Guerrero and his sons endure sweltering attics, blazing rooftops and nonstop calls for help.  <a href="https://nyti.ms/46ZRdVm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>How Extreme Heat Affects Workers and the Economy</h3>
+<sub>By David Gelles and Manuela Andreoni</sub>
+<p>“It drains your brain. It slows your cognitive function. You’re overwhelmed.”  <a href="https://nyti.ms/3XZuMvu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -124,18 +132,6 @@ Closer to home, people have been gathering around hookah lounges and a new bill 
 <h3>For Young Arab Americans in Michigan, the Hookah Lounge Feels like Home</h3>
 <sub>By Farah Al Qasimi and Sara Aridi</sub>
 <p>A new generation of immigrants, refugees and their descendants is finding a sense of connection and community around the shisha pipe.  <a href="https://nyti.ms/3PYhspk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Inside the Private Writings of Caroline Ellison, Star Witness in the FTX Case</h3>
-<sub>By David Yaffe-Bellany and Matthew Goldstein</sub>
-<p>Ms. Ellison, a top executive in Sam Bankman-Fried’s business empire, recorded her thoughts on private Google documents that offer new insight into the collapse of the FTX crypto exchange.  <a href="https://nyti.ms/3Q6BJsY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>House Overwhelmingly Passes Bill to Improve Air Travel</h3>
-<sub>By Kayla Guo</sub>
-<p>The House cleared away a number of potential sticking points that had threatened to hold up the bill to reauthorize the Federal Aviation Administration. It goes next to the Senate.  <a href="https://nyti.ms/3Q5ZqBE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
 <hr/>
 </ol>
