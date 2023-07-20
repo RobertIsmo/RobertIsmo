@@ -60,10 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, July 20, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. In the US, President Trump is facing legal issues that could interfere with his campaign. Joe Biden has taken shots at Republicans, but is staying silent about any Trump indictments. There&#39;s also potential criminal charges related to civil rights violations in voting fraud cases. 
-In Europe, there&#39;s a heat wave making things difficult for tourists and older people, which China appears to be exacerbating with their addiction to coal. Meanwhile, in Ukraine, the war with Russia is making it hard for pediatric cancer patients and their families to get good treatment. Britain&#39;s spy chief has suggested that Putin struck a deal with a mercenary leader to keep his power secure. 
-Elsewhere, abortion laws are in flux due to a Supreme Court decision and networks of volunteers are doing their best trying to fill in health care gaps created by the decision. Finally, in an attempt to influence US thinking on China, Xi Jinping has turned to old American friendships like Henry Kissinger.</p>
+It&#39;s been a year of upheaval for many in the world, especially those on the frontlines dealing with abortion laws, and sudden climate changes such as European heat waves. In Ukraine, children struggling with pediatric cancer and their families have been fighting a war with Russia alongside their disease while facing significant challenges. In China, energy-hungry citizens are relying more heavily on coal production while pledging to do less for the environment. Meanwhile, in Tunisia, African migrants are pushed to no-man&#39;s lands along its borders thanks to deals made with the European Union for aid, while American President Joe Biden is staying silent on former President Donald Trump&#39;s legal woes. Sports players like Julie Ertz have been hustling to get back onto national teams as well. All these examples point to a decidedly tumultuous time in the world right now.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukrainian Children With Cancer Fight Their Own War Within a War</h3>
+<sub>By Megan Specia</sub>
+<p>The war with Russia compounds the struggles of pediatric cancer patients and their families, but it has also prompted positive changes in treatment in Ukraine.  <a href="https://nyti.ms/3Q6nPag"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump’s Legal Woes Mount as Trial Dates and Campaign Calendar Collide</h3>
 <sub>By Charlie Savage</sub>
@@ -77,22 +81,16 @@ Elsewhere, abortion laws are in flux due to a Supreme Court decision and network
 <sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Potential Trump Charges Include Civil Rights Law Used in Voting Fraud Cases</h3>
-<sub>By Maggie Haberman, Adam Goldman, Charlie Savage and Alan Feuer</sub>
-<p>A target letter sent by the special counsel investigating Donald Trump’s efforts to reverse his election loss cited three statutes that could be the basis for a prosecution.  <a href="https://nyti.ms/3DjfEjh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
+<h3>A Year of Upheaval on Abortion’s Front Lines</h3>
+<sub>By Kate Kelly and Marisa Schwartz Taylor</sub>
+<p>A Supreme Court decision created a 50-state patchwork of differing abortion laws. An eclectic network of volunteers and organizations has tried to fill the gaps in health care and support.  <a href="https://nyti.ms/3PYhs8O"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukrainian Children With Cancer Fight Their Own War Within a War</h3>
-<sub>By Megan Specia</sub>
-<p>The war with Russia compounds the struggles of pediatric cancer patients and their families, but it has also prompted positive changes in treatment in Ukraine.  <a href="https://nyti.ms/3Q6nPag"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Britain’s Spy Master Says Putin Cut Deal With Wagner Mercenary Chief</h3>
-<sub>By Megan Specia and Julian E. Barnes</sub>
-<p>Richard Moore, the chief of MI6, said the Russian leader acted “to save his skin,” offering rare insights into the events surrounding the sudden end of Yevgeny V. Prigozhin’s march on Moscow.  <a href="https://nyti.ms/3rB6xru"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
+<h3>For Europe’s Older Population, Heat Is the New Covid</h3>
+<sub>By Gaia Pianigiani</sub>
+<p>Scorching temperatures have threatened the health of the elderly and pushed them inside, while governments are trying to take extraordinary steps to protect them.  <a href="https://nyti.ms/3Q4RXmn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Why Heat Waves Are Deepening China’s Addiction to Coal</h3>
@@ -105,12 +103,6 @@ Elsewhere, abortion laws are in flux due to a Supreme Court decision and network
 <sub>By Lauren Sloss</sub>
 <p>The top tourist destinations of Italy, Spain and Greece are sweltering this summer. Travelers can take precautionary measures to protect themselves.  <a href="https://nyti.ms/44OMMuM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>Heat Affects Older People More. Here’s How to Stay Safe.</h3>
-<sub>By Dana G. Smith</sub>
-<p>If you’re over 65, it’s important to take high temperatures seriously.  <a href="https://nyti.ms/44OOtsb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
 <h3>For Young Arab Americans in Michigan, the Hookah Lounge Feels like Home</h3>
@@ -130,11 +122,17 @@ Elsewhere, abortion laws are in flux due to a Supreme Court decision and network
 <p>In meeting with Henry Kissinger, China’s leader, Xi Jinping, is turning to American contacts outside the Biden administration to try to influence Washington’s thinking on China.  <a href="https://nyti.ms/44x5U0J"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Year of Upheaval on Abortion’s Front Lines</h3>
-<sub>By Kate Kelly and Marisa Schwartz Taylor</sub>
-<p>A Supreme Court decision created a 50-state patchwork of differing abortion laws. An eclectic network of volunteers and organizations has tried to fill the gaps in health care and support.  <a href="https://nyti.ms/3PYhs8O"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>How Julie Ertz Got Her Game Back</h3>
+<sub>By Claire Fahy</sub>
+<p>Ertz, a two-time World Cup winner, knew she had to hustle to return to the national team after having a baby. A boys’ team offered a helping hand.  <a href="https://nyti.ms/3DejYAj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Europe Pushed Tunisia to Keep Migrants Away. The Result Is Harsh.</h3>
+<sub>By Vivian Yee</sub>
+<p>Tunisia has pushed African migrants to scorching no-man’s lands along its borders with little food and water. Under a deal with the European Union, Tunisia agreed to tighten border controls in exchange for aid.  <a href="https://nyti.ms/46Utbv6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
