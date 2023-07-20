@@ -60,24 +60,32 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, July 20, Central Standard Time</p>
 <p>
-There are a lot of interesting things happening in the world right now. The US is looking at possible criminal charges against former President Trump, including civil rights law violations in voting fraud cases. In New York, a judge refused to move a criminal case against Trump to federal court. Meanwhile, John Kerry, President Biden&#39;s climate envoy, has been talking to China about taking faster action on climate change. A spy in Britain claims that Russian President Putin made a deal with the head of a mercenary group called Wagner LLP. In Alaska, there&#39;s concern over low numbers of King Salmon and whether people should stop eating them. Stanford&#39;s president has resigned after admitting flaws in his research. Student journalists are getting more attention after reports they did about the president of Stanford and head football coach of Northwestern lead to their resignations. Texas is using harsh tactics at its border with Mexico that have some federal agents concerned about more drownings. NYC is discouraging migrants from even coming by telling them there is not a guarantee of finding help here. Lastly, there was recently released Barbie movie, which critics had mixed opinions about whether it was actually subversive or just corporate capitalism at work.</p>
+There&#39;s a lot going on in the world right now. In the US, President Trump is facing legal issues that could interfere with his campaign. Joe Biden has taken shots at Republicans, but is staying silent about any Trump indictments. There&#39;s also potential criminal charges related to civil rights violations in voting fraud cases. 
+In Europe, there&#39;s a heat wave making things difficult for tourists and older people, which China appears to be exacerbating with their addiction to coal. Meanwhile, in Ukraine, the war with Russia is making it hard for pediatric cancer patients and their families to get good treatment. Britain&#39;s spy chief has suggested that Putin struck a deal with a mercenary leader to keep his power secure. 
+Elsewhere, abortion laws are in flux due to a Supreme Court decision and networks of volunteers are doing their best trying to fill in health care gaps created by the decision. Finally, in an attempt to influence US thinking on China, Xi Jinping has turned to old American friendships like Henry Kissinger.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump’s Legal Woes Mount as Trial Dates and Campaign Calendar Collide</h3>
+<sub>By Charlie Savage</sub>
+<p>The Republican front-runner is facing a growing tangle of criminal and civil trials that will overlap with next year’s presidential primaries.  <a href="https://nyti.ms/3XVJWlz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Quick to Mock MAGA, Biden Stays Silent on Trump Indictments</h3>
+<sub>By Reid J. Epstein</sub>
+<p>The president has taken swipes at Republicans, including a video playfully featuring Marjorie Taylor Greene as a narrator, but he and his allies are avoiding one target: his predecessor’s legal woes.  <a href="https://nyti.ms/44UddPB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Potential Trump Charges Include Civil Rights Law Used in Voting Fraud Cases</h3>
 <sub>By Maggie Haberman, Adam Goldman, Charlie Savage and Alan Feuer</sub>
 <p>A target letter sent by the special counsel investigating Donald Trump’s efforts to reverse his election loss cited three statutes that could be the basis for a prosecution.  <a href="https://nyti.ms/3DjfEjh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Trump Hush Money Case Will Remain in New York State Court, Judge Rules</h3>
-<sub>By Jonah E. Bromwich</sub>
-<p>Lawyers for former President Donald J. Trump had sought to move the first criminal case against him to federal court, but a judge put an end to the effort.  <a href="https://nyti.ms/44LFp7e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>China’s Xi Rebuffs Kerry’s Call for Faster Climate Action</h3>
-<sub>By Lisa Friedman, Chris Buckley and Keith Bradsher</sub>
-<p>John Kerry, President Biden’s climate envoy, emerges from talks in Beijing without a new agreement. But just talking is progress, he said.  <a href="https://nyti.ms/3K3ZEFy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Ukrainian Children With Cancer Fight Their Own War Within a War</h3>
+<sub>By Megan Specia</sub>
+<p>The war with Russia compounds the struggles of pediatric cancer patients and their families, but it has also prompted positive changes in treatment in Ukraine.  <a href="https://nyti.ms/3Q6nPag"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -86,53 +94,47 @@ There are a lot of interesting things happening in the world right now. The US i
 <p>Richard Moore, the chief of MI6, said the Russian leader acted “to save his skin,” offering rare insights into the events surrounding the sudden end of Yevgeny V. Prigozhin’s march on Moscow.  <a href="https://nyti.ms/3rB6xru"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-dining-blue" alt="">
-<h3>Starving Orcas and the Fate of Alaska’s Disappearing King Salmon</h3>
-<sub>By Julia O’Malley</sub>
-<p>With the fish numbers at historic lows, scientists, chefs and others are asking whether we should be eating them anymore, and what it means for the future of all wild salmon.  <a href="https://nyti.ms/3DnETRr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Stanford President Will Resign After Report Found Flaws in His Research</h3>
-<sub>By Stephanie Saul</sub>
-<p>Marc Tessier-Lavigne was cleared of accusations of scientific fraud and misconduct. But the review said his work had “multiple problems” and “fell below customary standards of scientific rigor.”  <a href="https://nyti.ms/46SIvIG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>University Departures Put Student Journalists in Spotlight</h3>
-<sub>By Katie Robertson</sub>
-<p>The president of Stanford and the head football coach at Northwestern left their positions after being scrutinized in campus newspapers.  <a href="https://nyti.ms/43DUPJL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Why Heat Waves Are Deepening China’s Addiction to Coal</h3>
+<sub>By Keith Bradsher</sub>
+<p>While pledging to reduce carbon emissions, the country is greatly increasing its use of the fossil fuel to generate electricity.  <a href="https://nyti.ms/3K4rotA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-travel-blue" alt="">
+<h3>Traveling to Europe? Here’s What You Need to Know About the Heat Wave.</h3>
+<sub>By Lauren Sloss</sub>
+<p>The top tourist destinations of Italy, Spain and Greece are sweltering this summer. Travelers can take precautionary measures to protect themselves.  <a href="https://nyti.ms/44OMMuM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>Heat Affects Older People More. Here’s How to Stay Safe.</h3>
+<sub>By Dana G. Smith</sub>
+<p>If you’re over 65, it’s important to take high temperatures seriously.  <a href="https://nyti.ms/44OOtsb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>For Young Arab Americans in Michigan, the Hookah Lounge Feels like Home</h3>
+<sub>By Farah Al Qasimi and Sara Aridi</sub>
+<p>A new generation of immigrants, refugees and their descendants is finding a sense of connection and community around the shisha pipe.  <a href="https://nyti.ms/3PYhspk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Inside the Private Writings of Caroline Ellison, Star Witness in the FTX Case</h3>
+<sub>By David Yaffe-Bellany and Matthew Goldstein</sub>
+<p>Ms. Ellison, a top executive in Sam Bankman-Fried’s business empire, recorded her thoughts on private Google documents that offer new insight into the collapse of the FTX crypto exchange.  <a href="https://nyti.ms/3Q6BJsY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Frustrated by Biden, China Courts ‘Old Friends’ Like Kissinger</h3>
+<sub>By David Pierson, Vivian Wang and Edward Wong</sub>
+<p>In meeting with Henry Kissinger, China’s leader, Xi Jinping, is turning to American contacts outside the Biden administration to try to influence Washington’s thinking on China.  <a href="https://nyti.ms/44x5U0J"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Texas’ Harsh New Border Tactics Are Injuring Migrants</h3>
-<sub>By Edgar Sandoval, Jay Root and J. David Goodman</sub>
-<p>A “hold-the-line” operation has created tensions with federal agents who warn it could lead to more drownings. Officers ordered to carry out the measures are raising alarms.  <a href="https://nyti.ms/3NXMpHG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>New York City Tells Migrants There’s ‘No Guarantee’ of Finding Help Here</h3>
-<sub>By Jeffery C. Mays</sub>
-<p>Mayor Eric Adams announced new shelter rules for some asylum seekers, and will begin discouraging migrants at the southern border from coming to New York City.  <a href="https://nyti.ms/3pU3YjE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>‘Oppenheimer’ Review: A Man for Our Time</h3>
-<sub>By Manohla Dargis</sub>
-<p>Christopher Nolan’s complex, vivid portrait of J. Robert Oppenheimer, the “father of the atomic bomb,” is a brilliant achievement in formal and conceptual terms.  <a href="https://nyti.ms/44vnYZb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>‘Barbie’ Review: Out of the Box and On the Road</h3>
-<sub>By Manohla Dargis</sub>
-<p>She’s in the driver’s seat, headed for uncharted territory (flat feet!). But there are limits to how much dimension even Greta Gerwig can give this branded material.  <a href="https://nyti.ms/3QawXKG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>‘Barbie’ Reviews Are In: Slickly Subversive or Inescapably Corporate?</h3>
-<sub>By Julia Jacobs</sub>
-<p>Some critics viewed the highly-anticipated movie as satirically capitalistic, while others saw it as capitalistically satirical.  <a href="https://nyti.ms/44CaMl9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
+<h3>A Year of Upheaval on Abortion’s Front Lines</h3>
+<sub>By Kate Kelly and Marisa Schwartz Taylor</sub>
+<p>A Supreme Court decision created a 50-state patchwork of differing abortion laws. An eclectic network of volunteers and organizations has tried to fill the gaps in health care and support.  <a href="https://nyti.ms/3PYhs8O"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
