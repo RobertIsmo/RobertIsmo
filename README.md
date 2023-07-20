@@ -60,13 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, July 19, Central Standard Time</p>
 <p>
-Things are getting pretty wild out in the world right now. The Trump administration is facing potential charges under Civil Rights Laws related to voting fraud cases. Plus, a judge rejected his effort to move criminal proceedings against him to federal court.
+There’s a lot going on in the world right now when it comes to politics. Former President Donald Trump is facing civil rights law charges from the special counsel investigating his attempts to reverse his election loss. He also faces a criminal case in New York state court that lawyers for him tried to move to federal court but was rebuffed. 
 
-On the global level, China continues to resist taking action on climate change, despite pressure from John Kerry, President Biden&#39;s Climate Envoy. Russia is also sending a chilling message by targeting grain ports headed to Ukraine and reportedly making a deal with a mercenary chief. 
+China’s president Xi Jinping recently rejected President Biden’s envoy John Kerry&#39;s call for faster climate action. Meanwhile, Russia is targeting Ukraine’s grain ports and threatening ships that are headed their way. Britain’s spy chief says the Russian leader offered a deal with Wagner mercenary chief Yevgeny Prigozhin as a means to save himself from a march on Moscow. 
 
-In the U.S., the Stanford University president just resigned after a report found flaws in his research. Student journalists are making headlines too, as they reported on issues that led to the resignations of the Stanford president and Northwestern head football coach. And there&#39;s more news of Biden&#39;s plans taking shape - this time for student debt - which some analysts estimate could cost up to $475 billion dollars. 
+Salmon stocks are so low that people in Alaska are asking whether they should be eating it anymore, and what that could mean for all wild salmon in the future. There&#39;s also news about Stanford University: their president Marc Tessier-Lavigne has resigned after reports found flaws in his research. Student journalists at Northwestern and Stanford have caused nationwide scrutiny of their colleges&#39; leadership, resulting in both the school&#39;s president and football coach resigning. 
 
-Meanwhile, Texas has imposed some harsh new border tactics, injuring migrants in the process, and NYC recently announced rules to limit migration into their city. Finally, an environmental lawyer is spearheading an effort to sue big oil companies for climate damages. </p>
+President Biden proposed a student debt plan that could cost $475 billion, but was sadly rejected. Meanwhile in Texas, authorities have implemented harsh new border tactics that are injuring migrants and raising alarms from federal agents that it could lead to more drownings. New York City is telling migrants there’s ‘no guarantee’ of finding help there as Mayor Eric Adams announced new shelter rules for some asylum seekers and discourages them from coming there. Finally, a lawyer is suing Big Oil companies for climate damages which could potentially force them to pay hundreds of billions of dollars in damages!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Potential Trump Charges Include Civil Rights Law Used in Voting Fraud Cases</h3>
