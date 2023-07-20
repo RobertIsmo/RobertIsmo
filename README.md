@@ -60,13 +60,29 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, July 20, Central Standard Time</p>
 <p>
-It&#39;s been a year of upheaval for many in the world, especially those on the frontlines dealing with abortion laws, and sudden climate changes such as European heat waves. In Ukraine, children struggling with pediatric cancer and their families have been fighting a war with Russia alongside their disease while facing significant challenges. In China, energy-hungry citizens are relying more heavily on coal production while pledging to do less for the environment. Meanwhile, in Tunisia, African migrants are pushed to no-man&#39;s lands along its borders thanks to deals made with the European Union for aid, while American President Joe Biden is staying silent on former President Donald Trump&#39;s legal woes. Sports players like Julie Ertz have been hustling to get back onto national teams as well. All these examples point to a decidedly tumultuous time in the world right now.</p>
+I&#39;ve been hearing some really wild news lately. In Russia, they withdrew from a deal that allowed Ukraine to export grain across the Black Sea despite a wartime blockade, and warned ships sailing around Ukrainian ports would be seen as military targets. On top of that, families of children with cancer in Ukraine are struggling even more due to the war with Russia.
+
+Over in the US, Donald Trump’s legal woes are mounting as key criminal and civil trials could overlap with next year&#39;s presidential primaries. It&#39;s also been hot all over Europe lately – so much so that countries that weren&#39;t used to napping in the middle of the day are now looking into it. There&#39;s also been reports about genetic mutations causing the elderly to go into dementia in middle age and writers in Hollywood fighting for better roles.
+
+Closer to home, people have been gathering around hookah lounges and a new bill has just passed the House to improve air travel. Lastly, some intriguing insight came from documents written by Caroline Ellison – a key witness in an FTX crypto exchange case. Pretty wild, right?</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>What Russia’s Grain Deal Actions Mean for Ukraine</h3>
+<sub>By Matthew Mpoke Bigg</sub>
+<p>Moscow withdrew from a deal that allowed Ukraine to export grain across the Black Sea despite a wartime blockade, and warned that ships sailing around Ukrainian ports would be seen as military targets.  <a href="https://nyti.ms/3KtEvVB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ukrainian Children With Cancer Fight Their Own War Within a War</h3>
 <sub>By Megan Specia</sub>
 <p>The war with Russia compounds the struggles of pediatric cancer patients and their families, but it has also prompted positive changes in treatment in Ukraine.  <a href="https://nyti.ms/3Q6nPag"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Inside the Hunt for the Gilgo Beach Serial Killer</h3>
+<sub>By William K. Rashbaum, Joseph Goldstein and Johnny Milano</sub>
+<p>As investigators spent years looking for a suspect, a key clue was buried in their files. Could they have solved the case years earlier?  <a href="https://nyti.ms/3OpJbhC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump’s Legal Woes Mount as Trial Dates and Campaign Calendar Collide</h3>
@@ -74,35 +90,35 @@ It&#39;s been a year of upheaval for many in the world, especially those on the 
 <p>The Republican front-runner is facing a growing tangle of criminal and civil trials that will overlap with next year’s presidential primaries.  <a href="https://nyti.ms/3XVJWlz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Quick to Mock MAGA, Biden Stays Silent on Trump Indictments</h3>
-<sub>By Reid J. Epstein</sub>
-<p>The president has taken swipes at Republicans, including a video playfully featuring Marjorie Taylor Greene as a narrator, but he and his allies are avoiding one target: his predecessor’s legal woes.  <a href="https://nyti.ms/44UddPB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Year of Upheaval on Abortion’s Front Lines</h3>
-<sub>By Kate Kelly and Marisa Schwartz Taylor</sub>
-<p>A Supreme Court decision created a 50-state patchwork of differing abortion laws. An eclectic network of volunteers and organizations has tried to fill the gaps in health care and support.  <a href="https://nyti.ms/3PYhs8O"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>For Europe’s Older Population, Heat Is the New Covid</h3>
 <sub>By Gaia Pianigiani</sub>
 <p>Scorching temperatures have threatened the health of the elderly and pushed them inside, while governments are trying to take extraordinary steps to protect them.  <a href="https://nyti.ms/3Q4RXmn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Why Heat Waves Are Deepening China’s Addiction to Coal</h3>
-<sub>By Keith Bradsher</sub>
-<p>While pledging to reduce carbon emissions, the country is greatly increasing its use of the fossil fuel to generate electricity.  <a href="https://nyti.ms/3K4rotA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>What Do You Call a German Siesta? An Answer to the Europe Heat, Some Say.</h3>
+<sub>By Constant Méheut</sub>
+<p>The siesta, a sacred afternoon break in Spain, was once mocked as lazy. But now, countries like Germany, which were among the siesta haters, are taking another look.  <a href="https://nyti.ms/3rIZD3e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The U.S. Weather by the Numbers</h3>
+<sub>By Colbi Edmonds</sub>
+<p>How hot is it? No single temperature reading can capture the nation’s misery, so we’ve assembled a lot of figures to put the oppressive heat in context.  <a href="https://nyti.ms/3rDHqEA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-travel-blue" alt="">
-<h3>Traveling to Europe? Here’s What You Need to Know About the Heat Wave.</h3>
-<sub>By Lauren Sloss</sub>
-<p>The top tourist destinations of Italy, Spain and Greece are sweltering this summer. Travelers can take precautionary measures to protect themselves.  <a href="https://nyti.ms/44OMMuM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>The Vanishing Family</h3>
+<sub>By Robert Kolker</sub>
+<p>They all have a 50-50 chance of inheriting a cruel genetic mutation — which means disappearing into dementia in middle age. This is the story of what it’s like to live with those odds.  <a href="https://nyti.ms/44R4NZp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>How TV Writing Became a Dead-End Job</h3>
+<sub>By Noam Scheiber</sub>
+<p>The writers say Hollywood studios are increasingly limiting their roles in television productions, highlighting a trend for white-collar workers.  <a href="https://nyti.ms/44TufgK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
 <h3>For Young Arab Americans in Michigan, the Hookah Lounge Feels like Home</h3>
@@ -116,23 +132,11 @@ It&#39;s been a year of upheaval for many in the world, especially those on the 
 <p>Ms. Ellison, a top executive in Sam Bankman-Fried’s business empire, recorded her thoughts on private Google documents that offer new insight into the collapse of the FTX crypto exchange.  <a href="https://nyti.ms/3Q6BJsY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Frustrated by Biden, China Courts ‘Old Friends’ Like Kissinger</h3>
-<sub>By David Pierson, Vivian Wang and Edward Wong</sub>
-<p>In meeting with Henry Kissinger, China’s leader, Xi Jinping, is turning to American contacts outside the Biden administration to try to influence Washington’s thinking on China.  <a href="https://nyti.ms/44x5U0J"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>House Overwhelmingly Passes Bill to Improve Air Travel</h3>
+<sub>By Kayla Guo</sub>
+<p>The House cleared away a number of potential sticking points that had threatened to hold up the bill to reauthorize the Federal Aviation Administration. It goes next to the Senate.  <a href="https://nyti.ms/3Q5ZqBE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>How Julie Ertz Got Her Game Back</h3>
-<sub>By Claire Fahy</sub>
-<p>Ertz, a two-time World Cup winner, knew she had to hustle to return to the national team after having a baby. A boys’ team offered a helping hand.  <a href="https://nyti.ms/3DejYAj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Europe Pushed Tunisia to Keep Migrants Away. The Result Is Harsh.</h3>
-<sub>By Vivian Yee</sub>
-<p>Tunisia has pushed African migrants to scorching no-man’s lands along its borders with little food and water. Under a deal with the European Union, Tunisia agreed to tighten border controls in exchange for aid.  <a href="https://nyti.ms/46Utbv6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
