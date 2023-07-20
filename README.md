@@ -58,15 +58,15 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Wednesday, July 19, Central Standard Time</p>
+<p>It is Thursday, July 20, Central Standard Time</p>
 <p>
-There’s a lot going on in the world right now when it comes to politics. Former President Donald Trump is facing civil rights law charges from the special counsel investigating his attempts to reverse his election loss. He also faces a criminal case in New York state court that lawyers for him tried to move to federal court but was rebuffed. 
+There is a lot going on in the world right now. In the US, the potential charges against former President Donald Trump include the civil rights law used in voting fraud cases. Meanwhile, a judge has ruled that the hush money case against Trump will remain in New York State court, and Stanford&#39;s president is resigning after a report found flaws in his research. 
 
-China’s president Xi Jinping recently rejected President Biden’s envoy John Kerry&#39;s call for faster climate action. Meanwhile, Russia is targeting Ukraine’s grain ports and threatening ships that are headed their way. Britain’s spy chief says the Russian leader offered a deal with Wagner mercenary chief Yevgeny Prigozhin as a means to save himself from a march on Moscow. 
+In China, President Biden&#39;s climate envoy emerged without a new agreement after meeting with President Xi, but both sides made progress in their talks. In Russia, they are hitting grain ports and threatening ships headed to Ukraine, and there are allegations of a deal between Putin and a mercenary chief. 
 
-Salmon stocks are so low that people in Alaska are asking whether they should be eating it anymore, and what that could mean for all wild salmon in the future. There&#39;s also news about Stanford University: their president Marc Tessier-Lavigne has resigned after reports found flaws in his research. Student journalists at Northwestern and Stanford have caused nationwide scrutiny of their colleges&#39; leadership, resulting in both the school&#39;s president and football coach resigning. 
+In Britain, the low numbers of king salmon has sparked conversations about whether we should be eating them. In Texas, there are reports of new border tactics that are injuring migrants. And New York City is telling migrants there&#39;s &quot;no guarantee&quot; of finding help there.
 
-President Biden proposed a student debt plan that could cost $475 billion, but was sadly rejected. Meanwhile in Texas, authorities have implemented harsh new border tactics that are injuring migrants and raising alarms from federal agents that it could lead to more drownings. New York City is telling migrants there’s ‘no guarantee’ of finding help there as Mayor Eric Adams announced new shelter rules for some asylum seekers and discourages them from coming there. Finally, a lawyer is suing Big Oil companies for climate damages which could potentially force them to pay hundreds of billions of dollars in damages!</p>
+Finally, Cannes Film Festival 2021 saw the premier of Christopher Nolan&#39;s movie about J Robert Oppenheimer, described as a brilliant achievement.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Potential Trump Charges Include Civil Rights Law Used in Voting Fraud Cases</h3>
@@ -134,10 +134,10 @@ President Biden proposed a student debt plan that could cost $475 billion, but w
 <p>Mayor Eric Adams announced new shelter rules for some asylum seekers, and will begin discouraging migrants at the southern border from coming to New York City.  <a href="https://nyti.ms/3pU3YjE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>She’s on a Mission From God: Suing Big Oil for Climate Damages</h3>
-<sub>By David Gelles and Erin Schaff</sub>
-<p>A lawyer started small with a creative tactic. It grew into an effort that could force fossil fuel companies to pay hundreds of billions in damages.  <a href="https://nyti.ms/3PZr5nJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>‘Oppenheimer’ Review: A Man for Our Time</h3>
+<sub>By Manohla Dargis</sub>
+<p>Christopher Nolan’s complex, vivid portrait of J. Robert Oppenheimer, the “father of the atomic bomb,” is a brilliant achievement in formal and conceptual terms.  <a href="https://nyti.ms/44vnYZb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
 <hr/>
 </ol>
