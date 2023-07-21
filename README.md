@@ -60,12 +60,48 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, July 21, Central Standard Time</p>
 <p>
-There is a lot happening around the world right now. In Ukraine, a university and its students have continued to persevere despite the city being in ruins. There are also record-breaking temperatures being seen around the world due to extreme heat with no relief in sight. In the United States, people are being affected by a U.S. investigation into Delta passengers being stuck on the plane in triple-digit temperatures as well as California legislators creating a renters&#39; caucus. Across the pond in the United Kingdom, there have been by-elections where their government had both wins and losses. Spain also just had an election that focused more on allied parties than fundamental issues. Additionally, lawmakers are challenging Ford to investigate their battery partner for forced labor while in New York, an important clue was recently uncovered which led to an arrest regarding serial killings at Gilgo Beach. Lastly, Israel is currently having a debate over their Supreme Court&#39;s reach in regards to legal understanding of &quot;reasonableness&quot;.</p>
+There is a lot going on in the world right now. In the US, there is a trial concerning documents related to former President Donald J. Trump that has been set for May 2024. Also, there is an ongoing grand jury proceedings related to Jan. 6 that is delaying a verdict. Meanwhile, the world of music has lost legendary singer Tony Bennett at the age of 96 and A.I companies have recently agreed to new safety protocols following pressure from the White House. On the other side of the globe, students in Ukraine are finishing up their final exams despite living in a city decimated by war and people around the world are suffering from an intense heatwave with no signs of relief any time soon. Closer to home, there have been investigations into why passengers were kept on board Delta flights in extreme temperatures as well as the arrest of someone connected to unsolved murders at Gilgo Beach. Finally, investigators have discovered how power was wielded back home in brownstone Brooklyn by the suspect in these killings.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trial in Trump Documents Case Set for May 2024</h3>
+<sub>By Alan Feuer</sub>
+<p>Judge Aileen M. Cannon rejected former President Donald J. Trump’s request to delay the trial until after the election but pushed the start date past the Justice Department’s request to begin in December.  <a href="https://nyti.ms/3DmKcQX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Collision in Court: Trump Grand Jury Proceedings Delay a Jan. 6 Verdict</h3>
+<sub>By Alan Feuer and Maggie Haberman</sub>
+<p>A defense lawyer was late. A judge grew irked. Prosecutors were hauled out of a grand jury. It was an example of the complexities stemming from the multiple proceedings involving Donald Trump.  <a href="https://nyti.ms/3OmaBVj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Tony Bennett, Champion of the Great American Songbook, Is Dead at 96</h3>
+<sub>By Bruce Weber</sub>
+<p>From his initial success as a jazzy crooner through his generation-spanning duets, his career was remarkable for both its longevity and its consistency.  <a href="https://nyti.ms/43yvWiU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Tony Bennett at 90: ‘I Just Love What I’m Doing’</h3>
+<sub>By John Marchese</sub>
+<p>At 90, Mr. Bennett has no plans to slow down. Tour dates and an NBC special are the next stops on his 70-year career.  <a href="https://nyti.ms/2hMKhSj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>7 A.I. Companies Agree to Safeguards After Pressure From the White House</h3>
+<sub>By Michael D. Shear</sub>
+<p>Amazon, Google and Meta are among the companies that will announce the new commitments on Friday as they race to outdo each other with versions of artificial intelligence.  <a href="https://nyti.ms/3OoACDw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 21, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Their City in Ruins, a Ukrainian University and Its Students Persevere</h3>
 <sub>By Valerie Hopkins</sub>
 <p>Mariupol State University, an oasis amid the war, has graduated its newest class, more than a year after fleeing its devastated home city.  <a href="https://nyti.ms/44UK6Mo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russia Detains Igor Girkin, a Critic of Putin’s War Effort in Ukraine: What to Know</h3>
+<sub>By Ivan Nechepurenko</sub>
+<p>The arrest was a sign that Russia was clamping down further on dissent, even among prominent nationalists, after last month’s brief mutiny by Wagner mercenaries.  <a href="https://nyti.ms/46WMC6w"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -86,36 +122,6 @@ There is a lot happening around the world right now. In Ukraine, a university an
 <p>The flight, from Las Vegas to Atlanta, was stalled at Harry Reid International Airport, leaving passengers sweltering in triple-digit temperatures, the department said.  <a href="https://nyti.ms/3pVdjru"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Who Will Stand Up for Renters? Their Elected Representatives, Who Also Rent.</h3>
-<sub>By Conor Dougherty</sub>
-<p>In California, legislators come out as tenants to form a renters’ caucus.  <a href="https://nyti.ms/3rt0AN5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>U.K. Voters Hand Sunak’s Party Two Defeats and a Win in By-elections</h3>
-<sub>By Mark Landler and Stephen Castle</sub>
-<p>The governing Conservatives retained Boris Johnson’s former Parliament seat in northwest London, but lost in two districts, including a sobering defeat in northern England.  <a href="https://nyti.ms/3XZ9r5i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Spain’s Election, Left and Right Answer for the Company They Keep</h3>
-<sub>By Jason Horowitz</sub>
-<p>Before voting Sunday, a focus on the leading parties’ allies has dominated the campaign — and obscured debate about more fundamental issues.  <a href="https://nyti.ms/3O0mXBd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Lawmakers Challenge Ford and Chinese Battery Partner Over Forced Labor</h3>
-<sub>By Ana Swanson and Jack Ewing</sub>
-<p>Republicans are raising fresh concerns about CATL, the battery maker Ford is working with to bring new technology to the U.S., and its connections to Xinjiang.  <a href="https://nyti.ms/3O0VmzU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Collision in Court: Trump Grand Jury Proceedings Delay a Jan. 6 Verdict</h3>
-<sub>By Alan Feuer and Maggie Haberman</sub>
-<p>A defense lawyer was late. A judge grew irked. Prosecutors were hauled out of a grand jury. It was an example of the complexities stemming from the multiple proceedings involving Donald Trump.  <a href="https://nyti.ms/3OmaBVj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>The Polygon and the Avalanche: How the Gilgo Beach Suspect Was Found</h3>
 <sub>By William K. Rashbaum, Joseph Goldstein and Johnny Milano</sub>
@@ -126,12 +132,6 @@ There is a lot happening around the world right now. In Ukraine, a university an
 <h3>How the Gilgo Beach Suspect Wielded Power in Brownstone Brooklyn</h3>
 <sub>By Ginia Bellafante</sub>
 <p>The man charged in the serial killings was a journeyman architect whose position gave him an unusual authority.  <a href="https://nyti.ms/3ryXdnT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>What’s Reasonable? A Debate Over a High Court’s Reach Divides Israel.</h3>
-<sub>By Patrick Kingsley</sub>
-<p>The legal concept of “reasonableness,” which has allowed the Supreme Court to strike down ministerial appointments, among other things, is at the center of a domestic crisis gripping the country.  <a href="https://nyti.ms/3rvnlzY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
