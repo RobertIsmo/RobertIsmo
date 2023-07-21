@@ -60,36 +60,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, July 20, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. Russia recently withdrew from a deal that allowed Ukraine to export grain across the Black Sea, which has caused a wartime blockade. On top of this, Ukrainian children with cancer are facing even greater challenges as a result of the war. In the US, President Donald Trump is facing a growing tangle of criminal and civil trials which will coincide with the Presidential primaries next year. There is also an extreme heatwave in many parts of the US and in Europe people are advocating for siestas to help protect them from the heat. On top of all this, TV writers are seeing an increase in job insecurity due to studios limiting their roles in production. Finally, young Arab Americans in Michigan find connection and community through hookah lounges.</p>
+Right now, there are a lot of different issues happening around the world. In the US, investigators are looking into why a Delta flight from Las Vegas to Atlanta was kept on the tarmac in extreme heat, and prosecutors are looking into potential obstruction charges against former President Trump. In news from outside the US, Russian and Turkish relations have remained strong despite a grain deal collapse, and Ukrainian children with cancer are facing new challenges due to the war with Russia. Additionally, some people face the daunting task of inheriting a genetic mutation that can lead to dementia. The pandemic has also had an effect on TV writing jobs, where studios are increasingly limiting their roles in productions.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>What Russia’s Grain Deal Actions Mean for Ukraine</h3>
-<sub>By Matthew Mpoke Bigg</sub>
-<p>Moscow withdrew from a deal that allowed Ukraine to export grain across the Black Sea despite a wartime blockade, and warned that ships sailing around Ukrainian ports would be seen as military targets.  <a href="https://nyti.ms/3KtEvVB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukrainian Children With Cancer Fight Their Own War Within a War</h3>
-<sub>By Megan Specia</sub>
-<p>The war with Russia compounds the struggles of pediatric cancer patients and their families, but it has also prompted positive changes in treatment in Ukraine.  <a href="https://nyti.ms/3Q6nPag"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>The Polygon and the Avalanche: How the Gilgo Beach Suspect Was Found</h3>
 <sub>By William K. Rashbaum, Joseph Goldstein and Johnny Milano</sub>
 <p>As investigators spent years looking for a suspect, a key clue was buried in their files. Could they have solved the case years earlier?  <a href="https://nyti.ms/3OpJbhC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump’s Legal Woes Mount as Trial Dates and Campaign Calendar Collide</h3>
-<sub>By Charlie Savage</sub>
-<p>The Republican front-runner is facing a growing tangle of criminal and civil trials that will overlap with next year’s presidential primaries.  <a href="https://nyti.ms/3XVJWlz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>June Was Earth’s Hottest on Record. August May Bring More of the Same.</h3>
+<sub>By Delger Erdenesanaa</sub>
+<p>In its monthly call, the National Oceanic and Atmospheric Adminstration analyzed how June’s temperatures stacked up and said it expects August to continue the trend.  <a href="https://nyti.ms/3Y20Rmv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Obstruction Law Cited by Prosecutors in Trump Case Has Drawn Challenges</h3>
-<sub>By Alan Feuer</sub>
-<p>Hundreds of Jan. 6 rioters have been charged with obstruction of an official proceeding, but the charge, which could be applied to former President Donald J. Trump, has come under scrutiny.  <a href="https://nyti.ms/46R2tUd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>U.S. Investigating Why Delta Passengers Were Kept on Plane in Extreme Heat</h3>
+<sub>By Livia Albeck-Ripka</sub>
+<p>The flight, from Las Vegas to Atlanta, was stalled at Harry Reid International Airport, leaving passengers sweltering in triple-digit temperatures, the department said.  <a href="https://nyti.ms/3pVdjru"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Tornado Tears Through Pfizer’s N.C. Site, Threatening Crucial Drug Supplies</h3>
+<sub>By Christina Jewett</sub>
+<p>Extensive damage occurred at the company’s property in Rocky Mount, and many products used by hospitals appeared to have been affected. This could further exacerbate shortages.  <a href="https://nyti.ms/3rtQlbm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -98,23 +92,35 @@ There is a lot going on in the world right now. Russia recently withdrew from a 
 <p>While trying to cool brutally hot Phoenix, Roberto Guerrero and his sons endure sweltering attics, blazing rooftops and nonstop calls for help.  <a href="https://nyti.ms/46ZRdVm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>How Extreme Heat Affects Workers and the Economy</h3>
-<sub>By David Gelles and Manuela Andreoni</sub>
-<p>“It drains your brain. It slows your cognitive function. You’re overwhelmed.”  <a href="https://nyti.ms/3XZuMvu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Despite grain deal collapse, Putin and Erdogan are still relying on each other.</h3>
+<sub>By Safak Timur</sub>
+<p>Vladimir V. Putin and Recep Tayyip Erdogan have kept good relations despite the war in Ukraine, and analysts say that will continue after the Kremlin rejected a deal Mr. Erdogan helped broker.  <a href="https://nyti.ms/3DjHOdU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>What Do You Call a German Siesta? An Answer to the Europe Heat, Some Say.</h3>
-<sub>By Constant Méheut</sub>
-<p>The siesta, a sacred afternoon break in Spain, was once mocked as lazy. But now, countries like Germany, which were among the siesta haters, are taking another look.  <a href="https://nyti.ms/3rIZD3e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Ukrainian Children With Cancer Fight Their Own War Within a War</h3>
+<sub>By Megan Specia</sub>
+<p>The war with Russia compounds the struggles of pediatric cancer patients and their families, but it has also prompted positive changes in treatment in Ukraine.  <a href="https://nyti.ms/3Q6nPag"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Collision in Court: Trump Grand Jury Proceedings Delay a Jan. 6 Verdict</h3>
+<sub>By Alan Feuer and Maggie Haberman</sub>
+<p>A defense lawyer was late. A judge grew irked. Prosecutors were hauled out of a grand jury. It was an example of the complexities stemming from the multiple proceedings involving Donald Trump.  <a href="https://nyti.ms/3OmaBVj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The U.S. Weather by the Numbers</h3>
-<sub>By Colbi Edmonds</sub>
-<p>How hot is it? No single temperature reading can capture the nation’s misery, so we’ve assembled a lot of figures to put the oppressive heat in context.  <a href="https://nyti.ms/3rDHqEA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
+<h3>Trump Seeks U.A.W.’s Support as the Union Wavers on Backing Biden</h3>
+<sub>By Jonathan Weisman</sub>
+<p>A video from the former president attacked electric vehicles, predicting the demise of the American automotive industry.  <a href="https://nyti.ms/46Zogcs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Obstruction Law Cited by Prosecutors in Trump Case Has Drawn Challenges</h3>
+<sub>By Alan Feuer</sub>
+<p>Hundreds of Jan. 6 rioters have been charged with obstruction of an official proceeding, but the charge, which could be applied to former President Donald J. Trump, has come under scrutiny.  <a href="https://nyti.ms/46R2tUd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
 <h3>The Vanishing Family</h3>
@@ -126,12 +132,6 @@ There is a lot going on in the world right now. Russia recently withdrew from a 
 <h3>How TV Writing Became a Dead-End Job</h3>
 <sub>By Noam Scheiber</sub>
 <p>The writers say Hollywood studios are increasingly limiting their roles in television productions, highlighting a trend for white-collar workers.  <a href="https://nyti.ms/44TufgK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>For Young Arab Americans in Michigan, the Hookah Lounge Feels like Home</h3>
-<sub>By Farah Al Qasimi and Sara Aridi</sub>
-<p>A new generation of immigrants, refugees and their descendants is finding a sense of connection and community around the shisha pipe.  <a href="https://nyti.ms/3PYhspk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
 <hr/>
 </ol>
