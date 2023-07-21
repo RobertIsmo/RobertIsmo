@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, July 20, Central Standard Time</p>
 <p>
-Right now, there are a lot of different issues happening around the world. In the US, investigators are looking into why a Delta flight from Las Vegas to Atlanta was kept on the tarmac in extreme heat, and prosecutors are looking into potential obstruction charges against former President Trump. In news from outside the US, Russian and Turkish relations have remained strong despite a grain deal collapse, and Ukrainian children with cancer are facing new challenges due to the war with Russia. Additionally, some people face the daunting task of inheriting a genetic mutation that can lead to dementia. The pandemic has also had an effect on TV writing jobs, where studios are increasingly limiting their roles in productions.</p>
+It&#39;s been an eventful week in the world! In New York, police recently solved a decades-long case involving a serial killer by unearthing a key clue in their files. It looks like June was officially Earth&#39;s hottest month on record, and temperatures are set to keep rising in August. There was drama in U.S. courts around grand jury proceedings as well as in Las Vegas when Delta passengers were left on a plane in extreme heat with no explanation. A tornado tore through North Carolina at Pfizer, potentially escalating already dire drug shortages. Trump has been trying to rally the United Auto Workers&#39; support for his own campaign to no avail. Somehow Russia is involved too, and there&#39;s speculation that it could be part of false flag operation! As if all that wasn&#39;t enough, the N.F.L. fined Dan Snyder, former owner of the Washington Commanders, for sexual harassment and for withholding profits from his team.</p>
 <ol>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>The Polygon and the Avalanche: How the Gilgo Beach Suspect Was Found</h3>
@@ -87,24 +87,6 @@ Right now, there are a lot of different issues happening around the world. In th
 <sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Most Essential Worker in a Heat Wave? The A.C. Guy</h3>
-<sub>By Jack Healy</sub>
-<p>While trying to cool brutally hot Phoenix, Roberto Guerrero and his sons endure sweltering attics, blazing rooftops and nonstop calls for help.  <a href="https://nyti.ms/46ZRdVm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Despite grain deal collapse, Putin and Erdogan are still relying on each other.</h3>
-<sub>By Safak Timur</sub>
-<p>Vladimir V. Putin and Recep Tayyip Erdogan have kept good relations despite the war in Ukraine, and analysts say that will continue after the Kremlin rejected a deal Mr. Erdogan helped broker.  <a href="https://nyti.ms/3DjHOdU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukrainian Children With Cancer Fight Their Own War Within a War</h3>
-<sub>By Megan Specia</sub>
-<p>The war with Russia compounds the struggles of pediatric cancer patients and their families, but it has also prompted positive changes in treatment in Ukraine.  <a href="https://nyti.ms/3Q6nPag"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A Collision in Court: Trump Grand Jury Proceedings Delay a Jan. 6 Verdict</h3>
 <sub>By Alan Feuer and Maggie Haberman</sub>
 <p>A defense lawyer was late. A judge grew irked. Prosecutors were hauled out of a grand jury. It was an example of the complexities stemming from the multiple proceedings involving Donald Trump.  <a href="https://nyti.ms/3OmaBVj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -116,10 +98,16 @@ Right now, there are a lot of different issues happening around the world. In th
 <p>A video from the former president attacked electric vehicles, predicting the demise of the American automotive industry.  <a href="https://nyti.ms/46Zogcs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Obstruction Law Cited by Prosecutors in Trump Case Has Drawn Challenges</h3>
-<sub>By Alan Feuer</sub>
-<p>Hundreds of Jan. 6 rioters have been charged with obstruction of an official proceeding, but the charge, which could be applied to former President Donald J. Trump, has come under scrutiny.  <a href="https://nyti.ms/46R2tUd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As Russia Steps Up Attacks on Grain Ports, U.S. Warns of Possible Ruse</h3>
+<sub>By Michael D. Shear, Neil MacFarquhar and James C. McKinley Jr.</sub>
+<p>A White House official said Moscow might stage an attack on a commercial ship and blame Ukraine.  <a href="https://nyti.ms/3O4P3uW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>U.K. Voters Hand Sunak’s Party a Defeat and a Win in By-elections</h3>
+<sub>By Mark Landler and Stephen Castle</sub>
+<p>The governing Conservative Party lost in one electoral district but avoided defeat in Uxbridge and South Ruislip, Boris Johnson’s former seat. A third contest was still to be decided.  <a href="https://nyti.ms/3XZ9r5i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
@@ -128,10 +116,22 @@ Right now, there are a lot of different issues happening around the world. In th
 <p>They all have a 50-50 chance of inheriting a cruel genetic mutation — which means disappearing into dementia in middle age. This is the story of what it’s like to live with those odds.  <a href="https://nyti.ms/44R4NZp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>Trinity Nuclear Test’s Fallout Reached 46 States, Canada and Mexico, Study Finds</h3>
+<sub>By Lesley M. M. Blume</sub>
+<p>The research shows that the first atomic bomb explosion’s effects had been underestimated, and could help more “downwinders” press for federal compensation.  <a href="https://nyti.ms/44ysy8Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>How TV Writing Became a Dead-End Job</h3>
 <sub>By Noam Scheiber</sub>
 <p>The writers say Hollywood studios are increasingly limiting their roles in television productions, highlighting a trend for white-collar workers.  <a href="https://nyti.ms/44TufgK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>N.F.L. Fines Snyder $60 Million for Sexual Harassment and Withholding Revenue</h3>
+<sub>By Ken Belson and Jenny Vrentas</sub>
+<p>Daniel Snyder will pay $60 million in restitution after a league investigation found that he sexually harassed a female employee and improperly withheld revenue when he owned the Washington Commanders.  <a href="https://nyti.ms/3rGuQUK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
 <hr/>
 </ol>
