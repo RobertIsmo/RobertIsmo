@@ -58,9 +58,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Thursday, July 20, Central Standard Time</p>
+<p>It is Friday, July 21, Central Standard Time</p>
 <p>
-It&#39;s been an eventful week in the world! In New York, police recently solved a decades-long case involving a serial killer by unearthing a key clue in their files. It looks like June was officially Earth&#39;s hottest month on record, and temperatures are set to keep rising in August. There was drama in U.S. courts around grand jury proceedings as well as in Las Vegas when Delta passengers were left on a plane in extreme heat with no explanation. A tornado tore through North Carolina at Pfizer, potentially escalating already dire drug shortages. Trump has been trying to rally the United Auto Workers&#39; support for his own campaign to no avail. Somehow Russia is involved too, and there&#39;s speculation that it could be part of false flag operation! As if all that wasn&#39;t enough, the N.F.L. fined Dan Snyder, former owner of the Washington Commanders, for sexual harassment and for withholding profits from his team.</p>
+Recently, investigators looking into the unsolved Gilgo Beach Suspect case found a crucial piece of evidence they had been missing for years. In terms of climate, June was Earth&#39;s hottest month on record and the National Oceanic and Atmospheric Administration predicts August will see more of the same. Meanwhile, the US is investigating why passengers were kept on a plane in extreme heat in Las Vegas and in North Carolina, damage caused by a tornado to Pfizer&#39;s property could further stretch drug supplies.
+
+On the political side, Donald Trump is trying to win back the support of the United Auto Workers union, while court proceedings related to him have been delaying a verdict on January 6th. In Britain, Tory party won one seat but lost two by-elections while a recent study revealed that the Trinity nuclear test had stronger fallout effects than previously thought.
+
+And in the business world, TV writing has become increasingly tough to break into due to studios limiting writers&#39; roles in their productions. Finally, Louisville made history by appointing its first ever Black female police chief and NFL fined Daniel Snyder $60 million for sexual harassment and withholding revenue.</p>
 <ol>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>The Polygon and the Avalanche: How the Gilgo Beach Suspect Was Found</h3>
@@ -105,15 +109,9 @@ It&#39;s been an eventful week in the world! In New York, police recently solved
 <sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>U.K. Voters Hand Sunak’s Party a Defeat and a Win in By-elections</h3>
+<h3>U.K. Voters Hand Sunak’s Party Two Defeats and a Win in By-elections</h3>
 <sub>By Mark Landler and Stephen Castle</sub>
-<p>The governing Conservative Party lost in one electoral district but avoided defeat in Uxbridge and South Ruislip, Boris Johnson’s former seat. A third contest was still to be decided.  <a href="https://nyti.ms/3XZ9r5i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>The Vanishing Family</h3>
-<sub>By Robert Kolker</sub>
-<p>They all have a 50-50 chance of inheriting a cruel genetic mutation — which means disappearing into dementia in middle age. This is the story of what it’s like to live with those odds.  <a href="https://nyti.ms/44R4NZp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The governing Conservative Party retained Boris Johnson’s former seat in Parliament in Uxbridge and South Ruislip, but lost in two electoral districts to Labour and the Liberal Democrats.  <a href="https://nyti.ms/3XZ9r5i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
@@ -126,6 +124,12 @@ It&#39;s been an eventful week in the world! In New York, police recently solved
 <h3>How TV Writing Became a Dead-End Job</h3>
 <sub>By Noam Scheiber</sub>
 <p>The writers say Hollywood studios are increasingly limiting their roles in television productions, highlighting a trend for white-collar workers.  <a href="https://nyti.ms/44TufgK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In a First, Louisville Taps a Black Woman to Lead Its Troubled Police Force</h3>
+<sub>By Orlando Mayorquin</sub>
+<p>Jacquelyn Gwinn-Villaroel, 49, will take charge of a besieged department. She is the fifth person to lead Louisville’s police since June 2020.  <a href="https://nyti.ms/3pYVhVo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
