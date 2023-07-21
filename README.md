@@ -60,19 +60,25 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, July 21, Central Standard Time</p>
 <p>
-There is a lot going on in the world lately! In the US, Donald Trump is trying to get union support from UAW, and there&#39;s a new Black woman leading the troubled police force in Louisville. Over in the UK, their government recently had some by-elections with mixed results. On the climate front, June was Earth&#39;s hottest month on record so far and August looks to be more of the same. In grim news, some police investigators have been looking into a suspect from a case at Gilgo Beach for years without luck; however they now have a new clue that could help them solve it. Sadly, an unexpected tornado in Rocky Mount damaged a Pfizer site and caused shortages of vital hospital products. Lastly, NFL fined Daniel Snyder $60 million for sexual harassment and withholding revenue while he owned the Washington Commanders.</p>
+There is a lot happening around the world right now. In Ukraine, a university and its students have continued to persevere despite the city being in ruins. There are also record-breaking temperatures being seen around the world due to extreme heat with no relief in sight. In the United States, people are being affected by a U.S. investigation into Delta passengers being stuck on the plane in triple-digit temperatures as well as California legislators creating a renters&#39; caucus. Across the pond in the United Kingdom, there have been by-elections where their government had both wins and losses. Spain also just had an election that focused more on allied parties than fundamental issues. Additionally, lawmakers are challenging Ford to investigate their battery partner for forced labor while in New York, an important clue was recently uncovered which led to an arrest regarding serial killings at Gilgo Beach. Lastly, Israel is currently having a debate over their Supreme Court&#39;s reach in regards to legal understanding of &quot;reasonableness&quot;.</p>
 <ol>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>The Polygon and the Avalanche: How the Gilgo Beach Suspect Was Found</h3>
-<sub>By William K. Rashbaum, Joseph Goldstein and Johnny Milano</sub>
-<p>As investigators spent years looking for a suspect, a key clue was buried in their files. Could they have solved the case years earlier?  <a href="https://nyti.ms/3OpJbhC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Their City in Ruins, a Ukrainian University and Its Students Persevere</h3>
+<sub>By Valerie Hopkins</sub>
+<p>Mariupol State University, an oasis amid the war, has graduated its newest class, more than a year after fleeing its devastated home city.  <a href="https://nyti.ms/44UK6Mo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>June Was Earth’s Hottest on Record. August May Bring More of the Same.</h3>
-<sub>By Delger Erdenesanaa</sub>
-<p>In its monthly call, the National Oceanic and Atmospheric Adminstration analyzed how June’s temperatures stacked up and said it expects August to continue the trend.  <a href="https://nyti.ms/3Y20Rmv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Around the Globe, Searing Heat With No Sign of Relief</h3>
+<sub>By Gerry Mullany and Delger Erdenesanaa</sub>
+<p>In Asia, Europe and the United States, records are shattering, and forecasters say there’s no respite in sight.  <a href="https://nyti.ms/43Btmsc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>At a Manhattan Park With a Troubled History, a Promising Research Site</h3>
+<sub>By Hurubie Meko</sub>
+<p>The artificial pond in Morningside Park, on the site where Columbia University once tried to build a gym, has been covered with toxic algae for years.  <a href="https://nyti.ms/44LGCMc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>U.S. Investigating Why Delta Passengers Were Kept on Plane in Extreme Heat</h3>
@@ -80,29 +86,11 @@ There is a lot going on in the world lately! In the US, Donald Trump is trying t
 <p>The flight, from Las Vegas to Atlanta, was stalled at Harry Reid International Airport, leaving passengers sweltering in triple-digit temperatures, the department said.  <a href="https://nyti.ms/3pVdjru"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Tornado Tears Through Pfizer’s N.C. Site, Threatening Crucial Drug Supplies</h3>
-<sub>By Christina Jewett</sub>
-<p>Extensive damage occurred at the company’s property in Rocky Mount, and many products used by hospitals appeared to have been affected. This could further exacerbate shortages.  <a href="https://nyti.ms/3rtQlbm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Collision in Court: Trump Grand Jury Proceedings Delay a Jan. 6 Verdict</h3>
-<sub>By Alan Feuer and Maggie Haberman</sub>
-<p>A defense lawyer was late. A judge grew irked. Prosecutors were hauled out of a grand jury. It was an example of the complexities stemming from the multiple proceedings involving Donald Trump.  <a href="https://nyti.ms/3OmaBVj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Seeks U.A.W.’s Support as the Union Wavers on Backing Biden</h3>
-<sub>By Jonathan Weisman</sub>
-<p>A video from the former president attacked electric vehicles, predicting the demise of the American automotive industry.  <a href="https://nyti.ms/46Zogcs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>C.I.A. Chief Says Wagner Mutiny Revived Questions About Putin’s Rule</h3>
-<sub>By Julian E. Barnes and David E. Sanger</sub>
-<p>William J. Burns gave the most detailed public account yet by a U.S. official of the damage done to President Vladimir V. Putin of Russia by last month’s uprising by the mercenary group.  <a href="https://nyti.ms/44TIKRP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Who Will Stand Up for Renters? Their Elected Representatives, Who Also Rent.</h3>
+<sub>By Conor Dougherty</sub>
+<p>In California, legislators come out as tenants to form a renters’ caucus.  <a href="https://nyti.ms/3rt0AN5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>U.K. Voters Hand Sunak’s Party Two Defeats and a Win in By-elections</h3>
@@ -110,29 +98,41 @@ There is a lot going on in the world lately! In the US, Donald Trump is trying t
 <p>The governing Conservatives retained Boris Johnson’s former Parliament seat in northwest London, but lost in two districts, including a sobering defeat in northern England.  <a href="https://nyti.ms/3XZ9r5i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>Trinity Nuclear Test’s Fallout Reached 46 States, Canada and Mexico, Study Finds</h3>
-<sub>By Lesley M. M. Blume</sub>
-<p>The research shows that the first atomic bomb explosion’s effects had been underestimated, and could help more “downwinders” press for federal compensation.  <a href="https://nyti.ms/44ysy8Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Spain’s Election, Left and Right Answer for the Company They Keep</h3>
+<sub>By Jason Horowitz</sub>
+<p>Before voting Sunday, a focus on the leading parties’ allies has dominated the campaign — and obscured debate about more fundamental issues.  <a href="https://nyti.ms/3O0mXBd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How TV Writing Became a Dead-End Job</h3>
-<sub>By Noam Scheiber</sub>
-<p>The writers say Hollywood studios are increasingly limiting their roles in television productions, highlighting a trend for white-collar workers.  <a href="https://nyti.ms/44TufgK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
+<h3>Lawmakers Challenge Ford and Chinese Battery Partner Over Forced Labor</h3>
+<sub>By Ana Swanson and Jack Ewing</sub>
+<p>Republicans are raising fresh concerns about CATL, the battery maker Ford is working with to bring new technology to the U.S., and its connections to Xinjiang.  <a href="https://nyti.ms/3O0VmzU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In a First, Louisville Taps a Black Woman to Lead Its Troubled Police Force</h3>
-<sub>By Orlando Mayorquin</sub>
-<p>Jacquelyn Gwinn-Villaroel, 49, will take charge of a besieged department. She is the fifth person to lead Louisville’s police since June 2020.  <a href="https://nyti.ms/3pYVhVo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>A Collision in Court: Trump Grand Jury Proceedings Delay a Jan. 6 Verdict</h3>
+<sub>By Alan Feuer and Maggie Haberman</sub>
+<p>A defense lawyer was late. A judge grew irked. Prosecutors were hauled out of a grand jury. It was an example of the complexities stemming from the multiple proceedings involving Donald Trump.  <a href="https://nyti.ms/3OmaBVj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>N.F.L. Fines Snyder $60 Million for Sexual Harassment and Withholding Revenue</h3>
-<sub>By Ken Belson and Jenny Vrentas</sub>
-<p>Daniel Snyder will pay $60 million in restitution after a league investigation found that he sexually harassed a female employee and improperly withheld revenue when he owned the Washington Commanders.  <a href="https://nyti.ms/3rGuQUK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>The Polygon and the Avalanche: How the Gilgo Beach Suspect Was Found</h3>
+<sub>By William K. Rashbaum, Joseph Goldstein and Johnny Milano</sub>
+<p>As investigators spent years looking for a suspect, a key clue was buried in their files. Could they have solved the case years earlier?  <a href="https://nyti.ms/3OpJbhC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>How the Gilgo Beach Suspect Wielded Power in Brownstone Brooklyn</h3>
+<sub>By Ginia Bellafante</sub>
+<p>The man charged in the serial killings was a journeyman architect whose position gave him an unusual authority.  <a href="https://nyti.ms/3ryXdnT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>What’s Reasonable? A Debate Over a High Court’s Reach Divides Israel.</h3>
+<sub>By Patrick Kingsley</sub>
+<p>The legal concept of “reasonableness,” which has allowed the Supreme Court to strike down ministerial appointments, among other things, is at the center of a domestic crisis gripping the country.  <a href="https://nyti.ms/3rvnlzY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
