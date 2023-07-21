@@ -60,19 +60,25 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, July 21, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In the US, there is a trial concerning documents related to former President Donald J. Trump that has been set for May 2024. Also, there is an ongoing grand jury proceedings related to Jan. 6 that is delaying a verdict. Meanwhile, the world of music has lost legendary singer Tony Bennett at the age of 96 and A.I companies have recently agreed to new safety protocols following pressure from the White House. On the other side of the globe, students in Ukraine are finishing up their final exams despite living in a city decimated by war and people around the world are suffering from an intense heatwave with no signs of relief any time soon. Closer to home, there have been investigations into why passengers were kept on board Delta flights in extreme temperatures as well as the arrest of someone connected to unsolved murders at Gilgo Beach. Finally, investigators have discovered how power was wielded back home in brownstone Brooklyn by the suspect in these killings.</p>
+There is a lot going on in the world right now. Artificial intelligence companies have agreed to new safety measures after pressure from White House. Former US President, Donald Trump, is set to face trial in May 2024 for document-related cases and Michael Cohen has settled his lawsuit with Trump Organization. Even sadder news is the passing of Tony Bennett, champion of the Great American Songbook, who was 96 years old. Tony&#39;s success had a ripple effect since his duets with Lady Gaga revived both of their stars. On the environment side, we&#39;re experiencing an extreme heat wave around the globe with no sign of relief and India&#39;s food supplies are being affected due to these temperatures. In Canada, it is their record-breaking wildfire season which emphasizes the need to shift from suppressing wildfires to preventing them due to climate change impacts. Lastly, here in the US, Texas A&amp;M University&#39;s President has resigned amid fallout over the journalism program appointment and there has been a breakthrough in solving a 2006-2010 serial killer case in Brownstone Brooklyn thanks to a buried key clue.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>7 A.I. Companies Agree to Safeguards After Pressure From the White House</h3>
+<sub>By Michael D. Shear, Cecilia Kang and David E. Sanger</sub>
+<p>Amazon, Google and Meta are among the companies that announced the new commitments on Friday as they race to outdo each other with versions of artificial intelligence.  <a href="https://nyti.ms/3OoACDw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 21, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trial in Trump Documents Case Set for May 2024</h3>
 <sub>By Alan Feuer</sub>
 <p>Judge Aileen M. Cannon rejected former President Donald J. Trump’s request to delay the trial until after the election but pushed the start date past the Justice Department’s request to begin in December.  <a href="https://nyti.ms/3DmKcQX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Collision in Court: Trump Grand Jury Proceedings Delay a Jan. 6 Verdict</h3>
-<sub>By Alan Feuer and Maggie Haberman</sub>
-<p>A defense lawyer was late. A judge grew irked. Prosecutors were hauled out of a grand jury. It was an example of the complexities stemming from the multiple proceedings involving Donald Trump.  <a href="https://nyti.ms/3OmaBVj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Michael Cohen Agrees to Settle Lawsuit With Trump Organization</h3>
+<sub>By Ben Protess, Jonah E. Bromwich and Kate Christobek</sub>
+<p>Donald J. Trump’s former fixer had accused the company of failing to abide by the terms of a deal and refusing to pay more than $1 million in legal costs  <a href="https://nyti.ms/3O0xdJS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>Tony Bennett, Champion of the Great American Songbook, Is Dead at 96</h3>
@@ -81,46 +87,40 @@ There is a lot going on in the world right now. In the US, there is a trial conc
 <sub><sub>Friday, July 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Tony Bennett at 90: ‘I Just Love What I’m Doing’</h3>
-<sub>By John Marchese</sub>
-<p>At 90, Mr. Bennett has no plans to slow down. Tour dates and an NBC special are the next stops on his 70-year career.  <a href="https://nyti.ms/2hMKhSj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>7 A.I. Companies Agree to Safeguards After Pressure From the White House</h3>
-<sub>By Michael D. Shear</sub>
-<p>Amazon, Google and Meta are among the companies that will announce the new commitments on Friday as they race to outdo each other with versions of artificial intelligence.  <a href="https://nyti.ms/3OoACDw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Their City in Ruins, a Ukrainian University and Its Students Persevere</h3>
-<sub>By Valerie Hopkins</sub>
-<p>Mariupol State University, an oasis amid the war, has graduated its newest class, more than a year after fleeing its devastated home city.  <a href="https://nyti.ms/44UK6Mo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia Detains Igor Girkin, a Critic of Putin’s War Effort in Ukraine: What to Know</h3>
-<sub>By Ivan Nechepurenko</sub>
-<p>The arrest was a sign that Russia was clamping down further on dissent, even among prominent nationalists, after last month’s brief mutiny by Wagner mercenaries.  <a href="https://nyti.ms/46WMC6w"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Tony Bennett and Lady Gaga Dueted. Their Stars Were Reborn.</h3>
+<sub>By Lindsay Zoladz</sub>
+<p>The crooner and the pop star seemed like unlikely collaborators when they joined up in 2014. But the two masters of reinvention inspired and bolstered each other’s careers.  <a href="https://nyti.ms/3Dq2gJY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Around the Globe, Searing Heat With No Sign of Relief</h3>
-<sub>By Gerry Mullany and Delger Erdenesanaa</sub>
+<sub>By Gerry Mullany, Delger Erdenesanaa and Aaron Boxerman</sub>
 <p>In Asia, Europe and the United States, records are shattering, and forecasters say there’s no respite in sight.  <a href="https://nyti.ms/43Btmsc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>At a Manhattan Park With a Troubled History, a Promising Research Site</h3>
-<sub>By Hurubie Meko</sub>
-<p>The artificial pond in Morningside Park, on the site where Columbia University once tried to build a gym, has been covered with toxic algae for years.  <a href="https://nyti.ms/44LGCMc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Only Early Birds Will See Acropolis as Workers Strike Over Heat</h3>
+<sub>By Niki Kitsantonis</sub>
+<p>Security guards and others say the extreme temperatures in Athens and at other historical sites are dangerous for them and for tourists. The employees are stopping work at noon at least for now.  <a href="https://nyti.ms/3rKQCGU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.S. Investigating Why Delta Passengers Were Kept on Plane in Extreme Heat</h3>
-<sub>By Livia Albeck-Ripka</sub>
-<p>The flight, from Las Vegas to Atlanta, was stalled at Harry Reid International Airport, leaving passengers sweltering in triple-digit temperatures, the department said.  <a href="https://nyti.ms/3pVdjru"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Wheat, Sugar, and Now Tomatoes: Extreme Weather Dents India’s Food Supplies</h3>
+<sub>By Hari Kumar and Mujib Mashal</sub>
+<p>“We have stopped eating tomatoes in salad,” one shopper said, “and we are not making any tomato-based vegetable dishes.”  <a href="https://nyti.ms/3XZPbR2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>How to Fight Canada’s Wildfires in the Era of Climate Change</h3>
+<sub>By Norimitsu Onishi</sub>
+<p>Canada’s record-breaking wildfire season shows the need to shift from suppressing fires to preventing them as fires become more difficult to combat.  <a href="https://nyti.ms/3pYkvDj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Texas A&amp;M President Resigns Amid Fallout Over Journalism Program</h3>
+<sub>By Remy Tumin and Nicholas Bogel-Burroughs</sub>
+<p>The university said M. Katherine Banks would retire “immediately” after political pushback over the effort to appoint Kathleen McElroy to lead its journalism program.  <a href="https://nyti.ms/3NZa0Yp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>The Polygon and the Avalanche: How the Gilgo Beach Suspect Was Found</h3>
