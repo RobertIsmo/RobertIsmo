@@ -60,12 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, July 21, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. Artificial intelligence companies have agreed to new safety measures after pressure from White House. Former US President, Donald Trump, is set to face trial in May 2024 for document-related cases and Michael Cohen has settled his lawsuit with Trump Organization. Even sadder news is the passing of Tony Bennett, champion of the Great American Songbook, who was 96 years old. Tony&#39;s success had a ripple effect since his duets with Lady Gaga revived both of their stars. On the environment side, we&#39;re experiencing an extreme heat wave around the globe with no sign of relief and India&#39;s food supplies are being affected due to these temperatures. In Canada, it is their record-breaking wildfire season which emphasizes the need to shift from suppressing wildfires to preventing them due to climate change impacts. Lastly, here in the US, Texas A&amp;M University&#39;s President has resigned amid fallout over the journalism program appointment and there has been a breakthrough in solving a 2006-2010 serial killer case in Brownstone Brooklyn thanks to a buried key clue.</p>
+There is a lot happening in the world right now. AI companies are facing pressure to follow certain safety guidelines, and lawmakers are still figuring out how to regulate it. Former President Donald J. Trump is facing a trial set for May 2024 and his former fixer Michael Cohen has agreed to settle a lawsuit with the Trump Organization. Tony Bennett recently passed away at 96 but left behind his work as champion of the Great American Songbook. Across the globe, many countries are feeling the impact of extreme weather as wheat, sugar, and tomato supplies suffer in India. In Canada, this record-breaking wildfire season has led to an effort to move from suppressing fires to preventing them due to climate change. Closer to home, Texas A&amp;M&#39;s president had to resign after facing political backlash over appointing Kathleen McElroy as the lead for their journalism program.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>7 A.I. Companies Agree to Safeguards After Pressure From the White House</h3>
 <sub>By Michael D. Shear, Cecilia Kang and David E. Sanger</sub>
 <p>Amazon, Google and Meta are among the companies that announced the new commitments on Friday as they race to outdo each other with versions of artificial intelligence.  <a href="https://nyti.ms/3OoACDw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>In U.S., Regulating A.I. Is in Its ‘Early Days’</h3>
+<sub>By Cecilia Kang</sub>
+<p>While there has been a flurry of activity by the White House and lawmakers over artificial intelligence, rules for the technology remain distant, lawmakers and experts said.  <a href="https://nyti.ms/3rFge8t"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -90,6 +96,12 @@ There is a lot going on in the world right now. Artificial intelligence companie
 <h3>Tony Bennett and Lady Gaga Dueted. Their Stars Were Reborn.</h3>
 <sub>By Lindsay Zoladz</sub>
 <p>The crooner and the pop star seemed like unlikely collaborators when they joined up in 2014. But the two masters of reinvention inspired and bolstered each other’s careers.  <a href="https://nyti.ms/3Dq2gJY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>Tony Bennett, Always a Class Act</h3>
+<sub>By Jim Windolf</sub>
+<p>From the early days with Frank Sinatra to his 21st-century resurgence with Lady Gaga, he was steadfast in his approach to song and style.  <a href="https://nyti.ms/3Y4LsSA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -120,18 +132,6 @@ There is a lot going on in the world right now. Artificial intelligence companie
 <h3>Texas A&amp;M President Resigns Amid Fallout Over Journalism Program</h3>
 <sub>By Remy Tumin and Nicholas Bogel-Burroughs</sub>
 <p>The university said M. Katherine Banks would retire “immediately” after political pushback over the effort to appoint Kathleen McElroy to lead its journalism program.  <a href="https://nyti.ms/3NZa0Yp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>The Polygon and the Avalanche: How the Gilgo Beach Suspect Was Found</h3>
-<sub>By William K. Rashbaum, Joseph Goldstein and Johnny Milano</sub>
-<p>As investigators spent years looking for a suspect, a key clue was buried in their files. Could they have solved the case years earlier?  <a href="https://nyti.ms/3OpJbhC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>How the Gilgo Beach Suspect Wielded Power in Brownstone Brooklyn</h3>
-<sub>By Ginia Bellafante</sub>
-<p>The man charged in the serial killings was a journeyman architect whose position gave him an unusual authority.  <a href="https://nyti.ms/3ryXdnT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
