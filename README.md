@@ -60,11 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, July 21, Central Standard Time</p>
 <p>
-Recently, investigators looking into the unsolved Gilgo Beach Suspect case found a crucial piece of evidence they had been missing for years. In terms of climate, June was Earth&#39;s hottest month on record and the National Oceanic and Atmospheric Administration predicts August will see more of the same. Meanwhile, the US is investigating why passengers were kept on a plane in extreme heat in Las Vegas and in North Carolina, damage caused by a tornado to Pfizer&#39;s property could further stretch drug supplies.
-
-On the political side, Donald Trump is trying to win back the support of the United Auto Workers union, while court proceedings related to him have been delaying a verdict on January 6th. In Britain, Tory party won one seat but lost two by-elections while a recent study revealed that the Trinity nuclear test had stronger fallout effects than previously thought.
-
-And in the business world, TV writing has become increasingly tough to break into due to studios limiting writers&#39; roles in their productions. Finally, Louisville made history by appointing its first ever Black female police chief and NFL fined Daniel Snyder $60 million for sexual harassment and withholding revenue.</p>
+There is a lot going on in the world lately! In the US, Donald Trump is trying to get union support from UAW, and there&#39;s a new Black woman leading the troubled police force in Louisville. Over in the UK, their government recently had some by-elections with mixed results. On the climate front, June was Earth&#39;s hottest month on record so far and August looks to be more of the same. In grim news, some police investigators have been looking into a suspect from a case at Gilgo Beach for years without luck; however they now have a new clue that could help them solve it. Sadly, an unexpected tornado in Rocky Mount damaged a Pfizer site and caused shortages of vital hospital products. Lastly, NFL fined Daniel Snyder $60 million for sexual harassment and withholding revenue while he owned the Washington Commanders.</p>
 <ol>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>The Polygon and the Avalanche: How the Gilgo Beach Suspect Was Found</h3>
@@ -103,15 +99,15 @@ And in the business world, TV writing has become increasingly tough to break int
 <sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Russia Steps Up Attacks on Grain Ports, U.S. Warns of Possible Ruse</h3>
-<sub>By Michael D. Shear, Neil MacFarquhar and James C. McKinley Jr.</sub>
-<p>A White House official said Moscow might stage an attack on a commercial ship and blame Ukraine.  <a href="https://nyti.ms/3O4P3uW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>C.I.A. Chief Says Wagner Mutiny Revived Questions About Putin’s Rule</h3>
+<sub>By Julian E. Barnes and David E. Sanger</sub>
+<p>William J. Burns gave the most detailed public account yet by a U.S. official of the damage done to President Vladimir V. Putin of Russia by last month’s uprising by the mercenary group.  <a href="https://nyti.ms/44TIKRP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>U.K. Voters Hand Sunak’s Party Two Defeats and a Win in By-elections</h3>
 <sub>By Mark Landler and Stephen Castle</sub>
-<p>The governing Conservative Party retained Boris Johnson’s former seat in Parliament in Uxbridge and South Ruislip, but lost in two electoral districts to Labour and the Liberal Democrats.  <a href="https://nyti.ms/3XZ9r5i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The governing Conservatives retained Boris Johnson’s former Parliament seat in northwest London, but lost in two districts, including a sobering defeat in northern England.  <a href="https://nyti.ms/3XZ9r5i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
