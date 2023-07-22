@@ -60,11 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, July 22, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. In the business realm, a drug maker has been taking advantage of its patents to make more money. In technology, companies have been making commitments related to Artificial Intelligence. Meanwhile, some medical schools are using chatbots to train their students how to think like medical professionals.
-
-In the world of politics, protests in Belarus have faced severe crackdowns and Turkish leaders have discussed a grain deal in light of recent tensions with Russia and Ukraine. Here in the US we&#39;re facing a crisis with how police interact with people who are experiencing mental health incidents. 
-
-On the entertainment front, two big movies were supposed to be released, but the pandemic put a damper on any celebration. For those who do get to see them, one is a Christopher Nolan movie about J. Robert Oppenheimer and the other is Greta Gerwig&#39;s &quot;Barbie.&quot; Just recently, Sophia Smith had an incredible World Cup debut where she scored two goals and assisted another one as well. Lastly here in New York promises made by developers don&#39;t seem to have been kept when it comes to spacious public areas being offered in exchange for larger buildings. On top of that much of the southeast and southwest are experiencing some intense heat at the moment which is expected to abate slightly soon though dangerous temperatures could return later next week.</p>
+There is a lot going on in the world right now. A drug maker has been accused of slow-walking a promising HIV therapy to make more money. Seven leading AI companies have made promises about what to do with their technology, a medical school is experimenting with using chatbots for diagnoses in emergency rooms, and tensions are rising between Russia and Ukraine. On top of that, protests from three years ago still have a never-ending crackdown in Belarus and questions are being asked about how the police respond to mental health crises in the US. Developers are being given permission to build larger buildings in exchange for public spaces in New York City, but that hasn’t panned out as expected. Hollywood was gearing up for the launch of “Barbie” and “Oppenheimer” until everything was put on pause due to the pandemic. There is also soccer news – Sophia Smith has been having a great World Cup debut! Lastly, Yoko Ono recently left her fabled apartment at the Dakota after being there for 50 years – making an incredible impact while she was there.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>How a Drug Maker Profited by Slow-Walking a Promising H.I.V. Therapy</h3>
@@ -81,7 +77,7 @@ On the entertainment front, two big movies were supposed to be released, but the
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>A Mystery in the E.R.? Ask Dr. Chatbot for a Diagnosis.</h3>
 <sub>By Gina Kolata</sub>
-<p>At a medical school in Boston, instructors are using ChatGPT in training exercises to help teach students how to think like doctors.  <a href="https://nyti.ms/3q3ea9y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>At a medical school in Boston, instructors are using ChatGPT in training exercises to help teach students how to think like doctors.  <a href="https://nyti.ms/3OqsTVG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -91,9 +87,9 @@ On the entertainment front, two big movies were supposed to be released, but the
 <sub><sub>Saturday, July 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Tensions Rise, Zelensky and Erdogan Discuss Collapsed Grain Deal</h3>
+<h3>As Tensions Rise, Zelensky Pushes for Way to Ship Grain Through Black Sea</h3>
 <sub>By Valerie Hopkins</sub>
-<p>The Turkish leader has been a key mediator between Russia and Ukraine since the full-scale invasion began last February.  <a href="https://nyti.ms/3OnUhm3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The Ukrainian leader said he had spoken with the NATO chief and the Turkish president, Recep Tayyip Erdogan, a key mediator between Russia and Ukraine since the full-scale invasion began last February.  <a href="https://nyti.ms/3OnUhm3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -101,6 +97,12 @@ On the entertainment front, two big movies were supposed to be released, but the
 <sub>By Colbi Edmonds</sub>
 <p>The death of Melissa Perez in San Antonio is renewing vexing questions about how police deal with people who have mental health issues.  <a href="https://nyti.ms/3DqoN9O"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>New Yorkers Got Broken Promises. Developers Got 20 Million Sq. Ft.</h3>
+<sub>By Urvashi Uberoy and Keith Collins</sub>
+<p>It was supposed to be an even trade: Permission to raise larger buildings in exchange for airy, open spaces for the public. The reality has been different.  <a href="https://nyti.ms/3DI9QA5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-movies-blue" alt="">
 <h3>‘Barbenheimer’ Is a Huge Hollywood Moment and Maybe the Last for a While</h3>
@@ -126,17 +128,11 @@ On the entertainment front, two big movies were supposed to be released, but the
 <p>Smith had two goals and an assist in her debut in the tournament. And she believes, along with her teammates, that there could have been more.  <a href="https://nyti.ms/3K4HDqn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>New Yorkers Got Broken Promises. Developers Got 20 Million Sq. Ft.</h3>
-<sub>By Urvashi Uberoy and Keith Collins</sub>
-<p>It was supposed to be an even trade: Permission to raise larger buildings in exchange for airy, open spaces for the public. The reality has been different.  <a href="https://nyti.ms/3DI9QA5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-realestate-blue" alt="">
+<h3>Yoko Ono and the Dakota</h3>
+<sub>By Anna Kodé</sub>
+<p>Word that the pop culture icon has left the fabled Upper West Side apartment building that she defined for a generation has sparked reflection on her impact as a resident there for 50 years.  <a href="https://nyti.ms/44OcL5q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Heat Expected to Abate (Slightly) in Much of the Southeast</h3>
-<sub>By Judson Jones and John Keefe</sub>
-<p>However, forecasters say dangerous temperatures will persist through Saturday in the Southwest and could return late next week.  <a href="https://nyti.ms/3XFzkH8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
