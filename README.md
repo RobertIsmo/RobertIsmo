@@ -60,79 +60,83 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, July 22, Central Standard Time</p>
 <p>
-There&#39;s a lot happening in the world right now! U.S. politician DeSantis is facing criticism for new Black History standards, and A.I. companies have agreed to guardrails on their new tools in response to President Biden&#39;s pressure. On the other hand, there are still no clear rules about regulating A.I. in the U.S., and a grand jury is getting ready to make a decision on whether or not Trump and his allies will face charges related to election interference. Plus, Michael Cohen has agreed to settle his lawsuit against a Trump Organization, and Judge Cannon is making a case about Trump documents in 2024. There&#39;s also some heartwarming news: Tony Bennett, a famous crooner of the American songbook, recently passed away at age 96 and there was a very successful duet between him and Lady Gaga! And finally, Biden nominated Admiral Lisa Franchetti as first female head of the Navy, and William J. Burns as C.I.A Director and Cabinet member of his administration due to his role in pushing back against Russian aggression in Ukraine.</p>
+There&#39;s a lot going on in the world right now. In the business realm, a drug maker has been taking advantage of its patents to make more money. In technology, companies have been making commitments related to Artificial Intelligence. Meanwhile, some medical schools are using chatbots to train their students how to think like medical professionals.
+
+In the world of politics, protests in Belarus have faced severe crackdowns and Turkish leaders have discussed a grain deal in light of recent tensions with Russia and Ukraine. Here in the US we&#39;re facing a crisis with how police interact with people who are experiencing mental health incidents. 
+
+On the entertainment front, two big movies were supposed to be released, but the pandemic put a damper on any celebration. For those who do get to see them, one is a Christopher Nolan movie about J. Robert Oppenheimer and the other is Greta Gerwig&#39;s &quot;Barbie.&quot; Just recently, Sophia Smith had an incredible World Cup debut where she scored two goals and assisted another one as well. Lastly here in New York promises made by developers don&#39;t seem to have been kept when it comes to spacious public areas being offered in exchange for larger buildings. On top of that much of the southeast and southwest are experiencing some intense heat at the moment which is expected to abate slightly soon though dangerous temperatures could return later next week.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis Faces Swell of Criticism Over Florida’s New Standards for Black History</h3>
-<sub>By Sarah Mervosh</sub>
-<p>In one benchmark, middle schoolers would learn that enslaved Americans developed skills that “could be applied for their personal benefit.”  <a href="https://nyti.ms/46Ru47A"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Pressured by Biden, A.I. Companies Agree to Guardrails on New Tools</h3>
-<sub>By Michael D. Shear, Cecilia Kang and David E. Sanger</sub>
-<p>Amazon, Google and Meta are among the companies that announced the guidelines as they race to outdo each other with versions of artificial intelligence.  <a href="https://nyti.ms/3OoACDw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 21, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>How a Drug Maker Profited by Slow-Walking a Promising H.I.V. Therapy</h3>
+<sub>By Rebecca Robbins and Sheryl Gay Stolberg</sub>
+<p>Gilead delayed a new version of a drug, allowing it to extend the patent life of a blockbuster line of medications, internal documents show.  <a href="https://nyti.ms/3DpVkN5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>In U.S., Regulating A.I. Is in Its ‘Early Days’</h3>
-<sub>By Cecilia Kang</sub>
-<p>While there has been a flurry of activity by the White House and lawmakers over artificial intelligence, rules for the technology remain distant, lawmakers and experts said.  <a href="https://nyti.ms/3rFge8t"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 21, Central Standard Time</sub></sub>
+<h3>How Do the White House’s A.I. Commitments Stack Up?</h3>
+<sub>By Kevin Roose</sub>
+<p>Seven leading A.I. companies made eight promises about what they’ll do with their technology. Our columnist sizes up their potential impact.  <a href="https://nyti.ms/3OqMEMS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>A Mystery in the E.R.? Ask Dr. Chatbot for a Diagnosis.</h3>
+<sub>By Gina Kolata</sub>
+<p>At a medical school in Boston, instructors are using ChatGPT in training exercises to help teach students how to think like doctors.  <a href="https://nyti.ms/3q3ea9y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Belarus, the Protests Were Three Years Ago. The Crackdown Is Never-Ending.</h3>
+<sub>By Valerie Hopkins and Nanna Heitmann</sub>
+<p>Aleksandr G. Lukashenko brutally repressed those who opposed his claim of re-election as president. The crackdown on dissent has only deepened since.  <a href="https://nyti.ms/3OpViLl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As Tensions Rise, Zelensky and Erdogan Discuss Collapsed Grain Deal</h3>
+<sub>By Valerie Hopkins</sub>
+<p>The Turkish leader has been a key mediator between Russia and Ukraine since the full-scale invasion began last February.  <a href="https://nyti.ms/3OnUhm3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>For Trump and Allies, a Waiting Game as Georgia Indictment Decisions Loom</h3>
-<sub>By Danny Hakim</sub>
-<p>The prosecutor overseeing the investigation into election interference will make her case next month to a grand jury in Atlanta. Nearly 20 people have been warned that they could face charges.  <a href="https://nyti.ms/3Kd73lR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>A Mental Health Crisis. An Officer’s Gun. A Too-Common Tragedy.</h3>
+<sub>By Colbi Edmonds</sub>
+<p>The death of Melissa Perez in San Antonio is renewing vexing questions about how police deal with people who have mental health issues.  <a href="https://nyti.ms/3DqoN9O"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>‘Barbenheimer’ Is a Huge Hollywood Moment and Maybe the Last for a While</h3>
+<sub>By Kyle Buchanan</sub>
+<p>The big launch of “Barbie” and “Oppenheimer” should have been a celebratory moment, but an industry on pause has darkened the mood.  <a href="https://nyti.ms/46XM54g"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Michael Cohen Agrees to Settle Lawsuit With Trump Organization</h3>
-<sub>By Ben Protess, Jonah E. Bromwich and Kate Christobek</sub>
-<p>Donald J. Trump’s former fixer had accused the company of failing to abide by the terms of a deal and refusing to pay more than $1 million in legal costs  <a href="https://nyti.ms/3O0xdJS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 21, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>‘Oppenheimer’ Review: A Man for Our Time</h3>
+<sub>By Manohla Dargis</sub>
+<p>Christopher Nolan’s complex, vivid portrait of J. Robert Oppenheimer, the “father of the atomic bomb,” is a brilliant achievement in formal and conceptual terms.  <a href="https://nyti.ms/44vnYZb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>An Untested Judge in the Trump Documents Case</h3>
-<sub>By Robert Draper</sub>
-<p>Judge Aileen M. Cannon’s ruling to start the Trump documents trial in May 2024 showed, for now, that she is the jurist defenders have described: level-headed and not beholden to the man who appointed her.  <a href="https://nyti.ms/3rCt7QD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Tony Bennett, Jazzy Crooner of the American Songbook, Is Dead at 96</h3>
-<sub>By Bruce Weber</sub>
-<p>From his initial success at the Paramount in Times Square through his generation-spanning duets, his career was remarkable for both its longevity and its consistency.  <a href="https://nyti.ms/43yvWiU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Forget What the Song Says. Tony Bennett’s Heart Never Left New York.</h3>
-<sub>By James Barron</sub>
-<p>The singer may have become famous for “I Left My Heart in San Francisco,” but he will always be the kid from Astoria who made a go of it in Manhattan.  <a href="https://nyti.ms/3OpYMh6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Tony Bennett and Lady Gaga Dueted. Their Stars Were Reborn.</h3>
-<sub>By Lindsay Zoladz</sub>
-<p>The crooner and the pop star seemed like unlikely collaborators when they joined up in 2014. But the two masters of reinvention inspired and bolstered each other’s careers.  <a href="https://nyti.ms/3Dq2gJY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 21, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>‘Barbie’ Review: Out of the Box and On the Road</h3>
+<sub>By Manohla Dargis</sub>
+<p>She’s in the driver’s seat, headed for uncharted territory (flat feet!). But there are limits to how much dimension even Greta Gerwig can give this branded material.  <a href="https://nyti.ms/3QawXKG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Why U.S. Players Will Get the Most Prize Money, Even if They Lose</h3>
-<sub>By Allison McCann</sub>
-<p>FIFA recommended a share of the pot for all World Cup players. But the U.S. women will outpace them all because of an agreement with U.S. Soccer.  <a href="https://nyti.ms/3O0mleL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Sophia Smith Has Been Ready for Her World Cup Moment</h3>
+<sub>By Juliet Macur</sub>
+<p>Smith had two goals and an assist in her debut in the tournament. And she believes, along with her teammates, that there could have been more.  <a href="https://nyti.ms/3K4HDqn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>New Yorkers Got Broken Promises. Developers Got 20 Million Sq. Ft.</h3>
+<sub>By Urvashi Uberoy and Keith Collins</sub>
+<p>It was supposed to be an even trade: Permission to raise larger buildings in exchange for airy, open spaces for the public. The reality has been different.  <a href="https://nyti.ms/3DI9QA5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Nominates Adm. Lisa Franchetti to Lead the Navy</h3>
-<sub>By John Ismay</sub>
-<p>If confirmed, Admiral Franchetti, who currently serves as the Navy’s second in command, would become the first woman to lead the service in its 247-year history.  <a href="https://nyti.ms/3Q7ykdf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Elevates C.I.A. Director to Become a Member of the Cabinet</h3>
-<sub>By Michael D. Shear</sub>
-<p>William J. Burns, a veteran diplomat, has played a key role in the Biden administration’s efforts to thwart the Russian invasion of Ukraine.  <a href="https://nyti.ms/3Y46Y9P"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 21, Central Standard Time</sub></sub>
+<h3>Heat Expected to Abate (Slightly) in Much of the Southeast</h3>
+<sub>By Judson Jones and John Keefe</sub>
+<p>However, forecasters say dangerous temperatures will persist through Saturday in the Southwest and could return late next week.  <a href="https://nyti.ms/3XFzkH8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
