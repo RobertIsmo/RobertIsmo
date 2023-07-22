@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, July 22, Central Standard Time</p>
 <p>
-There are a lot of things happening around the world right now. In Belarus, there have been protests against the president&#39;s claim of re-election and the government has responded with a crackdown on dissent. In Ukraine, the president is trying to negotiate an agreement with NATO and Turkey to send grain through the Black Sea, while in Venezuela, gas flares and leaking pipelines from their once-booming oil industry are polluting towns and a major lake. Japan is also trying to find new ways to make coal cleaner, but their plan faces many hurdles. In Spain, there is an upcoming election where a hard-right party could become a kingmaker for the first time since Francisco Franco. Meanwhile, Yoko Ono has left her fabled apartment in New York and San Antonio is raising questions about how police deal with people who have mental health issues. Finally, two of this year&#39;s biggest movie releases – &quot;Barbie&quot; and &quot;Oppenheimer&quot; – are being overshadowed by a film industry that has been paused due to Covid-19.</p>
+There is a lot going on in the world right now. In Belarus, protesters are facing a never-ending crackdown after anti-government demonstrations a few years ago. Ukraine&#39;s president is pushing for a way to ship grain through the Black Sea as tensions in the region remain high. Venezuela&#39;s oil industry is also having environmental impacts from gas flares and leaking pipelines. In Spain, a hard-right party may have an opportunity to share power for the first time since Franco. Yoko Ono has moved out of her fabled Upper West side apartment after 50 years, and in San Antonio, Texas, the death of Melissa Perez is raising questions about how police deal with people who have mental health issues. Finally, two of the most highly anticipated movie premieres this year are &quot;Barbie&quot; and &quot;Oppenheimer,&quot; but with the industry currently on pause, there’s a different than usual mood surrounding their release.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>How a Drug Maker Profited by Slow-Walking a Promising H.I.V. Therapy</h3>
@@ -107,7 +107,7 @@ There are a lot of things happening around the world right now. In Belarus, ther
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Far Right May Rise as Kingmaker in Spanish Election</h3>
 <sub>By Jason Horowitz</sub>
-<p>A messier political landscape has lent leverage to the extremes, leaving a hard-right party poised to share power for the first time since Franco.  <a href="https://nyti.ms/3Y2HhX7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>A messier political landscape has lent leverage to the extremes, leaving a hard-right party with a chance to share power for the first time since Franco.  <a href="https://nyti.ms/3Y2HhX7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-realestate-blue" alt="">
