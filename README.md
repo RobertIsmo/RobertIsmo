@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, July 21, Central Standard Time</p>
 <p>
-To sum up what&#39;s happening in the world, President Biden is making a lot of decisions that are making waves in U.S., tech, and art news. A new judge overseeing a Trump-related case is being tested out, and there&#39;s potential for many people to get indicted in Georgia over election interference. Michael Cohen has settled a lawsuit with Trump&#39;s organization, and tech companies have agreed to guardrails for new AI tools. In U.S. government news, Governor DeSantis is facing criticism for his education standards for Black history, while in the entertainment world Tony Bennett recently died at 96 and his duets with Lady Gaga made their respective careers soar. Lastly, Texas A&amp;M&#39;s president has resigned because of controversy related to a journalism program, while Biden nominated an admiral to lead the Navy and a C.I.A. director to be part of the Cabinet.</p>
+It looks like there is a lot of political news happening right now. There is a judge ruling on a Trump documents case, and prosecutors are deciding whether people should face charges for election interference. Michael Cohen is suing the Trump Organization, and many AI companies have agreed to guidelines set out by Biden. The US government is trying to regulate A.I., and there have been some controversial standards set for the teaching of Black History in some states. Tony Bennett died at 96, and his duets with Lady Gaga helped boost both of their careers. &#39;Barbenheimer&#39; is a new movie that was set to release soon but has been put on pause due to an industry shutdown. Biden has nominated Adm. Lisa Franchetti to lead the Navy and made C.I.A. Director William J. Burns into a Cabinet member as Biden tries to stop Russian invasion in Ukraine.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>An Untested Judge in the Trump Documents Case</h3>
@@ -116,10 +116,10 @@ To sum up what&#39;s happening in the world, President Biden is making a lot of 
 <p>The crooner and the pop star seemed like unlikely collaborators when they joined up in 2014. But the two masters of reinvention inspired and bolstered each other’s careers.  <a href="https://nyti.ms/3Dq2gJY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Texas A&amp;M President Resigns Amid Fallout Over Journalism Program</h3>
-<sub>By Nicholas Bogel-Burroughs and Remy Tumin</sub>
-<p>The university said M. Katherine Banks would retire “immediately” after political pushback over the effort to appoint Kathleen McElroy to lead its journalism program.  <a href="https://nyti.ms/3NZa0Yp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>‘Barbenheimer’ Is a Huge Hollywood Moment and Maybe the Last for a While</h3>
+<sub>By Kyle Buchanan</sub>
+<p>The big launch of “Barbie” and “Oppenheimer” should have been a celebratory moment, but an industry on pause has darkened the mood.  <a href="https://nyti.ms/46XM54g"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
