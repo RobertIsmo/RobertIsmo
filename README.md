@@ -60,24 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, July 22, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. A drug maker has been accused of slow-walking a promising HIV therapy to make more money. Seven leading AI companies have made promises about what to do with their technology, a medical school is experimenting with using chatbots for diagnoses in emergency rooms, and tensions are rising between Russia and Ukraine. On top of that, protests from three years ago still have a never-ending crackdown in Belarus and questions are being asked about how the police respond to mental health crises in the US. Developers are being given permission to build larger buildings in exchange for public spaces in New York City, but that hasn’t panned out as expected. Hollywood was gearing up for the launch of “Barbie” and “Oppenheimer” until everything was put on pause due to the pandemic. There is also soccer news – Sophia Smith has been having a great World Cup debut! Lastly, Yoko Ono recently left her fabled apartment at the Dakota after being there for 50 years – making an incredible impact while she was there.</p>
+There are a lot of things happening around the world right now. In Belarus, there have been protests against the president&#39;s claim of re-election and the government has responded with a crackdown on dissent. In Ukraine, the president is trying to negotiate an agreement with NATO and Turkey to send grain through the Black Sea, while in Venezuela, gas flares and leaking pipelines from their once-booming oil industry are polluting towns and a major lake. Japan is also trying to find new ways to make coal cleaner, but their plan faces many hurdles. In Spain, there is an upcoming election where a hard-right party could become a kingmaker for the first time since Francisco Franco. Meanwhile, Yoko Ono has left her fabled apartment in New York and San Antonio is raising questions about how police deal with people who have mental health issues. Finally, two of this year&#39;s biggest movie releases – &quot;Barbie&quot; and &quot;Oppenheimer&quot; – are being overshadowed by a film industry that has been paused due to Covid-19.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>How a Drug Maker Profited by Slow-Walking a Promising H.I.V. Therapy</h3>
 <sub>By Rebecca Robbins and Sheryl Gay Stolberg</sub>
 <p>Gilead delayed a new version of a drug, allowing it to extend the patent life of a blockbuster line of medications, internal documents show.  <a href="https://nyti.ms/3DpVkN5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>How Do the White House’s A.I. Commitments Stack Up?</h3>
-<sub>By Kevin Roose</sub>
-<p>Seven leading A.I. companies made eight promises about what they’ll do with their technology. Our columnist sizes up their potential impact.  <a href="https://nyti.ms/3OqMEMS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>A Mystery in the E.R.? Ask Dr. Chatbot for a Diagnosis.</h3>
-<sub>By Gina Kolata</sub>
-<p>At a medical school in Boston, instructors are using ChatGPT in training exercises to help teach students how to think like doctors.  <a href="https://nyti.ms/3OqsTVG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -92,10 +80,22 @@ There is a lot going on in the world right now. A drug maker has been accused of
 <p>The Ukrainian leader said he had spoken with the NATO chief and the Turkish president, Recep Tayyip Erdogan, a key mediator between Russia and Ukraine since the full-scale invasion began last February.  <a href="https://nyti.ms/3OnUhm3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 22, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Venezuela’s Oil Industry Is Broken. Now It’s Breaking the Environment.</h3>
+<sub>By Isayen Herrera, Sheyla Urdaneta and Adriana Loureiro Fernandez</sub>
+<p>Gas flares and leaking pipelines from Venezuela’s once-booming oil industry, hobbled by U.S. sanctions and mismanagement, are polluting towns and a major lake.  <a href="https://nyti.ms/3K6Hl2g"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Japan Says It Can Make Coal Cleaner. Critics Say Its Plan Is ‘Almost Impossible.’</h3>
+<sub>By Motoko Rich and Hikari Hida</sub>
+<p>Japan says that by blending ammonia with coal in its boilers, it can make coal less damaging to the planet. But the technology faces many hurdles.  <a href="https://nyti.ms/3DmZFkf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 22, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Mental Health Crisis. An Officer’s Gun. A Too-Common Tragedy.</h3>
-<sub>By Colbi Edmonds</sub>
-<p>The death of Melissa Perez in San Antonio is renewing vexing questions about how police deal with people who have mental health issues.  <a href="https://nyti.ms/3DqoN9O"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>They Checked Out Pride Books in Protest. It Backfired.</h3>
+<sub>By Jill Cowan</sub>
+<p>Two San Diego residents cleared out the Pride month display at their library and said such materials shouldn’t be available to children, one of several recent clashes over L.G.B.T.Q. issues in California.  <a href="https://nyti.ms/3K8ssg4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -104,28 +104,10 @@ There is a lot going on in the world right now. A drug maker has been accused of
 <p>It was supposed to be an even trade: Permission to raise larger buildings in exchange for airy, open spaces for the public. The reality has been different.  <a href="https://nyti.ms/3DI9QA5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>‘Barbenheimer’ Is a Huge Hollywood Moment and Maybe the Last for a While</h3>
-<sub>By Kyle Buchanan</sub>
-<p>The big launch of “Barbie” and “Oppenheimer” should have been a celebratory moment, but an industry on pause has darkened the mood.  <a href="https://nyti.ms/46XM54g"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>‘Oppenheimer’ Review: A Man for Our Time</h3>
-<sub>By Manohla Dargis</sub>
-<p>Christopher Nolan’s complex, vivid portrait of J. Robert Oppenheimer, the “father of the atomic bomb,” is a brilliant achievement in formal and conceptual terms.  <a href="https://nyti.ms/44vnYZb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>‘Barbie’ Review: Out of the Box and On the Road</h3>
-<sub>By Manohla Dargis</sub>
-<p>She’s in the driver’s seat, headed for uncharted territory (flat feet!). But there are limits to how much dimension even Greta Gerwig can give this branded material.  <a href="https://nyti.ms/3QawXKG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Sophia Smith Has Been Ready for Her World Cup Moment</h3>
-<sub>By Juliet Macur</sub>
-<p>Smith had two goals and an assist in her debut in the tournament. And she believes, along with her teammates, that there could have been more.  <a href="https://nyti.ms/3K4HDqn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Far Right May Rise as Kingmaker in Spanish Election</h3>
+<sub>By Jason Horowitz</sub>
+<p>A messier political landscape has lent leverage to the extremes, leaving a hard-right party poised to share power for the first time since Franco.  <a href="https://nyti.ms/3Y2HhX7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-realestate-blue" alt="">
@@ -133,6 +115,24 @@ There is a lot going on in the world right now. A drug maker has been accused of
 <sub>By Anna Kodé</sub>
 <p>Word that the pop culture icon has left the fabled Upper West Side apartment building that she defined for a generation has sparked reflection on her impact as a resident there for 50 years.  <a href="https://nyti.ms/44OcL5q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Mental Health Crisis. An Officer’s Gun. A Too-Common Tragedy.</h3>
+<sub>By Colbi Edmonds</sub>
+<p>The death of Melissa Perez in San Antonio is renewing vexing questions about how police deal with people who have mental health issues.  <a href="https://nyti.ms/3DqoN9O"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>‘Barbenheimer’ Is a Huge Hollywood Moment and Maybe the Last for a While</h3>
+<sub>By Kyle Buchanan</sub>
+<p>The big launch of “Barbie” and “Oppenheimer” should have been a celebratory moment, but an industry on pause has darkened the mood.  <a href="https://nyti.ms/46XM54g"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>Can’t Decide Whether to See ‘Barbie,’ ‘Oppenheimer’ or Both? Our Barbenheimer Quiz Can Help.</h3>
+<sub>By Melena Ryzik</sub>
+<p>Answer these five questions about the biggest moviegoing weekend of the year.  <a href="https://nyti.ms/3Okz9y5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
