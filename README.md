@@ -58,26 +58,16 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Friday, July 21, Central Standard Time</p>
+<p>It is Saturday, July 22, Central Standard Time</p>
 <p>
-It looks like there is a lot of political news happening right now. There is a judge ruling on a Trump documents case, and prosecutors are deciding whether people should face charges for election interference. Michael Cohen is suing the Trump Organization, and many AI companies have agreed to guidelines set out by Biden. The US government is trying to regulate A.I., and there have been some controversial standards set for the teaching of Black History in some states. Tony Bennett died at 96, and his duets with Lady Gaga helped boost both of their careers. &#39;Barbenheimer&#39; is a new movie that was set to release soon but has been put on pause due to an industry shutdown. Biden has nominated Adm. Lisa Franchetti to lead the Navy and made C.I.A. Director William J. Burns into a Cabinet member as Biden tries to stop Russian invasion in Ukraine.</p>
+Right now a lot is going on in the US! Governor DeSantis is facing a lot of criticism for his proposed new Black History standards for middle schoolers. Companies specializing in artificial intelligence like Amazon, Google and Meta are making deals with the Biden administration to establish guidelines, but there&#39;s still a way to go before rules for the technology are set. Meanwhile Donald Trump and allies may soon face legal repercussions from an investigation into election interference in Georgia. On a former note, Michael Cohen has reached a settlement with the Trump organization over unpaid legal fees. A judge who was appointed by Trump is taking her time to start the documents trial against him in 2024. 
+
+The world lost an icon this week as well - Tony Bennett, crooner of the American Songbook, passed away at the age of 96. His duets with Lady Gaga earned them both new fame and recognition; in addition, Tony will still always have a home in New York City. President Biden has made some exciting nominations lately as well - Admiral Lisa Franchetti would be the first woman to lead the Navy if confirmed, and William J. Burns will become part of the Cabinet as Director of the CIA - noteworthy for combating Russian invasions of Ukraine.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>An Untested Judge in the Trump Documents Case</h3>
-<sub>By Robert Draper</sub>
-<p>Judge Aileen M. Cannon’s ruling to start the Trump documents trial in May 2024 showed, for now, that she is the jurist defenders have described: level-headed and not beholden to the man who appointed her.  <a href="https://nyti.ms/3rCt7QD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>For Trump and Allies, a Waiting Game as Georgia Indictment Decisions Loom</h3>
-<sub>By Danny Hakim</sub>
-<p>The prosecutor overseeing the investigation into election interference will make her case next month to a grand jury in Atlanta. Nearly 20 people have been warned that they could face charges.  <a href="https://nyti.ms/3Kd73lR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Michael Cohen Agrees to Settle Lawsuit With Trump Organization</h3>
-<sub>By Ben Protess, Jonah E. Bromwich and Kate Christobek</sub>
-<p>Donald J. Trump’s former fixer had accused the company of failing to abide by the terms of a deal and refusing to pay more than $1 million in legal costs  <a href="https://nyti.ms/3O0xdJS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>DeSantis Faces Swell of Criticism Over Florida’s New Standards for Black History</h3>
+<sub>By Sarah Mervosh</sub>
+<p>In one benchmark, middle schoolers would learn that enslaved Americans developed skills that “could be applied for their personal benefit.”  <a href="https://nyti.ms/46Ru47A"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -93,9 +83,21 @@ It looks like there is a lot of political news happening right now. There is a j
 <sub><sub>Friday, July 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis Faces Swell of Criticism Over Florida’s New Standards for Black History</h3>
-<sub>By Sarah Mervosh</sub>
-<p>In one benchmark, middle schoolers would learn that enslaved Americans developed skills that “could be applied for their personal benefit.”  <a href="https://nyti.ms/46Ru47A"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>For Trump and Allies, a Waiting Game as Georgia Indictment Decisions Loom</h3>
+<sub>By Danny Hakim</sub>
+<p>The prosecutor overseeing the investigation into election interference will make her case next month to a grand jury in Atlanta. Nearly 20 people have been warned that they could face charges.  <a href="https://nyti.ms/3Kd73lR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Michael Cohen Agrees to Settle Lawsuit With Trump Organization</h3>
+<sub>By Ben Protess, Jonah E. Bromwich and Kate Christobek</sub>
+<p>Donald J. Trump’s former fixer had accused the company of failing to abide by the terms of a deal and refusing to pay more than $1 million in legal costs  <a href="https://nyti.ms/3O0xdJS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>An Untested Judge in the Trump Documents Case</h3>
+<sub>By Robert Draper</sub>
+<p>Judge Aileen M. Cannon’s ruling to start the Trump documents trial in May 2024 showed, for now, that she is the jurist defenders have described: level-headed and not beholden to the man who appointed her.  <a href="https://nyti.ms/3rCt7QD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
@@ -116,10 +118,10 @@ It looks like there is a lot of political news happening right now. There is a j
 <p>The crooner and the pop star seemed like unlikely collaborators when they joined up in 2014. But the two masters of reinvention inspired and bolstered each other’s careers.  <a href="https://nyti.ms/3Dq2gJY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>‘Barbenheimer’ Is a Huge Hollywood Moment and Maybe the Last for a While</h3>
-<sub>By Kyle Buchanan</sub>
-<p>The big launch of “Barbie” and “Oppenheimer” should have been a celebratory moment, but an industry on pause has darkened the mood.  <a href="https://nyti.ms/46XM54g"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Why U.S. Players Will Get the Most Prize Money, Even if They Lose</h3>
+<sub>By Allison McCann</sub>
+<p>FIFA recommended a share of the pot for all World Cup players. But the U.S. women will outpace them all because of an agreement with U.S. Soccer.  <a href="https://nyti.ms/3O0mleL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
