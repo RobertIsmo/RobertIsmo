@@ -60,12 +60,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, July 21, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. AI companies are facing pressure to follow certain safety guidelines, and lawmakers are still figuring out how to regulate it. Former President Donald J. Trump is facing a trial set for May 2024 and his former fixer Michael Cohen has agreed to settle a lawsuit with the Trump Organization. Tony Bennett recently passed away at 96 but left behind his work as champion of the Great American Songbook. Across the globe, many countries are feeling the impact of extreme weather as wheat, sugar, and tomato supplies suffer in India. In Canada, this record-breaking wildfire season has led to an effort to move from suppressing fires to preventing them due to climate change. Closer to home, Texas A&amp;M&#39;s president had to resign after facing political backlash over appointing Kathleen McElroy as the lead for their journalism program.</p>
+To sum up what&#39;s happening in the world, President Biden is making a lot of decisions that are making waves in U.S., tech, and art news. A new judge overseeing a Trump-related case is being tested out, and there&#39;s potential for many people to get indicted in Georgia over election interference. Michael Cohen has settled a lawsuit with Trump&#39;s organization, and tech companies have agreed to guardrails for new AI tools. In U.S. government news, Governor DeSantis is facing criticism for his education standards for Black history, while in the entertainment world Tony Bennett recently died at 96 and his duets with Lady Gaga made their respective careers soar. Lastly, Texas A&amp;M&#39;s president has resigned because of controversy related to a journalism program, while Biden nominated an admiral to lead the Navy and a C.I.A. director to be part of the Cabinet.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>7 A.I. Companies Agree to Safeguards After Pressure From the White House</h3>
+<h3>An Untested Judge in the Trump Documents Case</h3>
+<sub>By Robert Draper</sub>
+<p>Judge Aileen M. Cannon’s ruling to start the Trump documents trial in May 2024 showed, for now, that she is the jurist defenders have described: level-headed and not beholden to the man who appointed her.  <a href="https://nyti.ms/3rCt7QD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>For Trump and Allies, a Waiting Game as Georgia Indictment Decisions Loom</h3>
+<sub>By Danny Hakim</sub>
+<p>The prosecutor overseeing the investigation into election interference will make her case next month to a grand jury in Atlanta. Nearly 20 people have been warned that they could face charges.  <a href="https://nyti.ms/3Kd73lR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Michael Cohen Agrees to Settle Lawsuit With Trump Organization</h3>
+<sub>By Ben Protess, Jonah E. Bromwich and Kate Christobek</sub>
+<p>Donald J. Trump’s former fixer had accused the company of failing to abide by the terms of a deal and refusing to pay more than $1 million in legal costs  <a href="https://nyti.ms/3O0xdJS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Pressured by Biden, A.I. Companies Agree to Guardrails on New Tools</h3>
 <sub>By Michael D. Shear, Cecilia Kang and David E. Sanger</sub>
-<p>Amazon, Google and Meta are among the companies that announced the new commitments on Friday as they race to outdo each other with versions of artificial intelligence.  <a href="https://nyti.ms/3OoACDw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Amazon, Google and Meta are among the companies that announced the guidelines as they race to outdo each other with versions of artificial intelligence.  <a href="https://nyti.ms/3OoACDw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -75,21 +93,21 @@ There is a lot happening in the world right now. AI companies are facing pressur
 <sub><sub>Friday, July 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trial in Trump Documents Case Set for May 2024</h3>
-<sub>By Alan Feuer</sub>
-<p>Judge Aileen M. Cannon rejected former President Donald J. Trump’s request to delay the trial until after the election but pushed the start date past the Justice Department’s request to begin in December.  <a href="https://nyti.ms/3DmKcQX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Michael Cohen Agrees to Settle Lawsuit With Trump Organization</h3>
-<sub>By Ben Protess, Jonah E. Bromwich and Kate Christobek</sub>
-<p>Donald J. Trump’s former fixer had accused the company of failing to abide by the terms of a deal and refusing to pay more than $1 million in legal costs  <a href="https://nyti.ms/3O0xdJS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>DeSantis Faces Swell of Criticism Over Florida’s New Standards for Black History</h3>
+<sub>By Sarah Mervosh</sub>
+<p>In one benchmark, middle schoolers would learn that enslaved Americans developed skills that “could be applied for their personal benefit.”  <a href="https://nyti.ms/46Ru47A"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Tony Bennett, Champion of the Great American Songbook, Is Dead at 96</h3>
+<h3>Tony Bennett, Jazzy Crooner of the American Songbook, Is Dead at 96</h3>
 <sub>By Bruce Weber</sub>
-<p>From his initial success as a jazzy crooner through his generation-spanning duets, his career was remarkable for both its longevity and its consistency.  <a href="https://nyti.ms/43yvWiU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>From his initial success at the Paramount in Times Square through his generation-spanning duets, his career was remarkable for both its longevity and its consistency.  <a href="https://nyti.ms/43yvWiU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Forget What the Song Says. Tony Bennett’s Heart Never Left New York.</h3>
+<sub>By James Barron</sub>
+<p>The singer may have become famous for “I Left My Heart in San Francisco,” but he will always be the kid from Astoria who made a go of it in Manhattan.  <a href="https://nyti.ms/3OpYMh6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
@@ -98,40 +116,22 @@ There is a lot happening in the world right now. AI companies are facing pressur
 <p>The crooner and the pop star seemed like unlikely collaborators when they joined up in 2014. But the two masters of reinvention inspired and bolstered each other’s careers.  <a href="https://nyti.ms/3Dq2gJY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>Tony Bennett, Always a Class Act</h3>
-<sub>By Jim Windolf</sub>
-<p>From the early days with Frank Sinatra to his 21st-century resurgence with Lady Gaga, he was steadfast in his approach to song and style.  <a href="https://nyti.ms/3Y4LsSA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Around the Globe, Searing Heat With No Sign of Relief</h3>
-<sub>By Gerry Mullany, Delger Erdenesanaa and Aaron Boxerman</sub>
-<p>In Asia, Europe and the United States, records are shattering, and forecasters say there’s no respite in sight.  <a href="https://nyti.ms/43Btmsc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Only Early Birds Will See Acropolis as Workers Strike Over Heat</h3>
-<sub>By Niki Kitsantonis</sub>
-<p>Security guards and others say the extreme temperatures in Athens and at other historical sites are dangerous for them and for tourists. The employees are stopping work at noon at least for now.  <a href="https://nyti.ms/3rKQCGU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Wheat, Sugar, and Now Tomatoes: Extreme Weather Dents India’s Food Supplies</h3>
-<sub>By Hari Kumar and Mujib Mashal</sub>
-<p>“We have stopped eating tomatoes in salad,” one shopper said, “and we are not making any tomato-based vegetable dishes.”  <a href="https://nyti.ms/3XZPbR2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>How to Fight Canada’s Wildfires in the Era of Climate Change</h3>
-<sub>By Norimitsu Onishi</sub>
-<p>Canada’s record-breaking wildfire season shows the need to shift from suppressing fires to preventing them as fires become more difficult to combat.  <a href="https://nyti.ms/3pYkvDj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Texas A&amp;M President Resigns Amid Fallout Over Journalism Program</h3>
+<sub>By Nicholas Bogel-Burroughs and Remy Tumin</sub>
+<p>The university said M. Katherine Banks would retire “immediately” after political pushback over the effort to appoint Kathleen McElroy to lead its journalism program.  <a href="https://nyti.ms/3NZa0Yp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Texas A&amp;M President Resigns Amid Fallout Over Journalism Program</h3>
-<sub>By Remy Tumin and Nicholas Bogel-Burroughs</sub>
-<p>The university said M. Katherine Banks would retire “immediately” after political pushback over the effort to appoint Kathleen McElroy to lead its journalism program.  <a href="https://nyti.ms/3NZa0Yp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Biden Nominates Adm. Lisa Franchetti to Lead the Navy</h3>
+<sub>By John Ismay</sub>
+<p>If confirmed, Admiral Franchetti, who currently serves as the Navy’s second in command, would become the first woman to lead the service in its 247-year history.  <a href="https://nyti.ms/3Q7ykdf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Elevates C.I.A. Director to Become a Member of the Cabinet</h3>
+<sub>By Michael D. Shear</sub>
+<p>William J. Burns, a veteran diplomat, has played a key role in the Biden administration’s efforts to thwart the Russian invasion of Ukraine.  <a href="https://nyti.ms/3Y46Y9P"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
