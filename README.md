@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, July 23, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In Florida, Governor Ron DeSantis is facing backlash for his change in attitude towards the Covid-19 vaccine before a surge in hospitalizations and deaths. Israel is in turmoil because of Prime Minister Benjamin Netanyahu&#39;s hospitalization due to a heart defect as debate rages over limiting judicial power. Over in Ukraine, forces have been mired in an ongoing conflict with no end insight, while Russia has launched attacks against its port city Odesa leaving one dead. Iran is also experiencing record temperatures and water shortages while Spain will hold elections on Sunday with a chance of a far-right party entering the government for the first time since the 1970s. Meanwhile, Morocco’s women’s national soccer team has qualified for the Women’s World Cup and Chinese entrepreneurs are not confident in Beijing’s attempts to inspire confidence through their 31-point guidelines.</p>
+There is a lot going on in the world at the moment. In the US, Florida Governor Ron DeSantis is facing criticism for changing his stance on vaccinations as Covid hospitalizations and deaths rise in response to the Delta wave. In Israel, Prime Minister Benjamin Netanyahu underwent a medical procedure to treat a heart defect as turmoil over a government plan intensifies. Meanwhile, in Ukraine, fighting remains stalemated as soldiers face unreliable munitions against a determined foe. In Iran, water shortages due to mismanagement are making it difficult for many to stay cool as temperatures continue to soar. In Greece, tourists and locals have had to flee raging forest fires on Rhodes Island while elections in Spain this Sunday could see the far-right party enter the government for the first time since General Franco&#39;s rule. It&#39;s definitely an interesting time in the world!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The Steep Cost of Ron DeSantis’s Vaccine Turnabout</h3>
@@ -69,16 +69,16 @@ There is a lot going on in the world right now. In Florida, Governor Ron DeSanti
 <sub><sub>Saturday, July 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The crisis in Israel now centers on the legal concept of ‘reasonableness.’</h3>
-<sub>By Patrick Kingsley</sub>
-<p>  <a href="https://nyti.ms/46Yinfv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Netanyahu Fitted With Pacemaker for Heart Defect as Israel’s Turmoil Intensifies</h3>
+<sub>By Patrick Kingsley and Isabel Kershner</sub>
+<p>Doctors said Prime Minister Benjamin Netanyahu was “doing very well” after the unexpected procedure early Sunday. But the news only compounded the chaos over a government plan to limit judicial power.  <a href="https://nyti.ms/3Q4HeZ5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Netanyahu Hospitalized for Heart Defect as Israel’s Turmoil Intensifies</h3>
-<sub>By Patrick Kingsley and Isabel Kershner</sub>
-<p>Doctors said Prime Minister Benjamin Netanyahu was “doing very well” after an unexpected heart procedure early Sunday. But the news only compounded the chaos over a government plan to limit judicial power.  <a href="https://nyti.ms/3Q4HeZ5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>What’s the Status of Flaunting Your Status?</h3>
+<sub>By Guy Trebay</sub>
+<p>In the world of the ultrawealthy, luxury is only quiet if you don’t know what to listen for.  <a href="https://nyti.ms/3O5GKz4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Weary Soldiers, Unreliable Munitions: Ukraine’s Many Challenges</h3>
@@ -92,9 +92,21 @@ There is a lot going on in the world right now. In Florida, Governor Ron DeSanti
 <p>Russia has renewed its attacks on the port city after it pulled out of the Black Sea grain deal last week.  <a href="https://nyti.ms/44Trs7x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Drugmakers Are ‘Throwing the Kitchen Sink’ to Halt Medicare Price Negotiations</h3>
+<sub>By Sheryl Gay Stolberg and Rebecca Robbins</sub>
+<p>The government will soon announce the first 10 medications that will be subject to price negotiations with Medicare under a new law. Drugmakers are fighting the measure in court.  <a href="https://nyti.ms/3DqRwLC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>Can You Understand Bird? Test Your Recognition of Calls and Songs</h3>
+<sub>By Elaine Chen</sub>
+<p>It might sound like all chirps to you, but birds convey different messages, even across species.  <a href="https://nyti.ms/3DsG6Xq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 21, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>It’s Scorching in Iran, and There’s Less and Less Water to Help</h3>
-<sub>By Vivian Yee</sub>
+<sub>By Vivian Yee and Leily Nikounazar</sub>
 <p>Water shortages from longtime mismanagement have left people with shrinking options, as temperatures spike and growing poverty makes air-conditioning unaffordable for many.  <a href="https://nyti.ms/44R2mqp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
 <hr/>
@@ -104,11 +116,11 @@ There is a lot going on in the world right now. In Florida, Governor Ron DeSanti
 <p>See detailed maps of the latest temperature forecasts across the world.  <a href="https://nyti.ms/3XXixQ2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>Can You Understand Bird? Test Your Recognition of Calls and Songs</h3>
-<sub>By Elaine Chen</sub>
-<p>It might sound like all chirps to you, but birds convey different messages, even across species.  <a href="https://nyti.ms/3DsG6Xq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 21, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Raging Fires on Rhodes Force Thousands to Scramble for Refuge</h3>
+<sub>By Niki Kitsantonis</sub>
+<p>As firefighters fought blazes kindled by tinder-dry conditions on the Greek island, the authorities sent tourists and residents to schools, gyms and boats moored at the port for shelter.  <a href="https://nyti.ms/3Q7uWPu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Spain Votes on Sunday: Here’s What to Know</h3>
@@ -121,18 +133,6 @@ There is a lot going on in the world right now. In Florida, Governor Ron DeSanti
 <sub>By Jason Horowitz</sub>
 <p>A messier political landscape has lent leverage to the extremes, leaving a hard-right party with a chance to share power for the first time since Franco.  <a href="https://nyti.ms/3Y2HhX7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>The Morocco Women’s Team Has Already Won</h3>
-<sub>By Aida Alami and Monique Jaques</sub>
-<p>Morocco is the first North African and majority Arab nation to qualify for the Women’s World Cup. It’s hoping to pick up the baton its men’s team carried in Qatar.  <a href="https://nyti.ms/3Q8y4e8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Beijing Offers Love, but Chinese Entrepreneurs Aren’t Buying It</h3>
-<sub>By Li Yuan</sub>
-<p>The government’s new 31-point guidelines meant to inspire confidence feel empty to businesspeople after a three-year clampdown and no concrete changes.  <a href="https://nyti.ms/3pZ64Pn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
