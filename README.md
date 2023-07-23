@@ -60,8 +60,16 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, July 22, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In Belarus, protesters are facing a never-ending crackdown after anti-government demonstrations a few years ago. Ukraine&#39;s president is pushing for a way to ship grain through the Black Sea as tensions in the region remain high. Venezuela&#39;s oil industry is also having environmental impacts from gas flares and leaking pipelines. In Spain, a hard-right party may have an opportunity to share power for the first time since Franco. Yoko Ono has moved out of her fabled Upper West side apartment after 50 years, and in San Antonio, Texas, the death of Melissa Perez is raising questions about how police deal with people who have mental health issues. Finally, two of the most highly anticipated movie premieres this year are &quot;Barbie&quot; and &quot;Oppenheimer,&quot; but with the industry currently on pause, there’s a different than usual mood surrounding their release.</p>
+In the US, Florida governor Ron DeSantis&#39; enthusiasm for a vaccine has diminished recently, leading to an increase in Covid hospitalizations and deaths. In Belarus, there has been a prolonged government-led crackdown on protesters following a disputed election three years ago. In Ukraine, tensions with Russia are heightened as their leader, Zelensky, pushes to send grain through the Black Sea. Venezuela&#39;s broken oil industry is leading to environmental pollution across towns and lakes. Japan is attempting to make coal cleaner in an effort that may have many hurdles to overcome. Furthermore, there are a few heated debates occurring in California over LGBTQ issues. Additionally, developers in New York have not been delivering on their promises to the city which has a significant impact. Finally, there are elections taking place in Spain that could potentially result in the rise of far-right parties in the government&#39;s power structure. 
+
+On the entertainment side of things, Yoko Ono left her iconic apartment at the Dakota building on the Upper West Side after living there for 50 years. Meanwhile, two huge Hollywood movies - &quot;Barbie&quot; and &quot;Oppenheimer&quot; - will have their premieres this weekend, but an industry still on pause has dampened any celebratory moods.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Steep Cost of Ron DeSantis’s Vaccine Turnabout</h3>
+<sub>By Sharon LaFraniere, Patricia Mazzei and Albert Sun</sub>
+<p>Once a vaccine advocate, the Florida governor lost his enthusiasm for the shot before the Delta wave sent Covid hospitalizations and deaths soaring. It’s a grim chapter he now leaves out of his rosy retelling of his pandemic response.  <a href="https://nyti.ms/43BAmp9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 22, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>How a Drug Maker Profited by Slow-Walking a Promising H.I.V. Therapy</h3>
 <sub>By Rebecca Robbins and Sheryl Gay Stolberg</sub>
@@ -115,12 +123,6 @@ There is a lot going on in the world right now. In Belarus, protesters are facin
 <sub>By Anna Kodé</sub>
 <p>Word that the pop culture icon has left the fabled Upper West Side apartment building that she defined for a generation has sparked reflection on her impact as a resident there for 50 years.  <a href="https://nyti.ms/44OcL5q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Mental Health Crisis. An Officer’s Gun. A Too-Common Tragedy.</h3>
-<sub>By Colbi Edmonds</sub>
-<p>The death of Melissa Perez in San Antonio is renewing vexing questions about how police deal with people who have mental health issues.  <a href="https://nyti.ms/3DqoN9O"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-movies-blue" alt="">
 <h3>‘Barbenheimer’ Is a Huge Hollywood Moment and Maybe the Last for a While</h3>
