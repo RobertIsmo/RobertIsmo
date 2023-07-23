@@ -60,13 +60,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, July 23, Central Standard Time</p>
 <p>
-There is a lot going on in the world at the moment. In the US, Florida Governor Ron DeSantis is facing criticism for changing his stance on vaccinations as Covid hospitalizations and deaths rise in response to the Delta wave. In Israel, Prime Minister Benjamin Netanyahu underwent a medical procedure to treat a heart defect as turmoil over a government plan intensifies. Meanwhile, in Ukraine, fighting remains stalemated as soldiers face unreliable munitions against a determined foe. In Iran, water shortages due to mismanagement are making it difficult for many to stay cool as temperatures continue to soar. In Greece, tourists and locals have had to flee raging forest fires on Rhodes Island while elections in Spain this Sunday could see the far-right party enter the government for the first time since General Franco&#39;s rule. It&#39;s definitely an interesting time in the world!</p>
+There are a lot of big events happening in the world right now. In Israel, lawmakers are set to vote on a new law that could limit the power of its Supreme Court. Meanwhile, Prime Minister Benjamin Netanyahu recently underwent emergency surgery for a heart defect. 
+
+In the US, Florida governor Ron DeSantis is getting some criticism for his about-face on vaccines before the recent spike in Covid cases. The same is also true in San Francisco, where Mayor London Breed faces a tough re-election race due to residents&#39; frustrations with her pandemic response. 
+
+Ukraine is still embroiled in conflict and violence that continues to affect its people. Elsewhere, South Koreans are making homes far away from home due to the pressure of modern life there. By contrast, Hollywood costume master Ann Roth has been killing it lately by making a number of iconic films look good. 
+
+You can also check out the Tour de France (sort of), which was dominated by Jonas Vingegaard and his rival Tadej Pogacar. Finally, Spain votes on Sunday in what could be the first all-right coalition to enter government since the 1970s.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Steep Cost of Ron DeSantis’s Vaccine Turnabout</h3>
-<sub>By Sharon LaFraniere, Patricia Mazzei and Albert Sun</sub>
-<p>Once a vaccine advocate, the Florida governor lost his enthusiasm for the shot before the Delta wave sent Covid hospitalizations and deaths soaring. It’s a grim chapter he now leaves out of his rosy retelling of his pandemic response.  <a href="https://nyti.ms/43BAmp9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 22, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Israel’s Identity Hangs in the Balance Ahead of Key Vote on New Law</h3>
+<sub>By Patrick Kingsley</sub>
+<p>Lawmakers are set to vote Monday on whether to limit the Supreme Court’s power as one element of a government plan to overhaul judicial authority. It is part of a profound rift over Israel’s nature and future.  <a href="https://nyti.ms/3YbkTLl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Netanyahu Fitted With Pacemaker for Heart Defect as Israel’s Turmoil Intensifies</h3>
@@ -74,11 +80,23 @@ There is a lot going on in the world at the moment. In the US, Florida Governor 
 <p>Doctors said Prime Minister Benjamin Netanyahu was “doing very well” after the unexpected procedure early Sunday. But the news only compounded the chaos over a government plan to limit judicial power.  <a href="https://nyti.ms/3Q4HeZ5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Steep Cost of Ron DeSantis’s Vaccine Turnabout</h3>
+<sub>By Sharon LaFraniere, Patricia Mazzei and Albert Sun</sub>
+<p>Once a vaccine advocate, the Florida governor lost his enthusiasm for the shot before the Delta wave sent Covid hospitalizations and deaths soaring. It’s a grim chapter he now leaves out of his rosy retelling of his pandemic response.  <a href="https://nyti.ms/43BAmp9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 22, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
 <h3>What’s the Status of Flaunting Your Status?</h3>
 <sub>By Guy Trebay</sub>
 <p>In the world of the ultrawealthy, luxury is only quiet if you don’t know what to listen for.  <a href="https://nyti.ms/3O5GKz4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In San Francisco, a Levi Strauss Heir and a Former Ally Prepare to Challenge London Breed</h3>
+<sub>By Thomas Fuller and Shawn Hubler</sub>
+<p>The mayor is drawing challengers more than a year before the election, a sign that she will face a tough race in a city where most voters remain in a foul mood.  <a href="https://nyti.ms/44zBGKl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Weary Soldiers, Unreliable Munitions: Ukraine’s Many Challenges</h3>
@@ -87,51 +105,39 @@ There is a lot going on in the world at the moment. In the US, Florida Governor 
 <sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>1 Dead in Odesa as Russia Strikes Cathedral and Apartment Buildings</h3>
-<sub>By Valerie Hopkins and Vivek Shankar</sub>
-<p>Russia has renewed its attacks on the port city after it pulled out of the Black Sea grain deal last week.  <a href="https://nyti.ms/44Trs7x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Drugmakers Are ‘Throwing the Kitchen Sink’ to Halt Medicare Price Negotiations</h3>
-<sub>By Sheryl Gay Stolberg and Rebecca Robbins</sub>
-<p>The government will soon announce the first 10 medications that will be subject to price negotiations with Medicare under a new law. Drugmakers are fighting the measure in court.  <a href="https://nyti.ms/3DqRwLC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>Can You Understand Bird? Test Your Recognition of Calls and Songs</h3>
-<sub>By Elaine Chen</sub>
-<p>It might sound like all chirps to you, but birds convey different messages, even across species.  <a href="https://nyti.ms/3DsG6Xq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>A Burnout in Korea, She’s a Superstar in Latin America</h3>
+<sub>By Elda Cantú and Marian Carrasquero</sub>
+<p>Fleeing the strictures of modern life in a hypercompetitive South Korea, a young woman found a calmer way of life in Mexico — and millions of social media followers.  <a href="https://nyti.ms/44TdC53"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>It’s Scorching in Iran, and There’s Less and Less Water to Help</h3>
-<sub>By Vivian Yee and Leily Nikounazar</sub>
-<p>Water shortages from longtime mismanagement have left people with shrinking options, as temperatures spike and growing poverty makes air-conditioning unaffordable for many.  <a href="https://nyti.ms/44R2mqp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>‘Barbie’ Box Office to the World: The Pandemic Is Officially Over</h3>
+<sub>By Brooks Barnes</sub>
+<p>With the biggest revenues since 2019, “Barbenheimer” gives the usual franchises a run for their money, selling out even predawn screenings.  <a href="https://nyti.ms/3Y2hvT4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Tracking Heat Across the World</h3>
-<sub>By Lazaro Gamio, Zach Levitt, Elena Shao and Malika Khurana</sub>
-<p>See detailed maps of the latest temperature forecasts across the world.  <a href="https://nyti.ms/3XXixQ2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>Ann Roth Is Hollywood’s Secret Weapon</h3>
+<sub>By Maureen Dowd</sub>
+<p>Inside the studio of the costume master who helped give the world “Klute,” “The English Patient,” “Midnight Cowboy,” “Working Girl,” “Mamma Mia!” “Ma Rainey’s Black Bottom” — and more.  <a href="https://nyti.ms/3pX4Owd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Raging Fires on Rhodes Force Thousands to Scramble for Refuge</h3>
-<sub>By Niki Kitsantonis</sub>
-<p>As firefighters fought blazes kindled by tinder-dry conditions on the Greek island, the authorities sent tourists and residents to schools, gyms and boats moored at the port for shelter.  <a href="https://nyti.ms/3Q7uWPu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>Watch Amateurs Race Against the Tour de France’s Top Climbers (Sort Of)</h3>
+<sub>By K.K. Rebecca Lai and Ben Blatt</sub>
+<p>Thousands of amateurs tried the same steep climbs that Tour cyclists did, and uploaded their rides to Strava.  <a href="https://nyti.ms/44tlURj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Jonas Vingegaard Wins Tour de France Again, After Vanquishing His Rival</h3>
+<sub>By Kevin Draper</sub>
+<p>What started as a tense two-man battle became a foregone conclusion when Tadej Pogacar couldn’t stay with Vingegaard in the 17th stage.  <a href="https://nyti.ms/3Oo08c7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Spain Votes on Sunday: Here’s What to Know</h3>
 <sub>By Constant Méheut</sub>
 <p>The national elections could see a far-right party enter the Spanish government for the first time since the 1970s.  <a href="https://nyti.ms/3Y4TCtR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Far Right May Rise as Kingmaker in Spanish Election</h3>
-<sub>By Jason Horowitz</sub>
-<p>A messier political landscape has lent leverage to the extremes, leaving a hard-right party with a chance to share power for the first time since Franco.  <a href="https://nyti.ms/3Y2HhX7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
