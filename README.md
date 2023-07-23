@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, July 23, Central Standard Time</p>
 <p>
-The world is quite tumultuous right now. In the US, Florida&#39;s governor, Ron DeSantis, has taken a U-turn on his enthusiasm for vaccinations due to the Delta wave of Covid hospitalizations and deaths. Elsewhere, a drug maker is being accused of slow-walking a promising HIV therapy to prolong the patent life of their medicines. To add to that, protests against President Alexander Lukashenko&#39;s claim of re-election in Belarus are being harshly repressed with no end in sight. Russia is now striking apartment blocks and cathedrals in Odesa, Ukraine after it pulled out of a Black Sea grain deal last week. To counter the conflict, Ukrainian leader Zelensky is pushing for ways to ship grain through the Black Sea. Meanwhile, Venezuela&#39;s broken oil industry is polluting towns and a major lake as it struggles from US sanctions and mismanagement. To make matters worse, Japan announced plans to make coal cleaner - but experts say the technology isn&#39;t feasible due to various hurdles. Other issues include two San Diego residents checking out Pride books at their library and protests against this erupting; Israeli Prime Minister Benjamin Netanyahu being hospitalized due to a heart defect while the government tries to limit judicial power; developers in New York getting 20 million square feet after breaking promises made when granting permission to larger buildings; and Sunday&#39;s Spanish election that could see the far right taking power for the first time since Franco.</p>
+There is a lot going on in the world right now. In Florida, Governor Ron DeSantis is facing backlash for his change in attitude towards the Covid-19 vaccine before a surge in hospitalizations and deaths. Israel is in turmoil because of Prime Minister Benjamin Netanyahu&#39;s hospitalization due to a heart defect as debate rages over limiting judicial power. Over in Ukraine, forces have been mired in an ongoing conflict with no end insight, while Russia has launched attacks against its port city Odesa leaving one dead. Iran is also experiencing record temperatures and water shortages while Spain will hold elections on Sunday with a chance of a far-right party entering the government for the first time since the 1970s. Meanwhile, Morocco’s women’s national soccer team has qualified for the Women’s World Cup and Chinese entrepreneurs are not confident in Beijing’s attempts to inspire confidence through their 31-point guidelines.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The Steep Cost of Ron DeSantis’s Vaccine Turnabout</h3>
@@ -68,59 +68,53 @@ The world is quite tumultuous right now. In the US, Florida&#39;s governor, Ron 
 <p>Once a vaccine advocate, the Florida governor lost his enthusiasm for the shot before the Delta wave sent Covid hospitalizations and deaths soaring. It’s a grim chapter he now leaves out of his rosy retelling of his pandemic response.  <a href="https://nyti.ms/43BAmp9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How a Drug Maker Profited by Slow-Walking a Promising H.I.V. Therapy</h3>
-<sub>By Rebecca Robbins and Sheryl Gay Stolberg</sub>
-<p>Gilead delayed a new version of a drug, allowing it to extend the patent life of a blockbuster line of medications, internal documents show.  <a href="https://nyti.ms/3DpVkN5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 22, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Belarus, the Protests Were Three Years Ago. The Crackdown Is Never-Ending.</h3>
-<sub>By Valerie Hopkins and Nanna Heitmann</sub>
-<p>Aleksandr G. Lukashenko brutally repressed those who opposed his claim of re-election as president. The crackdown on dissent has only deepened since.  <a href="https://nyti.ms/3OpViLl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>1 Dead in Odesa as Russia Strikes Cathedral and Apartment Buildings</h3>
-<sub>By Vivek Shankar</sub>
-<p>Russia has renewed its attacks on the port city after it pulled out of the Black Sea grain deal last week.  <a href="https://nyti.ms/3DnPBaD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>The crisis in Israel now centers on the legal concept of ‘reasonableness.’</h3>
+<sub>By Patrick Kingsley</sub>
+<p>  <a href="https://nyti.ms/46Yinfv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Tensions Rise, Zelensky Pushes for Way to Ship Grain Through Black Sea</h3>
-<sub>By Valerie Hopkins</sub>
-<p>The Ukrainian leader said he had spoken with the NATO chief and the Turkish president, Recep Tayyip Erdogan, a key mediator between Russia and Ukraine since the full-scale invasion began last February.  <a href="https://nyti.ms/3OnUhm3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Venezuela’s Oil Industry Is Broken. Now It’s Breaking the Environment.</h3>
-<sub>By Isayen Herrera, Sheyla Urdaneta and Adriana Loureiro Fernandez</sub>
-<p>Gas flares and leaking pipelines from Venezuela’s once-booming oil industry, hobbled by U.S. sanctions and mismanagement, are polluting towns and a major lake.  <a href="https://nyti.ms/3K6Hl2g"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Japan Says It Can Make Coal Cleaner. Critics Say Its Plan Is ‘Almost Impossible.’</h3>
-<sub>By Motoko Rich and Hikari Hida</sub>
-<p>Japan says that by blending ammonia with coal in its boilers, it can make coal less damaging to the planet. But the technology faces many hurdles.  <a href="https://nyti.ms/3DmZFkf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>They Checked Out Pride Books in Protest. It Backfired.</h3>
-<sub>By Jill Cowan</sub>
-<p>Two San Diego residents cleared out the Pride month display at their library and said such materials shouldn’t be available to children, one of several recent clashes over L.G.B.T.Q. issues in California.  <a href="https://nyti.ms/3K8ssg4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Netanyahu Hospitalized for Heart Defect as Israel’s Turmoil Intensifies</h3>
 <sub>By Patrick Kingsley and Isabel Kershner</sub>
-<p>Doctors said Prime Minister Benjamin Netanyahu was “doing very well” after unexpected heart surgery early Sunday. But the news only compounded the chaos over a government plan to limit judicial power.  <a href="https://nyti.ms/3Q4HeZ5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Doctors said Prime Minister Benjamin Netanyahu was “doing very well” after an unexpected heart procedure early Sunday. But the news only compounded the chaos over a government plan to limit judicial power.  <a href="https://nyti.ms/3Q4HeZ5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>New Yorkers Got Broken Promises. Developers Got 20 Million Sq. Ft.</h3>
-<sub>By Urvashi Uberoy and Keith Collins</sub>
-<p>It was supposed to be an even trade: Permission to raise larger buildings in exchange for airy, open spaces for the public. The reality has been different.  <a href="https://nyti.ms/3DI9QA5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Weary Soldiers, Unreliable Munitions: Ukraine’s Many Challenges</h3>
+<sub>By Thomas Gibbons-Neff, Natalia Yermak, Dzvinka Pinchuk, Yurii Shyvala and Mauricio Lima</sub>
+<p>A month of reporting by New York Times journalists found the fighting mostly stalemated and Ukraine facing an array of obstacles against a determined foe.  <a href="https://nyti.ms/44R2WV7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>1 Dead in Odesa as Russia Strikes Cathedral and Apartment Buildings</h3>
+<sub>By Valerie Hopkins and Vivek Shankar</sub>
+<p>Russia has renewed its attacks on the port city after it pulled out of the Black Sea grain deal last week.  <a href="https://nyti.ms/44Trs7x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>It’s Scorching in Iran, and There’s Less and Less Water to Help</h3>
+<sub>By Vivian Yee</sub>
+<p>Water shortages from longtime mismanagement have left people with shrinking options, as temperatures spike and growing poverty makes air-conditioning unaffordable for many.  <a href="https://nyti.ms/44R2mqp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Tracking Heat Across the World</h3>
+<sub>By Lazaro Gamio, Zach Levitt, Elena Shao and Malika Khurana</sub>
+<p>See detailed maps of the latest temperature forecasts across the world.  <a href="https://nyti.ms/3XXixQ2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>Can You Understand Bird? Test Your Recognition of Calls and Songs</h3>
+<sub>By Elaine Chen</sub>
+<p>It might sound like all chirps to you, but birds convey different messages, even across species.  <a href="https://nyti.ms/3DsG6Xq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Spain Votes on Sunday: Here’s What to Know</h3>
+<sub>By Constant Méheut</sub>
+<p>The national elections could see a far-right party enter the Spanish government for the first time since the 1970s.  <a href="https://nyti.ms/3Y4TCtR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Far Right May Rise as Kingmaker in Spanish Election</h3>
@@ -128,11 +122,17 @@ The world is quite tumultuous right now. In the US, Florida&#39;s governor, Ron 
 <p>A messier political landscape has lent leverage to the extremes, leaving a hard-right party with a chance to share power for the first time since Franco.  <a href="https://nyti.ms/3Y2HhX7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Spain Votes on Sunday: Here’s What to Know</h3>
-<sub>By Constant Méheut</sub>
-<p>The national elections could see a far-right party enter the Spanish government for the first time since the 1970s.  <a href="https://nyti.ms/3Y4TCtR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>The Morocco Women’s Team Has Already Won</h3>
+<sub>By Aida Alami and Monique Jaques</sub>
+<p>Morocco is the first North African and majority Arab nation to qualify for the Women’s World Cup. It’s hoping to pick up the baton its men’s team carried in Qatar.  <a href="https://nyti.ms/3Q8y4e8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Beijing Offers Love, but Chinese Entrepreneurs Aren’t Buying It</h3>
+<sub>By Li Yuan</sub>
+<p>The government’s new 31-point guidelines meant to inspire confidence feel empty to businesspeople after a three-year clampdown and no concrete changes.  <a href="https://nyti.ms/3pZ64Pn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
