@@ -60,31 +60,37 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, July 23, Central Standard Time</p>
 <p>
-There are a lot of big events happening in the world right now. In Israel, lawmakers are set to vote on a new law that could limit the power of its Supreme Court. Meanwhile, Prime Minister Benjamin Netanyahu recently underwent emergency surgery for a heart defect. 
-
-In the US, Florida governor Ron DeSantis is getting some criticism for his about-face on vaccines before the recent spike in Covid cases. The same is also true in San Francisco, where Mayor London Breed faces a tough re-election race due to residents&#39; frustrations with her pandemic response. 
-
-Ukraine is still embroiled in conflict and violence that continues to affect its people. Elsewhere, South Koreans are making homes far away from home due to the pressure of modern life there. By contrast, Hollywood costume master Ann Roth has been killing it lately by making a number of iconic films look good. 
-
-You can also check out the Tour de France (sort of), which was dominated by Jonas Vingegaard and his rival Tadej Pogacar. Finally, Spain votes on Sunday in what could be the first all-right coalition to enter government since the 1970s.</p>
+There is a lot going on around the world right now. In Israel, lawmakers are voting on a law that could limit the Supreme Court’s power, and this could affect the nation’s identity and future. In the U.S., President Biden is asking Prime Minister Benjamin Netanyahu not to pass certain laws. On top of that, prosecutors are putting resources into scrutinizing Trump-related cases and controversies while in Louisiana, a Democratic Governor is using his veto to stall a conservative agenda. At the same time, Levi Strauss’s heir and a former ally are planning to challenge San Francisco’s mayor in her next election, while Spain just held an inconclusive election. Meanwhile, fashion trends are reflecting status among different people. In Hollywood, Ann Roth is making amazing costumes for different movies while &quot;Barbie&quot; recently hit theaters to great success, signaling some believe the pandemic may be over and Modelo Especial has become America&#39;s best-selling beer without many people noticing.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israel’s Identity Hangs in the Balance Ahead of Key Vote on New Law</h3>
+<h3>Israel’s Identity Hangs in Balance Ahead of Key Vote on New Law</h3>
 <sub>By Patrick Kingsley</sub>
 <p>Lawmakers are set to vote Monday on whether to limit the Supreme Court’s power as one element of a government plan to overhaul judicial authority. It is part of a profound rift over Israel’s nature and future.  <a href="https://nyti.ms/3YbkTLl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Netanyahu Fitted With Pacemaker for Heart Defect as Israel’s Turmoil Intensifies</h3>
-<sub>By Patrick Kingsley and Isabel Kershner</sub>
-<p>Doctors said Prime Minister Benjamin Netanyahu was “doing very well” after the unexpected procedure early Sunday. But the news only compounded the chaos over a government plan to limit judicial power.  <a href="https://nyti.ms/3Q4HeZ5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. Confronts Tight but Turbulent Relationship With Israel</h3>
+<sub>By Peter Baker and Lisa Lerer</sub>
+<p>President Biden has cautioned Prime Minister Benjamin Netanyahu against pursuing a proposal to rein in Israel’s judiciary, a plan that has deeply divided Israeli society.  <a href="https://nyti.ms/3O6e0Gn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Steep Cost of Ron DeSantis’s Vaccine Turnabout</h3>
-<sub>By Sharon LaFraniere, Patricia Mazzei and Albert Sun</sub>
-<p>Once a vaccine advocate, the Florida governor lost his enthusiasm for the shot before the Delta wave sent Covid hospitalizations and deaths soaring. It’s a grim chapter he now leaves out of his rosy retelling of his pandemic response.  <a href="https://nyti.ms/43BAmp9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 22, Central Standard Time</sub></sub>
+<h3>As Inquiries Compound, Justice System Pours Resources Into Scrutinizing Trump</h3>
+<sub>By Glenn Thrush, Ben Protess, Alan Feuer and Adam Goldman</sub>
+<p>For all their complexity, the Trump-related prosecutions have not significantly constrained the ability of prosecutors to carry out their regular duties, officials have said.  <a href="https://nyti.ms/3DnVUuG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A ‘Leaner-Meaner’ DeSantis Campaign Faces a Reboot and a Reckoning</h3>
+<sub>By Shane Goldmacher and Maggie Haberman</sub>
+<p>The campaign’s missteps and swelling costs have made donors and allies anxious. One person close to the Florida governor said he had experienced a “challenging learning curve.”  <a href="https://nyti.ms/3rEB7Ar"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Louisiana, a Democratic Governor Leans on Vetoes to Stall Conservative Agenda</h3>
+<sub>By Rick Rojas</sub>
+<p>John Bel Edwards, the only Democratic governor in the Deep South, has successfully vetoed bills that have glided into law elsewhere in the region. Soon, he’ll leave office.  <a href="https://nyti.ms/3Ot1iDm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
 <h3>What’s the Status of Flaunting Your Status?</h3>
@@ -99,21 +105,15 @@ You can also check out the Tour de France (sort of), which was dominated by Jona
 <sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Weary Soldiers, Unreliable Munitions: Ukraine’s Many Challenges</h3>
-<sub>By Thomas Gibbons-Neff, Natalia Yermak, Dzvinka Pinchuk, Yurii Shyvala and Mauricio Lima</sub>
-<p>A month of reporting by New York Times journalists found the fighting mostly stalemated and Ukraine facing an array of obstacles against a determined foe.  <a href="https://nyti.ms/44R2WV7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Inconclusive Election Thrusts Spain Into Political Muddle</h3>
+<sub>By Jason Horowitz</sub>
+<p>Preliminary results showed no party winning the support needed to govern, leaving the country facing weeks of uncertainty.  <a href="https://nyti.ms/44tOTEB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Burnout in Korea, She’s a Superstar in Latin America</h3>
-<sub>By Elda Cantú and Marian Carrasquero</sub>
-<p>Fleeing the strictures of modern life in a hypercompetitive South Korea, a young woman found a calmer way of life in Mexico — and millions of social media followers.  <a href="https://nyti.ms/44TdC53"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 21, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>‘Barbie’ Box Office to the World: The Pandemic Is Officially Over</h3>
-<sub>By Brooks Barnes</sub>
-<p>With the biggest revenues since 2019, “Barbenheimer” gives the usual franchises a run for their money, selling out even predawn screenings.  <a href="https://nyti.ms/3Y2hvT4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Pretty (Devoted) in Pink: ‘Barbie’ Hordes Spill Into Theaters</h3>
+<sub>By Christopher Kuo</sub>
+<p>Fans nationwide shopped their closets for the rosiest interpretations of the Barbie ethos: sparkly bags, open-toed pumps, stretchy headbands and more.  <a href="https://nyti.ms/3DwJPmR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
@@ -122,23 +122,17 @@ You can also check out the Tour de France (sort of), which was dominated by Jona
 <p>Inside the studio of the costume master who helped give the world “Klute,” “The English Patient,” “Midnight Cowboy,” “Working Girl,” “Mamma Mia!” “Ma Rainey’s Black Bottom” — and more.  <a href="https://nyti.ms/3pX4Owd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>Watch Amateurs Race Against the Tour de France’s Top Climbers (Sort Of)</h3>
-<sub>By K.K. Rebecca Lai and Ben Blatt</sub>
-<p>Thousands of amateurs tried the same steep climbs that Tour cyclists did, and uploaded their rides to Strava.  <a href="https://nyti.ms/44tlURj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>‘Barbie’ Box Office to the World: The Pandemic Is Officially Over</h3>
+<sub>By Brooks Barnes</sub>
+<p>With the biggest revenues since 2019, “Barbenheimer” gives the usual franchises a run for their money, selling out even predawn screenings.  <a href="https://nyti.ms/3Y2hvT4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Jonas Vingegaard Wins Tour de France Again, After Vanquishing His Rival</h3>
-<sub>By Kevin Draper</sub>
-<p>What started as a tense two-man battle became a foregone conclusion when Tadej Pogacar couldn’t stay with Vingegaard in the 17th stage.  <a href="https://nyti.ms/3Oo08c7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>How a Mexican Lager Quietly Rose to Become America’s Best-Selling Beer</h3>
+<sub>By J. Edward Moreno</sub>
+<p>A decade before Bud Light faced a conservative-led boycott over a transgender influencer, Modelo Especial was on track to take the No. 1 spot.  <a href="https://nyti.ms/3rAYjzz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Spain Votes on Sunday: Here’s What to Know</h3>
-<sub>By Constant Méheut</sub>
-<p>The national elections could see a far-right party enter the Spanish government for the first time since the 1970s.  <a href="https://nyti.ms/3Y4TCtR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
