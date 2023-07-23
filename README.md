@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, July 23, Central Standard Time</p>
 <p>
-At the moment, many parts of the world are facing an upswing in cases of COVID-19, as more contagious variants continue to spread. In some places, like Florida, people are dealing with the consequences of a governor who lost his enthusiasm for vaccines and Covid hospitalizations and deaths are soaring. Meanwhile in Belarus, protests against president Aleksandr G. Lukashenko&#39;s rule that began three years ago have resulted in brutal repression of dissent that continues today. Tensions have been rising between Russia and Ukraine as the Ukrainian leader seeks a way to ship grain through the Black Sea. Venezuela’s once-booming oil industry has been crippled by US sanctions and mismanagement, polluting towns and a major lake with gas flares and leaking pipelines. In Spain, the hard-right party may be getting close to sharing political power for the first time since Franco’s rule. And in movie news, Hollywood is experiencing a ‘Barbenheimer’ this weekend - the simultaneous launch of two action films starring Matt Damon and Angelina Jolie - which is both a celebratory moment marred by an industry on pause.</p>
+The world is quite tumultuous right now. In the US, Florida&#39;s governor, Ron DeSantis, has taken a U-turn on his enthusiasm for vaccinations due to the Delta wave of Covid hospitalizations and deaths. Elsewhere, a drug maker is being accused of slow-walking a promising HIV therapy to prolong the patent life of their medicines. To add to that, protests against President Alexander Lukashenko&#39;s claim of re-election in Belarus are being harshly repressed with no end in sight. Russia is now striking apartment blocks and cathedrals in Odesa, Ukraine after it pulled out of a Black Sea grain deal last week. To counter the conflict, Ukrainian leader Zelensky is pushing for ways to ship grain through the Black Sea. Meanwhile, Venezuela&#39;s broken oil industry is polluting towns and a major lake as it struggles from US sanctions and mismanagement. To make matters worse, Japan announced plans to make coal cleaner - but experts say the technology isn&#39;t feasible due to various hurdles. Other issues include two San Diego residents checking out Pride books at their library and protests against this erupting; Israeli Prime Minister Benjamin Netanyahu being hospitalized due to a heart defect while the government tries to limit judicial power; developers in New York getting 20 million square feet after breaking promises made when granting permission to larger buildings; and Sunday&#39;s Spanish election that could see the far right taking power for the first time since Franco.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The Steep Cost of Ron DeSantis’s Vaccine Turnabout</h3>
@@ -79,6 +79,12 @@ At the moment, many parts of the world are facing an upswing in cases of COVID-1
 <sub>By Valerie Hopkins and Nanna Heitmann</sub>
 <p>Aleksandr G. Lukashenko brutally repressed those who opposed his claim of re-election as president. The crackdown on dissent has only deepened since.  <a href="https://nyti.ms/3OpViLl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>1 Dead in Odesa as Russia Strikes Cathedral and Apartment Buildings</h3>
+<sub>By Vivek Shankar</sub>
+<p>Russia has renewed its attacks on the port city after it pulled out of the Black Sea grain deal last week.  <a href="https://nyti.ms/3DnPBaD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>As Tensions Rise, Zelensky Pushes for Way to Ship Grain Through Black Sea</h3>
@@ -104,6 +110,12 @@ At the moment, many parts of the world are facing an upswing in cases of COVID-1
 <p>Two San Diego residents cleared out the Pride month display at their library and said such materials shouldn’t be available to children, one of several recent clashes over L.G.B.T.Q. issues in California.  <a href="https://nyti.ms/3K8ssg4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 22, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Netanyahu Hospitalized for Heart Defect as Israel’s Turmoil Intensifies</h3>
+<sub>By Patrick Kingsley and Isabel Kershner</sub>
+<p>Doctors said Prime Minister Benjamin Netanyahu was “doing very well” after unexpected heart surgery early Sunday. But the news only compounded the chaos over a government plan to limit judicial power.  <a href="https://nyti.ms/3Q4HeZ5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>New Yorkers Got Broken Promises. Developers Got 20 Million Sq. Ft.</h3>
 <sub>By Urvashi Uberoy and Keith Collins</sub>
@@ -116,23 +128,11 @@ At the moment, many parts of the world are facing an upswing in cases of COVID-1
 <p>A messier political landscape has lent leverage to the extremes, leaving a hard-right party with a chance to share power for the first time since Franco.  <a href="https://nyti.ms/3Y2HhX7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-realestate-blue" alt="">
-<h3>Yoko Ono and the Dakota</h3>
-<sub>By Anna Kodé</sub>
-<p>Word that the pop culture icon has left the fabled Upper West Side apartment building that she defined for a generation has sparked reflection on her impact as a resident there for 50 years.  <a href="https://nyti.ms/44OcL5q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>‘Barbenheimer’ Is a Huge Hollywood Moment and Maybe the Last for a While</h3>
-<sub>By Kyle Buchanan</sub>
-<p>The big launch of “Barbie” and “Oppenheimer” should have been a celebratory moment, but an industry on pause has darkened the mood.  <a href="https://nyti.ms/46XM54g"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>Can’t Decide Whether to See ‘Barbie,’ ‘Oppenheimer’ or Both? Our Barbenheimer Quiz Can Help.</h3>
-<sub>By Melena Ryzik</sub>
-<p>Answer these five questions about the biggest moviegoing weekend of the year.  <a href="https://nyti.ms/3Okz9y5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Spain Votes on Sunday: Here’s What to Know</h3>
+<sub>By Constant Méheut</sub>
+<p>The national elections could see a far-right party enter the Spanish government for the first time since the 1970s.  <a href="https://nyti.ms/3Y4TCtR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
