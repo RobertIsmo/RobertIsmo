@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, July 24, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. In Israel, lawmakers are about to vote on a government plan that would limit the Supreme Court’s power. In the US, President Biden has cautioned Prime Minister Benjamin Netanyahu against pursuing a proposal to rein in Israel’s judiciary. Prosecutors in the US are also pouring resources into scrutinizing former President Donald Trump and his administration. In Florida, Governor DeSantis is facing a expensive campaign reboot that has donors and allies anxious. In Europe, Spain is dealing with an inconclusive election that has left the country in political limbo. Russia has recently destroyed two drones that were targeting Moscow, which they blamed on Ukraine. Here at home, Modelo Especial has become the best-selling beer in America due to a conservative-led boycott of Bud Light. There&#39;s also numerous entertainment industry stories happening, like hordes of fans recreating Barbie looks for theaters and Ann Roth&#39;s influential costumes being praised by Hollywood.</p>
+There is a lot going on in the world right now. In Israel, there&#39;s a key vote that could potentially change how things are run in the country and it&#39;s causing profound rifts between people. Meanwhile, here in the United States there is an ongoing battle between President Biden and Prime Minister Netanyahu over what should be done with Israel&#39;s judiciary system. On top of that, the justice system is pouring resources to scrutinizing Trump. Since people have started to venture out more, there has been a resurgence in Molly-coddling and flaunting status symbols which is being looked into. We also see politicians gearing up for upcoming elections here in the US with some races particularly competitive- especially in San Francisco where London Breed seems to have lost some of her popularity with her constituents. In addition, Spain just had some inconclusive elections that left everyone wondering who will lead next, as well as a new lager from Mexico rising to replace Bud Light as America&#39;s favorite beer choice. Last but not least, movie theaters are opening again- we saw fans flocking to screenings of Barbie which allowed us to reclaim some sense of the usual liveliness and fun going on before the pandemic!</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Israel’s Identity Hangs in Balance Ahead of Key Vote on New Law</h3>
@@ -80,17 +80,17 @@ There is a lot happening in the world right now. In Israel, lawmakers are about 
 <p>For all their complexity, the Trump-related prosecutions have not significantly constrained the ability of prosecutors to carry out their regular duties, officials have said.  <a href="https://nyti.ms/3DnVUuG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A ‘Leaner-Meaner’ DeSantis Campaign Faces a Reboot and a Reckoning</h3>
-<sub>By Shane Goldmacher and Maggie Haberman</sub>
-<p>The campaign’s missteps and swelling costs have made donors and allies anxious. One person close to the Florida governor said he had experienced a “challenging learning curve.”  <a href="https://nyti.ms/3rEB7Ar"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
 <h3>What’s the Status of Flaunting Your Status?</h3>
 <sub>By Guy Trebay</sub>
 <p>In the world of the ultrawealthy, luxury is only quiet if you don’t know what to listen for.  <a href="https://nyti.ms/3O5GKz4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A ‘Leaner-Meaner’ DeSantis Campaign Faces a Reboot and a Reckoning</h3>
+<sub>By Shane Goldmacher and Maggie Haberman</sub>
+<p>The campaign’s missteps and swelling costs have made donors and allies anxious. One person close to the Florida governor said he had experienced a “challenging learning curve.”  <a href="https://nyti.ms/3rEB7Ar"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In San Francisco, a Levi Strauss Heir and a Former Ally Prepare to Challenge London Breed</h3>
@@ -102,12 +102,6 @@ There is a lot happening in the world right now. In Israel, lawmakers are about 
 <h3>Inconclusive Election Thrusts Spain Into Political Muddle</h3>
 <sub>By Jason Horowitz</sub>
 <p>The returns showed no party winning the support needed to govern, leaving the country facing weeks of uncertainty.  <a href="https://nyti.ms/44tOTEB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia Says It Destroyed 2 Drones Targeting Moscow, Blames Ukraine</h3>
-<sub>By Andrés R. Martínez, Haley Willis and Tiffany May</sub>
-<p>Two buildings were hit and there were no reports of casualties. Video verified by The New York Times shows smoke and damage to several buildings.  <a href="https://nyti.ms/43Icosi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -132,6 +126,12 @@ There is a lot happening in the world right now. In Israel, lawmakers are about 
 <h3>Ann Roth Is Hollywood’s Secret Weapon</h3>
 <sub>By Maureen Dowd</sub>
 <p>Inside the studio of the costume master who helped give the world “Klute,” “The English Patient,” “Midnight Cowboy,” “Working Girl,” “Mamma Mia!” “Ma Rainey’s Black Bottom” — and more.  <a href="https://nyti.ms/3pX4Owd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>‘Barbie’ Box Office to the World: The Pandemic Is Officially Over</h3>
+<sub>By Brooks Barnes</sub>
+<p>With the biggest revenues since 2019, “Barbenheimer” gives the usual franchises a run for their money, selling out even predawn screenings.  <a href="https://nyti.ms/3Y2hvT4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
 <hr/>
 </ol>
