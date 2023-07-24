@@ -60,38 +60,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, July 24, Central Standard Time</p>
 <p>
-Right now, there is a lot going on in the world. In Israel, lawmakers are voting on a plan that would limit the power of their Supreme Court. This has caused a rift over the country&#39;s identity and future. In the US, President Biden has warned Prime Minister Netanyahu against pursuing the same plan, while former Republican aides are helping whistle-blowers through Congress. 
-Ukrainian families are seeking full honors to bury their dead in cemeteries similar to Arlington National Cemetery. A study of elite college admissions data in the US suggests that being very rich is its own qualification. Meanwhile, Florida Governor DeSantis is facing a reboot and reckoning with his campaign after facing missteps and cost issues. Soccer fans are rallying around Norway&#39;s national federation leader Lise Klaveness, who has been outspoken about FIFA&#39;s failures. Finally, people across the globe are looking for new workouts this year to stay fit and healthy despite the pandemic shutting down some prestigious theater stages.</p>
+Right now there is a lot of political unrest and social turbulence happening both in America and internationally. In the United States, President Biden and Prime Minister Benjamin Netanyahu are in disagreement over an attempt to consolidate judicial power and the outcome could have a large effect on Israeli society. Meanwhile, data suggests that the wealthiest students receive preference in elite college admissions even when others have better test scores. 
+
+In Russia, drones were sent toward Moscow but were destroyed with no reported casualties. Ukrainian families are also honoring their fallen soldiers by waiting for special burials to be granted. 
+
+Behind the scenes in college admissions, there is movement towards admitting more students from modest backgrounds. Highlighting this trend are former GOP aides working together to help whistleblower cases bring information to light. For those interested in workouts, there has been plenty of content published this year to help finish the year strong no matter your fitness level. 
+
+The US economy is also growing thanks to a flood of new workers, though it remains to be seen if these gains can be sustained. In politics, Florida Governor DeSantis has been re-calibrating his campaign strategy for the difficult road ahead while other GOP presidential candidates look towards debating for their party&#39;s nomination in August. Lastly, from Norway comes Lise Klaveness who is speaking out against FIFA&#39;s structural incompetencies and leading a national federation with her fearless advocacy.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israel’s Identity Hangs in Balance Ahead of Key Vote on New Law</h3>
-<sub>By Patrick Kingsley</sub>
-<p>Lawmakers are set to vote Monday on whether to limit the Supreme Court’s power as one element of a government plan to overhaul judicial authority. It is part of a profound rift over Israel’s nature and future.  <a href="https://nyti.ms/3YbkTLl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>U.S. Confronts Tight but Turbulent Relationship With Israel</h3>
 <sub>By Peter Baker and Lisa Lerer</sub>
 <p>President Biden has cautioned Prime Minister Benjamin Netanyahu against pursuing a proposal to rein in Israel’s judiciary, a plan that has deeply divided Israeli society.  <a href="https://nyti.ms/3O6e0Gn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>What’s Next for Israel’s Judicial Overhaul?</h3>
-<sub>By Isabel Kershner and Patrick Kingsley</sub>
-<p>Israeli lawmakers are advancing parts of a contentious plan by the right-wing government to reduce the power of the Supreme Court. A final vote is expected later on Monday.  <a href="https://nyti.ms/43DfeyP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Former Republican Aides Shepherd Whistle-Blowers Through Congress</h3>
-<sub>By Luke Broadwater</sub>
-<p>Empower Oversight, a group of lawyers including former aides to Senator Charles E. Grassley, Republican of Iowa, is part of a constellation of groups facilitating G.O.P. investigations in Congress.  <a href="https://nyti.ms/3Y2lhf4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Seeking Full Honors, Some Ukrainian Families Wait to Bury Their Dead</h3>
-<sub>By Cassandra Vinograd</sub>
-<p>Thousands of families have buried soldiers in cemeteries across Ukraine in “Alleys of Heroes.” But some have held off, awaiting a version of Arlington National Cemetery.  <a href="https://nyti.ms/43TghLj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-upshot-blue" alt="">
 <h3>Study of Elite College Admissions Data Suggests Being Very Rich Is Its Own Qualification</h3>
@@ -103,6 +84,36 @@ Ukrainian families are seeking full honors to bury their dead in cemeteries simi
 <h3>Behind the Scenes of College Admissions</h3>
 <sub>By David Leonhardt</sub>
 <p>Plenty of students from modest backgrounds are qualified to attend elite colleges and would benefit from doing so.  <a href="https://nyti.ms/44DY9Gd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russia Destroys Drones Targeting Moscow, and Blames Ukraine</h3>
+<sub>By Andrés R. Martínez, Haley Willis and Tiffany May</sub>
+<p>Two buildings were hit but there were no reports of casualties. Video verified by The New York Times shows smoke and damage to several buildings.  <a href="https://nyti.ms/43Icosi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Seeking Full Honors, Some Ukrainian Families Wait to Bury Their Dead</h3>
+<sub>By Cassandra Vinograd</sub>
+<p>Thousands of families have buried soldiers in cemeteries across Ukraine in “Alleys of Heroes.” But some have held off, awaiting a version of Arlington National Cemetery.  <a href="https://nyti.ms/43TghLj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Former Republican Aides Shepherd Whistle-Blowers Through Congress</h3>
+<sub>By Luke Broadwater</sub>
+<p>Empower Oversight, a group of lawyers including former aides to Senator Charles E. Grassley, Republican of Iowa, is part of a constellation of groups facilitating G.O.P. investigations in Congress.  <a href="https://nyti.ms/3Y2lhf4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>Our Favorite Workouts So Far This Year</h3>
+<sub>By Erik Vance</sub>
+<p>Halfway through 2023, find the exercise that will help you finish the year strong — no matter your fitness level.  <a href="https://nyti.ms/3ruj6EN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>A Flood of New Workers Has Made the Fed’s Job Less Painful. Can It Persist?</h3>
+<sub>By Jeanna Smialek</sub>
+<p>Federal Reserve officials thought job gains would taper off more, but they’ve remained strong. An improving supply of workers has been crucial.  <a href="https://nyti.ms/3NXCwte"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -117,17 +128,11 @@ Ukrainian families are seeking full honors to bury their dead in cemeteries simi
 <p>Hoping to break through a crowded presidential field in 2024, the former Texas congressman is pitching himself as a modern and moderate Republican with a bipartisan vision.  <a href="https://nyti.ms/3pY5JMV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>Our Favorite Workouts So Far This Year</h3>
-<sub>By Erik Vance</sub>
-<p>Halfway through 2023, find the exercise that will help you finish the year strong — no matter your fitness level.  <a href="https://nyti.ms/3ruj6EN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-theater-blue" alt="">
-<h3>A Crisis in America’s Theaters Leaves Prestigious Stages Dark</h3>
-<sub>By Michael Paulson</sub>
-<p>As they struggle to recover after the pandemic, regional theaters are staging fewer shows, giving fewer performances, laying off staff and, in some cases, closing.  <a href="https://nyti.ms/43x5R3C"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Thorny Rules and Maybe an Absent Trump: A Month Out of the First G.O.P. Debate</h3>
+<sub>By Jonathan Weisman</sub>
+<p>Republican presidential candidates are supposed to face off in Milwaukee on Aug. 23. But Donald Trump, the field’s front-runner, may not show up, and others have yet to make the cut.  <a href="https://nyti.ms/3Os7ewa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>From Norway, a Voice Unafraid to Call Out FIFA From the Inside</h3>
