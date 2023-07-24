@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Sunday, July 23, Central Standard Time</p>
+<p>It is Monday, July 24, Central Standard Time</p>
 <p>
-Currently, there are a few major conflicts around the globe. In Israel, lawmakers are voting on a new law that has potential implications on the Supreme Court&#39;s power. This is causing a rift in society as people debate what the law could mean for the country’s future. In the US, President Biden has warned Prime Minister Benjamin Netanyahu against pursuing an overhaul of judicial authority and many Trump-related prosecutions are taking up resources in the justice system. Meanwhile in San Francisco, Mayor London Breed is being challenged by an ally and former Levi Strauss heir more than a year before the election. Further abroad, Spain just had an inconclusive election that may leave the country stuck in uncertainty for weeks to come, while Russia reported two drones targeting Moscow have been destroyed. On a lighter note, moviegoers are turning up dressed head-to-toe in pink following the release of an iconic Barbie movie and Hollywood costume master Ann Roth is being recognized for her amazing contributions to cinema.</p>
+There is a lot happening in the world right now. In Israel, lawmakers are about to vote on a government plan that would limit the Supreme Court’s power. In the US, President Biden has cautioned Prime Minister Benjamin Netanyahu against pursuing a proposal to rein in Israel’s judiciary. Prosecutors in the US are also pouring resources into scrutinizing former President Donald Trump and his administration. In Florida, Governor DeSantis is facing a expensive campaign reboot that has donors and allies anxious. In Europe, Spain is dealing with an inconclusive election that has left the country in political limbo. Russia has recently destroyed two drones that were targeting Moscow, which they blamed on Ukraine. Here at home, Modelo Especial has become the best-selling beer in America due to a conservative-led boycott of Bud Light. There&#39;s also numerous entertainment industry stories happening, like hordes of fans recreating Barbie looks for theaters and Ann Roth&#39;s influential costumes being praised by Hollywood.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Israel’s Identity Hangs in Balance Ahead of Key Vote on New Law</h3>
@@ -86,12 +86,6 @@ Currently, there are a few major conflicts around the globe. In Israel, lawmaker
 <p>The campaign’s missteps and swelling costs have made donors and allies anxious. One person close to the Florida governor said he had experienced a “challenging learning curve.”  <a href="https://nyti.ms/3rEB7Ar"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Louisiana, a Democratic Governor Leans on Vetoes to Stall Conservative Agenda</h3>
-<sub>By Rick Rojas</sub>
-<p>John Bel Edwards, the only Democratic governor in the Deep South, has successfully vetoed bills that have glided into law elsewhere in the region. Soon, he’ll leave office.  <a href="https://nyti.ms/3Ot1iDm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
 <h3>What’s the Status of Flaunting Your Status?</h3>
 <sub>By Guy Trebay</sub>
@@ -111,15 +105,21 @@ Currently, there are a few major conflicts around the globe. In Israel, lawmaker
 <sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia Says It Destroyed 2 Drones Targeting Moscow</h3>
+<h3>Russia Says It Destroyed 2 Drones Targeting Moscow, Blames Ukraine</h3>
 <sub>By Andrés R. Martínez, Haley Willis and Tiffany May</sub>
-<p>The authorities closed part of a highway after finding the wreckage of a drone. Video verified by The New York Times shows smoke and damage to several buildings.  <a href="https://nyti.ms/43Icosi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Two buildings were hit and there were no reports of casualties. Video verified by The New York Times shows smoke and damage to several buildings.  <a href="https://nyti.ms/43Icosi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>How a Mexican Lager Quietly Rose to Become America’s Best-Selling Beer</h3>
 <sub>By J. Edward Moreno</sub>
 <p>A decade before Bud Light faced a conservative-led boycott over a transgender influencer, Modelo Especial was on track to take the No. 1 spot.  <a href="https://nyti.ms/3rAYjzz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-espanol-blue" alt="">
+<h3>La cerveza más vendida de EE. UU. ahora es una lager mexicana</h3>
+<sub>By J. Edward Moreno</sub>
+<p>Una década antes de que Bud Light enfrentara un boicot liderado por conservadores indignados por una campaña publicitaria con una influente trans, Modelo Especial ya estaba posicionada para liderar.  <a href="https://nyti.ms/3Op3c7H"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-movies-blue" alt="">
