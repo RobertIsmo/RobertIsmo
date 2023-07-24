@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, July 23, Central Standard Time</p>
 <p>
-There are some pretty interesting things happening in the world lately. In Israel, lawmakers are voting on a government proposal that could significantly reshape the country&#39;s judicial power. This is causing quite a bit of tension and debate around Israel&#39;s identity and future. Over in the U.S., President Biden is having to weigh in on this debate, while also dealing with complex investigations into former President Trump. Meanwhile, Louisiana&#39;s Democratic governor is using his veto power to overturn conservative bills as he gets ready to leave office. In Spain, an inconclusive election has resulted in political gridlock. In Mexico, one Mexican lager is quickly becoming the most popular beer in America. And at the movies, Barbie is taking over as fans flock to theaters to catch her new movie; it looks like the pandemic might be finally over!</p>
+Currently, there are a few major conflicts around the globe. In Israel, lawmakers are voting on a new law that has potential implications on the Supreme Court&#39;s power. This is causing a rift in society as people debate what the law could mean for the country’s future. In the US, President Biden has warned Prime Minister Benjamin Netanyahu against pursuing an overhaul of judicial authority and many Trump-related prosecutions are taking up resources in the justice system. Meanwhile in San Francisco, Mayor London Breed is being challenged by an ally and former Levi Strauss heir more than a year before the election. Further abroad, Spain just had an inconclusive election that may leave the country stuck in uncertainty for weeks to come, while Russia reported two drones targeting Moscow have been destroyed. On a lighter note, moviegoers are turning up dressed head-to-toe in pink following the release of an iconic Barbie movie and Hollywood costume master Ann Roth is being recognized for her amazing contributions to cinema.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Israel’s Identity Hangs in Balance Ahead of Key Vote on New Law</h3>
@@ -110,6 +110,12 @@ There are some pretty interesting things happening in the world lately. In Israe
 <p>The returns showed no party winning the support needed to govern, leaving the country facing weeks of uncertainty.  <a href="https://nyti.ms/44tOTEB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russia Says It Destroyed 2 Drones Targeting Moscow</h3>
+<sub>By Andrés R. Martínez, Haley Willis and Tiffany May</sub>
+<p>The authorities closed part of a highway after finding the wreckage of a drone. Video verified by The New York Times shows smoke and damage to several buildings.  <a href="https://nyti.ms/43Icosi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>How a Mexican Lager Quietly Rose to Become America’s Best-Selling Beer</h3>
 <sub>By J. Edward Moreno</sub>
@@ -126,12 +132,6 @@ There are some pretty interesting things happening in the world lately. In Israe
 <h3>Ann Roth Is Hollywood’s Secret Weapon</h3>
 <sub>By Maureen Dowd</sub>
 <p>Inside the studio of the costume master who helped give the world “Klute,” “The English Patient,” “Midnight Cowboy,” “Working Girl,” “Mamma Mia!” “Ma Rainey’s Black Bottom” — and more.  <a href="https://nyti.ms/3pX4Owd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>‘Barbie’ Box Office to the World: The Pandemic Is Officially Over</h3>
-<sub>By Brooks Barnes</sub>
-<p>With the biggest revenues since 2019, “Barbenheimer” gives the usual franchises a run for their money, selling out even predawn screenings.  <a href="https://nyti.ms/3Y2hvT4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
 <hr/>
 </ol>
