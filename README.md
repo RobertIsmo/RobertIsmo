@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, July 23, Central Standard Time</p>
 <p>
-There is a lot going on around the world right now. In Israel, lawmakers are voting on a law that could limit the Supreme Court’s power, and this could affect the nation’s identity and future. In the U.S., President Biden is asking Prime Minister Benjamin Netanyahu not to pass certain laws. On top of that, prosecutors are putting resources into scrutinizing Trump-related cases and controversies while in Louisiana, a Democratic Governor is using his veto to stall a conservative agenda. At the same time, Levi Strauss’s heir and a former ally are planning to challenge San Francisco’s mayor in her next election, while Spain just held an inconclusive election. Meanwhile, fashion trends are reflecting status among different people. In Hollywood, Ann Roth is making amazing costumes for different movies while &quot;Barbie&quot; recently hit theaters to great success, signaling some believe the pandemic may be over and Modelo Especial has become America&#39;s best-selling beer without many people noticing.</p>
+There are some pretty interesting things happening in the world lately. In Israel, lawmakers are voting on a government proposal that could significantly reshape the country&#39;s judicial power. This is causing quite a bit of tension and debate around Israel&#39;s identity and future. Over in the U.S., President Biden is having to weigh in on this debate, while also dealing with complex investigations into former President Trump. Meanwhile, Louisiana&#39;s Democratic governor is using his veto power to overturn conservative bills as he gets ready to leave office. In Spain, an inconclusive election has resulted in political gridlock. In Mexico, one Mexican lager is quickly becoming the most popular beer in America. And at the movies, Barbie is taking over as fans flock to theaters to catch her new movie; it looks like the pandemic might be finally over!</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Israel’s Identity Hangs in Balance Ahead of Key Vote on New Law</h3>
@@ -107,7 +107,13 @@ There is a lot going on around the world right now. In Israel, lawmakers are vot
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Inconclusive Election Thrusts Spain Into Political Muddle</h3>
 <sub>By Jason Horowitz</sub>
-<p>Preliminary results showed no party winning the support needed to govern, leaving the country facing weeks of uncertainty.  <a href="https://nyti.ms/44tOTEB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The returns showed no party winning the support needed to govern, leaving the country facing weeks of uncertainty.  <a href="https://nyti.ms/44tOTEB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>How a Mexican Lager Quietly Rose to Become America’s Best-Selling Beer</h3>
+<sub>By J. Edward Moreno</sub>
+<p>A decade before Bud Light faced a conservative-led boycott over a transgender influencer, Modelo Especial was on track to take the No. 1 spot.  <a href="https://nyti.ms/3rAYjzz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-movies-blue" alt="">
@@ -126,12 +132,6 @@ There is a lot going on around the world right now. In Israel, lawmakers are vot
 <h3>‘Barbie’ Box Office to the World: The Pandemic Is Officially Over</h3>
 <sub>By Brooks Barnes</sub>
 <p>With the biggest revenues since 2019, “Barbenheimer” gives the usual franchises a run for their money, selling out even predawn screenings.  <a href="https://nyti.ms/3Y2hvT4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How a Mexican Lager Quietly Rose to Become America’s Best-Selling Beer</h3>
-<sub>By J. Edward Moreno</sub>
-<p>A decade before Bud Light faced a conservative-led boycott over a transgender influencer, Modelo Especial was on track to take the No. 1 spot.  <a href="https://nyti.ms/3rAYjzz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
 <hr/>
 </ol>
