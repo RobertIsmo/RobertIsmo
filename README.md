@@ -60,14 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, July 24, Central Standard Time</p>
 <p>
-Right now there is a lot of political unrest and social turbulence happening both in America and internationally. In the United States, President Biden and Prime Minister Benjamin Netanyahu are in disagreement over an attempt to consolidate judicial power and the outcome could have a large effect on Israeli society. Meanwhile, data suggests that the wealthiest students receive preference in elite college admissions even when others have better test scores. 
+There&#39;s a lot of controversy in Israel right now as the government attempts to reduce the power of the Supreme Court, leading to protests and threats to shut down large parts of the economy. Meanwhile, the Biden administration in the US is having a tense but turbulent relationship with Israel, while studies of elite college admissions data are uncovering evidence that being very wealthy is its own qualification. In Arizona, there&#39;s a plan to give every student $7,200 for school choice that could ultimately benefit wealthier families.
 
-In Russia, drones were sent toward Moscow but were destroyed with no reported casualties. Ukrainian families are also honoring their fallen soldiers by waiting for special burials to be granted. 
+Elsewhere, there were reports of drones attacks targeting Moscow that were destroyed by Russia, which blamed Ukraine for the incident. There&#39;s also an interesting story in New York about a dog walker who thought they had a rolled-up painting worth millions - only for Sotheby’s to plan an auction - before it all fell apart. The IRS has halted surprise visits to homes and businesses amid backlash and increased threats.
 
-Behind the scenes in college admissions, there is movement towards admitting more students from modest backgrounds. Highlighting this trend are former GOP aides working together to help whistleblower cases bring information to light. For those interested in workouts, there has been plenty of content published this year to help finish the year strong no matter your fitness level. 
-
-The US economy is also growing thanks to a flood of new workers, though it remains to be seen if these gains can be sustained. In politics, Florida Governor DeSantis has been re-calibrating his campaign strategy for the difficult road ahead while other GOP presidential candidates look towards debating for their party&#39;s nomination in August. Lastly, from Norway comes Lise Klaveness who is speaking out against FIFA&#39;s structural incompetencies and leading a national federation with her fearless advocacy.</p>
+On the science front, an astrophysicist from Harvard has taken a deep dive for alien life and believes material he&#39;s recovered from the ocean floor could be from an extraterrestrial spacecraft, although his peers are skeptical. Lastly, Republican presidential candidates are supposed to face off in Milwaukee on Aug 23rd but Donald Trump may not show up due to some complicated rules, and only some have made the cut so far. Finally, if you&#39;re looking for a workout plan this year to stay fit and healthy, there are some excellent ones out there already!</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>What’s Next for Israel’s Judicial Overhaul?</h3>
+<sub>By Isabel Kershner and Patrick Kingsley</sub>
+<p>Israeli lawmakers advanced parts of a contentious plan by the right-wing government to reduce the power of the Supreme Court, defying threats by protesters to shut down large parts of the economy.  <a href="https://nyti.ms/43DfeyP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 17, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>U.S. Confronts Tight but Turbulent Relationship With Israel</h3>
 <sub>By Peter Baker and Lisa Lerer</sub>
@@ -80,10 +84,10 @@ The US economy is also growing thanks to a flood of new workers, though it remai
 <p>Extraordinarily detailed data shows how elite colleges prefer the richest students, even among students with similar test scores.  <a href="https://nyti.ms/3Oq4jE9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>Behind the Scenes of College Admissions</h3>
-<sub>By David Leonhardt</sub>
-<p>Plenty of students from modest backgrounds are qualified to attend elite colleges and would benefit from doing so.  <a href="https://nyti.ms/44DY9Gd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>$7,200 for Every Student: Arizona’s Ultimate Experiment in School Choice</h3>
+<sub>By Sarah Mervosh</sub>
+<p>More states are making all students eligible for private school subsidies. In Arizona, it has often benefited wealthier families.  <a href="https://nyti.ms/3Opf2im"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -92,23 +96,11 @@ The US economy is also growing thanks to a flood of new workers, though it remai
 <p>Two buildings were hit but there were no reports of casualties. Video verified by The New York Times shows smoke and damage to several buildings.  <a href="https://nyti.ms/43Icosi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Seeking Full Honors, Some Ukrainian Families Wait to Bury Their Dead</h3>
-<sub>By Cassandra Vinograd</sub>
-<p>Thousands of families have buried soldiers in cemeteries across Ukraine in “Alleys of Heroes.” But some have held off, awaiting a version of Arlington National Cemetery.  <a href="https://nyti.ms/43TghLj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Former Republican Aides Shepherd Whistle-Blowers Through Congress</h3>
-<sub>By Luke Broadwater</sub>
-<p>Empower Oversight, a group of lawyers including former aides to Senator Charles E. Grassley, Republican of Iowa, is part of a constellation of groups facilitating G.O.P. investigations in Congress.  <a href="https://nyti.ms/3Y2lhf4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Was the Rolled-Up Painting in the Dog Walker’s Closet Worth Millions?</h3>
+<sub>By John Leland</sub>
+<p>The dog walker thought so. Sotheby’s planned the auction — at first.  <a href="https://nyti.ms/3Q8xhtJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>Our Favorite Workouts So Far This Year</h3>
-<sub>By Erik Vance</sub>
-<p>Halfway through 2023, find the exercise that will help you finish the year strong — no matter your fitness level.  <a href="https://nyti.ms/3ruj6EN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>A Flood of New Workers Has Made the Fed’s Job Less Painful. Can It Persist?</h3>
@@ -117,27 +109,33 @@ The US economy is also growing thanks to a flood of new workers, though it remai
 <sub><sub>Monday, July 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A ‘Leaner-Meaner’ DeSantis Campaign Faces a Reboot and a Reckoning</h3>
-<sub>By Shane Goldmacher and Maggie Haberman</sub>
-<p>The campaign’s missteps and swelling costs have made donors and allies anxious. One person close to the Florida governor said he had experienced a “challenging learning curve.”  <a href="https://nyti.ms/3rEB7Ar"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
+<h3>I.R.S. Halts Surprise Visits to Homes and Businesses</h3>
+<sub>By Alan Rappeport</sub>
+<p>The end of a decades-long practice comes amid political backlash and increasing threats to agents.  <a href="https://nyti.ms/4522CCx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>On the Road With Will Hurd, the Bipartisan Candidate in Search of a Base</h3>
-<sub>By Jazmine Ulloa</sub>
-<p>Hoping to break through a crowded presidential field in 2024, the former Texas congressman is pitching himself as a modern and moderate Republican with a bipartisan vision.  <a href="https://nyti.ms/3pY5JMV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>Scientist’s Deep Dive for Alien Life Leaves His Peers Dubious</h3>
+<sub>By Katrina Miller</sub>
+<p>Avi Loeb, a Harvard astrophysicist, says that material recovered from the seafloor could be from an extraterrestrial spacecraft. His peers are skeptical.  <a href="https://nyti.ms/46ZzQEi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Thorny Rules and Maybe an Absent Trump: A Month Out of the First G.O.P. Debate</h3>
+<h3>Thorny Rules and Maybe an Absent Trump: A Month Out From the First G.O.P. Debate</h3>
 <sub>By Jonathan Weisman</sub>
 <p>Republican presidential candidates are supposed to face off in Milwaukee on Aug. 23. But Donald Trump, the field’s front-runner, may not show up, and others have yet to make the cut.  <a href="https://nyti.ms/3Os7ewa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>From Norway, a Voice Unafraid to Call Out FIFA From the Inside</h3>
-<sub>By Tariq Panja</sub>
-<p>Lise Klaveness is a rarity in soccer: a woman leading a national federation. But in pointing out her sport’s failures, she has made powerful enemies.  <a href="https://nyti.ms/3rBYevv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>Our Favorite Workouts So Far This Year</h3>
+<sub>By Erik Vance</sub>
+<p>Halfway through 2023, find the exercise that will help you finish the year strong — no matter your fitness level.  <a href="https://nyti.ms/3ruj6EN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As Rhodes Burns, Fires Strike More Greek Islands</h3>
+<sub>By Niki Kitsantonis</sub>
+<p>New blazes broke out on Corfu and Evia as tourists were being flown home.  <a href="https://nyti.ms/43IH5gW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 24, Central Standard Time</sub></sub>
 <hr/>
 </ol>
