@@ -60,7 +60,8 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, July 24, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In Israel, there&#39;s a key vote that could potentially change how things are run in the country and it&#39;s causing profound rifts between people. Meanwhile, here in the United States there is an ongoing battle between President Biden and Prime Minister Netanyahu over what should be done with Israel&#39;s judiciary system. On top of that, the justice system is pouring resources to scrutinizing Trump. Since people have started to venture out more, there has been a resurgence in Molly-coddling and flaunting status symbols which is being looked into. We also see politicians gearing up for upcoming elections here in the US with some races particularly competitive- especially in San Francisco where London Breed seems to have lost some of her popularity with her constituents. In addition, Spain just had some inconclusive elections that left everyone wondering who will lead next, as well as a new lager from Mexico rising to replace Bud Light as America&#39;s favorite beer choice. Last but not least, movie theaters are opening again- we saw fans flocking to screenings of Barbie which allowed us to reclaim some sense of the usual liveliness and fun going on before the pandemic!</p>
+Right now, there is a lot going on in the world. In Israel, lawmakers are voting on a plan that would limit the power of their Supreme Court. This has caused a rift over the country&#39;s identity and future. In the US, President Biden has warned Prime Minister Netanyahu against pursuing the same plan, while former Republican aides are helping whistle-blowers through Congress. 
+Ukrainian families are seeking full honors to bury their dead in cemeteries similar to Arlington National Cemetery. A study of elite college admissions data in the US suggests that being very rich is its own qualification. Meanwhile, Florida Governor DeSantis is facing a reboot and reckoning with his campaign after facing missteps and cost issues. Soccer fans are rallying around Norway&#39;s national federation leader Lise Klaveness, who has been outspoken about FIFA&#39;s failures. Finally, people across the globe are looking for new workouts this year to stay fit and healthy despite the pandemic shutting down some prestigious theater stages.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Israel’s Identity Hangs in Balance Ahead of Key Vote on New Law</h3>
@@ -74,17 +75,35 @@ There is a lot going on in the world right now. In Israel, there&#39;s a key vot
 <p>President Biden has cautioned Prime Minister Benjamin Netanyahu against pursuing a proposal to rein in Israel’s judiciary, a plan that has deeply divided Israeli society.  <a href="https://nyti.ms/3O6e0Gn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>What’s Next for Israel’s Judicial Overhaul?</h3>
+<sub>By Isabel Kershner and Patrick Kingsley</sub>
+<p>Israeli lawmakers are advancing parts of a contentious plan by the right-wing government to reduce the power of the Supreme Court. A final vote is expected later on Monday.  <a href="https://nyti.ms/43DfeyP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 17, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>As Inquiries Compound, Justice System Pours Resources Into Scrutinizing Trump</h3>
-<sub>By Glenn Thrush, Ben Protess, Alan Feuer and Adam Goldman</sub>
-<p>For all their complexity, the Trump-related prosecutions have not significantly constrained the ability of prosecutors to carry out their regular duties, officials have said.  <a href="https://nyti.ms/3DnVUuG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Former Republican Aides Shepherd Whistle-Blowers Through Congress</h3>
+<sub>By Luke Broadwater</sub>
+<p>Empower Oversight, a group of lawyers including former aides to Senator Charles E. Grassley, Republican of Iowa, is part of a constellation of groups facilitating G.O.P. investigations in Congress.  <a href="https://nyti.ms/3Y2lhf4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>What’s the Status of Flaunting Your Status?</h3>
-<sub>By Guy Trebay</sub>
-<p>In the world of the ultrawealthy, luxury is only quiet if you don’t know what to listen for.  <a href="https://nyti.ms/3O5GKz4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 22, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Seeking Full Honors, Some Ukrainian Families Wait to Bury Their Dead</h3>
+<sub>By Cassandra Vinograd</sub>
+<p>Thousands of families have buried soldiers in cemeteries across Ukraine in “Alleys of Heroes.” But some have held off, awaiting a version of Arlington National Cemetery.  <a href="https://nyti.ms/43TghLj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>Study of Elite College Admissions Data Suggests Being Very Rich Is Its Own Qualification</h3>
+<sub>By Aatish Bhatia, Claire Cain Miller and Josh Katz</sub>
+<p>Extraordinarily detailed data shows how elite colleges prefer the richest students, even among students with similar test scores.  <a href="https://nyti.ms/3Oq4jE9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>Behind the Scenes of College Admissions</h3>
+<sub>By David Leonhardt</sub>
+<p>Plenty of students from modest backgrounds are qualified to attend elite colleges and would benefit from doing so.  <a href="https://nyti.ms/44DY9Gd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A ‘Leaner-Meaner’ DeSantis Campaign Faces a Reboot and a Reckoning</h3>
@@ -93,46 +112,28 @@ There is a lot going on in the world right now. In Israel, there&#39;s a key vot
 <sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In San Francisco, a Levi Strauss Heir and a Former Ally Prepare to Challenge London Breed</h3>
-<sub>By Thomas Fuller and Shawn Hubler</sub>
-<p>The mayor is drawing challengers more than a year before the election, a sign that she will face a tough race in a city where most voters remain in a foul mood.  <a href="https://nyti.ms/44zBGKl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>On the Road With Will Hurd, the Bipartisan Candidate in Search of a Base</h3>
+<sub>By Jazmine Ulloa</sub>
+<p>Hoping to break through a crowded presidential field in 2024, the former Texas congressman is pitching himself as a modern and moderate Republican with a bipartisan vision.  <a href="https://nyti.ms/3pY5JMV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>Our Favorite Workouts So Far This Year</h3>
+<sub>By Erik Vance</sub>
+<p>Halfway through 2023, find the exercise that will help you finish the year strong — no matter your fitness level.  <a href="https://nyti.ms/3ruj6EN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-theater-blue" alt="">
+<h3>A Crisis in America’s Theaters Leaves Prestigious Stages Dark</h3>
+<sub>By Michael Paulson</sub>
+<p>As they struggle to recover after the pandemic, regional theaters are staging fewer shows, giving fewer performances, laying off staff and, in some cases, closing.  <a href="https://nyti.ms/43x5R3C"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Inconclusive Election Thrusts Spain Into Political Muddle</h3>
-<sub>By Jason Horowitz</sub>
-<p>The returns showed no party winning the support needed to govern, leaving the country facing weeks of uncertainty.  <a href="https://nyti.ms/44tOTEB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How a Mexican Lager Quietly Rose to Become America’s Best-Selling Beer</h3>
-<sub>By J. Edward Moreno</sub>
-<p>A decade before Bud Light faced a conservative-led boycott over a transgender influencer, Modelo Especial was on track to take the No. 1 spot.  <a href="https://nyti.ms/3rAYjzz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-espanol-blue" alt="">
-<h3>La cerveza más vendida de EE. UU. ahora es una lager mexicana</h3>
-<sub>By J. Edward Moreno</sub>
-<p>Una década antes de que Bud Light enfrentara un boicot liderado por conservadores indignados por una campaña publicitaria con una influente trans, Modelo Especial ya estaba posicionada para liderar.  <a href="https://nyti.ms/3Op3c7H"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>Pretty (Devoted) in Pink: ‘Barbie’ Hordes Spill Into Theaters</h3>
-<sub>By Christopher Kuo</sub>
-<p>Fans nationwide shopped their closets for the rosiest interpretations of the Barbie ethos: sparkly bags, open-toed pumps, stretchy headbands and more.  <a href="https://nyti.ms/3DwJPmR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>Ann Roth Is Hollywood’s Secret Weapon</h3>
-<sub>By Maureen Dowd</sub>
-<p>Inside the studio of the costume master who helped give the world “Klute,” “The English Patient,” “Midnight Cowboy,” “Working Girl,” “Mamma Mia!” “Ma Rainey’s Black Bottom” — and more.  <a href="https://nyti.ms/3pX4Owd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>‘Barbie’ Box Office to the World: The Pandemic Is Officially Over</h3>
-<sub>By Brooks Barnes</sub>
-<p>With the biggest revenues since 2019, “Barbenheimer” gives the usual franchises a run for their money, selling out even predawn screenings.  <a href="https://nyti.ms/3Y2hvT4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>From Norway, a Voice Unafraid to Call Out FIFA From the Inside</h3>
+<sub>By Tariq Panja</sub>
+<p>Lise Klaveness is a rarity in soccer: a woman leading a national federation. But in pointing out her sport’s failures, she has made powerful enemies.  <a href="https://nyti.ms/3rBYevv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 24, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
