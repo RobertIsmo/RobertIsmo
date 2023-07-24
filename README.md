@@ -60,11 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, July 24, Central Standard Time</p>
 <p>
-There&#39;s a lot of controversy in Israel right now as the government attempts to reduce the power of the Supreme Court, leading to protests and threats to shut down large parts of the economy. Meanwhile, the Biden administration in the US is having a tense but turbulent relationship with Israel, while studies of elite college admissions data are uncovering evidence that being very wealthy is its own qualification. In Arizona, there&#39;s a plan to give every student $7,200 for school choice that could ultimately benefit wealthier families.
+There is a lot going on in the world right now. In Israel, the right-wing government is pushing forward with a controversial plan to reduce the power of the Supreme Court and citizens are threatening to shut down large parts of the economy in protest. Here in the US, Arizona has implemented a plan offering private school subsidies to every student which has often favored wealthy families. Meanwhile Russian forces have shot down drones that were targeting Moscow and blamed Ukraine, though thankfully no casualties were reported. There has also been some controversy over an old painting found in a dog walker&#39;s closet and whether it might be worth millions.
 
-Elsewhere, there were reports of drones attacks targeting Moscow that were destroyed by Russia, which blamed Ukraine for the incident. There&#39;s also an interesting story in New York about a dog walker who thought they had a rolled-up painting worth millions - only for Sotheby’s to plan an auction - before it all fell apart. The IRS has halted surprise visits to homes and businesses amid backlash and increased threats.
+On the economic front, the US Federal Reserve is seeing historically strong employment rates due to an influx of new workers. But speaking of employment opportunities, the IRS has put a stop to surprise visits at homes and businesses due to increasing political backlash and risks to agents. On the scientific front, one astrophysicist believes he may have material from an alien spacecraft at the bottom of the ocean, though his peers are skeptical.
 
-On the science front, an astrophysicist from Harvard has taken a deep dive for alien life and believes material he&#39;s recovered from the ocean floor could be from an extraterrestrial spacecraft, although his peers are skeptical. Lastly, Republican presidential candidates are supposed to face off in Milwaukee on Aug 23rd but Donald Trump may not show up due to some complicated rules, and only some have made the cut so far. Finally, if you&#39;re looking for a workout plan this year to stay fit and healthy, there are some excellent ones out there already!</p>
+Finally, Republican presidential candidates are prepping for their first debate this month which could be disrupted by Donald Trump&#39;s absence, as well as &#39;Barbie&#39; movie sparking debate among all types of political figures with predictably conflicting views. And over the weekend there was an unusual pattern for blockbuster openers at the box office with several films contributing to big numbers - becoming known as &#39;Barbenheimer&#39; weekend.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>What’s Next for Israel’s Judicial Overhaul?</h3>
@@ -72,11 +72,11 @@ On the science front, an astrophysicist from Harvard has taken a deep dive for a
 <p>Israeli lawmakers advanced parts of a contentious plan by the right-wing government to reduce the power of the Supreme Court, defying threats by protesters to shut down large parts of the economy.  <a href="https://nyti.ms/43DfeyP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Confronts Tight but Turbulent Relationship With Israel</h3>
-<sub>By Peter Baker and Lisa Lerer</sub>
-<p>President Biden has cautioned Prime Minister Benjamin Netanyahu against pursuing a proposal to rein in Israel’s judiciary, a plan that has deeply divided Israeli society.  <a href="https://nyti.ms/3O6e0Gn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Israel’s Supreme Court faces a critical dilemma: How to handle a plan that would rein in its power.</h3>
+<sub>By Aaron Boxerman</sub>
+<p>  <a href="https://nyti.ms/44Vem9R"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-upshot-blue" alt="">
 <h3>Study of Elite College Admissions Data Suggests Being Very Rich Is Its Own Qualification</h3>
@@ -111,7 +111,7 @@ On the science front, an astrophysicist from Harvard has taken a deep dive for a
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>I.R.S. Halts Surprise Visits to Homes and Businesses</h3>
 <sub>By Alan Rappeport</sub>
-<p>The end of a decades-long practice comes amid political backlash and increasing threats to agents.  <a href="https://nyti.ms/4522CCx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>A decades-long practice is ending amid political backlash and increasing threats to agents.  <a href="https://nyti.ms/4522CCx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
@@ -126,16 +126,16 @@ On the science front, an astrophysicist from Harvard has taken a deep dive for a
 <p>Republican presidential candidates are supposed to face off in Milwaukee on Aug. 23. But Donald Trump, the field’s front-runner, may not show up, and others have yet to make the cut.  <a href="https://nyti.ms/3Os7ewa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>Our Favorite Workouts So Far This Year</h3>
-<sub>By Erik Vance</sub>
-<p>Halfway through 2023, find the exercise that will help you finish the year strong — no matter your fitness level.  <a href="https://nyti.ms/3ruj6EN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>‘Barbie’ Movie Gives Left and Right Another Battlefront, in Pink</h3>
+<sub>By Matt Flegenheimer and Marc Tracy</sub>
+<p>Political figures of all types grabbed for the legs of a doll-turned-movie-turned-cultural moment, with predictable results.  <a href="https://nyti.ms/3q0z3Ci"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Rhodes Burns, Fires Strike More Greek Islands</h3>
-<sub>By Niki Kitsantonis</sub>
-<p>New blazes broke out on Corfu and Evia as tourists were being flown home.  <a href="https://nyti.ms/43IH5gW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>‘Barbenheimer’ Weekend Was a Real Team Effort</h3>
+<sub>By Jason Karaian and Karl Russell</sub>
+<p>The bumper box office broke the usual pattern for blockbuster opening weekends, with several films contributing to the big numbers.  <a href="https://nyti.ms/472OY3B"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 24, Central Standard Time</sub></sub>
 <hr/>
 </ol>
