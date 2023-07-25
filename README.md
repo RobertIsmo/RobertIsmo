@@ -60,18 +60,54 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, July 25, Central Standard Time</p>
 <p>
-Right now, there is a lot going on in the world. In China, the Foreign Minister was removed after a month of silence, and the new Central Banker is being tested to fix a crisis. On the international scale, the IMF upgraded its global growth forecast for 2023, showing signs of resilience. Tech companies are scaling back their expansion in New York City. Big tech firms are reporting earnings which will test investors&#39; fervor for Artificial Intelligence. In terms of democracy, President Biden is taking his battle case by case. There have been mass protests in Israel over a law aimed at curbing power of the judiciary. We still don&#39;t know how Covid started exactly and why it matters. Some July heat has been identified by scientists to be virtually impossible without climate change, and we can track air quality and smoke from wildfires through maps.</p>
+It looks like the US is facing quite a few legal issues. There&#39;s a new asylum policy that has been blocked by a federal judge, and then there&#39;s an inquiry into Harvard&#39;s legacy admissions policies after the Supreme Court limited affirmative action. Meanwhile, there&#39;s a study suggesting that very rich students get into elite colleges just based on their wealth. 
+
+Internationally, a foreign minister in China was unexpectedly removed after a month without any news from him, while Israel is bracing for what comes next after passing a judicial law. As for the protesters of this law, they seem to have fallen into a somber mood and are still trying to come to terms with this defeat. 
+
+On the business side of things, United Parcel Service (UPS) has reached a tentative deal with Teamsters to avoid a potential strike. The global economy is also showing signs of recovery with an upgrade from the International Monetary Fund (IMF). 
+
+Back home in the US, Governor DeSantis has cut his presidential campaign staff by a third as part of an effort to rein in costs. Lastly, it looks like climate change could push the Atlantic past a tipping point later this century, and there are maps tracking air quality and smoke from wildfires we can check out for updates.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Federal Judge Blocks New Biden Asylum Policy</h3>
+<sub>By Miriam Jordan and Eileen Sullivan</sub>
+<p>Immigrant advocacy groups had challenged the administration’s decision to dramatically limit who is allowed to apply for asylum in the U.S.  <a href="https://nyti.ms/3pXqubE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Education Dept. Opens Civil Rights Inquiry Into Harvard’s Legacy Admissions</h3>
+<sub>By Michael D. Shear</sub>
+<p>An inquiry into admissions preferences for family of alumni and donors began after the Supreme Court’s decision last month limiting affirmative action.  <a href="https://nyti.ms/475LGg7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>Study of Elite College Admissions Data Suggests Being Very Rich Is Its Own Qualification</h3>
+<sub>By Aatish Bhatia, Claire Cain Miller and Josh Katz</sub>
+<p>Extraordinarily detailed data shows how elite colleges prefer the richest students, even among students with similar test scores.  <a href="https://nyti.ms/3Oq4jE9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 24, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>China’s Foreign Minister Is Removed After a Month of Silence</h3>
 <sub>By Chris Buckley and David Pierson</sub>
 <p>Qin Gang, a sometime favorite of Xi Jinping, was replaced by Wang Yi, a seasoned diplomat, leaving many unanswered questions about Qin’s fall.  <a href="https://nyti.ms/43CBzMR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>After Momentous Vote on Judicial Law, Israel Braces for What’s Next</h3>
+<sub>By Patrick Kingsley</sub>
+<p>The opposition fears a slow descent toward authoritarianism, while the government is waiting to see how disruptive and prolonged the response will be from its critics.  <a href="https://nyti.ms/476nuKq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Somber Mood Settles Over Israel’s Antigovernment Protesters</h3>
+<sub>By Isabel Kershner</sub>
+<p>After months of defiance, there was defeat. The right-wing government’s success in passing a law that limits the power of the Supreme Court was a gut punch to the largely liberal and secular opposition.  <a href="https://nyti.ms/3Y5y00G"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>China’s New Central Banker Once Fixed a Crisis. He May Need to Again.</h3>
-<sub>By Keith Bradsher</sub>
-<p>Pan Gongsheng, who was named governor of the People’s Bank of China after overseeing $3 trillion in reserves, stopped a currency plunge in 2016.  <a href="https://nyti.ms/44DKT4B"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>UPS Reaches Tentative Deal With Teamsters to Head Off Strike</h3>
+<sub>By Noam Scheiber</sub>
+<p>United Parcel Service faced a potential walkout by more than 325,000 union members after their five-year contract expires next week.  <a href="https://nyti.ms/3Ye57Q0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -80,52 +116,22 @@ Right now, there is a lot going on in the world. In China, the Foreign Minister 
 <p>The International Monetary Fund upgraded its global growth forecast for 2023.  <a href="https://nyti.ms/43GNER2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Tech Firms Once Powered New York’s Economy. Now They’re Scaling Back.</h3>
-<sub>By Julie Creswell, Peter Eavis, Emma Goldberg and Matthew Haag</sub>
-<p>After years of steady growth, many technology companies are laying off workers and giving up millions of square feet of office space in the city.  <a href="https://nyti.ms/3Kb8ocZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Big Tech Earnings Will Test Investors’ Fervor for A.I.</h3>
-<sub>By Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
-<p>Microsoft and Alphabet will report results on Tuesday, as investors look for signs that a rally in stocks tied to artificial intelligence is justified.  <a href="https://nyti.ms/47hezGv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Takes His Battle for Democracy Case by Case</h3>
-<sub>By Peter Baker</sub>
-<p>President Biden’s decisions on when to speak out forcefully for democracy can prove tricky.  <a href="https://nyti.ms/471fF93"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>How Israel’s Supreme Court Might React to the Challenge to Its Power</h3>
-<sub>By Emily Bazelon</sub>
-<p>The court could strike down the law passed on Monday that seeks to curb its power. Or it might narrowly interpret it. Or it might simply put off any decision.  <a href="https://nyti.ms/3rMErJK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Photos: Mass Protests Sweep Israel</h3>
-<sub>By The New York Times</sub>
-<p>Political turmoil that has been brewing for months reached a crescendo after Parliament passed a law aimed at curbing the power of the judiciary.  <a href="https://nyti.ms/3KeaLvo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
 <h3>The Ongoing Mystery of Covid’s Origin</h3>
 <sub>By David Quammen</sub>
 <p>We still don’t know how the pandemic started. Here&#39;s what we do know — and why it matters.  <a href="https://nyti.ms/3OsqXfd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Could the Next Pandemic Start at the County Fair?</h3>
-<sub>By Emily Anthes and Maddie McGarvey</sub>
-<p>Since 2011, there have been more human swine flu cases reported in the United States than anywhere else in the world. Most have occurred at farm-animal showcases.  <a href="https://nyti.ms/3O5GSPd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>DeSantis Cuts Campaign Staff by a Third in Effort to Rein In Costs</h3>
+<sub>By Shane Goldmacher, Maggie Haberman, Nicholas Nehamas and Jonathan Swan</sub>
+<p>His presidential campaign, facing questions from allies and donors about the strength of his candidacy, has now eliminated the jobs of 38 aides this month.  <a href="https://nyti.ms/44CJWJC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Some July Heat: ‘Virtually Impossible’ Without Climate Change, Analysis Finds</h3>
-<sub>By Delger Erdenesanaa</sub>
-<p>The latest study from World Weather Attribution scientists predicts that extreme heat waves will return more frequently.  <a href="https://nyti.ms/451d4dd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Warming Could Push the Atlantic Past a ‘Tipping Point’ This Century</h3>
+<sub>By Raymond Zhong</sub>
+<p>The system of ocean currents that regulates the climate for a swath of the planet could collapse sooner than expected, a new analysis found.  <a href="https://nyti.ms/3Ou8L4S"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
