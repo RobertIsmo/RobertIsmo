@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Monday, July 24, Central Standard Time</p>
+<p>It is Tuesday, July 25, Central Standard Time</p>
 <p>
-Currently in the world, the Israeli Prime Minister Benjamin Netanyahu has scored a victory with his judicial overhaul plan, despite public protests. This has led to a weakening of the power of Israel&#39;s Supreme Court, provoking uncertainty in the country. In Russia, there has been an escalated assault on Ukraine. Meanwhile, in the US, a rioter involved in the Capitol&#39;s January 6 assault received a four-year sentence. In addition, the Biden administration is challenging the Texas Governor Greg Abbott&#39;s border security program by suing Texas over a barrier built in Rio Grande. There is also news of how elite colleges are preferencing richer students with similar test scores. Lastly, Elon Musk is erasing Twitter&#39;s iconic bird logo and Harvard astrophysicist Avi Loeb suggests recovered seafloor samples may be from an extraterrestrial spacecraft. Finally, there is current discussion about Barbie movies and portrayals of different beliefs in society.</p>
+There is a lot going on in the world right now. In Israel, Prime Minister Netanyahu has pushed through a judicial system overhaul which has caused unrest and deepened divides among its people. Russia has also recently started attacking Ukraine&#39;s grain routes. In the US, someone who participated in the January 6th riots was just sentenced to four years in prison, and the Justice Department is challenging the Texas Governor&#39;s border security program. Additionally, World Weather Attribution scientists have concluded that extreme heat waves will return frequently due to climate change. On a lighter note, billionaire Elon Musk is removing the Twitter bird logo from their branding, and there is an ongoing debate between the left and right about the new Barbie movie.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Netanyahu Scores Another Victory, but at What Price?</h3>
@@ -75,10 +75,10 @@ Currently in the world, the Israeli Prime Minister Benjamin Netanyahu has scored
 <sub><sub>Monday, July 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>What’s Next for Israel’s Judicial Overhaul?</h3>
-<sub>By Isabel Kershner and Patrick Kingsley</sub>
-<p>Israeli lawmakers advanced parts of a contentious plan by the right-wing government to reduce the power of the Supreme Court, defying threats by protesters to shut down large parts of the economy.  <a href="https://nyti.ms/43DfeyP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 17, Central Standard Time</sub></sub>
+<h3>How Israel’s Supreme Court Might React to the Challenge to Its Power</h3>
+<sub>By Emily Bazelon</sub>
+<p>The court could strike down the law passed on Monday that seeks to curb its power. Or it might narrowly interpret it. Or it might simply put off any decision.  <a href="https://nyti.ms/3rMErJK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Russia Strikes Danube Port, Escalating Attacks on Ukraine Grain Routes</h3>
@@ -92,17 +92,17 @@ Currently in the world, the Israeli Prime Minister Benjamin Netanyahu has scored
 <p>Peter Stager, a truck driver from Arkansas, is one of nine men charged in one of the most disturbing attacks on police officers during the assault on the Capitol.  <a href="https://nyti.ms/3rJ4iCz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Was the Rolled-Up Painting in the Dog Walker’s Closet Worth Millions?</h3>
-<sub>By John Leland</sub>
-<p>The dog walker thought so. Sotheby’s planned the auction — at first.  <a href="https://nyti.ms/3Q8xhtJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Justice Department Sues Texas Over Floating Barrier in Rio Grande</h3>
 <sub>By J. David Goodman</sub>
 <p>The suit was the first direct challenge by the Biden administration to Gov. Greg Abbott’s border security program, Operation Lone Star.  <a href="https://nyti.ms/3rEZTR8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Some July Heat: ‘Virtually Impossible’ Without Climate Change, Analysis Finds</h3>
+<sub>By Delger Erdenesanaa</sub>
+<p>The latest study from World Weather Attribution scientists predicts that extreme heat waves will return more frequently.  <a href="https://nyti.ms/451d4dd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-upshot-blue" alt="">
 <h3>Study of Elite College Admissions Data Suggests Being Very Rich Is Its Own Qualification</h3>
