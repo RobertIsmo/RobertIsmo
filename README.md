@@ -60,12 +60,36 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, July 25, Central Standard Time</p>
 <p>
-It looks like the world is going through some turbulent times right now. In business, tech firms are scaling back on their operations in New York due to the economic effects of the pandemic and Russia is threatening Ukraine&#39;s exports. In politics, Biden is fighting for democracy abroad as well as creating a new monument for civil rights activist Emmett Till here in America. And internationally, Israel&#39;s Prime Minister Netanyahu has pushed through a controversial judicial overhaul while China&#39;s leadership has been shuffling around its foreign minister roles. On the health side, experts are concerned about the growing risk of pandemics from county fairs and public works are monitoring air quality from wildfires. To top it all off, scientists have found evidence suggesting this summer&#39;s heat wave is unprecedented and likely due to climate change.</p>
+Right now, there is a lot going on in the world. In China, the Foreign Minister was removed after a month of silence, and the new Central Banker is being tested to fix a crisis. On the international scale, the IMF upgraded its global growth forecast for 2023, showing signs of resilience. Tech companies are scaling back their expansion in New York City. Big tech firms are reporting earnings which will test investors&#39; fervor for Artificial Intelligence. In terms of democracy, President Biden is taking his battle case by case. There have been mass protests in Israel over a law aimed at curbing power of the judiciary. We still don&#39;t know how Covid started exactly and why it matters. Some July heat has been identified by scientists to be virtually impossible without climate change, and we can track air quality and smoke from wildfires through maps.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>China’s Foreign Minister Is Removed After a Month of Silence</h3>
+<sub>By Chris Buckley and David Pierson</sub>
+<p>Qin Gang, a sometime favorite of Xi Jinping, was replaced by Wang Yi, a seasoned diplomat, leaving many unanswered questions about Qin’s fall.  <a href="https://nyti.ms/43CBzMR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>China’s New Central Banker Once Fixed a Crisis. He May Need to Again.</h3>
+<sub>By Keith Bradsher</sub>
+<p>Pan Gongsheng, who was named governor of the People’s Bank of China after overseeing $3 trillion in reserves, stopped a currency plunge in 2016.  <a href="https://nyti.ms/44DKT4B"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Global Economy Shows Signs of Resilience Despite Lingering Threats</h3>
+<sub>By Alan Rappeport, Eshe Nelson and Jeanna Smialek</sub>
+<p>The International Monetary Fund upgraded its global growth forecast for 2023.  <a href="https://nyti.ms/43GNER2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Tech Firms Once Powered New York’s Economy. Now They’re Scaling Back.</h3>
 <sub>By Julie Creswell, Peter Eavis, Emma Goldberg and Matthew Haag</sub>
 <p>After years of steady growth, many technology companies are laying off workers and giving up millions of square feet of office space in the city.  <a href="https://nyti.ms/3Kb8ocZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Big Tech Earnings Will Test Investors’ Fervor for A.I.</h3>
+<sub>By Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
+<p>Microsoft and Alphabet will report results on Tuesday, as investors look for signs that a rally in stocks tied to artificial intelligence is justified.  <a href="https://nyti.ms/47hezGv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -75,21 +99,15 @@ It looks like the world is going through some turbulent times right now. In busi
 <sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Netanyahu Scores Another Victory, but at What Price?</h3>
-<sub>By Patrick Kingsley</sub>
-<p>The Israeli prime minister has pushed through the first part of his judicial overhaul, but in doing so has deepened a rift in Israeli society and propelled the country into an uncertain new era.  <a href="https://nyti.ms/44XE3qb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>How Israel’s Supreme Court Might React to the Challenge to Its Power</h3>
 <sub>By Emily Bazelon</sub>
 <p>The court could strike down the law passed on Monday that seeks to curb its power. Or it might narrowly interpret it. Or it might simply put off any decision.  <a href="https://nyti.ms/3rMErJK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Russian Attack Threatens Even Alternative Routes for Ukrainian Grain</h3>
-<sub>By Jenny Gross and Patricia Cohen</sub>
-<p>The attack on a grain hangar on the Danube River, an alternative export route that has become an economic lifeline, complicates Ukraine’s efforts to export its grain.  <a href="https://nyti.ms/46Xi6cN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Photos: Mass Protests Sweep Israel</h3>
+<sub>By The New York Times</sub>
+<p>Political turmoil that has been brewing for months reached a crescendo after Parliament passed a law aimed at curbing the power of the judiciary.  <a href="https://nyti.ms/3KeaLvo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
@@ -115,24 +133,6 @@ It looks like the world is going through some turbulent times right now. In busi
 <sub>By Madison Dong, Bea Malsky, Lazaro Gamio, Matthew Bloch, Scott Reinhard, Leanne Abraham, Martín González Gómez, Judson Jones, John-Michael Murphy and Marco Hernandez</sub>
 <p>See maps of where smoke is traveling and how harmful the air has become.  <a href="https://nyti.ms/3CfwHlB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>China Replaces Foreign Minister Missing From Public View Since June</h3>
-<sub>By Chris Buckley</sub>
-<p>Qin Gang was removed from office on Tuesday by China’s top leader, Xi Jinping, capping weeks of speculation.  <a href="https://nyti.ms/43CBzMR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>China’s New Central Banker Once Fixed a Crisis. He May Need to Again.</h3>
-<sub>By Keith Bradsher</sub>
-<p>Pan Gongsheng, who was named governor of the People’s Bank of China after overseeing $3 trillion in reserves, stopped a currency plunge in 2016.  <a href="https://nyti.ms/44DKT4B"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden to Create Monument to Emmett Till Amid Fights Over Black History</h3>
-<sub>By Erica L. Green</sub>
-<p>The murder of 14-year-old Emmett Till and the activism of his grieving mother helped galvanize the civil rights movement in America.  <a href="https://nyti.ms/3OsJZlL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
