@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, July 24, Central Standard Time</p>
 <p>
-There is a lot of unrest going on in the world right now. In Israel, Prime Minister Netanyahu has been pushing through a judicial overhaul despite months of mass protests, which could potentially put the country in an uncertain new era. Meanwhile, the Biden administration is challenging a border security program in Texas while the tech billionaire Elon Musk is shaking things up by erasing Twitter&#39;s iconic identity. Scientist Avi Loeb is also raising eyebrows with his deep dive for alien life. And even Barbie is becoming another battlefront between left and right-wing politics. So yeah, it&#39;s an interesting time in the world!</p>
+Currently in the world, the Israeli Prime Minister Benjamin Netanyahu has scored a victory with his judicial overhaul plan, despite public protests. This has led to a weakening of the power of Israel&#39;s Supreme Court, provoking uncertainty in the country. In Russia, there has been an escalated assault on Ukraine. Meanwhile, in the US, a rioter involved in the Capitol&#39;s January 6 assault received a four-year sentence. In addition, the Biden administration is challenging the Texas Governor Greg Abbott&#39;s border security program by suing Texas over a barrier built in Rio Grande. There is also news of how elite colleges are preferencing richer students with similar test scores. Lastly, Elon Musk is erasing Twitter&#39;s iconic bird logo and Harvard astrophysicist Avi Loeb suggests recovered seafloor samples may be from an extraterrestrial spacecraft. Finally, there is current discussion about Barbie movies and portrayals of different beliefs in society.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Netanyahu Scores Another Victory, but at What Price?</h3>
@@ -116,12 +116,6 @@ There is a lot of unrest going on in the world right now. In Israel, Prime Minis
 <p>The tech billionaire started removing the bird logo that has been part of Twitter’s identity since 2006.  <a href="https://nyti.ms/43EvJdR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Why Elon Musk Bid Twitter Goodbye</h3>
-<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
-<p>Rebranding the social network as X marks the billionaire’s latest gamble to reinvent the company, after buying it last year for $44 billion.  <a href="https://nyti.ms/46TRVDE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 24, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
 <h3>Scientist’s Deep Dive for Alien Life Leaves His Peers Dubious</h3>
 <sub>By Katrina Miller</sub>
@@ -132,6 +126,12 @@ There is a lot of unrest going on in the world right now. In Israel, Prime Minis
 <h3>‘Barbie’ Movie Gives Left and Right Another Battlefront, in Pink</h3>
 <sub>By Matt Flegenheimer and Marc Tracy</sub>
 <p>Political figures of all types grabbed for the legs of a doll-turned-movie-turned-cultural moment, with predictable results.  <a href="https://nyti.ms/3q0z3Ci"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>All Pinked Out</h3>
+<sub>By Vanessa Friedman</sub>
+<p>Hey Barbie, there is a fine line between reclaiming a color and ruining it.  <a href="https://nyti.ms/3DyxnmB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 24, Central Standard Time</sub></sub>
 <hr/>
 </ol>
