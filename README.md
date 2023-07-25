@@ -60,18 +60,22 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, July 25, Central Standard Time</p>
 <p>
-It looks like the US is facing quite a few legal issues. There&#39;s a new asylum policy that has been blocked by a federal judge, and then there&#39;s an inquiry into Harvard&#39;s legacy admissions policies after the Supreme Court limited affirmative action. Meanwhile, there&#39;s a study suggesting that very rich students get into elite colleges just based on their wealth. 
+In the US, the Biden administration&#39;s new asylum policy has been challenged by immigrant advocacy groups. There&#39;s also been debate on border security and immigration amongst Republican presidential candidates - with support for a wall being routine. The Education Dept. is opening a civil rights inquiry into Harvard&#39;s legacy admissions, and there have been reports suggesting that being very rich is its own qualification for elite college admissions. 
 
-Internationally, a foreign minister in China was unexpectedly removed after a month without any news from him, while Israel is bracing for what comes next after passing a judicial law. As for the protesters of this law, they seem to have fallen into a somber mood and are still trying to come to terms with this defeat. 
+China has removed its Foreign Minister after only one month in office, raising questions about what led to this decision. DeSantis has cut his campaign staff by over a third, hoping to rein in costs, while the Freedom Caucus is at a crossroads due to internal divisions and the ousting of their representative. Iowa&#39;s Governor will be interviewing GOP candidates without Trump involved. 
 
-On the business side of things, United Parcel Service (UPS) has reached a tentative deal with Teamsters to avoid a potential strike. The global economy is also showing signs of recovery with an upgrade from the International Monetary Fund (IMF). 
-
-Back home in the US, Governor DeSantis has cut his presidential campaign staff by a third as part of an effort to rein in costs. Lastly, it looks like climate change could push the Atlantic past a tipping point later this century, and there are maps tracking air quality and smoke from wildfires we can check out for updates.</p>
+In Israel, the government recently passed a law limiting the power of the Supreme Court, leading to a somber mood settling over antigovernment protesters who are facing defeat. UPS reached a tentative deal with Teamsters to avoid potential strike actions, while we still don&#39;t know the origin of Covid-19 and why it matters.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Federal Judge Blocks New Biden Asylum Policy</h3>
+<h3>Federal Judge Blocks Biden Administration’s New Asylum Policy</h3>
 <sub>By Miriam Jordan and Eileen Sullivan</sub>
-<p>Immigrant advocacy groups had challenged the administration’s decision to dramatically limit who is allowed to apply for asylum in the U.S.  <a href="https://nyti.ms/3pXqubE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Immigrant advocacy groups challenged the administration’s decision to sharply limit who is allowed to apply for asylum in the United States.  <a href="https://nyti.ms/3rNtw2M"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Where the Republican Candidates Stand on Border Security and Immigration</h3>
+<sub>By Maggie Astor</sub>
+<p>Support for a wall is now routine, and some presidential candidates say they would use military force to secure the border if elected.  <a href="https://nyti.ms/3DwavEC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -92,6 +96,24 @@ Back home in the US, Governor DeSantis has cut his presidential campaign staff b
 <p>Qin Gang, a sometime favorite of Xi Jinping, was replaced by Wang Yi, a seasoned diplomat, leaving many unanswered questions about Qin’s fall.  <a href="https://nyti.ms/43CBzMR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>DeSantis Cuts Campaign Staff by Over a Third, Aiming to Rein In Costs</h3>
+<sub>By Shane Goldmacher, Maggie Haberman, Jonathan Swan and Nicholas Nehamas</sub>
+<p>His presidential campaign, facing questions from allies and donors about the strength of his candidacy, has now eliminated the jobs of 38 aides this month.  <a href="https://nyti.ms/44CJWJC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>As Spending Fights Loom, Freedom Caucus Is at a Crossroads</h3>
+<sub>By Annie Karni, Robert Draper and Luke Broadwater</sub>
+<p>The ouster of Representative Marjorie Taylor Greene from the ultraconservative group and the rise of another rebel faction have raised questions about where the real power lies on the far right.  <a href="https://nyti.ms/43IOpJE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Iowa’s Governor Will Interview G.O.P. Field, Minus One: Trump</h3>
+<sub>By Nicholas Nehamas</sub>
+<p>Gov. Kim Reynolds next month will hold “Fair-Side Chats” with candidates including Ron DeSantis, Tim Scott and Perry Johnson, but not the former president.  <a href="https://nyti.ms/3rINQlL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>After Momentous Vote on Judicial Law, Israel Braces for What’s Next</h3>
 <sub>By Patrick Kingsley</sub>
@@ -110,35 +132,11 @@ Back home in the US, Governor DeSantis has cut his presidential campaign staff b
 <p>United Parcel Service faced a potential walkout by more than 325,000 union members after their five-year contract expires next week.  <a href="https://nyti.ms/3Ye57Q0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Global Economy Shows Signs of Resilience Despite Lingering Threats</h3>
-<sub>By Alan Rappeport, Eshe Nelson and Jeanna Smialek</sub>
-<p>The International Monetary Fund upgraded its global growth forecast for 2023.  <a href="https://nyti.ms/43GNER2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
 <h3>The Ongoing Mystery of Covid’s Origin</h3>
 <sub>By David Quammen</sub>
 <p>We still don’t know how the pandemic started. Here&#39;s what we do know — and why it matters.  <a href="https://nyti.ms/3OsqXfd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis Cuts Campaign Staff by a Third in Effort to Rein In Costs</h3>
-<sub>By Shane Goldmacher, Maggie Haberman, Nicholas Nehamas and Jonathan Swan</sub>
-<p>His presidential campaign, facing questions from allies and donors about the strength of his candidacy, has now eliminated the jobs of 38 aides this month.  <a href="https://nyti.ms/44CJWJC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Warming Could Push the Atlantic Past a ‘Tipping Point’ This Century</h3>
-<sub>By Raymond Zhong</sub>
-<p>The system of ocean currents that regulates the climate for a swath of the planet could collapse sooner than expected, a new analysis found.  <a href="https://nyti.ms/3Ou8L4S"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Maps: Tracking Air Quality and Smoke From Wildfires</h3>
-<sub>By Madison Dong, Bea Malsky, Lazaro Gamio, Matthew Bloch, Scott Reinhard, Leanne Abraham, Martín González Gómez, Judson Jones, John-Michael Murphy and Marco Hernandez</sub>
-<p>See maps of where smoke is traveling and how harmful the air has become.  <a href="https://nyti.ms/3CfwHlB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
