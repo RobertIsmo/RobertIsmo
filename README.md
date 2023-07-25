@@ -60,8 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, July 25, Central Standard Time</p>
 <p>
-Right now, the world is in a period of uncertainty. In Israel, Prime Minister Netanyahu has pushed through a judicial overhaul that has deepened divisions within Israeli society and ignited an uncertain new era. In the US, a man was sentenced to four years in prison for taking part in the assault on US Capitol Building and there&#39;s a lawsuit between the federal government and Texas over a floating barrier in the Rio Grande. Heatwaves are predicted to become more common as a direct result of climate change, while an analysis of elite college admissions data suggests being rich is its own qualification. The tech billionaire Elon Musk has begun erasing the iconic bird logo from Twitter, while scientists are skeptical of an astrophysicist claims that material recovered from the seafloor could be from an extraterrestrial spacecraft. Political figures have been trying to &#39;own&#39; Barbie culture in the US, while NFL star Aaron Rodgers has thrown himself into his new city culture before even throwing a single pass. Finally, Republicans seem to be taking an unwavering loyalty to ex-president Trump, completely transforming themselves into what can only be called ‘the Opposite Party’.</p>
+It looks like the world is going through some turbulent times right now. In business, tech firms are scaling back on their operations in New York due to the economic effects of the pandemic and Russia is threatening Ukraine&#39;s exports. In politics, Biden is fighting for democracy abroad as well as creating a new monument for civil rights activist Emmett Till here in America. And internationally, Israel&#39;s Prime Minister Netanyahu has pushed through a controversial judicial overhaul while China&#39;s leadership has been shuffling around its foreign minister roles. On the health side, experts are concerned about the growing risk of pandemics from county fairs and public works are monitoring air quality from wildfires. To top it all off, scientists have found evidence suggesting this summer&#39;s heat wave is unprecedented and likely due to climate change.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Tech Firms Once Powered New York’s Economy. Now They’re Scaling Back.</h3>
+<sub>By Julie Creswell, Peter Eavis, Emma Goldberg and Matthew Haag</sub>
+<p>After years of steady growth, many technology companies are laying off workers and giving up millions of square feet of office space in the city.  <a href="https://nyti.ms/3Kb8ocZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Takes His Battle for Democracy Case by Case</h3>
+<sub>By Peter Baker</sub>
+<p>President Biden’s decisions on when to speak out forcefully for democracy can prove tricky.  <a href="https://nyti.ms/471fF93"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Netanyahu Scores Another Victory, but at What Price?</h3>
 <sub>By Patrick Kingsley</sub>
@@ -74,17 +86,23 @@ Right now, the world is in a period of uncertainty. In Israel, Prime Minister Ne
 <p>The court could strike down the law passed on Monday that seeks to curb its power. Or it might narrowly interpret it. Or it might simply put off any decision.  <a href="https://nyti.ms/3rMErJK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Jan. 6 Rioter Who Beat Officer With Flagpole Gets Four-Year Sentence</h3>
-<sub>By Alan Feuer</sub>
-<p>Peter Stager, a truck driver from Arkansas, is one of nine men charged in one of the most disturbing attacks on police officers during the assault on the Capitol.  <a href="https://nyti.ms/3rJ4iCz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 24, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Russian Attack Threatens Even Alternative Routes for Ukrainian Grain</h3>
+<sub>By Jenny Gross and Patricia Cohen</sub>
+<p>The attack on a grain hangar on the Danube River, an alternative export route that has become an economic lifeline, complicates Ukraine’s efforts to export its grain.  <a href="https://nyti.ms/46Xi6cN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Justice Department Sues Texas Over Floating Barrier in Rio Grande</h3>
-<sub>By J. David Goodman</sub>
-<p>The suit was the first direct challenge by the Biden administration to Gov. Greg Abbott’s border security program, Operation Lone Star.  <a href="https://nyti.ms/3rEZTR8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 24, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>The Ongoing Mystery of Covid’s Origin</h3>
+<sub>By David Quammen</sub>
+<p>We still don’t know how the pandemic started. Here&#39;s what we do know — and why it matters.  <a href="https://nyti.ms/3OsqXfd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Could the Next Pandemic Start at the County Fair?</h3>
+<sub>By Emily Anthes and Maddie McGarvey</sub>
+<p>Since 2011, there have been more human swine flu cases reported in the United States than anywhere else in the world. Most have occurred at farm-animal showcases.  <a href="https://nyti.ms/3O5GSPd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>Some July Heat: ‘Virtually Impossible’ Without Climate Change, Analysis Finds</h3>
@@ -92,47 +110,29 @@ Right now, the world is in a period of uncertainty. In Israel, Prime Minister Ne
 <p>The latest study from World Weather Attribution scientists predicts that extreme heat waves will return more frequently.  <a href="https://nyti.ms/451d4dd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>Study of Elite College Admissions Data Suggests Being Very Rich Is Its Own Qualification</h3>
-<sub>By Aatish Bhatia, Claire Cain Miller and Josh Katz</sub>
-<p>Extraordinarily detailed data shows how elite colleges prefer the richest students, even among students with similar test scores.  <a href="https://nyti.ms/3Oq4jE9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 24, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Maps: Tracking Air Quality and Smoke From Wildfires</h3>
+<sub>By Madison Dong, Bea Malsky, Lazaro Gamio, Matthew Bloch, Scott Reinhard, Leanne Abraham, Martín González Gómez, Judson Jones, John-Michael Murphy and Marco Hernandez</sub>
+<p>See maps of where smoke is traveling and how harmful the air has become.  <a href="https://nyti.ms/3CfwHlB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>From Twitter to X: Elon Musk Begins Erasing an Iconic Internet Brand</h3>
-<sub>By Ryan Mac and Tiffany Hsu</sub>
-<p>The tech billionaire started removing the bird logo that has been part of Twitter’s identity since 2006.  <a href="https://nyti.ms/43EvJdR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 24, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>China Replaces Foreign Minister Missing From Public View Since June</h3>
+<sub>By Chris Buckley</sub>
+<p>Qin Gang was removed from office on Tuesday by China’s top leader, Xi Jinping, capping weeks of speculation.  <a href="https://nyti.ms/43CBzMR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>Scientist’s Deep Dive for Alien Life Leaves His Peers Dubious</h3>
-<sub>By Katrina Miller</sub>
-<p>Avi Loeb, a Harvard astrophysicist, says that material recovered from the seafloor could be from an extraterrestrial spacecraft. His peers are skeptical.  <a href="https://nyti.ms/46ZzQEi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 24, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>China’s New Central Banker Once Fixed a Crisis. He May Need to Again.</h3>
+<sub>By Keith Bradsher</sub>
+<p>Pan Gongsheng, who was named governor of the People’s Bank of China after overseeing $3 trillion in reserves, stopped a currency plunge in 2016.  <a href="https://nyti.ms/44DKT4B"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘Barbie’ Movie Gives Left and Right Another Battlefront, in Pink</h3>
-<sub>By Matt Flegenheimer and Marc Tracy</sub>
-<p>Political figures of all types grabbed for the legs of a doll-turned-movie-turned-cultural moment, with predictable results.  <a href="https://nyti.ms/3q0z3Ci"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>All Pinked Out</h3>
-<sub>By Vanessa Friedman</sub>
-<p>Hey Barbie, there is a fine line between reclaiming a color and ruining it.  <a href="https://nyti.ms/3DyxnmB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Aaron Rodgers Is Now a Jet (and Becoming a New Yorker, Too)</h3>
-<sub>By Wesley Morris</sub>
-<p>The Jets’ starting quarterback has thrown himself into the culture of his new professional home before he’s thrown a single pass.  <a href="https://nyti.ms/3Qb0wvQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>There’s No Escaping Trump</h3>
-<sub>By Gail Collins and Bret Stephens</sub>
-<p>He has turned Republicans into the Opposite Party.  <a href="https://nyti.ms/3OqGvjD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 24, Central Standard Time</sub></sub>
+<h3>Biden to Create Monument to Emmett Till Amid Fights Over Black History</h3>
+<sub>By Erica L. Green</sub>
+<p>The murder of 14-year-old Emmett Till and the activism of his grieving mother helped galvanize the civil rights movement in America.  <a href="https://nyti.ms/3OsJZlL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
