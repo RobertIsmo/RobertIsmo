@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, July 25, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In Israel, Prime Minister Netanyahu has pushed through a judicial system overhaul which has caused unrest and deepened divides among its people. Russia has also recently started attacking Ukraine&#39;s grain routes. In the US, someone who participated in the January 6th riots was just sentenced to four years in prison, and the Justice Department is challenging the Texas Governor&#39;s border security program. Additionally, World Weather Attribution scientists have concluded that extreme heat waves will return frequently due to climate change. On a lighter note, billionaire Elon Musk is removing the Twitter bird logo from their branding, and there is an ongoing debate between the left and right about the new Barbie movie.</p>
+Right now, the world is in a period of uncertainty. In Israel, Prime Minister Netanyahu has pushed through a judicial overhaul that has deepened divisions within Israeli society and ignited an uncertain new era. In the US, a man was sentenced to four years in prison for taking part in the assault on US Capitol Building and there&#39;s a lawsuit between the federal government and Texas over a floating barrier in the Rio Grande. Heatwaves are predicted to become more common as a direct result of climate change, while an analysis of elite college admissions data suggests being rich is its own qualification. The tech billionaire Elon Musk has begun erasing the iconic bird logo from Twitter, while scientists are skeptical of an astrophysicist claims that material recovered from the seafloor could be from an extraterrestrial spacecraft. Political figures have been trying to &#39;own&#39; Barbie culture in the US, while NFL star Aaron Rodgers has thrown himself into his new city culture before even throwing a single pass. Finally, Republicans seem to be taking an unwavering loyalty to ex-president Trump, completely transforming themselves into what can only be called ‘the Opposite Party’.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Netanyahu Scores Another Victory, but at What Price?</h3>
@@ -69,22 +69,10 @@ There is a lot going on in the world right now. In Israel, Prime Minister Netany
 <sub><sub>Monday, July 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Defying Unrest, Israel Adopts Law Weakening Supreme Court</h3>
-<sub>By Isabel Kershner, Aaron Boxerman and Richard Pérez-Peña</sub>
-<p>Complaining of an unaccountable judiciary, the far-right governing coalition, despite months of mass protests, voted to strip the court’s power to override “unreasonable” government actions.  <a href="https://nyti.ms/43GSTAv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>How Israel’s Supreme Court Might React to the Challenge to Its Power</h3>
 <sub>By Emily Bazelon</sub>
 <p>The court could strike down the law passed on Monday that seeks to curb its power. Or it might narrowly interpret it. Or it might simply put off any decision.  <a href="https://nyti.ms/3rMErJK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia Strikes Danube Port, Escalating Attacks on Ukraine Grain Routes</h3>
-<sub>By Matthew Mpoke Bigg, Andrew Higgins, Andrés R. Martínez, Haley Willis and Tiffany May</sub>
-<p>The assault, across the river from Romania, heightened the risk of a more direct confrontation with a NATO member and came on the same day that drones struck buildings in Moscow.  <a href="https://nyti.ms/3Y2cjyB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Jan. 6 Rioter Who Beat Officer With Flagpole Gets Four-Year Sentence</h3>
@@ -132,6 +120,18 @@ There is a lot going on in the world right now. In Israel, Prime Minister Netany
 <h3>All Pinked Out</h3>
 <sub>By Vanessa Friedman</sub>
 <p>Hey Barbie, there is a fine line between reclaiming a color and ruining it.  <a href="https://nyti.ms/3DyxnmB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Aaron Rodgers Is Now a Jet (and Becoming a New Yorker, Too)</h3>
+<sub>By Wesley Morris</sub>
+<p>The Jets’ starting quarterback has thrown himself into the culture of his new professional home before he’s thrown a single pass.  <a href="https://nyti.ms/3Qb0wvQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>There’s No Escaping Trump</h3>
+<sub>By Gail Collins and Bret Stephens</sub>
+<p>He has turned Republicans into the Opposite Party.  <a href="https://nyti.ms/3OqGvjD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 24, Central Standard Time</sub></sub>
 <hr/>
 </ol>
