@@ -60,12 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, July 24, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In Israel, the right-wing government is pushing forward with a controversial plan to reduce the power of the Supreme Court and citizens are threatening to shut down large parts of the economy in protest. Here in the US, Arizona has implemented a plan offering private school subsidies to every student which has often favored wealthy families. Meanwhile Russian forces have shot down drones that were targeting Moscow and blamed Ukraine, though thankfully no casualties were reported. There has also been some controversy over an old painting found in a dog walker&#39;s closet and whether it might be worth millions.
-
-On the economic front, the US Federal Reserve is seeing historically strong employment rates due to an influx of new workers. But speaking of employment opportunities, the IRS has put a stop to surprise visits at homes and businesses due to increasing political backlash and risks to agents. On the scientific front, one astrophysicist believes he may have material from an alien spacecraft at the bottom of the ocean, though his peers are skeptical.
-
-Finally, Republican presidential candidates are prepping for their first debate this month which could be disrupted by Donald Trump&#39;s absence, as well as &#39;Barbie&#39; movie sparking debate among all types of political figures with predictably conflicting views. And over the weekend there was an unusual pattern for blockbuster openers at the box office with several films contributing to big numbers - becoming known as &#39;Barbenheimer&#39; weekend.</p>
+There is a lot of unrest going on in the world right now. In Israel, Prime Minister Netanyahu has been pushing through a judicial overhaul despite months of mass protests, which could potentially put the country in an uncertain new era. Meanwhile, the Biden administration is challenging a border security program in Texas while the tech billionaire Elon Musk is shaking things up by erasing Twitter&#39;s iconic identity. Scientist Avi Loeb is also raising eyebrows with his deep dive for alien life. And even Barbie is becoming another battlefront between left and right-wing politics. So yeah, it&#39;s an interesting time in the world!</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Netanyahu Scores Another Victory, but at What Price?</h3>
+<sub>By Patrick Kingsley</sub>
+<p>The Israeli prime minister has pushed through the first part of his judicial overhaul, but in doing so has deepened a rift in Israeli society and propelled the country into an uncertain new era.  <a href="https://nyti.ms/44XE3qb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Defying Unrest, Israel Adopts Law Weakening Supreme Court</h3>
+<sub>By Isabel Kershner, Aaron Boxerman and Richard Pérez-Peña</sub>
+<p>Complaining of an unaccountable judiciary, the far-right governing coalition, despite months of mass protests, voted to strip the court’s power to override “unreasonable” government actions.  <a href="https://nyti.ms/43GSTAv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 24, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>What’s Next for Israel’s Judicial Overhaul?</h3>
 <sub>By Isabel Kershner and Patrick Kingsley</sub>
@@ -73,9 +81,27 @@ Finally, Republican presidential candidates are prepping for their first debate 
 <sub><sub>Monday, July 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israel’s Supreme Court faces a critical dilemma: How to handle a plan that would rein in its power.</h3>
-<sub>By Aaron Boxerman</sub>
-<p>  <a href="https://nyti.ms/44Vem9R"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Russia Strikes Danube Port, Escalating Attacks on Ukraine Grain Routes</h3>
+<sub>By Matthew Mpoke Bigg, Andrew Higgins, Andrés R. Martínez, Haley Willis and Tiffany May</sub>
+<p>The assault, across the river from Romania, heightened the risk of a more direct confrontation with a NATO member and came on the same day that drones struck buildings in Moscow.  <a href="https://nyti.ms/3Y2cjyB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Jan. 6 Rioter Who Beat Officer With Flagpole Gets Four-Year Sentence</h3>
+<sub>By Alan Feuer</sub>
+<p>Peter Stager, a truck driver from Arkansas, is one of nine men charged in one of the most disturbing attacks on police officers during the assault on the Capitol.  <a href="https://nyti.ms/3rJ4iCz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Was the Rolled-Up Painting in the Dog Walker’s Closet Worth Millions?</h3>
+<sub>By John Leland</sub>
+<p>The dog walker thought so. Sotheby’s planned the auction — at first.  <a href="https://nyti.ms/3Q8xhtJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Justice Department Sues Texas Over Floating Barrier in Rio Grande</h3>
+<sub>By J. David Goodman</sub>
+<p>The suit was the first direct challenge by the Biden administration to Gov. Greg Abbott’s border security program, Operation Lone Star.  <a href="https://nyti.ms/3rEZTR8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-upshot-blue" alt="">
@@ -84,34 +110,16 @@ Finally, Republican presidential candidates are prepping for their first debate 
 <p>Extraordinarily detailed data shows how elite colleges prefer the richest students, even among students with similar test scores.  <a href="https://nyti.ms/3Oq4jE9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>$7,200 for Every Student: Arizona’s Ultimate Experiment in School Choice</h3>
-<sub>By Sarah Mervosh</sub>
-<p>More states are making all students eligible for private school subsidies. In Arizona, it has often benefited wealthier families.  <a href="https://nyti.ms/3Opf2im"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>From Twitter to X: Elon Musk Begins Erasing an Iconic Internet Brand</h3>
+<sub>By Ryan Mac and Tiffany Hsu</sub>
+<p>The tech billionaire started removing the bird logo that has been part of Twitter’s identity since 2006.  <a href="https://nyti.ms/43EvJdR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia Destroys Drones Targeting Moscow, and Blames Ukraine</h3>
-<sub>By Andrés R. Martínez, Haley Willis and Tiffany May</sub>
-<p>Two buildings were hit but there were no reports of casualties. Video verified by The New York Times shows smoke and damage to several buildings.  <a href="https://nyti.ms/43Icosi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Was the Rolled-Up Painting in the Dog Walker’s Closet Worth Millions?</h3>
-<sub>By John Leland</sub>
-<p>The dog walker thought so. Sotheby’s planned the auction — at first.  <a href="https://nyti.ms/3Q8xhtJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>A Flood of New Workers Has Made the Fed’s Job Less Painful. Can It Persist?</h3>
-<sub>By Jeanna Smialek</sub>
-<p>Federal Reserve officials thought job gains would taper off more, but they’ve remained strong. An improving supply of workers has been crucial.  <a href="https://nyti.ms/3NXCwte"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>I.R.S. Halts Surprise Visits to Homes and Businesses</h3>
-<sub>By Alan Rappeport</sub>
-<p>A decades-long practice is ending amid political backlash and increasing threats to agents.  <a href="https://nyti.ms/4522CCx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Why Elon Musk Bid Twitter Goodbye</h3>
+<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
+<p>Rebranding the social network as X marks the billionaire’s latest gamble to reinvent the company, after buying it last year for $44 billion.  <a href="https://nyti.ms/46TRVDE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
@@ -121,21 +129,9 @@ Finally, Republican presidential candidates are prepping for their first debate 
 <sub><sub>Monday, July 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Thorny Rules and Maybe an Absent Trump: A Month Out From the First G.O.P. Debate</h3>
-<sub>By Jonathan Weisman</sub>
-<p>Republican presidential candidates are supposed to face off in Milwaukee on Aug. 23. But Donald Trump, the field’s front-runner, may not show up, and others have yet to make the cut.  <a href="https://nyti.ms/3Os7ewa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>‘Barbie’ Movie Gives Left and Right Another Battlefront, in Pink</h3>
 <sub>By Matt Flegenheimer and Marc Tracy</sub>
 <p>Political figures of all types grabbed for the legs of a doll-turned-movie-turned-cultural moment, with predictable results.  <a href="https://nyti.ms/3q0z3Ci"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>‘Barbenheimer’ Weekend Was a Real Team Effort</h3>
-<sub>By Jason Karaian and Karl Russell</sub>
-<p>The bumper box office broke the usual pattern for blockbuster opening weekends, with several films contributing to the big numbers.  <a href="https://nyti.ms/472OY3B"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 24, Central Standard Time</sub></sub>
 <hr/>
 </ol>
