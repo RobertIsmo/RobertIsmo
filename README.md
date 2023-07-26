@@ -60,25 +60,17 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, July 26, Central Standard Time</p>
 <p>
-It&#39;s a busy time in the world! In Ukraine, there&#39;s conflict between Russian forces and local militias. In Odessa, a city beloved for its culture and history, violence is increasing. In the US, there are civil rights inquiries into different university admissions practices, court battles over immigration laws, court cases related to the January 6th Capitol Riot, a dispute between Republicans and Democrats over presidential impeachment, and an investigation about a tax scandal involving Hunter Biden. Simultaneously, we&#39;re seeing large-scale wild fires across Europe and North Africa and climate scientists are warning that if climate change continues unchecked, changes in the Earth&#39;s ocean currents could cause disastrous knock-on effects globally by this century.</p>
+There&#39;s a lot happening around the world right now. In the US, Governor Abbott is pushing the limits of state power by policing the Texas border using razor wire, floating barriers and state troopers to deter unauthorized migration. A federal judge has also blocked a new asylum policy proposed by the Biden Administration that was intended to limit who can apply for asylum in the US. 
+
+In other news, Russia has launched attacks in Ukraine while an internet troll tied to the Kremlin has fallen from power. On the Korean peninsula there&#39;s been no fighting for 70 years since the Korean War Armistice was signed, but life still remains unchanged across the DMZ. Meanwhile, former First Lady Melania Trump has mostly retreated from public view while her husband Donald Trump faces increasing legal peril and ads feature Iowans who are distancing themselves from their MAGA hats.
+
+Separately, a first-term US Congressman in New York stands accused of using his political connections to fuel get-rich schemes. The US Midwest is also enduring extreme weather with blistering heat driving wildfires and smoke as well as two continental battles with fires throughout southern Europe and North Africa. Lastly, credit markets are creaking causing economic uncertainty while markets eagerly await the Fed’s July meeting and any commitments regarding raising interest rates.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘They Shoot Without Stopping’: Where Russia Is on the Attack in Ukraine</h3>
-<sub>By Marc Santora and Finbarr O’Reilly</sub>
-<p>Along the vast 600-mile front line, Russia is mostly playing defense. In the northeast, it is once again mounting fierce offensive operations.  <a href="https://nyti.ms/3YcafEi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>With Grain in the Cross Hairs Again, So Is a Jewel of Ukraine</h3>
-<sub>By Valerie Hopkins and Emile Ducke</sub>
-<p>Odesa, a port city long beloved by travelers, had been largely spared the worst of the war, but that began changing this week.  <a href="https://nyti.ms/3KepVBc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Education Dept. Opens Civil Rights Inquiry Into Harvard’s Legacy Admissions</h3>
-<sub>By Michael D. Shear and Anemona Hartocollis</sub>
-<p>An inquiry into admissions preference for family of alumni and donors began after the Supreme Court’s decision last month limiting affirmative action.  <a href="https://nyti.ms/475LGg7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
+<h3>Gov. Abbott’s Policing of Texas Border Pushes Limits of State Power</h3>
+<sub>By J. David Goodman</sub>
+<p>The governor brought in razor wire, floating barriers and state troopers to deter unauthorized migration. The federal government mounted its first legal pushback this week.  <a href="https://nyti.ms/3Kagvqk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Federal Judge Blocks Biden Administration’s New Asylum Policy</h3>
@@ -86,53 +78,65 @@ It&#39;s a busy time in the world! In Ukraine, there&#39;s conflict between Russ
 <p>Immigrant advocacy groups had challenged the administration’s decision to sharply limit who is allowed to apply for asylum in the United States.  <a href="https://nyti.ms/3rNtw2M"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Prosecutors Follow Multiple Strands as Jan. 6 Indictment Decision Looms</h3>
-<sub>By Alan Feuer and Maggie Haberman</sub>
-<p>The special counsel, Jack Smith, continues to push ahead on several fronts as he assembles evidence about former President Donald J. Trump’s efforts to retain power after the 2020 election.  <a href="https://nyti.ms/3rLpcB7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘They Shoot Without Stopping’: Where Russia Is on the Attack in Ukraine</h3>
+<sub>By Marc Santora and Finbarr O’Reilly</sub>
+<p>Along the vast 600-mile front line, Russia is mostly playing defense. In the northeast, it is once again mounting fierce offensive operations.  <a href="https://nyti.ms/3YcafEi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>McCarthy, Pressured by the Right, Escalates Talk of Impeaching Biden</h3>
-<sub>By Luke Broadwater</sub>
-<p>The speaker’s comments came on the eve of a hearing in the tax case against Hunter Biden, and ahead of a potential third indictment of former President Donald J. Trump.  <a href="https://nyti.ms/44ScX3Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Internet Trolls Propelled Prigozhin’s Rise. Now Some Celebrate His Fall.</h3>
+<sub>By Ivan Nechepurenko</sub>
+<p>The Kremlin, which has moved quickly to take down parts of Wagner leader Yevgeny Prigozhin’s empire, may seek to use his troll farms to its advantage, analysts say.  <a href="https://nyti.ms/3ObOqQm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Life Along the Korean DMZ, 70 Years After the Fighting Ended</h3>
+<sub>By Chang W. Lee and Choe Sang-Hun</sub>
+<p>The Korean War Armistice was signed seventy years ago, separating the two Koreas and putting an end to the fighting, but not the war itself.  <a href="https://nyti.ms/3YbvXby"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>As Spending Fights Loom, Freedom Caucus Is at a Crossroads</h3>
-<sub>By Annie Karni, Robert Draper and Luke Broadwater</sub>
-<p>The ouster of Representative Marjorie Taylor Greene from the ultraconservative group and the rise of another rebel faction have raised questions about where the real power lies on the far right.  <a href="https://nyti.ms/43IOpJE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
+<h3>The Very Private Life of Melania Trump</h3>
+<sub>By Lisa Lerer and Katie Rogers</sub>
+<p>The former first lady has mostly retreated from public view — and steered clear of the campaign trail — while her husband fights to return to the White House and faces increasing legal peril.  <a href="https://nyti.ms/44FM4R3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Republicans in Congress Seek to Block Hunter Biden’s Plea Deal</h3>
-<sub>By Luke Broadwater and Michael S. Schmidt</sub>
-<p>The chairman of the Ways and Means Committee filed a brief in federal court saying the plea agreement for the president’s son had been tainted by political interference.  <a href="https://nyti.ms/3OvAdPR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
+<h3>Trying to Stop Trump, Ads Feature Iowans Who Ditched Their MAGA Hats</h3>
+<sub>By Lisa Lerer</sub>
+<p>Hoping to persuade G.O.P. voters that Donald Trump cannot win another general election, the Republican Accountability Project is running ads that feature voters who grew disillusioned with him.  <a href="https://nyti.ms/3Kb1vbF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Gilgo Beach Suspect’s Home Held a 279-Weapon Arsenal and a Walk-In Vault</h3>
-<sub>By Corey Kilgannon and Nate Schweber</sub>
-<p>Investigators have been excavating the backyard of the suspect’s home after finding “disturbances” that might be buried objects, the district attorney said.  <a href="https://nyti.ms/3KdFbOs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
+<h3>How George Santos Used Political Connections to Fuel Get-Rich Schemes</h3>
+<sub>By Grace Ashford</sub>
+<p>Mr. Santos, a first-term House member under federal indictment, often tried to use his candidacy and ties to Republican donors to create moneymaking opportunities.  <a href="https://nyti.ms/3qdhkHT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Bronny James, Son of LeBron James, Is Stable After Cardiac Arrest</h3>
-<sub>By Tania Ganguli, Billy Witz and Gina Kolata</sub>
-<p>Bronny, a basketball recruit at the University of Southern California, was stricken during a practice on Monday. He is out of intensive care and in stable condition, his family said.  <a href="https://nyti.ms/3Or5P9d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Blistering Heat Spreads to U.S. Midwest as Wildfire Smoke Lingers</h3>
+<sub>By Julie Bosman</sub>
+<p>Midwestern residents sweltered in the heat wave that has scorched the South and Southwest for many days.  <a href="https://nyti.ms/3KaBAAD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>A Battle With Fire on 2 Continents, in Photos</h3>
 <sub>By The New York Times</sub>
-<p>Deadly blazes are raging across portions of southern Europe and North Africa, including the Greek islands and Algeria.  <a href="https://nyti.ms/43I07UX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Deadly blazes are raging across parts of Southern Europe and North Africa, including the Greek islands and Algeria.  <a href="https://nyti.ms/3OwH6Au"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Warming Could Push the Atlantic Past a ‘Tipping Point’ This Century</h3>
-<sub>By Raymond Zhong</sub>
-<p>The system of ocean currents that regulates the climate for a swath of the planet could collapse sooner than expected, a new analysis found.  <a href="https://nyti.ms/3Ou8L4S"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Credit Markets Are Creaking, Creating Economic Uncertainty</h3>
+<sub>By Joe Rennison and Jeanna Smialek</sub>
+<p>Analysts warn that bankruptcies and defaults could jump as the world adjusts to higher interest rates.  <a href="https://nyti.ms/3KeKJIw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Here’s What to Watch at the Fed’s July Meeting</h3>
+<sub>By Jeanna Smialek</sub>
+<p>The Federal Reserve is poised to raise interest rates after pausing in June. What comes next is crucial, but don’t expect clear commitments.  <a href="https://nyti.ms/3KeKIUY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 26, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
