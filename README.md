@@ -60,43 +60,47 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, July 26, Central Standard Time</p>
 <p>
-There is a lot of tension happening in the world right now including the conflict in Ukraine where Russia is reportedly mounting fierce offensive operations, Israel&#39;s High Court taking on Prime Minister Benjamin Netanyahu&#39;s push for judicial overhaul and President Donald J. Trump facing a potential third indictment. In the U.S., some Republicans are running attack ads trying to persuade G.O.P voters that Trump cannot win another general election while the Biden administration is facing a legal pushback on its new asylum policy from the federal government. Another issue domestically is George Santos using his candidacy and ties to Republican donors to create moneymaking schemes. To top it all off, the Midwest is currently dealing with a heatwave and a lingering wildfire smoke.</p>
+Right now, it seems like a lot of troubling news is coming out of the world. In the US, McCarthy has been pressured by the right to talk about impeaching Biden. Plus, former president Donald Trump may be facing a third indictment. At the same time, big consumer companies are raising prices in a way that is complicating the Federal Reserve&#39;s job. In markets across the world, people have been trading cautiously ahead of pivotal meetings like the Fed meeting. All of which affects things from mortgages to credit cards. 
+
+In Europe, Vladimir Putin&#39;s relationship with Africa has been strained by collapsed grain deals and unclear fates for Wagner mercenaries. In Israel, the high court has agreed to review Netanyahu&#39;s judicial overhaul in September. Further issues are arising for Giuliani after he made false statements about Georgia election workers. Meanwhile, Melania Trump has mostly retreated from public life while her husband fights for his return to White House amidst his legal troubles. 
+
+Going further abroad, life along the Korean DMZ still hasn&#39;t recovered seventy years after the war ended and heat waves with wildfire smoke have reached parts of northern US and Canada&#39;s outdoor summer season burned up with many fires raging while in Greece heavy wildfires have made animals even desert parts of this already heat stressed country.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘They Shoot Without Stopping’: Where Russia Is on the Attack in Ukraine</h3>
-<sub>By Marc Santora and Finbarr O’Reilly</sub>
-<p>Along the vast 600-mile front line, Russia is mostly playing defense. In the northeast, it is once again mounting fierce offensive operations.  <a href="https://nyti.ms/3YcafEi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Russia’s Online Censorship Has Soared 30-Fold During Ukraine War</h3>
-<sub>By Paul Mozur, Adam Satariano and Aaron Krolik</sub>
-<p>A report from Citizen Lab laid out how much online censorship has increased on one of Russia’s biggest social media sites.  <a href="https://nyti.ms/3KfzH5V"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israel’s High Court to Hear Case Against Netanyahu’s Judicial Overhaul</h3>
-<sub>By Aaron Boxerman</sub>
-<p>The justices will hear petitions in September against a new law that curbs their own authority, which Prime Minister Benjamin Netanyahu has pushed ahead despite Israel’s political turmoil.  <a href="https://nyti.ms/3Y7vhUm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 26, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>McCarthy, Pressured by the Right, Escalates Talk of Impeaching Biden</h3>
 <sub>By Luke Broadwater</sub>
 <p>The speaker’s comments came on the eve of a hearing in the tax case against Hunter Biden, and ahead of a potential third indictment of former President Donald J. Trump.  <a href="https://nyti.ms/44ScX3Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Gov. Abbott’s Policing of Texas Border Pushes Limits of State Power</h3>
-<sub>By J. David Goodman</sub>
-<p>The governor brought in razor wire, floating barriers and state troopers to deter unauthorized migration. The federal government mounted its first legal pushback this week.  <a href="https://nyti.ms/3Kagvqk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Big Consumer Companies Keep Raising Prices, Complicating Fed’s Job</h3>
+<sub>By J. Edward Moreno</sub>
+<p>Coca-Cola, PepsiCo and Unilever have each reported raising prices significantly in the second quarter, complicating the Federal Reserve’s efforts to tame inflation.  <a href="https://nyti.ms/44YtMtW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Federal Judge Blocks Biden Administration’s New Asylum Policy</h3>
-<sub>By Miriam Jordan and Eileen Sullivan</sub>
-<p>Immigrant advocacy groups had challenged the administration’s decision to sharply limit who is allowed to apply for asylum in the United States.  <a href="https://nyti.ms/3rNtw2M"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Markets Trade Cautiously Ahead of Pivotal Fed Meeting</h3>
+<sub>By Joe Rennison</sub>
+<p>Stock markets often exhibit caution ahead of major events like Fed meetings, waiting until there is clarity over the central bank’s next move.  <a href="https://nyti.ms/43F8NLz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>What Higher Interest Rates Mean for Mortgages, Credit Cards and More</h3>
+<sub>By Tara Siegel Bernard</sub>
+<p>Savers benefit from higher rates, but borrowers have faced bigger bills on credit cards, student loans and other forms of debt.  <a href="https://nyti.ms/3KhiwRk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>War Brought Putin Closer to Africa. Now It’s Pushing Them Apart.</h3>
+<sub>By Declan Walsh and Paul Sonne</sub>
+<p>As President Vladimir V. Putin of Russia prepares to host African leaders at a summit, a collapsed grain deal and the uncertain fate of Wagner mercenaries have cast a shadow.  <a href="https://nyti.ms/3pXpy7b"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Israel’s High Court Agrees to Review Netanyahu’s Judicial Overhaul</h3>
+<sub>By Patrick Kingsley and Aaron Boxerman</sub>
+<p>The justices will hear petitions in September against a new law that curbs their own authority, which Prime Minister Benjamin Netanyahu has pushed ahead despite Israel’s political turmoil.  <a href="https://nyti.ms/3Y7vhUm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Giuliani Concedes He Made False Statements About Georgia Election Workers</h3>
@@ -110,22 +114,10 @@ There is a lot of tension happening in the world right now including the conflic
 <p>The former first lady has mostly retreated from public view — and steered clear of the campaign trail — while her husband fights to return to the White House and faces increasing legal peril.  <a href="https://nyti.ms/44FM4R3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Republican Attack Ads in Iowa Show Conservative Voters Who Turned on Trump</h3>
-<sub>By Lisa Lerer</sub>
-<p>Hoping to persuade G.O.P. voters that Donald Trump cannot win another general election, the Republican Accountability Project is running ads that feature voters who grew disillusioned with him.  <a href="https://nyti.ms/3Kb1vbF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 26, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Life Along the Korean DMZ, 70 Years After the Fighting Ended</h3>
 <sub>By Chang W. Lee and Choe Sang-Hun</sub>
 <p>The Korean War Armistice was signed seventy years ago, separating the two Koreas and putting an end to the fighting, but not the war itself.  <a href="https://nyti.ms/3YbvXby"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>How George Santos Used Political Connections to Fuel Get-Rich Schemes</h3>
-<sub>By Grace Ashford</sub>
-<p>Mr. Santos, a first-term House member under federal indictment, often tried to use his candidacy and ties to Republican donors to create moneymaking opportunities.  <a href="https://nyti.ms/3qdhkHT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -133,6 +125,18 @@ There is a lot of tension happening in the world right now including the conflic
 <sub>By Julie Bosman</sub>
 <p>Midwestern residents sweltered in the heat wave that has scorched the South and Southwest for many days.  <a href="https://nyti.ms/3KaBAAD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Greek Hotels Fear a Burning Future: ‘Even the Animals Are Moving Away’</h3>
+<sub>By Emma Bubola and Niki Kitsantonis</sub>
+<p>The fiercest wildfires have hit only parts of a few islands. But the effects of climate change pose a far wider threat to Greece’s tourism industry.  <a href="https://nyti.ms/3KD4wBV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-travel-blue" alt="">
+<h3>Up in Smoke: Canada’s Outdoor Summer Season</h3>
+<sub>By Vjosa Isai</sub>
+<p>Those planning to visit the country’s extensive forests and backcountry have been stymied by the raging wildfires, just as the country’s travel industry was bouncing back.  <a href="https://nyti.ms/44Kz5xl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
