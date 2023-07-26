@@ -58,32 +58,38 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Tuesday, July 25, Central Standard Time</p>
+<p>It is Wednesday, July 26, Central Standard Time</p>
 <p>
-Right now there is a lot going on in the world. In the US, there is an inquiry into admissions preference for family of alumni and donors at Harvard. There is also a federal judge that has blocked the Biden administration&#39;s new asylum policy. Additionally, there is an investigation into former President Donald J. Trump&#39;s efforts to retain power and some Republican candidates saying they would use military force to secure the border if elected. Elsewhere, a former US Marine was injured while fighting in Ukraine and investigators have been excavating the backyard of a suspect’s home in New York due to possible buried objects. Finally, Bronny James, the son of LeBron James, recently had a cardiac arrest during practice but is stable and out of intensive care.</p>
+Right now, the world is facing a lot of instability and unrest. In Ukraine, Russia has resumed attacking and continuing their campaign of violence. A beloved Ukrainian port city, Odesa, is facing devastating consequences from the war. Meanwhile in the US, turmoil abounds. The Biden administration is facing court backlash over its policies on education and asylum. In Congress, partisan politics and distrust are rampant as Republicans continue to push for investigations into President Biden&#39;s family members. Additionally, severe wildfires have broken out across Europe and North Africa.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘They Shoot Without Stopping:’ Where Russia Is on the Attack in Ukraine</h3>
+<sub>By Marc Santora and Finbarr O’Reilly</sub>
+<p>Along the vast 600-mile front line, Russia is mostly playing defense. In the northeast, it is once again mounting fierce offensive operations.  <a href="https://nyti.ms/3YcafEi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>With Grain in the Cross Hairs Again, So Is a Jewel of Ukraine</h3>
+<sub>By Valerie Hopkins and Emile Ducke</sub>
+<p>Odesa, a port city long beloved by travelers, had been largely spared the worst of the war, but that began changing this week.  <a href="https://nyti.ms/3KepVBc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Trevor Reed, Former U.S. Marine, Injured While Fighting in Ukraine</h3>
+<sub>By Anushka Patil and Helene Cooper</sub>
+<p>Trevor Reed’s condition was not immediately clear. His decision to return to the region and volunteer to fight for Ukraine created some “exasperation” within the Biden administration, an administration official said.  <a href="https://nyti.ms/44JkiTC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Education Dept. Opens Civil Rights Inquiry Into Harvard’s Legacy Admissions</h3>
 <sub>By Michael D. Shear and Anemona Hartocollis</sub>
 <p>An inquiry into admissions preference for family of alumni and donors began after the Supreme Court’s decision last month limiting affirmative action.  <a href="https://nyti.ms/475LGg7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>Study of Elite College Admissions Data Suggests Being Very Rich Is Its Own Qualification</h3>
-<sub>By Aatish Bhatia, Claire Cain Miller and Josh Katz</sub>
-<p>Extraordinarily detailed data shows how elite colleges prefer the richest students, even among students with similar test scores.  <a href="https://nyti.ms/3Oq4jE9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 24, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Federal Judge Blocks Biden Administration’s New Asylum Policy</h3>
 <sub>By Miriam Jordan and Eileen Sullivan</sub>
 <p>Immigrant advocacy groups had challenged the administration’s decision to sharply limit who is allowed to apply for asylum in the United States.  <a href="https://nyti.ms/3rNtw2M"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Where the Republican Candidates Stand on Border Security and Immigration</h3>
-<sub>By Maggie Astor</sub>
-<p>Support for a wall is now routine, and some presidential candidates say they would use military force to secure the border if elected.  <a href="https://nyti.ms/3DwavEC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -110,18 +116,6 @@ Right now there is a lot going on in the world. In the US, there is an inquiry i
 <p>The chairman of the Ways and Means Committee filed a brief in federal court saying the plea agreement for the president’s son had been tainted by political interference.  <a href="https://nyti.ms/3OvAdPR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>With Grain in the Cross Hairs Again, So Is a Jewel of Ukraine</h3>
-<sub>By Valerie Hopkins and Emile Ducke</sub>
-<p>Odesa, a port city long beloved by travelers, had been largely spared the worst of the war, but that began changing this week.  <a href="https://nyti.ms/3KepVBc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A former U.S. Marine who was freed in a prisoner swap was injured while fighting in Ukraine, the State Department said.</h3>
-<sub>By Anushka Patil and Helene Cooper</sub>
-<p>Trevor Reed’s condition was not immediately clear. His decision to return to the region and volunteer to fight for Ukraine created some “exasperation” within the Biden administration, an administration official said.  <a href="https://nyti.ms/44JkiTC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Gilgo Beach Suspect’s Home Held a 279-Weapon Arsenal and a Walk-In Vault</h3>
 <sub>By Corey Kilgannon and Nate Schweber</sub>
@@ -132,6 +126,12 @@ Right now there is a lot going on in the world. In the US, there is an inquiry i
 <h3>Bronny James, Son of LeBron James, Is Stable After Cardiac Arrest</h3>
 <sub>By Tania Ganguli, Billy Witz and Gina Kolata</sub>
 <p>Bronny, a basketball recruit at the University of Southern California, was stricken during a practice on Monday. He is out of intensive care and in stable condition, his family said.  <a href="https://nyti.ms/3Or5P9d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Battle With Fire on 2 Continents, in Photos</h3>
+<sub>By The New York Times</sub>
+<p>Deadly blazes are raging across portions of southern Europe and North Africa, including the Greek islands and Algeria.  <a href="https://nyti.ms/43I07UX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
 <hr/>
 </ol>
