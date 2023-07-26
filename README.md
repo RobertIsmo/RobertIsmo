@@ -60,16 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, July 25, Central Standard Time</p>
 <p>
-In the US, the Biden administration&#39;s new asylum policy has been challenged by immigrant advocacy groups. There&#39;s also been debate on border security and immigration amongst Republican presidential candidates - with support for a wall being routine. The Education Dept. is opening a civil rights inquiry into Harvard&#39;s legacy admissions, and there have been reports suggesting that being very rich is its own qualification for elite college admissions. 
-
-China has removed its Foreign Minister after only one month in office, raising questions about what led to this decision. DeSantis has cut his campaign staff by over a third, hoping to rein in costs, while the Freedom Caucus is at a crossroads due to internal divisions and the ousting of their representative. Iowa&#39;s Governor will be interviewing GOP candidates without Trump involved. 
-
-In Israel, the government recently passed a law limiting the power of the Supreme Court, leading to a somber mood settling over antigovernment protesters who are facing defeat. UPS reached a tentative deal with Teamsters to avoid potential strike actions, while we still don&#39;t know the origin of Covid-19 and why it matters.</p>
+To sum it up, there is a lot going on in the world right now. The US Education Department recently launched a civil rights inquiry into Harvard&#39;s legacy admissions preferences for donors and family members of alumni. There is a growing concern about how the wealthy can have more advantages in elite college admissions. On the immigration front, the Biden Administration had its attempt to set up new asylum policies overturned by a federal judge, which has led to some Republican candidates campaigning on tighter border security. There is also an ongoing special counsel investigation against former president Donald Trump over his efforts to retain power after the 2020 election. Meanwhile, the Republican party is trying to block Hunter Biden&#39;s plea deal over tax issues. Internationally, there were grain supply disruptions in Ukraine this week and a former US Marine who was previously freed in a prisoner swap has been injured fighting there. Finally, there was major news related to basketball player Bronny James, the son of NBA star Lebron James, who had to be hospitalized due to cardiac arrest.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Education Dept. Opens Civil Rights Inquiry Into Harvard’s Legacy Admissions</h3>
+<sub>By Michael D. Shear and Anemona Hartocollis</sub>
+<p>An inquiry into admissions preference for family of alumni and donors began after the Supreme Court’s decision last month limiting affirmative action.  <a href="https://nyti.ms/475LGg7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>Study of Elite College Admissions Data Suggests Being Very Rich Is Its Own Qualification</h3>
+<sub>By Aatish Bhatia, Claire Cain Miller and Josh Katz</sub>
+<p>Extraordinarily detailed data shows how elite colleges prefer the richest students, even among students with similar test scores.  <a href="https://nyti.ms/3Oq4jE9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 24, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Federal Judge Blocks Biden Administration’s New Asylum Policy</h3>
 <sub>By Miriam Jordan and Eileen Sullivan</sub>
-<p>Immigrant advocacy groups challenged the administration’s decision to sharply limit who is allowed to apply for asylum in the United States.  <a href="https://nyti.ms/3rNtw2M"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Immigrant advocacy groups had challenged the administration’s decision to sharply limit who is allowed to apply for asylum in the United States.  <a href="https://nyti.ms/3rNtw2M"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -79,27 +87,15 @@ In Israel, the government recently passed a law limiting the power of the Suprem
 <sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Education Dept. Opens Civil Rights Inquiry Into Harvard’s Legacy Admissions</h3>
-<sub>By Michael D. Shear</sub>
-<p>An inquiry into admissions preferences for family of alumni and donors began after the Supreme Court’s decision last month limiting affirmative action.  <a href="https://nyti.ms/475LGg7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>Study of Elite College Admissions Data Suggests Being Very Rich Is Its Own Qualification</h3>
-<sub>By Aatish Bhatia, Claire Cain Miller and Josh Katz</sub>
-<p>Extraordinarily detailed data shows how elite colleges prefer the richest students, even among students with similar test scores.  <a href="https://nyti.ms/3Oq4jE9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>China’s Foreign Minister Is Removed After a Month of Silence</h3>
-<sub>By Chris Buckley and David Pierson</sub>
-<p>Qin Gang, a sometime favorite of Xi Jinping, was replaced by Wang Yi, a seasoned diplomat, leaving many unanswered questions about Qin’s fall.  <a href="https://nyti.ms/43CBzMR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Prosecutors Follow Multiple Strands as Jan. 6 Indictment Decision Looms</h3>
+<sub>By Alan Feuer and Maggie Haberman</sub>
+<p>The special counsel, Jack Smith, continues to push ahead on several fronts as he assembles evidence about former President Donald J. Trump’s efforts to retain power after the 2020 election.  <a href="https://nyti.ms/3rLpcB7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis Cuts Campaign Staff by Over a Third, Aiming to Rein In Costs</h3>
-<sub>By Shane Goldmacher, Maggie Haberman, Jonathan Swan and Nicholas Nehamas</sub>
-<p>His presidential campaign, facing questions from allies and donors about the strength of his candidacy, has now eliminated the jobs of 38 aides this month.  <a href="https://nyti.ms/44CJWJC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>McCarthy, Pressured by the Right, Escalates Talk of Impeaching Biden</h3>
+<sub>By Luke Broadwater</sub>
+<p>The speaker’s comments came on the eve of a hearing in the tax case against Hunter Biden, and ahead of a potential third indictment of former President Donald J. Trump.  <a href="https://nyti.ms/44ScX3Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -109,33 +105,33 @@ In Israel, the government recently passed a law limiting the power of the Suprem
 <sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Iowa’s Governor Will Interview G.O.P. Field, Minus One: Trump</h3>
-<sub>By Nicholas Nehamas</sub>
-<p>Gov. Kim Reynolds next month will hold “Fair-Side Chats” with candidates including Ron DeSantis, Tim Scott and Perry Johnson, but not the former president.  <a href="https://nyti.ms/3rINQlL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Republicans in Congress Seek to Block Hunter Biden’s Plea Deal</h3>
+<sub>By Luke Broadwater and Michael S. Schmidt</sub>
+<p>The chairman of the Ways and Means Committee filed a brief in federal court saying the plea agreement for the president’s son had been tainted by political interference.  <a href="https://nyti.ms/3OvAdPR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>After Momentous Vote on Judicial Law, Israel Braces for What’s Next</h3>
-<sub>By Patrick Kingsley</sub>
-<p>The opposition fears a slow descent toward authoritarianism, while the government is waiting to see how disruptive and prolonged the response will be from its critics.  <a href="https://nyti.ms/476nuKq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>With Grain in the Cross Hairs Again, So Is a Jewel of Ukraine</h3>
+<sub>By Valerie Hopkins and Emile Ducke</sub>
+<p>Odesa, a port city long beloved by travelers, had been largely spared the worst of the war, but that began changing this week.  <a href="https://nyti.ms/3KepVBc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Somber Mood Settles Over Israel’s Antigovernment Protesters</h3>
-<sub>By Isabel Kershner</sub>
-<p>After months of defiance, there was defeat. The right-wing government’s success in passing a law that limits the power of the Supreme Court was a gut punch to the largely liberal and secular opposition.  <a href="https://nyti.ms/3Y5y00G"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>A former U.S. Marine who was freed in a prisoner swap was injured while fighting in Ukraine, the State Department said.</h3>
+<sub>By Anushka Patil and Helene Cooper</sub>
+<p>Trevor Reed’s condition was not immediately clear. His decision to return to the region and volunteer to fight for Ukraine created some “exasperation” within the Biden administration, an administration official said.  <a href="https://nyti.ms/44JkiTC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>UPS Reaches Tentative Deal With Teamsters to Head Off Strike</h3>
-<sub>By Noam Scheiber</sub>
-<p>United Parcel Service faced a potential walkout by more than 325,000 union members after their five-year contract expires next week.  <a href="https://nyti.ms/3Ye57Q0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Gilgo Beach Suspect’s Home Held a 279-Weapon Arsenal and a Walk-In Vault</h3>
+<sub>By Corey Kilgannon and Nate Schweber</sub>
+<p>Investigators have been excavating the backyard of the suspect’s home after finding “disturbances” that might be buried objects, the district attorney said.  <a href="https://nyti.ms/3KdFbOs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>The Ongoing Mystery of Covid’s Origin</h3>
-<sub>By David Quammen</sub>
-<p>We still don’t know how the pandemic started. Here&#39;s what we do know — and why it matters.  <a href="https://nyti.ms/3OsqXfd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Bronny James, Son of LeBron James, Is Stable After Cardiac Arrest</h3>
+<sub>By Tania Ganguli, Billy Witz and Gina Kolata</sub>
+<p>Bronny, a basketball recruit at the University of Southern California, was stricken during a practice on Monday. He is out of intensive care and in stable condition, his family said.  <a href="https://nyti.ms/3Or5P9d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
 <hr/>
 </ol>
