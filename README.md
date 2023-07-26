@@ -60,10 +60,10 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, July 26, Central Standard Time</p>
 <p>
-Right now, the world is facing a lot of instability and unrest. In Ukraine, Russia has resumed attacking and continuing their campaign of violence. A beloved Ukrainian port city, Odesa, is facing devastating consequences from the war. Meanwhile in the US, turmoil abounds. The Biden administration is facing court backlash over its policies on education and asylum. In Congress, partisan politics and distrust are rampant as Republicans continue to push for investigations into President Biden&#39;s family members. Additionally, severe wildfires have broken out across Europe and North Africa.</p>
+It&#39;s a busy time in the world! In Ukraine, there&#39;s conflict between Russian forces and local militias. In Odessa, a city beloved for its culture and history, violence is increasing. In the US, there are civil rights inquiries into different university admissions practices, court battles over immigration laws, court cases related to the January 6th Capitol Riot, a dispute between Republicans and Democrats over presidential impeachment, and an investigation about a tax scandal involving Hunter Biden. Simultaneously, we&#39;re seeing large-scale wild fires across Europe and North Africa and climate scientists are warning that if climate change continues unchecked, changes in the Earth&#39;s ocean currents could cause disastrous knock-on effects globally by this century.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘They Shoot Without Stopping:’ Where Russia Is on the Attack in Ukraine</h3>
+<h3>‘They Shoot Without Stopping’: Where Russia Is on the Attack in Ukraine</h3>
 <sub>By Marc Santora and Finbarr O’Reilly</sub>
 <p>Along the vast 600-mile front line, Russia is mostly playing defense. In the northeast, it is once again mounting fierce offensive operations.  <a href="https://nyti.ms/3YcafEi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
@@ -72,12 +72,6 @@ Right now, the world is facing a lot of instability and unrest. In Ukraine, Russ
 <h3>With Grain in the Cross Hairs Again, So Is a Jewel of Ukraine</h3>
 <sub>By Valerie Hopkins and Emile Ducke</sub>
 <p>Odesa, a port city long beloved by travelers, had been largely spared the worst of the war, but that began changing this week.  <a href="https://nyti.ms/3KepVBc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Trevor Reed, Former U.S. Marine, Injured While Fighting in Ukraine</h3>
-<sub>By Anushka Patil and Helene Cooper</sub>
-<p>Trevor Reed’s condition was not immediately clear. His decision to return to the region and volunteer to fight for Ukraine created some “exasperation” within the Biden administration, an administration official said.  <a href="https://nyti.ms/44JkiTC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -132,6 +126,12 @@ Right now, the world is facing a lot of instability and unrest. In Ukraine, Russ
 <h3>A Battle With Fire on 2 Continents, in Photos</h3>
 <sub>By The New York Times</sub>
 <p>Deadly blazes are raging across portions of southern Europe and North Africa, including the Greek islands and Algeria.  <a href="https://nyti.ms/43I07UX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Warming Could Push the Atlantic Past a ‘Tipping Point’ This Century</h3>
+<sub>By Raymond Zhong</sub>
+<p>The system of ocean currents that regulates the climate for a swath of the planet could collapse sooner than expected, a new analysis found.  <a href="https://nyti.ms/3Ou8L4S"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
 <hr/>
 </ol>
