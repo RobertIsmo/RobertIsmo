@@ -60,22 +60,62 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, July 27, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In the UK, sanctions against Russia over its invasion of Ukraine were put in place -- but some reports of generous exemptions and overreaching by officials have come up. Meanwhile, Russian president Vladimir Putin has been at a summit in Africa trying to boost his country&#39;s image by providing free grain to African countries. 
+Hello friend! There’s a lot going on in the world right now, but I&#39;ll give you the highlights. Economically, the United States recently reported growth of 2.4% in the second quarter of the year despite indications earlier in the year that we might be headed for a recession. In terms of employment, unions are even getting involved to help recruit to try and meet the shortage of public sector workers who must work on-site.
 
-In the US, recently there was an affirmative action ruling that is shaking up universities and their admissions practices beyond race. On the labor front, public sector jobs are sitting empty, so unions are getting involved with recruitment efforts, and in Congress they&#39;ve accused the Health Secretary of failing to protect exploited migrant children. 
+On the political front, Donald Trump’s lawyers recently met with prosecutors as charges related to election interference loom while, internationally, Britain is facing criticism over it&#39;s weak sanctions program against Russia following its invasion of Ukraine, which many claim gives oligarchs too much power.
 
-And in terms of news in the US involving political leaders, Vice President Biden has made attacking legacy admission policies at Harvard a political winner, while Senate Republican Leader Mitch McConnell had an episode freezing midsentence during a news conference which raised questions about his health and future. Finally, Sinead O&#39;Connor made waves when she appeared on Saturday Night Live and tore up a photo of the Pope -- but what many didn&#39;t remember was that her performance beforehand was just as powerful.</p>
+In addition, climate change remains a huge issue with July set to break all records for warmest month and cities on the East Coast implementing emergency measures to prevent illness and deaths due to rising temperatures. Meanwhile President Biden is set to announce steps to help communities deal with extreme heat, although many also want him to take more action on climate change overall.
+
+Finally, there have been some exciting sporting events recently: not only has Lindsey Horan delivered a moment of brilliance for the US in their victory against The Netherlands in the Women&#39;s World Cup 2023, but Team USA can advance to the Round of 16 if they win their upcoming game. 
+
+So as you can see there’s a lot going on right now – much more than I could cover here!</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>U.S. Economy Grew at 2.4% Rate in Second Quarter</h3>
+<sub>By Ben Casselman</sub>
+<p>The reading on gross domestic product was bolstered by consumer spending, showing that recession forecasts early in the year were premature, at least.  <a href="https://nyti.ms/3DuDAjJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Jobs Sit Empty in the Public Sector, So Unions Pitch In to Recruit</h3>
+<sub>By Lydia DePillis</sub>
+<p>Shortages of state and city personnel, especially those who must work on site, are so dire that unions are helping to get people in the door.  <a href="https://nyti.ms/44LEHYm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The Fed’s Difficult Choice</h3>
+<sub>By David Leonhardt and Ian Prasad Philbrick</sub>
+<p>The Federal Reserve has raised interest rates again. When should it stop?  <a href="https://nyti.ms/3DD4x4x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Life Under U.K. Sanctions: Chauffeurs, Chefs and $1 Million Allowances</h3>
 <sub>By Jane Bradley</sub>
 <p>Despite tough talk, Britain’s new sanctions program against Russia’s invasion of Ukraine has proved shaky. Some oligarchs have received generous exemptions. Officials have at times overreached.  <a href="https://nyti.ms/3OxYmFw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Putin Promises Free Grain at Africa Summit, Aiming to Help Russia’s Image</h3>
-<sub>By Anton Troianovski and Declan Walsh</sub>
-<p>At a summit for African countries, the Russian president insisted that Western hypocrisy rather than his invasion of Ukraine was to blame for disruptions in the global food supply.  <a href="https://nyti.ms/3qePZoJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump’s Lawyers Meet With Prosecutors as Election Interference Charges Loom</h3>
+<sub>By Maggie Haberman, Alan Feuer, Ben Protess and Glenn Thrush</sub>
+<p>The former president’s legal team reportedly arrived at the office of Jack Smith, the special counsel leading the inquiry.  <a href="https://nyti.ms/43PKdrj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>This Looks Like Earth’s Warmest Month. Hotter Ones Appear to Be in Store.</h3>
+<sub>By Raymond Zhong</sub>
+<p>July is on track to break all records for any month, scientists say, as the planet enters an extended period of exceptional warmth.  <a href="https://nyti.ms/3rHWhO9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Spared the Worst Summer Heat Until Now, the Northeast Starts to Sweat</h3>
+<sub>By Jenna Russell and Judson Jones</sub>
+<p>Cities on the East Coast responded to the looming heat spike with emergency measures meant to prevent heat-related illnesses and deaths.  <a href="https://nyti.ms/479izsw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden to Announce Steps to Help Communities Deal With Extreme Heat</h3>
+<sub>By Erica L. Green and Lisa Friedman</sub>
+<p>The measures include protections for workers and funds for better weather prediction, but they are unlikely to satisfy activists who have pushed the president to do more to combat climate change.  <a href="https://nyti.ms/3ObbPBJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-upshot-blue" alt="">
@@ -90,53 +130,17 @@ And in terms of news in the US involving political leaders, Vice President Biden
 <p>After an affirmative action ruling, legacy admissions are a ripe target. Still, skyrocketing tuition costs and mountains of debt remain far greater worries for many Americans.  <a href="https://nyti.ms/3KfHW1Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Affirmative Action Ruling Shakes Universities Over More Than Race</h3>
-<sub>By Anemona Hartocollis and Amy Harmon</sub>
-<p>At what was billed as an Education Department “summit” in Washington on Wednesday, a wide range of college admissions practices were on the table.  <a href="https://nyti.ms/3Dt0NTo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Jobs Sit Empty in the Public Sector, So Unions Pitch In to Recruit</h3>
-<sub>By Lydia DePillis</sub>
-<p>Shortages of state and city personnel, especially those who must work on site, are so dire that unions are helping to get people in the door.  <a href="https://nyti.ms/44LEHYm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>More Income for the Supreme Court: Million-Dollar Book Deals</h3>
-<sub>By Steve Eder, Abbie VanSickle and Elizabeth A. Harris</sub>
-<p>The deals have become highly lucrative for the justices, including for those who used court staff members to help research and promote their books.  <a href="https://nyti.ms/3QfJzAh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Flash of Anger Led to a Moment of Brilliance for U.S.</h3>
 <sub>By Juliet Macur</sub>
 <p>Lindsey Horan’s tying goal against the Netherlands saved her team at the World Cup. But it came from a dark place she knows well.  <a href="https://nyti.ms/3KhHYWT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Labor Department Decries Surge in Exploited Migrant Children</h3>
-<sub>By Hannah Dreier</sub>
-<p>The agency said it had found thousands of cases where minors were employed in illegal, often dangerous jobs. Congress has accused the health secretary of failing to protect them.  <a href="https://nyti.ms/3Kg8v6V"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Researchers Poke Holes in Safety Controls of ChatGPT and Other Chatbots</h3>
-<sub>By Cade Metz</sub>
-<p>A new report indicates that the guardrails for widely used chatbots can be thwarted, leading to an increasingly unpredictable environment for the technology.  <a href="https://nyti.ms/3OeC4qK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Mitch McConnell Suffers an Episode at the Capitol, Freezing Midsentence</h3>
-<sub>By Carl Hulse</sub>
-<p>The 81-year-old Senate Republican leader, who had a serious fall earlier this year, was temporarily unable to speak during a news conference, raising questions about his health and future.  <a href="https://nyti.ms/3KftqqJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>The Night Sinead O’Connor Took on the Pope on ‘S.N.L.’</h3>
-<sub>By Jon Caramanica</sub>
-<p>Tearing up a photo was the moment nobody forgot. The performance that preceded it was just as powerful.  <a href="https://nyti.ms/3OyMRO5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 26, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>Women’s World Cup 2023: How the United States Can Advance to the Round of 16</h3>
+<sub></sub>
+<p>How the United States can qualify for the next round of the 2023 World Cup.  <a href="https://nyti.ms/3QbOyBY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
