@@ -60,43 +60,35 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, July 27, Central Standard Time</p>
 <p>
-It looks like the US is seeing some major developments - Hunter Biden&#39;s plea deal with prosecutors was put on hold by a judge, and Rudolph Giuliani just conceded he made false statements about Georgia election workers. On a more international level, there was a military coup in Niger recently, and the UK has had some pretty relaxed sanctions against Russia. In the arts, we&#39;ve lost Sinead O&#39;Connor, the vocal Irish singer, at 56 years old. Life goes on!</p>
+There is a lot going on in the world right now. In the UK, sanctions against Russia over its invasion of Ukraine were put in place -- but some reports of generous exemptions and overreaching by officials have come up. Meanwhile, Russian president Vladimir Putin has been at a summit in Africa trying to boost his country&#39;s image by providing free grain to African countries. 
+
+In the US, recently there was an affirmative action ruling that is shaking up universities and their admissions practices beyond race. On the labor front, public sector jobs are sitting empty, so unions are getting involved with recruitment efforts, and in Congress they&#39;ve accused the Health Secretary of failing to protect exploited migrant children. 
+
+And in terms of news in the US involving political leaders, Vice President Biden has made attacking legacy admission policies at Harvard a political winner, while Senate Republican Leader Mitch McConnell had an episode freezing midsentence during a news conference which raised questions about his health and future. Finally, Sinead O&#39;Connor made waves when she appeared on Saturday Night Live and tore up a photo of the Pope -- but what many didn&#39;t remember was that her performance beforehand was just as powerful.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Judge Puts Hunter Biden’s Plea Deal on Hold, Questioning Its Details</h3>
-<sub>By Glenn Thrush, Michael S. Schmidt and Chris Cameron</sub>
-<p>Judge Maryellen Noreika sent the two sides back to try to work out modifications that would address her legal and constitutional concerns and salvage the basic contours of the agreement.  <a href="https://nyti.ms/3DxkV6O"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Hunter Biden’s Judge Came to Have Doubts on the Deal</h3>
-<sub>By Glenn Thrush and Chris Cameron</sub>
-<p>In just a few hours, Judge Maryellen Noreika exposes a gulf in understanding between the president’s son and prosecutors on an agreement they had spent weeks hashing out.  <a href="https://nyti.ms/3Y7PxVO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 26, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Life Under U.K. Sanctions: Chauffeurs, Chefs and $1 Million Allowances</h3>
 <sub>By Jane Bradley</sub>
 <p>Despite tough talk, Britain’s new sanctions program against Russia’s invasion of Ukraine has proved shaky. Some oligarchs have received generous exemptions. Officials have at times overreached.  <a href="https://nyti.ms/3OxYmFw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Sinead O’Connor, Evocative and Outspoken Singer, Is Dead at 56</h3>
-<sub>By Ben Sisario and Joe Coscarelli</sub>
-<p>She broke out with the single “Nothing Compares 2 U,” then caused an uproar a few years later by ripping up a photo of Pope John Paul II on “S.N.L.”  <a href="https://nyti.ms/3O6RDAR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 26, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Putin Promises Free Grain at Africa Summit, Aiming to Help Russia’s Image</h3>
+<sub>By Anton Troianovski and Declan Walsh</sub>
+<p>At a summit for African countries, the Russian president insisted that Western hypocrisy rather than his invasion of Ukraine was to blame for disruptions in the global food supply.  <a href="https://nyti.ms/3qePZoJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>The Night Sinead O’Connor Took on the Pope on ‘S.N.L.’</h3>
-<sub>By Jon Caramanica</sub>
-<p>Tearing up a photo was the moment nobody forgot. The performance that preceded it was just as powerful.  <a href="https://nyti.ms/3OyMRO5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 26, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>How Big Is the Legacy Boost at Elite Colleges?</h3>
+<sub>By Claire Cain Miller and Aatish Bhatia</sub>
+<p>In the same week as a civil rights inquiry into Harvard, new data shows legacies are slightly more qualified yet are four times as likely to get into top schools.  <a href="https://nyti.ms/3Kigj8e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Sinead O’Connor’s Life in Pictures</h3>
-<sub>By The New York Times</sub>
-<p>The Irish singer had an evocative voice and cast a powerful silhouette onstage.  <a href="https://nyti.ms/3QgaOuO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 26, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden’s Fight With Harvard Is a Political Winner and Policy ‘Band-Aid’</h3>
+<sub>By Reid J. Epstein</sub>
+<p>After an affirmative action ruling, legacy admissions are a ripe target. Still, skyrocketing tuition costs and mountains of debt remain far greater worries for many Americans.  <a href="https://nyti.ms/3KfHW1Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Affirmative Action Ruling Shakes Universities Over More Than Race</h3>
@@ -104,34 +96,46 @@ It looks like the US is seeing some major developments - Hunter Biden&#39;s plea
 <p>At what was billed as an Education Department “summit” in Washington on Wednesday, a wide range of college admissions practices were on the table.  <a href="https://nyti.ms/3Dt0NTo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 26, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Jobs Sit Empty in the Public Sector, So Unions Pitch In to Recruit</h3>
+<sub>By Lydia DePillis</sub>
+<p>Shortages of state and city personnel, especially those who must work on site, are so dire that unions are helping to get people in the door.  <a href="https://nyti.ms/44LEHYm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>More Income for the Supreme Court: Million-Dollar Book Deals</h3>
+<sub>By Steve Eder, Abbie VanSickle and Elizabeth A. Harris</sub>
+<p>The deals have become highly lucrative for the justices, including for those who used court staff members to help research and promote their books.  <a href="https://nyti.ms/3QfJzAh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Flash of Anger Led to a Moment of Brilliance for U.S.</h3>
+<sub>By Juliet Macur</sub>
+<p>Lindsey Horan’s tying goal against the Netherlands saved her team at the World Cup. But it came from a dark place she knows well.  <a href="https://nyti.ms/3KhHYWT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Labor Department Decries Surge in Exploited Migrant Children</h3>
+<sub>By Hannah Dreier</sub>
+<p>The agency said it had found thousands of cases where minors were employed in illegal, often dangerous jobs. Congress has accused the health secretary of failing to protect them.  <a href="https://nyti.ms/3Kg8v6V"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Researchers Poke Holes in Safety Controls of ChatGPT and Other Chatbots</h3>
+<sub>By Cade Metz</sub>
+<p>A new report indicates that the guardrails for widely used chatbots can be thwarted, leading to an increasingly unpredictable environment for the technology.  <a href="https://nyti.ms/3OeC4qK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Mitch McConnell Suffers an Episode at the Capitol, Freezing Midsentence</h3>
 <sub>By Carl Hulse</sub>
 <p>The 81-year-old Senate Republican leader, who had a serious fall earlier this year, was temporarily unable to speak during a news conference, raising questions about his health and future.  <a href="https://nyti.ms/3KftqqJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>101°F in the Ocean Off Florida: Was It a World Record?</h3>
-<sub>By Hiroko Tabuchi</sub>
-<p>Measuring and comparing sea surface temperatures is complex, but scientists agree on one thing: A high reading this week is bad news for wildlife.  <a href="https://nyti.ms/3DsM2zY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How and Why Illegal Border Crossings Have Dropped So Dramatically</h3>
-<sub>By Michael D. Shear, Julie Turkewitz and Edgar Sandoval</sub>
-<p>The Biden administration’s new asylum policy, which a judge blocked this week, has contributed to a plunge in illegal border crossings at the southern U.S. border.  <a href="https://nyti.ms/3Qd06oC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Military in Niger Announces Coup After Soldiers Detain President</h3>
-<sub>By Omar Hama Saley, Elian Peltier and Declan Walsh</sub>
-<p>President Mohamed Bazoum was one of the West’s most reliable partners in a volatile region threatened by militant extremists and prone to coups.  <a href="https://nyti.ms/43NAKAS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Giuliani Concedes He Made False Statements About Georgia Election Workers</h3>
-<sub>By Alan Feuer</sub>
-<p>Rudolph W. Giuliani said he still had “legal defenses” in a case brought by two election workers who said he had defamed them as he asserted that the 2020 election was marred by fraud.  <a href="https://nyti.ms/3rPO1LT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>The Night Sinead O’Connor Took on the Pope on ‘S.N.L.’</h3>
+<sub>By Jon Caramanica</sub>
+<p>Tearing up a photo was the moment nobody forgot. The performance that preceded it was just as powerful.  <a href="https://nyti.ms/3OyMRO5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 26, Central Standard Time</sub></sub>
 <hr/>
 </ol>
