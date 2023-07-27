@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Wednesday, July 26, Central Standard Time</p>
+<p>It is Thursday, July 27, Central Standard Time</p>
 <p>
-Recently, a judge in the US put Hunter Biden&#39;s plea deal on hold, sending both sides back to the negotiation table for modifications. In Ukraine, there may be an ongoing military offensive, with authorities committing units trained and armed by Western nations. An iconic musician, Sinead O&#39;Connor, sadly passed away at age 56. There was also a ruling that shakes universities over more than just race and Senate Majority Leader Mitch McConnell has suffered a health episode while speaking at a press conference. Additionally, it got up to nearly 101 degrees Fahrenheit in the ocean off the coast of Florida and illegal border crossings are greatly reduced thanks to the Biden administration&#39;s asylum policy, even though it has been temporarily blocked by a judge. Lastly, Simon Ateba, an African gadfly in the White House briefing room, has become something of a hero on the right due to his confrontational behavior.</p>
+Currently, there is a lot going on in the US, particularly with news surrounding Hunter Biden and his plea deal being put on hold by Judge Maryellen Noreika. In the UK, sanctions have been issued against Russia for their invasion of Ukraine but there has been ambiguity since some oligarchs have received generous exemptions. Tragically, Sinead O&#39;Connor, an evocative and outspoken singer from Ireland passed away at 56 years old. In regards to current education policies in the US, a ruling on affirmative action is shaking universities across the nation as there are questions about how race is considered. Additionally, Mitch McConnell suffered an episode at the Capitol when he froze midsentence and temporarily couldn&#39;t speak which has raised questions about his health and future. There are other inconveniences happening globally as well; there was a record-breaking 101°F ocean temperature off Florida and illegal border crossings near the Southern US border have dropped significantly due to a new asylum policy initiated by Biden&#39;s administration that was recently blocked by a judge. Lastly, in Niger there recently was a military coup after soldiers detained President Mohamed Bazoum who was known as one of the West’s most reliable partners in a volatile region.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Judge Puts Hunter Biden’s Plea Deal on Hold, Questioning Its Details</h3>
@@ -75,9 +75,9 @@ Recently, a judge in the US put Hunter Biden&#39;s plea deal on hold, sending bo
 <sub><sub>Wednesday, July 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Main Thrust of Ukraine’s Offensive May Be Underway, U.S. Officials Say</h3>
-<sub>By Eric Schmitt, Matthew Mpoke Bigg and Carlotta Gall</sub>
-<p>After holding back many of its units trained and armed by the West, Ukraine is now committing them, the officials said, but it remained unclear whether a full-scale assault was taking place.  <a href="https://nyti.ms/3Oddbf2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Life Under U.K. Sanctions: Chauffeurs, Chefs and $1 Million Allowances</h3>
+<sub>By Jane Bradley</sub>
+<p>Despite tough talk, Britain’s new sanctions program against Russia’s invasion of Ukraine has proved shaky. Some oligarchs have received generous exemptions. Officials have at times overreached.  <a href="https://nyti.ms/3OxYmFw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
@@ -90,12 +90,6 @@ Recently, a judge in the US put Hunter Biden&#39;s plea deal on hold, sending bo
 <h3>The Night Sinead O’Connor Took on the Pope on ‘S.N.L.’</h3>
 <sub>By Jon Caramanica</sub>
 <p>Tearing up a photo was the moment nobody forgot. The performance that preceded it was just as powerful.  <a href="https://nyti.ms/3OyMRO5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>The Bald Power of Sinead O’Connor</h3>
-<sub>By Vanessa Friedman</sub>
-<p>The Irish singer’s shaved head was as much a part of her identity and allure as her sound.  <a href="https://nyti.ms/44OtwOE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
@@ -128,10 +122,16 @@ Recently, a judge in the US put Hunter Biden&#39;s plea deal on hold, sending bo
 <p>The Biden administration’s new asylum policy, which a judge blocked this week, has contributed to a plunge in illegal border crossings at the southern U.S. border.  <a href="https://nyti.ms/3Qd06oC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>Why Won’t Simon Ateba Stop Shouting?</h3>
-<sub>By Joseph Bernstein</sub>
-<p>The Today News Africa gadfly has become a hero on the right, thanks to his confrontational behavior in the White House briefing room.  <a href="https://nyti.ms/3Y8EVpH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Military in Niger Announces Coup After Soldiers Detain President</h3>
+<sub>By Omar Hama Saley, Elian Peltier and Declan Walsh</sub>
+<p>President Mohamed Bazoum was one of the West’s most reliable partners in a volatile region threatened by militant extremists and prone to coups.  <a href="https://nyti.ms/43NAKAS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Giuliani Concedes He Made False Statements About Georgia Election Workers</h3>
+<sub>By Alan Feuer</sub>
+<p>Rudolph W. Giuliani said he still had “legal defenses” in a case brought by two election workers who said he had defamed them as he asserted that the 2020 election was marred by fraud.  <a href="https://nyti.ms/3rPO1LT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 26, Central Standard Time</sub></sub>
 <hr/>
 </ol>
