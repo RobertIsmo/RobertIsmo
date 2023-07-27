@@ -60,43 +60,57 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, July 26, Central Standard Time</p>
 <p>
-There are a lot of worrisome things happening in the world right now. Russian President Vladimir Putin is hosting African leaders at a summit, while U.S. President Joe Biden is forcing the U.S. to share evidence of Russian war crimes with the Hague Court. The Federal Reserve has just raised interest rates for the first time in months, and many big consumer companies have also been raising prices, which could complicate the Fed&#39;s job. Tragically, Sinead O&#39;Connor, an evocative and outspoken singer, passed away at age 56. Mitch McConnell suffered an episode at the Capitol, and Rudy Giuliani admitted he made false statements about Georgia election workers. Melania Trump has mostly stayed out of public view while her husband fights to return to the White House, and people in the Midwest are dealing with intense heat combined with wildfire smoke from Canada. On top of all that, Greece&#39;s tourism industry is at risk due to climate change-fueled wildfires.</p>
+There has been a lot going on in the world lately! In US news, Hunter Biden recently had his plea deal with prosecutors put on hold by a judge due to her legal and constitutional concerns. Meanwhile, Mitch McConnell had an episode during a press conference, raising questions about his health. On the issue of immigration, illegal border crossings have dropped dramatically due to the Biden administration&#39;s new policy. On the international stage, Ukrainian forces may be launching a full-scale assault against their opponents. 
+
+In the world of arts and entertainment, iconic singer Sinead O&#39;Connor passed away at the age of 56. She made headlines around the world when she famously ripped up a photo of the Pope John Paul II during an SNL performance. Additionally, there is Today News Africa gadfly Simon Ateba getting attention on the right for his confrontational behavior in the White House briefing room. And finally, there is also news about sea surface temperatures off Florida reaching record high this week, which is bad news for wildlife.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>War Brought Putin Closer to Africa. Now It’s Pushing Them Apart.</h3>
-<sub>By Declan Walsh and Paul Sonne</sub>
-<p>As President Vladimir V. Putin of Russia prepares to host African leaders at a summit, a collapsed grain deal and the uncertain fate of Wagner mercenaries have cast a shadow.  <a href="https://nyti.ms/3pXpy7b"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Judge Puts Hunter Biden’s Plea Deal on Hold, Questioning Its Details</h3>
+<sub>By Glenn Thrush, Michael S. Schmidt and Chris Cameron</sub>
+<p>Judge Maryellen Noreika sent the two sides back to try to work out modifications that would address her legal and constitutional concerns and salvage the basic contours of the agreement.  <a href="https://nyti.ms/3DxkV6O"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Orders U.S. to Share Evidence of Russian War Crimes With Hague Court</h3>
-<sub>By Charlie Savage</sub>
-<p>The step signals a major shift in American policy and ends months of resistance by Pentagon officials who feared setting a precedent that could pave the way for the court to prosecute U.S. troops.  <a href="https://nyti.ms/3rHkxQp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>How Hunter Biden’s Judge Came to Have Doubts on the Deal</h3>
+<sub>By Glenn Thrush and Chris Cameron</sub>
+<p>In just a few hours, Judge Maryellen Noreika exposes a gulf in understanding between the president’s son and prosecutors on an agreement they had spent weeks hashing out.  <a href="https://nyti.ms/3Y7PxVO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Fed Raises Rates After a Pause and Leaves Door Open to More</h3>
-<sub>By Jeanna Smialek</sub>
-<p>Federal Reserve officials lifted borrowing costs by a quarter-point after pausing in June. They could rise more, but the central bank is not ready to commit.  <a href="https://nyti.ms/3KD2zFB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Big Consumer Companies Keep Raising Prices, Complicating Fed’s Job</h3>
-<sub>By J. Edward Moreno</sub>
-<p>Coca-Cola, PepsiCo and Unilever have each reported raising prices significantly in the second quarter, complicating the Federal Reserve’s efforts to tame inflation.  <a href="https://nyti.ms/44YtMtW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Main Thrust of Ukraine’s Offensive May Be Underway, U.S. Officials Say</h3>
+<sub>By Eric Schmitt, Matthew Mpoke Bigg and Carlotta Gall</sub>
+<p>After holding back many of its units trained and armed by the West, Ukraine is now committing them, the officials said, but it remained unclear whether a full-scale assault was taking place.  <a href="https://nyti.ms/3Oddbf2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>Sinead O’Connor, Evocative and Outspoken Singer, Is Dead at 56</h3>
-<sub>By Joe Coscarelli and Ben Sisario</sub>
+<sub>By Ben Sisario and Joe Coscarelli</sub>
 <p>She broke out with the single “Nothing Compares 2 U,” then caused an uproar a few years later by ripping up a photo of Pope John Paul II on “S.N.L.”  <a href="https://nyti.ms/3O6RDAR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Sinead O’Connor Remembers Things Differently</h3>
-<sub>By Amanda Hess</sub>
-<p>The mainstream narrative is that a pop star ripped up a photo of the pope on “Saturday Night Live” and derailed her life. What if the opposite were true?  <a href="https://nyti.ms/3uYNG6w"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 18, Central Standard Time</sub></sub>
+<h3>The Night Sinead O’Connor Took on the Pope on ‘S.N.L.’</h3>
+<sub>By Jon Caramanica</sub>
+<p>Tearing up a photo was the moment nobody forgot. The performance that preceded it was just as powerful.  <a href="https://nyti.ms/3OyMRO5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>The Bald Power of Sinead O’Connor</h3>
+<sub>By Vanessa Friedman</sub>
+<p>The Irish singer’s shaved head was as much a part of her identity and allure as her sound.  <a href="https://nyti.ms/44OtwOE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Sinead O’Connor’s Life in Pictures</h3>
+<sub>By The New York Times</sub>
+<p>The Irish singer had an evocative voice and cast a powerful silhouette onstage.  <a href="https://nyti.ms/3QgaOuO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Affirmative Action Ruling Shakes Universities Over More Than Race</h3>
+<sub>By Anemona Hartocollis and Amy Harmon</sub>
+<p>At what was billed as an Education Department “summit” in Washington on Wednesday, college admissions practices across the board were on the table.  <a href="https://nyti.ms/3Dt0NTo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Mitch McConnell Suffers an Episode at the Capitol, Freezing Midsentence</h3>
@@ -104,35 +118,23 @@ There are a lot of worrisome things happening in the world right now. Russian Pr
 <p>The 81-year-old Senate Republican leader, who had a serious fall earlier this year, was temporarily unable to speak during a news conference, raising questions about his health and future.  <a href="https://nyti.ms/3KftqqJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Giuliani Concedes He Made False Statements About Georgia Election Workers</h3>
-<sub>By Alan Feuer</sub>
-<p>Rudolph W. Giuliani said he still had “legal defenses” in a case brought by two election workers who said he had defamed them as he asserted that the 2020 election was marred by fraud.  <a href="https://nyti.ms/3rPO1LT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>101°F in the Ocean Off Florida: Was It a World Record?</h3>
+<sub>By Hiroko Tabuchi</sub>
+<p>Measuring and comparing sea surface temperatures is complex, but scientists agree on one thing: A high reading this week is bad news for wildlife.  <a href="https://nyti.ms/3DsM2zY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Very Private Life of Melania Trump</h3>
-<sub>By Lisa Lerer and Katie Rogers</sub>
-<p>The former first lady has mostly retreated from public view — and steered clear of the campaign trail — while her husband fights to return to the White House and faces increasing legal peril.  <a href="https://nyti.ms/44FM4R3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>How and Why Illegal Border Crossings Have Dropped So Dramatically</h3>
+<sub>By Michael D. Shear, Julie Turkewitz and Edgar Sandoval</sub>
+<p>The Biden administration’s new asylum policy, which a judge blocked this week, has contributed to a plunge in illegal border crossings at the southern U.S. border.  <a href="https://nyti.ms/3Qd06oC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Blistering Heat Spreads to U.S. Midwest as Wildfire Smoke Lingers</h3>
-<sub>By Julie Bosman</sub>
-<p>Midwestern residents sweltered in the heat wave that has scorched the South and Southwest for many days.  <a href="https://nyti.ms/3KaBAAD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>Why Won’t Simon Ateba Stop Shouting?</h3>
+<sub>By Joseph Bernstein</sub>
+<p>The Today News Africa gadfly has become a hero on the right, thanks to his confrontational behavior in the White House briefing room.  <a href="https://nyti.ms/3Y8EVpH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Greek Hotels Fear a Burning Future: ‘Even the Animals Are Moving Away’</h3>
-<sub>By Emma Bubola and Niki Kitsantonis</sub>
-<p>The fiercest wildfires have hit only parts of a few islands. But the effects of climate change pose a far wider threat to Greece’s tourism industry.  <a href="https://nyti.ms/3KD4wBV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-travel-blue" alt="">
-<h3>Up in Smoke: Canada’s Outdoor Summer Season</h3>
-<sub>By Vjosa Isai</sub>
-<p>Those planning to visit the country’s extensive forests and backcountry have been stymied by the raging wildfires, just as the country’s travel industry was bouncing back.  <a href="https://nyti.ms/44Kz5xl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, July 25, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
