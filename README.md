@@ -60,9 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, July 26, Central Standard Time</p>
 <p>
-There has been a lot going on in the world lately! In US news, Hunter Biden recently had his plea deal with prosecutors put on hold by a judge due to her legal and constitutional concerns. Meanwhile, Mitch McConnell had an episode during a press conference, raising questions about his health. On the issue of immigration, illegal border crossings have dropped dramatically due to the Biden administration&#39;s new policy. On the international stage, Ukrainian forces may be launching a full-scale assault against their opponents. 
-
-In the world of arts and entertainment, iconic singer Sinead O&#39;Connor passed away at the age of 56. She made headlines around the world when she famously ripped up a photo of the Pope John Paul II during an SNL performance. Additionally, there is Today News Africa gadfly Simon Ateba getting attention on the right for his confrontational behavior in the White House briefing room. And finally, there is also news about sea surface temperatures off Florida reaching record high this week, which is bad news for wildlife.</p>
+Recently, a judge in the US put Hunter Biden&#39;s plea deal on hold, sending both sides back to the negotiation table for modifications. In Ukraine, there may be an ongoing military offensive, with authorities committing units trained and armed by Western nations. An iconic musician, Sinead O&#39;Connor, sadly passed away at age 56. There was also a ruling that shakes universities over more than just race and Senate Majority Leader Mitch McConnell has suffered a health episode while speaking at a press conference. Additionally, it got up to nearly 101 degrees Fahrenheit in the ocean off the coast of Florida and illegal border crossings are greatly reduced thanks to the Biden administration&#39;s asylum policy, even though it has been temporarily blocked by a judge. Lastly, Simon Ateba, an African gadfly in the White House briefing room, has become something of a hero on the right due to his confrontational behavior.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Judge Puts Hunter Biden’s Plea Deal on Hold, Questioning Its Details</h3>
@@ -109,7 +107,7 @@ In the world of arts and entertainment, iconic singer Sinead O&#39;Connor passed
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Affirmative Action Ruling Shakes Universities Over More Than Race</h3>
 <sub>By Anemona Hartocollis and Amy Harmon</sub>
-<p>At what was billed as an Education Department “summit” in Washington on Wednesday, college admissions practices across the board were on the table.  <a href="https://nyti.ms/3Dt0NTo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>At what was billed as an Education Department “summit” in Washington on Wednesday, a wide range of college admissions practices were on the table.  <a href="https://nyti.ms/3Dt0NTo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
