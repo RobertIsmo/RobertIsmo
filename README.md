@@ -60,12 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, July 27, Central Standard Time</p>
 <p>
-Right now a lot is going on in the world. Russian President Vladimir Putin has promised free grain to African countries at a summit in an attempt to improve Russia&#39;s image. On the business front, people seem optimistic that the US economy may be slowing down without entering into recession. The Justice Department has opened a civil rights investigation into Memphis police after the beating of Tyre Nichols and the Trump investigations are continuing as potential criminal charges looms over former president Trump. Climate wise, July appears to be breaking all records for warmth and the Northeast is seeing higher temperatures. On a lighter note, we&#39;ve been hearing about Frank Kozik, punk rock legend, as well as tech moguls like Elon Musk trying their hands at all-in-one apps and Twitter celebrities making an appearance on Threads. Finally, Lindsey Horan stood out at the World Cup with a goal scored out of anger.</p>
+Right now, there&#39;s a lot of different news stories circulating. Russia&#39;s President Putin is in the midst of trying to build better diplomatic and economic ties with African nations. The US economy grew at a 2.4% rate in the second quarter of this year, which suggests that worries about recession early in the year may have been premature. Trump&#39;s legal team has been meeting with prosecutors as potential election interference charges loom. There is a Justice Department civil rights investigation going on in Memphis over excessive force and unlawful stops of Black residents. Mitch McConnell is facing speculation about his future following a health episode in the Capitol. Some tributes are being paid for an underground artist known as &#39;Punk Rock Warhol.&#39; In terms of climate change, July is probably going to be Earth&#39;s warmest month ever, and the Northeast is set to start feeling some intense heat later this week. Elon Musk is looking into creating an app like those found in Asia that can do it all—from messaging to entertainment.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Putin Promises Free Grain at Africa Summit, Aiming to Help Russia’s Image</h3>
-<sub>By Anton Troianovski and Declan Walsh</sub>
-<p>At a summit for African countries, the Russian president insisted that Western hypocrisy rather than his invasion of Ukraine was to blame for disruptions in the global food supply.  <a href="https://nyti.ms/3qePZoJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Wooing African Nations, Putin Casts West as a Common Foe</h3>
+<sub>By Anton Troianovski, Declan Walsh and Lynsey Chutel</sub>
+<p>At a summit in St. Petersburg, Russia, President Vladimir V. Putin offered free grain as he sought to shore up ties with the continent. But lower-than-hoped-for attendance among African leaders hinted at tempering support.  <a href="https://nyti.ms/3OwWZ9L"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -98,6 +98,18 @@ Right now a lot is going on in the world. Russian President Vladimir Putin has p
 <p>The department will examine allegations of pervasive problems with excessive force and unlawful stops of Black residents that were amplified by the fatal beating of Tyre Nichols.  <a href="https://nyti.ms/3Odet9P"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>As McConnell Tries to Convey Business as Usual, His Future Is in Doubt</h3>
+<sub>By Annie Karni and Carl Hulse</sub>
+<p>The minority leader’s health episode at the Capitol has intensified talk about a possible succession, a prospect that his colleagues have not seriously grappled with for years.  <a href="https://nyti.ms/3OeKazT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>The Life and Death of a ‘Punk Rock Warhol’</h3>
+<sub>By Alex Vadukul</sub>
+<p>Frank Kozik made his name with his playfully gruesome concert posters for Nirvana, Soundgarden and Butthole Surfers. He added to his underground fame with his boundary-pushing “art toys.”  <a href="https://nyti.ms/3rLJBWw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>This Looks Like Earth’s Warmest Month. Hotter Ones Appear to Be in Store.</h3>
 <sub>By Raymond Zhong</sub>
@@ -110,28 +122,16 @@ Right now a lot is going on in the world. Russian President Vladimir Putin has p
 <p>Daily heat records could be set across the region on Thursday and Friday. Many cities took precautions to help vulnerable residents.  <a href="https://nyti.ms/479izsw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>The Life and Death of a ‘Punk Rock Warhol’</h3>
-<sub>By Alex Vadukul</sub>
-<p>Frank Kozik made his name with his playfully gruesome concert posters for Nirvana, Soundgarden and Butthole Surfers. He added to his underground fame with his boundary-pushing “art toys.”  <a href="https://nyti.ms/3rLJBWw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>DeSantis Debuts a Leaner Campaign. But Donors Have Their Doubts.</h3>
+<sub>By Jonathan Swan, Maggie Haberman and Shane Goldmacher</sub>
+<p>As the Florida governor debuts his leaner campaign in Iowa, tensions still plague the highest levels of his operation and a supportive super PAC.  <a href="https://nyti.ms/3OAf1IA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Elon Musk’s Quixotic Quest to Turn X Into an ‘Everything App’</h3>
 <sub>By Ryan Mac</sub>
 <p>Mr. Musk, the owner of Twitter, is the latest Silicon Valley mogul to pursue an all-in-one app, the kind that has thrived in Asia but not elsewhere.  <a href="https://nyti.ms/3rNSQFN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>What Happened When 15 of Twitter’s Top Celebrities Joined Threads</h3>
-<sub>By Yiwen Lu</sub>
-<p>We examined the daily activity of Ellen DeGeneres, Wiz Khalifa, Selena Gomez and others among Twitter’s most-followed to deduce if Threads has staying power.  <a href="https://nyti.ms/3YdMSu2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Flash of Anger Led to a Moment of Brilliance for U.S.</h3>
-<sub>By Juliet Macur</sub>
-<p>Lindsey Horan’s tying goal against the Netherlands saved her team at the World Cup. But it came from a dark place she knows well.  <a href="https://nyti.ms/3KhHYWT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
 <hr/>
 </ol>
