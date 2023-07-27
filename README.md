@@ -60,44 +60,42 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, July 27, Central Standard Time</p>
 <p>
-Hello friend! There’s a lot going on in the world right now, but I&#39;ll give you the highlights. Economically, the United States recently reported growth of 2.4% in the second quarter of the year despite indications earlier in the year that we might be headed for a recession. In terms of employment, unions are even getting involved to help recruit to try and meet the shortage of public sector workers who must work on-site.
-
-On the political front, Donald Trump’s lawyers recently met with prosecutors as charges related to election interference loom while, internationally, Britain is facing criticism over it&#39;s weak sanctions program against Russia following its invasion of Ukraine, which many claim gives oligarchs too much power.
-
-In addition, climate change remains a huge issue with July set to break all records for warmest month and cities on the East Coast implementing emergency measures to prevent illness and deaths due to rising temperatures. Meanwhile President Biden is set to announce steps to help communities deal with extreme heat, although many also want him to take more action on climate change overall.
-
-Finally, there have been some exciting sporting events recently: not only has Lindsey Horan delivered a moment of brilliance for the US in their victory against The Netherlands in the Women&#39;s World Cup 2023, but Team USA can advance to the Round of 16 if they win their upcoming game. 
-
-So as you can see there’s a lot going on right now – much more than I could cover here!</p>
+Right now a lot is going on in the world. Russian President Vladimir Putin has promised free grain to African countries at a summit in an attempt to improve Russia&#39;s image. On the business front, people seem optimistic that the US economy may be slowing down without entering into recession. The Justice Department has opened a civil rights investigation into Memphis police after the beating of Tyre Nichols and the Trump investigations are continuing as potential criminal charges looms over former president Trump. Climate wise, July appears to be breaking all records for warmth and the Northeast is seeing higher temperatures. On a lighter note, we&#39;ve been hearing about Frank Kozik, punk rock legend, as well as tech moguls like Elon Musk trying their hands at all-in-one apps and Twitter celebrities making an appearance on Threads. Finally, Lindsey Horan stood out at the World Cup with a goal scored out of anger.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Putin Promises Free Grain at Africa Summit, Aiming to Help Russia’s Image</h3>
+<sub>By Anton Troianovski and Declan Walsh</sub>
+<p>At a summit for African countries, the Russian president insisted that Western hypocrisy rather than his invasion of Ukraine was to blame for disruptions in the global food supply.  <a href="https://nyti.ms/3qePZoJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Soft Landing Optimism Is Everywhere. That’s Happened Before.</h3>
+<sub>By Jeanna Smialek</sub>
+<p>People are often sure that the economy is going to settle down gently right before it plunges into recession, a reason for caution and humility.  <a href="https://nyti.ms/43MP90h"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>U.S. Economy Grew at 2.4% Rate in Second Quarter</h3>
 <sub>By Ben Casselman</sub>
 <p>The reading on gross domestic product was bolstered by consumer spending, showing that recession forecasts early in the year were premature, at least.  <a href="https://nyti.ms/3DuDAjJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Jobs Sit Empty in the Public Sector, So Unions Pitch In to Recruit</h3>
-<sub>By Lydia DePillis</sub>
-<p>Shortages of state and city personnel, especially those who must work on site, are so dire that unions are helping to get people in the door.  <a href="https://nyti.ms/44LEHYm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The Fed’s Difficult Choice</h3>
-<sub>By David Leonhardt and Ian Prasad Philbrick</sub>
-<p>The Federal Reserve has raised interest rates again. When should it stop?  <a href="https://nyti.ms/3DD4x4x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Life Under U.K. Sanctions: Chauffeurs, Chefs and $1 Million Allowances</h3>
-<sub>By Jane Bradley</sub>
-<p>Despite tough talk, Britain’s new sanctions program against Russia’s invasion of Ukraine has proved shaky. Some oligarchs have received generous exemptions. Officials have at times overreached.  <a href="https://nyti.ms/3OxYmFw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 26, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump’s Lawyers Meet With Prosecutors as Election Interference Charges Loom</h3>
 <sub>By Maggie Haberman, Alan Feuer, Ben Protess and Glenn Thrush</sub>
-<p>The former president’s legal team reportedly arrived at the office of Jack Smith, the special counsel leading the inquiry.  <a href="https://nyti.ms/43PKdrj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The former president’s legal team had a last-ditch chance to provide information to the office of Jack Smith, the special counsel leading the inquiry.  <a href="https://nyti.ms/43PKdrj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Keeping Track of the Trump Investigations</h3>
+<sub>By The New York Times</sub>
+<p>See a guide to the major criminal cases involving the former president.  <a href="https://nyti.ms/3Q9udxn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Justice Dept. Opens Civil Rights Investigation of Memphis Police</h3>
+<sub>By Rick Rojas</sub>
+<p>The department will examine allegations of pervasive problems with excessive force and unlawful stops of Black residents that were amplified by the fatal beating of Tyre Nichols.  <a href="https://nyti.ms/3Odet9P"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
@@ -109,25 +107,25 @@ So as you can see there’s a lot going on right now – much more than I could 
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Spared the Worst Summer Heat Until Now, the Northeast Starts to Sweat</h3>
 <sub>By Jenna Russell and Judson Jones</sub>
-<p>Cities on the East Coast responded to the looming heat spike with emergency measures meant to prevent heat-related illnesses and deaths.  <a href="https://nyti.ms/479izsw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Daily heat records could be set across the region on Thursday and Friday. Many cities took precautions to help vulnerable residents.  <a href="https://nyti.ms/479izsw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden to Announce Steps to Help Communities Deal With Extreme Heat</h3>
-<sub>By Erica L. Green and Lisa Friedman</sub>
-<p>The measures include protections for workers and funds for better weather prediction, but they are unlikely to satisfy activists who have pushed the president to do more to combat climate change.  <a href="https://nyti.ms/3ObbPBJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>The Life and Death of a ‘Punk Rock Warhol’</h3>
+<sub>By Alex Vadukul</sub>
+<p>Frank Kozik made his name with his playfully gruesome concert posters for Nirvana, Soundgarden and Butthole Surfers. He added to his underground fame with his boundary-pushing “art toys.”  <a href="https://nyti.ms/3rLJBWw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>How Big Is the Legacy Boost at Elite Colleges?</h3>
-<sub>By Claire Cain Miller and Aatish Bhatia</sub>
-<p>In the same week as a civil rights inquiry into Harvard, new data shows legacies are slightly more qualified yet are four times as likely to get into top schools.  <a href="https://nyti.ms/3Kigj8e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Elon Musk’s Quixotic Quest to Turn X Into an ‘Everything App’</h3>
+<sub>By Ryan Mac</sub>
+<p>Mr. Musk, the owner of Twitter, is the latest Silicon Valley mogul to pursue an all-in-one app, the kind that has thrived in Asia but not elsewhere.  <a href="https://nyti.ms/3rNSQFN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden’s Fight With Harvard Is a Political Winner and Policy ‘Band-Aid’</h3>
-<sub>By Reid J. Epstein</sub>
-<p>After an affirmative action ruling, legacy admissions are a ripe target. Still, skyrocketing tuition costs and mountains of debt remain far greater worries for many Americans.  <a href="https://nyti.ms/3KfHW1Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>What Happened When 15 of Twitter’s Top Celebrities Joined Threads</h3>
+<sub>By Yiwen Lu</sub>
+<p>We examined the daily activity of Ellen DeGeneres, Wiz Khalifa, Selena Gomez and others among Twitter’s most-followed to deduce if Threads has staying power.  <a href="https://nyti.ms/3YdMSu2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
@@ -135,12 +133,6 @@ So as you can see there’s a lot going on right now – much more than I could 
 <sub>By Juliet Macur</sub>
 <p>Lindsey Horan’s tying goal against the Netherlands saved her team at the World Cup. But it came from a dark place she knows well.  <a href="https://nyti.ms/3KhHYWT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>Women’s World Cup 2023: How the United States Can Advance to the Round of 16</h3>
-<sub></sub>
-<p>How the United States can qualify for the next round of the 2023 World Cup.  <a href="https://nyti.ms/3QbOyBY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
