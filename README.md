@@ -60,9 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, July 28, Central Standard Time</p>
 <p>
-There are a lot of things going on in the US right now. Former President Trump is facing major new charges in a court case related to documents, and an investigation has surfaced showing he stored classified documents in high-traffic areas at his Mar-a-Lago resort. On another note, there&#39;s a divide between House Republicans and Democrats on spending bills that could lead to a potential government shutdown in the fall. Additionally, a judge in Delaware who is overseeing a case involving Hunter Biden has recently garnered the attention of the public. 
-
-In other news, Eagles founding member Randy Meisner passed away this week at 77 years old. The death of Irish singer Sinead O&#39;Connor has also brought attention to her past statements around church abuse in Ireland, and how she was ahead of her time in speaking out against it when she came to the US. Her death also highlights how she was an alternative moral compass for Ireland, pushing for pioneering changes.</p>
+There has been a lot of political news recently. Former President Trump is facing major new charges related to the documents case, and a New York Times investigation revealed he had stored classified documents in high-traffic areas at Mar-a-Lago. Senate Democrats and Republicans passed a bipartisan defense bill, but House GOP were unable to agree on a spending bill. There&#39;s also news from the judicial system: a judge in Delaware set off a spotlight by not rubber stamping on Hunter Biden&#39;s case. On the cultural side, founding member of the Eagles Randy Meisner passed away at 77, as well as singer Sinead O&#39;Connor who was known to be Ireland&#39;s alternative moral compass.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Faces Major New Charges in Documents Case</h3>
