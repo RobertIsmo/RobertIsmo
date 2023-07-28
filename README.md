@@ -60,24 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, July 28, Central Standard Time</p>
 <p>
-I&#39;ve got some news about the world - it sounds like things are getting more and more complicated. Recently, there&#39;s been a deadly missile strike in South America that wounded three Colombians who were trying to rally people around Ukraine, and Europe is struggling with how to make Russia pay for the war. Closer to home, Donald Trump is facing major charges in a documents case, and the US military justice code is going through its largest overhaul since 1950. 
-
-The economy is also making people worried. Wage growth slowed in the second quarter and the Fed&#39;s preferred inflation measure cooled in June, but Wall Street pessimists have been proven wrong so far by the S&amp;P 500, which is up 20 percent this year. 
-
-It&#39;s gotten too hot to handle too - temperatures around New York City reached dangerously high levels for two straight days recently, while Europe has resorted to age-old ways to stay cool during summer heat waves. 
-
-Finally, there have been exciting advances in artificial intelligence and quantum tech that will transform national security across the globe, testing US alliances in the process.</p>
+There is a lot going on in the world right now! In Ukraine, troops are slowly advancing and aiming to gain ground on Russian targets. Meanwhile, a charity group in Ukraine hosted a wedding for two service members amidst the conflict. In South America, three Colombians were nearly killed when a missile strike hit a restaurant while they were advocating for Ukraine.  Turning to the US, former President Trump is facing new charges related to deleting documents and his campaign spending has become a mystery because most of his money goes to newly formed companies with addresses that are just Staples stores. Also in the US, Florida’s new Black history standards have sparked backlash and Senate Minority Leader McConnell’s health episode is raising questions about succession. Back in Europe, cities are relying on old methods of cooling to combat rising temperatures due to heat waves. Lastly, New York is bracing for another day of dangerously high temperatures and potentially heat-related illnesses.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>With Slow Advance, Ukraine Aims for Better Shot at Russian Targets</h3>
+<sub>By Marc Santora</sub>
+<p>Ukraine is hoping that mile-by-mile gains could bring its weapons closer to Russian supply lines, if its forces can overcome Russia’s heavy defense.  <a href="https://nyti.ms/3OggphM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Two Ukrainian Service Members Take a Break to Say ‘I Do’</h3>
+<sub>By Cassandra Vinograd</sub>
+<p>Their wedding was hosted by a charity group that provides uniforms, boots and other essentials to female soldiers, but because of demand recently started to organize such celebrations.  <a href="https://nyti.ms/3YbHiYR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 28, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>They Tried to Rally South America Behind Ukraine. They Nearly Got Killed.</h3>
 <sub>By Gabriela Sá Pessoa</sub>
 <p>A deadly missile strike on a crowded restaurant wounded three Colombians who hope to build support for Ukraine in a continent that has avoided taking sides.  <a href="https://nyti.ms/44I4hNz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Europe Vowed to Make Russia Pay for the War. It’s Not That Easy.</h3>
-<sub>By Monika Pronczuk and Eshe Nelson</sub>
-<p>Confiscating Russian state assets frozen by the United States and Europe could breach international law and set a dangerous precedent, experts say.  <a href="https://nyti.ms/3OcO3oX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -92,29 +92,35 @@ Finally, there have been exciting advances in artificial intelligence and quantu
 <p>The indictment centers on Donald J. Trump’s handling of sensitive government documents after he left office.  <a href="https://nyti.ms/3oYZpEc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Wage Growth Slowed in Second Quarter, a Sign the Economy is Cooling</h3>
-<sub>By Ben Casselman</sub>
-<p>Pay and benefits increased 1 percent, down from 1.2 percent in the first three months of the year. The cooling will be welcomed by policymakers who have been worried that rapidly rising wages could make it harder to get inflation under control.  <a href="https://nyti.ms/453YIsN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Mystery of How Tim Scott’s Campaign Is Spending Its Millions</h3>
+<sub>By Rebecca Davis O’Brien and Alexandra Berzon</sub>
+<p>Most of the money spent by the senator’s presidential campaign has gone to newly formed companies whose addresses are Staples stores in suburban strip malls.  <a href="https://nyti.ms/44IiWbN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Fed’s Preferred Inflation Measure Cooled in June</h3>
-<sub>By Jeanna Smialek</sub>
-<p>The Personal Consumption Expenditures index moderated, even as consumer spending data looked strong.  <a href="https://nyti.ms/455fsQl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-realestate-blue" alt="">
+<h3>A Tiny Cabin, a Little Island and a Big Change: ‘Am I Crazy?’</h3>
+<sub>By Steven Kurutz</sub>
+<p>A New Jersey woman now lives alone part of the year on a remote island in Maine that Stephen King called ‘a novel here, just waiting to be written.’  <a href="https://nyti.ms/43FQsOF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Wall St. Pessimists Are Getting Used to Being Wrong</h3>
-<sub>By Joe Rennison</sub>
-<p>The S&amp;P 500 is up about 20 percent this year, but some still warn that the future may not be as rosy as that implies.  <a href="https://nyti.ms/44IKIFb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>Despite Acquittal, Kevin Spacey Faces Uphill Battle for Hollywood Roles</h3>
+<sub>By Alex Marshall and Maya Salam</sub>
+<p>The actor, who was cleared of sexual assault charges in Britain this week, has parts in two small upcoming films. Yet his tarnished public perception makes starry roles unlikely.  <a href="https://nyti.ms/3Ki2fM0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden to Overhaul Military Justice Code, Seeking to Curb Sexual Assault</h3>
-<sub>By Michael D. Shear</sub>
-<p>The largest overhaul of the Uniform Code of Military Justice since its creation in 1950 will remove commanders’ authority over cases of sexual assault and a handful of other high-profile crimes.  <a href="https://nyti.ms/44Keidk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Florida’s New Black History Standards Have Drawn Backlash. Who Wrote Them?</h3>
+<sub>By Sarah Mervosh</sub>
+<p>In updating the standards to comply with a new law that limits how racism can be taught, officials largely bypassed the state’s African American History Task Force.  <a href="https://nyti.ms/3rNJ3iS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>As McConnell Tries to Convey Business as Usual, His Future Is in Doubt</h3>
+<sub>By Annie Karni and Carl Hulse</sub>
+<p>The minority leader’s health episode at the Capitol has intensified talk about a possible succession, a prospect that his colleagues have not seriously grappled with for years.  <a href="https://nyti.ms/3OeKazT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>New Yorkers Brace for a 2nd Straight Day of Dangerously High Heat</h3>
@@ -126,18 +132,6 @@ Finally, there have been exciting advances in artificial intelligence and quantu
 <h3>As Heat Waves Intensify, Europe’s Cities Rely on Age-Old Ways to Stay Cool</h3>
 <sub>By Jenny Gross</sub>
 <p>Architectural styles and construction materials can significantly reduce the need for air-conditioning during heat waves, according to sustainable architecture experts.  <a href="https://nyti.ms/43NlUu6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Aided by A.I. Language Models, Google’s Robots Are Getting Smart</h3>
-<sub>By Kevin Roose</sub>
-<p>Our sneak peek into Google’s new robotics model, RT-2, which melds artificial intelligence technology with robots.  <a href="https://nyti.ms/3YaN0dy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Quantum Tech Will Transform National Security. It’s Testing U.S. Alliances Now.</h3>
-<sub>By Damien Cave</sub>
-<p>A global race to harness the power of atoms for navigation, computing and encryption is pitting concerns over protectionism against the spirit of cooperation.  <a href="https://nyti.ms/47kMRsm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
