@@ -60,38 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, July 28, Central Standard Time</p>
 <p>
-There&#39;s a lot of news going on right now that&#39;s important to stay aware of. On the political side, former president Donald Trump has been accused of tampering with security camera footage in his former residence, Mar-a-Lago. Also, President Biden is overhauling the military justice code, taking away commanders&#39; authority over certain cases. In terms of public safety, New Yorkers are bracing for a second straight day of dangerously high heat and other places are providing tips on how to stay cool. And internationally, people have tried to rally South America behind Ukraine only to nearly get killed in a missile strike and European countries are struggling with how to make Russia pay for the war. On the business front, Wall St.&#39;s pessimists have had to adjust to being wrong about stock index trends. Also, Exxon&#39;s earnings were leaner than usual in the second quarter while Japan&#39;s central bank took a surprise step away from easy money.</p>
+I&#39;ve got some news about the world - it sounds like things are getting more and more complicated. Recently, there&#39;s been a deadly missile strike in South America that wounded three Colombians who were trying to rally people around Ukraine, and Europe is struggling with how to make Russia pay for the war. Closer to home, Donald Trump is facing major charges in a documents case, and the US military justice code is going through its largest overhaul since 1950. 
+
+The economy is also making people worried. Wage growth slowed in the second quarter and the Fed&#39;s preferred inflation measure cooled in June, but Wall Street pessimists have been proven wrong so far by the S&amp;P 500, which is up 20 percent this year. 
+
+It&#39;s gotten too hot to handle too - temperatures around New York City reached dangerously high levels for two straight days recently, while Europe has resorted to age-old ways to stay cool during summer heat waves. 
+
+Finally, there have been exciting advances in artificial intelligence and quantum tech that will transform national security across the globe, testing US alliances in the process.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Faces Major New Charges in Documents Case</h3>
-<sub>By Alan Feuer, Maggie Haberman and Glenn Thrush</sub>
-<p>The office of the special counsel accused the former president of seeking to delete security camera footage at Mar-a-Lago. The manager of the property, Carlos De Oliveira, was also named as a new defendant.  <a href="https://nyti.ms/3KiTeT7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Trump Classified Documents Indictment, Annotated</h3>
-<sub>By Charlie Savage</sub>
-<p>The indictment centers on Donald J. Trump’s handling of sensitive government documents after he left office.  <a href="https://nyti.ms/3oYZpEc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>New Yorkers Brace for a 2nd Straight Day of Dangerously High Heat</h3>
-<sub>By Ed Shanahan</sub>
-<p>The heat index could climb as high as 110 degrees, increasing the potential for heat-related illnesses.  <a href="https://nyti.ms/451Ags3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>How to Stay Cool in New York City During Extreme Heat</h3>
-<sub>By Erin Nolan</sub>
-<p>Officials are encouraging residents to take advantage of cooling centers and splash pads. They are also warning against operating air conditioning at maximum capacity.  <a href="https://nyti.ms/3YhpRX6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden to Overhaul Military Justice Code, Seeking to Curb Sexual Assault</h3>
-<sub>By Michael D. Shear</sub>
-<p>The largest overhaul of the Uniform Code of Military Justice since its creation in 1950 will remove commanders’ authority over cases of sexual assault and a handful of other high-profile crimes.  <a href="https://nyti.ms/44Keidk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 28, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>They Tried to Rally South America Behind Ukraine. They Nearly Got Killed.</h3>
 <sub>By Gabriela Sá Pessoa</sub>
@@ -104,10 +80,28 @@ There&#39;s a lot of news going on right now that&#39;s important to stay aware 
 <p>Confiscating Russian state assets frozen by the United States and Europe could breach international law and set a dangerous precedent, experts say.  <a href="https://nyti.ms/3OcO3oX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Aided by A.I. Language Models, Google’s Robots Are Getting Smart</h3>
-<sub>By Kevin Roose</sub>
-<p>Our sneak peek into Google’s new robotics model, RT-2, which melds artificial intelligence technology with robots.  <a href="https://nyti.ms/3YaN0dy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Faces Major New Charges in Documents Case</h3>
+<sub>By Alan Feuer, Maggie Haberman and Glenn Thrush</sub>
+<p>The office of the special counsel accused the former president of seeking to delete security camera footage at Mar-a-Lago. The manager of the property, Carlos De Oliveira, was also named as a new defendant.  <a href="https://nyti.ms/3KiTeT7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Trump Classified Documents Indictment, Annotated</h3>
+<sub>By Charlie Savage</sub>
+<p>The indictment centers on Donald J. Trump’s handling of sensitive government documents after he left office.  <a href="https://nyti.ms/3oYZpEc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Wage Growth Slowed in Second Quarter, a Sign the Economy is Cooling</h3>
+<sub>By Ben Casselman</sub>
+<p>Pay and benefits increased 1 percent, down from 1.2 percent in the first three months of the year. The cooling will be welcomed by policymakers who have been worried that rapidly rising wages could make it harder to get inflation under control.  <a href="https://nyti.ms/453YIsN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>The Fed’s Preferred Inflation Measure Cooled in June</h3>
+<sub>By Jeanna Smialek</sub>
+<p>The Personal Consumption Expenditures index moderated, even as consumer spending data looked strong.  <a href="https://nyti.ms/455fsQl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -116,23 +110,35 @@ There&#39;s a lot of news going on right now that&#39;s important to stay aware 
 <p>The S&amp;P 500 is up about 20 percent this year, but some still warn that the future may not be as rosy as that implies.  <a href="https://nyti.ms/44IKIFb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Why ‘Soft Landing’ Optimists Shouldn’t Celebrate Just Yet</h3>
-<sub>By Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
-<p>Despite a barrage of interest-rate increases, the economy is faring better than many on Wall Street had imagined. But the wild card of inflation still looms.  <a href="https://nyti.ms/455yhTG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden to Overhaul Military Justice Code, Seeking to Curb Sexual Assault</h3>
+<sub>By Michael D. Shear</sub>
+<p>The largest overhaul of the Uniform Code of Military Justice since its creation in 1950 will remove commanders’ authority over cases of sexual assault and a handful of other high-profile crimes.  <a href="https://nyti.ms/44Keidk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Exxon Reports Leaner Earnings in Second Quarter</h3>
-<sub>By Santul Nerkar</sub>
-<p>The company’s record profit a year earlier was driven by a surge in oil prices after Russia’s invasion of Ukraine.  <a href="https://nyti.ms/3Kk3Sc9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>New Yorkers Brace for a 2nd Straight Day of Dangerously High Heat</h3>
+<sub>By Sarah Maslin Nir and Ed Shanahan</sub>
+<p>The heat index could climb above 100, increasing the potential for heat-related illnesses.  <a href="https://nyti.ms/451Ags3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Bank of Japan, in Surprise, Signals a Move Away From Easy Money</h3>
-<sub>By Ben Dooley</sub>
-<p>Japan’s central bank takes a step toward allowing interest rates to rise, saying it will be more flexible in managing its bond market.  <a href="https://nyti.ms/3Ofbuhm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As Heat Waves Intensify, Europe’s Cities Rely on Age-Old Ways to Stay Cool</h3>
+<sub>By Jenny Gross</sub>
+<p>Architectural styles and construction materials can significantly reduce the need for air-conditioning during heat waves, according to sustainable architecture experts.  <a href="https://nyti.ms/43NlUu6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Aided by A.I. Language Models, Google’s Robots Are Getting Smart</h3>
+<sub>By Kevin Roose</sub>
+<p>Our sneak peek into Google’s new robotics model, RT-2, which melds artificial intelligence technology with robots.  <a href="https://nyti.ms/3YaN0dy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Quantum Tech Will Transform National Security. It’s Testing U.S. Alliances Now.</h3>
+<sub>By Damien Cave</sub>
+<p>A global race to harness the power of atoms for navigation, computing and encryption is pitting concerns over protectionism against the spirit of cooperation.  <a href="https://nyti.ms/47kMRsm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
