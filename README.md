@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, July 28, Central Standard Time</p>
 <p>
-There has been a lot of political news recently. Former President Trump is facing major new charges related to the documents case, and a New York Times investigation revealed he had stored classified documents in high-traffic areas at Mar-a-Lago. Senate Democrats and Republicans passed a bipartisan defense bill, but House GOP were unable to agree on a spending bill. There&#39;s also news from the judicial system: a judge in Delaware set off a spotlight by not rubber stamping on Hunter Biden&#39;s case. On the cultural side, founding member of the Eagles Randy Meisner passed away at 77, as well as singer Sinead O&#39;Connor who was known to be Ireland&#39;s alternative moral compass.</p>
+There&#39;s a lot of news going on right now that&#39;s important to stay aware of. On the political side, former president Donald Trump has been accused of tampering with security camera footage in his former residence, Mar-a-Lago. Also, President Biden is overhauling the military justice code, taking away commanders&#39; authority over certain cases. In terms of public safety, New Yorkers are bracing for a second straight day of dangerously high heat and other places are providing tips on how to stay cool. And internationally, people have tried to rally South America behind Ukraine only to nearly get killed in a missile strike and European countries are struggling with how to make Russia pay for the war. On the business front, Wall St.&#39;s pessimists have had to adjust to being wrong about stock index trends. Also, Exxon&#39;s earnings were leaner than usual in the second quarter while Japan&#39;s central bank took a surprise step away from easy money.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Faces Major New Charges in Documents Case</h3>
@@ -69,69 +69,69 @@ There has been a lot of political news recently. Former President Trump is facin
 <sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Inside Mar-a-Lago, Where Thousands Partied Near Secret Files</h3>
-<sub>By Anjali Singhvi, Mika Gröndahl, Maggie Haberman, Weiyi Cai and Blacki Migliozzi</sub>
-<p>A Times investigation shows how Donald J. Trump stored classified documents in high-traffic areas at Mar-a-Lago, where guests may have been within feet of the materials.  <a href="https://nyti.ms/3BBciHB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The Trump Classified Documents Indictment, Annotated</h3>
 <sub>By Charlie Savage</sub>
 <p>The indictment centers on Donald J. Trump’s handling of sensitive government documents after he left office.  <a href="https://nyti.ms/3oYZpEc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Keeping Track of the Trump Investigations</h3>
-<sub>By The New York Times</sub>
-<p>See a guide to the major criminal cases involving the former president.  <a href="https://nyti.ms/3Q9udxn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>As McConnell Tries to Convey Business as Usual, His Future Is in Doubt</h3>
-<sub>By Annie Karni and Carl Hulse</sub>
-<p>The minority leader’s health episode at the Capitol has intensified talk about a possible succession, a prospect that his colleagues have not seriously grappled with for years.  <a href="https://nyti.ms/3OeKazT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Senate Passes Bipartisan Defense Bill, Setting Up a Clash With the House</h3>
-<sub>By Karoun Demirjian</sub>
-<p>Senators steered clear of the social policy dictates that sapped Democratic support for the House bill, but the legislation was headed for a contentious negotiation to reach a final agreement.  <a href="https://nyti.ms/475GEjN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Divided Over Money and Policy, House G.O.P. Punts on Spending Bill</h3>
-<sub>By Carl Hulse</sub>
-<p>Even as Republicans pushed through the first of a dozen government funding measures, the struggle over another foreshadowed a potential shutdown in the fall.  <a href="https://nyti.ms/43PkMGu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Hunter Biden Judge, Defying a ‘Rubber Stamp,’ Jumps Into the Spotlight</h3>
-<sub>By Abbie VanSickle</sub>
-<p>Judge Maryellen Noreika was not an especially high-profile figure in the small legal community in the nation’s second-smallest state. That’s changed.  <a href="https://nyti.ms/3OeY30Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Randy Meisner, Founding Member of the Eagles, Dies at 77</h3>
-<sub>By Livia Albeck-Ripka and Orlando Mayorquin</sub>
-<p>Meisner, the group’s original bass player, helped form the band in 1971.  <a href="https://nyti.ms/43PfISq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Tiny Irish Village Where Sinéad O’Connor Escaped the World</h3>
-<sub>By Megan Specia</sub>
-<p>For three years, the singer, who died this week, found simplicity and happiness in a mountain sanctuary where she was just another neighbor.  <a href="https://nyti.ms/3rODcKj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>New Yorkers Brace for a 2nd Straight Day of Dangerously High Heat</h3>
+<sub>By Ed Shanahan</sub>
+<p>The heat index could climb as high as 110 degrees, increasing the potential for heat-related illnesses.  <a href="https://nyti.ms/451Ags3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Sinead O’Connor Condemned Church Abuse Early. America Didn’t Listen.</h3>
-<sub>By Liam Stack</sub>
-<p>In Ireland, Ms. O’Connor spoke out about abuse and the complicity of religious institutions. When she came to the United States, many were not ready to hear her — yet.  <a href="https://nyti.ms/3OeFvh6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>How to Stay Cool in New York City During Extreme Heat</h3>
+<sub>By Erin Nolan</sub>
+<p>Officials are encouraging residents to take advantage of cooling centers and splash pads. They are also warning against operating air conditioning at maximum capacity.  <a href="https://nyti.ms/3YhpRX6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Sinead O’Connor Was Ireland’s Alternative Moral Compass</h3>
-<sub>By Una Mullally</sub>
-<p>In any society, she would have been radical for a pop star. But in Ireland, she was revolutionary.  <a href="https://nyti.ms/470aZAa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden to Overhaul Military Justice Code, Seeking to Curb Sexual Assault</h3>
+<sub>By Michael D. Shear</sub>
+<p>The largest overhaul of the Uniform Code of Military Justice since its creation in 1950 will remove commanders’ authority over cases of sexual assault and a handful of other high-profile crimes.  <a href="https://nyti.ms/44Keidk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>They Tried to Rally South America Behind Ukraine. They Nearly Got Killed.</h3>
+<sub>By Gabriela Sá Pessoa</sub>
+<p>A deadly missile strike on a crowded restaurant wounded three Colombians who hope to build support for Ukraine in a continent that has avoided taking sides.  <a href="https://nyti.ms/44I4hNz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Europe Vowed to Make Russia Pay for the War. It’s Not That Easy.</h3>
+<sub>By Monika Pronczuk and Eshe Nelson</sub>
+<p>Confiscating Russian state assets frozen by the United States and Europe could breach international law and set a dangerous precedent, experts say.  <a href="https://nyti.ms/3OcO3oX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Aided by A.I. Language Models, Google’s Robots Are Getting Smart</h3>
+<sub>By Kevin Roose</sub>
+<p>Our sneak peek into Google’s new robotics model, RT-2, which melds artificial intelligence technology with robots.  <a href="https://nyti.ms/3YaN0dy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Wall St. Pessimists Are Getting Used to Being Wrong</h3>
+<sub>By Joe Rennison</sub>
+<p>The S&amp;P 500 is up about 20 percent this year, but some still warn that the future may not be as rosy as that implies.  <a href="https://nyti.ms/44IKIFb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Why ‘Soft Landing’ Optimists Shouldn’t Celebrate Just Yet</h3>
+<sub>By Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
+<p>Despite a barrage of interest-rate increases, the economy is faring better than many on Wall Street had imagined. But the wild card of inflation still looms.  <a href="https://nyti.ms/455yhTG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Exxon Reports Leaner Earnings in Second Quarter</h3>
+<sub>By Santul Nerkar</sub>
+<p>The company’s record profit a year earlier was driven by a surge in oil prices after Russia’s invasion of Ukraine.  <a href="https://nyti.ms/3Kk3Sc9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Bank of Japan, in Surprise, Signals a Move Away From Easy Money</h3>
+<sub>By Ben Dooley</sub>
+<p>Japan’s central bank takes a step toward allowing interest rates to rise, saying it will be more flexible in managing its bond market.  <a href="https://nyti.ms/3Ofbuhm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
 <hr/>
 </ol>
