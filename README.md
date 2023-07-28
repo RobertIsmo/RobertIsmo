@@ -60,31 +60,25 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, July 27, Central Standard Time</p>
 <p>
-Right now, there&#39;s a lot of different news stories circulating. Russia&#39;s President Putin is in the midst of trying to build better diplomatic and economic ties with African nations. The US economy grew at a 2.4% rate in the second quarter of this year, which suggests that worries about recession early in the year may have been premature. Trump&#39;s legal team has been meeting with prosecutors as potential election interference charges loom. There is a Justice Department civil rights investigation going on in Memphis over excessive force and unlawful stops of Black residents. Mitch McConnell is facing speculation about his future following a health episode in the Capitol. Some tributes are being paid for an underground artist known as &#39;Punk Rock Warhol.&#39; In terms of climate change, July is probably going to be Earth&#39;s warmest month ever, and the Northeast is set to start feeling some intense heat later this week. Elon Musk is looking into creating an app like those found in Asia that can do it all—from messaging to entertainment.</p>
+Right now, there&#39;s a lot going on in the world. In the US, former President Trump is facing new charges relating to documents and security camera footage allegedly being deleted from his Mar-a-Lago property. Meanwhile, revelations about how he stored classified documents at the same location are coming to light. Elsewhere, the Senate has passed a defense bill and the House a spending bill, though there are tensions between both on money and policy. But funding issues remain in play and could lead to a potential government shutdown later this year. On the international front, Ukraine is pushing forward an assault against Russia but keeping its intentions fairly obscure. Meanwhile, Vladimir Putin is attempting to shore up ties with African nations by offering free grain, though with mixed success. Finally, a judge in Delaware drew attention to herself after refusing to act as a &quot;rubber stamp&quot; for Hunter Biden&#39;s case.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Wooing African Nations, Putin Casts West as a Common Foe</h3>
-<sub>By Anton Troianovski, Declan Walsh and Lynsey Chutel</sub>
-<p>At a summit in St. Petersburg, Russia, President Vladimir V. Putin offered free grain as he sought to shore up ties with the continent. But lower-than-hoped-for attendance among African leaders hinted at tempering support.  <a href="https://nyti.ms/3OwWZ9L"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Soft Landing Optimism Is Everywhere. That’s Happened Before.</h3>
-<sub>By Jeanna Smialek</sub>
-<p>People are often sure that the economy is going to settle down gently right before it plunges into recession, a reason for caution and humility.  <a href="https://nyti.ms/43MP90h"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.S. Economy Grew at 2.4% Rate in Second Quarter</h3>
-<sub>By Ben Casselman</sub>
-<p>The reading on gross domestic product was bolstered by consumer spending, showing that recession forecasts early in the year were premature, at least.  <a href="https://nyti.ms/3DuDAjJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Faces Major New Charges in Documents Case</h3>
+<sub>By Alan Feuer, Maggie Haberman and Glenn Thrush</sub>
+<p>The office of the special counsel accused the former president of seeking to delete security camera footage at Mar-a-Lago. The manager of the property, Carlos De Oliveira, was also named as a new defendant.  <a href="https://nyti.ms/3KiTeT7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump’s Lawyers Meet With Prosecutors as Election Interference Charges Loom</h3>
-<sub>By Maggie Haberman, Alan Feuer, Ben Protess and Glenn Thrush</sub>
-<p>The former president’s legal team had a last-ditch chance to provide information to the office of Jack Smith, the special counsel leading the inquiry.  <a href="https://nyti.ms/43PKdrj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
+<h3>Inside Mar-a-Lago, Where Thousands Partied Near Secret Files</h3>
+<sub>By Anjali Singhvi, Mika Gröndahl, Maggie Haberman, Weiyi Cai and Blacki Migliozzi</sub>
+<p>A Times investigation shows how Donald J. Trump stored classified documents in high-traffic areas at Mar-a-Lago, where guests may have been within feet of the materials.  <a href="https://nyti.ms/3BBciHB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Trump Classified Documents Indictment, Annotated</h3>
+<sub>By Charlie Savage</sub>
+<p>The indictment centers on Donald J. Trump’s handling of sensitive government documents after he left office.  <a href="https://nyti.ms/3oYZpEc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Keeping Track of the Trump Investigations</h3>
@@ -92,10 +86,16 @@ Right now, there&#39;s a lot of different news stories circulating. Russia&#39;s
 <p>See a guide to the major criminal cases involving the former president.  <a href="https://nyti.ms/3Q9udxn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Justice Dept. Opens Civil Rights Investigation of Memphis Police</h3>
-<sub>By Rick Rojas</sub>
-<p>The department will examine allegations of pervasive problems with excessive force and unlawful stops of Black residents that were amplified by the fatal beating of Tyre Nichols.  <a href="https://nyti.ms/3Odet9P"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukraine’s Stepped-Up Assault Grinds Forward, but Scale Is Unclear</h3>
+<sub>By Marc Santora and Richard Pérez-Peña</sub>
+<p>Kyiv has intensified its counteroffensive against the Russian invasion, but has kept things murky on the size of the assault, the casualties and what forces it still has in reserve.  <a href="https://nyti.ms/3Oan25h"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Wooing African Nations, Putin Casts West as a Common Foe</h3>
+<sub>By Anton Troianovski, Declan Walsh and Lynsey Chutel</sub>
+<p>At a summit in St. Petersburg, Russia, President Vladimir V. Putin offered free grain as he sought to shore up ties with the continent. But lower-than-hoped-for attendance among African leaders hinted at tempering support.  <a href="https://nyti.ms/3OwWZ9L"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -104,34 +104,34 @@ Right now, there&#39;s a lot of different news stories circulating. Russia&#39;s
 <p>The minority leader’s health episode at the Capitol has intensified talk about a possible succession, a prospect that his colleagues have not seriously grappled with for years.  <a href="https://nyti.ms/3OeKazT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Senate Passes Bipartisan Defense Bill, Setting Up a Clash With the House</h3>
+<sub>By Karoun Demirjian</sub>
+<p>Senators steered clear of the social policy dictates that sapped Democratic support for the House bill, but the legislation was headed for a contentious negotiation to reach a final agreement.  <a href="https://nyti.ms/475GEjN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Divided Over Money and Policy, House G.O.P. Punts on Spending Bill</h3>
+<sub>By Carl Hulse</sub>
+<p>Even as Republicans pushed through the first of a dozen government funding measures, the struggle over another foreshadowed a potential shutdown in the fall.  <a href="https://nyti.ms/43PkMGu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Soft Landing Optimism Is Everywhere. That’s Happened Before.</h3>
+<sub>By Jeanna Smialek</sub>
+<p>People are often sure that the economy is going to settle down gently right before it plunges into recession, a reason for caution and humility.  <a href="https://nyti.ms/43MP90h"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
 <h3>The Life and Death of a ‘Punk Rock Warhol’</h3>
 <sub>By Alex Vadukul</sub>
 <p>Frank Kozik made his name with his playfully gruesome concert posters for Nirvana, Soundgarden and Butthole Surfers. He added to his underground fame with his boundary-pushing “art toys.”  <a href="https://nyti.ms/3rLJBWw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>This Looks Like Earth’s Warmest Month. Hotter Ones Appear to Be in Store.</h3>
-<sub>By Raymond Zhong</sub>
-<p>July is on track to break all records for any month, scientists say, as the planet enters an extended period of exceptional warmth.  <a href="https://nyti.ms/3rHWhO9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Spared the Worst Summer Heat Until Now, the Northeast Starts to Sweat</h3>
-<sub>By Jenna Russell and Judson Jones</sub>
-<p>Daily heat records could be set across the region on Thursday and Friday. Many cities took precautions to help vulnerable residents.  <a href="https://nyti.ms/479izsw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis Debuts a Leaner Campaign. But Donors Have Their Doubts.</h3>
-<sub>By Jonathan Swan, Maggie Haberman and Shane Goldmacher</sub>
-<p>As the Florida governor debuts his leaner campaign in Iowa, tensions still plague the highest levels of his operation and a supportive super PAC.  <a href="https://nyti.ms/3OAf1IA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Elon Musk’s Quixotic Quest to Turn X Into an ‘Everything App’</h3>
-<sub>By Ryan Mac</sub>
-<p>Mr. Musk, the owner of Twitter, is the latest Silicon Valley mogul to pursue an all-in-one app, the kind that has thrived in Asia but not elsewhere.  <a href="https://nyti.ms/3rNSQFN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Hunter Biden Judge, Defying a ‘Rubber Stamp,’ Jumps Into the Spotlight</h3>
+<sub>By Abbie VanSickle</sub>
+<p>Judge Maryellen Noreika was not an especially high-profile figure in the small legal community in the nation’s second-smallest state. That’s changed.  <a href="https://nyti.ms/3OeY30Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
 <hr/>
 </ol>
