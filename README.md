@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, July 28, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now! In Ukraine, troops are slowly advancing and aiming to gain ground on Russian targets. Meanwhile, a charity group in Ukraine hosted a wedding for two service members amidst the conflict. In South America, three Colombians were nearly killed when a missile strike hit a restaurant while they were advocating for Ukraine.  Turning to the US, former President Trump is facing new charges related to deleting documents and his campaign spending has become a mystery because most of his money goes to newly formed companies with addresses that are just Staples stores. Also in the US, Florida’s new Black history standards have sparked backlash and Senate Minority Leader McConnell’s health episode is raising questions about succession. Back in Europe, cities are relying on old methods of cooling to combat rising temperatures due to heat waves. Lastly, New York is bracing for another day of dangerously high temperatures and potentially heat-related illnesses.</p>
+There is a lot of tension between Ukraine and Russia, as Ukraine is advancing in their territory while trying to overcome the defense that Russia has in place. On a lighter note, two Ukrainian service members were able to get married with the help of charities that supported them. Meanwhile, a Ukrainian fencer was granted a spot in the Olympics. In the US, former president Trump is facing new charges related to documents and his ex-manager is also being named as a defendant. Additionally, there has been some mysteries around Senator Tim Scott&#39;s campaign spending and him clashing with Governor DeSantis over educational standards in Florida. There&#39;s also stories about people like the one from New Jersey who moved out to Maine to live in a tiny cabin on an island and actor Kevin Spacey trying to make his way back into Hollywood despite being acquitted for sexual assault charges overseas. Moreover, cities across Europe are finding age-old ways to stay cool as heat waves intensify and New Yorkers coped with a hazardous heatwave this week.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>With Slow Advance, Ukraine Aims for Better Shot at Russian Targets</h3>
@@ -74,10 +74,10 @@ There is a lot going on in the world right now! In Ukraine, troops are slowly ad
 <p>Their wedding was hosted by a charity group that provides uniforms, boots and other essentials to female soldiers, but because of demand recently started to organize such celebrations.  <a href="https://nyti.ms/3YbHiYR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>They Tried to Rally South America Behind Ukraine. They Nearly Got Killed.</h3>
-<sub>By Gabriela Sá Pessoa</sub>
-<p>A deadly missile strike on a crowded restaurant wounded three Colombians who hope to build support for Ukraine in a continent that has avoided taking sides.  <a href="https://nyti.ms/44I4hNz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Ukrainian fencer penalized for refusing a Russian handshake is guaranteed a spot in the Paris Olympics.</h3>
+<sub>By Gaya Gupta</sub>
+<p>  <a href="https://nyti.ms/3OedPZP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -87,15 +87,15 @@ There is a lot going on in the world right now! In Ukraine, troops are slowly ad
 <sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Trump Classified Documents Indictment, Annotated</h3>
-<sub>By Charlie Savage</sub>
-<p>The indictment centers on Donald J. Trump’s handling of sensitive government documents after he left office.  <a href="https://nyti.ms/3oYZpEc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, June 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The Mystery of How Tim Scott’s Campaign Is Spending Its Millions</h3>
 <sub>By Rebecca Davis O’Brien and Alexandra Berzon</sub>
 <p>Most of the money spent by the senator’s presidential campaign has gone to newly formed companies whose addresses are Staples stores in suburban strip malls.  <a href="https://nyti.ms/44IiWbN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Reeling DeSantis Takes a Swing at Scott, Now a Top Rival</h3>
+<sub>By Nicholas Nehamas</sub>
+<p>Ron DeSantis and Tim Scott, fighting to become the leading Republican alternative to Donald Trump, have clashed in recent days over Florida’s educational standards.  <a href="https://nyti.ms/44MbQTJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-realestate-blue" alt="">
@@ -117,15 +117,15 @@ There is a lot going on in the world right now! In Ukraine, troops are slowly ad
 <sub><sub>Friday, July 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>As McConnell Tries to Convey Business as Usual, His Future Is in Doubt</h3>
-<sub>By Annie Karni and Carl Hulse</sub>
-<p>The minority leader’s health episode at the Capitol has intensified talk about a possible succession, a prospect that his colleagues have not seriously grappled with for years.  <a href="https://nyti.ms/3OeKazT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
+<h3>John Fetterman, Hoodie and All, Is Adjusting to Life in the Senate</h3>
+<sub>By Annie Karni</sub>
+<p>In an interview with The New York Times, the Pennsylvania senator spoke about the dysfunction in Congress, his health challenges and why he hasn’t traded his loungewear for a business suit.  <a href="https://nyti.ms/43GH8tT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>New Yorkers Brace for a 2nd Straight Day of Dangerously High Heat</h3>
-<sub>By Sarah Maslin Nir and Ed Shanahan</sub>
-<p>The heat index could climb above 100, increasing the potential for heat-related illnesses.  <a href="https://nyti.ms/451Ags3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Puppy Paw Balm. An Extra Shirt. New Yorkers Cope With Hazardous Heat.</h3>
+<sub>By Sarah Maslin Nir and Ang Li</sub>
+<p>The heat index stayed below 100 on Friday, an unexpected salve for New York City residents who nonetheless prepared in advance.  <a href="https://nyti.ms/451Ags3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
