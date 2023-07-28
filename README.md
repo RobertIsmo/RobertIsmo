@@ -58,9 +58,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Thursday, July 27, Central Standard Time</p>
+<p>It is Friday, July 28, Central Standard Time</p>
 <p>
-There are some major developments in US politics, with the office of the special counsel accusing Donald Trump and a property manager of deleting security footage at Mar-a-Lago and an indictment into Trump&#39;s handling of sensitive government documents shortly after he left office. Additionally, Republicans in the Senate just passed a bipartisan defense bill, but there&#39;s tension in the House between Democrats and Republicans over money and policy. In other news, famous bass player Randy Meisner from the band The Eagles died at 77, and there is a tribute article about a &quot;punk rock Warhol&quot; artist who also recently died. Lastly, there is an article paying tribute to Irish singer Sinead O&#39;Connor for her courage to confront church abuse both in Ireland and in the US before it was taken seriously by many.</p>
+There are a lot of things going on in the US right now. Former President Trump is facing major new charges in a court case related to documents, and an investigation has surfaced showing he stored classified documents in high-traffic areas at his Mar-a-Lago resort. On another note, there&#39;s a divide between House Republicans and Democrats on spending bills that could lead to a potential government shutdown in the fall. Additionally, a judge in Delaware who is overseeing a case involving Hunter Biden has recently garnered the attention of the public. 
+
+In other news, Eagles founding member Randy Meisner passed away this week at 77 years old. The death of Irish singer Sinead O&#39;Connor has also brought attention to her past statements around church abuse in Ireland, and how she was ahead of her time in speaking out against it when she came to the US. Her death also highlights how she was an alternative moral compass for Ireland, pushing for pioneering changes.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Faces Major New Charges in Documents Case</h3>
@@ -110,16 +112,10 @@ There are some major developments in US politics, with the office of the special
 <p>Judge Maryellen Noreika was not an especially high-profile figure in the small legal community in the nation’s second-smallest state. That’s changed.  <a href="https://nyti.ms/3OeY30Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>Randy Meisner, Founding Member of the Eagles, Dies at 77</h3>
 <sub>By Livia Albeck-Ripka and Orlando Mayorquin</sub>
-<p>Meisner, the group’s original bass player, helped form the band in 1971.  <a href="https://nyti.ms/3QcviEJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>The Life and Death of a ‘Punk Rock Warhol’</h3>
-<sub>By Alex Vadukul</sub>
-<p>Frank Kozik made his name with his playfully gruesome concert posters for Nirvana, Soundgarden and Butthole Surfers. He added to his underground fame with his boundary-pushing “art toys.”  <a href="https://nyti.ms/3rLJBWw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Meisner, the group’s original bass player, helped form the band in 1971.  <a href="https://nyti.ms/43PfISq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -132,6 +128,12 @@ There are some major developments in US politics, with the office of the special
 <h3>Sinead O’Connor Condemned Church Abuse Early. America Didn’t Listen.</h3>
 <sub>By Liam Stack</sub>
 <p>In Ireland, Ms. O’Connor spoke out about abuse and the complicity of religious institutions. When she came to the United States, many were not ready to hear her — yet.  <a href="https://nyti.ms/3OeFvh6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Sinead O’Connor Was Ireland’s Alternative Moral Compass</h3>
+<sub>By Una Mullally</sub>
+<p>In any society, she would have been radical for a pop star. But in Ireland, she was revolutionary.  <a href="https://nyti.ms/470aZAa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
 <hr/>
 </ol>
