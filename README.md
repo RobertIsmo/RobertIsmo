@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, July 27, Central Standard Time</p>
 <p>
-Right now, there&#39;s a lot going on in the world. In the US, former President Trump is facing new charges relating to documents and security camera footage allegedly being deleted from his Mar-a-Lago property. Meanwhile, revelations about how he stored classified documents at the same location are coming to light. Elsewhere, the Senate has passed a defense bill and the House a spending bill, though there are tensions between both on money and policy. But funding issues remain in play and could lead to a potential government shutdown later this year. On the international front, Ukraine is pushing forward an assault against Russia but keeping its intentions fairly obscure. Meanwhile, Vladimir Putin is attempting to shore up ties with African nations by offering free grain, though with mixed success. Finally, a judge in Delaware drew attention to herself after refusing to act as a &quot;rubber stamp&quot; for Hunter Biden&#39;s case.</p>
+There are some major developments in US politics, with the office of the special counsel accusing Donald Trump and a property manager of deleting security footage at Mar-a-Lago and an indictment into Trump&#39;s handling of sensitive government documents shortly after he left office. Additionally, Republicans in the Senate just passed a bipartisan defense bill, but there&#39;s tension in the House between Democrats and Republicans over money and policy. In other news, famous bass player Randy Meisner from the band The Eagles died at 77, and there is a tribute article about a &quot;punk rock Warhol&quot; artist who also recently died. Lastly, there is an article paying tribute to Irish singer Sinead O&#39;Connor for her courage to confront church abuse both in Ireland and in the US before it was taken seriously by many.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Faces Major New Charges in Documents Case</h3>
@@ -86,18 +86,6 @@ Right now, there&#39;s a lot going on in the world. In the US, former President 
 <p>See a guide to the major criminal cases involving the former president.  <a href="https://nyti.ms/3Q9udxn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine’s Stepped-Up Assault Grinds Forward, but Scale Is Unclear</h3>
-<sub>By Marc Santora and Richard Pérez-Peña</sub>
-<p>Kyiv has intensified its counteroffensive against the Russian invasion, but has kept things murky on the size of the assault, the casualties and what forces it still has in reserve.  <a href="https://nyti.ms/3Oan25h"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Wooing African Nations, Putin Casts West as a Common Foe</h3>
-<sub>By Anton Troianovski, Declan Walsh and Lynsey Chutel</sub>
-<p>At a summit in St. Petersburg, Russia, President Vladimir V. Putin offered free grain as he sought to shore up ties with the continent. But lower-than-hoped-for attendance among African leaders hinted at tempering support.  <a href="https://nyti.ms/3OwWZ9L"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>As McConnell Tries to Convey Business as Usual, His Future Is in Doubt</h3>
 <sub>By Annie Karni and Carl Hulse</sub>
@@ -116,10 +104,16 @@ Right now, there&#39;s a lot going on in the world. In the US, former President 
 <p>Even as Republicans pushed through the first of a dozen government funding measures, the struggle over another foreshadowed a potential shutdown in the fall.  <a href="https://nyti.ms/43PkMGu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Soft Landing Optimism Is Everywhere. That’s Happened Before.</h3>
-<sub>By Jeanna Smialek</sub>
-<p>People are often sure that the economy is going to settle down gently right before it plunges into recession, a reason for caution and humility.  <a href="https://nyti.ms/43MP90h"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Hunter Biden Judge, Defying a ‘Rubber Stamp,’ Jumps Into the Spotlight</h3>
+<sub>By Abbie VanSickle</sub>
+<p>Judge Maryellen Noreika was not an especially high-profile figure in the small legal community in the nation’s second-smallest state. That’s changed.  <a href="https://nyti.ms/3OeY30Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Randy Meisner, Founding Member of the Eagles, Dies at 77</h3>
+<sub>By Livia Albeck-Ripka and Orlando Mayorquin</sub>
+<p>Meisner, the group’s original bass player, helped form the band in 1971.  <a href="https://nyti.ms/3QcviEJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
@@ -128,10 +122,16 @@ Right now, there&#39;s a lot going on in the world. In the US, former President 
 <p>Frank Kozik made his name with his playfully gruesome concert posters for Nirvana, Soundgarden and Butthole Surfers. He added to his underground fame with his boundary-pushing “art toys.”  <a href="https://nyti.ms/3rLJBWw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Hunter Biden Judge, Defying a ‘Rubber Stamp,’ Jumps Into the Spotlight</h3>
-<sub>By Abbie VanSickle</sub>
-<p>Judge Maryellen Noreika was not an especially high-profile figure in the small legal community in the nation’s second-smallest state. That’s changed.  <a href="https://nyti.ms/3OeY30Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The Tiny Irish Village Where Sinéad O’Connor Escaped the World</h3>
+<sub>By Megan Specia</sub>
+<p>For three years, the singer, who died this week, found simplicity and happiness in a mountain sanctuary where she was just another neighbor.  <a href="https://nyti.ms/3rODcKj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Sinead O’Connor Condemned Church Abuse Early. America Didn’t Listen.</h3>
+<sub>By Liam Stack</sub>
+<p>In Ireland, Ms. O’Connor spoke out about abuse and the complicity of religious institutions. When she came to the United States, many were not ready to hear her — yet.  <a href="https://nyti.ms/3OeFvh6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
 <hr/>
 </ol>
