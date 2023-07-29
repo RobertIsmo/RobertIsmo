@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, July 29, Central Standard Time</p>
 <p>
-There have been a lot of events happening in the world lately. Elon Musk has become a dominant force in satellite internet technology, raising global alarms. In Ukraine, Russia is continuing an aggressive campaign against its ports which has forced Ukrainian President Volodymyr Zelensky to make difficult decisions about how to protect his country. In the US, cities like Portland, Oregon are dealing with homelessness paired with a fentanyl epidemic which has become a deadly crisis. Former President Donald J. Trump is also facing new charges that he allegedly tried to meddle with prosecutors during his time in office. In addition, e-bikes and their associated risks are becoming increasingly popular among teenagers and adults alike. There&#39;s also been unrest in Israel over a law limiting judicial power, which has sparked hundreds of resignations from military reservists. Other parts of the world like Niger and Africa have been experiencing coups; and Canada is being ravaged by fires that have disproportionately affected Indigenous people who rely on forests for sustenance. And closer to home, lower-income border towns in the US face a &quot;dangerous combination&quot; of extreme heat and water cutoffs during a record-setting summer.</p>
+The world is facing a lot of upheaval lately. For starters, Elon Musk has seemingly become unstoppable with his satellite internet technology. On top of that, Russia is currently targeting Ukraine&#39;s ports with their military might. In the U.S., cities like Portland, Oregon have seen an increase in serious homelessness due to fentanyl in the streets. It also seems like Donald Trump is being suspected for obstruction of justice, and at a recent political dinner none of the rival candidates even mentioned him. Meanwhile, there have been numerous accidents related to e-bikes - leading to questions about their safety. In Israel, military reservists are resigning over a new law that limits judicial power. African countries along the coast have had a domino effect of coups lately, and Canada has experienced record-breaking fires this summer which have disproportionately affected Indigenous people. And finally, on the U.S. border towns are trying to keep cool in what is shaping up to be a very hot summer, yet many places don&#39;t have access to running water to do so.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Elon Musk’s Unmatched Power in the Stars</h3>
@@ -81,15 +81,15 @@ There have been a lot of events happening in the world lately. Elon Musk has bec
 <sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>New Trump Charges Highlight Long-Running Questions About Obstruction</h3>
-<sub>By Michael S. Schmidt and Maggie Haberman</sub>
-<p>The accusation that former President Donald J. Trump wanted security camera footage deleted at Mar-a-Lago added to a pattern of concerns about his attempts to stymie prosecutors.  <a href="https://nyti.ms/44LgwJs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump, Spared Attacks by Rivals in Iowa, Doesn’t Return the Favor</h3>
 <sub>By Nicholas Nehamas, Jazmine Ulloa and Shane Goldmacher</sub>
 <p>Almost every one of former President Trump’s 13 rivals who attended the dinner declined to even mention the primary’s front-runner.  <a href="https://nyti.ms/3rM5eWS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>New Trump Charges Highlight Long-Running Questions About Obstruction</h3>
+<sub>By Michael S. Schmidt and Maggie Haberman</sub>
+<p>The accusation that former President Donald J. Trump wanted security camera footage deleted at Mar-a-Lago added to a pattern of concerns about his attempts to stymie prosecutors.  <a href="https://nyti.ms/44LgwJs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
@@ -111,9 +111,9 @@ There have been a lot of events happening in the world lately. Elon Musk has bec
 <sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘The Agreement Is Broken’: Israeli Reservists Resign to Protest New Law</h3>
+<h3>A Sense of Mission at Risk as Israeli Reservists Resign to Protest New Law</h3>
 <sub>By Patrick Kingsley and Ronen Bergman</sub>
-<p>Military reservists are key to Israel’s defense capacity and a shared sense of national mission. But after a new law curbing judicial power, scores of reservists have resigned — reflecting a widening rift in Israeli society.  <a href="https://nyti.ms/3qaZkhs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Military reservists are key to Israel’s defense capacity and a shared sense of national mission. But scores of reservists have resigned over a new law curbing judicial power, reflecting a widening rift in Israeli society.  <a href="https://nyti.ms/3qaZkhs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -124,7 +124,7 @@ There have been a lot of events happening in the world lately. Elon Musk has bec
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Canada Is Ravaged by Fire. No One Has Paid More Dearly Than Indigenous People.</h3>
-<sub>By Brent McDonald and Matt Joycey</sub>
+<sub>By Brent McDonald, Matt Joycey and Ben Laffin</sub>
 <p>The country’s record-breaking fire season has led tens of thousands of Indigenous people to flee their homes and ravaged forests they rely on for sustenance.  <a href="https://nyti.ms/3Oh9i8O"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
 <hr/>
