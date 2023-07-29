@@ -60,9 +60,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, July 29, Central Standard Time</p>
 <p>
-In Ukraine, the government has launched rare missile strikes against Russia and is making slow advances towards taking better shots at their targets. Ukrainians have even been able to find time for a wedding in the midst of all this, as a charity group has started to organize such celebrations for female service members. Meanwhile, a Ukrainian fencer was recently guaranteed a spot in the Paris Olympics despite having been penalized for refusing a Russian handshake.
+There is a lot of tension in the world right now. In Ukraine, there have been rare missile strikes between Russian and Ukrainian forces, and they are steadily advancing on each other and trying to gain a better shot at their targets. The Ukrainian forces even had a rare wedding between two service members in the middle of the battle! Meanwhile, in India the monsoon season is becoming increasingly unpredictable and violent, disrupting leisure travel.
 
-Closer to home in the US, Former President Donald Trump is facing charges related to obstruction of justice and The Mystery of How Tim Scott’s Campaign Is Spending Its Millions still remains unanswered. Meanwhile, Republicans Ron DeSantis and Tim Scott are clashing over Florida’s educational standards and an AIDS relief program is being threatened by a dispute over abortion. Pennsylvania Senator John Fetterman is adjusting to life in the Senate while new Black History Standards implemented in Florida have been met with backlash.</p>
+Closer to home, former president Donald Trump is facing news charges over obstruction, while current GOP hopeful Tim Scott has been receiving heavy criticism for his out-of-nowhere rise in the polls. Finally, the U.S. government is threatening to cut an AIDS relief program due to partisan disputes over abortion rights.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>New Trump Charges Highlight Long-Running Questions About Obstruction</h3>
