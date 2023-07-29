@@ -60,38 +60,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, July 29, Central Standard Time</p>
 <p>
-There is a lot of tension in the world right now. In Ukraine, there have been rare missile strikes between Russian and Ukrainian forces, and they are steadily advancing on each other and trying to gain a better shot at their targets. The Ukrainian forces even had a rare wedding between two service members in the middle of the battle! Meanwhile, in India the monsoon season is becoming increasingly unpredictable and violent, disrupting leisure travel.
-
-Closer to home, former president Donald Trump is facing news charges over obstruction, while current GOP hopeful Tim Scott has been receiving heavy criticism for his out-of-nowhere rise in the polls. Finally, the U.S. government is threatening to cut an AIDS relief program due to partisan disputes over abortion rights.</p>
+There have been a lot of events happening in the world lately. Elon Musk has become a dominant force in satellite internet technology, raising global alarms. In Ukraine, Russia is continuing an aggressive campaign against its ports which has forced Ukrainian President Volodymyr Zelensky to make difficult decisions about how to protect his country. In the US, cities like Portland, Oregon are dealing with homelessness paired with a fentanyl epidemic which has become a deadly crisis. Former President Donald J. Trump is also facing new charges that he allegedly tried to meddle with prosecutors during his time in office. In addition, e-bikes and their associated risks are becoming increasingly popular among teenagers and adults alike. There&#39;s also been unrest in Israel over a law limiting judicial power, which has sparked hundreds of resignations from military reservists. Other parts of the world like Niger and Africa have been experiencing coups; and Canada is being ravaged by fires that have disproportionately affected Indigenous people who rely on forests for sustenance. And closer to home, lower-income border towns in the US face a &quot;dangerous combination&quot; of extreme heat and water cutoffs during a record-setting summer.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Elon Musk’s Unmatched Power in the Stars</h3>
+<sub>By Adam Satariano, Scott Reinhard, Cade Metz, Sheera Frenkel and Malika Khurana</sub>
+<p>The tech billionaire has become the dominant power in satellite internet technology. The ways he is wielding that influence are raising global alarms.  <a href="https://nyti.ms/44MHyjw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russia Strikes Another Grain Terminal, Extending a Campaign Against Ukraine’s Ports</h3>
+<sub>By Marc Santora and Victoria Kim</sub>
+<p>President Volodymyr Zelensky has promised to build up defenses around his country’s southern coast, but Kyiv must make tough decisions about where to put its resources.  <a href="https://nyti.ms/3Qj0iCX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Fighting for Anthony: The Struggle to Save Portland, Oregon</h3>
+<sub>By Michael Corkery</sub>
+<p>The city has long grappled with street homelessness and a shortage of housing. Now fentanyl has turned a perennial problem into a deadly crisis and a challenge to the city’s progressive identity.  <a href="https://nyti.ms/3O7W3aC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>New Trump Charges Highlight Long-Running Questions About Obstruction</h3>
 <sub>By Michael S. Schmidt and Maggie Haberman</sub>
 <p>The accusation that former President Donald J. Trump wanted security camera footage deleted at Mar-a-Lago added to a pattern of concerns about his attempts to stymie prosecutors.  <a href="https://nyti.ms/44LgwJs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Launches Rare Missile Strikes in Russia, Moscow Says</h3>
-<sub>By Marc Santora and Anton Troianovski</sub>
-<p>Kyiv did not take responsibility for the attacks, which could be a bid to broaden a war that has mostly rained ruin and death on Ukraine.  <a href="https://nyti.ms/47lvO9A"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>With Slow Advance, Ukraine Aims for Better Shot at Russian Targets</h3>
-<sub>By Marc Santora</sub>
-<p>Ukraine is hoping that mile-by-mile gains could bring its weapons closer to Russian supply lines, if its forces can overcome Russia’s heavy defense.  <a href="https://nyti.ms/3OggphM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Two Ukrainian Service Members Take a Break to Say ‘I Do’</h3>
-<sub>By Cassandra Vinograd</sub>
-<p>Their wedding was hosted by a charity group that provides uniforms, boots and other essentials to female soldiers, but because of demand recently started to organize such celebrations.  <a href="https://nyti.ms/3YbHiYR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Ukrainian fencer penalized for refusing a Russian handshake is guaranteed a spot in the Paris Olympics.</h3>
-<sub>By Gaya Gupta</sub>
-<p>  <a href="https://nyti.ms/3OedPZP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -100,41 +92,47 @@ Closer to home, former president Donald Trump is facing news charges over obstru
 <p>Almost every one of former President Trump’s 13 rivals who attended the dinner declined to even mention the primary’s front-runner.  <a href="https://nyti.ms/3rM5eWS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Mystery of How Tim Scott’s Campaign Is Spending Its Millions</h3>
-<sub>By Rebecca Davis O’Brien and Alexandra Berzon</sub>
-<p>Most of the money spent by the senator’s presidential campaign has gone to newly formed companies whose addresses are Staples stores in suburban strip malls.  <a href="https://nyti.ms/44IiWbN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 28, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>‘A Dangerous Combination’: Teenagers’ Accidents Expose E-Bike Risks</h3>
+<sub>By Matt Richtel</sub>
+<p>The e-bike industry is booming, but many vehicles are not legal for teenagers, and accidents are on the rise.  <a href="https://nyti.ms/3DxH6JV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Reeling DeSantis Takes a Swing at Scott, Now a Top Rival</h3>
-<sub>By Nicholas Nehamas</sub>
-<p>Ron DeSantis and Tim Scott, fighting to become the leading Republican alternative to Donald Trump, have clashed in recent days over Florida’s educational standards.  <a href="https://nyti.ms/44MbQTJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 28, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>What Is an E-Bike, and How Safe Are They?</h3>
+<sub>By Matt Richtel</sub>
+<p>Surprisingly tricky questions about an increasingly popular vehicle.  <a href="https://nyti.ms/3Oh9ipk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-books-blue" alt="">
+<h3>Nobody Ever Read American Literature Like This Guy Did</h3>
+<sub>By A.O. Scott</sub>
+<p>Inflamed, impertinent and deeply insightful, D.H. Lawrence’s “Studies in Classic American Literature” remains startlingly relevant 100 years after it was originally published.  <a href="https://nyti.ms/3Oh9jcS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Monsoon’s Fury Sours Romance of Wet Season Travel in India</h3>
-<sub>By Suhasini Raj</sub>
-<p>Long considered a life-giving panacea, India’s rainy season has become more violent and unpredictable. It is upsetting many rhythms of life, among them, leisure travel.  <a href="https://nyti.ms/3Kh8X4V"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 26, Central Standard Time</sub></sub>
+<h3>‘The Agreement Is Broken’: Israeli Reservists Resign to Protest New Law</h3>
+<sub>By Patrick Kingsley and Ronen Bergman</sub>
+<p>Military reservists are key to Israel’s defense capacity and a shared sense of national mission. But after a new law curbing judicial power, scores of reservists have resigned — reflecting a widening rift in Israeli society.  <a href="https://nyti.ms/3qaZkhs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Coast to Coast, a Corridor of Coups Brings Turmoil in Africa</h3>
+<sub>By Declan Walsh</sub>
+<p>This past week’s military takeover in Niger completed a domino chain of countries ruled by leaders who seized power by force, fueling instability and presenting a conundrum for the United States.  <a href="https://nyti.ms/3KfdqoT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Canada Is Ravaged by Fire. No One Has Paid More Dearly Than Indigenous People.</h3>
+<sub>By Brent McDonald and Matt Joycey</sub>
+<p>The country’s record-breaking fire season has led tens of thousands of Indigenous people to flee their homes and ravaged forests they rely on for sustenance.  <a href="https://nyti.ms/3Oh9i8O"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>John Fetterman, Hoodie and All, Is Adjusting to Life in the Senate</h3>
-<sub>By Annie Karni</sub>
-<p>In an interview with The New York Times, the Pennsylvania senator spoke about the dysfunction in Congress, his health challenges and why he hasn’t traded his loungewear for a business suit.  <a href="https://nyti.ms/43GH8tT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Florida’s New Black History Standards Have Drawn Backlash. Who Wrote Them?</h3>
-<sub>By Sarah Mervosh</sub>
-<p>In updating the standards to comply with a new law that limits how racism can be taught, officials largely bypassed the state’s African American History Task Force.  <a href="https://nyti.ms/3rNJ3iS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>AIDS Relief Program Under Threat as G.O.P. Insists on Abortion Restriction</h3>
-<sub>By Sheryl Gay Stolberg</sub>
-<p>A decades-old program created by President George W. Bush to combat AIDS around the world is at risk of being sucked into a partisan dispute over abortion, with some Republicans threatening to block its renewal.  <a href="https://nyti.ms/43MKyeB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 28, Central Standard Time</sub></sub>
+<h3>In Border Towns, a ‘Dangerous Combination’ of Heat and Water Cutoffs</h3>
+<sub>By Edgar Sandoval</sub>
+<p>Trying to keep cool during a record-setting summer is a social divide for residents of low-income colonias, where running water can be in short supply.  <a href="https://nyti.ms/3q9qYLL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
