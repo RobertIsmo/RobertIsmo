@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, July 28, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In Ukraine, they recently launched rare missile strikes against Russia, and are slowly advancing to better target their military objectives. In a remarkable display of love in the middle of war, two Ukrainian service members took a break from battle to get married with help from a charity group. Also, Ukraine&#39;s top Olympic fencer was recently guaranteed a spot at the Paris Olympics despite being penalized for refusing to shake a Russian opponent&#39;s hand. In the US, there are several political stories making news. Former president Donald Trump has been accused of obstruction related to security cameras at Mar-a-Lago, and current Senator Tim Scott is facing off with Governor Ron DeSantis over educational standards in Florida. Senator John Fetterman is also adjusting to his new life in the Senate. Finally, there is a story about AIDS relief programs coming under threat due to abortion restrictions, as well as Kevin Spacey facing uphills odds for Hollywood roles even after being acquitted of sexual assault charges.</p>
+In the US, there are new charges against former President Donald J. Trump over an attempt to delete security footage from Mar-a-Lago and in Florida, Tim Scott and Ron DeSantis have clashed over educational standards. Meanwhile in Ukraine, they have launched rare missile strikes against Russia and their military is slowly gaining ground to get closer to Russian supply lines. Two Ukrainian service members even got married recently! In New York, residents are preparing for the high temperatures by stocking up on essential items like extra shirts and puppy paw balm. At a global level, an AIDS relief program created by George W. Bush over 20 years ago is under threat due to abortion restrictions put in place by Republicans.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>New Trump Charges Highlight Long-Running Questions About Obstruction</h3>
@@ -111,15 +111,9 @@ There is a lot going on in the world right now. In Ukraine, they recently launch
 <sub><sub>Friday, July 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>AIDS Relief Program Under Threat as G.O.P. Insists on Abortion Restriction</h3>
-<sub>By Sheryl Gay Stolberg</sub>
-<p>A decades-old program created by President George W. Bush to combat AIDS around the world is at risk of being sucked into a partisan dispute over abortion, with some Republicans threatening to block its renewal.  <a href="https://nyti.ms/43MKyeB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>Despite Acquittal, Kevin Spacey Faces Uphill Battle for Hollywood Roles</h3>
-<sub>By Alex Marshall and Maya Salam</sub>
-<p>The actor, who was cleared of sexual assault charges in Britain this week, has parts in two small upcoming films. Yet his tarnished public perception makes starry roles unlikely.  <a href="https://nyti.ms/3Ki2fM0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>John Fetterman, Hoodie and All, Is Adjusting to Life in the Senate</h3>
+<sub>By Annie Karni</sub>
+<p>In an interview with The New York Times, the Pennsylvania senator spoke about the dysfunction in Congress, his health challenges and why he hasn’t traded his loungewear for a business suit.  <a href="https://nyti.ms/43GH8tT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -129,9 +123,15 @@ There is a lot going on in the world right now. In Ukraine, they recently launch
 <sub><sub>Friday, July 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>John Fetterman, Hoodie and All, Is Adjusting to Life in the Senate</h3>
-<sub>By Annie Karni</sub>
-<p>In an interview with The New York Times, the Pennsylvania senator spoke about the dysfunction in Congress, his health challenges and why he hasn’t traded his loungewear for a business suit.  <a href="https://nyti.ms/43GH8tT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>AIDS Relief Program Under Threat as G.O.P. Insists on Abortion Restriction</h3>
+<sub>By Sheryl Gay Stolberg</sub>
+<p>A decades-old program created by President George W. Bush to combat AIDS around the world is at risk of being sucked into a partisan dispute over abortion, with some Republicans threatening to block its renewal.  <a href="https://nyti.ms/43MKyeB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Puppy Paw Balm. An Extra Shirt. New Yorkers Cope With Hazardous Heat.</h3>
+<sub>By Sarah Maslin Nir and Ang Li</sub>
+<p>The heat index stayed below 100 on Friday, an unexpected salve for New York City residents who nonetheless prepared in advance.  <a href="https://nyti.ms/451Ags3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
