@@ -60,13 +60,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, July 29, Central Standard Time</p>
 <p>
-The world is facing a lot of upheaval lately. For starters, Elon Musk has seemingly become unstoppable with his satellite internet technology. On top of that, Russia is currently targeting Ukraine&#39;s ports with their military might. In the U.S., cities like Portland, Oregon have seen an increase in serious homelessness due to fentanyl in the streets. It also seems like Donald Trump is being suspected for obstruction of justice, and at a recent political dinner none of the rival candidates even mentioned him. Meanwhile, there have been numerous accidents related to e-bikes - leading to questions about their safety. In Israel, military reservists are resigning over a new law that limits judicial power. African countries along the coast have had a domino effect of coups lately, and Canada has experienced record-breaking fires this summer which have disproportionately affected Indigenous people. And finally, on the U.S. border towns are trying to keep cool in what is shaping up to be a very hot summer, yet many places don&#39;t have access to running water to do so.</p>
+Right now, there is a lot going on in the world. For example, Elon Musk has become a dominant power in satellite internet technology and some are worried about how he is using his influence. In Odesa, Ukraine, Russia’s continuous attacks have made many in the city incredibly resentful towards them. Meanwhile, US cities like Portland are dealing with fentanyl epidemics and are struggling to provide housing to the homeless. On top of that, Russia has also been attacking Ukraine&#39;s ports and President Volodymyr Zelensky is having to make tough decisions about how to defend his country. US intelligence believes China could potentially have the power to disrupt American military operations so they are doing what they can to contain it. In Iowa, a contest once expected to be a two-man race between Donald Trump and Ron DeSantis has widened as Trump now finds himself competing against everyone else. In Africa, there have been some recent military takeovers and the US is left with the conundrum regarding how to respond. Then there are cases of older US senators which have raised questions about aging in office and what should be done in these types of situations.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Elon Musk’s Unmatched Power in the Stars</h3>
 <sub>By Adam Satariano, Scott Reinhard, Cade Metz, Sheera Frenkel and Malika Khurana</sub>
 <p>The tech billionaire has become the dominant power in satellite internet technology. The ways he is wielding that influence are raising global alarms.  <a href="https://nyti.ms/44MHyjw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘We Can Never Forgive This’: In Odesa, Attacks Stoke Hatred of Russia</h3>
+<sub>By Valerie Hopkins and Emile Ducke</sub>
+<p>President Vladimir V. Putin of Russia views Odesa as a culturally important part of his nation. But many in the Ukrainian city reject the connection and view the country that has been attacking it with loathing.  <a href="https://nyti.ms/3KfdpRR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Russia Strikes Another Grain Terminal, Extending a Campaign Against Ukraine’s Ports</h3>
@@ -81,27 +87,27 @@ The world is facing a lot of upheaval lately. For starters, Elon Musk has seemin
 <sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. Hunts Chinese Malware That Could Disrupt American Military Operations</h3>
+<sub>By David E. Sanger and Julian E. Barnes</sub>
+<p>American intelligence officials believe the malware could give China the power to disrupt or slow American deployments or resupply operations, including during a Chinese move against Taiwan.  <a href="https://nyti.ms/3OCH2ze"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump and DeSantis Collide for First Time in Iowa, as Fortunes Diverge</h3>
+<sub>By Shane Goldmacher</sub>
+<p>A contest once viewed as a two-man race between Donald J. Trump and Ron DeSantis has settled into a new dynamic: Mr. Trump versus everyone else.  <a href="https://nyti.ms/3KkSUmR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump, Spared Attacks by Rivals in Iowa, Doesn’t Return the Favor</h3>
 <sub>By Nicholas Nehamas, Jazmine Ulloa and Shane Goldmacher</sub>
 <p>Almost every one of former President Trump’s 13 rivals who attended the dinner declined to even mention the primary’s front-runner.  <a href="https://nyti.ms/3rM5eWS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>New Trump Charges Highlight Long-Running Questions About Obstruction</h3>
-<sub>By Michael S. Schmidt and Maggie Haberman</sub>
-<p>The accusation that former President Donald J. Trump wanted security camera footage deleted at Mar-a-Lago added to a pattern of concerns about his attempts to stymie prosecutors.  <a href="https://nyti.ms/44LgwJs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>‘A Dangerous Combination’: Teenagers’ Accidents Expose E-Bike Risks</h3>
 <sub>By Matt Richtel</sub>
 <p>The e-bike industry is booming, but many vehicles are not legal for teenagers, and accidents are on the rise.  <a href="https://nyti.ms/3DxH6JV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>What Is an E-Bike, and How Safe Are They?</h3>
-<sub>By Matt Richtel</sub>
-<p>Surprisingly tricky questions about an increasingly popular vehicle.  <a href="https://nyti.ms/3Oh9ipk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-books-blue" alt="">
@@ -122,16 +128,10 @@ The world is facing a lot of upheaval lately. For starters, Elon Musk has seemin
 <p>This past week’s military takeover in Niger completed a domino chain of countries ruled by leaders who seized power by force, fueling instability and presenting a conundrum for the United States.  <a href="https://nyti.ms/3KfdqoT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Canada Is Ravaged by Fire. No One Has Paid More Dearly Than Indigenous People.</h3>
-<sub>By Brent McDonald, Matt Joycey and Ben Laffin</sub>
-<p>The country’s record-breaking fire season has led tens of thousands of Indigenous people to flee their homes and ravaged forests they rely on for sustenance.  <a href="https://nyti.ms/3Oh9i8O"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Border Towns, a ‘Dangerous Combination’ of Heat and Water Cutoffs</h3>
-<sub>By Edgar Sandoval</sub>
-<p>Trying to keep cool during a record-setting summer is a social divide for residents of low-income colonias, where running water can be in short supply.  <a href="https://nyti.ms/3q9qYLL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Reluctant to Retire, Leaders Raise a Tough Question: How Old Is Too Old?</h3>
+<sub>By Lisa Lerer and Reid J. Epstein</sub>
+<p>Two troubling moments involving Senators Dianne Feinstein and Mitch McConnell thrust questions about aging in office out of Congress and into the national conversation.  <a href="https://nyti.ms/3rQhg1v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
 <hr/>
 </ol>
