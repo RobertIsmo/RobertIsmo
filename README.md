@@ -58,9 +58,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Friday, July 28, Central Standard Time</p>
+<p>It is Saturday, July 29, Central Standard Time</p>
 <p>
-In the US, there are new charges against former President Donald J. Trump over an attempt to delete security footage from Mar-a-Lago and in Florida, Tim Scott and Ron DeSantis have clashed over educational standards. Meanwhile in Ukraine, they have launched rare missile strikes against Russia and their military is slowly gaining ground to get closer to Russian supply lines. Two Ukrainian service members even got married recently! In New York, residents are preparing for the high temperatures by stocking up on essential items like extra shirts and puppy paw balm. At a global level, an AIDS relief program created by George W. Bush over 20 years ago is under threat due to abortion restrictions put in place by Republicans.</p>
+In Ukraine, the government has launched rare missile strikes against Russia and is making slow advances towards taking better shots at their targets. Ukrainians have even been able to find time for a wedding in the midst of all this, as a charity group has started to organize such celebrations for female service members. Meanwhile, a Ukrainian fencer was recently guaranteed a spot in the Paris Olympics despite having been penalized for refusing a Russian handshake.
+
+Closer to home in the US, Former President Donald Trump is facing charges related to obstruction of justice and The Mystery of How Tim Scott’s Campaign Is Spending Its Millions still remains unanswered. Meanwhile, Republicans Ron DeSantis and Tim Scott are clashing over Florida’s educational standards and an AIDS relief program is being threatened by a dispute over abortion. Pennsylvania Senator John Fetterman is adjusting to life in the Senate while new Black History Standards implemented in Florida have been met with backlash.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>New Trump Charges Highlight Long-Running Questions About Obstruction</h3>
@@ -93,6 +95,12 @@ In the US, there are new charges against former President Donald J. Trump over a
 <sub><sub>Friday, July 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump, Spared Attacks by Rivals in Iowa, Doesn’t Return the Favor</h3>
+<sub>By Nicholas Nehamas, Jazmine Ulloa and Shane Goldmacher</sub>
+<p>Almost every one of former President Trump’s 13 rivals who attended the dinner declined to even mention the primary’s front-runner.  <a href="https://nyti.ms/3rM5eWS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The Mystery of How Tim Scott’s Campaign Is Spending Its Millions</h3>
 <sub>By Rebecca Davis O’Brien and Alexandra Berzon</sub>
 <p>Most of the money spent by the senator’s presidential campaign has gone to newly formed companies whose addresses are Staples stores in suburban strip malls.  <a href="https://nyti.ms/44IiWbN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -104,11 +112,11 @@ In the US, there are new charges against former President Donald J. Trump over a
 <p>Ron DeSantis and Tim Scott, fighting to become the leading Republican alternative to Donald Trump, have clashed in recent days over Florida’s educational standards.  <a href="https://nyti.ms/44MbQTJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-realestate-blue" alt="">
-<h3>A Tiny Cabin, a Little Island and a Big Change: ‘Am I Crazy?’</h3>
-<sub>By Steven Kurutz</sub>
-<p>A New Jersey woman now lives alone part of the year on a remote island in Maine that Stephen King called ‘a novel here, just waiting to be written.’  <a href="https://nyti.ms/43FQsOF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 28, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Monsoon’s Fury Sours Romance of Wet Season Travel in India</h3>
+<sub>By Suhasini Raj</sub>
+<p>Long considered a life-giving panacea, India’s rainy season has become more violent and unpredictable. It is upsetting many rhythms of life, among them, leisure travel.  <a href="https://nyti.ms/3Kh8X4V"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>John Fetterman, Hoodie and All, Is Adjusting to Life in the Senate</h3>
@@ -126,12 +134,6 @@ In the US, there are new charges against former President Donald J. Trump over a
 <h3>AIDS Relief Program Under Threat as G.O.P. Insists on Abortion Restriction</h3>
 <sub>By Sheryl Gay Stolberg</sub>
 <p>A decades-old program created by President George W. Bush to combat AIDS around the world is at risk of being sucked into a partisan dispute over abortion, with some Republicans threatening to block its renewal.  <a href="https://nyti.ms/43MKyeB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Puppy Paw Balm. An Extra Shirt. New Yorkers Cope With Hazardous Heat.</h3>
-<sub>By Sarah Maslin Nir and Ang Li</sub>
-<p>The heat index stayed below 100 on Friday, an unexpected salve for New York City residents who nonetheless prepared in advance.  <a href="https://nyti.ms/451Ags3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
