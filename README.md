@@ -60,7 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, July 29, Central Standard Time</p>
 <p>
-Right now, there is a lot going on in the world. For example, Elon Musk has become a dominant power in satellite internet technology and some are worried about how he is using his influence. In Odesa, Ukraine, Russia’s continuous attacks have made many in the city incredibly resentful towards them. Meanwhile, US cities like Portland are dealing with fentanyl epidemics and are struggling to provide housing to the homeless. On top of that, Russia has also been attacking Ukraine&#39;s ports and President Volodymyr Zelensky is having to make tough decisions about how to defend his country. US intelligence believes China could potentially have the power to disrupt American military operations so they are doing what they can to contain it. In Iowa, a contest once expected to be a two-man race between Donald Trump and Ron DeSantis has widened as Trump now finds himself competing against everyone else. In Africa, there have been some recent military takeovers and the US is left with the conundrum regarding how to respond. Then there are cases of older US senators which have raised questions about aging in office and what should be done in these types of situations.</p>
+There&#39;s a lot going on in the world right now! Business-wise, tech billionaire Elon Musk has become the dominant power in satellite internet technology and some people are worried about how he&#39;s using that influence. In Odesa, Ukraine, Russia has been attacking citizens, which is raising hatred toward Russia and prompting calls for action. Meanwhile, in St. Petersburg, Russia struck another grain terminal as part of its campaign against Ukraine&#39;s ports. 
+
+In Portland, Oregon there&#39;s a deadly crisis related to street homelessness and fentanyl -- people are fighting to save the city. Meanwhile, the US is on alert after Chinese malware was discovered that could disrupt military operations if the US and China had any kind of conflict in the future. 
+
+On the diplomatic front, President Biden is trying to broker a rapprochement between Israel and Saudi Arabia by sending his national security adviser Jake Sullivan on a mission to build ties between the two countries. In Israel, military reservists are resigning to protest a new law limiting judicial power, threatening their shared sense of national mission. 
+
+In terms of literature, DH Lawrence&#39;s book “Studies in Classic American Literature” is still super relevant 100 years after it was first published. In Iowa there&#39;s a GOP contest between former president Donald Trump and current Florida governor Ron DeSantis. And finally, teenagers are getting into accidents with e-bikes which has highlighted risks associated with them since they&#39;re not legal for teens. Additionally, two challenging moments with Senators Dianne Feinstein and Mitch McConnell have raised questions about aging in office that have become part of a broader national conversation.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Elon Musk’s Unmatched Power in the Stars</h3>
@@ -77,7 +83,7 @@ Right now, there is a lot going on in the world. For example, Elon Musk has beco
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Russia Strikes Another Grain Terminal, Extending a Campaign Against Ukraine’s Ports</h3>
 <sub>By Marc Santora and Victoria Kim</sub>
-<p>President Volodymyr Zelensky has promised to build up defenses around his country’s southern coast, but Kyiv must make tough decisions about where to put its resources.  <a href="https://nyti.ms/3Qj0iCX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>In St. Petersburg, President Vladimir V. Putin rejected calls for reviving a Black Sea grain deal or for ending fighting.  <a href="https://nyti.ms/3Qj0iCX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -93,21 +99,15 @@ Right now, there is a lot going on in the world. For example, Elon Musk has beco
 <sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump and DeSantis Collide for First Time in Iowa, as Fortunes Diverge</h3>
-<sub>By Shane Goldmacher</sub>
-<p>A contest once viewed as a two-man race between Donald J. Trump and Ron DeSantis has settled into a new dynamic: Mr. Trump versus everyone else.  <a href="https://nyti.ms/3KkSUmR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Biden Presses Ahead With Effort to Broker Israeli-Saudi Rapprochement</h3>
+<sub>By Peter Baker</sub>
+<p>The president sent Jake Sullivan, his national security adviser, on the latest diplomatic mission seeking to forge ties between Saudi Arabia and Israel.  <a href="https://nyti.ms/3QA5wdR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump, Spared Attacks by Rivals in Iowa, Doesn’t Return the Favor</h3>
-<sub>By Nicholas Nehamas, Jazmine Ulloa and Shane Goldmacher</sub>
-<p>Almost every one of former President Trump’s 13 rivals who attended the dinner declined to even mention the primary’s front-runner.  <a href="https://nyti.ms/3rM5eWS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>‘A Dangerous Combination’: Teenagers’ Accidents Expose E-Bike Risks</h3>
-<sub>By Matt Richtel</sub>
-<p>The e-bike industry is booming, but many vehicles are not legal for teenagers, and accidents are on the rise.  <a href="https://nyti.ms/3DxH6JV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Sense of Mission at Risk as Israeli Reservists Resign to Protest New Law</h3>
+<sub>By Patrick Kingsley and Ronen Bergman</sub>
+<p>Military reservists are key to Israel’s defense capacity and a shared sense of national mission. But scores of reservists have resigned over a new law curbing judicial power, reflecting a widening rift in Israeli society.  <a href="https://nyti.ms/3qaZkhs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-books-blue" alt="">
@@ -116,10 +116,16 @@ Right now, there is a lot going on in the world. For example, Elon Musk has beco
 <p>Inflamed, impertinent and deeply insightful, D.H. Lawrence’s “Studies in Classic American Literature” remains startlingly relevant 100 years after it was originally published.  <a href="https://nyti.ms/3Oh9jcS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Sense of Mission at Risk as Israeli Reservists Resign to Protest New Law</h3>
-<sub>By Patrick Kingsley and Ronen Bergman</sub>
-<p>Military reservists are key to Israel’s defense capacity and a shared sense of national mission. But scores of reservists have resigned over a new law curbing judicial power, reflecting a widening rift in Israeli society.  <a href="https://nyti.ms/3qaZkhs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump and DeSantis Collide for First Time in Iowa, as Fortunes Diverge</h3>
+<sub>By Shane Goldmacher</sub>
+<p>A contest once viewed as a two-man race between Donald J. Trump and Ron DeSantis has settled into a new dynamic: Mr. Trump versus everyone else.  <a href="https://nyti.ms/3KkSUmR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>‘A Dangerous Combination’: Teenagers’ Accidents Expose E-Bike Risks</h3>
+<sub>By Matt Richtel</sub>
+<p>The e-bike industry is booming, but many vehicles are not legal for teenagers, and accidents are on the rise.  <a href="https://nyti.ms/3DxH6JV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
