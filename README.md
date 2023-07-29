@@ -60,8 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, July 28, Central Standard Time</p>
 <p>
-There is a lot of tension between Ukraine and Russia, as Ukraine is advancing in their territory while trying to overcome the defense that Russia has in place. On a lighter note, two Ukrainian service members were able to get married with the help of charities that supported them. Meanwhile, a Ukrainian fencer was granted a spot in the Olympics. In the US, former president Trump is facing new charges related to documents and his ex-manager is also being named as a defendant. Additionally, there has been some mysteries around Senator Tim Scott&#39;s campaign spending and him clashing with Governor DeSantis over educational standards in Florida. There&#39;s also stories about people like the one from New Jersey who moved out to Maine to live in a tiny cabin on an island and actor Kevin Spacey trying to make his way back into Hollywood despite being acquitted for sexual assault charges overseas. Moreover, cities across Europe are finding age-old ways to stay cool as heat waves intensify and New Yorkers coped with a hazardous heatwave this week.</p>
+There is a lot going on in the world right now. In Ukraine, they recently launched rare missile strikes against Russia, and are slowly advancing to better target their military objectives. In a remarkable display of love in the middle of war, two Ukrainian service members took a break from battle to get married with help from a charity group. Also, Ukraine&#39;s top Olympic fencer was recently guaranteed a spot at the Paris Olympics despite being penalized for refusing to shake a Russian opponent&#39;s hand. In the US, there are several political stories making news. Former president Donald Trump has been accused of obstruction related to security cameras at Mar-a-Lago, and current Senator Tim Scott is facing off with Governor Ron DeSantis over educational standards in Florida. Senator John Fetterman is also adjusting to his new life in the Senate. Finally, there is a story about AIDS relief programs coming under threat due to abortion restrictions, as well as Kevin Spacey facing uphills odds for Hollywood roles even after being acquitted of sexual assault charges.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>New Trump Charges Highlight Long-Running Questions About Obstruction</h3>
+<sub>By Michael S. Schmidt and Maggie Haberman</sub>
+<p>The accusation that former President Donald J. Trump wanted security camera footage deleted at Mar-a-Lago added to a pattern of concerns about his attempts to stymie prosecutors.  <a href="https://nyti.ms/44LgwJs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukraine Launches Rare Missile Strikes in Russia, Moscow Says</h3>
+<sub>By Marc Santora and Anton Troianovski</sub>
+<p>Kyiv did not take responsibility for the attacks, which could be a bid to broaden a war that has mostly rained ruin and death on Ukraine.  <a href="https://nyti.ms/47lvO9A"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 28, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>With Slow Advance, Ukraine Aims for Better Shot at Russian Targets</h3>
 <sub>By Marc Santora</sub>
@@ -81,12 +93,6 @@ There is a lot of tension between Ukraine and Russia, as Ukraine is advancing in
 <sub><sub>Friday, July 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Faces Major New Charges in Documents Case</h3>
-<sub>By Alan Feuer, Maggie Haberman and Glenn Thrush</sub>
-<p>The office of the special counsel accused the former president of seeking to delete security camera footage at Mar-a-Lago. The manager of the property, Carlos De Oliveira, was also named as a new defendant.  <a href="https://nyti.ms/3KiTeT7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The Mystery of How Tim Scott’s Campaign Is Spending Its Millions</h3>
 <sub>By Rebecca Davis O’Brien and Alexandra Berzon</sub>
 <p>Most of the money spent by the senator’s presidential campaign has gone to newly formed companies whose addresses are Staples stores in suburban strip malls.  <a href="https://nyti.ms/44IiWbN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -102,6 +108,12 @@ There is a lot of tension between Ukraine and Russia, as Ukraine is advancing in
 <h3>A Tiny Cabin, a Little Island and a Big Change: ‘Am I Crazy?’</h3>
 <sub>By Steven Kurutz</sub>
 <p>A New Jersey woman now lives alone part of the year on a remote island in Maine that Stephen King called ‘a novel here, just waiting to be written.’  <a href="https://nyti.ms/43FQsOF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>AIDS Relief Program Under Threat as G.O.P. Insists on Abortion Restriction</h3>
+<sub>By Sheryl Gay Stolberg</sub>
+<p>A decades-old program created by President George W. Bush to combat AIDS around the world is at risk of being sucked into a partisan dispute over abortion, with some Republicans threatening to block its renewal.  <a href="https://nyti.ms/43MKyeB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-movies-blue" alt="">
@@ -120,18 +132,6 @@ There is a lot of tension between Ukraine and Russia, as Ukraine is advancing in
 <h3>John Fetterman, Hoodie and All, Is Adjusting to Life in the Senate</h3>
 <sub>By Annie Karni</sub>
 <p>In an interview with The New York Times, the Pennsylvania senator spoke about the dysfunction in Congress, his health challenges and why he hasn’t traded his loungewear for a business suit.  <a href="https://nyti.ms/43GH8tT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Puppy Paw Balm. An Extra Shirt. New Yorkers Cope With Hazardous Heat.</h3>
-<sub>By Sarah Maslin Nir and Ang Li</sub>
-<p>The heat index stayed below 100 on Friday, an unexpected salve for New York City residents who nonetheless prepared in advance.  <a href="https://nyti.ms/451Ags3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Heat Waves Intensify, Europe’s Cities Rely on Age-Old Ways to Stay Cool</h3>
-<sub>By Jenny Gross</sub>
-<p>Architectural styles and construction materials can significantly reduce the need for air-conditioning during heat waves, according to sustainable architecture experts.  <a href="https://nyti.ms/43NlUu6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, July 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
