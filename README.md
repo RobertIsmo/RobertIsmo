@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, July 30, Central Standard Time</p>
 <p>
-The world is changing quickly and events are happening everywhere. In the Middle East, climate change is putting additional strain on the Fertile Crescent, causing extreme temperatures and water shortages. In the US, there&#39;s been a secret history of gun rights as legislators have been working with the National Rifle Association to shape laws, courts and views on the Second Amendment. Ukraine is currently going through a tough counterattack with Russian defenses impeding progress. There has also been a wave of strikes from drones targeting Moscow in Russia. Video gamers are being targeted with Russian propaganda, while North Carolina politics have blown up due to a party switch by a prominent Democrat. Pakistan recently experienced a deadly blast at a political rally killing dozens, while California&#39;s Montecito area is home to wealthier celebrities and influencers dreaming of the New American Dream. New York City hired an expert to move hundreds of asylum seekers outside the city, but reports say they&#39;ve been mistreated and lied to in the process. Meanwhile, college alumni are debating reversal of legacy admissions policies since the Supreme Court weakened race-based programs, and Donald Trump is facing legal trouble due to millions of dollars he has requested for refunds for his lawyer fees. Lastly, Trump has threatened Republicans who don&#39;t help him exact vengeance or risk facing consequences in future elections.</p>
+Right now, the world is facing some serious climate change warnings from the Fertile Crescent in the Middle East with extreme temperatures and dwindling water supplies. On the political side, Ukrainians have made gains in battlefields against Russia, while the government says two drones have recently attacked Moscow. In the United States, a secret history of gun rights is being examined as more states grapple with firearm laws and legacy admissions laws are debated following a Supreme Court decision. On the international front, there has been a devastating explosion at a Pakistani political rally that killed many people. Here in America, issues of immigration reform also remain top of mind as New York City contracted a medical services company to handle hundreds of asylum seekers outside the city. Further west in Iowa, a left-right alliance is pressuring presidential candidates to block pipelines for carbon dioxide and finally in the cultural sector a female trombonist is breaking the boundaries of classical music and pushing for more diversity.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>A Climate Warning from the Cradle of Civilization</h3>
@@ -99,9 +99,9 @@ The world is changing quickly and events are happening everywhere. In the Middle
 <sub><sub>Sunday, July 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>At Least 35 Killed in Blast at Political Rally in Pakistan</h3>
+<h3>At Least 43 Killed in Blast at Political Rally in Pakistan</h3>
 <sub>By Christina Goldbaum and Zia ur-Rehman</sub>
-<p>An explosion at a political rally on Sunday in northwest Pakistan killed at least 35 people and injured 200 more, officials said, the latest sign of the deteriorating security situation in Pakistan, where some militant groups have become more active over the past two years.  <a href="https://nyti.ms/3qfJRMX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>An explosion at a political rally on Sunday in northwest Pakistan killed dozens of people and injured 200 more, officials said, the latest sign of the deteriorating security situation in Pakistan, where some militant groups have become more active over the past two years.  <a href="https://nyti.ms/3qfJRMX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
@@ -123,16 +123,16 @@ The world is changing quickly and events are happening everywhere. In the Middle
 <sub><sub>Sunday, July 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>$60 Million Refund Request Shows Financial Pressure on Trump From Legal Fees</h3>
-<sub>By Maggie Haberman and Shane Goldmacher</sub>
-<p>The situation signals a potential money crisis as the former president runs a campaign while under indictment in two jurisdictions and, soon, potentially a third.  <a href="https://nyti.ms/3rOKSMw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
+<h3>A Left-Right Alliance Puts Iowa’s CO2 Pipelines on the Presidential Agenda</h3>
+<sub>By Jonathan Weisman</sub>
+<p>Liberal environmentalists and conservative landowners, led by the former congressman Steve King, are pressuring Republican candidates to block two huge Midwestern pipelines.  <a href="https://nyti.ms/3OKOiJr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Threatens Republicans Who Don’t Help Him Exact Vengeance</h3>
-<sub>By Neil Vigdor</sub>
-<p>Casting Republicans as meek, former President Donald J. Trump said members of his party should pursue investigations against Democrats — or risk losing their seats.  <a href="https://nyti.ms/44MeZTs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>A Trombonist on a Mission to Break Barriers in Classical Music</h3>
+<sub>By Javier C. Hernández</sub>
+<p>Hillary Simms is the first woman to become a member of the American Brass Quintet. She says the field needs more role models.  <a href="https://nyti.ms/3rV2gPz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 30, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
