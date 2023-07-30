@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, July 29, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. In Odesa, Ukraine, people have a lot of hatred towards Russia due to attacks which have occurred. Meanwhile, tech billionaire Elon Musk is now hugely influential in satellite internet technology and there are some concerning implications to that. Russia is also attacking Ukraine&#39;s ports and causing distress in the country. In Portland, Oregon, there&#39;s a current homelessness crisis made worse due to fentanyl and the U.S is hunting Chinese malware that could disrupt military operations. On a different note, President Biden is trying to broker peace between Saudi Arabia and Israel while in Israel, military reservists are resigning in protest against a new law curbing judicial power. There are also reports of Lebanese depositors literally robbing banks to get their own money back due Niger completing a chain of countries taken over by force in Africa this past week which has caused even more instability in the continent.</p>
+The world is in a state of tumult right now. Global tensions are high between Russia and Ukraine, China is creating malware that could disrupt the US military, and various African countries have experienced a &#39;domino chain&#39; of coups affecting their stability. Lebanon is facing a severe financial crisis, with citizens resorting to bank robberies to get their own money. Meanwhile, tech billionaire Elon Musk is expanding his influence through satellite internet technology, prompting alarm around the world. In the US, Portland, OR is dealing with a deadly fentanyl crisis and President Biden is playing mediator between Israel and Saudi Arabia. On top of this, former President Trump sent out $60M refund requests due to legal fees.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>‘We Can Never Forgive This’: In Odesa, Attacks Stoke Hatred of Russia</h3>
@@ -93,24 +93,6 @@ There&#39;s a lot going on in the world right now. In Odesa, Ukraine, people hav
 <sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Presses Ahead With Effort to Broker Israeli-Saudi Rapprochement</h3>
-<sub>By Peter Baker and Ronen Bergman</sub>
-<p>The president sent Jake Sullivan, his national security adviser, on the latest diplomatic mission seeking to forge ties between Saudi Arabia and Israel.  <a href="https://nyti.ms/3QA5wdR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Sense of Mission at Risk as Israeli Reservists Resign to Protest New Law</h3>
-<sub>By Patrick Kingsley and Ronen Bergman</sub>
-<p>Military reservists are key to Israel’s defense capacity and a shared sense of national mission. But scores of reservists have resigned over a new law curbing judicial power, reflecting a widening rift in Israeli society.  <a href="https://nyti.ms/3qaZkhs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-books-blue" alt="">
-<h3>Nobody Ever Read American Literature Like This Guy Did</h3>
-<sub>By A.O. Scott</sub>
-<p>Inflamed, impertinent and deeply insightful, D.H. Lawrence’s “Studies in Classic American Literature” remains startlingly relevant 100 years after it was originally published.  <a href="https://nyti.ms/3Oh9jcS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>$60 Million Refund Request Shows Financial Pressure on Trump From Legal Fees</h3>
 <sub>By Maggie Haberman and Shane Goldmacher</sub>
 <p>The situation signals a potential money crisis as the former president runs a campaign while under indictment in two jurisdictions and, soon, potentially a third.  <a href="https://nyti.ms/3rOKSMw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -120,6 +102,24 @@ There&#39;s a lot going on in the world right now. In Odesa, Ukraine, people hav
 <h3>Trump and DeSantis Collide for First Time in Iowa, as Fortunes Diverge</h3>
 <sub>By Shane Goldmacher</sub>
 <p>A contest once viewed as a two-man race between Donald J. Trump and Ron DeSantis has settled into a new dynamic: Mr. Trump versus everyone else.  <a href="https://nyti.ms/3KkSUmR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-books-blue" alt="">
+<h3>Nobody Ever Read American Literature Like This Guy Did</h3>
+<sub>By A.O. Scott</sub>
+<p>Inflamed, impertinent and deeply insightful, D.H. Lawrence’s “Studies in Classic American Literature” remains startlingly relevant 100 years after it was originally published.  <a href="https://nyti.ms/3Oh9jcS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Presses Ahead With Effort to Broker Israeli-Saudi Rapprochement</h3>
+<sub>By Peter Baker and Ronen Bergman</sub>
+<p>The president sent Jake Sullivan, his national security adviser, on the latest diplomatic mission seeking to forge ties between Saudi Arabia and Israel.  <a href="https://nyti.ms/3QA5wdR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Sense of Mission at Risk as Israeli Reservists Resign to Protest New Law</h3>
+<sub>By Patrick Kingsley and Ronen Bergman</sub>
+<p>Military reservists are key to Israel’s defense capacity and a shared sense of national mission. But scores of reservists have resigned over a new law curbing judicial power, reflecting a widening rift in Israeli society.  <a href="https://nyti.ms/3qaZkhs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
