@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Saturday, July 29, Central Standard Time</p>
+<p>It is Sunday, July 30, Central Standard Time</p>
 <p>
-The world is in a state of tumult right now. Global tensions are high between Russia and Ukraine, China is creating malware that could disrupt the US military, and various African countries have experienced a &#39;domino chain&#39; of coups affecting their stability. Lebanon is facing a severe financial crisis, with citizens resorting to bank robberies to get their own money. Meanwhile, tech billionaire Elon Musk is expanding his influence through satellite internet technology, prompting alarm around the world. In the US, Portland, OR is dealing with a deadly fentanyl crisis and President Biden is playing mediator between Israel and Saudi Arabia. On top of this, former President Trump sent out $60M refund requests due to legal fees.</p>
+There is a lot happening in the world right now. In Odesa, which is located in Ukraine, people are expressing a lot of hatred towards Russia because of recent attacks. Meanwhile, tech billionaire Elon Musk has become a dominant power in satellite internet technology, raising global alarms. Unfortunately, violence is striking both Moscow and other parts of Russia and Ukraine, with no city seemingly safe. Here in the United States, we&#39;re seeing two major issues - homelessness and a lack of housing in Portland, Oregon, made worse by the presence of fentanyl, and the increasing financial pressure that former President Donald Trump has been under from legal fees. Trump has issued threats to fellow Republicans who don&#39;t help him exact vengeance on Democrats, and this has ignited a national conversation around how old is too old for leaders to remain in office. To make matters even more stressful, American intelligence officials believe China may have malware that could disrupt our military operations - furthering tensions between the two countries.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>‘We Can Never Forgive This’: In Odesa, Attacks Stoke Hatred of Russia</h3>
@@ -75,9 +75,9 @@ The world is in a state of tumult right now. Global tensions are high between Ru
 <sub><sub>Friday, July 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia Strikes Another Grain Terminal, Extending a Campaign Against Ukraine’s Ports</h3>
-<sub>By Marc Santora and Victoria Kim</sub>
-<p>In St. Petersburg, President Vladimir V. Putin rejected calls for reviving a Black Sea grain deal or for ending fighting.  <a href="https://nyti.ms/3Qj0iCX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Russia Says 2 Drones Strike Buildings in Moscow in Latest Wave of Attacks</h3>
+<sub>By Andrés R. Martínez</sub>
+<p>The strike was the third in the past week in Moscow, a sign of how no city in Russia or Ukraine appears to be safe from the war. Russia blamed Ukraine, which has yet to comment.  <a href="https://nyti.ms/3OlYUwW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -87,21 +87,39 @@ The world is in a state of tumult right now. Global tensions are high between Ru
 <sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Hunts Chinese Malware That Could Disrupt American Military Operations</h3>
-<sub>By David E. Sanger and Julian E. Barnes</sub>
-<p>American intelligence officials believe the malware could give China the power to disrupt or slow American deployments or resupply operations, including during a Chinese move against Taiwan.  <a href="https://nyti.ms/3OCH2ze"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>$60 Million Refund Request Shows Financial Pressure on Trump From Legal Fees</h3>
 <sub>By Maggie Haberman and Shane Goldmacher</sub>
 <p>The situation signals a potential money crisis as the former president runs a campaign while under indictment in two jurisdictions and, soon, potentially a third.  <a href="https://nyti.ms/3rOKSMw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Threatens Republicans Who Don’t Help Him Exact Vengeance</h3>
+<sub>By Neil Vigdor</sub>
+<p>Casting Republicans as meek, former President Donald J. Trump said members of his party should pursue investigations against Democrats — or risk losing their seats.  <a href="https://nyti.ms/44MeZTs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump and DeSantis Collide for First Time in Iowa, as Fortunes Diverge</h3>
 <sub>By Shane Goldmacher</sub>
 <p>A contest once viewed as a two-man race between Donald J. Trump and Ron DeSantis has settled into a new dynamic: Mr. Trump versus everyone else.  <a href="https://nyti.ms/3KkSUmR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. Hunts Chinese Malware That Could Disrupt American Military Operations</h3>
+<sub>By David E. Sanger and Julian E. Barnes</sub>
+<p>American intelligence officials believe the malware could give China the power to disrupt or slow American deployments or resupply operations, including during a Chinese move against Taiwan.  <a href="https://nyti.ms/3OCH2ze"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>The Kidnapped Child Who Became a Poet</h3>
+<sub>By Wyatt Mason</sub>
+<p>At age 3, Shane McCrae was taken from his Black father by his white grandparents — a rupture he explores in a new memoir.  <a href="https://nyti.ms/3Y7H5WM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Coast to Coast, a Corridor of Coups Brings Turmoil in Africa</h3>
+<sub>By Declan Walsh</sub>
+<p>This past week’s military takeover in Niger completed a domino chain of countries ruled by leaders who seized power by force, fueling instability and presenting a conundrum for the United States.  <a href="https://nyti.ms/3KfdqoT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-books-blue" alt="">
@@ -111,27 +129,9 @@ The world is in a state of tumult right now. Global tensions are high between Ru
 <sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Presses Ahead With Effort to Broker Israeli-Saudi Rapprochement</h3>
-<sub>By Peter Baker and Ronen Bergman</sub>
-<p>The president sent Jake Sullivan, his national security adviser, on the latest diplomatic mission seeking to forge ties between Saudi Arabia and Israel.  <a href="https://nyti.ms/3QA5wdR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Sense of Mission at Risk as Israeli Reservists Resign to Protest New Law</h3>
-<sub>By Patrick Kingsley and Ronen Bergman</sub>
-<p>Military reservists are key to Israel’s defense capacity and a shared sense of national mission. But scores of reservists have resigned over a new law curbing judicial power, reflecting a widening rift in Israeli society.  <a href="https://nyti.ms/3qaZkhs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>He Held Up a Bank to Get His Own Money</h3>
-<sub>By Raja Abdulrahim</sub>
-<p>Amid severe limits on withdrawals and a yearslong financial crisis, Lebanese depositors are resorting to force to demand their own money, earning the moniker “the world’s most honorable bank robbers.”  <a href="https://nyti.ms/3rMNYk7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Coast to Coast, a Corridor of Coups Brings Turmoil in Africa</h3>
-<sub>By Declan Walsh</sub>
-<p>This past week’s military takeover in Niger completed a domino chain of countries ruled by leaders who seized power by force, fueling instability and presenting a conundrum for the United States.  <a href="https://nyti.ms/3KfdqoT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Reluctant to Retire, Leaders Raise a Tough Question: How Old Is Too Old?</h3>
+<sub>By Lisa Lerer and Reid J. Epstein</sub>
+<p>Two troubling moments involving Senators Dianne Feinstein and Mitch McConnell thrust questions about aging in office out of Congress and into the national conversation.  <a href="https://nyti.ms/3rQhg1v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
 <hr/>
 </ol>
