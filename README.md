@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, July 30, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In the U.S., there&#39;s a debate over gun rights and the history of how they&#39;ve evolved in Congress. In Ukraine, there has been success in recapturing a village in an ongoing counterattack of Russia. Meanwhile, Russia has carried out drone attacks on buildings in Moscow and is even using video games to spread propaganda. And when it comes to climate change, the Fertile Crescent is feeling its effects with extreme temperatures and dwindling water sources. In North Carolina, Republicans were successful in getting a Democrat to join them to hold a supermajority in Congress. In Israel, their high court is being tested by those trying to abuse democracy, and President Biden is working towards reconciling issues between Saudi Arabia and Israel. There have also been financial consequences for Donald Trump due to his legal expenses from being indicted in multiple jurisdictions. Finally, college alumni are having to deal with the legacy admissions dilemma following the Supreme Court ruling against race-based admissions programs.</p>
+The world is changing quickly and events are happening everywhere. In the Middle East, climate change is putting additional strain on the Fertile Crescent, causing extreme temperatures and water shortages. In the US, there&#39;s been a secret history of gun rights as legislators have been working with the National Rifle Association to shape laws, courts and views on the Second Amendment. Ukraine is currently going through a tough counterattack with Russian defenses impeding progress. There has also been a wave of strikes from drones targeting Moscow in Russia. Video gamers are being targeted with Russian propaganda, while North Carolina politics have blown up due to a party switch by a prominent Democrat. Pakistan recently experienced a deadly blast at a political rally killing dozens, while California&#39;s Montecito area is home to wealthier celebrities and influencers dreaming of the New American Dream. New York City hired an expert to move hundreds of asylum seekers outside the city, but reports say they&#39;ve been mistreated and lied to in the process. Meanwhile, college alumni are debating reversal of legacy admissions policies since the Supreme Court weakened race-based programs, and Donald Trump is facing legal trouble due to millions of dollars he has requested for refunds for his lawyer fees. Lastly, Trump has threatened Republicans who don&#39;t help him exact vengeance or risk facing consequences in future elections.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Climate Warning from the Cradle of Civilization</h3>
+<sub>By Alissa J. Rubin and Bryan Denton</sub>
+<p>How extreme temperatures and dwindling water are pushing the Fertile Crescent toward the brink.  <a href="https://nyti.ms/458KmHp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The Secret History of Gun Rights: How Lawmakers Armed the N.R.A.</h3>
 <sub>By Mike McIntire</sub>
@@ -77,7 +83,7 @@ There is a lot going on in the world right now. In the U.S., there&#39;s a debat
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Russia Says 2 Drones Hit Buildings in Moscow in Latest Wave of Attacks</h3>
 <sub>By Andrés R. Martínez and Anton Troianovski</sub>
-<p>The strike was the third in the past week in Moscow, a sign of how no city in Russia or Ukraine appears to be safe from the war. Russia blamed Ukraine, which has yet to comment.  <a href="https://nyti.ms/3OlYUwW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The strike was the third in the past week in Moscow, a sign of how no city in Russia or Ukraine appears to be safe from the war. Russia blamed Ukraine, which has yet to comment.  <a href="https://nyti.ms/3DTL7Jb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -86,34 +92,22 @@ There is a lot going on in the world right now. In the U.S., there&#39;s a debat
 <p>Propaganda is appearing in Minecraft and other popular games and discussion groups as the Kremlin tries to win over new audiences.  <a href="https://nyti.ms/47cU65y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Climate Warning from the Cradle of Civilization</h3>
-<sub>By Alissa J. Rubin and Bryan Denton</sub>
-<p>How extreme temperatures and dwindling water are pushing the Fertile Crescent toward the brink.  <a href="https://nyti.ms/458KmHp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Inside the Party Switch that Blew Up North Carolina Politics</h3>
 <sub>By Kate Kelly and David Perlmutt</sub>
-<p>Tricia Cotham, a Democrat who supported abortion rights, was encouraged to run for a state House seat by powerful Republicans. After she was elected, she joined them and delivered a G.O.P. supermajority.  <a href="https://nyti.ms/478nJF0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Tricia Cotham, a Democrat who supported abortion rights, was encouraged to run for a state House seat by powerful Republicans. After she was elected, she joined them and delivered a G.O.P. supermajority.  <a href="https://nyti.ms/3DCAl9K"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Israel, High Stakes for High Court: Democracy’s Fate</h3>
-<sub>By Emily Bazelon</sub>
-<p>From Hungary to India to Brazil, how judges responded to attacks on their independence helped decide whether would-be autocrats prevailed in constraining the courts.  <a href="https://nyti.ms/3rOOqOV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>At Least 35 Killed in Blast at Political Rally in Pakistan</h3>
+<sub>By Christina Goldbaum and Zia ur-Rehman</sub>
+<p>An explosion at a political rally on Sunday in northwest Pakistan killed at least 35 people and injured 200 more, officials said, the latest sign of the deteriorating security situation in Pakistan, where some militant groups have become more active over the past two years.  <a href="https://nyti.ms/3qfJRMX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Presses Ahead With Effort to Broker Israeli-Saudi Rapprochement</h3>
-<sub>By Peter Baker and Ronen Bergman</sub>
-<p>The president sent Jake Sullivan, his national security adviser, on the latest diplomatic mission seeking to forge ties between Saudi Arabia and Israel.  <a href="https://nyti.ms/3QA5wdR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>But Who Gets the Comic Books?</h3>
-<sub>By George Gene Gustines</sub>
-<p>When collectors die, their families face a lot of decisions, including what to do with a hundred Superman figurines.  <a href="https://nyti.ms/47mGMM2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>What Is It About Montecito?</h3>
+<sub>By Amy Larocca</sub>
+<p>Trying to understand the allure of a place that’s home to Oprah, the self-exiled royals, a celebrity juicer, Katy Perry’s dad — and the New American Dream.  <a href="https://nyti.ms/47dqUuY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -132,6 +126,12 @@ There is a lot going on in the world right now. In the U.S., there&#39;s a debat
 <h3>$60 Million Refund Request Shows Financial Pressure on Trump From Legal Fees</h3>
 <sub>By Maggie Haberman and Shane Goldmacher</sub>
 <p>The situation signals a potential money crisis as the former president runs a campaign while under indictment in two jurisdictions and, soon, potentially a third.  <a href="https://nyti.ms/3rOKSMw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Threatens Republicans Who Don’t Help Him Exact Vengeance</h3>
+<sub>By Neil Vigdor</sub>
+<p>Casting Republicans as meek, former President Donald J. Trump said members of his party should pursue investigations against Democrats — or risk losing their seats.  <a href="https://nyti.ms/44MeZTs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
 <hr/>
 </ol>
