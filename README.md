@@ -60,31 +60,67 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, July 30, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In Odesa, Ukraine, people are facing hostility from Russia and a growing anti-Russian sentiment. Meanwhile, tech billionaire Elon Musk has become the dominant power in satellite internet technology, which has raised global alarms. In Russia, there have been drone strikes on buildings in Moscow and these attacks just keep getting worse. Portland, Oregon is going through a difficult time with street homelessness and a deadly fentanyl crisis threatening the city&#39;s progressive identity. Former US President Donald Trump is also facing financial pressure due to legal fees from his presidential campaign and is even threatening Republican senators who don&#39;t help him with vengeance. Aging questions are also being raised by Senators Dianne Feinstein and Mitch McConnell&#39;s troubling moments as Americans debate whether elected officials should retire or not. Finally, in Africa there is a domino chain of countries who use force to seize power, creating political instability for the United States.</p>
+The world is facing a lot of political tensions right now. In the US, there has been headlines about gun rights, Trump&#39;s legal fees and threats from him against Republicans who don&#39;t agree with him. Meanwhile, in Russia and Ukraine there has been drones attacking cities and tensions between the two countries are high, as well as further developments in games like Minecraft spreading propaganda from Russia. And even in places like the Middle East and North Carolina, leaders are making decisions that could drastically affect democracy. It&#39;s a lot to take in and definitely one to keep an eye on.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Secret History of Gun Rights: How Lawmakers Armed the N.R.A.</h3>
+<sub>By Mike McIntire</sub>
+<p>They served in Congress and on the N.R.A.’s board at the same time. Over decades, a small group of legislators led by a prominent Democrat pushed the gun lobby to help transform the law, the courts and views on the Second Amendment.  <a href="https://nyti.ms/3rTOdd4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 30, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>‘We Can Never Forgive This’: In Odesa, Attacks Stoke Hatred of Russia</h3>
 <sub>By Valerie Hopkins and Emile Ducke</sub>
 <p>President Vladimir V. Putin of Russia views Odesa as a culturally important part of his nation. But many in the Ukrainian city reject the connection and view the country that has been attacking it with loathing.  <a href="https://nyti.ms/3KfdpRR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Elon Musk’s Unmatched Power in the Stars</h3>
-<sub>By Adam Satariano, Scott Reinhard, Cade Metz, Sheera Frenkel and Malika Khurana</sub>
-<p>The tech billionaire has become the dominant power in satellite internet technology. The ways he is wielding that influence are raising global alarms.  <a href="https://nyti.ms/44MHyjw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 28, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia Says 2 Drones Strike Buildings in Moscow in Latest Wave of Attacks</h3>
-<sub>By Andrés R. Martínez</sub>
+<h3>Russia Says 2 Drones Hit Buildings in Moscow in Latest Wave of Attacks</h3>
+<sub>By Andrés R. Martínez and Anton Troianovski</sub>
 <p>The strike was the third in the past week in Moscow, a sign of how no city in Russia or Ukraine appears to be safe from the war. Russia blamed Ukraine, which has yet to comment.  <a href="https://nyti.ms/3OlYUwW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Fighting for Anthony: The Struggle to Save Portland, Oregon</h3>
-<sub>By Michael Corkery</sub>
-<p>The city has long grappled with street homelessness and a shortage of housing. Now fentanyl has turned a perennial problem into a deadly crisis and a challenge to the city’s progressive identity.  <a href="https://nyti.ms/3O7W3aC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Russia Takes Its Ukraine Information War Into Video Games</h3>
+<sub>By Steven Lee Myers and Kellen Browning</sub>
+<p>Propaganda is appearing in Minecraft and other popular games and discussion groups as the Kremlin tries to win over new audiences.  <a href="https://nyti.ms/47cU65y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Climate Warning from the Cradle of Civilization</h3>
+<sub>By Alissa J. Rubin and Bryan Denton</sub>
+<p>How extreme temperatures and dwindling water are pushing the Fertile Crescent toward the brink.  <a href="https://nyti.ms/458KmHp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Inside the Party Switch that Blew Up North Carolina Politics</h3>
+<sub>By Kate Kelly and David Perlmutt</sub>
+<p>Tricia Cotham, a Democrat who supported abortion rights, was encouraged to run for a state House seat by powerful Republicans. After she was elected, she joined them and delivered a G.O.P. supermajority.  <a href="https://nyti.ms/478nJF0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Israel, High Stakes for High Court: Democracy’s Fate</h3>
+<sub>By Emily Bazelon</sub>
+<p>From Hungary to India to Brazil, how judges responded to attacks on their independence helped decide whether would-be autocrats prevailed in constraining the courts.  <a href="https://nyti.ms/3rOOqOV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>But Who Gets the Comic Books?</h3>
+<sub>By George Gene Gustines</sub>
+<p>When collectors die, their families face a lot of decisions, including what to do with a hundred Superman figurines.  <a href="https://nyti.ms/47mGMM2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>New York City Had a Migrant Crisis. It Hired a Covid Expert to Help.</h3>
+<sub>By Jay Root</sub>
+<p>DocGo, a medical services company, received a $432 million no-bid contract to move hundreds of asylum seekers outside the city. Many say they have been threatened, mistreated and lied to.  <a href="https://nyti.ms/44RrYTR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Legacy Dilemma: What to Do About Privileges for the Privileged?</h3>
+<sub>By Emily Cochrane, Amy Harmon, Anemona Hartocollis and Anna Betts</sub>
+<p>Alumni of many colleges are wrestling with whether the practice of legacy admissions should survive after the Supreme Court gutted race-based admissions programs.  <a href="https://nyti.ms/43HzKhK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>$60 Million Refund Request Shows Financial Pressure on Trump From Legal Fees</h3>
@@ -96,42 +132,6 @@ There is a lot going on in the world right now. In Odesa, Ukraine, people are fa
 <h3>Trump Threatens Republicans Who Don’t Help Him Exact Vengeance</h3>
 <sub>By Neil Vigdor</sub>
 <p>Casting Republicans as meek, former President Donald J. Trump said members of his party should pursue investigations against Democrats — or risk losing their seats.  <a href="https://nyti.ms/44MeZTs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump and DeSantis Collide for First Time in Iowa, as Fortunes Diverge</h3>
-<sub>By Shane Goldmacher</sub>
-<p>A contest once viewed as a two-man race between Donald J. Trump and Ron DeSantis has settled into a new dynamic: Mr. Trump versus everyone else.  <a href="https://nyti.ms/3KkSUmR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Hunts Chinese Malware That Could Disrupt American Military Operations</h3>
-<sub>By David E. Sanger and Julian E. Barnes</sub>
-<p>American intelligence officials believe the malware could give China the power to disrupt or slow American deployments or resupply operations, including during a Chinese move against Taiwan.  <a href="https://nyti.ms/3OCH2ze"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>The Kidnapped Child Who Became a Poet</h3>
-<sub>By Wyatt Mason</sub>
-<p>At age 3, Shane McCrae was taken from his Black father by his white grandparents — a rupture he explores in a new memoir.  <a href="https://nyti.ms/3Y7H5WM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, July 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Coast to Coast, a Corridor of Coups Brings Turmoil in Africa</h3>
-<sub>By Declan Walsh</sub>
-<p>This past week’s military takeover in Niger completed a domino chain of countries ruled by leaders who seized power by force, fueling instability and presenting a conundrum for the United States.  <a href="https://nyti.ms/3KfdqoT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-books-blue" alt="">
-<h3>Nobody Ever Read American Literature Like This Guy Did</h3>
-<sub>By A.O. Scott</sub>
-<p>Inflamed, impertinent and deeply insightful, D.H. Lawrence’s “Studies in Classic American Literature” remains startlingly relevant 100 years after it was originally published.  <a href="https://nyti.ms/3Oh9jcS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Reluctant to Retire, Leaders Raise a Tough Question: How Old Is Too Old?</h3>
-<sub>By Lisa Lerer and Reid J. Epstein</sub>
-<p>Two troubling moments involving Senators Dianne Feinstein and Mitch McConnell thrust questions about aging in office out of Congress and into the national conversation.  <a href="https://nyti.ms/3rQhg1v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
 <hr/>
 </ol>
