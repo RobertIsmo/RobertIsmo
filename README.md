@@ -60,25 +60,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, July 29, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now! Business-wise, tech billionaire Elon Musk has become the dominant power in satellite internet technology and some people are worried about how he&#39;s using that influence. In Odesa, Ukraine, Russia has been attacking citizens, which is raising hatred toward Russia and prompting calls for action. Meanwhile, in St. Petersburg, Russia struck another grain terminal as part of its campaign against Ukraine&#39;s ports. 
-
-In Portland, Oregon there&#39;s a deadly crisis related to street homelessness and fentanyl -- people are fighting to save the city. Meanwhile, the US is on alert after Chinese malware was discovered that could disrupt military operations if the US and China had any kind of conflict in the future. 
-
-On the diplomatic front, President Biden is trying to broker a rapprochement between Israel and Saudi Arabia by sending his national security adviser Jake Sullivan on a mission to build ties between the two countries. In Israel, military reservists are resigning to protest a new law limiting judicial power, threatening their shared sense of national mission. 
-
-In terms of literature, DH Lawrence&#39;s book “Studies in Classic American Literature” is still super relevant 100 years after it was first published. In Iowa there&#39;s a GOP contest between former president Donald Trump and current Florida governor Ron DeSantis. And finally, teenagers are getting into accidents with e-bikes which has highlighted risks associated with them since they&#39;re not legal for teens. Additionally, two challenging moments with Senators Dianne Feinstein and Mitch McConnell have raised questions about aging in office that have become part of a broader national conversation.</p>
+There&#39;s a lot going on in the world right now. In Odesa, Ukraine, people have a lot of hatred towards Russia due to attacks which have occurred. Meanwhile, tech billionaire Elon Musk is now hugely influential in satellite internet technology and there are some concerning implications to that. Russia is also attacking Ukraine&#39;s ports and causing distress in the country. In Portland, Oregon, there&#39;s a current homelessness crisis made worse due to fentanyl and the U.S is hunting Chinese malware that could disrupt military operations. On a different note, President Biden is trying to broker peace between Saudi Arabia and Israel while in Israel, military reservists are resigning in protest against a new law curbing judicial power. There are also reports of Lebanese depositors literally robbing banks to get their own money back due Niger completing a chain of countries taken over by force in Africa this past week which has caused even more instability in the continent.</p>
 <ol>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Elon Musk’s Unmatched Power in the Stars</h3>
-<sub>By Adam Satariano, Scott Reinhard, Cade Metz, Sheera Frenkel and Malika Khurana</sub>
-<p>The tech billionaire has become the dominant power in satellite internet technology. The ways he is wielding that influence are raising global alarms.  <a href="https://nyti.ms/44MHyjw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 28, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>‘We Can Never Forgive This’: In Odesa, Attacks Stoke Hatred of Russia</h3>
 <sub>By Valerie Hopkins and Emile Ducke</sub>
 <p>President Vladimir V. Putin of Russia views Odesa as a culturally important part of his nation. But many in the Ukrainian city reject the connection and view the country that has been attacking it with loathing.  <a href="https://nyti.ms/3KfdpRR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Elon Musk’s Unmatched Power in the Stars</h3>
+<sub>By Adam Satariano, Scott Reinhard, Cade Metz, Sheera Frenkel and Malika Khurana</sub>
+<p>The tech billionaire has become the dominant power in satellite internet technology. The ways he is wielding that influence are raising global alarms.  <a href="https://nyti.ms/44MHyjw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Russia Strikes Another Grain Terminal, Extending a Campaign Against Ukraine’s Ports</h3>
@@ -100,7 +94,7 @@ In terms of literature, DH Lawrence&#39;s book “Studies in Classic American Li
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Presses Ahead With Effort to Broker Israeli-Saudi Rapprochement</h3>
-<sub>By Peter Baker</sub>
+<sub>By Peter Baker and Ronen Bergman</sub>
 <p>The president sent Jake Sullivan, his national security adviser, on the latest diplomatic mission seeking to forge ties between Saudi Arabia and Israel.  <a href="https://nyti.ms/3QA5wdR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
 <hr/>
@@ -117,27 +111,27 @@ In terms of literature, DH Lawrence&#39;s book “Studies in Classic American Li
 <sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>$60 Million Refund Request Shows Financial Pressure on Trump From Legal Fees</h3>
+<sub>By Maggie Haberman and Shane Goldmacher</sub>
+<p>The situation signals a potential money crisis as the former president runs a campaign while under indictment in two jurisdictions and, soon, potentially a third.  <a href="https://nyti.ms/3rOKSMw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump and DeSantis Collide for First Time in Iowa, as Fortunes Diverge</h3>
 <sub>By Shane Goldmacher</sub>
 <p>A contest once viewed as a two-man race between Donald J. Trump and Ron DeSantis has settled into a new dynamic: Mr. Trump versus everyone else.  <a href="https://nyti.ms/3KkSUmR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>‘A Dangerous Combination’: Teenagers’ Accidents Expose E-Bike Risks</h3>
-<sub>By Matt Richtel</sub>
-<p>The e-bike industry is booming, but many vehicles are not legal for teenagers, and accidents are on the rise.  <a href="https://nyti.ms/3DxH6JV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>He Held Up a Bank to Get His Own Money</h3>
+<sub>By Raja Abdulrahim</sub>
+<p>Amid severe limits on withdrawals and a yearslong financial crisis, Lebanese depositors are resorting to force to demand their own money, earning the moniker “the world’s most honorable bank robbers.”  <a href="https://nyti.ms/3rMNYk7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Coast to Coast, a Corridor of Coups Brings Turmoil in Africa</h3>
 <sub>By Declan Walsh</sub>
 <p>This past week’s military takeover in Niger completed a domino chain of countries ruled by leaders who seized power by force, fueling instability and presenting a conundrum for the United States.  <a href="https://nyti.ms/3KfdqoT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Reluctant to Retire, Leaders Raise a Tough Question: How Old Is Too Old?</h3>
-<sub>By Lisa Lerer and Reid J. Epstein</sub>
-<p>Two troubling moments involving Senators Dianne Feinstein and Mitch McConnell thrust questions about aging in office out of Congress and into the national conversation.  <a href="https://nyti.ms/3rQhg1v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
 <hr/>
 </ol>
