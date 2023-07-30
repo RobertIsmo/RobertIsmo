@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, July 30, Central Standard Time</p>
 <p>
-The world is facing a lot of political tensions right now. In the US, there has been headlines about gun rights, Trump&#39;s legal fees and threats from him against Republicans who don&#39;t agree with him. Meanwhile, in Russia and Ukraine there has been drones attacking cities and tensions between the two countries are high, as well as further developments in games like Minecraft spreading propaganda from Russia. And even in places like the Middle East and North Carolina, leaders are making decisions that could drastically affect democracy. It&#39;s a lot to take in and definitely one to keep an eye on.</p>
+There is a lot going on in the world right now. In the U.S., there&#39;s a debate over gun rights and the history of how they&#39;ve evolved in Congress. In Ukraine, there has been success in recapturing a village in an ongoing counterattack of Russia. Meanwhile, Russia has carried out drone attacks on buildings in Moscow and is even using video games to spread propaganda. And when it comes to climate change, the Fertile Crescent is feeling its effects with extreme temperatures and dwindling water sources. In North Carolina, Republicans were successful in getting a Democrat to join them to hold a supermajority in Congress. In Israel, their high court is being tested by those trying to abuse democracy, and President Biden is working towards reconciling issues between Saudi Arabia and Israel. There have also been financial consequences for Donald Trump due to his legal expenses from being indicted in multiple jurisdictions. Finally, college alumni are having to deal with the legacy admissions dilemma following the Supreme Court ruling against race-based admissions programs.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The Secret History of Gun Rights: How Lawmakers Armed the N.R.A.</h3>
@@ -69,10 +69,10 @@ The world is facing a lot of political tensions right now. In the US, there has 
 <sub><sub>Sunday, July 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘We Can Never Forgive This’: In Odesa, Attacks Stoke Hatred of Russia</h3>
-<sub>By Valerie Hopkins and Emile Ducke</sub>
-<p>President Vladimir V. Putin of Russia views Odesa as a culturally important part of his nation. But many in the Ukrainian city reject the connection and view the country that has been attacking it with loathing.  <a href="https://nyti.ms/3KfdpRR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
+<h3>Amid the Counterattack’s Deadly Slog, a Glimmer of Success for Ukraine</h3>
+<sub>By Carlotta Gall</sub>
+<p>Recapturing the village of Staromaiorske was such welcome news for the country that President Volodymyr Zelensky announced it himself. But formidable Russian defenses have stymied progress elsewhere.  <a href="https://nyti.ms/43HXimI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Russia Says 2 Drones Hit Buildings in Moscow in Latest Wave of Attacks</h3>
@@ -104,6 +104,12 @@ The world is facing a lot of political tensions right now. In the US, there has 
 <p>From Hungary to India to Brazil, how judges responded to attacks on their independence helped decide whether would-be autocrats prevailed in constraining the courts.  <a href="https://nyti.ms/3rOOqOV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 30, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Presses Ahead With Effort to Broker Israeli-Saudi Rapprochement</h3>
+<sub>By Peter Baker and Ronen Bergman</sub>
+<p>The president sent Jake Sullivan, his national security adviser, on the latest diplomatic mission seeking to forge ties between Saudi Arabia and Israel.  <a href="https://nyti.ms/3QA5wdR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
 <h3>But Who Gets the Comic Books?</h3>
 <sub>By George Gene Gustines</sub>
@@ -126,12 +132,6 @@ The world is facing a lot of political tensions right now. In the US, there has 
 <h3>$60 Million Refund Request Shows Financial Pressure on Trump From Legal Fees</h3>
 <sub>By Maggie Haberman and Shane Goldmacher</sub>
 <p>The situation signals a potential money crisis as the former president runs a campaign while under indictment in two jurisdictions and, soon, potentially a third.  <a href="https://nyti.ms/3rOKSMw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Threatens Republicans Who Don’t Help Him Exact Vengeance</h3>
-<sub>By Neil Vigdor</sub>
-<p>Casting Republicans as meek, former President Donald J. Trump said members of his party should pursue investigations against Democrats — or risk losing their seats.  <a href="https://nyti.ms/44MeZTs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
 <hr/>
 </ol>
