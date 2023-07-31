@@ -60,11 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, July 30, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. In the United States, homeless camps in California are being cleared, but there&#39;s still a big problem with homelessness. There&#39;s also news on legal developments related to former President Donald Trump. His legal team has created a fund to cover the legal bills of his allies, and he just lost a defamation lawsuit against CNN. 
+There is a lot of challenging news happening around the world right now. In California, homeless camps are being cleared, and it&#39;s unclear what will happen to those people next. In the Fertile Crescent, extreme temperatures and diminishing water are pushing the area toward the brink. In Russia and Ukraine, people are experiencing increasing violence; just last week two drones were used to attack buildings in Moscow. Climate change is at the forefront of international attention. 
 
-Around the world, there&#39;s news out of the Fertile Crescent about climate warnings and extreme temperatures. Russia is also dealing with drone attacks in Moscow, and Ukraine is having success with its counterattack against Russia. Meanwhile in Pakistan, a political rally was bombed and killed 43 people.
+In the United States, Donald Trump&#39;s associates are facing legal trouble as a result of the recent impeachment hearings. Trump himself has been the subject of libel and slander cases, while his team has started a legal defense fund to cover legal fees for those connected to him. Meanwhile, Ron DeSantis has reset his presidential campaign by criticizing Trump&#39;s precarious legal situation. 
 
-It&#39;s a time of big changes everywhere!</p>
+On a brighter note, North Carolina politics have been shaken up by politicians switching alliances – one former Democrat was elected into a state House seat with Republican support, while a trombonist has achieved an important breakthrough for women in classical music by earning a spot with the American Brass Quintet.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Homeless Camps Are Being Cleared in California. What Happens Next?</h3>
