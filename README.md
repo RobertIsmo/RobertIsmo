@@ -60,8 +60,34 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, July 31, Central Standard Time</p>
 <p>
-The world is increasingly facing the consequences of climate change in the form of extreme temperatures and dwindling water, particularly in the Fertile Crescent. Russia is currently under attack from drones, potentially by Ukraine, while violence in Ukraine has been countered by their military with a degree of success. In the US, homeless camps are being cleared but with no obvious solution for those affected. Donald Trump&#39;s legal troubles have been heavily featured in the news lately, as he faces lawsuits from CNN and was recently hit with a co-defendant status in a documents case related to him. Additionally, his aides have set up a fund to cover legal fees for allies so they don&#39;t have to turn to him. On the political front, trials for gun rights and abortions are being fought within legislatures and women are now emerging as key players in classical music performances.</p>
+The news lately has been all about former President Trump and the Republican primary contenders. A recent survey found Trump with a huge lead across most regions, despite two indictments he is facing. People speculate as to why Trump is so hard to beat, and some believe he maintains a firm base of loyal supporters. Others like Ron DeSantis have been attacking his legal troubles in attempt to overtake him in the polls. Meanwhile, Nikki Haley is promoting a platform of &quot;nuts-and-bolts conservatism&quot; which included appeals to common sense and experience in the White House. 
+
+Outside of the political sphere, there are also stories about homelessness in California, climate warnings from the Fertile Crescent, and judicial rulings against Trump on a few defamation suits. Moreover, an Austrian country is struggling to break away from Russian gas and a female trombonist is breaking barriers in classical music. It&#39;s certainly been an interesting few weeks!</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Crushing DeSantis and G.O.P. Rivals, Times&#x2F;Siena Poll Finds</h3>
+<sub>By Shane Goldmacher</sub>
+<p>The twice-indicted former president leads across nearly every category and region, as primary voters wave off concerns about his escalating legal jeopardy.  <a href="https://nyti.ms/44KmZo7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>Why Trump Is So Hard to Beat</h3>
+<sub>By Nate Cohn</sub>
+<p>The first Times&#x2F;Siena poll of the G.O.P. primary shows he still commands a seemingly unshakable base of loyal supporters.  <a href="https://nyti.ms/3Oza1DY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>DeSantis Jabs at Trump’s Legal Trouble as He Resets His Campaign</h3>
+<sub>By Nicholas Nehamas</sub>
+<p>Ron DeSantis’s remarks to a voter in New Hampshire suggest he may step up his attacks against the man who leads him in national polls by a wide margin.  <a href="https://nyti.ms/3qdxL7d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Nuts-and-Bolts Conservatism From Nikki Haley</h3>
+<sub>By Jazmine Ulloa</sub>
+<p>In her stump speech, the former governor calls for common sense and experience in the White House, leaving crowds wanting more.  <a href="https://nyti.ms/3YbsZDL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 30, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Homeless Camps Are Being Cleared in California. What Happens Next?</h3>
 <sub>By Livia Albeck-Ripka</sub>
@@ -92,22 +118,10 @@ The world is increasingly facing the consequences of climate change in the form 
 <p>With investigations and legal fees piling up, a fund is planned to help witnesses and defendants. The former president’s legal bills are not expected to be included, however.  <a href="https://nyti.ms/43S8ihg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Secret History of Gun Rights: How Lawmakers Armed the N.R.A.</h3>
-<sub>By Mike McIntire</sub>
-<p>They served in Congress and on the N.R.A.’s board at the same time. Over decades, a small group of legislators led by a prominent Democrat pushed the gun lobby to help transform the law, the courts and views on the Second Amendment.  <a href="https://nyti.ms/3rTOdd4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia Says 2 Drones Hit Buildings in Moscow in Latest Wave of Attacks</h3>
-<sub>By Andrés R. Martínez and Anton Troianovski</sub>
-<p>The strike was the third in the past week in Moscow, a sign of how no city in Russia or Ukraine appears to be safe from the war. Russia blamed Ukraine, which has yet to comment.  <a href="https://nyti.ms/3DTL7Jb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Amid the Counterattack’s Deadly Slog, a Glimmer of Success for Ukraine</h3>
-<sub>By Carlotta Gall</sub>
-<p>Recapturing the village of Staromaiorske was such welcome news for the country that President Volodymyr Zelensky announced it himself. But formidable Russian defenses have stymied progress elsewhere.  <a href="https://nyti.ms/43HXimI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Why One Country Is Struggling to Break Away From Russian Gas</h3>
+<sub>By Patricia Cohen</sub>
+<p>Austria, unlike most European Union countries, is still buying nearly as much natural gas from Russia as it was before the war in Ukraine.  <a href="https://nyti.ms/3QhpqKg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
@@ -120,18 +134,6 @@ The world is increasingly facing the consequences of climate change in the form 
 <h3>Inside the Party Switch that Blew Up North Carolina Politics</h3>
 <sub>By Kate Kelly and David Perlmutt</sub>
 <p>Tricia Cotham, a Democrat who supported abortion rights, was encouraged to run for a state House seat by powerful Republicans. After she was elected, she joined them and delivered a G.O.P. supermajority.  <a href="https://nyti.ms/3DCAl9K"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis Jabs at Trump’s Legal Trouble as He Resets His Campaign</h3>
-<sub>By Nicholas Nehamas</sub>
-<p>Ron DeSantis’s remarks to a voter in New Hampshire suggest he may step up his attacks against the man who leads him in national polls by a wide margin.  <a href="https://nyti.ms/3qdxL7d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Nuts-and-Bolts Conservatism From Nikki Haley</h3>
-<sub>By Jazmine Ulloa</sub>
-<p>In her stump speech, the former governor calls for common sense and experience in the White House, leaving crowds wanting more.  <a href="https://nyti.ms/3YbsZDL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 30, Central Standard Time</sub></sub>
 <hr/>
 </ol>
