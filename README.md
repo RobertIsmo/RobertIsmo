@@ -60,8 +60,26 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, July 31, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. In the US, former President Trump is still popular among his base of supporters and is facing legal issues. In Saudi Arabia, international leaders are being invited for talks about Ukraine&#39;s peace plan. In Florida, teams are urgently trying to save coral reefs from a marine heat wave. Phoenix experienced an intense heat wave over a month long period and its effects on the environment and local emergency rooms were drastic. Paul Reubens, known for creating the character Pee-wee Herman, passed away at 70 this year. Also in Italy, there&#39;s a popular television melodrama that teenagers have been taking up. Women soccer moms have grown in numbers as the game expands its support systems and some are realizing how difficult it has become to juggle motherhood and elite sports. Recently, the FBI has been investigating their own government contractor for using mysterious spy tools on their behalf and they&#39;ve canceled the contract as a result. Carlos De Oliveira, property manager at Mar-a-Lago was recently indicted with Donald J Trump in obstructing the retrieval of classified material and released on bond after court appearance. Finally, homeless camps are being cleared in California leading to more questions than solutions.</p>
+It looks like a lot is going on in the world right now. In Ukraine, there are reports of drone attacks on targets inside Russia, including Moscow. A judge has rejected Donald Trump&#39;s efforts to challenge an investigation into the election in Georgia. Trump&#39;s own property manager was indicted on charges related to carrying classified material and his legal woes are only getting worse. Meanwhile, a poll shows Trump crushing GOP rivals in Florida, leading Ron DeSantis to make an economic plan for blue-collar voters. Climate change is causing coral reefs to suffer in Florida, while Phoenix experienced 31 days of extreme heat. Paul Reubens, the creator of Pee-wee Herman, died recently at the age of 70 and Italy has fallen for a steamy new TV show. Additionally, the Women&#39;s World Cup 2023 rules on advancing teams to the knockout round have been released and California is clearing homeless camps without providing much help in solving homelessness.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukraine’s Other Counteroffensive: Drone Attacks on Russian Soil</h3>
+<sub>By Christiaan Triebert, Haley Willis, Yelyzaveta Kovtun and Alexander Cardia</sub>
+<p>Officials in Ukraine rarely discuss attacks on targets inside Russia, including Moscow. But video evidence shows an increasing effort to launch long-range strikes inside the country.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Judge Rejects Trump’s Effort to Short-Circuit Georgia Election Case</h3>
+<sub>By Richard Fausset and Danny Hakim</sub>
+<p>A Fulton County judge said the former president had no standing to challenge the investigation before indictments were handed up, and chided Mr. Trump’s lawyers for “unnecessary and unfounded legal filings.”  <a href="https://nyti.ms/3Kq3xEP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Employee Released on Bond After Court Appearance in Documents Case</h3>
+<sub>By Patricia Mazzei and Alan Feuer</sub>
+<p>Carlos De Oliveira, the property manager of Mar-a-Lago, made his first court appearance after his indictment on charges of conspiring with Donald J. Trump to obstruct the retrieval of classified material.  <a href="https://nyti.ms/3KkJIyT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 31, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-upshot-blue" alt="">
 <h3>Why Trump Is So Hard to Beat</h3>
 <sub>By Nate Cohn</sub>
@@ -74,10 +92,10 @@ There is a lot happening in the world right now. In the US, former President Tru
 <p>The twice-indicted former president leads across nearly every category and region, as primary voters wave off concerns about his escalating legal jeopardy.  <a href="https://nyti.ms/44KmZo7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Saudi Arabia Will Host Talks About Ukraine’s Peace Plan, Diplomats Say</h3>
-<sub>By Vivian Nereim</sub>
-<p>Envoys from nations including the United States, Brazil, China and India have been invited, but it was not clear who would attend, the diplomats said.  <a href="https://nyti.ms/3OdGxu0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trailing Trump, DeSantis Unveils Economic Plan Slamming ‘Failed Elites’</h3>
+<sub>By Nicholas Nehamas</sub>
+<p>Gov. Ron DeSantis of Florida introduced a 10-point economic plan geared toward the blue-collar voters with whom he has struggled to resonate.  <a href="https://nyti.ms/3OCcZra"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
@@ -94,8 +112,8 @@ There is a lot happening in the world right now. In the US, former President Tru
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>Paul Reubens, Creator of Pee-wee Herman, Is Dead at 70</h3>
-<sub>By Jesus Jiménez</sub>
-<p>With his signature bow tie, short drainpipe pants and flattop hairdo, Pee-wee, as embodied by Mr. Reubens, became enshrined in the popular imagination as a symbol of childlike whimsy.  <a href="https://nyti.ms/3QpYZ5n"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub>By Neil Genzlinger</sub>
+<p>With his bow tie, short drainpipe pants and flattop hairdo, Pee-wee became enshrined in the popular imagination as a symbol of childlike whimsy.  <a href="https://nyti.ms/3QpYZ5n"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -104,29 +122,11 @@ There is a lot happening in the world right now. In the US, former President Tru
 <p>Italy falls for “Mare Fuori,” a television melodrama about the inmates of a juvenile detention center who pass the time making out — when not scowling at or occasionally stabbing one another.  <a href="https://nyti.ms/45aMoXP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>A New Era of Soccer Moms Navigates a Rapidly Changing Game</h3>
-<sub>By Juliet Macur</sub>
-<p>Women have long blended motherhood and elite sports. But as soccer expands its support systems, it is also demanding ever more of its players.  <a href="https://nyti.ms/3Yigc2y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Who Paid for a Mysterious Spy Tool? The F.B.I., an F.B.I. Inquiry Found.</h3>
-<sub>By Mark Mazzetti, Ronen Bergman and Adam Goldman</sub>
-<p>After a Times report, the bureau canceled its contract with a government contractor that used the tool on its behalf. But questions remain.  <a href="https://nyti.ms/3q7GMib"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Judge Rejects Trump’s Effort to Short-Circuit Georgia Election Case</h3>
-<sub>By Richard Fausset and Danny Hakim</sub>
-<p>A Fulton County judge said the former president had no standing to challenge the investigation before indictments were handed up, and chided Mr. Trump’s lawyers for “unnecessary and unfounded legal filings.”  <a href="https://nyti.ms/3Kq3xEP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Employee Released on Bond After Court Appearance in Documents Case</h3>
-<sub>By Patricia Mazzei and Alan Feuer</sub>
-<p>Carlos De Oliveira, the property manager of Mar-a-Lago, made his first court appearance after his indictment on charges of conspiring with Donald J. Trump to obstruct the retrieval of classified material.  <a href="https://nyti.ms/3KkJIyT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 31, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>Women’s World Cup 2023: How Teams Can Advance to the Round of 16</h3>
+<sub></sub>
+<p>An overview of the scenarios describing how all 32 teams can advance to the knockout round.  <a href="https://nyti.ms/3XYzl9j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Homeless Camps Are Being Cleared in California. What Happens Next?</h3>
