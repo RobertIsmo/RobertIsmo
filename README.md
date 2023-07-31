@@ -60,9 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, July 31, Central Standard Time</p>
 <p>
-The news lately has been all about former President Trump and the Republican primary contenders. A recent survey found Trump with a huge lead across most regions, despite two indictments he is facing. People speculate as to why Trump is so hard to beat, and some believe he maintains a firm base of loyal supporters. Others like Ron DeSantis have been attacking his legal troubles in attempt to overtake him in the polls. Meanwhile, Nikki Haley is promoting a platform of &quot;nuts-and-bolts conservatism&quot; which included appeals to common sense and experience in the White House. 
-
-Outside of the political sphere, there are also stories about homelessness in California, climate warnings from the Fertile Crescent, and judicial rulings against Trump on a few defamation suits. Moreover, an Austrian country is struggling to break away from Russian gas and a female trombonist is breaking barriers in classical music. It&#39;s certainly been an interesting few weeks!</p>
+It appears that former President Trump is still very popular among Republicans and leading in most poll numbers. On the international front, Russia&#39;s wartime economy seems to be booming while Austria remains reliant on Russian gas. Phoenix has been enduring an especially hot summer and this kind of extreme heat is costing the US economy billions due to less productive workers. To add to that bad news, German shepherds died in a vehicle traveling from Chicago to Michigan City after an air-conditioning unit failure. Myanmar&#39;s military still continues to use terror tactics against its own people and women are having to navigate an ever-changing soccer game. Finally, an FBI investigation recently discovered that it was the FBI that paid for a mysterious spy tool.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Crushing DeSantis and G.O.P. Rivals, Times&#x2F;Siena Poll Finds</h3>
@@ -82,41 +80,11 @@ Outside of the political sphere, there are also stories about homelessness in Ca
 <p>Ron DeSantis’s remarks to a voter in New Hampshire suggest he may step up his attacks against the man who leads him in national polls by a wide margin.  <a href="https://nyti.ms/3qdxL7d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Nuts-and-Bolts Conservatism From Nikki Haley</h3>
-<sub>By Jazmine Ulloa</sub>
-<p>In her stump speech, the former governor calls for common sense and experience in the White House, leaving crowds wanting more.  <a href="https://nyti.ms/3YbsZDL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Homeless Camps Are Being Cleared in California. What Happens Next?</h3>
-<sub>By Livia Albeck-Ripka</sub>
-<p>One of the state’s largest homeless encampments was recently shut down in Oakland, but that didn’t stop the problem of homelessness.  <a href="https://nyti.ms/45a78yX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 30, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Climate Warning from the Cradle of Civilization</h3>
-<sub>By Alissa J. Rubin and Bryan Denton</sub>
-<p>How extreme temperatures and dwindling water are pushing the Fertile Crescent toward the brink.  <a href="https://nyti.ms/458KmHp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Minor Characters Emerge to Play Key Roles in Trump Documents Case</h3>
-<sub>By Alan Feuer, Maggie Haberman and Ben Protess</sub>
-<p>Carlos De Oliveira and Walt Nauta, who were hired by former President Donald J. Trump despite past troubles, rely on him for their legal fees — and are now his co-defendants.  <a href="https://nyti.ms/3YbsXf7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Judge Dismisses Trump’s $475 Million Defamation Suit Against CNN</h3>
-<sub>By Nicole Sperling</sub>
-<p>The network’s statements were opinion, the ruling said, and did not support a claim of libel and slander.  <a href="https://nyti.ms/3KmsMIe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Team Creates Legal-Defense Fund to Cover His Allies’ Bills</h3>
-<sub>By Maggie Haberman and Shane Goldmacher</sub>
-<p>With investigations and legal fees piling up, a fund is planned to help witnesses and defendants. The former president’s legal bills are not expected to be included, however.  <a href="https://nyti.ms/43S8ihg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 30, Central Standard Time</sub></sub>
+<h3>A Spending Boom Fuels Russia’s Wartime Economy, Raising Bubble Fears</h3>
+<sub>By Anatoly Kurmanaev</sub>
+<p>The economic strength has helped to maintain popular support for Vladimir Putin’s war, but some have warned the state-led spending is threatening the country’s financial stability.  <a href="https://nyti.ms/43PONpR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Why One Country Is Struggling to Break Away From Russian Gas</h3>
@@ -124,17 +92,47 @@ Outside of the political sphere, there are also stories about homelessness in Ca
 <p>Austria, unlike most European Union countries, is still buying nearly as much natural gas from Russia as it was before the war in Ukraine.  <a href="https://nyti.ms/3QhpqKg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>A Trombonist on a Mission to Break Barriers in Classical Music</h3>
-<sub>By Javier C. Hernández</sub>
-<p>Hillary Simms is the first woman to become a member of the American Brass Quintet. She says the field needs more role models.  <a href="https://nyti.ms/3rV2gPz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Phoenix’s Month in Hell: 31 Days of Extreme Heat Tests the City</h3>
+<sub>By Jack Healy</sub>
+<p>A continuous stretch of days reaching or exceeding 110 degrees has filled emergency rooms and even withered the mighty saguaro cactus.  <a href="https://nyti.ms/43IQrcN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Heat Is Costing the U.S. Economy Billions in Lost Productivity</h3>
+<sub>By Coral Davenport</sub>
+<p>From meatpackers to home health aides, workers are struggling in sweltering temperatures and productivity is taking a hit.  <a href="https://nyti.ms/3OyXOz6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Dogs Die From Heat-Related Injuries on Their Way to Police Training</h3>
+<sub>By Lauren McCarthy</sub>
+<p>The German shepherds were en route from Chicago to Michigan City, Ind., when the air-conditioning unit in the vehicle in which they were being transported failed, the police said.  <a href="https://nyti.ms/44KVFWt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The Country That Bombs Its Own People</h3>
+<sub>By Haley Willis and Weiyi Cai</sub>
+<p>Visual evidence, data and interviews show that the Myanmar military’s campaign of terror, which began after a coup sparked widespread resistance, is getting worse.  <a href="https://nyti.ms/43PGtGy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>A New Era of Soccer Moms Navigates a Rapidly Changing Game</h3>
+<sub>By Juliet Macur</sub>
+<p>Women have long blended motherhood and elite sports. But as soccer expands its support systems, it is also demanding ever more of its players.  <a href="https://nyti.ms/3Yigc2y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>The Gaps Get Smaller as the World Cup Gets Larger</h3>
+<sub>By Rory Smith</sub>
+<p>Expanding the Women’s World Cup was a good idea. Just not for the reasons FIFA thinks.  <a href="https://nyti.ms/3Yb2mPn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Inside the Party Switch that Blew Up North Carolina Politics</h3>
-<sub>By Kate Kelly and David Perlmutt</sub>
-<p>Tricia Cotham, a Democrat who supported abortion rights, was encouraged to run for a state House seat by powerful Republicans. After she was elected, she joined them and delivered a G.O.P. supermajority.  <a href="https://nyti.ms/3DCAl9K"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 30, Central Standard Time</sub></sub>
+<h3>Who Paid for a Mysterious Spy Tool? The F.B.I., an F.B.I. Inquiry Found</h3>
+<sub>By Mark Mazzetti, Ronen Bergman and Adam Goldman</sub>
+<p>After a Times report, the bureau canceled its contract with a government contractor that used the tool on its behalf. But questions remain.  <a href="https://nyti.ms/3q7GMib"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 31, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
