@@ -60,14 +60,8 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, July 31, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. In the US, Trump is crushing his competition in the G.O.P primary and people are waving away concerns about his legal issues. Meanwhile, the Phoenix area has gone through an intense stretch of over 110-degree-days and it&#39;s starting to take its toll economically. Over in Russia, there&#39;s a spending-boom causing bubble fears and over in Ukraine, Saudi Arabia is trying to help broker peace talks. Myanmar is still continuing their campaign of terror against citizens after a coup and in soccer, more support systems are emerging for female soccer players but there are still plenty of gaps and discrepancies between men&#39;s and women&#39;s play. Finally, it looks like the US FBI has been using a mysterious spy tool with potentially questionable contracts that have recently been canceled.</p>
+There is a lot happening in the world right now. In the US, former President Trump is still popular among his base of supporters and is facing legal issues. In Saudi Arabia, international leaders are being invited for talks about Ukraine&#39;s peace plan. In Florida, teams are urgently trying to save coral reefs from a marine heat wave. Phoenix experienced an intense heat wave over a month long period and its effects on the environment and local emergency rooms were drastic. Paul Reubens, known for creating the character Pee-wee Herman, passed away at 70 this year. Also in Italy, there&#39;s a popular television melodrama that teenagers have been taking up. Women soccer moms have grown in numbers as the game expands its support systems and some are realizing how difficult it has become to juggle motherhood and elite sports. Recently, the FBI has been investigating their own government contractor for using mysterious spy tools on their behalf and they&#39;ve canceled the contract as a result. Carlos De Oliveira, property manager at Mar-a-Lago was recently indicted with Donald J Trump in obstructing the retrieval of classified material and released on bond after court appearance. Finally, homeless camps are being cleared in California leading to more questions than solutions.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Crushing DeSantis and G.O.P. Rivals, Times&#x2F;Siena Poll Finds</h3>
-<sub>By Shane Goldmacher</sub>
-<p>The twice-indicted former president leads across nearly every category and region, as primary voters wave off concerns about his escalating legal jeopardy.  <a href="https://nyti.ms/44KmZo7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 31, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-upshot-blue" alt="">
 <h3>Why Trump Is So Hard to Beat</h3>
 <sub>By Nate Cohn</sub>
@@ -75,27 +69,21 @@ There&#39;s a lot going on in the world right now. In the US, Trump is crushing 
 <sub><sub>Monday, July 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis Jabs at Trump’s Legal Trouble as He Resets His Campaign</h3>
-<sub>By Nicholas Nehamas</sub>
-<p>Ron DeSantis’s remarks to a voter in New Hampshire suggest he may step up his attacks against the man who leads him in national polls by a wide margin.  <a href="https://nyti.ms/3qdxL7d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Spending Boom Fuels Russia’s Wartime Economy, Raising Bubble Fears</h3>
-<sub>By Anatoly Kurmanaev</sub>
-<p>The economic strength has helped to maintain popular support for Vladimir Putin’s war, but some have warned the state-led spending is threatening the country’s financial stability.  <a href="https://nyti.ms/43PONpR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Trump Crushing DeSantis and G.O.P. Rivals, Times&#x2F;Siena Poll Finds</h3>
+<sub>By Shane Goldmacher</sub>
+<p>The twice-indicted former president leads across nearly every category and region, as primary voters wave off concerns about his escalating legal jeopardy.  <a href="https://nyti.ms/44KmZo7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Why One Country Is Struggling to Break Away From Russian Gas</h3>
-<sub>By Patricia Cohen</sub>
-<p>Austria, unlike most European Union countries, is still buying nearly as much natural gas from Russia as it was before the war in Ukraine.  <a href="https://nyti.ms/3QhpqKg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Saudi Arabia Will Host Talks About Ukraine’s Peace Plan, Diplomats Say</h3>
 <sub>By Vivian Nereim</sub>
 <p>Envoys from nations including the United States, Brazil, China and India have been invited, but it was not clear who would attend, the diplomats said.  <a href="https://nyti.ms/3OdGxu0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>A Desperate Push to Save Florida’s Coral: Get It Out of the Sea</h3>
+<sub>By Catrin Einhorn and Jason Gulley</sub>
+<p>Teams dedicated to ocean restoration are urgently moving samples to tanks on land as a marine heat wave devastates entire reefs.  <a href="https://nyti.ms/3DzmTna"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -104,17 +92,17 @@ There&#39;s a lot going on in the world right now. In the US, Trump is crushing 
 <p>A continuous stretch of days reaching or exceeding 110 degrees has filled emergency rooms and even withered the mighty saguaro cactus.  <a href="https://nyti.ms/3YcxwG4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Heat Is Costing the U.S. Economy Billions in Lost Productivity</h3>
-<sub>By Coral Davenport</sub>
-<p>From meatpackers to home health aides, workers are struggling in sweltering temperatures and productivity is taking a hit.  <a href="https://nyti.ms/3OyXOz6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Paul Reubens, Creator of Pee-wee Herman, Is Dead at 70</h3>
+<sub>By Jesus Jiménez</sub>
+<p>With his signature bow tie, short drainpipe pants and flattop hairdo, Pee-wee, as embodied by Mr. Reubens, became enshrined in the popular imagination as a symbol of childlike whimsy.  <a href="https://nyti.ms/3QpYZ5n"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Country That Bombs Its Own People</h3>
-<sub>By Haley Willis and Weiyi Cai</sub>
-<p>Visual evidence, data and interviews show that the Myanmar military’s campaign of terror, which began after a coup sparked widespread resistance, is getting worse.  <a href="https://nyti.ms/43PGtGy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 31, Central Standard Time</sub></sub>
+<h3>‘We Are a Romantic Country’: On the Set of a Steamy Hit in Italy</h3>
+<sub>By Jason Horowitz</sub>
+<p>Italy falls for “Mare Fuori,” a television melodrama about the inmates of a juvenile detention center who pass the time making out — when not scowling at or occasionally stabbing one another.  <a href="https://nyti.ms/45aMoXP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>A New Era of Soccer Moms Navigates a Rapidly Changing Game</h3>
@@ -122,17 +110,29 @@ There&#39;s a lot going on in the world right now. In the US, Trump is crushing 
 <p>Women have long blended motherhood and elite sports. But as soccer expands its support systems, it is also demanding ever more of its players.  <a href="https://nyti.ms/3Yigc2y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>The Gaps Get Smaller as the World Cup Gets Larger</h3>
-<sub>By Rory Smith</sub>
-<p>Expanding the Women’s World Cup was a good idea. Just not for the reasons FIFA thinks.  <a href="https://nyti.ms/3Yb2mPn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 30, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Who Paid for a Mysterious Spy Tool? The F.B.I., an F.B.I. Inquiry Found.</h3>
 <sub>By Mark Mazzetti, Ronen Bergman and Adam Goldman</sub>
 <p>After a Times report, the bureau canceled its contract with a government contractor that used the tool on its behalf. But questions remain.  <a href="https://nyti.ms/3q7GMib"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Judge Rejects Trump’s Effort to Short-Circuit Georgia Election Case</h3>
+<sub>By Richard Fausset and Danny Hakim</sub>
+<p>A Fulton County judge said the former president had no standing to challenge the investigation before indictments were handed up, and chided Mr. Trump’s lawyers for “unnecessary and unfounded legal filings.”  <a href="https://nyti.ms/3Kq3xEP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Employee Released on Bond After Court Appearance in Documents Case</h3>
+<sub>By Patricia Mazzei and Alan Feuer</sub>
+<p>Carlos De Oliveira, the property manager of Mar-a-Lago, made his first court appearance after his indictment on charges of conspiring with Donald J. Trump to obstruct the retrieval of classified material.  <a href="https://nyti.ms/3KkJIyT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Homeless Camps Are Being Cleared in California. What Happens Next?</h3>
+<sub>By Livia Albeck-Ripka</sub>
+<p>One of the state’s largest homeless encampments was recently shut down in Oakland, but that didn’t stop the problem of homelessness.  <a href="https://nyti.ms/45a78yX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 30, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
