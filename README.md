@@ -60,13 +60,41 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, July 30, Central Standard Time</p>
 <p>
-Right now, the world is facing some serious climate change warnings from the Fertile Crescent in the Middle East with extreme temperatures and dwindling water supplies. On the political side, Ukrainians have made gains in battlefields against Russia, while the government says two drones have recently attacked Moscow. In the United States, a secret history of gun rights is being examined as more states grapple with firearm laws and legacy admissions laws are debated following a Supreme Court decision. On the international front, there has been a devastating explosion at a Pakistani political rally that killed many people. Here in America, issues of immigration reform also remain top of mind as New York City contracted a medical services company to handle hundreds of asylum seekers outside the city. Further west in Iowa, a left-right alliance is pressuring presidential candidates to block pipelines for carbon dioxide and finally in the cultural sector a female trombonist is breaking the boundaries of classical music and pushing for more diversity.</p>
+There&#39;s a lot going on in the world right now. In the United States, homeless camps in California are being cleared, but there&#39;s still a big problem with homelessness. There&#39;s also news on legal developments related to former President Donald Trump. His legal team has created a fund to cover the legal bills of his allies, and he just lost a defamation lawsuit against CNN. 
+
+Around the world, there&#39;s news out of the Fertile Crescent about climate warnings and extreme temperatures. Russia is also dealing with drone attacks in Moscow, and Ukraine is having success with its counterattack against Russia. Meanwhile in Pakistan, a political rally was bombed and killed 43 people.
+
+It&#39;s a time of big changes everywhere!</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Homeless Camps Are Being Cleared in California. What Happens Next?</h3>
+<sub>By Livia Albeck-Ripka</sub>
+<p>One of the state’s largest homeless encampments was recently shut down in Oakland, but that didn’t stop the problem of homelessness.  <a href="https://nyti.ms/45a78yX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 30, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>A Climate Warning from the Cradle of Civilization</h3>
 <sub>By Alissa J. Rubin and Bryan Denton</sub>
 <p>How extreme temperatures and dwindling water are pushing the Fertile Crescent toward the brink.  <a href="https://nyti.ms/458KmHp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Minor Characters Emerge to Play Key Roles in Trump Documents Case</h3>
+<sub>By Alan Feuer, Maggie Haberman and Ben Protess</sub>
+<p>Carlos De Oliveira and Walt Nauta, who were hired by former President Donald J. Trump despite past troubles, rely on him for their legal fees — and are now his co-defendants.  <a href="https://nyti.ms/3YbsXf7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Judge Dismisses Trump’s $475 Million Defamation Suit Against CNN</h3>
+<sub>By Nicole Sperling</sub>
+<p>The network’s statements were opinion, the ruling said, and did not support a claim of libel and slander.  <a href="https://nyti.ms/3KmsMIe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Team Creates Legal-Defense Fund to Cover His Allies’ Bills</h3>
+<sub>By Maggie Haberman and Shane Goldmacher</sub>
+<p>With investigations and legal fees piling up, a fund is planned to help witnesses and defendants. The former president’s legal bills are not expected to be included, however.  <a href="https://nyti.ms/43S8ihg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The Secret History of Gun Rights: How Lawmakers Armed the N.R.A.</h3>
@@ -75,21 +103,21 @@ Right now, the world is facing some serious climate change warnings from the Fer
 <sub><sub>Sunday, July 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Amid the Counterattack’s Deadly Slog, a Glimmer of Success for Ukraine</h3>
-<sub>By Carlotta Gall</sub>
-<p>Recapturing the village of Staromaiorske was such welcome news for the country that President Volodymyr Zelensky announced it himself. But formidable Russian defenses have stymied progress elsewhere.  <a href="https://nyti.ms/43HXimI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Russia Says 2 Drones Hit Buildings in Moscow in Latest Wave of Attacks</h3>
 <sub>By Andrés R. Martínez and Anton Troianovski</sub>
 <p>The strike was the third in the past week in Moscow, a sign of how no city in Russia or Ukraine appears to be safe from the war. Russia blamed Ukraine, which has yet to comment.  <a href="https://nyti.ms/3DTL7Jb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, July 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Russia Takes Its Ukraine Information War Into Video Games</h3>
-<sub>By Steven Lee Myers and Kellen Browning</sub>
-<p>Propaganda is appearing in Minecraft and other popular games and discussion groups as the Kremlin tries to win over new audiences.  <a href="https://nyti.ms/47cU65y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Amid the Counterattack’s Deadly Slog, a Glimmer of Success for Ukraine</h3>
+<sub>By Carlotta Gall</sub>
+<p>Recapturing the village of Staromaiorske was such welcome news for the country that President Volodymyr Zelensky announced it himself. But formidable Russian defenses have stymied progress elsewhere.  <a href="https://nyti.ms/43HXimI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>A Trombonist on a Mission to Break Barriers in Classical Music</h3>
+<sub>By Javier C. Hernández</sub>
+<p>Hillary Simms is the first woman to become a member of the American Brass Quintet. She says the field needs more role models.  <a href="https://nyti.ms/3rV2gPz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -104,34 +132,10 @@ Right now, the world is facing some serious climate change warnings from the Fer
 <p>An explosion at a political rally on Sunday in northwest Pakistan killed dozens of people and injured 200 more, officials said, the latest sign of the deteriorating security situation in Pakistan, where some militant groups have become more active over the past two years.  <a href="https://nyti.ms/3qfJRMX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>What Is It About Montecito?</h3>
-<sub>By Amy Larocca</sub>
-<p>Trying to understand the allure of a place that’s home to Oprah, the self-exiled royals, a celebrity juicer, Katy Perry’s dad — and the New American Dream.  <a href="https://nyti.ms/47dqUuY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>New York City Had a Migrant Crisis. It Hired a Covid Expert to Help.</h3>
-<sub>By Jay Root</sub>
-<p>DocGo, a medical services company, received a $432 million no-bid contract to move hundreds of asylum seekers outside the city. Many say they have been threatened, mistreated and lied to.  <a href="https://nyti.ms/44RrYTR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 30, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Legacy Dilemma: What to Do About Privileges for the Privileged?</h3>
-<sub>By Emily Cochrane, Amy Harmon, Anemona Hartocollis and Anna Betts</sub>
-<p>Alumni of many colleges are wrestling with whether the practice of legacy admissions should survive after the Supreme Court gutted race-based admissions programs.  <a href="https://nyti.ms/43HzKhK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Left-Right Alliance Puts Iowa’s CO2 Pipelines on the Presidential Agenda</h3>
-<sub>By Jonathan Weisman</sub>
-<p>Liberal environmentalists and conservative landowners, led by the former congressman Steve King, are pressuring Republican candidates to block two huge Midwestern pipelines.  <a href="https://nyti.ms/3OKOiJr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>A Trombonist on a Mission to Break Barriers in Classical Music</h3>
-<sub>By Javier C. Hernández</sub>
-<p>Hillary Simms is the first woman to become a member of the American Brass Quintet. She says the field needs more role models.  <a href="https://nyti.ms/3rV2gPz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>DeSantis Jabs at Trump’s Legal Trouble as He Resets His Campaign</h3>
+<sub>By Nicholas Nehamas</sub>
+<p>Ron DeSantis’s remarks to a voter in New Hampshire suggest he may step up his attacks against the man who leads him in national polls by a wide margin.  <a href="https://nyti.ms/3qdxL7d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 30, Central Standard Time</sub></sub>
 <hr/>
 </ol>
