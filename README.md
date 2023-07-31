@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, July 31, Central Standard Time</p>
 <p>
-It appears that former President Trump is still very popular among Republicans and leading in most poll numbers. On the international front, Russia&#39;s wartime economy seems to be booming while Austria remains reliant on Russian gas. Phoenix has been enduring an especially hot summer and this kind of extreme heat is costing the US economy billions due to less productive workers. To add to that bad news, German shepherds died in a vehicle traveling from Chicago to Michigan City after an air-conditioning unit failure. Myanmar&#39;s military still continues to use terror tactics against its own people and women are having to navigate an ever-changing soccer game. Finally, an FBI investigation recently discovered that it was the FBI that paid for a mysterious spy tool.</p>
+There&#39;s a lot going on in the world right now. In the US, Trump is crushing his competition in the G.O.P primary and people are waving away concerns about his legal issues. Meanwhile, the Phoenix area has gone through an intense stretch of over 110-degree-days and it&#39;s starting to take its toll economically. Over in Russia, there&#39;s a spending-boom causing bubble fears and over in Ukraine, Saudi Arabia is trying to help broker peace talks. Myanmar is still continuing their campaign of terror against citizens after a coup and in soccer, more support systems are emerging for female soccer players but there are still plenty of gaps and discrepancies between men&#39;s and women&#39;s play. Finally, it looks like the US FBI has been using a mysterious spy tool with potentially questionable contracts that have recently been canceled.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Crushing DeSantis and G.O.P. Rivals, Times&#x2F;Siena Poll Finds</h3>
@@ -92,10 +92,16 @@ It appears that former President Trump is still very popular among Republicans a
 <p>Austria, unlike most European Union countries, is still buying nearly as much natural gas from Russia as it was before the war in Ukraine.  <a href="https://nyti.ms/3QhpqKg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 30, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Saudi Arabia Will Host Talks About Ukraine’s Peace Plan, Diplomats Say</h3>
+<sub>By Vivian Nereim</sub>
+<p>Envoys from nations including the United States, Brazil, China and India have been invited, but it was not clear who would attend, the diplomats said.  <a href="https://nyti.ms/3OdGxu0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 31, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Phoenix’s Month in Hell: 31 Days of Extreme Heat Tests the City</h3>
 <sub>By Jack Healy</sub>
-<p>A continuous stretch of days reaching or exceeding 110 degrees has filled emergency rooms and even withered the mighty saguaro cactus.  <a href="https://nyti.ms/43IQrcN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>A continuous stretch of days reaching or exceeding 110 degrees has filled emergency rooms and even withered the mighty saguaro cactus.  <a href="https://nyti.ms/3YcxwG4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
@@ -103,12 +109,6 @@ It appears that former President Trump is still very popular among Republicans a
 <sub>By Coral Davenport</sub>
 <p>From meatpackers to home health aides, workers are struggling in sweltering temperatures and productivity is taking a hit.  <a href="https://nyti.ms/3OyXOz6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Dogs Die From Heat-Related Injuries on Their Way to Police Training</h3>
-<sub>By Lauren McCarthy</sub>
-<p>The German shepherds were en route from Chicago to Michigan City, Ind., when the air-conditioning unit in the vehicle in which they were being transported failed, the police said.  <a href="https://nyti.ms/44KVFWt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>The Country That Bombs Its Own People</h3>
@@ -129,7 +129,7 @@ It appears that former President Trump is still very popular among Republicans a
 <sub><sub>Sunday, July 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Who Paid for a Mysterious Spy Tool? The F.B.I., an F.B.I. Inquiry Found</h3>
+<h3>Who Paid for a Mysterious Spy Tool? The F.B.I., an F.B.I. Inquiry Found.</h3>
 <sub>By Mark Mazzetti, Ronen Bergman and Adam Goldman</sub>
 <p>After a Times report, the bureau canceled its contract with a government contractor that used the tool on its behalf. But questions remain.  <a href="https://nyti.ms/3q7GMib"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 31, Central Standard Time</sub></sub>
