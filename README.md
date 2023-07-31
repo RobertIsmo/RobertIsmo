@@ -58,13 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Sunday, July 30, Central Standard Time</p>
+<p>It is Monday, July 31, Central Standard Time</p>
 <p>
-There is a lot of challenging news happening around the world right now. In California, homeless camps are being cleared, and it&#39;s unclear what will happen to those people next. In the Fertile Crescent, extreme temperatures and diminishing water are pushing the area toward the brink. In Russia and Ukraine, people are experiencing increasing violence; just last week two drones were used to attack buildings in Moscow. Climate change is at the forefront of international attention. 
-
-In the United States, Donald Trump&#39;s associates are facing legal trouble as a result of the recent impeachment hearings. Trump himself has been the subject of libel and slander cases, while his team has started a legal defense fund to cover legal fees for those connected to him. Meanwhile, Ron DeSantis has reset his presidential campaign by criticizing Trump&#39;s precarious legal situation. 
-
-On a brighter note, North Carolina politics have been shaken up by politicians switching alliances – one former Democrat was elected into a state House seat with Republican support, while a trombonist has achieved an important breakthrough for women in classical music by earning a spot with the American Brass Quintet.</p>
+The world is increasingly facing the consequences of climate change in the form of extreme temperatures and dwindling water, particularly in the Fertile Crescent. Russia is currently under attack from drones, potentially by Ukraine, while violence in Ukraine has been countered by their military with a degree of success. In the US, homeless camps are being cleared but with no obvious solution for those affected. Donald Trump&#39;s legal troubles have been heavily featured in the news lately, as he faces lawsuits from CNN and was recently hit with a co-defendant status in a documents case related to him. Additionally, his aides have set up a fund to cover legal fees for allies so they don&#39;t have to turn to him. On the political front, trials for gun rights and abortions are being fought within legislatures and women are now emerging as key players in classical music performances.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Homeless Camps Are Being Cleared in California. What Happens Next?</h3>
@@ -126,16 +122,16 @@ On a brighter note, North Carolina politics have been shaken up by politicians s
 <p>Tricia Cotham, a Democrat who supported abortion rights, was encouraged to run for a state House seat by powerful Republicans. After she was elected, she joined them and delivered a G.O.P. supermajority.  <a href="https://nyti.ms/3DCAl9K"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>At Least 43 Killed in Blast at Political Rally in Pakistan</h3>
-<sub>By Christina Goldbaum and Zia ur-Rehman</sub>
-<p>An explosion at a political rally on Sunday in northwest Pakistan killed dozens of people and injured 200 more, officials said, the latest sign of the deteriorating security situation in Pakistan, where some militant groups have become more active over the past two years.  <a href="https://nyti.ms/3qfJRMX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 30, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>DeSantis Jabs at Trump’s Legal Trouble as He Resets His Campaign</h3>
 <sub>By Nicholas Nehamas</sub>
 <p>Ron DeSantis’s remarks to a voter in New Hampshire suggest he may step up his attacks against the man who leads him in national polls by a wide margin.  <a href="https://nyti.ms/3qdxL7d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Nuts-and-Bolts Conservatism From Nikki Haley</h3>
+<sub>By Jazmine Ulloa</sub>
+<p>In her stump speech, the former governor calls for common sense and experience in the White House, leaving crowds wanting more.  <a href="https://nyti.ms/3YbsZDL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 30, Central Standard Time</sub></sub>
 <hr/>
 </ol>
