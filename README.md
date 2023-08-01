@@ -60,10 +60,28 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, August 1, Central Standard Time</p>
 <p>
-The world is currently a very dynamic place. In Ukraine, there have been drone and missile attacks against Russia in an effort to disrupt their military logistics. In Georgia, former President Donald J. Trump&#39;s lawyers have been scrambling to cover legal bills for himself and his associates, and a judge has rejected the president&#39;s efforts regarding a Trump-related election case. In Oregon, they have been experimenting with decriminalizing small amounts of illicit drugs in order to attempt to curb overdoses. Paul Reubens, creator of Pee-wee Herman, has recently passed away at the age of 70. President Biden has also been accused of lying about speaking with his son&#39;s associates regarding potential business matters. In New York, Mayor Eric Adams has declared that there is no more room for migrants in shelters across the city. Lastly, teams dedicated to ocean restoration are urgently attempting to move coral specimens out of the sea in order to protect them from a heat wave.</p>
+There&#39;s a lot going on in the world right now. The US is gearing up for the upcoming election and President Biden has been polling strong but is running neck-and-neck against former president Donald Trump. On top of that, more Republicans are saying that Trump committed serious federal crimes, while still supporting him. In Ukraine, they&#39;re waging a counteroffensive with drone and missile attacks on Russian soil, to degrade Moscow&#39;s ability to wage war. And in Oregon, they&#39;re battling an opioid crisis by decriminalizing small amounts of illicit drugs. Finally, legendary actor and comedian Paul Reubens passed away at age 70, leaving behind his iconic Pee-wee Herman character.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Shores Up Democratic Support, but Faces Tight Race Against Trump</h3>
+<sub>By Reid J. Epstein, Ruth Igielnik and Camille Baker</sub>
+<p>A New York Times&#x2F;Siena College poll found that President Biden is on stronger footing than he was a year ago — but he is neck-and-neck in a possible rematch against Donald Trump.  <a href="https://nyti.ms/3rPhvK2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>More Republicans Say Trump Committed Crimes. But They Still Support Him.</h3>
+<sub>By Ruth Igielnik and Maggie Haberman</sub>
+<p>The share of Republicans saying the former president has committed “serious federal crimes” has grown modestly, according to a new poll from The New York Times and Siena College.  <a href="https://nyti.ms/3OMQS1z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>Can the Race Really Be That Close? Yes, Biden and Trump Are Tied.</h3>
+<sub>By Nate Cohn</sub>
+<p>A Times&#x2F;Siena poll suggests a slight Biden edge among voters who don’t like either candidate.  <a href="https://nyti.ms/44OQ4i6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Small Strikes and Big Ambitions in Ukraine’s Attacks on Russia</h3>
+<h3>Ukraine’s Attacks in Russia Aimed at Degrading Moscow’s Ability to Wage War</h3>
 <sub>By Marc Santora and Ivan Nechepurenko</sub>
 <p>The stepped-up drone and missile attacks show a will to hamper the Kremlin’s military logistics, and to remind ordinary Russians of the cost of war.  <a href="https://nyti.ms/453ubvL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 31, Central Standard Time</sub></sub>
@@ -72,18 +90,6 @@ The world is currently a very dynamic place. In Ukraine, there have been drone a
 <h3>Ukraine’s Other Counteroffensive: Drone Attacks on Russian Soil</h3>
 <sub>By Christiaan Triebert, Haley Willis, Yelyzaveta Kovtun and Alexander Cardia</sub>
 <p>Officials in Ukraine rarely discuss attacks on targets inside Russia, including Moscow. But video evidence shows an increasing effort to launch long-range strikes inside the country.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>After Paying Lawyers, Trump’s PAC Is Nearly Broke</h3>
-<sub>By Maggie Haberman, Shane Goldmacher and Jonathan Swan</sub>
-<p>The scramble to cover legal bills for former President Donald J. Trump and his associates has prompted what appears to be the largest refund in federal campaign finance history.  <a href="https://nyti.ms/47aEY8G"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Judge Rejects Trump’s Effort to Short-Circuit Georgia Election Case</h3>
-<sub>By Richard Fausset and Danny Hakim</sub>
-<p>A Fulton County judge chided Donald Trump’s lawyers for “unnecessary and unfounded legal filings” ahead of indictments expected in mid-August.  <a href="https://nyti.ms/3Kq3xEP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
@@ -126,12 +132,6 @@ The world is currently a very dynamic place. In Ukraine, there have been drone a
 <h3>A Desperate Push to Save Florida’s Coral: Get It Out of the Sea</h3>
 <sub>By Catrin Einhorn and Jason Gulley</sub>
 <p>Teams dedicated to ocean restoration are urgently moving samples to tanks on land as a marine heat wave devastates entire reefs.  <a href="https://nyti.ms/3DzmTna"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>To Keep TV Shows Afloat, Some Networks Are Cutting Actors’ Pay</h3>
-<sub>By Nicole Sperling</sub>
-<p>In a shrinking business, actors on some shows are being guaranteed less money, an issue that’s helping to fuel the Hollywood strike.  <a href="https://nyti.ms/45c10Gt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 31, Central Standard Time</sub></sub>
 <hr/>
 </ol>
