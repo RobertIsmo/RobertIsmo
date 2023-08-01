@@ -58,22 +58,10 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Monday, July 31, Central Standard Time</p>
+<p>It is Tuesday, August 1, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now! In the United States, a judge recently rejected an effort by former President Donald Trump to interfere in an election case in Georgia. Meanwhile, Trump&#39;s political action committee is nearly broke after covering legal bills for himself and his associates. On the international front, Ukraine has been carrying out drone and missile attacks on Russia to hamper Moscow&#39;s military logistics and send a message of protest. Ukraine has also been sending drones into Russian soil to launch long-range strikes. Regarding health, Oregon has taken steps to curb opioid overdoses by decriminalizing small amounts of illicit drugs. In the arts world, Paul Reubens, creator of Pee-Wee Herman, recently passed away at age 70. And finally, on the women&#39;s sports front, we&#39;re learning about how teams can advance to the round of 16 in next year&#39;s Women&#39;s World Cup.</p>
+The world is currently a very dynamic place. In Ukraine, there have been drone and missile attacks against Russia in an effort to disrupt their military logistics. In Georgia, former President Donald J. Trump&#39;s lawyers have been scrambling to cover legal bills for himself and his associates, and a judge has rejected the president&#39;s efforts regarding a Trump-related election case. In Oregon, they have been experimenting with decriminalizing small amounts of illicit drugs in order to attempt to curb overdoses. Paul Reubens, creator of Pee-wee Herman, has recently passed away at the age of 70. President Biden has also been accused of lying about speaking with his son&#39;s associates regarding potential business matters. In New York, Mayor Eric Adams has declared that there is no more room for migrants in shelters across the city. Lastly, teams dedicated to ocean restoration are urgently attempting to move coral specimens out of the sea in order to protect them from a heat wave.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Judge Rejects Trump’s Effort to Short-Circuit Georgia Election Case</h3>
-<sub>By Richard Fausset and Danny Hakim</sub>
-<p>A Fulton County judge chided Donald Trump’s lawyers for “unnecessary and unfounded legal filings” ahead of indictments expected in mid-August.  <a href="https://nyti.ms/3Kq3xEP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>After Paying Lawyers, Trump’s PAC Is Nearly Broke</h3>
-<sub>By Maggie Haberman, Shane Goldmacher and Jonathan Swan</sub>
-<p>The scramble to cover legal bills for former President Donald J. Trump and his associates has prompted what appears to be the largest refund in federal campaign finance history.  <a href="https://nyti.ms/47aEY8G"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 31, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Small Strikes and Big Ambitions in Ukraine’s Attacks on Russia</h3>
 <sub>By Marc Santora and Ivan Nechepurenko</sub>
@@ -84,6 +72,18 @@ There&#39;s a lot going on in the world right now! In the United States, a judge
 <h3>Ukraine’s Other Counteroffensive: Drone Attacks on Russian Soil</h3>
 <sub>By Christiaan Triebert, Haley Willis, Yelyzaveta Kovtun and Alexander Cardia</sub>
 <p>Officials in Ukraine rarely discuss attacks on targets inside Russia, including Moscow. But video evidence shows an increasing effort to launch long-range strikes inside the country.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>After Paying Lawyers, Trump’s PAC Is Nearly Broke</h3>
+<sub>By Maggie Haberman, Shane Goldmacher and Jonathan Swan</sub>
+<p>The scramble to cover legal bills for former President Donald J. Trump and his associates has prompted what appears to be the largest refund in federal campaign finance history.  <a href="https://nyti.ms/47aEY8G"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Judge Rejects Trump’s Effort to Short-Circuit Georgia Election Case</h3>
+<sub>By Richard Fausset and Danny Hakim</sub>
+<p>A Fulton County judge chided Donald Trump’s lawyers for “unnecessary and unfounded legal filings” ahead of indictments expected in mid-August.  <a href="https://nyti.ms/3Kq3xEP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
@@ -110,12 +110,6 @@ There&#39;s a lot going on in the world right now! In the United States, a judge
 <p>Paul Reubens committed to profound silliness without ever going mean or dark — though some peers were disappointed that he focused on one character.  <a href="https://nyti.ms/3qeP5J6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘We Are a Romantic Country’: On the Set of a Steamy Hit in Italy</h3>
-<sub>By Jason Horowitz</sub>
-<p>Italy falls for “Mare Fuori,” a television melodrama about the inmates of a juvenile detention center who pass the time making out — when not scowling at or occasionally stabbing one another.  <a href="https://nyti.ms/45aMoXP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 30, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Spoke With Son’s Associates, but Not About Business, Former Partner Says</h3>
 <sub>By Luke Broadwater</sub>
@@ -128,11 +122,17 @@ There&#39;s a lot going on in the world right now! In the United States, a judge
 <p>Mayor Eric Adams said New York has run out of shelter space for migrants, and he defended a troubled contractor working with the city on its response.  <a href="https://nyti.ms/45803ih"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>Women’s World Cup 2023: How Teams Can Advance to the Round of 16</h3>
-<sub></sub>
-<p>An overview of the scenarios describing how all 32 teams can advance to the knockout round.  <a href="https://nyti.ms/3XYzl9j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>A Desperate Push to Save Florida’s Coral: Get It Out of the Sea</h3>
+<sub>By Catrin Einhorn and Jason Gulley</sub>
+<p>Teams dedicated to ocean restoration are urgently moving samples to tanks on land as a marine heat wave devastates entire reefs.  <a href="https://nyti.ms/3DzmTna"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>To Keep TV Shows Afloat, Some Networks Are Cutting Actors’ Pay</h3>
+<sub>By Nicole Sperling</sub>
+<p>In a shrinking business, actors on some shows are being guaranteed less money, an issue that’s helping to fuel the Hollywood strike.  <a href="https://nyti.ms/45c10Gt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 31, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
