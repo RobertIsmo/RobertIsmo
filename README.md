@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, August 1, Central Standard Time</p>
 <p>
-Right now, we&#39;re seeing a major presidential election battle in the US between Joe Biden and Donald Trump, with plenty of Republicans supporting Trump despite some believing he committed serious crimes. In Russia, Vladimir Putin is cracking down on L.G.B.T. rights and is using the war in Ukraine as justification for that, which is scary. Over in Germany they&#39;re encountering challenges to their goal of decreasing dependency on Russian gas due to old bombs in the ground. There are also drone attacks happening in Ukraine targeting Moscow that aren&#39;t being openly talked about by officials in Ukraine but are leaving people feeling apprehensive. On the gun control front here in the US, there&#39;s a Craigslist-like site for guns that has no background checks whatsoever - and the Biden administration has a new tool to fix this issue but so far hasn&#39;t used it yet. Mass shootings across the country have gotten to be so frequent that people who have lost loved ones are joining what was aptly named &quot;the worst club imaginable&quot;. The Roosevelt Presidential Library has an exhibition up right now looking at FDR&#39;s (Franklin D. Roosevelt) mixed record on civil rights and his policy on racism during the New Deal era. And sadly speaking of heat waves, there&#39;s been multiple heat related deaths of hikers in various state and national parks across The Southwest this summer already due to record breaking heat. To try and prevent any more deaths, rangers at Grand Canyon National Park are using aggressive messaging when people go hiking as one of their prevention tactics.</p>
+There&#39;s a lot going on in the world right now. President Biden is neck-and-neck with Donald Trump in a possible rematch of the 2020 election, and more Republicans are starting to admit Trump committed serious federal crimes during his time in office. Meanwhile, Vladimir Putin has been using the war in Ukraine to justify greater restrictions on LGBTQ life. On a lighter note in the US, there&#39;s a bus full of Mass Shooting Victims&#39; families going on a road trip to provide support for one another. And over in Europe, Germany is facing issues with unexploded wartime bombs while clever Ukrainians are carrying out drone attacks on Russian soil. Last but not least, it&#39;s summer time here in the US, and hikers in the Southwest are paying for it by experiencing several heat-related deaths in state and national parks!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Shores Up Democratic Support, but Faces Tight Race Against Trump</h3>
@@ -89,7 +89,7 @@ Right now, we&#39;re seeing a major presidential election battle in the US betwe
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Putin’s Crackdown Leaves Transgender Russians Bracing for Worse</h3>
 <sub>By Neil MacFarquhar and Georgy Birger</sub>
-<p>A new law underscores how Vladimir V. Putin is increasingly using the war in Ukraine as justification for greater restrictions on L.G.B.T. life, portraying it as a consequence of deviant Western values.  <a href="https://nyti.ms/3rRg11S"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>A new law underscores how Vladimir V. Putin is increasingly using the war in Ukraine as justification for greater restrictions on L.G.B.T.Q. life, portraying it as a consequence of deviant Western values.  <a href="https://nyti.ms/3rRg11S"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -111,27 +111,27 @@ Right now, we&#39;re seeing a major presidential election battle in the US betwe
 <sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A School Bus Crosses the Nation, Connecting Mass Shooting Families</h3>
+<h3>School Bus Crosses U.S., Linking Families of Mass Shooting Victims</h3>
 <sub>By Mike Baker</sub>
-<p>As mass shootings multiply, loved ones find support in “the worst club imaginable.” One child’s parents are on a road trip to connect with others like them.  <a href="https://nyti.ms/45dlUoF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>As mass shootings multiply, relatives of the dead find support in “the worst club imaginable.” One child’s parents are on a road trip to connect them.  <a href="https://nyti.ms/45dlUoF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Back From the Edge, U.S. Tries to Focus on What Comes Next</h3>
+<sub>By Juliet Macur</sub>
+<p>A close call against Portugal at the Women’s World Cup gave the United States a chance to consider what might have been, and then move past it.  <a href="https://nyti.ms/3qitXRZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>At the Roosevelt Library, an Unflinching Look at Race</h3>
-<sub>By Jennifer Schuessler</sub>
-<p>A new exhibition at the Franklin D. Roosevelt Presidential Library explores the president’s “mixed” record on civil rights — and the charged debate over racism in the New Deal.  <a href="https://nyti.ms/3Kmd5Rm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>The Price of Admission to America’s Museums Keeps Rising</h3>
+<sub>By Zachary Small</sub>
+<p>Their buildings have expanded and expenses have surged, even as attendance slowed. Art lovers will bear the cost: The Guggenheim is the latest to increase its entry fee to $30 — the new normal.  <a href="https://nyti.ms/47gOtU2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A Deadly Summer for Hikers in the Southwest</h3>
 <sub>By Jacey Fortin</sub>
 <p>At least seven heat-related deaths are suspected in state and national parks during a record-breaking heat wave.  <a href="https://nyti.ms/45aF9ii"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-travel-blue" alt="">
-<h3>Saving Lives at the Grand Canyon, One Salty Snack at a Time</h3>
-<sub>By Rowan Moore Gerety</sub>
-<p>In a summer of deadly heat for hikers in the Southwest, rangers at Grand Canyon National Park use a pioneering approach of aggressive messaging and outreach to prevent disaster on the trails.  <a href="https://nyti.ms/459BVvK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
