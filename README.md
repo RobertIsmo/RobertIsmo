@@ -60,54 +60,36 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, July 31, Central Standard Time</p>
 <p>
-It looks like a lot is going on in the world right now. In Ukraine, there are reports of drone attacks on targets inside Russia, including Moscow. A judge has rejected Donald Trump&#39;s efforts to challenge an investigation into the election in Georgia. Trump&#39;s own property manager was indicted on charges related to carrying classified material and his legal woes are only getting worse. Meanwhile, a poll shows Trump crushing GOP rivals in Florida, leading Ron DeSantis to make an economic plan for blue-collar voters. Climate change is causing coral reefs to suffer in Florida, while Phoenix experienced 31 days of extreme heat. Paul Reubens, the creator of Pee-wee Herman, died recently at the age of 70 and Italy has fallen for a steamy new TV show. Additionally, the Women&#39;s World Cup 2023 rules on advancing teams to the knockout round have been released and California is clearing homeless camps without providing much help in solving homelessness.</p>
+There is a lot going on in the world right now. In the US, a judge has rejected Donald Trump&#39;s effort to short-circuit an election case in Georgia, and an employee of his was released on bond after appearing in court for documents-related charges. Meanwhile, Ukraine has been attacking Russia with drones and missiles, and a hit melodrama series has taken off inside Italy. Across the pond, Joe Biden has been accused of lying and his son Hunter&#39;s associates have been testifying, while in New York migrants are sleeping outdoors due to a lack of shelter space. Finally, polls suggest that Donald Trump might be hard to beat due to his loyal supporters.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Judge Rejects Trump’s Effort to Short-Circuit Georgia Election Case</h3>
+<sub>By Richard Fausset and Danny Hakim</sub>
+<p>A Fulton County judge chided Donald Trump’s lawyers for “unnecessary and unfounded legal filings” ahead of indictments expected in mid-August.  <a href="https://nyti.ms/3Kq3xEP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Employee Released on Bond After Court Appearance in Documents Case</h3>
+<sub>By Patricia Mazzei and Alan Feuer</sub>
+<p>Carlos De Oliveira, the Mar-a-Lago property manager, made his first court appearance on charges of conspiring with Donald J. Trump to obstruct the retrieval of classified material.  <a href="https://nyti.ms/3KkJIyT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Small Strikes and Big Ambitions in Ukraine’s Attacks on Russia</h3>
+<sub>By Marc Santora and Ivan Nechepurenko</sub>
+<p>The stepped-up drone and missile attacks show a will to hamper the Kremlin’s military logistics, and to remind ordinary Russians of the cost of war.  <a href="https://nyti.ms/453ubvL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 31, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ukraine’s Other Counteroffensive: Drone Attacks on Russian Soil</h3>
 <sub>By Christiaan Triebert, Haley Willis, Yelyzaveta Kovtun and Alexander Cardia</sub>
 <p>Officials in Ukraine rarely discuss attacks on targets inside Russia, including Moscow. But video evidence shows an increasing effort to launch long-range strikes inside the country.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Judge Rejects Trump’s Effort to Short-Circuit Georgia Election Case</h3>
-<sub>By Richard Fausset and Danny Hakim</sub>
-<p>A Fulton County judge said the former president had no standing to challenge the investigation before indictments were handed up, and chided Mr. Trump’s lawyers for “unnecessary and unfounded legal filings.”  <a href="https://nyti.ms/3Kq3xEP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Employee Released on Bond After Court Appearance in Documents Case</h3>
-<sub>By Patricia Mazzei and Alan Feuer</sub>
-<p>Carlos De Oliveira, the property manager of Mar-a-Lago, made his first court appearance after his indictment on charges of conspiring with Donald J. Trump to obstruct the retrieval of classified material.  <a href="https://nyti.ms/3KkJIyT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>Why Trump Is So Hard to Beat</h3>
-<sub>By Nate Cohn</sub>
-<p>The first Times&#x2F;Siena poll of the G.O.P. primary shows he still commands a seemingly unshakable base of loyal supporters.  <a href="https://nyti.ms/3Oza1DY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Crushing DeSantis and G.O.P. Rivals, Times&#x2F;Siena Poll Finds</h3>
-<sub>By Shane Goldmacher</sub>
-<p>The twice-indicted former president leads across nearly every category and region, as primary voters wave off concerns about his escalating legal jeopardy.  <a href="https://nyti.ms/44KmZo7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trailing Trump, DeSantis Unveils Economic Plan Slamming ‘Failed Elites’</h3>
-<sub>By Nicholas Nehamas</sub>
-<p>Gov. Ron DeSantis of Florida introduced a 10-point economic plan geared toward the blue-collar voters with whom he has struggled to resonate.  <a href="https://nyti.ms/3OCcZra"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>A Desperate Push to Save Florida’s Coral: Get It Out of the Sea</h3>
-<sub>By Catrin Einhorn and Jason Gulley</sub>
-<p>Teams dedicated to ocean restoration are urgently moving samples to tanks on land as a marine heat wave devastates entire reefs.  <a href="https://nyti.ms/3DzmTna"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Phoenix’s Month in Hell: 31 Days of Extreme Heat Tests the City</h3>
-<sub>By Jack Healy</sub>
-<p>A continuous stretch of days reaching or exceeding 110 degrees has filled emergency rooms and even withered the mighty saguaro cactus.  <a href="https://nyti.ms/3YcxwG4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Scenes From a City That Only Hands Out Tickets for Using Fentanyl</h3>
+<sub>By Jordan Gale and Jan Hoffman</sub>
+<p>Oregon’s experiment to curb overdoses by decriminalizing small amounts of illicit drugs is in its third year, and life has changed for most everyone in the city of Portland.  <a href="https://nyti.ms/3QkBf2s"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
@@ -116,23 +98,41 @@ It looks like a lot is going on in the world right now. In Ukraine, there are re
 <p>With his bow tie, short drainpipe pants and flattop hairdo, Pee-wee became enshrined in the popular imagination as a symbol of childlike whimsy.  <a href="https://nyti.ms/3QpYZ5n"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 31, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>I Loved ‘Pee-wee’s Playhouse’ Enough to Marry It</h3>
+<sub>By James Poniewozik</sub>
+<p>Paul Reubens’s oddball masterpiece celebrated the kind of anarchy that captivates kids and freaks out adults.  <a href="https://nyti.ms/47a55N1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>In Pee-wee Herman, Joy and Fun Got Flat-Out Weird</h3>
+<sub>By Jason Zinoman</sub>
+<p>Paul Reubens committed to profound silliness without ever going mean or dark — though some peers were disappointed that he focused on one character.  <a href="https://nyti.ms/3qeP5J6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 31, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>‘We Are a Romantic Country’: On the Set of a Steamy Hit in Italy</h3>
 <sub>By Jason Horowitz</sub>
 <p>Italy falls for “Mare Fuori,” a television melodrama about the inmates of a juvenile detention center who pass the time making out — when not scowling at or occasionally stabbing one another.  <a href="https://nyti.ms/45aMoXP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, July 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>Women’s World Cup 2023: How Teams Can Advance to the Round of 16</h3>
-<sub></sub>
-<p>An overview of the scenarios describing how all 32 teams can advance to the knockout round.  <a href="https://nyti.ms/3XYzl9j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Homeless Camps Are Being Cleared in California. What Happens Next?</h3>
-<sub>By Livia Albeck-Ripka</sub>
-<p>One of the state’s largest homeless encampments was recently shut down in Oakland, but that didn’t stop the problem of homelessness.  <a href="https://nyti.ms/45a78yX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 30, Central Standard Time</sub></sub>
+<h3>Biden Spoke With Son’s Associates Repeatedly, Former Partner Testifies</h3>
+<sub>By Luke Broadwater</sub>
+<p>Republicans accused the president of lying, while Democrats said the testimony of Devon Archer, who worked with Hunter Biden, showed that his son was selling the illusion of access to his father.  <a href="https://nyti.ms/455SgBB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Migrants Will Sleep Outdoors Because ‘There Is No More Room,’ Adams Says</h3>
+<sub>By Emma G. Fitzsimmons and Jay Root</sub>
+<p>Mayor Eric Adams said New York has run out of shelter space for migrants, and he defended a troubled contractor working with the city on its response.  <a href="https://nyti.ms/45803ih"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>Why Trump Is So Hard to Beat</h3>
+<sub>By Nate Cohn</sub>
+<p>The first Times&#x2F;Siena poll of the G.O.P. primary shows he still commands a seemingly unshakable base of loyal supporters.  <a href="https://nyti.ms/3Oza1DY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 31, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
