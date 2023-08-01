@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, August 1, Central Standard Time</p>
 <p>
-The economy seems to be improving across the US, with some strong data suggesting a boost to President Biden&#39;s term. There is an ongoing and tightly contested presidential race, with a Times&#x2F;Siena poll showing Biden and Trump are tied. A SuperPAC backing Governor DeSantis has burned through $34 million already without a positive outcome. Former President Donald J. Trump&#39;s political action committee is nearly broke due to paying legal bills for Trump and his associates while trying to fend off numerous investigations. Interestingly, Donald J. Trump has indicated he will not attend the first Republican debate in August. In Europe, Ukraine&#39;s grain companies have been facing threats posed by Russia after the collapse of a Black Sea grain deal. Joe Petrsoric, a longtime bartender at Broadway&#39;s go-to saloon, is retiring after memorizing the favorite drinks of all the top stars visiting his bar. The US Women&#39;s Soccer Team had a close call against Portugal in the World Cup, but they pulled off a win in the end which keeps their dreams of winning the World Cup alive. Museum entry fees everywhere continue to rise as buildings expand and attendance slows. Portland held an experiment to curb overdose rates by decriminalizing small amounts of illicit drugs, which is entering its third year now. An investigation is underway into Senator Menendez and his new wife, Nadine Menendez, over possibility that they received undisclosed gifts from her old friends. Finally, family of Henrietta Lacks has finally settled with Thermo Fisher Scientific over profiting from her cells without seeking permission from her family members.</p>
+There has been a lot of news lately in terms of politics, economics, and health. The US economy looks to be improving with strong data buoying President Biden&#39;s ratings. Biden and Trump are tied in the polls, but voters who don&#39;t like either candidate seem to be giving Biden a slight edge. In Florida, Ron DeSantis’s Super PAC spent $34 million trying to boost his standing but it didn&#39;t have much success. After paying legal bills for former president Donald J. Trump and his associates, his PAC is nearly broke. For the first Republican debate, there will be at least seven candidates so far though Trump may not attend. In Ukraine, Russian threats have hampered small ports on the Danube river while reducing grain exports. In New York, Joe Petrsoric is retiring from Broadway saloon after memorizing the favorite drinks of all the top stars. A new energy efficiency rule that started over a decade ago has kicked in which has made most incandescent lights obsolete. Sheila Oliver has died in New Jersey from being taken to the hospital on Monday while Governor Murphy was out of state. Matthew DePerno from Michigan who unsuccessfully tried to overturn the 2020 election has been charged with election breach and he also finished second to lead the state&#39;s Republican Party. Lastly, Oregon continues its experiment which focuses on curbing opioid overdoses by handing out tickets for using Fentanyl over jail time. Finally, Senator&#39;s Nadine Menendez marriage appear to have caught investigators&#39; attention because they seem to be looking into the possibility that she or her husband might have received undisclosed gifts.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A Run of Strong Data Buoys Biden on the Economy</h3>
@@ -89,7 +89,7 @@ The economy seems to be improving across the US, with some strong data suggestin
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Who Has Made It to the First Republican Debate So Far?</h3>
 <sub>By Molly Cook Escobar, Andrew Fischer and Eleanor Lutz</sub>
-<p>At least seven candidates appear to have made the cut for the first debate in August so far. Donald J. Trump has indicated he may not attend.  <a href="https://nyti.ms/3YeqG2N"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>At least seven candidates appear to have made the cut so far for the first debate in August. Donald J. Trump has indicated he may not attend.  <a href="https://nyti.ms/3YeqG2N"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -104,16 +104,22 @@ The economy seems to be improving across the US, with some strong data suggestin
 <p>“Joe” Petrsoric, the longtime bartender at Broadway’s go-to saloon, is finally retiring.  <a href="https://nyti.ms/3OjopP7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Back From the Edge, U.S. Tries to Focus on What Comes Next</h3>
-<sub>By Juliet Macur</sub>
-<p>A close call against Portugal at the Women’s World Cup gave the United States a chance to consider what might have been, and then move past it.  <a href="https://nyti.ms/3qitXRZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>It’s Official: Stores Can No Longer Sell Most Incandescent Lights</h3>
+<sub>By Hiroko Tabuchi</sub>
+<p>New efficiency rules, more than a decade in the making, have taken effect, relegating Edison’s glowing orbs to the history books.  <a href="https://nyti.ms/3rTXAcY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>The Price of Admission to America’s Museums Keeps Rising</h3>
-<sub>By Zachary Small</sub>
-<p>Their buildings have expanded and expenses have surged, even as attendance slowed. Art lovers will bear the cost: The Guggenheim is the latest to increase its entry fee to $30 — the new normal.  <a href="https://nyti.ms/47gOtU2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Sheila Oliver, New Jersey’s Trailblazing Lieutenant Governor, Has Died</h3>
+<sub>By Tracey Tully</sub>
+<p>Ms. Oliver, 71, was taken to the hospital on Monday. She had been serving as governor while Gov. Philip D. Murphy was out of state, vacationing in Italy.  <a href="https://nyti.ms/44P2d6J"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Meddler in Michigan, Matthew DePerno, Is Charged in Election Breach</h3>
+<sub>By Neil Vigdor, Alexandra Berzon and Nick Corasaniti</sub>
+<p>A key figure in a multistate effort to overturn the 2020 election, Mr. DePerno lost his race for Michigan attorney general in 2022. He later finished second to lead the state’s Republican Party.  <a href="https://nyti.ms/43QpV0T"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
@@ -126,12 +132,6 @@ The economy seems to be improving across the US, with some strong data suggestin
 <h3>A Senator’s New Wife and Her Old Friends Draw Prosecutors’ Attention</h3>
 <sub>By Tracey Tully</sub>
 <p>Unlike her husband, Nadine Menendez has lived a mainly private life. Investigators appear focused on the possibility that she or the senator received undisclosed gifts.  <a href="https://nyti.ms/3OjBfNm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>Family of Henrietta Lacks Settles with Biotech Company That Used Her Cells</h3>
-<sub>By Amanda Holpuch</sub>
-<p>Ms. Lacks’s family had accused Thermo Fisher Scientific of profiting from her cells, which have contributed to revolutionary advances in medicine, without seeking their permission.  <a href="https://nyti.ms/45bCl4y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
