@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, July 31, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In the US, a judge has rejected Donald Trump&#39;s effort to short-circuit an election case in Georgia, and an employee of his was released on bond after appearing in court for documents-related charges. Meanwhile, Ukraine has been attacking Russia with drones and missiles, and a hit melodrama series has taken off inside Italy. Across the pond, Joe Biden has been accused of lying and his son Hunter&#39;s associates have been testifying, while in New York migrants are sleeping outdoors due to a lack of shelter space. Finally, polls suggest that Donald Trump might be hard to beat due to his loyal supporters.</p>
+There&#39;s a lot going on in the world right now! In the United States, a judge recently rejected an effort by former President Donald Trump to interfere in an election case in Georgia. Meanwhile, Trump&#39;s political action committee is nearly broke after covering legal bills for himself and his associates. On the international front, Ukraine has been carrying out drone and missile attacks on Russia to hamper Moscow&#39;s military logistics and send a message of protest. Ukraine has also been sending drones into Russian soil to launch long-range strikes. Regarding health, Oregon has taken steps to curb opioid overdoses by decriminalizing small amounts of illicit drugs. In the arts world, Paul Reubens, creator of Pee-Wee Herman, recently passed away at age 70. And finally, on the women&#39;s sports front, we&#39;re learning about how teams can advance to the round of 16 in next year&#39;s Women&#39;s World Cup.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Judge Rejects Trump’s Effort to Short-Circuit Georgia Election Case</h3>
@@ -69,9 +69,9 @@ There is a lot going on in the world right now. In the US, a judge has rejected 
 <sub><sub>Monday, July 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Employee Released on Bond After Court Appearance in Documents Case</h3>
-<sub>By Patricia Mazzei and Alan Feuer</sub>
-<p>Carlos De Oliveira, the Mar-a-Lago property manager, made his first court appearance on charges of conspiring with Donald J. Trump to obstruct the retrieval of classified material.  <a href="https://nyti.ms/3KkJIyT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>After Paying Lawyers, Trump’s PAC Is Nearly Broke</h3>
+<sub>By Maggie Haberman, Shane Goldmacher and Jonathan Swan</sub>
+<p>The scramble to cover legal bills for former President Donald J. Trump and his associates has prompted what appears to be the largest refund in federal campaign finance history.  <a href="https://nyti.ms/47aEY8G"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -117,7 +117,7 @@ There is a lot going on in the world right now. In the US, a judge has rejected 
 <sub><sub>Sunday, July 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Spoke With Son’s Associates Repeatedly, Former Partner Testifies</h3>
+<h3>Biden Spoke With Son’s Associates, but Not About Business, Former Partner Says</h3>
 <sub>By Luke Broadwater</sub>
 <p>Republicans accused the president of lying, while Democrats said the testimony of Devon Archer, who worked with Hunter Biden, showed that his son was selling the illusion of access to his father.  <a href="https://nyti.ms/455SgBB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 31, Central Standard Time</sub></sub>
@@ -129,10 +129,10 @@ There is a lot going on in the world right now. In the US, a judge has rejected 
 <sub><sub>Monday, July 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>Why Trump Is So Hard to Beat</h3>
-<sub>By Nate Cohn</sub>
-<p>The first Times&#x2F;Siena poll of the G.O.P. primary shows he still commands a seemingly unshakable base of loyal supporters.  <a href="https://nyti.ms/3Oza1DY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 31, Central Standard Time</sub></sub>
+<h3>Women’s World Cup 2023: How Teams Can Advance to the Round of 16</h3>
+<sub></sub>
+<p>An overview of the scenarios describing how all 32 teams can advance to the knockout round.  <a href="https://nyti.ms/3XYzl9j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 19, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
