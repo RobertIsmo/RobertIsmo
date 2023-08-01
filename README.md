@@ -60,18 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, August 1, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. President Biden is neck-and-neck with Donald Trump in a possible rematch of the 2020 election, and more Republicans are starting to admit Trump committed serious federal crimes during his time in office. Meanwhile, Vladimir Putin has been using the war in Ukraine to justify greater restrictions on LGBTQ life. On a lighter note in the US, there&#39;s a bus full of Mass Shooting Victims&#39; families going on a road trip to provide support for one another. And over in Europe, Germany is facing issues with unexploded wartime bombs while clever Ukrainians are carrying out drone attacks on Russian soil. Last but not least, it&#39;s summer time here in the US, and hikers in the Southwest are paying for it by experiencing several heat-related deaths in state and national parks!</p>
+The economy seems to be improving across the US, with some strong data suggesting a boost to President Biden&#39;s term. There is an ongoing and tightly contested presidential race, with a Times&#x2F;Siena poll showing Biden and Trump are tied. A SuperPAC backing Governor DeSantis has burned through $34 million already without a positive outcome. Former President Donald J. Trump&#39;s political action committee is nearly broke due to paying legal bills for Trump and his associates while trying to fend off numerous investigations. Interestingly, Donald J. Trump has indicated he will not attend the first Republican debate in August. In Europe, Ukraine&#39;s grain companies have been facing threats posed by Russia after the collapse of a Black Sea grain deal. Joe Petrsoric, a longtime bartender at Broadway&#39;s go-to saloon, is retiring after memorizing the favorite drinks of all the top stars visiting his bar. The US Women&#39;s Soccer Team had a close call against Portugal in the World Cup, but they pulled off a win in the end which keeps their dreams of winning the World Cup alive. Museum entry fees everywhere continue to rise as buildings expand and attendance slows. Portland held an experiment to curb overdose rates by decriminalizing small amounts of illicit drugs, which is entering its third year now. An investigation is underway into Senator Menendez and his new wife, Nadine Menendez, over possibility that they received undisclosed gifts from her old friends. Finally, family of Henrietta Lacks has finally settled with Thermo Fisher Scientific over profiting from her cells without seeking permission from her family members.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Shores Up Democratic Support, but Faces Tight Race Against Trump</h3>
-<sub>By Reid J. Epstein, Ruth Igielnik and Camille Baker</sub>
-<p>A New York Times&#x2F;Siena College poll found that President Biden is on stronger footing than he was a year ago — but he is neck-and-neck in a possible rematch against Donald Trump.  <a href="https://nyti.ms/3rPhvK2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>More Republicans Say Trump Committed Crimes. But They Still Support Him.</h3>
-<sub>By Ruth Igielnik and Maggie Haberman</sub>
-<p>The share of Republicans saying the former president has committed “serious federal crimes” has grown modestly, according to a new poll from The New York Times and Siena College.  <a href="https://nyti.ms/3OMQS1z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>A Run of Strong Data Buoys Biden on the Economy</h3>
+<sub>By Jim Tankersley and Ben Casselman</sub>
+<p>Voters continue to rate the president poorly on economic issues, but there are signs the national mood is beginning to improve.  <a href="https://nyti.ms/3rUrKwL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-upshot-blue" alt="">
@@ -80,40 +74,34 @@ There&#39;s a lot going on in the world right now. President Biden is neck-and-n
 <p>A Times&#x2F;Siena poll suggests a slight Biden edge among voters who don’t like either candidate.  <a href="https://nyti.ms/44OQ4i6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>Biden 43%, Trump 43%</h3>
-<sub>By David Leonhardt</sub>
-<p>Looking more closely at the registered voters who don’t support Biden or Trump.  <a href="https://nyti.ms/3Og57ua"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Putin’s Crackdown Leaves Transgender Russians Bracing for Worse</h3>
-<sub>By Neil MacFarquhar and Georgy Birger</sub>
-<p>A new law underscores how Vladimir V. Putin is increasingly using the war in Ukraine as justification for greater restrictions on L.G.B.T.Q. life, portraying it as a consequence of deviant Western values.  <a href="https://nyti.ms/3rRg11S"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Construction to Break German Dependence on Russian Gas Hits a Snag: Wartime Bombs</h3>
-<sub>By Catie Edmondson</sub>
-<p>The choreography of finding and clearing unexploded, decades-old munitions has become routine on Germany’s northern coast.  <a href="https://nyti.ms/3DAta27"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine’s Other Counteroffensive: Drone Attacks on Russian Soil</h3>
-<sub>By Christiaan Triebert, Haley Willis, Yelyzaveta Kovtun and Alexander Cardia</sub>
-<p>Officials in Ukraine rarely discuss attacks on targets inside Russia, including Moscow. But video evidence shows an increasing effort to launch long-range strikes inside the country.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 31, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Craigslist for Guns, With No Background Checks</h3>
-<sub>By Serge F. Kovaleski and Glenn Thrush</sub>
-<p>A federal gun law passed last year gave the Biden administration a powerful new tool to increase background checks on “private” firearms sales. Will the administration use it?  <a href="https://nyti.ms/3qkTrhD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>DeSantis’s Super PAC Burned Through $34 Million as He Slid in Polls</h3>
+<sub>By Maggie Haberman, Shane Goldmacher, Jonathan Swan and Nicholas Nehamas</sub>
+<p>The group behind Ron DeSantis had more money than those backing his rivals, including Donald J. Trump. But big spending has not helped his standing so far.  <a href="https://nyti.ms/3ODfae9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>School Bus Crosses U.S., Linking Families of Mass Shooting Victims</h3>
-<sub>By Mike Baker</sub>
-<p>As mass shootings multiply, relatives of the dead find support in “the worst club imaginable.” One child’s parents are on a road trip to connect them.  <a href="https://nyti.ms/45dlUoF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>After Paying Lawyers, Trump’s PAC Is Nearly Broke</h3>
+<sub>By Maggie Haberman, Shane Goldmacher and Jonathan Swan</sub>
+<p>The scramble to cover legal bills for former President Donald J. Trump and his associates has prompted what appears to be the largest refund in federal campaign finance history.  <a href="https://nyti.ms/47aEY8G"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Who Has Made It to the First Republican Debate So Far?</h3>
+<sub>By Molly Cook Escobar, Andrew Fischer and Eleanor Lutz</sub>
+<p>At least seven candidates appear to have made the cut for the first debate in August so far. Donald J. Trump has indicated he may not attend.  <a href="https://nyti.ms/3YeqG2N"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Danube Ports, a Lifeline for Ukraine, Come Under Russian Threat</h3>
+<sub>By Marc Santora</sub>
+<p>Since the collapse of the Black Sea grain deal two weeks ago, small ports on the Danube River are the only shipping outlet for millions of tons of grain.  <a href="https://nyti.ms/3QktyZU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Favorite Drinks of All the Top Stars? He Has Them Memorized.</h3>
+<sub>By Julie Besonen and Lanna Apisukh</sub>
+<p>“Joe” Petrsoric, the longtime bartender at Broadway’s go-to saloon, is finally retiring.  <a href="https://nyti.ms/3OjopP7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
@@ -128,10 +116,22 @@ There&#39;s a lot going on in the world right now. President Biden is neck-and-n
 <p>Their buildings have expanded and expenses have surged, even as attendance slowed. Art lovers will bear the cost: The Guggenheim is the latest to increase its entry fee to $30 — the new normal.  <a href="https://nyti.ms/47gOtU2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Deadly Summer for Hikers in the Southwest</h3>
-<sub>By Jacey Fortin</sub>
-<p>At least seven heat-related deaths are suspected in state and national parks during a record-breaking heat wave.  <a href="https://nyti.ms/45aF9ii"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Scenes From a City That Only Hands Out Tickets for Using Fentanyl</h3>
+<sub>By Jordan Gale and Jan Hoffman</sub>
+<p>Oregon’s experiment to curb overdoses by decriminalizing small amounts of illicit drugs is in its third year, and life has changed for most everyone in the city of Portland.  <a href="https://nyti.ms/3QkBf2s"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>A Senator’s New Wife and Her Old Friends Draw Prosecutors’ Attention</h3>
+<sub>By Tracey Tully</sub>
+<p>Unlike her husband, Nadine Menendez has lived a mainly private life. Investigators appear focused on the possibility that she or the senator received undisclosed gifts.  <a href="https://nyti.ms/3OjBfNm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>Family of Henrietta Lacks Settles with Biotech Company That Used Her Cells</h3>
+<sub>By Amanda Holpuch</sub>
+<p>Ms. Lacks’s family had accused Thermo Fisher Scientific of profiting from her cells, which have contributed to revolutionary advances in medicine, without seeking their permission.  <a href="https://nyti.ms/45bCl4y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
