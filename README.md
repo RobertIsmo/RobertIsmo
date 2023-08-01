@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, August 1, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. The US is gearing up for the upcoming election and President Biden has been polling strong but is running neck-and-neck against former president Donald Trump. On top of that, more Republicans are saying that Trump committed serious federal crimes, while still supporting him. In Ukraine, they&#39;re waging a counteroffensive with drone and missile attacks on Russian soil, to degrade Moscow&#39;s ability to wage war. And in Oregon, they&#39;re battling an opioid crisis by decriminalizing small amounts of illicit drugs. Finally, legendary actor and comedian Paul Reubens passed away at age 70, leaving behind his iconic Pee-wee Herman character.</p>
+Right now, we&#39;re seeing a major presidential election battle in the US between Joe Biden and Donald Trump, with plenty of Republicans supporting Trump despite some believing he committed serious crimes. In Russia, Vladimir Putin is cracking down on L.G.B.T. rights and is using the war in Ukraine as justification for that, which is scary. Over in Germany they&#39;re encountering challenges to their goal of decreasing dependency on Russian gas due to old bombs in the ground. There are also drone attacks happening in Ukraine targeting Moscow that aren&#39;t being openly talked about by officials in Ukraine but are leaving people feeling apprehensive. On the gun control front here in the US, there&#39;s a Craigslist-like site for guns that has no background checks whatsoever - and the Biden administration has a new tool to fix this issue but so far hasn&#39;t used it yet. Mass shootings across the country have gotten to be so frequent that people who have lost loved ones are joining what was aptly named &quot;the worst club imaginable&quot;. The Roosevelt Presidential Library has an exhibition up right now looking at FDR&#39;s (Franklin D. Roosevelt) mixed record on civil rights and his policy on racism during the New Deal era. And sadly speaking of heat waves, there&#39;s been multiple heat related deaths of hikers in various state and national parks across The Southwest this summer already due to record breaking heat. To try and prevent any more deaths, rangers at Grand Canyon National Park are using aggressive messaging when people go hiking as one of their prevention tactics.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Shores Up Democratic Support, but Faces Tight Race Against Trump</h3>
@@ -80,11 +80,23 @@ There&#39;s a lot going on in the world right now. The US is gearing up for the 
 <p>A Times&#x2F;Siena poll suggests a slight Biden edge among voters who don’t like either candidate.  <a href="https://nyti.ms/44OQ4i6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>Biden 43%, Trump 43%</h3>
+<sub>By David Leonhardt</sub>
+<p>Looking more closely at the registered voters who don’t support Biden or Trump.  <a href="https://nyti.ms/3Og57ua"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine’s Attacks in Russia Aimed at Degrading Moscow’s Ability to Wage War</h3>
-<sub>By Marc Santora and Ivan Nechepurenko</sub>
-<p>The stepped-up drone and missile attacks show a will to hamper the Kremlin’s military logistics, and to remind ordinary Russians of the cost of war.  <a href="https://nyti.ms/453ubvL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Putin’s Crackdown Leaves Transgender Russians Bracing for Worse</h3>
+<sub>By Neil MacFarquhar and Georgy Birger</sub>
+<p>A new law underscores how Vladimir V. Putin is increasingly using the war in Ukraine as justification for greater restrictions on L.G.B.T. life, portraying it as a consequence of deviant Western values.  <a href="https://nyti.ms/3rRg11S"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Construction to Break German Dependence on Russian Gas Hits a Snag: Wartime Bombs</h3>
+<sub>By Catie Edmondson</sub>
+<p>The choreography of finding and clearing unexploded, decades-old munitions has become routine on Germany’s northern coast.  <a href="https://nyti.ms/3DAta27"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ukraine’s Other Counteroffensive: Drone Attacks on Russian Soil</h3>
@@ -92,47 +104,35 @@ There&#39;s a lot going on in the world right now. The US is gearing up for the 
 <p>Officials in Ukraine rarely discuss attacks on targets inside Russia, including Moscow. But video evidence shows an increasing effort to launch long-range strikes inside the country.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, July 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Scenes From a City That Only Hands Out Tickets for Using Fentanyl</h3>
-<sub>By Jordan Gale and Jan Hoffman</sub>
-<p>Oregon’s experiment to curb overdoses by decriminalizing small amounts of illicit drugs is in its third year, and life has changed for most everyone in the city of Portland.  <a href="https://nyti.ms/3QkBf2s"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Paul Reubens, Creator of Pee-wee Herman, Is Dead at 70</h3>
-<sub>By Neil Genzlinger</sub>
-<p>With his bow tie, short drainpipe pants and flattop hairdo, Pee-wee became enshrined in the popular imagination as a symbol of childlike whimsy.  <a href="https://nyti.ms/3QpYZ5n"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>I Loved ‘Pee-wee’s Playhouse’ Enough to Marry It</h3>
-<sub>By James Poniewozik</sub>
-<p>Paul Reubens’s oddball masterpiece celebrated the kind of anarchy that captivates kids and freaks out adults.  <a href="https://nyti.ms/47a55N1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>In Pee-wee Herman, Joy and Fun Got Flat-Out Weird</h3>
-<sub>By Jason Zinoman</sub>
-<p>Paul Reubens committed to profound silliness without ever going mean or dark — though some peers were disappointed that he focused on one character.  <a href="https://nyti.ms/3qeP5J6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 31, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Craigslist for Guns, With No Background Checks</h3>
+<sub>By Serge F. Kovaleski and Glenn Thrush</sub>
+<p>A federal gun law passed last year gave the Biden administration a powerful new tool to increase background checks on “private” firearms sales. Will the administration use it?  <a href="https://nyti.ms/3qkTrhD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Spoke With Son’s Associates, but Not About Business, Former Partner Says</h3>
-<sub>By Luke Broadwater</sub>
-<p>Republicans accused the president of lying, while Democrats said the testimony of Devon Archer, who worked with Hunter Biden, showed that his son was selling the illusion of access to his father.  <a href="https://nyti.ms/455SgBB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 31, Central Standard Time</sub></sub>
+<h3>A School Bus Crosses the Nation, Connecting Mass Shooting Families</h3>
+<sub>By Mike Baker</sub>
+<p>As mass shootings multiply, loved ones find support in “the worst club imaginable.” One child’s parents are on a road trip to connect with others like them.  <a href="https://nyti.ms/45dlUoF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Migrants Will Sleep Outdoors Because ‘There Is No More Room,’ Adams Says</h3>
-<sub>By Emma G. Fitzsimmons and Jay Root</sub>
-<p>Mayor Eric Adams said New York has run out of shelter space for migrants, and he defended a troubled contractor working with the city on its response.  <a href="https://nyti.ms/45803ih"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 31, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>At the Roosevelt Library, an Unflinching Look at Race</h3>
+<sub>By Jennifer Schuessler</sub>
+<p>A new exhibition at the Franklin D. Roosevelt Presidential Library explores the president’s “mixed” record on civil rights — and the charged debate over racism in the New Deal.  <a href="https://nyti.ms/3Kmd5Rm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>A Desperate Push to Save Florida’s Coral: Get It Out of the Sea</h3>
-<sub>By Catrin Einhorn and Jason Gulley</sub>
-<p>Teams dedicated to ocean restoration are urgently moving samples to tanks on land as a marine heat wave devastates entire reefs.  <a href="https://nyti.ms/3DzmTna"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 31, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Deadly Summer for Hikers in the Southwest</h3>
+<sub>By Jacey Fortin</sub>
+<p>At least seven heat-related deaths are suspected in state and national parks during a record-breaking heat wave.  <a href="https://nyti.ms/45aF9ii"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-travel-blue" alt="">
+<h3>Saving Lives at the Grand Canyon, One Salty Snack at a Time</h3>
+<sub>By Rowan Moore Gerety</sub>
+<p>In a summer of deadly heat for hikers in the Southwest, rangers at Grand Canyon National Park use a pioneering approach of aggressive messaging and outreach to prevent disaster on the trails.  <a href="https://nyti.ms/459BVvK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
