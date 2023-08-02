@@ -60,18 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, August 2, Central Standard Time</p>
 <p>
-Currently, there are a lot of troubling events happening around the world. In the United States, there was a mass shooting at a synagogue which has raised anxiety levels for American Jews. Meanwhile, Ukraine’s army is reverting to traditional tactics instead of using US methods and two Canadians switched at birth have been questioning their roots and learning about how racial heritage shapes them. Antarctica is facing record low sea ice cover, celebrity disruption has become the latest concert souvenir, ESPN is starting to show dwindling profit for Disney, migrants don&#39;t have enough shelter in New York City, Canadian Prime Minister Justin Trudeau has announced he will be separating from his wife, and three dancers are suing Lizzo for harassment and a hostile work environment. Additionally, President Trump has faced an unprecedented indictment from the US criminal justice system accusing him of defrauding his country with election lies.</p>
+There&#39;s a lot going on in the world right now. In the US, there&#39;s been mixed reactions to the Pittsburgh Jewish community after a jury found a suspect guilty and recommended a death sentence. Meanwhile, Ukrainian troops trained by the West are having some difficulty with battle tactics. Other countries are facing their own issues - Russia is attacking ports, and Ukraine is scrambling to keep exporting grain and sunflower oil. In Canada, a couple recently discovered they were switched at birth 67 years ago and are now exploring their race-based identities. Climate change isn&#39;t slowing down anytime soon either; Antarctic sea ice has reached record low levels this year, which will have major implications for temperatures around the world. There are some creative solutions as well - concert goers are pushing boundaries of disrupting celebrity performances and even throwing objects onstage. Disney&#39;s ESPN channel is seeing profits decline, too, so that&#39;s something worth keeping an eye on as well. Finally, there&#39;s been reports of a Covid uptick and migrant overcrowding in New York City. Plus Canadian Prime Minister Justin Trudeau just announced his separation from his wife after 18 years of marriage. It&#39;s certainly been an intense few weeks!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The synagogue shooting was one of several incidents that have raised anxiety for American Jews.</h3>
-<sub>By Michael Paulson and Ruth Graham</sub>
-<p>  <a href="https://nyti.ms/43TmA16"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Many in Pittsburgh’s Jewish community welcomed the verdict, as others lamented the death penalty.</h3>
+<sub>By Anna Betts, Campbell Robertson and Ruth Graham</sub>
+<p>Some people expressed firm approval of the death sentence or acceptance that the jury had reached the right decision, while others were disappointed at the outcome.  <a href="https://nyti.ms/43UbPvI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Ukrainian Troops Trained by the West Stumble in Battle</h3>
 <sub>By Eric Schmitt and Helene Cooper</sub>
 <p>Ukraine’s army has for now set aside U.S. fighting methods and reverted to tactics it knows best.  <a href="https://nyti.ms/43MCLgQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As Russia Strikes Ports, Ukraine’s Farmers Scramble to Keep Exporting</h3>
+<sub>By Valerie Hopkins</sub>
+<p>Their grain and sunflower oil once helped feed the world. Now, even their backup routes to the international market have become targets.  <a href="https://nyti.ms/3rMVPOy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -98,6 +104,12 @@ Currently, there are a lot of troubling events happening around the world. In th
 <p>The sports juggernaut continues to earn billions of dollars for Disney, but profits are down and opportunities for growth have dwindled.  <a href="https://nyti.ms/45a1yML"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Amid Signs of a Covid Uptick, Researchers Brace for the ‘New Normal’</h3>
+<sub>By Apoorva Mandavilli</sub>
+<p>Infections remain very low, despite signs of a slight increase. Now, experts are looking for clues to what living with the coronavirus will be like this winter and beyond.  <a href="https://nyti.ms/3YmEc4C"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Migrants Sleep on the Sidewalk, the Face of a Failing Shelter System</h3>
 <sub>By Andy Newman</sub>
@@ -110,12 +122,6 @@ Currently, there are a lot of troubling events happening around the world. In th
 <p>The Canadian prime minister and his wife have been married for 18 years and share three children.  <a href="https://nyti.ms/47dbPd4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Former Tour Dancers Accuse Lizzo of Harassment and Hostile Work Environment in Lawsuit</h3>
-<sub>By Lauren McCarthy</sub>
-<p>In a lawsuit filed Tuesday, three dancers claim that touring with the Grammy winner meant working in an “overtly sexual atmosphere” that subjected them to harassment.  <a href="https://nyti.ms/3YjP5UB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-opinion-blue" alt="">
 <h3>What Makes Jack Smith’s New Trump Indictment So Smart</h3>
 <sub>By Randall D. Eliason</sub>
@@ -126,12 +132,6 @@ Currently, there are a lot of troubling events happening around the world. In th
 <h3>A President Accused of Betraying His Country</h3>
 <sub>By The Editorial Board</sub>
 <p>The criminal justice system of the United States has never seen an indictment of this magnitude, in which a former president is accused of defrauding his country.  <a href="https://nyti.ms/479X8Yl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>‘We Are in a Five-Alarm Fire for Democracy’</h3>
-<sub>By Thomas B. Edsall</sub>
-<p>Does free speech protect Trump’s election lies?  <a href="https://nyti.ms/44Ox3fz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
 <hr/>
 </ol>
