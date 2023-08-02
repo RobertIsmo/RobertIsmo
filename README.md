@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, August 2, Central Standard Time</p>
 <p>
-There have been a few new stories in the world recently. In Ukraine, medical personnel are working in extremely difficult conditions to save injured soldiers, while in New York, the state has failed to take enough actions to improve reading instruction for struggling students. In Israel, a particle physicist has become a symbol of the fight against a divisive judicial overhaul. On the US side, Jack Smith has again indicted Donald Trump on charges related to the 2020 election. Meanwhile, some drug decriminalization policies have proven to be disastrous.</p>
+There is a lot happening in the world right now. In Ukraine, Western-trained troops have stumbled in battle and medical posts close to the front lines are a critical lifeline for wounded soldiers. In New York, there is a state-wide reading crisis in schools and concern is growing that the government isn&#39;t doing enough. Meanwhile on a global scale, China&#39;s leader has reshuffled their nuclear force and the commander has been replaced. There&#39;s also been an influx of migrants to cities like New York and some are sleeping on the sidewalk due to lack of space in shelters. In Israel, there&#39;s a huge protest movement organized by particle physicist Shikma Bressler against a government decision. On the entertainment side of things, poet Mahogany L. Browne wrote a love letter to hip-hop on its 50th anniversary composed entirely of lyrics and Lizzo is being sued by three former dancers for creating a hostile work environment. There&#39;s also a new indictment against the former president Donald Trump put forward by Jack Smith which outlines multiple charges related to the 2020 election, sparking the conversation about what kind of trial America needs.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Ukrainian Troops Trained by the West Stumble in Battle</h3>
+<sub>By Eric Schmitt and Helene Cooper</sub>
+<p>Ukraine’s army has for now set aside U.S. fighting methods and reverted to tactics it knows best.  <a href="https://nyti.ms/43MCLgQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Under Fire and Understaffed: The Fight to Save Ukraine’s Wounded</h3>
 <sub>By Carlotta Gall, Oleksandr Chubko and Emile Ducke</sub>
@@ -86,16 +92,16 @@ There have been a few new stories in the world recently. In Ukraine, medical per
 <p>The sports juggernaut continues to earn billions of dollars for Disney, but profits are down and opportunities for growth have dwindled.  <a href="https://nyti.ms/45a1yML"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Xi’s Surprise Shake-Up Exposes Problems at Top of China’s Nuclear Force</h3>
+<sub>By Chris Buckley</sub>
+<p>The Chinese leader’s replacement of two commanders has fanned speculation about corruption or failings in the force that manages China’s nuclear missiles.  <a href="https://nyti.ms/3qddtdY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Migrants Sleep on the Sidewalk, the Face of a Failing Shelter System</h3>
 <sub>By Andy Newman</sub>
 <p>People have come from all over the globe to a city that is legally required to give them a place to stay. This week, city officials said they had run out of room.  <a href="https://nyti.ms/45cnYxc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Pope Francis Embraces ‘Youth Day,’ With an Eye on the Future</h3>
-<sub>By Jason Horowitz</sub>
-<p>The pope will preside over a gathering of young people from around the world, mindful that the changes he has initiated in the Roman Catholic Church will depend on them.  <a href="https://nyti.ms/45f9rRj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -104,6 +110,12 @@ There have been a few new stories in the world recently. In Ukraine, medical per
 <p>Shikma Bressler, a mother of five who says her passion is life in the lab, has emerged as a symbol of the struggle against the government’s divisive judicial overhaul.  <a href="https://nyti.ms/455ziuE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Former Tour Dancers Accuse Lizzo of Harassment and Hostile Work Environment in Lawsuit</h3>
+<sub>By Lauren McCarthy</sub>
+<p>In a lawsuit filed Tuesday, three dancers claim that touring with the Grammy winner meant working in an “overtly sexual atmosphere” that subjected them to harassment.  <a href="https://nyti.ms/3YjP5UB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-opinion-blue" alt="">
 <h3>What Makes Jack Smith’s New Trump Indictment So Smart</h3>
 <sub>By Randall D. Eliason</sub>
@@ -111,28 +123,16 @@ There have been a few new stories in the world recently. In Ukraine, medical per
 <sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>A President Accused of Betraying His Country</h3>
+<sub>By The Editorial Board</sub>
+<p>The criminal justice system of the United States has never seen an indictment of this magnitude, in which a former president is accused of defrauding his country.  <a href="https://nyti.ms/479X8Yl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
 <h3>The Trial America Needs</h3>
 <sub>By David French</sub>
 <p>The special counsel Jack Smith’s case against Donald Trump on charges related to the 2020 election will not be easy. But it is necessary.  <a href="https://nyti.ms/3OC2S5M"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>Does Free Speech Protect Trump’s Election Lies?</h3>
-<sub>By Thomas B. Edsall</sub>
-<p>The question is no longer academic.  <a href="https://nyti.ms/44Ox3fz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>The Hard-Drug Decriminalization Disaster</h3>
-<sub>By Bret Stephens</sub>
-<p>How soon is too soon to call a progressive and libertarian policy obsession a public policy fiasco?  <a href="https://nyti.ms/3YoxICg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>Trump Indicted, Again</h3>
-<sub>By German Lopez and Ian Prasad Philbrick</sub>
-<p>The latest indictment of Trump raises issues at the core of American democracy.  <a href="https://nyti.ms/3OjXRNP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
