@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, August 2, Central Standard Time</p>
 <p>
-There are a lot of things happening in the world right now. In Ukraine, there is an ongoing counteroffensive with a higher amount of soldiers getting injured, and medical posts in need of aid. In the US, President Biden is seeing improvements in the national mood towards his handling of the economy, but Ron DeSantis&#39;s Super PAC has burned through $34 million as they continue to struggle in polls. For the Republican debates, seven candidates have met the criteria and Donald Trump seems uninterested so far. Meanwhile, traditional incandescent bulbs are being barred from use as part of efforts to reduce energy consumption, but there has been some pushback to this regulation. On a more personal note, New Jersey&#39;s first Black female Lieutenant Governor recently passed away, while US Senator Sharpe James&#39; wife is reportedly under investigation for possible undisclosed gifts. There are also migrants from other parts of the world who have run out of living space due to an inadequate shelter system. Additionally, a biotech company had to settle with the family of Henrietta Lacks after profiting from her cells without seeking permission. Also recently, Fitch downgraded their rating of US finances due to &quot;debt-limit standoffs&quot; which reportedly caused erosion to its management trustworthiness. Finally, it looks like special counsel Jack Smith may be taking Donald Trump to trial on charges related to the 2020 election—this trial is being seen as necessary by many Americans.</p>
+There have been a few new stories in the world recently. In Ukraine, medical personnel are working in extremely difficult conditions to save injured soldiers, while in New York, the state has failed to take enough actions to improve reading instruction for struggling students. In Israel, a particle physicist has become a symbol of the fight against a divisive judicial overhaul. On the US side, Jack Smith has again indicted Donald Trump on charges related to the 2020 election. Meanwhile, some drug decriminalization policies have proven to be disastrous.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Under Fire and Understaffed: The Fight to Save Ukraine’s Wounded</h3>
@@ -68,34 +68,28 @@ There are a lot of things happening in the world right now. In Ukraine, there is
 <p>Positioned close to the front lines, temporary medical posts are a critical lifeline for the constant inflow of soldiers hurt in the counteroffensive.  <a href="https://nyti.ms/45bPaw0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Run of Strong Data Buoys Biden on the Economy</h3>
-<sub>By Jim Tankersley and Ben Casselman</sub>
-<p>Voters continue to rate the president poorly on economic issues, but there are signs the national mood is beginning to improve.  <a href="https://nyti.ms/3rUrKwL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis’s Super PAC Burned Through $34 Million as He Slid in Polls</h3>
-<sub>By Maggie Haberman, Shane Goldmacher, Jonathan Swan and Nicholas Nehamas</sub>
-<p>The group behind Ron DeSantis had more money than those backing his rivals, including Donald J. Trump. But big spending has not helped his standing so far.  <a href="https://nyti.ms/3ODfae9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Who Has Made It to the First Republican Debate So Far?</h3>
-<sub>By Molly Cook Escobar, Andrew Fischer and Eleanor Lutz</sub>
-<p>At least seven candidates appear to have made the cut so far for the first debate in August. Donald J. Trump has indicated he may not attend.  <a href="https://nyti.ms/3YeqG2N"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Bulb Becomes a Flashpoint as the Sun Sets on Incandescent Lights</h3>
-<sub>By Katie Rogers</sub>
-<p>A ban on most kinds of traditional bulbs renews a cultural squabble between regulatory efforts to curb energy consumption and the very American impulse to do whatever one wants in one’s domicile.  <a href="https://nyti.ms/47cpgtL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>A Hip-Hop Love Story in Lyrics</h3>
+<sub>By Mahogany L. Browne</sub>
+<p>To celebrate the 50th anniversary of hip-hop, we asked the poet and author Mahogany L. Browne to write a love letter to the genre, composed entirely of lyrics both beloved and obscure.  <a href="https://nyti.ms/44PMgNo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Sheila Oliver, New Jersey’s Trailblazing Lieutenant Governor, Has Died</h3>
-<sub>By Tracey Tully</sub>
-<p>Ms. Oliver, 71, was the first Black woman to hold statewide elected office there, after a long tenure in the General Assembly.  <a href="https://nyti.ms/44P2d6J"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>As States Confront a Reading Crisis in Schools, New York Lags Behind</h3>
+<sub>By Troy Closson</sub>
+<p>Across the nation, state leaders are taking steps to improve reading instruction for struggling students. But in New York, concern has grown: Is too little being done?  <a href="https://nyti.ms/3QmXyEI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>How ESPN Went From Disney’s Financial Engine to Its Problem</h3>
+<sub>By Kevin Draper and Brooks Barnes</sub>
+<p>The sports juggernaut continues to earn billions of dollars for Disney, but profits are down and opportunities for growth have dwindled.  <a href="https://nyti.ms/45a1yML"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Migrants Sleep on the Sidewalk, the Face of a Failing Shelter System</h3>
+<sub>By Andy Newman</sub>
+<p>People have come from all over the globe to a city that is legally required to give them a place to stay. This week, city officials said they had run out of room.  <a href="https://nyti.ms/45cnYxc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -104,35 +98,41 @@ There are a lot of things happening in the world right now. In Ukraine, there is
 <p>The pope will preside over a gathering of young people from around the world, mindful that the changes he has initiated in the Roman Catholic Church will depend on them.  <a href="https://nyti.ms/45f9rRj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>A Senator’s New Wife and Her Old Friends Draw Prosecutors’ Attention</h3>
-<sub>By Tracey Tully</sub>
-<p>Unlike her husband, Nadine Menendez has lived a mainly private life. Investigators appear focused on the possibility that she or the senator received undisclosed gifts.  <a href="https://nyti.ms/3OjBfNm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The Face of Israel’s Protests Is a Particle Physicist</h3>
+<sub>By Isabel Kershner</sub>
+<p>Shikma Bressler, a mother of five who says her passion is life in the lab, has emerged as a symbol of the struggle against the government’s divisive judicial overhaul.  <a href="https://nyti.ms/455ziuE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Migrants Sleep on the Sidewalk, the Face of a Failing Shelter System</h3>
-<sub>By Andy Newman</sub>
-<p>People have come from all over the globe to a city that is legally required to give them a place to stay. This week, city officials said they had run out of room.  <a href="https://nyti.ms/45cnYxc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>Family of Henrietta Lacks Settles With Biotech Company That Used Her Cells</h3>
-<sub>By Amanda Holpuch</sub>
-<p>Ms. Lacks’s family had accused Thermo Fisher Scientific of profiting from her cells, which have contributed to revolutionary advances in medicine, without seeking their permission.  <a href="https://nyti.ms/45bCl4y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Fitch Downgrades U.S. Credit Rating</h3>
-<sub>By Alan Rappeport and Joe Rennison</sub>
-<p>The ratings agency, which lowered the U.S. long-term rating from its top mark, said debt-limit standoffs had eroded confidence in the nation’s fiscal management.  <a href="https://nyti.ms/3s19cuw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>What Makes Jack Smith’s New Trump Indictment So Smart</h3>
+<sub>By Randall D. Eliason</sub>
+<p>The strength of the indictment lies as much in what it charges as what it doesn’t charge.  <a href="https://nyti.ms/45a5du3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-opinion-blue" alt="">
 <h3>The Trial America Needs</h3>
 <sub>By David French</sub>
 <p>The special counsel Jack Smith’s case against Donald Trump on charges related to the 2020 election will not be easy. But it is necessary.  <a href="https://nyti.ms/3OC2S5M"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>Does Free Speech Protect Trump’s Election Lies?</h3>
+<sub>By Thomas B. Edsall</sub>
+<p>The question is no longer academic.  <a href="https://nyti.ms/44Ox3fz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>The Hard-Drug Decriminalization Disaster</h3>
+<sub>By Bret Stephens</sub>
+<p>How soon is too soon to call a progressive and libertarian policy obsession a public policy fiasco?  <a href="https://nyti.ms/3YoxICg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>Trump Indicted, Again</h3>
+<sub>By German Lopez and Ian Prasad Philbrick</sub>
+<p>The latest indictment of Trump raises issues at the core of American democracy.  <a href="https://nyti.ms/3OjXRNP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
