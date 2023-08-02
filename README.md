@@ -58,14 +58,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Tuesday, August 1, Central Standard Time</p>
+<p>It is Wednesday, August 2, Central Standard Time</p>
 <p>
-There are a few interesting things happening in the world right now. In Ukraine, a vital shipping route for grain is under threat from Russia. In the US, voters have been feeling more optimistic about the economy recently due to some positive data, but there is still some uncertainty about who will qualify for the first Republican debate in August. Incandescent lights have been officially banned in stores due to their energy consumption, and sadly Sheila Oliver, the first Black woman to hold statewide office in New Jersey, has died. In New York City, there&#39;s an inadequate shelter system for migrants, while Henrietta Lacks&#39; family settled with a biotech company for using her cells without permission. Finally, the United States credit rating has just been downgraded by Fitch due to debt-limit standoffs.</p>
+There are a lot of things happening around the world at the moment. In Ukraine, a threat from Russia is posing a danger to small ports along the Danube River that are a lifeline for shipping grain. Meanwhile, medical staff is rushing to help wounded Ukrainian soldiers in battle. In the US, there seems to be some economic improvement according to data reports, but some high-profile candidates may not fare as well in upcoming elections. The Trump administration also recently imposed a ban on traditional incandescent light bulbs, sparking debate on energy consumption and freedom of choice. On a lighter note, Pope Francis had recently embraced “Youth Day”, showing his awareness of how the future of the Catholic Church will depend on younger generations. Lastly, authorities are dealing with the aftermaths from migrants coming into cities where it is legally required for them to stay and yet there aren’t enough resources or adequate establishments to accommodate everyone. Additionally, the family of Henrietta Lacks recently settled with a biotech company that had used her cells without proper permission and profited off them resulting in revolutionary advances in medicine.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Danube Ports, a Lifeline for Ukraine, Come Under Russian Threat</h3>
 <sub>By Marc Santora</sub>
 <p>Since the collapse of the Black Sea grain deal two weeks ago, small ports on the Danube River are the only shipping outlet for millions of tons of grain.  <a href="https://nyti.ms/3QktyZU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Under Fire and Understaffed: The Fight to Save Ukraine’s Wounded</h3>
+<sub>By Carlotta Gall, Oleksandr Chubko and Emile Ducke</sub>
+<p>Positioned close to the front lines, temporary medical posts are a critical lifeline for the constant inflow of soldiers hurt in the counteroffensive.  <a href="https://nyti.ms/45bPaw0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -86,12 +92,6 @@ There are a few interesting things happening in the world right now. In Ukraine,
 <p>At least seven candidates appear to have made the cut so far for the first debate in August. Donald J. Trump has indicated he may not attend.  <a href="https://nyti.ms/3YeqG2N"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Favorite Drinks of All the Top Stars? He Has Them Memorized.</h3>
-<sub>By Julie Besonen and Lanna Apisukh</sub>
-<p>“Joe” Petrsoric, the longtime bartender at Broadway’s go-to saloon, is finally retiring.  <a href="https://nyti.ms/3OjopP7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Bulb Becomes a Flashpoint as the Sun Sets on Incandescent Lights</h3>
 <sub>By Katie Rogers</sub>
@@ -110,6 +110,12 @@ There are a few interesting things happening in the world right now. In Ukraine,
 <p>Ms. Oliver, 71, was the first Black woman to hold statewide elected office there, after a long tenure in the General Assembly.  <a href="https://nyti.ms/44P2d6J"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Pope Francis Embraces ‘Youth Day,’ With an Eye on the Future</h3>
+<sub>By Jason Horowitz</sub>
+<p>The pope will preside over a gathering of young people from around the world, mindful that the changes he has initiated in the Roman Catholic Church will depend on them.  <a href="https://nyti.ms/45f9rRj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>A Senator’s New Wife and Her Old Friends Draw Prosecutors’ Attention</h3>
 <sub>By Tracey Tully</sub>
@@ -126,12 +132,6 @@ There are a few interesting things happening in the world right now. In Ukraine,
 <h3>Family of Henrietta Lacks Settles With Biotech Company That Used Her Cells</h3>
 <sub>By Amanda Holpuch</sub>
 <p>Ms. Lacks’s family had accused Thermo Fisher Scientific of profiting from her cells, which have contributed to revolutionary advances in medicine, without seeking their permission.  <a href="https://nyti.ms/45bCl4y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Fitch Downgrades U.S. Credit Rating</h3>
-<sub>By Alan Rappeport and Joe Rennison</sub>
-<p>The ratings agency, which lowered the U.S. long-term rating from its top mark, said debt-limit standoffs had eroded confidence in the nation’s fiscal management.  <a href="https://nyti.ms/3s19cuw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
