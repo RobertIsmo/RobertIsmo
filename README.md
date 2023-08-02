@@ -60,14 +60,8 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, August 2, Central Standard Time</p>
 <p>
-There are a lot of things happening around the world at the moment. In Ukraine, a threat from Russia is posing a danger to small ports along the Danube River that are a lifeline for shipping grain. Meanwhile, medical staff is rushing to help wounded Ukrainian soldiers in battle. In the US, there seems to be some economic improvement according to data reports, but some high-profile candidates may not fare as well in upcoming elections. The Trump administration also recently imposed a ban on traditional incandescent light bulbs, sparking debate on energy consumption and freedom of choice. On a lighter note, Pope Francis had recently embraced “Youth Day”, showing his awareness of how the future of the Catholic Church will depend on younger generations. Lastly, authorities are dealing with the aftermaths from migrants coming into cities where it is legally required for them to stay and yet there aren’t enough resources or adequate establishments to accommodate everyone. Additionally, the family of Henrietta Lacks recently settled with a biotech company that had used her cells without proper permission and profited off them resulting in revolutionary advances in medicine.</p>
+There are a lot of things happening in the world right now. In Ukraine, there is an ongoing counteroffensive with a higher amount of soldiers getting injured, and medical posts in need of aid. In the US, President Biden is seeing improvements in the national mood towards his handling of the economy, but Ron DeSantis&#39;s Super PAC has burned through $34 million as they continue to struggle in polls. For the Republican debates, seven candidates have met the criteria and Donald Trump seems uninterested so far. Meanwhile, traditional incandescent bulbs are being barred from use as part of efforts to reduce energy consumption, but there has been some pushback to this regulation. On a more personal note, New Jersey&#39;s first Black female Lieutenant Governor recently passed away, while US Senator Sharpe James&#39; wife is reportedly under investigation for possible undisclosed gifts. There are also migrants from other parts of the world who have run out of living space due to an inadequate shelter system. Additionally, a biotech company had to settle with the family of Henrietta Lacks after profiting from her cells without seeking permission. Also recently, Fitch downgraded their rating of US finances due to &quot;debt-limit standoffs&quot; which reportedly caused erosion to its management trustworthiness. Finally, it looks like special counsel Jack Smith may be taking Donald Trump to trial on charges related to the 2020 election—this trial is being seen as necessary by many Americans.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Danube Ports, a Lifeline for Ukraine, Come Under Russian Threat</h3>
-<sub>By Marc Santora</sub>
-<p>Since the collapse of the Black Sea grain deal two weeks ago, small ports on the Danube River are the only shipping outlet for millions of tons of grain.  <a href="https://nyti.ms/3QktyZU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Under Fire and Understaffed: The Fight to Save Ukraine’s Wounded</h3>
 <sub>By Carlotta Gall, Oleksandr Chubko and Emile Ducke</sub>
@@ -98,12 +92,6 @@ There are a lot of things happening around the world at the moment. In Ukraine, 
 <p>A ban on most kinds of traditional bulbs renews a cultural squabble between regulatory efforts to curb energy consumption and the very American impulse to do whatever one wants in one’s domicile.  <a href="https://nyti.ms/47cpgtL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>It’s Official: Stores Can No Longer Sell Most Incandescent Lights</h3>
-<sub>By Hiroko Tabuchi</sub>
-<p>New efficiency rules, more than a decade in the making, have taken effect, relegating Edison’s glowing orbs to the history books.  <a href="https://nyti.ms/3rTXAcY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Sheila Oliver, New Jersey’s Trailblazing Lieutenant Governor, Has Died</h3>
 <sub>By Tracey Tully</sub>
@@ -132,6 +120,18 @@ There are a lot of things happening around the world at the moment. In Ukraine, 
 <h3>Family of Henrietta Lacks Settles With Biotech Company That Used Her Cells</h3>
 <sub>By Amanda Holpuch</sub>
 <p>Ms. Lacks’s family had accused Thermo Fisher Scientific of profiting from her cells, which have contributed to revolutionary advances in medicine, without seeking their permission.  <a href="https://nyti.ms/45bCl4y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Fitch Downgrades U.S. Credit Rating</h3>
+<sub>By Alan Rappeport and Joe Rennison</sub>
+<p>The ratings agency, which lowered the U.S. long-term rating from its top mark, said debt-limit standoffs had eroded confidence in the nation’s fiscal management.  <a href="https://nyti.ms/3s19cuw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>The Trial America Needs</h3>
+<sub>By David French</sub>
+<p>The special counsel Jack Smith’s case against Donald Trump on charges related to the 2020 election will not be easy. But it is necessary.  <a href="https://nyti.ms/3OC2S5M"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
