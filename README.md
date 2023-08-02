@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, August 2, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. In Ukraine, Western-trained troops have stumbled in battle and medical posts close to the front lines are a critical lifeline for wounded soldiers. In New York, there is a state-wide reading crisis in schools and concern is growing that the government isn&#39;t doing enough. Meanwhile on a global scale, China&#39;s leader has reshuffled their nuclear force and the commander has been replaced. There&#39;s also been an influx of migrants to cities like New York and some are sleeping on the sidewalk due to lack of space in shelters. In Israel, there&#39;s a huge protest movement organized by particle physicist Shikma Bressler against a government decision. On the entertainment side of things, poet Mahogany L. Browne wrote a love letter to hip-hop on its 50th anniversary composed entirely of lyrics and Lizzo is being sued by three former dancers for creating a hostile work environment. There&#39;s also a new indictment against the former president Donald Trump put forward by Jack Smith which outlines multiple charges related to the 2020 election, sparking the conversation about what kind of trial America needs.</p>
+Currently, there are a lot of troubling events happening around the world. In the United States, there was a mass shooting at a synagogue which has raised anxiety levels for American Jews. Meanwhile, Ukraine’s army is reverting to traditional tactics instead of using US methods and two Canadians switched at birth have been questioning their roots and learning about how racial heritage shapes them. Antarctica is facing record low sea ice cover, celebrity disruption has become the latest concert souvenir, ESPN is starting to show dwindling profit for Disney, migrants don&#39;t have enough shelter in New York City, Canadian Prime Minister Justin Trudeau has announced he will be separating from his wife, and three dancers are suing Lizzo for harassment and a hostile work environment. Additionally, President Trump has faced an unprecedented indictment from the US criminal justice system accusing him of defrauding his country with election lies.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The synagogue shooting was one of several incidents that have raised anxiety for American Jews.</h3>
+<sub>By Michael Paulson and Ruth Graham</sub>
+<p>  <a href="https://nyti.ms/43TmA16"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Ukrainian Troops Trained by the West Stumble in Battle</h3>
 <sub>By Eric Schmitt and Helene Cooper</sub>
@@ -69,33 +75,27 @@ There is a lot happening in the world right now. In Ukraine, Western-trained tro
 <sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Under Fire and Understaffed: The Fight to Save Ukraine’s Wounded</h3>
-<sub>By Carlotta Gall, Oleksandr Chubko and Emile Ducke</sub>
-<p>Positioned close to the front lines, temporary medical posts are a critical lifeline for the constant inflow of soldiers hurt in the counteroffensive.  <a href="https://nyti.ms/45bPaw0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
+<h3>Switched at Birth, Two Canadians Discover Their Roots at 67</h3>
+<sub>By Norimitsu Onishi</sub>
+<p>Two Canadian men who were switched at birth to families of different ethnicities are now questioning who they really are and learning how racial heritage shapes identities.  <a href="https://nyti.ms/3KobScj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>A Look at How Much Less Antarctic Sea Ice There Is This Year</h3>
+<sub>By Delger Erdenesanaa and Leanne Abraham</sub>
+<p>It’s winter in Antarctica, when sea ice cover typically grows. But this year’s sea ice is way behind, reaching record lows with implications for the planet.  <a href="https://nyti.ms/3OjiWb9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>A Hip-Hop Love Story in Lyrics</h3>
-<sub>By Mahogany L. Browne</sub>
-<p>To celebrate the 50th anniversary of hip-hop, we asked the poet and author Mahogany L. Browne to write a love letter to the genre, composed entirely of lyrics both beloved and obscure.  <a href="https://nyti.ms/44PMgNo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>As States Confront a Reading Crisis in Schools, New York Lags Behind</h3>
-<sub>By Troy Closson</sub>
-<p>Across the nation, state leaders are taking steps to improve reading instruction for struggling students. But in New York, concern has grown: Is too little being done?  <a href="https://nyti.ms/3QmXyEI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>As Objects Fly Onstage, Stars Become Part of the Audience’s Show</h3>
+<sub>By Jon Caramanica</sub>
+<p>Disrupting a celebrity may now be the ultimate concert souvenir. No pop star wants to be unsafe, but some are increasingly making themselves part of the crowd.  <a href="https://nyti.ms/44OXkdD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>How ESPN Went From Disney’s Financial Engine to Its Problem</h3>
 <sub>By Kevin Draper and Brooks Barnes</sub>
 <p>The sports juggernaut continues to earn billions of dollars for Disney, but profits are down and opportunities for growth have dwindled.  <a href="https://nyti.ms/45a1yML"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Xi’s Surprise Shake-Up Exposes Problems at Top of China’s Nuclear Force</h3>
-<sub>By Chris Buckley</sub>
-<p>The Chinese leader’s replacement of two commanders has fanned speculation about corruption or failings in the force that manages China’s nuclear missiles.  <a href="https://nyti.ms/3qddtdY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -105,9 +105,9 @@ There is a lot happening in the world right now. In Ukraine, Western-trained tro
 <sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Face of Israel’s Protests Is a Particle Physicist</h3>
-<sub>By Isabel Kershner</sub>
-<p>Shikma Bressler, a mother of five who says her passion is life in the lab, has emerged as a symbol of the struggle against the government’s divisive judicial overhaul.  <a href="https://nyti.ms/455ziuE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Justin Trudeau to Separate From Wife, Sophie Grégoire</h3>
+<sub>By Norimitsu Onishi and Vjosa Isai</sub>
+<p>The Canadian prime minister and his wife have been married for 18 years and share three children.  <a href="https://nyti.ms/47dbPd4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -129,10 +129,10 @@ There is a lot happening in the world right now. In Ukraine, Western-trained tro
 <sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>The Trial America Needs</h3>
-<sub>By David French</sub>
-<p>The special counsel Jack Smith’s case against Donald Trump on charges related to the 2020 election will not be easy. But it is necessary.  <a href="https://nyti.ms/3OC2S5M"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
+<h3>‘We Are in a Five-Alarm Fire for Democracy’</h3>
+<sub>By Thomas B. Edsall</sub>
+<p>Does free speech protect Trump’s election lies?  <a href="https://nyti.ms/44Ox3fz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
