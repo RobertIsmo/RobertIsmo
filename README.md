@@ -60,18 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, August 1, Central Standard Time</p>
 <p>
-There has been a lot of news lately in terms of politics, economics, and health. The US economy looks to be improving with strong data buoying President Biden&#39;s ratings. Biden and Trump are tied in the polls, but voters who don&#39;t like either candidate seem to be giving Biden a slight edge. In Florida, Ron DeSantis’s Super PAC spent $34 million trying to boost his standing but it didn&#39;t have much success. After paying legal bills for former president Donald J. Trump and his associates, his PAC is nearly broke. For the first Republican debate, there will be at least seven candidates so far though Trump may not attend. In Ukraine, Russian threats have hampered small ports on the Danube river while reducing grain exports. In New York, Joe Petrsoric is retiring from Broadway saloon after memorizing the favorite drinks of all the top stars. A new energy efficiency rule that started over a decade ago has kicked in which has made most incandescent lights obsolete. Sheila Oliver has died in New Jersey from being taken to the hospital on Monday while Governor Murphy was out of state. Matthew DePerno from Michigan who unsuccessfully tried to overturn the 2020 election has been charged with election breach and he also finished second to lead the state&#39;s Republican Party. Lastly, Oregon continues its experiment which focuses on curbing opioid overdoses by handing out tickets for using Fentanyl over jail time. Finally, Senator&#39;s Nadine Menendez marriage appear to have caught investigators&#39; attention because they seem to be looking into the possibility that she or her husband might have received undisclosed gifts.</p>
+There are a number of things happening in the world right now that could affect people around the globe. For example, Russia is threatening small ports along the Danube River, which is a vital shipping outlet for Ukraine. In the US, there has been a run of strong data buoying President Biden on the economy. Although he rates poorly on economic issues, there are signs that the national mood is improving. Meanwhile, Ron DeSantis’s Super PAC has reportedly burned through $34 million as he slides in polls. Also, a ban on traditional bulbs has gone into effect due to efforts to reduce energy consumption. On a more somber note, Sheila Oliver, New Jersey&#39;s first Black woman to hold statewide elected office, has passed away. Additionally, thousands of migrants have been forced to sleep on the sidewalk because of a failing shelter system in NYC. Lastly, Fitch recently downgraded the U.S. credit rating due to debt-limit standoffs eroding confidence in fiscal management.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Danube Ports, a Lifeline for Ukraine, Come Under Russian Threat</h3>
+<sub>By Marc Santora</sub>
+<p>Since the collapse of the Black Sea grain deal two weeks ago, small ports on the Danube River are the only shipping outlet for millions of tons of grain.  <a href="https://nyti.ms/3QktyZU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A Run of Strong Data Buoys Biden on the Economy</h3>
 <sub>By Jim Tankersley and Ben Casselman</sub>
 <p>Voters continue to rate the president poorly on economic issues, but there are signs the national mood is beginning to improve.  <a href="https://nyti.ms/3rUrKwL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>Can the Race Really Be That Close? Yes, Biden and Trump Are Tied.</h3>
-<sub>By Nate Cohn</sub>
-<p>A Times&#x2F;Siena poll suggests a slight Biden edge among voters who don’t like either candidate.  <a href="https://nyti.ms/44OQ4i6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -81,27 +81,21 @@ There has been a lot of news lately in terms of politics, economics, and health.
 <sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>After Paying Lawyers, Trump’s PAC Is Nearly Broke</h3>
-<sub>By Maggie Haberman, Shane Goldmacher and Jonathan Swan</sub>
-<p>The scramble to cover legal bills for former President Donald J. Trump and his associates has prompted what appears to be the largest refund in federal campaign finance history.  <a href="https://nyti.ms/47aEY8G"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Who Has Made It to the First Republican Debate So Far?</h3>
 <sub>By Molly Cook Escobar, Andrew Fischer and Eleanor Lutz</sub>
 <p>At least seven candidates appear to have made the cut so far for the first debate in August. Donald J. Trump has indicated he may not attend.  <a href="https://nyti.ms/3YeqG2N"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Danube Ports, a Lifeline for Ukraine, Come Under Russian Threat</h3>
-<sub>By Marc Santora</sub>
-<p>Since the collapse of the Black Sea grain deal two weeks ago, small ports on the Danube River are the only shipping outlet for millions of tons of grain.  <a href="https://nyti.ms/3QktyZU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Favorite Drinks of All the Top Stars? He Has Them Memorized.</h3>
 <sub>By Julie Besonen and Lanna Apisukh</sub>
 <p>“Joe” Petrsoric, the longtime bartender at Broadway’s go-to saloon, is finally retiring.  <a href="https://nyti.ms/3OjopP7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Bulb Becomes a Flashpoint as the Sun Sets on Incandescent Lights</h3>
+<sub>By Katie Rogers</sub>
+<p>A ban on most kinds of traditional bulbs renews a cultural squabble between regulatory efforts to curb energy consumption and the very American impulse to do whatever one wants in one’s domicile.  <a href="https://nyti.ms/47cpgtL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
@@ -113,25 +107,31 @@ There has been a lot of news lately in terms of politics, economics, and health.
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Sheila Oliver, New Jersey’s Trailblazing Lieutenant Governor, Has Died</h3>
 <sub>By Tracey Tully</sub>
-<p>Ms. Oliver, 71, was taken to the hospital on Monday. She had been serving as governor while Gov. Philip D. Murphy was out of state, vacationing in Italy.  <a href="https://nyti.ms/44P2d6J"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Ms. Oliver, 71, was the first Black woman to hold statewide elected office there, after a long tenure in the General Assembly.  <a href="https://nyti.ms/44P2d6J"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Meddler in Michigan, Matthew DePerno, Is Charged in Election Breach</h3>
-<sub>By Neil Vigdor, Alexandra Berzon and Nick Corasaniti</sub>
-<p>A key figure in a multistate effort to overturn the 2020 election, Mr. DePerno lost his race for Michigan attorney general in 2022. He later finished second to lead the state’s Republican Party.  <a href="https://nyti.ms/43QpV0T"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Scenes From a City That Only Hands Out Tickets for Using Fentanyl</h3>
-<sub>By Jordan Gale and Jan Hoffman</sub>
-<p>Oregon’s experiment to curb overdoses by decriminalizing small amounts of illicit drugs is in its third year, and life has changed for most everyone in the city of Portland.  <a href="https://nyti.ms/3QkBf2s"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>A Senator’s New Wife and Her Old Friends Draw Prosecutors’ Attention</h3>
 <sub>By Tracey Tully</sub>
 <p>Unlike her husband, Nadine Menendez has lived a mainly private life. Investigators appear focused on the possibility that she or the senator received undisclosed gifts.  <a href="https://nyti.ms/3OjBfNm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Migrants Sleep on the Sidewalk, the Face of a Failing Shelter System</h3>
+<sub>By Andy Newman</sub>
+<p>People have come from all over the globe to a city that is legally required to give them a place to stay. This week, city officials said they had run out of room.  <a href="https://nyti.ms/45cnYxc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>Family of Henrietta Lacks Settles With Biotech Company That Used Her Cells</h3>
+<sub>By Amanda Holpuch</sub>
+<p>Ms. Lacks’s family had accused Thermo Fisher Scientific of profiting from her cells, which have contributed to revolutionary advances in medicine, without seeking their permission.  <a href="https://nyti.ms/45bCl4y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Fitch Downgrades U.S. Credit Rating</h3>
+<sub>By Alan Rappeport and Joe Rennison</sub>
+<p>The ratings agency, which lowered the U.S. long-term rating from its top mark, said debt-limit standoffs had eroded confidence in the nation’s fiscal management.  <a href="https://nyti.ms/3s19cuw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
