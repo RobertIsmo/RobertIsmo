@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Wednesday, August 2, Central Standard Time</p>
+<p>It is Thursday, August 3, Central Standard Time</p>
 <p>
-Lots of things are happening in the world right now. In Pittsburgh, the gunman responsible for a synagogue shooting was condemned by a jury to death. In Ukraine, farmers are having to scramble to keep exporting since Russia has been striking their ports. Two Canadian men recently found out they had been switched at birth and are questioning their identities and heritage. And in South Africa, an old anti-apartheid chant called “Kill the Boer” is sparking backlash from both the left and right political sides. On top of this, the coronavirus crisis is still ongoing, and infections are slowly rising in New York, while Antarctica&#39;s sea ice cover has reached record lows this year. Finally, there is an opinion article that discusses how modern meritocracy made Donald Trump inevitable.</p>
+Right now, the world is facing several significant events. In the US, a jury in Pittsburgh brought a gunman to justice for the 2018 synagogue attack by sentencing him to death. Meanwhile, Russian military action in Ukraine is drastically affecting its farming industry, and tension is still simmering between South Africa and the US over an anti-apartheid chant. On the health front, Covid cases are gradually increasing slightly across the US and New York in particular. Additionally, Antarctic sea ice cover is at an all-time low this winter, which could have serious consequences for global climate change. Opinion pieces are covering two very different but important topics: one argues that Trump&#39;s rise to power was inevitable due to meritocracy&#39;s flaws while another looks at how well the new Trump indictment was written. </p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Jury in Pittsburgh Synagogue Trial Condemns Gunman to Death</h3>
@@ -90,12 +90,6 @@ Lots of things are happening in the world right now. In Pittsburgh, the gunman r
 <h3>Ukrainian Troops Trained by the West Stumble in Battle</h3>
 <sub>By Eric Schmitt and Helene Cooper</sub>
 <p>Ukraine’s army has for now set aside U.S. fighting methods and reverted to tactics it knows best.  <a href="https://nyti.ms/43MCLgQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Switched at Birth, Two Canadians Discover Their Roots at 67</h3>
-<sub>By Norimitsu Onishi</sub>
-<p>Two Canadian men who were switched at birth to families of different ethnicities are now questioning who they really are and learning how racial heritage shapes identities.  <a href="https://nyti.ms/3KobScj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -132,6 +126,12 @@ Lots of things are happening in the world right now. In Pittsburgh, the gunman r
 <h3>What if We’re the Bad Guys Here?</h3>
 <sub>By David Brooks</sub>
 <p>How the modern meritocracy made Trump inevitable.  <a href="https://nyti.ms/44T6Z2T"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>What Makes Jack Smith’s New Trump Indictment So Smart</h3>
+<sub>By Randall D. Eliason</sub>
+<p>The strength of the indictment lies as much in what it charges as what it doesn’t charge.  <a href="https://nyti.ms/45a5du3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
 <hr/>
 </ol>
