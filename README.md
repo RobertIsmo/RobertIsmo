@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, August 3, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now, from a potential homelessness crisis in New York City to worries over the US credit rating being downgraded. In Kyiv, there is a push to reduce the influence of an Orthodox Church that follows Moscow&#39;s lead. On the economic front, stocks and Treasury yields are fluctuating as people weigh up positive news about the economy, while the Bank of England has increased rates for the 14th meeting in a row. There are serious climate concerns as it&#39;s been reported that this year&#39;s ocean heat is &#39;astonishing&#39;, and South Korea is currently suffering its hottest summer in years. Meanwhile Senator Dianne Feinstein is unwell and there&#39;s internal strife within her family over the control of her late husband&#39;s estate. Finally, Twitter&#39;s CEO Elon Musk has rebranded his company and lots of people are trying to make sense of what that means!</p>
+There is a lot going on around the world right now. In New York City, officials are struggling to avoid a homelessness crisis as migrants are sleeping on sidewalks outside of hotels without enough shelter beds available. Meanwhile, people are having difficulty protecting themselves from falsehoods spread by artificial intelligence technology. In the UK, the Bank of England raised its interest rates to its highest since 2008 and warned of potential risks due to persistent inflation. In Saudi Arabia, oil production has been cut by one million barrels a day and will continue through September. This comes alongside rising ocean temperatures globally, which has led to hundreds of people getting sick from the heat at a Scout gathering in South Korea. Lastly, Elon Musk recently rebranded Twitter, leading to some confusion about its name and terminology. Opinion pieces have been exploring how modern meritocracy may have influenced Donald Trump&#39;s rise to power.</p>
 <ol>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>What Happens When New York’s Shelters Run Out of Room?</h3>
@@ -74,17 +74,23 @@ There is a lot going on in the world right now, from a potential homelessness cr
 <p>There are no easy answers for officials trying to find shelter beds, but “everything is on the table,” a deputy mayor said.  <a href="https://nyti.ms/3YhdiLp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Pastor or Traitor? Ukrainians Shun a Church Seen as a Kremlin Tool.</h3>
-<sub>By Matthew Mpoke Bigg and Yurii Shyvala</sub>
-<p>The village parishioners’ decision to oust their priest reflects a broader push within Ukraine to reduce the influence of an Orthodox church that answers to Moscow.  <a href="https://nyti.ms/47jF11W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>What Can You Do When A.I. Lies About You?</h3>
 <sub>By Tiffany Hsu</sub>
 <p>People have little protection or recourse when the technology creates and spreads falsehoods about them.  <a href="https://nyti.ms/43VIKQi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>For an Ailing Feinstein, a Fight Over the Family Fortune</h3>
+<sub>By Tim Arango and Shawn Hubler</sub>
+<p>As Dianne Feinstein, 90, struggles to function in the Senate, a dispute within her family over control of her late husband’s estate is another difficult chapter at the end of a long career.  <a href="https://nyti.ms/3qd8CcR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Pastor or Traitor? Ukrainians Shun a Church Seen as a Kremlin Tool.</h3>
+<sub>By Matthew Mpoke Bigg and Yurii Shyvala</sub>
+<p>The village parishioners’ decision to oust their priest reflects a broader push within Ukraine to reduce the influence of an Orthodox church that answers to Moscow.  <a href="https://nyti.ms/47jF11W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Is Good News Finally Good News Again?</h3>
@@ -99,9 +105,9 @@ There is a lot going on in the world right now, from a potential homelessness cr
 <sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Markets Still Weigh the Meaning of a U.S. Credit Rating Cut</h3>
-<sub>By Andrew Ross Sorkin, Ravi Mattu, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
-<p>Stocks were down and Treasury yields were up after Fitch Ratings’ downgrade. But the biggest effects of the move may play out over time.  <a href="https://nyti.ms/3YhlYBt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Saudi Arabia to Extend Oil Production Cut by a Month</h3>
+<sub>By Clifford Krauss</sub>
+<p>The kingdom said its move to reduce oil production by one million barrels a day would continue through September.  <a href="https://nyti.ms/3OHgGfg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
@@ -114,12 +120,6 @@ There is a lot going on in the world right now, from a potential homelessness cr
 <h3>Hundreds Fall Ill From Heat at Scout Gathering in South Korea</h3>
 <sub>By John Yoon</sub>
 <p>As the country endures its hottest summer in years, at least 125 people were hospitalized and many others were treated for symptoms during baking conditions at the World Scout Jamboree.  <a href="https://nyti.ms/47bpT6Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>For an Ailing Feinstein, a Fight Over the Family Fortune</h3>
-<sub>By Tim Arango and Shawn Hubler</sub>
-<p>As Dianne Feinstein, 90, struggles to function in the Senate, a dispute within her family over control of her late husband’s estate is another difficult chapter at the end of a long career.  <a href="https://nyti.ms/3qd8CcR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
