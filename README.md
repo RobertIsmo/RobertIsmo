@@ -60,12 +60,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, August 2, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. In the US, there&#39;s been mixed reactions to the Pittsburgh Jewish community after a jury found a suspect guilty and recommended a death sentence. Meanwhile, Ukrainian troops trained by the West are having some difficulty with battle tactics. Other countries are facing their own issues - Russia is attacking ports, and Ukraine is scrambling to keep exporting grain and sunflower oil. In Canada, a couple recently discovered they were switched at birth 67 years ago and are now exploring their race-based identities. Climate change isn&#39;t slowing down anytime soon either; Antarctic sea ice has reached record low levels this year, which will have major implications for temperatures around the world. There are some creative solutions as well - concert goers are pushing boundaries of disrupting celebrity performances and even throwing objects onstage. Disney&#39;s ESPN channel is seeing profits decline, too, so that&#39;s something worth keeping an eye on as well. Finally, there&#39;s been reports of a Covid uptick and migrant overcrowding in New York City. Plus Canadian Prime Minister Justin Trudeau just announced his separation from his wife after 18 years of marriage. It&#39;s certainly been an intense few weeks!</p>
+Hey, it&#39;s been a busy news cycle recently. In the US, we&#39;re dealing with the fallout from an anti-Semitic mass shooting at a synagogue in Pittsburgh two years ago - the gunman was sentenced to death by a jury after 10 hours of deliberation. There&#39;s a lot of pain and relief among survivors and families of those killed. In Ukraine, Russia is hitting farmers hard by attacking ports - they used to help feed the world. And two Canadian men who were switched at birth are finally meeting their biological families at 67. Over in South Africa, tensions are high over an old &#39;kill the Boer&#39; song being embraced by a left-wing figure. Those same tensions are being mirrored around celebrity performances, with audience members trying to disrupt shows as a souvenir. As for Covid-19, there are signs of an uptick with more hospitalizations - 800 statewide in New York - and record lows in Antarctica for sea ice cover. Oh, and there&#39;s an opinion piece about how America&#39;s meritocracy might have caused Trump to be elected. That&#39;s about it!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Many in Pittsburgh’s Jewish community welcomed the verdict, as others lamented the death penalty.</h3>
-<sub>By Anna Betts, Campbell Robertson and Ruth Graham</sub>
-<p>Some people expressed firm approval of the death sentence or acceptance that the jury had reached the right decision, while others were disappointed at the outcome.  <a href="https://nyti.ms/43UbPvI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Jury in Pittsburgh Synagogue Trial Condemns Gunman to Death</h3>
+<sub>By Campbell Robertson and Nicholas Bogel-Burroughs</sub>
+<p>The verdict, after nearly 10 hours of deliberations, was met with a mix of solemnity, gratitude and relief among the survivors and families of those killed in the 2018 attack.  <a href="https://nyti.ms/3Kp30Da"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Painful Process, Survivors Say, but the Only Way to Ensure Justice for Victims</h3>
+<sub>By Nicholas Bogel-Burroughs, Anna Betts and Jon Moss</sub>
+<p>Some people expressed firm approval of the death sentence or acceptance that the jury had reached the right decision, while others were disappointed at the outcome.  <a href="https://nyti.ms/44UUHHq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Victims of the synagogue shooting were remembered as guardians of their faith.</h3>
+<sub>By Simon Romero, Jennifer Medina, Timothy Williams and Campbell Robertson</sub>
+<p>They were anchors of a faith community that had changed over the years but persisted as a source of devotion, camaraderie and memory.  <a href="https://nyti.ms/3YgLIhl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As Russia Strikes Ports, Ukraine’s Farmers Scramble to Keep Exporting</h3>
+<sub>By Valerie Hopkins</sub>
+<p>Their grain and sunflower oil once helped feed the world. Now, even their backup routes to the international market have become targets.  <a href="https://nyti.ms/3rMVPOy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -75,33 +93,21 @@ There&#39;s a lot going on in the world right now. In the US, there&#39;s been m
 <sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Russia Strikes Ports, Ukraine’s Farmers Scramble to Keep Exporting</h3>
-<sub>By Valerie Hopkins</sub>
-<p>Their grain and sunflower oil once helped feed the world. Now, even their backup routes to the international market have become targets.  <a href="https://nyti.ms/3rMVPOy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Switched at Birth, Two Canadians Discover Their Roots at 67</h3>
 <sub>By Norimitsu Onishi</sub>
 <p>Two Canadian men who were switched at birth to families of different ethnicities are now questioning who they really are and learning how racial heritage shapes identities.  <a href="https://nyti.ms/3KobScj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>A Look at How Much Less Antarctic Sea Ice There Is This Year</h3>
-<sub>By Delger Erdenesanaa and Leanne Abraham</sub>
-<p>It’s winter in Antarctica, when sea ice cover typically grows. But this year’s sea ice is way behind, reaching record lows with implications for the planet.  <a href="https://nyti.ms/3OjiWb9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘Kill the Boer’ Song Fuels Backlash in South Africa and U.S.</h3>
+<sub>By John Eligon</sub>
+<p>Right-wing commenters claim that an old anti-apartheid chant is a call to anti-white violence, but historians and the left-wing politician who embraces it say it should not be taken literally.  <a href="https://nyti.ms/3rZfkUs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>As Objects Fly Onstage, Stars Become Part of the Audience’s Show</h3>
 <sub>By Jon Caramanica</sub>
 <p>Disrupting a celebrity may now be the ultimate concert souvenir. No pop star wants to be unsafe, but some are increasingly making themselves part of the crowd.  <a href="https://nyti.ms/44OXkdD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How ESPN Went From Disney’s Financial Engine to Its Problem</h3>
-<sub>By Kevin Draper and Brooks Barnes</sub>
-<p>The sports juggernaut continues to earn billions of dollars for Disney, but profits are down and opportunities for growth have dwindled.  <a href="https://nyti.ms/45a1yML"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
@@ -111,27 +117,21 @@ There&#39;s a lot going on in the world right now. In the US, there&#39;s been m
 <sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Migrants Sleep on the Sidewalk, the Face of a Failing Shelter System</h3>
-<sub>By Andy Newman</sub>
-<p>People have come from all over the globe to a city that is legally required to give them a place to stay. This week, city officials said they had run out of room.  <a href="https://nyti.ms/45cnYxc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
+<h3>In New York, Covid Cases Are Rising, Slightly, Officials Warn</h3>
+<sub>By Joseph Goldstein</sub>
+<p>A small uptick in Covid cases has led to more hospitalizations, but the numbers, about 800 statewide, are still far below previous waves.  <a href="https://nyti.ms/3YgZjFm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Justin Trudeau to Separate From Wife, Sophie Grégoire</h3>
-<sub>By Norimitsu Onishi and Vjosa Isai</sub>
-<p>The Canadian prime minister and his wife have been married for 18 years and share three children.  <a href="https://nyti.ms/47dbPd4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>A Look at How Much Less Antarctic Sea Ice There Is This Year</h3>
+<sub>By Delger Erdenesanaa and Leanne Abraham</sub>
+<p>It’s winter in Antarctica, when sea ice cover typically grows. But this year’s sea ice is way behind, reaching record lows with implications for the planet.  <a href="https://nyti.ms/3OjiWb9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>What Makes Jack Smith’s New Trump Indictment So Smart</h3>
-<sub>By Randall D. Eliason</sub>
-<p>The strength of the indictment lies as much in what it charges as what it doesn’t charge.  <a href="https://nyti.ms/45a5du3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>A President Accused of Betraying His Country</h3>
-<sub>By The Editorial Board</sub>
-<p>The criminal justice system of the United States has never seen an indictment of this magnitude, in which a former president is accused of defrauding his country.  <a href="https://nyti.ms/479X8Yl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>What if We’re the Bad Guys Here?</h3>
+<sub>By David Brooks</sub>
+<p>How the modern meritocracy made Trump inevitable.  <a href="https://nyti.ms/44T6Z2T"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
 <hr/>
 </ol>
