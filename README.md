@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, August 3, Central Standard Time</p>
 <p>
-There is a lot going on around the world right now. In New York City, officials are struggling to avoid a homelessness crisis as migrants are sleeping on sidewalks outside of hotels without enough shelter beds available. Meanwhile, people are having difficulty protecting themselves from falsehoods spread by artificial intelligence technology. In the UK, the Bank of England raised its interest rates to its highest since 2008 and warned of potential risks due to persistent inflation. In Saudi Arabia, oil production has been cut by one million barrels a day and will continue through September. This comes alongside rising ocean temperatures globally, which has led to hundreds of people getting sick from the heat at a Scout gathering in South Korea. Lastly, Elon Musk recently rebranded Twitter, leading to some confusion about its name and terminology. Opinion pieces have been exploring how modern meritocracy may have influenced Donald Trump&#39;s rise to power.</p>
+The world is facing a lot of difficult issues. In New York, the city is struggling with a homelessness crisis due to an influx of migrants. In Texas, a body of a migrant was found in a buoy barrier in the Rio Grande after evidently drowning upstream. In Pennsylvania, a judge sentenced the Pittsburgh synagogue gunman to death following the murder of 11 people in the Tree of Life synagogue. There&#39;s also an ongoing dispute within Senator Dianne Feinstein&#39;s family over control of her late husband&#39;s estate. Additionally, firetruck chasers in New York are causing violence and threats, beatings and extortion. There are also potentially worrying implications from artificial intelligence creating and spreading falsehoods about people with little recourse to fight against it. On top of this, ocean temperatures are record-breaking highs this year, and this could have severe consequences for our planet. Finally, there&#39;s also been some political upheaval recently with President Trump being charged under a Reconstruction-era law, and public debates over the modern meritocracy and college admissions.</p>
 <ol>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>What Happens When New York’s Shelters Run Out of Room?</h3>
@@ -68,10 +68,22 @@ There is a lot going on around the world right now. In New York City, officials 
 <p>As migrants sleep on sidewalks outside a Midtown hotel, the city is struggling to avoid a homelessness crisis that resembles those in Los Angeles or San Francisco.  <a href="https://nyti.ms/43UOVnY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Body of Migrant Found in Texas’ Buoy Barrier in Rio Grande</h3>
+<sub>By J. David Goodman</sub>
+<p>Officials from the Texas Department of Public Safety said that the body appeared to have floated there after a drowning upstream.  <a href="https://nyti.ms/44T3fhQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>For an Ailing Feinstein, a Fight Over the Family Fortune</h3>
+<sub>By Tim Arango and Shawn Hubler</sub>
+<p>As Dianne Feinstein, 90, struggles to function in the Senate, a dispute within her family over control of her late husband’s estate is another difficult chapter at the end of a long career.  <a href="https://nyti.ms/3qd8CcR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Armories, Hotels, Offices: Where New York Could House Migrants</h3>
-<sub>By James Barron</sub>
-<p>There are no easy answers for officials trying to find shelter beds, but “everything is on the table,” a deputy mayor said.  <a href="https://nyti.ms/3YhdiLp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Threats, Beatings, Extortion: The Violent World of Fire-Truck Chasers</h3>
+<sub>By Michael Wilson</sub>
+<p>The crews that offer help after a fire already operated outside the law. Then, police say, a former gang member took over a New York company and made things much worse.  <a href="https://nyti.ms/3QoWXSH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -81,9 +93,9 @@ There is a lot going on around the world right now. In New York City, officials 
 <sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>For an Ailing Feinstein, a Fight Over the Family Fortune</h3>
-<sub>By Tim Arango and Shawn Hubler</sub>
-<p>As Dianne Feinstein, 90, struggles to function in the Senate, a dispute within her family over control of her late husband’s estate is another difficult chapter at the end of a long career.  <a href="https://nyti.ms/3qd8CcR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Judge Sentences Pittsburgh Synagogue Gunman to Death</h3>
+<sub>By Nicholas Bogel-Burroughs and Campbell Robertson</sub>
+<p>In the final hearing of the trial, survivors and relatives of victims spoke directly to the man who killed 11 people in the Tree of Life synagogue.  <a href="https://nyti.ms/3YnNxsH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -92,40 +104,10 @@ There is a lot going on around the world right now. In New York City, officials 
 <p>The village parishioners’ decision to oust their priest reflects a broader push within Ukraine to reduce the influence of an Orthodox church that answers to Moscow.  <a href="https://nyti.ms/47jF11W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Is Good News Finally Good News Again?</h3>
-<sub>By Jeanna Smialek and Ben Casselman</sub>
-<p>Economists had been wary of strong economic data, worried that it meant inflation might stay high. Now they are starting to embrace it.  <a href="https://nyti.ms/3rV16nm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Bank of England Raises Rates for 14th Meeting in a Row</h3>
-<sub>By Eshe Nelson</sub>
-<p>Britain’s central bank raised rates to 5.25 percent, the highest since 2008, as it warned that some risks from persistent inflation were “crystallizing.”  <a href="https://nyti.ms/43REJMT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Saudi Arabia to Extend Oil Production Cut by a Month</h3>
-<sub>By Clifford Krauss</sub>
-<p>The kingdom said its move to reduce oil production by one million barrels a day would continue through September.  <a href="https://nyti.ms/3OHgGfg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>What This Year’s ‘Astonishing’ Ocean Heat Means for the Planet</h3>
 <sub>By Elena Shao</sub>
 <p>The world’s oceans are the hottest they have been in modern history, by an unusually wide margin.  <a href="https://nyti.ms/3rXbBqp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Hundreds Fall Ill From Heat at Scout Gathering in South Korea</h3>
-<sub>By John Yoon</sub>
-<p>As the country endures its hottest summer in years, at least 125 people were hospitalized and many others were treated for symptoms during baking conditions at the World Scout Jamboree.  <a href="https://nyti.ms/47bpT6Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>So What Do We Call Twitter Now Anyway?</h3>
-<sub>By Kate Conger</sub>
-<p>With Elon Musk’s rebranding of the app, is Twitter’s name really retired? What about tweets? We unravel the terminology puzzle.  <a href="https://nyti.ms/43RZwA6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-opinion-blue" alt="">
@@ -133,6 +115,24 @@ There is a lot going on around the world right now. In New York City, officials 
 <sub>By David Brooks</sub>
 <p>How the modern meritocracy made Trump inevitable.  <a href="https://nyti.ms/44T6Z2T"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>Mike Pence Spoke, and the Response Was a Kind of Subtle Hell</h3>
+<sub>By Katherine Miller</sub>
+<p>The surreal scene at a Republican fund-raiser.  <a href="https://nyti.ms/3YnNDk3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>Why It’s No Surprise That Trump Is Being Charged Under a Reconstruction-Era Law</h3>
+<sub>By Ian Bassin and Kristy Parker</sub>
+<p>The law was designed in part to prosecute political leaders who, while in office and after, sought to cancel the votes of millions to hold power.  <a href="https://nyti.ms/44VggaQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>The Real, Hidden Truth About College Admissions</h3>
+<sub>By Frank Bruni</sub>
+<p>How students spend their college years matters more than where.  <a href="https://nyti.ms/3s1nR93"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
