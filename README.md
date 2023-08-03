@@ -60,82 +60,78 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, August 3, Central Standard Time</p>
 <p>
-There have been quite a few stories in the news recently about uncomfortable topics. In the US, a jury condemned the gunman who attacked a Pittsburgh synagogue to death following nearly ten hours of deliberation, and survivors and families of those killed expressed a mix of solemnity, gratitude, and relief. In South Africa, an old anti-apartheid chant called &#39;Kill the Boer&#39; has sparked controversy among right-wing commenters who claim it&#39;s a call to anti-white violence; while in Ukraine, troops trained by the West are stumbling in battles as they revert to tactics they know best. 
-
-Here in New York City there&#39;s been a slight uptick in Covid cases, though the numbers are still far below previous waves. And globally, sea ice cover is way behind in Antarctica -- reaching record lows with large implications on our planet&#39;s climate.
-
-Meanwhile, Donald Trump is facing an indictment that accuses him of defrauding his country. It&#39;s shocking stuff and no one has seen an indictment of this magnitude before. Whether you agree with the outcome or not, it&#39;s making headlines around the world.</p>
+There is a lot going on in the world right now, from a potential homelessness crisis in New York City to worries over the US credit rating being downgraded. In Kyiv, there is a push to reduce the influence of an Orthodox Church that follows Moscow&#39;s lead. On the economic front, stocks and Treasury yields are fluctuating as people weigh up positive news about the economy, while the Bank of England has increased rates for the 14th meeting in a row. There are serious climate concerns as it&#39;s been reported that this year&#39;s ocean heat is &#39;astonishing&#39;, and South Korea is currently suffering its hottest summer in years. Meanwhile Senator Dianne Feinstein is unwell and there&#39;s internal strife within her family over the control of her late husband&#39;s estate. Finally, Twitter&#39;s CEO Elon Musk has rebranded his company and lots of people are trying to make sense of what that means!</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Jury in Pittsburgh Synagogue Trial Condemns Gunman to Death</h3>
-<sub>By Campbell Robertson and Nicholas Bogel-Burroughs</sub>
-<p>The verdict, after nearly 10 hours of deliberations, was met with a mix of solemnity, gratitude and relief among the survivors and families of those killed in the 2018 attack.  <a href="https://nyti.ms/3Kp30Da"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Painful Process, Survivors Say, but the Only Way to Ensure Justice for Victims</h3>
-<sub>By Nicholas Bogel-Burroughs, Anna Betts and Jon Moss</sub>
-<p>Some people expressed firm approval of the death sentence or acceptance that the jury had reached the right decision, while others were disappointed at the outcome.  <a href="https://nyti.ms/44UUHHq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Ukrainian Troops Trained by the West Stumble in Battle</h3>
-<sub>By Eric Schmitt and Helene Cooper</sub>
-<p>Ukraine’s army has for now set aside U.S. fighting methods and reverted to tactics it knows best.  <a href="https://nyti.ms/43MCLgQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘Kill the Boer’ Song Fuels Backlash in South Africa and U.S.</h3>
-<sub>By John Eligon</sub>
-<p>Right-wing commenters claim that an old anti-apartheid chant is a call to anti-white violence, but historians and the left-wing politician who embraces it say it should not be taken literally.  <a href="https://nyti.ms/3rZfkUs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>As Objects Fly Onstage, Stars Become Part of the Audience’s Show</h3>
-<sub>By Jon Caramanica</sub>
-<p>Disrupting a celebrity may now be the ultimate concert souvenir. No pop star wants to be unsafe, but some are increasingly making themselves part of the crowd.  <a href="https://nyti.ms/44OXkdD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Amid Signs of a Covid Uptick, Researchers Brace for the ‘New Normal’</h3>
-<sub>By Apoorva Mandavilli</sub>
-<p>Infections remain very low, despite signs of a slight increase. Now, experts are looking for clues to what living with the coronavirus will be like this winter and beyond.  <a href="https://nyti.ms/3YmEc4C"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>What Happens When New York’s Shelters Run Out of Room?</h3>
+<sub>By Nicole Hong</sub>
+<p>As migrants sleep on sidewalks outside a Midtown hotel, the city is struggling to avoid a homelessness crisis that resembles those in Los Angeles or San Francisco.  <a href="https://nyti.ms/43UOVnY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>In New York, Covid Cases Are Rising, Slightly, Officials Warn</h3>
-<sub>By Joseph Goldstein</sub>
-<p>A small uptick in Covid cases has led to more hospitalizations, but the numbers, about 800 statewide, are still far below previous waves.  <a href="https://nyti.ms/3YgZjFm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Armories, Hotels, Offices: Where New York Could House Migrants</h3>
+<sub>By James Barron</sub>
+<p>There are no easy answers for officials trying to find shelter beds, but “everything is on the table,” a deputy mayor said.  <a href="https://nyti.ms/3YhdiLp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Pastor or Traitor? Ukrainians Shun a Church Seen as a Kremlin Tool.</h3>
+<sub>By Matthew Mpoke Bigg and Yurii Shyvala</sub>
+<p>The village parishioners’ decision to oust their priest reflects a broader push within Ukraine to reduce the influence of an Orthodox church that answers to Moscow.  <a href="https://nyti.ms/47jF11W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>What Can You Do When A.I. Lies About You?</h3>
+<sub>By Tiffany Hsu</sub>
+<p>People have little protection or recourse when the technology creates and spreads falsehoods about them.  <a href="https://nyti.ms/43VIKQi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Is Good News Finally Good News Again?</h3>
+<sub>By Jeanna Smialek and Ben Casselman</sub>
+<p>Economists had been wary of strong economic data, worried that it meant inflation might stay high. Now they are starting to embrace it.  <a href="https://nyti.ms/3rV16nm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>The Bank of England Raises Rates for 14th Meeting in a Row</h3>
+<sub>By Eshe Nelson</sub>
+<p>Britain’s central bank raised rates to 5.25 percent, the highest since 2008, as it warned that some risks from persistent inflation were “crystallizing.”  <a href="https://nyti.ms/43REJMT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Markets Still Weigh the Meaning of a U.S. Credit Rating Cut</h3>
+<sub>By Andrew Ross Sorkin, Ravi Mattu, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
+<p>Stocks were down and Treasury yields were up after Fitch Ratings’ downgrade. But the biggest effects of the move may play out over time.  <a href="https://nyti.ms/3YhlYBt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>A Look at How Much Less Antarctic Sea Ice There Is This Year</h3>
-<sub>By Delger Erdenesanaa and Leanne Abraham</sub>
-<p>It’s winter in Antarctica, when sea ice cover typically grows. But this year’s sea ice is way behind, reaching record lows with implications for the planet.  <a href="https://nyti.ms/3OjiWb9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
+<h3>What This Year’s ‘Astonishing’ Ocean Heat Means for the Planet</h3>
+<sub>By Elena Shao</sub>
+<p>The world’s oceans are the hottest they have been in modern history, by an unusually wide margin.  <a href="https://nyti.ms/3rXbBqp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Hundreds Fall Ill From Heat at Scout Gathering in South Korea</h3>
+<sub>By John Yoon</sub>
+<p>As the country endures its hottest summer in years, at least 125 people were hospitalized and many others were treated for symptoms during baking conditions at the World Scout Jamboree.  <a href="https://nyti.ms/47bpT6Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>For an Ailing Feinstein, a Fight Over the Family Fortune</h3>
+<sub>By Tim Arango and Shawn Hubler</sub>
+<p>As Dianne Feinstein, 90, struggles to function in the Senate, a dispute within her family over control of her late husband’s estate is another difficult chapter at the end of a long career.  <a href="https://nyti.ms/3qd8CcR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>So What Do We Call Twitter Now Anyway?</h3>
+<sub>By Kate Conger</sub>
+<p>With Elon Musk’s rebranding of the app, is Twitter’s name really retired? What about tweets? We unravel the terminology puzzle.  <a href="https://nyti.ms/43RZwA6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-opinion-blue" alt="">
 <h3>What if We’re the Bad Guys Here?</h3>
 <sub>By David Brooks</sub>
 <p>How the modern meritocracy made Trump inevitable.  <a href="https://nyti.ms/44T6Z2T"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>What Makes Jack Smith’s New Trump Indictment So Smart</h3>
-<sub>By Randall D. Eliason</sub>
-<p>The strength of the indictment lies as much in what it charges as what it doesn’t charge.  <a href="https://nyti.ms/45a5du3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>Part Thriller, Part Whodunit: The Trump Indictment Is a Must-Read</h3>
-<sub>By Charles M. Blow</sub>
-<p>The document isn’t a pleasant read, but it’s surprisingly readable.  <a href="https://nyti.ms/43R9FwL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>A President Accused of Betraying His Country</h3>
-<sub>By The Editorial Board</sub>
-<p>The criminal justice system of the United States has never seen an indictment of this magnitude, in which a former president is accused of defrauding his country.  <a href="https://nyti.ms/479X8Yl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
 <hr/>
 </ol>
