@@ -60,20 +60,8 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, August 3, Central Standard Time</p>
 <p>
-The world is facing a lot of difficult issues. In New York, the city is struggling with a homelessness crisis due to an influx of migrants. In Texas, a body of a migrant was found in a buoy barrier in the Rio Grande after evidently drowning upstream. In Pennsylvania, a judge sentenced the Pittsburgh synagogue gunman to death following the murder of 11 people in the Tree of Life synagogue. There&#39;s also an ongoing dispute within Senator Dianne Feinstein&#39;s family over control of her late husband&#39;s estate. Additionally, firetruck chasers in New York are causing violence and threats, beatings and extortion. There are also potentially worrying implications from artificial intelligence creating and spreading falsehoods about people with little recourse to fight against it. On top of this, ocean temperatures are record-breaking highs this year, and this could have severe consequences for our planet. Finally, there&#39;s also been some political upheaval recently with President Trump being charged under a Reconstruction-era law, and public debates over the modern meritocracy and college admissions.</p>
+There&#39;s a lot going on in the world right now. In the US, there&#39;s a dispute within Dianne Feinstein&#39;s family over control of her late husband&#39;s estate, while prosecutors say a former leader of the Bloods has single-handedly remade the emergency mitigation industry in New York through intimidation and brute force. In Texas, there was a sad discovery of a migrant&#39;s corpse in the Rio Grande, and a judge recently sentenced the Pittsburgh Synagogue Gunman to death in court. On top of all that, recent ocean heat records are causing scientists to worry about what it could mean for climate change, while New York City has made outdoor dining permanent with guidelines. There are also plenty of stories about politics, including Mike Pence speaking at a Republican fundraiser and President Trump being charged under an old Reconstruction-era law. Plus, people are starting to see how the college admissions process isn&#39;t everything it&#39;s cracked up to be and how consumer culture is now embedded into our lives like never before.</p>
 <ol>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>What Happens When New York’s Shelters Run Out of Room?</h3>
-<sub>By Nicole Hong</sub>
-<p>As migrants sleep on sidewalks outside a Midtown hotel, the city is struggling to avoid a homelessness crisis that resembles those in Los Angeles or San Francisco.  <a href="https://nyti.ms/43UOVnY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Body of Migrant Found in Texas’ Buoy Barrier in Rio Grande</h3>
-<sub>By J. David Goodman</sub>
-<p>Officials from the Texas Department of Public Safety said that the body appeared to have floated there after a drowning upstream.  <a href="https://nyti.ms/44T3fhQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>For an Ailing Feinstein, a Fight Over the Family Fortune</h3>
 <sub>By Tim Arango and Shawn Hubler</sub>
@@ -81,9 +69,15 @@ The world is facing a lot of difficult issues. In New York, the city is struggli
 <sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Threats, Beatings, Extortion: The Violent World of Fire-Truck Chasers</h3>
+<h3>When Help Shows Up After a House Fire, It Might Be Gang Members</h3>
 <sub>By Michael Wilson</sub>
-<p>The crews that offer help after a fire already operated outside the law. Then, police say, a former gang member took over a New York company and made things much worse.  <a href="https://nyti.ms/3QoWXSH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Prosecutors say a former leader of the Bloods has single-handedly remade the emergency mitigation industry in New York through intimidation and brute force.  <a href="https://nyti.ms/3QoWXSH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Body of Migrant Found in Texas’ Buoy Barrier in Rio Grande</h3>
+<sub>By J. David Goodman</sub>
+<p>Officials from the Texas Department of Public Safety said the body appeared to have floated there after a drowning upstream.  <a href="https://nyti.ms/44T3fhQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -110,11 +104,11 @@ The world is facing a lot of difficult issues. In New York, the city is struggli
 <p>The world’s oceans are the hottest they have been in modern history, by an unusually wide margin.  <a href="https://nyti.ms/3rXbBqp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>What if We’re the Bad Guys Here?</h3>
-<sub>By David Brooks</sub>
-<p>How the modern meritocracy made Trump inevitable.  <a href="https://nyti.ms/44T6Z2T"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>New York City Will Make Outdoor Dining Permanent, With Caveats</h3>
+<sub>By Emma G. Fitzsimmons</sub>
+<p>New rules passed by the City Council on Thursday will organize the haphazard but popular outdoor dining structures, but will force their removal in the winter.  <a href="https://nyti.ms/3q9Qu3E"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-opinion-blue" alt="">
 <h3>Mike Pence Spoke, and the Response Was a Kind of Subtle Hell</h3>
@@ -132,6 +126,12 @@ The world is facing a lot of difficult issues. In New York, the city is struggli
 <h3>The Real, Hidden Truth About College Admissions</h3>
 <sub>By Frank Bruni</sub>
 <p>How students spend their college years matters more than where.  <a href="https://nyti.ms/3s1nR93"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>The Brand Stories of Our Lives</h3>
+<sub>By Pamela Paul</sub>
+<p>Worshiping brands may be our one shared value.  <a href="https://nyti.ms/43PVVlT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
