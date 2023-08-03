@@ -60,7 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, August 3, Central Standard Time</p>
 <p>
-Right now, the world is facing several significant events. In the US, a jury in Pittsburgh brought a gunman to justice for the 2018 synagogue attack by sentencing him to death. Meanwhile, Russian military action in Ukraine is drastically affecting its farming industry, and tension is still simmering between South Africa and the US over an anti-apartheid chant. On the health front, Covid cases are gradually increasing slightly across the US and New York in particular. Additionally, Antarctic sea ice cover is at an all-time low this winter, which could have serious consequences for global climate change. Opinion pieces are covering two very different but important topics: one argues that Trump&#39;s rise to power was inevitable due to meritocracy&#39;s flaws while another looks at how well the new Trump indictment was written. </p>
+There have been quite a few stories in the news recently about uncomfortable topics. In the US, a jury condemned the gunman who attacked a Pittsburgh synagogue to death following nearly ten hours of deliberation, and survivors and families of those killed expressed a mix of solemnity, gratitude, and relief. In South Africa, an old anti-apartheid chant called &#39;Kill the Boer&#39; has sparked controversy among right-wing commenters who claim it&#39;s a call to anti-white violence; while in Ukraine, troops trained by the West are stumbling in battles as they revert to tactics they know best. 
+
+Here in New York City there&#39;s been a slight uptick in Covid cases, though the numbers are still far below previous waves. And globally, sea ice cover is way behind in Antarctica -- reaching record lows with large implications on our planet&#39;s climate.
+
+Meanwhile, Donald Trump is facing an indictment that accuses him of defrauding his country. It&#39;s shocking stuff and no one has seen an indictment of this magnitude before. Whether you agree with the outcome or not, it&#39;s making headlines around the world.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Jury in Pittsburgh Synagogue Trial Condemns Gunman to Death</h3>
@@ -72,18 +76,6 @@ Right now, the world is facing several significant events. In the US, a jury in 
 <h3>A Painful Process, Survivors Say, but the Only Way to Ensure Justice for Victims</h3>
 <sub>By Nicholas Bogel-Burroughs, Anna Betts and Jon Moss</sub>
 <p>Some people expressed firm approval of the death sentence or acceptance that the jury had reached the right decision, while others were disappointed at the outcome.  <a href="https://nyti.ms/44UUHHq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Victims of the synagogue shooting were remembered as guardians of their faith.</h3>
-<sub>By Simon Romero, Jennifer Medina, Timothy Williams and Campbell Robertson</sub>
-<p>They were anchors of a faith community that had changed over the years but persisted as a source of devotion, camaraderie and memory.  <a href="https://nyti.ms/3YgLIhl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Russia Strikes Ports, Ukraine’s Farmers Scramble to Keep Exporting</h3>
-<sub>By Valerie Hopkins</sub>
-<p>Their grain and sunflower oil once helped feed the world. Now, even their backup routes to the international market have become targets.  <a href="https://nyti.ms/3rMVPOy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -132,6 +124,18 @@ Right now, the world is facing several significant events. In the US, a jury in 
 <h3>What Makes Jack Smith’s New Trump Indictment So Smart</h3>
 <sub>By Randall D. Eliason</sub>
 <p>The strength of the indictment lies as much in what it charges as what it doesn’t charge.  <a href="https://nyti.ms/45a5du3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>Part Thriller, Part Whodunit: The Trump Indictment Is a Must-Read</h3>
+<sub>By Charles M. Blow</sub>
+<p>The document isn’t a pleasant read, but it’s surprisingly readable.  <a href="https://nyti.ms/43R9FwL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>A President Accused of Betraying His Country</h3>
+<sub>By The Editorial Board</sub>
+<p>The criminal justice system of the United States has never seen an indictment of this magnitude, in which a former president is accused of defrauding his country.  <a href="https://nyti.ms/479X8Yl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
 <hr/>
 </ol>
