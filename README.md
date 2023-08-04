@@ -60,18 +60,42 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, August 4, Central Standard Time</p>
 <p>
-There has been a lot of news related to the US recently. Former President Trump just pleaded not guilty to election charges and had his first pre-trial hearing set for August 28th. Two US Navy sailors have been charged with helping China after they gave Chinese intelligence sensitive information. Meanwhile, Texas A&amp;M University reached a $1 million settlement with a professor over claims of botched hiring efforts. The College Board has said A.P. Psychology is effectively banned in Florida due to the state&#39;s request that they remove a section on gender and sexuality. There were also six former officers who plead guilty to civil rights charges in Mississippi for assaulting two black men, although a Louisiana trooper was acquitted of violating the civil rights of another black motorist. In addition, there are some international news stories, like conflict erupting among Russian pro-war bloggers and a verdict expected in the trial of Russian opposition leader Navalny.</p>
+There is a lot going on around the world right now. In the US, former President Donald Trump has been indicted on election charges and he pleaded not guilty in court. Mike Pence has reached a fork in the road as he campaigns to persuade voters. Meanwhile, Ron DeSantis&#39; efforts in Iowa seem to be having an effect which might pose a challenge for Trump in the upcoming Iowa caucuses. Out of the country, Chris Christie made a surprise trip to Ukraine to support their efforts to repel Russia while in Russia, Aleksei Navalny is awaiting a verdict for charges that could extend his sentence by two decades. Closer to home, Nevada has the highest unemployment rate in the country and companies are struggling to hire people and control their wage growth. Finally, birders are facing increasing noise pollution which is interfering with their navigation.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>The Recovery Left Nevada Behind. Can the State Change Its Luck?</h3>
+<sub>By Kurtis Lee</sub>
+<p>Nevada has the highest unemployment rate in the country at 5.4 percent as officials insist the economy must move away from its focus on gambling.  <a href="https://nyti.ms/44RGfQl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>‘You Have to Work Extra to Hire People’: What Companies Have Been Saying About Jobs</h3>
+<sub>By J. Edward Moreno</sub>
+<p>Some executives said they were not expanding their payrolls as quickly as they had, while others were more concerned about wage growth, which has remained robust.  <a href="https://nyti.ms/3qiD8C1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Leads G.O.P. in Iowa, but His Hold Is Less Dominant</h3>
+<sub>By Jonathan Weisman</sub>
+<p>New polling suggests that Gov. Ron DeSantis’s efforts in Iowa have been having an effect, but that the challenge of defeating Mr. Trump there is complicated by multiple factors.  <a href="https://nyti.ms/3DJq4ZI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Mike Pence Has Reached His Fork in the Road</h3>
+<sub>By Matt Flegenheimer</sub>
+<p>The former vice president and Jan. 6 witness is campaigning to persuade voters. But is he also trying to warn them?  <a href="https://nyti.ms/44VpkMO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>Is Trump Leaving an Opening in Iowa?</h3>
+<sub>By Nate Cohn</sub>
+<p>The former president’s poll numbers are still strong. But the caucuses could be his rivals’ best chance to make him look vulnerable.  <a href="https://nyti.ms/3KmBTc0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 4, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump, Arraigned on Election Charges, Pleads Not Guilty</h3>
 <sub>By Glenn Thrush and Charlie Savage</sub>
 <p>The former president appeared in federal court in Washington after being indicted over his efforts to overturn his defeat in 2020. His first pretrial hearing was set for Aug. 28.  <a href="https://nyti.ms/3OIM90P"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump’s day in court included another encounter with Jack Smith, but no eye contact.</h3>
-<sub>By Glenn Thrush</sub>
-<p>This time the seriousness of the charges facing the former president gave the proceedings a sense of historical weight.  <a href="https://nyti.ms/47bzRoR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -81,40 +105,22 @@ There has been a lot of news related to the US recently. Former President Trump 
 <sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>For an Ailing Feinstein, a Fight Over the Family Fortune</h3>
-<sub>By Tim Arango and Shawn Hubler</sub>
-<p>As Dianne Feinstein, 90, struggles to function in the Senate, a dispute within her family over control of her late husband’s estate is another difficult chapter at the end of a long career.  <a href="https://nyti.ms/3qd8CcR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Two U.S. Navy Sailors Charged With Helping China</h3>
-<sub>By Adam Goldman and Jill Cowan</sub>
-<p>Prosecutors said the two sailors in California gave Chinese intelligence officers U.S. military secrets and sensitive information.  <a href="https://nyti.ms/442sai4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Next Affirmative Action Battle May Be at West Point</h3>
-<sub>By Anemona Hartocollis</sub>
-<p>Students for Fair Admissions won its Supreme Court case against Harvard and the University of North Carolina. Now, it’s focusing on a possible new target: the military academies.  <a href="https://nyti.ms/44Wt40O"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Texas A&amp;M Agrees to $1 Million Settlement With Journalism Professor</h3>
-<sub>By Stephanie Saul</sub>
-<p>A university report found that fears of a conservative backlash botched the effort to hire a Black professor, Kathleen McElroy, to run its journalism program.  <a href="https://nyti.ms/3YjdGsO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The College Board Says A.P. Psychology Is ‘Effectively Banned’ in Florida</h3>
-<sub>By Sarah Mervosh</sub>
-<p>The nonprofit said it would not remove a section on gender and sexual orientation, as Florida had requested, and advised districts not to offer the course.  <a href="https://nyti.ms/3qfRumC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Fact-Checking the Defenses of Trump After His Latest Indictment</h3>
+<sub>By Linda Qiu</sub>
+<p>Former President Donald Trump’s supporters have made inaccurate claims about the judge presiding over his case and misleadingly compared his conduct to that of other politicians.  <a href="https://nyti.ms/3YmJoFw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Conflict Erupts Among Russia’s Pro-War Bloggers</h3>
-<sub>By Valeriya Safronova</sub>
-<p>A new tone has set in among the uninhibited military bloggers, whose support for the invasion has given them unusual powers to speak out.  <a href="https://nyti.ms/44Ofuwe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
+<h3>‘It’s Crazy’: The Scramble for Ancient Treasures After Ukraine’s Dam Disaster</h3>
+<sub>By Jeffrey Gettleman and Finbarr O’Reilly</sub>
+<p>After the Kakhovka dam was blown up in June, the reservoir above it quickly drained, revealing a bonanza of artifacts that has electrified Ukrainian archaeologists.  <a href="https://nyti.ms/44TiQy9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Chris Christie Meets With Ukrainian President in Surprise Trip to Kyiv</h3>
+<sub>By Charles Homans</sub>
+<p>Mr. Christie is the second 2024 G.O.P. hopeful to visit the war-torn nation, signaling his support for Ukraine in its effort to repel Russia.  <a href="https://nyti.ms/45ctz6C"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Verdict Expected in Latest Trial of Russian Opposition Leader Navalny</h3>
@@ -122,16 +128,10 @@ There has been a lot of news related to the US recently. Former President Trump 
 <p>Aleksei A. Navalny, who is already in prison, is facing charges of supporting “extremism” that could extend his sentence by two decades.  <a href="https://nyti.ms/3qez9qd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>6 Ex-Officers Plead Guilty to Civil Rights Charges in Assault on 2 Black Men in Mississippi</h3>
-<sub>By Michael Levenson and Livia Albeck-Ripka</sub>
-<p>The authorities said that the two men had been handcuffed, beaten and shocked with Tasers. One of the men was also shot in the mouth during a “mock execution,” and a sex toy was forced into the other man’s mouth, federal prosecutors said.  <a href="https://nyti.ms/45bJ1j7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Ex-Louisiana Trooper Acquitted of Violating Civil Rights of Black Motorist</h3>
-<sub>By Derrick Bryson Taylor</sub>
-<p>The trooper beat Aaron Larry Bowman with a flashlight after a traffic stop in 2019. The case drew outrage after police body-camera footage of the encounter went public.  <a href="https://nyti.ms/3QqEl54"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>‘Birds Are My Eyesight’</h3>
+<sub>By Alexandra Marvar</sub>
+<p>For some blind birders, avian soundscapes are a way to map the world around them. Increasing noise pollution is imperiling that navigation.  <a href="https://nyti.ms/3qfI0YC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
