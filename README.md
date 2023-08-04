@@ -60,7 +60,8 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, August 4, Central Standard Time</p>
 <p>
-There are a lot of important issues happening in the world right now. Climate change continues to be a major concern, with a Republican strategy proposed for addressing this issue. In the US, former Vice President Mike Pence has reached an important point in his future plans and several states are facing election-related legal proceedings. On the international stage, Russian opposition leader Alexei Navalny received a lengthy sentence, and Ukrainian leaders were met by former presidential hopeful Chris Christie. In India, a dad is working to fight back against gender inequality and discrimination caused by prenatal sex testing. Closer to home, mortgage-rates have been spiking and people are bracing for the housing market&#39;s current phase.</p>
+It looks like the world is facing a multitude of issues right now. On the US front, former vice president Mike Pence has reached a fork in the road where he is trying to persuade voters but also send a warning. Meanwhile, former President Donald Trump has been indicted and Republicans in Michigan are facing charges for false elector schemes. On the climate side, Republicans are against attempts to cut pollution and are planning more drilling and less clean energy. And unfortunately, Russia isn&#39;t doing much better. Opposition leader Aleksei A. Navalny was sentenced to 19 years in jail for supporting &#39;extremism&#39;. 
+On the housing market, mortgage rates are climbing so people are buying homes and bragging about their rates. Lastly, prosecutors in New York identified human remains found back in 2011 remarkably near Gilgo Beach which belonged to Karen Vergata who had disappeared in 1996.</p>
 <ol>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>A Republican 2024 Climate Strategy: More Drilling, Less Clean Energy</h3>
@@ -69,20 +70,44 @@ There are a lot of important issues happening in the world right now. Climate ch
 <sub><sub>Friday, August 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Leads G.O.P. in Iowa, but His Hold Is Less Dominant</h3>
-<sub>By Jonathan Weisman</sub>
-<p>New polling suggests that Gov. Ron DeSantis’s efforts in Iowa have been having an effect, but that the challenge of defeating Mr. Trump there is complicated by multiple factors.  <a href="https://nyti.ms/3DJq4ZI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Mike Pence Has Reached His Fork in the Road</h3>
 <sub>By Matt Flegenheimer</sub>
 <p>The former vice president and Jan. 6 witness is campaigning to persuade voters. But is he also trying to warn them?  <a href="https://nyti.ms/44VpkMO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 4, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>DeSantis Dismisses Trump’s 2020 Election Theories as False</h3>
+<sub>By Nicholas Nehamas and Lisa Lerer</sub>
+<p>After long hedging, the Florida governor went further than he has before in acknowledging that the election was not stolen.  <a href="https://nyti.ms/3Oq7WZs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Michigan Republicans Charged in False Elector Scheme Appear in Court</h3>
+<sub>By Mitch Smith and Julie Bosman</sub>
+<p>The hearing in state court came in the same week that former President Donald J. Trump pleaded not guilty to federal charges connected to efforts to overturn the 2020 election.  <a href="https://nyti.ms/3OopXaB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Indictment Presents New Obstacle in Spending Fight as Shutdown Looms</h3>
+<sub>By Carl Hulse</sub>
+<p>The far right is taking aim at the F.B.I. and the Justice Department in a push to cut funding for the agencies, another complication for Speaker Kevin McCarthy as he seeks to avoid a government shutdown.  <a href="https://nyti.ms/3s4z7S7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>U.S. Extends Job Growth Streak Even as Economy Cools</h3>
+<sub>By Lydia DePillis</sub>
+<p>Employers added 187,000 workers in July, a slower pace than the recent norm, but “more sustainable,” one economist said.  <a href="https://nyti.ms/3DHbLVj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 4, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Jailed Russian Opposition Leader Navalny Receives a New 19-Year Sentence</h3>
-<sub>By Aaron Boxerman and Valeriya Safronova</sub>
+<h3>Ukraine Hits a Distant Russian Ship, Showing Reach of Naval Drones</h3>
+<sub>By Marc Santora and Christiaan Triebert</sub>
+<p>The attack damaged the warship hundreds of miles from Ukrainian-held territory, as Kyiv increasingly tries to bring the war home to Russia.  <a href="https://nyti.ms/45eaWPx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Jailed Russian Opposition Leader Navalny Receives New Sentence of 19 Years</h3>
+<sub>By Paul Sonne and Valeriya Safronova</sub>
 <p>Aleksei A. Navalny, who is already in prison, was sentenced for supporting “extremism,” amid intensified suppression of dissent in Russia.  <a href="https://nyti.ms/3qez9qd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 4, Central Standard Time</sub></sub>
 <hr/>
@@ -98,18 +123,6 @@ There are a lot of important issues happening in the world right now. Climate ch
 <p>The skull belonged to Karen Vergata, who had disappeared in 1996. Other parts of her body had been found on Fire Island years before.  <a href="https://nyti.ms/3DEoZCp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis Dismisses Trump’s 2020 Election Theories as False</h3>
-<sub>By Nicholas Nehamas and Lisa Lerer</sub>
-<p>After long hedging, the Florida governor went further than he has before in acknowledging that the election was not stolen.  <a href="https://nyti.ms/3Oq7WZs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Michigan Republicans Charged in False Elector Scheme Appear in Court</h3>
-<sub>By Mitch Smith and Julie Bosman</sub>
-<p>The hearing in state court came in the same week that former President Donald J. Trump pleaded not guilty to federal charges connected to efforts to overturn the 2020 election.  <a href="https://nyti.ms/3OopXaB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 4, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-realestate-blue" alt="">
 <h3>Feeling Mortgage-Rate Envy? You’re Not Alone.</h3>
 <sub>By Ronda Kaysen</sub>
@@ -120,18 +133,6 @@ There are a lot of important issues happening in the world right now. Climate ch
 <h3>Are You Ready to Buy a Home? Should You Rent? Take Our Quiz.</h3>
 <sub>By Debra Kamin</sub>
 <p>Finances matter, of course, but so do your future plans, lifestyle, location and other factors. Answer a few questions to learn what may be best for you.  <a href="https://nyti.ms/3Yo5M1q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Opera Star David Daniels Pleads Guilty to Sexual Assault</h3>
-<sub>By Dianna Wray and Javier C. Hernández</sub>
-<p>The countertenor and his husband, Scott Walters, pleaded guilty to sexually assaulting a young singer in Houston in 2010, in a deal that will spare them jail time.  <a href="https://nyti.ms/3KsFzc7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Where ‘No One Wanted Girls,’ a Dad in India Takes On the Patriarchy</h3>
-<sub>By Sameer Yasir</sub>
-<p>A delivery room epiphany transformed a village headman into an unlikely and highly successful campaigner against prenatal sex testing, which often led to aborting female fetuses.  <a href="https://nyti.ms/3KwFiov"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
