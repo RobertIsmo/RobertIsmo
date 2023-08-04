@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Thursday, August 3, Central Standard Time</p>
+<p>It is Friday, August 4, Central Standard Time</p>
 <p>
-There appears to be an ongoing series of events in the US that point to many issues. Former president Donald Trump pled not guilty in federal court to election charges, and there was a significant amount of tension during the proceedings. There is also a legal issue regarding former Sen. Dianne Feinstein&#39;s estate, and the criminal activity of members from the Bloods gang when responding to New York House fires. Furthermore, two US Navy Sailors have been charged with assisting Chinese intelligence, and Students for Fair Admissions has started to target military academies in regards to affirmative action cases. There have been quite a few lawsuits, too: Texas A&amp;M settled with a journalist professor over fears of a conservative backlash, the College Board slammed Florida for banning an Advanced Placement psychology course, 6 ex-officers were charged with civil rights violations in Mississippi, and Louisiana acquitted a former trooper of such charges. Lastly, there is a court that allowed Biden&#39;s asylum restrictions to take effect for now. It looks like news coming out of the US is both complex and concerning right now.</p>
+There is a lot of news in the US right now involving politics and anything related to it. Former President Trump has been arraigned on election charges and is pleading not guilty. There have also been several takeaways from his court appearance. Beyond politics, two US Navy sailors have been charged with helping China, a dispute over the family fortune of Senator Dianne Feinstein has emerged, the College Board is saying that AP Psychology is &#39;effectively banned&#39; in Florida, 6 ex-officers have pleaded guilty to civil rights charges in Mississippi, an ex-Louisiana trooper was acquitted of violating the civil rights of a black motorist, Biden&#39;s Asylum Restrictions are being allowed to continue for now, and finally, the body of a migrant was found in a buoy barrier in the Rio Grande.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump, Arraigned on Election Charges, Pleads Not Guilty</h3>
@@ -84,12 +84,6 @@ There appears to be an ongoing series of events in the US that point to many iss
 <h3>For an Ailing Feinstein, a Fight Over the Family Fortune</h3>
 <sub>By Tim Arango and Shawn Hubler</sub>
 <p>As Dianne Feinstein, 90, struggles to function in the Senate, a dispute within her family over control of her late husband’s estate is another difficult chapter at the end of a long career.  <a href="https://nyti.ms/3qd8CcR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>When Help Shows Up After a House Fire, It Might Be Gang Members</h3>
-<sub>By Michael Wilson</sub>
-<p>Prosecutors say a former leader of the Bloods has single-handedly remade the emergency mitigation industry in New York through intimidation and brute force.  <a href="https://nyti.ms/3QoWXSH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -132,6 +126,12 @@ There appears to be an ongoing series of events in the US that point to many iss
 <h3>Appeals Court Allows Biden’s Asylum Restrictions to Continue for Now</h3>
 <sub>By Michael D. Shear</sub>
 <p>A federal judge had struck down the policy last week, but his ruling had not yet taken effect.  <a href="https://nyti.ms/3DEVUXk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Body of Migrant Found in Texas’ Buoy Barrier in Rio Grande</h3>
+<sub>By J. David Goodman and Edgar Sandoval</sub>
+<p>Officials from the Texas Department of Public Safety said the body appeared to have floated there after a drowning upstream.  <a href="https://nyti.ms/44T3fhQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
