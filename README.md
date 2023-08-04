@@ -60,12 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, August 4, Central Standard Time</p>
 <p>
-The US news cycle is dominated by politics right now. Republicans and Democrats are both jockeying for position ahead of the upcoming presidential election, with former President Donald Trump facing charges over his attempts to overturn his defeat in 2020. Meanwhile, Mike Pence is campaigning but also trying to warn voters of what might happen. 
-
-The US economy has been recovering from the pandemic, but not everywhere has recovered equally. Nevada has the highest unemployment rate in the country and many businesses are still struggling to hire people despite robust wages. Apple and Amazon released their earnings reports which also provide insight into where consumers are willing to spend and save. 
-
-On an international front, Ukraine is embroiled in a fight with Russia over territorial control. A dam there recently exploded, revealing a trove of historical artifacts that have captivated archaeologists. Chris Christie made a surprise visit as one of many 2024 Republican potential presidential candidates showing their support for the nation in its fight against Russia. Jailed opposition leader Alexei Navalny was just handed down a 19-year sentence amid intensified suppression of dissent in Russia.</p>
+There are a lot of important issues happening in the world right now. Climate change continues to be a major concern, with a Republican strategy proposed for addressing this issue. In the US, former Vice President Mike Pence has reached an important point in his future plans and several states are facing election-related legal proceedings. On the international stage, Russian opposition leader Alexei Navalny received a lengthy sentence, and Ukrainian leaders were met by former presidential hopeful Chris Christie. In India, a dad is working to fight back against gender inequality and discrimination caused by prenatal sex testing. Closer to home, mortgage-rates have been spiking and people are bracing for the housing market&#39;s current phase.</p>
 <ol>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>A Republican 2024 Climate Strategy: More Drilling, Less Clean Energy</h3>
+<sub>By Lisa Friedman</sub>
+<p>Project 2025, a conservative “battle plan” for the next Republican president, would stop attempts to cut the pollution that is heating the planet and encourage more emissions.  <a href="https://nyti.ms/3qhHhpW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 4, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Leads G.O.P. in Iowa, but His Hold Is Less Dominant</h3>
 <sub>By Jonathan Weisman</sub>
@@ -78,52 +80,10 @@ On an international front, Ukraine is embroiled in a fight with Russia over terr
 <p>The former vice president and Jan. 6 witness is campaigning to persuade voters. But is he also trying to warn them?  <a href="https://nyti.ms/44VpkMO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>Is Trump Leaving an Opening in Iowa?</h3>
-<sub>By Nate Cohn</sub>
-<p>The former president’s poll numbers are still strong. But the caucuses could be his rivals’ best chance to make him look vulnerable.  <a href="https://nyti.ms/3KmBTc0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Recovery Left Nevada Behind. Can the State Change Its Luck?</h3>
-<sub>By Kurtis Lee</sub>
-<p>Nevada has the highest unemployment rate in the country at 5.4 percent as officials insist the economy must move away from its focus on gambling.  <a href="https://nyti.ms/44RGfQl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>‘You Have to Work Extra to Hire People’: What Companies Have Been Saying About Jobs</h3>
-<sub>By J. Edward Moreno</sub>
-<p>Some executives said they were not expanding their payrolls as quickly as they had, while others were more concerned about wage growth, which has remained robust.  <a href="https://nyti.ms/3qiD8C1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Apple’s and Amazon’s Report Cards for the Global Economy</h3>
-<sub>By Andrew Ross Sorkin, Ravi Mattu, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
-<p>The companies’ latest earnings reports provide insight into the state of consumers and businesses, including where they’re willing to spend — and cut costs.  <a href="https://nyti.ms/45gKkNJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump, Arraigned on Election Charges, Pleads Not Guilty</h3>
-<sub>By Glenn Thrush and Charlie Savage</sub>
-<p>The former president appeared in federal court in Washington after being indicted over his efforts to overturn his defeat in 2020. His first pretrial hearing was set for Aug. 28.  <a href="https://nyti.ms/3OIM90P"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Four takeaways from Trump’s court appearance.</h3>
-<sub>By Daniel Victor</sub>
-<p>A quick proceeding that was mostly straightforward.  <a href="https://nyti.ms/3DF9Pwq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Fact-Checking the Defenses of Trump After His Latest Indictment</h3>
-<sub>By Linda Qiu</sub>
-<p>Former President Donald Trump’s supporters have made inaccurate claims about the judge presiding over his case and misleadingly compared his conduct to that of other politicians.  <a href="https://nyti.ms/3YmJoFw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘It’s Crazy’: The Scramble for Ancient Treasures After Ukraine’s Dam Disaster</h3>
-<sub>By Jeffrey Gettleman and Finbarr O’Reilly</sub>
-<p>After the Kakhovka dam was blown up in June, the reservoir above it quickly drained, revealing a bonanza of artifacts that has electrified Ukrainian archaeologists.  <a href="https://nyti.ms/44TiQy9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Jailed Russian Opposition Leader Navalny Receives a New 19-Year Sentence</h3>
+<sub>By Aaron Boxerman and Valeriya Safronova</sub>
+<p>Aleksei A. Navalny, who is already in prison, was sentenced for supporting “extremism,” amid intensified suppression of dissent in Russia.  <a href="https://nyti.ms/3qez9qd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -132,10 +92,46 @@ On an international front, Ukraine is embroiled in a fight with Russia over terr
 <p>Mr. Christie is the second 2024 G.O.P. hopeful to visit the war-torn nation, signaling his support for Ukraine in its effort to repel Russia.  <a href="https://nyti.ms/45ctz6C"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 4, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Prosecutors Identify Human Remains Found in 2011 Near Gilgo Beach</h3>
+<sub>By Maria Cramer and Nate Schweber</sub>
+<p>The skull belonged to Karen Vergata, who had disappeared in 1996. Other parts of her body had been found on Fire Island years before.  <a href="https://nyti.ms/3DEoZCp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>DeSantis Dismisses Trump’s 2020 Election Theories as False</h3>
+<sub>By Nicholas Nehamas and Lisa Lerer</sub>
+<p>After long hedging, the Florida governor went further than he has before in acknowledging that the election was not stolen.  <a href="https://nyti.ms/3Oq7WZs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Michigan Republicans Charged in False Elector Scheme Appear in Court</h3>
+<sub>By Mitch Smith and Julie Bosman</sub>
+<p>The hearing in state court came in the same week that former President Donald J. Trump pleaded not guilty to federal charges connected to efforts to overturn the 2020 election.  <a href="https://nyti.ms/3OopXaB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-realestate-blue" alt="">
+<h3>Feeling Mortgage-Rate Envy? You’re Not Alone.</h3>
+<sub>By Ronda Kaysen</sub>
+<p>With interest rates climbing, a new form of one-upmanship is making the rounds: the mortgage-rate humble brag.  <a href="https://nyti.ms/44OLMHs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-realestate-blue" alt="">
+<h3>Are You Ready to Buy a Home? Should You Rent? Take Our Quiz.</h3>
+<sub>By Debra Kamin</sub>
+<p>Finances matter, of course, but so do your future plans, lifestyle, location and other factors. Answer a few questions to learn what may be best for you.  <a href="https://nyti.ms/3Yo5M1q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Opera Star David Daniels Pleads Guilty to Sexual Assault</h3>
+<sub>By Dianna Wray and Javier C. Hernández</sub>
+<p>The countertenor and his husband, Scott Walters, pleaded guilty to sexually assaulting a young singer in Houston in 2010, in a deal that will spare them jail time.  <a href="https://nyti.ms/3KsFzc7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 4, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Jailed Russian Opposition Leader Navalny Receives a New 19-Year Sentence</h3>
-<sub>By Aaron Boxerman and Valeriya Safronova</sub>
-<p>Aleksei A. Navalny, who is already in prison, was sentenced for supporting “extremism,” amid intensified suppression of dissent in Russia.  <a href="https://nyti.ms/3qez9qd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Where ‘No One Wanted Girls,’ a Dad in India Takes On the Patriarchy</h3>
+<sub>By Sameer Yasir</sub>
+<p>A delivery room epiphany transformed a village headman into an unlikely and highly successful campaigner against prenatal sex testing, which often led to aborting female fetuses.  <a href="https://nyti.ms/3KwFiov"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
