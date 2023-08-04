@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, August 4, Central Standard Time</p>
 <p>
-There is a lot of news in the US right now involving politics and anything related to it. Former President Trump has been arraigned on election charges and is pleading not guilty. There have also been several takeaways from his court appearance. Beyond politics, two US Navy sailors have been charged with helping China, a dispute over the family fortune of Senator Dianne Feinstein has emerged, the College Board is saying that AP Psychology is &#39;effectively banned&#39; in Florida, 6 ex-officers have pleaded guilty to civil rights charges in Mississippi, an ex-Louisiana trooper was acquitted of violating the civil rights of a black motorist, Biden&#39;s Asylum Restrictions are being allowed to continue for now, and finally, the body of a migrant was found in a buoy barrier in the Rio Grande.</p>
+There has been a lot of news related to the US recently. Former President Trump just pleaded not guilty to election charges and had his first pre-trial hearing set for August 28th. Two US Navy sailors have been charged with helping China after they gave Chinese intelligence sensitive information. Meanwhile, Texas A&amp;M University reached a $1 million settlement with a professor over claims of botched hiring efforts. The College Board has said A.P. Psychology is effectively banned in Florida due to the state&#39;s request that they remove a section on gender and sexuality. There were also six former officers who plead guilty to civil rights charges in Mississippi for assaulting two black men, although a Louisiana trooper was acquitted of violating the civil rights of another black motorist. In addition, there are some international news stories, like conflict erupting among Russian pro-war bloggers and a verdict expected in the trial of Russian opposition leader Navalny.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump, Arraigned on Election Charges, Pleads Not Guilty</h3>
@@ -110,6 +110,18 @@ There is a lot of news in the US right now involving politics and anything relat
 <p>The nonprofit said it would not remove a section on gender and sexual orientation, as Florida had requested, and advised districts not to offer the course.  <a href="https://nyti.ms/3qfRumC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Conflict Erupts Among Russia’s Pro-War Bloggers</h3>
+<sub>By Valeriya Safronova</sub>
+<p>A new tone has set in among the uninhibited military bloggers, whose support for the invasion has given them unusual powers to speak out.  <a href="https://nyti.ms/44Ofuwe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Verdict Expected in Latest Trial of Russian Opposition Leader Navalny</h3>
+<sub>By Aaron Boxerman</sub>
+<p>Aleksei A. Navalny, who is already in prison, is facing charges of supporting “extremism” that could extend his sentence by two decades.  <a href="https://nyti.ms/3qez9qd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 4, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>6 Ex-Officers Plead Guilty to Civil Rights Charges in Assault on 2 Black Men in Mississippi</h3>
 <sub>By Michael Levenson and Livia Albeck-Ripka</sub>
@@ -120,18 +132,6 @@ There is a lot of news in the US right now involving politics and anything relat
 <h3>Ex-Louisiana Trooper Acquitted of Violating Civil Rights of Black Motorist</h3>
 <sub>By Derrick Bryson Taylor</sub>
 <p>The trooper beat Aaron Larry Bowman with a flashlight after a traffic stop in 2019. The case drew outrage after police body-camera footage of the encounter went public.  <a href="https://nyti.ms/3QqEl54"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Appeals Court Allows Biden’s Asylum Restrictions to Continue for Now</h3>
-<sub>By Michael D. Shear</sub>
-<p>A federal judge had struck down the policy last week, but his ruling had not yet taken effect.  <a href="https://nyti.ms/3DEVUXk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Body of Migrant Found in Texas’ Buoy Barrier in Rio Grande</h3>
-<sub>By J. David Goodman and Edgar Sandoval</sub>
-<p>Officials from the Texas Department of Public Safety said the body appeared to have floated there after a drowning upstream.  <a href="https://nyti.ms/44T3fhQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
