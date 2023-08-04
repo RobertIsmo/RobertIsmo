@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, August 3, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. In the US, there&#39;s a dispute within Dianne Feinstein&#39;s family over control of her late husband&#39;s estate, while prosecutors say a former leader of the Bloods has single-handedly remade the emergency mitigation industry in New York through intimidation and brute force. In Texas, there was a sad discovery of a migrant&#39;s corpse in the Rio Grande, and a judge recently sentenced the Pittsburgh Synagogue Gunman to death in court. On top of all that, recent ocean heat records are causing scientists to worry about what it could mean for climate change, while New York City has made outdoor dining permanent with guidelines. There are also plenty of stories about politics, including Mike Pence speaking at a Republican fundraiser and President Trump being charged under an old Reconstruction-era law. Plus, people are starting to see how the college admissions process isn&#39;t everything it&#39;s cracked up to be and how consumer culture is now embedded into our lives like never before.</p>
+It looks like things have been going through some big changes recently! In the US, there is a lot of conflict coming up around civil rights and equality, with cases of racism and bigotry coming to light. We also have a Navy sailor in jail facing charges for leaking sensitive information. Meanwhile, in New York City, there&#39;s been major success for the outdoor dining industry throughout the pandemic - so much so that it&#39;s now being made permanent but with certain conditions. On a global scale, we are having some extreme weather happening from South America to Europe. 2021 has already set some records for temperatures! There&#39;s definitely a lot going on whether you look at home or around the world.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>For an Ailing Feinstein, a Fight Over the Family Fortune</h3>
@@ -75,28 +75,46 @@ There&#39;s a lot going on in the world right now. In the US, there&#39;s a disp
 <sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Body of Migrant Found in Texas’ Buoy Barrier in Rio Grande</h3>
-<sub>By J. David Goodman</sub>
-<p>Officials from the Texas Department of Public Safety said the body appeared to have floated there after a drowning upstream.  <a href="https://nyti.ms/44T3fhQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>What Can You Do When A.I. Lies About You?</h3>
-<sub>By Tiffany Hsu</sub>
-<p>People have little protection or recourse when the technology creates and spreads falsehoods about them.  <a href="https://nyti.ms/43VIKQi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Two U.S. Navy Sailors Charged With Helping Chinese</h3>
+<sub>By Adam Goldman and Jill Cowan</sub>
+<p>Prosecutors said the two sailors in California gave Chinese intelligence officers U.S. military secrets and sensitive information.  <a href="https://nyti.ms/442sai4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Judge Sentences Pittsburgh Synagogue Gunman to Death</h3>
-<sub>By Nicholas Bogel-Burroughs and Campbell Robertson</sub>
-<p>In the final hearing of the trial, survivors and relatives of victims spoke directly to the man who killed 11 people in the Tree of Life synagogue.  <a href="https://nyti.ms/3YnNxsH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>The Next Affirmative Action Battle May Be at West Point</h3>
+<sub>By Anemona Hartocollis</sub>
+<p>Students for Fair Admissions won its Supreme Court case against Harvard and the University of North Carolina. Now, it’s focusing on a possible new target: the military academies.  <a href="https://nyti.ms/44Wt40O"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Pastor or Traitor? Ukrainians Shun a Church Seen as a Kremlin Tool.</h3>
-<sub>By Matthew Mpoke Bigg and Yurii Shyvala</sub>
-<p>The village parishioners’ decision to oust their priest reflects a broader push within Ukraine to reduce the influence of an Orthodox church that answers to Moscow.  <a href="https://nyti.ms/47jF11W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 2, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Texas A&amp;M Agrees to $1 Million Settlement With Journalism Professor</h3>
+<sub>By Stephanie Saul</sub>
+<p>A university report found that fears of a conservative backlash botched the effort to hire a Black professor, Kathleen McElroy, to run its journalism program.  <a href="https://nyti.ms/3YjdGsO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The College Board Says A.P. Psychology Is ‘Effectively Banned’ in Florida</h3>
+<sub>By Sarah Mervosh</sub>
+<p>The nonprofit said it would not remove a section on gender and sexual orientation, as Florida had requested, and advised districts not to offer the course.  <a href="https://nyti.ms/3qfRumC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>6 Ex-Officers Plead Guilty to Civil Rights Charges in Assault on 2 Black Men in Mississippi</h3>
+<sub>By Michael Levenson and Livia Albeck-Ripka</sub>
+<p>The authorities said that the two men had been handcuffed, beaten and shocked with Tasers. One of the men was also shot in the mouth during a “mock execution,” and a sex toy was forced into the other man’s mouth, federal prosecutors said.  <a href="https://nyti.ms/45bJ1j7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Ex-Louisiana Trooper Acquitted of Violating Civil Rights of Black Motorist</h3>
+<sub>By Derrick Bryson Taylor</sub>
+<p>The trooper beat Aaron Larry Bowman with a flashlight after a traffic stop in 2019. The case drew outrage after police body-camera footage of the encounter went public.  <a href="https://nyti.ms/3QqEl54"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Medical Group Backs Youth Gender Treatments, but Calls for Research Review</h3>
+<sub>By Azeen Ghorayshi</sub>
+<p>The American Academy of Pediatrics renewed its support of gender care for minors while commissioning a fresh look at the evidence.  <a href="https://nyti.ms/3OH0Q4c"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>What This Year’s ‘Astonishing’ Ocean Heat Means for the Planet</h3>
@@ -104,34 +122,16 @@ There&#39;s a lot going on in the world right now. In the US, there&#39;s a disp
 <p>The world’s oceans are the hottest they have been in modern history, by an unusually wide margin.  <a href="https://nyti.ms/3rXbBqp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Heat Wave Grips Portions of South America in the Middle of Winter</h3>
+<sub>By Jesus Jiménez and Natalie Alcoba</sub>
+<p>An unusual winter heat wave has brought record high temperatures to cities across Argentina, Chile and Paraguay this week, triggering concerns about the impacts of climate change.  <a href="https://nyti.ms/44Oe30O"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>New York City Will Make Outdoor Dining Permanent, With Caveats</h3>
 <sub>By Emma G. Fitzsimmons</sub>
 <p>New rules passed by the City Council on Thursday will organize the haphazard but popular outdoor dining structures, but will force their removal in the winter.  <a href="https://nyti.ms/3q9Qu3E"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>Mike Pence Spoke, and the Response Was a Kind of Subtle Hell</h3>
-<sub>By Katherine Miller</sub>
-<p>The surreal scene at a Republican fund-raiser.  <a href="https://nyti.ms/3YnNDk3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>Why It’s No Surprise That Trump Is Being Charged Under a Reconstruction-Era Law</h3>
-<sub>By Ian Bassin and Kristy Parker</sub>
-<p>The law was designed in part to prosecute political leaders who, while in office and after, sought to cancel the votes of millions to hold power.  <a href="https://nyti.ms/44VggaQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>The Real, Hidden Truth About College Admissions</h3>
-<sub>By Frank Bruni</sub>
-<p>How students spend their college years matters more than where.  <a href="https://nyti.ms/3s1nR93"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>The Brand Stories of Our Lives</h3>
-<sub>By Pamela Paul</sub>
-<p>Worshiping brands may be our one shared value.  <a href="https://nyti.ms/43PVVlT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
