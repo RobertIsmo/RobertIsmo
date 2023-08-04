@@ -60,20 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, August 4, Central Standard Time</p>
 <p>
-There is a lot going on around the world right now. In the US, former President Donald Trump has been indicted on election charges and he pleaded not guilty in court. Mike Pence has reached a fork in the road as he campaigns to persuade voters. Meanwhile, Ron DeSantis&#39; efforts in Iowa seem to be having an effect which might pose a challenge for Trump in the upcoming Iowa caucuses. Out of the country, Chris Christie made a surprise trip to Ukraine to support their efforts to repel Russia while in Russia, Aleksei Navalny is awaiting a verdict for charges that could extend his sentence by two decades. Closer to home, Nevada has the highest unemployment rate in the country and companies are struggling to hire people and control their wage growth. Finally, birders are facing increasing noise pollution which is interfering with their navigation.</p>
+The US news cycle is dominated by politics right now. Republicans and Democrats are both jockeying for position ahead of the upcoming presidential election, with former President Donald Trump facing charges over his attempts to overturn his defeat in 2020. Meanwhile, Mike Pence is campaigning but also trying to warn voters of what might happen. 
+
+The US economy has been recovering from the pandemic, but not everywhere has recovered equally. Nevada has the highest unemployment rate in the country and many businesses are still struggling to hire people despite robust wages. Apple and Amazon released their earnings reports which also provide insight into where consumers are willing to spend and save. 
+
+On an international front, Ukraine is embroiled in a fight with Russia over territorial control. A dam there recently exploded, revealing a trove of historical artifacts that have captivated archaeologists. Chris Christie made a surprise visit as one of many 2024 Republican potential presidential candidates showing their support for the nation in its fight against Russia. Jailed opposition leader Alexei Navalny was just handed down a 19-year sentence amid intensified suppression of dissent in Russia.</p>
 <ol>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Recovery Left Nevada Behind. Can the State Change Its Luck?</h3>
-<sub>By Kurtis Lee</sub>
-<p>Nevada has the highest unemployment rate in the country at 5.4 percent as officials insist the economy must move away from its focus on gambling.  <a href="https://nyti.ms/44RGfQl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>‘You Have to Work Extra to Hire People’: What Companies Have Been Saying About Jobs</h3>
-<sub>By J. Edward Moreno</sub>
-<p>Some executives said they were not expanding their payrolls as quickly as they had, while others were more concerned about wage growth, which has remained robust.  <a href="https://nyti.ms/3qiD8C1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 4, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Leads G.O.P. in Iowa, but His Hold Is Less Dominant</h3>
 <sub>By Jonathan Weisman</sub>
@@ -90,6 +82,24 @@ There is a lot going on around the world right now. In the US, former President 
 <h3>Is Trump Leaving an Opening in Iowa?</h3>
 <sub>By Nate Cohn</sub>
 <p>The former president’s poll numbers are still strong. But the caucuses could be his rivals’ best chance to make him look vulnerable.  <a href="https://nyti.ms/3KmBTc0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>The Recovery Left Nevada Behind. Can the State Change Its Luck?</h3>
+<sub>By Kurtis Lee</sub>
+<p>Nevada has the highest unemployment rate in the country at 5.4 percent as officials insist the economy must move away from its focus on gambling.  <a href="https://nyti.ms/44RGfQl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>‘You Have to Work Extra to Hire People’: What Companies Have Been Saying About Jobs</h3>
+<sub>By J. Edward Moreno</sub>
+<p>Some executives said they were not expanding their payrolls as quickly as they had, while others were more concerned about wage growth, which has remained robust.  <a href="https://nyti.ms/3qiD8C1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Apple’s and Amazon’s Report Cards for the Global Economy</h3>
+<sub>By Andrew Ross Sorkin, Ravi Mattu, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
+<p>The companies’ latest earnings reports provide insight into the state of consumers and businesses, including where they’re willing to spend — and cut costs.  <a href="https://nyti.ms/45gKkNJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -123,16 +133,10 @@ There is a lot going on around the world right now. In the US, former President 
 <sub><sub>Friday, August 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Verdict Expected in Latest Trial of Russian Opposition Leader Navalny</h3>
-<sub>By Aaron Boxerman</sub>
-<p>Aleksei A. Navalny, who is already in prison, is facing charges of supporting “extremism” that could extend his sentence by two decades.  <a href="https://nyti.ms/3qez9qd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Jailed Russian Opposition Leader Navalny Receives a New 19-Year Sentence</h3>
+<sub>By Aaron Boxerman and Valeriya Safronova</sub>
+<p>Aleksei A. Navalny, who is already in prison, was sentenced for supporting “extremism,” amid intensified suppression of dissent in Russia.  <a href="https://nyti.ms/3qez9qd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>‘Birds Are My Eyesight’</h3>
-<sub>By Alexandra Marvar</sub>
-<p>For some blind birders, avian soundscapes are a way to map the world around them. Increasing noise pollution is imperiling that navigation.  <a href="https://nyti.ms/3qfI0YC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
