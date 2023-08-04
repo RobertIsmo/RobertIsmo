@@ -60,8 +60,26 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, August 3, Central Standard Time</p>
 <p>
-It looks like things have been going through some big changes recently! In the US, there is a lot of conflict coming up around civil rights and equality, with cases of racism and bigotry coming to light. We also have a Navy sailor in jail facing charges for leaking sensitive information. Meanwhile, in New York City, there&#39;s been major success for the outdoor dining industry throughout the pandemic - so much so that it&#39;s now being made permanent but with certain conditions. On a global scale, we are having some extreme weather happening from South America to Europe. 2021 has already set some records for temperatures! There&#39;s definitely a lot going on whether you look at home or around the world.</p>
+There appears to be an ongoing series of events in the US that point to many issues. Former president Donald Trump pled not guilty in federal court to election charges, and there was a significant amount of tension during the proceedings. There is also a legal issue regarding former Sen. Dianne Feinstein&#39;s estate, and the criminal activity of members from the Bloods gang when responding to New York House fires. Furthermore, two US Navy Sailors have been charged with assisting Chinese intelligence, and Students for Fair Admissions has started to target military academies in regards to affirmative action cases. There have been quite a few lawsuits, too: Texas A&amp;M settled with a journalist professor over fears of a conservative backlash, the College Board slammed Florida for banning an Advanced Placement psychology course, 6 ex-officers were charged with civil rights violations in Mississippi, and Louisiana acquitted a former trooper of such charges. Lastly, there is a court that allowed Biden&#39;s asylum restrictions to take effect for now. It looks like news coming out of the US is both complex and concerning right now.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump, Arraigned on Election Charges, Pleads Not Guilty</h3>
+<sub>By Glenn Thrush and Charlie Savage</sub>
+<p>The former president appeared in federal court in Washington after being indicted over his efforts to overturn his defeat in 2020. His first pretrial hearing was set for Aug. 28.  <a href="https://nyti.ms/3OIM90P"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump’s day in court included another encounter with Jack Smith, but no eye contact.</h3>
+<sub>By Glenn Thrush</sub>
+<p>This time the seriousness of the charges facing the former president gave the proceedings a sense of historical weight.  <a href="https://nyti.ms/47bzRoR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Four takeaways from Trump’s court appearance.</h3>
+<sub>By Daniel Victor</sub>
+<p>A quick proceeding that was mostly straightforward.  <a href="https://nyti.ms/3DF9Pwq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>For an Ailing Feinstein, a Fight Over the Family Fortune</h3>
 <sub>By Tim Arango and Shawn Hubler</sub>
@@ -75,7 +93,7 @@ It looks like things have been going through some big changes recently! In the U
 <sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Two U.S. Navy Sailors Charged With Helping Chinese</h3>
+<h3>Two U.S. Navy Sailors Charged With Helping China</h3>
 <sub>By Adam Goldman and Jill Cowan</sub>
 <p>Prosecutors said the two sailors in California gave Chinese intelligence officers U.S. military secrets and sensitive information.  <a href="https://nyti.ms/442sai4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
@@ -110,28 +128,10 @@ It looks like things have been going through some big changes recently! In the U
 <p>The trooper beat Aaron Larry Bowman with a flashlight after a traffic stop in 2019. The case drew outrage after police body-camera footage of the encounter went public.  <a href="https://nyti.ms/3QqEl54"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Medical Group Backs Youth Gender Treatments, but Calls for Research Review</h3>
-<sub>By Azeen Ghorayshi</sub>
-<p>The American Academy of Pediatrics renewed its support of gender care for minors while commissioning a fresh look at the evidence.  <a href="https://nyti.ms/3OH0Q4c"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>What This Year’s ‘Astonishing’ Ocean Heat Means for the Planet</h3>
-<sub>By Elena Shao</sub>
-<p>The world’s oceans are the hottest they have been in modern history, by an unusually wide margin.  <a href="https://nyti.ms/3rXbBqp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Heat Wave Grips Portions of South America in the Middle of Winter</h3>
-<sub>By Jesus Jiménez and Natalie Alcoba</sub>
-<p>An unusual winter heat wave has brought record high temperatures to cities across Argentina, Chile and Paraguay this week, triggering concerns about the impacts of climate change.  <a href="https://nyti.ms/44Oe30O"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>New York City Will Make Outdoor Dining Permanent, With Caveats</h3>
-<sub>By Emma G. Fitzsimmons</sub>
-<p>New rules passed by the City Council on Thursday will organize the haphazard but popular outdoor dining structures, but will force their removal in the winter.  <a href="https://nyti.ms/3q9Qu3E"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Appeals Court Allows Biden’s Asylum Restrictions to Continue for Now</h3>
+<sub>By Michael D. Shear</sub>
+<p>A federal judge had struck down the policy last week, but his ruling had not yet taken effect.  <a href="https://nyti.ms/3DEVUXk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
