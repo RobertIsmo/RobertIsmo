@@ -60,31 +60,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, August 4, Central Standard Time</p>
 <p>
-It looks like the world is facing a multitude of issues right now. On the US front, former vice president Mike Pence has reached a fork in the road where he is trying to persuade voters but also send a warning. Meanwhile, former President Donald Trump has been indicted and Republicans in Michigan are facing charges for false elector schemes. On the climate side, Republicans are against attempts to cut pollution and are planning more drilling and less clean energy. And unfortunately, Russia isn&#39;t doing much better. Opposition leader Aleksei A. Navalny was sentenced to 19 years in jail for supporting &#39;extremism&#39;. 
-On the housing market, mortgage rates are climbing so people are buying homes and bragging about their rates. Lastly, prosecutors in New York identified human remains found back in 2011 remarkably near Gilgo Beach which belonged to Karen Vergata who had disappeared in 1996.</p>
+Right now, there are a lot of politics and healthcare related issues in the news. For example, the Trump election indictment is presenting new obstacles in Washington and Florida Governor DeSantis has dismissed Trump&#39;s theories about the stolen election as false. At the same time, medication for postpartum depression has been released, while mental health is being discussed in terms of how to get treatment for postpartum depression, which is proven to be a major cause of maternal mortality. Further, countries around the world are also making headlines, like Ukraine hitting a distant Russian ship and science-wise, NASA reaching Voyager 2 with a last-ditch ‘shout’ across the void. Closer to home, prosecutors have identified human remains found near Gilgo Beach and for people looking for homes, mortgage rates are climbing and real estate articles are popping up with advice on buying a home or renting one.</p>
 <ol>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>A Republican 2024 Climate Strategy: More Drilling, Less Clean Energy</h3>
-<sub>By Lisa Friedman</sub>
-<p>Project 2025, a conservative “battle plan” for the next Republican president, would stop attempts to cut the pollution that is heating the planet and encourage more emissions.  <a href="https://nyti.ms/3qhHhpW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>For the First Time, There’s a Pill for Postpartum Depression</h3>
+<sub>By Pam Belluck</sub>
+<p>Because the pill works faster than other antidepressants and is taken for only two weeks, it may encourage more treatment of the debilitating condition.  <a href="https://nyti.ms/3OkWv5n"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 4, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>How to Get Treatment for Postpartum Depression</h3>
+<sub>By Dana G. Smith</sub>
+<p>Mental health issues are the leading cause of maternal mortality. Group therapy, S.S.R.I.s and a new medication can help.  <a href="https://nyti.ms/42tiz3P"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 12, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Mike Pence Has Reached His Fork in the Road</h3>
-<sub>By Matt Flegenheimer</sub>
-<p>The former vice president and Jan. 6 witness is campaigning to persuade voters. But is he also trying to warn them?  <a href="https://nyti.ms/44VpkMO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>How Jack Smith Structured the Trump Election Indictment to Reduce Risks</h3>
+<sub>By Charlie Savage</sub>
+<p>The special counsel layered varied charges atop the same facts, while sidestepping a free-speech question by not charging incitement.  <a href="https://nyti.ms/3Kt4V9N"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>DeSantis Dismisses Trump’s 2020 Election Theories as False</h3>
 <sub>By Nicholas Nehamas and Lisa Lerer</sub>
-<p>After long hedging, the Florida governor went further than he has before in acknowledging that the election was not stolen.  <a href="https://nyti.ms/3Oq7WZs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Michigan Republicans Charged in False Elector Scheme Appear in Court</h3>
-<sub>By Mitch Smith and Julie Bosman</sub>
-<p>The hearing in state court came in the same week that former President Donald J. Trump pleaded not guilty to federal charges connected to efforts to overturn the 2020 election.  <a href="https://nyti.ms/3OopXaB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The Florida governor went further than he has before in acknowledging that the election was not stolen as a major donor pressured him to appeal to moderates.  <a href="https://nyti.ms/3Oq7WZs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -93,10 +92,16 @@ On the housing market, mortgage rates are climbing so people are buying homes an
 <p>The far right is taking aim at the F.B.I. and the Justice Department in a push to cut funding for the agencies, another complication for Speaker Kevin McCarthy as he seeks to avoid a government shutdown.  <a href="https://nyti.ms/3s4z7S7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.S. Extends Job Growth Streak Even as Economy Cools</h3>
-<sub>By Lydia DePillis</sub>
-<p>Employers added 187,000 workers in July, a slower pace than the recent norm, but “more sustainable,” one economist said.  <a href="https://nyti.ms/3DHbLVj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Oklahoma Man Pleads Guilty to Threatening DeSantis, Cruz and Other Republicans</h3>
+<sub>By Orlando Mayorquin</sub>
+<p>Tyler Jay Marshall, 37, threatened on social media to shoot a number of Republican politicians. He faces up to five years in prison.  <a href="https://nyti.ms/3rXxNAF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>A Republican 2024 Climate Strategy: More Drilling, Less Clean Energy</h3>
+<sub>By Lisa Friedman</sub>
+<p>Project 2025, a conservative “battle plan” for the next Republican president, would stop attempts to cut the pollution that is heating the planet and encourage more emissions.  <a href="https://nyti.ms/3qhHhpW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -105,22 +110,16 @@ On the housing market, mortgage rates are climbing so people are buying homes an
 <p>The attack damaged the warship hundreds of miles from Ukrainian-held territory, as Kyiv increasingly tries to bring the war home to Russia.  <a href="https://nyti.ms/45eaWPx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Jailed Russian Opposition Leader Navalny Receives New Sentence of 19 Years</h3>
-<sub>By Paul Sonne and Valeriya Safronova</sub>
-<p>Aleksei A. Navalny, who is already in prison, was sentenced for supporting “extremism,” amid intensified suppression of dissent in Russia.  <a href="https://nyti.ms/3qez9qd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Chris Christie Meets With Ukrainian President in Surprise Trip to Kyiv</h3>
-<sub>By Charles Homans</sub>
-<p>Mr. Christie is the second 2024 G.O.P. hopeful to visit the war-torn nation, signaling his support for Ukraine in its effort to repel Russia.  <a href="https://nyti.ms/45ctz6C"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 4, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Prosecutors Identify Human Remains Found in 2011 Near Gilgo Beach</h3>
 <sub>By Maria Cramer and Nate Schweber</sub>
 <p>The skull belonged to Karen Vergata, who had disappeared in 1996. Other parts of her body had been found on Fire Island years before.  <a href="https://nyti.ms/3DEoZCp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>NASA Reaches Voyager 2 With a Last-Ditch ‘Shout’ Across the Void</h3>
+<sub>By Katrina Miller</sub>
+<p>After an erroneous command sent the spacecraft’s antenna askew, mission specialists hatched a plan to point it back toward Earth.  <a href="https://nyti.ms/3Oq9jHS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-realestate-blue" alt="">
