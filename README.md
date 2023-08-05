@@ -58,22 +58,16 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Friday, August 4, Central Standard Time</p>
+<p>It is Saturday, August 5, Central Standard Time</p>
 <p>
-There has been a lot of news in the world lately. First, there is now a pill for postpartum depression that can be taken for two weeks, so more women are able to get the treatment they need. Additionally, there was an indictment of Donald Trump during his election that caused some ramifications when it comes to the current funding fight and looming government shutdown. Moving on to Oklahoma, an Oklahoma man pleaded guilty to a threat against multiple Republicans. More international news has been coming out of Ukraine as they just hit a distant Russian ship with drones and more recently, NASA successfully communicated with Voyager 2 after sending an erroneous command to its antenna. Closer to home, mortgage rates have been increasing so people have been bragging about them, while also picking up on some personal finance advice due to being uncertain between renting or buying. Lastly, Mississippi just overturned their lifetime ban on voting for former felons so they can enjoy the democratic core of American citizenship again. Even though there has been a lot of positive news lately on the economy and other areas, President Biden hasn&#39;t gotten much credit for it yet.</p>
+In the US, there&#39;s been a lot of news related to the Trump election and the aftermath. There&#39;s a new indictment that will reduce risks for those involved. Florida&#39;s governor has spoken out against Trump&#39;s theories of the 2020 election being stolen and is trying to appeal to moderates. This in turn has presented a new obstacle in terms of spending as a potential government shutdown looms. There is also an Oklahoma man who plead guilty to threatening Republican politicians, demonstrating there is still political strife in the country. 
+
+On the health front, there is a new pill available that can help treat postpartum depression. Mental health issues are very serious and can be deadly if left untreated, so anyone experiencing this should get treatment. 
+
+On the international front, Ukraine is pushing forward with a diplomatic effort to weaken Russia by inviting 40 countries to talks this weekend in Saudi Arabia while also using naval drones against Russian ships as far away as hundreds of miles from their own territory. 
+
+Finally, in other news, mortgage rates have been climbing recently which has sparked competition between home buyers showing off their lower rates. If you&#39;re considering buying or renting a home, make sure you think through all the factors carefully and take our quiz if you need more guidance! Lastly, Mississippi recently overturned its lifetime ban on voting for felons, recognizing that everyone should have access to democracy and exercise their right to vote.</p>
 <ol>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>For the First Time, There’s a Pill for Postpartum Depression</h3>
-<sub>By Pam Belluck</sub>
-<p>Because the pill works faster than other antidepressants and is taken for only two weeks, it may encourage more treatment of the debilitating condition.  <a href="https://nyti.ms/3OkWv5n"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>How to Get Treatment for Postpartum Depression</h3>
-<sub>By Dana G. Smith</sub>
-<p>Mental health issues are the leading cause of maternal mortality. Group therapy, S.S.R.I.s and a new medication can help.  <a href="https://nyti.ms/42tiz3P"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 12, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>How Jack Smith Structured the Trump Election Indictment to Reduce Risks</h3>
 <sub>By Charlie Savage</sub>
@@ -96,6 +90,24 @@ There has been a lot of news in the world lately. First, there is now a pill for
 <h3>Oklahoma Man Pleads Guilty to Threatening DeSantis, Cruz and Other Republicans</h3>
 <sub>By Orlando Mayorquin</sub>
 <p>Tyler Jay Marshall, 37, threatened on social media to shoot a number of Republican politicians. He faces up to five years in prison.  <a href="https://nyti.ms/3rXxNAF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>For the First Time, There’s a Pill for Postpartum Depression</h3>
+<sub>By Pam Belluck</sub>
+<p>Because the pill works faster than other antidepressants and is taken for only two weeks, it may encourage more treatment of the debilitating condition.  <a href="https://nyti.ms/3OkWv5n"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>How to Get Treatment for Postpartum Depression</h3>
+<sub>By Dana G. Smith</sub>
+<p>Mental health issues are the leading cause of maternal mortality. Group therapy, S.S.R.I.s and a new medication can help.  <a href="https://nyti.ms/42tiz3P"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukraine Starts New Diplomatic Push to Weaken Russia</h3>
+<sub>By Marc Santora, Vivian Nereim and David Pierson</sub>
+<p>Some 40 countries that have largely remained on the sidelines of the war were invited to talks this weekend in Saudi Arabia, as Ukraine redoubles international efforts to isolate Moscow.  <a href="https://nyti.ms/3OTjKVX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -126,12 +138,6 @@ There has been a lot of news in the world lately. First, there is now a pill for
 <h3>Appeals Court Overturns Mississippi’s Lifetime Ban on Voting for Former Felons</h3>
 <sub>By Michael Wines</sub>
 <p>A federal appeals court said that barring people convicted of certain felonies from voting pointlessly denied them access to “the democratic core of American citizenship.”  <a href="https://nyti.ms/47gVlR9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Rising Tide Lifts Many Boats, but So Far Not Biden’s</h3>
-<sub>By Peter Baker</sub>
-<p>The president is experiencing a flurry of good news on the economy, crime, immigration and other areas, but voters so far have not given the president much credit.  <a href="https://nyti.ms/45h5N9E"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
