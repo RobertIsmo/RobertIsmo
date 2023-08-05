@@ -60,23 +60,27 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, August 5, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the US and around the world right now. In the US, there&#39;s been a lot of news about the former President Donald Trump and his legal team. The special counsel has laid out a number of charges against him, and some of his lawyers may be entangled in conflicts. There have also been some reports about Supreme Court Justice Clarence Thomas&#39;s luxury motor coach funded by someone else. 
+It looks like there&#39;s a lot of news about political drama in the US right now. The Supreme Court Justice Clarence Thomas has an expensive RV that was funded by someone else&#39;s money, and President Trump&#39;s legal team is facing possible conflicts of interest. Special counsel Robert Mueller took steps to reduce risks while charging Trump for election interference by adding different charges. Prosecutors have asked for a protective order against Trump due to a threatening post he made, and this is making it difficult for Republicans to ignore his legal and political issues. 
 
-In terms of international news, there has been some conflict between Russian and Ukraine lately, both at sea and politically. Ukrainian pilgrims were disappointed when Pope Francis declined to condemn Russia during World Youth Day. It&#39;s also been revealed that Chinese propaganda has reached the US through American nonprofits worldwide. 
-
-Finally, there have been some interesting stories about music and space lately too. Taylor Swift has taken the summer by storm with her record-breaking Eras tour, while Huntsville, Alabama was set to welcome Space Command headquarters until politics interfered.</p>
+On the international front, Russian president Vladimir Putin is trying to work the crowds after a rebellion and Ukraine is intensifying battles at sea with Russia. In Huntsville, AL Space Command headquarters shut down as a result of politics and a global web of Chinese propaganda leads to an American tech mogul. A hate crime charge was recently laid against a teenager who fatally stabbed a gay man in Brooklyn, NY. Finally, Taylor Swift&#39;s world tour has been breaking records and is receiving massive attention this summer.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Jack Smith Structured the Trump Election Indictment to Reduce Risks</h3>
-<sub>By Charlie Savage</sub>
-<p>The special counsel layered varied charges atop the same facts, while sidestepping a free-speech question by not charging incitement.  <a href="https://nyti.ms/3Kt4V9N"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 4, Central Standard Time</sub></sub>
+<h3>Clarence Thomas’s $267,230 R.V. and the Friend Who Financed It</h3>
+<sub>By Jo Becker and Julie Tate</sub>
+<p>The vehicle is a key part of the justice’s just-folks persona. It’s also a luxury motor coach that was funded by someone else’s money.  <a href="https://nyti.ms/47lDJn9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump’s Legal Team Is Enmeshed in a Tangle of Possible Conflicts</h3>
 <sub>By Alan Feuer, Ben Protess and Maggie Haberman</sub>
 <p>Former President Donald J. Trump’s growing cast of lawyers is marked by a web of overlapping interests encompassing witnesses, co-defendants and potential targets.  <a href="https://nyti.ms/3Yjqakd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How Jack Smith Structured the Trump Election Indictment to Reduce Risks</h3>
+<sub>By Charlie Savage</sub>
+<p>The special counsel layered varied charges atop the same facts, while sidestepping a free-speech question by not charging incitement.  <a href="https://nyti.ms/3Kt4V9N"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Jan. 6 Prosecutors Ask for Protective Order, Citing Threatening Trump Post</h3>
@@ -88,12 +92,6 @@ Finally, there have been some interesting stories about music and space lately t
 <h3>On the Campaign Trail, an Impossible Task: Ignoring Trump’s Latest Charges</h3>
 <sub>By Lisa Lerer and Nicholas Nehamas</sub>
 <p>Voters pressed them to weigh in. Reporters asked about pardons. Mike Pence was heckled. Republicans found it’s not easy to escape the fallout from Donald J. Trump’s legal peril.  <a href="https://nyti.ms/3qoCMK3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Clarence Thomas’s $267,230 R.V. and the Friend Who Financed It</h3>
-<sub>By Jo Becker and Julie Tate</sub>
-<p>The vehicle is a key part of the justice’s just-folks persona. It’s also a luxury motor coach that was funded by someone else’s money.  <a href="https://nyti.ms/47lDJn9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -108,16 +106,10 @@ Finally, there have been some interesting stories about music and space lately t
 <p>In addition to the strike on an oil tanker, Ukraine issued a warning that commercial ships using any of six Russian Black Sea ports would be considered military targets.  <a href="https://nyti.ms/3Qmmaxi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukrainians Dismayed as Pope Declines to Condemn Russia at World Youth Day</h3>
-<sub>By Jason Horowitz</sub>
-<p>“It’s not enough just to listen — he has to do something,” said Dmytro Bohak, one of about 500 young Ukrainian pilgrims who attended the event and staged a demonstration.  <a href="https://nyti.ms/3DHuHTW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Global Web of Chinese Propaganda Leads to a U.S. Tech Mogul</h3>
-<sub>By Mara Hvistendahl, David A. Fahrenthold, Lynsey Chutel and Ishaan Jhaveri</sub>
-<p>The Times unraveled a financial network that stretches from Chicago to Shanghai and uses American nonprofits to push Chinese talking points worldwide.  <a href="https://nyti.ms/3qjNEZO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Loss of Space Command Headquarters Brings an Alabama City Down to Earth</h3>
+<sub>By Emily Cochrane</sub>
+<p>Huntsville, a city with a proud history of aerospace innovation, was set to welcome Space Command, until a distant force beyond its control intervened: politics.  <a href="https://nyti.ms/3DOJoEA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
@@ -126,16 +118,22 @@ Finally, there have been some interesting stories about music and space lately t
 <p>It was an explosive claim — that a Virginia school district covered up a crime in order to protect transgender rights. But was it true?  <a href="https://nyti.ms/3qrL5Vs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Global Web of Chinese Propaganda Leads to a U.S. Tech Mogul</h3>
+<sub>By Mara Hvistendahl, David A. Fahrenthold, Lynsey Chutel and Ishaan Jhaveri</sub>
+<p>The Times unraveled a financial network that stretches from Chicago to Shanghai and uses American nonprofits to push Chinese talking points worldwide.  <a href="https://nyti.ms/3qjNEZO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Teenager Is Charged in Killing of Dancer at Brooklyn Gas Station</h3>
+<sub>By Hurubie Meko</sub>
+<p>He faces a charge of second-degree murder, which has been charged as a hate crime, in the fatal stabbing of Mr. Sibley, a gay man, last week.  <a href="https://nyti.ms/43SxkwJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>How Taylor Swift’s Eras Tour Conquered the World</h3>
 <sub>By Ben Sisario</sub>
 <p>The pop star’s record-breaking, career-spanning show has dominated the summer, commanding attention and whipping up demand at a level thought unachievable in a fragmented age.  <a href="https://nyti.ms/3qi1Dzc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Loss of Space Command Headquarters Brings an Alabama City Down to Earth</h3>
-<sub>By Emily Cochrane</sub>
-<p>Huntsville, a city with a proud history of aerospace innovation, was set to welcome Space Command, until a distant force beyond its control intervened: politics.  <a href="https://nyti.ms/3DOJoEA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
 <hr/>
 </ol>
