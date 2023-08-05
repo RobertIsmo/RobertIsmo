@@ -60,13 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, August 5, Central Standard Time</p>
 <p>
-In the US, there&#39;s been a lot of news related to the Trump election and the aftermath. There&#39;s a new indictment that will reduce risks for those involved. Florida&#39;s governor has spoken out against Trump&#39;s theories of the 2020 election being stolen and is trying to appeal to moderates. This in turn has presented a new obstacle in terms of spending as a potential government shutdown looms. There is also an Oklahoma man who plead guilty to threatening Republican politicians, demonstrating there is still political strife in the country. 
-
-On the health front, there is a new pill available that can help treat postpartum depression. Mental health issues are very serious and can be deadly if left untreated, so anyone experiencing this should get treatment. 
-
-On the international front, Ukraine is pushing forward with a diplomatic effort to weaken Russia by inviting 40 countries to talks this weekend in Saudi Arabia while also using naval drones against Russian ships as far away as hundreds of miles from their own territory. 
-
-Finally, in other news, mortgage rates have been climbing recently which has sparked competition between home buyers showing off their lower rates. If you&#39;re considering buying or renting a home, make sure you think through all the factors carefully and take our quiz if you need more guidance! Lastly, Mississippi recently overturned its lifetime ban on voting for felons, recognizing that everyone should have access to democracy and exercise their right to vote.</p>
+Things seem pretty chaotic in the US right now. The Trump administration faces indictments and court cases following the 2020 election, while far-right groups push to weaken the FBI with reduced funding. Florida has seen a number of high-profile legal cases, including a man who threatened to shoot several Republican politicians and a major donor putting pressure on DeSantis to appeal to moderates. Elsewhere in the world, Ukraine is pushing an international diplomatic effort to isolate Russia after a series of attacks on its vessels. Meanwhile, NASA has successfully reconnected with Voyager 2 and new treatments are emerging for postpartum depression. Finally, mortgage rates have been climbing, which is leading some Americans to brag about their own rate hikes.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>How Jack Smith Structured the Trump Election Indictment to Reduce Risks</h3>
@@ -116,6 +110,18 @@ Finally, in other news, mortgage rates have been climbing recently which has spa
 <p>The attack damaged the warship hundreds of miles from Ukrainian-held territory, as Kyiv increasingly tries to bring the war home to Russia.  <a href="https://nyti.ms/45eaWPx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 4, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukraine Attacks Russian Oil Tanker off Crimea</h3>
+<sub>By Victoria Kim and Marc Santora</sub>
+<p>The strike, near a bridge vital to Russia, is the second Ukrainian sea drone assault on one of the country’s ships in two days.  <a href="https://nyti.ms/3Qmmaxi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Global Web of Chinese Propaganda Leads to a U.S. Tech Mogul</h3>
+<sub>By Mara Hvistendahl, David A. Fahrenthold, Lynsey Chutel and Ishaan Jhaveri</sub>
+<p>The Times unraveled a financial network that stretches from Chicago to Shanghai and uses American nonprofits to push Chinese talking points worldwide.  <a href="https://nyti.ms/3qjNEZO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
 <h3>NASA Reaches Voyager 2 With a Last-Ditch ‘Shout’ Across the Void</h3>
 <sub>By Katrina Miller</sub>
@@ -126,18 +132,6 @@ Finally, in other news, mortgage rates have been climbing recently which has spa
 <h3>Feeling Mortgage-Rate Envy? You’re Not Alone.</h3>
 <sub>By Ronda Kaysen</sub>
 <p>With interest rates climbing, a new form of one-upmanship is making the rounds: the mortgage-rate humble brag.  <a href="https://nyti.ms/44OLMHs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-realestate-blue" alt="">
-<h3>Are You Ready to Buy a Home? Should You Rent? Take Our Quiz.</h3>
-<sub>By Debra Kamin</sub>
-<p>Finances matter, of course, but so do your future plans, lifestyle, location and other factors. Answer a few questions to learn what may be best for you.  <a href="https://nyti.ms/3Yo5M1q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Appeals Court Overturns Mississippi’s Lifetime Ban on Voting for Former Felons</h3>
-<sub>By Michael Wines</sub>
-<p>A federal appeals court said that barring people convicted of certain felonies from voting pointlessly denied them access to “the democratic core of American citizenship.”  <a href="https://nyti.ms/47gVlR9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
