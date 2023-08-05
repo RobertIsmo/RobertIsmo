@@ -60,7 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, August 5, Central Standard Time</p>
 <p>
-Right now, there is a lot going on in the world related to political and legal issues. In the United States, former President Donald Trump is facing an indictment for his role in the election, and his lawyers are enmeshed in a conflict of interests surrounding witnesses. Prosecutors of the Capitol Riot are asking for protection due to threatening posts from Trump. On the campaign trail, it&#39;s hard to avoid the fallout from Trump&#39;s legal issues. Meanwhile, Supreme Court Justice Clarence Thomas has received funding for an expensive RV from a friend. Overseas, Ukraine is trying to use diplomatic measures to weaken Russia and hold them accountable for war crimes. Russian leadership has been criticized for its authoritarian response to protests, while Pope Francis declined to criticize Russia at a World Youth Day event. Finally, investigations have been ongoing into how Chinese propaganda has infiltrated U.S. tech companies. Lastly, Taylor Swift&#39;s popular &quot;Eras&quot; tour has been dominating the summer and delighting fans around the world.</p>
+There&#39;s a lot going on in the US and around the world right now. In the US, there&#39;s been a lot of news about the former President Donald Trump and his legal team. The special counsel has laid out a number of charges against him, and some of his lawyers may be entangled in conflicts. There have also been some reports about Supreme Court Justice Clarence Thomas&#39;s luxury motor coach funded by someone else. 
+
+In terms of international news, there has been some conflict between Russian and Ukraine lately, both at sea and politically. Ukrainian pilgrims were disappointed when Pope Francis declined to condemn Russia during World Youth Day. It&#39;s also been revealed that Chinese propaganda has reached the US through American nonprofits worldwide. 
+
+Finally, there have been some interesting stories about music and space lately too. Taylor Swift has taken the summer by storm with her record-breaking Eras tour, while Huntsville, Alabama was set to welcome Space Command headquarters until politics interfered.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>How Jack Smith Structured the Trump Election Indictment to Reduce Risks</h3>
@@ -93,25 +97,19 @@ Right now, there is a lot going on in the world related to political and legal i
 <sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Starts New Diplomatic Push to Weaken Russia</h3>
-<sub>By Marc Santora, Vivian Nereim and David Pierson</sub>
-<p>Some 40 countries that have largely remained on the sidelines of the war were invited to talks on Saturday in Saudi Arabia, as Ukraine redoubles international efforts to isolate Moscow.  <a href="https://nyti.ms/3OTjKVX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Man of the People? Jolted by a Mutiny, Putin Works the Crowds.</h3>
 <sub>By Paul Sonne</sub>
 <p>His contained interactions with crowds this summer are a noticeable change for the Russian leader, who disdains retail politics and operated in extreme seclusion during the pandemic.  <a href="https://nyti.ms/44Qqqtg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia Says Ukraine Struck Oil Tanker off Crimea</h3>
-<sub>By Victoria Kim and Marc Santora</sub>
-<p>The strike, near a bridge vital to Russia, is the second sea drone assault on one of the country’s ships in two days.  <a href="https://nyti.ms/3Qmmaxi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Battle at Sea Intensifies as Ukraine Drone Hits 2nd Russian Ship in 2 Days</h3>
+<sub>By Marc Santora and Christiaan Triebert</sub>
+<p>In addition to the strike on an oil tanker, Ukraine issued a warning that commercial ships using any of six Russian Black Sea ports would be considered military targets.  <a href="https://nyti.ms/3Qmmaxi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukrainians Dismayed as Pope Declines to Chide Russia at World Youth Day</h3>
+<h3>Ukrainians Dismayed as Pope Declines to Condemn Russia at World Youth Day</h3>
 <sub>By Jason Horowitz</sub>
 <p>“It’s not enough just to listen — he has to do something,” said Dmytro Bohak, one of about 500 young Ukrainian pilgrims who attended the event and staged a demonstration.  <a href="https://nyti.ms/3DHuHTW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
@@ -132,6 +130,12 @@ Right now, there is a lot going on in the world related to political and legal i
 <h3>How Taylor Swift’s Eras Tour Conquered the World</h3>
 <sub>By Ben Sisario</sub>
 <p>The pop star’s record-breaking, career-spanning show has dominated the summer, commanding attention and whipping up demand at a level thought unachievable in a fragmented age.  <a href="https://nyti.ms/3qi1Dzc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Loss of Space Command Headquarters Brings an Alabama City Down to Earth</h3>
+<sub>By Emily Cochrane</sub>
+<p>Huntsville, a city with a proud history of aerospace innovation, was set to welcome Space Command, until a distant force beyond its control intervened: politics.  <a href="https://nyti.ms/3DOJoEA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
 <hr/>
 </ol>
