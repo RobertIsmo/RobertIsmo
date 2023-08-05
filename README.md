@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, August 5, Central Standard Time</p>
 <p>
-It seems like there&#39;s no shortage of news these days. In the United States, there&#39;s the ongoing uncertainty over the Trump election indictment, and his legal team being enmeshed in a tangle of possible conflicts. Meanwhile on a global scale, Ukraine is making diplomatic efforts to weaken Russia and Russia is accusing Ukraine of attacking one of its oil tankers near a bridge. There&#39;s also a web of Chinese propaganda being uncovered that involves an American tech mogul. Arts and sports are still going strong as Taylor Swift tours the world with her record-breaking show and the Women&#39;s World Cup has been serving up some amazing soccer goals. Lastly, Big Tech companies have found financial footing again and are investing in Artificial Intelligence technology like never before!</p>
+Right now, there is a lot going on in the world related to political and legal issues. In the United States, former President Donald Trump is facing an indictment for his role in the election, and his lawyers are enmeshed in a conflict of interests surrounding witnesses. Prosecutors of the Capitol Riot are asking for protection due to threatening posts from Trump. On the campaign trail, it&#39;s hard to avoid the fallout from Trump&#39;s legal issues. Meanwhile, Supreme Court Justice Clarence Thomas has received funding for an expensive RV from a friend. Overseas, Ukraine is trying to use diplomatic measures to weaken Russia and hold them accountable for war crimes. Russian leadership has been criticized for its authoritarian response to protests, while Pope Francis declined to criticize Russia at a World Youth Day event. Finally, investigations have been ongoing into how Chinese propaganda has infiltrated U.S. tech companies. Lastly, Taylor Swift&#39;s popular &quot;Eras&quot; tour has been dominating the summer and delighting fans around the world.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>How Jack Smith Structured the Trump Election Indictment to Reduce Risks</h3>
@@ -75,15 +75,27 @@ It seems like there&#39;s no shortage of news these days. In the United States, 
 <sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Jan. 6 Prosecutors Ask for Protective Order, Citing Threatening Trump Post</h3>
+<sub>By Alan Feuer and Maggie Haberman</sub>
+<p>In seeking a judge’s order, the government was drawing attention to the former president’s longstanding habit of attacking those involved in criminal cases against him.  <a href="https://nyti.ms/44WVW8T"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>On the Campaign Trail, an Impossible Task: Ignoring Trump’s Latest Charges</h3>
 <sub>By Lisa Lerer and Nicholas Nehamas</sub>
 <p>Voters pressed them to weigh in. Reporters asked about pardons. Mike Pence was heckled. Republicans found it’s not easy to escape the fallout from Donald J. Trump’s legal peril.  <a href="https://nyti.ms/3qoCMK3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Clarence Thomas’s $267,230 R.V. and the Friend Who Financed It</h3>
+<sub>By Jo Becker and Julie Tate</sub>
+<p>The vehicle is a key part of the justice’s just-folks persona. It’s also a luxury motor coach that was funded by someone else’s money.  <a href="https://nyti.ms/47lDJn9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ukraine Starts New Diplomatic Push to Weaken Russia</h3>
 <sub>By Marc Santora, Vivian Nereim and David Pierson</sub>
-<p>Some 40 countries that have largely remained on the sidelines of the war were invited to talks this weekend in Saudi Arabia, as Ukraine redoubles international efforts to isolate Moscow.  <a href="https://nyti.ms/3OTjKVX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Some 40 countries that have largely remained on the sidelines of the war were invited to talks on Saturday in Saudi Arabia, as Ukraine redoubles international efforts to isolate Moscow.  <a href="https://nyti.ms/3OTjKVX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -96,6 +108,12 @@ It seems like there&#39;s no shortage of news these days. In the United States, 
 <h3>Russia Says Ukraine Struck Oil Tanker off Crimea</h3>
 <sub>By Victoria Kim and Marc Santora</sub>
 <p>The strike, near a bridge vital to Russia, is the second sea drone assault on one of the country’s ships in two days.  <a href="https://nyti.ms/3Qmmaxi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukrainians Dismayed as Pope Declines to Chide Russia at World Youth Day</h3>
+<sub>By Jason Horowitz</sub>
+<p>“It’s not enough just to listen — he has to do something,” said Dmytro Bohak, one of about 500 young Ukrainian pilgrims who attended the event and staged a demonstration.  <a href="https://nyti.ms/3DHuHTW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -115,24 +133,6 @@ It seems like there&#39;s no shortage of news these days. In the United States, 
 <sub>By Ben Sisario</sub>
 <p>The pop star’s record-breaking, career-spanning show has dominated the summer, commanding attention and whipping up demand at a level thought unachievable in a fragmented age.  <a href="https://nyti.ms/3qi1Dzc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>An Israeli City Where Compromise and Division Swim Side by Side</h3>
-<sub>By Patrick Kingsley and Gabby Sobelman</sub>
-<p>At a time when Israeli Jews can seem irreconcilably divided, an unusual swimming center in the city of Rehovot illustrates the compromises that many Israelis make daily.  <a href="https://nyti.ms/44Ud53j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Big Tech Rebounds and Preps for Transformative A.I. Investments</h3>
-<sub>By Tripp Mickle</sub>
-<p>As the tech giants found their financial footing last quarter, they doubled down on artificial intelligence, which has been a boon to companies like Nvidia.  <a href="https://nyti.ms/3DFrrIR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Spot the Ball: Women’s World Cup</h3>
-<sub>By Michael Beswetherick, Alastair Coote, Rumsey Taylor and Elijah Walker</sub>
-<p>The Women’s World Cup has delivered stunning goals and shocking upsets. In these photos of the action, we’ve removed the ball. See if you can guess where it was.  <a href="https://nyti.ms/3Yp9bNu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
