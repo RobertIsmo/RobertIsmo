@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, August 5, Central Standard Time</p>
 <p>
-Things seem pretty chaotic in the US right now. The Trump administration faces indictments and court cases following the 2020 election, while far-right groups push to weaken the FBI with reduced funding. Florida has seen a number of high-profile legal cases, including a man who threatened to shoot several Republican politicians and a major donor putting pressure on DeSantis to appeal to moderates. Elsewhere in the world, Ukraine is pushing an international diplomatic effort to isolate Russia after a series of attacks on its vessels. Meanwhile, NASA has successfully reconnected with Voyager 2 and new treatments are emerging for postpartum depression. Finally, mortgage rates have been climbing, which is leading some Americans to brag about their own rate hikes.</p>
+It seems like there&#39;s no shortage of news these days. In the United States, there&#39;s the ongoing uncertainty over the Trump election indictment, and his legal team being enmeshed in a tangle of possible conflicts. Meanwhile on a global scale, Ukraine is making diplomatic efforts to weaken Russia and Russia is accusing Ukraine of attacking one of its oil tankers near a bridge. There&#39;s also a web of Chinese propaganda being uncovered that involves an American tech mogul. Arts and sports are still going strong as Taylor Swift tours the world with her record-breaking show and the Women&#39;s World Cup has been serving up some amazing soccer goals. Lastly, Big Tech companies have found financial footing again and are investing in Artificial Intelligence technology like never before!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>How Jack Smith Structured the Trump Election Indictment to Reduce Risks</h3>
@@ -69,34 +69,16 @@ Things seem pretty chaotic in the US right now. The Trump administration faces i
 <sub><sub>Friday, August 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis Dismisses Trump’s 2020 Election Theories as False</h3>
-<sub>By Nicholas Nehamas and Lisa Lerer</sub>
-<p>The Florida governor went further than he has before in acknowledging that the election was not stolen as a major donor pressured him to appeal to moderates.  <a href="https://nyti.ms/3Oq7WZs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 4, Central Standard Time</sub></sub>
+<h3>Trump’s Legal Team Is Enmeshed in a Tangle of Possible Conflicts</h3>
+<sub>By Alan Feuer, Ben Protess and Maggie Haberman</sub>
+<p>Former President Donald J. Trump’s growing cast of lawyers is marked by a web of overlapping interests encompassing witnesses, co-defendants and potential targets.  <a href="https://nyti.ms/3Yjqakd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Indictment Presents New Obstacle in Spending Fight as Shutdown Looms</h3>
-<sub>By Carl Hulse</sub>
-<p>The far right is pushing to cut funding for the F.B.I. and the Justice Department, another complication for Speaker Kevin McCarthy as he seeks to avoid a government shutdown.  <a href="https://nyti.ms/3s4z7S7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Oklahoma Man Pleads Guilty to Threatening DeSantis, Cruz and Other Republicans</h3>
-<sub>By Orlando Mayorquin</sub>
-<p>Tyler Jay Marshall, 37, threatened on social media to shoot a number of Republican politicians. He faces up to five years in prison.  <a href="https://nyti.ms/3rXxNAF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>For the First Time, There’s a Pill for Postpartum Depression</h3>
-<sub>By Pam Belluck</sub>
-<p>Because the pill works faster than other antidepressants and is taken for only two weeks, it may encourage more treatment of the debilitating condition.  <a href="https://nyti.ms/3OkWv5n"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>How to Get Treatment for Postpartum Depression</h3>
-<sub>By Dana G. Smith</sub>
-<p>Mental health issues are the leading cause of maternal mortality. Group therapy, S.S.R.I.s and a new medication can help.  <a href="https://nyti.ms/42tiz3P"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 12, Central Standard Time</sub></sub>
+<h3>On the Campaign Trail, an Impossible Task: Ignoring Trump’s Latest Charges</h3>
+<sub>By Lisa Lerer and Nicholas Nehamas</sub>
+<p>Voters pressed them to weigh in. Reporters asked about pardons. Mike Pence was heckled. Republicans found it’s not easy to escape the fallout from Donald J. Trump’s legal peril.  <a href="https://nyti.ms/3qoCMK3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ukraine Starts New Diplomatic Push to Weaken Russia</h3>
@@ -105,15 +87,15 @@ Things seem pretty chaotic in the US right now. The Trump administration faces i
 <sub><sub>Friday, August 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Hits a Distant Russian Ship, Showing Reach of Naval Drones</h3>
-<sub>By Marc Santora and Christiaan Triebert</sub>
-<p>The attack damaged the warship hundreds of miles from Ukrainian-held territory, as Kyiv increasingly tries to bring the war home to Russia.  <a href="https://nyti.ms/45eaWPx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 4, Central Standard Time</sub></sub>
+<h3>Man of the People? Jolted by a Mutiny, Putin Works the Crowds.</h3>
+<sub>By Paul Sonne</sub>
+<p>His contained interactions with crowds this summer are a noticeable change for the Russian leader, who disdains retail politics and operated in extreme seclusion during the pandemic.  <a href="https://nyti.ms/44Qqqtg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Attacks Russian Oil Tanker off Crimea</h3>
+<h3>Russia Says Ukraine Struck Oil Tanker off Crimea</h3>
 <sub>By Victoria Kim and Marc Santora</sub>
-<p>The strike, near a bridge vital to Russia, is the second Ukrainian sea drone assault on one of the country’s ships in two days.  <a href="https://nyti.ms/3Qmmaxi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The strike, near a bridge vital to Russia, is the second sea drone assault on one of the country’s ships in two days.  <a href="https://nyti.ms/3Qmmaxi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -122,16 +104,34 @@ Things seem pretty chaotic in the US right now. The Trump administration faces i
 <p>The Times unraveled a financial network that stretches from Chicago to Shanghai and uses American nonprofits to push Chinese talking points worldwide.  <a href="https://nyti.ms/3qjNEZO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>NASA Reaches Voyager 2 With a Last-Ditch ‘Shout’ Across the Void</h3>
-<sub>By Katrina Miller</sub>
-<p>After an erroneous command sent the spacecraft’s antenna askew, mission specialists hatched a plan to point it back toward Earth.  <a href="https://nyti.ms/3Oq9jHS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 4, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>How a Sexual Assault in a School Bathroom Became a Political Weapon</h3>
+<sub>By Charles Homans</sub>
+<p>It was an explosive claim — that a Virginia school district covered up a crime in order to protect transgender rights. But was it true?  <a href="https://nyti.ms/3qrL5Vs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-realestate-blue" alt="">
-<h3>Feeling Mortgage-Rate Envy? You’re Not Alone.</h3>
-<sub>By Ronda Kaysen</sub>
-<p>With interest rates climbing, a new form of one-upmanship is making the rounds: the mortgage-rate humble brag.  <a href="https://nyti.ms/44OLMHs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>How Taylor Swift’s Eras Tour Conquered the World</h3>
+<sub>By Ben Sisario</sub>
+<p>The pop star’s record-breaking, career-spanning show has dominated the summer, commanding attention and whipping up demand at a level thought unachievable in a fragmented age.  <a href="https://nyti.ms/3qi1Dzc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>An Israeli City Where Compromise and Division Swim Side by Side</h3>
+<sub>By Patrick Kingsley and Gabby Sobelman</sub>
+<p>At a time when Israeli Jews can seem irreconcilably divided, an unusual swimming center in the city of Rehovot illustrates the compromises that many Israelis make daily.  <a href="https://nyti.ms/44Ud53j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Big Tech Rebounds and Preps for Transformative A.I. Investments</h3>
+<sub>By Tripp Mickle</sub>
+<p>As the tech giants found their financial footing last quarter, they doubled down on artificial intelligence, which has been a boon to companies like Nvidia.  <a href="https://nyti.ms/3DFrrIR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Spot the Ball: Women’s World Cup</h3>
+<sub>By Michael Beswetherick, Alastair Coote, Rumsey Taylor and Elijah Walker</sub>
+<p>The Women’s World Cup has delivered stunning goals and shocking upsets. In these photos of the action, we’ve removed the ball. See if you can guess where it was.  <a href="https://nyti.ms/3Yp9bNu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
