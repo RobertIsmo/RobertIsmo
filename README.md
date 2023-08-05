@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, August 4, Central Standard Time</p>
 <p>
-Right now, there are a lot of politics and healthcare related issues in the news. For example, the Trump election indictment is presenting new obstacles in Washington and Florida Governor DeSantis has dismissed Trump&#39;s theories about the stolen election as false. At the same time, medication for postpartum depression has been released, while mental health is being discussed in terms of how to get treatment for postpartum depression, which is proven to be a major cause of maternal mortality. Further, countries around the world are also making headlines, like Ukraine hitting a distant Russian ship and science-wise, NASA reaching Voyager 2 with a last-ditch ‘shout’ across the void. Closer to home, prosecutors have identified human remains found near Gilgo Beach and for people looking for homes, mortgage rates are climbing and real estate articles are popping up with advice on buying a home or renting one.</p>
+There has been a lot of news in the world lately. First, there is now a pill for postpartum depression that can be taken for two weeks, so more women are able to get the treatment they need. Additionally, there was an indictment of Donald Trump during his election that caused some ramifications when it comes to the current funding fight and looming government shutdown. Moving on to Oklahoma, an Oklahoma man pleaded guilty to a threat against multiple Republicans. More international news has been coming out of Ukraine as they just hit a distant Russian ship with drones and more recently, NASA successfully communicated with Voyager 2 after sending an erroneous command to its antenna. Closer to home, mortgage rates have been increasing so people have been bragging about them, while also picking up on some personal finance advice due to being uncertain between renting or buying. Lastly, Mississippi just overturned their lifetime ban on voting for former felons so they can enjoy the democratic core of American citizenship again. Even though there has been a lot of positive news lately on the economy and other areas, President Biden hasn&#39;t gotten much credit for it yet.</p>
 <ol>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>For the First Time, There’s a Pill for Postpartum Depression</h3>
@@ -89,7 +89,7 @@ Right now, there are a lot of politics and healthcare related issues in the news
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Indictment Presents New Obstacle in Spending Fight as Shutdown Looms</h3>
 <sub>By Carl Hulse</sub>
-<p>The far right is taking aim at the F.B.I. and the Justice Department in a push to cut funding for the agencies, another complication for Speaker Kevin McCarthy as he seeks to avoid a government shutdown.  <a href="https://nyti.ms/3s4z7S7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The far right is pushing to cut funding for the F.B.I. and the Justice Department, another complication for Speaker Kevin McCarthy as he seeks to avoid a government shutdown.  <a href="https://nyti.ms/3s4z7S7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -98,22 +98,10 @@ Right now, there are a lot of politics and healthcare related issues in the news
 <p>Tyler Jay Marshall, 37, threatened on social media to shoot a number of Republican politicians. He faces up to five years in prison.  <a href="https://nyti.ms/3rXxNAF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>A Republican 2024 Climate Strategy: More Drilling, Less Clean Energy</h3>
-<sub>By Lisa Friedman</sub>
-<p>Project 2025, a conservative “battle plan” for the next Republican president, would stop attempts to cut the pollution that is heating the planet and encourage more emissions.  <a href="https://nyti.ms/3qhHhpW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 4, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ukraine Hits a Distant Russian Ship, Showing Reach of Naval Drones</h3>
 <sub>By Marc Santora and Christiaan Triebert</sub>
 <p>The attack damaged the warship hundreds of miles from Ukrainian-held territory, as Kyiv increasingly tries to bring the war home to Russia.  <a href="https://nyti.ms/45eaWPx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Prosecutors Identify Human Remains Found in 2011 Near Gilgo Beach</h3>
-<sub>By Maria Cramer and Nate Schweber</sub>
-<p>The skull belonged to Karen Vergata, who had disappeared in 1996. Other parts of her body had been found on Fire Island years before.  <a href="https://nyti.ms/3DEoZCp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
@@ -132,6 +120,18 @@ Right now, there are a lot of politics and healthcare related issues in the news
 <h3>Are You Ready to Buy a Home? Should You Rent? Take Our Quiz.</h3>
 <sub>By Debra Kamin</sub>
 <p>Finances matter, of course, but so do your future plans, lifestyle, location and other factors. Answer a few questions to learn what may be best for you.  <a href="https://nyti.ms/3Yo5M1q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Appeals Court Overturns Mississippi’s Lifetime Ban on Voting for Former Felons</h3>
+<sub>By Michael Wines</sub>
+<p>A federal appeals court said that barring people convicted of certain felonies from voting pointlessly denied them access to “the democratic core of American citizenship.”  <a href="https://nyti.ms/47gVlR9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Rising Tide Lifts Many Boats, but So Far Not Biden’s</h3>
+<sub>By Peter Baker</sub>
+<p>The president is experiencing a flurry of good news on the economy, crime, immigration and other areas, but voters so far have not given the president much credit.  <a href="https://nyti.ms/45h5N9E"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
