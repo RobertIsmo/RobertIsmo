@@ -60,11 +60,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, August 6, Central Standard Time</p>
 <p>
-The world is in a turbulent state. In Russia, Vladimir Putin is leading people into an ongoing civilizational conflict with the West that&#39;s more intense than Ukraine. Meanwhile, in Ukraine itself, war is grinding on and intensifying with both sides striking and firing at each other. 
-
-In the US, Republicans and Iowa voters are focussing less on &#39;wokeness&#39; and more on law and order. The Kennedy family is facing some discord as Robert F. Kennedy Jr. runs for presidency against their wishes, and technology issues are rising with Porcha Woodruff being wrongfully accused of carjacking through facial recognition technology.
-
-Sports fans have heard about Megan Rapinoe recently, who had to deal with an unfortunate ending to her World Cup career. Serial killers are becoming rarer because of improved technology and a more cautious society but other forms of mayhem are increasing. In Maine, a woman has bought an entire remote island for an intriguing reason and ESPN is creating problems for Disney in other areas.</p>
+It seems like a lot has been going on around the world lately. In Russia, Vladimir Putin is mobilizing his people for a civilizational conflict with the West. Meanwhile, Ukraine is taking matters into their own hands against Russian-occupied Crimea. 
+In the US, Kamala Harris is playing an important role as Biden&#39;s Vice President in the 2024 campaign, and Florida Governor Ron DeSantis has been making a lot of trips to Iowa for some retail politics. Robert F. Kennedy Jr.&#39;s potential presidential bid has caused some tension within his family. Polls have been indicating that some Republican voters may be exhausted from their ongoing &quot;war on wokeness&quot;. 
+These are just the headlines! There was this really interesting case of Porcha Woodruff who was eight months pregnant when she was wrongfully arrested for carjacking because of a false facial recognition match. Also, Megan Rapinoe had some disappointment with her World Cup career ending with a missed penalty kick. Serial murderers have been surprisingly dwindling due to increased measures of caution and technological advances, as Gabbi Tuft recently transitioned and began a new life as a TikTok star. Finally, prosecutors are trying some novel strategies to catch up with all the pandemic fraud going on.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Putin’s Forever War</h3>
@@ -73,21 +71,33 @@ Sports fans have heard about Megan Rapinoe recently, who had to deal with an unf
 <sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As War in Ukraine Grinds On, Fighting Intensifies Beyond Established Battlefields</h3>
-<sub>By Matthew Mpoke Bigg and Vivek Shankar</sub>
-<p>Ukraine has grown bolder, striking Russian ships and firing drones at Moscow, while Russia has turned to regular attacks on the Black Sea, a crucial economic hub.  <a href="https://nyti.ms/3OiVCdE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Ukraine Strikes 2 Bridges Connected to Russian-Occupied Crimea</h3>
+<sub>By Matthew Mpoke Bigg, Vivek Shankar and Anushka Patil</sub>
+<p>Ukraine has grown bolder, attacking Russian ships and firing drones at Moscow, while Russian forces have turned to regular attacks on the Black Sea, a crucial economic lifeline.  <a href="https://nyti.ms/3OiVCdE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Are G.O.P. Voters Tiring of the War on ‘Wokeness’?</h3>
-<sub>By Jonathan Weisman</sub>
-<p>New polling shows national Republicans and Iowa Republican caucusgoers were more interested in “law and order” than battling “woke” schools, media and corporations.  <a href="https://nyti.ms/3qoewb5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Kamala Harris Takes on a Forceful New Role in the 2024 Campaign</h3>
+<sub>By Zolan Kanno-Youngs</sub>
+<p>The vice president is trying to reclaim the momentum that propelled her to Joseph R. Biden Jr.’s side as a candidate and into the White House in 2020.  <a href="https://nyti.ms/3KwIv7E"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Barbecues, Fairs and Weddings: Ron DeSantis Amps Up Retail Politics in Iowa</h3>
+<sub>By Nicholas Nehamas</sub>
+<p>The Florida governor, who has struggled at times to connect with voters, is looking for every opportunity to show he is all-in with Iowa Republicans.  <a href="https://nyti.ms/47g2HEF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Anguish in Camelot: Kennedy Campaign Roils Storied Political Family</h3>
 <sub>By Peter Baker</sub>
 <p>The presidential bid by Robert F. Kennedy Jr. has tested the bonds of an iconic Democratic clan that does not want him to run and does not know what to do about it.  <a href="https://nyti.ms/3OnbfRd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Are G.O.P. Voters Tiring of the War on ‘Wokeness’?</h3>
+<sub>By Jonathan Weisman</sub>
+<p>New polling shows national Republicans and Iowa Republican caucusgoers were more interested in “law and order” than battling “woke” schools, media and corporations.  <a href="https://nyti.ms/3qoewb5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -100,6 +110,12 @@ Sports fans have heard about Megan Rapinoe recently, who had to deal with an unf
 <h3>For Megan Rapinoe, an Ending Not Even She Could Have Imagined</h3>
 <sub>By Jeré Longman</sub>
 <p>A missed penalty kick was a cruel way to draw down the curtain on a star’s World Cup career. But her influence and legacy were never about soccer alone.  <a href="https://nyti.ms/3OnSY6u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>How the U.S. Was Eliminated, Shot by Shot</h3>
+<sub>By Juliet Macur</sub>
+<p>The shootout was rapid-fire, but still agonizing for both Sweden, which moved to the World Cup quarterfinals, and the United States, which was eliminated.  <a href="https://nyti.ms/44YhVwb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -119,24 +135,6 @@ Sports fans have heard about Megan Rapinoe recently, who had to deal with an unf
 <sub>By Madeleine Ngo</sub>
 <p>Strained by limited resources, prosecutors are deploying special teams and nurturing local relationships to catch up to a wave of fraud.  <a href="https://nyti.ms/44XY1BJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Fight Over the Dune Shacks of Cape Cod: No Power, No Water — but Eugene O’Neill Was Here</h3>
-<sub>By Jenna Russell</sub>
-<p>The shacks have been cared for by locals, activists and artists. Now the National Park Service plans to lease them to bidders.  <a href="https://nyti.ms/43VSutZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Heat Waves Are Killing Older Women. Are They Also Violating Their Rights?</h3>
-<sub>By Isabella Kwai</sub>
-<p>A group of Swiss women over 64 have filed a lawsuit against Switzerland with Europe’s top human rights court, saying the country has violated their rights by failing to curb emissions.  <a href="https://nyti.ms/3DLabSr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The Weekender</h3>
-<sub>By Jaclyn Reiss</sub>
-<p>A tale of two men who were switched at birth. Plus: Why a woman bought a remote island in Maine, and how ESPN is causing Disney problems.  <a href="https://nyti.ms/3Oq9aUG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
