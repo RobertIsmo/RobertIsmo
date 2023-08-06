@@ -58,10 +58,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Saturday, August 5, Central Standard Time</p>
+<p>It is Sunday, August 6, Central Standard Time</p>
 <p>
-There&#39;s a lot happening right now in the US and across the world. Former President Donald Trump&#39;s legal team is facing potential conflicts of interest, and prosecutors are asking for a protective order because of his threatening posts. Meanwhile, Clarence Thomas has a luxury RV he received from someone else&#39;s money, and it&#39;s become part of his persona. There&#39;s also tension surrounding the Virginia school district that allegedly covered up a crime to protect transgender rights. In terms of travel, there are A.I.-generated guidebooks popping up on Amazon that are misleading customers. 
-On an international note, Marie-Josée Ta Lou of the Ivory Coast is trying to win her first gold medal at the 2021 World Championship this month in Budapest. Closer to home, New York City officials have cracked down on a Queens hub for Latin American street vendors who are looking for legitimization. Lastly, Huntsville experienced disappointment when it was denied its chance to host Space Command headquarters due to political reasons.</p>
+It looks like there&#39;s a lot going on in the world right now. First, current US Supreme Court Justice Clarence Thomas&#39;s luxurious $267,230 RV has been funded by someone else&#39;s money and former US President Donald Trump is facing legal issues due to his team being conflicted with regards to possible witnesses and targets in addition to him attacking those involved in criminal cases concerning him. Then, there was a hate crime where a teenager in Brooklyn was charged with killing a gay man and Charles J. Ogletree Jr., one of Harvard Law&#39;s prominent advocates for equal justice, passed away recently. 
+
+The music industry is buzzing too since Taylor Swift finished her world tour, while the travel industry is dealing with scammers using AI-generated guidebooks. On the sporting front, Holland beat South Africa 2-0 to qualify for the World Cup quarterfinals and Marie-Josée Ta Lou from Ivory Coast is aiming for redemption in the upcoming Olympic medals. Lastly, NYC has cracked down on Corona Plaza in Queens to legitimize the street vendors&#39; businesses there.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Clarence Thomas’s $267,230 R.V. and the Friend Who Financed It</h3>
@@ -93,12 +94,6 @@ On an international note, Marie-Josée Ta Lou of the Ivory Coast is trying to wi
 <p>Huntsville, a city with a proud history of aerospace innovation, was set to welcome Space Command, until a distant force beyond its control intervened: politics.  <a href="https://nyti.ms/3DOJoEA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>How a Sexual Assault in a School Bathroom Became a Political Weapon</h3>
-<sub>By Charles Homans</sub>
-<p>It was an explosive claim — that a Virginia school district covered up a crime in order to protect transgender rights. But was it true?  <a href="https://nyti.ms/3qrL5Vs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Teenager Is Charged in Killing of Dancer at Brooklyn Gas Station</h3>
 <sub>By Hurubie Meko</sub>
@@ -121,6 +116,12 @@ On an international note, Marie-Josée Ta Lou of the Ivory Coast is trying to wi
 <h3>A New Frontier for Travel Scammers: A.I.-Generated Guidebooks</h3>
 <sub>By Seth Kugel and Stephen Hiltner</sub>
 <p>Shoddy guidebooks are flooding Amazon. Their authors claim to be renowned travel writers, but are they A.I. inventions? And how big is the problem?  <a href="https://nyti.ms/3qoCN0z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Netherlands Holds Off South Africa, Squeezing Into World Cup Quarterfinals</h3>
+<sub>By Rory Smith</sub>
+<p>A goal in each half delivered victory, and a date with Spain. But a South Africa striker made the day as difficult as possible.  <a href="https://nyti.ms/3OG9mk1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
