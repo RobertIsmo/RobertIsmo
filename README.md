@@ -60,35 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, August 6, Central Standard Time</p>
 <p>
-There&#39;s a lot going on right now across the world. In the US, Trump&#39;s legal team is facing potential conflicts and his former post as president has left Republicans scrambling to stay out of the fallout from his legal case. The Supreme Court Justice Clarence Thomas has also come under scrutiny for having an expensive RV that was funded by someone other than himself. In New York, there is a fight about allowing Latin American street vendors to be able to sell their products and police trying to find answers in the death of a dancer at a Brooklyn gas station. 
-
-International news is heating up too. War continues to spread into new territories in Ukraine and Russia, while people are eager for answers in the killing of George Floyd in Minneapolis. The Olympic champion Marie-Josée Ta Lou has a chance at redemption in the world championships this month, and travel scammers are introducing A.I.-generated guidebooks to Amazon. 
-
-Pop star Taylor Swift also released her record-breaking tour and is currently dominating the summer music scene.</p>
+There is a lot happening around the world right now. Russian President Vladimir Putin is leading Russians into a conflict with the West, and there has been war in various parts of the world including the Black Sea. The Netherlands has just beat South Africa in the World Cup quarterfinals and Australia is increasing visibility and support for women in sports. In the United States, Republicans are reevaluating their &quot;war on wokeness,&quot; while Robert F. Kennedy Jr. is running for president creating tension within his political family. Also in America, Porsha Woodruff was arrested after a false facial recognition match, victims of the Pulse Nightclub shooting are pushing for answers, and Donald Trump&#39;s legal team is tangled up in possible conflicts of interest. Lastly, New York Senator Schumer has used his political influence to help secure funds for semiconductors to benefit New York.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Clarence Thomas’s $267,230 R.V. and the Friend Who Financed It</h3>
-<sub>By Jo Becker and Julie Tate</sub>
-<p>The vehicle is a key part of the justice’s just-folks persona. It’s also a luxury motor coach that was funded by someone else’s money.  <a href="https://nyti.ms/47lDJn9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump’s Legal Team Is Enmeshed in a Tangle of Possible Conflicts</h3>
-<sub>By Alan Feuer, Ben Protess and Maggie Haberman</sub>
-<p>Former President Donald J. Trump’s growing cast of lawyers is marked by a web of overlapping interests encompassing witnesses, co-defendants and potential targets.  <a href="https://nyti.ms/3Yjqakd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Jan. 6 Prosecutors Ask for Protective Order, Citing Threatening Trump Post</h3>
-<sub>By Alan Feuer and Maggie Haberman</sub>
-<p>In seeking a judge’s order, the government was drawing attention to the former president’s longstanding habit of attacking those involved in criminal cases against him.  <a href="https://nyti.ms/44WVW8T"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>On the Campaign Trail, an Impossible Task: Ignoring Trump’s Latest Charges</h3>
-<sub>By Lisa Lerer and Nicholas Nehamas</sub>
-<p>Voters pressed them to weigh in. Reporters asked about pardons. Mike Pence was heckled. Republicans found it’s not easy to escape the fallout from Donald J. Trump’s legal peril.  <a href="https://nyti.ms/3qoCMK3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Putin’s Forever War</h3>
+<sub>By Roger Cohen and Nanna Heitmann</sub>
+<p>Vladimir Putin wants to lead Russians into a civilizational conflict with the West far larger than Ukraine. Will they follow him?  <a href="https://nyti.ms/3KvPGNr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>As War Grinds On, It Expands Beyond Old Battlefields</h3>
@@ -96,47 +74,65 @@ Pop star Taylor Swift also released her record-breaking tour and is currently do
 <p>Russia has turned to regular attacks on the Black Sea, a vital economic hub, while Ukraine has grown bolder, with strikes hitting Moscow and Russian ships.  <a href="https://nyti.ms/3OiVCdE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Loss of Space Command Headquarters Brings an Alabama City Down to Earth</h3>
-<sub>By Emily Cochrane</sub>
-<p>Huntsville, a city with a proud history of aerospace innovation, was set to welcome Space Command, until a distant force beyond its control intervened: politics.  <a href="https://nyti.ms/3DOJoEA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Teenager Is Charged in Killing of Dancer at Brooklyn Gas Station</h3>
-<sub>By Hurubie Meko</sub>
-<p>He faces a charge of second-degree murder, which has been charged as a hate crime, in the fatal stabbing of Mr. Sibley, a gay man, last week.  <a href="https://nyti.ms/43SxkwJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>How Taylor Swift’s Eras Tour Conquered the World</h3>
-<sub>By Ben Sisario</sub>
-<p>The pop star’s record-breaking, career-spanning show has dominated the summer, commanding attention and whipping up demand at a level thought unachievable in a fragmented age.  <a href="https://nyti.ms/3qi1Dzc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-travel-blue" alt="">
-<h3>A New Frontier for Travel Scammers: A.I.-Generated Guidebooks</h3>
-<sub>By Seth Kugel and Stephen Hiltner</sub>
-<p>Shoddy guidebooks are flooding Amazon. Their authors claim to be renowned travel writers, but are they A.I. inventions? And how big is the problem?  <a href="https://nyti.ms/3qoCN0z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Netherlands Holds Off South Africa, Squeezing Into World Cup Quarterfinals</h3>
 <sub>By Rory Smith</sub>
 <p>A goal in each half delivered victory, and a date with Spain. But a South Africa striker made the day as difficult as possible.  <a href="https://nyti.ms/3OG9mk1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>They Make Some of New York’s Best Food. They Want the Right to Sell It.</h3>
-<sub>By Stefanos Chen and Raúl Vilchis</sub>
-<p>New York City officials cracked down on Corona Plaza, a celebrated Queens hub for Latin American street vendors. Its merchants are fighting to legitimize their businesses.  <a href="https://nyti.ms/3OvakhY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>World Cup Picks Up Baton for Women’s Sports in Australia</h3>
+<sub>By Natasha Frost</sub>
+<p>For as long as there have been sports in Australia, women have clamored to play and participate. But winning visibility, and support, has been a long road.  <a href="https://nyti.ms/3OmiSHG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>She’s One of the Fastest Women Ever. All She’s Missing Is a Gold Medal.</h3>
-<sub>By Kris Rhim</sub>
-<p>Marie-Josée Ta Lou of Ivory Coast has been milliseconds away from the top of Olympic and World Championship podium stands. She has a chance at redemption this month in Budapest.  <a href="https://nyti.ms/3OIXspB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Are G.O.P. Voters Tiring of the War on ‘Wokeness’?</h3>
+<sub>By Jonathan Weisman</sub>
+<p>New polling shows national Republicans and Iowa Republican caucusgoers were more interested in “law and order” than battling “woke” schools, media and corporations.  <a href="https://nyti.ms/3qoewb5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Anguish in Camelot: Kennedy Campaign Roils Storied Political Family</h3>
+<sub>By Peter Baker</sub>
+<p>The presidential bid by Robert F. Kennedy Jr. has tested the bonds of an iconic Democratic clan that does not want him to run and does not know what to do about it.  <a href="https://nyti.ms/3OnbfRd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Eight Months Pregnant and Arrested After False Facial Recognition Match</h3>
+<sub>By Kashmir Hill</sub>
+<p>Porsha Woodruff thought the police who showed up at her door to arrest her for carjacking were joking. She is the first woman known to be wrongfully accused as a result of facial recognition technology.  <a href="https://nyti.ms/3KvzUlt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-theater-blue" alt="">
+<h3>Amid the Mountains, They Can Be ‘Open Without Being Judged’</h3>
+<sub>By Lisa Kennedy and Shelby Knowles</sub>
+<p>A four-day summer camp in Colorado promotes body positivity and empowerment through theater.  <a href="https://nyti.ms/3DHhyKv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Twilight of the Serial Killer: Cases Like Gilgo Beach Become Ever Rarer</h3>
+<sub>By Hurubie Meko</sub>
+<p>Serial murders have dwindled, thanks to a cautious citizenry and improved technology. But sociopaths have found new methods of mayhem.  <a href="https://nyti.ms/4533o2E"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>For Pulse Massacre Victims, a New Push for Answers</h3>
+<sub>By Frances Robles</sub>
+<p>Questions about the Orlando nightclub where a shooting occurred in 2016 have persisted. Now survivors want to know: Were there adequate paths to escape?  <a href="https://nyti.ms/44UAotv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump’s Legal Team Is Enmeshed in a Tangle of Possible Conflicts</h3>
+<sub>By Alan Feuer, Ben Protess and Maggie Haberman</sub>
+<p>Former President Donald J. Trump’s growing cast of lawyers is marked by a web of overlapping interests encompassing witnesses, co-defendants and potential targets.  <a href="https://nyti.ms/3Yjqakd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Schumer Wields Political Heft in Bid for New York Chips Funds</h3>
+<sub>By Ana Swanson</sub>
+<p>The Senate majority leader helped deliver billions of dollars in federal funding for semiconductors. Now he’s pushing for his state to reap benefits.  <a href="https://nyti.ms/3KsJHJb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
