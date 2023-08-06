@@ -60,9 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, August 6, Central Standard Time</p>
 <p>
-It looks like there&#39;s a lot going on in the world right now. First, current US Supreme Court Justice Clarence Thomas&#39;s luxurious $267,230 RV has been funded by someone else&#39;s money and former US President Donald Trump is facing legal issues due to his team being conflicted with regards to possible witnesses and targets in addition to him attacking those involved in criminal cases concerning him. Then, there was a hate crime where a teenager in Brooklyn was charged with killing a gay man and Charles J. Ogletree Jr., one of Harvard Law&#39;s prominent advocates for equal justice, passed away recently. 
+There&#39;s a lot going on right now across the world. In the US, Trump&#39;s legal team is facing potential conflicts and his former post as president has left Republicans scrambling to stay out of the fallout from his legal case. The Supreme Court Justice Clarence Thomas has also come under scrutiny for having an expensive RV that was funded by someone other than himself. In New York, there is a fight about allowing Latin American street vendors to be able to sell their products and police trying to find answers in the death of a dancer at a Brooklyn gas station. 
 
-The music industry is buzzing too since Taylor Swift finished her world tour, while the travel industry is dealing with scammers using AI-generated guidebooks. On the sporting front, Holland beat South Africa 2-0 to qualify for the World Cup quarterfinals and Marie-Josée Ta Lou from Ivory Coast is aiming for redemption in the upcoming Olympic medals. Lastly, NYC has cracked down on Corona Plaza in Queens to legitimize the street vendors&#39; businesses there.</p>
+International news is heating up too. War continues to spread into new territories in Ukraine and Russia, while people are eager for answers in the killing of George Floyd in Minneapolis. The Olympic champion Marie-Josée Ta Lou has a chance at redemption in the world championships this month, and travel scammers are introducing A.I.-generated guidebooks to Amazon. 
+
+Pop star Taylor Swift also released her record-breaking tour and is currently dominating the summer music scene.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Clarence Thomas’s $267,230 R.V. and the Friend Who Financed It</h3>
@@ -88,6 +90,12 @@ The music industry is buzzing too since Taylor Swift finished her world tour, wh
 <p>Voters pressed them to weigh in. Reporters asked about pardons. Mike Pence was heckled. Republicans found it’s not easy to escape the fallout from Donald J. Trump’s legal peril.  <a href="https://nyti.ms/3qoCMK3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As War Grinds On, It Expands Beyond Old Battlefields</h3>
+<sub>By Vivek Shankar</sub>
+<p>Russia has turned to regular attacks on the Black Sea, a vital economic hub, while Ukraine has grown bolder, with strikes hitting Moscow and Russian ships.  <a href="https://nyti.ms/3OiVCdE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The Loss of Space Command Headquarters Brings an Alabama City Down to Earth</h3>
 <sub>By Emily Cochrane</sub>
@@ -98,12 +106,6 @@ The music industry is buzzing too since Taylor Swift finished her world tour, wh
 <h3>Teenager Is Charged in Killing of Dancer at Brooklyn Gas Station</h3>
 <sub>By Hurubie Meko</sub>
 <p>He faces a charge of second-degree murder, which has been charged as a hate crime, in the fatal stabbing of Mr. Sibley, a gay man, last week.  <a href="https://nyti.ms/43SxkwJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-obituaries-blue" alt="">
-<h3>Charles J. Ogletree Jr., 70, Dies; at Harvard Law, a Voice for Equal Justice</h3>
-<sub>By Clay Risen</sub>
-<p>A mentor to the Obamas and many others, he was renowned for his work in both the classroom and the courtroom, taking cases on behalf of the famous and the indigent alike.  <a href="https://nyti.ms/45gzjfr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
