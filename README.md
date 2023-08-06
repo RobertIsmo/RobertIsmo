@@ -60,9 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, August 5, Central Standard Time</p>
 <p>
-It looks like there&#39;s a lot of news about political drama in the US right now. The Supreme Court Justice Clarence Thomas has an expensive RV that was funded by someone else&#39;s money, and President Trump&#39;s legal team is facing possible conflicts of interest. Special counsel Robert Mueller took steps to reduce risks while charging Trump for election interference by adding different charges. Prosecutors have asked for a protective order against Trump due to a threatening post he made, and this is making it difficult for Republicans to ignore his legal and political issues. 
-
-On the international front, Russian president Vladimir Putin is trying to work the crowds after a rebellion and Ukraine is intensifying battles at sea with Russia. In Huntsville, AL Space Command headquarters shut down as a result of politics and a global web of Chinese propaganda leads to an American tech mogul. A hate crime charge was recently laid against a teenager who fatally stabbed a gay man in Brooklyn, NY. Finally, Taylor Swift&#39;s world tour has been breaking records and is receiving massive attention this summer.</p>
+It looks like a lot is happening in the world right now. Former U.S. President Donald Trump is facing legal troubles, while Supreme Court Justice Clarence Thomas has an expensive RV that was funded by someone else&#39;s money. There&#39;s a criminal case against a teenager in Brooklyn involving a hate crime, and a political battle in Virginia over a school bathroom assault. In space news, Huntsville, Alabama has been set back in their aerospace innovation plans due to politics. Finally, there&#39;s Taylor Swift doing her Eras tour and Olympic athlete Marie-Josée Ta Lou eying gold in Budapest this month.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Clarence Thomas’s $267,230 R.V. and the Friend Who Financed It</h3>
@@ -77,12 +75,6 @@ On the international front, Russian president Vladimir Putin is trying to work t
 <sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Jack Smith Structured the Trump Election Indictment to Reduce Risks</h3>
-<sub>By Charlie Savage</sub>
-<p>The special counsel layered varied charges atop the same facts, while sidestepping a free-speech question by not charging incitement.  <a href="https://nyti.ms/3Kt4V9N"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Jan. 6 Prosecutors Ask for Protective Order, Citing Threatening Trump Post</h3>
 <sub>By Alan Feuer and Maggie Haberman</sub>
 <p>In seeking a judge’s order, the government was drawing attention to the former president’s longstanding habit of attacking those involved in criminal cases against him.  <a href="https://nyti.ms/44WVW8T"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -92,18 +84,6 @@ On the international front, Russian president Vladimir Putin is trying to work t
 <h3>On the Campaign Trail, an Impossible Task: Ignoring Trump’s Latest Charges</h3>
 <sub>By Lisa Lerer and Nicholas Nehamas</sub>
 <p>Voters pressed them to weigh in. Reporters asked about pardons. Mike Pence was heckled. Republicans found it’s not easy to escape the fallout from Donald J. Trump’s legal peril.  <a href="https://nyti.ms/3qoCMK3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Man of the People? Jolted by a Mutiny, Putin Works the Crowds.</h3>
-<sub>By Paul Sonne</sub>
-<p>His contained interactions with crowds this summer are a noticeable change for the Russian leader, who disdains retail politics and operated in extreme seclusion during the pandemic.  <a href="https://nyti.ms/44Qqqtg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Battle at Sea Intensifies as Ukraine Drone Hits 2nd Russian Ship in 2 Days</h3>
-<sub>By Marc Santora and Christiaan Triebert</sub>
-<p>In addition to the strike on an oil tanker, Ukraine issued a warning that commercial ships using any of six Russian Black Sea ports would be considered military targets.  <a href="https://nyti.ms/3Qmmaxi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -118,22 +98,40 @@ On the international front, Russian president Vladimir Putin is trying to work t
 <p>It was an explosive claim — that a Virginia school district covered up a crime in order to protect transgender rights. But was it true?  <a href="https://nyti.ms/3qrL5Vs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Global Web of Chinese Propaganda Leads to a U.S. Tech Mogul</h3>
-<sub>By Mara Hvistendahl, David A. Fahrenthold, Lynsey Chutel and Ishaan Jhaveri</sub>
-<p>The Times unraveled a financial network that stretches from Chicago to Shanghai and uses American nonprofits to push Chinese talking points worldwide.  <a href="https://nyti.ms/3qjNEZO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Teenager Is Charged in Killing of Dancer at Brooklyn Gas Station</h3>
 <sub>By Hurubie Meko</sub>
 <p>He faces a charge of second-degree murder, which has been charged as a hate crime, in the fatal stabbing of Mr. Sibley, a gay man, last week.  <a href="https://nyti.ms/43SxkwJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-obituaries-blue" alt="">
+<h3>Charles J. Ogletree Jr., 70, Dies; at Harvard Law, a Voice for Equal Justice</h3>
+<sub>By Clay Risen</sub>
+<p>A mentor to the Obamas and many others, he was renowned for his work in both the classroom and the courtroom, taking cases on behalf of the famous and the indigent alike.  <a href="https://nyti.ms/45gzjfr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>How Taylor Swift’s Eras Tour Conquered the World</h3>
 <sub>By Ben Sisario</sub>
 <p>The pop star’s record-breaking, career-spanning show has dominated the summer, commanding attention and whipping up demand at a level thought unachievable in a fragmented age.  <a href="https://nyti.ms/3qi1Dzc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-travel-blue" alt="">
+<h3>A New Frontier for Travel Scammers: A.I.-Generated Guidebooks</h3>
+<sub>By Seth Kugel and Stephen Hiltner</sub>
+<p>Shoddy guidebooks are flooding Amazon. Their authors claim to be renowned travel writers, but are they A.I. inventions? And how big is the problem?  <a href="https://nyti.ms/3qoCN0z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>They Make Some of New York’s Best Food. They Want the Right to Sell It.</h3>
+<sub>By Stefanos Chen and Raúl Vilchis</sub>
+<p>New York City officials cracked down on Corona Plaza, a celebrated Queens hub for Latin American street vendors. Its merchants are fighting to legitimize their businesses.  <a href="https://nyti.ms/3OvakhY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>She’s One of the Fastest Women Ever. All She’s Missing Is a Gold Medal.</h3>
+<sub>By Kris Rhim</sub>
+<p>Marie-Josée Ta Lou of Ivory Coast has been milliseconds away from the top of Olympic and World Championship podium stands. She has a chance at redemption this month in Budapest.  <a href="https://nyti.ms/3OIXspB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
 <hr/>
 </ol>
