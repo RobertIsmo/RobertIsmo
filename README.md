@@ -60,7 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, August 6, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In Russia, Vladimir Putin is leading Russians into a conflict with the West that’s much bigger than Ukraine. The war in Ukraine between them continues and has been intensifying recently, with Ukraine striking Russian ships and using drones against Moscow. In the US, Republican voters are questioning the &#39;war on wokeness&#39; and there&#39;s an issue occurring within the Kennedy campaign - Robert F. Kennedy Jr. wants to run for president but his family isn&#39;t on board. In terms of tech news, there was an incident of false facial recognition match being used to arrest a woman who was 8 months pregnant and reports of serial killer cases dwindling due to improved technology and cautious citizens. Things are heating up in the business world as New York Senator Chuck Schumer is pushing for his state to gain benefits from the $52 billion CHIPS act related to semiconductor funding. Lastly, we&#39;re seeing some progress in terms of gender equality as Barbie is becoming a sleeper hit in China because it addresses issues related to women&#39;s rights directly.</p>
+The world is in a turbulent state. In Russia, Vladimir Putin is leading people into an ongoing civilizational conflict with the West that&#39;s more intense than Ukraine. Meanwhile, in Ukraine itself, war is grinding on and intensifying with both sides striking and firing at each other. 
+
+In the US, Republicans and Iowa voters are focussing less on &#39;wokeness&#39; and more on law and order. The Kennedy family is facing some discord as Robert F. Kennedy Jr. runs for presidency against their wishes, and technology issues are rising with Porcha Woodruff being wrongfully accused of carjacking through facial recognition technology.
+
+Sports fans have heard about Megan Rapinoe recently, who had to deal with an unfortunate ending to her World Cup career. Serial killers are becoming rarer because of improved technology and a more cautious society but other forms of mayhem are increasing. In Maine, a woman has bought an entire remote island for an intriguing reason and ESPN is creating problems for Disney in other areas.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Putin’s Forever War</h3>
@@ -92,11 +96,11 @@ There is a lot going on in the world right now. In Russia, Vladimir Putin is lea
 <p>Porcha Woodruff thought the police who showed up at her door to arrest her for carjacking were joking. She is the first woman known to be wrongfully accused as a result of facial recognition technology.  <a href="https://nyti.ms/3KvzUlt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-theater-blue" alt="">
-<h3>Amid the Mountains, They Can Be ‘Open Without Being Judged’</h3>
-<sub>By Lisa Kennedy and Shelby Knowles</sub>
-<p>A four-day summer camp in Colorado promotes body positivity and empowerment through theater.  <a href="https://nyti.ms/3DHhyKv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 4, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>For Megan Rapinoe, an Ending Not Even She Could Have Imagined</h3>
+<sub>By Jeré Longman</sub>
+<p>A missed penalty kick was a cruel way to draw down the curtain on a star’s World Cup career. But her influence and legacy were never about soccer alone.  <a href="https://nyti.ms/3OnSY6u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Twilight of the Serial Killer: Cases Like Gilgo Beach Become Ever Rarer</h3>
@@ -104,35 +108,35 @@ There is a lot going on in the world right now. In Russia, Vladimir Putin is lea
 <p>Serial murders have dwindled, thanks to a cautious citizenry and improved technology. But sociopaths have found new methods of mayhem.  <a href="https://nyti.ms/4533o2E"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump’s Legal Team Is Enmeshed in a Tangle of Possible Conflicts</h3>
-<sub>By Alan Feuer, Ben Protess and Maggie Haberman</sub>
-<p>Former President Donald J. Trump’s growing cast of lawyers is marked by a web of overlapping interests encompassing witnesses, co-defendants and potential targets.  <a href="https://nyti.ms/3Yjqakd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>After Transitioning, Gabbi Tuft Pays a Visit to Smackdown</h3>
+<sub>By Jacob Bernstein</sub>
+<p>She was once a 250-pound gladiator in the World Wrestling Entertainment ring. Now she’s a TikTok star who’s building a new life.  <a href="https://nyti.ms/3qjojzb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>For Pulse Massacre Victims, a New Push for Answers</h3>
-<sub>By Frances Robles</sub>
-<p>Questions about the Orlando nightclub where a shooting occurred in 2016 have persisted. Now survivors want to know: Were there adequate paths to escape?  <a href="https://nyti.ms/44UAotv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>How to Catch Pandemic Fraud? Prosecutors Try Novel Methods.</h3>
+<sub>By Madeleine Ngo</sub>
+<p>Strained by limited resources, prosecutors are deploying special teams and nurturing local relationships to catch up to a wave of fraud.  <a href="https://nyti.ms/44XY1BJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Schumer Wields Political Heft in Bid for New York Chips Funds</h3>
-<sub>By Ana Swanson</sub>
-<p>The Senate majority leader helped deliver billions of dollars in federal funding for semiconductors. Now he’s pushing for his state to reap benefits.  <a href="https://nyti.ms/3KsJHJb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Indiana Tests if the Heartland Can Transform Into a Chip Hub</h3>
-<sub>By Cecilia Kang and Ana Swanson</sub>
-<p>The state has little experience with semiconductors, but the Biden administration has promised to unleash opportunity in “the heartland of America” through the $52 billion CHIPS Act.  <a href="https://nyti.ms/3KsJBRP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Fight Over the Dune Shacks of Cape Cod: No Power, No Water — but Eugene O’Neill Was Here</h3>
+<sub>By Jenna Russell</sub>
+<p>The shacks have been cared for by locals, activists and artists. Now the National Park Service plans to lease them to bidders.  <a href="https://nyti.ms/43VSutZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Why ‘Barbie’ Became a Sleeper Hit in China</h3>
-<sub>By Vivian Wang and Siyi Zhao</sub>
-<p>The movie has exceeded box office expectations, as China’s female moviegoers celebrate a film that addresses women’s rights head-on.  <a href="https://nyti.ms/3KvPGwV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Heat Waves Are Killing Older Women. Are They Also Violating Their Rights?</h3>
+<sub>By Isabella Kwai</sub>
+<p>A group of Swiss women over 64 have filed a lawsuit against Switzerland with Europe’s top human rights court, saying the country has violated their rights by failing to curb emissions.  <a href="https://nyti.ms/3DLabSr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The Weekender</h3>
+<sub>By Jaclyn Reiss</sub>
+<p>A tale of two men who were switched at birth. Plus: Why a woman bought a remote island in Maine, and how ESPN is causing Disney problems.  <a href="https://nyti.ms/3Oq9aUG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
