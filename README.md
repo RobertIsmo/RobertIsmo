@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, August 6, Central Standard Time</p>
 <p>
-There is a lot happening around the world right now. Russian President Vladimir Putin is leading Russians into a conflict with the West, and there has been war in various parts of the world including the Black Sea. The Netherlands has just beat South Africa in the World Cup quarterfinals and Australia is increasing visibility and support for women in sports. In the United States, Republicans are reevaluating their &quot;war on wokeness,&quot; while Robert F. Kennedy Jr. is running for president creating tension within his political family. Also in America, Porsha Woodruff was arrested after a false facial recognition match, victims of the Pulse Nightclub shooting are pushing for answers, and Donald Trump&#39;s legal team is tangled up in possible conflicts of interest. Lastly, New York Senator Schumer has used his political influence to help secure funds for semiconductors to benefit New York.</p>
+There is a lot going on in the world right now. In Russia, Vladimir Putin is leading Russians into a conflict with the West that’s much bigger than Ukraine. The war in Ukraine between them continues and has been intensifying recently, with Ukraine striking Russian ships and using drones against Moscow. In the US, Republican voters are questioning the &#39;war on wokeness&#39; and there&#39;s an issue occurring within the Kennedy campaign - Robert F. Kennedy Jr. wants to run for president but his family isn&#39;t on board. In terms of tech news, there was an incident of false facial recognition match being used to arrest a woman who was 8 months pregnant and reports of serial killer cases dwindling due to improved technology and cautious citizens. Things are heating up in the business world as New York Senator Chuck Schumer is pushing for his state to gain benefits from the $52 billion CHIPS act related to semiconductor funding. Lastly, we&#39;re seeing some progress in terms of gender equality as Barbie is becoming a sleeper hit in China because it addresses issues related to women&#39;s rights directly.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Putin’s Forever War</h3>
@@ -69,22 +69,10 @@ There is a lot happening around the world right now. Russian President Vladimir 
 <sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As War Grinds On, It Expands Beyond Old Battlefields</h3>
-<sub>By Vivek Shankar</sub>
-<p>Russia has turned to regular attacks on the Black Sea, a vital economic hub, while Ukraine has grown bolder, with strikes hitting Moscow and Russian ships.  <a href="https://nyti.ms/3OiVCdE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>As War in Ukraine Grinds On, Fighting Intensifies Beyond Established Battlefields</h3>
+<sub>By Matthew Mpoke Bigg and Vivek Shankar</sub>
+<p>Ukraine has grown bolder, striking Russian ships and firing drones at Moscow, while Russia has turned to regular attacks on the Black Sea, a crucial economic hub.  <a href="https://nyti.ms/3OiVCdE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Netherlands Holds Off South Africa, Squeezing Into World Cup Quarterfinals</h3>
-<sub>By Rory Smith</sub>
-<p>A goal in each half delivered victory, and a date with Spain. But a South Africa striker made the day as difficult as possible.  <a href="https://nyti.ms/3OG9mk1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>World Cup Picks Up Baton for Women’s Sports in Australia</h3>
-<sub>By Natasha Frost</sub>
-<p>For as long as there have been sports in Australia, women have clamored to play and participate. But winning visibility, and support, has been a long road.  <a href="https://nyti.ms/3OmiSHG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Are G.O.P. Voters Tiring of the War on ‘Wokeness’?</h3>
@@ -101,7 +89,7 @@ There is a lot happening around the world right now. Russian President Vladimir 
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Eight Months Pregnant and Arrested After False Facial Recognition Match</h3>
 <sub>By Kashmir Hill</sub>
-<p>Porsha Woodruff thought the police who showed up at her door to arrest her for carjacking were joking. She is the first woman known to be wrongfully accused as a result of facial recognition technology.  <a href="https://nyti.ms/3KvzUlt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Porcha Woodruff thought the police who showed up at her door to arrest her for carjacking were joking. She is the first woman known to be wrongfully accused as a result of facial recognition technology.  <a href="https://nyti.ms/3KvzUlt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-theater-blue" alt="">
@@ -117,21 +105,33 @@ There is a lot happening around the world right now. Russian President Vladimir 
 <sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>For Pulse Massacre Victims, a New Push for Answers</h3>
-<sub>By Frances Robles</sub>
-<p>Questions about the Orlando nightclub where a shooting occurred in 2016 have persisted. Now survivors want to know: Were there adequate paths to escape?  <a href="https://nyti.ms/44UAotv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump’s Legal Team Is Enmeshed in a Tangle of Possible Conflicts</h3>
 <sub>By Alan Feuer, Ben Protess and Maggie Haberman</sub>
 <p>Former President Donald J. Trump’s growing cast of lawyers is marked by a web of overlapping interests encompassing witnesses, co-defendants and potential targets.  <a href="https://nyti.ms/3Yjqakd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>For Pulse Massacre Victims, a New Push for Answers</h3>
+<sub>By Frances Robles</sub>
+<p>Questions about the Orlando nightclub where a shooting occurred in 2016 have persisted. Now survivors want to know: Were there adequate paths to escape?  <a href="https://nyti.ms/44UAotv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Schumer Wields Political Heft in Bid for New York Chips Funds</h3>
 <sub>By Ana Swanson</sub>
 <p>The Senate majority leader helped deliver billions of dollars in federal funding for semiconductors. Now he’s pushing for his state to reap benefits.  <a href="https://nyti.ms/3KsJHJb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Indiana Tests if the Heartland Can Transform Into a Chip Hub</h3>
+<sub>By Cecilia Kang and Ana Swanson</sub>
+<p>The state has little experience with semiconductors, but the Biden administration has promised to unleash opportunity in “the heartland of America” through the $52 billion CHIPS Act.  <a href="https://nyti.ms/3KsJBRP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Why ‘Barbie’ Became a Sleeper Hit in China</h3>
+<sub>By Vivian Wang and Siyi Zhao</sub>
+<p>The movie has exceeded box office expectations, as China’s female moviegoers celebrate a film that addresses women’s rights head-on.  <a href="https://nyti.ms/3KvPGwV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
 <hr/>
 </ol>
