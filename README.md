@@ -60,14 +60,38 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, August 7, Central Standard Time</p>
 <p>
-It seems like there are lots of big stories happening in the world right now. In Ukraine, the government has replaced the Soviet emblem on the Kyiv Motherland Monument with a new symbol.  Meanwhile, some Ukrainian troops trained and supplied by NATO are continuing their counteroffensive against opposition forces.
-
-In the US, Nikki Haley is working hard to stay competitive in a one-sided Republican primary for an election. She&#39;s facing off against Former President Donald J. Trump who has recently called for a judge’s recusal as his lawyer deemed the effort to overturn the election ‘aspirational’.
-
-In business news, trucking firm Yellow that got a $700million bailout from the Trump administration has declared bankruptcy despite expecting it to turn a profit. Interest rates are also expected to fall but it&#39;s still too high for many looking to buy cars or homes right now.
-
-Sports wise, the US Women&#39;s Soccer team was eliminated from the Women&#39;s World Cup by a millimeter gap which highlighted their wider deficiencies in playing compared to other top countries. </p>
+There’s a lot going on in the world right now! In Ohio, Republican legislators are trying to amend the state constitution through an election. Florida Governor DeSantis recently acknowledged that Trump lost the 2020 election. There&#39;s also a legal case stemming from the Capitol siege on January 6th. Trump has tried to throw out a countersuit against his accuser E. Jean Carroll and his lawyer deemed his effort to overturn the election &quot;aspirational&quot;. Interest rates are high, there&#39;s a new cryptocurrency project trying to scan billions of human irises, and there is evidence of growing plastic pollution in the oceans. Meanwhile, China&#39;s military power is undergoing a shake-up that is threatening its image. Lastly, the Audubon Society is facing controversy over its ties to slavery in relation to social justice issues.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Abortion Drives Ohio Election on Amending the State Constitution</h3>
+<sub>By Michael Wines</sub>
+<p>The election on Tuesday highlights how Republican legislators are using their power in Ohio and elsewhere.  <a href="https://nyti.ms/3YmIysl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>DeSantis Bluntly Acknowledges Trump’s 2020 Defeat: ‘Of Course He Lost’</h3>
+<sub>By Nicholas Nehamas and Alexandra Berzon</sub>
+<p>“Joe Biden’s the president,” the Florida governor said in an interview with NBC News. He and other Republican presidential candidates have been testing new lines of attack against Donald Trump.  <a href="https://nyti.ms/3OJ7K98"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>What to Know About Prosecutors’ Request for Protective Order in Jan. 6 Case</h3>
+<sub>By Alan Feuer</sub>
+<p>The orders, which can vary greatly in severity, generally ask that the defense use discovery evidence only to pursue actions related to the case itself and to not release it widely.  <a href="https://nyti.ms/3QsrMWM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Calls for Judge’s Recusal as His Lawyer Deems Effort to Overturn Election ‘Aspirational’</h3>
+<sub>By Luke Broadwater and Maggie Astor</sub>
+<p>Former President Donald J. Trump spent the weekend on the attack on Truth Social while his lawyer, John F. Lauro, ran through a gantlet of interviews Sunday morning.  <a href="https://nyti.ms/45hsN8d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Judge Throws Out Trump’s Countersuit Against E. Jean Carroll</h3>
+<sub>By Karen Zraick</sub>
+<p>The former president argued that Ms. Carroll, a former columnist, should not have said that he raped her after a jury found him liable for sexual abuse.  <a href="https://nyti.ms/45fb7tZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 7, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Trucking Firm That Got $700 Million U.S. Bailout Declares Bankruptcy</h3>
 <sub>By Alan Rappeport and Madeleine Ngo</sub>
@@ -80,34 +104,16 @@ Sports wise, the US Women&#39;s Soccer team was eliminated from the Women&#39;s 
 <p>Journalists from The Times spent two weeks with troops from brigades trained and supplied by NATO to get their take on how, and where, the counteroffensive is going.  <a href="https://nyti.ms/3qdtErT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Replaces Soviet Emblem on Kyiv’s Motherland Monument</h3>
-<sub>By Cassandra Vinograd and Sarah Eckinger</sub>
-<p>The Motherland Monument — a 335-foot-tall stainless steel behemoth towering over Ukraine’s capital — was unveiled in 1981 and designed to assert Soviet invincibility.  <a href="https://nyti.ms/3Oo73kg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 7, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>How Long Will Interest Rates Stay High?</h3>
 <sub>By Jeanna Smialek</sub>
 <p>It’s pricey to borrow to buy a business, car or home these days. Interest rates are expected to fall in coming years — how much is up for debate.  <a href="https://nyti.ms/3QnwIwa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>A Fed Official Wonders: ‘Do We Need to Do Another Rate Increase?’</h3>
-<sub>By Jeanna Smialek</sub>
-<p>The head of the powerful New York Fed said that it was an “open question,” and that rates could fall next year.  <a href="https://nyti.ms/3qeCMwq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The Republican Party’s Split on Economics</h3>
-<sub>By David Leonhardt</sub>
-<p>Why an argument over economic policy is roiling the party.  <a href="https://nyti.ms/47pj55Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Seeking Love, With Help From the City Government</h3>
-<sub>By John Yoon</sub>
-<p>Singles are signing up in droves for city-hosted blind-dating events, but some point to their inability to address real issues with family planning.  <a href="https://nyti.ms/3YrNcFG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Crypto’s Next Craze? Orbs That Scan Your Eyeballs.</h3>
+<sub>By David Yaffe-Bellany</sub>
+<p>Sam Altman, OpenAI’s chief executive, has started Worldcoin, a cryptocurrency project that aims to scan billions of human irises.  <a href="https://nyti.ms/443BmT8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
@@ -123,21 +129,9 @@ Sports wise, the US Women&#39;s Soccer team was eliminated from the Women&#39;s 
 <sub><sub>Monday, August 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Nikki Haley Fights to Stay Competitive in a One-Sided G.O.P. Primary</h3>
-<sub>By Jazmine Ulloa</sub>
-<p>The former South Carolina governor is campaigning at a grueling pace, but polling suggests that so far, Republican voters aren’t flocking to her.  <a href="https://nyti.ms/3Kwl3XU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Calls for Judge’s Recusal as His Lawyer Deems Effort to Overturn Election ‘Aspirational’</h3>
-<sub>By Luke Broadwater and Maggie Astor</sub>
-<p>Former President Donald J. Trump spent the weekend on the attack on Truth Social while his lawyer, John F. Lauro, ran through a gantlet of interviews Sunday morning.  <a href="https://nyti.ms/45hsN8d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>A Tiny Gap Reveals a Yawning One for the U.S. Women’s Team</h3>
-<sub>By Rory Smith</sub>
-<p>The idea that the United States was eliminated from the Women’s World Cup by a millimeter is an illusion. Denying that will only guarantee more failures.  <a href="https://nyti.ms/3YsV4Xd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Is Social Justice for the Birds? Audubon Attempts an Answer.</h3>
+<sub>By Clyde McGrady</sub>
+<p>A battle over the group namesake’s ties to slavery grew into a conflict over diversity, highlighting complications that have arisen in the aftermath of George Floyd’s death.  <a href="https://nyti.ms/3YqmGfJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
