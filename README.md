@@ -60,30 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, August 7, Central Standard Time</p>
 <p>
-Right now, US Vice President Kamala Harris is trying to regain the momentum that thrust her into the White House in 2020. Former President Donald Trump and his lawyer John F. Lauro are trying to overturn the election results, while Republican candidates flock to Iowa to prove themselves in a new era. 
-
-Elsewhere, Russian President Vladimir Putin is leading Russians into a civilizational conflict with the West, while Ukraine has grown bolder by attacking Moscow-connected bridges. In the US, a pregnant woman was wrongfully arrested because of inaccurate facial recognition technology. 
-
-In terms of entertainment, the movie &quot;Barbie&quot; has made it to $1 billion at the box office and England striker Alessia Russo scored her first World Cup goal last week. People in China are attempting to tell forbidden stories since many writers wish to capture everyday realities kept hidden by the government. 
-
-The trucking firm Yellow that received a $700 million bailout has declared bankruptcy, which according to the Trump administration was supposed to make money for the federal government. Serial murders have lessened due to improved technology, but sociopaths have shifted their methods of mayhem. Finally, an ongoing conflict on Cape Cod is centered around some dune shacks, as locals, activists, and artists plead their case against the National Park Service who want to lease them out.</p>
+There are a lot of changes happening around the world right now. In the US, former President Donald Trump is making efforts to overturn the election, and Nikki Haley is competing in a one-sided primary. Meanwhile, Ukraine&#39;s marines are putting up a fight against Russia, and Vladimir Putin is leading Russians in civilizational conflict with the West. In China, President Xi Jinping&#39;s missile force is under scrutiny due to a purge. On the economic front, high interest rates are making it expensive to borrow money, and the controversial trucking firm Yellow that got a $700 million US bailout recently declared bankruptcy. To make things even more complicated, there are questions about whether Audubon has ties to slavery, and whether social justice applies to birds. Finally, the US women&#39;s team was eliminated from the Women&#39;s World Cup by only a millimeter!</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Kamala Harris Takes on a Forceful New Role in the 2024 Campaign</h3>
-<sub>By Zolan Kanno-Youngs</sub>
-<p>The vice president is trying to reclaim the momentum that propelled her to Joseph R. Biden Jr.’s side as a candidate and into the White House in 2020.  <a href="https://nyti.ms/3KwIv7E"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Trucking Firm That Got $700 Million U.S. Bailout Declares Bankruptcy</h3>
+<sub>By Alan Rappeport and Madeleine Ngo</sub>
+<p>A pandemic-era lifeline that the Trump administration predicted would turn a profit for the federal government failed to keep Yellow afloat.  <a href="https://nyti.ms/3QwJ2tY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Calls for Judge’s Recusal as His Lawyer Deems Effort to Overturn Election ‘Aspirational’</h3>
-<sub>By Luke Broadwater and Maggie Astor</sub>
-<p>Former President Donald J. Trump spent the weekend on the attack on Truth Social while his lawyer, John F. Lauro, ran through a gantlet of interviews Sunday morning.  <a href="https://nyti.ms/45hsN8d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Iowa, the Cattle Calls. And Republican Candidates Look to Answer.</h3>
-<sub>By Trip Gabriel</sub>
-<p>Every four years, politicians flock to Iowa to prove their mettle. It’s different in the Trump era.  <a href="https://nyti.ms/3OsTXCa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘It’s Not a Sprint,’ Ukraine’s Marines Insist. ‘It’s a Marathon.’</h3>
+<sub>By Carlotta Gall, Oleksandr Chubko and Diego Ibarra Sanchez</sub>
+<p>Journalists from The Times spent two weeks with troops from brigades trained and supplied by NATO to get their take on how, and where, the counteroffensive is going.  <a href="https://nyti.ms/3qdtErT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -92,53 +80,59 @@ The trucking firm Yellow that received a $700 million bailout has declared bankr
 <p>Vladimir Putin wants to lead Russians into a civilizational conflict with the West far larger than Ukraine. Will they follow him?  <a href="https://nyti.ms/3KvPGNr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>How Long Will Interest Rates Stay High?</h3>
+<sub>By Jeanna Smialek</sub>
+<p>It’s pricey to borrow to buy a business, car or home these days. Interest rates are expected to fall in coming years — how much is up for debate.  <a href="https://nyti.ms/3QnwIwa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>A Fed Official Wonders: ‘Do We Need to Do Another Rate Increase?’</h3>
+<sub>By Jeanna Smialek</sub>
+<p>The head of the powerful New York Fed said that it was an “open question,” and that rates could fall next year.  <a href="https://nyti.ms/3qeCMwq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The Republican Party’s Split on Economics</h3>
+<sub>By David Leonhardt</sub>
+<p>Why an argument over economic policy is roiling the party.  <a href="https://nyti.ms/47pj55Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 7, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Strikes 2 Bridges Connected to Russian-Occupied Crimea</h3>
-<sub>By Matthew Mpoke Bigg, Vivek Shankar and Anushka Patil</sub>
-<p>Ukraine has grown bolder, firing drones at Moscow, while Russian forces have turned to regular attacks on the Black Sea, a crucial economic lifeline.  <a href="https://nyti.ms/3OiVCdE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
+<h3>Seeking Love, With Help From the City Government</h3>
+<sub>By John Yoon</sub>
+<p>Singles are signing up in droves for city-hosted blind-dating events, but some point to their inability to address real issues with family planning.  <a href="https://nyti.ms/3YrNcFG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Eight Months Pregnant and Arrested After False Facial Recognition Match</h3>
-<sub>By Kashmir Hill</sub>
-<p>Porcha Woodruff thought the police who showed up at her door to arrest her for carjacking were joking. She is the first woman known to be wrongfully accused as a result of facial recognition technology.  <a href="https://nyti.ms/3KvzUlt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Xi Remade China’s Military to His Liking. Now a Purge Threatens Its Image.</h3>
+<sub>By Chris Buckley</sub>
+<p>Xi Jinping, China’s leader, set out to clean up the military a decade ago. But now his crown jewel, the missile force, is under a shadow.  <a href="https://nyti.ms/3QtFI2U"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>‘Barbie’ Reaches $1 Billion at the Box Office, Studio Says</h3>
-<sub>By Brooks Barnes</sub>
-<p>No movie in Warner Bros. history has sold so many tickets so fast, the studio said of the movie directed by Greta Gerwig.  <a href="https://nyti.ms/3DLrtPl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Nikki Haley Fights to Stay Competitive in a One-Sided G.O.P. Primary</h3>
+<sub>By Jazmine Ulloa</sub>
+<p>The former South Carolina governor is campaigning at a grueling pace, but polling suggests that so far, Republican voters aren’t flocking to her.  <a href="https://nyti.ms/3Kwl3XU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Calls for Judge’s Recusal as His Lawyer Deems Effort to Overturn Election ‘Aspirational’</h3>
+<sub>By Luke Broadwater and Maggie Astor</sub>
+<p>Former President Donald J. Trump spent the weekend on the attack on Truth Social while his lawyer, John F. Lauro, ran through a gantlet of interviews Sunday morning.  <a href="https://nyti.ms/45hsN8d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Alessia Russo Is Ready for Her Next Big Moment</h3>
-<sub>By Ella Braidwood</sub>
-<p>The England striker scored her first World Cup goal last week. She is just getting started.  <a href="https://nyti.ms/3Yobdgy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>The Art of Telling Forbidden Stories in China</h3>
-<sub>By Han Zhang</sub>
-<p>Many writers are looking for ways to capture the everyday realities that the government keeps hidden — sometimes at their own peril.  <a href="https://nyti.ms/3rZE2UI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Trucking Firm That Got $700 Million U.S. Bailout Declares Bankruptcy</h3>
-<sub>By Alan Rappeport</sub>
-<p>A pandemic-era lifeline that the Trump administration predicted would turn a profit for the federal government failed to keep Yellow afloat.  <a href="https://nyti.ms/3QwJ2tY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Twilight of the Serial Killer: Cases Like Gilgo Beach Become Ever Rarer</h3>
-<sub>By Hurubie Meko</sub>
-<p>Serial murders have dwindled, thanks to a cautious citizenry and improved technology. But sociopaths have found new methods of mayhem.  <a href="https://nyti.ms/4533o2E"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
+<h3>A Tiny Gap Reveals a Yawning One for the U.S. Women’s Team</h3>
+<sub>By Rory Smith</sub>
+<p>The idea that the United States was eliminated from the Women’s World Cup by a millimeter is an illusion. Denying that will only guarantee more failures.  <a href="https://nyti.ms/3YsV4Xd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Fight Over the Dune Shacks of Cape Cod: No Power, No Water — but Eugene O’Neill Was Here</h3>
-<sub>By Jenna Russell</sub>
-<p>The shacks have been cared for by locals, activists and artists. Now the National Park Service plans to lease them to bidders.  <a href="https://nyti.ms/43VSutZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
+<h3>Is Social Justice for the Birds? Audubon Attempts an Answer.</h3>
+<sub>By Clyde McGrady</sub>
+<p>A battle over the group namesake’s ties to slavery grew into a conflict over diversity, highlighting complications that have arisen in the aftermath of George Floyd’s death.  <a href="https://nyti.ms/3YqmGfJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
