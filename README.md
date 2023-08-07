@@ -60,10 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, August 6, Central Standard Time</p>
 <p>
-It seems like a lot has been going on around the world lately. In Russia, Vladimir Putin is mobilizing his people for a civilizational conflict with the West. Meanwhile, Ukraine is taking matters into their own hands against Russian-occupied Crimea. 
-In the US, Kamala Harris is playing an important role as Biden&#39;s Vice President in the 2024 campaign, and Florida Governor Ron DeSantis has been making a lot of trips to Iowa for some retail politics. Robert F. Kennedy Jr.&#39;s potential presidential bid has caused some tension within his family. Polls have been indicating that some Republican voters may be exhausted from their ongoing &quot;war on wokeness&quot;. 
-These are just the headlines! There was this really interesting case of Porcha Woodruff who was eight months pregnant when she was wrongfully arrested for carjacking because of a false facial recognition match. Also, Megan Rapinoe had some disappointment with her World Cup career ending with a missed penalty kick. Serial murderers have been surprisingly dwindling due to increased measures of caution and technological advances, as Gabbi Tuft recently transitioned and began a new life as a TikTok star. Finally, prosecutors are trying some novel strategies to catch up with all the pandemic fraud going on.</p>
+The United States is in the midst of a big election season, with Kamala Harris taking on a prominent role. Former President Donald Trump is making efforts to overturn the results of the election, and elsewhere in the world Vladimir Putin is trying to lead Russian citizens into a civilizational conflict with the West. Meanwhile, Ukraine is getting bolder in their stance against Russia-occupied Crimea. Technology has unfortunately been used for wrongfully accusing people, and at the box office Barbie just reached one billion dollars. As far as sports go, Megan Rapinoe&#39;s World Cup career ended with a missed penalty kick, but her legacy went far beyond soccer. In China, many writers are trying to capture hidden everyday realities that can cause peril. Serial murders have become rarer due to caution and improved technology, but sociopaths are finding new methods of mayhem. Lastly, Cape Cod&#39;s National Park Service wants to lease its shacks traditionally cared for by locals, activists, and artists. The Pro Football Hall of Fame has even asked a jazz artist to reign in rambling speeches from inductees.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Kamala Harris Takes on a Forceful New Role in the 2024 Campaign</h3>
+<sub>By Zolan Kanno-Youngs</sub>
+<p>The vice president is trying to reclaim the momentum that propelled her to Joseph R. Biden Jr.’s side as a candidate and into the White House in 2020.  <a href="https://nyti.ms/3KwIv7E"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Calls for Judge’s Recusal as His Lawyer Deems Effort to Overturn Election ‘Aspirational’</h3>
+<sub>By Luke Broadwater and Maggie Astor</sub>
+<p>Former President Donald J. Trump spent the weekend on the attack on Truth Social while his lawyer, John F. Lauro, ran through a gantlet of interviews Sunday morning.  <a href="https://nyti.ms/45hsN8d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Putin’s Forever War</h3>
 <sub>By Roger Cohen and Nanna Heitmann</sub>
@@ -73,37 +83,19 @@ These are just the headlines! There was this really interesting case of Porcha W
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ukraine Strikes 2 Bridges Connected to Russian-Occupied Crimea</h3>
 <sub>By Matthew Mpoke Bigg, Vivek Shankar and Anushka Patil</sub>
-<p>Ukraine has grown bolder, attacking Russian ships and firing drones at Moscow, while Russian forces have turned to regular attacks on the Black Sea, a crucial economic lifeline.  <a href="https://nyti.ms/3OiVCdE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Kamala Harris Takes on a Forceful New Role in the 2024 Campaign</h3>
-<sub>By Zolan Kanno-Youngs</sub>
-<p>The vice president is trying to reclaim the momentum that propelled her to Joseph R. Biden Jr.’s side as a candidate and into the White House in 2020.  <a href="https://nyti.ms/3KwIv7E"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Barbecues, Fairs and Weddings: Ron DeSantis Amps Up Retail Politics in Iowa</h3>
-<sub>By Nicholas Nehamas</sub>
-<p>The Florida governor, who has struggled at times to connect with voters, is looking for every opportunity to show he is all-in with Iowa Republicans.  <a href="https://nyti.ms/47g2HEF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Anguish in Camelot: Kennedy Campaign Roils Storied Political Family</h3>
-<sub>By Peter Baker</sub>
-<p>The presidential bid by Robert F. Kennedy Jr. has tested the bonds of an iconic Democratic clan that does not want him to run and does not know what to do about it.  <a href="https://nyti.ms/3OnbfRd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Are G.O.P. Voters Tiring of the War on ‘Wokeness’?</h3>
-<sub>By Jonathan Weisman</sub>
-<p>New polling shows national Republicans and Iowa Republican caucusgoers were more interested in “law and order” than battling “woke” schools, media and corporations.  <a href="https://nyti.ms/3qoewb5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Ukraine has grown bolder, firing drones at Moscow, while Russian forces have turned to regular attacks on the Black Sea, a crucial economic lifeline.  <a href="https://nyti.ms/3OiVCdE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Eight Months Pregnant and Arrested After False Facial Recognition Match</h3>
 <sub>By Kashmir Hill</sub>
 <p>Porcha Woodruff thought the police who showed up at her door to arrest her for carjacking were joking. She is the first woman known to be wrongfully accused as a result of facial recognition technology.  <a href="https://nyti.ms/3KvzUlt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>‘Barbie’ Reaches $1 Billion at the Box Office, Studio Says</h3>
+<sub>By Brooks Barnes</sub>
+<p>No movie in Warner Bros. history has sold so many tickets so fast, the studio said of the movie directed by Greta Gerwig.  <a href="https://nyti.ms/3DLrtPl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
@@ -118,23 +110,29 @@ These are just the headlines! There was this really interesting case of Porcha W
 <p>The shootout was rapid-fire, but still agonizing for both Sweden, which moved to the World Cup quarterfinals, and the United States, which was eliminated.  <a href="https://nyti.ms/44YhVwb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>The Art of Telling Forbidden Stories in China</h3>
+<sub>By Han Zhang</sub>
+<p>Many writers are looking for ways to capture the everyday realities that the government keeps hidden — sometimes at their own peril.  <a href="https://nyti.ms/3rZE2UI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Twilight of the Serial Killer: Cases Like Gilgo Beach Become Ever Rarer</h3>
 <sub>By Hurubie Meko</sub>
 <p>Serial murders have dwindled, thanks to a cautious citizenry and improved technology. But sociopaths have found new methods of mayhem.  <a href="https://nyti.ms/4533o2E"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>After Transitioning, Gabbi Tuft Pays a Visit to Smackdown</h3>
-<sub>By Jacob Bernstein</sub>
-<p>She was once a 250-pound gladiator in the World Wrestling Entertainment ring. Now she’s a TikTok star who’s building a new life.  <a href="https://nyti.ms/3qjojzb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How to Catch Pandemic Fraud? Prosecutors Try Novel Methods.</h3>
-<sub>By Madeleine Ngo</sub>
-<p>Strained by limited resources, prosecutors are deploying special teams and nurturing local relationships to catch up to a wave of fraud.  <a href="https://nyti.ms/44XY1BJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>The Fight Over the Dune Shacks of Cape Cod: No Power, No Water — but Eugene O’Neill Was Here</h3>
+<sub>By Jenna Russell</sub>
+<p>The shacks have been cared for by locals, activists and artists. Now the National Park Service plans to lease them to bidders.  <a href="https://nyti.ms/43VSutZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>This Jazz Artist Makes Pro Football Hall of Fame Speeches Sing</h3>
+<sub>By Ken Belson</sub>
+<p>When the Pro Football Hall of Fame’s inductees began to ramble, executives turned to Jezra Kaye to help them rein it in.  <a href="https://nyti.ms/43SdmCq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
