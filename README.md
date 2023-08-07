@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, August 6, Central Standard Time</p>
 <p>
-The United States is in the midst of a big election season, with Kamala Harris taking on a prominent role. Former President Donald Trump is making efforts to overturn the results of the election, and elsewhere in the world Vladimir Putin is trying to lead Russian citizens into a civilizational conflict with the West. Meanwhile, Ukraine is getting bolder in their stance against Russia-occupied Crimea. Technology has unfortunately been used for wrongfully accusing people, and at the box office Barbie just reached one billion dollars. As far as sports go, Megan Rapinoe&#39;s World Cup career ended with a missed penalty kick, but her legacy went far beyond soccer. In China, many writers are trying to capture hidden everyday realities that can cause peril. Serial murders have become rarer due to caution and improved technology, but sociopaths are finding new methods of mayhem. Lastly, Cape Cod&#39;s National Park Service wants to lease its shacks traditionally cared for by locals, activists, and artists. The Pro Football Hall of Fame has even asked a jazz artist to reign in rambling speeches from inductees.</p>
+There is a lot happening in the political world. Kamala Harris is trying to reclaim momentum in the 2024 campaign and Donald Trump is calling for a judge&#39;s recusal as his lawyer deems efforts to overturn the election &#39;aspirational&#39;. Ron DeSantis is also amping up retail campaign politics in Iowa. In international news, Vladimir Putin is trying to lead Russians into a civilizational conflict with the West and Ukrainian forces have fired drones at Moscow. On the technology front, facial recognition technology has wrongfully accused someone of a crime. Movies are still being released, such as Barbie which just reached $1 billion at the box office, while athletes like Megan Rapinoe and Alessia Russo are making headlines. Creative writers in China are also looking for ways to capture hidden everyday realities, and murders have become so rare due to improved technology. Lastly, there&#39;s a fight over dune shacks in Cape Cod that have been cared for by locals, activists, and artists.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Kamala Harris Takes on a Forceful New Role in the 2024 Campaign</h3>
@@ -72,6 +72,12 @@ The United States is in the midst of a big election season, with Kamala Harris t
 <h3>Trump Calls for Judge’s Recusal as His Lawyer Deems Effort to Overturn Election ‘Aspirational’</h3>
 <sub>By Luke Broadwater and Maggie Astor</sub>
 <p>Former President Donald J. Trump spent the weekend on the attack on Truth Social while his lawyer, John F. Lauro, ran through a gantlet of interviews Sunday morning.  <a href="https://nyti.ms/45hsN8d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Barbecues, Fairs and Weddings: Ron DeSantis Amps Up Retail Politics in Iowa</h3>
+<sub>By Nicholas Nehamas</sub>
+<p>The Florida governor, who has struggled at times to connect with voters, is looking for every opportunity to show he is all-in with Iowa Republicans.  <a href="https://nyti.ms/47g2HEF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -105,9 +111,9 @@ The United States is in the midst of a big election season, with Kamala Harris t
 <sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>How the U.S. Was Eliminated, Shot by Shot</h3>
-<sub>By Juliet Macur</sub>
-<p>The shootout was rapid-fire, but still agonizing for both Sweden, which moved to the World Cup quarterfinals, and the United States, which was eliminated.  <a href="https://nyti.ms/44YhVwb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Alessia Russo Is Ready for Her Next Big Moment</h3>
+<sub>By Ella Braidwood</sub>
+<p>The England striker scored her first World Cup goal last week. She is just getting started.  <a href="https://nyti.ms/3Yobdgy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
@@ -127,12 +133,6 @@ The United States is in the midst of a big election season, with Kamala Harris t
 <sub>By Jenna Russell</sub>
 <p>The shacks have been cared for by locals, activists and artists. Now the National Park Service plans to lease them to bidders.  <a href="https://nyti.ms/43VSutZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>This Jazz Artist Makes Pro Football Hall of Fame Speeches Sing</h3>
-<sub>By Ken Belson</sub>
-<p>When the Pro Football Hall of Fame’s inductees began to ramble, executives turned to Jezra Kaye to help them rein it in.  <a href="https://nyti.ms/43SdmCq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
