@@ -60,7 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, August 7, Central Standard Time</p>
 <p>
-It looks like meaningful progress and changes are being made in the US political scene with Kamala Harris taking on a powerful role in the 2024 election, along with a bunch of Republican candidates who are out campaigning to compete. Globally, Russia is continuing its conflict with the West and Ukraine has become bolder in retaliating against Moscow. The US government has given out some pandemic bailouts, but unfortunately they didn&#39;t necessarily save companies like Yellow Cargo from going bankrupt. And while serial killings have become rare, new methods of mayhem are still concern. Finally, in entertainment news, we&#39;ve seen the movie &quot;Barbie&quot; reach an unprecedented milestone and Megan Rapinoe had an ending to her soccer career that was both unforgettable and impactful.</p>
+Right now, US Vice President Kamala Harris is trying to regain the momentum that thrust her into the White House in 2020. Former President Donald Trump and his lawyer John F. Lauro are trying to overturn the election results, while Republican candidates flock to Iowa to prove themselves in a new era. 
+
+Elsewhere, Russian President Vladimir Putin is leading Russians into a civilizational conflict with the West, while Ukraine has grown bolder by attacking Moscow-connected bridges. In the US, a pregnant woman was wrongfully arrested because of inaccurate facial recognition technology. 
+
+In terms of entertainment, the movie &quot;Barbie&quot; has made it to $1 billion at the box office and England striker Alessia Russo scored her first World Cup goal last week. People in China are attempting to tell forbidden stories since many writers wish to capture everyday realities kept hidden by the government. 
+
+The trucking firm Yellow that received a $700 million bailout has declared bankruptcy, which according to the Trump administration was supposed to make money for the federal government. Serial murders have lessened due to improved technology, but sociopaths have shifted their methods of mayhem. Finally, an ongoing conflict on Cape Cod is centered around some dune shacks, as locals, activists, and artists plead their case against the National Park Service who want to lease them out.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Kamala Harris Takes on a Forceful New Role in the 2024 Campaign</h3>
@@ -105,12 +111,6 @@ It looks like meaningful progress and changes are being made in the US political
 <sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>For Megan Rapinoe, an Ending Not Even She Could Have Imagined</h3>
-<sub>By Jeré Longman</sub>
-<p>A missed penalty kick was a cruel way to draw down the curtain on a star’s World Cup career. But her influence and legacy were never about soccer alone.  <a href="https://nyti.ms/3OnSY6u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Alessia Russo Is Ready for Her Next Big Moment</h3>
 <sub>By Ella Braidwood</sub>
 <p>The England striker scored her first World Cup goal last week. She is just getting started.  <a href="https://nyti.ms/3Yobdgy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -132,6 +132,12 @@ It looks like meaningful progress and changes are being made in the US political
 <h3>Twilight of the Serial Killer: Cases Like Gilgo Beach Become Ever Rarer</h3>
 <sub>By Hurubie Meko</sub>
 <p>Serial murders have dwindled, thanks to a cautious citizenry and improved technology. But sociopaths have found new methods of mayhem.  <a href="https://nyti.ms/4533o2E"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Fight Over the Dune Shacks of Cape Cod: No Power, No Water — but Eugene O’Neill Was Here</h3>
+<sub>By Jenna Russell</sub>
+<p>The shacks have been cared for by locals, activists and artists. Now the National Park Service plans to lease them to bidders.  <a href="https://nyti.ms/43VSutZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
 <hr/>
 </ol>
