@@ -60,7 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, August 7, Central Standard Time</p>
 <p>
-There are a lot of changes happening around the world right now. In the US, former President Donald Trump is making efforts to overturn the election, and Nikki Haley is competing in a one-sided primary. Meanwhile, Ukraine&#39;s marines are putting up a fight against Russia, and Vladimir Putin is leading Russians in civilizational conflict with the West. In China, President Xi Jinping&#39;s missile force is under scrutiny due to a purge. On the economic front, high interest rates are making it expensive to borrow money, and the controversial trucking firm Yellow that got a $700 million US bailout recently declared bankruptcy. To make things even more complicated, there are questions about whether Audubon has ties to slavery, and whether social justice applies to birds. Finally, the US women&#39;s team was eliminated from the Women&#39;s World Cup by only a millimeter!</p>
+It seems like there are lots of big stories happening in the world right now. In Ukraine, the government has replaced the Soviet emblem on the Kyiv Motherland Monument with a new symbol.  Meanwhile, some Ukrainian troops trained and supplied by NATO are continuing their counteroffensive against opposition forces.
+
+In the US, Nikki Haley is working hard to stay competitive in a one-sided Republican primary for an election. She&#39;s facing off against Former President Donald J. Trump who has recently called for a judge’s recusal as his lawyer deemed the effort to overturn the election ‘aspirational’.
+
+In business news, trucking firm Yellow that got a $700million bailout from the Trump administration has declared bankruptcy despite expecting it to turn a profit. Interest rates are also expected to fall but it&#39;s still too high for many looking to buy cars or homes right now.
+
+Sports wise, the US Women&#39;s Soccer team was eliminated from the Women&#39;s World Cup by a millimeter gap which highlighted their wider deficiencies in playing compared to other top countries. </p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Trucking Firm That Got $700 Million U.S. Bailout Declares Bankruptcy</h3>
@@ -75,10 +81,10 @@ There are a lot of changes happening around the world right now. In the US, form
 <sub><sub>Monday, August 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Putin’s Forever War</h3>
-<sub>By Roger Cohen and Nanna Heitmann</sub>
-<p>Vladimir Putin wants to lead Russians into a civilizational conflict with the West far larger than Ukraine. Will they follow him?  <a href="https://nyti.ms/3KvPGNr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
+<h3>Ukraine Replaces Soviet Emblem on Kyiv’s Motherland Monument</h3>
+<sub>By Cassandra Vinograd and Sarah Eckinger</sub>
+<p>The Motherland Monument — a 335-foot-tall stainless steel behemoth towering over Ukraine’s capital — was unveiled in 1981 and designed to assert Soviet invincibility.  <a href="https://nyti.ms/3Oo73kg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>How Long Will Interest Rates Stay High?</h3>
@@ -104,8 +110,14 @@ There are a lot of changes happening around the world right now. In the US, form
 <p>Singles are signing up in droves for city-hosted blind-dating events, but some point to their inability to address real issues with family planning.  <a href="https://nyti.ms/3YrNcFG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 7, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>There Might Be Less Plastic in the Sea Than We Thought. But Read On.</h3>
+<sub>By Delger Erdenesanaa</sub>
+<p>A new study might sound like good news, but there’s a problem: Ocean pollution appears to be growing fast.  <a href="https://nyti.ms/3OLA76N"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 7, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Xi Remade China’s Military to His Liking. Now a Purge Threatens Its Image.</h3>
+<h3>Xi Rebuilt the Military to His Liking. Now a Shake-up Threatens Its Image</h3>
 <sub>By Chris Buckley</sub>
 <p>Xi Jinping, China’s leader, set out to clean up the military a decade ago. But now his crown jewel, the missile force, is under a shadow.  <a href="https://nyti.ms/3QtFI2U"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 7, Central Standard Time</sub></sub>
@@ -126,12 +138,6 @@ There are a lot of changes happening around the world right now. In the US, form
 <h3>A Tiny Gap Reveals a Yawning One for the U.S. Women’s Team</h3>
 <sub>By Rory Smith</sub>
 <p>The idea that the United States was eliminated from the Women’s World Cup by a millimeter is an illusion. Denying that will only guarantee more failures.  <a href="https://nyti.ms/3YsV4Xd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Is Social Justice for the Birds? Audubon Attempts an Answer.</h3>
-<sub>By Clyde McGrady</sub>
-<p>A battle over the group namesake’s ties to slavery grew into a conflict over diversity, highlighting complications that have arisen in the aftermath of George Floyd’s death.  <a href="https://nyti.ms/3YqmGfJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
