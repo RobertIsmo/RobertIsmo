@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Sunday, August 6, Central Standard Time</p>
+<p>It is Monday, August 7, Central Standard Time</p>
 <p>
-There is a lot happening in the political world. Kamala Harris is trying to reclaim momentum in the 2024 campaign and Donald Trump is calling for a judge&#39;s recusal as his lawyer deems efforts to overturn the election &#39;aspirational&#39;. Ron DeSantis is also amping up retail campaign politics in Iowa. In international news, Vladimir Putin is trying to lead Russians into a civilizational conflict with the West and Ukrainian forces have fired drones at Moscow. On the technology front, facial recognition technology has wrongfully accused someone of a crime. Movies are still being released, such as Barbie which just reached $1 billion at the box office, while athletes like Megan Rapinoe and Alessia Russo are making headlines. Creative writers in China are also looking for ways to capture hidden everyday realities, and murders have become so rare due to improved technology. Lastly, there&#39;s a fight over dune shacks in Cape Cod that have been cared for by locals, activists, and artists.</p>
+It looks like meaningful progress and changes are being made in the US political scene with Kamala Harris taking on a powerful role in the 2024 election, along with a bunch of Republican candidates who are out campaigning to compete. Globally, Russia is continuing its conflict with the West and Ukraine has become bolder in retaliating against Moscow. The US government has given out some pandemic bailouts, but unfortunately they didn&#39;t necessarily save companies like Yellow Cargo from going bankrupt. And while serial killings have become rare, new methods of mayhem are still concern. Finally, in entertainment news, we&#39;ve seen the movie &quot;Barbie&quot; reach an unprecedented milestone and Megan Rapinoe had an ending to her soccer career that was both unforgettable and impactful.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Kamala Harris Takes on a Forceful New Role in the 2024 Campaign</h3>
@@ -75,10 +75,10 @@ There is a lot happening in the political world. Kamala Harris is trying to recl
 <sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Barbecues, Fairs and Weddings: Ron DeSantis Amps Up Retail Politics in Iowa</h3>
-<sub>By Nicholas Nehamas</sub>
-<p>The Florida governor, who has struggled at times to connect with voters, is looking for every opportunity to show he is all-in with Iowa Republicans.  <a href="https://nyti.ms/47g2HEF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
+<h3>In Iowa, the Cattle Calls. And Republican Candidates Look to Answer.</h3>
+<sub>By Trip Gabriel</sub>
+<p>Every four years, politicians flock to Iowa to prove their mettle. It’s different in the Trump era.  <a href="https://nyti.ms/3OsTXCa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Putin’s Forever War</h3>
@@ -122,16 +122,16 @@ There is a lot happening in the political world. Kamala Harris is trying to recl
 <p>Many writers are looking for ways to capture the everyday realities that the government keeps hidden — sometimes at their own peril.  <a href="https://nyti.ms/3rZE2UI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 3, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Trucking Firm That Got $700 Million U.S. Bailout Declares Bankruptcy</h3>
+<sub>By Alan Rappeport</sub>
+<p>A pandemic-era lifeline that the Trump administration predicted would turn a profit for the federal government failed to keep Yellow afloat.  <a href="https://nyti.ms/3QwJ2tY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Twilight of the Serial Killer: Cases Like Gilgo Beach Become Ever Rarer</h3>
 <sub>By Hurubie Meko</sub>
 <p>Serial murders have dwindled, thanks to a cautious citizenry and improved technology. But sociopaths have found new methods of mayhem.  <a href="https://nyti.ms/4533o2E"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Fight Over the Dune Shacks of Cape Cod: No Power, No Water — but Eugene O’Neill Was Here</h3>
-<sub>By Jenna Russell</sub>
-<p>The shacks have been cared for by locals, activists and artists. Now the National Park Service plans to lease them to bidders.  <a href="https://nyti.ms/43VSutZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
 <hr/>
 </ol>
