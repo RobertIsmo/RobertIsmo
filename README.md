@@ -60,12 +60,22 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, August 7, Central Standard Time</p>
 <p>
-There’s a lot going on in the world right now! In Ohio, Republican legislators are trying to amend the state constitution through an election. Florida Governor DeSantis recently acknowledged that Trump lost the 2020 election. There&#39;s also a legal case stemming from the Capitol siege on January 6th. Trump has tried to throw out a countersuit against his accuser E. Jean Carroll and his lawyer deemed his effort to overturn the election &quot;aspirational&quot;. Interest rates are high, there&#39;s a new cryptocurrency project trying to scan billions of human irises, and there is evidence of growing plastic pollution in the oceans. Meanwhile, China&#39;s military power is undergoing a shake-up that is threatening its image. Lastly, the Audubon Society is facing controversy over its ties to slavery in relation to social justice issues.</p>
+Hello! There is a lot happening around the world right now. In Ohio, there&#39;s an election coming up on Tuesday which could potentially amend the state&#39;s constitution related to abortion. In New York, Governor Cuomo&#39;s sister has been working with grassroots activists to help discredit his accusers. Meanwhile, Florida Governor DeSantis has publicly acknowledged Trump&#39;s 2020 defeat for the first time in an interview with NBC News. In other political news, federal prosecutors are asking for a protective order in a case relating to the Jan. 6 insurrection, and President Trump&#39;s countersuit against his accuser E. Jean Carroll was thrown out by a judge.
+
+There have also unfortunately been deaths related to racism recently in the US, such as the killing of Native American man Raymond Mattia at the hands of border patrol agents outside his home in Arizona. To offer contrast, dancer and choreographer O&#39;Shae Sibley&#39;s killing at a Brooklyn gas station serves as a stark reminder of how important expression can be--even when it is seen as threatening.
+
+In terms of global economics, borrowing money is more expensive right now due to higher interest rates, and some projects in offshore wind farms have been running into delays and cost issues raising concerns about whether they can play their part in tackling climate change. Even cryptocurrencies were grabbing headlines with schemes like OpenAI leader Sam Altman&#39;s &#39;Worldcoin&#39; that would scan billions of human irises. And lastly, summer camps are increasingly looking more closely at the mental health needs of kids they care for as America grapples with a mental-health crisis.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Abortion Drives Ohio Election on Amending the State Constitution</h3>
 <sub>By Michael Wines</sub>
 <p>The election on Tuesday highlights how Republican legislators are using their power in Ohio and elsewhere.  <a href="https://nyti.ms/3YmIysl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>The Secret Hand Behind the Women Who Stood by Cuomo? His Sister.</h3>
+<sub>By Nicholas Fandos</sub>
+<p>For nearly two years, Madeline Cuomo quietly worked with grass-roots activists to help smear her brother’s accusers. He was “seeing everything,” she told his defenders.  <a href="https://nyti.ms/44YoNd8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -80,28 +90,22 @@ There’s a lot going on in the world right now! In Ohio, Republican legislators
 <p>The orders, which can vary greatly in severity, generally ask that the defense use discovery evidence only to pursue actions related to the case itself and to not release it widely.  <a href="https://nyti.ms/3QsrMWM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Calls for Judge’s Recusal as His Lawyer Deems Effort to Overturn Election ‘Aspirational’</h3>
-<sub>By Luke Broadwater and Maggie Astor</sub>
-<p>Former President Donald J. Trump spent the weekend on the attack on Truth Social while his lawyer, John F. Lauro, ran through a gantlet of interviews Sunday morning.  <a href="https://nyti.ms/45hsN8d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Judge Throws Out Trump’s Countersuit Against E. Jean Carroll</h3>
 <sub>By Karen Zraick</sub>
 <p>The former president argued that Ms. Carroll, a former columnist, should not have said that he raped her after a jury found him liable for sexual abuse.  <a href="https://nyti.ms/45fb7tZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Trucking Firm That Got $700 Million U.S. Bailout Declares Bankruptcy</h3>
-<sub>By Alan Rappeport and Madeleine Ngo</sub>
-<p>A pandemic-era lifeline that the Trump administration predicted would turn a profit for the federal government failed to keep Yellow afloat.  <a href="https://nyti.ms/3QwJ2tY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Killing of Native American Man Stirs Anger at Border Patrol</h3>
+<sub>By Jack Healy</sub>
+<p>Raymond Mattia was shot nine times by agents late one night outside his home on tribal lands in Arizona.  <a href="https://nyti.ms/3qd26Tz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘It’s Not a Sprint,’ Ukraine’s Marines Insist. ‘It’s a Marathon.’</h3>
-<sub>By Carlotta Gall, Oleksandr Chubko and Diego Ibarra Sanchez</sub>
-<p>Journalists from The Times spent two weeks with troops from brigades trained and supplied by NATO to get their take on how, and where, the counteroffensive is going.  <a href="https://nyti.ms/3qdtErT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>O’Shae Sibley’s ‘Expression Was Turned Into Resistance’</h3>
+<sub>By Gia Kourlas</sub>
+<p>The killing of the dancer and choreographer at a Brooklyn gas station is a stark reminder that some forms of expression are still seen as threatening.  <a href="https://nyti.ms/3OPbaaI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -110,28 +114,28 @@ There’s a lot going on in the world right now! In Ohio, Republican legislators
 <p>It’s pricey to borrow to buy a business, car or home these days. Interest rates are expected to fall in coming years — how much is up for debate.  <a href="https://nyti.ms/3QnwIwa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 7, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Summer Camp: Sun, Swimming, Archery. And Therapy.</h3>
+<sub>By Ellen Barry and Brittainy Newman</sub>
+<p>As the United States grapples with a mental-health crisis, summer camps are looking more closely at the children in their care.  <a href="https://nyti.ms/3OIFiV4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘It’s Not a Sprint,’ Ukraine’s Marines Insist. ‘It’s a Marathon.’</h3>
+<sub>By Carlotta Gall, Oleksandr Chubko and Diego Ibarra Sanchez</sub>
+<p>Journalists from The Times spent two weeks with troops from brigades trained and supplied by NATO to get their take on how, and where, the counteroffensive is going.  <a href="https://nyti.ms/3qdtErT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 7, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Crypto’s Next Craze? Orbs That Scan Your Eyeballs.</h3>
 <sub>By David Yaffe-Bellany</sub>
 <p>Sam Altman, OpenAI’s chief executive, has started Worldcoin, a cryptocurrency project that aims to scan billions of human irises.  <a href="https://nyti.ms/443BmT8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>There Might Be Less Plastic in the Sea Than We Thought. But Read On.</h3>
-<sub>By Delger Erdenesanaa</sub>
-<p>A new study might sound like good news, but there’s a problem: Ocean pollution appears to be growing fast.  <a href="https://nyti.ms/3OLA76N"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Xi Rebuilt the Military to His Liking. Now a Shake-up Threatens Its Image</h3>
-<sub>By Chris Buckley</sub>
-<p>Xi Jinping, China’s leader, set out to clean up the military a decade ago. But now his crown jewel, the missile force, is under a shadow.  <a href="https://nyti.ms/3QtFI2U"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Is Social Justice for the Birds? Audubon Attempts an Answer.</h3>
-<sub>By Clyde McGrady</sub>
-<p>A battle over the group namesake’s ties to slavery grew into a conflict over diversity, highlighting complications that have arisen in the aftermath of George Floyd’s death.  <a href="https://nyti.ms/3YqmGfJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Offshore Wind Runs Into Rising Costs and Delays</h3>
+<sub>By Stanley Reed and Ivan Penn</sub>
+<p>Some troubled projects are raising concerns about the role to be played by offshore wind farms in tackling climate change.  <a href="https://nyti.ms/3qcwXzC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
