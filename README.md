@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, August 7, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. For one, the Republican Presidential contenders are attempting to capitalize on people&#39;s distrust in courts, schools, and the military. Additionally, prosecutors in the Jan. 6 Capitol insurrection case have asked for protective orders to prevent widespread distribution of evidence collected in the case. Trump was even dealt a defeat when a judge threw out his countersuit against E. Jean Carroll, who has accused him of sexual abuse. To add insult to injury, he cheered on the recent US Women&#39;s Soccer Team loss on the world stage. In Ohio, voters are being asked to consider backing a Constitutional amendment which pertains to abortion rights. Severe weather also caused flights across Eastern US airports to be grounded, affecting travel nationwide. New York is dealing with its own news; Gov Cuomo&#39;s sister worked behind-the-scenes with grassroots activists defending him against numerous sexual assault accusers. On top of this, O’Shae Sibley’s senseless killing is a stark reminder that some forms of expression remain threatening even today. There was also news regarding businesses—a transportation giant called Yellow filed for bankruptcy after receiving billions in federal pandemic aid, despite doing well compared to competitors. And finally, summer camps are increasingly focusing their attention on therapy as mental health comes into focus amid crisis in America today. William Friedkin, famed director of The French Connection and The Exorcist also recently passed away at 87 years old.</p>
+It looks like a lot is going on in the news right now. A few key themes include mistrust in government institutions among GOP contenders, discussions around justice systems and the use of protective orders in the Jan 6th case, debates pertaining to abortion in Ohio, the death of a Native American man at the Arizona border, and Madeline Cuomo&#39;s role in standing by Andrew Cuomo. Additionally, trucking companies are having trouble keeping up, summer camps are doing more to promote mental health, and a storm system has taken many lives and left many homes without power. Lastly, there&#39;s also some sad news about the death of William Friedkin, director of The French Connection and The Exorcist.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>G.O.P. Contenders Feed Voter Distrust in Courts, Schools and Military</h3>
@@ -92,12 +92,6 @@ There&#39;s a lot going on in the world right now. For one, the Republican Presi
 <p>The election on Tuesday highlights how Republican legislators are using their power in Ohio and elsewhere.  <a href="https://nyti.ms/3YmIysl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Flights grounded at airports across the Eastern U.S. because of severe weather.</h3>
-<sub>By Jesus Jiménez</sub>
-<p>The groundings caused a ripple effect of delays across the country.  <a href="https://nyti.ms/3OLHVVT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 7, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>The Secret Hand Behind the Women Who Stood by Cuomo? His Sister.</h3>
 <sub>By Nicholas Fandos</sub>
@@ -113,7 +107,7 @@ There&#39;s a lot going on in the world right now. For one, the Republican Presi
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>A Trucking Giant Is Bankrupt, and Finger-Pointing Begins</h3>
 <sub>By Peter Eavis</sub>
-<p>Yellow, which received billions in federal pandemic aid, failed after being a laggard for years in a part of the industry where rivals are doing well.  <a href="https://nyti.ms/3qkhq0s"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Yellow, which was lent $700 million in U.S. pandemic relief, failed after being a laggard for years in a part of the industry where rivals are doing well.  <a href="https://nyti.ms/3qkhq0s"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
@@ -121,6 +115,12 @@ There&#39;s a lot going on in the world right now. For one, the Republican Presi
 <sub>By Ellen Barry and Brittainy Newman</sub>
 <p>As the United States grapples with a mental-health crisis, summer camps are looking more closely at the children in their care.  <a href="https://nyti.ms/3OIFiV4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Storms Sweep Across Eastern U.S., Killing at Least 2</h3>
+<sub>By Livia Albeck-Ripka and Judson Jones</sub>
+<p>The complex weather system barreled through a stretch from Georgia to New York, downing trees and power lines and leaving more than a million homes and businesses without power.  <a href="https://nyti.ms/43V9KPX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Killing of Native American Man Stirs Anger at Border Patrol</h3>
