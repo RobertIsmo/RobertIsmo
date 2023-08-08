@@ -59,25 +59,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, August 8, Central Standard Time</p>
-<p>
-It looks like things are really ramping up politically here in the US. Donald Trump and many of his Republican competitors have been feeding voter distrust in courts, schools, and the military. Prosecutors have requested protective orders for ongoing criminal cases that have arisen from the Jan 6 attack on the Capitol. A judge threw out Trump&#39;s countersuit against a former columnist who accused him of sexual abuse. Trump also cheered a US Women&#39;s Soccer Team defeat which is a stark reminder that some forms of expression are still considered threatening. In Ohio, an election is underway to potentially amend the state constitution regarding abortions laws. Additionally, there&#39;s been uncovering of a secret hand behind some of Trump&#39;s supporters who may have tried to discredit his accusers. Sinéad O&#39;Connor was just laid to rest, and the movie director William Friedkin died at 87 after setting records with his box office hits from the 70s. With all this said, Trump is unlikely to be taken down by authorities because he claims they&#39;re corrupt and arrayed against him.,</p>
+<p>The world is going through a period of transition right now as governments around the world are dealing with the aftermath of the pandemic. In China, college graduates are facing bleak job prospects so schools are under pressure from Beijing to secure jobs for them. Meanwhile, Taiwan is using its cuisine to shape a distinct culture to differentiate itself from China. In the U.S., Congress&#39;s punishments have become politicized and normalized and Republican contenders are feeding into voter distrust in courts, schools and the military. Former President Trump also recently taunted the U.S. women&#39;s soccer team for their loss on the global stage. Further afield, military tensions have risen in Ukraine&#39;s Black Sea region, prompting the U.A.E., a wealthy ally of the U.S., to diverge from American foreign policy towards Russia and China. In Ohio, citizens will be voting on whether to amend the state constitution in an important abortion rights referendum while Ireland is mourning the death of singer Sinéad O&#39;Connor. Finally, Zoom has surprisingly decided that it wants its employees back in the office while scientists are busy teaching chimpanzees to seek safety during storms!</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Don’t Be So Picky About a Job, China’s College Graduates Are Told</h3>
+<sub>By Claire Fu and Daisuke Wakabayashi</sub>
+<p>Under pressure from Beijing, Chinese schools have been told to do more to secure jobs for students, who are facing bleak prospects.  <a href="https://nyti.ms/442sc9v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>What Cuisine Means to Taiwan’s Identity and Its Clash With China</h3>
+<sub>By Li Yuan</sub>
+<p>Chefs and restaurant owners are using a multiplicity of ingredients and tastes to reflect Taiwan’s roots, shaping a distinct culinary culture.  <a href="https://nyti.ms/441yshV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Once Rare, Impeachments and Censures Have Become the Norm in Congress</h3>
+<sub>By Carl Hulse</sub>
+<p>Punishments meant to be used only in the most serious circumstances have grown politicized and normalized. New charges against former President Donald J. Trump are likely to spur more recriminations.  <a href="https://nyti.ms/3YoMHfs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 8, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>G.O.P. Contenders Feed Voter Distrust in Courts, Schools and Military</h3>
 <sub>By Jennifer Medina</sub>
 <p>As Donald J. Trump has escalated his attacks on the justice system and other core institutions, his competitors for the Republican nomination have followed his lead.  <a href="https://nyti.ms/45frdDV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What to Know About Prosecutors’ Request for Protective Order in Jan. 6 Case</h3>
-<sub>By Alan Feuer</sub>
-<p>The orders, which can vary greatly in severity, generally ask that the defense use discovery evidence only to pursue actions related to the case itself and to not release it widely.  <a href="https://nyti.ms/3QsrMWM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Judge Throws Out Trump’s Countersuit Against E. Jean Carroll</h3>
-<sub>By Karen Zraick</sub>
-<p>The former president argued that Ms. Carroll, a former columnist, should not have said that he raped her after a jury found him liable for sexual abuse.  <a href="https://nyti.ms/45fb7tZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -86,52 +91,46 @@ It looks like things are really ramping up politically here in the US. Donald Tr
 <p>The former president taunted a U.S. team after its defeat on the world stage.  <a href="https://nyti.ms/3KrqzLK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 7, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Turbulent Waters: How the Black Sea Became a Hot Spot in the War</h3>
+<sub>By Marc Santora and Steven Erlanger</sub>
+<p>The Black Sea, a largely overlooked part of the war in Ukraine, is suddenly a cauldron of military and geopolitical tensions. The region is deeply important to both Moscow and the West.  <a href="https://nyti.ms/44Z6FzU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>An Oil-Rich Ally Tests Its Relationship With the U.S.</h3>
+<sub>By Vivian Nereim</sub>
+<p>The United Arab Emirates, which has translated its wealth into outsize global influence, is diverging from U.S. foreign policy — particularly when it comes to isolating Russia and limiting ties with China.  <a href="https://nyti.ms/3YoMKrE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-dining-blue" alt="">
+<h3>How Cooking Videos Took Over the World</h3>
+<sub>By Priya Krishna and Umi Syam</sub>
+<p>They are an unavoidable part of being online. But are they making us better cooks?  <a href="https://nyti.ms/3OpjiNx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 7, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Abortion Drives Ohio Election on Amending the State Constitution</h3>
+<h3>What’s at Stake in Ohio’s Referendum on Amending the State Constitution</h3>
 <sub>By Michael Wines</sub>
-<p>The election on Tuesday highlights how Republican legislators are using their power in Ohio and elsewhere.  <a href="https://nyti.ms/3YmIysl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>The Secret Hand Behind the Women Who Stood by Cuomo? His Sister.</h3>
-<sub>By Nicholas Fandos</sub>
-<p>For nearly two years, Madeline Cuomo quietly worked with grass-roots activists to help smear her brother’s accusers. He was “seeing everything,” she told his defenders.  <a href="https://nyti.ms/44YoNd8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>O’Shae Sibley’s ‘Expression Was Turned Into Resistance’</h3>
-<sub>By Gia Kourlas</sub>
-<p>The killing of the dancer and choreographer at a Brooklyn gas station is a stark reminder that some forms of expression are still seen as threatening.  <a href="https://nyti.ms/3OPbaaI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 7, Central Standard Time</sub></sub>
+<p>The vote could play a big role in the future of abortion rights in Ohio. But it also raises questions about the power of ordinary citizens over elected politicians.  <a href="https://nyti.ms/3YnZT4c"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ireland Says Goodbye to Sinéad O’Connor</h3>
 <sub>By Ed O’Loughlin</sub>
-<p>In the coastal town of Bray, south of Dublin, the site of Ms. O’Connor’s last Irish home, mourners prepared to pay their last respects to the singer.  <a href="https://nyti.ms/45kZORc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>In the coastal town of Bray, south of Dublin, the site of Ms. O’Connor’s last Irish home, mourners gathered to pay their respects to the singer.  <a href="https://nyti.ms/45kZORc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>A Trucking Giant Is Bankrupt, and Finger-Pointing Begins</h3>
-<sub>By Peter Eavis</sub>
-<p>Yellow, which was lent $700 million in U.S. pandemic relief, failed after being a laggard for years in a part of the industry where rivals are doing well.  <a href="https://nyti.ms/3qkhq0s"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Even Zoom Is Making People Return to the Office</h3>
+<sub>By Emma Goldberg</sub>
+<p>The tech company that helped millions of people work from home is finally tired of its employees being far away. It’s not the only one that feels that way.  <a href="https://nyti.ms/3OMGwhY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Killing of Native American Man Stirs Anger at Border Patrol</h3>
-<sub>By Jack Healy</sub>
-<p>Raymond Mattia was shot nine times by agents late one night outside his home on tribal lands in Arizona.  <a href="https://nyti.ms/3qd26Tz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>William Friedkin, Director of ‘French Connection’ and ‘Exorcist,’ Dies at 87</h3>
-<sub>By William Grimes</sub>
-<p>He made his name with two of the biggest box-office hits of the 1970s. But despite some later successes, he never regained his early acclaim.  <a href="https://nyti.ms/44Zq3ws"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>Imagine What Another Indictment Could Do for Donald Trump</h3>
-<sub>By Rich Lowry</sub>
-<p>Mr. Trump is unlikely to be taken down by the very authorities he says are corrupt and arrayed against him.  <a href="https://nyti.ms/3Qu9hkD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>Extreme Weather Is Coming. Someone Has to Tell the Chimps.</h3>
+<sub>By Emily Anthes and Emil T. Lippe</sub>
+<p>How do you teach 300 chimpanzees to seek safety in a storm? With cowbells, sound machines and a bright orange Frisbee.  <a href="https://nyti.ms/441r466"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
