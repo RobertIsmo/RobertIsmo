@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, August 8, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. The Republican candidates for the US presidency have been following Donald J. Trump&#39;s lead and taking aim at core American institutions such as the justice system, military, and schools, which has resulted in a great deal of distrust among voters. Prosecutors have asked for a protective order for one of the Jan. 6 cases and recently, former president Donald Trump cheered the defeat of the US women&#39;s soccer team on the world stage. In one of his countersuits, a judge has thrown out Trump&#39;s case against E. Jean Carroll, who previously said he raped her. The state of Ohio is having an election to amend the state constitution concerning abortion rights and there have been accusations from people close to Cuomo that his sister has been working to smear accusers of him in silence. A Black dancer and Coreographer named O&#39;Shae Sibley was recently shot and killed nine times by border patrol agents in Arizona on tribal lands, which has caused an uproar among many residents. Yellow trucking company recently filed for bankruptcy after receiving $700 million in pandemic relief and movie director William Friedkin, who directed &#39;The French Connection&#39; and &#39;Exorcist&#39; died at 87 years old this past week. Lastly, climate change has become a large culture war issue right now and it&#39;s presence can be felt more and more everyday.</p>
+It looks like things are really ramping up politically here in the US. Donald Trump and many of his Republican competitors have been feeding voter distrust in courts, schools, and the military. Prosecutors have requested protective orders for ongoing criminal cases that have arisen from the Jan 6 attack on the Capitol. A judge threw out Trump&#39;s countersuit against a former columnist who accused him of sexual abuse. Trump also cheered a US Women&#39;s Soccer Team defeat which is a stark reminder that some forms of expression are still considered threatening. In Ohio, an election is underway to potentially amend the state constitution regarding abortions laws. Additionally, there&#39;s been uncovering of a secret hand behind some of Trump&#39;s supporters who may have tried to discredit his accusers. Sinéad O&#39;Connor was just laid to rest, and the movie director William Friedkin died at 87 after setting records with his box office hits from the 70s. With all this said, Trump is unlikely to be taken down by authorities because he claims they&#39;re corrupt and arrayed against him.,</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>G.O.P. Contenders Feed Voter Distrust in Courts, Schools and Military</h3>
@@ -104,6 +104,12 @@ There is a lot going on in the world right now. The Republican candidates for th
 <p>The killing of the dancer and choreographer at a Brooklyn gas station is a stark reminder that some forms of expression are still seen as threatening.  <a href="https://nyti.ms/3OPbaaI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 7, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ireland Says Goodbye to Sinéad O’Connor</h3>
+<sub>By Ed O’Loughlin</sub>
+<p>In the coastal town of Bray, south of Dublin, the site of Ms. O’Connor’s last Irish home, mourners prepared to pay their last respects to the singer.  <a href="https://nyti.ms/45kZORc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 8, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>A Trucking Giant Is Bankrupt, and Finger-Pointing Begins</h3>
 <sub>By Peter Eavis</sub>
@@ -126,12 +132,6 @@ There is a lot going on in the world right now. The Republican candidates for th
 <h3>Imagine What Another Indictment Could Do for Donald Trump</h3>
 <sub>By Rich Lowry</sub>
 <p>Mr. Trump is unlikely to be taken down by the very authorities he says are corrupt and arrayed against him.  <a href="https://nyti.ms/3Qu9hkD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>Climate Is Now a Culture War Issue</h3>
-<sub>By Paul Krugman</sub>
-<p>And it couldn’t have happened at a worse time.  <a href="https://nyti.ms/3s75S0Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
