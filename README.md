@@ -60,25 +60,29 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, August 8, Central Standard Time</p>
 <p>
-There&#39;s been a lot going on in the world recently! US politician Ron DeSantis is shaking up his campaign team, and the impeachment and censure of politicians has unfortunately become more normalized. Meanwhile, Chinese college graduates are under pressure to find jobs, while China&#39;s economic recovery is at risk from continued exports decline. In Taiwan, chefs are using unique ingredients to create a distinctive culinary culture apart from China. In New York, a game console giveaway raised tensions over police presence and control. The Black Sea became a rising global political hot spot, and cooking videos have taken over the internet. There&#39;s also an upcoming Ohio referendum that could affect abortion rights in the state. And finally, mourners gathered to pay their respects to iconic Irish singer Sinéad O’Connor in her last home town.</p>
+Right now, there is a lot going on in the world. In Eastern Europe, the Black Sea has become a hot spot of tension in the ongoing war in Ukraine. In politics, Florida&#39;s governor Ron DeSantis is bringing changes to his campaign team as he looks for new ways to get ahead. Meanwhile, the Supreme Court allowed for the regulation of so-called &#39;ghost guns&#39;, untraceable firearms linked with rising violence. 
+
+In East Asia, Chinese college graduates are being told not to be picky with job offers due to Beijing&#39;s pressure, and China is seeing a steep drop in exports which could damage their economic recovery. Over here in New York, police had to manage the chaos of a social media personality&#39;s game console giveaway at Union Square. In the music world, we&#39;re saying goodbye to singer Sinéad O&#39;Connor and also remembering 63 slain rappers who died too young. 
+
+There was also a victory for women wearing whatever they choose in sports - namely the Women’s World Cup and Wimbledon - but it wasn&#39;t enough for some, as former President Trump cheered when the U.S. Women’s Soccer Team lost to Netherlands. And finally on a slightly more positive note, there is news of a weight loss drug that makers say can help reduce heart problems.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Turbulent Waters: How the Black Sea Became a Hot Spot in the War</h3>
+<sub>By Marc Santora and Steven Erlanger</sub>
+<p>The Black Sea, a largely overlooked part of the war in Ukraine, is suddenly a cauldron of military and geopolitical tensions. The region is deeply important to both Moscow, Ukraine and the West.  <a href="https://nyti.ms/44Z6FzU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 8, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis Replaces Campaign Manager in Latest Shake-Up</h3>
+<h3>DeSantis Replaces Campaign Manager in Major Shake-Up</h3>
 <sub>By Nicholas Nehamas, Shane Goldmacher and Maggie Haberman</sub>
-<p>As Ron DeSantis tries to put his campaign back on track, he is replacing Generra Peck with James Uthmeier, one of the most trusted aides in the governor’s office.  <a href="https://nyti.ms/3Oqf8VM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>In another effort to put his struggling campaign back on track, Ron DeSantis is replacing Generra Peck with James Uthmeier, one of the most trusted aides in the governor’s office.  <a href="https://nyti.ms/3Oqf8VM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Once Rare, Impeachments and Censures Have Become the Norm in Congress</h3>
-<sub>By Carl Hulse</sub>
-<p>Punishments meant to be used only in the most serious circumstances have grown politicized and normalized. New charges against former President Donald J. Trump are likely to spur more recriminations.  <a href="https://nyti.ms/3YoMHfs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Supreme Court Revives Biden’s Regulation of ‘Ghost Guns’</h3>
+<sub>By Adam Liptak</sub>
+<p>The president’s administration, citing a rise in violence involving untraced firearms, had asked the justices to step in. The court provisionally allowed the regulation while a challenge moves forward.  <a href="https://nyti.ms/3DOorKa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Cheers the Defeat of Rapinoe and the U.S. Women’s Soccer Team</h3>
-<sub>By Maggie Astor</sub>
-<p>The former president taunted a U.S. team after its defeat on the world stage.  <a href="https://nyti.ms/3KrqzLK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Don’t Be So Picky About a Job, China’s College Graduates Are Told</h3>
@@ -89,14 +93,8 @@ There&#39;s been a lot going on in the world recently! US politician Ron DeSanti
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>China’s Exports Fall Again, Imperiling Its Economic Recovery</h3>
 <sub>By J. Edward Moreno</sub>
-<p>Shipments to trading partners slid 14.5 percent in July from the year before, the biggest decline since February 2020, adding to the pressure on Chinese authorities trying to rekindle growth.  <a href="https://nyti.ms/3KvGFns"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Shipments to trading partners slid 14.5 percent in July from a year earlier, the biggest decline since February 2020, further pressuring Chinese authorities as they try to rekindle growth.  <a href="https://nyti.ms/3KvGFns"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>What Cuisine Means to Taiwan’s Identity and Its Clash With China</h3>
-<sub>By Li Yuan</sub>
-<p>Chefs and restaurant owners are using a multiplicity of ingredients and tastes to reflect Taiwan’s roots, shaping a distinct culinary culture.  <a href="https://nyti.ms/441yshV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>How New York Lost and Regained Control of Union Square</h3>
@@ -104,22 +102,16 @@ There&#39;s been a lot going on in the world recently! US politician Ron DeSanti
 <p>The mayhem touched off by a social media personality’s game console giveaway tested the New York Police Department’s response.  <a href="https://nyti.ms/3s1vQmH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Turbulent Waters: How the Black Sea Became a Hot Spot in the War</h3>
-<sub>By Marc Santora and Steven Erlanger</sub>
-<p>The Black Sea, a largely overlooked part of the war in Ukraine, is suddenly a cauldron of military and geopolitical tensions. The region is deeply important to both Moscow, Ukraine and the West.  <a href="https://nyti.ms/44Z6FzU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Remembering the Rappers We Lost</h3>
+<sub>By Danyel  Smith</sub>
+<p>Biggie. Tupac. DMX. We pay tribute to 63 stars who died too young.  <a href="https://nyti.ms/45lJ4Jd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-dining-blue" alt="">
-<h3>How Cooking Videos Took Over the World</h3>
-<sub>By Priya Krishna and Umi Syam</sub>
-<p>They are an unavoidable part of being online. But are they making us better cooks?  <a href="https://nyti.ms/3OpjiNx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What’s at Stake in Ohio’s Referendum on Amending the State Constitution</h3>
-<sub>By Michael Wines</sub>
-<p>The vote could play a big role in the future of abortion rights in Ohio. But it also raises questions about the power of ordinary citizens over elected politicians.  <a href="https://nyti.ms/3YnZT4c"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The Taliban Won but These Afghans Fought On</h3>
+<sub>By Christina Goldbaum and Najim Rahim</sub>
+<p>But the Afghan resistance movement is no match for the Taliban’s military might.  <a href="https://nyti.ms/3YoQ4CS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -128,11 +120,23 @@ There&#39;s been a lot going on in the world recently! US politician Ron DeSanti
 <p>In the coastal town of Bray, south of Dublin, the site of Ms. O’Connor’s last Irish home, mourners gathered to pay their respects to the singer.  <a href="https://nyti.ms/45kZORc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>Extreme Weather Is Coming. Someone Has to Tell the Chimps.</h3>
-<sub>By Emily Anthes and Emil T. Lippe</sub>
-<p>How do you teach 300 chimpanzees to seek safety in a storm? With cowbells, sound machines and a bright orange Frisbee.  <a href="https://nyti.ms/441r466"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>From the Women’s World Cup to Wimbledon, a Victory Everyone Can Share</h3>
+<sub>By Vanessa Friedman</sub>
+<p>Across sports, female athletes are fighting a battle over what they put on their bodies and how much of those bodies they display.  <a href="https://nyti.ms/45dNQII"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Cheers the Defeat of Rapinoe and the U.S. Women’s Soccer Team</h3>
+<sub>By Maggie Astor</sub>
+<p>The former president taunted a U.S. team after its defeat on the world stage.  <a href="https://nyti.ms/3KrqzLK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Weight Loss Drug Cuts Risk of Heart Problems, Maker Says</h3>
+<sub>By Benjamin Mueller</sub>
+<p>A clinical trial was the first to demonstrate that a new obesity drug could also improve patients’ heart health.  <a href="https://nyti.ms/3YuBpWT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 8, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
