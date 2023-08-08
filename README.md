@@ -59,19 +59,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, August 8, Central Standard Time</p>
-<p>The world is going through a period of transition right now as governments around the world are dealing with the aftermath of the pandemic. In China, college graduates are facing bleak job prospects so schools are under pressure from Beijing to secure jobs for them. Meanwhile, Taiwan is using its cuisine to shape a distinct culture to differentiate itself from China. In the U.S., Congress&#39;s punishments have become politicized and normalized and Republican contenders are feeding into voter distrust in courts, schools and the military. Former President Trump also recently taunted the U.S. women&#39;s soccer team for their loss on the global stage. Further afield, military tensions have risen in Ukraine&#39;s Black Sea region, prompting the U.A.E., a wealthy ally of the U.S., to diverge from American foreign policy towards Russia and China. In Ohio, citizens will be voting on whether to amend the state constitution in an important abortion rights referendum while Ireland is mourning the death of singer Sinéad O&#39;Connor. Finally, Zoom has surprisingly decided that it wants its employees back in the office while scientists are busy teaching chimpanzees to seek safety during storms!</p>
+<p>
+There&#39;s been a lot going on in the world recently! US politician Ron DeSantis is shaking up his campaign team, and the impeachment and censure of politicians has unfortunately become more normalized. Meanwhile, Chinese college graduates are under pressure to find jobs, while China&#39;s economic recovery is at risk from continued exports decline. In Taiwan, chefs are using unique ingredients to create a distinctive culinary culture apart from China. In New York, a game console giveaway raised tensions over police presence and control. The Black Sea became a rising global political hot spot, and cooking videos have taken over the internet. There&#39;s also an upcoming Ohio referendum that could affect abortion rights in the state. And finally, mourners gathered to pay their respects to iconic Irish singer Sinéad O’Connor in her last home town.</p>
 <ol>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Don’t Be So Picky About a Job, China’s College Graduates Are Told</h3>
-<sub>By Claire Fu and Daisuke Wakabayashi</sub>
-<p>Under pressure from Beijing, Chinese schools have been told to do more to secure jobs for students, who are facing bleak prospects.  <a href="https://nyti.ms/442sc9v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>What Cuisine Means to Taiwan’s Identity and Its Clash With China</h3>
-<sub>By Li Yuan</sub>
-<p>Chefs and restaurant owners are using a multiplicity of ingredients and tastes to reflect Taiwan’s roots, shaping a distinct culinary culture.  <a href="https://nyti.ms/441yshV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 7, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>DeSantis Replaces Campaign Manager in Latest Shake-Up</h3>
+<sub>By Nicholas Nehamas, Shane Goldmacher and Maggie Haberman</sub>
+<p>As Ron DeSantis tries to put his campaign back on track, he is replacing Generra Peck with James Uthmeier, one of the most trusted aides in the governor’s office.  <a href="https://nyti.ms/3Oqf8VM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Once Rare, Impeachments and Censures Have Become the Norm in Congress</h3>
@@ -80,27 +75,39 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <sub><sub>Tuesday, August 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>G.O.P. Contenders Feed Voter Distrust in Courts, Schools and Military</h3>
-<sub>By Jennifer Medina</sub>
-<p>As Donald J. Trump has escalated his attacks on the justice system and other core institutions, his competitors for the Republican nomination have followed his lead.  <a href="https://nyti.ms/45frdDV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Cheers the Defeat of Rapinoe and the U.S. Women’s Soccer Team</h3>
 <sub>By Maggie Astor</sub>
 <p>The former president taunted a U.S. team after its defeat on the world stage.  <a href="https://nyti.ms/3KrqzLK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Turbulent Waters: How the Black Sea Became a Hot Spot in the War</h3>
-<sub>By Marc Santora and Steven Erlanger</sub>
-<p>The Black Sea, a largely overlooked part of the war in Ukraine, is suddenly a cauldron of military and geopolitical tensions. The region is deeply important to both Moscow and the West.  <a href="https://nyti.ms/44Z6FzU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Don’t Be So Picky About a Job, China’s College Graduates Are Told</h3>
+<sub>By Claire Fu and Daisuke Wakabayashi</sub>
+<p>Under pressure from Beijing, Chinese schools have been told to do more to secure jobs for students, who are facing bleak prospects.  <a href="https://nyti.ms/442sc9v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>China’s Exports Fall Again, Imperiling Its Economic Recovery</h3>
+<sub>By J. Edward Moreno</sub>
+<p>Shipments to trading partners slid 14.5 percent in July from the year before, the biggest decline since February 2020, adding to the pressure on Chinese authorities trying to rekindle growth.  <a href="https://nyti.ms/3KvGFns"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>What Cuisine Means to Taiwan’s Identity and Its Clash With China</h3>
+<sub>By Li Yuan</sub>
+<p>Chefs and restaurant owners are using a multiplicity of ingredients and tastes to reflect Taiwan’s roots, shaping a distinct culinary culture.  <a href="https://nyti.ms/441yshV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>How New York Lost and Regained Control of Union Square</h3>
+<sub>By Chelsia Rose Marcius and Maria Cramer</sub>
+<p>The mayhem touched off by a social media personality’s game console giveaway tested the New York Police Department’s response.  <a href="https://nyti.ms/3s1vQmH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>An Oil-Rich Ally Tests Its Relationship With the U.S.</h3>
-<sub>By Vivian Nereim</sub>
-<p>The United Arab Emirates, which has translated its wealth into outsize global influence, is diverging from U.S. foreign policy — particularly when it comes to isolating Russia and limiting ties with China.  <a href="https://nyti.ms/3YoMKrE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Turbulent Waters: How the Black Sea Became a Hot Spot in the War</h3>
+<sub>By Marc Santora and Steven Erlanger</sub>
+<p>The Black Sea, a largely overlooked part of the war in Ukraine, is suddenly a cauldron of military and geopolitical tensions. The region is deeply important to both Moscow, Ukraine and the West.  <a href="https://nyti.ms/44Z6FzU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-dining-blue" alt="">
@@ -120,12 +127,6 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <sub>By Ed O’Loughlin</sub>
 <p>In the coastal town of Bray, south of Dublin, the site of Ms. O’Connor’s last Irish home, mourners gathered to pay their respects to the singer.  <a href="https://nyti.ms/45kZORc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Even Zoom Is Making People Return to the Office</h3>
-<sub>By Emma Goldberg</sub>
-<p>The tech company that helped millions of people work from home is finally tired of its employees being far away. It’s not the only one that feels that way.  <a href="https://nyti.ms/3OMGwhY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
 <h3>Extreme Weather Is Coming. Someone Has to Tell the Chimps.</h3>
