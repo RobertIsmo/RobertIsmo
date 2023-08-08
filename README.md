@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Monday, August 7, Central Standard Time</p>
+<p>It is Tuesday, August 8, Central Standard Time</p>
 <p>
-It looks like a lot is going on in the news right now. A few key themes include mistrust in government institutions among GOP contenders, discussions around justice systems and the use of protective orders in the Jan 6th case, debates pertaining to abortion in Ohio, the death of a Native American man at the Arizona border, and Madeline Cuomo&#39;s role in standing by Andrew Cuomo. Additionally, trucking companies are having trouble keeping up, summer camps are doing more to promote mental health, and a storm system has taken many lives and left many homes without power. Lastly, there&#39;s also some sad news about the death of William Friedkin, director of The French Connection and The Exorcist.</p>
+There is a lot going on in the world right now. The Republican candidates for the US presidency have been following Donald J. Trump&#39;s lead and taking aim at core American institutions such as the justice system, military, and schools, which has resulted in a great deal of distrust among voters. Prosecutors have asked for a protective order for one of the Jan. 6 cases and recently, former president Donald Trump cheered the defeat of the US women&#39;s soccer team on the world stage. In one of his countersuits, a judge has thrown out Trump&#39;s case against E. Jean Carroll, who previously said he raped her. The state of Ohio is having an election to amend the state constitution concerning abortion rights and there have been accusations from people close to Cuomo that his sister has been working to smear accusers of him in silence. A Black dancer and Coreographer named O&#39;Shae Sibley was recently shot and killed nine times by border patrol agents in Arizona on tribal lands, which has caused an uproar among many residents. Yellow trucking company recently filed for bankruptcy after receiving $700 million in pandemic relief and movie director William Friedkin, who directed &#39;The French Connection&#39; and &#39;Exorcist&#39; died at 87 years old this past week. Lastly, climate change has become a large culture war issue right now and it&#39;s presence can be felt more and more everyday.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>G.O.P. Contenders Feed Voter Distrust in Courts, Schools and Military</h3>
@@ -110,18 +110,6 @@ It looks like a lot is going on in the news right now. A few key themes include 
 <p>Yellow, which was lent $700 million in U.S. pandemic relief, failed after being a laggard for years in a part of the industry where rivals are doing well.  <a href="https://nyti.ms/3qkhq0s"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Summer Camp: Sun, Swimming, Archery. And Therapy.</h3>
-<sub>By Ellen Barry and Brittainy Newman</sub>
-<p>As the United States grapples with a mental-health crisis, summer camps are looking more closely at the children in their care.  <a href="https://nyti.ms/3OIFiV4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Storms Sweep Across Eastern U.S., Killing at Least 2</h3>
-<sub>By Livia Albeck-Ripka and Judson Jones</sub>
-<p>The complex weather system barreled through a stretch from Georgia to New York, downing trees and power lines and leaving more than a million homes and businesses without power.  <a href="https://nyti.ms/43V9KPX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 7, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Killing of Native American Man Stirs Anger at Border Patrol</h3>
 <sub>By Jack Healy</sub>
@@ -132,6 +120,18 @@ It looks like a lot is going on in the news right now. A few key themes include 
 <h3>William Friedkin, Director of ‘French Connection’ and ‘Exorcist,’ Dies at 87</h3>
 <sub>By William Grimes</sub>
 <p>He made his name with two of the biggest box-office hits of the 1970s. But despite some later successes, he never regained his early acclaim.  <a href="https://nyti.ms/44Zq3ws"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>Imagine What Another Indictment Could Do for Donald Trump</h3>
+<sub>By Rich Lowry</sub>
+<p>Mr. Trump is unlikely to be taken down by the very authorities he says are corrupt and arrayed against him.  <a href="https://nyti.ms/3Qu9hkD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>Climate Is Now a Culture War Issue</h3>
+<sub>By Paul Krugman</sub>
+<p>And it couldn’t have happened at a worse time.  <a href="https://nyti.ms/3s75S0Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
