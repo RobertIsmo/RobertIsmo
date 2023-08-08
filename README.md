@@ -60,40 +60,44 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, August 8, Central Standard Time</p>
 <p>
-Right now, there is a lot going on in the world. In Eastern Europe, the Black Sea has become a hot spot of tension in the ongoing war in Ukraine. In politics, Florida&#39;s governor Ron DeSantis is bringing changes to his campaign team as he looks for new ways to get ahead. Meanwhile, the Supreme Court allowed for the regulation of so-called &#39;ghost guns&#39;, untraceable firearms linked with rising violence. 
+Right now, it looks like the former president Trump is likely to go before a grand jury in Georgia next week over election interference charges. Meanwhile, Florida governor DeSantis has made some changes to his campaign staff as Donald Trump&#39;s influence in the presidential front-runner race grows. 
 
-In East Asia, Chinese college graduates are being told not to be picky with job offers due to Beijing&#39;s pressure, and China is seeing a steep drop in exports which could damage their economic recovery. Over here in New York, police had to manage the chaos of a social media personality&#39;s game console giveaway at Union Square. In the music world, we&#39;re saying goodbye to singer Sinéad O&#39;Connor and also remembering 63 slain rappers who died too young. 
+On the international news front, tensions in the Black Sea have risen as the war in Ukraine continues and the implications of it have become more clear. Additionally, Afghanistan&#39;s resistance movement to the Taliban is no match for their military might. 
 
-There was also a victory for women wearing whatever they choose in sports - namely the Women’s World Cup and Wimbledon - but it wasn&#39;t enough for some, as former President Trump cheered when the U.S. Women’s Soccer Team lost to Netherlands. And finally on a slightly more positive note, there is news of a weight loss drug that makers say can help reduce heart problems.</p>
+Closer to home, several severe storms have caused major damage and disruption in the Eastern US, while New York city officials had some trouble with crowd control when a social media personality gave out free game consoles! 
+
+In sports news, female athletes are fighting for what they wear on the court and are leading a charge against body image scrutiny. Unfortunately, US Women&#39;s Soccer lost recently, only to be taunted by former president Trump himself!
+
+Finally, there&#39;s some good health news - A new weight loss drug has been proven to reduce risk of heart problems too.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Georgia Grand Jury Likely to Hear Trump Case Next Week</h3>
+<sub>By Danny Hakim and Richard Fausset</sub>
+<p>The district attorney in Atlanta is expected to take the findings from an election interference investigation to a grand jury, which could issue indictments.  <a href="https://nyti.ms/47rIfkf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Keeping Track of the Trump Investigations</h3>
+<sub>By The New York Times</sub>
+<p>See a guide to the major criminal cases involving the former president.  <a href="https://nyti.ms/3Q9udxn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>DeSantis Upends Campaign Leadership as Trump Looms and Urgency Grows</h3>
+<sub>By Nicholas Nehamas, Shane Goldmacher and Maggie Haberman</sub>
+<p>Replacing his campaign manager, the Florida governor capped a turbulent period of layoffs, financial worries and a shift in strategy against Donald Trump, the presidential front-runner.  <a href="https://nyti.ms/3Oqf8VM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>By 5-4 Vote, Supreme Court Revives Biden’s Regulation of ‘Ghost Guns’</h3>
+<sub>By Adam Liptak</sub>
+<p>The federal government, citing a rise in violence involving untraced firearms, had asked the justices to step in. The court provisionally allowed the regulation while a challenge moves forward.  <a href="https://nyti.ms/3DOorKa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 8, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Turbulent Waters: How the Black Sea Became a Hot Spot in the War</h3>
 <sub>By Marc Santora and Steven Erlanger</sub>
 <p>The Black Sea, a largely overlooked part of the war in Ukraine, is suddenly a cauldron of military and geopolitical tensions. The region is deeply important to both Moscow, Ukraine and the West.  <a href="https://nyti.ms/44Z6FzU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis Replaces Campaign Manager in Major Shake-Up</h3>
-<sub>By Nicholas Nehamas, Shane Goldmacher and Maggie Haberman</sub>
-<p>In another effort to put his struggling campaign back on track, Ron DeSantis is replacing Generra Peck with James Uthmeier, one of the most trusted aides in the governor’s office.  <a href="https://nyti.ms/3Oqf8VM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Supreme Court Revives Biden’s Regulation of ‘Ghost Guns’</h3>
-<sub>By Adam Liptak</sub>
-<p>The president’s administration, citing a rise in violence involving untraced firearms, had asked the justices to step in. The court provisionally allowed the regulation while a challenge moves forward.  <a href="https://nyti.ms/3DOorKa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Don’t Be So Picky About a Job, China’s College Graduates Are Told</h3>
-<sub>By Claire Fu and Daisuke Wakabayashi</sub>
-<p>Under pressure from Beijing, Chinese schools have been told to do more to secure jobs for students, who are facing bleak prospects.  <a href="https://nyti.ms/442sc9v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>China’s Exports Fall Again, Imperiling Its Economic Recovery</h3>
-<sub>By J. Edward Moreno</sub>
-<p>Shipments to trading partners slid 14.5 percent in July from a year earlier, the biggest decline since February 2020, further pressuring Chinese authorities as they try to rekindle growth.  <a href="https://nyti.ms/3KvGFns"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -114,10 +118,10 @@ There was also a victory for women wearing whatever they choose in sports - name
 <p>But the Afghan resistance movement is no match for the Taliban’s military might.  <a href="https://nyti.ms/3YoQ4CS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ireland Says Goodbye to Sinéad O’Connor</h3>
-<sub>By Ed O’Loughlin</sub>
-<p>In the coastal town of Bray, south of Dublin, the site of Ms. O’Connor’s last Irish home, mourners gathered to pay their respects to the singer.  <a href="https://nyti.ms/45kZORc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Cleanup Begins After Severe Storms Tear Through Eastern U.S.</h3>
+<sub>By Jesus Jiménez and Rebecca Carballo</sub>
+<p>Air travel was slowly returning to normal, as thousands of homes and businesses remained without power. The powerful storm system moved on to New England, bringing heavy rains and floods.  <a href="https://nyti.ms/3s0txjY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
