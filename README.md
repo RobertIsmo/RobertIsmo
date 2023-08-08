@@ -60,28 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, August 7, Central Standard Time</p>
 <p>
-Hello! There is a lot happening around the world right now. In Ohio, there&#39;s an election coming up on Tuesday which could potentially amend the state&#39;s constitution related to abortion. In New York, Governor Cuomo&#39;s sister has been working with grassroots activists to help discredit his accusers. Meanwhile, Florida Governor DeSantis has publicly acknowledged Trump&#39;s 2020 defeat for the first time in an interview with NBC News. In other political news, federal prosecutors are asking for a protective order in a case relating to the Jan. 6 insurrection, and President Trump&#39;s countersuit against his accuser E. Jean Carroll was thrown out by a judge.
-
-There have also unfortunately been deaths related to racism recently in the US, such as the killing of Native American man Raymond Mattia at the hands of border patrol agents outside his home in Arizona. To offer contrast, dancer and choreographer O&#39;Shae Sibley&#39;s killing at a Brooklyn gas station serves as a stark reminder of how important expression can be--even when it is seen as threatening.
-
-In terms of global economics, borrowing money is more expensive right now due to higher interest rates, and some projects in offshore wind farms have been running into delays and cost issues raising concerns about whether they can play their part in tackling climate change. Even cryptocurrencies were grabbing headlines with schemes like OpenAI leader Sam Altman&#39;s &#39;Worldcoin&#39; that would scan billions of human irises. And lastly, summer camps are increasingly looking more closely at the mental health needs of kids they care for as America grapples with a mental-health crisis.</p>
+There&#39;s a lot going on in the world right now. For one, the Republican Presidential contenders are attempting to capitalize on people&#39;s distrust in courts, schools, and the military. Additionally, prosecutors in the Jan. 6 Capitol insurrection case have asked for protective orders to prevent widespread distribution of evidence collected in the case. Trump was even dealt a defeat when a judge threw out his countersuit against E. Jean Carroll, who has accused him of sexual abuse. To add insult to injury, he cheered on the recent US Women&#39;s Soccer Team loss on the world stage. In Ohio, voters are being asked to consider backing a Constitutional amendment which pertains to abortion rights. Severe weather also caused flights across Eastern US airports to be grounded, affecting travel nationwide. New York is dealing with its own news; Gov Cuomo&#39;s sister worked behind-the-scenes with grassroots activists defending him against numerous sexual assault accusers. On top of this, O’Shae Sibley’s senseless killing is a stark reminder that some forms of expression remain threatening even today. There was also news regarding businesses—a transportation giant called Yellow filed for bankruptcy after receiving billions in federal pandemic aid, despite doing well compared to competitors. And finally, summer camps are increasingly focusing their attention on therapy as mental health comes into focus amid crisis in America today. William Friedkin, famed director of The French Connection and The Exorcist also recently passed away at 87 years old.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Abortion Drives Ohio Election on Amending the State Constitution</h3>
-<sub>By Michael Wines</sub>
-<p>The election on Tuesday highlights how Republican legislators are using their power in Ohio and elsewhere.  <a href="https://nyti.ms/3YmIysl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>The Secret Hand Behind the Women Who Stood by Cuomo? His Sister.</h3>
-<sub>By Nicholas Fandos</sub>
-<p>For nearly two years, Madeline Cuomo quietly worked with grass-roots activists to help smear her brother’s accusers. He was “seeing everything,” she told his defenders.  <a href="https://nyti.ms/44YoNd8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis Bluntly Acknowledges Trump’s 2020 Defeat: ‘Of Course He Lost’</h3>
-<sub>By Nicholas Nehamas and Alexandra Berzon</sub>
-<p>“Joe Biden’s the president,” the Florida governor said in an interview with NBC News. He and other Republican presidential candidates have been testing new lines of attack against Donald Trump.  <a href="https://nyti.ms/3OJ7K98"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>G.O.P. Contenders Feed Voter Distrust in Courts, Schools and Military</h3>
+<sub>By Jennifer Medina</sub>
+<p>As Donald J. Trump has escalated his attacks on the justice system and other core institutions, his competitors for the Republican nomination have followed his lead.  <a href="https://nyti.ms/45frdDV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -97,9 +81,27 @@ In terms of global economics, borrowing money is more expensive right now due to
 <sub><sub>Monday, August 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Killing of Native American Man Stirs Anger at Border Patrol</h3>
-<sub>By Jack Healy</sub>
-<p>Raymond Mattia was shot nine times by agents late one night outside his home on tribal lands in Arizona.  <a href="https://nyti.ms/3qd26Tz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Trump Cheers the Defeat of Rapinoe and the U.S. Women’s Soccer Team</h3>
+<sub>By Maggie Astor</sub>
+<p>The former president taunted a U.S. team after its defeat on the world stage.  <a href="https://nyti.ms/3KrqzLK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Abortion Drives Ohio Election on Amending the State Constitution</h3>
+<sub>By Michael Wines</sub>
+<p>The election on Tuesday highlights how Republican legislators are using their power in Ohio and elsewhere.  <a href="https://nyti.ms/3YmIysl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Flights grounded at airports across the Eastern U.S. because of severe weather.</h3>
+<sub>By Jesus Jiménez</sub>
+<p>The groundings caused a ripple effect of delays across the country.  <a href="https://nyti.ms/3OLHVVT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>The Secret Hand Behind the Women Who Stood by Cuomo? His Sister.</h3>
+<sub>By Nicholas Fandos</sub>
+<p>For nearly two years, Madeline Cuomo quietly worked with grass-roots activists to help smear her brother’s accusers. He was “seeing everything,” she told his defenders.  <a href="https://nyti.ms/44YoNd8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
@@ -109,9 +111,9 @@ In terms of global economics, borrowing money is more expensive right now due to
 <sub><sub>Monday, August 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How Long Will Interest Rates Stay High?</h3>
-<sub>By Jeanna Smialek</sub>
-<p>It’s pricey to borrow to buy a business, car or home these days. Interest rates are expected to fall in coming years — how much is up for debate.  <a href="https://nyti.ms/3QnwIwa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>A Trucking Giant Is Bankrupt, and Finger-Pointing Begins</h3>
+<sub>By Peter Eavis</sub>
+<p>Yellow, which received billions in federal pandemic aid, failed after being a laggard for years in a part of the industry where rivals are doing well.  <a href="https://nyti.ms/3qkhq0s"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
@@ -120,22 +122,16 @@ In terms of global economics, borrowing money is more expensive right now due to
 <p>As the United States grapples with a mental-health crisis, summer camps are looking more closely at the children in their care.  <a href="https://nyti.ms/3OIFiV4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘It’s Not a Sprint,’ Ukraine’s Marines Insist. ‘It’s a Marathon.’</h3>
-<sub>By Carlotta Gall, Oleksandr Chubko and Diego Ibarra Sanchez</sub>
-<p>Journalists from The Times spent two weeks with troops from brigades trained and supplied by NATO to get their take on how, and where, the counteroffensive is going.  <a href="https://nyti.ms/3qdtErT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Killing of Native American Man Stirs Anger at Border Patrol</h3>
+<sub>By Jack Healy</sub>
+<p>Raymond Mattia was shot nine times by agents late one night outside his home on tribal lands in Arizona.  <a href="https://nyti.ms/3qd26Tz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Crypto’s Next Craze? Orbs That Scan Your Eyeballs.</h3>
-<sub>By David Yaffe-Bellany</sub>
-<p>Sam Altman, OpenAI’s chief executive, has started Worldcoin, a cryptocurrency project that aims to scan billions of human irises.  <a href="https://nyti.ms/443BmT8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Offshore Wind Runs Into Rising Costs and Delays</h3>
-<sub>By Stanley Reed and Ivan Penn</sub>
-<p>Some troubled projects are raising concerns about the role to be played by offshore wind farms in tackling climate change.  <a href="https://nyti.ms/3qcwXzC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>William Friedkin, Director of ‘French Connection’ and ‘Exorcist,’ Dies at 87</h3>
+<sub>By William Grimes</sub>
+<p>He made his name with two of the biggest box-office hits of the 1970s. But despite some later successes, he never regained his early acclaim.  <a href="https://nyti.ms/44Zq3ws"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
