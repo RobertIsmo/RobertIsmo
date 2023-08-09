@@ -60,7 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, August 9, Central Standard Time</p>
 <p>
-It looks like there&#39;s a lot of political drama happening in the US right now, with a memo being released outlining an alleged strategy to overturn Biden&#39;s win, and Trump facing criminal indictments. On the economic side, China is facing deflation and US investment limits are being issued, as well as a real estate giant teetering that could spell trouble for the economy. Meanwhile, some countries around the world are fighting for stolen treasures to be returned home, and there was a large blast at a warehouse near Moscow. In response to increasing overdose deaths in prison, California is trying to treat addiction while inmates are incarcerated.</p>
+There has been a lot of news recently about elections, politics, and the economy. In Ohio, voters rejected an amendment intended to limit access to abortion. This reflects an effort by Republicans to try and curb voting rights. Meanwhile, in the US Presidential election there is still tension between Biden and Trump over the results. 
+
+On the economic front, in China prices are decreasing leading to worries of deflation. To combat this, Biden&#39;s government is trying to limit investments from China due to national security threats. One investment giant, Country Gardens, is facing default which could have a big impact on China&#39;s economy. 
+
+Finally, stolen art and cultural items are starting to be returned home from foreign museums; however many countries with artifacts looted by western nations in the past don&#39;t have the resources to prepare for making claims. In Romania there was an attack by Russian drones very close to NATO territory which has had both physical and psychological effects on those living nearby.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Ohio Vote Shows Abortion’s Potency to Reshape Elections</h3>
@@ -69,21 +73,27 @@ It looks like there&#39;s a lot of political drama happening in the US right now
 <sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Ohio Voters Reject Constitutional Change Intended to Thwart Abortion Amendment</h3>
+<sub>By Michael Wines</sub>
+<p>The contest was seen as a test of efforts by Republicans nationwide to curb voters’ use of ballot initiatives.  <a href="https://nyti.ms/45mXcSv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>A Winning Streak</h3>
+<sub>By David Leonhardt and Ian Prasad Philbrick</sub>
+<p>Ballot initiatives appear to be one of the few ways for advocates to expand abortion access in conservative states.  <a href="https://nyti.ms/450XeQe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Where the 2024 Presidential Contenders Stand on Abortion</h3>
+<sub>By Maggie Astor</sub>
+<p>A year after the Supreme Court overturned Roe v. Wade, abortion continues to be one of the main issues shaping American politics.  <a href="https://nyti.ms/41jELMU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Previously Secret Memo Laid Out Strategy for Trump to Overturn Biden’s Win</h3>
 <sub>By Maggie Haberman, Charlie Savage and Luke Broadwater</sub>
 <p>The House Jan. 6 committee’s investigation did not uncover the memo, whose existence first came to light in last week’s indictment.  <a href="https://nyti.ms/3qmygfc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Georgia Grand Jury Likely to Hear Trump Case Next Week</h3>
-<sub>By Danny Hakim and Richard Fausset</sub>
-<p>The district attorney in Atlanta is expected to take the findings from an election interference investigation to a grand jury, which could issue indictments.  <a href="https://nyti.ms/47rIfkf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Tells Supporters His Criminal Indictments Are About ‘You’</h3>
-<sub>By Nick Corasaniti and Trip Gabriel</sub>
-<p>The former president, who has made his 2024 campaign principally about his own personal grievances, is attempting to convince supporters to see themselves in him.  <a href="https://nyti.ms/47jace1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -99,9 +109,9 @@ It looks like there&#39;s a lot of political drama happening in the US right now
 <sub><sub>Tuesday, August 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Another Chinese Real Estate Giant Teeters, Raising Worries About the Economy</h3>
+<h3>Another Chinese Developer Teeters, Raising Worries About the Economy</h3>
 <sub>By Alexandra Stevenson</sub>
-<p>Country Garden, China’s last big property developer to avoid default, has spooked investors after missing key debt payments, rekindling memories of China Evergrande.  <a href="https://nyti.ms/3YqBn2i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Country Garden, China’s last real estate giant to avoid default, has spooked investors after missing key debt payments, rekindling memories of China Evergrande.  <a href="https://nyti.ms/3YqBn2i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -116,22 +126,16 @@ It looks like there&#39;s a lot of political drama happening in the US right now
 <p>While attention is focused on western museums and governments giving back looted items, heritage workers in the global south are laying the groundwork for new claims.  <a href="https://nyti.ms/3YtLSBX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>DeSantis Suspends Second Elected Prosecutor in Florida</h3>
+<sub>By Patricia Mazzei and Frances Robles</sub>
+<p>The Republican governor accused Monique H. Worrell, the state attorney in Orlando and a Democrat, of leniency toward violent criminals, a charge her office has denied.  <a href="https://nyti.ms/3DN52sT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>After Russian Attack in Ukraine, Broken Glass and Rattled Nerves in Romania</h3>
 <sub>By Andrew Higgins</sub>
 <p>A drone assault on a Danube River port sent shock waves — both the physical and the psychological kind — into villages just across the water that are in NATO territory.  <a href="https://nyti.ms/3OroPTN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Large Blast Hits Warehouse Near Moscow</h3>
-<sub>By Marc Santora</sub>
-<p>Russian officials said dozens were injured in the explosion. The warehouse is on the grounds of a plant that produces night vision devices and binoculars, according to local media.  <a href="https://nyti.ms/3qpxxdb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>California Battles Fentanyl With a New Tactic: Treating Addiction in Prison</h3>
-<sub>By Noah Weiland and Rachel Bujalski</sub>
-<p>In response to soaring overdose deaths in state prisons, California started a sprawling addiction program. But keeping people on medication during and after a sentence can be difficult.  <a href="https://nyti.ms/3OMmTXq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
 <hr/>
 </ol>
