@@ -60,13 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, August 9, Central Standard Time</p>
 <p>
-There is a lot happening in the US and in the world right now. In the US, Republicans have been trying to limit voters’ use of ballot initiatives, previously secret memos have been revealed about strategies to overturn the Biden win, and Donald Trump has been criminal indicted. Across the world, President Biden is imposing restrictions on investments from China due to national security threats. Meanwhile, in Ukraine a series of missiles have killed at least nine people. All of this is very alarming and important for us to stay aware of.</p>
+It looks like there&#39;s a lot of political drama happening in the US right now, with a memo being released outlining an alleged strategy to overturn Biden&#39;s win, and Trump facing criminal indictments. On the economic side, China is facing deflation and US investment limits are being issued, as well as a real estate giant teetering that could spell trouble for the economy. Meanwhile, some countries around the world are fighting for stolen treasures to be returned home, and there was a large blast at a warehouse near Moscow. In response to increasing overdose deaths in prison, California is trying to treat addiction while inmates are incarcerated.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Ohio Voters Reject Constitutional Change Intended to Thwart Abortion Amendment</h3>
-<sub>By Michael Wines</sub>
-<p>The contest was seen as a test of efforts by Republicans nationwide to curb voters’ use of ballot initiatives.  <a href="https://nyti.ms/45mXcSv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 8, Central Standard Time</sub></sub>
+<h3>Ohio Vote Shows Abortion’s Potency to Reshape Elections</h3>
+<sub>By Lisa Lerer</sub>
+<p>The Dobbs ruling has turned a coalition of liberal, swing and moderate Republican voters into a political force. Even in August in Ohio.  <a href="https://nyti.ms/3OPWiJ9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Previously Secret Memo Laid Out Strategy for Trump to Overturn Biden’s Win</h3>
@@ -86,41 +86,11 @@ There is a lot happening in the US and in the world right now. In the US, Republ
 <p>The former president, who has made his 2024 campaign principally about his own personal grievances, is attempting to convince supporters to see themselves in him.  <a href="https://nyti.ms/47jace1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Former N.Y.P.D. Commissioner Bernard Kerik Interviewed by Jan. 6 Prosecutors</h3>
-<sub>By Alan Feuer</sub>
-<p>Mr. Kerik, a close ally of the pro-Trump lawyer Rudolph W. Giuliani, was asked about Mr. Trump’s fund-raising efforts and attempts to investigate fraud in the 2020 election.  <a href="https://nyti.ms/3QDWzjk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis Upends Campaign Leadership as Trump Looms and Urgency Grows</h3>
-<sub>By Nicholas Nehamas, Shane Goldmacher and Maggie Haberman</sub>
-<p>Replacing his campaign manager, the Florida governor capped a turbulent period of layoffs, financial worries and a shift in strategy against Donald Trump, the presidential front-runner.  <a href="https://nyti.ms/3Oqf8VM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>By 5-4 Vote, Supreme Court Revives Biden’s Regulation of ‘Ghost Guns’</h3>
-<sub>By Adam Liptak</sub>
-<p>The federal government, citing a rise in violence involving untraced firearms, had asked the justices to step in. The court provisionally allowed the regulation while a challenge moves forward.  <a href="https://nyti.ms/3DOorKa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘Ghost Guns’: What They Are and Why There’s a Fight Over Them</h3>
-<sub>By Annie Karni and Chris Cameron</sub>
-<p>A rule regulating the firearm kits was a centerpiece of President Biden’s gun control initiative. The Supreme Court has temporarily revived it, but it has been troubled by significant challenges.  <a href="https://nyti.ms/3OOu8hp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Soldier Who Called Out Torture in Iraq Is Laid to Rest at Arlington</h3>
-<sub>By C. J. Chivers</sub>
-<p>Ian Fishback, who left the Army with the rank of major, was a dissident-in-uniform who died at the age of 42 after entering a dizzying mental health spiral.  <a href="https://nyti.ms/4508XPg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Ian Fishback’s American Nightmare</h3>
-<sub>By C.J. Chivers</sub>
-<p>He was a decorated soldier, a whistle-blower against torture. Then he was undone by his own mind — and a health care system that utterly failed him.  <a href="https://nyti.ms/3Z6TEAN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>China’s Economy Faces Yet Another Threat: Falling Prices</h3>
+<sub>By Keith Bradsher</sub>
+<p>A deepening slowdown in the world’s second-biggest economy has now raised fears of deflation, which could be crippling for heavily indebted China.  <a href="https://nyti.ms/3qnCsvk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Biden to Restrict Investments in China, Citing National Security Threats</h3>
@@ -128,11 +98,41 @@ There is a lot happening in the US and in the world right now. In the US, Republ
 <p>The measure to clamp down on investments in certain industries deemed to pose security risks, set to be issued Wednesday, appears likely to open a new front in the U.S.-China economic conflict.  <a href="https://nyti.ms/3qnayzA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 8, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Another Chinese Real Estate Giant Teeters, Raising Worries About the Economy</h3>
+<sub>By Alexandra Stevenson</sub>
+<p>Country Garden, China’s last big property developer to avoid default, has spooked investors after missing key debt payments, rekindling memories of China Evergrande.  <a href="https://nyti.ms/3YqBn2i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Lessons From a Law Firm’s Decision to Leave China</h3>
+<sub>By Andrew Ross Sorkin, Ravi Mattu, Sarah Kessler, Michael J. de la Merced and Ephrat Livni</sub>
+<p>Dentons’ decision to quit the country and new investment limits by the Biden administration underscore the growing challenges facing Western companies there.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>How 4 Countries Are Preparing to Bring Stolen Treasures Home</h3>
+<sub>By Catherine Hickley</sub>
+<p>While attention is focused on western museums and governments giving back looted items, heritage workers in the global south are laying the groundwork for new claims.  <a href="https://nyti.ms/3YtLSBX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Missile Strikes the Heart of a Ukrainian City — and Then Another</h3>
-<sub>By Gaëlle Girbes and Marc Santora</sub>
-<p>Ukrainians say the explosions 37 minutes apart in Pokrovsk, which killed at least nine people and injured 82 others, were a “double tap” intended to kill rescuers responding to the first strike.  <a href="https://nyti.ms/3OMQgsq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 8, Central Standard Time</sub></sub>
+<h3>After Russian Attack in Ukraine, Broken Glass and Rattled Nerves in Romania</h3>
+<sub>By Andrew Higgins</sub>
+<p>A drone assault on a Danube River port sent shock waves — both the physical and the psychological kind — into villages just across the water that are in NATO territory.  <a href="https://nyti.ms/3OroPTN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Large Blast Hits Warehouse Near Moscow</h3>
+<sub>By Marc Santora</sub>
+<p>Russian officials said dozens were injured in the explosion. The warehouse is on the grounds of a plant that produces night vision devices and binoculars, according to local media.  <a href="https://nyti.ms/3qpxxdb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>California Battles Fentanyl With a New Tactic: Treating Addiction in Prison</h3>
+<sub>By Noah Weiland and Rachel Bujalski</sub>
+<p>In response to soaring overdose deaths in state prisons, California started a sprawling addiction program. But keeping people on medication during and after a sentence can be difficult.  <a href="https://nyti.ms/3OMmTXq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
