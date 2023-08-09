@@ -60,41 +60,31 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, August 9, Central Standard Time</p>
 <p>
-There has been a lot of news recently about elections, politics, and the economy. In Ohio, voters rejected an amendment intended to limit access to abortion. This reflects an effort by Republicans to try and curb voting rights. Meanwhile, in the US Presidential election there is still tension between Biden and Trump over the results. 
-
-On the economic front, in China prices are decreasing leading to worries of deflation. To combat this, Biden&#39;s government is trying to limit investments from China due to national security threats. One investment giant, Country Gardens, is facing default which could have a big impact on China&#39;s economy. 
-
-Finally, stolen art and cultural items are starting to be returned home from foreign museums; however many countries with artifacts looted by western nations in the past don&#39;t have the resources to prepare for making claims. In Romania there was an attack by Russian drones very close to NATO territory which has had both physical and psychological effects on those living nearby.</p>
+At the moment there is a lot happening in the world. In the United States, Special Counsel has obtained a search warrant for President Trump&#39;s Twitter account in order to look into events surrounding Jan 6th. There’s also news about a memo that laid out a strategy for Trump to overturn Biden&#39;s win that was uncovered last week. Ohio voters rejected a ballot measure and abortion rights continue to drive turnout there as Republicans are figuring out how to respond. Across the pond in China, their economy is facing yet another threat of falling prices due to a deepening slowdown. In response, Biden is restricting investments in certain industries that pose security risks as many Western companies are having difficulty in that country. In Florida, Governor DeSantis, has suspended two elected prosecutors recently and is apparently trying to hide small-dollar donations by working with Republican fundraising powerhouses. Also, Mayor Adams announced plans for NYC to potentially spend $12 billion on migrants who have been arriving every week and student debt has been made easier to discharge in bankruptcy by the Biden administration but success is still limited unfortunately. Lastly, a drone assault by Russia against a port in Ukraine sent shock waves into villages just across the water in NATO territory leading to broken glass and rattled nerves.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Ohio Vote Shows Abortion’s Potency to Reshape Elections</h3>
-<sub>By Lisa Lerer</sub>
-<p>The Dobbs ruling has turned a coalition of liberal, swing and moderate Republican voters into a political force. Even in August in Ohio.  <a href="https://nyti.ms/3OPWiJ9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Special Counsel Obtained Search Warrant for Trump’s Twitter Account</h3>
+<sub>By Alan Feuer</sub>
+<p>The warrant, obtained in January, adds a new dimension to the scope of the federal inquiry into the events of Jan. 6, 2021.  <a href="https://nyti.ms/454px0u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Ohio Voters Reject Constitutional Change Intended to Thwart Abortion Amendment</h3>
-<sub>By Michael Wines</sub>
-<p>The contest was seen as a test of efforts by Republicans nationwide to curb voters’ use of ballot initiatives.  <a href="https://nyti.ms/45mXcSv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>A Winning Streak</h3>
-<sub>By David Leonhardt and Ian Prasad Philbrick</sub>
-<p>Ballot initiatives appear to be one of the few ways for advocates to expand abortion access in conservative states.  <a href="https://nyti.ms/450XeQe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Where the 2024 Presidential Contenders Stand on Abortion</h3>
-<sub>By Maggie Astor</sub>
-<p>A year after the Supreme Court overturned Roe v. Wade, abortion continues to be one of the main issues shaping American politics.  <a href="https://nyti.ms/41jELMU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Previously Secret Memo Laid Out Strategy for Trump to Overturn Biden’s Win</h3>
 <sub>By Maggie Haberman, Charlie Savage and Luke Broadwater</sub>
 <p>The House Jan. 6 committee’s investigation did not uncover the memo, whose existence first came to light in last week’s indictment.  <a href="https://nyti.ms/3qmygfc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Why Ohio Voters Said No to Ballot Measure</h3>
+<sub>By Campbell Robertson, Rachel Richardson and Daniel McGraw</sub>
+<p>In addition to their views on abortion, many who cast ballots in Ohio’s referendum on Tuesday said they felt the measure’s backers weren’t honest about its purpose.  <a href="https://nyti.ms/3s5R8Qf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>4 Takeaways From Ohio’s Vote on Abortion and Democratic Power</h3>
+<sub>By Maggie Astor</sub>
+<p>Abortion rights continue to drive turnout, and Republicans are struggling to figure out a response.  <a href="https://nyti.ms/3OOT2h3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>China’s Economy Faces Yet Another Threat: Falling Prices</h3>
@@ -109,27 +99,33 @@ Finally, stolen art and cultural items are starting to be returned home from for
 <sub><sub>Tuesday, August 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Another Chinese Developer Teeters, Raising Worries About the Economy</h3>
-<sub>By Alexandra Stevenson</sub>
-<p>Country Garden, China’s last real estate giant to avoid default, has spooked investors after missing key debt payments, rekindling memories of China Evergrande.  <a href="https://nyti.ms/3YqBn2i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Lessons From a Law Firm’s Decision to Leave China</h3>
 <sub>By Andrew Ross Sorkin, Ravi Mattu, Sarah Kessler, Michael J. de la Merced and Ephrat Livni</sub>
 <p>Dentons’ decision to quit the country and new investment limits by the Biden administration underscore the growing challenges facing Western companies there.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>How 4 Countries Are Preparing to Bring Stolen Treasures Home</h3>
-<sub>By Catherine Hickley</sub>
-<p>While attention is focused on western museums and governments giving back looted items, heritage workers in the global south are laying the groundwork for new claims.  <a href="https://nyti.ms/3YtLSBX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>DeSantis, With a Subtle Maneuver, Hides His Small-Dollar Donations</h3>
+<sub>By Rebecca Davis O’Brien and Shane Goldmacher</sub>
+<p>The campaign of the Florida governor, who is known to be reliant on rich donors, worked with a Republican fund-raising powerhouse to prevent the disclosure of information on small contributors.  <a href="https://nyti.ms/3YAf2zp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>DeSantis Suspends Second Elected Prosecutor in Florida</h3>
 <sub>By Patricia Mazzei and Frances Robles</sub>
 <p>The Republican governor accused Monique H. Worrell, the state attorney in Orlando and a Democrat, of leniency toward violent criminals, a charge her office has denied.  <a href="https://nyti.ms/3DN52sT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Mayor Adams Says Migrant Influx Will Cost New York City $12 Billion</h3>
+<sub>By Jeffery C. Mays</sub>
+<p>As newcomers continue to arrive in the hundreds each week, the city increased its estimate for how much it will cost to house them and provide other services.  <a href="https://nyti.ms/47r5UkD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-your-money-blue" alt="">
+<h3>Discharging Student Debt in Bankruptcy Is Supposed to Be Easier Than Before</h3>
+<sub>By Tara Siegel Bernard</sub>
+<p>Last year, the Biden administration provided a new path to make it easier to discharge student loans in bankruptcy. The results appear promising, but success has been limited.  <a href="https://nyti.ms/3Ky6vHu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
