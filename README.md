@@ -60,20 +60,26 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, August 8, Central Standard Time</p>
 <p>
-Right now, it looks like the former president Trump is likely to go before a grand jury in Georgia next week over election interference charges. Meanwhile, Florida governor DeSantis has made some changes to his campaign staff as Donald Trump&#39;s influence in the presidential front-runner race grows. 
+Right now there is a lot of political drama happening in the US. Ohio voters recently rejected a constitutional change that would have hampered abortion rights, and Georgia is expected to bring election interference findings to a grand jury next week. In other news, former New York Police Commissioner Bernard Kerik was interviewed by investigators on January 6th in relation to Donald Trump&#39;s fund-raising efforts and attempts to investigate fraud in the 2020 election. Additionally, Florida governor DeSantis has just changed his campaign strategy because of Donald Trump&#39;s looming presence as the presidential front-runner.Moving to legal matters, the US Supreme Court voted 5-4 to revive Joe Biden’s regulation of so called “ghost guns”, which are untraced firearms that have been linked to an increase in violence across the country. 
 
-On the international news front, tensions in the Black Sea have risen as the war in Ukraine continues and the implications of it have become more clear. Additionally, Afghanistan&#39;s resistance movement to the Taliban is no match for their military might. 
-
-Closer to home, several severe storms have caused major damage and disruption in the Eastern US, while New York city officials had some trouble with crowd control when a social media personality gave out free game consoles! 
-
-In sports news, female athletes are fighting for what they wear on the court and are leading a charge against body image scrutiny. Unfortunately, US Women&#39;s Soccer lost recently, only to be taunted by former president Trump himself!
-
-Finally, there&#39;s some good health news - A new weight loss drug has been proven to reduce risk of heart problems too.</p>
+On a lighter note, there has been good news from various sports events; at the Women&#39;s World Cup and Wimbledon for example, female athletes are finally getting recognition for their hard work and making history. Last but not least, rapper Tory Lanez was sentenced to 10 years for shooting Megan Thee Stallion during an argument.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Ohio Voters Reject Constitutional Change Intended to Thwart Abortion Amendment</h3>
+<sub>By Michael Wines</sub>
+<p>The contest was seen as a test of efforts by Republicans nationwide to curb voters’ use of ballot initiatives.  <a href="https://nyti.ms/45mXcSv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 8, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Georgia Grand Jury Likely to Hear Trump Case Next Week</h3>
 <sub>By Danny Hakim and Richard Fausset</sub>
 <p>The district attorney in Atlanta is expected to take the findings from an election interference investigation to a grand jury, which could issue indictments.  <a href="https://nyti.ms/47rIfkf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Former N.Y.P.D. Commissioner Bernard Kerik Interviewed by Jan. 6 Prosecutors</h3>
+<sub>By Alan Feuer</sub>
+<p>Mr. Kerik, a close ally of the pro-Trump lawyer Rudolph W. Giuliani, was asked about Mr. Trump’s fund-raising efforts and attempts to investigate fraud in the 2020 election.  <a href="https://nyti.ms/3QDWzjk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -94,34 +100,28 @@ Finally, there&#39;s some good health news - A new weight loss drug has been pro
 <p>The federal government, citing a rise in violence involving untraced firearms, had asked the justices to step in. The court provisionally allowed the regulation while a challenge moves forward.  <a href="https://nyti.ms/3DOorKa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Turbulent Waters: How the Black Sea Became a Hot Spot in the War</h3>
-<sub>By Marc Santora and Steven Erlanger</sub>
-<p>The Black Sea, a largely overlooked part of the war in Ukraine, is suddenly a cauldron of military and geopolitical tensions. The region is deeply important to both Moscow, Ukraine and the West.  <a href="https://nyti.ms/44Z6FzU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>How New York Lost and Regained Control of Union Square</h3>
-<sub>By Chelsia Rose Marcius and Maria Cramer</sub>
-<p>The mayhem touched off by a social media personality’s game console giveaway tested the New York Police Department’s response.  <a href="https://nyti.ms/3s1vQmH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Remembering the Rappers We Lost</h3>
-<sub>By Danyel  Smith</sub>
-<p>Biggie. Tupac. DMX. We pay tribute to 63 stars who died too young.  <a href="https://nyti.ms/45lJ4Jd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Taliban Won but These Afghans Fought On</h3>
-<sub>By Christina Goldbaum and Najim Rahim</sub>
-<p>But the Afghan resistance movement is no match for the Taliban’s military might.  <a href="https://nyti.ms/3YoQ4CS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>‘Ghost Guns’: What They Are and Why There’s a Fight Over Them</h3>
+<sub>By Annie Karni and Chris Cameron</sub>
+<p>A rule regulating the firearm kits was a centerpiece of President Biden’s gun control initiative. The Supreme Court has temporarily revived it, but it has been troubled by significant challenges.  <a href="https://nyti.ms/3OOu8hp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Cleanup Begins After Severe Storms Tear Through Eastern U.S.</h3>
-<sub>By Jesus Jiménez and Rebecca Carballo</sub>
-<p>Air travel was slowly returning to normal, as thousands of homes and businesses remained without power. The powerful storm system moved on to New England, bringing heavy rains and floods.  <a href="https://nyti.ms/3s0txjY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Soldier Who Called Out Torture in Iraq Is Laid to Rest at Arlington</h3>
+<sub>By C. J. Chivers</sub>
+<p>Ian Fishback, who left the Army with the rank of major, was a dissident-in-uniform who died at the age of 42 after entering a dizzying mental health spiral.  <a href="https://nyti.ms/4508XPg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Ian Fishback’s American Nightmare</h3>
+<sub>By C.J. Chivers</sub>
+<p>He was a decorated soldier, a whistle-blower against torture. Then he was undone by his own mind — and a health care system that utterly failed him.  <a href="https://nyti.ms/3Z6TEAN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Missile Strikes the Heart of a Ukrainian City — and Then Another</h3>
+<sub>By Gaëlle Girbes and Marc Santora</sub>
+<p>Ukrainians say the explosions 37 minutes apart in Pokrovsk, which killed at least nine people and injured 82 others, were a “double tap” intended to kill rescuers responding to the first strike.  <a href="https://nyti.ms/3OMQgsq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
@@ -130,16 +130,10 @@ Finally, there&#39;s some good health news - A new weight loss drug has been pro
 <p>Across sports, female athletes are fighting a battle over what they put on their bodies and how much of those bodies they display.  <a href="https://nyti.ms/45dNQII"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Cheers the Defeat of Rapinoe and the U.S. Women’s Soccer Team</h3>
-<sub>By Maggie Astor</sub>
-<p>The former president taunted a U.S. team after its defeat on the world stage.  <a href="https://nyti.ms/3KrqzLK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Weight Loss Drug Cuts Risk of Heart Problems, Maker Says</h3>
-<sub>By Benjamin Mueller</sub>
-<p>A clinical trial was the first to demonstrate that a new obesity drug could also improve patients’ heart health.  <a href="https://nyti.ms/3YuBpWT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Tory Lanez Is Sentenced to 10 Years for Shooting Megan Thee Stallion</h3>
+<sub>By Douglas Morino and Joe Coscarelli</sub>
+<p>The Canadian rapper, who was found guilty last year, shot her several times in the feet during an argument about their music careers and relationships.  <a href="https://nyti.ms/3DOsiqt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 8, Central Standard Time</sub></sub>
 <hr/>
 </ol>
