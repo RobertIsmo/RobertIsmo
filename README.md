@@ -60,14 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, August 8, Central Standard Time</p>
 <p>
-Right now there is a lot of political drama happening in the US. Ohio voters recently rejected a constitutional change that would have hampered abortion rights, and Georgia is expected to bring election interference findings to a grand jury next week. In other news, former New York Police Commissioner Bernard Kerik was interviewed by investigators on January 6th in relation to Donald Trump&#39;s fund-raising efforts and attempts to investigate fraud in the 2020 election. Additionally, Florida governor DeSantis has just changed his campaign strategy because of Donald Trump&#39;s looming presence as the presidential front-runner.Moving to legal matters, the US Supreme Court voted 5-4 to revive Joe Biden’s regulation of so called “ghost guns”, which are untraced firearms that have been linked to an increase in violence across the country. 
-
-On a lighter note, there has been good news from various sports events; at the Women&#39;s World Cup and Wimbledon for example, female athletes are finally getting recognition for their hard work and making history. Last but not least, rapper Tory Lanez was sentenced to 10 years for shooting Megan Thee Stallion during an argument.</p>
+There&#39;s a lot going on in the world right now! In the US, Ohio voters just rejected a constitutional change intended to restrict access to abortions, and President Trump has been in the news as mulling over legal strategies to overturn Biden&#39;s election win. Meanwhile, in Georgia, the District Attorney is about to present evidence from an election interference investigation to a grand jury. In terms of President Biden’s initiatives, he has announced plans to restrict certain investments in China that are seen as national security threats. Finally, overseas in Ukraine there have been two separate missile strikes on a city that have killed nine people and injured eighty-two others.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Ohio Voters Reject Constitutional Change Intended to Thwart Abortion Amendment</h3>
 <sub>By Michael Wines</sub>
 <p>The contest was seen as a test of efforts by Republicans nationwide to curb voters’ use of ballot initiatives.  <a href="https://nyti.ms/45mXcSv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Previously Secret Memo Laid Out Strategy for Trump to Overturn Biden’s Win</h3>
+<sub>By Maggie Haberman, Charlie Savage and Luke Broadwater</sub>
+<p>The House Jan. 6 committee’s investigation did not uncover the memo, whose existence first came to light in last week’s indictment.  <a href="https://nyti.ms/3qmygfc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -77,16 +81,16 @@ On a lighter note, there has been good news from various sports events; at the W
 <sub><sub>Tuesday, August 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Tells Supporters His Criminal Indictments Are About ‘You’</h3>
+<sub>By Nick Corasaniti and Trip Gabriel</sub>
+<p>The former president, who has made his 2024 campaign principally about his own personal grievances, is attempting to convince supporters to see themselves in him.  <a href="https://nyti.ms/47jace1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Former N.Y.P.D. Commissioner Bernard Kerik Interviewed by Jan. 6 Prosecutors</h3>
 <sub>By Alan Feuer</sub>
 <p>Mr. Kerik, a close ally of the pro-Trump lawyer Rudolph W. Giuliani, was asked about Mr. Trump’s fund-raising efforts and attempts to investigate fraud in the 2020 election.  <a href="https://nyti.ms/3QDWzjk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Keeping Track of the Trump Investigations</h3>
-<sub>By The New York Times</sub>
-<p>See a guide to the major criminal cases involving the former president.  <a href="https://nyti.ms/3Q9udxn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>DeSantis Upends Campaign Leadership as Trump Looms and Urgency Grows</h3>
@@ -118,22 +122,16 @@ On a lighter note, there has been good news from various sports events; at the W
 <p>He was a decorated soldier, a whistle-blower against torture. Then he was undone by his own mind — and a health care system that utterly failed him.  <a href="https://nyti.ms/3Z6TEAN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Biden to Restrict Investments in China, Citing National Security Threats</h3>
+<sub>By Ana Swanson</sub>
+<p>The measure to clamp down on investments in certain industries deemed to pose security risks, set to be issued Wednesday, appears likely to open a new front in the U.S.-China economic conflict.  <a href="https://nyti.ms/3qnayzA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 8, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>A Missile Strikes the Heart of a Ukrainian City — and Then Another</h3>
 <sub>By Gaëlle Girbes and Marc Santora</sub>
 <p>Ukrainians say the explosions 37 minutes apart in Pokrovsk, which killed at least nine people and injured 82 others, were a “double tap” intended to kill rescuers responding to the first strike.  <a href="https://nyti.ms/3OMQgsq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>From the Women’s World Cup to Wimbledon, a Victory Everyone Can Share</h3>
-<sub>By Vanessa Friedman</sub>
-<p>Across sports, female athletes are fighting a battle over what they put on their bodies and how much of those bodies they display.  <a href="https://nyti.ms/45dNQII"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Tory Lanez Is Sentenced to 10 Years for Shooting Megan Thee Stallion</h3>
-<sub>By Douglas Morino and Joe Coscarelli</sub>
-<p>The Canadian rapper, who was found guilty last year, shot her several times in the feet during an argument about their music careers and relationships.  <a href="https://nyti.ms/3DOsiqt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 8, Central Standard Time</sub></sub>
 <hr/>
 </ol>
