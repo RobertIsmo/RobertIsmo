@@ -60,12 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, August 9, Central Standard Time</p>
 <p>
-At the moment there is a lot happening in the world. In the United States, Special Counsel has obtained a search warrant for President Trump&#39;s Twitter account in order to look into events surrounding Jan 6th. There’s also news about a memo that laid out a strategy for Trump to overturn Biden&#39;s win that was uncovered last week. Ohio voters rejected a ballot measure and abortion rights continue to drive turnout there as Republicans are figuring out how to respond. Across the pond in China, their economy is facing yet another threat of falling prices due to a deepening slowdown. In response, Biden is restricting investments in certain industries that pose security risks as many Western companies are having difficulty in that country. In Florida, Governor DeSantis, has suspended two elected prosecutors recently and is apparently trying to hide small-dollar donations by working with Republican fundraising powerhouses. Also, Mayor Adams announced plans for NYC to potentially spend $12 billion on migrants who have been arriving every week and student debt has been made easier to discharge in bankruptcy by the Biden administration but success is still limited unfortunately. Lastly, a drone assault by Russia against a port in Ukraine sent shock waves into villages just across the water in NATO territory leading to broken glass and rattled nerves.</p>
+There have been several news developments pertaining to US and world events lately. In the US, President Biden has initiated a ban on US investments in China&#39;s sensitive high-tech industries, which is aimed at preventing American assistance to Beijing in modernizing its military. In Hawaii, wildfires have left six people dead and Lahaina, a historic town, damaged with many losing power. Special Counsel obtained a search warrant for Donald Trump&#39;s Twitter account as part of the inquiry into the events of January 6th. It was revealed that Trump had drafted a memo laying out strategies to overturn Biden&#39;s win. Ohio voters rejected a ballot measure related to abortion. In Florida, Governor DeSantis enacted measures to hide small dollar donations and he also suspended a second elected prosecutor in the state. Additionally, there was tragedy abroad as two FBI agents were killed in Utah and in response an investigation led to 98 arrests pertaining to child abuse in the US and Australia.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Orders Ban on U.S. Investments in China’s Sensitive High-Tech Industries</h3>
+<sub>By Peter Baker and David E. Sanger</sub>
+<p>The new limits, aimed at preventing American help to Beijing as it modernizes its military, escalate a conflict between the world’s two largest economies.  <a href="https://nyti.ms/442d0ZR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>6 Dead in Hawaii Wildfires That Quickly Besieged a Coastal Town</h3>
+<sub>By Livia Albeck-Ripka and Shawn Hubler</sub>
+<p>The historic town of Lahaina was damaged, thousands lost power and officials cut off access to popular Maui resorts as wind-swept flames threatened communities.  <a href="https://nyti.ms/3DPFawQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Special Counsel Obtained Search Warrant for Trump’s Twitter Account</h3>
 <sub>By Alan Feuer</sub>
-<p>The warrant, obtained in January, adds a new dimension to the scope of the federal inquiry into the events of Jan. 6, 2021.  <a href="https://nyti.ms/454px0u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The warrant, obtained in January, is the first known example of prosecutors directly searching Donald J. Trump’s communications in the federal inquiry into the events of Jan. 6, 2021.  <a href="https://nyti.ms/454px0u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -75,33 +87,15 @@ At the moment there is a lot happening in the world. In the United States, Speci
 <sub><sub>Tuesday, August 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Why Ohio Voters Said No to Ballot Measure</h3>
+<h3>Why Ohio Voters Said No to the Ballot Measure</h3>
 <sub>By Campbell Robertson, Rachel Richardson and Daniel McGraw</sub>
-<p>In addition to their views on abortion, many who cast ballots in Ohio’s referendum on Tuesday said they felt the measure’s backers weren’t honest about its purpose.  <a href="https://nyti.ms/3s5R8Qf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>In addition to their views on abortion, many who cast ballots in Ohio’s referendum on Tuesday said they felt the measure’s backers weren’t being honest about its purpose.  <a href="https://nyti.ms/3s5R8Qf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>4 Takeaways From Ohio’s Vote on Abortion and Democratic Power</h3>
 <sub>By Maggie Astor</sub>
 <p>Abortion rights continue to drive turnout, and Republicans are struggling to figure out a response.  <a href="https://nyti.ms/3OOT2h3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>China’s Economy Faces Yet Another Threat: Falling Prices</h3>
-<sub>By Keith Bradsher</sub>
-<p>A deepening slowdown in the world’s second-biggest economy has now raised fears of deflation, which could be crippling for heavily indebted China.  <a href="https://nyti.ms/3qnCsvk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Biden to Restrict Investments in China, Citing National Security Threats</h3>
-<sub>By Ana Swanson</sub>
-<p>The measure to clamp down on investments in certain industries deemed to pose security risks, set to be issued Wednesday, appears likely to open a new front in the U.S.-China economic conflict.  <a href="https://nyti.ms/3qnayzA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Lessons From a Law Firm’s Decision to Leave China</h3>
-<sub>By Andrew Ross Sorkin, Ravi Mattu, Sarah Kessler, Michael J. de la Merced and Ephrat Livni</sub>
-<p>Dentons’ decision to quit the country and new investment limits by the Biden administration underscore the growing challenges facing Western companies there.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -116,22 +110,28 @@ At the moment there is a lot happening in the world. In the United States, Speci
 <p>The Republican governor accused Monique H. Worrell, the state attorney in Orlando and a Democrat, of leniency toward violent criminals, a charge her office has denied.  <a href="https://nyti.ms/3DN52sT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Mayor Adams Says Migrant Influx Will Cost New York City $12 Billion</h3>
-<sub>By Jeffery C. Mays</sub>
-<p>As newcomers continue to arrive in the hundreds each week, the city increased its estimate for how much it will cost to house them and provide other services.  <a href="https://nyti.ms/47r5UkD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Taylor Kitsch Is No Longer the Next Big Thing. He’s OK With That.</h3>
+<sub>By Alexis Soloski</sub>
+<p>After “Friday Night Lights” and several box-office disappointments, he has hit his stride as a character actor. “Painkiller” on Netflix is his most personal project yet.  <a href="https://nyti.ms/450PKg6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-your-money-blue" alt="">
-<h3>Discharging Student Debt in Bankruptcy Is Supposed to Be Easier Than Before</h3>
-<sub>By Tara Siegel Bernard</sub>
-<p>Last year, the Biden administration provided a new path to make it easier to discharge student loans in bankruptcy. The results appear promising, but success has been limited.  <a href="https://nyti.ms/3Ky6vHu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Robbie Robertson, Guitarist and Songwriter With the Band, Dies at 80</h3>
+<sub>By Jim Farber</sub>
+<p>The music he and his bandmates made stood out by inverting the increasing volume and mania of psychedelic rock. “We just went completely left when everyone else went right,” he once said.  <a href="https://nyti.ms/3s5WLxO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Utah Man Killed in Shooting Involving F.B.I. Agents</h3>
+<sub>By Jesus Jiménez</sub>
+<p>The man who was killed was not named, but court records show that a Provo man was facing charges for making death threats against President Biden.  <a href="https://nyti.ms/444wNrR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>After Russian Attack in Ukraine, Broken Glass and Rattled Nerves in Romania</h3>
-<sub>By Andrew Higgins</sub>
-<p>A drone assault on a Danube River port sent shock waves — both the physical and the psychological kind — into villages just across the water that are in NATO territory.  <a href="https://nyti.ms/3OroPTN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>98 Arrests in Child Abuse Inquiry That Followed Killing of F.B.I. Agents</h3>
+<sub>By Yan Zhuang</sub>
+<p>The investigation the two agents were part of grew into a larger inquiry that netted members of an online pedophile ring in the U.S. and Australia.  <a href="https://nyti.ms/3Ol56VO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
 <hr/>
 </ol>
