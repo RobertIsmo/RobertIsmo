@@ -60,12 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, August 10, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. The United States recently reached a deal with Iran to free 5 American detainees for money and release of various Iranians jailed in the US. The historic banyan tree in Lahaina, Hawaii was scarred from recent fires but still standing. Donald Trump and his former aide have both pled not guilty to new charges related to documents case. Inflation has gone up slightly, but other details indicate that the price pressure is still moderating. There&#39;s also a bizarre defamation case involving a wealthy teenager suing a 5-star hotel for turning him away from the bar. On the international stage, Russia is replicating Iranian drones and using them to attack Ukraine, while an Ecuadorian presidential candidate was assassinated during a rally last week. Hip-hop music is celebrating its 50th anniversary, while Republicans are trying to stop Donald Trump from running again in 2024 by making him sign loyalty pledges at the Iowa State Fair. It&#39;s clear that Donald Trump&#39;s era has replaced Ronald Reagan&#39;s coalition of &quot;three-legged stool&quot; and changed the state of today&#39;s Republican Party.</p>
+The US reached a deal with Iran to free five American detainees in exchange for Tehran gaining access to $6 billion for humanitarian purposes and the US freeing some Iranians. On the legal side of things, the Supreme Court paused an opioid settlement with the Sacklers and Donald Trump and his longtime aide plead not guilty to new charges in documents case. President Biden is trying to pass a bill for another $24 billion for Ukraine and Russia is allegedly using drones against them. In New York, there&#39;s a strange defamation lawsuit between a wealthy teenager who was turned away from a bar in a 5-star hotel, and the hospital research trials at Columbia were suspended after a subject&#39;s suicide. Lastly, we&#39;re celebrating hip-hop&#39;s 50th anniversary this week as it has become an all-encompassing force around the world.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>U.S. Reaches Deal With Iran to Free Americans for Jailed Iranians and Funds</h3>
 <sub>By Farnaz Fassihi and Michael D. Shear</sub>
 <p>Five American detainees will eventually be allowed to leave Iran in exchange for Tehran gaining access to $6 billion for humanitarian purposes and the United States freeing several jailed Iranians.  <a href="https://nyti.ms/3DTPgg5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Supreme Court Pauses Opioid Settlement With Sacklers Pending Review</h3>
+<sub>By Abbie VanSickle</sub>
+<p>A federal appeals court had signed off on the agreement, which would shield members of the wealthy Sackler family from opioid-related lawsuits in exchange for $6 billion for victims.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -75,15 +81,21 @@ There is a lot going on in the world right now. The United States recently reach
 <sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Special Counsel Proposes January Date for Trump’s Election Interference Trial</h3>
+<sub>By Alan Feuer</sub>
+<p>The former president’s legal team will get to suggest its own timetable for the case next week and will surely object to the government’s proposal.  <a href="https://nyti.ms/3KBKPKm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump and Longtime Aide Plead Not Guilty to New Charges in Documents Case</h3>
 <sub>By Charlie Savage</sub>
 <p>The former president did not appear in person for a second arraignment in the case after an updated indictment last month, and he indicated last week that he would plead not guilty.  <a href="https://nyti.ms/47nZu5L"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Inflation Picks Up, but Details Under the Surface Are Encouraging</h3>
-<sub>By Jeanna Smialek</sub>
-<p>Economists looked past the first acceleration in overall inflation in more than a year and saw signs that price pressures continued to moderate in July.  <a href="https://nyti.ms/47jvp7o"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Conservative Case Emerges to Disqualify Trump for Role on Jan. 6</h3>
+<sub>By Adam Liptak</sub>
+<p>Two law professors active in the Federalist Society wrote that the original meaning of the 14th Amendment makes Donald Trump ineligible to hold government office.  <a href="https://nyti.ms/3ORDQ2L"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -92,23 +104,23 @@ There is a lot going on in the world right now. The United States recently reach
 <p>A teenager turned away by a bar in one of Manhattan’s fanciest hotels started a campaign to sully its reputation, a lawsuit says. The hotel is suing him for defamation.  <a href="https://nyti.ms/3Quqril"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>U.S. Watchdog Halts Studies at N.Y. Psychiatric Center After a Subject’s Suicide</h3>
+<sub>By Ellen Barry</sub>
+<p>Human research trials at the New York State Psychiatric Institute at Columbia have been paused while regulators review whether protocols were violated.  <a href="https://nyti.ms/45eGIMq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Russia Is Replicating Iranian Drones and Using Them to Attack Ukraine</h3>
 <sub>By John Ismay</sub>
 <p>Called the Geran-2, the drones are a Russian-made version of the Shahed-136, which explodes on impact, researchers say.  <a href="https://nyti.ms/3KzA37w"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Drone’s View Behind Russian Lines: Cratered Fields and Charred Armor</h3>
-<sub>By Carlotta Gall and Diego Ibarra Sanchez</sub>
-<p>A Ukrainian unit sent a drone into Russian-occupied territory to surveil the battlefront, and it brought back vivid images of the Russian side of the war zone.  <a href="https://nyti.ms/444rEzK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Seeks Another $24 Billion for Ukraine in Test of Bipartisan Support</h3>
+<sub>By Peter Baker and Luke Broadwater</sub>
+<p>The aid request is the first by the president since Republicans took over the House in January, and some party leaders have expressed opposition to spending more to help Ukraine beat back Russian forces.  <a href="https://nyti.ms/3QtQE0o"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Presidential Candidate in Ecuador Is Assassinated During Rally</h3>
-<sub>By José María León Cabrera, Julie Turkewitz and Genevieve Glatsky</sub>
-<p>The candidate, Fernando Villavicencio, had been vocal about ties between the state and organized crime, in a country roiled by violence tied to drug trafficking.  <a href="https://nyti.ms/45jFQ9e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
 <h3>How Hip-Hop Conquered the World</h3>
@@ -117,21 +129,9 @@ There is a lot going on in the world right now. The United States recently reach
 <sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Racing to Stop Trump, Republicans Descend on the Iowa State Fair</h3>
-<sub>By Reid J. Epstein and Lisa Lerer</sub>
-<p>As the state fair and its Republican pageantry begin, Donald Trump’s rivals face a transformed political environment in Iowa, where he holds a comfortable edge in polls despite rarely visiting.  <a href="https://nyti.ms/4430iKz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Says He Won’t Sign Loyalty Pledge Required for G.O.P. Debate</h3>
 <sub>By Maggie Astor</sub>
 <p>The Republican National Committee has demanded that 2024 contenders pledge to support the eventual nominee in order to debate. The former president is refusing.  <a href="https://nyti.ms/455NdBE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>It’s Not Reagan’s Party Anymore</h3>
-<sub>By Nate Cohn</sub>
-<p>Ronald Reagan’s “three-legged stool” coalition supported the G.O.P. for decades. Our latest poll leaves little doubt that Donald J. Trump has put an end to that era.  <a href="https://nyti.ms/3Yy7Bsr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
 <hr/>
 </ol>
