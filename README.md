@@ -60,18 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, August 9, Central Standard Time</p>
 <p>
-There have been several news developments pertaining to US and world events lately. In the US, President Biden has initiated a ban on US investments in China&#39;s sensitive high-tech industries, which is aimed at preventing American assistance to Beijing in modernizing its military. In Hawaii, wildfires have left six people dead and Lahaina, a historic town, damaged with many losing power. Special Counsel obtained a search warrant for Donald Trump&#39;s Twitter account as part of the inquiry into the events of January 6th. It was revealed that Trump had drafted a memo laying out strategies to overturn Biden&#39;s win. Ohio voters rejected a ballot measure related to abortion. In Florida, Governor DeSantis enacted measures to hide small dollar donations and he also suspended a second elected prosecutor in the state. Additionally, there was tragedy abroad as two FBI agents were killed in Utah and in response an investigation led to 98 arrests pertaining to child abuse in the US and Australia.</p>
+There has been some really disturbing news lately, both here in the US and around the world. In Hawaii, wildfires have destroyed businesses and homes, as well as causing at least six deaths, so travelers need to be aware of the situation before planning a visit. Here in the US, President Biden has announced a ban on new investments in China&#39;s sensitive high-tech industries to protect our military. In terms of finance, Chinese real estate giant Country Garden has spooked investors after not making key debt payments. In addition, former President Trump is seeking to review classified evidence at his own secure facility and Special Counsel obtained a search warrant for his Twitter account. Voters in Ohio said no to an anti-abortion ballot measure. Meanwhile, in Ecuador a presidential candidate was assassinated during a rally, highlighting growing tensions there. Closer to home, an FBI agent killed a Utah man accused of threatening Biden and an investigation into an online child abuse ring following the killing of two FBI agents resulted in 98 arrests in both the US and Australia.</p>
 <ol>
+<img src="https://img.shields.io/badge/-travel-blue" alt="">
+<h3>Planning to Visit Hawaii? Here’s What You Need to Know About the Wildfires.</h3>
+<sub>By Christine Chung and Ceylan Yeginsu</sub>
+<p>Devastating fires on Maui and the Big Island have destroyed businesses and homes, and caused at least six deaths. They are also upending tourism, leaving travelers wondering what to do.  <a href="https://nyti.ms/3KzcXxO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Orders Ban on U.S. Investments in China’s Sensitive High-Tech Industries</h3>
+<h3>Biden Orders Ban on New Investments in China’s Sensitive High-Tech Industries</h3>
 <sub>By Peter Baker and David E. Sanger</sub>
 <p>The new limits, aimed at preventing American help to Beijing as it modernizes its military, escalate a conflict between the world’s two largest economies.  <a href="https://nyti.ms/442d0ZR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>6 Dead in Hawaii Wildfires That Quickly Besieged a Coastal Town</h3>
-<sub>By Livia Albeck-Ripka and Shawn Hubler</sub>
-<p>The historic town of Lahaina was damaged, thousands lost power and officials cut off access to popular Maui resorts as wind-swept flames threatened communities.  <a href="https://nyti.ms/3DPFawQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Another Chinese Developer Teeters, Raising Worries About the Economy</h3>
+<sub>By Alexandra Stevenson</sub>
+<p>Country Garden, China’s last real estate giant to avoid default, has spooked investors after missing key debt payments, rekindling memories of China Evergrande.  <a href="https://nyti.ms/3YqBn2i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -81,10 +87,10 @@ There have been several news developments pertaining to US and world events late
 <sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Previously Secret Memo Laid Out Strategy for Trump to Overturn Biden’s Win</h3>
-<sub>By Maggie Haberman, Charlie Savage and Luke Broadwater</sub>
-<p>The House Jan. 6 committee’s investigation did not uncover the memo, whose existence first came to light in last week’s indictment.  <a href="https://nyti.ms/3qmygfc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 8, Central Standard Time</sub></sub>
+<h3>Trump Seeks to Review Classified Evidence at His Own Secure Facility</h3>
+<sub>By Alan Feuer</sub>
+<p>Lawyers for the former president proposed using “a previously approved facility at or near his residence” — presumably Mar-a-Lago — instead of a secure location run by the federal courts.  <a href="https://nyti.ms/47nDIzc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Why Ohio Voters Said No to the Ballot Measure</h3>
@@ -98,16 +104,10 @@ There have been several news developments pertaining to US and world events late
 <p>Abortion rights continue to drive turnout, and Republicans are struggling to figure out a response.  <a href="https://nyti.ms/3OOT2h3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis, With a Subtle Maneuver, Hides His Small-Dollar Donations</h3>
-<sub>By Rebecca Davis O’Brien and Shane Goldmacher</sub>
-<p>The campaign of the Florida governor, who is known to be reliant on rich donors, worked with a Republican fund-raising powerhouse to prevent the disclosure of information on small contributors.  <a href="https://nyti.ms/3YAf2zp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis Suspends Second Elected Prosecutor in Florida</h3>
-<sub>By Patricia Mazzei and Frances Robles</sub>
-<p>The Republican governor accused Monique H. Worrell, the state attorney in Orlando and a Democrat, of leniency toward violent criminals, a charge her office has denied.  <a href="https://nyti.ms/3DN52sT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Presidential Candidate in Ecuador Is Assassinated During Rally</h3>
+<sub>By José María León Cabrera and Julie Turkewitz</sub>
+<p>The candidate, Fernando Villavicencio, was one of eight running in a race to be held in days.  <a href="https://nyti.ms/45jFQ9e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
@@ -117,15 +117,15 @@ There have been several news developments pertaining to US and world events late
 <sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Robbie Robertson, Guitarist and Songwriter With the Band, Dies at 80</h3>
+<h3>Robbie Robertson, 80, Dies; Canadian Songwriter Captured American Spirit</h3>
 <sub>By Jim Farber</sub>
-<p>The music he and his bandmates made stood out by inverting the increasing volume and mania of psychedelic rock. “We just went completely left when everyone else went right,” he once said.  <a href="https://nyti.ms/3s5WLxO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>As the chief songwriter and guitarist for The Band, he offered a rustic vision of his adopted country that helped inspire the genre that came to be known as Americana.  <a href="https://nyti.ms/3s5WLxO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Utah Man Killed in Shooting Involving F.B.I. Agents</h3>
-<sub>By Jesus Jiménez</sub>
-<p>The man who was killed was not named, but court records show that a Provo man was facing charges for making death threats against President Biden.  <a href="https://nyti.ms/444wNrR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Utah Man Accused of Threatening Biden Is Killed by F.B.I. Agent</h3>
+<sub>By Adam Goldman and Jesus Jiménez</sub>
+<p>The man, who was shot while agents were trying to serve arrest and search warrants at a home, was also charged with threatening other elected officials.  <a href="https://nyti.ms/3OvrQlT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
