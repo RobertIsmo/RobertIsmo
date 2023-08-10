@@ -60,21 +60,25 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, August 10, Central Standard Time</p>
 <p>
-There is a lot going on globally right now. In the US, President Biden has ordered a ban on new investments in China&#39;s high-tech industries in an effort to prevent American help to Beijing as it modernizes its military. There has also been reports of another Chinese real estate giant teetering that has spooked investors. In Ecuador, there has been an assassination of a presidential candidate who was vocal about ties between the state and organized crime, and it ties to drug trafficking. Special counsel has obtained a search warrant from former President Trump&#39;s Twitter account as part of the inquiry into the events of January 6th. Trump is also seeking to review classified evidence from his own secure facility at Mar-a-Lago. 
-
-In Ohio, voters rejected a ballot measure and revealed their views on abortion and Republican power. Here in the US, an FBI agent killed a Utah man who was accused of threatening President Biden, and 98 people have been arrested in an international investigation into child abuse following the killing of two FBI agents overseas. The Band’s songwriter, Robbie Robertson, also passed away this week at 80 years old.</p>
+It has been a busy week for news. In Lahaina, Hawaii, officials were worried that the wildfires had destroyed some of the historic buildings in the town which was once Hawaii&#39;s royal capital. The heat and tensions between countries over trade have experts warning about potential instability in food prices. In Ecuador, a Presidential candidate was recently assassinated during a rally while raising questions of the state&#39;s ties to organized crime. Also on the US homefront, as school starts Florida schools are facing new regulations on gender, bathrooms and pronouns while Republican candidates are scrambling to make an impression at the Iowa State Fair as Donald Trump maintains a comfortable lead in the polls. Lastly, Ron DeSantis has been reworking his presidential campaign after receiving advice from GOP strategists.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Orders Ban on New Investments in China’s Sensitive High-Tech Industries</h3>
-<sub>By Peter Baker and David E. Sanger</sub>
-<p>The new limits, aimed at preventing American help to Beijing as it modernizes its military, escalate a conflict between the world’s two largest economies.  <a href="https://nyti.ms/442d0ZR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Lahaina, Devastated Town on Maui, Is a Trove of Hawaiian History</h3>
+<sub>By Shawn Hubler</sub>
+<p>The town was once Hawaii’s royal capital, and there were fears that some of its historic buildings had been destroyed by the wildfires.  <a href="https://nyti.ms/3YspOaS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Heat, War and Trade Protections Raise Uncertainty for Food Prices</h3>
+<sub>By Eshe Nelson, Ana Swanson and Jeanna Smialek</sub>
+<p>Experts are warning of a new normal in which food supplies — and prices — could be rocked more regularly.  <a href="https://nyti.ms/3Omb6xm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Another Chinese Developer Teeters, Raising Worries About the Economy</h3>
-<sub>By Alexandra Stevenson</sub>
-<p>Country Garden, China’s last real estate giant to avoid default, has spooked investors after missing key debt payments, rekindling memories of China Evergrande.  <a href="https://nyti.ms/3YqBn2i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
+<h3>How Long Will Companies Keep Raising Prices on Consumer Goods?</h3>
+<sub>By J. Edward Moreno</sub>
+<p>As companies reported their latest quarterly earnings, their executives were frequently asked about their next moves on pricing.  <a href="https://nyti.ms/444rSXC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Presidential Candidate in Ecuador Is Assassinated During Rally</h3>
@@ -88,53 +92,47 @@ In Ohio, voters rejected a ballot measure and revealed their views on abortion a
 <p>The presidential candidate who was assassinated on Wednesday had a long history in Ecuador’s public affairs, largely as an antagonist to those in power.  <a href="https://nyti.ms/3QzjBYO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>How a Peaceful Country Became a Gold Rush State for Drug Cartels</h3>
-<sub>By Julie Turkewitz and Victor Moriyama</sub>
-<p>In Ecuador, an intelligence official said: “People consume abroad, but they don’t understand the consequences that take place here.”  <a href="https://nyti.ms/3NRPTuW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>A Wealthy Teenager, a 5-Star Hotel and a Bizarre Defamation Fight</h3>
+<sub>By Liam Stack</sub>
+<p>A teenager turned away by a bar in one of Manhattan’s fanciest hotels started a campaign to sully its reputation, a lawsuit says. The hotel is suing him for defamation.  <a href="https://nyti.ms/3Quqril"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Special Counsel Obtained Search Warrant for Trump’s Twitter Account</h3>
-<sub>By Alan Feuer</sub>
-<p>The warrant, obtained in January, is the first known example of prosecutors directly searching Donald J. Trump’s communications in the federal inquiry into the events of Jan. 6, 2021.  <a href="https://nyti.ms/454px0u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>What Extreme Heat Does to Your Body</h3>
+<sub>By Dana G. Smith</sub>
+<p>High temperatures can put the body under immense stress. Here’s what that looks like.  <a href="https://nyti.ms/3OSt4cB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Seeks to Review Classified Evidence at His Own Secure Facility</h3>
-<sub>By Alan Feuer</sub>
-<p>Lawyers for the former president proposed using “a previously approved facility at or near his residence” — presumably Mar-a-Lago — instead of a secure location run by the federal courts.  <a href="https://nyti.ms/47nDIzc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Why Ohio Voters Said No to the Ballot Measure</h3>
-<sub>By Campbell Robertson, Rachel Richardson and Daniel McGraw</sub>
-<p>In addition to their views on abortion, many who cast ballots in Ohio’s referendum on Tuesday said they felt the measure’s backers weren’t being honest about its purpose.  <a href="https://nyti.ms/3s5R8Qf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>4 Takeaways From Ohio’s Vote on Abortion and Democratic Power</h3>
-<sub>By Maggie Astor</sub>
-<p>Abortion rights continue to drive turnout, and Republicans are struggling to figure out a response.  <a href="https://nyti.ms/3OOT2h3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Robbie Robertson, 80, Dies; Canadian Songwriter Captured American Spirit</h3>
-<sub>By Jim Farber</sub>
-<p>As the chief songwriter and guitarist for the Band, he offered a rustic vision of his adopted country that helped inspire the genre that came to be known as Americana.  <a href="https://nyti.ms/3s5WLxO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Utah Man Accused of Threatening Biden Is Killed by F.B.I. Agent</h3>
-<sub>By Adam Goldman and Jesus Jiménez</sub>
-<p>The man, who was shot while agents were trying to serve arrest and search warrants at a home, was also charged with threatening other elected officials.  <a href="https://nyti.ms/3OvrQlT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Heat Singes the Mind, Not Just the Body</h3>
+<sub>By Apoorva Mandavilli</sub>
+<p>Hot weather can destabilize mood, exacerbate mental health disorders and complicate drug treatment. Climate change itself is a stressor, scientists say.  <a href="https://nyti.ms/3KBdqQ3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>98 Arrests in Child Abuse Inquiry That Followed Killing of F.B.I. Agents</h3>
-<sub>By Yan Zhuang</sub>
-<p>The investigation the two agents were part of grew into a larger inquiry that netted members of an online pedophile ring in the U.S. and Australia.  <a href="https://nyti.ms/3Ol56VO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
+<h3>A Drone’s View Behind Russian Lines: Cratered Fields and Charred Armor</h3>
+<sub>By Carlotta Gall and Diego Ibarra Sanchez</sub>
+<p>A Ukrainian unit sent a drone into Russian-occupied territory to surveil the battlefront, and it brought back vivid images of the Russian side of the war zone.  <a href="https://nyti.ms/444rEzK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Florida Schools Try to Adapt to New Rules on Gender, Bathrooms and Pronouns</h3>
+<sub>By Dana Goldstein</sub>
+<p>As schools start, it’s been more paperwork, a culling of reading lists, as well as new regulations about bathrooms.  <a href="https://nyti.ms/3saHs6Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Racing to Stop Trump, Republicans Descend on the Iowa State Fair</h3>
+<sub>By Reid J. Epstein and Lisa Lerer</sub>
+<p>As the state fair and its Republican pageantry begin, Donald Trump’s rivals face a transformed political environment in Iowa, where he holds a comfortable edge in polls despite rarely visiting.  <a href="https://nyti.ms/4430iKz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Four Major Challenges Facing Ron DeSantis’s Campaign</h3>
+<sub>By Trip Gabriel</sub>
+<p>Ron DeSantis has cut back, reorganized, reset and refocused his presidential campaign. We talked to Republican strategists about what they think he ought to do next.  <a href="https://nyti.ms/3sab8ku"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
