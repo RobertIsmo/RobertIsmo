@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, August 9, Central Standard Time</p>
 <p>
-There has been some really disturbing news lately, both here in the US and around the world. In Hawaii, wildfires have destroyed businesses and homes, as well as causing at least six deaths, so travelers need to be aware of the situation before planning a visit. Here in the US, President Biden has announced a ban on new investments in China&#39;s sensitive high-tech industries to protect our military. In terms of finance, Chinese real estate giant Country Garden has spooked investors after not making key debt payments. In addition, former President Trump is seeking to review classified evidence at his own secure facility and Special Counsel obtained a search warrant for his Twitter account. Voters in Ohio said no to an anti-abortion ballot measure. Meanwhile, in Ecuador a presidential candidate was assassinated during a rally, highlighting growing tensions there. Closer to home, an FBI agent killed a Utah man accused of threatening Biden and an investigation into an online child abuse ring following the killing of two FBI agents resulted in 98 arrests in both the US and Australia.</p>
+There has been some devastating news recently. In Hawaii, wildfires have destroyed businesses and homes and caused at least six deaths. In the US, President Biden has signed an order to ban new investments in China&#39;s sensitive high-tech industries in an effort to prevent American help to Beijing as it modernizes its military. This follows shortly after another Chinese developer experienced default worries which reignited memories of China Evergrande. Uruguay&#39;s presidential candidate, Fernando Villavicencio, was recently assassinated during a rally and it is being linked to organized crime. There have also been gold rushes throughout Ecuador due to the demand of drugs in other countries. Additionally, Special Counsel Robert Mueller was granted a search warrant for Trump&#39;s Twitter account related to the events of January 6th. Then, Trump attempted to review classified evidence at his own secure facility near his residence (Mar-a-Lago), but this plan was rejected. Finally, Ohio voted against a ballot measure in addition to Democrats continuing to win over Republicans concerning abortion rights. On a slightly more lighter note, actor Taylor Kitsch is no longer considered the next big thing but he&#39;s ok with that and is thriving as a character actor lately. Lastly, Robbie Robertson from The Band passed away after leaving behind an inspirational rustic vision of his adopted American country which inspired a genre known as Americana.</p>
 <ol>
 <img src="https://img.shields.io/badge/-travel-blue" alt="">
 <h3>Planning to Visit Hawaii? Here’s What You Need to Know About the Wildfires.</h3>
@@ -79,6 +79,24 @@ There has been some really disturbing news lately, both here in the US and aroun
 <sub>By Alexandra Stevenson</sub>
 <p>Country Garden, China’s last real estate giant to avoid default, has spooked investors after missing key debt payments, rekindling memories of China Evergrande.  <a href="https://nyti.ms/3YqBn2i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Presidential Candidate in Ecuador Is Assassinated During Rally</h3>
+<sub>By José María León Cabrera, Julie Turkewitz and Genevieve Glatsky</sub>
+<p>The candidate, Fernando Villavicencio, was outspoken about the link between organized crime and government officials.  <a href="https://nyti.ms/45jFQ9e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-espanol-blue" alt="">
+<h3>Fernando Villavicencio, candidato a la presidencia de Ecuador, es asesinado en un acto de campaña</h3>
+<sub>By José María León Cabrera and Julie Turkewitz</sub>
+<p>Villavicencio era uno de ocho aspirantes presidenciales en las elecciones que se celebrarán en unos días.  <a href="https://nyti.ms/3KXgart"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>How a Peaceful Country Became a Gold Rush State for Drug Cartels</h3>
+<sub>By Julie Turkewitz and Victor Moriyama</sub>
+<p>In Ecuador, an intelligence official said: “People consume abroad, but they don’t understand the consequences that take place here.”  <a href="https://nyti.ms/3NRPTuW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Special Counsel Obtained Search Warrant for Trump’s Twitter Account</h3>
@@ -104,12 +122,6 @@ There has been some really disturbing news lately, both here in the US and aroun
 <p>Abortion rights continue to drive turnout, and Republicans are struggling to figure out a response.  <a href="https://nyti.ms/3OOT2h3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Presidential Candidate in Ecuador Is Assassinated During Rally</h3>
-<sub>By José María León Cabrera and Julie Turkewitz</sub>
-<p>The candidate, Fernando Villavicencio, was one of eight running in a race to be held in days.  <a href="https://nyti.ms/45jFQ9e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>Taylor Kitsch Is No Longer the Next Big Thing. He’s OK With That.</h3>
 <sub>By Alexis Soloski</sub>
@@ -120,18 +132,6 @@ There has been some really disturbing news lately, both here in the US and aroun
 <h3>Robbie Robertson, 80, Dies; Canadian Songwriter Captured American Spirit</h3>
 <sub>By Jim Farber</sub>
 <p>As the chief songwriter and guitarist for The Band, he offered a rustic vision of his adopted country that helped inspire the genre that came to be known as Americana.  <a href="https://nyti.ms/3s5WLxO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Utah Man Accused of Threatening Biden Is Killed by F.B.I. Agent</h3>
-<sub>By Adam Goldman and Jesus Jiménez</sub>
-<p>The man, who was shot while agents were trying to serve arrest and search warrants at a home, was also charged with threatening other elected officials.  <a href="https://nyti.ms/3OvrQlT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>98 Arrests in Child Abuse Inquiry That Followed Killing of F.B.I. Agents</h3>
-<sub>By Yan Zhuang</sub>
-<p>The investigation the two agents were part of grew into a larger inquiry that netted members of an online pedophile ring in the U.S. and Australia.  <a href="https://nyti.ms/3Ol56VO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
 <hr/>
 </ol>
