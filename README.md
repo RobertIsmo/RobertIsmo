@@ -60,12 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, August 10, Central Standard Time</p>
 <p>
-It has been a busy week for news. In Lahaina, Hawaii, officials were worried that the wildfires had destroyed some of the historic buildings in the town which was once Hawaii&#39;s royal capital. The heat and tensions between countries over trade have experts warning about potential instability in food prices. In Ecuador, a Presidential candidate was recently assassinated during a rally while raising questions of the state&#39;s ties to organized crime. Also on the US homefront, as school starts Florida schools are facing new regulations on gender, bathrooms and pronouns while Republican candidates are scrambling to make an impression at the Iowa State Fair as Donald Trump maintains a comfortable lead in the polls. Lastly, Ron DeSantis has been reworking his presidential campaign after receiving advice from GOP strategists.</p>
+The world is going through some dramatic changes. In the US, the schools are trying to adapt to new rules on gender, bathrooms and pronouns. Meanwhile, Republicans are trying to stop Donald Trump with a lot of pageantry at the Iowa State Fair, but he&#39;s not budging. 
+
+Internationally, there was a tragic assassination of a presidential candidate in Ecuador who was vocal about ties between the state and organized crime. There&#39;s also been rising uncertainty for food prices due to heat, war and trade protections. Moreover, Ukraine has sent drones into Russian-occupied territory to survey the battle front, revealing images of craters and charred armor. And finally, one of Russia&#39;s most prominent tech figures has called their war in Ukraine &#39;barbaric.&#39;</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Lahaina, Devastated Town on Maui, Is a Trove of Hawaiian History</h3>
+<h3>The historic town of Lahaina, and its legacy, is in ashes.</h3>
 <sub>By Shawn Hubler</sub>
-<p>The town was once Hawaii’s royal capital, and there were fears that some of its historic buildings had been destroyed by the wildfires.  <a href="https://nyti.ms/3YspOaS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The town was once Hawaii’s royal capital, and there were fears that some of its oldest buildings had been destroyed by the wildfires.  <a href="https://nyti.ms/3YspOaS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -73,12 +75,6 @@ It has been a busy week for news. In Lahaina, Hawaii, officials were worried tha
 <sub>By Eshe Nelson, Ana Swanson and Jeanna Smialek</sub>
 <p>Experts are warning of a new normal in which food supplies — and prices — could be rocked more regularly.  <a href="https://nyti.ms/3Omb6xm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How Long Will Companies Keep Raising Prices on Consumer Goods?</h3>
-<sub>By J. Edward Moreno</sub>
-<p>As companies reported their latest quarterly earnings, their executives were frequently asked about their next moves on pricing.  <a href="https://nyti.ms/444rSXC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Presidential Candidate in Ecuador Is Assassinated During Rally</h3>
@@ -116,6 +112,12 @@ It has been a busy week for news. In Lahaina, Hawaii, officials were worried tha
 <p>A Ukrainian unit sent a drone into Russian-occupied territory to surveil the battlefront, and it brought back vivid images of the Russian side of the war zone.  <a href="https://nyti.ms/444rEzK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The Yandex founder calls Russia’s war in Ukraine ‘barbaric.’</h3>
+<sub>By Anatoly Kurmanaev</sub>
+<p>  <a href="https://nyti.ms/45jqPnW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Florida Schools Try to Adapt to New Rules on Gender, Bathrooms and Pronouns</h3>
 <sub>By Dana Goldstein</sub>
@@ -129,9 +131,9 @@ It has been a busy week for news. In Lahaina, Hawaii, officials were worried tha
 <sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Four Major Challenges Facing Ron DeSantis’s Campaign</h3>
-<sub>By Trip Gabriel</sub>
-<p>Ron DeSantis has cut back, reorganized, reset and refocused his presidential campaign. We talked to Republican strategists about what they think he ought to do next.  <a href="https://nyti.ms/3sab8ku"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Trump Says He Won’t Sign Loyalty Pledge Required for G.O.P. Debate</h3>
+<sub>By Maggie Astor</sub>
+<p>The Republican National Committee has demanded that 2024 contenders pledge to support the eventual nominee in order to debate. The former president is refusing.  <a href="https://nyti.ms/455NdBE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
 <hr/>
 </ol>
