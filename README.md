@@ -58,16 +58,10 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Wednesday, August 9, Central Standard Time</p>
+<p>It is Thursday, August 10, Central Standard Time</p>
 <p>
-There has been some devastating news recently. In Hawaii, wildfires have destroyed businesses and homes and caused at least six deaths. In the US, President Biden has signed an order to ban new investments in China&#39;s sensitive high-tech industries in an effort to prevent American help to Beijing as it modernizes its military. This follows shortly after another Chinese developer experienced default worries which reignited memories of China Evergrande. Uruguay&#39;s presidential candidate, Fernando Villavicencio, was recently assassinated during a rally and it is being linked to organized crime. There have also been gold rushes throughout Ecuador due to the demand of drugs in other countries. Additionally, Special Counsel Robert Mueller was granted a search warrant for Trump&#39;s Twitter account related to the events of January 6th. Then, Trump attempted to review classified evidence at his own secure facility near his residence (Mar-a-Lago), but this plan was rejected. Finally, Ohio voted against a ballot measure in addition to Democrats continuing to win over Republicans concerning abortion rights. On a slightly more lighter note, actor Taylor Kitsch is no longer considered the next big thing but he&#39;s ok with that and is thriving as a character actor lately. Lastly, Robbie Robertson from The Band passed away after leaving behind an inspirational rustic vision of his adopted American country which inspired a genre known as Americana.</p>
+There is a lot going on in the world right now. For example, in the US, President Biden has just instituted a ban on new investments in certain high-tech industries in China, and there is a lot of tension between the two countries. Also, a Chinese real estate giant has been spooking investors after missing key debt payments, raising worries about the economy. In Ecuador, meanwhile, there was tragedy when a presidential candidate was assassinated during a rally - he had been vocal about links between the state and organized crime. Additionally, there is an investigation into an online pedophile ring involving members from both the US and Australia that has resulted in 98 arrests. Finally, here in the US we have recently seen Special Counsel obtained a search warrant for Trump&#39;s Twitter account and a Utah man accused of threatening Biden was killed by an FBI agent.</p>
 <ol>
-<img src="https://img.shields.io/badge/-travel-blue" alt="">
-<h3>Planning to Visit Hawaii? Here’s What You Need to Know About the Wildfires.</h3>
-<sub>By Christine Chung and Ceylan Yeginsu</sub>
-<p>Devastating fires on Maui and the Big Island have destroyed businesses and homes, and caused at least six deaths. They are also upending tourism, leaving travelers wondering what to do.  <a href="https://nyti.ms/3KzcXxO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Orders Ban on New Investments in China’s Sensitive High-Tech Industries</h3>
 <sub>By Peter Baker and David E. Sanger</sub>
@@ -83,12 +77,12 @@ There has been some devastating news recently. In Hawaii, wildfires have destroy
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Presidential Candidate in Ecuador Is Assassinated During Rally</h3>
 <sub>By José María León Cabrera, Julie Turkewitz and Genevieve Glatsky</sub>
-<p>The candidate, Fernando Villavicencio, was outspoken about the link between organized crime and government officials.  <a href="https://nyti.ms/45jFQ9e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The candidate, Fernando Villavicencio, had been vocal about ties between the state and organized crime. His death is a blow to a nation that was already facing upheaval.  <a href="https://nyti.ms/45jFQ9e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-espanol-blue" alt="">
 <h3>Fernando Villavicencio, candidato a la presidencia de Ecuador, es asesinado en un acto de campaña</h3>
-<sub>By José María León Cabrera and Julie Turkewitz</sub>
+<sub>By José María León Cabrera, Julie Turkewitz and Genevieve Glatsky</sub>
 <p>Villavicencio era uno de ocho aspirantes presidenciales en las elecciones que se celebrarán en unos días.  <a href="https://nyti.ms/3KXgart"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
 <hr/>
@@ -123,15 +117,21 @@ There has been some devastating news recently. In Hawaii, wildfires have destroy
 <sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Taylor Kitsch Is No Longer the Next Big Thing. He’s OK With That.</h3>
-<sub>By Alexis Soloski</sub>
-<p>After “Friday Night Lights” and several box-office disappointments, he has hit his stride as a character actor. “Painkiller” on Netflix is his most personal project yet.  <a href="https://nyti.ms/450PKg6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>Robbie Robertson, 80, Dies; Canadian Songwriter Captured American Spirit</h3>
 <sub>By Jim Farber</sub>
-<p>As the chief songwriter and guitarist for The Band, he offered a rustic vision of his adopted country that helped inspire the genre that came to be known as Americana.  <a href="https://nyti.ms/3s5WLxO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>As the chief songwriter and guitarist for the Band, he offered a rustic vision of his adopted country that helped inspire the genre that came to be known as Americana.  <a href="https://nyti.ms/3s5WLxO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Utah Man Accused of Threatening Biden Is Killed by F.B.I. Agent</h3>
+<sub>By Adam Goldman and Jesus Jiménez</sub>
+<p>The man, who was shot while agents were trying to serve arrest and search warrants at a home, was also charged with threatening other elected officials.  <a href="https://nyti.ms/3OvrQlT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>98 Arrests in Child Abuse Inquiry That Followed Killing of F.B.I. Agents</h3>
+<sub>By Yan Zhuang</sub>
+<p>The investigation the two agents were part of grew into a larger inquiry that netted members of an online pedophile ring in the U.S. and Australia.  <a href="https://nyti.ms/3Ol56VO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
 <hr/>
 </ol>
