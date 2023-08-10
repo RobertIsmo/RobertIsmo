@@ -60,32 +60,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, August 10, Central Standard Time</p>
 <p>
-The world is going through some dramatic changes. In the US, the schools are trying to adapt to new rules on gender, bathrooms and pronouns. Meanwhile, Republicans are trying to stop Donald Trump with a lot of pageantry at the Iowa State Fair, but he&#39;s not budging. 
-
-Internationally, there was a tragic assassination of a presidential candidate in Ecuador who was vocal about ties between the state and organized crime. There&#39;s also been rising uncertainty for food prices due to heat, war and trade protections. Moreover, Ukraine has sent drones into Russian-occupied territory to survey the battle front, revealing images of craters and charred armor. And finally, one of Russia&#39;s most prominent tech figures has called their war in Ukraine &#39;barbaric.&#39;</p>
+There is a lot going on in the world right now. The United States recently reached a deal with Iran to free 5 American detainees for money and release of various Iranians jailed in the US. The historic banyan tree in Lahaina, Hawaii was scarred from recent fires but still standing. Donald Trump and his former aide have both pled not guilty to new charges related to documents case. Inflation has gone up slightly, but other details indicate that the price pressure is still moderating. There&#39;s also a bizarre defamation case involving a wealthy teenager suing a 5-star hotel for turning him away from the bar. On the international stage, Russia is replicating Iranian drones and using them to attack Ukraine, while an Ecuadorian presidential candidate was assassinated during a rally last week. Hip-hop music is celebrating its 50th anniversary, while Republicans are trying to stop Donald Trump from running again in 2024 by making him sign loyalty pledges at the Iowa State Fair. It&#39;s clear that Donald Trump&#39;s era has replaced Ronald Reagan&#39;s coalition of &quot;three-legged stool&quot; and changed the state of today&#39;s Republican Party.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The historic town of Lahaina, and its legacy, is in ashes.</h3>
-<sub>By Shawn Hubler</sub>
-<p>The town was once Hawaii’s royal capital, and there were fears that some of its oldest buildings had been destroyed by the wildfires.  <a href="https://nyti.ms/3YspOaS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>U.S. Reaches Deal With Iran to Free Americans for Jailed Iranians and Funds</h3>
+<sub>By Farnaz Fassihi and Michael D. Shear</sub>
+<p>Five American detainees will eventually be allowed to leave Iran in exchange for Tehran gaining access to $6 billion for humanitarian purposes and the United States freeing several jailed Iranians.  <a href="https://nyti.ms/3DTPgg5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Lahaina’s Historic Banyan Tree Is Scarred, but Standing</h3>
+<sub>By Jacey Fortin</sub>
+<p>Planted in 1873, the tree has grown to cover more than half an acre. County officials said it “looks burned” after the Maui fires, but the roots may still be healthy.  <a href="https://nyti.ms/3KAegwE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump and Longtime Aide Plead Not Guilty to New Charges in Documents Case</h3>
+<sub>By Charlie Savage</sub>
+<p>The former president did not appear in person for a second arraignment in the case after an updated indictment last month, and he indicated last week that he would plead not guilty.  <a href="https://nyti.ms/47nZu5L"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Heat, War and Trade Protections Raise Uncertainty for Food Prices</h3>
-<sub>By Eshe Nelson, Ana Swanson and Jeanna Smialek</sub>
-<p>Experts are warning of a new normal in which food supplies — and prices — could be rocked more regularly.  <a href="https://nyti.ms/3Omb6xm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Presidential Candidate in Ecuador Is Assassinated During Rally</h3>
-<sub>By José María León Cabrera, Julie Turkewitz and Genevieve Glatsky</sub>
-<p>The candidate, Fernando Villavicencio, had been vocal about ties between the state and organized crime, in a country roiled by violence tied to drug trafficking.  <a href="https://nyti.ms/45jFQ9e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Who Was Fernando Villavicencio?</h3>
-<sub>By Genevieve Glatsky</sub>
-<p>The presidential candidate who was assassinated on Wednesday had a long history in Ecuador’s public affairs, largely as an antagonist to those in power.  <a href="https://nyti.ms/3QzjBYO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Inflation Picks Up, but Details Under the Surface Are Encouraging</h3>
+<sub>By Jeanna Smialek</sub>
+<p>Economists looked past the first acceleration in overall inflation in more than a year and saw signs that price pressures continued to moderate in July.  <a href="https://nyti.ms/47jvp7o"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -94,16 +92,10 @@ Internationally, there was a tragic assassination of a presidential candidate in
 <p>A teenager turned away by a bar in one of Manhattan’s fanciest hotels started a campaign to sully its reputation, a lawsuit says. The hotel is suing him for defamation.  <a href="https://nyti.ms/3Quqril"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>What Extreme Heat Does to Your Body</h3>
-<sub>By Dana G. Smith</sub>
-<p>High temperatures can put the body under immense stress. Here’s what that looks like.  <a href="https://nyti.ms/3OSt4cB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Heat Singes the Mind, Not Just the Body</h3>
-<sub>By Apoorva Mandavilli</sub>
-<p>Hot weather can destabilize mood, exacerbate mental health disorders and complicate drug treatment. Climate change itself is a stressor, scientists say.  <a href="https://nyti.ms/3KBdqQ3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Russia Is Replicating Iranian Drones and Using Them to Attack Ukraine</h3>
+<sub>By John Ismay</sub>
+<p>Called the Geran-2, the drones are a Russian-made version of the Shahed-136, which explodes on impact, researchers say.  <a href="https://nyti.ms/3KzA37w"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -113,15 +105,15 @@ Internationally, there was a tragic assassination of a presidential candidate in
 <sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Yandex founder calls Russia’s war in Ukraine ‘barbaric.’</h3>
-<sub>By Anatoly Kurmanaev</sub>
-<p>  <a href="https://nyti.ms/45jqPnW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
+<h3>Presidential Candidate in Ecuador Is Assassinated During Rally</h3>
+<sub>By José María León Cabrera, Julie Turkewitz and Genevieve Glatsky</sub>
+<p>The candidate, Fernando Villavicencio, had been vocal about ties between the state and organized crime, in a country roiled by violence tied to drug trafficking.  <a href="https://nyti.ms/45jFQ9e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Florida Schools Try to Adapt to New Rules on Gender, Bathrooms and Pronouns</h3>
-<sub>By Dana Goldstein</sub>
-<p>As schools start, it’s been more paperwork, a culling of reading lists, as well as new regulations about bathrooms.  <a href="https://nyti.ms/3saHs6Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>How Hip-Hop Conquered the World</h3>
+<sub>By Wesley Morris</sub>
+<p>We’re celebrating hip-hop’s 50th anniversary this week. Wesley Morris traces the art form from its South Bronx origins to all-encompassing triumph.  <a href="https://nyti.ms/444J6Ek"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -134,6 +126,12 @@ Internationally, there was a tragic assassination of a presidential candidate in
 <h3>Trump Says He Won’t Sign Loyalty Pledge Required for G.O.P. Debate</h3>
 <sub>By Maggie Astor</sub>
 <p>The Republican National Committee has demanded that 2024 contenders pledge to support the eventual nominee in order to debate. The former president is refusing.  <a href="https://nyti.ms/455NdBE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>It’s Not Reagan’s Party Anymore</h3>
+<sub>By Nate Cohn</sub>
+<p>Ronald Reagan’s “three-legged stool” coalition supported the G.O.P. for decades. Our latest poll leaves little doubt that Donald J. Trump has put an end to that era.  <a href="https://nyti.ms/3Yy7Bsr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
 <hr/>
 </ol>
