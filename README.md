@@ -60,7 +60,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, August 10, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. For example, in the US, President Biden has just instituted a ban on new investments in certain high-tech industries in China, and there is a lot of tension between the two countries. Also, a Chinese real estate giant has been spooking investors after missing key debt payments, raising worries about the economy. In Ecuador, meanwhile, there was tragedy when a presidential candidate was assassinated during a rally - he had been vocal about links between the state and organized crime. Additionally, there is an investigation into an online pedophile ring involving members from both the US and Australia that has resulted in 98 arrests. Finally, here in the US we have recently seen Special Counsel obtained a search warrant for Trump&#39;s Twitter account and a Utah man accused of threatening Biden was killed by an FBI agent.</p>
+There is a lot going on globally right now. In the US, President Biden has ordered a ban on new investments in China&#39;s high-tech industries in an effort to prevent American help to Beijing as it modernizes its military. There has also been reports of another Chinese real estate giant teetering that has spooked investors. In Ecuador, there has been an assassination of a presidential candidate who was vocal about ties between the state and organized crime, and it ties to drug trafficking. Special counsel has obtained a search warrant from former President Trump&#39;s Twitter account as part of the inquiry into the events of January 6th. Trump is also seeking to review classified evidence from his own secure facility at Mar-a-Lago. 
+
+In Ohio, voters rejected a ballot measure and revealed their views on abortion and Republican power. Here in the US, an FBI agent killed a Utah man who was accused of threatening President Biden, and 98 people have been arrested in an international investigation into child abuse following the killing of two FBI agents overseas. The Band’s songwriter, Robbie Robertson, also passed away this week at 80 years old.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Orders Ban on New Investments in China’s Sensitive High-Tech Industries</h3>
@@ -77,14 +79,14 @@ There is a lot going on in the world right now. For example, in the US, Presiden
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Presidential Candidate in Ecuador Is Assassinated During Rally</h3>
 <sub>By José María León Cabrera, Julie Turkewitz and Genevieve Glatsky</sub>
-<p>The candidate, Fernando Villavicencio, had been vocal about ties between the state and organized crime. His death is a blow to a nation that was already facing upheaval.  <a href="https://nyti.ms/45jFQ9e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The candidate, Fernando Villavicencio, had been vocal about ties between the state and organized crime, in a country roiled by violence tied to drug trafficking.  <a href="https://nyti.ms/45jFQ9e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-espanol-blue" alt="">
-<h3>Fernando Villavicencio, candidato a la presidencia de Ecuador, es asesinado en un acto de campaña</h3>
-<sub>By José María León Cabrera, Julie Turkewitz and Genevieve Glatsky</sub>
-<p>Villavicencio era uno de ocho aspirantes presidenciales en las elecciones que se celebrarán en unos días.  <a href="https://nyti.ms/3KXgart"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Who Was Fernando Villavicencio?</h3>
+<sub>By Genevieve Glatsky</sub>
+<p>The presidential candidate who was assassinated on Wednesday had a long history in Ecuador’s public affairs, largely as an antagonist to those in power.  <a href="https://nyti.ms/3QzjBYO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>How a Peaceful Country Became a Gold Rush State for Drug Cartels</h3>
