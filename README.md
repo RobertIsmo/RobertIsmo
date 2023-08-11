@@ -60,12 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, August 10, Central Standard Time</p>
 <p>
-The US reached a deal with Iran to free five American detainees in exchange for Tehran gaining access to $6 billion for humanitarian purposes and the US freeing some Iranians. On the legal side of things, the Supreme Court paused an opioid settlement with the Sacklers and Donald Trump and his longtime aide plead not guilty to new charges in documents case. President Biden is trying to pass a bill for another $24 billion for Ukraine and Russia is allegedly using drones against them. In New York, there&#39;s a strange defamation lawsuit between a wealthy teenager who was turned away from a bar in a 5-star hotel, and the hospital research trials at Columbia were suspended after a subject&#39;s suicide. Lastly, we&#39;re celebrating hip-hop&#39;s 50th anniversary this week as it has become an all-encompassing force around the world.</p>
+There have been some major developments around the world recently that we should know about. In Hawaii, wildfires have been contained but there could still be an increase in the death toll as search efforts continue. In the US, there is a Supreme Court review of an opioid settlement involving the wealthy Sackler family, and the US has reached a deal with Iran to free American detainees in exchange for access to $6 billion for humanitarian relief and the release of jailed Iranians. Iran and the US also appear to be observing an informal agreement controlling Iran&#39;s nuclear program. There is a proposed January date for former President Trump&#39;s election interference trial, and two legal professors have argued that the 14th Amendment makes Trump ineligible to hold government office. In New York, there is a bizarre defamation fight between a wealthy teenager and a 5-star hotel. Ecuador has been forever changed after a presidential candidate&#39;s assassination from drug gangs. Russia has been attacking Ukraine with drones, and Biden has requested $24 billion in aid for Ukraine against Russian forces. The Russian economy has been under pressure due to war and sanctions, and Sweden has empowered a government agency to combat Kremlin disinformation online.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Reaches Deal With Iran to Free Americans for Jailed Iranians and Funds</h3>
-<sub>By Farnaz Fassihi and Michael D. Shear</sub>
-<p>Five American detainees will eventually be allowed to leave Iran in exchange for Tehran gaining access to $6 billion for humanitarian purposes and the United States freeing several jailed Iranians.  <a href="https://nyti.ms/3DTPgg5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>What We Know About the Wildfires in Hawaii</h3>
+<sub>By Adeel Hassan</sub>
+<p>The fire has been contained, but access to the islands is limited, and as the focus turns to search efforts, the death toll could rise.  <a href="https://nyti.ms/3KzrwS9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -75,21 +75,21 @@ The US reached a deal with Iran to free five American detainees in exchange for 
 <sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Lahaina’s Historic Banyan Tree Is Scarred, but Standing</h3>
-<sub>By Jacey Fortin</sub>
-<p>Planted in 1873, the tree has grown to cover more than half an acre. County officials said it “looks burned” after the Maui fires, but the roots may still be healthy.  <a href="https://nyti.ms/3KAegwE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>U.S. Reaches Deal With Iran to Free Americans for Jailed Iranians and Funds</h3>
+<sub>By Farnaz Fassihi and Michael D. Shear</sub>
+<p>Five American detainees will eventually be allowed to leave Iran in exchange for Tehran gaining access to $6 billion for humanitarian purposes and the United States freeing several jailed Iranians.  <a href="https://nyti.ms/3DTPgg5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Prisoner Deal Could Smooth Effort to Contain Iran’s Nuclear Program</h3>
+<sub>By Michael Crowley, Ronen Bergman and Farnaz Fassihi</sub>
+<p>Iran and the United States appear to be observing an informal agreement under which Iran has limited its nuclear program and restrained proxy militias.  <a href="https://nyti.ms/3OS8x80"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Special Counsel Proposes January Date for Trump’s Election Interference Trial</h3>
 <sub>By Alan Feuer</sub>
 <p>The former president’s legal team will get to suggest its own timetable for the case next week and will surely object to the government’s proposal.  <a href="https://nyti.ms/3KBKPKm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump and Longtime Aide Plead Not Guilty to New Charges in Documents Case</h3>
-<sub>By Charlie Savage</sub>
-<p>The former president did not appear in person for a second arraignment in the case after an updated indictment last month, and he indicated last week that he would plead not guilty.  <a href="https://nyti.ms/47nZu5L"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -104,10 +104,10 @@ The US reached a deal with Iran to free five American detainees in exchange for 
 <p>A teenager turned away by a bar in one of Manhattan’s fanciest hotels started a campaign to sully its reputation, a lawsuit says. The hotel is suing him for defamation.  <a href="https://nyti.ms/3Quqril"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>U.S. Watchdog Halts Studies at N.Y. Psychiatric Center After a Subject’s Suicide</h3>
-<sub>By Ellen Barry</sub>
-<p>Human research trials at the New York State Psychiatric Institute at Columbia have been paused while regulators review whether protocols were violated.  <a href="https://nyti.ms/45eGIMq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ecuador, Reeling From a Candidate’s Assassination, Is Forever Changed</h3>
+<sub>By Julie Turkewitz and José María León Cabrera</sub>
+<p>The killing of Fernando Villavicencio marks a grim turning point for a once-tranquil country now awash in violence fueled by drug gangs.  <a href="https://nyti.ms/47pSyoN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -117,21 +117,21 @@ The US reached a deal with Iran to free five American detainees in exchange for 
 <sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Seeks Another $24 Billion for Ukraine in Test of Bipartisan Support</h3>
+<h3>Biden Seeks $24 Billion More for Ukraine in Test of Bipartisan Support</h3>
 <sub>By Peter Baker and Luke Broadwater</sub>
-<p>The aid request is the first by the president since Republicans took over the House in January, and some party leaders have expressed opposition to spending more to help Ukraine beat back Russian forces.  <a href="https://nyti.ms/3QtQE0o"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The aid request is the first by the president since Republicans took over the House, and some party leaders have expressed opposition to spending more to help Ukraine beat back Russian forces.  <a href="https://nyti.ms/3QtQE0o"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>How Hip-Hop Conquered the World</h3>
-<sub>By Wesley Morris</sub>
-<p>We’re celebrating hip-hop’s 50th anniversary this week. Wesley Morris traces the art form from its South Bronx origins to all-encompassing triumph.  <a href="https://nyti.ms/444J6Ek"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Russia Tries to Bolster Ruble as Inflation Adds to Economic Woes</h3>
+<sub>By Paul Sonne</sub>
+<p>The central bank in Moscow took steps to counter the currency’s slide, but the war and resulting sanctions have put intense pressure on the economy.  <a href="https://nyti.ms/45s4jcJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Says He Won’t Sign Loyalty Pledge Required for G.O.P. Debate</h3>
-<sub>By Maggie Astor</sub>
-<p>The Republican National Committee has demanded that 2024 contenders pledge to support the eventual nominee in order to debate. The former president is refusing.  <a href="https://nyti.ms/455NdBE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Sweden Is Not Staying Neutral in Russia’s Information War</h3>
+<sub>By Steven Lee Myers</sub>
+<p>The country has empowered a government agency to openly combat online disinformation coming from foreign adversaries, and especially the Kremlin.  <a href="https://nyti.ms/3OxwEas"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
 <hr/>
 </ol>
