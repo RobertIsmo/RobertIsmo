@@ -60,22 +60,8 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, August 11, Central Standard Time</p>
 <p>
-There are currently wildfires in Hawaii that have been contained but the death toll could rise as search efforts continue. Meanwhile, a city in Maui called Lahaina was devastated by fire, as some survivors reported getting no evacuation orders. On a different note, the US Supreme Court paused a settlement with Sacklers regarding opioid-related lawsuits. The court is reviewing it. 
-In other news, there&#39;s an informal agreement between Iran and the US which might help contain Iran&#39;s nuclear program. Special counsel has proposed a date for Trump&#39;s trial regarding his alleged election interference next year. Additionally, two law professors suggested that the 14th Amendment could prevent Trump from holding government office.
-A teenager in Manhattan is being sued for defamation after he apparently caused a false campaign to sully the reputation of a 5-star hotel bar. Ecuador is reeling from a candidate&#39;s assassination and Spain just reached its first Women&#39;s World Cup semifinal match. In more sports news, England&#39;s Lauren James received a 2-game suspension at the World Cup. Lastly, Russian Geran-2 drones, replicas of Iranian Shahed-136 drones, are being used to attack Ukraine.</p>
+There are a couple of fires burning in Hawaii that have been contained but search effort is underway to make sure there are no casualties. In the US, former president Donald Trump is facing a cash crunch due to legal bills piled up against him. Meanwhile, a trial related to his alleged election interference is due soon. A collective in London called Looty is reclaiming items from Western museums to give people from former colonies a chance to learn about their stolen heritage. There are also fears of a second Russian occupation in Ukraine as Moscow troops advance closeby. And here at home, our beaches were shattered after an expensive repair project only to be wrecked by a single storm. There are some sports news as well – Sweden is out from the World Cup ensuring that first-time champion will take home the trophy and Spain has reached its first Women&#39;s World Cup semifinal.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What We Know About the Wildfires in Hawaii</h3>
-<sub>By Adeel Hassan</sub>
-<p>The fire has been contained, but access to the islands is limited, and as the focus turns to search efforts, the death toll could rise.  <a href="https://nyti.ms/3KzrwS9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Lahaina Showcased Centuries of Hawaiian History. Now Its Gems are Gone.</h3>
-<sub>By Jill Cowan, Simon Romero and Shawn Hubler</sub>
-<p>A city devastated by fire in Maui was a magnet for tourists. But for families from Lahaina, especially Native Hawaiians, it was a home with a deep history.  <a href="https://nyti.ms/448QBtY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Some Fire Survivors Say Flames Reached Them Before Evacuation Orders</h3>
 <sub>By Nicholas Bogel-Burroughs, Livia Albeck-Ripka and Orlando Mayorquin</sub>
@@ -83,16 +69,16 @@ A teenager in Manhattan is being sued for defamation after he apparently caused 
 <sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Supreme Court Pauses Opioid Settlement With Sacklers Pending Review</h3>
-<sub>By Abbie VanSickle and Jan Hoffman</sub>
-<p>A federal appeals court had signed off on the agreement, which would shield members of the wealthy Sackler family from opioid-related lawsuits in exchange for billions to resolve thousands of claims.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>What We Know About the Wildfires in Hawaii</h3>
+<sub>By Adeel Hassan</sub>
+<p>The fire has been contained, but access to the islands is limited, and as the focus turns to search efforts, the death toll could rise.  <a href="https://nyti.ms/3KzrwS9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Prisoner Deal Could Smooth Effort to Contain Iran’s Nuclear Program</h3>
-<sub>By Michael Crowley, Ronen Bergman and Farnaz Fassihi</sub>
-<p>Iran and the United States appear to be observing an informal agreement under which Iran has limited its nuclear program and restrained proxy militias.  <a href="https://nyti.ms/3OS8x80"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
+<h3>Spiraling Legal Bills Threaten Trump With a Cash Crunch</h3>
+<sub>By Shane Goldmacher and Maggie Haberman</sub>
+<p>The former president’s political orbit, including the super PAC that backs him, is already spending more than it is taking in — an unusual trajectory this far out from an election.  <a href="https://nyti.ms/3ORQJtu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Special Counsel Proposes January Date for Trump’s Election Interference Trial</h3>
@@ -101,22 +87,40 @@ A teenager in Manhattan is being sued for defamation after he apparently caused 
 <sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Conservative Case Emerges to Disqualify Trump for Role on Jan. 6</h3>
-<sub>By Adam Liptak</sub>
-<p>Two law professors active in the Federalist Society wrote that the original meaning of the 14th Amendment makes Donald Trump ineligible to hold government office.  <a href="https://nyti.ms/3ORDQ2L"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Supreme Court Pauses Opioid Settlement With Sacklers Pending Review</h3>
+<sub>By Abbie VanSickle and Jan Hoffman</sub>
+<p>A federal appeals court had signed off on the agreement, which would shield members of the wealthy Sackler family from opioid-related lawsuits in exchange for billions to resolve thousands of claims.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>A Wealthy Teenager, a 5-Star Hotel and a Bizarre Defamation Fight</h3>
-<sub>By Liam Stack</sub>
-<p>A teenager turned away by a bar in one of Manhattan’s fanciest hotels started a campaign to sully its reputation, a lawsuit says. The hotel is suing him for defamation.  <a href="https://nyti.ms/3Quqril"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>A ‘Digital Heist’ Recaptures the Rosetta Stone</h3>
+<sub>By Farah Nayeri</sub>
+<p>The collective Looty in London virtually reclaims items from Western museums to give people from former colonies a chance to learn about their stolen heritage.  <a href="https://nyti.ms/3qvfoL5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ecuador, Reeling From a Candidate’s Assassination, Is Forever Changed</h3>
-<sub>By Julie Turkewitz and José María León Cabrera</sub>
-<p>The killing of Fernando Villavicencio marks a grim turning point for a once-tranquil country now awash in violence fueled by drug gangs.  <a href="https://nyti.ms/47pSyoN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>They Endured One Russian Occupation. Now, They Fear a Second.</h3>
+<sub>By Valerie Hopkins and Emile Ducke</sub>
+<p>The torture rooms in the battered Ukrainian city of Kupiansk have been empty for months. But Moscow’s advancing forces are just five miles away.  <a href="https://nyti.ms/3OSuDHu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Her Advice to Antiwar Russians: Resistance Is Futile, So Find Ways to Cope</h3>
+<sub>By Anton Troianovski</sub>
+<p>Ksenia Sobchak, one of the best known media figures still in Russia, says her fatalistic stance just reflects a grim reality. Some liberals call her a Kremlin stooge, while hawks see her as disloyal.  <a href="https://nyti.ms/3Ky8hIA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>Nearly 50 Years After Its Last Journey, Russia Launches Toward the Moon</h3>
+<sub>By Kenneth Chang and Anton Troianovski</sub>
+<p>The Luna-25 mission, years in the making, will try to put a robotic lander near the moon’s south pole.  <a href="https://nyti.ms/3s76HXS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Sweden Ousts Japan, Ensuring World Cup Will Have First-Time Champion</h3>
+<sub>By Jeré Longman</sub>
+<p>Sweden, a perennial bridesmaid, followed up its elimination of the United States by holding off Japan, the last former winner in the field.  <a href="https://nyti.ms/3OPPSts"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Spain Goes the Distance to Reach Its First Women’s World Cup Semifinal</h3>
@@ -124,17 +128,11 @@ A teenager in Manhattan is being sued for defamation after he apparently caused 
 <p>Salma Paralluelo’s goal in extra time delivered a victory over the Netherlands and a date with the Japan-Sweden winner.  <a href="https://nyti.ms/3qsOpjk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>England’s Lauren James Gets 2-Game Ban at Women’s World Cup</h3>
-<sub>By Oskar Garcia</sub>
-<p>James will be eligible to return for the Women’s World Cup final — if England can reach it without her.  <a href="https://nyti.ms/3Yw43qx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Russia Is Replicating Iranian Drones and Using Them to Attack Ukraine</h3>
-<sub>By John Ismay</sub>
-<p>Called the Geran-2, the drones are a Russian-made version of the Shahed-136, which explodes on impact, researchers say.  <a href="https://nyti.ms/3KzA37w"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>It Took $1.7 Billion to Fix Fire Island’s Beaches. One Storm Wrecked Them.</h3>
+<sub>By Liam Stack</sub>
+<p>The barrier island off the coast of New York is more than a vacation community. It is what stands between rising seas and one of the most densely populated coastal regions in the country.  <a href="https://nyti.ms/3OP1InB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 11, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
