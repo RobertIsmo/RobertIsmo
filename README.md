@@ -60,13 +60,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, August 11, Central Standard Time</p>
 <p>
-Right now, the US is dealing with massive wildfires in Hawaii - the fire has been contained but the death toll could still rise as rescue efforts continue. On the west coast of the US, there is a case emerging to disqualify Donald Trump from holding office in future following his involvement in the riot at the Capitol on January 6th. Meanwhile, two law professors have suggested that according to the 14th Amendment, Trump would be ineligible to hold government office. 
-
-On another continent, Ecuador is reeling from a candidate’s assassination which has set off violence in the country fueled by drug gangs. That&#39;s not all - Russia is using drones to attack Ukraine that are replicas of Iranian designs that explode on impact. 
-
-In sports news, Spain has reached its first ever Women&#39;s World Cup semifinal meanwhile England had to suspend Lauren James for two games due to a ban. 
-
-Finally, there is a bizarre defamation fight going on in Manhattan involving a teenager and one of Manhattan&#39;s fanciest hotels.</p>
+There are currently wildfires in Hawaii that have been contained but the death toll could rise as search efforts continue. Meanwhile, a city in Maui called Lahaina was devastated by fire, as some survivors reported getting no evacuation orders. On a different note, the US Supreme Court paused a settlement with Sacklers regarding opioid-related lawsuits. The court is reviewing it. 
+In other news, there&#39;s an informal agreement between Iran and the US which might help contain Iran&#39;s nuclear program. Special counsel has proposed a date for Trump&#39;s trial regarding his alleged election interference next year. Additionally, two law professors suggested that the 14th Amendment could prevent Trump from holding government office.
+A teenager in Manhattan is being sued for defamation after he apparently caused a false campaign to sully the reputation of a 5-star hotel bar. Ecuador is reeling from a candidate&#39;s assassination and Spain just reached its first Women&#39;s World Cup semifinal match. In more sports news, England&#39;s Lauren James received a 2-game suspension at the World Cup. Lastly, Russian Geran-2 drones, replicas of Iranian Shahed-136 drones, are being used to attack Ukraine.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>What We Know About the Wildfires in Hawaii</h3>
