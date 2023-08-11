@@ -58,9 +58,15 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Thursday, August 10, Central Standard Time</p>
+<p>It is Friday, August 11, Central Standard Time</p>
 <p>
-There are currently several news stories happening in the world that are really significant. In Hawaii, there have been raging wildfires in Maui, with residents unable to access the islands while the death toll could potentially go up. Additionally, in Maui a city has been devastated by fire and many have been displaced. The Supreme Court is also currently reviewing a settlement between the Sackler family and opioid-related lawsuits, and Iran and the United States are finalizing an agreement to contain Iran&#39;s nuclear program. Meanwhile former President Donald Trump&#39;s legal team will be suggesting a date for his election interference trial sometime in January. Additionally, a wealthy teenager is being sued for defamation after turning away from a 5-star Manhattan hotel. In Ecuador, the assassination of Fernando Villavicencio marks a dark turn for a once-tranquil country, while Russia is replicating Iranian drones to attack Ukraine. To combat this violence, President Biden has asked for $24 billion in aid for Ukraine to help beat back Russian forces. Sweden is also staying on alert for online disinformation coming specifically from the Kremlin.</p>
+Right now, the US is dealing with massive wildfires in Hawaii - the fire has been contained but the death toll could still rise as rescue efforts continue. On the west coast of the US, there is a case emerging to disqualify Donald Trump from holding office in future following his involvement in the riot at the Capitol on January 6th. Meanwhile, two law professors have suggested that according to the 14th Amendment, Trump would be ineligible to hold government office. 
+
+On another continent, Ecuador is reeling from a candidate’s assassination which has set off violence in the country fueled by drug gangs. That&#39;s not all - Russia is using drones to attack Ukraine that are replicas of Iranian designs that explode on impact. 
+
+In sports news, Spain has reached its first ever Women&#39;s World Cup semifinal meanwhile England had to suspend Lauren James for two games due to a ban. 
+
+Finally, there is a bizarre defamation fight going on in Manhattan involving a teenager and one of Manhattan&#39;s fanciest hotels.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>What We Know About the Wildfires in Hawaii</h3>
@@ -75,9 +81,9 @@ There are currently several news stories happening in the world that are really 
 <sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Map: See Where the Hawaii Wildfires Spread in Maui</h3>
-<sub>By Molly Cook Escobar, Lauren Leatherby, Scott Reinhard, Elena Shao and Charlie Smart</sub>
-<p>Fires tore through Maui and leveled entire neighborhoods.  <a href="https://nyti.ms/3KF9lKL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Some Fire Survivors Say Flames Reached Them Before Evacuation Orders</h3>
+<sub>By Nicholas Bogel-Burroughs, Livia Albeck-Ripka and Orlando Mayorquin</sub>
+<p>A fire near Lahaina that had initially been contained flared up again and threatened homes, but some residents said they received no evacuation orders.  <a href="https://nyti.ms/47qqCRK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -116,22 +122,22 @@ There are currently several news stories happening in the world that are really 
 <p>The killing of Fernando Villavicencio marks a grim turning point for a once-tranquil country now awash in violence fueled by drug gangs.  <a href="https://nyti.ms/47pSyoN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Spain Goes the Distance to Reach Its First Women’s World Cup Semifinal</h3>
+<sub>By Rory Smith</sub>
+<p>Salma Paralluelo’s goal in extra time delivered a victory over the Netherlands and a date with the Japan-Sweden winner.  <a href="https://nyti.ms/3qsOpjk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>England’s Lauren James Gets 2-Game Ban at Women’s World Cup</h3>
+<sub>By Oskar Garcia</sub>
+<p>James will be eligible to return for the Women’s World Cup final — if England can reach it without her.  <a href="https://nyti.ms/3Yw43qx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Russia Is Replicating Iranian Drones and Using Them to Attack Ukraine</h3>
 <sub>By John Ismay</sub>
 <p>Called the Geran-2, the drones are a Russian-made version of the Shahed-136, which explodes on impact, researchers say.  <a href="https://nyti.ms/3KzA37w"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Seeks $24 Billion More for Ukraine in Test of Bipartisan Support</h3>
-<sub>By Peter Baker and Luke Broadwater</sub>
-<p>The aid request is the first by the president since Republicans took over the House, and some party leaders have expressed opposition to spending more to help Ukraine beat back Russian forces.  <a href="https://nyti.ms/3QtQE0o"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Sweden Is Not Staying Neutral in Russia’s Information War</h3>
-<sub>By Steven Lee Myers</sub>
-<p>The country has empowered a government agency to openly combat online disinformation coming from foreign adversaries, and especially the Kremlin.  <a href="https://nyti.ms/3OxwEas"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
 <hr/>
 </ol>
