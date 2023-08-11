@@ -60,12 +60,36 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, August 11, Central Standard Time</p>
 <p>
-There are a couple of fires burning in Hawaii that have been contained but search effort is underway to make sure there are no casualties. In the US, former president Donald Trump is facing a cash crunch due to legal bills piled up against him. Meanwhile, a trial related to his alleged election interference is due soon. A collective in London called Looty is reclaiming items from Western museums to give people from former colonies a chance to learn about their stolen heritage. There are also fears of a second Russian occupation in Ukraine as Moscow troops advance closeby. And here at home, our beaches were shattered after an expensive repair project only to be wrecked by a single storm. There are some sports news as well – Sweden is out from the World Cup ensuring that first-time champion will take home the trophy and Spain has reached its first Women&#39;s World Cup semifinal.</p>
+Things aren&#39;t looking great around the world right now. China&#39;s economic decline is being felt by countries across the globe, and their military is creating tension with Taiwan as they probe their defenses. There&#39;s also financial trouble in China which is setting off panic in markets and sparking outrage. In Hawaii there have been massive wildfires which have literally flattened entire neighborhoods, and with limited access to the islands the death toll has risen. In US politics, Donald Trump is facing more legal issues leading to a cash crunch, and he&#39;s been presented with a trial date for election interference. There&#39;s also an opioid settlement involving the Sacklers which has been paused pending review. On a brighter note, some digitally stolen artifacts are being returned to former colonies so they can learn about their heritage. Lastly, Russia has been occupying Ukraine for some time now and it looks like it won&#39;t end anytime soon, leaving many Russians feeling helpless.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>China’s Stalling Economy Puts the World on Notice</h3>
+<sub>By Peter S. Goodman</sub>
+<p>As China’s economy flashes indications of decline, the consequences pose perils for countries around the globe.  <a href="https://nyti.ms/3OuDkGj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>China’s Military, ‘Chasing the Dream,’ Probes Taiwan’s Defenses</h3>
+<sub>By Chris Buckley and Amy Chang Chien</sub>
+<p>Day by day, the People’s Liberation Army is turning up the pressure, deploying an ever-wider array of planes and ships.  <a href="https://nyti.ms/3qwQxq7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Outrage as Chinese Real Estate Giant Wobbles and Its Stock Dives</h3>
+<sub>By Alexandra Stevenson</sub>
+<p>Financial troubles at Country Garden, the last big developer to avoid default, set off panic in the markets and angry comments on social media.  <a href="https://nyti.ms/3qj4yrH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 11, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Some Fire Survivors Say Flames Reached Them Before Evacuation Orders</h3>
-<sub>By Nicholas Bogel-Burroughs, Livia Albeck-Ripka and Orlando Mayorquin</sub>
-<p>A fire near Lahaina that had initially been contained flared up again and threatened homes, but some residents said they received no evacuation orders.  <a href="https://nyti.ms/47qqCRK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Map: See Where the Hawaii Wildfires Spread in Maui</h3>
+<sub>By Molly Cook Escobar, Lauren Leatherby, Scott Reinhard, Elena Shao and Charlie Smart</sub>
+<p>Fires tore through Maui and leveled entire neighborhoods.  <a href="https://nyti.ms/3KF9lKL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Maui Had a Housing Shortage Even Before the Fire</h3>
+<sub>By Michael Corkery and Jill Cowan</sub>
+<p>With hundreds of homes lost in Lahaina, many fear rebuilding will be difficult or even impossible for some residents.  <a href="https://nyti.ms/47q1jzd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -108,30 +132,6 @@ There are a couple of fires burning in Hawaii that have been contained but searc
 <h3>Her Advice to Antiwar Russians: Resistance Is Futile, So Find Ways to Cope</h3>
 <sub>By Anton Troianovski</sub>
 <p>Ksenia Sobchak, one of the best known media figures still in Russia, says her fatalistic stance just reflects a grim reality. Some liberals call her a Kremlin stooge, while hawks see her as disloyal.  <a href="https://nyti.ms/3Ky8hIA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>Nearly 50 Years After Its Last Journey, Russia Launches Toward the Moon</h3>
-<sub>By Kenneth Chang and Anton Troianovski</sub>
-<p>The Luna-25 mission, years in the making, will try to put a robotic lander near the moon’s south pole.  <a href="https://nyti.ms/3s76HXS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Sweden Ousts Japan, Ensuring World Cup Will Have First-Time Champion</h3>
-<sub>By Jeré Longman</sub>
-<p>Sweden, a perennial bridesmaid, followed up its elimination of the United States by holding off Japan, the last former winner in the field.  <a href="https://nyti.ms/3OPPSts"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Spain Goes the Distance to Reach Its First Women’s World Cup Semifinal</h3>
-<sub>By Rory Smith</sub>
-<p>Salma Paralluelo’s goal in extra time delivered a victory over the Netherlands and a date with the Japan-Sweden winner.  <a href="https://nyti.ms/3qsOpjk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>It Took $1.7 Billion to Fix Fire Island’s Beaches. One Storm Wrecked Them.</h3>
-<sub>By Liam Stack</sub>
-<p>The barrier island off the coast of New York is more than a vacation community. It is what stands between rising seas and one of the most densely populated coastal regions in the country.  <a href="https://nyti.ms/3OP1InB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 11, Central Standard Time</sub></sub>
 <hr/>
 </ol>
