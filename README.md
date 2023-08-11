@@ -60,8 +60,38 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, August 11, Central Standard Time</p>
 <p>
-Things aren&#39;t looking great around the world right now. China&#39;s economic decline is being felt by countries across the globe, and their military is creating tension with Taiwan as they probe their defenses. There&#39;s also financial trouble in China which is setting off panic in markets and sparking outrage. In Hawaii there have been massive wildfires which have literally flattened entire neighborhoods, and with limited access to the islands the death toll has risen. In US politics, Donald Trump is facing more legal issues leading to a cash crunch, and he&#39;s been presented with a trial date for election interference. There&#39;s also an opioid settlement involving the Sacklers which has been paused pending review. On a brighter note, some digitally stolen artifacts are being returned to former colonies so they can learn about their heritage. Lastly, Russia has been occupying Ukraine for some time now and it looks like it won&#39;t end anytime soon, leaving many Russians feeling helpless.</p>
+Hi there! It’s been a busy few weeks in the world. In the US, former President Donald Trump is facing legal hurdles related to his involvement in the January 6th Capitol siege and his personal finances are struggling due to mounting legal bills. In China, their slowing economy has put other countries on notice, and they are feinting increasingly aggressive military activity against Taiwan. On the brighter side, there&#39;s a movement to reclaim stolen heritage items that were taken during European colonialism — it’s called Looty and it is enabling people from former colonies to virtually learn about their art and history. Lastly, though Iowa Democrats are despondent after repeated losses in the state, Republican presidential candidates are flocking to Iowa ahead of the 2024 election. </p>
 <ol>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The Hunter Biden Case</h3>
+<sub>By David Leonhardt</sub>
+<p>An example of America’s dueling realities.  <a href="https://nyti.ms/3QARdWe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Judge Limits Trump’s Ability to Comment on Jan. 6 Evidence</h3>
+<sub>By Glenn Thrush and Alan Feuer</sub>
+<p>During a 90-minute hearing in Washington, Judge Tanya S. Chutkan also warned the former president against any attempt to intimidate witnesses or prejudice potential jurors.  <a href="https://nyti.ms/45jOFQm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Spiraling Legal Bills Threaten Trump With a Cash Crunch</h3>
+<sub>By Shane Goldmacher and Maggie Haberman</sub>
+<p>The former president’s political orbit, including the super PAC that backs him, is already spending more than it is taking in — an unusual trajectory this far out from an election.  <a href="https://nyti.ms/3ORQJtu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Mapping the Damage From the Maui Wildfires</h3>
+<sub>By Molly Cook Escobar, Lauren Leatherby, Scott Reinhard, Elena Shao and Charlie Smart</sub>
+<p>Fires tore through Maui and leveled entire neighborhoods.  <a href="https://nyti.ms/3KF9lKL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Photos From the Hawaii Fires and the Aftermath</h3>
+<sub>By The New York Times</sub>
+<p>The historic town of Lahaina was devastated by the fires that moved through the island of Maui this week.  <a href="https://nyti.ms/47sziac"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 11, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>China’s Stalling Economy Puts the World on Notice</h3>
 <sub>By Peter S. Goodman</sub>
@@ -74,47 +104,17 @@ Things aren&#39;t looking great around the world right now. China&#39;s economic
 <p>Day by day, the People’s Liberation Army is turning up the pressure, deploying an ever-wider array of planes and ships.  <a href="https://nyti.ms/3qwQxq7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Outrage as Chinese Real Estate Giant Wobbles and Its Stock Dives</h3>
-<sub>By Alexandra Stevenson</sub>
-<p>Financial troubles at Country Garden, the last big developer to avoid default, set off panic in the markets and angry comments on social media.  <a href="https://nyti.ms/3qj4yrH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Describes China as a Time Bomb Over Economic Problems</h3>
+<sub>By Michael D. Shear</sub>
+<p>The sharply worded comments are the latest example of the president’s willingness to criticize China even as he tries to ease tensions.  <a href="https://nyti.ms/3ORI9uP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Map: See Where the Hawaii Wildfires Spread in Maui</h3>
-<sub>By Molly Cook Escobar, Lauren Leatherby, Scott Reinhard, Elena Shao and Charlie Smart</sub>
-<p>Fires tore through Maui and leveled entire neighborhoods.  <a href="https://nyti.ms/3KF9lKL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Maui Had a Housing Shortage Even Before the Fire</h3>
-<sub>By Michael Corkery and Jill Cowan</sub>
-<p>With hundreds of homes lost in Lahaina, many fear rebuilding will be difficult or even impossible for some residents.  <a href="https://nyti.ms/47q1jzd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What We Know About the Wildfires in Hawaii</h3>
-<sub>By Adeel Hassan</sub>
-<p>The fire has been contained, but access to the islands is limited, and as the focus turns to search efforts, the death toll could rise.  <a href="https://nyti.ms/3KzrwS9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Spiraling Legal Bills Threaten Trump With a Cash Crunch</h3>
-<sub>By Shane Goldmacher and Maggie Haberman</sub>
-<p>The former president’s political orbit, including the super PAC that backs him, is already spending more than it is taking in — an unusual trajectory this far out from an election.  <a href="https://nyti.ms/3ORQJtu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>The Frothy Saga of the Jacuzzi Family</h3>
+<sub>By Saskia Solomon</sub>
+<p>An immigrant story, an American dream, a machine that defined bourgeois sensuality.  <a href="https://nyti.ms/3Qwlbe3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Special Counsel Proposes January Date for Trump’s Election Interference Trial</h3>
-<sub>By Alan Feuer</sub>
-<p>The former president’s legal team will get to suggest its own timetable for the case next week and will surely object to the government’s proposal.  <a href="https://nyti.ms/3KBKPKm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Supreme Court Pauses Opioid Settlement With Sacklers Pending Review</h3>
-<sub>By Abbie VanSickle and Jan Hoffman</sub>
-<p>A federal appeals court had signed off on the agreement, which would shield members of the wealthy Sackler family from opioid-related lawsuits in exchange for billions to resolve thousands of claims.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>A ‘Digital Heist’ Recaptures the Rosetta Stone</h3>
@@ -128,10 +128,10 @@ Things aren&#39;t looking great around the world right now. China&#39;s economic
 <p>The torture rooms in the battered Ukrainian city of Kupiansk have been empty for months. But Moscow’s advancing forces are just five miles away.  <a href="https://nyti.ms/3OSuDHu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Her Advice to Antiwar Russians: Resistance Is Futile, So Find Ways to Cope</h3>
-<sub>By Anton Troianovski</sub>
-<p>Ksenia Sobchak, one of the best known media figures still in Russia, says her fatalistic stance just reflects a grim reality. Some liberals call her a Kremlin stooge, while hawks see her as disloyal.  <a href="https://nyti.ms/3Ky8hIA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How Are Iowa Democrats? ‘I Can’t Even Describe to You How Bad It Is.’</h3>
+<sub>By Anjali Huynh and Reid J. Epstein</sub>
+<p>As Republican presidential candidates flock to the state, Democrats there are despondent, exhausted by repeated defeats and the loss of their first-in-the-nation nominating contest.  <a href="https://nyti.ms/3qs7VMQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 11, Central Standard Time</sub></sub>
 <hr/>
 </ol>
