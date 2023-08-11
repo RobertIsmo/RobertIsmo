@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, August 10, Central Standard Time</p>
 <p>
-There have been some major developments around the world recently that we should know about. In Hawaii, wildfires have been contained but there could still be an increase in the death toll as search efforts continue. In the US, there is a Supreme Court review of an opioid settlement involving the wealthy Sackler family, and the US has reached a deal with Iran to free American detainees in exchange for access to $6 billion for humanitarian relief and the release of jailed Iranians. Iran and the US also appear to be observing an informal agreement controlling Iran&#39;s nuclear program. There is a proposed January date for former President Trump&#39;s election interference trial, and two legal professors have argued that the 14th Amendment makes Trump ineligible to hold government office. In New York, there is a bizarre defamation fight between a wealthy teenager and a 5-star hotel. Ecuador has been forever changed after a presidential candidate&#39;s assassination from drug gangs. Russia has been attacking Ukraine with drones, and Biden has requested $24 billion in aid for Ukraine against Russian forces. The Russian economy has been under pressure due to war and sanctions, and Sweden has empowered a government agency to combat Kremlin disinformation online.</p>
+There are currently several news stories happening in the world that are really significant. In Hawaii, there have been raging wildfires in Maui, with residents unable to access the islands while the death toll could potentially go up. Additionally, in Maui a city has been devastated by fire and many have been displaced. The Supreme Court is also currently reviewing a settlement between the Sackler family and opioid-related lawsuits, and Iran and the United States are finalizing an agreement to contain Iran&#39;s nuclear program. Meanwhile former President Donald Trump&#39;s legal team will be suggesting a date for his election interference trial sometime in January. Additionally, a wealthy teenager is being sued for defamation after turning away from a 5-star Manhattan hotel. In Ecuador, the assassination of Fernando Villavicencio marks a dark turn for a once-tranquil country, while Russia is replicating Iranian drones to attack Ukraine. To combat this violence, President Biden has asked for $24 billion in aid for Ukraine to help beat back Russian forces. Sweden is also staying on alert for online disinformation coming specifically from the Kremlin.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>What We Know About the Wildfires in Hawaii</h3>
@@ -69,15 +69,21 @@ There have been some major developments around the world recently that we should
 <sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Supreme Court Pauses Opioid Settlement With Sacklers Pending Review</h3>
-<sub>By Abbie VanSickle</sub>
-<p>A federal appeals court had signed off on the agreement, which would shield members of the wealthy Sackler family from opioid-related lawsuits in exchange for $6 billion for victims.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Lahaina Showcased Centuries of Hawaiian History. Now Its Gems are Gone.</h3>
+<sub>By Jill Cowan, Simon Romero and Shawn Hubler</sub>
+<p>A city devastated by fire in Maui was a magnet for tourists. But for families from Lahaina, especially Native Hawaiians, it was a home with a deep history.  <a href="https://nyti.ms/448QBtY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Reaches Deal With Iran to Free Americans for Jailed Iranians and Funds</h3>
-<sub>By Farnaz Fassihi and Michael D. Shear</sub>
-<p>Five American detainees will eventually be allowed to leave Iran in exchange for Tehran gaining access to $6 billion for humanitarian purposes and the United States freeing several jailed Iranians.  <a href="https://nyti.ms/3DTPgg5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Map: See Where the Hawaii Wildfires Spread in Maui</h3>
+<sub>By Molly Cook Escobar, Lauren Leatherby, Scott Reinhard, Elena Shao and Charlie Smart</sub>
+<p>Fires tore through Maui and leveled entire neighborhoods.  <a href="https://nyti.ms/3KF9lKL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Supreme Court Pauses Opioid Settlement With Sacklers Pending Review</h3>
+<sub>By Abbie VanSickle and Jan Hoffman</sub>
+<p>A federal appeals court had signed off on the agreement, which would shield members of the wealthy Sackler family from opioid-related lawsuits in exchange for billions to resolve thousands of claims.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -120,12 +126,6 @@ There have been some major developments around the world recently that we should
 <h3>Biden Seeks $24 Billion More for Ukraine in Test of Bipartisan Support</h3>
 <sub>By Peter Baker and Luke Broadwater</sub>
 <p>The aid request is the first by the president since Republicans took over the House, and some party leaders have expressed opposition to spending more to help Ukraine beat back Russian forces.  <a href="https://nyti.ms/3QtQE0o"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Russia Tries to Bolster Ruble as Inflation Adds to Economic Woes</h3>
-<sub>By Paul Sonne</sub>
-<p>The central bank in Moscow took steps to counter the currency’s slide, but the war and resulting sanctions have put intense pressure on the economy.  <a href="https://nyti.ms/45s4jcJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
