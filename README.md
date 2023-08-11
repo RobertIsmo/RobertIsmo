@@ -60,8 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, August 11, Central Standard Time</p>
 <p>
-Hi there! It’s been a busy few weeks in the world. In the US, former President Donald Trump is facing legal hurdles related to his involvement in the January 6th Capitol siege and his personal finances are struggling due to mounting legal bills. In China, their slowing economy has put other countries on notice, and they are feinting increasingly aggressive military activity against Taiwan. On the brighter side, there&#39;s a movement to reclaim stolen heritage items that were taken during European colonialism — it’s called Looty and it is enabling people from former colonies to virtually learn about their art and history. Lastly, though Iowa Democrats are despondent after repeated losses in the state, Republican presidential candidates are flocking to Iowa ahead of the 2024 election. </p>
+There is a lot happening in the world right now. In the US, a prosecutor has been elevated to special counsel to investigate possible wrongdoing surrounding former President Trump&#39;s election-related activities, while Trump himself is dealing with legal bills from ongoing cases that are affecting his financial situation. In the tech industry, one of the biggest names has been arrested and awaits trial for charges stemming from his cryptocurrency business. On the climate front, conservation efforts to protect endangered birds are being made across Hawaii. And China&#39;s stalling economy is worrying nations around the world as President Biden has warned of it being a time bomb. Lastly, Fox News is dealing with significant fall out from its handling of a defamation case brought by Dominion Voting Systems which resulted in a large settlement.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Why Naming Weiss Special Counsel in the Hunter Biden Case Isn’t Likely to Change Much</h3>
+<sub>By Charlie Savage</sub>
+<p>Special counsel status essentially formalizes a degree of independence the prosecutor already had.  <a href="https://nyti.ms/3DQlLM4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Who Is David Weiss, the U.S. Attorney Elevated to Special Counsel?</h3>
+<sub>By Glenn Thrush</sub>
+<p>He earned the support of both of Delaware’s Democratic senators when then-President Trump, now a critic, nominated him in late 2017.  <a href="https://nyti.ms/45pyEbH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 11, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-briefing-blue" alt="">
 <h3>The Hunter Biden Case</h3>
 <sub>By David Leonhardt</sub>
@@ -69,7 +81,7 @@ Hi there! It’s been a busy few weeks in the world. In the US, former President
 <sub><sub>Friday, August 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Judge Limits Trump’s Ability to Comment on Jan. 6 Evidence</h3>
+<h3>Judge Limits Trump’s Ability to Share Jan. 6 Evidence</h3>
 <sub>By Glenn Thrush and Alan Feuer</sub>
 <p>During a 90-minute hearing in Washington, Judge Tanya S. Chutkan also warned the former president against any attempt to intimidate witnesses or prejudice potential jurors.  <a href="https://nyti.ms/45jOFQm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 11, Central Standard Time</sub></sub>
@@ -80,34 +92,16 @@ Hi there! It’s been a busy few weeks in the world. In the US, former President
 <p>The former president’s political orbit, including the super PAC that backs him, is already spending more than it is taking in — an unusual trajectory this far out from an election.  <a href="https://nyti.ms/3ORQJtu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Mapping the Damage From the Maui Wildfires</h3>
-<sub>By Molly Cook Escobar, Lauren Leatherby, Scott Reinhard, Elena Shao and Charlie Smart</sub>
-<p>Fires tore through Maui and leveled entire neighborhoods.  <a href="https://nyti.ms/3KF9lKL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Photos From the Hawaii Fires and the Aftermath</h3>
-<sub>By The New York Times</sub>
-<p>The historic town of Lahaina was devastated by the fires that moved through the island of Maui this week.  <a href="https://nyti.ms/47sziac"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Sam Bankman-Fried to Be Sent to Jail After Judge Revokes Bail</h3>
+<sub>By David Yaffe-Bellany and Matthew Goldstein</sub>
+<p>Mr. Bankman-Fried had been under house arrest at his parents’ home as he awaited trial on charges stemming from the collapse of his cryptocurrency company, FTX.  <a href="https://nyti.ms/3OoVp8Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>China’s Stalling Economy Puts the World on Notice</h3>
-<sub>By Peter S. Goodman</sub>
-<p>As China’s economy flashes indications of decline, the consequences pose perils for countries around the globe.  <a href="https://nyti.ms/3OuDkGj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>China’s Military, ‘Chasing the Dream,’ Probes Taiwan’s Defenses</h3>
-<sub>By Chris Buckley and Amy Chang Chien</sub>
-<p>Day by day, the People’s Liberation Army is turning up the pressure, deploying an ever-wider array of planes and ships.  <a href="https://nyti.ms/3qwQxq7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Describes China as a Time Bomb Over Economic Problems</h3>
-<sub>By Michael D. Shear</sub>
-<p>The sharply worded comments are the latest example of the president’s willingness to criticize China even as he tries to ease tensions.  <a href="https://nyti.ms/3ORI9uP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>See How They Held Off Flames at a Haven for Hawaii’s Endangered Birds</h3>
+<sub>By Catrin Einhorn</sub>
+<p>A conservationist and a neighbor defended the center, part of an effort to save the state’s native birds from extinction, until firefighters arrived.  <a href="https://nyti.ms/4416rqt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
@@ -116,23 +110,29 @@ Hi there! It’s been a busy few weeks in the world. In the US, former President
 <p>An immigrant story, an American dream, a machine that defined bourgeois sensuality.  <a href="https://nyti.ms/3Qwlbe3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>A ‘Digital Heist’ Recaptures the Rosetta Stone</h3>
-<sub>By Farah Nayeri</sub>
-<p>The collective Looty in London virtually reclaims items from Western museums to give people from former colonies a chance to learn about their stolen heritage.  <a href="https://nyti.ms/3qvfoL5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>They Endured One Russian Occupation. Now, They Fear a Second.</h3>
-<sub>By Valerie Hopkins and Emile Ducke</sub>
-<p>The torture rooms in the battered Ukrainian city of Kupiansk have been empty for months. But Moscow’s advancing forces are just five miles away.  <a href="https://nyti.ms/3OSuDHu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>China’s Stalling Economy Puts the World on Notice</h3>
+<sub>By Peter S. Goodman</sub>
+<p>As China’s economy flashes indications of decline, the consequences pose perils for countries around the globe.  <a href="https://nyti.ms/3OuDkGj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Are Iowa Democrats? ‘I Can’t Even Describe to You How Bad It Is.’</h3>
-<sub>By Anjali Huynh and Reid J. Epstein</sub>
-<p>As Republican presidential candidates flock to the state, Democrats there are despondent, exhausted by repeated defeats and the loss of their first-in-the-nation nominating contest.  <a href="https://nyti.ms/3qs7VMQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Biden Describes China as a Time Bomb Over Economic Problems</h3>
+<sub>By Michael D. Shear</sub>
+<p>The sharply worded comments are the latest example of the president’s willingness to criticize China even as he tries to ease tensions.  <a href="https://nyti.ms/3ORI9uP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Fox’s Chief Legal Officer Will Depart</h3>
+<sub>By Jeremy W. Peters</sub>
+<p>Viet Dinh advised the company through its landmark $787.5 million settlement with Dominion Voting Systems.  <a href="https://nyti.ms/3YyHNwc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Missteps and Miscalculations: Inside Fox’s Legal and Business Debacle</h3>
+<sub>By Jim Rutenberg, Michael S. Schmidt and Jeremy W. Peters</sub>
+<p>Fox’s handling of the defamation suit brought by Dominion Voting Systems, which settled for $787.5 million, left many unanswered questions.  <a href="https://nyti.ms/43rr0fZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, May 27, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
