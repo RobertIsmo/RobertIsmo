@@ -60,7 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, August 12, Central Standard Time</p>
 <p>
-There&#39;s a lot happening in the world right now. In the US, President Biden is facing political fallout from an ongoing saga involving his son, Hunter Biden. There was also a devastating wildfire that ripped through the town of Lahaina recently, leaving it devastated. Internationally, Ukraine has been hunting for weapons and making small advances on the battlefront against Russia. And Australia has made it to its first semifinal by winning a 10-round penalty kick match.</p>
+Right now there is a lot happening in the world. In the US, President Biden is facing political fallout from a case involving his son Hunter Biden. Democrats and some undecided swing voters have suggested that this won&#39;t be a deciding factor in the upcoming election. In other news, devastating wildfires in Lahaina have destroyed about 1,900 structures. 
+
+In Ukraine, the country that is locked in political turmoil with Russia, their government has had to relax their anticorruption rules to get newer weapons. They have also taken measures to cut off Russian supply lines to the Crimean peninsula. 
+
+On the entertainment side of things, it&#39;s been a bit of a break from new shows due to long-standing strikes. But it did give people the chance to watch some old shows they may have missed out on before. 
+
+Finally, in sports news, England&#39;s lionesses soccer team have made it all the way to the Women&#39;s World Cup Semifinals and are looking to take on host Australia Wednesday!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>For President Biden, a Political Liability That May Not Go Away Soon</h3>
@@ -84,12 +90,6 @@ There&#39;s a lot happening in the world right now. In the US, President Biden i
 <h3>Mapping the Wildfire Destruction in Lahaina</h3>
 <sub>By Molly Cook Escobar, K.K. Rebecca Lai and Elena Shao</sub>
 <p>In an analysis of satellite imagery, The Times identified about 1,900 structures that had been visibly damaged or destroyed by the blaze.  <a href="https://nyti.ms/47vvEwo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Journey Through Lahaina’s Endless Streets of Suffering</h3>
-<sub>By Mike Baker and Philip Cheung</sub>
-<p>A historic Hawaiian town that was once home to 13,000 people is now a desolate ruin. With the death toll rising, the true scope of the tragedy is still unfolding.  <a href="https://nyti.ms/47swfyG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -129,10 +129,16 @@ There&#39;s a lot happening in the world right now. In the US, President Biden i
 <sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Australia Outlasts France on Penalties, and a Host Nation Exhales</h3>
-<sub>By Rory Smith</sub>
-<p>Australia needed 10 rounds of penalty kicks to confirm its place in the team’s first semifinal, and extend its country’s wild ride.  <a href="https://nyti.ms/3DRls3t"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>England, Bruised but Unbowed, Reaches World Cup Semifinals</h3>
+<sub>By Jenny Vrentas</sub>
+<p>The Lionesses, champions of Europe, rallied past Colombia but now face yet another hurdle: a semifinal with host Australia on Wednesday.  <a href="https://nyti.ms/3OvMTVy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Spot the Ball: Women’s World Cup</h3>
+<sub>By Michael Beswetherick, Alastair Coote, Rumsey Taylor and Elijah Walker</sub>
+<p>The knockout rounds of the Women’s World Cup ratcheted up the intensity, as teams fought to stay alive. In these photos of the action, we’ve removed the ball. See if you can guess where it was.  <a href="https://nyti.ms/3QyT9OY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 11, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
