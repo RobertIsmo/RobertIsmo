@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, August 12, Central Standard Time</p>
 <p>
-It looks like there&#39;s a lot going on worldwide right now! President Biden is dealing with a political liability that could hang over his head for months due to an investigation into Hunter Biden. Attorney General Garland has appointed a special counsel to investigate the case, and Trump is being limited in terms of how much evidence he can share about the January 6 riots. In China&#39;s stalling economy, there could be perils for other countries, and Biden has described them as &quot;a time bomb&quot; over economic problems. Fox News also had to settle a $787.5 million suit with Dominion Voting Systems recently, and, here in New York City, Mayor Adams is facing pushback for trying to address the migrant crisis at soccer fields.</p>
+It looks like US President Biden is having some trouble lately, with the collapse of a plea deal and the appointment of a special counsel to investigate his son Hunter Biden, causing some political fallout. Meanwhile, China&#39;s economy is in decline, which poses perils for countries around the globe. Fox has experienced a legal and business debacle over a defamation suit involving Dominion Voting Systems. In New York City, mayor Eric Adams is facing backlash for taking a stance on the migrant crisis. There are also stories about wildifre destruction in Lahaina and how cash is commonly used as wedding gifts in Asia.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>For President Biden, a Political Liability That May Not Go Away Soon</h3>
