@@ -60,19 +60,17 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, August 12, Central Standard Time</p>
 <p>
-Right now there is a lot happening in the world. In the US, President Biden is facing political fallout from a case involving his son Hunter Biden. Democrats and some undecided swing voters have suggested that this won&#39;t be a deciding factor in the upcoming election. In other news, devastating wildfires in Lahaina have destroyed about 1,900 structures. 
+In the US, there are a lot of political issues going on. Some Republicans wanted an investigation into Hunter Biden, but now many oppose it due to a plea deal struck by Biden. Meanwhile, President Biden is facing political fallout for potential ethics issues related to his son. There are also a lot of natural disasters happening, with wildfires in Lahaina causing severe damage to thousands of structures. 
 
-In Ukraine, the country that is locked in political turmoil with Russia, their government has had to relax their anticorruption rules to get newer weapons. They have also taken measures to cut off Russian supply lines to the Crimean peninsula. 
+Internationally, there&#39;s chaos in Ukraine where the president has called out criminals for supplying weapons and ammunition for military use. There&#39;s also numerous human rights issues, specifically in Israel where some are trying to enforce segregation based on sex in public arenas. 
 
-On the entertainment side of things, it&#39;s been a bit of a break from new shows due to long-standing strikes. But it did give people the chance to watch some old shows they may have missed out on before. 
-
-Finally, in sports news, England&#39;s lionesses soccer team have made it all the way to the Women&#39;s World Cup Semifinals and are looking to take on host Australia Wednesday!</p>
+All of these issues will continue to shape the course of politics and everyday life around us.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>For President Biden, a Political Liability That May Not Go Away Soon</h3>
-<sub>By Peter Baker</sub>
-<p>The collapse of a plea deal and the appointment of a special counsel to investigate Hunter Biden mean the president could face political fallout for months to come.  <a href="https://nyti.ms/3QyZsSE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 11, Central Standard Time</sub></sub>
+<h3>Republicans Wanted a Special Counsel Investigation of Hunter Biden. Now Many Oppose It.</h3>
+<sub>By Luke Broadwater and Maggie Haberman</sub>
+<p>Although some G.O.P. lawmakers see the appointment of David C. Weiss as a vindication of their strategy, others criticize the now-scuttled plea deal he struck with Mr. Biden.  <a href="https://nyti.ms/47ueQph"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>As Hunter Biden Saga Endures, Democrats Avert Eyes and Dismiss Worries</h3>
@@ -81,9 +79,9 @@ Finally, in sports news, England&#39;s lionesses soccer team have made it all th
 <sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Timeline of Hunter Biden’s Life and Legal Troubles</h3>
-<sub>By Michael Levenson</sub>
-<p>Mr. Biden, 53, has acknowledged a decades-long addiction to alcohol and crack cocaine. His foreign business dealings have led to questions about President Biden’s influence.  <a href="https://nyti.ms/3OvnQC3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>For President Biden, a Political Liability That May Not Go Away Soon</h3>
+<sub>By Peter Baker</sub>
+<p>The collapse of a plea deal and the appointment of a special counsel to investigate Hunter Biden mean the president could face political fallout for months to come.  <a href="https://nyti.ms/3QyZsSE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -92,6 +90,12 @@ Finally, in sports news, England&#39;s lionesses soccer team have made it all th
 <p>In an analysis of satellite imagery, The Times identified about 1,900 structures that had been visibly damaged or destroyed by the blaze.  <a href="https://nyti.ms/47vvEwo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 11, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A survivor made a desperate dash into the sea to escape an inferno.</h3>
+<sub>By Orlando Mayorquin</sub>
+<p>  <a href="https://nyti.ms/3Owmxmu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Zelensky Called Him a Criminal. Now Ukraine Calls Him for Guns and Ammo.</h3>
 <sub>By Justin Scheck and Thomas Gibbons-Neff</sub>
@@ -99,9 +103,9 @@ Finally, in sports news, England&#39;s lionesses soccer team have made it all th
 <sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Makes Progress Along 2 Lines of Attack</h3>
+<h3>Ukraine Makes ‘Tactically Significant’ Progress in Its Counteroffensive</h3>
 <sub>By Marc Santora</sub>
-<p>As Kyiv makes small advances on the battlefront, it has also taken aim at Russian supply lines. On Saturday, explosions echoed at a bridge connecting Russia to the occupied Crimean Peninsula.  <a href="https://nyti.ms/3QBUSmx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Troops advanced 10 to 12 miles along two main lines of attack in Kyiv’s drive to reach the southern coast and sever Russian supply lines, while explosions echoed at the vital Kerch Strait Bridge.  <a href="https://nyti.ms/3QBUSmx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -110,35 +114,29 @@ Finally, in sports news, England&#39;s lionesses soccer team have made it all th
 <p>After years of being inundated with new shows, some are using a pause in production to finally watch all the stuff they missed when it came out.  <a href="https://nyti.ms/3ORcp9g"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>‘These Old Guys?’ Short on Lifeguards, the City’s Oldest Swimmers Step Up</h3>
-<sub>By Aidan Gardiner</sub>
-<p>Among the rookie recruits monitoring New York’s pools, at least four were born in the Eisenhower administration. But they all passed the notorious lifeguard test, and the city needs them.  <a href="https://nyti.ms/3QEiCqe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Inexpensive Add-on Spawns a New Era of Machine Guns</h3>
 <sub>By Ernesto Londoño and Glenn Thrush</sub>
 <p>Popular devices known as “switches” are turning ordinary pistols into fully automatic weapons, making them deadlier and a growing threat to bystanders.  <a href="https://nyti.ms/45qxXPy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Growing Segregation by Sex in Israel Raises Fears for Women’s Rights</h3>
+<sub>By Roni Caryn Rabin</sub>
+<p>Ultra-Orthodox members of Prime Minister Benjamin Netanyahu’s far-right coalition want to expand the powers of all-male rabbinical courts, and to bar women and men from mixing in many public arenas.  <a href="https://nyti.ms/3OUljmu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump and DeSantis Take On the Iowa State Fair, and Each Other</h3>
-<sub>By Shane Goldmacher</sub>
-<p>The leading Republican presidential rivals will be circling each other at the event on Saturday, just months before the crucial Iowa caucuses.  <a href="https://nyti.ms/3P3622R"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
+<h3>Why the Iowa State Fair Matters</h3>
+<sub>By Lisa Lerer</sub>
+<p>Presidential hopefuls — favorites and long shots alike — gather at the event every four years to meet voters and kingmakers in advance of the first nominating contest.  <a href="https://nyti.ms/3Ozdv81"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>England, Bruised but Unbowed, Reaches World Cup Semifinals</h3>
-<sub>By Jenny Vrentas</sub>
-<p>The Lionesses, champions of Europe, rallied past Colombia but now face yet another hurdle: a semifinal with host Australia on Wednesday.  <a href="https://nyti.ms/3OvMTVy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>With an Array of Tactics, Conservatives Seek to Oust Progressive Prosecutors</h3>
+<sub>By J. David Goodman</sub>
+<p>In Florida, Gov. Ron DeSantis suspended a second prosecutor. In Texas, activists are trying a new way to get rid of D.A.s they dislike.  <a href="https://nyti.ms/47s0mXa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Spot the Ball: Women’s World Cup</h3>
-<sub>By Michael Beswetherick, Alastair Coote, Rumsey Taylor and Elijah Walker</sub>
-<p>The knockout rounds of the Women’s World Cup ratcheted up the intensity, as teams fought to stay alive. In these photos of the action, we’ve removed the ball. See if you can guess where it was.  <a href="https://nyti.ms/3QyT9OY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 11, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
