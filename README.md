@@ -60,11 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, August 11, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. President Biden is facing some political fallout related to Hunter Biden, and Attorney General Garland has appointed a special counsel in response. There are also court proceedings happening involving former President Trump and the events of January 6th. Meanwhile, Sam Bankman-Fried, a cryptocurrency company owner, has been sent to jail after his bail was revoked. 
-
-In more heartbreaking news, there&#39;s the story of Lahaina, a historic Hawaiian town that is now a ghost town with the death toll from recent disasters rising. Turning to culture, we have an interesting saga of the Jacuzzi family as well as big bucks from people spending big money on Beyoncé and Taylor Swift concerts.
-
-Economically, China may be experiencing some declines which could pose problems for other countries; and Fox&#39;s Chief Legal Officer is stepping down after its expensive settlement with Dominion Voting Systems left many experts asking questions. Lastly, New York City is getting involved with the migrant crisis and Mayor Eric Adams is receiving pushback for his views on it.</p>
+There&#39;s a lot going on right now. President Biden is facing some political liabilities due to a special counsel investigation of his son, Hunter Biden. Attorney General Garland has appointed Weiss as the special counsel for the case. In Lahaina, HI, there has been an immense amount of destruction caused by a fire and thousands have been displaced. Meanwhile, Sam Bankman-Fried has been sent to jail after Judge Revoked his bail related to his cryptocurrency company FTX. Trump has had his ability to share evidence about the January 6th attack restricted by judge Chutkan. Additionally, the Fox media company has faced legal and business woes with it&#39;s defamation suit brought by Dominion Voting Systems, leading their chief legal officer to depart. Finally, New York City is seeing tension arise regarding migrants who are seeking refuge there at local soccer fields.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>For President Biden, a Political Liability That May Not Go Away Soon</h3>
@@ -79,9 +75,15 @@ Economically, China may be experiencing some declines which could pose problems 
 <sub><sub>Friday, August 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Judge Limits Trump’s Ability to Share Jan. 6 Evidence</h3>
-<sub>By Glenn Thrush and Alan Feuer</sub>
-<p>During a 90-minute hearing in Washington, Judge Tanya S. Chutkan also warned the former president against any attempt to intimidate witnesses or prejudice potential jurors.  <a href="https://nyti.ms/45jOFQm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>A Journey Through Lahaina’s Endless Streets of Suffering</h3>
+<sub>By Mike Baker and Philip Cheung</sub>
+<p>A historic Hawaiian town that was once home to 13,000 people is now a desolate ruin. With the death toll rising, the true scope of the tragedy is still unfolding.  <a href="https://nyti.ms/47swfyG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Mapping the Wildfire Destruction in Lahaina</h3>
+<sub>By Molly Cook Escobar, K.K. Rebecca Lai and Elena Shao</sub>
+<p>In an analysis of satellite imagery, The Times identified about 1,900 structures that had been visibly damaged or destroyed by the blaze.  <a href="https://nyti.ms/47vvEwo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -91,9 +93,9 @@ Economically, China may be experiencing some declines which could pose problems 
 <sub><sub>Friday, August 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Journey Through Lahaina’s Endless Streets of Suffering</h3>
-<sub>By Mike Baker and Philip Cheung</sub>
-<p>A historic Hawaiian town that was once home to 13,000 people is now a desolate ruin. With the death toll rising, the true scope of the tragedy is still unfolding.  <a href="https://nyti.ms/47swfyG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Judge Limits Trump’s Ability to Share Jan. 6 Evidence</h3>
+<sub>By Glenn Thrush and Alan Feuer</sub>
+<p>During a 90-minute hearing in Washington, Judge Tanya S. Chutkan also warned the former president against any attempt to intimidate witnesses or prejudice potential jurors.  <a href="https://nyti.ms/45jOFQm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
@@ -117,7 +119,7 @@ Economically, China may be experiencing some declines which could pose problems 
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Fox’s Chief Legal Officer Will Depart</h3>
 <sub>By Jeremy W. Peters</sub>
-<p>Viet Dinh, seen by many as a shadow C.E.O., advised the company through its $787.5 million settlement with Dominion Voting Systems.  <a href="https://nyti.ms/3YyHNwc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Viet Dinh, an influential force inside the company, advised it through its $787.5 million settlement with Dominion Voting Systems.  <a href="https://nyti.ms/3YyHNwc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -130,12 +132,6 @@ Economically, China may be experiencing some declines which could pose problems 
 <h3>The Latest Migrant Battleground: New York City Soccer Fields</h3>
 <sub>By Andy Newman</sub>
 <p>Mayor Eric Adams has urged New Yorkers to join him in raising their voices about the migrant crisis. More of them are — against him.  <a href="https://nyti.ms/3Op8NtC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Make the Whole Place Shimmer: America Spends Big for Beyoncé and Taylor Swift</h3>
-<sub>By Jeanna Smialek, Jordyn Holman, DeSean McClinton-Holland and Maggie Shannon</sub>
-<p>The artists’ fans have been shelling out on lavish wardrobes, parties and travel, generating business and boosting spending in host cities.  <a href="https://nyti.ms/3DTpqsq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 11, Central Standard Time</sub></sub>
 <hr/>
 </ol>
