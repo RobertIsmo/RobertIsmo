@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, August 12, Central Standard Time</p>
 <p>
-It looks like US President Biden is having some trouble lately, with the collapse of a plea deal and the appointment of a special counsel to investigate his son Hunter Biden, causing some political fallout. Meanwhile, China&#39;s economy is in decline, which poses perils for countries around the globe. Fox has experienced a legal and business debacle over a defamation suit involving Dominion Voting Systems. In New York City, mayor Eric Adams is facing backlash for taking a stance on the migrant crisis. There are also stories about wildifre destruction in Lahaina and how cash is commonly used as wedding gifts in Asia.</p>
+There&#39;s a lot happening in the world right now. In the US, President Biden is facing political fallout from an ongoing saga involving his son, Hunter Biden. There was also a devastating wildfire that ripped through the town of Lahaina recently, leaving it devastated. Internationally, Ukraine has been hunting for weapons and making small advances on the battlefront against Russia. And Australia has made it to its first semifinal by winning a 10-round penalty kick match.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>For President Biden, a Political Liability That May Not Go Away Soon</h3>
@@ -69,15 +69,15 @@ It looks like US President Biden is having some trouble lately, with the collaps
 <sub><sub>Friday, August 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Garland Appoints Weiss as Special Counsel in Hunter Biden Inquiry</h3>
-<sub>By Glenn Thrush, Luke Broadwater and Michael S. Schmidt</sub>
-<p>The attorney general said he decided to elevate David C. Weiss after the prosecutor informed him that the powers of a special counsel were necessary to continue the investigation.  <a href="https://nyti.ms/3OyYraw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 11, Central Standard Time</sub></sub>
+<h3>As Hunter Biden Saga Endures, Democrats Avert Eyes and Dismiss Worries</h3>
+<sub>By Reid J. Epstein and Jazmine Ulloa</sub>
+<p>After a setback for President Biden, Democrats pointed to Donald Trump’s indictments and suggested that swing voters would ultimately not care about the sins of a candidate’s son.  <a href="https://nyti.ms/45qb66x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Journey Through Lahaina’s Endless Streets of Suffering</h3>
-<sub>By Mike Baker and Philip Cheung</sub>
-<p>A historic Hawaiian town that was once home to 13,000 people is now a desolate ruin. With the death toll rising, the true scope of the tragedy is still unfolding.  <a href="https://nyti.ms/47swfyG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>A Timeline of Hunter Biden’s Life and Legal Troubles</h3>
+<sub>By Michael Levenson</sub>
+<p>Mr. Biden, 53, has acknowledged a decades-long addiction to alcohol and crack cocaine. His foreign business dealings have led to questions about President Biden’s influence.  <a href="https://nyti.ms/3OvnQC3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -86,53 +86,53 @@ It looks like US President Biden is having some trouble lately, with the collaps
 <p>In an analysis of satellite imagery, The Times identified about 1,900 structures that had been visibly damaged or destroyed by the blaze.  <a href="https://nyti.ms/47vvEwo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Sam Bankman-Fried Sent to Jail After Judge Revokes Bail</h3>
-<sub>By David Yaffe-Bellany and Matthew Goldstein</sub>
-<p>Mr. Bankman-Fried had been under house arrest at his parents’ home as he awaited trial on charges stemming from the collapse of his cryptocurrency company, FTX.  <a href="https://nyti.ms/3OoVp8Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 11, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Judge Limits Trump’s Ability to Share Jan. 6 Evidence</h3>
-<sub>By Glenn Thrush and Alan Feuer</sub>
-<p>During a 90-minute hearing in Washington, Judge Tanya S. Chutkan also warned the former president against any attempt to intimidate witnesses or prejudice potential jurors.  <a href="https://nyti.ms/45jOFQm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>A Journey Through Lahaina’s Endless Streets of Suffering</h3>
+<sub>By Mike Baker and Philip Cheung</sub>
+<p>A historic Hawaiian town that was once home to 13,000 people is now a desolate ruin. With the death toll rising, the true scope of the tragedy is still unfolding.  <a href="https://nyti.ms/47swfyG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Zelensky Called Him a Criminal. Now Ukraine Calls Him for Guns and Ammo.</h3>
+<sub>By Justin Scheck and Thomas Gibbons-Neff</sub>
+<p>In its hunt for weapons, Ukraine has rolled back anticorruption rules and turned to people once seen as relics of an anything-goes era.  <a href="https://nyti.ms/3YxYJ6f"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukraine Makes Progress Along 2 Lines of Attack</h3>
+<sub>By Marc Santora</sub>
+<p>As Kyiv makes small advances on the battlefront, it has also taken aim at Russian supply lines. On Saturday, explosions echoed at a bridge connecting Russia to the occupied Crimean Peninsula.  <a href="https://nyti.ms/3QBUSmx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>At Asian Weddings, Cash Is King</h3>
-<sub>By Hahna Yoon</sub>
-<p>Forget registries — in Asia, it is common to give marrying couples envelopes of cash. But unwritten rules on how much to give depend on who you are and which superstitions you believe.  <a href="https://nyti.ms/3sb0fiz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>China’s Stalling Economy Puts the World on Notice</h3>
-<sub>By Peter S. Goodman</sub>
-<p>As China’s economy flashes indications of decline, the consequences pose perils for countries around the globe.  <a href="https://nyti.ms/3OuDkGj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Describes China as a Time Bomb Over Economic Problems</h3>
-<sub>By Michael D. Shear</sub>
-<p>The sharply worded comments are the latest example of the president’s willingness to criticize China even as he tries to ease tensions.  <a href="https://nyti.ms/3ORI9uP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Fox’s Chief Legal Officer Will Depart</h3>
-<sub>By Jeremy W. Peters</sub>
-<p>Viet Dinh, an influential force inside the company, advised it through its $787.5 million settlement with Dominion Voting Systems.  <a href="https://nyti.ms/3YyHNwc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Missteps and Miscalculations: Inside Fox’s Legal and Business Debacle</h3>
-<sub>By Jim Rutenberg, Michael S. Schmidt and Jeremy W. Peters</sub>
-<p>Fox’s handling of the defamation suit brought by Dominion Voting Systems, which settled for $787.5 million, left many unanswered questions.  <a href="https://nyti.ms/43rr0fZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, May 27, Central Standard Time</sub></sub>
+<h3>As Hollywood Strikes Roll On, Viewers Have a Chance to Catch Up</h3>
+<sub>By John Koblin</sub>
+<p>After years of being inundated with new shows, some are using a pause in production to finally watch all the stuff they missed when it came out.  <a href="https://nyti.ms/3ORcp9g"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>The Latest Migrant Battleground: New York City Soccer Fields</h3>
-<sub>By Andy Newman</sub>
-<p>Mayor Eric Adams has urged New Yorkers to join him in raising their voices about the migrant crisis. More of them are — against him.  <a href="https://nyti.ms/3Op8NtC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 11, Central Standard Time</sub></sub>
+<h3>‘These Old Guys?’ Short on Lifeguards, the City’s Oldest Swimmers Step Up</h3>
+<sub>By Aidan Gardiner</sub>
+<p>Among the rookie recruits monitoring New York’s pools, at least four were born in the Eisenhower administration. But they all passed the notorious lifeguard test, and the city needs them.  <a href="https://nyti.ms/3QEiCqe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Inexpensive Add-on Spawns a New Era of Machine Guns</h3>
+<sub>By Ernesto Londoño and Glenn Thrush</sub>
+<p>Popular devices known as “switches” are turning ordinary pistols into fully automatic weapons, making them deadlier and a growing threat to bystanders.  <a href="https://nyti.ms/45qxXPy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump and DeSantis Take On the Iowa State Fair, and Each Other</h3>
+<sub>By Shane Goldmacher</sub>
+<p>The leading Republican presidential rivals will be circling each other at the event on Saturday, just months before the crucial Iowa caucuses.  <a href="https://nyti.ms/3P3622R"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Australia Outlasts France on Penalties, and a Host Nation Exhales</h3>
+<sub>By Rory Smith</sub>
+<p>Australia needed 10 rounds of penalty kicks to confirm its place in the team’s first semifinal, and extend its country’s wild ride.  <a href="https://nyti.ms/3DRls3t"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
