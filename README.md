@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Friday, August 11, Central Standard Time</p>
+<p>It is Saturday, August 12, Central Standard Time</p>
 <p>
-There&#39;s a lot going on right now. President Biden is facing some political liabilities due to a special counsel investigation of his son, Hunter Biden. Attorney General Garland has appointed Weiss as the special counsel for the case. In Lahaina, HI, there has been an immense amount of destruction caused by a fire and thousands have been displaced. Meanwhile, Sam Bankman-Fried has been sent to jail after Judge Revoked his bail related to his cryptocurrency company FTX. Trump has had his ability to share evidence about the January 6th attack restricted by judge Chutkan. Additionally, the Fox media company has faced legal and business woes with it&#39;s defamation suit brought by Dominion Voting Systems, leading their chief legal officer to depart. Finally, New York City is seeing tension arise regarding migrants who are seeking refuge there at local soccer fields.</p>
+It looks like there&#39;s a lot going on worldwide right now! President Biden is dealing with a political liability that could hang over his head for months due to an investigation into Hunter Biden. Attorney General Garland has appointed a special counsel to investigate the case, and Trump is being limited in terms of how much evidence he can share about the January 6 riots. In China&#39;s stalling economy, there could be perils for other countries, and Biden has described them as &quot;a time bomb&quot; over economic problems. Fox News also had to settle a $787.5 million suit with Dominion Voting Systems recently, and, here in New York City, Mayor Adams is facing pushback for trying to address the migrant crisis at soccer fields.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>For President Biden, a Political Liability That May Not Go Away Soon</h3>
@@ -98,10 +98,10 @@ There&#39;s a lot going on right now. President Biden is facing some political l
 <p>During a 90-minute hearing in Washington, Judge Tanya S. Chutkan also warned the former president against any attempt to intimidate witnesses or prejudice potential jurors.  <a href="https://nyti.ms/45jOFQm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>The Frothy Saga of the Jacuzzi Family</h3>
-<sub>By Saskia Solomon</sub>
-<p>An immigrant story, an American dream, a machine that defined bourgeois sensuality.  <a href="https://nyti.ms/3Qwlbe3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>At Asian Weddings, Cash Is King</h3>
+<sub>By Hahna Yoon</sub>
+<p>Forget registries — in Asia, it is common to give marrying couples envelopes of cash. But unwritten rules on how much to give depend on who you are and which superstitions you believe.  <a href="https://nyti.ms/3sb0fiz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
