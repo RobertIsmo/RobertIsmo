@@ -60,24 +60,22 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, August 11, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. In the US, a prosecutor has been elevated to special counsel to investigate possible wrongdoing surrounding former President Trump&#39;s election-related activities, while Trump himself is dealing with legal bills from ongoing cases that are affecting his financial situation. In the tech industry, one of the biggest names has been arrested and awaits trial for charges stemming from his cryptocurrency business. On the climate front, conservation efforts to protect endangered birds are being made across Hawaii. And China&#39;s stalling economy is worrying nations around the world as President Biden has warned of it being a time bomb. Lastly, Fox News is dealing with significant fall out from its handling of a defamation case brought by Dominion Voting Systems which resulted in a large settlement.</p>
+There is a lot going on in the world right now. President Biden is facing some political fallout related to Hunter Biden, and Attorney General Garland has appointed a special counsel in response. There are also court proceedings happening involving former President Trump and the events of January 6th. Meanwhile, Sam Bankman-Fried, a cryptocurrency company owner, has been sent to jail after his bail was revoked. 
+
+In more heartbreaking news, there&#39;s the story of Lahaina, a historic Hawaiian town that is now a ghost town with the death toll from recent disasters rising. Turning to culture, we have an interesting saga of the Jacuzzi family as well as big bucks from people spending big money on Beyoncé and Taylor Swift concerts.
+
+Economically, China may be experiencing some declines which could pose problems for other countries; and Fox&#39;s Chief Legal Officer is stepping down after its expensive settlement with Dominion Voting Systems left many experts asking questions. Lastly, New York City is getting involved with the migrant crisis and Mayor Eric Adams is receiving pushback for his views on it.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Why Naming Weiss Special Counsel in the Hunter Biden Case Isn’t Likely to Change Much</h3>
-<sub>By Charlie Savage</sub>
-<p>Special counsel status essentially formalizes a degree of independence the prosecutor already had.  <a href="https://nyti.ms/3DQlLM4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>For President Biden, a Political Liability That May Not Go Away Soon</h3>
+<sub>By Peter Baker</sub>
+<p>The collapse of a plea deal and the appointment of a special counsel to investigate Hunter Biden mean the president could face political fallout for months to come.  <a href="https://nyti.ms/3QyZsSE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Who Is David Weiss, the U.S. Attorney Elevated to Special Counsel?</h3>
-<sub>By Glenn Thrush</sub>
-<p>He earned the support of both of Delaware’s Democratic senators when then-President Trump, now a critic, nominated him in late 2017.  <a href="https://nyti.ms/45pyEbH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The Hunter Biden Case</h3>
-<sub>By David Leonhardt</sub>
-<p>An example of America’s dueling realities.  <a href="https://nyti.ms/3QARdWe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Garland Appoints Weiss as Special Counsel in Hunter Biden Inquiry</h3>
+<sub>By Glenn Thrush, Luke Broadwater and Michael S. Schmidt</sub>
+<p>The attorney general said he decided to elevate David C. Weiss after the prosecutor informed him that the powers of a special counsel were necessary to continue the investigation.  <a href="https://nyti.ms/3OyYraw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -86,22 +84,16 @@ There is a lot happening in the world right now. In the US, a prosecutor has bee
 <p>During a 90-minute hearing in Washington, Judge Tanya S. Chutkan also warned the former president against any attempt to intimidate witnesses or prejudice potential jurors.  <a href="https://nyti.ms/45jOFQm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Spiraling Legal Bills Threaten Trump With a Cash Crunch</h3>
-<sub>By Shane Goldmacher and Maggie Haberman</sub>
-<p>The former president’s political orbit, including the super PAC that backs him, is already spending more than it is taking in — an unusual trajectory this far out from an election.  <a href="https://nyti.ms/3ORQJtu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 11, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Sam Bankman-Fried to Be Sent to Jail After Judge Revokes Bail</h3>
+<h3>Sam Bankman-Fried Sent to Jail After Judge Revokes Bail</h3>
 <sub>By David Yaffe-Bellany and Matthew Goldstein</sub>
 <p>Mr. Bankman-Fried had been under house arrest at his parents’ home as he awaited trial on charges stemming from the collapse of his cryptocurrency company, FTX.  <a href="https://nyti.ms/3OoVp8Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>See How They Held Off Flames at a Haven for Hawaii’s Endangered Birds</h3>
-<sub>By Catrin Einhorn</sub>
-<p>A conservationist and a neighbor defended the center, part of an effort to save the state’s native birds from extinction, until firefighters arrived.  <a href="https://nyti.ms/4416rqt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Journey Through Lahaina’s Endless Streets of Suffering</h3>
+<sub>By Mike Baker and Philip Cheung</sub>
+<p>A historic Hawaiian town that was once home to 13,000 people is now a desolate ruin. With the death toll rising, the true scope of the tragedy is still unfolding.  <a href="https://nyti.ms/47swfyG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
@@ -125,7 +117,7 @@ There is a lot happening in the world right now. In the US, a prosecutor has bee
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Fox’s Chief Legal Officer Will Depart</h3>
 <sub>By Jeremy W. Peters</sub>
-<p>Viet Dinh advised the company through its landmark $787.5 million settlement with Dominion Voting Systems.  <a href="https://nyti.ms/3YyHNwc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Viet Dinh, seen by many as a shadow C.E.O., advised the company through its $787.5 million settlement with Dominion Voting Systems.  <a href="https://nyti.ms/3YyHNwc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -133,6 +125,18 @@ There is a lot happening in the world right now. In the US, a prosecutor has bee
 <sub>By Jim Rutenberg, Michael S. Schmidt and Jeremy W. Peters</sub>
 <p>Fox’s handling of the defamation suit brought by Dominion Voting Systems, which settled for $787.5 million, left many unanswered questions.  <a href="https://nyti.ms/43rr0fZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>The Latest Migrant Battleground: New York City Soccer Fields</h3>
+<sub>By Andy Newman</sub>
+<p>Mayor Eric Adams has urged New Yorkers to join him in raising their voices about the migrant crisis. More of them are — against him.  <a href="https://nyti.ms/3Op8NtC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Make the Whole Place Shimmer: America Spends Big for Beyoncé and Taylor Swift</h3>
+<sub>By Jeanna Smialek, Jordyn Holman, DeSean McClinton-Holland and Maggie Shannon</sub>
+<p>The artists’ fans have been shelling out on lavish wardrobes, parties and travel, generating business and boosting spending in host cities.  <a href="https://nyti.ms/3DTpqsq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 11, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
