@@ -60,29 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, August 12, Central Standard Time</p>
 <p>
-In the US, there are a lot of political issues going on. Some Republicans wanted an investigation into Hunter Biden, but now many oppose it due to a plea deal struck by Biden. Meanwhile, President Biden is facing political fallout for potential ethics issues related to his son. There are also a lot of natural disasters happening, with wildfires in Lahaina causing severe damage to thousands of structures. 
-
-Internationally, there&#39;s chaos in Ukraine where the president has called out criminals for supplying weapons and ammunition for military use. There&#39;s also numerous human rights issues, specifically in Israel where some are trying to enforce segregation based on sex in public arenas. 
-
-All of these issues will continue to shape the course of politics and everyday life around us.</p>
+There have been several major events happening in the world recently. In the US, there was a grand jury that was taking up the case of Trump&#39;s election interference. In addition, Republicans have gone back and forth on whether to continue with an investigation into Hunter Biden. Meanwhile in Hawaii, locals are struggling to recover after a series of devastating wildfires. In Ukraine, the government is resorting to unusual means in order to find strong weapons for its counteroffensive. Israel is also facing an issue as ultra-Orthodox members of the government are trying to enforce laws that would further segregate people by sex. Finally, Florida governor Desantis is having trouble finding time at the Iowa State Fair because of Donald Trump&#39;s presence and former Vice President Pence has been focusing on civility politics despite their differences in political belief.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Republicans Wanted a Special Counsel Investigation of Hunter Biden. Now Many Oppose It.</h3>
-<sub>By Luke Broadwater and Maggie Haberman</sub>
-<p>Although some G.O.P. lawmakers see the appointment of David C. Weiss as a vindication of their strategy, others criticize the now-scuttled plea deal he struck with Mr. Biden.  <a href="https://nyti.ms/47ueQph"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>After the Maui Fires, Locals Fear Being Shut Out of Recovery</h3>
+<sub>By Jill Cowan and Michael Corkery</sub>
+<p>Hawaii has long endured battles for resources among developers, tourists, Natives and workers. Now, many who lost homes and jobs wonder if there will be a place for them in Lahaina.  <a href="https://nyti.ms/3YyCCfN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>As Hunter Biden Saga Endures, Democrats Avert Eyes and Dismiss Worries</h3>
-<sub>By Reid J. Epstein and Jazmine Ulloa</sub>
-<p>After a setback for President Biden, Democrats pointed to Donald Trump’s indictments and suggested that swing voters would ultimately not care about the sins of a candidate’s son.  <a href="https://nyti.ms/45qb66x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>For President Biden, a Political Liability That May Not Go Away Soon</h3>
-<sub>By Peter Baker</sub>
-<p>The collapse of a plea deal and the appointment of a special counsel to investigate Hunter Biden mean the president could face political fallout for months to come.  <a href="https://nyti.ms/3QyZsSE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Mapping the Wildfire Destruction in Lahaina</h3>
@@ -93,7 +77,25 @@ All of these issues will continue to shape the course of politics and everyday l
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A survivor made a desperate dash into the sea to escape an inferno.</h3>
 <sub>By Orlando Mayorquin</sub>
-<p>  <a href="https://nyti.ms/3Owmxmu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Direction from a Good Samaritan helped get a group of trapped residents to a safe spot.  <a href="https://nyti.ms/3OTdBJ2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Election Interference Case to Go to Grand Jury in Georgia Early Next Week</h3>
+<sub>By Richard Fausset</sub>
+<p>   <a href="https://nyti.ms/3QHozTz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Republicans Wanted a Special Counsel Investigation of Hunter Biden. Now Many Oppose It.</h3>
+<sub>By Luke Broadwater and Maggie Haberman</sub>
+<p>Although some G.O.P. lawmakers see the appointment of David C. Weiss as a vindication of their strategy, others criticize the now-scuttled plea deal he struck with Mr. Biden.  <a href="https://nyti.ms/47ueQph"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>As Hunter Biden Saga Endures, Democrats Avert Eyes and Dismiss Worries</h3>
+<sub>By Reid J. Epstein and Jazmine Ulloa</sub>
+<p>After a setback for President Biden, Democrats pointed to Donald Trump’s indictments and suggested that swing voters would ultimately not care about the sins of a candidate’s son.  <a href="https://nyti.ms/45qb66x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -108,10 +110,16 @@ All of these issues will continue to shape the course of politics and everyday l
 <p>Troops advanced 10 to 12 miles along two main lines of attack in Kyiv’s drive to reach the southern coast and sever Russian supply lines, while explosions echoed at the vital Kerch Strait Bridge.  <a href="https://nyti.ms/3QBUSmx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>As Hollywood Strikes Roll On, Viewers Have a Chance to Catch Up</h3>
-<sub>By John Koblin</sub>
-<p>After years of being inundated with new shows, some are using a pause in production to finally watch all the stuff they missed when it came out.  <a href="https://nyti.ms/3ORcp9g"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>At the Iowa State Fair, DeSantis Can’t Seem to Catch a Break</h3>
+<sub>By Nicholas Nehamas</sub>
+<p>The Florida governor was hoping to have the stage to himself, but Donald Trump and his supporters have made that hard to achieve.  <a href="https://nyti.ms/45nkhon"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In the Shadow of More Fiery Rivals, Pence Leans Into Civility Politics</h3>
+<sub>By Neil Vigdor</sub>
+<p>The former vice president met with Christian leaders and spoke about his respect for a late Democratic congressman despite their political differences.  <a href="https://nyti.ms/3sby4A3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -124,18 +132,6 @@ All of these issues will continue to shape the course of politics and everyday l
 <h3>Growing Segregation by Sex in Israel Raises Fears for Women’s Rights</h3>
 <sub>By Roni Caryn Rabin</sub>
 <p>Ultra-Orthodox members of Prime Minister Benjamin Netanyahu’s far-right coalition want to expand the powers of all-male rabbinical courts, and to bar women and men from mixing in many public arenas.  <a href="https://nyti.ms/3OUljmu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Why the Iowa State Fair Matters</h3>
-<sub>By Lisa Lerer</sub>
-<p>Presidential hopefuls — favorites and long shots alike — gather at the event every four years to meet voters and kingmakers in advance of the first nominating contest.  <a href="https://nyti.ms/3Ozdv81"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>With an Array of Tactics, Conservatives Seek to Oust Progressive Prosecutors</h3>
-<sub>By J. David Goodman</sub>
-<p>In Florida, Gov. Ron DeSantis suspended a second prosecutor. In Texas, activists are trying a new way to get rid of D.A.s they dislike.  <a href="https://nyti.ms/47s0mXa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
 <hr/>
 </ol>
