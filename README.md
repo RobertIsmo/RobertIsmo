@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, August 13, Central Standard Time</p>
 <p>
-It looks like a lot is happening in the US right now. In Hawaii, there have been devastating Lahaina fires and it was revealed that none of the 80 warning sirens placed around the island were activated. A group of residents had to make a desperate dash into the sea to escape the fire. Then, in West Maui, people have been stepping up to help their neighbors because of a lack of official aid. There&#39;s also an election interference case being brought before a Grand Jury in Georgia early next week, and Republicans have mixed reactions about the investigation into Hunter Biden, with some supporting it and others criticizing it. Meanwhile, over at the Iowa State Fair we have Donald Trump and Ron DeSantis facing off with Trump maintaining his dominance in Iowa, and Vivek Ramaswamy expressing confidence about his 50% chance of becoming President. Lastly, what&#39;s happening abroad - Russia is threatening retaliation over attacks on a key Crimean bridge and Ukraine is rolling back anti-corruption rules and turning to people once seen as relics of an anything-goes era in order to procure weapons.</p>
+There are a variety of news happening around the world. In the US, there are a few stories related to former President Trump, including a criminal charge indicting him that is being used for political gain and election interference investigation that will go to a grand jury next week. In Texas, Houston schools are being restructured, closing the libraries and angering parents. There is also news from abroad involving a rock ballad in China being used by the Communist Party to spread &quot;positive energy,&quot; Ukraine battling Russia with shelling attacks resulting in seven deaths, and if F-16s would have made a difference in Ukraine&#39;s defense. Lastly, the New York Police Department has just appointed its new Intelligence Chief.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Warning Sirens Never Sounded on Maui, State Official Says</h3>
@@ -69,15 +69,33 @@ It looks like a lot is happening in the US right now. In Hawaii, there have been
 <sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Survivor Made a Desperate Dash Into the Sea to Escape an Inferno</h3>
-<sub>By Orlando Mayorquin</sub>
-<p>Direction from a Good Samaritan helped get a group of trapped residents to a safe spot.  <a href="https://nyti.ms/3OTdBJ2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>‘We’re very blessed and lucky’: A Maui resident’s home was saved.</h3>
+<sub>By Jin Yu Young</sub>
+<p>  <a href="https://nyti.ms/3QJNcyC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>The Clean Energy Future Is Arriving Faster Than You Think</h3>
+<sub>By David Gelles, Brad Plumer, Jim Tankersley, Jack Ewing, Leo Dominguez and Nadja Popovich</sub>
+<p>The United States is pivoting away from fossil fuels and toward wind, solar and other renewable energy, even in areas dominated by the oil and gas industries.  <a href="https://nyti.ms/3QCYoNF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>The Clean Energy Future Is Roiling Both Friends and Foes</h3>
+<sub>By Jim Tankersley, Brad Plumer, Ana Swanson, Ivan Penn, Leo Dominguez and Nadja Popovich</sub>
+<p>Resistance to wind and solar projects from environmentalists is among an array of impediments to widespread conversion to renewables.  <a href="https://nyti.ms/3DUF5b4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>The Clean Energy Future Is a Battle for Hearts and Minds</h3>
+<sub>By Jack Ewing, Clifford Krauss, Lisa Friedman, Leo Dominguez and Nadja Popovich</sub>
+<p>A broad, and sometimes quixotic, retail effort to win the fight against global warming is playing out one person at a time, with nary a mention of climate change.  <a href="https://nyti.ms/3DSjlMT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Dismayed by lack of official aid, West Maui residents step up to help their neighbors.</h3>
-<sub>By Kellen Browning</sub>
-<p>  <a href="https://nyti.ms/3ORZsvU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>How Trump Benefits From an Indictment Effect</h3>
+<sub>By Jonathan Swan, Ruth Igielnik, Shane Goldmacher and Maggie Haberman</sub>
+<p>In polling, fund-raising and conservative media, the former president has turned criminal charges into political assets.  <a href="https://nyti.ms/3KFw7Ca"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -86,53 +104,35 @@ It looks like a lot is happening in the US right now. In Hawaii, there have been
 <p>   <a href="https://nyti.ms/3QHozTz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Republicans Wanted a Special Counsel Investigation of Hunter Biden. Now Many Oppose It.</h3>
-<sub>By Luke Broadwater and Maggie Haberman</sub>
-<p>Although some G.O.P. lawmakers see the appointment of David C. Weiss as a vindication of their strategy, others criticize the now-scuttled plea deal he struck with Mr. Biden.  <a href="https://nyti.ms/47ueQph"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>As Hunter Biden Saga Endures, Democrats Avert Eyes and Dismiss Worries</h3>
-<sub>By Reid J. Epstein and Jazmine Ulloa</sub>
-<p>After a setback for President Biden, Democrats pointed to Donald Trump’s indictments and suggested that swing voters would ultimately not care about the sins of a candidate’s son.  <a href="https://nyti.ms/45qb66x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Rock ’n’ Roll According to the Chinese Communist Party</h3>
+<sub>By Vivian Wang and Weiyi Cai</sub>
+<p>The rock ballad was a cult classic in China. But what if the party wanted to use it to spread “positive energy”?  <a href="https://nyti.ms/3KFw7lE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Zelensky Called Him a Criminal. Now Ukraine Calls Him for Guns and Ammo.</h3>
-<sub>By Justin Scheck and Thomas Gibbons-Neff</sub>
-<p>In its hunt for weapons, Ukraine has rolled back anticorruption rules and turned to people once seen as relics of an anything-goes era.  <a href="https://nyti.ms/3YxYJ6f"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
+<h3>Would F-16s Have Made the Difference in Ukraine’s Counteroffensive?</h3>
+<sub>By Lara Jakes</sub>
+<p>Most military experts doubt that they would have, and say that Kyiv can still prevail without them.  <a href="https://nyti.ms/3KDmQdS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia Threatens Retaliation Over Attacks on Key Crimean Bridge</h3>
-<sub>By Cassandra Vinograd and Marc Santora</sub>
-<p>The Kerch Strait Bridge is a critical strategic asset that allows Moscow to move troops and equipment from Russia to Crimea and from there to the front lines in Ukraine.  <a href="https://nyti.ms/3DRvEcm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Russian Shelling Kills 7 in Ukrainian Region Hit With Ongoing Bombardment</h3>
+<sub>By Cassandra Vinograd</sub>
+<p>Ukrainian officials said that a couple and their infant daughter were among the dead after the attacks on Sunday.  <a href="https://nyti.ms/3DRvEcm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Iowa State Fair Saw Many G.O.P. Candidates but Only One Trump</h3>
-<sub>By Shane Goldmacher and Lisa Lerer</sub>
-<p>Donald J. Trump asserted his dominance in Iowa on Saturday as he squared off against his closest rival, Ron DeSantis, in the Super Bowl of retail politics.  <a href="https://nyti.ms/3P3622R"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
+<h3>Texas Revamps Houston Schools, Closing Libraries and Angering Parents</h3>
+<sub>By J. David Goodman</sub>
+<p>As part of a state takeover plan, libraries in underperforming schools are becoming spaces for disruptive students to watch lessons on computers.  <a href="https://nyti.ms/3QwK4Gs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>At the Iowa State Fair, DeSantis Can’t Seem to Catch a Break</h3>
-<sub>By Nicholas Nehamas</sub>
-<p>The Florida governor was hoping to have the stage to himself, but Donald Trump and his supporters have made that hard to achieve.  <a href="https://nyti.ms/45nkhon"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Long-Shot Vivek Ramaswamy Says He Has a 50 percent Chance at Presidency</h3>
-<sub>By Reid J. Epstein</sub>
-<p>Despite polling in the mid-single digits, the biotech mogul projected outsize confidence at the Iowa State Fair.  <a href="https://nyti.ms/3DRq1e6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Inexpensive Add-on Spawns a New Era of Machine Guns</h3>
-<sub>By Ernesto Londoño and Glenn Thrush</sub>
-<p>Popular devices known as “switches” are turning ordinary pistols into fully automatic weapons, making them deadlier and a growing threat to bystanders.  <a href="https://nyti.ms/45qxXPy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>N.Y.P.D.’s New Intelligence Chief Takes Reins of Secretive Unit</h3>
+<sub>By Maria Cramer</sub>
+<p>Rebecca Weiner, 46, the deputy commissioner of the counterterrorism bureau, grew up in a family that was well acquainted with clandestine work.  <a href="https://nyti.ms/3qmKuEO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
