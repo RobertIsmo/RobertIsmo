@@ -60,7 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, August 13, Central Standard Time</p>
 <p>
-Right now, in the US, officials are responding to the destruction and lack of government aid after a wildfire in West Maui. In areas heavily dominated by oil and gas industries, there is a pivot away from fossil fuels and towards renewable energy such as wind and solar. Former President Trump is using criminal charges as a political asset in polling and fund-raising, while Trump election interference is about to go before a grand jury in Georgia. In China, the Communist Party has been attempting to rewrite cult classics into songs with ‘positive energy’. Texas is restructuring public education in Houston by closing school libraries, an unpopular decision among parents. The New York City Police Department has appointed the deputy commissioner of the counterterrorism bureau as its new intelligence chief; she comes from a family well aquainted with clandestine work. Additionally, Republicans are both praising and condemning the appointment of a special counsel for an investigation into Hunter Biden&#39;s affairs, while Ukraine is facing debates over whether F-16s would have made a difference in their counteroffensive against Russian separatists.</p>
+In the US, a wildfire has destroyed a town in West Maui, leaving residents who are still nearby without much help from federal and local aid. Fortunately for some, their homes were saved, and private volunteers have stepped up to provide support for the survivors.
+
+Elsewhere in the US, the pivot away from fossil fuels has been initiated and people are turning to renewable energy sources like solar and wind. This is met with resistance from both sides of the aisle, as well as environmentalist organizations. There is also a push for greater FDA approval of new sunscreen technology by Congress. 
+
+Meanwhile, police have been raiding small newspapers in Kansas and parents in Houston schools have expressed concern over changes being made there - particularly closing libraries to create spaces for disruptive students to watch online lessons. 
+
+Finally, we&#39;re seeing a shift in leadership in the New York Police Department&#39;s secretive intelligence unit with the appointment of Rebecca Weiner as its chief, as well as the potential appointment of David Weiss to investigate claims surrounding Hunter Biden - although some Republicans are now speaking out against it.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>‘We Need Some Help Here’: West Maui Residents Say Government Aid Is Scant</h3>
@@ -104,10 +110,16 @@ Right now, in the US, officials are responding to the destruction and lack of go
 <p>   <a href="https://nyti.ms/3QHozTz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Rock ’n’ Roll According to the Chinese Communist Party</h3>
-<sub>By Vivian Wang and Weiyi Cai</sub>
-<p>The rock ballad was a cult classic in China. But what if the party wanted to use it to spread “positive energy”?  <a href="https://nyti.ms/3KFw7lE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>U.S. Sunscreen Is Stuck in the ’90s. Is This a Job for Congress?</h3>
+<sub>By Sandra E. Garcia</sub>
+<p>For years, American consumers have had to look abroad if they want the latest in sunscreen innovations. Some, including Rep. Alexandria Ocasio-Cortez, think it’s time to revisit F.D.A. approval procedures.  <a href="https://nyti.ms/45pCBNv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Raid of Small Kansas Newspaper Raises Free Press Concerns</h3>
+<sub>By Steven Lee Myers and Benjamin Mullin</sub>
+<p>The search of the Marion County Record led to the seizure of computers, servers and cellphones of reporters and editors.  <a href="https://nyti.ms/448FWiU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -127,12 +139,6 @@ Right now, in the US, officials are responding to the destruction and lack of go
 <sub>By Luke Broadwater and Maggie Haberman</sub>
 <p>Although some G.O.P. lawmakers see the appointment of David C. Weiss as a vindication of their strategy, others criticize the now-scuttled plea deal he struck with Mr. Biden.  <a href="https://nyti.ms/47ueQph"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Would F-16s Have Made the Difference in Ukraine’s Counteroffensive?</h3>
-<sub>By Lara Jakes</sub>
-<p>Most military experts doubt that they would have, and say that Kyiv can still prevail without them.  <a href="https://nyti.ms/3KDmQdS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
