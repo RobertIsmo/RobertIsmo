@@ -60,7 +60,10 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, August 12, Central Standard Time</p>
 <p>
-It seems like a lot is happening in the world right now. In the US, there&#39;s been a lot of concern about recovery efforts in the aftermath of the Maui Fires, with FEMA estimating that it will take around $5.5 billion to rebuild the damage areas. At the Iowa State Fair, Donald Trump and Ron DeSantis are dueling it out for the top spot while a Florida entrepreneur is making an audacious bid for President. Meanwhile in Ukraine, President Zelensky is reaching out to some questionable characters for guns and ammo, while military forces have made progress in their counteroffensive against Russia. Lastly, gun enthusiasts are taking advantage of inexpensive add-on that can turn pistols into machine guns.</p>
+In the US, many people have been affected by the devastating wildfires in Hawaii and are wondering if they have a place in the recovery process. FEMA estimates rebuilding the damaged areas will take 5.5 billion dollars. In Georgia, there is a grand jury investigation into Trump&#39;s election interference. 
+In regards to the Hunter Biden saga, Republicans initially looked to open a special counsel investigation but now oppose it while Democrats seem to be averting their eyes and downplaying any worries. 
+In Ukraine, President Zelensky was once seen as a criminal, but now he is calling for guns and ammo. Ukraine is making progress in its military counteroffensive, with its troops advancing 10-12 miles along two main lines of attack. 
+At the Iowa State Fair recently, Donald Trump was the only one of the Republican candidates that attended. Despite polling in the mid-single digits, Vivek Ramaswamy has projected outsize confidence that he has a 50% chance of winning the presidency. Finally, inexpensive add-on devices known as “switches” are turning ordinary pistols into fully automatic machine guns, leading to an increased threat to bystanders.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>After the Maui Fires, Locals Fear Being Shut Out of Recovery</h3>
