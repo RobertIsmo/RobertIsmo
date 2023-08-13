@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, August 12, Central Standard Time</p>
 <p>
-There have been several major events happening in the world recently. In the US, there was a grand jury that was taking up the case of Trump&#39;s election interference. In addition, Republicans have gone back and forth on whether to continue with an investigation into Hunter Biden. Meanwhile in Hawaii, locals are struggling to recover after a series of devastating wildfires. In Ukraine, the government is resorting to unusual means in order to find strong weapons for its counteroffensive. Israel is also facing an issue as ultra-Orthodox members of the government are trying to enforce laws that would further segregate people by sex. Finally, Florida governor Desantis is having trouble finding time at the Iowa State Fair because of Donald Trump&#39;s presence and former Vice President Pence has been focusing on civility politics despite their differences in political belief.</p>
+It seems like a lot is happening in the world right now. In the US, there&#39;s been a lot of concern about recovery efforts in the aftermath of the Maui Fires, with FEMA estimating that it will take around $5.5 billion to rebuild the damage areas. At the Iowa State Fair, Donald Trump and Ron DeSantis are dueling it out for the top spot while a Florida entrepreneur is making an audacious bid for President. Meanwhile in Ukraine, President Zelensky is reaching out to some questionable characters for guns and ammo, while military forces have made progress in their counteroffensive against Russia. Lastly, gun enthusiasts are taking advantage of inexpensive add-on that can turn pistols into machine guns.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>After the Maui Fires, Locals Fear Being Shut Out of Recovery</h3>
@@ -69,10 +69,10 @@ There have been several major events happening in the world recently. In the US,
 <sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Mapping the Wildfire Destruction in Lahaina</h3>
-<sub>By Molly Cook Escobar, K.K. Rebecca Lai and Elena Shao</sub>
-<p>In an analysis of satellite imagery, The Times identified about 1,900 structures that had been visibly damaged or destroyed by the blaze.  <a href="https://nyti.ms/47vvEwo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 11, Central Standard Time</sub></sub>
+<h3>FEMA estimates it will take $5.5 billion to rebuild damaged areas in West Maui.</h3>
+<sub>By Gaya Gupta</sub>
+<p>  <a href="https://nyti.ms/3OWxGOY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A survivor made a desperate dash into the sea to escape an inferno.</h3>
@@ -111,27 +111,27 @@ There have been several major events happening in the world recently. In the US,
 <sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Iowa State Fair Saw Many G.O.P. Candidates but Only One Trump</h3>
+<sub>By Shane Goldmacher and Lisa Lerer</sub>
+<p>Donald J. Trump asserted his dominance in Iowa on Saturday as he squared off against his closest rival, Ron DeSantis, in the Super Bowl of retail politics.  <a href="https://nyti.ms/3P3622R"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>At the Iowa State Fair, DeSantis Can’t Seem to Catch a Break</h3>
 <sub>By Nicholas Nehamas</sub>
 <p>The Florida governor was hoping to have the stage to himself, but Donald Trump and his supporters have made that hard to achieve.  <a href="https://nyti.ms/45nkhon"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In the Shadow of More Fiery Rivals, Pence Leans Into Civility Politics</h3>
-<sub>By Neil Vigdor</sub>
-<p>The former vice president met with Christian leaders and spoke about his respect for a late Democratic congressman despite their political differences.  <a href="https://nyti.ms/3sby4A3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Long-Shot Vivek Ramaswamy Says He Has a 50 percent Chance at Presidency</h3>
+<sub>By Reid J. Epstein</sub>
+<p>Despite polling in the mid-single digits, the biotech mogul projected outsize confidence at the Iowa State Fair.  <a href="https://nyti.ms/3DRq1e6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Inexpensive Add-on Spawns a New Era of Machine Guns</h3>
 <sub>By Ernesto Londoño and Glenn Thrush</sub>
 <p>Popular devices known as “switches” are turning ordinary pistols into fully automatic weapons, making them deadlier and a growing threat to bystanders.  <a href="https://nyti.ms/45qxXPy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Growing Segregation by Sex in Israel Raises Fears for Women’s Rights</h3>
-<sub>By Roni Caryn Rabin</sub>
-<p>Ultra-Orthodox members of Prime Minister Benjamin Netanyahu’s far-right coalition want to expand the powers of all-male rabbinical courts, and to bar women and men from mixing in many public arenas.  <a href="https://nyti.ms/3OUljmu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
 <hr/>
 </ol>
