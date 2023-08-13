@@ -60,26 +60,8 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, August 13, Central Standard Time</p>
 <p>
-In the US, a wildfire has destroyed a town in West Maui, leaving residents who are still nearby without much help from federal and local aid. Fortunately for some, their homes were saved, and private volunteers have stepped up to provide support for the survivors.
-
-Elsewhere in the US, the pivot away from fossil fuels has been initiated and people are turning to renewable energy sources like solar and wind. This is met with resistance from both sides of the aisle, as well as environmentalist organizations. There is also a push for greater FDA approval of new sunscreen technology by Congress. 
-
-Meanwhile, police have been raiding small newspapers in Kansas and parents in Houston schools have expressed concern over changes being made there - particularly closing libraries to create spaces for disruptive students to watch online lessons. 
-
-Finally, we&#39;re seeing a shift in leadership in the New York Police Department&#39;s secretive intelligence unit with the appointment of Rebecca Weiner as its chief, as well as the potential appointment of David Weiss to investigate claims surrounding Hunter Biden - although some Republicans are now speaking out against it.</p>
+I&#39;ve been reading some news articles and things are crazy. Climate change is becoming an increasingly pressing issue, and people are looking to wind, solar and other renewable sources of energy to replace fossil fuels in the U.S. In Texas, there&#39;s a huge drop in Medicaid coverage since a pandemic-era policy ended that prevented people from being removed from the program. There&#39;s also been wildfires ravaging Hawaii, a raid of small Kansas newspaper raising questions about freedom of the press, Trump monetizing criminal charges as political support, and a religious ritual in Iran becoming a new form of protest against the government. It sounds like there&#39;s a lot happening!</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘We Need Some Help Here’: West Maui Residents Say Government Aid Is Scant</h3>
-<sub>By Kellen Browning and Mitch Smith</sub>
-<p>Days after the wildfire that destroyed Lahaina, those staying nearby say private volunteers have served as far more of a lifeline than federal and local agencies.  <a href="https://nyti.ms/3KD8lqH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘We’re very blessed and lucky’: A Maui resident’s home was saved.</h3>
-<sub>By Jin Yu Young</sub>
-<p>  <a href="https://nyti.ms/3QJNcyC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 13, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>The Clean Energy Future Is Arriving Faster Than You Think</h3>
 <sub>By David Gelles, Brad Plumer, Jim Tankersley, Jack Ewing, Leo Dominguez and Nadja Popovich</sub>
@@ -99,22 +81,16 @@ Finally, we&#39;re seeing a shift in leadership in the New York Police Departmen
 <sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Trump Benefits From an Indictment Effect</h3>
-<sub>By Jonathan Swan, Ruth Igielnik, Shane Goldmacher and Maggie Haberman</sub>
-<p>In polling, fund-raising and conservative media, the former president has turned criminal charges into political assets.  <a href="https://nyti.ms/3KFw7Ca"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>‘We Need Some Help Here’: West Maui Residents Say Government Aid Is Scant</h3>
+<sub>By Kellen Browning and Mitch Smith</sub>
+<p>Days after the wildfire that destroyed Lahaina, those staying nearby say private volunteers have served as far more of a lifeline than federal and local agencies.  <a href="https://nyti.ms/3KD8lqH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Election Interference Case to Go to Grand Jury in Georgia Early Next Week</h3>
-<sub>By Richard Fausset</sub>
-<p>   <a href="https://nyti.ms/3QHozTz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>U.S. Sunscreen Is Stuck in the ’90s. Is This a Job for Congress?</h3>
-<sub>By Sandra E. Garcia</sub>
-<p>For years, American consumers have had to look abroad if they want the latest in sunscreen innovations. Some, including Rep. Alexandria Ocasio-Cortez, think it’s time to revisit F.D.A. approval procedures.  <a href="https://nyti.ms/45pCBNv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
+<h3>What We Know About the Wildfires in Hawaii</h3>
+<sub>By Adeel Hassan</sub>
+<p>The wildfires on the island of Maui are the deadliest in the United States in more than a century, with the death toll likely to rise still further.  <a href="https://nyti.ms/3KzrwS9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Raid of Small Kansas Newspaper Raises Free Press Concerns</h3>
@@ -123,15 +99,9 @@ Finally, we&#39;re seeing a shift in leadership in the New York Police Departmen
 <sub><sub>Sunday, August 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Texas Revamps Houston Schools, Closing Libraries and Angering Parents</h3>
-<sub>By J. David Goodman</sub>
-<p>As part of a state takeover plan, libraries in underperforming schools are becoming spaces for disruptive students to watch lessons on computers.  <a href="https://nyti.ms/3QwK4Gs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>N.Y.P.D.’s New Intelligence Chief Takes Reins of Secretive Unit</h3>
-<sub>By Maria Cramer</sub>
-<p>Rebecca Weiner, 46, the deputy commissioner of the counterterrorism bureau, grew up in a family that was well acquainted with clandestine work.  <a href="https://nyti.ms/3qmKuEO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>How Trump Benefits From an Indictment Effect</h3>
+<sub>By Jonathan Swan, Ruth Igielnik, Shane Goldmacher and Maggie Haberman</sub>
+<p>In polling, fund-raising and conservative media, the former president has turned criminal charges into political assets.  <a href="https://nyti.ms/3KFw7Ca"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -139,6 +109,30 @@ Finally, we&#39;re seeing a shift in leadership in the New York Police Departmen
 <sub>By Luke Broadwater and Maggie Haberman</sub>
 <p>Although some G.O.P. lawmakers see the appointment of David C. Weiss as a vindication of their strategy, others criticize the now-scuttled plea deal he struck with Mr. Biden.  <a href="https://nyti.ms/47ueQph"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>U.S. Sunscreen Is Stuck in the ’90s. Is This a Job for Congress?</h3>
+<sub>By Sandra E. Garcia</sub>
+<p>For years, American consumers have had to look abroad if they want the latest in sunscreen innovations. Some, including Rep. Alexandria Ocasio-Cortez, think it’s time to revisit F.D.A. approval procedures.  <a href="https://nyti.ms/45pCBNv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Texas Revamps Houston Schools, Closing Libraries and Angering Parents</h3>
+<sub>By J. David Goodman</sub>
+<p>As part of a state takeover plan, libraries in underperforming schools are becoming spaces for disruptive students to watch lessons on computers.  <a href="https://nyti.ms/3QwK4Gs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Religious Ritual in Iran Becomes a New Form of Protest</h3>
+<sub>By Farnaz Fassihi and Arash Khamooshi</sub>
+<p>Ashura, which mourns the killing of the Prophet Muhammad’s grandson and celebrates Shiite identity, has long symbolized the fight against oppression. This year, its chants have been turned against the government.  <a href="https://nyti.ms/3KyI3WA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>After End of Pandemic Coverage Guarantee, Texas Is Epicenter of Medicaid Losses</h3>
+<sub>By Noah Weiland</sub>
+<p>Since the end of a pandemic-era policy that barred states from removing people from Medicaid, Texas has dropped over half a million people from the program, more than any other state.  <a href="https://nyti.ms/3OwQZwE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
