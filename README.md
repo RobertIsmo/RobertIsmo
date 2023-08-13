@@ -60,13 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, August 13, Central Standard Time</p>
 <p>
-There are a variety of news happening around the world. In the US, there are a few stories related to former President Trump, including a criminal charge indicting him that is being used for political gain and election interference investigation that will go to a grand jury next week. In Texas, Houston schools are being restructured, closing the libraries and angering parents. There is also news from abroad involving a rock ballad in China being used by the Communist Party to spread &quot;positive energy,&quot; Ukraine battling Russia with shelling attacks resulting in seven deaths, and if F-16s would have made a difference in Ukraine&#39;s defense. Lastly, the New York Police Department has just appointed its new Intelligence Chief.</p>
+Right now, in the US, officials are responding to the destruction and lack of government aid after a wildfire in West Maui. In areas heavily dominated by oil and gas industries, there is a pivot away from fossil fuels and towards renewable energy such as wind and solar. Former President Trump is using criminal charges as a political asset in polling and fund-raising, while Trump election interference is about to go before a grand jury in Georgia. In China, the Communist Party has been attempting to rewrite cult classics into songs with ‘positive energy’. Texas is restructuring public education in Houston by closing school libraries, an unpopular decision among parents. The New York City Police Department has appointed the deputy commissioner of the counterterrorism bureau as its new intelligence chief; she comes from a family well aquainted with clandestine work. Additionally, Republicans are both praising and condemning the appointment of a special counsel for an investigation into Hunter Biden&#39;s affairs, while Ukraine is facing debates over whether F-16s would have made a difference in their counteroffensive against Russian separatists.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Warning Sirens Never Sounded on Maui, State Official Says</h3>
-<sub>By Nicholas Bogel-Burroughs and Serge F. Kovaleski</sub>
-<p>None of the 80 warning sirens placed around the island were activated in response to the devastating Lahaina fire, a spokesman for Hawaii’s emergency management agency confirmed.  <a href="https://nyti.ms/453qyG7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
+<h3>‘We Need Some Help Here’: West Maui Residents Say Government Aid Is Scant</h3>
+<sub>By Kellen Browning and Mitch Smith</sub>
+<p>Days after the wildfire that destroyed Lahaina, those staying nearby say private volunteers have served as far more of a lifeline than federal and local agencies.  <a href="https://nyti.ms/3KD8lqH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>‘We’re very blessed and lucky’: A Maui resident’s home was saved.</h3>
@@ -110,18 +110,6 @@ There are a variety of news happening around the world. In the US, there are a f
 <p>The rock ballad was a cult classic in China. But what if the party wanted to use it to spread “positive energy”?  <a href="https://nyti.ms/3KFw7lE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Would F-16s Have Made the Difference in Ukraine’s Counteroffensive?</h3>
-<sub>By Lara Jakes</sub>
-<p>Most military experts doubt that they would have, and say that Kyiv can still prevail without them.  <a href="https://nyti.ms/3KDmQdS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russian Shelling Kills 7 in Ukrainian Region Hit With Ongoing Bombardment</h3>
-<sub>By Cassandra Vinograd</sub>
-<p>Ukrainian officials said that a couple and their infant daughter were among the dead after the attacks on Sunday.  <a href="https://nyti.ms/3DRvEcm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 13, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Texas Revamps Houston Schools, Closing Libraries and Angering Parents</h3>
 <sub>By J. David Goodman</sub>
@@ -132,6 +120,18 @@ There are a variety of news happening around the world. In the US, there are a f
 <h3>N.Y.P.D.’s New Intelligence Chief Takes Reins of Secretive Unit</h3>
 <sub>By Maria Cramer</sub>
 <p>Rebecca Weiner, 46, the deputy commissioner of the counterterrorism bureau, grew up in a family that was well acquainted with clandestine work.  <a href="https://nyti.ms/3qmKuEO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Republicans Wanted a Special Counsel Investigation of Hunter Biden. Now Many Oppose It.</h3>
+<sub>By Luke Broadwater and Maggie Haberman</sub>
+<p>Although some G.O.P. lawmakers see the appointment of David C. Weiss as a vindication of their strategy, others criticize the now-scuttled plea deal he struck with Mr. Biden.  <a href="https://nyti.ms/47ueQph"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Would F-16s Have Made the Difference in Ukraine’s Counteroffensive?</h3>
+<sub>By Lara Jakes</sub>
+<p>Most military experts doubt that they would have, and say that Kyiv can still prevail without them.  <a href="https://nyti.ms/3KDmQdS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
