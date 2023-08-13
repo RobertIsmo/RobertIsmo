@@ -58,12 +58,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Saturday, August 12, Central Standard Time</p>
+<p>It is Sunday, August 13, Central Standard Time</p>
 <p>
-In the US, many people have been affected by the devastating wildfires in Hawaii and are wondering if they have a place in the recovery process. FEMA estimates rebuilding the damaged areas will take 5.5 billion dollars. In Georgia, there is a grand jury investigation into Trump&#39;s election interference. 
-In regards to the Hunter Biden saga, Republicans initially looked to open a special counsel investigation but now oppose it while Democrats seem to be averting their eyes and downplaying any worries. 
-In Ukraine, President Zelensky was once seen as a criminal, but now he is calling for guns and ammo. Ukraine is making progress in its military counteroffensive, with its troops advancing 10-12 miles along two main lines of attack. 
-At the Iowa State Fair recently, Donald Trump was the only one of the Republican candidates that attended. Despite polling in the mid-single digits, Vivek Ramaswamy has projected outsize confidence that he has a 50% chance of winning the presidency. Finally, inexpensive add-on devices known as “switches” are turning ordinary pistols into fully automatic machine guns, leading to an increased threat to bystanders.</p>
+In the US, there are a couple of stories that have been gaining traction. After a devastating series of fires in Maui, locals are worried about whether they will be included in the recovery efforts and how much money it will take to rebuild. Meanwhile, there&#39;s some drama regarding the recent appointment of David C. Weiss to investigate allegations of Trump&#39;s election interference, with Republicans seemingly divided on how to respond. In Iowa, Donald Trump and Ron DeSantis were squaring off for votes at the Super Bowl of retail politics, and long-shot presidential candidate Vivek Ramaswamy asserted that he had a 50% chance of winning despite polling in the low single digits. 
+
+Elsewhere, Ukraine is trying to arm up in their counteroffensive against Russia by rolling back anti-corruption measures and seeking weapons from suppliers who were once considered as relics of a bygone era. On a more concerning note, existing gun control laws have become all but redundant due to inexpensive add-ons which can turn ordinary pistols into fully automatic weapons.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>After the Maui Fires, Locals Fear Being Shut Out of Recovery</h3>
@@ -78,7 +77,7 @@ At the Iowa State Fair recently, Donald Trump was the only one of the Republican
 <sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A survivor made a desperate dash into the sea to escape an inferno.</h3>
+<h3>A Survivor Made a Desperate Dash Into the Sea to Escape an Inferno</h3>
 <sub>By Orlando Mayorquin</sub>
 <p>Direction from a Good Samaritan helped get a group of trapped residents to a safe spot.  <a href="https://nyti.ms/3OTdBJ2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
