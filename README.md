@@ -60,10 +60,26 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, August 14, Central Standard Time</p>
 <p>
-There are many different news stories going on around the world right now. In the US, former President Trump and his allies are facing an election interference case in Georgia. Firefighters in Maui are facing a grim rescue mission after the water system collapsed due to a wildfire. Meanwhile, colleges are requiring applicants to answer questions about their identity and life experience in order to increase diversity on campuses. 
+Recently, news has been breaking about former President Trump and some of his associates facing legal issues. In Alton, New Hampshire, one of Trump&#39;s strongholds, some people are still loyal to him but worry that he may not be successful in the general election. Additionally, in Georgia, there were attempts by Trump and his allies to reverse the election outcome--though with no success. 
 
-Internationally, there has been trouble for Russian convicts serving in Russia’s army, as well as a weakening of the ruble against the dollar. There&#39;s also an inspiring interview with a Buddhist monk who is said to be &quot;the world&#39;s happiest man.&quot; Lastly, travelers in Europe are finding themselves dealing with extreme, prolonged heat that has put a damper on sightseeing plans.</p>
+On a separate note, a U.S. court ruled in favor of some Montana youths in a landmark climate case, giving them the right to have a healthful environment and forcing regulators to take climate impact into account.
+
+Meanwhile, on Maui island in Hawaii, a wildfire destroyed homes and the water system there collapsed as the inferno spread. 
+
+Back on the mainland, Hunter Biden reported that prosecutors had reneged on part of the plea deal he had made with them. Separately FBI counterintelligence leader Charles McGonigal is under federal investigation for taking bribes. 
+
+On a more uplifting note, Thai Buddhist monk Matthieu Ricard shared his three rules for life after being dubbed &quot;the world’s happiest man”. 
+
+Lastly, in Russia we&#39;re hearing accounts from Russian soldiers who have faced disregard from their commanders--in some cases leading to fatal outcomes--and have been pressurized into re-enlisting.
+ 
+That&#39;s just some of what&#39;s been happening recently!</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Trump Stronghold, Unbothered by Indictments, Worries About Winning</h3>
+<sub>By Jenna Russell</sub>
+<p>Republicans in Alton, N.H., still love the former president. But some are rethinking their loyalty, fearing Mr. Trump might not prevail in the general election.  <a href="https://nyti.ms/3DWaVnW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 14, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Two Months in Georgia: How Trump Tried to Overturn the Vote</h3>
 <sub>By Danny Hakim and Richard Fausset</sub>
@@ -71,9 +87,9 @@ Internationally, there has been trouble for Russian convicts serving in Russia�
 <sub><sub>Monday, August 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What We Know About the Trump Election Interference Case in Georgia</h3>
-<sub>By Richard Fausset and Danny Hakim</sub>
-<p>A grand jury could decide within days whether former President Trump should be indicted for interfering in the state’s 2020 presidential election.  <a href="https://nyti.ms/45cmBif"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Judge Rules in Favor of Montana Youths in Landmark Climate Case</h3>
+<sub>By Mike Baker</sub>
+<p>The court found that young people have a constitutional right to a healthful environment and that regulators must be allowed to consider climate impact.  <a href="https://nyti.ms/447a0eT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
@@ -83,20 +99,20 @@ Internationally, there has been trouble for Russian convicts serving in Russia�
 <sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Its Building Destroyed, a Lahaina Church Finds Sanctuary in a Cafe</h3>
+<sub>By Mitch Smith</sub>
+<p>Members of Grace Baptist Church, many of them now homeless, gathered on Sunday and described daring escapes from the fire.  <a href="https://nyti.ms/3s8gqgH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>As Inferno Grew, Lahaina’s Water System Collapsed</h3>
 <sub>By Mike Baker, Kellen Browning and Nicholas Bogel-Burroughs</sub>
 <p>Firefighters who rushed to contain the Maui wildfire found that hydrants were running dry, forcing crews to embark instead on a perilous rescue mission.  <a href="https://nyti.ms/3KDuncM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Families of Hawaii’s Missing Endure Wrenching Wait for Answers</h3>
-<sub>By Mitch Smith and Kellen Browning</sub>
-<p>Nearly a week after the fires started, relatives are receiving little information as search and identification efforts move slowly.  <a href="https://nyti.ms/3shPB9y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Hunter Biden Says Prosecutors Reneged on Major Part of Plea Deal</h3>
-<sub>By Michael S. Schmidt</sub>
+<sub>By Michael S. Schmidt, Glenn Thrush and Luke Broadwater</sub>
 <p>The move is the latest salvo in the back and forth between Mr. Biden and David C. Weiss, the federal prosecutor who was appointed special counsel last week.  <a href="https://nyti.ms/458J7IK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 14, Central Standard Time</sub></sub>
 <hr/>
@@ -106,11 +122,17 @@ Internationally, there has been trouble for Russian convicts serving in Russia�
 <p>Charles McGonigal had a family, a house in the suburbs and an influential job as a counterintelligence leader in New York. Federal prosecutors suggest it wasn’t enough for him.  <a href="https://nyti.ms/3QDu9WJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Colleges Want to Know More About You and Your ‘Identity’</h3>
-<sub>By Anemona Hartocollis and Colbi Edmonds</sub>
-<p>With affirmative action banned, application essays ask about “life experience,” the one place in admissions where discussing race is still explicitly legal.  <a href="https://nyti.ms/3YF9xzC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 14, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>The ‘World’s Happiest Man’ Shares His Three Rules for Life</h3>
+<sub>By David Marchese</sub>
+<p>A searching, playful, provocative discussion with the Buddhist monk Matthieu Ricard.  <a href="https://nyti.ms/3KyI1xW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>The Dream Was Universal Access to Knowledge. The Result Was a Fiasco.</h3>
+<sub>By David Streitfeld</sub>
+<p>In the pandemic emergency, Brewster Kahle’s Internet Archive freely lent out digital scans of its library. Publishers sued. Owning a book means something different now.  <a href="https://nyti.ms/3qtIyu5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>‘We Are Not Human to Them’: Life for Convicts in Russia’s Army</h3>
@@ -118,22 +140,10 @@ Internationally, there has been trouble for Russian convicts serving in Russia�
 <p>In an account provided to The Times, a Russian soldier describes his commanders’ casual disregard for the lives of inmates like him, and how they are pressured to re-enlist.  <a href="https://nyti.ms/3OUS8Q0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russian Ruble Slides Past 100 to the Dollar, Lowest Since Just After War’s Start</h3>
-<sub>By Valeriya Safronova and Paul Sonne</sub>
-<p>The currency’s weakening, which took it past the symbolic level of a penny per ruble, will increase pressure on the nation’s financial authorities as fears of inflation grow.  <a href="https://nyti.ms/3qwfnGO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>The ‘World’s Happiest Man’ Shares His Three Rules for Life</h3>
-<sub>By David Marchese</sub>
-<p>A searching, playful, provocative discussion with the Buddhist monk Matthieu Ricard.  <a href="https://nyti.ms/3KyI1xW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-travel-blue" alt="">
-<h3>Bring Fans and Skip the Sights: Vacationing in Scorching Hot Europe</h3>
-<sub>By Ceylan Yeginsu</sub>
-<p>Travelers are flocking to Europe this summer, but the excessive and prolonged heat is putting a crimp in their plans. Here’s what some are doing.  <a href="https://nyti.ms/3YBbkWs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>Why Are So Many of Trump’s Alleged Co-Conspirators Lawyers?</h3>
+<sub>By Deborah Pearlstein</sub>
+<p>Trump’s alleged co-conspirators are the product of a legal profession that has changed dramatically over the past 40 years.  <a href="https://nyti.ms/47uWYuA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
