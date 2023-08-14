@@ -58,9 +58,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Sunday, August 13, Central Standard Time</p>
+<p>It is Monday, August 14, Central Standard Time</p>
 <p>
-There are a lot of issues affecting people all over the world right now. In the U.S., there were devastating wildfires in Maui that destroyed Lahaina and killed many people, which was due to an influx of invasive plants on land that was previously kept clear for plantation purposes. On top of this, the search of a small newspaper office by federal authorities has been raising concerns about press freedom. Meanwhile, support for green energy is on the rise and Trump is benefiting from criminal charges being brought against Hunter Biden. In Iran, people are protesting government policies in a religious form by chanting Ashura during annual rituals. Lastly, since pandemic-era Medicaid coverage guarantees have ended in Texas, more than half a million people have been removed from the program - more than any other state.</p>
+Right now, there are a lot of issues going on within the United States and the world. In the US, there was a large wildfire in Maui, Hawaii caused by invasive plants which destroyed several buildings and homes. People affected by the wildfire are saying that they have not been supported enough, despite pleas for help. Additionally, Trump&#39;s possible indictment has become a political tool and many Republicans are now turning against it. In terms of clean energy, America is making strides to transition away from fossil fuels and towards solar, wind and other renewable energy sources but this is facing resistance from environmentalists. There was also an unprecedented raid of a Kansas Newspaper which is raising concerns about freedom of press. Lastly, Texas has had to end a pandemic coverage guarantee policy which left half a million people without Medicaid coverage. 
+
+Overseas, people in Iran are using an ancient religious ritual as a peaceful form of protest against the government.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>As Inferno Grew, Lahaina’s Water System Collapsed</h3>
