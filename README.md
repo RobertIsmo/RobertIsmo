@@ -60,9 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, August 14, Central Standard Time</p>
 <p>
-Right now, there are a lot of issues going on within the United States and the world. In the US, there was a large wildfire in Maui, Hawaii caused by invasive plants which destroyed several buildings and homes. People affected by the wildfire are saying that they have not been supported enough, despite pleas for help. Additionally, Trump&#39;s possible indictment has become a political tool and many Republicans are now turning against it. In terms of clean energy, America is making strides to transition away from fossil fuels and towards solar, wind and other renewable energy sources but this is facing resistance from environmentalists. There was also an unprecedented raid of a Kansas Newspaper which is raising concerns about freedom of press. Lastly, Texas has had to end a pandemic coverage guarantee policy which left half a million people without Medicaid coverage. 
+There are some tough times happening around the world right now. In the US, there has been a huge wildfire in Maui, Hawaii that has caused a collapse in the local water system and destroyed many homes. The cause of the fire is invasive plants that had spread on abandoned lands. The death toll is expected to increase and families of the missing are in a state of distress, as search and identification efforts move slowly. We&#39;re also seeing an acceleration in the shift away from fossil fuels towards renewables like wind and solar power, although there is significant resistance from environmentalists. 
 
-Overseas, people in Iran are using an ancient religious ritual as a peaceful form of protest against the government.</p>
+In Middle Eastern countries, societal norms and politics are changing - Kuwait recently banned the movie Barbie from being screened there, but it&#39;s been met with a positive reception in Saudi Arabia. Meanwhile, Iran is seeing an uptick in religious ritual protests against its government. 
+
+It can be difficult to watch all of these events unfold but focusing on local efforts that support those affected is important to remember.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>As Inferno Grew, Lahaina’s Water System Collapsed</h3>
@@ -77,10 +79,10 @@ Overseas, people in Iran are using an ancient religious ritual as a peaceful for
 <sub><sub>Sunday, August 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘We Need Some Help Here’: West Maui Residents Say Government Aid Is Scant</h3>
-<sub>By Kellen Browning and Mitch Smith</sub>
-<p>Days after the wildfire that destroyed Lahaina, those staying nearby say private volunteers have served as far more of a lifeline than federal and local agencies.  <a href="https://nyti.ms/3KD8lqH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 13, Central Standard Time</sub></sub>
+<h3>Families of Hawaii’s Missing Endure Wrenching Wait for Answers</h3>
+<sub>By Mitch Smith and Kellen Browning</sub>
+<p>Nearly a week after the fires started, relatives are receiving little information as search and identification efforts move slowly.  <a href="https://nyti.ms/3shPB9y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>What We Know About the Wildfires in Hawaii</h3>
@@ -130,10 +132,10 @@ Overseas, people in Iran are using an ancient religious ritual as a peaceful for
 <p>Ashura, which mourns the killing of the Prophet Muhammad’s grandson and celebrates Shiite identity, has long symbolized the fight against oppression. This year, its chants have been turned against the government.  <a href="https://nyti.ms/3KyI3WA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>After End of Pandemic Coverage Guarantee, Texas Is Epicenter of Medicaid Losses</h3>
-<sub>By Noah Weiland</sub>
-<p>Since the end of a pandemic-era policy that barred states from removing people from Medicaid, Texas has dropped over half a million people from the program, more than any other state.  <a href="https://nyti.ms/3OwQZwE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Banned in Kuwait, ‘Barbie’ Sparks Delight, and Anger, in Saudi Arabia</h3>
+<sub>By Vivian Nereim</sub>
+<p>Denounced in some Middle Eastern countries for undermining traditional gender norms, the hit movie is finding an audience in Saudi Arabia, illustrating the region’s shifting political landscape.  <a href="https://nyti.ms/47t7OBj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
