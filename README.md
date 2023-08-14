@@ -60,25 +60,23 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, August 13, Central Standard Time</p>
 <p>
-I&#39;ve been reading some news articles and things are crazy. Climate change is becoming an increasingly pressing issue, and people are looking to wind, solar and other renewable sources of energy to replace fossil fuels in the U.S. In Texas, there&#39;s a huge drop in Medicaid coverage since a pandemic-era policy ended that prevented people from being removed from the program. There&#39;s also been wildfires ravaging Hawaii, a raid of small Kansas newspaper raising questions about freedom of the press, Trump monetizing criminal charges as political support, and a religious ritual in Iran becoming a new form of protest against the government. It sounds like there&#39;s a lot happening!</p>
+Right now, the US is going through a lot. In Hawaii there are large fires that were caused by invasive plants taking over abandoned lands. People who lived in Maui had their water system collapse and many feel like they’re not getting enough support from the government. Meanwhile, other US states are starting to slowly move towards renewable energy and combatting climate change. However, this shift is causing some tension among groups both for and against it. 
+
+Additionally, there has been a raid on a small Kansas newspaper that has raised alarms for press freedom in the US. It&#39;s related to the legal proceedings surrounding former president Donald Trump and a investigation of Hunter Biden. On top of this, Texas is rapidly losing Medicaid coverage after the end of a pandemic-era policy. 
+
+Finally, in Iran protestors have been using religious rituals such as Ashura to challenge oppression and make their voices heard.</p>
 <ol>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>The Clean Energy Future Is Arriving Faster Than You Think</h3>
-<sub>By David Gelles, Brad Plumer, Jim Tankersley, Jack Ewing, Leo Dominguez and Nadja Popovich</sub>
-<p>The United States is pivoting away from fossil fuels and toward wind, solar and other renewable energy, even in areas dominated by the oil and gas industries.  <a href="https://nyti.ms/3QCYoNF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>As Inferno Grew, Lahaina’s Water System Collapsed</h3>
+<sub>By Mike Baker, Kellen Browning and Nicholas Bogel-Burroughs</sub>
+<p>Firefighters who rushed to contain the Maui wildfire found that hydrants were running dry, forcing crews to embark instead on a perilous rescue mission.  <a href="https://nyti.ms/3KDuncM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>The Clean Energy Future Is Roiling Both Friends and Foes</h3>
-<sub>By Jim Tankersley, Brad Plumer, Ana Swanson, Ivan Penn, Leo Dominguez and Nadja Popovich</sub>
-<p>Resistance to wind and solar projects from environmentalists is among an array of impediments to widespread conversion to renewables.  <a href="https://nyti.ms/3DUF5b4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>The Clean Energy Future Is a Battle for Hearts and Minds</h3>
-<sub>By Jack Ewing, Clifford Krauss, Lisa Friedman, Leo Dominguez and Nadja Popovich</sub>
-<p>A broad, and sometimes quixotic, retail effort to win the fight against global warming is playing out one person at a time, with nary a mention of climate change.  <a href="https://nyti.ms/3DSjlMT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How Invasive Plants Caused the Maui Fires to Rage</h3>
+<sub>By Simon Romero and Serge F. Kovaleski</sub>
+<p>A sweeping series of plantation closures in Hawaii allowed highly flammable nonnative grasses to spread on idled lands, providing the fuel for huge blazes.  <a href="https://nyti.ms/3OwmE1b"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>‘We Need Some Help Here’: West Maui Residents Say Government Aid Is Scant</h3>
@@ -92,10 +90,22 @@ I&#39;ve been reading some news articles and things are crazy. Climate change is
 <p>The wildfires on the island of Maui are the deadliest in the United States in more than a century, with the death toll likely to rise still further.  <a href="https://nyti.ms/3KzrwS9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>The Clean Energy Future Is Arriving Faster Than You Think</h3>
+<sub>By David Gelles, Brad Plumer, Jim Tankersley, Jack Ewing, Leo Dominguez and Nadja Popovich</sub>
+<p>The United States is pivoting away from fossil fuels and toward wind, solar and other renewable energy, even in areas dominated by the oil and gas industries.  <a href="https://nyti.ms/3QCYoNF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>The Clean Energy Future Is Roiling Both Friends and Foes</h3>
+<sub>By Jim Tankersley, Brad Plumer, Ana Swanson, Ivan Penn, Leo Dominguez and Nadja Popovich</sub>
+<p>Resistance to wind and solar projects from environmentalists is among an array of impediments to widespread conversion to renewables.  <a href="https://nyti.ms/3DUF5b4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Raid of Small Kansas Newspaper Raises Free Press Concerns</h3>
 <sub>By Steven Lee Myers and Benjamin Mullin</sub>
-<p>The search of the Marion County Record led to the seizure of computers, servers and cellphones of reporters and editors.  <a href="https://nyti.ms/448FWiU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The search of Marion County Record’s office led to the seizure of computers, servers and cellphones of reporters and editors.  <a href="https://nyti.ms/448FWiU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -115,12 +125,6 @@ I&#39;ve been reading some news articles and things are crazy. Climate change is
 <sub>By Sandra E. Garcia</sub>
 <p>For years, American consumers have had to look abroad if they want the latest in sunscreen innovations. Some, including Rep. Alexandria Ocasio-Cortez, think it’s time to revisit F.D.A. approval procedures.  <a href="https://nyti.ms/45pCBNv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Texas Revamps Houston Schools, Closing Libraries and Angering Parents</h3>
-<sub>By J. David Goodman</sub>
-<p>As part of a state takeover plan, libraries in underperforming schools are becoming spaces for disruptive students to watch lessons on computers.  <a href="https://nyti.ms/3QwK4Gs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>A Religious Ritual in Iran Becomes a New Form of Protest</h3>
