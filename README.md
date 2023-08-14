@@ -60,30 +60,32 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, August 14, Central Standard Time</p>
 <p>
-Recently, news has been breaking about former President Trump and some of his associates facing legal issues. In Alton, New Hampshire, one of Trump&#39;s strongholds, some people are still loyal to him but worry that he may not be successful in the general election. Additionally, in Georgia, there were attempts by Trump and his allies to reverse the election outcome--though with no success. 
+It looks like there is a lot happening in the United States and around the world. In the US, former President Trump tried to overturn the vote in Georgia and was taken to court in New York by his lawyers. Also, in Montana, a judge ruled that young people have a constitutional right to a healthful environment and regulators must be allowed to consider climate impact. 
 
-On a separate note, a U.S. court ruled in favor of some Montana youths in a landmark climate case, giving them the right to have a healthful environment and forcing regulators to take climate impact into account.
+That brings us to climate change; we&#39;re seeing resistance to wind and solar projects from environmentalists alongside an effort to build more renewable sources of energy.
 
-Meanwhile, on Maui island in Hawaii, a wildfire destroyed homes and the water system there collapsed as the inferno spread. 
+Meanwhile, in New Hampshire a Trump stronghold is rethinking their loyalty because of fears he won&#39;t prevail in the general election. In Hawaii, a church had its building destroyed and needed to find sanctuary elsewhere. 
 
-Back on the mainland, Hunter Biden reported that prosecutors had reneged on part of the plea deal he had made with them. Separately FBI counterintelligence leader Charles McGonigal is under federal investigation for taking bribes. 
+We&#39;re also seeing international stories such as a US Ambassador meeting with a detained Wall Street Journal reporter in Russia, antiwar activists for Ukraine making an exception despite no committment of American troops, and a story of a FBI spy hunter&#39;s rise and fall due to his fast living and foreign dealings. 
 
-On a more uplifting note, Thai Buddhist monk Matthieu Ricard shared his three rules for life after being dubbed &quot;the world’s happiest man”. 
-
-Lastly, in Russia we&#39;re hearing accounts from Russian soldiers who have faced disregard from their commanders--in some cases leading to fatal outcomes--and have been pressurized into re-enlisting.
- 
-That&#39;s just some of what&#39;s been happening recently!</p>
+There are also discussions about how opioid settlement money should be spent, with public health groups challenging the use of funds for law enforcement instead of treatment. And finally, publishers have sued an internet archive library after it provided digital scans during the pandemic emergency - a reminder that possession of knowledge now may mean something different entirely.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Trump Stronghold, Unbothered by Indictments, Worries About Winning</h3>
-<sub>By Jenna Russell</sub>
-<p>Republicans in Alton, N.H., still love the former president. But some are rethinking their loyalty, fearing Mr. Trump might not prevail in the general election.  <a href="https://nyti.ms/3DWaVnW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 14, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Two Months in Georgia: How Trump Tried to Overturn the Vote</h3>
 <sub>By Danny Hakim and Richard Fausset</sub>
 <p>The Georgia case offers a vivid reminder of the extraordinary lengths Mr. Trump and his allies went to in the Southern state to reverse the election.  <a href="https://nyti.ms/3KDUhwR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Trump Case Judge in New York Declines to Step Aside</h3>
+<sub>By Jonah E. Bromwich</sub>
+<p>The former president’s lawyers argued that Justice Juan M. Merchan had a conflict of interest. In a terse decision, the judge rejected their arguments.  <a href="https://nyti.ms/45oFePK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Trump Stronghold, Unbothered by Indictments, Worries About Winning</h3>
+<sub>By Jenna Russell</sub>
+<p>Republicans in Alton, N.H., still love the former president. But some are rethinking their loyalty, fearing Mr. Trump might not prevail in the general election.  <a href="https://nyti.ms/3DWaVnW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -104,16 +106,22 @@ That&#39;s just some of what&#39;s been happening recently!</p>
 <p>Members of Grace Baptist Church, many of them now homeless, gathered on Sunday and described daring escapes from the fire.  <a href="https://nyti.ms/3s8gqgH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>As Inferno Grew, Lahaina’s Water System Collapsed</h3>
-<sub>By Mike Baker, Kellen Browning and Nicholas Bogel-Burroughs</sub>
-<p>Firefighters who rushed to contain the Maui wildfire found that hydrants were running dry, forcing crews to embark instead on a perilous rescue mission.  <a href="https://nyti.ms/3KDuncM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>The ‘World’s Happiest Man’ Shares His Three Rules for Life</h3>
+<sub>By David Marchese</sub>
+<p>A searching, playful, provocative discussion with the Buddhist monk Matthieu Ricard.  <a href="https://nyti.ms/3KyI1xW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 13, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>U.S. Ambassador Meets With Evan Gershkovich, Detained WSJ Reporter, in Russia</h3>
+<sub>By Edward Wong</sub>
+<p>American officials have said that their Russian counterparts are blocking them from getting regular consular access to Mr. Gershkovich.  <a href="https://nyti.ms/3s7bAQF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 14, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Hunter Biden Says Prosecutors Reneged on Major Part of Plea Deal</h3>
-<sub>By Michael S. Schmidt, Glenn Thrush and Luke Broadwater</sub>
-<p>The move is the latest salvo in the back and forth between Mr. Biden and David C. Weiss, the federal prosecutor who was appointed special counsel last week.  <a href="https://nyti.ms/458J7IK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>For Ukraine, Many Antiwar Activists in the U.S. Make an Exception</h3>
+<sub>By Michael Crowley</sub>
+<p>Several reasons might explain the differing response, including the fact that no American troops have been committed to the fight.  <a href="https://nyti.ms/3KFR549"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -122,29 +130,17 @@ That&#39;s just some of what&#39;s been happening recently!</p>
 <p>Charles McGonigal had a family, a house in the suburbs and an influential job as a counterintelligence leader in New York. Federal prosecutors suggest it wasn’t enough for him.  <a href="https://nyti.ms/3QDu9WJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>The ‘World’s Happiest Man’ Shares His Three Rules for Life</h3>
-<sub>By David Marchese</sub>
-<p>A searching, playful, provocative discussion with the Buddhist monk Matthieu Ricard.  <a href="https://nyti.ms/3KyI1xW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 13, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Should Opioid Settlement Money Be Spent on Law Enforcement?</h3>
+<sub>By Jan Hoffman</sub>
+<p>As states and counties spend the first wave of  billions of dollars from the pharmaceutical industry, public health groups are challenging how some funds are being used.  <a href="https://nyti.ms/3s7B7cC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>The Dream Was Universal Access to Knowledge. The Result Was a Fiasco.</h3>
 <sub>By David Streitfeld</sub>
 <p>In the pandemic emergency, Brewster Kahle’s Internet Archive freely lent out digital scans of its library. Publishers sued. Owning a book means something different now.  <a href="https://nyti.ms/3qtIyu5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘We Are Not Human to Them’: Life for Convicts in Russia’s Army</h3>
-<sub>By Anatoly Kurmanaev and Ekaterina Bodyagina</sub>
-<p>In an account provided to The Times, a Russian soldier describes his commanders’ casual disregard for the lives of inmates like him, and how they are pressured to re-enlist.  <a href="https://nyti.ms/3OUS8Q0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>Why Are So Many of Trump’s Alleged Co-Conspirators Lawyers?</h3>
-<sub>By Deborah Pearlstein</sub>
-<p>Trump’s alleged co-conspirators are the product of a legal profession that has changed dramatically over the past 40 years.  <a href="https://nyti.ms/47uWYuA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
