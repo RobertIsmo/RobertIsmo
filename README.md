@@ -60,17 +60,37 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, August 14, Central Standard Time</p>
 <p>
-There are some tough times happening around the world right now. In the US, there has been a huge wildfire in Maui, Hawaii that has caused a collapse in the local water system and destroyed many homes. The cause of the fire is invasive plants that had spread on abandoned lands. The death toll is expected to increase and families of the missing are in a state of distress, as search and identification efforts move slowly. We&#39;re also seeing an acceleration in the shift away from fossil fuels towards renewables like wind and solar power, although there is significant resistance from environmentalists. 
-
-In Middle Eastern countries, societal norms and politics are changing - Kuwait recently banned the movie Barbie from being screened there, but it&#39;s been met with a positive reception in Saudi Arabia. Meanwhile, Iran is seeing an uptick in religious ritual protests against its government. 
-
-It can be difficult to watch all of these events unfold but focusing on local efforts that support those affected is important to remember.</p>
+I wanted to tell you some of the news stories I&#39;ve been reading lately. It looks like former President Trump and his allies have gone to great lengths in trying to reverse the result of the election in Georgia, and a grand jury may decide soon if he should be indicted for interfering. In the US, there are impediments to switching over to renewable energy sources, and a wildfire on Maui in Hawaii has caused major devastation—the water system collapsed, churches have lost their buildings, and families are still searching for missing relatives. Plus, there&#39;s an ongoing case involving an FBI spy hunter with some shady activities. Moving overseas, there was an interesting discussion with Buddhist monk Matthieu Ricard about his life rules, and some Middle Eastern countries have banned a movie called &#39;Barbie&#39;, but it&#39;s oddly becoming popular in Saudi Arabia.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Two Months in Georgia: How Trump Tried to Overturn the Vote</h3>
+<sub>By Danny Hakim and Richard Fausset</sub>
+<p>The Georgia case offers a vivid reminder of the extraordinary lengths Mr. Trump and his allies went to in the Southern state to reverse the election.  <a href="https://nyti.ms/3KDUhwR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>What We Know About the Trump Election Interference Case in Georgia</h3>
+<sub>By Richard Fausset and Danny Hakim</sub>
+<p>A grand jury could decide within days whether former President Trump should be indicted for interfering in the state’s 2020 presidential election.  <a href="https://nyti.ms/3YBbk8U"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>The Clean Energy Future Is Roiling Both Friends and Foes</h3>
+<sub>By Jim Tankersley, Brad Plumer, Ana Swanson, Ivan Penn, Leo Dominguez and Nadja Popovich</sub>
+<p>Resistance to wind and solar projects from environmentalists is among an array of impediments to widespread conversion to renewables.  <a href="https://nyti.ms/3DUF5b4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>As Inferno Grew, Lahaina’s Water System Collapsed</h3>
 <sub>By Mike Baker, Kellen Browning and Nicholas Bogel-Burroughs</sub>
 <p>Firefighters who rushed to contain the Maui wildfire found that hydrants were running dry, forcing crews to embark instead on a perilous rescue mission.  <a href="https://nyti.ms/3KDuncM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Its Building Destroyed, a Lahaina Church Finds Sanctuary in a Cafe</h3>
+<sub>By Mitch Smith</sub>
+<p>Members of Grace Baptist Church, many of them now homeless, gathered on Sunday and described daring escapes from the fire.  <a href="https://nyti.ms/3s8gqgH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>How Invasive Plants Caused the Maui Fires to Rage</h3>
@@ -84,52 +104,28 @@ It can be difficult to watch all of these events unfold but focusing on local ef
 <p>Nearly a week after the fires started, relatives are receiving little information as search and identification efforts move slowly.  <a href="https://nyti.ms/3shPB9y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What We Know About the Wildfires in Hawaii</h3>
-<sub>By Adeel Hassan</sub>
-<p>The wildfires on the island of Maui are the deadliest in the United States in more than a century, with the death toll likely to rise still further.  <a href="https://nyti.ms/3KzrwS9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>The Clean Energy Future Is Arriving Faster Than You Think</h3>
-<sub>By David Gelles, Brad Plumer, Jim Tankersley, Jack Ewing, Leo Dominguez and Nadja Popovich</sub>
-<p>The United States is pivoting away from fossil fuels and toward wind, solar and other renewable energy, even in areas dominated by the oil and gas industries.  <a href="https://nyti.ms/3QCYoNF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>The Clean Energy Future Is Roiling Both Friends and Foes</h3>
-<sub>By Jim Tankersley, Brad Plumer, Ana Swanson, Ivan Penn, Leo Dominguez and Nadja Popovich</sub>
-<p>Resistance to wind and solar projects from environmentalists is among an array of impediments to widespread conversion to renewables.  <a href="https://nyti.ms/3DUF5b4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Raid of Small Kansas Newspaper Raises Free Press Concerns</h3>
-<sub>By Steven Lee Myers and Benjamin Mullin</sub>
-<p>The search of Marion County Record’s office led to the seizure of computers, servers and cellphones of reporters and editors.  <a href="https://nyti.ms/448FWiU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 13, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Fast Living and Foreign Dealings: An F.B.I. Spy Hunter’s Rise and Fall</h3>
+<sub>By Michael Rothfeld, Adam Goldman and William K. Rashbaum</sub>
+<p>Charles McGonigal had a family, a house in the suburbs and an influential job as a counterintelligence leader in New York. Federal prosecutors suggest it wasn’t enough for him.  <a href="https://nyti.ms/3QDu9WJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Trump Benefits From an Indictment Effect</h3>
-<sub>By Jonathan Swan, Ruth Igielnik, Shane Goldmacher and Maggie Haberman</sub>
-<p>In polling, fund-raising and conservative media, the former president has turned criminal charges into political assets.  <a href="https://nyti.ms/3KFw7Ca"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Republicans Wanted a Special Counsel Investigation of Hunter Biden. Now Many Oppose It.</h3>
-<sub>By Luke Broadwater and Maggie Haberman</sub>
-<p>Although some G.O.P. lawmakers see the appointment of David C. Weiss as a vindication of their strategy, others criticize the now-scuttled plea deal he struck with Mr. Biden.  <a href="https://nyti.ms/47ueQph"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>U.S. Sunscreen Is Stuck in the ’90s. Is This a Job for Congress?</h3>
-<sub>By Sandra E. Garcia</sub>
-<p>For years, American consumers have had to look abroad if they want the latest in sunscreen innovations. Some, including Rep. Alexandria Ocasio-Cortez, think it’s time to revisit F.D.A. approval procedures.  <a href="https://nyti.ms/45pCBNv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
+<h3>Colleges Want to Know More About You and Your ‘Identity’</h3>
+<sub>By Anemona Hartocollis and Colbi Edmonds</sub>
+<p>With affirmative action banned, application essays ask about “life experience,” the one place in admissions where discussing race is still explicitly legal.  <a href="https://nyti.ms/3YF9xzC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Religious Ritual in Iran Becomes a New Form of Protest</h3>
-<sub>By Farnaz Fassihi and Arash Khamooshi</sub>
-<p>Ashura, which mourns the killing of the Prophet Muhammad’s grandson and celebrates Shiite identity, has long symbolized the fight against oppression. This year, its chants have been turned against the government.  <a href="https://nyti.ms/3KyI3WA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>‘We Are Not Human to Them’: Life for Convicts in Russia’s Army</h3>
+<sub>By Anatoly Kurmanaev and Ekaterina Bodyagina</sub>
+<p>In an account provided to The Times, a Russian soldier describes his commanders’ casual disregard for the lives of inmates like him, and how they are pressured to re-enlist.  <a href="https://nyti.ms/3OUS8Q0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>The ‘World’s Happiest Man’ Shares His Three Rules for Life</h3>
+<sub>By David Marchese</sub>
+<p>A searching, playful, provocative discussion with the Buddhist monk Matthieu Ricard.  <a href="https://nyti.ms/3KyI1xW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
