@@ -60,7 +60,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, August 14, Central Standard Time</p>
 <p>
-I wanted to tell you some of the news stories I&#39;ve been reading lately. It looks like former President Trump and his allies have gone to great lengths in trying to reverse the result of the election in Georgia, and a grand jury may decide soon if he should be indicted for interfering. In the US, there are impediments to switching over to renewable energy sources, and a wildfire on Maui in Hawaii has caused major devastation—the water system collapsed, churches have lost their buildings, and families are still searching for missing relatives. Plus, there&#39;s an ongoing case involving an FBI spy hunter with some shady activities. Moving overseas, there was an interesting discussion with Buddhist monk Matthieu Ricard about his life rules, and some Middle Eastern countries have banned a movie called &#39;Barbie&#39;, but it&#39;s oddly becoming popular in Saudi Arabia.</p>
+There are many different news stories going on around the world right now. In the US, former President Trump and his allies are facing an election interference case in Georgia. Firefighters in Maui are facing a grim rescue mission after the water system collapsed due to a wildfire. Meanwhile, colleges are requiring applicants to answer questions about their identity and life experience in order to increase diversity on campuses. 
+
+Internationally, there has been trouble for Russian convicts serving in Russia’s army, as well as a weakening of the ruble against the dollar. There&#39;s also an inspiring interview with a Buddhist monk who is said to be &quot;the world&#39;s happiest man.&quot; Lastly, travelers in Europe are finding themselves dealing with extreme, prolonged heat that has put a damper on sightseeing plans.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Two Months in Georgia: How Trump Tried to Overturn the Vote</h3>
@@ -71,7 +73,7 @@ I wanted to tell you some of the news stories I&#39;ve been reading lately. It l
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>What We Know About the Trump Election Interference Case in Georgia</h3>
 <sub>By Richard Fausset and Danny Hakim</sub>
-<p>A grand jury could decide within days whether former President Trump should be indicted for interfering in the state’s 2020 presidential election.  <a href="https://nyti.ms/3YBbk8U"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>A grand jury could decide within days whether former President Trump should be indicted for interfering in the state’s 2020 presidential election.  <a href="https://nyti.ms/45cmBif"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
@@ -87,21 +89,15 @@ I wanted to tell you some of the news stories I&#39;ve been reading lately. It l
 <sub><sub>Sunday, August 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Its Building Destroyed, a Lahaina Church Finds Sanctuary in a Cafe</h3>
-<sub>By Mitch Smith</sub>
-<p>Members of Grace Baptist Church, many of them now homeless, gathered on Sunday and described daring escapes from the fire.  <a href="https://nyti.ms/3s8gqgH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Invasive Plants Caused the Maui Fires to Rage</h3>
-<sub>By Simon Romero and Serge F. Kovaleski</sub>
-<p>A sweeping series of plantation closures in Hawaii allowed highly flammable nonnative grasses to spread on idled lands, providing the fuel for huge blazes.  <a href="https://nyti.ms/3OwmE1b"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Families of Hawaii’s Missing Endure Wrenching Wait for Answers</h3>
 <sub>By Mitch Smith and Kellen Browning</sub>
 <p>Nearly a week after the fires started, relatives are receiving little information as search and identification efforts move slowly.  <a href="https://nyti.ms/3shPB9y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Hunter Biden Says Prosecutors Reneged on Major Part of Plea Deal</h3>
+<sub>By Michael S. Schmidt</sub>
+<p>The move is the latest salvo in the back and forth between Mr. Biden and David C. Weiss, the federal prosecutor who was appointed special counsel last week.  <a href="https://nyti.ms/458J7IK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -122,17 +118,23 @@ I wanted to tell you some of the news stories I&#39;ve been reading lately. It l
 <p>In an account provided to The Times, a Russian soldier describes his commanders’ casual disregard for the lives of inmates like him, and how they are pressured to re-enlist.  <a href="https://nyti.ms/3OUS8Q0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 14, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russian Ruble Slides Past 100 to the Dollar, Lowest Since Just After War’s Start</h3>
+<sub>By Valeriya Safronova and Paul Sonne</sub>
+<p>The currency’s weakening, which took it past the symbolic level of a penny per ruble, will increase pressure on the nation’s financial authorities as fears of inflation grow.  <a href="https://nyti.ms/3qwfnGO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 14, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
 <h3>The ‘World’s Happiest Man’ Shares His Three Rules for Life</h3>
 <sub>By David Marchese</sub>
 <p>A searching, playful, provocative discussion with the Buddhist monk Matthieu Ricard.  <a href="https://nyti.ms/3KyI1xW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Banned in Kuwait, ‘Barbie’ Sparks Delight, and Anger, in Saudi Arabia</h3>
-<sub>By Vivian Nereim</sub>
-<p>Denounced in some Middle Eastern countries for undermining traditional gender norms, the hit movie is finding an audience in Saudi Arabia, illustrating the region’s shifting political landscape.  <a href="https://nyti.ms/47t7OBj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 13, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-travel-blue" alt="">
+<h3>Bring Fans and Skip the Sights: Vacationing in Scorching Hot Europe</h3>
+<sub>By Ceylan Yeginsu</sub>
+<p>Travelers are flocking to Europe this summer, but the excessive and prolonged heat is putting a crimp in their plans. Here’s what some are doing.  <a href="https://nyti.ms/3YBbkWs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
