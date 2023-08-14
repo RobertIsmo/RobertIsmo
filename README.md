@@ -60,11 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, August 13, Central Standard Time</p>
 <p>
-Right now, the US is going through a lot. In Hawaii there are large fires that were caused by invasive plants taking over abandoned lands. People who lived in Maui had their water system collapse and many feel like they’re not getting enough support from the government. Meanwhile, other US states are starting to slowly move towards renewable energy and combatting climate change. However, this shift is causing some tension among groups both for and against it. 
-
-Additionally, there has been a raid on a small Kansas newspaper that has raised alarms for press freedom in the US. It&#39;s related to the legal proceedings surrounding former president Donald Trump and a investigation of Hunter Biden. On top of this, Texas is rapidly losing Medicaid coverage after the end of a pandemic-era policy. 
-
-Finally, in Iran protestors have been using religious rituals such as Ashura to challenge oppression and make their voices heard.</p>
+There are a lot of issues affecting people all over the world right now. In the U.S., there were devastating wildfires in Maui that destroyed Lahaina and killed many people, which was due to an influx of invasive plants on land that was previously kept clear for plantation purposes. On top of this, the search of a small newspaper office by federal authorities has been raising concerns about press freedom. Meanwhile, support for green energy is on the rise and Trump is benefiting from criminal charges being brought against Hunter Biden. In Iran, people are protesting government policies in a religious form by chanting Ashura during annual rituals. Lastly, since pandemic-era Medicaid coverage guarantees have ended in Texas, more than half a million people have been removed from the program - more than any other state.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>As Inferno Grew, Lahaina’s Water System Collapsed</h3>
