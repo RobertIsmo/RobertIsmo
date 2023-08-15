@@ -60,15 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, August 14, Central Standard Time</p>
 <p>
-It looks like there is a lot happening in the United States and around the world. In the US, former President Trump tried to overturn the vote in Georgia and was taken to court in New York by his lawyers. Also, in Montana, a judge ruled that young people have a constitutional right to a healthful environment and regulators must be allowed to consider climate impact. 
+There is a lot happening around the world right now. In the US, there have been attempts to overturn the vote in Georgia and prosecutors are objecting to a proposal to discuss evidence at Mar-a-Lago. Meanwhile, a judge recently ruled in favor of Montana youths in a landmark climate case and many people lost their homes in a fire near Lahaina, Hawaii. 
 
-That brings us to climate change; we&#39;re seeing resistance to wind and solar projects from environmentalists alongside an effort to build more renewable sources of energy.
+Internationally, Russia has been firing warning shots and boarding a freighter in the Black Sea as tensions rise. Closer to home, American officials are trying to facilitate access and consular duties for an American journalist being detained by Russia.
 
-Meanwhile, in New Hampshire a Trump stronghold is rethinking their loyalty because of fears he won&#39;t prevail in the general election. In Hawaii, a church had its building destroyed and needed to find sanctuary elsewhere. 
-
-We&#39;re also seeing international stories such as a US Ambassador meeting with a detained Wall Street Journal reporter in Russia, antiwar activists for Ukraine making an exception despite no committment of American troops, and a story of a FBI spy hunter&#39;s rise and fall due to his fast living and foreign dealings. 
-
-There are also discussions about how opioid settlement money should be spent, with public health groups challenging the use of funds for law enforcement instead of treatment. And finally, publishers have sued an internet archive library after it provided digital scans during the pandemic emergency - a reminder that possession of knowledge now may mean something different entirely.</p>
+In other news, Japan&#39;s economy is booming after the pandemic and we&#39;re starting to see some warm weather finally in the Northwest after a long cold winter. On top of all that, Charles McGonigal is being investigated by federal prosecutors after his career as an FBI Spy Hunter unraveled after reports of foreign dealings.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Two Months in Georgia: How Trump Tried to Overturn the Vote</h3>
@@ -76,29 +72,17 @@ There are also discussions about how opioid settlement money should be spent, wi
 <p>The Georgia case offers a vivid reminder of the extraordinary lengths Mr. Trump and his allies went to in the Southern state to reverse the election.  <a href="https://nyti.ms/3KDUhwR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Trump Case Judge in New York Declines to Step Aside</h3>
-<sub>By Jonah E. Bromwich</sub>
-<p>The former president’s lawyers argued that Justice Juan M. Merchan had a conflict of interest. In a terse decision, the judge rejected their arguments.  <a href="https://nyti.ms/45oFePK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Prosecutors Object to Trump’s Proposal to Discuss Evidence at Mar-a-Lago</h3>
+<sub>By Alan Feuer</sub>
+<p>The arguments in the classified documents case stem from the government’s attempts to put a protective order in place governing the handling of a trove of discovery materials.  <a href="https://nyti.ms/3QHIbXt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Trump Stronghold, Unbothered by Indictments, Worries About Winning</h3>
-<sub>By Jenna Russell</sub>
-<p>Republicans in Alton, N.H., still love the former president. But some are rethinking their loyalty, fearing Mr. Trump might not prevail in the general election.  <a href="https://nyti.ms/3DWaVnW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Judge Rules in Favor of Montana Youths in a Landmark Climate Case</h3>
+<sub>By David Gelles and Mike Baker</sub>
+<p>The court found that young people have a constitutional right to a healthful environment and that the state must consider potential climate damage when approving projects.  <a href="https://nyti.ms/447a0eT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Judge Rules in Favor of Montana Youths in Landmark Climate Case</h3>
-<sub>By Mike Baker</sub>
-<p>The court found that young people have a constitutional right to a healthful environment and that regulators must be allowed to consider climate impact.  <a href="https://nyti.ms/447a0eT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>The Clean Energy Future Is Roiling Both Friends and Foes</h3>
-<sub>By Jim Tankersley, Brad Plumer, Ana Swanson, Ivan Penn, Leo Dominguez and Nadja Popovich</sub>
-<p>Resistance to wind and solar projects from environmentalists is among an array of impediments to widespread conversion to renewables.  <a href="https://nyti.ms/3DUF5b4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Its Building Destroyed, a Lahaina Church Finds Sanctuary in a Cafe</h3>
@@ -106,11 +90,17 @@ There are also discussions about how opioid settlement money should be spent, wi
 <p>Members of Grace Baptist Church, many of them now homeless, gathered on Sunday and described daring escapes from the fire.  <a href="https://nyti.ms/3s8gqgH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>The ‘World’s Happiest Man’ Shares His Three Rules for Life</h3>
-<sub>By David Marchese</sub>
-<p>A searching, playful, provocative discussion with the Buddhist monk Matthieu Ricard.  <a href="https://nyti.ms/3KyI1xW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 13, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>‘Blind Side’ Player Says He Was Conned With Adoption Promise</h3>
+<sub>By Santul Nerkar</sub>
+<p>Michael Oher, whose life was depicted in the 2009 film, says in a lawsuit that he was never fully adopted by the family that took him in and was swindled into signing away his decision-making powers at 18.  <a href="https://nyti.ms/3YxZKLE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Black Sea Clashes Grow as Russia Fires Warning Shots and Boards a Freighter</h3>
+<sub>By Matthew Mpoke Bigg, Jenny Gross and Christiaan Triebert</sub>
+<p>Russia’s military made good on its threats to enforce its blockade of Ukraine, adding to the tensions in an increasingly active theater of war.  <a href="https://nyti.ms/3qsBcXR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>U.S. Ambassador Meets With Evan Gershkovich, Detained WSJ Reporter, in Russia</h3>
@@ -119,9 +109,15 @@ There are also discussions about how opioid settlement money should be spent, wi
 <sub><sub>Monday, August 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>For Ukraine, Many Antiwar Activists in the U.S. Make an Exception</h3>
-<sub>By Michael Crowley</sub>
-<p>Several reasons might explain the differing response, including the fact that no American troops have been committed to the fight.  <a href="https://nyti.ms/3KFR549"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>The Biden-Trump Rematch That Nobody Wants</h3>
+<sub>By Lisa Lerer and Reid J. Epstein</sub>
+<p>Voters say they are wary of a replay of 2020 in 2024, and while they largely will fall in line at the end, they would prefer other options.  <a href="https://nyti.ms/4488FVd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Roaring Back From Pandemic, Japan’s Economy Grows by 6 Percent</h3>
+<sub>By Ben Dooley</sub>
+<p>The rapid expansion came as exports have risen and tourists have flooded the country.  <a href="https://nyti.ms/458uIMO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -130,17 +126,17 @@ There are also discussions about how opioid settlement money should be spent, wi
 <p>Charles McGonigal had a family, a house in the suburbs and an influential job as a counterintelligence leader in New York. Federal prosecutors suggest it wasn’t enough for him.  <a href="https://nyti.ms/3QDu9WJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Should Opioid Settlement Money Be Spent on Law Enforcement?</h3>
-<sub>By Jan Hoffman</sub>
-<p>As states and counties spend the first wave of  billions of dollars from the pharmaceutical industry, public health groups are challenging how some funds are being used.  <a href="https://nyti.ms/3s7B7cC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Late-Season Heat Wave Hits the Northwest</h3>
+<sub>By Judson Jones</sub>
+<p>Portions of the Northwest will bake in extremely high temperatures while the South will finally get a break, for a day or two, from dangerous heat.  <a href="https://nyti.ms/47wotnp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Dream Was Universal Access to Knowledge. The Result Was a Fiasco.</h3>
-<sub>By David Streitfeld</sub>
-<p>In the pandemic emergency, Brewster Kahle’s Internet Archive freely lent out digital scans of its library. Publishers sued. Owning a book means something different now.  <a href="https://nyti.ms/3qtIyu5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 13, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Track Wildfires in the West</h3>
+<sub>By Matthew Bloch, Josh Williams, Rumsey Taylor, Tim Wallace, John-Michael Murphy and Tiff Fehr</sub>
+<p>See the latest wildfires as they burn near homes and landmarks in California, Oregon and other nearby states.  <a href="https://nyti.ms/3T83wIh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
