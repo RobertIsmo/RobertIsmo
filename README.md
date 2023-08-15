@@ -58,18 +58,22 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Monday, August 14, Central Standard Time</p>
+<p>It is Tuesday, August 15, Central Standard Time</p>
 <p>
-I wanted to catch you up on the news from around the world. In a landmark case, a judge ruled in favor of Montana youths in a climate case, finding that they have a constitutional right to a clean and healthful environment. Also in the US, there has been scrutiny over Hawaiian Electric&#39;s failure to shut off power right before high winds sparked a deadly wildfire on Maui. 
-
-Meanwhile, in Europe, Russia is enforcing a blockade of Ukraine with warning shots and boarding a freight vessel in the Black Sea. On top of that, US Ambassador just met with Evan Gershkovich - a reporter for the Wall Street Journal who had been detained in Russia without consular access.
-
-Stateside, many are worried about a Biden-Trump rematch in 2024. Fortunately, Japan saw its economy grow six percent coming out of pandemic as exports rose and tourists flooded the country. Closer to home, FBI spy hunter Charles McGonigal is now facing federal scrutiny alongside a fast-yet-suspect lifestyle and foreign dealings. 
-
-As for the weather, we&#39;re entering into an extreme heat wave here in the Northwest while the South gets some much needed relief from the heat. Lastly, Brewster Kahle&#39;s Internet Archive faced legal action after lending out digital scans from its library during the pandemic emergency. 
-
-Hope all is well with you - take care!</p>
+There is a mental health crisis among Ukrainian soldiers due to the conflict in eastern Ukraine, and medical professionals are working hard to find ways to help. In Montana, a judge has ruled that young people have the right to a healthy environment. In Hawaii, experts are looking into what started the Maui wildfire as victims blame the government. The NFL player made famous by The Blind Side has been tricked out of his adoption paperwork. In terms of politics, people are not keen on a Biden-Trump rematch in 2024 - they&#39;d prefer other candidates. Japan&#39;s economy is bouncing back rapidly due to exports and tourism, but there is a decline in domestic consumption. China has stopped publishing data about youth unemployment, which is at an alarming rate. An FBI agent with a counterintelligence job in NY had questionable dealings with foreign countries. We&#39;re also experiencing an extreme heat wave across the northwest while the south gets temporary relief from the heat. Finally, economists have been criticised for not anticipating disinflation despite having models for it.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The Hidden Trauma of Ukraine’s Soldiers</h3>
+<sub>By Nicole Tung</sub>
+<p>Facing a growing mental health crisis among soldiers, Ukraine’s therapists and doctors use a variety of treatments, but the need far outstrips the available care.  <a href="https://nyti.ms/44bii5F"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukraine’s Unseen Army: The Mechanics Who Keep the Tanks Rolling</h3>
+<sub>By Oleksandr Chubko and Carlotta Gall</sub>
+<p>Behind the thousands of troops fighting the counteroffensive are engineers and technicians who perform an essential, and often dangerous, job.  <a href="https://nyti.ms/47uDy9f"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 14, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Judge Rules in Favor of Montana Youths in a Landmark Climate Case</h3>
 <sub>By David Gelles and Mike Baker</sub>
@@ -77,7 +81,7 @@ Hope all is well with you - take care!</p>
 <sub><sub>Monday, August 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Hawaiian Electric Draws Scrutiny in Search for What Sparked Deadly Wildfire</h3>
+<h3>Experts Scrutinize Hawaiian Electric as They Search for the Maui Wildfire Cause</h3>
 <sub>By Peter Eavis, Ivan Penn and Thomas Fuller</sub>
 <p>The main utility serving Hawaii did not pre-emptively shut off power before high winds reached Maui, and power lines fell in the windstorm.  <a href="https://nyti.ms/3QCe3wE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 14, Central Standard Time</sub></sub>
@@ -94,18 +98,6 @@ Hope all is well with you - take care!</p>
 <p>Michael Oher, whose life was depicted in the 2009 film, says in a lawsuit that he was never fully adopted by the family that took him in and was swindled into signing away his decision-making powers at 18.  <a href="https://nyti.ms/3YxZKLE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Black Sea Clashes Grow as Russia Fires Warning Shots and Boards a Freighter</h3>
-<sub>By Matthew Mpoke Bigg, Jenny Gross and Christiaan Triebert</sub>
-<p>Russia’s military made good on its threats to enforce its blockade of Ukraine, adding to the tensions in an increasingly active theater of war.  <a href="https://nyti.ms/3qsBcXR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>U.S. Ambassador Meets With Evan Gershkovich, Detained WSJ Reporter, in Russia</h3>
-<sub>By Edward Wong</sub>
-<p>American officials have said that their Russian counterparts are blocking them from getting regular consular access to Mr. Gershkovich.  <a href="https://nyti.ms/3s7bAQF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 14, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The Biden-Trump Rematch That Nobody Wants</h3>
 <sub>By Lisa Lerer and Reid J. Epstein</sub>
@@ -116,6 +108,12 @@ Hope all is well with you - take care!</p>
 <h3>Roaring Back From Pandemic, Japan’s Economy Grows by 6 Percent</h3>
 <sub>By Ben Dooley</sub>
 <p>The rapid expansion came as exports have risen and tourists have flooded the country. But a drop in domestic consumption worried economists.  <a href="https://nyti.ms/458uIMO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>China Suspends Report on Youth Unemployment, Which Was at a Record High</h3>
+<sub>By Claire Fu</sub>
+<p>The Chinese government said it would no longer release monthly data about unemployment in young people, which had risen each month this year and reached 21.3 percent.  <a href="https://nyti.ms/3OUXR8p"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -129,12 +127,6 @@ Hope all is well with you - take care!</p>
 <sub>By Judson Jones</sub>
 <p>Portions of the Northwest will bake in extremely high temperatures while the South will finally get a break, for a day or two, from dangerous heat.  <a href="https://nyti.ms/47wotnp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Dream Was Universal Access to Knowledge. The Result Was a Fiasco.</h3>
-<sub>By David Streitfeld</sub>
-<p>In the pandemic emergency, Brewster Kahle’s Internet Archive freely lent out digital scans of its library. Publishers sued. Owning a book means something different now.  <a href="https://nyti.ms/3qtIyu5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-opinion-blue" alt="">
 <h3>How (Many) Economists Missed the Big Disinflation</h3>
