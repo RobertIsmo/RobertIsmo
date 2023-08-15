@@ -60,12 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, August 15, Central Standard Time</p>
 <p>
-There is a mental health crisis among Ukrainian soldiers due to the conflict in eastern Ukraine, and medical professionals are working hard to find ways to help. In Montana, a judge has ruled that young people have the right to a healthy environment. In Hawaii, experts are looking into what started the Maui wildfire as victims blame the government. The NFL player made famous by The Blind Side has been tricked out of his adoption paperwork. In terms of politics, people are not keen on a Biden-Trump rematch in 2024 - they&#39;d prefer other candidates. Japan&#39;s economy is bouncing back rapidly due to exports and tourism, but there is a decline in domestic consumption. China has stopped publishing data about youth unemployment, which is at an alarming rate. An FBI agent with a counterintelligence job in NY had questionable dealings with foreign countries. We&#39;re also experiencing an extreme heat wave across the northwest while the south gets temporary relief from the heat. Finally, economists have been criticised for not anticipating disinflation despite having models for it.</p>
+There is a lot of important news happening in the world currently. In Ukraine, there is a hidden trauma among the soldiers fighting in the counteroffensive and their need for mental health care far outstrips availability of therapies and treatments. Meanwhile, in Hawaii, experts are searching for the cause behind the Maui wildfire and questioning whether Hawaiian Electric pre-emptively shut off power before high winds reached Maui. In Brazil, Xuxa, once its biggest TV star, has been sparking conversations about idealogy after being a thin, blond, white woman idol to a diverse country. Additionally, a landmark climate case ruled in favor of Montana youths who claimed they have a constitutional right to healthful environment. On the sports side, Michael Oher filed a lawsuit claiming he was never fully adopted by the family that took him in and was conned into signing away his decision-making powers at 18. Meanwhile, soccer has been providing hope to Indigenous people living miles away from Women’s World Cup stadiums. Lastly, Japan&#39;s economy is roaring back from pandemic with 6 percent growth in exports and tourist influx but worriedly sees a decrease in domestic consumption. China has also suspended the report on youth unemployment due to it reaching an all-time high of 21.3 percent this year.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>The Hidden Trauma of Ukraine’s Soldiers</h3>
 <sub>By Nicole Tung</sub>
-<p>Facing a growing mental health crisis among soldiers, Ukraine’s therapists and doctors use a variety of treatments, but the need far outstrips the available care.  <a href="https://nyti.ms/44bii5F"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Facing a growing mental health crisis among soldiers, Ukraine’s therapists and doctors use a variety of treatments, but the need far outstrips the available care.  <a href="https://nyti.ms/45uzBQe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -75,27 +75,45 @@ There is a mental health crisis among Ukrainian soldiers due to the conflict in 
 <sub><sub>Monday, August 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Judge Rules in Favor of Montana Youths in a Landmark Climate Case</h3>
-<sub>By David Gelles and Mike Baker</sub>
-<p>The court found that young people have a constitutional right to a healthful environment and that the state must consider potential climate damage when approving projects.  <a href="https://nyti.ms/447a0eT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Experts Scrutinize Hawaiian Electric as They Search for the Maui Wildfire Cause</h3>
 <sub>By Peter Eavis, Ivan Penn and Thomas Fuller</sub>
 <p>The main utility serving Hawaii did not pre-emptively shut off power before high winds reached Maui, and power lines fell in the windstorm.  <a href="https://nyti.ms/3QCe3wE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 14, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>She Was Brazil’s Barbie. Now She’s Saying Sorry.</h3>
+<sub>By Ana Ionova</sub>
+<p>Xuxa was once Brazil’s biggest TV star. Now many are wondering whether a thin, blond, white woman was the right idol for such a diverse country.  <a href="https://nyti.ms/3QB7IBx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Xuxa era a Barbie do Brasil. Será que foi um erro?</h3>
+<sub>By Ana Ionova</sub>
+<p>A apresentadora já foi a maior estrela da TV brasileira. Agora, muitos se perguntam se uma mulher branca, magra e loira era a ídola certa para um país com tanta diversidade.  <a href="https://nyti.ms/3qEnvF4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 14, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>FEMA Outlines Maui Wildfire Support as Victims Critique Government Response</h3>
-<sub>By Eileen Sullivan</sub>
-<p>FEMA is typically the first agency to face scrutiny after disasters. But while the federal agency plays a critical role in disaster response, it is not meant to be the first on the scene.  <a href="https://nyti.ms/3ODmKnV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Judge Rules in Favor of Montana Youths in a Landmark Climate Case</h3>
+<sub>By David Gelles and Mike Baker</sub>
+<p>The court found that young people have a constitutional right to a healthful environment and that the state must consider potential climate damage when approving projects.  <a href="https://nyti.ms/447a0eT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>‘Blind Side’ Player Says He Was Conned With Adoption Promise</h3>
 <sub>By Santul Nerkar</sub>
 <p>Michael Oher, whose life was depicted in the 2009 film, says in a lawsuit that he was never fully adopted by the family that took him in and was swindled into signing away his decision-making powers at 18.  <a href="https://nyti.ms/3YxZKLE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>A World Away From the World Cup, Soccer With a Different Goal</h3>
+<sub>By Jenny Vrentas and Isabella Moore</sub>
+<p>In dusty Australian towns a thousand miles from the nearest Women’s World Cup stadium, Indigenous leaders hope the sport can offer hope, and opportunity.  <a href="https://nyti.ms/47qxWgh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>For Sweden, the Right Way to Play Is the One That Wins</h3>
+<sub>By Rory Smith</sub>
+<p>The World Cup semifinal between Spain and Sweden will be a battle of styles, of passing versus pragmatism. Opponents discount the latter at their peril.  <a href="https://nyti.ms/3s79m3H"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -114,24 +132,6 @@ There is a mental health crisis among Ukrainian soldiers due to the conflict in 
 <h3>China Suspends Report on Youth Unemployment, Which Was at a Record High</h3>
 <sub>By Claire Fu</sub>
 <p>The Chinese government said it would no longer release monthly data about unemployment in young people, which had risen each month this year and reached 21.3 percent.  <a href="https://nyti.ms/3OUXR8p"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Fast Living and Foreign Dealings: An F.B.I. Spy Hunter’s Rise and Fall</h3>
-<sub>By Michael Rothfeld, Adam Goldman and William K. Rashbaum</sub>
-<p>Charles McGonigal had a family, a house in the suburbs and an influential job as a counterintelligence leader in New York. Federal prosecutors suggest it wasn’t enough for him.  <a href="https://nyti.ms/3QDu9WJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Late-Season Heat Wave Hits the Northwest</h3>
-<sub>By Judson Jones</sub>
-<p>Portions of the Northwest will bake in extremely high temperatures while the South will finally get a break, for a day or two, from dangerous heat.  <a href="https://nyti.ms/47wotnp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>How (Many) Economists Missed the Big Disinflation</h3>
-<sub>By Paul Krugman</sub>
-<p>The fault lay not in the models, but in themselves.  <a href="https://nyti.ms/3YDe5Xg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
