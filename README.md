@@ -60,12 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, August 15, Central Standard Time</p>
 <p>
-There are a lot of troubling stories going on in the world right now. In Hawaii, a historic coastal town was devastated by a wildfire, which was possibly caused by the failure of their main utility to preemptively shutoff power. In Ukraine, there&#39;s a growing mental health crisis among soldiers, and their therapists and doctors are struggling to provide enough care for everyone affected. Meanwhile, Brazil is reevaluating their idolization of &quot;Brazil&#39;s Barbie&quot; following critiques that the thin, white woman isn&#39;t representative of the country&#39;s diversity. 
-
-China is having some economic struggles too. This includes dealing with the financial crisis of one of their biggest real estate developers as well as withholding youth unemployment statistics to try and play down negative trends as their growth stalls. 
-
-Closer to home in the U.S., families of 17 sailors killed in the bombing of the U.S.S Cole are waiting for justice, still attending pretrial hearings at Guantánamo Bay since 2011. And finally, a newspaper site in Wisconsin is threatened with being put out-of-business for their reporting about a businessman who uttered an anti-gay slur. A similar situation developed at The Marion County Record after police conducted an unexpected raid on the premises. Thankfully First Amendment advocates are condemning both situations and standing up for free speech rights.</p>
+It&#39;s been a busy news week. In the US, former president Donald Trump is facing various criminal charges and experts are looking into a wildfire in Hawaii that was caused by downed powerlines. In the UK, authorities arrested 5 suspected spies with a reported link to Russia. Meanwhile, a former FBI spy-hunter pleaded guilty to aiding a Russian oligarch, and in Philadelphia, many young men sentenced to life in prison as boys are being resentenced thanks to an effort from the city. On TikTok, there&#39;s a whole team of movie reviewers that are earning millions of dollars for their work and getting recognition for redefining the movie review format. In China, a financial crisis involving the country&#39;s biggest real estate developer is threatening the economy, and Beijing has stopped releasing unemployment data related to youth, raising global concerns. Finally, in Brazil, the country&#39;s biggest TV star is apologizing after years of being idolized because she&#39;s a thin, blond, white woman instead of being more diverse.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Comparing the Four Criminal Cases Against Donald Trump</h3>
+<sub>By Charlie Savage</sub>
+<p>An assessment of the four indictments against the former president, including notable features, strengths and weaknesses.  <a href="https://nyti.ms/3OZl9dz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 15, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>How Fire Turned Lahaina Into a Death Trap</h3>
 <sub>By Nicholas Bogel-Burroughs, Serge F. Kovaleski, Shawn Hubler and Riley Mellen</sub>
@@ -79,22 +81,34 @@ Closer to home in the U.S., families of 17 sailors killed in the bombing of the 
 <sub><sub>Monday, August 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Hidden Trauma of Ukraine’s Soldiers</h3>
-<sub>By Nicole Tung</sub>
-<p>Facing a growing mental health crisis among soldiers, Ukraine’s therapists and doctors use a variety of treatments, but the need far outstrips the available care.  <a href="https://nyti.ms/45uzBQe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 14, Central Standard Time</sub></sub>
+<h3>U.K. Reveals 5 Espionage Arrests After BBC Reports Russia Link</h3>
+<sub>By Isabella Kwai</sub>
+<p>Britain’s counterterrorism unit arrested the five on suspicion of spying on British intelligence, the authorities said following a BBC report that three of the same people had been accused of spying for Russia.  <a href="https://nyti.ms/3OXFv6X"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine’s Unseen Army: The Mechanics Who Keep the Tanks Rolling</h3>
-<sub>By Oleksandr Chubko and Carlotta Gall</sub>
-<p>Behind the thousands of troops fighting the counteroffensive are engineers and technicians who perform an essential, and often dangerous, job.  <a href="https://nyti.ms/47uDy9f"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 14, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Former F.B.I. Spy Hunter Pleads Guilty to Aiding Russian Oligarch</h3>
+<sub>By Michael Rothfeld</sub>
+<p>Charles McGonigal, once the bureau’s chief of counterintelligence in New York, still faces separate federal charges out of Washington.  <a href="https://nyti.ms/3YAxCHz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>She Was Brazil’s Barbie. Now She’s Saying Sorry.</h3>
-<sub>By Ana Ionova</sub>
-<p>Xuxa was once Brazil’s biggest TV star. Now many are wondering whether a thin, blond, white woman was the right idol for such a diverse country.  <a href="https://nyti.ms/3QB7IBx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 14, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-headway-blue" alt="">
+<h3>Sentenced to Life as Boys, They Made Their Case for Release</h3>
+<sub>By Issie Lapowsky and Abdul Kircher</sub>
+<p>At age 17, Donnell Drinks was one of many young men in Philadelphia who went to prison for life without parole. Today, the city has resentenced more of those prisoners than any other jurisdiction.  <a href="https://nyti.ms/44fnrJD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>They Review Movies on TikTok, but Don’t Call Them Critics</h3>
+<sub>By Reggie Ugwu</sub>
+<p>On MovieTok, reviewers can reach an audience of millions and earn tens of thousands of dollars per post. “Critics,” they say, are old news.  <a href="https://nyti.ms/45aBzoS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>8 TikTokers Redefining the Movie Review</h3>
+<sub>By Reggie Ugwu</sub>
+<p>The personalities of MovieTok are not critics in the traditional sense. But their upbeat videos earn them the devotion of movie lovers.  <a href="https://nyti.ms/3KFcj1U"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Why This Company’s Financial Crisis Threatens China’s Economy</h3>
@@ -109,33 +123,15 @@ Closer to home in the U.S., families of 17 sailors killed in the bombing of the 
 <sub><sub>Tuesday, August 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Long, Lonely Wait for Justice for 17 Fallen U.S. Sailors</h3>
-<sub>By Carol Rosenberg</sub>
-<p>Families of the sailors who were killed in the bombing of the U.S.S. Cole and survivors having been making the trek to the war court at Guantánamo Bay for pretrial hearings since 2011.  <a href="https://nyti.ms/446iqTL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Hunter Biden’s Lawyer Steps Down From Case</h3>
+<sub>By Michael S. Schmidt and Glenn Thrush</sub>
+<p>The decision by the lawyer, Christopher J. Clark, is the latest development in the long-running negotiation between the Justice Department and Hunter Biden.  <a href="https://nyti.ms/45v1Uhs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Spain Gets Last Word, and Reaches First World Cup Final</h3>
-<sub>By Rory Smith</sub>
-<p>A late swing of goals and emotions ended with a dramatic winner by Olga Carmona, and Spain one win from its first world championship.  <a href="https://nyti.ms/3YPTzCV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>A World Away From the World Cup, Soccer With a Different Goal</h3>
-<sub>By Jenny Vrentas and Isabella Moore</sub>
-<p>In dusty Australian towns a thousand miles from the nearest Women’s World Cup stadium, Indigenous leaders hope the sport can offer hope, and opportunity.  <a href="https://nyti.ms/47qxWgh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Report on Anti-Gay Slur Could Put Local News Site Out of Business</h3>
-<sub>By Jeremy W. Peters</sub>
-<p>When a north-central Wisconsin news site reported that a businessman had uttered a homophobic slur, he sued, claiming defamation. The legal bills are piling up.  <a href="https://nyti.ms/3OCp6mN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Kansas Paper Warns Police Not to Review Information on Seized Devices</h3>
-<sub>By Katie Robertson</sub>
-<p>Newspaper raids are rare in the United States, and the one that happened at The Marion County Record last week has drawn condemnation from First Amendment advocates.  <a href="https://nyti.ms/443GBSQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>She Was Brazil’s Barbie. Now She’s Saying Sorry.</h3>
+<sub>By Ana Ionova</sub>
+<p>Xuxa was once Brazil’s biggest TV star. Now many are wondering whether a thin, blond, white woman was the right idol for such a diverse country.  <a href="https://nyti.ms/3QB7IBx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
