@@ -60,8 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, August 15, Central Standard Time</p>
 <p>
-There is a lot of important news happening in the world currently. In Ukraine, there is a hidden trauma among the soldiers fighting in the counteroffensive and their need for mental health care far outstrips availability of therapies and treatments. Meanwhile, in Hawaii, experts are searching for the cause behind the Maui wildfire and questioning whether Hawaiian Electric pre-emptively shut off power before high winds reached Maui. In Brazil, Xuxa, once its biggest TV star, has been sparking conversations about idealogy after being a thin, blond, white woman idol to a diverse country. Additionally, a landmark climate case ruled in favor of Montana youths who claimed they have a constitutional right to healthful environment. On the sports side, Michael Oher filed a lawsuit claiming he was never fully adopted by the family that took him in and was conned into signing away his decision-making powers at 18. Meanwhile, soccer has been providing hope to Indigenous people living miles away from Women’s World Cup stadiums. Lastly, Japan&#39;s economy is roaring back from pandemic with 6 percent growth in exports and tourist influx but worriedly sees a decrease in domestic consumption. China has also suspended the report on youth unemployment due to it reaching an all-time high of 21.3 percent this year.</p>
+There&#39;s a lot going on around the world right now! In Hawaii, a historic town was destroyed as high winds caused a wildfire to overrun the area. Meanwhile, in Ukraine soldiers are struggling with mental health issues due to their experiences in the counteroffensive. But it&#39;s not all bad news: Japan is recovering slowly from the pandemic and China recently suspended its report on youth unemployment, which had been at record highs earlier this year. On the sports side, Michael Oher, who was featured in the movie &quot;The Blind Side,&quot; says he was conned into signing away his decision-making powers when he was 18. And finally, renewable energy is becoming more common in both areas that support oil and gas and those that seek to move away from them, as people recognize that addressing global warming is essential for our future.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How Fire Turned Lahaina Into a Death Trap</h3>
+<sub>By Nicholas Bogel-Burroughs, Serge F. Kovaleski, Shawn Hubler and Riley Mellen</sub>
+<p>When a historic coastal town in Hawaii was overrun by fire, many residents fled for their lives — but there was nowhere to go.  <a href="https://nyti.ms/44fvoyt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Experts Scrutinize Hawaiian Electric as They Search for the Maui Wildfire Cause</h3>
+<sub>By Peter Eavis, Ivan Penn and Thomas Fuller</sub>
+<p>The main utility serving Hawaii did not pre-emptively shut off power before high winds reached Maui, and power lines fell in the windstorm.  <a href="https://nyti.ms/3QCe3wE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 14, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>The Hidden Trauma of Ukraine’s Soldiers</h3>
 <sub>By Nicole Tung</sub>
@@ -74,56 +86,32 @@ There is a lot of important news happening in the world currently. In Ukraine, t
 <p>Behind the thousands of troops fighting the counteroffensive are engineers and technicians who perform an essential, and often dangerous, job.  <a href="https://nyti.ms/47uDy9f"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Experts Scrutinize Hawaiian Electric as They Search for the Maui Wildfire Cause</h3>
-<sub>By Peter Eavis, Ivan Penn and Thomas Fuller</sub>
-<p>The main utility serving Hawaii did not pre-emptively shut off power before high winds reached Maui, and power lines fell in the windstorm.  <a href="https://nyti.ms/3QCe3wE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 14, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>She Was Brazil’s Barbie. Now She’s Saying Sorry.</h3>
 <sub>By Ana Ionova</sub>
 <p>Xuxa was once Brazil’s biggest TV star. Now many are wondering whether a thin, blond, white woman was the right idol for such a diverse country.  <a href="https://nyti.ms/3QB7IBx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Xuxa era a Barbie do Brasil. Será que foi um erro?</h3>
-<sub>By Ana Ionova</sub>
-<p>A apresentadora já foi a maior estrela da TV brasileira. Agora, muitos se perguntam se uma mulher branca, magra e loira era a ídola certa para um país com tanta diversidade.  <a href="https://nyti.ms/3qEnvF4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 14, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>The Clean Energy Future Is a Battle for Hearts and Minds</h3>
+<sub>By Jack Ewing, Clifford Krauss, Lisa Friedman, Leo Dominguez and Nadja Popovich</sub>
+<p>A broad, and sometimes quixotic, retail effort to win the fight against global warming is playing out one person at a time, with nary a mention of climate change.  <a href="https://nyti.ms/3DSjlMT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Judge Rules in Favor of Montana Youths in a Landmark Climate Case</h3>
-<sub>By David Gelles and Mike Baker</sub>
-<p>The court found that young people have a constitutional right to a healthful environment and that the state must consider potential climate damage when approving projects.  <a href="https://nyti.ms/447a0eT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 14, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>The Clean Energy Future Is Arriving Faster Than You Think</h3>
+<sub>By David Gelles, Brad Plumer, Jim Tankersley, Jack Ewing, Leo Dominguez and Nadja Popovich</sub>
+<p>The United States is pivoting away from fossil fuels and toward wind, solar and other renewable energy, even in areas dominated by the oil and gas industries.  <a href="https://nyti.ms/3QCYoNF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>‘Blind Side’ Player Says He Was Conned With Adoption Promise</h3>
-<sub>By Santul Nerkar</sub>
-<p>Michael Oher, whose life was depicted in the 2009 film, says in a lawsuit that he was never fully adopted by the family that took him in and was swindled into signing away his decision-making powers at 18.  <a href="https://nyti.ms/3YxZKLE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>A World Away From the World Cup, Soccer With a Different Goal</h3>
-<sub>By Jenny Vrentas and Isabella Moore</sub>
-<p>In dusty Australian towns a thousand miles from the nearest Women’s World Cup stadium, Indigenous leaders hope the sport can offer hope, and opportunity.  <a href="https://nyti.ms/47qxWgh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>For Sweden, the Right Way to Play Is the One That Wins</h3>
-<sub>By Rory Smith</sub>
-<p>The World Cup semifinal between Spain and Sweden will be a battle of styles, of passing versus pragmatism. Opponents discount the latter at their peril.  <a href="https://nyti.ms/3s79m3H"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Biden-Trump Rematch That Nobody Wants</h3>
-<sub>By Lisa Lerer and Reid J. Epstein</sub>
-<p>Voters say they are wary of a replay of 2020 in 2024, and while they largely will fall in line at the end, they would prefer other options.  <a href="https://nyti.ms/4488FVd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 14, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>The Clean Energy Future Is Roiling Both Friends and Foes</h3>
+<sub>By Jim Tankersley, Brad Plumer, Ana Swanson, Ivan Penn, Leo Dominguez and Nadja Popovich</sub>
+<p>Resistance to wind and solar projects from environmentalists is among an array of impediments to widespread conversion to renewables.  <a href="https://nyti.ms/3DUF5b4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Roaring Back From Pandemic, Japan’s Economy Grows by 6 Percent</h3>
+<h3>Roaring Back From Pandemic, Japan’s Economy Grows at 6% Rate</h3>
 <sub>By Ben Dooley</sub>
 <p>The rapid expansion came as exports have risen and tourists have flooded the country. But a drop in domestic consumption worried economists.  <a href="https://nyti.ms/458uIMO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 14, Central Standard Time</sub></sub>
@@ -132,6 +120,18 @@ There is a lot of important news happening in the world currently. In Ukraine, t
 <h3>China Suspends Report on Youth Unemployment, Which Was at a Record High</h3>
 <sub>By Claire Fu</sub>
 <p>The Chinese government said it would no longer release monthly data about unemployment in young people, which had risen each month this year and reached 21.3 percent.  <a href="https://nyti.ms/3OUXR8p"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Long, Lonely Wait for Justice for 17 Fallen U.S. Sailors</h3>
+<sub>By Carol Rosenberg</sub>
+<p>Families of the sailors who were killed in the bombing of the U.S.S. Cole and survivors having been making the trek to the war court at Guantánamo Bay for pretrial hearings since 2011.  <a href="https://nyti.ms/446iqTL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>‘Blind Side’ Player Says He Was Conned With Adoption Promise</h3>
+<sub>By Santul Nerkar</sub>
+<p>Michael Oher, whose life was depicted in the 2009 film, says in a lawsuit that he was never fully adopted by the family that took him in and was swindled into signing away his decision-making powers at 18.  <a href="https://nyti.ms/3YxZKLE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
