@@ -60,12 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, August 15, Central Standard Time</p>
 <p>
-It&#39;s been a busy news week. In the US, former president Donald Trump is facing various criminal charges and experts are looking into a wildfire in Hawaii that was caused by downed powerlines. In the UK, authorities arrested 5 suspected spies with a reported link to Russia. Meanwhile, a former FBI spy-hunter pleaded guilty to aiding a Russian oligarch, and in Philadelphia, many young men sentenced to life in prison as boys are being resentenced thanks to an effort from the city. On TikTok, there&#39;s a whole team of movie reviewers that are earning millions of dollars for their work and getting recognition for redefining the movie review format. In China, a financial crisis involving the country&#39;s biggest real estate developer is threatening the economy, and Beijing has stopped releasing unemployment data related to youth, raising global concerns. Finally, in Brazil, the country&#39;s biggest TV star is apologizing after years of being idolized because she&#39;s a thin, blond, white woman instead of being more diverse.</p>
+There&#39;s a lot going on in the world right now. In the US, there is a case that may lead to parallel prosecutions of former President Trump and his allies after they allegedly conspired to change the outcome of the election. Hawaii has recently been ravaged by devastating wildfires, and President Biden has promised to visit soon. In the U.K., 5 people have been arrested on espionage charges linked to Russia. Closer to home, a former FBI spy hunter has pleaded guilty to aiding a Russian oligarch. Plus, teens in Philly convicted of life sentences are now being resentenced thanks in part to developments in the criminal justice system. On social media front, a new trend on TikTok known as MovieTok provides movie reviews from everyday personalities instead of traditional critics; and Brazil&#39;s biggest TV star, Xuxa, is issuing an apology for her role in idolizing white beauty standards in her home country. Additionally, China is having their own economic crisis with one of its biggest real estate developers teetering on default and global concerns growing over Beijing suppressing vital economic data. Finally, Hunter Biden&#39;s lawyer has stepped down from his case involving a Justice Department investigation. That’s the round-up for now!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Comparing the Four Criminal Cases Against Donald Trump</h3>
-<sub>By Charlie Savage</sub>
-<p>An assessment of the four indictments against the former president, including notable features, strengths and weaknesses.  <a href="https://nyti.ms/3OZl9dz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Georgia Case Lays the Ground for Parallel Prosecutions of Trump</h3>
+<sub>By Glenn Thrush and Danny Hakim</sub>
+<p>The district attorney in Georgia and the special counsel converged on the same conclusion: that Mr. Trump and his allies “knowingly and willfully joined a conspiracy to unlawfully change the outcome of the election.”  <a href="https://nyti.ms/3OWTYQx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -75,10 +75,10 @@ It&#39;s been a busy news week. In the US, former president Donald Trump is faci
 <sub><sub>Tuesday, August 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Experts Scrutinize Hawaiian Electric as They Search for the Maui Wildfire Cause</h3>
-<sub>By Peter Eavis, Ivan Penn and Thomas Fuller</sub>
-<p>The main utility serving Hawaii did not pre-emptively shut off power before high winds reached Maui, and power lines fell in the windstorm.  <a href="https://nyti.ms/3QCe3wE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 14, Central Standard Time</sub></sub>
+<h3>Biden Says He’ll Visit Hawaii After Deadly Wildfires</h3>
+<sub>By Reid J. Epstein</sub>
+<p>The president had not addressed the fires since last week, a relative silence that drew criticism from Republicans.  <a href="https://nyti.ms/449XYkP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>U.K. Reveals 5 Espionage Arrests After BBC Reports Russia Link</h3>
