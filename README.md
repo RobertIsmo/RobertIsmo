@@ -60,24 +60,16 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, August 14, Central Standard Time</p>
 <p>
-There is a lot happening around the world right now. In the US, there have been attempts to overturn the vote in Georgia and prosecutors are objecting to a proposal to discuss evidence at Mar-a-Lago. Meanwhile, a judge recently ruled in favor of Montana youths in a landmark climate case and many people lost their homes in a fire near Lahaina, Hawaii. 
+I wanted to catch you up on the news from around the world. In a landmark case, a judge ruled in favor of Montana youths in a climate case, finding that they have a constitutional right to a clean and healthful environment. Also in the US, there has been scrutiny over Hawaiian Electric&#39;s failure to shut off power right before high winds sparked a deadly wildfire on Maui. 
 
-Internationally, Russia has been firing warning shots and boarding a freighter in the Black Sea as tensions rise. Closer to home, American officials are trying to facilitate access and consular duties for an American journalist being detained by Russia.
+Meanwhile, in Europe, Russia is enforcing a blockade of Ukraine with warning shots and boarding a freight vessel in the Black Sea. On top of that, US Ambassador just met with Evan Gershkovich - a reporter for the Wall Street Journal who had been detained in Russia without consular access.
 
-In other news, Japan&#39;s economy is booming after the pandemic and we&#39;re starting to see some warm weather finally in the Northwest after a long cold winter. On top of all that, Charles McGonigal is being investigated by federal prosecutors after his career as an FBI Spy Hunter unraveled after reports of foreign dealings.</p>
+Stateside, many are worried about a Biden-Trump rematch in 2024. Fortunately, Japan saw its economy grow six percent coming out of pandemic as exports rose and tourists flooded the country. Closer to home, FBI spy hunter Charles McGonigal is now facing federal scrutiny alongside a fast-yet-suspect lifestyle and foreign dealings. 
+
+As for the weather, we&#39;re entering into an extreme heat wave here in the Northwest while the South gets some much needed relief from the heat. Lastly, Brewster Kahle&#39;s Internet Archive faced legal action after lending out digital scans from its library during the pandemic emergency. 
+
+Hope all is well with you - take care!</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Two Months in Georgia: How Trump Tried to Overturn the Vote</h3>
-<sub>By Danny Hakim and Richard Fausset</sub>
-<p>The Georgia case offers a vivid reminder of the extraordinary lengths Mr. Trump and his allies went to in the Southern state to reverse the election.  <a href="https://nyti.ms/3KDUhwR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Prosecutors Object to Trump’s Proposal to Discuss Evidence at Mar-a-Lago</h3>
-<sub>By Alan Feuer</sub>
-<p>The arguments in the classified documents case stem from the government’s attempts to put a protective order in place governing the handling of a trove of discovery materials.  <a href="https://nyti.ms/3QHIbXt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 14, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Judge Rules in Favor of Montana Youths in a Landmark Climate Case</h3>
 <sub>By David Gelles and Mike Baker</sub>
@@ -85,9 +77,15 @@ In other news, Japan&#39;s economy is booming after the pandemic and we&#39;re s
 <sub><sub>Monday, August 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Its Building Destroyed, a Lahaina Church Finds Sanctuary in a Cafe</h3>
-<sub>By Mitch Smith</sub>
-<p>Members of Grace Baptist Church, many of them now homeless, gathered on Sunday and described daring escapes from the fire.  <a href="https://nyti.ms/3s8gqgH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Hawaiian Electric Draws Scrutiny in Search for What Sparked Deadly Wildfire</h3>
+<sub>By Peter Eavis, Ivan Penn and Thomas Fuller</sub>
+<p>The main utility serving Hawaii did not pre-emptively shut off power before high winds reached Maui, and power lines fell in the windstorm.  <a href="https://nyti.ms/3QCe3wE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>FEMA Outlines Maui Wildfire Support as Victims Critique Government Response</h3>
+<sub>By Eileen Sullivan</sub>
+<p>FEMA is typically the first agency to face scrutiny after disasters. But while the federal agency plays a critical role in disaster response, it is not meant to be the first on the scene.  <a href="https://nyti.ms/3ODmKnV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
@@ -117,7 +115,7 @@ In other news, Japan&#39;s economy is booming after the pandemic and we&#39;re s
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Roaring Back From Pandemic, Japan’s Economy Grows by 6 Percent</h3>
 <sub>By Ben Dooley</sub>
-<p>The rapid expansion came as exports have risen and tourists have flooded the country.  <a href="https://nyti.ms/458uIMO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The rapid expansion came as exports have risen and tourists have flooded the country. But a drop in domestic consumption worried economists.  <a href="https://nyti.ms/458uIMO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -132,11 +130,17 @@ In other news, Japan&#39;s economy is booming after the pandemic and we&#39;re s
 <p>Portions of the Northwest will bake in extremely high temperatures while the South will finally get a break, for a day or two, from dangerous heat.  <a href="https://nyti.ms/47wotnp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Track Wildfires in the West</h3>
-<sub>By Matthew Bloch, Josh Williams, Rumsey Taylor, Tim Wallace, John-Michael Murphy and Tiff Fehr</sub>
-<p>See the latest wildfires as they burn near homes and landmarks in California, Oregon and other nearby states.  <a href="https://nyti.ms/3T83wIh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 22, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>The Dream Was Universal Access to Knowledge. The Result Was a Fiasco.</h3>
+<sub>By David Streitfeld</sub>
+<p>In the pandemic emergency, Brewster Kahle’s Internet Archive freely lent out digital scans of its library. Publishers sued. Owning a book means something different now.  <a href="https://nyti.ms/3qtIyu5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>How (Many) Economists Missed the Big Disinflation</h3>
+<sub>By Paul Krugman</sub>
+<p>The fault lay not in the models, but in themselves.  <a href="https://nyti.ms/3YDe5Xg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
