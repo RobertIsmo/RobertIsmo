@@ -58,10 +58,26 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Tuesday, August 15, Central Standard Time</p>
+<p>It is Wednesday, August 16, Central Standard Time</p>
 <p>
-Hi friend, there are a lot of different news stories happening in the world right now. In the US, the state prosecutor&#39;s office is still investigating Donald Trump after he left office as president, another investigation looks into any direct messages that may have come from his Twitter account. In Hawaii, their burn unit are being put to the test with forest fires in Maui. In Russia, their economy is facing a crisis and drastic measures are being taken. In Philadelphia, young men in prison for life without parole are getting resentenced due to a court ruling. On TikTok people are making money from movie reviews and marketing themselves as &#39;reviewers&#39; instead of critics. Country Garden, one of China&#39;s biggest real estate companies, is on the brink of financial collapse and this might bring down China&#39;s whole economy. On top of that, Wall Street is worried about a stronger US economy and whether that will eventually bring inflation up too far. The lawyer for Hunter Biden has stepped down from his case and in Brazil a former star known as &quot;Brazil&#39;s Barbie&quot; is apologizing for her wrongdoings. Lastly, there was a terrible &#39;revenge porn&#39; lawsuit in Texas where the woman won 1.2 billion dollars from her ex-boyfriend who shared intimate images online without her consent. That&#39;s all for now!</p>
+Hey! There&#39;s been a lot of really devastating news lately. In the US, there was a massive fire in Maui that left people searching for the dead. Unfortunately, it put Honolulu&#39;s burn unit to the test as they airlifted some of the most severely wounded survivors for treatment. There&#39;s also a new investigation into Donald Trump from a Georgia prosecutor who had to face challenges including threats. On top of that, Trump&#39;s special counsel obtained direct messages associated with his account.
+
+Worldwide, Russia is in a wartime bind where they have to raise interest rates on the ruble and find a way to fund their war with Ukraine without weakening the economy too much. In other entertainment news, MovieTok reviewers are becoming internet celebrities by reviewing movies on TikTok - and making tens of thousands of dollars for it! 
+
+In business, there are worries about China&#39;s economy failing while the US economy may be growing too quickly. We&#39;re also hearing news from Brazil about Xuxa apologizing for being an inappropriate idol for Brazil&#39;s diverse population. And if that wasn&#39;t enough, ADHD drug shortages are leading to learning and self-esteem issues in children starting school this year. To top it all off, a Texas woman was awarded $1.2 billion in damages after winning her &#39;revenge porn&#39; lawsuit against her ex-boyfriend. It&#39;s been a rough few weeks around here!</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>First, a Ferocious Fire. Now, a Slow, Grim Search for the Dead.</h3>
+<sub>By Tim Arango</sub>
+<p>As families face an agonizing wait for word on missing loved ones, the death toll from the fire is likely to rise.  <a href="https://nyti.ms/45uZzmt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Honolulu Burn Unit Put to the Test by Fires in Maui</h3>
+<sub>By Mitch Smith</sub>
+<p>An island airlift brought some of the fire’s most severely wounded survivors to a Honolulu hospital unit created for just that kind of mass-casualty moment.  <a href="https://nyti.ms/3OA5y2I"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 15, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Inside a Georgia Prosecutor’s Investigation of a Former President</h3>
 <sub>By Danny Hakim and Richard Fausset</sub>
@@ -74,22 +90,10 @@ Hi friend, there are a lot of different news stories happening in the world righ
 <p>The nature of the messages or who exactly wrote them remained unclear, but it was a revelation that such messages were associated with the former president’s account.  <a href="https://nyti.ms/3QGXxLV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Honolulu Burn Unit Put to the Test by Fires in Maui</h3>
-<sub>By Mitch Smith</sub>
-<p>An island airlift brought some of the fire’s most severely wounded survivors to a Honolulu hospital unit created for just that kind of mass-casualty moment.  <a href="https://nyti.ms/3OA5y2I"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 15, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Drastic Economic Moves Highlight Russia’s Wartime Bind</h3>
 <sub>By Anatoly Kurmanaev</sub>
 <p>With the third-largest interest rate increase in a decade to shore up the ruble, Moscow’s policymakers are pursuing the conflicting goals of paying for the war against Ukraine and taming inflation.  <a href="https://nyti.ms/45uOH8g"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-headway-blue" alt="">
-<h3>Sentenced to Life as Boys, They Made Their Case for Release</h3>
-<sub>By Issie Lapowsky and Abdul Kircher</sub>
-<p>At age 17, Donnell Drinks was one of many young men in Philadelphia who went to prison for life without parole. Today, the city has resentenced more of those prisoners than any other jurisdiction.  <a href="https://nyti.ms/44fnrJD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-movies-blue" alt="">
