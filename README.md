@@ -60,24 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, August 16, Central Standard Time</p>
 <p>
-There have been some devastating events around the world recently. In Hawaii, there was a ferocious fire that killed 106 people and families are still recovering from the tragedy. In New York State, former president Trump is facing legal repercussions for spreading lies surrounding the 2020 presidential election, while Rudy Giuliani has been indicted in a Georgia election conspiracy case. Meanwhile, start-ups and investors are desperately trying to obtain chips used to power Artificial Intelligence products and hackers have been exploring potential vulnerabilities with the White House and A.I. companies&#39; blessing. Finally, there is a Romanian route which provides a lifeline allowing Ukrainian grain to reach the sea under a NATO umbrella while Russia threatens ships in the Black Sea.</p>
+There are a lot of things going on in the world right now. In the US, there&#39;s a case against former President Donald Trump and 18 allies that the prosecutor hopes to have a trial for within six months. In response to his attempts to subvert the election, Republicans are trying to move on from 2020 in order to defeat President Biden in 2024. Special counsel has obtained direct messages associated with his Twitter account. A ferocious wildfire in Hawaii has caused at least 106 deaths, and President Biden is visiting the island this Monday. In addition, an upward trend of natural disasters has made certain specialized firms more relevant. In New York, there&#39;s tension among Democrats over how to handle the migrant crisis and provide aid. In terms of international news, Russia is threatening ships near the Black Sea while Romania provides a lifeline for nearby Ukraine. Finally, what’s being called “forever chemicals” are everywhere and slowly being researched as to their impacts on humans. On top of that, several museums are giving female designers their due after many were underappreciated for years.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>First, a Ferocious Fire. Now, a Slow, Grim Search for the Dead.</h3>
-<sub>By Tim Arango</sub>
-<p>As families face an agonizing wait for word on missing loved ones on Maui, the death toll from the fire is likely to rise.  <a href="https://nyti.ms/45uZzmt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 15, Central Standard Time</sub></sub>
+<h3>In Georgia Case Against Trump, a Trial Within Six Months Could Be a Stretch</h3>
+<sub>By Richard Fausset, Danny Hakim and Shaila Dewan</sub>
+<p>The prosecutor in the racketeering case against Donald Trump and 18 allies has an ambitious timeline. Experts have their doubts.  <a href="https://nyti.ms/3DXLHFB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What We Know About the Wildfires in Hawaii</h3>
-<sub>By Adeel Hassan</sub>
-<p>With the death toll at 106 and rising, officials have begun announcing names of the dead as families that survived the disaster begin the long, hard road toward recovery.  <a href="https://nyti.ms/3KzrwS9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How a Small Group of Firms Changed the Math for Insuring Against Natural Disasters</h3>
-<sub>By Emily Flitter</sub>
-<p>Climate change, inflation and global instability have thrust companies that sell insurance to insurers into the spotlight.  <a href="https://nyti.ms/3qxPRRy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Trump’s Indictment Has Georgia Republicans Fearing Replay of 2020</h3>
+<sub>By Jonathan Weisman and Maya King</sub>
+<p>State officials who rejected Donald Trump’s calls to subvert the election results say the party must move on from 2020 in order to defeat President Biden in 2024.  <a href="https://nyti.ms/3E24bF3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -92,40 +86,34 @@ There have been some devastating events around the world recently. In Hawaii, th
 <p>The nature of the messages or who exactly wrote them remained unclear, but it was a revelation that such messages were associated with the former president’s account.  <a href="https://nyti.ms/3QGXxLV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>From ‘America’s Mayor’ to Criminal Defendant: Giuliani’s Long Tumble</h3>
-<sub>By Dan Barry</sub>
-<p>An indictment in the Georgia election conspiracy case marked perhaps the lowest point in the career of Rudolph W. Giuliani, who had staked his legacy on blind allegiance to the Trump administration.  <a href="https://nyti.ms/3OEMP63"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>First, a Ferocious Fire. Now, a Slow, Grim Search for the Dead.</h3>
+<sub>By Tim Arango</sub>
+<p>As families face an agonizing wait for word on missing loved ones on Maui, the death toll from the fire is likely to rise.  <a href="https://nyti.ms/45uZzmt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>After Years of Spreading Lies, Election Deniers Face Consequences</h3>
-<sub>By Nick Corasaniti</sub>
-<p>Legal repercussions have arrived for the leaders of the effort to overturn the 2020 presidential contest, in what could serve as a warning to those who meddle in future elections.  <a href="https://nyti.ms/3OX6fo5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 15, Central Standard Time</sub></sub>
+<h3>Biden to Visit Maui on Monday to View Wildfire Damage</h3>
+<sub>By Peter Baker</sub>
+<p>The president and the first lady will meet with emergency workers and survivors of the fire, which killed more than 100 people on the Hawaiian island.  <a href="https://nyti.ms/45sLI03"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>What We Know About the Wildfires in Hawaii</h3>
+<sub>By Adeel Hassan</sub>
+<p>With the death toll at 106 and rising, officials have begun announcing names of the dead as families that survived the disaster begin the long, hard road toward recovery.  <a href="https://nyti.ms/3KzrwS9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>How a Small Group of Firms Changed the Math for Insuring Against Natural Disasters</h3>
+<sub>By Emily Flitter</sub>
+<p>Climate change, inflation and global instability have thrust companies that sell insurance to insurers into the spotlight.  <a href="https://nyti.ms/3qxPRRy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>In Scathing Letter, New York State Criticizes Adams’s Migrant Response</h3>
+<h3>Scathing Letter Reveals Tension Among New York Democrats Over Migrant Crisis</h3>
 <sub>By Dana Rubinstein, Nicholas Fandos and Luis Ferré-Sadurní</sub>
 <p>The letter, responding to New York City’s list of demands for state help, said the city had already rebuffed some of the state’s offers and had been slow to aid migrants.  <a href="https://nyti.ms/3qDHzr9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>The Desperate Hunt for the A.I. Boom’s Most Indispensable Prize</h3>
-<sub>By Erin Griffith</sub>
-<p>To power artificial-intelligence products, start-ups and investors are taking extraordinary measures to obtain critical chips known as graphics processing units, or GPUs.  <a href="https://nyti.ms/44ciZeV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>When Hackers Descended to Test A.I., They Found Flaws Aplenty</h3>
-<sub>By Sarah Kessler and Tiffany Hsu</sub>
-<p>The hackers had the blessing of the White House and leading A.I. companies, which want to learn about vulnerabilities before those with nefarious intentions do.  <a href="https://nyti.ms/47KQCrg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Google Tests an A.I. Assistant That Offers Life Advice</h3>
-<sub>By Nico Grant</sub>
-<p>The tech giant is evaluating tools that would use artificial intelligence to perform tasks that some of its researchers have said should be avoided.  <a href="https://nyti.ms/45aw7T8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -133,6 +121,18 @@ There have been some devastating events around the world recently. In Hawaii, th
 <sub>By Andrew Higgins</sub>
 <p>A 40-mile channel, best known outside shipping circles as a magnet for bird watchers, is now a crucial route allowing Ukrainian grain to reach the sea, protected by a NATO umbrella.  <a href="https://nyti.ms/45cYXSM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>‘Forever Chemicals’ Are Everywhere. What Are They Doing to Us?</h3>
+<sub>By Kim Tingley</sub>
+<p>PFAS lurk in so much of what we eat, drink and use. Scientists are only beginning to understand how they’re impacting our health — and what to do about them.  <a href="https://nyti.ms/3QM1zCV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>Everyone Thought He Had Made the Famous Gown. It Was His Wife.</h3>
+<sub>By Vanessa Friedman</sub>
+<p>This fall, the Metropolitan and three other museums give female designers their due.  <a href="https://nyti.ms/3sitkZg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
