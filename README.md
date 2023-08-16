@@ -60,13 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, August 16, Central Standard Time</p>
 <p>
-There have been some really devastating events happening around the world lately. On Maui, there was a huge fire that caused unfortunate destruction and loss of life. In response, medical teams from Honolulu airlifted the most critically injured survivors to receive treatment at a burn unit. 
-
-The political atmosphere in the US has also been tense. There&#39;s an ongoing investigation of Donald Trump by Georgia prosecutors and the Special Counsel recently obtained access to his private Twitter messages. On top of this, the former president&#39;s lawyer just resigned from his case.
-
-In Russia, their economy is facing hardship due to a war with Ukraine, causing them to increase interest rates drastically to manage inflation and pay for the war. Meanwhile, in China, the world&#39;s biggest real estate developer is on the brink of default which could cause some serious economic damage there too.
-
-On a lighter note, movie fans on TikTok get to review movies for an audience of millions – all without being called &#39;critics&#39;. And finally, a woman in Texas just won $1.2 billion in a civil lawsuit regarding revenge porn which shows that justice still prevails!</p>
+There has been a lot going on in the world lately. In the US, we had a ferocious fire in Maui that caused many fatalities and injured survivors have been flown to Honolulu for treatment. We also had a whole legal saga related to former President Donald Trump, with lawyers saying he would be facing potential jail time for his behavior if he was an ordinary citizen. Now, some of those election deniers are facing their own consequences as well. On the technology side, researchers are desperately searching for chips and AI-related tools called GPUs to power artificial intelligence products. Google is testing an AI assistant which will offer life advice. Also, Russia is threatening ships in the Black Sea, so a 40-mile channel in Romania has become a secure route allowing Ukrainian grain to travel under a NATO umbrella. Lastly, there&#39;s growing concern over &#39;forever chemicals&#39; found everywhere in our food, drinks, and products and what they could be doing to our health. The IRS has also received an $80 billion infusion to help improve customer service but they still need future funding uncertain for now.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>First, a Ferocious Fire. Now, a Slow, Grim Search for the Dead.</h3>
@@ -81,10 +75,10 @@ On a lighter note, movie fans on TikTok get to review movies for an audience of 
 <sub><sub>Tuesday, August 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Inside a Georgia Prosecutor’s Investigation of a Former President</h3>
-<sub>By Danny Hakim and Richard Fausset</sub>
-<p>Fani T. Willis faced hiring challenges, threats, a judge’s reproach and a series of legal obstacles over her two-and-a-half-year investigation of Donald J. Trump.  <a href="https://nyti.ms/3OyHmxz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 15, Central Standard Time</sub></sub>
+<h3>‘Biased.’ ‘Corrupt.’ ‘Deranged.’ Trump’s Taunts Test Limits of Release.</h3>
+<sub>By Maggie Haberman, Jonathan Swan and Alan Feuer</sub>
+<p>Some lawyers have said that if the former president were an ordinary citizen issuing these attacks, he would be in jail by now. The question is whether he will face similar consequences.  <a href="https://nyti.ms/459wZHD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Special Counsel Obtained Trump’s Direct Messages on Twitter</h3>
@@ -92,53 +86,53 @@ On a lighter note, movie fans on TikTok get to review movies for an audience of 
 <p>The nature of the messages or who exactly wrote them remained unclear, but it was a revelation that such messages were associated with the former president’s account.  <a href="https://nyti.ms/3QGXxLV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Drastic Economic Moves Highlight Russia’s Wartime Bind</h3>
-<sub>By Anatoly Kurmanaev</sub>
-<p>With the third-largest interest rate increase in a decade to shore up the ruble, Moscow’s policymakers are pursuing the conflicting goals of paying for the war against Ukraine and taming inflation.  <a href="https://nyti.ms/45uOH8g"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>After Years of Spreading Lies, Election Deniers Face Consequences</h3>
+<sub>By Nick Corasaniti</sub>
+<p>Legal repercussions have arrived for the leaders of the effort to overturn the 2020 presidential contest, in what could serve as a warning to those who meddle in future elections.  <a href="https://nyti.ms/3OX6fo5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>They Review Movies on TikTok, but Don’t Call Them Critics</h3>
-<sub>By Reggie Ugwu</sub>
-<p>On MovieTok, reviewers can reach an audience of millions and earn tens of thousands of dollars per post. “Critics,” they say, are old news.  <a href="https://nyti.ms/45aBzoS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Inside a Georgia Prosecutor’s Investigation of a Former President</h3>
+<sub>By Danny Hakim and Richard Fausset</sub>
+<p>Fani T. Willis faced hiring challenges, threats, a judge’s reproach and a series of legal obstacles over her two-and-a-half-year investigation of Donald J. Trump.  <a href="https://nyti.ms/3OyHmxz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Why This Company’s Financial Crisis Threatens China’s Economy</h3>
-<sub>By Alexandra Stevenson</sub>
-<p>Country Garden was China’s biggest real estate developer. Now it is staring down default, facing billions of dollars in losses and $200 billion in unpaid bills.  <a href="https://nyti.ms/3qpwdqW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>China Scuttles a $5.4 Billion Microchip Deal Led by U.S. Giant Intel</h3>
-<sub>By Don Clark and Keith Bradsher</sub>
-<p>Intel calls off its planned acquisition of Tower Semiconductor, an Israeli chip maker, after waiting in vain for 18 months for a review by Chinese regulators.  <a href="https://nyti.ms/45bBvVS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>The Desperate Hunt for the A.I. Boom’s Most Indispensable Prize</h3>
+<sub>By Erin Griffith</sub>
+<p>To power artificial-intelligence products, start-ups and investors are taking extraordinary measures to obtain critical chips known as graphics processing units, or GPUs.  <a href="https://nyti.ms/44ciZeV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Wall St. Weighs the Effect of Weaker China and Stronger U.S.</h3>
-<sub>By Joe Rennison</sub>
-<p>Investors are worried about the Chinese economy teetering as well as signs that the U.S. economy may be growing too fast for inflation to moderate.  <a href="https://nyti.ms/3OXgEju"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>When Hackers Descended to Test A.I., They Found Flaws Aplenty</h3>
+<sub>By Sarah Kessler and Tiffany Hsu</sub>
+<p>The hackers had the blessing of the White House and leading A.I. companies, which want to learn about vulnerabilities before those with nefarious intentions do.  <a href="https://nyti.ms/3P8aQE9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Google Tests an A.I. Assistant That Offers Life Advice</h3>
+<sub>By Nico Grant</sub>
+<p>The tech giant is evaluating tools that would use artificial intelligence to perform tasks that some of its researchers have said should be avoided.  <a href="https://nyti.ms/45aw7T8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As Russia Threatens Ships in the Black Sea, a Romanian Route Provides a Lifeline</h3>
+<sub>By Andrew Higgins</sub>
+<p>A 40-mile channel, best known outside shipping circles as a magnet for bird watchers, is now a crucial route allowing Ukrainian grain to reach the sea, protected by a NATO umbrella.  <a href="https://nyti.ms/45cYXSM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>‘Forever Chemicals’ Are Everywhere. What Are They Doing to Us?</h3>
+<sub>By Kim Tingley</sub>
+<p>PFAS lurk in so much of what we eat, drink and use. Scientists are only beginning to understand how they’re impacting our health — and what to do about them.  <a href="https://nyti.ms/3QM1zCV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Hunter Biden’s Lawyer Steps Down From Case</h3>
-<sub>By Michael S. Schmidt and Glenn Thrush</sub>
-<p>The decision by the lawyer, Christopher J. Clark, is the latest development in the long-running negotiation between the Justice Department and Hunter Biden.  <a href="https://nyti.ms/45v1Uhs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>The Collateral Damage of A.D.H.D. Drug Shortages</h3>
-<sub>By Christina Caron</sub>
-<p>As a new school year begins, parents and doctors find medication shortages are leading to declines in learning and self-esteem.  <a href="https://nyti.ms/3OzPhuy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Woman Is Awarded $1.2 Billion in ‘Revenge Porn’ Lawsuit</h3>
-<sub>By Amanda Holpuch</sub>
-<p>A jury ruled in favor of a Texas woman who said her ex-boyfriend had psychologically and sexually abused her by sharing intimate images of her online without her consent.  <a href="https://nyti.ms/3QKYXFn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 15, Central Standard Time</sub></sub>
+<h3>I.R.S. Says Cash Influx Has Made Agency Bigger and More Digital</h3>
+<sub>By Alan Rappeport</sub>
+<p>An $80 billion infusion has helped improve customer service, but the tax agency continues to face uncertainty over future funding.  <a href="https://nyti.ms/3qz4vYF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
