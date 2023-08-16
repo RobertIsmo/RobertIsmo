@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, August 16, Central Standard Time</p>
 <p>
-There has been a lot going on in the world lately. In the US, we had a ferocious fire in Maui that caused many fatalities and injured survivors have been flown to Honolulu for treatment. We also had a whole legal saga related to former President Donald Trump, with lawyers saying he would be facing potential jail time for his behavior if he was an ordinary citizen. Now, some of those election deniers are facing their own consequences as well. On the technology side, researchers are desperately searching for chips and AI-related tools called GPUs to power artificial intelligence products. Google is testing an AI assistant which will offer life advice. Also, Russia is threatening ships in the Black Sea, so a 40-mile channel in Romania has become a secure route allowing Ukrainian grain to travel under a NATO umbrella. Lastly, there&#39;s growing concern over &#39;forever chemicals&#39; found everywhere in our food, drinks, and products and what they could be doing to our health. The IRS has also received an $80 billion infusion to help improve customer service but they still need future funding uncertain for now.</p>
+There have been some devastating events around the world recently. In Hawaii, there was a ferocious fire that killed 106 people and families are still recovering from the tragedy. In New York State, former president Trump is facing legal repercussions for spreading lies surrounding the 2020 presidential election, while Rudy Giuliani has been indicted in a Georgia election conspiracy case. Meanwhile, start-ups and investors are desperately trying to obtain chips used to power Artificial Intelligence products and hackers have been exploring potential vulnerabilities with the White House and A.I. companies&#39; blessing. Finally, there is a Romanian route which provides a lifeline allowing Ukrainian grain to reach the sea under a NATO umbrella while Russia threatens ships in the Black Sea.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>First, a Ferocious Fire. Now, a Slow, Grim Search for the Dead.</h3>
@@ -69,10 +69,16 @@ There has been a lot going on in the world lately. In the US, we had a ferocious
 <sub><sub>Tuesday, August 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Honolulu Burn Unit Put to the Test by Fires in Maui</h3>
-<sub>By Mitch Smith</sub>
-<p>An island airlift brought some of the fire’s most severely wounded survivors to a Honolulu hospital unit created for just that kind of mass-casualty moment.  <a href="https://nyti.ms/3OA5y2I"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 15, Central Standard Time</sub></sub>
+<h3>What We Know About the Wildfires in Hawaii</h3>
+<sub>By Adeel Hassan</sub>
+<p>With the death toll at 106 and rising, officials have begun announcing names of the dead as families that survived the disaster begin the long, hard road toward recovery.  <a href="https://nyti.ms/3KzrwS9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>How a Small Group of Firms Changed the Math for Insuring Against Natural Disasters</h3>
+<sub>By Emily Flitter</sub>
+<p>Climate change, inflation and global instability have thrust companies that sell insurance to insurers into the spotlight.  <a href="https://nyti.ms/3qxPRRy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>‘Biased.’ ‘Corrupt.’ ‘Deranged.’ Trump’s Taunts Test Limits of Release.</h3>
@@ -86,17 +92,23 @@ There has been a lot going on in the world lately. In the US, we had a ferocious
 <p>The nature of the messages or who exactly wrote them remained unclear, but it was a revelation that such messages were associated with the former president’s account.  <a href="https://nyti.ms/3QGXxLV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 15, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>From ‘America’s Mayor’ to Criminal Defendant: Giuliani’s Long Tumble</h3>
+<sub>By Dan Barry</sub>
+<p>An indictment in the Georgia election conspiracy case marked perhaps the lowest point in the career of Rudolph W. Giuliani, who had staked his legacy on blind allegiance to the Trump administration.  <a href="https://nyti.ms/3OEMP63"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 15, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>After Years of Spreading Lies, Election Deniers Face Consequences</h3>
 <sub>By Nick Corasaniti</sub>
 <p>Legal repercussions have arrived for the leaders of the effort to overturn the 2020 presidential contest, in what could serve as a warning to those who meddle in future elections.  <a href="https://nyti.ms/3OX6fo5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Inside a Georgia Prosecutor’s Investigation of a Former President</h3>
-<sub>By Danny Hakim and Richard Fausset</sub>
-<p>Fani T. Willis faced hiring challenges, threats, a judge’s reproach and a series of legal obstacles over her two-and-a-half-year investigation of Donald J. Trump.  <a href="https://nyti.ms/3OyHmxz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 15, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>In Scathing Letter, New York State Criticizes Adams’s Migrant Response</h3>
+<sub>By Dana Rubinstein, Nicholas Fandos and Luis Ferré-Sadurní</sub>
+<p>The letter, responding to New York City’s list of demands for state help, said the city had already rebuffed some of the state’s offers and had been slow to aid migrants.  <a href="https://nyti.ms/3qDHzr9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>The Desperate Hunt for the A.I. Boom’s Most Indispensable Prize</h3>
@@ -107,7 +119,7 @@ There has been a lot going on in the world lately. In the US, we had a ferocious
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>When Hackers Descended to Test A.I., They Found Flaws Aplenty</h3>
 <sub>By Sarah Kessler and Tiffany Hsu</sub>
-<p>The hackers had the blessing of the White House and leading A.I. companies, which want to learn about vulnerabilities before those with nefarious intentions do.  <a href="https://nyti.ms/3P8aQE9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The hackers had the blessing of the White House and leading A.I. companies, which want to learn about vulnerabilities before those with nefarious intentions do.  <a href="https://nyti.ms/47KQCrg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -121,18 +133,6 @@ There has been a lot going on in the world lately. In the US, we had a ferocious
 <sub>By Andrew Higgins</sub>
 <p>A 40-mile channel, best known outside shipping circles as a magnet for bird watchers, is now a crucial route allowing Ukrainian grain to reach the sea, protected by a NATO umbrella.  <a href="https://nyti.ms/45cYXSM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>‘Forever Chemicals’ Are Everywhere. What Are They Doing to Us?</h3>
-<sub>By Kim Tingley</sub>
-<p>PFAS lurk in so much of what we eat, drink and use. Scientists are only beginning to understand how they’re impacting our health — and what to do about them.  <a href="https://nyti.ms/3QM1zCV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>I.R.S. Says Cash Influx Has Made Agency Bigger and More Digital</h3>
-<sub>By Alan Rappeport</sub>
-<p>An $80 billion infusion has helped improve customer service, but the tax agency continues to face uncertainty over future funding.  <a href="https://nyti.ms/3qz4vYF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
