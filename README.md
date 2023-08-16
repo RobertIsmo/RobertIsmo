@@ -60,16 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, August 16, Central Standard Time</p>
 <p>
-Hey! There&#39;s been a lot of really devastating news lately. In the US, there was a massive fire in Maui that left people searching for the dead. Unfortunately, it put Honolulu&#39;s burn unit to the test as they airlifted some of the most severely wounded survivors for treatment. There&#39;s also a new investigation into Donald Trump from a Georgia prosecutor who had to face challenges including threats. On top of that, Trump&#39;s special counsel obtained direct messages associated with his account.
+There have been some really devastating events happening around the world lately. On Maui, there was a huge fire that caused unfortunate destruction and loss of life. In response, medical teams from Honolulu airlifted the most critically injured survivors to receive treatment at a burn unit. 
 
-Worldwide, Russia is in a wartime bind where they have to raise interest rates on the ruble and find a way to fund their war with Ukraine without weakening the economy too much. In other entertainment news, MovieTok reviewers are becoming internet celebrities by reviewing movies on TikTok - and making tens of thousands of dollars for it! 
+The political atmosphere in the US has also been tense. There&#39;s an ongoing investigation of Donald Trump by Georgia prosecutors and the Special Counsel recently obtained access to his private Twitter messages. On top of this, the former president&#39;s lawyer just resigned from his case.
 
-In business, there are worries about China&#39;s economy failing while the US economy may be growing too quickly. We&#39;re also hearing news from Brazil about Xuxa apologizing for being an inappropriate idol for Brazil&#39;s diverse population. And if that wasn&#39;t enough, ADHD drug shortages are leading to learning and self-esteem issues in children starting school this year. To top it all off, a Texas woman was awarded $1.2 billion in damages after winning her &#39;revenge porn&#39; lawsuit against her ex-boyfriend. It&#39;s been a rough few weeks around here!</p>
+In Russia, their economy is facing hardship due to a war with Ukraine, causing them to increase interest rates drastically to manage inflation and pay for the war. Meanwhile, in China, the world&#39;s biggest real estate developer is on the brink of default which could cause some serious economic damage there too.
+
+On a lighter note, movie fans on TikTok get to review movies for an audience of millions – all without being called &#39;critics&#39;. And finally, a woman in Texas just won $1.2 billion in a civil lawsuit regarding revenge porn which shows that justice still prevails!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>First, a Ferocious Fire. Now, a Slow, Grim Search for the Dead.</h3>
 <sub>By Tim Arango</sub>
-<p>As families face an agonizing wait for word on missing loved ones, the death toll from the fire is likely to rise.  <a href="https://nyti.ms/45uZzmt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>As families face an agonizing wait for word on missing loved ones on Maui, the death toll from the fire is likely to rise.  <a href="https://nyti.ms/45uZzmt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -109,6 +111,12 @@ In business, there are worries about China&#39;s economy failing while the US ec
 <sub><sub>Tuesday, August 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>China Scuttles a $5.4 Billion Microchip Deal Led by U.S. Giant Intel</h3>
+<sub>By Don Clark and Keith Bradsher</sub>
+<p>Intel calls off its planned acquisition of Tower Semiconductor, an Israeli chip maker, after waiting in vain for 18 months for a review by Chinese regulators.  <a href="https://nyti.ms/45bBvVS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Wall St. Weighs the Effect of Weaker China and Stronger U.S.</h3>
 <sub>By Joe Rennison</sub>
 <p>Investors are worried about the Chinese economy teetering as well as signs that the U.S. economy may be growing too fast for inflation to moderate.  <a href="https://nyti.ms/3OXgEju"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -119,12 +127,6 @@ In business, there are worries about China&#39;s economy failing while the US ec
 <sub>By Michael S. Schmidt and Glenn Thrush</sub>
 <p>The decision by the lawyer, Christopher J. Clark, is the latest development in the long-running negotiation between the Justice Department and Hunter Biden.  <a href="https://nyti.ms/45v1Uhs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>She Was Brazil’s Barbie. Now She’s Saying Sorry.</h3>
-<sub>By Ana Ionova</sub>
-<p>Xuxa was once Brazil’s biggest TV star. Now many are wondering whether a thin, blond, white woman was the right idol for such a diverse country.  <a href="https://nyti.ms/3QB7IBx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-well-blue" alt="">
 <h3>The Collateral Damage of A.D.H.D. Drug Shortages</h3>
