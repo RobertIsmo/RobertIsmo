@@ -60,36 +60,36 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, August 15, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. In the US, there is a case that may lead to parallel prosecutions of former President Trump and his allies after they allegedly conspired to change the outcome of the election. Hawaii has recently been ravaged by devastating wildfires, and President Biden has promised to visit soon. In the U.K., 5 people have been arrested on espionage charges linked to Russia. Closer to home, a former FBI spy hunter has pleaded guilty to aiding a Russian oligarch. Plus, teens in Philly convicted of life sentences are now being resentenced thanks in part to developments in the criminal justice system. On social media front, a new trend on TikTok known as MovieTok provides movie reviews from everyday personalities instead of traditional critics; and Brazil&#39;s biggest TV star, Xuxa, is issuing an apology for her role in idolizing white beauty standards in her home country. Additionally, China is having their own economic crisis with one of its biggest real estate developers teetering on default and global concerns growing over Beijing suppressing vital economic data. Finally, Hunter Biden&#39;s lawyer has stepped down from his case involving a Justice Department investigation. That’s the round-up for now!</p>
+Right now, there are a lot of developments in the US, Brazil, and China that are making headlines. An investigation into Donald Trump&#39;s possible election fraud is coming to a close in Georgia, and Rudolph Giuliani has been indicted in the case. Meanwhile, fires in Maui have tested a Honolulu burn unit with serious injuries from survivors. In Russia, policymakers have taken drastic economic measures and are currently at war with Ukraine. Sentencing reform is occurring in Philadelphia after young men were imprisoned for life without parole. On TikTok, movie reviewers are gaining audiences with their MovieTok channel as critics become more outdated. China&#39;s biggest real estate developer is at risk of default and it could risk the whole country&#39;s economy. Finally, Hunter Biden&#39;s lawyer has stepped down from a case and Brazil&#39;s biggest TV star Xuxa has apologized for being an idol not representative of the country&#39;s diversity. There are also several drug shortages for medications to treat A.D.H.D which are causing significant effects for parents and children starting school this year.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Inside a Georgia Prosecutor’s Investigation of a Former President</h3>
+<sub>By Danny Hakim and Richard Fausset</sub>
+<p>Fani T. Willis faced hiring challenges, threats, a judge’s reproach and a series of legal obstacles over her two-and-a-half-year investigation of Donald J. Trump.  <a href="https://nyti.ms/3OyHmxz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 15, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Georgia Case Lays the Ground for Parallel Prosecutions of Trump</h3>
 <sub>By Glenn Thrush and Danny Hakim</sub>
 <p>The district attorney in Georgia and the special counsel converged on the same conclusion: that Mr. Trump and his allies “knowingly and willfully joined a conspiracy to unlawfully change the outcome of the election.”  <a href="https://nyti.ms/3OWTYQx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Fire Turned Lahaina Into a Death Trap</h3>
-<sub>By Nicholas Bogel-Burroughs, Serge F. Kovaleski, Shawn Hubler and Riley Mellen</sub>
-<p>When a historic coastal town in Hawaii was overrun by fire, many residents fled for their lives — but there was nowhere to go.  <a href="https://nyti.ms/44fvoyt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>From ‘America’s Mayor’ to Criminal Defendant: Giuliani’s Long Tumble</h3>
+<sub>By Dan Barry</sub>
+<p>An indictment in the Georgia election conspiracy case marked perhaps the lowest point in the career of Rudolph W. Giuliani, who had staked his legacy on blind allegiance to the Trump administration.  <a href="https://nyti.ms/3OEMP63"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Says He’ll Visit Hawaii After Deadly Wildfires</h3>
-<sub>By Reid J. Epstein</sub>
-<p>The president had not addressed the fires since last week, a relative silence that drew criticism from Republicans.  <a href="https://nyti.ms/449XYkP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Honolulu Burn Unit Put to the Test by Fires in Maui</h3>
+<sub>By Mitch Smith</sub>
+<p>An island airlift brought some of the fire’s most severely wounded survivors to a Honolulu hospital unit created for just that kind of mass-casualty moment.  <a href="https://nyti.ms/3OA5y2I"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>U.K. Reveals 5 Espionage Arrests After BBC Reports Russia Link</h3>
-<sub>By Isabella Kwai</sub>
-<p>Britain’s counterterrorism unit arrested the five on suspicion of spying on British intelligence, the authorities said following a BBC report that three of the same people had been accused of spying for Russia.  <a href="https://nyti.ms/3OXFv6X"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Former F.B.I. Spy Hunter Pleads Guilty to Aiding Russian Oligarch</h3>
-<sub>By Michael Rothfeld</sub>
-<p>Charles McGonigal, once the bureau’s chief of counterintelligence in New York, still faces separate federal charges out of Washington.  <a href="https://nyti.ms/3YAxCHz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Drastic Economic Moves Highlight Russia’s Wartime Bind</h3>
+<sub>By Anatoly Kurmanaev</sub>
+<p>With the third-largest interest rate increase in a decade to shore up the ruble, Moscow’s policymakers are pursuing the conflicting goals of paying for the war against Ukraine and taming inflation.  <a href="https://nyti.ms/45uOH8g"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-headway-blue" alt="">
@@ -104,12 +104,6 @@ There&#39;s a lot going on in the world right now. In the US, there is a case th
 <p>On MovieTok, reviewers can reach an audience of millions and earn tens of thousands of dollars per post. “Critics,” they say, are old news.  <a href="https://nyti.ms/45aBzoS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>8 TikTokers Redefining the Movie Review</h3>
-<sub>By Reggie Ugwu</sub>
-<p>The personalities of MovieTok are not critics in the traditional sense. But their upbeat videos earn them the devotion of movie lovers.  <a href="https://nyti.ms/3KFcj1U"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 15, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Why This Company’s Financial Crisis Threatens China’s Economy</h3>
 <sub>By Alexandra Stevenson</sub>
@@ -117,9 +111,9 @@ There&#39;s a lot going on in the world right now. In the US, there is a case th
 <sub><sub>Tuesday, August 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>What China Isn’t Telling the World About Its Economy</h3>
-<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Lauren Hirsch and Ephrat Livni</sub>
-<p>Beijing stopped releasing youth unemployment figures in its latest attempt to play down negative trends as growth stalls, and global concerns grow.  <a href="https://nyti.ms/3KBiBzK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Wall St. Weighs the Effect of Weaker China and Stronger U.S.</h3>
+<sub>By Joe Rennison</sub>
+<p>Investors are worried about the Chinese economy teetering as well as signs that the U.S. economy may be growing too fast for inflation to moderate.  <a href="https://nyti.ms/3OXgEju"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -133,6 +127,12 @@ There&#39;s a lot going on in the world right now. In the US, there is a case th
 <sub>By Ana Ionova</sub>
 <p>Xuxa was once Brazil’s biggest TV star. Now many are wondering whether a thin, blond, white woman was the right idol for such a diverse country.  <a href="https://nyti.ms/3QB7IBx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>The Collateral Damage of A.D.H.D. Drug Shortages</h3>
+<sub>By Christina Caron</sub>
+<p>As a new school year begins, parents and doctors find medication shortages are leading to declines in learning and self-esteem.  <a href="https://nyti.ms/3OzPhuy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 15, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
