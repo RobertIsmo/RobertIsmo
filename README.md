@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, August 15, Central Standard Time</p>
 <p>
-Right now, there are a lot of developments in the US, Brazil, and China that are making headlines. An investigation into Donald Trump&#39;s possible election fraud is coming to a close in Georgia, and Rudolph Giuliani has been indicted in the case. Meanwhile, fires in Maui have tested a Honolulu burn unit with serious injuries from survivors. In Russia, policymakers have taken drastic economic measures and are currently at war with Ukraine. Sentencing reform is occurring in Philadelphia after young men were imprisoned for life without parole. On TikTok, movie reviewers are gaining audiences with their MovieTok channel as critics become more outdated. China&#39;s biggest real estate developer is at risk of default and it could risk the whole country&#39;s economy. Finally, Hunter Biden&#39;s lawyer has stepped down from a case and Brazil&#39;s biggest TV star Xuxa has apologized for being an idol not representative of the country&#39;s diversity. There are also several drug shortages for medications to treat A.D.H.D which are causing significant effects for parents and children starting school this year.</p>
+Hi friend, there are a lot of different news stories happening in the world right now. In the US, the state prosecutor&#39;s office is still investigating Donald Trump after he left office as president, another investigation looks into any direct messages that may have come from his Twitter account. In Hawaii, their burn unit are being put to the test with forest fires in Maui. In Russia, their economy is facing a crisis and drastic measures are being taken. In Philadelphia, young men in prison for life without parole are getting resentenced due to a court ruling. On TikTok people are making money from movie reviews and marketing themselves as &#39;reviewers&#39; instead of critics. Country Garden, one of China&#39;s biggest real estate companies, is on the brink of financial collapse and this might bring down China&#39;s whole economy. On top of that, Wall Street is worried about a stronger US economy and whether that will eventually bring inflation up too far. The lawyer for Hunter Biden has stepped down from his case and in Brazil a former star known as &quot;Brazil&#39;s Barbie&quot; is apologizing for her wrongdoings. Lastly, there was a terrible &#39;revenge porn&#39; lawsuit in Texas where the woman won 1.2 billion dollars from her ex-boyfriend who shared intimate images online without her consent. That&#39;s all for now!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Inside a Georgia Prosecutor’s Investigation of a Former President</h3>
@@ -69,15 +69,9 @@ Right now, there are a lot of developments in the US, Brazil, and China that are
 <sub><sub>Tuesday, August 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Georgia Case Lays the Ground for Parallel Prosecutions of Trump</h3>
-<sub>By Glenn Thrush and Danny Hakim</sub>
-<p>The district attorney in Georgia and the special counsel converged on the same conclusion: that Mr. Trump and his allies “knowingly and willfully joined a conspiracy to unlawfully change the outcome of the election.”  <a href="https://nyti.ms/3OWTYQx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>From ‘America’s Mayor’ to Criminal Defendant: Giuliani’s Long Tumble</h3>
-<sub>By Dan Barry</sub>
-<p>An indictment in the Georgia election conspiracy case marked perhaps the lowest point in the career of Rudolph W. Giuliani, who had staked his legacy on blind allegiance to the Trump administration.  <a href="https://nyti.ms/3OEMP63"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Special Counsel Obtained Trump’s Direct Messages on Twitter</h3>
+<sub>By Alan Feuer and Maggie Haberman</sub>
+<p>The nature of the messages or who exactly wrote them remained unclear, but it was a revelation that such messages were associated with the former president’s account.  <a href="https://nyti.ms/3QGXxLV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -132,6 +126,12 @@ Right now, there are a lot of developments in the US, Brazil, and China that are
 <h3>The Collateral Damage of A.D.H.D. Drug Shortages</h3>
 <sub>By Christina Caron</sub>
 <p>As a new school year begins, parents and doctors find medication shortages are leading to declines in learning and self-esteem.  <a href="https://nyti.ms/3OzPhuy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Woman Is Awarded $1.2 Billion in ‘Revenge Porn’ Lawsuit</h3>
+<sub>By Amanda Holpuch</sub>
+<p>A jury ruled in favor of a Texas woman who said her ex-boyfriend had psychologically and sexually abused her by sharing intimate images of her online without her consent.  <a href="https://nyti.ms/3QKYXFn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 15, Central Standard Time</sub></sub>
 <hr/>
 </ol>
