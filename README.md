@@ -60,10 +60,34 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, August 16, Central Standard Time</p>
 <p>
-There are a lot of things going on in the world right now. In the US, there&#39;s a case against former President Donald Trump and 18 allies that the prosecutor hopes to have a trial for within six months. In response to his attempts to subvert the election, Republicans are trying to move on from 2020 in order to defeat President Biden in 2024. Special counsel has obtained direct messages associated with his Twitter account. A ferocious wildfire in Hawaii has caused at least 106 deaths, and President Biden is visiting the island this Monday. In addition, an upward trend of natural disasters has made certain specialized firms more relevant. In New York, there&#39;s tension among Democrats over how to handle the migrant crisis and provide aid. In terms of international news, Russia is threatening ships near the Black Sea while Romania provides a lifeline for nearby Ukraine. Finally, what’s being called “forever chemicals” are everywhere and slowly being researched as to their impacts on humans. On top of that, several museums are giving female designers their due after many were underappreciated for years.</p>
+There is a lot going on in the world right now. In Hawaii, there was a horrible wildfire which has sadly led to 106 deaths so far, and families are still trying to find their missing loved ones. There are also insurance companies that have come to light which are selling insurance to insurers to help people with natural disasters. Moving on to politics, Donald Trump and 18 of his allies face a racketeering case in Georgia, which has caused tension among Republicans over how the 2020 election was handled. Also in Georgia, some abortion pill restrictions have been upheld recently by the appeals court. New York City is in the midst of a migrant crisis and has responded to demands from New York State for help but some Democrats have written a scathing letter saying NYC has already refused some offers and is slow to help. In the Black Sea area, Russian ships are making threats but Romania has provided a lifeline channel that allows Ukrainian grain to reach the sea as it is protected by NATO. Lastly, there is someone who works for Santos who involved himself in impersonating Speaker Kevin McCarthy&#39;s chief of staff during fund-raising appeals; he now faces federal charges. As for health issues, scientists have started understanding the effects of &#39;forever chemicals&#39; found almost everywhere and beginning understand how it impacts our health. </p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Georgia Case Against Trump, a Trial Within Six Months Could Be a Stretch</h3>
+<h3>After Maui’s Wildfire Horror, Residents Search for a Way Forward</h3>
+<sub>By Damien Cave and Michelle Mishina Kunz</sub>
+<p>As the search effort continues more than a week after the disaster, Maui’s residents try to balance helping friends and families with the tourism work needed to support themselves.  <a href="https://nyti.ms/3YJLf7C"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>First, a Ferocious Fire. Now, a Slow, Grim Search for the Dead.</h3>
+<sub>By Tim Arango</sub>
+<p>As families face an agonizing wait for word on missing loved ones on Maui, the death toll from the fire is likely to rise.  <a href="https://nyti.ms/45uZzmt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>What We Know About the Wildfires in Hawaii</h3>
+<sub>By Adeel Hassan</sub>
+<p>With the death toll at 106 and rising, officials have begun announcing names of the dead as families that survived the disaster begin the long, hard road toward recovery.  <a href="https://nyti.ms/3KzrwS9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>How a Small Group of Firms Changed the Math for Insuring Against Natural Disasters</h3>
+<sub>By Emily Flitter</sub>
+<p>Climate change, inflation and global instability have thrust companies that sell insurance to insurers into the spotlight.  <a href="https://nyti.ms/3qxPRRy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Georgia Case Against Trump, a Trial as Soon as March Could Be a Stretch</h3>
 <sub>By Richard Fausset, Danny Hakim and Shaila Dewan</sub>
 <p>The prosecutor in the racketeering case against Donald Trump and 18 allies has an ambitious timeline. Experts have their doubts.  <a href="https://nyti.ms/3DXLHFB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
@@ -80,34 +104,10 @@ There are a lot of things going on in the world right now. In the US, there&#39;
 <p>Some lawyers have said that if the former president were an ordinary citizen issuing these attacks, he would be in jail by now. The question is whether he will face similar consequences.  <a href="https://nyti.ms/459wZHD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Special Counsel Obtained Trump’s Direct Messages on Twitter</h3>
-<sub>By Alan Feuer and Maggie Haberman</sub>
-<p>The nature of the messages or who exactly wrote them remained unclear, but it was a revelation that such messages were associated with the former president’s account.  <a href="https://nyti.ms/3QGXxLV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>First, a Ferocious Fire. Now, a Slow, Grim Search for the Dead.</h3>
-<sub>By Tim Arango</sub>
-<p>As families face an agonizing wait for word on missing loved ones on Maui, the death toll from the fire is likely to rise.  <a href="https://nyti.ms/45uZzmt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden to Visit Maui on Monday to View Wildfire Damage</h3>
-<sub>By Peter Baker</sub>
-<p>The president and the first lady will meet with emergency workers and survivors of the fire, which killed more than 100 people on the Hawaiian island.  <a href="https://nyti.ms/45sLI03"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What We Know About the Wildfires in Hawaii</h3>
-<sub>By Adeel Hassan</sub>
-<p>With the death toll at 106 and rising, officials have begun announcing names of the dead as families that survived the disaster begin the long, hard road toward recovery.  <a href="https://nyti.ms/3KzrwS9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How a Small Group of Firms Changed the Math for Insuring Against Natural Disasters</h3>
-<sub>By Emily Flitter</sub>
-<p>Climate change, inflation and global instability have thrust companies that sell insurance to insurers into the spotlight.  <a href="https://nyti.ms/3qxPRRy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Appeals Court Upholds Abortion Pill Restrictions</h3>
+<sub>By Pam Belluck</sub>
+<p>The new ruling will have no effect on access until the Supreme Court ultimately decides the case.  <a href="https://nyti.ms/3P1FcYR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -122,16 +122,16 @@ There are a lot of things going on in the world right now. In the US, there&#39;
 <p>A 40-mile channel, best known outside shipping circles as a magnet for bird watchers, is now a crucial route allowing Ukrainian grain to reach the sea, protected by a NATO umbrella.  <a href="https://nyti.ms/45cYXSM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 15, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Santos Aide Who Impersonated McCarthy Staff Member Faces Federal Charges</h3>
+<sub>By Michael Gold and Grace Ashford</sub>
+<p>The aide, Samuel Miele, impersonated Speaker Kevin McCarthy’s chief of staff in fund-raising appeals and was charged with wire fraud and identity theft.  <a href="https://nyti.ms/44c5yeL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
 <h3>‘Forever Chemicals’ Are Everywhere. What Are They Doing to Us?</h3>
 <sub>By Kim Tingley</sub>
 <p>PFAS lurk in so much of what we eat, drink and use. Scientists are only beginning to understand how they’re impacting our health — and what to do about them.  <a href="https://nyti.ms/3QM1zCV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>Everyone Thought He Had Made the Famous Gown. It Was His Wife.</h3>
-<sub>By Vanessa Friedman</sub>
-<p>This fall, the Metropolitan and three other museums give female designers their due.  <a href="https://nyti.ms/3sitkZg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
