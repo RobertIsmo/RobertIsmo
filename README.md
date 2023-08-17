@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, August 16, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In Hawaii, there was a horrible wildfire which has sadly led to 106 deaths so far, and families are still trying to find their missing loved ones. There are also insurance companies that have come to light which are selling insurance to insurers to help people with natural disasters. Moving on to politics, Donald Trump and 18 of his allies face a racketeering case in Georgia, which has caused tension among Republicans over how the 2020 election was handled. Also in Georgia, some abortion pill restrictions have been upheld recently by the appeals court. New York City is in the midst of a migrant crisis and has responded to demands from New York State for help but some Democrats have written a scathing letter saying NYC has already refused some offers and is slow to help. In the Black Sea area, Russian ships are making threats but Romania has provided a lifeline channel that allows Ukrainian grain to reach the sea as it is protected by NATO. Lastly, there is someone who works for Santos who involved himself in impersonating Speaker Kevin McCarthy&#39;s chief of staff during fund-raising appeals; he now faces federal charges. As for health issues, scientists have started understanding the effects of &#39;forever chemicals&#39; found almost everywhere and beginning understand how it impacts our health. </p>
+The world is currently dealing with several newsworthy events. In the US, President Trump has been indicted and allies of his may be entering Atlanta&#39;s notorious jail. Wildfires in Hawaii have created an extremely difficult situation for the people and families impacted by it, as they attempt to recover and move forward. The Supreme Court is considering a case concerning restrictions on the abortion pill, while in Kansas, police officers raided a newspaper. Outside of the US, the British prime minister has been criticized for his wealth and ties to the United States following a vacation to California with Taylor Swift, while in Ukraine there are Russian forces retreating from a small village. Finally, an aide of Santos in New York City has been charged with fraud and identity theft due to pretending to be Speaker Kevin McCarthy&#39;s chief of staff in fund-raising appeals.</p>
 <ol>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Appeals Court Upholds Legality of Abortion Pill but With Significant Restrictions</h3>
+<sub>By Pam Belluck and Adam Liptak</sub>
+<p>The restrictions, which would prevent mifepristone from being mailed to patients and would require in-person doctor visits, are on hold until the Supreme Court weighs in.  <a href="https://nyti.ms/3P1FcYR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>After Maui’s Wildfire Horror, Residents Search for a Way Forward</h3>
 <sub>By Damien Cave and Michelle Mishina Kunz</sub>
@@ -69,28 +75,10 @@ There is a lot going on in the world right now. In Hawaii, there was a horrible 
 <sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>First, a Ferocious Fire. Now, a Slow, Grim Search for the Dead.</h3>
-<sub>By Tim Arango</sub>
-<p>As families face an agonizing wait for word on missing loved ones on Maui, the death toll from the fire is likely to rise.  <a href="https://nyti.ms/45uZzmt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>What We Know About the Wildfires in Hawaii</h3>
 <sub>By Adeel Hassan</sub>
-<p>With the death toll at 106 and rising, officials have begun announcing names of the dead as families that survived the disaster begin the long, hard road toward recovery.  <a href="https://nyti.ms/3KzrwS9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>With the death toll at 110 and rising, officials have begun announcing names of the dead as families that survived the disaster begin the long, hard road toward recovery.  <a href="https://nyti.ms/3KzrwS9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How a Small Group of Firms Changed the Math for Insuring Against Natural Disasters</h3>
-<sub>By Emily Flitter</sub>
-<p>Climate change, inflation and global instability have thrust companies that sell insurance to insurers into the spotlight.  <a href="https://nyti.ms/3qxPRRy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Georgia Case Against Trump, a Trial as Soon as March Could Be a Stretch</h3>
-<sub>By Richard Fausset, Danny Hakim and Shaila Dewan</sub>
-<p>The prosecutor in the racketeering case against Donald Trump and 18 allies has an ambitious timeline. Experts have their doubts.  <a href="https://nyti.ms/3DXLHFB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump’s Indictment Has Georgia Republicans Fearing Replay of 2020</h3>
@@ -99,39 +87,51 @@ There is a lot going on in the world right now. In Hawaii, there was a horrible 
 <sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘Biased.’ ‘Corrupt.’ ‘Deranged.’ Trump’s Taunts Test Limits of Release.</h3>
-<sub>By Maggie Haberman, Jonathan Swan and Alan Feuer</sub>
-<p>Some lawyers have said that if the former president were an ordinary citizen issuing these attacks, he would be in jail by now. The question is whether he will face similar consequences.  <a href="https://nyti.ms/459wZHD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Trump Allies Likely to Be Booked at Notorious Atlanta Jail</h3>
+<sub>By Danny Hakim and Richard Fausset</sub>
+<p>The local sheriff has said the defendants would be treated like everyone else should they surrender at the jail; the process for Donald J. Trump could be different.  <a href="https://nyti.ms/3KKoRoD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Appeals Court Upholds Abortion Pill Restrictions</h3>
-<sub>By Pam Belluck</sub>
-<p>The new ruling will have no effect on access until the Supreme Court ultimately decides the case.  <a href="https://nyti.ms/3P1FcYR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>After Kansas Paper Is Raided, Officials Are Ordered to Return What They Took</h3>
+<sub>By Kevin Draper and Benjamin Mullin</sub>
+<p>The raid of the newspaper, The Marion County Record, has drawn condemnation from First Amendment advocates.  <a href="https://nyti.ms/3E1d8yc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Scathing Letter Reveals Tension Among New York Democrats Over Migrant Crisis</h3>
-<sub>By Dana Rubinstein, Nicholas Fandos and Luis Ferré-Sadurní</sub>
-<p>The letter, responding to New York City’s list of demands for state help, said the city had already rebuffed some of the state’s offers and had been slow to aid migrants.  <a href="https://nyti.ms/3qDHzr9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Joan Meyer, Longtime Editor of a Besieged Newspaper, Dies at 98</h3>
+<sub>By Clay Risen</sub>
+<p>She collapsed a day after the police raided her home and the offices of The Marion County Record, a weekly paper in Kansas.  <a href="https://nyti.ms/47w4JAx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Rishi Sunak’s Vacation: Taylor Swift and Disneyland. (The Rest Is a Secret.)</h3>
+<sub>By Mark Landler</sub>
+<p>Thanks in part to careful media handling, the British prime minister, who has been criticized for his wife’s wealth and his U.S. ties, survived a trip to California with barely a peep of reproach.  <a href="https://nyti.ms/3DYRLxB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Russia Threatens Ships in the Black Sea, a Romanian Route Provides a Lifeline</h3>
-<sub>By Andrew Higgins</sub>
-<p>A 40-mile channel, best known outside shipping circles as a magnet for bird watchers, is now a crucial route allowing Ukrainian grain to reach the sea, protected by a NATO umbrella.  <a href="https://nyti.ms/45cYXSM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 15, Central Standard Time</sub></sub>
+<h3>Ukraine Recaptures a Small Village as Russian Forces Retreat</h3>
+<sub>By Marc Santora</sub>
+<p>The announcement came on the same day that a cargo ship stranded in the Odesa port became the first to venture into the turbulent waters of the Black Sea despite Moscow’s threats to treat vessels in the area as hostile.  <a href="https://nyti.ms/45ueg9w"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>One Family’s Toxic Train Wreck Ordeal: Illness, Exile and Debt</h3>
+<sub>By Emily Baumgaertner and Brian Kaiser</sub>
+<p>The Albright family left town after a train carrying toxic chemicals derailed near their Ohio home. Now, they are back, facing personal, medical and financial crises in a newly divided community.  <a href="https://nyti.ms/45vnhip"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>U.S. Women’s Soccer Coach Vlatko Andonovski Resigns</h3>
+<sub>By Claire Fahy and Andrew Das</sub>
+<p>Andonovski took over in 2019 and managed the team through two major international tournaments, winning neither one.  <a href="https://nyti.ms/45cTLyd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Santos Aide Who Impersonated McCarthy Staff Member Faces Federal Charges</h3>
 <sub>By Michael Gold and Grace Ashford</sub>
 <p>The aide, Samuel Miele, impersonated Speaker Kevin McCarthy’s chief of staff in fund-raising appeals and was charged with wire fraud and identity theft.  <a href="https://nyti.ms/44c5yeL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>‘Forever Chemicals’ Are Everywhere. What Are They Doing to Us?</h3>
-<sub>By Kim Tingley</sub>
-<p>PFAS lurk in so much of what we eat, drink and use. Scientists are only beginning to understand how they’re impacting our health — and what to do about them.  <a href="https://nyti.ms/3QM1zCV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
