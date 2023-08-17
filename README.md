@@ -60,12 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, August 17, Central Standard Time</p>
 <p>
-Right now, there’s a lot going on in the world. In terms of health news, researchers have identified a new class of weight loss drugs that could potentially change how we think about obesity. Meanwhile, former US President Donald Trump is using money from his supporters in order to pay for his legal bills as he faces criminal charges over his election lies. The situation in Ukraine is particularly concerning; tons of dolphins are washing up dead near the Black Sea, and Ukraine is building a case of ecocide against Russia. On the business side, there’s a huge demand for new houses despite high mortgage rates and bond market jitters. Finally, an entire city in Canada has been evacuated due to an advancing wildfire.</p>
+In the US, Donald Trump is facing multiple charges related to false statements he made about the 2020 election results, and supporters of Florida Governor DeSantis have released memos about debate strategies. Meanwhile, a Texas woman has been charged with threats against a judge presiding over Trump&#39;s election case. Elsewhere, search efforts continue for human remains in Maui after a wildfire, and there&#39;s a shortage of school bus drivers making it difficult to get students to class. In the business world, people are becoming increasingly interested in Colorado mountain towns due to its remote-worker-friendly lifestyle, and Wall Street analysts are bullish on the housing market right now. Finally, Ukraine is building legal evidence to prosecute Russia for ecocide as dead dolphins wash up on shore in the Black Sea.</p>
 <ol>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>We Know Where New Weight Loss Drugs Came From, but Not Why They Work</h3>
 <sub>By Gina Kolata</sub>
 <p>The empty auditoriums, Gila monsters, resistant pharmaceutical executives and enigmas that led to Ozempic and other drugs that may change how society thinks about obesity.  <a href="https://nyti.ms/3E3cIYl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Defend Trump and ‘Hammer’ Ramaswamy: DeSantis Allies Reveal Debate Strategy</h3>
+<sub>By Jonathan Swan, Shane Goldmacher and Maggie Haberman</sub>
+<p>Hundreds of pages of blunt advice, memos and internal polling were posted online by the main super PAC backing the Florida governor, offering an extraordinary glimpse into his operation’s thinking.  <a href="https://nyti.ms/3E079K7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -75,16 +81,16 @@ Right now, there’s a lot going on in the world. In terms of health news, resea
 <sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Fact-Checking the Breadth of Trump’s Election Lies</h3>
+<sub>By Linda Qiu</sub>
+<p>The former president faces multiple charges related to his lies about the 2020 election. Here’s a look at some of his most repeated falsehoods.  <a href="https://nyti.ms/3sayx5n"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>All the (Former) President’s Lawyers</h3>
 <sub>By Chris Cameron</sub>
 <p>Donald Trump’s PACs have spent millions of dollars on a small army of lawyers to defend him in four separate federal and state criminal cases.  <a href="https://nyti.ms/45ujge1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Assessing the Breadth of Trump’s Election Lies</h3>
-<sub>By Linda Qiu</sub>
-<p>The former president faces multiple charges related to his lies about the 2020 election. Here’s a look at some of his most repeated falsehoods.  <a href="https://nyti.ms/3sayx5n"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Texas Woman Charged With Threatening to Kill Judge in Trump Election Case</h3>
@@ -127,12 +133,6 @@ Right now, there’s a lot going on in the world. In terms of health news, resea
 <sub>By Marc Santora</sub>
 <p>The animals are dying in droves in the Black Sea, and Ukrainian officials are documenting the deaths, hoping to prosecute Russia for the war’s ecological toll.  <a href="https://nyti.ms/44dk8CP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Says Kyiv Won’t Receive F-16 Fighter Jets This Year</h3>
-<sub>By Matthew Mpoke Bigg and Lara Jakes</sub>
-<p>A spokesman for the Ukrainian Air Force said the advanced planes won’t arrive by winter, meaning they won’t play a role in the latest counteroffensive push.  <a href="https://nyti.ms/459TVXl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
