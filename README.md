@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Wednesday, August 16, Central Standard Time</p>
-<p>
-There is a lot happening in the world today. In the US, the Supreme Court is weighing in on a case that could decide whether or not the abortion pill should remain widely available. Hawaii is still struggling after devastating wildfires that killed 110 people. In Georgia, Republicans are fearing a repeat of 2020 and Donald Trump allies have been arrested and charged for various offences. In business news, there has been a raid of a Kansas newspaper while elsewhere, Ukraine is recapturing another small village from Russian forces. On the health front, court appeals have upheld the legality of the abortion pill but with significantly strict restrictions, while one Ohio family’s toxic train wreck ordeal is hurting both physically and financially.</p>
+<p>It is Thursday, August 17, Central Standard Time</p>
+<p> 
+Recently, there has been a lot happening in the world. In the US, the Supreme Court is getting ready to make a major decision about whether or not to make abortion pills more widely available. Meanwhile, after a devastating wildfire in Maui, residents are struggling to recover and search for victims continues. Also, Republicans in Georgia are worried about a repeat of 2020&#39;s election results, and allies of Donald Trump may be booked in an infamous Atlanta jail. At the same time, there&#39;s been a raid of a Kansas newspaper and its editor sadly passed away. Internationally, British Prime Minister Rishi Sunak made headlines after taking a secret vacation to California with Taylor Swift and Disneyland. Lastly, Ukraine has started to reclaim territory from Russian forces by recapturing a small village.</p>
 <ol>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>Appeals Court Upholds Legality of Abortion Pill but With Significant Restrictions</h3>
@@ -81,9 +81,15 @@ There is a lot happening in the world today. In the US, the Supreme Court is wei
 <sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>As Search for Maui Victims Goes On, Names of Dead Are Slow to Emerge</h3>
+<sub>By Jacey Fortin</sub>
+<p>Emergency responders, with help from anthropologists and cadaver dogs, must sift through a wasteland of ashes and debris to find human remains.  <a href="https://nyti.ms/3OLB9i2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>What We Know About the Wildfires in Hawaii</h3>
 <sub>By Adeel Hassan</sub>
-<p>With the death toll at 110 and rising, officials have begun announcing names of the dead as families that survived the disaster begin the long, hard road toward recovery.  <a href="https://nyti.ms/3KzrwS9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>With the death toll at 111 and rising, officials have begun announcing names of the dead as families that survived the disaster begin the long, hard road toward recovery.  <a href="https://nyti.ms/3KzrwS9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -126,12 +132,6 @@ There is a lot happening in the world today. In the US, the Supreme Court is wei
 <h3>Ukraine Recaptures a Small Village as Russian Forces Retreat</h3>
 <sub>By Marc Santora</sub>
 <p>The announcement came on the same day that a cargo ship stranded in the Odesa port became the first to venture into the turbulent waters of the Black Sea despite Moscow’s threats to treat vessels in the area as hostile.  <a href="https://nyti.ms/45ueg9w"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>One Family’s Toxic Train Wreck Ordeal: Illness, Exile and Debt</h3>
-<sub>By Emily Baumgaertner and Brian Kaiser</sub>
-<p>The Albright family left town after a train carrying toxic chemicals derailed near their Ohio home. Now, they are back, facing personal, medical and financial crises in a newly divided community.  <a href="https://nyti.ms/45vnhip"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
