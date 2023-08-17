@@ -60,32 +60,36 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, August 17, Central Standard Time</p>
 <p>
-There have been a lot of important legal stories in the United States recently. The Supreme Court is currently deciding whether or not the abortion pill mifepristone should remain widely available, with Appeals Court upholding its legality but with significant restrictions, such as requiring in-person doctor visits and preventing said pill from being mailed to patients.
-
-Another matter of lamentable tragedy is taking place in Hawaii. A wildfire last week has left 111 people dead and an estimated $250 million in damages done, leaving Maui&#39;s residents to search for a way forward while emergency responders are trying to sift through a wasteland of ashes and debris to find human remains. 
-
-Meanwhile, in Georgia, Republican officials who rejected Donald Trump&#39;s calls to subvert the election results and are now fearing an electoral replay of 2020 as Donald Trump allies are likely to be booked at an infamous Atlanta jail. Additionally, a Texas woman was charged with threatening to kill an federal judge presiding over one of the former President&#39;s election cases. 
-
-In Kansas, First Amendment advocates condemned the raid of The Marion County Record newspaper, the longtime editor of which died soon after at age 98. And in Britain, Prime Minister Rishi Sunak managed to take a vacation trip to California without much public reproach despite criticism of his wife&#39;s wealth and his own U.S. ties; the details of his trip remain a secret. 
-
-Finally, U.S. Women&#39;s Soccer coach Vlatko Andonovski has resigned after their World Cup exit earlier this month despite having taken over the team within the past two years and managing them through two major international tournaments -- both which they did not win unfortunately.</p>
+Right now, there’s a lot going on in the world. In terms of health news, researchers have identified a new class of weight loss drugs that could potentially change how we think about obesity. Meanwhile, former US President Donald Trump is using money from his supporters in order to pay for his legal bills as he faces criminal charges over his election lies. The situation in Ukraine is particularly concerning; tons of dolphins are washing up dead near the Black Sea, and Ukraine is building a case of ecocide against Russia. On the business side, there’s a huge demand for new houses despite high mortgage rates and bond market jitters. Finally, an entire city in Canada has been evacuated due to an advancing wildfire.</p>
 <ol>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Appeals Court Upholds Legality of Abortion Pill but With Significant Restrictions</h3>
-<sub>By Pam Belluck and Adam Liptak</sub>
-<p>The restrictions, which would prevent mifepristone from being mailed to patients and would require in-person doctor visits, are on hold until the Supreme Court weighs in.  <a href="https://nyti.ms/3P1FcYR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>We Know Where New Weight Loss Drugs Came From, but Not Why They Work</h3>
+<sub>By Gina Kolata</sub>
+<p>The empty auditoriums, Gila monsters, resistant pharmaceutical executives and enigmas that led to Ozempic and other drugs that may change how society thinks about obesity.  <a href="https://nyti.ms/3E3cIYl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How Trump Uses Supporters’ Donations to Pay His Legal Bills</h3>
+<sub>By Rebecca Davis O’Brien</sub>
+<p>Facing a wide array of criminal charges, the former president is using money from small donors to defend himself legally — a practice that raises ethical questions.  <a href="https://nyti.ms/3schGzb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>All the (Former) President’s Lawyers</h3>
+<sub>By Chris Cameron</sub>
+<p>Donald Trump’s PACs have spent millions of dollars on a small army of lawyers to defend him in four separate federal and state criminal cases.  <a href="https://nyti.ms/45ujge1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Abortion Pill Case: What’s Happened, What’s at Stake, What’s Next</h3>
-<sub>By Pam Belluck and Abbie VanSickle</sub>
-<p>The case is headed back to the Supreme Court, which will ultimately decide whether a pill used in the most common abortion method should remain widely available. Here is what’s at stake.  <a href="https://nyti.ms/3Mw22GA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 21, Central Standard Time</sub></sub>
+<h3>Assessing the Breadth of Trump’s Election Lies</h3>
+<sub>By Linda Qiu</sub>
+<p>The former president faces multiple charges related to his lies about the 2020 election. Here’s a look at some of his most repeated falsehoods.  <a href="https://nyti.ms/3sayx5n"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>After Maui’s Wildfire Horror, Residents Search for a Way Forward</h3>
-<sub>By Damien Cave and Michelle Mishina Kunz</sub>
-<p>As the search effort continues more than a week after the disaster, Maui’s residents try to balance helping friends and families with the tourism work needed to support themselves.  <a href="https://nyti.ms/3YJLf7C"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Texas Woman Charged With Threatening to Kill Judge in Trump Election Case</h3>
+<sub>By Alan Feuer</sub>
+<p>Days after the woman called her chambers, Judge Tanya S. Chutkan cautioned the former president about making “inflammatory statements” that could harm the integrity of the case.  <a href="https://nyti.ms/3YG9WSs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -94,53 +98,41 @@ Finally, U.S. Women&#39;s Soccer coach Vlatko Andonovski has resigned after thei
 <p>Emergency responders, with help from anthropologists and cadaver dogs, must sift through a wasteland of ashes and debris to find human remains.  <a href="https://nyti.ms/3OLB9i2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What We Know About the Wildfires in Hawaii</h3>
-<sub>By Adeel Hassan</sub>
-<p>With the death toll at 111 and rising, officials have begun announcing names of the dead as families that survived the disaster begin the long, hard road toward recovery.  <a href="https://nyti.ms/3KzrwS9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As Wildfire Nears, Entire Canadian City Is Ordered to Evacuate</h3>
+<sub>By Ian Austen</sub>
+<p>Officials told residents to clear out of the Northwest Territories city of Yellowknife by Friday afternoon. Most were expected to flee south by road.  <a href="https://nyti.ms/3QE4HAD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump’s Indictment Has Georgia Republicans Fearing Replay of 2020</h3>
-<sub>By Jonathan Weisman and Maya King</sub>
-<p>State officials who rejected Donald Trump’s calls to subvert the election results say the party must move on from 2020 in order to defeat President Biden in 2024.  <a href="https://nyti.ms/3E24bF3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Allies Likely to Be Booked at Notorious Atlanta Jail</h3>
-<sub>By Danny Hakim and Richard Fausset</sub>
-<p>The local sheriff has said the defendants would be treated like everyone else should they surrender at the jail; the process for Donald J. Trump could be different.  <a href="https://nyti.ms/3KKoRoD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Texas Woman Charged With Threatening to Kill Judge in Trump Election Case</h3>
-<sub>By Alan Feuer</sub>
-<p>Days after the woman called her chambers, Judge Tanya S. Chutkan cautioned the former president about making “inflammatory statements” that could harm the integrity of the case.  <a href="https://nyti.ms/3YG9WSs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
+<h3>The Shortage in School Bus Drivers Is Getting Worse</h3>
+<sub>By Colbi Edmonds</sub>
+<p>Looking for an alternative, the school district in Louisville, Ky., turned to a software program — leading to chaos. It’s one of many districts struggling to get students to class.  <a href="https://nyti.ms/3P0Ljwm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>After Kansas Paper Is Raided, Officials Are Ordered to Return What They Took</h3>
-<sub>By Kevin Draper and Benjamin Mullin</sub>
-<p>The raid of the newspaper, The Marion County Record, has drawn condemnation from First Amendment advocates.  <a href="https://nyti.ms/3E1d8yc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
+<h3>Can Affluence and Affordable Housing Coexist in Colorado’s Rockies?</h3>
+<sub>By Talmon Joseph Smith and Joanna Kulesza</sub>
+<p>The outdoorsy lifestyle of Colorado mountain towns has become a magnet for the new remote-worker class, upending life for those already rooted there.  <a href="https://nyti.ms/3DXNSZM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Joan Meyer, Longtime Editor of a Besieged Newspaper, Dies at 98</h3>
-<sub>By Clay Risen</sub>
-<p>She collapsed a day after the police raided her home and the offices of The Marion County Record, a weekly paper in Kansas.  <a href="https://nyti.ms/47w4JAx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 15, Central Standard Time</sub></sub>
+<h3>Why Wall Street is Gung-ho on the Housing Market</h3>
+<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
+<p>Despite mortgage rates hitting multidecade highs and jitters in the bond market, demand for new homes is strong and prices are rising.  <a href="https://nyti.ms/45v7no9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Rishi Sunak’s Vacation: Taylor Swift and Disneyland. (The Rest Is a Secret.)</h3>
-<sub>By Mark Landler</sub>
-<p>Thanks in part to careful media handling, the British prime minister, who has been criticized for his wife’s wealth and his U.S. ties, survived a trip to California with barely a peep of reproach.  <a href="https://nyti.ms/3DYRLxB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>As Dead Dolphins Wash Ashore, Ukraine Builds a Case of Ecocide Against Russia</h3>
+<sub>By Marc Santora</sub>
+<p>The animals are dying in droves in the Black Sea, and Ukrainian officials are documenting the deaths, hoping to prosecute Russia for the war’s ecological toll.  <a href="https://nyti.ms/44dk8CP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>U.S. Women’s Soccer Coach Vlatko Andonovski Resigns After World Cup Exit</h3>
-<sub>By Claire Fahy and Andrew Das</sub>
-<p>Andonovski took over in 2019 and managed the team through two major international tournaments, winning neither one.  <a href="https://nyti.ms/45cTLyd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukraine Says Kyiv Won’t Receive F-16 Fighter Jets This Year</h3>
+<sub>By Matthew Mpoke Bigg and Lara Jakes</sub>
+<p>A spokesman for the Ukrainian Air Force said the advanced planes won’t arrive by winter, meaning they won’t play a role in the latest counteroffensive push.  <a href="https://nyti.ms/459TVXl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
