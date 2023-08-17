@@ -60,8 +60,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, August 17, Central Standard Time</p>
 <p>
-In the US, Donald Trump is facing multiple charges related to false statements he made about the 2020 election results, and supporters of Florida Governor DeSantis have released memos about debate strategies. Meanwhile, a Texas woman has been charged with threats against a judge presiding over Trump&#39;s election case. Elsewhere, search efforts continue for human remains in Maui after a wildfire, and there&#39;s a shortage of school bus drivers making it difficult to get students to class. In the business world, people are becoming increasingly interested in Colorado mountain towns due to its remote-worker-friendly lifestyle, and Wall Street analysts are bullish on the housing market right now. Finally, Ukraine is building legal evidence to prosecute Russia for ecocide as dead dolphins wash up on shore in the Black Sea.</p>
+There&#39;s a lot going on the world right now. In the United States, there&#39;s the ongoing legal battle involving former president Donald Trump - he has a small army of lawyers helping him with four separate federal and state criminal cases. The Democratic Group is also launching a $10 million push to protect election officials in five battleground states: Georgia, Arizona, North Carolina, Nevada and Wisconsin. On the Republican side, we&#39;re seeing more divisions as different types of Republican voters emerge with their own priorities and opinions heading into 2024.
+
+At the same time, in California there&#39;s been a big controversy around an Instagram account that posted racist content which has deeply divided the local community. And in Colorado, there&#39;s a debate over how to reconcile affluence and affordable housing in Colorado&#39;s Rocky Mountains, which has become more attractive to new remote workers who may not be already established in the area. 
+
+Finally, in Hawaii, there&#39;s been devastating news relating to a wildfire that has left 111 dead - people are also asking whether it would be appropriate for people to visit even though the island relies heavily on tourist dollars.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Defend Trump and ‘Hammer’ Ramaswamy: DeSantis Allies Reveal Debate Strategy</h3>
+<sub>By Jonathan Swan, Shane Goldmacher and Maggie Haberman</sub>
+<p>Hundreds of pages of blunt advice, memos and internal polling were posted online by the main super PAC backing the Florida governor, offering an extraordinary glimpse into his operation’s thinking.  <a href="https://nyti.ms/3E079K7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>The 6 Kinds of Republican Voters</h3>
+<sub>By Nate Cohn</sub>
+<p>A deeper look at the groups that will make up the Republican Party of 2024.  <a href="https://nyti.ms/459ivY8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Democratic Group Plans $10 Million Push to Protect Election Officials</h3>
+<sub>By Nick Corasaniti</sub>
+<p>The group is starting a new venture that will focus on five battleground states: Georgia, Arizona, North Carolina, Nevada and Wisconsin.  <a href="https://nyti.ms/3ODndX6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>We Know Where New Weight Loss Drugs Came From, but Not Why They Work</h3>
 <sub>By Gina Kolata</sub>
@@ -69,21 +91,15 @@ In the US, Donald Trump is facing multiple charges related to false statements h
 <sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Defend Trump and ‘Hammer’ Ramaswamy: DeSantis Allies Reveal Debate Strategy</h3>
-<sub>By Jonathan Swan, Shane Goldmacher and Maggie Haberman</sub>
-<p>Hundreds of pages of blunt advice, memos and internal polling were posted online by the main super PAC backing the Florida governor, offering an extraordinary glimpse into his operation’s thinking.  <a href="https://nyti.ms/3E079K7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>For an Atlanta Reporter, a Trump Scoop Long in the Making</h3>
+<sub>By Robert Draper</sub>
+<p>George Chidi’s cameo appearance in the indictment of Donald J. Trump in Georgia was a plot twist, but not an accident.  <a href="https://nyti.ms/3P12sGe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>How Trump Uses Supporters’ Donations to Pay His Legal Bills</h3>
 <sub>By Rebecca Davis O’Brien</sub>
 <p>Facing a wide array of criminal charges, the former president is using money from small donors to defend himself legally — a practice that raises ethical questions.  <a href="https://nyti.ms/3schGzb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Fact-Checking the Breadth of Trump’s Election Lies</h3>
-<sub>By Linda Qiu</sub>
-<p>The former president faces multiple charges related to his lies about the 2020 election. Here’s a look at some of his most repeated falsehoods.  <a href="https://nyti.ms/3sayx5n"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -99,21 +115,21 @@ In the US, Donald Trump is facing multiple charges related to false statements h
 <sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>As Search for Maui Victims Goes On, Names of Dead Are Slow to Emerge</h3>
-<sub>By Jacey Fortin</sub>
-<p>Emergency responders, with help from anthropologists and cadaver dogs, must sift through a wasteland of ashes and debris to find human remains.  <a href="https://nyti.ms/3OLB9i2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
+<h3>Latest About the Maui Wildfires: Dispute Over Siren Response</h3>
+<sub>By Adeel Hassan</sub>
+<p>With the death toll at 111 and rising, officials have begun announcing names of the dead as families that survived the disaster begin the long, hard road toward recovery.  <a href="https://nyti.ms/3KzrwS9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Wildfire Nears, Entire Canadian City Is Ordered to Evacuate</h3>
-<sub>By Ian Austen</sub>
-<p>Officials told residents to clear out of the Northwest Territories city of Yellowknife by Friday afternoon. Most were expected to flee south by road.  <a href="https://nyti.ms/3QE4HAD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-travel-blue" alt="">
+<h3>After Maui Wildfires, Travelers Ask: Would a Trip Help or Hurt?</h3>
+<sub>By Christine Chung and Madison Malone Kircher</sub>
+<p>Residents and travelers are grappling with the propriety of visiting Maui, the epicenter of last week’s wildfires but an island heavily reliant on tourist dollars.  <a href="https://nyti.ms/44bXwTq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Shortage in School Bus Drivers Is Getting Worse</h3>
-<sub>By Colbi Edmonds</sub>
-<p>Looking for an alternative, the school district in Louisville, Ky., turned to a software program — leading to chaos. It’s one of many districts struggling to get students to class.  <a href="https://nyti.ms/3P0Ljwm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>The Instagram Account That Shattered a California High School</h3>
+<sub>By Dashka Slater</sub>
+<p>It had barely a dozen followers, but the discovery of its racist posts turned a Bay Area community against itself — and changed students’ lives forever.  <a href="https://nyti.ms/3sfrlFc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -121,18 +137,6 @@ In the US, Donald Trump is facing multiple charges related to false statements h
 <sub>By Talmon Joseph Smith and Joanna Kulesza</sub>
 <p>The outdoorsy lifestyle of Colorado mountain towns has become a magnet for the new remote-worker class, upending life for those already rooted there.  <a href="https://nyti.ms/3DXNSZM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Why Wall Street is Gung-ho on the Housing Market</h3>
-<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
-<p>Despite mortgage rates hitting multidecade highs and jitters in the bond market, demand for new homes is strong and prices are rising.  <a href="https://nyti.ms/45v7no9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Dead Dolphins Wash Ashore, Ukraine Builds a Case of Ecocide Against Russia</h3>
-<sub>By Marc Santora</sub>
-<p>The animals are dying in droves in the Black Sea, and Ukrainian officials are documenting the deaths, hoping to prosecute Russia for the war’s ecological toll.  <a href="https://nyti.ms/44dk8CP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
