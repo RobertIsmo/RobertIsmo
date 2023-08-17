@@ -60,13 +60,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, August 16, Central Standard Time</p>
 <p>
-The world is currently dealing with several newsworthy events. In the US, President Trump has been indicted and allies of his may be entering Atlanta&#39;s notorious jail. Wildfires in Hawaii have created an extremely difficult situation for the people and families impacted by it, as they attempt to recover and move forward. The Supreme Court is considering a case concerning restrictions on the abortion pill, while in Kansas, police officers raided a newspaper. Outside of the US, the British prime minister has been criticized for his wealth and ties to the United States following a vacation to California with Taylor Swift, while in Ukraine there are Russian forces retreating from a small village. Finally, an aide of Santos in New York City has been charged with fraud and identity theft due to pretending to be Speaker Kevin McCarthy&#39;s chief of staff in fund-raising appeals.</p>
+There is a lot happening in the world today. In the US, the Supreme Court is weighing in on a case that could decide whether or not the abortion pill should remain widely available. Hawaii is still struggling after devastating wildfires that killed 110 people. In Georgia, Republicans are fearing a repeat of 2020 and Donald Trump allies have been arrested and charged for various offences. In business news, there has been a raid of a Kansas newspaper while elsewhere, Ukraine is recapturing another small village from Russian forces. On the health front, court appeals have upheld the legality of the abortion pill but with significantly strict restrictions, while one Ohio family’s toxic train wreck ordeal is hurting both physically and financially.</p>
 <ol>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>Appeals Court Upholds Legality of Abortion Pill but With Significant Restrictions</h3>
 <sub>By Pam Belluck and Adam Liptak</sub>
 <p>The restrictions, which would prevent mifepristone from being mailed to patients and would require in-person doctor visits, are on hold until the Supreme Court weighs in.  <a href="https://nyti.ms/3P1FcYR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Abortion Pill Case: What’s Happened, What’s at Stake, What’s Next</h3>
+<sub>By Pam Belluck and Abbie VanSickle</sub>
+<p>The case is headed back to the Supreme Court, which will ultimately decide whether a pill used in the most common abortion method should remain widely available. Here is what’s at stake.  <a href="https://nyti.ms/3Mw22GA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>After Maui’s Wildfire Horror, Residents Search for a Way Forward</h3>
@@ -90,6 +96,12 @@ The world is currently dealing with several newsworthy events. In the US, Presid
 <h3>Trump Allies Likely to Be Booked at Notorious Atlanta Jail</h3>
 <sub>By Danny Hakim and Richard Fausset</sub>
 <p>The local sheriff has said the defendants would be treated like everyone else should they surrender at the jail; the process for Donald J. Trump could be different.  <a href="https://nyti.ms/3KKoRoD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Texas Woman Charged With Threatening to Kill Judge in Trump Election Case</h3>
+<sub>By Alan Feuer</sub>
+<p>Days after the woman called her chambers, Judge Tanya S. Chutkan cautioned the former president about making “inflammatory statements” that could harm the integrity of the case.  <a href="https://nyti.ms/3YG9WSs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -120,18 +132,6 @@ The world is currently dealing with several newsworthy events. In the US, Presid
 <h3>One Family’s Toxic Train Wreck Ordeal: Illness, Exile and Debt</h3>
 <sub>By Emily Baumgaertner and Brian Kaiser</sub>
 <p>The Albright family left town after a train carrying toxic chemicals derailed near their Ohio home. Now, they are back, facing personal, medical and financial crises in a newly divided community.  <a href="https://nyti.ms/45vnhip"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>U.S. Women’s Soccer Coach Vlatko Andonovski Resigns</h3>
-<sub>By Claire Fahy and Andrew Das</sub>
-<p>Andonovski took over in 2019 and managed the team through two major international tournaments, winning neither one.  <a href="https://nyti.ms/45cTLyd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Santos Aide Who Impersonated McCarthy Staff Member Faces Federal Charges</h3>
-<sub>By Michael Gold and Grace Ashford</sub>
-<p>The aide, Samuel Miele, impersonated Speaker Kevin McCarthy’s chief of staff in fund-raising appeals and was charged with wire fraud and identity theft.  <a href="https://nyti.ms/44c5yeL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
