@@ -59,8 +59,16 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, August 17, Central Standard Time</p>
-<p> 
-Recently, there has been a lot happening in the world. In the US, the Supreme Court is getting ready to make a major decision about whether or not to make abortion pills more widely available. Meanwhile, after a devastating wildfire in Maui, residents are struggling to recover and search for victims continues. Also, Republicans in Georgia are worried about a repeat of 2020&#39;s election results, and allies of Donald Trump may be booked in an infamous Atlanta jail. At the same time, there&#39;s been a raid of a Kansas newspaper and its editor sadly passed away. Internationally, British Prime Minister Rishi Sunak made headlines after taking a secret vacation to California with Taylor Swift and Disneyland. Lastly, Ukraine has started to reclaim territory from Russian forces by recapturing a small village.</p>
+<p>
+There have been a lot of important legal stories in the United States recently. The Supreme Court is currently deciding whether or not the abortion pill mifepristone should remain widely available, with Appeals Court upholding its legality but with significant restrictions, such as requiring in-person doctor visits and preventing said pill from being mailed to patients.
+
+Another matter of lamentable tragedy is taking place in Hawaii. A wildfire last week has left 111 people dead and an estimated $250 million in damages done, leaving Maui&#39;s residents to search for a way forward while emergency responders are trying to sift through a wasteland of ashes and debris to find human remains. 
+
+Meanwhile, in Georgia, Republican officials who rejected Donald Trump&#39;s calls to subvert the election results and are now fearing an electoral replay of 2020 as Donald Trump allies are likely to be booked at an infamous Atlanta jail. Additionally, a Texas woman was charged with threatening to kill an federal judge presiding over one of the former President&#39;s election cases. 
+
+In Kansas, First Amendment advocates condemned the raid of The Marion County Record newspaper, the longtime editor of which died soon after at age 98. And in Britain, Prime Minister Rishi Sunak managed to take a vacation trip to California without much public reproach despite criticism of his wife&#39;s wealth and his own U.S. ties; the details of his trip remain a secret. 
+
+Finally, U.S. Women&#39;s Soccer coach Vlatko Andonovski has resigned after their World Cup exit earlier this month despite having taken over the team within the past two years and managing them through two major international tournaments -- both which they did not win unfortunately.</p>
 <ol>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>Appeals Court Upholds Legality of Abortion Pill but With Significant Restrictions</h3>
@@ -128,10 +136,10 @@ Recently, there has been a lot happening in the world. In the US, the Supreme Co
 <p>Thanks in part to careful media handling, the British prime minister, who has been criticized for his wife’s wealth and his U.S. ties, survived a trip to California with barely a peep of reproach.  <a href="https://nyti.ms/3DYRLxB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Recaptures a Small Village as Russian Forces Retreat</h3>
-<sub>By Marc Santora</sub>
-<p>The announcement came on the same day that a cargo ship stranded in the Odesa port became the first to venture into the turbulent waters of the Black Sea despite Moscow’s threats to treat vessels in the area as hostile.  <a href="https://nyti.ms/45ueg9w"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>U.S. Women’s Soccer Coach Vlatko Andonovski Resigns After World Cup Exit</h3>
+<sub>By Claire Fahy and Andrew Das</sub>
+<p>Andonovski took over in 2019 and managed the team through two major international tournaments, winning neither one.  <a href="https://nyti.ms/45cTLyd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
