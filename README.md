@@ -60,59 +60,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, August 17, Central Standard Time</p>
 <p>
-There&#39;s a lot going on the world right now. In the United States, there&#39;s the ongoing legal battle involving former president Donald Trump - he has a small army of lawyers helping him with four separate federal and state criminal cases. The Democratic Group is also launching a $10 million push to protect election officials in five battleground states: Georgia, Arizona, North Carolina, Nevada and Wisconsin. On the Republican side, we&#39;re seeing more divisions as different types of Republican voters emerge with their own priorities and opinions heading into 2024.
-
-At the same time, in California there&#39;s been a big controversy around an Instagram account that posted racist content which has deeply divided the local community. And in Colorado, there&#39;s a debate over how to reconcile affluence and affordable housing in Colorado&#39;s Rocky Mountains, which has become more attractive to new remote workers who may not be already established in the area. 
-
-Finally, in Hawaii, there&#39;s been devastating news relating to a wildfire that has left 111 dead - people are also asking whether it would be appropriate for people to visit even though the island relies heavily on tourist dollars.</p>
+In the U.S., mortgage rates are at their highest level since 2002, making it more difficult for people to afford a home as supply is short. Wildfires in Hawaii have exposed the state&#39;s lack of defenses against climate shocks, and now officials are trying to figure out how to respond to the disaster. In Georgia, Trump Grand Jurors have been threatened, while a reporter uncovered some Trump-related news after months of waiting. A majority of Americans think the charges against him have merit. There&#39;s also a debate taking place over how Governor DeSantis is handling his election campaign. Meanwhile, Republicans are taking a closer look at the 6 kinds of GOP voters in an effort to make changes for 2024. Lastly, there&#39;s been an Instagram account that caused an uproar in California after racist posts were made public. Scientists are still trying to understand how new weight-loss drugs work. Finally, Colorado&#39;s mountain towns have been attracting remote workers, creating tension between those already there and the influx of affluent people looking for affordable housing.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Defend Trump and ‘Hammer’ Ramaswamy: DeSantis Allies Reveal Debate Strategy</h3>
-<sub>By Jonathan Swan, Shane Goldmacher and Maggie Haberman</sub>
-<p>Hundreds of pages of blunt advice, memos and internal polling were posted online by the main super PAC backing the Florida governor, offering an extraordinary glimpse into his operation’s thinking.  <a href="https://nyti.ms/3E079K7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>U.S. Mortgage Rate Jumps to Highest Level Since 2002</h3>
+<sub>By Gregory Schmidt</sub>
+<p>The average rate on a 30-year mortgage has been rising again, making it even harder for buyers to afford homes, which are in short supply.  <a href="https://nyti.ms/3KKN6Dh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>The 6 Kinds of Republican Voters</h3>
-<sub>By Nate Cohn</sub>
-<p>A deeper look at the groups that will make up the Republican Party of 2024.  <a href="https://nyti.ms/459ivY8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Fire Exposes Flaws in Hawaii’s Defenses Against Climate Shocks</h3>
+<sub>By Christopher Flavelle</sub>
+<p>Neglected landscapes, weak building standards and decommissioned dams have left the state more vulnerable to wildfires.  <a href="https://nyti.ms/3sgetPg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Democratic Group Plans $10 Million Push to Protect Election Officials</h3>
-<sub>By Nick Corasaniti</sub>
-<p>The group is starting a new venture that will focus on five battleground states: Georgia, Arizona, North Carolina, Nevada and Wisconsin.  <a href="https://nyti.ms/3ODndX6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>We Know Where New Weight Loss Drugs Came From, but Not Why They Work</h3>
-<sub>By Gina Kolata</sub>
-<p>The empty auditoriums, Gila monsters, resistant pharmaceutical executives and enigmas that led to Ozempic and other drugs that may change how society thinks about obesity.  <a href="https://nyti.ms/3E3cIYl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>For an Atlanta Reporter, a Trump Scoop Long in the Making</h3>
-<sub>By Robert Draper</sub>
-<p>George Chidi’s cameo appearance in the indictment of Donald J. Trump in Georgia was a plot twist, but not an accident.  <a href="https://nyti.ms/3P12sGe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Trump Uses Supporters’ Donations to Pay His Legal Bills</h3>
-<sub>By Rebecca Davis O’Brien</sub>
-<p>Facing a wide array of criminal charges, the former president is using money from small donors to defend himself legally — a practice that raises ethical questions.  <a href="https://nyti.ms/3schGzb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>All the (Former) President’s Lawyers</h3>
-<sub>By Chris Cameron</sub>
-<p>Donald Trump’s PACs have spent millions of dollars on a small army of lawyers to defend him in four separate federal and state criminal cases.  <a href="https://nyti.ms/45ujge1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Texas Woman Charged With Threatening to Kill Judge in Trump Election Case</h3>
-<sub>By Alan Feuer</sub>
-<p>Days after the woman called her chambers, Judge Tanya S. Chutkan cautioned the former president about making “inflammatory statements” that could harm the integrity of the case.  <a href="https://nyti.ms/3YG9WSs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Latest About the Maui Wildfires: Dispute Over Siren Response</h3>
@@ -126,10 +86,46 @@ Finally, in Hawaii, there&#39;s been devastating news relating to a wildfire tha
 <p>Residents and travelers are grappling with the propriety of visiting Maui, the epicenter of last week’s wildfires but an island heavily reliant on tourist dollars.  <a href="https://nyti.ms/44bXwTq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Officials Investigate Threats Against Trump Grand Jurors in Georgia</h3>
+<sub>By Anna Betts, James C. McKinley Jr. and Nicholas Bogel-Burroughs</sub>
+<p>Some of the jurors’ identities have been shared on social media, with suggestions that they be harassed or made “infamous.”  <a href="https://nyti.ms/45epjDT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>For an Atlanta Reporter, a Trump Scoop Long in the Making</h3>
+<sub>By Robert Draper</sub>
+<p>George Chidi’s cameo appearance in the indictment of Donald J. Trump in Georgia was a plot twist, but not an accident.  <a href="https://nyti.ms/3P12sGe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Majority of Americans Say Trump Charges Have Merit, but His G.O.P. Grip Grows</h3>
+<sub>By Neil Vigdor and Ruth Igielnik</sub>
+<p>Recent polls conducted before the Georgia indictment showed that most believed that the prosecutions of the former president were warranted.  <a href="https://nyti.ms/3sfVFQ9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Defend Trump and ‘Hammer’ Ramaswamy: DeSantis Allies Reveal Debate Strategy</h3>
+<sub>By Jonathan Swan, Shane Goldmacher and Maggie Haberman</sub>
+<p>Hundreds of pages of blunt advice, memos and internal polling were posted online by the main super PAC backing the Florida governor, offering an extraordinary glimpse into his operation’s thinking.  <a href="https://nyti.ms/3E079K7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>The 6 Kinds of Republican Voters</h3>
+<sub>By Nate Cohn</sub>
+<p>A deeper look at the groups that will make up the Republican Party of 2024.  <a href="https://nyti.ms/459ivY8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
 <h3>The Instagram Account That Shattered a California High School</h3>
 <sub>By Dashka Slater</sub>
 <p>It had barely a dozen followers, but the discovery of its racist posts turned a Bay Area community against itself — and changed students’ lives forever.  <a href="https://nyti.ms/3sfrlFc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>We Know Where New Weight Loss Drugs Came From, but Not Why They Work</h3>
+<sub>By Gina Kolata</sub>
+<p>The empty auditoriums, Gila monsters, resistant pharmaceutical executives and enigmas that led to Ozempic and other drugs that may change how society thinks about obesity.  <a href="https://nyti.ms/3E3cIYl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
