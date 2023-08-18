@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, August 18, Central Standard Time</p>
 <p>
-Currently, in Ukraine there is a war going on that has resulted in the death and injury of nearly half a million people. In response to this, Ukrainian citizens who object to the war are facing criticism and prison time for not serving. Meanwhile, in East Asia, President Biden is hosting a summit to unite Japan, South Korea, and the United States against an increasingly assertive China. Back in the United States, Donald Trump is facing several criminal indictments and some of his supporters from the Proud Boys group are being sentenced for their involvement in the attack at the Capitol on January 6. A lawyer who was associated with Alex Jones was seen outside of Capitol Hill during the event as well, though it&#39;s not known why. Additionally, further south in the US, Hurricane Hilary is wreaking havoc on southwestern states and other places. As a result of all these events, states are trying to figure out how to redesign or otherwise change their flag design.</p>
+There have been an incredibly high number of casualties in the Ukraine war, with US officials saying that nearly half a million people have been injured or killed. Donald Trump is skipping the first Republican debate and Florida governor Ron DeSantis has been struggling to prepare for it after strategy advice from his super PAC was revealed. Meanwhile in the US, Hurricane Hilary is bringing heavy rain and flooding to Southern California, while New England is bracing itself for flash floods and tornadoes. Meanwhile, Washington is welcoming the improved relations between Seoul and Tokyo. Lastly, former President Donald Trump is still facing multiple criminal indictments, with no clear timeline in sight.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Troop Deaths and Injuries in Ukraine War Near 500,000, U.S. Officials Say</h3>
@@ -68,16 +68,34 @@ Currently, in Ukraine there is a war going on that has resulted in the death and
 <p>Ukraine and Russia have lost a staggering number of troops as Kyiv’s counteroffensive drags on. A lack of rapid medical care has added to the toll.  <a href="https://nyti.ms/3sh1fld"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Belief or Betrayal? Ukraine’s Conscientious Objectors Face Hostility.</h3>
-<sub>By Cassandra Vinograd</sub>
-<p>The option of “alternative service” vanished after martial law was declared last year. But some have refused to serve, and now face jail time and skepticism about their motives.  <a href="https://nyti.ms/45pAnOi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Plans to Skip G.O.P. Debate for Interview With Tucker Carlson</h3>
+<sub>By Maggie Haberman and Jonathan Swan</sub>
+<p>The former president’s apparent decision to skip the first debate is a major affront both to the Republican National Committee and to Fox News, which is hosting the event.  <a href="https://nyti.ms/45dpQ9j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>At Camp David Summit, Japan, South Korea and U.S. Present a United Front</h3>
-<sub>By Peter Baker</sub>
-<p>President Biden will host the leaders of the two Asian nations to overcome historical grievances and present a united front in the face of an increasingly assertive China.  <a href="https://nyti.ms/45xh19R"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>For DeSantis, an Unforced Error Amplifies a Daunting Debate Challenge</h3>
+<sub>By Nicholas Nehamas</sub>
+<p>Newly revealed strategy advice from his super PAC seemed to leave the already struggling Florida governor in a no-win situation just days before the first Republican debate.  <a href="https://nyti.ms/44aTdrf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Christie Says DeSantis Should Drop Out if He Defends Trump at Debate</h3>
+<sub>By Patricia Mazzei</sub>
+<p>Mr. Christie needled his higher-polling rivals while campaigning in their home state of Florida.  <a href="https://nyti.ms/45eyYdK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Ramaswamy Rides Wave of Support, but Rivals Are Eager to Pounce</h3>
+<sub>By Jonathan Weisman</sub>
+<p>Surging poll numbers and newly revealed concerns from Ron DeSantis’s super PAC underscore that Vivek Ramaswamy is having a well-timed political moment.  <a href="https://nyti.ms/3KIl0IM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Why Washington is welcoming the détente between Seoul and Tokyo.</h3>
+<sub>By Choe Sang-Hun</sub>
+<p>  <a href="https://nyti.ms/3sfbZR8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -92,14 +110,8 @@ Currently, in Ukraine there is a war going on that has resulted in the death and
 <p>It remains unclear why the lawyer, Kenneth Chesebro, seemed to be with the conspiracy theorist Alex Jones outside the Capitol or how he came to be with Mr. Jones and his entourage.  <a href="https://nyti.ms/3sjcwBF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>33 Years, Stiffest Jan. 6 Sentence So Far, Sought for Proud Boys Leaders</h3>
-<sub>By Alan Feuer</sub>
-<p>Federal prosecutors recommended the sentence for the group’s former chairman and a top lieutenant, while also asking for long prison terms for the other three defendants in the case.  <a href="https://nyti.ms/45wonud"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Hilary Is Now a Category 4 Hurricane</h3>
+<h3>Tropical Storm Watch Issued for Southern California as Hurricane Hilary Moves North</h3>
 <sub>By Judson Jones</sub>
 <p>Heavy rain linked to Hilary is expected to pummel the Southwestern United States through Wednesday.  <a href="https://nyti.ms/3OG1pdy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
@@ -110,29 +122,17 @@ Currently, in Ukraine there is a war going on that has resulted in the death and
 <p>Storm path and precipitation forecasts for Hurricane Hilary.  <a href="https://nyti.ms/3KLxUFM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>To Stop an Extinction, He’s Flying High, Followed by His Beloved Birds</h3>
-<sub>By Denise Hruby</sub>
-<p>Using an ultralight aircraft, Johannes Fritz once taught endangered ibises a migration path over the Alps. Because of climate change, he is now showing them a much longer route to a winter’s refuge.  <a href="https://nyti.ms/3sextxw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>What to Expect From Hurricane Hilary: Day-by-Day Forecast</h3>
+<sub>By Judson Jones</sub>
+<p>Here’s what to expect each day as the storm moves north.  <a href="https://nyti.ms/45xZZZh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Ramaswamy Rides Wave of Support, but Rivals Are Eager to Pounce</h3>
-<sub>By Jonathan Weisman</sub>
-<p>Surging poll numbers and newly revealed concerns from Ron DeSantis’s super PAC underscore that Vivek Ramaswamy is having a well-timed political moment.  <a href="https://nyti.ms/3KIl0IM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>New England Storms May Bring Flash Floods and Tornadoes</h3>
+<sub>By Jenny Gross</sub>
+<p>As storms moved across the region on Friday morning, a tornado was confirmed in Scituate, R.I., west of Providence, the National Weather Service said.  <a href="https://nyti.ms/44nGyBG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How States Are Threading the Needle on Flag Design</h3>
-<sub>By Mitch Smith and Sarah Almukhtar</sub>
-<p>Utah had a state flag that didn&#39;t stand out from the crowd. The state embarked on a redesign, and found the process was far from simple.  <a href="https://nyti.ms/3KMEqMN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Quiz: How Much Do You Know About the U.S. State Flags?</h3>
-<sub>By Sean Plambeck and Mitch Smith</sub>
-<p>With lawmakers in several states considering new designs, here’s a chance to test your knowledge on the country’s 50 state flags.  <a href="https://nyti.ms/3E37zQ6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
