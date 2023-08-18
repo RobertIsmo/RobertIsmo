@@ -58,20 +58,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Thursday, August 17, Central Standard Time</p>
+<p>It is Friday, August 18, Central Standard Time</p>
 <p>
-The US is currently dealing with a lot of news involving politics. Several grand jurors in Georgia are being threatened after their identities were posted on social media. Meanwhile, there&#39;s a lot of activity around an upcoming trial against former president Donald J. Trump. In addition, Hawaii is trying to understand how and why the Maui wildfires have happened and who should be held accountable. Also, mortgages rates in the US have exaggerated, making it hard for people to buy homes. Lastly, Generation X members are facing a challenge since student loan payments have resumed while they try to save for retirement.</p>
+There is a lot of drama in the US right now! First, a group of people involved in a case involving former President Trump have been receiving threats.  Officials are looking into this and there have been calls for action to stop the prosecution from going forward. Also, Trump&#39;s lawyers are seeking an April 2026 start to his trial in connection with the Jan. 6 Capitol riot. Furthermore, a few leaders from the Proud Boys group are facing very high punishments as a result of their involvement in the riot too. 
+
+Over in Hawaii, firefighters have caused destruction as they fail to handle the increased danger due to climate shocks. As a result, the Emergency Management Chief has resigned and Hawaiian Electric is being scrutinized for its part in the Maui fires that cost over 100 lives.
+
+Finally, mortgage rates have hit their highest levels since 2002 and Generation X (ages 41-56) are beginning to feel the strain of student loan payments while also trying to save for retirement. Meanwhile, there are efforts to discredit newcomer Vivek Ramaswamy who is running against Governor Ron DeSantis for Florida by bringing up his ties with India’s caste system. </p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Officials Investigate Threats Against Trump Grand Jurors in Georgia</h3>
 <sub>By Anna Betts, James C. McKinley Jr. and Nicholas Bogel-Burroughs</sub>
 <p>Some of the jurors’ identities have been shared on social media, with suggestions that they be harassed or made “infamous.”  <a href="https://nyti.ms/45epjDT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>For an Atlanta Reporter, a Trump Scoop Long in the Making</h3>
-<sub>By Robert Draper</sub>
-<p>George Chidi’s cameo appearance in the indictment of Donald J. Trump in Georgia was a plot twist, but not an accident.  <a href="https://nyti.ms/3P12sGe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -84,6 +82,12 @@ The US is currently dealing with a lot of news involving politics. Several grand
 <h3>Trump’s Lawyers Seek April 2026 Start to Jan. 6 Trial</h3>
 <sub>By Alan Feuer</sub>
 <p>The lawyers said the extraordinary delay was needed given the historic nature of the case and the volume of discovery materials they will have to sort through in the coming months.  <a href="https://nyti.ms/3QKq03s"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>33 Years, Stiffest Jan. 6 Sentence So Far, Sought for Proud Boys Leaders</h3>
+<sub>By Alan Feuer</sub>
+<p>Federal prosecutors recommended the sentence for the group’s former chairman and a top lieutenant, while also asking for long prison terms for the other three defendants in the case.  <a href="https://nyti.ms/45wonud"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
