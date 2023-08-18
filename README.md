@@ -59,9 +59,21 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
 <p>It is Friday, August 18, Central Standard Time</p>
-<p> 
-There are a lot of news stories in the world right now. President Biden is hosting leaders of Japan and South Korea at Camp David in an attempt to present a united front in the face of an increasingly assertive China. Also, Donald Trump is the target of four separate criminal indictments, and his lawyers have asked for an April 2026 start date to his trial. Additionally, federal prosecutors have recommended prison terms for top Proud Boys leaders for their part in the January 6 insurrection at the Capitol. There&#39;s also a lawsuit going through state court from Maui County against some of the world&#39;s largest oil and gas companies for fire risks related to climate change. Furthermore, Hawaii is scrutinizing Hawaiian Electric for its role in an incredibly deadly blaze, and Maui&#39;s emergency management chief resigned over questions regarding response to this wildfire. On a somewhat brighter note, one person is trying to save a species from extinction by teaching them how to migrate via ultralight aircraft given climate change-related issues. However, Ukraine&#39;s situation is complicated as some citizens are refusing military services in the face of objections from the government. Finally, geopolitics are making clean energy development difficult because of China&#39;s nickel plant investments in Indonesia, which have caused both economic opportunity and environmental pollution.</p>
+<p>
+Currently, in Ukraine there is a war going on that has resulted in the death and injury of nearly half a million people. In response to this, Ukrainian citizens who object to the war are facing criticism and prison time for not serving. Meanwhile, in East Asia, President Biden is hosting a summit to unite Japan, South Korea, and the United States against an increasingly assertive China. Back in the United States, Donald Trump is facing several criminal indictments and some of his supporters from the Proud Boys group are being sentenced for their involvement in the attack at the Capitol on January 6. A lawyer who was associated with Alex Jones was seen outside of Capitol Hill during the event as well, though it&#39;s not known why. Additionally, further south in the US, Hurricane Hilary is wreaking havoc on southwestern states and other places. As a result of all these events, states are trying to figure out how to redesign or otherwise change their flag design.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Troop Deaths and Injuries in Ukraine War Near 500,000, U.S. Officials Say</h3>
+<sub>By Helene Cooper, Thomas Gibbons-Neff, Eric Schmitt and Julian E. Barnes</sub>
+<p>Ukraine and Russia have lost a staggering number of troops as Kyiv’s counteroffensive drags on. A lack of rapid medical care has added to the toll.  <a href="https://nyti.ms/3sh1fld"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Belief or Betrayal? Ukraine’s Conscientious Objectors Face Hostility.</h3>
+<sub>By Cassandra Vinograd</sub>
+<p>The option of “alternative service” vanished after martial law was declared last year. But some have refused to serve, and now face jail time and skepticism about their motives.  <a href="https://nyti.ms/45pAnOi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 18, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>At Camp David Summit, Japan, South Korea and U.S. Present a United Front</h3>
 <sub>By Peter Baker</sub>
@@ -75,10 +87,10 @@ There are a lot of news stories in the world right now. President Biden is hosti
 <sub><sub>Friday, August 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump’s Lawyers Seek April 2026 Start to Jan. 6 Trial</h3>
-<sub>By Alan Feuer</sub>
-<p>The lawyers said the extraordinary delay was needed given the historic nature of the case and the volume of discovery materials they will have to sort through in the coming months.  <a href="https://nyti.ms/3QKq03s"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
+<h3>Architect of Fake Electors Scheme Appeared to Be Outside Capitol on Jan. 6</h3>
+<sub>By Alan Feuer and Maggie Haberman</sub>
+<p>It remains unclear why the lawyer, Kenneth Chesebro, seemed to be with the conspiracy theorist Alex Jones outside the Capitol or how he came to be with Mr. Jones and his entourage.  <a href="https://nyti.ms/3sjcwBF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>33 Years, Stiffest Jan. 6 Sentence So Far, Sought for Proud Boys Leaders</h3>
@@ -86,23 +98,17 @@ There are a lot of news stories in the world right now. President Biden is hosti
 <p>Federal prosecutors recommended the sentence for the group’s former chairman and a top lieutenant, while also asking for long prison terms for the other three defendants in the case.  <a href="https://nyti.ms/45wonud"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Maui Sued Big Oil in 2020, Citing Fire Risks and More</h3>
-<sub>By Hiroko Tabuchi</sub>
-<p>Maui County’s lawsuit against some of the world’s largest oil and gas companies is still winding its way through state court.  <a href="https://nyti.ms/45aS4Bm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Why Hawaii Is Scrutinizing Hawaiian Electric in the Maui Fire</h3>
-<sub>By J. Edward Moreno</sub>
-<p>The utility company’s share price has tumbled after lawsuits were filed seeking to hold it accountable for the blaze, which has killed more than 100 people.  <a href="https://nyti.ms/3slnqGO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Hilary Is Now a Category 4 Hurricane</h3>
+<sub>By Judson Jones</sub>
+<p>Heavy rain linked to Hilary is expected to pummel the Southwestern United States through Wednesday.  <a href="https://nyti.ms/3OG1pdy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Maui’s Emergency Management Chief Resigns After Questions About Fire Response</h3>
-<sub>By Victoria Kim</sub>
-<p>The chief, Herman Andaya, cited his health in stepping down. His agency’s decision not to sound emergency sirens as wildfires neared Lahaina had drawn scrutiny.  <a href="https://nyti.ms/3YBZNGl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 18, Central Standard Time</sub></sub>
+<h3>Maps: Tracking Hurricane Hilary</h3>
+<sub>By Judson Jones and Madison Dong</sub>
+<p>Storm path and precipitation forecasts for Hurricane Hilary.  <a href="https://nyti.ms/3KLxUFM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>To Stop an Extinction, He’s Flying High, Followed by His Beloved Birds</h3>
@@ -110,29 +116,23 @@ There are a lot of news stories in the world right now. President Biden is hosti
 <p>Using an ultralight aircraft, Johannes Fritz once taught endangered ibises a migration path over the Alps. Because of climate change, he is now showing them a much longer route to a winter’s refuge.  <a href="https://nyti.ms/3sextxw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Belief or Betrayal? Ukraine’s Conscientious Objectors Face Hostility.</h3>
-<sub>By Cassandra Vinograd</sub>
-<p>The option of “alternative service” vanished after martial law was declared last year. But some have refused to serve, and now face jail time and skepticism about their motives.  <a href="https://nyti.ms/45pAnOi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How Geopolitics Is Complicating the Move to Clean Energy</h3>
-<sub>By Peter S. Goodman and Ulet Ifansasti</sub>
-<p>The fate of Indonesia’s unrivaled stocks of nickel — a critical mineral used to make batteries for electric vehicles — is caught in the conflict between the United States and China.  <a href="https://nyti.ms/3sf6CS7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>China’s Nickel Plants in Indonesia Created Needed Jobs, Plus Pollution</h3>
-<sub>By Peter S. Goodman and Ulet Ifansasti</sub>
-<p>An influx of Chinese investment into nickel-processing on the Indonesian island of Sulawesi is sowing pollution while generating economic opportunity.  <a href="https://nyti.ms/3sl0J5W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Ramaswamy Rides Wave of Support, but Rivals Are Eager to Pounce</h3>
 <sub>By Jonathan Weisman</sub>
 <p>Surging poll numbers and newly revealed concerns from Ron DeSantis’s super PAC underscore that Vivek Ramaswamy is having a well-timed political moment.  <a href="https://nyti.ms/3KIl0IM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How States Are Threading the Needle on Flag Design</h3>
+<sub>By Mitch Smith and Sarah Almukhtar</sub>
+<p>Utah had a state flag that didn&#39;t stand out from the crowd. The state embarked on a redesign, and found the process was far from simple.  <a href="https://nyti.ms/3KMEqMN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Quiz: How Much Do You Know About the U.S. State Flags?</h3>
+<sub>By Sean Plambeck and Mitch Smith</sub>
+<p>With lawmakers in several states considering new designs, here’s a chance to test your knowledge on the country’s 50 state flags.  <a href="https://nyti.ms/3E37zQ6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
