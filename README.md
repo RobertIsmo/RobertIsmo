@@ -60,46 +60,8 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, August 17, Central Standard Time</p>
 <p>
-There&#39;s a lot of news happening around the world right now. In the U.S., mortgage rates have jumped to their highest levels since 2002, making it harder for people to buy homes. Generation X is facing retirement and juggling student loan debt. On top of that, Hawaii has been dealing with climate shocks due to wildfires, and they are now holding Hawaiian Electric accountable for the deadly blaze. 
-
-Here in the US, former president Trump is now on trial, with officials investigating threats made against the grand jurors in his case. We&#39;re hearing of incredible stories about those who scrambled to save pets during Maui&#39;s wildfire. There&#39;s also been some controversial revelations from an internal memo in Florida governor Ron DeSantis&#39; super PAC—including singling out Vivek Ramaswamy based on his faith.</p>
+The US is currently dealing with a lot of news involving politics. Several grand jurors in Georgia are being threatened after their identities were posted on social media. Meanwhile, there&#39;s a lot of activity around an upcoming trial against former president Donald J. Trump. In addition, Hawaii is trying to understand how and why the Maui wildfires have happened and who should be held accountable. Also, mortgages rates in the US have exaggerated, making it hard for people to buy homes. Lastly, Generation X members are facing a challenge since student loan payments have resumed while they try to save for retirement.</p>
 <ol>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.S. Mortgage Rates Jump to Highest Level Since 2002</h3>
-<sub>By Gregory Schmidt</sub>
-<p>The average 30-year fixed-rate mortgage has climbed above 7 percent, making it harder for buyers to afford homes, which are already in short supply.  <a href="https://nyti.ms/3KKN6Dh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Generation X Is Staring Down Retirement, and Student Loan Debt</h3>
-<sub>By Martha C. White</sub>
-<p>The end of the payment pause means Americans in this age group will once again have to juggle paying off debt while trying to save for older age.  <a href="https://nyti.ms/45iPk51"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Fire Exposes Flaws in Hawaii’s Defenses Against Climate Shocks</h3>
-<sub>By Christopher Flavelle</sub>
-<p>Neglected landscapes, weak building standards and decommissioned dams have left the state more vulnerable to wildfires.  <a href="https://nyti.ms/3sgetPg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Why Hawaii Is Scrutinizing Hawaiian Electric in the Maui Fire</h3>
-<sub>By J. Edward Moreno</sub>
-<p>The utility company’s share price has tumbled after lawsuits were filed seeking to hold it accountable for the blaze, which has killed more than 100 people.  <a href="https://nyti.ms/3slnqGO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Latest About the Maui Wildfires: Dispute Over Siren Response</h3>
-<sub>By Adeel Hassan</sub>
-<p>With the death toll at 111 and rising, officials have begun announcing names of the dead as families that survived the disaster begin the long, hard road toward recovery.  <a href="https://nyti.ms/3KzrwS9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘Miracles Occurred That Night’: A Mad Scramble to Save Maui Pets</h3>
-<sub>By Ernesto Londoño</sub>
-<p>After a fire destroyed the seaside town of Lahaina, the fate of beloved animals became a wrenching concern.  <a href="https://nyti.ms/3P1Q20O"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Officials Investigate Threats Against Trump Grand Jurors in Georgia</h3>
 <sub>By Anna Betts, James C. McKinley Jr. and Nicholas Bogel-Burroughs</sub>
@@ -122,6 +84,42 @@ Here in the US, former president Trump is now on trial, with officials investiga
 <h3>Trump’s Lawyers Seek April 2026 Start to Jan. 6 Trial</h3>
 <sub>By Alan Feuer</sub>
 <p>The lawyers said the extraordinary delay was needed given the historic nature of the case and the volume of discovery materials they will have to sort through in the coming months.  <a href="https://nyti.ms/3QKq03s"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Fire Exposes Flaws in Hawaii’s Defenses Against Climate Shocks</h3>
+<sub>By Christopher Flavelle</sub>
+<p>Neglected landscapes, weak building standards and decommissioned dams have left the state more vulnerable to wildfires.  <a href="https://nyti.ms/3sgetPg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Latest About the Maui Wildfires: Emergency Management Chief Resigns</h3>
+<sub>By Adeel Hassan</sub>
+<p>The sudden departure comes a day after the chief defended not using outdoor alert sirens. The official death toll has reached 111 people and is expected to climb.  <a href="https://nyti.ms/45y5gjv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Why Hawaii Is Scrutinizing Hawaiian Electric in the Maui Fire</h3>
+<sub>By J. Edward Moreno</sub>
+<p>The utility company’s share price has tumbled after lawsuits were filed seeking to hold it accountable for the blaze, which has killed more than 100 people.  <a href="https://nyti.ms/3slnqGO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>‘Miracles Occurred That Night’: A Mad Scramble to Save Maui Pets</h3>
+<sub>By Ernesto Londoño</sub>
+<p>After a fire destroyed the seaside town of Lahaina, the fate of beloved animals became a wrenching concern.  <a href="https://nyti.ms/3P1Q20O"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>U.S. Mortgage Rates Jump to Highest Level Since 2002</h3>
+<sub>By Gregory Schmidt</sub>
+<p>The average 30-year fixed-rate mortgage has climbed above 7 percent, making it harder for buyers to afford homes, which are already in short supply.  <a href="https://nyti.ms/3KKN6Dh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Generation X Is Staring Down Retirement, and Student Loan Debt</h3>
+<sub>By Martha C. White</sub>
+<p>The end of the payment pause means Americans in this age group will once again have to juggle paying off debt while trying to save for older age.  <a href="https://nyti.ms/45iPk51"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
