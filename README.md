@@ -60,14 +60,8 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, August 18, Central Standard Time</p>
 <p>
-There have been an incredibly high number of casualties in the Ukraine war, with US officials saying that nearly half a million people have been injured or killed. Donald Trump is skipping the first Republican debate and Florida governor Ron DeSantis has been struggling to prepare for it after strategy advice from his super PAC was revealed. Meanwhile in the US, Hurricane Hilary is bringing heavy rain and flooding to Southern California, while New England is bracing itself for flash floods and tornadoes. Meanwhile, Washington is welcoming the improved relations between Seoul and Tokyo. Lastly, former President Donald Trump is still facing multiple criminal indictments, with no clear timeline in sight.</p>
+There is a lot going on in the world right now. In the US, former President Donald Trump will not be attending the first GOP debate, and Florida Governor DeSantis is facing a difficult challenge ahead of it. Elsewhere, Hurricane Hilary is moving north and Tropical Storms are rare but catastrophic in California. In New England, severe storms are bringing tornadoes and in Ukraine, there have been nearly 500,000 troop deaths and injuries in the war that’s being fought there. Additionally, Donald Trump has four separate criminal indictments against him and he is at risk of trial before the election. Lastly, wildfires in Canada are worsening and evacuations have been issued for hundreds of miles away in some places.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Troop Deaths and Injuries in Ukraine War Near 500,000, U.S. Officials Say</h3>
-<sub>By Helene Cooper, Thomas Gibbons-Neff, Eric Schmitt and Julian E. Barnes</sub>
-<p>Ukraine and Russia have lost a staggering number of troops as Kyiv’s counteroffensive drags on. A lack of rapid medical care has added to the toll.  <a href="https://nyti.ms/3sh1fld"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 18, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Plans to Skip G.O.P. Debate for Interview With Tucker Carlson</h3>
 <sub>By Maggie Haberman and Jonathan Swan</sub>
@@ -86,16 +80,34 @@ There have been an incredibly high number of casualties in the Ukraine war, with
 <p>Mr. Christie needled his higher-polling rivals while campaigning in their home state of Florida.  <a href="https://nyti.ms/45eyYdK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 18, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Tropical Storm Watch Issued for Southern California as Hurricane Hilary Moves North</h3>
+<sub>By Judson Jones</sub>
+<p>Heavy rain linked to Hilary is expected to pummel the Southwestern United States through Tuesday morning.  <a href="https://nyti.ms/3OG1pdy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Maps: Tracking Hurricane Hilary</h3>
+<sub>By Judson Jones and Madison Dong</sub>
+<p>Storm path and precipitation forecasts for Hurricane Hilary.  <a href="https://nyti.ms/3KLxUFM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Ramaswamy Rides Wave of Support, but Rivals Are Eager to Pounce</h3>
-<sub>By Jonathan Weisman</sub>
-<p>Surging poll numbers and newly revealed concerns from Ron DeSantis’s super PAC underscore that Vivek Ramaswamy is having a well-timed political moment.  <a href="https://nyti.ms/3KIl0IM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Tropical Storms Are Rare in California. The Last, in 1939, Killed Nearly 100.</h3>
+<sub>By Livia Albeck-Ripka</sub>
+<p>The most recent tropical cyclone to make landfall in Southern California capsized boats, cut power and phone service and destroyed homes along the coast.  <a href="https://nyti.ms/45wxJX5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Why Washington is welcoming the détente between Seoul and Tokyo.</h3>
-<sub>By Choe Sang-Hun</sub>
-<p>  <a href="https://nyti.ms/3sfbZR8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Severe Storms Bring Tornadoes to New England</h3>
+<sub>By Chang Che and Jenny Gross</sub>
+<p>As storms moved across the region on Friday morning, tornadoes were confirmed in Rhode Island and Massachusetts, the National Weather Service said. There were no immediate reports of injuries.  <a href="https://nyti.ms/44nGyBG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Troop Deaths and Injuries in Ukraine War Near 500,000, U.S. Officials Say</h3>
+<sub>By Helene Cooper, Thomas Gibbons-Neff, Eric Schmitt and Julian E. Barnes</sub>
+<p>Ukraine and Russia have lost a staggering number of troops as Kyiv’s counteroffensive drags on. A lack of rapid medical care has added to the toll.  <a href="https://nyti.ms/3sh1fld"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -110,28 +122,16 @@ There have been an incredibly high number of casualties in the Ukraine war, with
 <p>It remains unclear why the lawyer, Kenneth Chesebro, seemed to be with the conspiracy theorist Alex Jones outside the Capitol or how he came to be with Mr. Jones and his entourage.  <a href="https://nyti.ms/3sjcwBF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Tropical Storm Watch Issued for Southern California as Hurricane Hilary Moves North</h3>
-<sub>By Judson Jones</sub>
-<p>Heavy rain linked to Hilary is expected to pummel the Southwestern United States through Wednesday.  <a href="https://nyti.ms/3OG1pdy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Maps: Tracking Hurricane Hilary</h3>
-<sub>By Judson Jones and Madison Dong</sub>
-<p>Storm path and precipitation forecasts for Hurricane Hilary.  <a href="https://nyti.ms/3KLxUFM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What to Expect From Hurricane Hilary: Day-by-Day Forecast</h3>
-<sub>By Judson Jones</sub>
-<p>Here’s what to expect each day as the storm moves north.  <a href="https://nyti.ms/45xZZZh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>How Many Former Vanity Fair Employees Does It Take to Build a Roof?</h3>
+<sub>By Steven Kurutz</sub>
+<p>Technically, none. So why has Standard Industries hired several of them?  <a href="https://nyti.ms/44fDcAn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>New England Storms May Bring Flash Floods and Tornadoes</h3>
-<sub>By Jenny Gross</sub>
-<p>As storms moved across the region on Friday morning, a tornado was confirmed in Scituate, R.I., west of Providence, the National Weather Service said.  <a href="https://nyti.ms/44nGyBG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Wildfires Burning Out of Control Widen Canada Evacuations</h3>
+<sub>By Ian Austen and Vjosa Isai</sub>
+<p>As residents of Yellowknife fled a wildfire in the Northwest Territories, a state of emergency was issued hundreds of miles away in Kelowna, British Columbia.  <a href="https://nyti.ms/3P1MJqh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
