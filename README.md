@@ -60,12 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, August 17, Central Standard Time</p>
 <p>
-In the U.S., mortgage rates are at their highest level since 2002, making it more difficult for people to afford a home as supply is short. Wildfires in Hawaii have exposed the state&#39;s lack of defenses against climate shocks, and now officials are trying to figure out how to respond to the disaster. In Georgia, Trump Grand Jurors have been threatened, while a reporter uncovered some Trump-related news after months of waiting. A majority of Americans think the charges against him have merit. There&#39;s also a debate taking place over how Governor DeSantis is handling his election campaign. Meanwhile, Republicans are taking a closer look at the 6 kinds of GOP voters in an effort to make changes for 2024. Lastly, there&#39;s been an Instagram account that caused an uproar in California after racist posts were made public. Scientists are still trying to understand how new weight-loss drugs work. Finally, Colorado&#39;s mountain towns have been attracting remote workers, creating tension between those already there and the influx of affluent people looking for affordable housing.</p>
+There&#39;s a lot of news happening around the world right now. In the U.S., mortgage rates have jumped to their highest levels since 2002, making it harder for people to buy homes. Generation X is facing retirement and juggling student loan debt. On top of that, Hawaii has been dealing with climate shocks due to wildfires, and they are now holding Hawaiian Electric accountable for the deadly blaze. 
+
+Here in the US, former president Trump is now on trial, with officials investigating threats made against the grand jurors in his case. We&#39;re hearing of incredible stories about those who scrambled to save pets during Maui&#39;s wildfire. There&#39;s also been some controversial revelations from an internal memo in Florida governor Ron DeSantis&#39; super PAC—including singling out Vivek Ramaswamy based on his faith.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.S. Mortgage Rate Jumps to Highest Level Since 2002</h3>
+<h3>U.S. Mortgage Rates Jump to Highest Level Since 2002</h3>
 <sub>By Gregory Schmidt</sub>
-<p>The average rate on a 30-year mortgage has been rising again, making it even harder for buyers to afford homes, which are in short supply.  <a href="https://nyti.ms/3KKN6Dh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The average 30-year fixed-rate mortgage has climbed above 7 percent, making it harder for buyers to afford homes, which are already in short supply.  <a href="https://nyti.ms/3KKN6Dh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Generation X Is Staring Down Retirement, and Student Loan Debt</h3>
+<sub>By Martha C. White</sub>
+<p>The end of the payment pause means Americans in this age group will once again have to juggle paying off debt while trying to save for older age.  <a href="https://nyti.ms/45iPk51"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
@@ -74,16 +82,22 @@ In the U.S., mortgage rates are at their highest level since 2002, making it mor
 <p>Neglected landscapes, weak building standards and decommissioned dams have left the state more vulnerable to wildfires.  <a href="https://nyti.ms/3sgetPg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Why Hawaii Is Scrutinizing Hawaiian Electric in the Maui Fire</h3>
+<sub>By J. Edward Moreno</sub>
+<p>The utility company’s share price has tumbled after lawsuits were filed seeking to hold it accountable for the blaze, which has killed more than 100 people.  <a href="https://nyti.ms/3slnqGO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Latest About the Maui Wildfires: Dispute Over Siren Response</h3>
 <sub>By Adeel Hassan</sub>
 <p>With the death toll at 111 and rising, officials have begun announcing names of the dead as families that survived the disaster begin the long, hard road toward recovery.  <a href="https://nyti.ms/3KzrwS9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-travel-blue" alt="">
-<h3>After Maui Wildfires, Travelers Ask: Would a Trip Help or Hurt?</h3>
-<sub>By Christine Chung and Madison Malone Kircher</sub>
-<p>Residents and travelers are grappling with the propriety of visiting Maui, the epicenter of last week’s wildfires but an island heavily reliant on tourist dollars.  <a href="https://nyti.ms/44bXwTq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>‘Miracles Occurred That Night’: A Mad Scramble to Save Maui Pets</h3>
+<sub>By Ernesto Londoño</sub>
+<p>After a fire destroyed the seaside town of Lahaina, the fate of beloved animals became a wrenching concern.  <a href="https://nyti.ms/3P1Q20O"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -99,9 +113,15 @@ In the U.S., mortgage rates are at their highest level since 2002, making it mor
 <sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Majority of Americans Say Trump Charges Have Merit, but His G.O.P. Grip Grows</h3>
-<sub>By Neil Vigdor and Ruth Igielnik</sub>
-<p>Recent polls conducted before the Georgia indictment showed that most believed that the prosecutions of the former president were warranted.  <a href="https://nyti.ms/3sfVFQ9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Calls for Georgia Leaders to Stymie Trump Prosecution Fall Flat, So Far</h3>
+<sub>By Rick Rojas</sub>
+<p>Appeals by the former president’s supporters to change the state’s rules on pardons, and to investigate or even impeach the prosecutor in the case, will likely go nowhere, at least for now.  <a href="https://nyti.ms/45vaGfc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump’s Lawyers Seek April 2026 Start to Jan. 6 Trial</h3>
+<sub>By Alan Feuer</sub>
+<p>The lawyers said the extraordinary delay was needed given the historic nature of the case and the volume of discovery materials they will have to sort through in the coming months.  <a href="https://nyti.ms/3QKq03s"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -110,28 +130,10 @@ In the U.S., mortgage rates are at their highest level since 2002, making it mor
 <p>Hundreds of pages of blunt advice, memos and internal polling were posted online by the main super PAC backing the Florida governor, offering an extraordinary glimpse into his operation’s thinking.  <a href="https://nyti.ms/3E079K7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>The 6 Kinds of Republican Voters</h3>
-<sub>By Nate Cohn</sub>
-<p>A deeper look at the groups that will make up the Republican Party of 2024.  <a href="https://nyti.ms/459ivY8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>The Instagram Account That Shattered a California High School</h3>
-<sub>By Dashka Slater</sub>
-<p>It had barely a dozen followers, but the discovery of its racist posts turned a Bay Area community against itself — and changed students’ lives forever.  <a href="https://nyti.ms/3sfrlFc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>We Know Where New Weight Loss Drugs Came From, but Not Why They Work</h3>
-<sub>By Gina Kolata</sub>
-<p>The empty auditoriums, Gila monsters, resistant pharmaceutical executives and enigmas that led to Ozempic and other drugs that may change how society thinks about obesity.  <a href="https://nyti.ms/3E3cIYl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Can Affluence and Affordable Housing Coexist in Colorado’s Rockies?</h3>
-<sub>By Talmon Joseph Smith and Joanna Kulesza</sub>
-<p>The outdoorsy lifestyle of Colorado mountain towns has become a magnet for the new remote-worker class, upending life for those already rooted there.  <a href="https://nyti.ms/3DXNSZM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Ramaswamy’s Faith Singled Out in DeSantis Super PAC Memo</h3>
+<sub>By Jonathan Swan, Shane Goldmacher and Maggie Haberman</sub>
+<p>An opposition research memo suggests that Vivek Ramaswamy, who has been gaining on Gov. Ron DeSantis of Florida in some polls, “was very much ingrained in India’s caste system.”  <a href="https://nyti.ms/3qC7U97"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
 <hr/>
 </ol>
