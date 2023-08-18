@@ -60,11 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, August 18, Central Standard Time</p>
 <p>
-There is a lot of drama in the US right now! First, a group of people involved in a case involving former President Trump have been receiving threats.  Officials are looking into this and there have been calls for action to stop the prosecution from going forward. Also, Trump&#39;s lawyers are seeking an April 2026 start to his trial in connection with the Jan. 6 Capitol riot. Furthermore, a few leaders from the Proud Boys group are facing very high punishments as a result of their involvement in the riot too. 
+There&#39;s a lot going on right now in the US. In Georgia, officials are investigating threats against jurors in a grand jury case connected to former President Trump. His supporters have made attempts to get him pardoned or even impeach the prosecutor, but those efforts haven&#39;t gone anywhere so far. Meanwhile, Trump&#39;s lawyers are seeking an April 2026 start date for his January 6th trial. Prosecutors are recommending stiff prison terms for leaders of the Proud Boys group who were involved in the events of that day. 
 
-Over in Hawaii, firefighters have caused destruction as they fail to handle the increased danger due to climate shocks. As a result, the Emergency Management Chief has resigned and Hawaiian Electric is being scrutinized for its part in the Maui fires that cost over 100 lives.
+In Hawaii, the state is looking at flaws in its climate defenses after a massive wildfire devastated parts of Maui. An emergency management chief resigned after questions arose over why they had not used outdoor alert sirens. At least 111 people have been killed and property losses amount to billions of dollars. A utility company is now being scrutinized for issues related to the fire. There was also an intense scramble to save stranded pets.
 
-Finally, mortgage rates have hit their highest levels since 2002 and Generation X (ages 41-56) are beginning to feel the strain of student loan payments while also trying to save for retirement. Meanwhile, there are efforts to discredit newcomer Vivek Ramaswamy who is running against Governor Ron DeSantis for Florida by bringing up his ties with India’s caste system. </p>
+Mortgage rates have recently jumped to their highest levels since 2002, which is making it harder for people to buy homes as supply is already short. Finally, Generation X is facing the challenge of having to pay off student loan debt while preparing for retirement. Even more, some controversial internal memos from a governor&#39;s campaign revealed advice to single out an opponent&#39;s faith and defend former President Trump&#39;s actions.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Officials Investigate Threats Against Trump Grand Jurors in Georgia</h3>
