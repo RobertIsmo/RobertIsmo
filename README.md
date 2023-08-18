@@ -59,24 +59,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
 <p>It is Friday, August 18, Central Standard Time</p>
-<p>
-There&#39;s a lot going on right now in the US. In Georgia, officials are investigating threats against jurors in a grand jury case connected to former President Trump. His supporters have made attempts to get him pardoned or even impeach the prosecutor, but those efforts haven&#39;t gone anywhere so far. Meanwhile, Trump&#39;s lawyers are seeking an April 2026 start date for his January 6th trial. Prosecutors are recommending stiff prison terms for leaders of the Proud Boys group who were involved in the events of that day. 
-
-In Hawaii, the state is looking at flaws in its climate defenses after a massive wildfire devastated parts of Maui. An emergency management chief resigned after questions arose over why they had not used outdoor alert sirens. At least 111 people have been killed and property losses amount to billions of dollars. A utility company is now being scrutinized for issues related to the fire. There was also an intense scramble to save stranded pets.
-
-Mortgage rates have recently jumped to their highest levels since 2002, which is making it harder for people to buy homes as supply is already short. Finally, Generation X is facing the challenge of having to pay off student loan debt while preparing for retirement. Even more, some controversial internal memos from a governor&#39;s campaign revealed advice to single out an opponent&#39;s faith and defend former President Trump&#39;s actions.</p>
+<p> 
+There are a lot of news stories in the world right now. President Biden is hosting leaders of Japan and South Korea at Camp David in an attempt to present a united front in the face of an increasingly assertive China. Also, Donald Trump is the target of four separate criminal indictments, and his lawyers have asked for an April 2026 start date to his trial. Additionally, federal prosecutors have recommended prison terms for top Proud Boys leaders for their part in the January 6 insurrection at the Capitol. There&#39;s also a lawsuit going through state court from Maui County against some of the world&#39;s largest oil and gas companies for fire risks related to climate change. Furthermore, Hawaii is scrutinizing Hawaiian Electric for its role in an incredibly deadly blaze, and Maui&#39;s emergency management chief resigned over questions regarding response to this wildfire. On a somewhat brighter note, one person is trying to save a species from extinction by teaching them how to migrate via ultralight aircraft given climate change-related issues. However, Ukraine&#39;s situation is complicated as some citizens are refusing military services in the face of objections from the government. Finally, geopolitics are making clean energy development difficult because of China&#39;s nickel plant investments in Indonesia, which have caused both economic opportunity and environmental pollution.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Officials Investigate Threats Against Trump Grand Jurors in Georgia</h3>
-<sub>By Anna Betts, James C. McKinley Jr. and Nicholas Bogel-Burroughs</sub>
-<p>Some of the jurors’ identities have been shared on social media, with suggestions that they be harassed or made “infamous.”  <a href="https://nyti.ms/45epjDT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
+<h3>At Camp David Summit, Japan, South Korea and U.S. Present a United Front</h3>
+<sub>By Peter Baker</sub>
+<p>President Biden will host the leaders of the two Asian nations to overcome historical grievances and present a united front in the face of an increasingly assertive China.  <a href="https://nyti.ms/45xh19R"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Calls for Georgia Leaders to Stymie Trump Prosecution Fall Flat, So Far</h3>
-<sub>By Rick Rojas</sub>
-<p>Appeals by the former president’s supporters to change the state’s rules on pardons, and to investigate or even impeach the prosecutor in the case, will likely go nowhere, at least for now.  <a href="https://nyti.ms/45vaGfc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>How Many of Trump’s Trials Will Happen Before the Election?</h3>
+<sub>By Benjamin Weiser, Ben Protess, Jonah E. Bromwich and William K. Rashbaum</sub>
+<p>Donald J. Trump is the target of four separate criminal indictments, but the prosecutions could drag on for months or even years.  <a href="https://nyti.ms/45xTo13"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump’s Lawyers Seek April 2026 Start to Jan. 6 Trial</h3>
@@ -91,16 +87,10 @@ Mortgage rates have recently jumped to their highest levels since 2002, which is
 <sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Fire Exposes Flaws in Hawaii’s Defenses Against Climate Shocks</h3>
-<sub>By Christopher Flavelle</sub>
-<p>Neglected landscapes, weak building standards and decommissioned dams have left the state more vulnerable to wildfires.  <a href="https://nyti.ms/3sgetPg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Latest About the Maui Wildfires: Emergency Management Chief Resigns</h3>
-<sub>By Adeel Hassan</sub>
-<p>The sudden departure comes a day after the chief defended not using outdoor alert sirens. The official death toll has reached 111 people and is expected to climb.  <a href="https://nyti.ms/45y5gjv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 10, Central Standard Time</sub></sub>
+<h3>Maui Sued Big Oil in 2020, Citing Fire Risks and More</h3>
+<sub>By Hiroko Tabuchi</sub>
+<p>Maui County’s lawsuit against some of the world’s largest oil and gas companies is still winding its way through state court.  <a href="https://nyti.ms/45aS4Bm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Why Hawaii Is Scrutinizing Hawaiian Electric in the Maui Fire</h3>
@@ -108,35 +98,41 @@ Mortgage rates have recently jumped to their highest levels since 2002, which is
 <p>The utility company’s share price has tumbled after lawsuits were filed seeking to hold it accountable for the blaze, which has killed more than 100 people.  <a href="https://nyti.ms/3slnqGO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘Miracles Occurred That Night’: A Mad Scramble to Save Maui Pets</h3>
-<sub>By Ernesto Londoño</sub>
-<p>After a fire destroyed the seaside town of Lahaina, the fate of beloved animals became a wrenching concern.  <a href="https://nyti.ms/3P1Q20O"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Maui’s Emergency Management Chief Resigns After Questions About Fire Response</h3>
+<sub>By Victoria Kim</sub>
+<p>The chief, Herman Andaya, cited his health in stepping down. His agency’s decision not to sound emergency sirens as wildfires neared Lahaina had drawn scrutiny.  <a href="https://nyti.ms/3YBZNGl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>To Stop an Extinction, He’s Flying High, Followed by His Beloved Birds</h3>
+<sub>By Denise Hruby</sub>
+<p>Using an ultralight aircraft, Johannes Fritz once taught endangered ibises a migration path over the Alps. Because of climate change, he is now showing them a much longer route to a winter’s refuge.  <a href="https://nyti.ms/3sextxw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Belief or Betrayal? Ukraine’s Conscientious Objectors Face Hostility.</h3>
+<sub>By Cassandra Vinograd</sub>
+<p>The option of “alternative service” vanished after martial law was declared last year. But some have refused to serve, and now face jail time and skepticism about their motives.  <a href="https://nyti.ms/45pAnOi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>How Geopolitics Is Complicating the Move to Clean Energy</h3>
+<sub>By Peter S. Goodman and Ulet Ifansasti</sub>
+<p>The fate of Indonesia’s unrivaled stocks of nickel — a critical mineral used to make batteries for electric vehicles — is caught in the conflict between the United States and China.  <a href="https://nyti.ms/3sf6CS7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.S. Mortgage Rates Jump to Highest Level Since 2002</h3>
-<sub>By Gregory Schmidt</sub>
-<p>The average 30-year fixed-rate mortgage has climbed above 7 percent, making it harder for buyers to afford homes, which are already in short supply.  <a href="https://nyti.ms/3KKN6Dh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Generation X Is Staring Down Retirement, and Student Loan Debt</h3>
-<sub>By Martha C. White</sub>
-<p>The end of the payment pause means Americans in this age group will once again have to juggle paying off debt while trying to save for older age.  <a href="https://nyti.ms/45iPk51"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>China’s Nickel Plants in Indonesia Created Needed Jobs, Plus Pollution</h3>
+<sub>By Peter S. Goodman and Ulet Ifansasti</sub>
+<p>An influx of Chinese investment into nickel-processing on the Indonesian island of Sulawesi is sowing pollution while generating economic opportunity.  <a href="https://nyti.ms/3sl0J5W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Defend Trump and ‘Hammer’ Ramaswamy: DeSantis Allies Reveal Debate Strategy</h3>
-<sub>By Jonathan Swan, Shane Goldmacher and Maggie Haberman</sub>
-<p>Hundreds of pages of blunt advice, memos and internal polling were posted online by the main super PAC backing the Florida governor, offering an extraordinary glimpse into his operation’s thinking.  <a href="https://nyti.ms/3E079K7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Ramaswamy’s Faith Singled Out in DeSantis Super PAC Memo</h3>
-<sub>By Jonathan Swan, Shane Goldmacher and Maggie Haberman</sub>
-<p>An opposition research memo suggests that Vivek Ramaswamy, who has been gaining on Gov. Ron DeSantis of Florida in some polls, “was very much ingrained in India’s caste system.”  <a href="https://nyti.ms/3qC7U97"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
+<h3>Ramaswamy Rides Wave of Support, but Rivals Are Eager to Pounce</h3>
+<sub>By Jonathan Weisman</sub>
+<p>Surging poll numbers and newly revealed concerns from Ron DeSantis’s super PAC underscore that Vivek Ramaswamy is having a well-timed political moment.  <a href="https://nyti.ms/3KIl0IM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
