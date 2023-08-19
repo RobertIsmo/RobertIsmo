@@ -60,13 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, August 19, Central Standard Time</p>
 <p>
-Right now, there is a lot going on in the world! In the US, former president Trump has decided to not join his fellow Republicans in their upcoming party debate while also facing legal issues from his lawyer, Rudy Giuliani. Over in Europe, officials are worrying about how Trump being re-elected could affect alliances and the war in Ukraine. Polls are starting to show that people can agree on one thing--that we are failing as a nation--despite having differing political beliefs. 
+There is a lot going on in the world right now. In the US, The former President Trump decided to skip the G.O.P debate and instead is working on his own counterprogramming. A Republican presidential candidate is also running for office, despite being at odds with rap music&#39;s spirit. 
 
-Meanwhile, there is a Category 3 hurricane forming in the Pacific Ocean called Hurricane Hilary which is threatening Mexico and California. Maps of the storm path and precipitation were also released. Back in the U.S., Southerners are all too familiar with oppressive summer heat and humidity but this year&#39;s conditions have been especially brutal. 
+In Hawaii, the utility knew it needed to upgrade its equipment but didn&#39;t make necessary changes to reduce fire risks and now one death has been reported due to wildfire. Seattle is also having similar issues with a 9,500 acre wildfire burning and dozens of buildings destroyed. 
 
-Across the globe, things seem just as intense. Brazil recently identified the two remaining members belonging to an isolated tribe living deep in the Amazon and it is now considering how to best move forward concerning their situation. Down in Hawaii, experts suggest that wildfires ravaging parts of Washington state could&#39;ve been reduced if improvements had been made previously to utility equipment in Hawaiian villages. Further west, Gen Z activists are leveraging TikTok and lawsuits to fight climate change while people visiting Paris nightlife can now attend Climate Fresk classes that explain global warming. 
-
-It&#39;s certainly a lot to keep up with!</p>
+Brazil is facing a unique challenge as they have found the last two members of an isolated tribe. And in France people are attending climate change classes as part of a night out in Paris. Gen Z is taking on a more active role in trying to solve climate change around the world too by engaging in social media and filing lawsuits.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Inside Trump’s Decision to Skip the G.O.P. Debate</h3>
@@ -74,10 +72,10 @@ It&#39;s certainly a lot to keep up with!</p>
 <p>Fox News leaned on the former president privately and publicly to join the debate. But all the while he was proceeding with a plan for his own counterprogramming.  <a href="https://nyti.ms/3seql4d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Europe, Few Even Want to Talk About Trump Part 2</h3>
-<sub>By Steven Erlanger</sub>
-<p>The prospect of a second presidential term for Donald J. Trump has many officials worried about alliance cohesion, NATO and the war in Ukraine.  <a href="https://nyti.ms/47GM8BK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Vivek Ramaswamy Loves Eminem. And He Doesn’t Care If the Feeling Is Mutual.</h3>
+<sub>By Jonathan Weisman</sub>
+<p>The Republican presidential candidate loves rap music, even if critics say his politics are at odds with its spirit. “There’s no such thing as one rap community,” he says.  <a href="https://nyti.ms/47Cyn7e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-upshot-blue" alt="">
@@ -86,17 +84,17 @@ It&#39;s certainly a lot to keep up with!</p>
 <p>In a recent poll, some Democrats and most Republicans share a sense of doom.  <a href="https://nyti.ms/45gyPqf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Giuliani Repeatedly Sought Financial Lifeline From Trump</h3>
-<sub>By Maggie Haberman and Ben Protess</sub>
-<p>As Rudolph Giuliani has neared a financial breaking point with a pile of legal bills, the former president has largely demurred, despite making a vague promise to pay up.  <a href="https://nyti.ms/44fnwNM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 19, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Hurricane Hilary, Now a Category 3 Storm, Nears Mexico and California</h3>
 <sub>By Judson Jones</sub>
 <p>The storm weakened to a Category 3 hurricane on Saturday, but it was still expected to produce heavy rain and flooding.  <a href="https://nyti.ms/3OG1pdy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Mexico Warns of Hilary Hit on Baja</h3>
+<sub>By Emiliano Rodríguez Mega, Elda Cantú and Aline Corpus</sub>
+<p>The torrential rain and flooding that threaten Southern California also menaced Baja California, the western Mexico peninsula that is popular with tourists.  <a href="https://nyti.ms/3R3kAkr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Maps: Tracking Hurricane Hilary</h3>
@@ -123,9 +121,9 @@ It&#39;s certainly a lot to keep up with!</p>
 <sub><sub>Saturday, August 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Wildfire Prompts Evacuations and Warnings in Washington State</h3>
-<sub>By Eduardo Medina and Mike Ives</sub>
-<p>The Gray Fire burned more than 3,000 acres on Friday near two communities southwest of Spokane. Critical fire conditions were expected on Saturday.  <a href="https://nyti.ms/3QH2aFR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>One Dead, Dozens of Buildings Destroyed in Washington State Wildfire</h3>
+<sub>By Eduardo Medina, Mike Ives and Orlando Mayorquin</sub>
+<p>The Gray fire had burned 9,500 acres by Saturday morning in communities southwest of Spokane, with no sign of containment. One death has been reported.  <a href="https://nyti.ms/3QH2aFR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
