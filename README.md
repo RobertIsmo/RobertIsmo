@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Friday, August 18, Central Standard Time</p>
+<p>It is Saturday, August 19, Central Standard Time</p>
 <p>
-There are some pretty big things happening in the world right now. In California and Mexico, Hurricane Hilary is sending disaster prep into high gear with heavy rains and flooding warnings issued. In Canada, wildfires are burning out of control, forcing evacuations in Yellowknife and Kelowna. And in West Virginia, state budget cuts have led to the University cutting classes like world languages and creative writing. On top of all this, Donald Trump may not be attending the first Republican debate as well.</p>
+I wanted to update you on what&#39;s been happening in the world recently. There&#39;s a very rare hurricane, Hurricane Hilary, that is currently a Category 4 storm. It&#39;s causing flooding warnings in Southern California and temporary shelters have been created in Baja California, Mexico. Further up North, there are wildfires that are causing a state of emergency in British Columbia and Washington State. Closer to home, West Virginia University recently slashed its budget and is no longer offering world languages and creative writing classes. On the political field, there&#39;s been talk of Donald Trump possibly returning to power in next year&#39;s election which has caused concern amongst America&#39;s two closest allies in the Indo-Pacific region. Plus, there&#39;s also the upcoming Republican debate with Trump indicating he may not attend the first one. That&#39;s about it for now!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In California and Mexico, a Rare Hurricane Sends Disaster Prep Into High Gear</h3>
@@ -69,9 +69,9 @@ There are some pretty big things happening in the world right now. In California
 <sub><sub>Friday, August 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘Catastrophic’ Flooding Possible in Southern California as Hurricane Hilary Moves North</h3>
+<h3>Los Angeles Under Tropical Storm Warning as Hurricane Hilary Approaches</h3>
 <sub>By Judson Jones</sub>
-<p>Heavy rain is expected to pummel the Southwest through Tuesday and could lead to “life-threatening and potentially catastrophic flooding,” forecasters said.  <a href="https://nyti.ms/3OG1pdy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>As the Category 4 storm moved through the Pacific Ocean on Friday, the National Hurricane Center issued its first-ever tropical storm warning for Southern California.  <a href="https://nyti.ms/3OG1pdy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -104,10 +104,16 @@ There are some pretty big things happening in the world right now. In California
 <p>People who lost their homes in last week’s fire increasingly are being housed in hotels a few miles away.  <a href="https://nyti.ms/44hjmVm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 18, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Wildfire Prompts Evacuations in Washington State Communities</h3>
+<sub>By Eduardo Medina</sub>
+<p>The Gray Fire had burned more than 3,000 acres as of Friday night in areas near Medical Lake, a city of about 4,800 residents, officials said.  <a href="https://nyti.ms/3QH2aFR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 18, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Wildfires Burning Out of Control Widen Canada Evacuations</h3>
+<h3>British Columbia Under State of Emergency as Wildfires Rage in Canada</h3>
 <sub>By Ian Austen and Vjosa Isai</sub>
-<p>As residents of Yellowknife fled a wildfire in the Northwest Territories, a state of emergency was issued hundreds of miles away in Kelowna, British Columbia.  <a href="https://nyti.ms/3P1MJqh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The emergency order was issued late Friday as wildfires threatened Yellowknife, in the Northwest Territories, and Kelowna, in British Columbia.  <a href="https://nyti.ms/3P1MJqh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -126,12 +132,6 @@ There are some pretty big things happening in the world right now. In California
 <h3>Slashing Its Budget, West Virginia University Asks, What Is Essential?</h3>
 <sub>By Anemona Hartocollis</sub>
 <p>The state’s flagship school will no longer teach world languages or creative writing — a sign, its president says, of the future at many public universities.  <a href="https://nyti.ms/47Ayosm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>How Many Former Vanity Fair Employees Does It Take to Build a Roof?</h3>
-<sub>By Steven Kurutz</sub>
-<p>Technically, none. So why has Standard Industries hired several of them?  <a href="https://nyti.ms/44fDcAn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
