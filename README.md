@@ -60,14 +60,8 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, August 18, Central Standard Time</p>
 <p>
-There is a lot of natural disasters happening around the world right now. In California and Mexico, a rare hurricane is creating disaster-preparedness in both regions. There are concerns about &quot;catastrophic&quot; flooding in Southern California as Hurricane Hilary moves north, and wildfires are ravaging Canada and forcing evacuations. West Virginia University has had to slash its budget due to state funding cuts, and has had to cut areas like world languages and creative writing programs. Meanwhile, Donald Trump plans to skip the Republican National Debate for an interview with Tucker Carlson, which could potentially disrupt ties with America&#39;s allies in the Indo-Pacific region, while Republicans try to determine who will make it to the next debate.</p>
+There are some pretty big things happening in the world right now. In California and Mexico, Hurricane Hilary is sending disaster prep into high gear with heavy rains and flooding warnings issued. In Canada, wildfires are burning out of control, forcing evacuations in Yellowknife and Kelowna. And in West Virginia, state budget cuts have led to the University cutting classes like world languages and creative writing. On top of all this, Donald Trump may not be attending the first Republican debate as well.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Looming Over a New Security Pact: China, North Korea and Donald Trump</h3>
-<sub>By Peter Baker and Zolan Kanno-Youngs</sub>
-<p>While the former president’s name appeared nowhere in the communique issued by three leaders, one of the subtexts was the possibility that he could return to power in next year’s election and disrupt ties with America’s two closest allies in the Indo-Pacific region.  <a href="https://nyti.ms/3shFnGn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 18, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In California and Mexico, a Rare Hurricane Sends Disaster Prep Into High Gear</h3>
 <sub>By Corina Knoll and Aline Corpus</sub>
@@ -87,22 +81,16 @@ There is a lot of natural disasters happening around the world right now. In Cal
 <sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Plans to Skip G.O.P. Debate for Interview With Tucker Carlson</h3>
-<sub>By Maggie Haberman and Jonathan Swan</sub>
-<p>The former president’s apparent decision to skip the first debate is a major affront both to the Republican National Committee and to Fox News, which is hosting the event.  <a href="https://nyti.ms/45dpQ9j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Tropical Storms in California Are Rare. The Last to Make Landfall Killed Nearly 100.</h3>
+<sub>By Livia Albeck-Ripka</sub>
+<p>The last time a tropical storm came ashore in the state was in 1939. It capsized boats, cut power and phone service and destroyed homes along the coast.  <a href="https://nyti.ms/45wxJX5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>For DeSantis, an Unforced Error Amplifies a Daunting Debate Challenge</h3>
-<sub>By Nicholas Nehamas</sub>
-<p>Newly revealed strategy advice from his super PAC seemed to leave the already struggling Florida governor in a no-win situation just days before the first Republican debate.  <a href="https://nyti.ms/44aTdrf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Looming Over a New Security Pact: China, North Korea and Donald Trump</h3>
+<sub>By Peter Baker and Zolan Kanno-Youngs</sub>
+<p>While the former president’s name appeared nowhere in the communique issued by three leaders, one of the subtexts was the possibility that he could return to power in next year’s election and disrupt ties with America’s two closest allies in the Indo-Pacific region.  <a href="https://nyti.ms/3shFnGn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Who Has Made It to the First Republican Debate So Far?</h3>
-<sub>By Molly Cook Escobar, Andrew Fischer and Eleanor Lutz</sub>
-<p>At least eight candidates appear to have made the cut so far for the first debate in August. Donald J. Trump has indicated he may not attend.  <a href="https://nyti.ms/3YeqG2N"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>It Was an Oasis for Maui Elders. The Fire Brought Terror and Death.</h3>
@@ -121,6 +109,18 @@ There is a lot of natural disasters happening around the world right now. In Cal
 <sub>By Ian Austen and Vjosa Isai</sub>
 <p>As residents of Yellowknife fled a wildfire in the Northwest Territories, a state of emergency was issued hundreds of miles away in Kelowna, British Columbia.  <a href="https://nyti.ms/3P1MJqh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Plans to Skip G.O.P. Debate for Interview With Tucker Carlson</h3>
+<sub>By Maggie Haberman and Jonathan Swan</sub>
+<p>The former president’s apparent decision to skip the first debate is a major affront both to the Republican National Committee and to Fox News, which is hosting the event.  <a href="https://nyti.ms/45dpQ9j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Who Has Made It to the First Republican Debate So Far?</h3>
+<sub>By Molly Cook Escobar, Andrew Fischer and Eleanor Lutz</sub>
+<p>At least eight candidates appear to have made the cut so far for the first debate in August. Donald J. Trump has indicated he may not attend.  <a href="https://nyti.ms/3YeqG2N"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Slashing Its Budget, West Virginia University Asks, What Is Essential?</h3>
