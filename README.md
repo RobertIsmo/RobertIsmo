@@ -60,14 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, August 19, Central Standard Time</p>
 <p>
-There are a few major things happening in the world right now. In California and Mexico, a rare Hurricane Hilary has been upgraded to a Category 4 storm, prompting flood warnings and temporary shelters in both countries. The National Hurricane Center has issued its first-ever tropical storm warning for Southern California. In Washington State, the Gray Fire is burning more than 3,000 acres and has led to evacuations, while BC is under a state of emergency as wildfires rage in Canada. In West Virginia University, budget cuts are forcing them to cut programs such as world languages and creative writing. Finally, former US President Donald Trump plans to skip the first G.O.P debate in August for an interview with Tucker Carlson.</p>
+Right now, the world is dealing with some extreme weather conditions around a few different areas. For example, Hurricane Hilary is currently moving through the Pacific Ocean and the National Hurricane Center has issued its first-ever tropical storm warning for Southern California. In addition, residents in the South are complaining about the scorching heat and humidity that has made this summer so unbearable. 
+
+The effects of climate change are becoming increasingly noticeable as we see wild fires raging in Washington, Hawaii, and California. These pose a real danger to local communities and have forced people to evacuate from their homes. Meanwhile, there are continuing tensions between Japan, South Korea and the United States as they sign a defense agreement that China perceives as an encirclement and provocation. In Brazil, the last known isolated members of the Piripkura people have been found but authorities are not sure what to do next.
+
+In addition, former U.S. President Donald Trump&#39;s reelection prospects have many across Europe worried about alliance cohesion. Finally, inmates across the U.S are facing lockdown in prisons that are understaffed and unsanitary due to lack of medical care.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In California and Mexico, a Rare Hurricane Sends Disaster Prep Into High Gear</h3>
-<sub>By Corina Knoll and Aline Corpus</sub>
-<p>Hurricane Hilary, now a Category 4 storm, has prompted flood warnings in Southern California and temporary shelters in Baja California, Mexico.  <a href="https://nyti.ms/47xPszj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 18, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Los Angeles Under Tropical Storm Warning as Hurricane Hilary Approaches</h3>
 <sub>By Judson Jones</sub>
@@ -81,27 +79,27 @@ There are a few major things happening in the world right now. In California and
 <sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Tropical Storms in California Are Rare. The Last to Make Landfall Killed Nearly 100.</h3>
-<sub>By Livia Albeck-Ripka</sub>
-<p>The last time a tropical storm came ashore in the state was in 1939. It capsized boats, cut power and phone service and destroyed homes along the coast.  <a href="https://nyti.ms/45wxJX5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 18, Central Standard Time</sub></sub>
+<h3>The South Knows a Hot, Sticky Summer. But This? ‘It’s Hell.’</h3>
+<sub>By Rick Rojas</sub>
+<p>It’s not just the heat, as Southerners have explained for generations. It’s the moist, soupy, suffocating humidity. And this year the punishing conditions have been relentless.  <a href="https://nyti.ms/47AY6wS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Looming Over a New Security Pact: China, North Korea and Donald Trump</h3>
-<sub>By Peter Baker and Zolan Kanno-Youngs</sub>
-<p>While the former president’s name appeared nowhere in the communique issued by three leaders, one of the subtexts was the possibility that he could return to power in next year’s election and disrupt ties with America’s two closest allies in the Indo-Pacific region.  <a href="https://nyti.ms/3shFnGn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 18, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>A Tropical Storm in August? California’s Year of Extremes Grinds On</h3>
+<sub>By Raymond Zhong</sub>
+<p>After winter storms broke rain and snow records, flash floods in Southern California would mark another milestone for the drought-weary state.  <a href="https://nyti.ms/45ijbL4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Hawaiian Electric Was Warned of Its System’s Fragility Before Wildfire</h3>
+<sub>By Ivan Penn and Peter Eavis</sub>
+<p>The utility knew it needed to upgrade its equipment but did not make changes that could have reduced risks of fires, energy experts said.  <a href="https://nyti.ms/3DZ2F6F"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>It Was an Oasis for Maui Elders. The Fire Brought Terror and Death.</h3>
 <sub>By Jack Healy</sub>
 <p>A 35-unit, senior-living complex in Lahaina may have been one of the first major buildings to burn down, and at least two residents are among the dead.  <a href="https://nyti.ms/44hhE6o"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>For Maui Fire Refugees, Island Hotels Become Temporary Homes</h3>
-<sub>By Damien Cave and Eileen Sullivan</sub>
-<p>People who lost their homes in last week’s fire increasingly are being housed in hotels a few miles away.  <a href="https://nyti.ms/44hjmVm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -111,28 +109,34 @@ There are a few major things happening in the world right now. In California and
 <sub><sub>Friday, August 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>British Columbia Under State of Emergency as Wildfires Rage in Canada</h3>
-<sub>By Ian Austen and Vjosa Isai</sub>
-<p>The emergency order was issued late Friday as wildfires threatened Yellowknife, in the Northwest Territories, and Kelowna, in British Columbia.  <a href="https://nyti.ms/3P1MJqh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 18, Central Standard Time</sub></sub>
+<h3>A Defense Agreement Likely to Deepen Chinese Rancor</h3>
+<sub>By David Pierson and Olivia Wang</sub>
+<p>What its signers, Japan, South Korea and the United States, call deterrence, China characterizes as encirclement, even provocation.  <a href="https://nyti.ms/3OG7CGq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Brazil Found the Last Survivors of an Amazon Tribe. Now What?</h3>
+<sub>By Jack Nicas and Manuela Andreoni</sub>
+<p>Pakyi and Tamandua are the final known isolated members of the Piripkura people. They are posing a tricky challenge for Brazil.  <a href="https://nyti.ms/3QG2uVj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Plans to Skip G.O.P. Debate for Interview With Tucker Carlson</h3>
-<sub>By Maggie Haberman and Jonathan Swan</sub>
-<p>The former president’s apparent decision to skip the first debate is a major affront both to the Republican National Committee and to Fox News, which is hosting the event.  <a href="https://nyti.ms/45dpQ9j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 18, Central Standard Time</sub></sub>
+<h3>Giuliani Repeatedly Sought Financial Lifeline From Trump</h3>
+<sub>By Maggie Haberman and Ben Protess</sub>
+<p>As Rudolph Giuliani has neared a financial breaking point with a pile of legal bills, the former president has largely demurred, despite making a vague promise to pay up.  <a href="https://nyti.ms/44fnwNM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Europe, Few Even Want to Talk About Trump Part 2</h3>
+<sub>By Steven Erlanger</sub>
+<p>The prospect of a second presidential term for Donald J. Trump has many officials worried about alliance cohesion, NATO and the war in Ukraine.  <a href="https://nyti.ms/47GM8BK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Who Has Made It to the First Republican Debate So Far?</h3>
-<sub>By Molly Cook Escobar, Andrew Fischer and Eleanor Lutz</sub>
-<p>At least eight candidates appear to have made the cut so far for the first debate in August. Donald J. Trump has indicated he may not attend.  <a href="https://nyti.ms/3YeqG2N"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Slashing Its Budget, West Virginia University Asks, What Is Essential?</h3>
-<sub>By Anemona Hartocollis</sub>
-<p>The state’s flagship school will no longer teach world languages or creative writing — a sign, its president says, of the future at many public universities.  <a href="https://nyti.ms/47Ayosm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 18, Central Standard Time</sub></sub>
+<h3>Inside a ‘Nightmare’ Lockdown at a Wisconsin Prison</h3>
+<sub>By Mario Koran and Jamie Kelter Davis</sub>
+<p>Inmates who have been confined mostly to their cells for more than four months describe unsanitary conditions and a dearth of medical care. Experts say dire staffing shortages are likely to blame and are leading to lockdowns across the country.  <a href="https://nyti.ms/3qHl4Sc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 19, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
