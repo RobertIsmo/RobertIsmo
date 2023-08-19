@@ -60,8 +60,32 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, August 18, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In the US, former President Donald Trump will not be attending the first GOP debate, and Florida Governor DeSantis is facing a difficult challenge ahead of it. Elsewhere, Hurricane Hilary is moving north and Tropical Storms are rare but catastrophic in California. In New England, severe storms are bringing tornadoes and in Ukraine, there have been nearly 500,000 troop deaths and injuries in the war that’s being fought there. Additionally, Donald Trump has four separate criminal indictments against him and he is at risk of trial before the election. Lastly, wildfires in Canada are worsening and evacuations have been issued for hundreds of miles away in some places.</p>
+There is a lot of natural disasters happening around the world right now. In California and Mexico, a rare hurricane is creating disaster-preparedness in both regions. There are concerns about &quot;catastrophic&quot; flooding in Southern California as Hurricane Hilary moves north, and wildfires are ravaging Canada and forcing evacuations. West Virginia University has had to slash its budget due to state funding cuts, and has had to cut areas like world languages and creative writing programs. Meanwhile, Donald Trump plans to skip the Republican National Debate for an interview with Tucker Carlson, which could potentially disrupt ties with America&#39;s allies in the Indo-Pacific region, while Republicans try to determine who will make it to the next debate.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Looming Over a New Security Pact: China, North Korea and Donald Trump</h3>
+<sub>By Peter Baker and Zolan Kanno-Youngs</sub>
+<p>While the former president’s name appeared nowhere in the communique issued by three leaders, one of the subtexts was the possibility that he could return to power in next year’s election and disrupt ties with America’s two closest allies in the Indo-Pacific region.  <a href="https://nyti.ms/3shFnGn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In California and Mexico, a Rare Hurricane Sends Disaster Prep Into High Gear</h3>
+<sub>By Corina Knoll and Aline Corpus</sub>
+<p>Hurricane Hilary, now a Category 4 storm, has prompted flood warnings in Southern California and temporary shelters in Baja California, Mexico.  <a href="https://nyti.ms/47xPszj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘Catastrophic’ Flooding Possible in Southern California as Hurricane Hilary Moves North</h3>
+<sub>By Judson Jones</sub>
+<p>Heavy rain is expected to pummel the Southwest through Tuesday and could lead to “life-threatening and potentially catastrophic flooding,” forecasters said.  <a href="https://nyti.ms/3OG1pdy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Maps: Tracking Hurricane Hilary</h3>
+<sub>By Judson Jones and Madison Dong</sub>
+<p>Storm path and precipitation forecasts for Hurricane Hilary.  <a href="https://nyti.ms/3KLxUFM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Plans to Skip G.O.P. Debate for Interview With Tucker Carlson</h3>
 <sub>By Maggie Haberman and Jonathan Swan</sub>
@@ -75,63 +99,39 @@ There is a lot going on in the world right now. In the US, former President Dona
 <sub><sub>Friday, August 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Christie Says DeSantis Should Drop Out if He Defends Trump at Debate</h3>
-<sub>By Patricia Mazzei</sub>
-<p>Mr. Christie needled his higher-polling rivals while campaigning in their home state of Florida.  <a href="https://nyti.ms/45eyYdK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Tropical Storm Watch Issued for Southern California as Hurricane Hilary Moves North</h3>
-<sub>By Judson Jones</sub>
-<p>Heavy rain linked to Hilary is expected to pummel the Southwestern United States through Tuesday morning.  <a href="https://nyti.ms/3OG1pdy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Maps: Tracking Hurricane Hilary</h3>
-<sub>By Judson Jones and Madison Dong</sub>
-<p>Storm path and precipitation forecasts for Hurricane Hilary.  <a href="https://nyti.ms/3KLxUFM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
+<h3>Who Has Made It to the First Republican Debate So Far?</h3>
+<sub>By Molly Cook Escobar, Andrew Fischer and Eleanor Lutz</sub>
+<p>At least eight candidates appear to have made the cut so far for the first debate in August. Donald J. Trump has indicated he may not attend.  <a href="https://nyti.ms/3YeqG2N"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Tropical Storms Are Rare in California. The Last, in 1939, Killed Nearly 100.</h3>
-<sub>By Livia Albeck-Ripka</sub>
-<p>The most recent tropical cyclone to make landfall in Southern California capsized boats, cut power and phone service and destroyed homes along the coast.  <a href="https://nyti.ms/45wxJX5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>It Was an Oasis for Maui Elders. The Fire Brought Terror and Death.</h3>
+<sub>By Jack Healy</sub>
+<p>A 35-unit, senior-living complex in Lahaina may have been one of the first major buildings to burn down, and at least two residents are among the dead.  <a href="https://nyti.ms/44hhE6o"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Severe Storms Bring Tornadoes to New England</h3>
-<sub>By Chang Che and Jenny Gross</sub>
-<p>As storms moved across the region on Friday morning, tornadoes were confirmed in Rhode Island and Massachusetts, the National Weather Service said. There were no immediate reports of injuries.  <a href="https://nyti.ms/44nGyBG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Troop Deaths and Injuries in Ukraine War Near 500,000, U.S. Officials Say</h3>
-<sub>By Helene Cooper, Thomas Gibbons-Neff, Eric Schmitt and Julian E. Barnes</sub>
-<p>Ukraine and Russia have lost a staggering number of troops as Kyiv’s counteroffensive drags on. A lack of rapid medical care has added to the toll.  <a href="https://nyti.ms/3sh1fld"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>How Many of Trump’s Trials Will Happen Before the Election?</h3>
-<sub>By Benjamin Weiser, Ben Protess, Jonah E. Bromwich and William K. Rashbaum</sub>
-<p>Donald J. Trump is the target of four separate criminal indictments, but the prosecutions could drag on for months or even years.  <a href="https://nyti.ms/45xTo13"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Architect of Fake Electors Scheme Appeared to Be Outside Capitol on Jan. 6</h3>
-<sub>By Alan Feuer and Maggie Haberman</sub>
-<p>It remains unclear why the lawyer, Kenneth Chesebro, seemed to be with the conspiracy theorist Alex Jones outside the Capitol or how he came to be with Mr. Jones and his entourage.  <a href="https://nyti.ms/3sjcwBF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>How Many Former Vanity Fair Employees Does It Take to Build a Roof?</h3>
-<sub>By Steven Kurutz</sub>
-<p>Technically, none. So why has Standard Industries hired several of them?  <a href="https://nyti.ms/44fDcAn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>For Maui Fire Refugees, Island Hotels Become Temporary Homes</h3>
+<sub>By Damien Cave and Eileen Sullivan</sub>
+<p>People who lost their homes in last week’s fire increasingly are being housed in hotels a few miles away.  <a href="https://nyti.ms/44hjmVm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Wildfires Burning Out of Control Widen Canada Evacuations</h3>
 <sub>By Ian Austen and Vjosa Isai</sub>
 <p>As residents of Yellowknife fled a wildfire in the Northwest Territories, a state of emergency was issued hundreds of miles away in Kelowna, British Columbia.  <a href="https://nyti.ms/3P1MJqh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Slashing Its Budget, West Virginia University Asks, What Is Essential?</h3>
+<sub>By Anemona Hartocollis</sub>
+<p>The state’s flagship school will no longer teach world languages or creative writing — a sign, its president says, of the future at many public universities.  <a href="https://nyti.ms/47Ayosm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>How Many Former Vanity Fair Employees Does It Take to Build a Roof?</h3>
+<sub>By Steven Kurutz</sub>
+<p>Technically, none. So why has Standard Industries hired several of them?  <a href="https://nyti.ms/44fDcAn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
