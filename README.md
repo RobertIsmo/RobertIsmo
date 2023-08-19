@@ -60,12 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, August 19, Central Standard Time</p>
 <p>
-A lot has been going on lately in the world. For starters, another former president, Donald Trump, had the chance to join a G.O.P. debate but chose to skip it instead and came up with his own plans for counterprogramming. Polls show that Democrats and Republicans broadly agree that things are not going well in the nation. Meanwhile, Rudolph Giuliani is facing financial trouble and Trump is unfortunately doing little to help him out. Elsewhere in the world, Hurricane Hilary is moving through the Pacific Ocean and putting Los Angeles under a tropical storm warning, while people in the South are dealing with unusually hot and humid weather. Additionally, countries like Japan, South Korea, and the United States have reached a defense agreement which China sees as encirclement or provocation. In Brazil, two members of an isolated tribe recently emerged after years of being cut off from society and now pose a tricky challenge for Brazil’s government officials. To make matters even worse, some jails in Wisconsin have been locked down for months due to dire staffing shortages which is leading to more lockdowns across the country.</p>
+Right now, there is a lot going on in the world! In the US, former president Trump has decided to not join his fellow Republicans in their upcoming party debate while also facing legal issues from his lawyer, Rudy Giuliani. Over in Europe, officials are worrying about how Trump being re-elected could affect alliances and the war in Ukraine. Polls are starting to show that people can agree on one thing--that we are failing as a nation--despite having differing political beliefs. 
+
+Meanwhile, there is a Category 3 hurricane forming in the Pacific Ocean called Hurricane Hilary which is threatening Mexico and California. Maps of the storm path and precipitation were also released. Back in the U.S., Southerners are all too familiar with oppressive summer heat and humidity but this year&#39;s conditions have been especially brutal. 
+
+Across the globe, things seem just as intense. Brazil recently identified the two remaining members belonging to an isolated tribe living deep in the Amazon and it is now considering how to best move forward concerning their situation. Down in Hawaii, experts suggest that wildfires ravaging parts of Washington state could&#39;ve been reduced if improvements had been made previously to utility equipment in Hawaiian villages. Further west, Gen Z activists are leveraging TikTok and lawsuits to fight climate change while people visiting Paris nightlife can now attend Climate Fresk classes that explain global warming. 
+
+It&#39;s certainly a lot to keep up with!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Inside Trump’s Decision to Skip the G.O.P. Debate</h3>
 <sub>By Jonathan Swan, Jeremy W. Peters and Maggie Haberman</sub>
 <p>Fox News leaned on the former president privately and publicly to join the debate. But all the while he was proceeding with a plan for his own counterprogramming.  <a href="https://nyti.ms/3seql4d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Europe, Few Even Want to Talk About Trump Part 2</h3>
+<sub>By Steven Erlanger</sub>
+<p>The prospect of a second presidential term for Donald J. Trump has many officials worried about alliance cohesion, NATO and the war in Ukraine.  <a href="https://nyti.ms/47GM8BK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-upshot-blue" alt="">
@@ -81,15 +93,9 @@ A lot has been going on lately in the world. For starters, another former presid
 <sub><sub>Saturday, August 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Europe, Few Even Want to Talk About Trump Part 2</h3>
-<sub>By Steven Erlanger</sub>
-<p>The prospect of a second presidential term for Donald J. Trump has many officials worried about alliance cohesion, NATO and the war in Ukraine.  <a href="https://nyti.ms/47GM8BK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Los Angeles Under Tropical Storm Warning as Hurricane Hilary Approaches</h3>
+<h3>Hurricane Hilary, Now a Category 3 Storm, Nears Mexico and California</h3>
 <sub>By Judson Jones</sub>
-<p>As the Category 4 storm moved through the Pacific Ocean on Friday, the National Hurricane Center issued its first-ever tropical storm warning for Southern California.  <a href="https://nyti.ms/3OG1pdy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The storm weakened to a Category 3 hurricane on Saturday, but it was still expected to produce heavy rain and flooding.  <a href="https://nyti.ms/3OG1pdy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -104,6 +110,12 @@ A lot has been going on lately in the world. For starters, another former presid
 <p>It’s not just the heat, as Southerners have explained for generations. It’s the moist, soupy, suffocating humidity. And this year the punishing conditions have been relentless.  <a href="https://nyti.ms/47AY6wS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 19, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Brazil Found the Last Survivors of an Amazon Tribe. Now What?</h3>
+<sub>By Jack Nicas and Manuela Andreoni</sub>
+<p>Pakyi and Tamandua are the final known isolated members of the Piripkura people. They are posing a tricky challenge for Brazil.  <a href="https://nyti.ms/3QG2uVj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 19, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Hawaiian Electric Was Warned of Its System’s Fragility Before Wildfire</h3>
 <sub>By Ivan Penn and Peter Eavis</sub>
@@ -116,22 +128,16 @@ A lot has been going on lately in the world. For starters, another former presid
 <p>The Gray Fire burned more than 3,000 acres on Friday near two communities southwest of Spokane. Critical fire conditions were expected on Saturday.  <a href="https://nyti.ms/3QH2aFR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Defense Agreement Likely to Deepen Chinese Rancor</h3>
-<sub>By David Pierson and Olivia Wang</sub>
-<p>What its signers, Japan, South Korea and the United States, call deterrence, China characterizes as encirclement, even provocation.  <a href="https://nyti.ms/3OG7CGq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>With TikTok and Lawsuits, Gen Z Takes on Climate Change</h3>
+<sub>By David Gelles</sub>
+<p>‘We’re the last resort,’ one young activist said.  <a href="https://nyti.ms/3E4Zryg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Brazil Found the Last Survivors of an Amazon Tribe. Now What?</h3>
-<sub>By Jack Nicas and Manuela Andreoni</sub>
-<p>Pakyi and Tamandua are the final known isolated members of the Piripkura people. They are posing a tricky challenge for Brazil.  <a href="https://nyti.ms/3QG2uVj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Inside a ‘Nightmare’ Lockdown at a Wisconsin Prison</h3>
-<sub>By Mario Koran and Jamie Kelter Davis</sub>
-<p>Inmates who have been confined mostly to their cells for more than four months describe unsanitary conditions and a dearth of medical care. Experts say dire staffing shortages are likely to blame and are leading to lockdowns across the country.  <a href="https://nyti.ms/3qHl4Sc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>For a Trendy Night Out in Paris, How About a Climate Change Workshop?</h3>
+<sub>By Constant Méheut</sub>
+<p>More than a million people in France have attended a “Climate Fresk” class to understand the process of global warming. The project is now spreading abroad.  <a href="https://nyti.ms/3E0MDsQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 19, Central Standard Time</sub></sub>
 <hr/>
 </ol>
