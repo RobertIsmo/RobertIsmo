@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, August 19, Central Standard Time</p>
 <p>
-I wanted to update you on what&#39;s been happening in the world recently. There&#39;s a very rare hurricane, Hurricane Hilary, that is currently a Category 4 storm. It&#39;s causing flooding warnings in Southern California and temporary shelters have been created in Baja California, Mexico. Further up North, there are wildfires that are causing a state of emergency in British Columbia and Washington State. Closer to home, West Virginia University recently slashed its budget and is no longer offering world languages and creative writing classes. On the political field, there&#39;s been talk of Donald Trump possibly returning to power in next year&#39;s election which has caused concern amongst America&#39;s two closest allies in the Indo-Pacific region. Plus, there&#39;s also the upcoming Republican debate with Trump indicating he may not attend the first one. That&#39;s about it for now!</p>
+There are a few major things happening in the world right now. In California and Mexico, a rare Hurricane Hilary has been upgraded to a Category 4 storm, prompting flood warnings and temporary shelters in both countries. The National Hurricane Center has issued its first-ever tropical storm warning for Southern California. In Washington State, the Gray Fire is burning more than 3,000 acres and has led to evacuations, while BC is under a state of emergency as wildfires rage in Canada. In West Virginia University, budget cuts are forcing them to cut programs such as world languages and creative writing. Finally, former US President Donald Trump plans to skip the first G.O.P debate in August for an interview with Tucker Carlson.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In California and Mexico, a Rare Hurricane Sends Disaster Prep Into High Gear</h3>
@@ -105,9 +105,9 @@ I wanted to update you on what&#39;s been happening in the world recently. There
 <sub><sub>Friday, August 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Wildfire Prompts Evacuations in Washington State Communities</h3>
-<sub>By Eduardo Medina</sub>
-<p>The Gray Fire had burned more than 3,000 acres as of Friday night in areas near Medical Lake, a city of about 4,800 residents, officials said.  <a href="https://nyti.ms/3QH2aFR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Wildfire Prompts Evacuations and Warnings in Washington State</h3>
+<sub>By Eduardo Medina and Mike Ives</sub>
+<p>The Gray Fire burned more than 3,000 acres on Friday near two communities southwest of Spokane. Critical fire conditions were expected on Saturday.  <a href="https://nyti.ms/3QH2aFR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
