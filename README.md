@@ -60,12 +60,32 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, August 19, Central Standard Time</p>
 <p>
-Right now, the world is dealing with some extreme weather conditions around a few different areas. For example, Hurricane Hilary is currently moving through the Pacific Ocean and the National Hurricane Center has issued its first-ever tropical storm warning for Southern California. In addition, residents in the South are complaining about the scorching heat and humidity that has made this summer so unbearable. 
-
-The effects of climate change are becoming increasingly noticeable as we see wild fires raging in Washington, Hawaii, and California. These pose a real danger to local communities and have forced people to evacuate from their homes. Meanwhile, there are continuing tensions between Japan, South Korea and the United States as they sign a defense agreement that China perceives as an encirclement and provocation. In Brazil, the last known isolated members of the Piripkura people have been found but authorities are not sure what to do next.
-
-In addition, former U.S. President Donald Trump&#39;s reelection prospects have many across Europe worried about alliance cohesion. Finally, inmates across the U.S are facing lockdown in prisons that are understaffed and unsanitary due to lack of medical care.</p>
+A lot has been going on lately in the world. For starters, another former president, Donald Trump, had the chance to join a G.O.P. debate but chose to skip it instead and came up with his own plans for counterprogramming. Polls show that Democrats and Republicans broadly agree that things are not going well in the nation. Meanwhile, Rudolph Giuliani is facing financial trouble and Trump is unfortunately doing little to help him out. Elsewhere in the world, Hurricane Hilary is moving through the Pacific Ocean and putting Los Angeles under a tropical storm warning, while people in the South are dealing with unusually hot and humid weather. Additionally, countries like Japan, South Korea, and the United States have reached a defense agreement which China sees as encirclement or provocation. In Brazil, two members of an isolated tribe recently emerged after years of being cut off from society and now pose a tricky challenge for Brazil’s government officials. To make matters even worse, some jails in Wisconsin have been locked down for months due to dire staffing shortages which is leading to more lockdowns across the country.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Inside Trump’s Decision to Skip the G.O.P. Debate</h3>
+<sub>By Jonathan Swan, Jeremy W. Peters and Maggie Haberman</sub>
+<p>Fox News leaned on the former president privately and publicly to join the debate. But all the while he was proceeding with a plan for his own counterprogramming.  <a href="https://nyti.ms/3seql4d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>These Voters Share Almost No Political Beliefs, but They Agree on One Thing: We’re Failing as a Nation</h3>
+<sub>By Ruth Igielnik</sub>
+<p>In a recent poll, some Democrats and most Republicans share a sense of doom.  <a href="https://nyti.ms/45gyPqf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Giuliani Repeatedly Sought Financial Lifeline From Trump</h3>
+<sub>By Maggie Haberman and Ben Protess</sub>
+<p>As Rudolph Giuliani has neared a financial breaking point with a pile of legal bills, the former president has largely demurred, despite making a vague promise to pay up.  <a href="https://nyti.ms/44fnwNM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Europe, Few Even Want to Talk About Trump Part 2</h3>
+<sub>By Steven Erlanger</sub>
+<p>The prospect of a second presidential term for Donald J. Trump has many officials worried about alliance cohesion, NATO and the war in Ukraine.  <a href="https://nyti.ms/47GM8BK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 19, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Los Angeles Under Tropical Storm Warning as Hurricane Hilary Approaches</h3>
 <sub>By Judson Jones</sub>
@@ -84,23 +104,11 @@ In addition, former U.S. President Donald Trump&#39;s reelection prospects have 
 <p>It’s not just the heat, as Southerners have explained for generations. It’s the moist, soupy, suffocating humidity. And this year the punishing conditions have been relentless.  <a href="https://nyti.ms/47AY6wS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>A Tropical Storm in August? California’s Year of Extremes Grinds On</h3>
-<sub>By Raymond Zhong</sub>
-<p>After winter storms broke rain and snow records, flash floods in Southern California would mark another milestone for the drought-weary state.  <a href="https://nyti.ms/45ijbL4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 19, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Hawaiian Electric Was Warned of Its System’s Fragility Before Wildfire</h3>
 <sub>By Ivan Penn and Peter Eavis</sub>
 <p>The utility knew it needed to upgrade its equipment but did not make changes that could have reduced risks of fires, energy experts said.  <a href="https://nyti.ms/3DZ2F6F"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>It Was an Oasis for Maui Elders. The Fire Brought Terror and Death.</h3>
-<sub>By Jack Healy</sub>
-<p>A 35-unit, senior-living complex in Lahaina may have been one of the first major buildings to burn down, and at least two residents are among the dead.  <a href="https://nyti.ms/44hhE6o"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Wildfire Prompts Evacuations and Warnings in Washington State</h3>
@@ -118,18 +126,6 @@ In addition, former U.S. President Donald Trump&#39;s reelection prospects have 
 <h3>Brazil Found the Last Survivors of an Amazon Tribe. Now What?</h3>
 <sub>By Jack Nicas and Manuela Andreoni</sub>
 <p>Pakyi and Tamandua are the final known isolated members of the Piripkura people. They are posing a tricky challenge for Brazil.  <a href="https://nyti.ms/3QG2uVj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Giuliani Repeatedly Sought Financial Lifeline From Trump</h3>
-<sub>By Maggie Haberman and Ben Protess</sub>
-<p>As Rudolph Giuliani has neared a financial breaking point with a pile of legal bills, the former president has largely demurred, despite making a vague promise to pay up.  <a href="https://nyti.ms/44fnwNM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Europe, Few Even Want to Talk About Trump Part 2</h3>
-<sub>By Steven Erlanger</sub>
-<p>The prospect of a second presidential term for Donald J. Trump has many officials worried about alliance cohesion, NATO and the war in Ukraine.  <a href="https://nyti.ms/47GM8BK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
