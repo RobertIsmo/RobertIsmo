@@ -60,11 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, August 20, Central Standard Time</p>
 <p>
-Currently, there is a lot going on in the US and around the world. In Palm Springs, people are bracing for a heavy downpour from Hurricane Hilary as it moves through the desert resort city. Maps are tracking the hurricane&#39;s storm path and precipitation forecasts. 
-
-In politics, Republican presidential candidate Ron DeSantis has been making headlines as people gain insight into his educational background from Ivy League schools Yale and Harvard. Meanwhile, same party presidential candidates are beginning to sharpen their stances on key issues as they lead up to their first debate which could feature President Donald Trump. Additionally, many Republican voters believe President Biden is weak, so picking the most electable candidate to beat him doesn&#39;t matter as much anymore.
-
-In other news, Russia recently attempted a lunar landing but failed after their robot Luna-25 spacecraft &quot;ceased its existence&quot; during an orbital adjustment according to their space agency Roscosmos. Limitless tensions between Russia and Ukraine have continued to worsen after recent drone attacks by both countries lead to casualties. Finally, in China there is an economic crisis due to a real estate bubble that is causing instability across the nation.</p>
+There is a lot happening in the world right now. In the United States, the unusual amount of rain in Palm Springs has caused residents to prepare for a downpour from Hurricane Hilary. On the political front, Ron DeSantis has been making waves with his Ivy League credentials and views on several issues. In Europe, Ukraine is bolstering its military power by receiving F-16 fighter jets from both Denmark and the Netherlands. Meanwhile, China&#39;s real estate crisis continues to cause problems for their economy.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In Palm Springs, Where Rain Is Rare, Residents Brace for Hilary’s Downpour</h3>
@@ -103,27 +99,27 @@ In other news, Russia recently attempted a lunar landing but failed after their 
 <sub><sub>Friday, August 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump May Skip Some G.O.P. Debates, but Advisers See a Biden Face-Off as Key</h3>
-<sub>By Maggie Haberman, Shane Goldmacher and Jonathan Swan</sub>
-<p>The strong desire of Mr. Trump’s advisers to see him debate Mr. Biden in the event of a rematch could lead to a clash with the Republican National Committee.  <a href="https://nyti.ms/3sbfwji"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>How G.O.P. Views of Biden Are Helping Trump in the Republican Primary</h3>
 <sub>By Shane Goldmacher</sub>
 <p>In interviews and polling, many Republican voters believe President Biden is so weak that picking the most electable candidate to beat him no longer matters.  <a href="https://nyti.ms/3OH1gXg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>On the Front Lines, Ukrainians Are Buoyed to Be on the Offensive</h3>
+<h3>On the Front Line, Ukrainian Commanders Are Buoyed to Be on the Offensive</h3>
 <sub>By Carlotta Gall</sub>
 <p>Despite tough fighting and heavy casualties, Ukrainian commanders say their forces are in better shape now than just months ago, while Russian troops appear worse off.  <a href="https://nyti.ms/44dTlq1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia Accuses Ukraine of Drone Attacks After Deadly Strike of Its Own</h3>
-<sub>By Vivek Shankar and Matthew Mpoke Bigg</sub>
-<p>President Volodymyr Zelensky of Ukraine had promised a military response after Russian missiles killed seven people in the city of Chernihiv.  <a href="https://nyti.ms/3DZSmzf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Ukraine Will Get F-16 Fighter Jets From Denmark and Netherlands</h3>
+<sub>By Matthew Mpoke Bigg and Vivek Shankar</sub>
+<p>President Volodymyr Zelensky of Ukraine said the Netherlands had agreed to supply 42 of the jets. Denmark also said it would donate the planes.  <a href="https://nyti.ms/45yO8ua"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Lahaina Fire Prompts a Shift in Maui’s Long-Running Water Fights</h3>
+<sub>By Michael Corkery, Mike Baker and Shawn Hubler</sub>
+<p>After a fight over water on the day of the Lahaina fire, the governor says the state has “tipped too far” in trying to preserve water.  <a href="https://nyti.ms/3QRLKut"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
