@@ -60,13 +60,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, August 20, Central Standard Time</p>
 <p>
-There have been a lot of newsworthy events in the world lately. We have been tracking Hurricane Hilary&#39;s path and precipitation forecasts. In the US, Ron DeSantis received a lot of attention for his transformative transformation after attending Ivy League schools. In sports, Spain won the World Cup, and England almost clinched it but in the end, ran out of luck. Girls in Spain were especially inspired after their team&#39;s success. Similarly, Russia had a failed mission when its lunar lander crashed into the moon. On the political front, Republican presidential candidates are starting to ramp up their campaigns as Biden enjoys strong support from many voters. Meanwhile in Ukraine, their military forces are younger and more offense-minded than those from Russia due to recent NATO shipments of F-16 fighter jets from Denmark and Netherlands in addition to local support from President Volodymyr Zelensky. Lastly, Maui just had a raging fire which led to shifts in the way they manage water resources here in the United States.</p>
+Right now there is an incredibly active hurricane season in the US and the Caribbean, which has been worrying people and creating havoc with weather forecasts. Meanwhile, in Florida, Governor Ron DeSantis is gaining attention for his Ivy League-backed political plays. Sports fans are celebrating Spain&#39;s recent World Cup win, but are also reflecting on sexism and gender bias in sports. In Russia, a lunar lander has crashed into the moon, while in Ukraine soldiers on the front line say they are better off now than they were a few months ago. Finally, beekeepers around the world are working to improve conservation efforts of honeybees.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Maps: Tracking Hurricane Hilary</h3>
 <sub>By Judson Jones and Madison Dong</sub>
 <p>Storm path and precipitation forecasts for Hurricane Hilary.  <a href="https://nyti.ms/3KLxUFM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Six Weather Takeaways on Hilary Right Now</h3>
+<sub>By Judson Jones</sub>
+<p>The rain is picking up in the United States, Monday should be calmer, and other things to know about the tropical storm.  <a href="https://nyti.ms/3smoUkj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>How Ron DeSantis Joined the ‘Ruling Class’ — and Turned Against It</h3>
@@ -78,6 +84,12 @@ There have been a lot of newsworthy events in the world lately. We have been tra
 <h3>The Education of Ron DeSantis: 5 Takeaways</h3>
 <sub>By Nicholas Confessore</sub>
 <p>Mr. DeSantis, the Republican governor and presidential candidate, leaned heavily on his Ivy League schooling before using it as fodder in the culture wars. Here are key findings from a Times examination.  <a href="https://nyti.ms/3OCeGDQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>DeSantis Tweaks His Messaging and Tactics After a Tough Campaign Stretch</h3>
+<sub>By Nicholas Nehamas</sub>
+<p>The Florida governor, who has been losing ground in polls and dealing with staffing, spending and messaging issues, looks to right his campaign in New Hampshire.  <a href="https://nyti.ms/3QU1nRM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
@@ -98,22 +110,16 @@ There have been a lot of newsworthy events in the world lately. We have been tra
 <p>The final against England brought out fans of all stripes and rallied girls in both countries to hit the field and play.  <a href="https://nyti.ms/47BDWmh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 20, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Kiss After Spain’s World Cup Win Prompts Many to Cry Foul</h3>
+<sub>By Constant Méheut</sub>
+<p>A soccer federation chief kissed the Spanish forward Jennifer Hermoso fully on the lips during the medals ceremony, an unpleasant reminder to many of the sexism that has plagued women’s soccer.  <a href="https://nyti.ms/3YHVyJe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 20, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
 <h3>Russia’s Lunar Lander Crashes Into the Moon</h3>
 <sub>By Kenneth Chang and Anton Troianovski</sub>
 <p>The robotic Luna-25 spacecraft appeared to have “ceased its existence” after a failed orbital adjustment, the space agency Roscosmos said.  <a href="https://nyti.ms/3YHtWny"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Where the Republican Presidential Candidates Stand on the Issues</h3>
-<sub>By Maggie Astor, Nico Chilla, Ang Li, Rebecca Lieberman and Rex Sakamoto</sub>
-<p>As the Republican presidential candidates barrel toward their first debate under the shadow of a front-runner facing dozens of felony charges, The New York Times examined their stances on seven key issues.  <a href="https://nyti.ms/3OF6YZO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How G.O.P. Views of Biden Are Helping Trump in the Republican Primary</h3>
-<sub>By Shane Goldmacher</sub>
-<p>In interviews and polling, many Republican voters believe President Biden is so weak that picking the most electable candidate to beat him no longer matters.  <a href="https://nyti.ms/3OH1gXg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -122,17 +128,11 @@ There have been a lot of newsworthy events in the world lately. We have been tra
 <p>Despite tough fighting and heavy casualties, Ukrainian commanders say their forces are in better shape now than just months ago, while Russian troops appear worse off.  <a href="https://nyti.ms/44dTlq1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Will Get F-16 Fighter Jets From Denmark and Netherlands</h3>
-<sub>By Matthew Mpoke Bigg and Vivek Shankar</sub>
-<p>President Volodymyr Zelensky of Ukraine said the Netherlands had agreed to supply 42 of the jets. Denmark also said it would donate the planes.  <a href="https://nyti.ms/45yO8ua"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Lahaina Fire Prompts a Shift in Maui’s Long-Running Water Fights</h3>
-<sub>By Michael Corkery, Mike Baker and Shawn Hubler</sub>
-<p>After a fight over water on the day of the Lahaina fire, the governor says the state has “tipped too far” in trying to preserve water.  <a href="https://nyti.ms/3QRLKut"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 20, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>The Beekeepers Who Don’t Want You to Buy More Bees</h3>
+<sub>By David Segal and Ciril Jazbec</sub>
+<p>In Slovenia and around the world, conservationists try — and mostly fail — to combat the widespread belief that honey bees are in danger.  <a href="https://nyti.ms/45idmx2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 19, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
