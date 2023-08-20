@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, August 20, Central Standard Time</p>
 <p>
-There&#39;s a lot happening in the world right now. In the US, Hunter Biden&#39;s plea deal has fallen apart due to external pressures and Donald Trump recently skipped the G.O.P. debate and held his own counter-programming event instead. There&#39;s also Hurricane Hilary threatening Mexico and California, causing heavy rains and flooding. In Palm Springs, residents are bracing for Hilary’s downpour and maps are being made to track it. Meanwhile in Brazil, experts are faced with the tricky challenge of finding two isolated members of the Piripkura people. Closer to home, Hawaiian Electric was warned of its system&#39;s fragility before a wildfire broke out and in British Columbia there is currently a state of emergency due to the wildfire there. To top it all off, Gen Z is stepping up with TikToks and lawsuits to finally take on climate change. It&#39;s definitely been an intense couple of weeks!</p>
+It looks like a stormy week around the world. Hurricane Hilary is approaching the western parts of Mexico and California, and Baja California is facing a hit from the torrential rain and flooding. In Palm Springs, California, residents are bracing for Hilary&#39;s downpour, and maps have been released tracking the storm path. On the other side of the continent, areas of British Columbia are facing a wildfire crisis that has forced a state of emergency in the province. Closer to home, Hunter Biden&#39;s plea deal has collapsed amid pressures from outside forces. And on the political spectrum, Donald Trump opted to take another route than Fox’s Forum GOP debate and failed to attend an event in Georgia, while Republican candidate Vivek Ramaswamy professed his love for Eminem’s music while trying to support his campaign.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Inside the Collapse of Hunter Biden’s Plea Deal</h3>
@@ -110,6 +110,12 @@ There&#39;s a lot happening in the world right now. In the US, Hunter Biden&#39;
 <p>The Republican presidential candidate loves rap music, even if critics say his politics are at odds with its spirit. “There’s no such thing as one rap community,” he says.  <a href="https://nyti.ms/47Cyn7e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 19, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>The lineups: Spain’s Alexia Putellas and England’s Lauren James start on the bench.</h3>
+<sub>By Andrew Das</sub>
+<p>  <a href="https://nyti.ms/3QJRWo4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 20, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Brazil Found the Last Survivors of an Amazon Tribe. Now What?</h3>
 <sub>By Jack Nicas and Manuela Andreoni</sub>
@@ -126,12 +132,6 @@ There&#39;s a lot happening in the world right now. In the US, Hunter Biden&#39;
 <h3>British Columbia Wildfire in Photos: ‘A Long-Lasting Scar’</h3>
 <sub>By Ian Austen</sub>
 <p>Fire is raging in the suburban fringes of the resort town of Kelowna, British Columbia, as a state of emergency across the province continued.  <a href="https://nyti.ms/45fU1ww"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>With TikTok and Lawsuits, Gen Z Takes on Climate Change</h3>
-<sub>By David Gelles</sub>
-<p>‘We’re the last resort,’ one young activist said.  <a href="https://nyti.ms/3E4Zryg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 19, Central Standard Time</sub></sub>
 <hr/>
 </ol>
