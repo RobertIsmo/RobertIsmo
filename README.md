@@ -60,30 +60,16 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, August 20, Central Standard Time</p>
 <p>
-It looks like a stormy week around the world. Hurricane Hilary is approaching the western parts of Mexico and California, and Baja California is facing a hit from the torrential rain and flooding. In Palm Springs, California, residents are bracing for Hilary&#39;s downpour, and maps have been released tracking the storm path. On the other side of the continent, areas of British Columbia are facing a wildfire crisis that has forced a state of emergency in the province. Closer to home, Hunter Biden&#39;s plea deal has collapsed amid pressures from outside forces. And on the political spectrum, Donald Trump opted to take another route than Fox’s Forum GOP debate and failed to attend an event in Georgia, while Republican candidate Vivek Ramaswamy professed his love for Eminem’s music while trying to support his campaign.</p>
+Currently, there is a lot going on in the US and around the world. In Palm Springs, people are bracing for a heavy downpour from Hurricane Hilary as it moves through the desert resort city. Maps are tracking the hurricane&#39;s storm path and precipitation forecasts. 
+
+In politics, Republican presidential candidate Ron DeSantis has been making headlines as people gain insight into his educational background from Ivy League schools Yale and Harvard. Meanwhile, same party presidential candidates are beginning to sharpen their stances on key issues as they lead up to their first debate which could feature President Donald Trump. Additionally, many Republican voters believe President Biden is weak, so picking the most electable candidate to beat him doesn&#39;t matter as much anymore.
+
+In other news, Russia recently attempted a lunar landing but failed after their robot Luna-25 spacecraft &quot;ceased its existence&quot; during an orbital adjustment according to their space agency Roscosmos. Limitless tensions between Russia and Ukraine have continued to worsen after recent drone attacks by both countries lead to casualties. Finally, in China there is an economic crisis due to a real estate bubble that is causing instability across the nation.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Inside the Collapse of Hunter Biden’s Plea Deal</h3>
-<sub>By Michael S. Schmidt, Luke Broadwater and Glenn Thrush</sub>
-<p>An examination of confidential correspondence and interviews with those close to Mr. Biden and lawyers involved in the case show how the deal ultimately fell apart amid schisms and withering external pressures.  <a href="https://nyti.ms/3P3CFgA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 19, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In Palm Springs, Where Rain Is Rare, Residents Brace for Hilary’s Downpour</h3>
 <sub>By Maggie Miles and Anna Betts</sub>
 <p>Throughout the desert resort city in California, anxiety set in as the storm approached.  <a href="https://nyti.ms/45sn7so"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Hurricane Hilary Weakens to a Category 1 Storm as it Nears Mexico and California</h3>
-<sub>By Judson Jones</sub>
-<p>The storm weakened to a Category 1 hurricane on Saturday afternoon, but it was still expected to produce heavy rain and flooding.  <a href="https://nyti.ms/3OG1pdy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Mexico Warns of Hilary Hit on Baja</h3>
-<sub>By Emiliano Rodríguez Mega, Elda Cantú and Aline Corpus</sub>
-<p>The torrential rain and flooding that threaten Southern California also menaced Baja California, the western Mexico peninsula that is popular with tourists.  <a href="https://nyti.ms/3R3kAkr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -93,46 +79,64 @@ It looks like a stormy week around the world. Hurricane Hilary is approaching th
 <sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Inside Trump’s Decision to Skip the G.O.P. Debate</h3>
-<sub>By Jonathan Swan, Jeremy W. Peters and Maggie Haberman</sub>
-<p>Fox News leaned on the former president privately and publicly to join the debate. But all the while he was proceeding with a plan for his own counterprogramming.  <a href="https://nyti.ms/3seql4d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 19, Central Standard Time</sub></sub>
+<h3>How Ron DeSantis Joined the ‘Ruling Class’ — and Turned Against It</h3>
+<sub>By Nicholas Confessore</sub>
+<p>Over the years, Mr. DeSantis embraced and exploited his Ivy League credentials. Now he is reframing his experiences at Yale and Harvard to wage a vengeful political war.  <a href="https://nyti.ms/44lrTXo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Wasn’t Invited to This Georgia Event, but His Presence Was Still Felt</h3>
-<sub>By Maya King</sub>
-<p>Although the Republican front-runner was absent at a conservative conference where other candidates were in attendance, he was still top of mind.  <a href="https://nyti.ms/3E32R4H"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 19, Central Standard Time</sub></sub>
+<h3>The Education of Ron DeSantis: 5 Takeaways</h3>
+<sub>By Nicholas Confessore</sub>
+<p>Mr. DeSantis, the Republican governor and presidential candidate, leaned heavily on his Ivy League schooling before using it as fodder in the culture wars. Here are key findings from a Times examination.  <a href="https://nyti.ms/3OCeGDQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>Russia’s Lunar Lander Crashes Into the Moon</h3>
+<sub>By Kenneth Chang and Anton Troianovski</sub>
+<p>The robotic Luna-25 spacecraft appeared to have “ceased its existence” after a failed orbital adjustment, the space agency Roscosmos said.  <a href="https://nyti.ms/3YHtWny"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Vivek Ramaswamy Loves Eminem. And He Doesn’t Care If the Feeling Is Mutual.</h3>
-<sub>By Jonathan Weisman</sub>
-<p>The Republican presidential candidate loves rap music, even if critics say his politics are at odds with its spirit. “There’s no such thing as one rap community,” he says.  <a href="https://nyti.ms/47Cyn7e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 19, Central Standard Time</sub></sub>
+<h3>Where the Republican Presidential Candidates Stand on the Issues</h3>
+<sub>By Maggie Astor, Nico Chilla, Ang Li, Rebecca Lieberman and Rex Sakamoto</sub>
+<p>As the Republican presidential candidates barrel toward their first debate under the shadow of a front-runner facing dozens of felony charges, The New York Times examined their stances on seven key issues.  <a href="https://nyti.ms/3OF6YZO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>The lineups: Spain’s Alexia Putellas and England’s Lauren James start on the bench.</h3>
-<sub>By Andrew Das</sub>
-<p>  <a href="https://nyti.ms/3QJRWo4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump May Skip Some G.O.P. Debates, but Advisers See a Biden Face-Off as Key</h3>
+<sub>By Maggie Haberman, Shane Goldmacher and Jonathan Swan</sub>
+<p>The strong desire of Mr. Trump’s advisers to see him debate Mr. Biden in the event of a rematch could lead to a clash with the Republican National Committee.  <a href="https://nyti.ms/3sbfwji"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How G.O.P. Views of Biden Are Helping Trump in the Republican Primary</h3>
+<sub>By Shane Goldmacher</sub>
+<p>In interviews and polling, many Republican voters believe President Biden is so weak that picking the most electable candidate to beat him no longer matters.  <a href="https://nyti.ms/3OH1gXg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Brazil Found the Last Survivors of an Amazon Tribe. Now What?</h3>
-<sub>By Jack Nicas and Manuela Andreoni</sub>
-<p>Pakyi and Tamandua are the final known isolated members of the Piripkura people. They are posing a tricky challenge for Brazil.  <a href="https://nyti.ms/3QG2uVj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Hawaiian Electric Was Warned of Its System’s Fragility Before Wildfire</h3>
-<sub>By Ivan Penn and Peter Eavis</sub>
-<p>The utility knew it needed to upgrade its equipment but did not make changes that could have reduced risks of fires, energy experts said.  <a href="https://nyti.ms/3DZ2F6F"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 19, Central Standard Time</sub></sub>
+<h3>On the Front Lines, Ukrainians Are Buoyed to Be on the Offensive</h3>
+<sub>By Carlotta Gall</sub>
+<p>Despite tough fighting and heavy casualties, Ukrainian commanders say their forces are in better shape now than just months ago, while Russian troops appear worse off.  <a href="https://nyti.ms/44dTlq1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>British Columbia Wildfire in Photos: ‘A Long-Lasting Scar’</h3>
-<sub>By Ian Austen</sub>
-<p>Fire is raging in the suburban fringes of the resort town of Kelowna, British Columbia, as a state of emergency across the province continued.  <a href="https://nyti.ms/45fU1ww"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 19, Central Standard Time</sub></sub>
+<h3>Russia Accuses Ukraine of Drone Attacks After Deadly Strike of Its Own</h3>
+<sub>By Vivek Shankar and Matthew Mpoke Bigg</sub>
+<p>President Volodymyr Zelensky of Ukraine had promised a military response after Russian missiles killed seven people in the city of Chernihiv.  <a href="https://nyti.ms/3DZSmzf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Georgia Case Against Superstar Rapper, Hints of How Trump Case Could Unfold</h3>
+<sub>By Richard Fausset and Danny Hakim</sub>
+<p>The racketeering case against Young Thug has been marked by a plodding pace, an avalanche of pretrial defense motions and pressure on lower-level defendants to plead guilty.  <a href="https://nyti.ms/3P2BtsT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>China Is on Edge as Fallout From Its Real Estate Crisis Spreads</h3>
+<sub>By Daisuke Wakabayashi and Alexandra Stevenson</sub>
+<p>Beijing wanted to cool its housing market, but created a bigger problem, as the fallout from debt-laden developers and sinking sales spreads to the broader economy.  <a href="https://nyti.ms/3OGkXP2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 20, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
