@@ -60,17 +60,37 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, August 19, Central Standard Time</p>
 <p>
-It seems like the world is in an upheaval recently - major political issues, environmental disaster, and social issues are all making headlines. On the political front, Hunter Biden&#39;s plea deal has fallen apart and Donald Trump decided to skip a Republican debate in favor of his own counterprogramming. There&#39;s a Republican presidential candidate, Vivek Ramaswamy, who loves rap music despite facing criticism from others. 
-
-In terms of environmental crisis, Hurricane Hilary is weakening but still expected to produce heavy rain and flooding for at least Mexico and California. There have also been major wild fires in British Columbia; Hawaiian Electric Was Warned of Its System’s Fragility Before Wildfire; and Gen Z is taking on climate change with TikTok and lawsuits. 
-
-What do you think about all this?</p>
+There have been a variety of news stories in the headlines lately. In the US, there has been an examination of Hunter Biden&#39;s collapse plea deal, anxiety setting in as Hurricane Hilary approached Palm Springs, and an exploration into Trump&#39;s decision to skip the GOP debate. On a global scale, Hurricane Hilary weakened to a Category 1 storm as it neared Mexico and California, while experts warned of its potential impact on Baja California. There were also maps released to track the storm&#39;s path and precipitation forecasts. Furthermore, Brazil made contact with the last survivors of an Amazon tribe, and Hawaiian Electric was warned of its system&#39;s fragility prior to a wildfire. Finally, on the Canadian west coast, British Columbia is in a state of emergency due to a wildfire. As if that weren&#39;t enough, climate change activism is alive and kicking, with young people leading initiatives through platforms like TikTok and lawsuits. It looks like we all have some work to do.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Inside the Collapse of Hunter Biden’s Plea Deal</h3>
 <sub>By Michael S. Schmidt, Luke Broadwater and Glenn Thrush</sub>
 <p>An examination of confidential correspondence and interviews with those close to Mr. Biden and lawyers involved in the case show how the deal ultimately fell apart amid schisms and withering external pressures.  <a href="https://nyti.ms/3P3CFgA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Palm Springs, Where Rain Is Rare, Residents Brace for Hilary’s Downpour</h3>
+<sub>By Maggie Miles and Anna Betts</sub>
+<p>Throughout the desert resort city in California, anxiety set in as the storm approached.  <a href="https://nyti.ms/45sn7so"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Hurricane Hilary Weakens to a Category 1 Storm as it Nears Mexico and California</h3>
+<sub>By Judson Jones</sub>
+<p>The storm weakened to a Category 1 hurricane on Saturday afternoon, but it was still expected to produce heavy rain and flooding.  <a href="https://nyti.ms/3OG1pdy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Mexico Warns of Hilary Hit on Baja</h3>
+<sub>By Emiliano Rodríguez Mega, Elda Cantú and Aline Corpus</sub>
+<p>The torrential rain and flooding that threaten Southern California also menaced Baja California, the western Mexico peninsula that is popular with tourists.  <a href="https://nyti.ms/3R3kAkr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Maps: Tracking Hurricane Hilary</h3>
+<sub>By Judson Jones and Madison Dong</sub>
+<p>Storm path and precipitation forecasts for Hurricane Hilary.  <a href="https://nyti.ms/3KLxUFM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Inside Trump’s Decision to Skip the G.O.P. Debate</h3>
@@ -89,30 +109,6 @@ What do you think about all this?</p>
 <sub>By Jonathan Weisman</sub>
 <p>The Republican presidential candidate loves rap music, even if critics say his politics are at odds with its spirit. “There’s no such thing as one rap community,” he says.  <a href="https://nyti.ms/47Cyn7e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>These Voters Share Almost No Political Beliefs, but They Agree on One Thing: We’re Failing as a Nation</h3>
-<sub>By Ruth Igielnik</sub>
-<p>In a recent poll, some Democrats and most Republicans share a sense of doom.  <a href="https://nyti.ms/45gyPqf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Hurricane Hilary Weakens to a Category 2 Storm as it Nears Mexico and California</h3>
-<sub>By Judson Jones</sub>
-<p>The storm weakened to a Category 2 hurricane on Saturday afternoon, but it was still expected to produce heavy rain and flooding.  <a href="https://nyti.ms/3OG1pdy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Mexico Warns of Hilary Hit on Baja</h3>
-<sub>By Emiliano Rodríguez Mega, Elda Cantú and Aline Corpus</sub>
-<p>The torrential rain and flooding that threaten Southern California also menaced Baja California, the western Mexico peninsula that is popular with tourists.  <a href="https://nyti.ms/3R3kAkr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Maps: Tracking Hurricane Hilary</h3>
-<sub>By Judson Jones and Madison Dong</sub>
-<p>Storm path and precipitation forecasts for Hurricane Hilary.  <a href="https://nyti.ms/3KLxUFM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Brazil Found the Last Survivors of an Amazon Tribe. Now What?</h3>
