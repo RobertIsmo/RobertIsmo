@@ -60,16 +60,28 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, August 19, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In the US, The former President Trump decided to skip the G.O.P debate and instead is working on his own counterprogramming. A Republican presidential candidate is also running for office, despite being at odds with rap music&#39;s spirit. 
+It seems like the world is in an upheaval recently - major political issues, environmental disaster, and social issues are all making headlines. On the political front, Hunter Biden&#39;s plea deal has fallen apart and Donald Trump decided to skip a Republican debate in favor of his own counterprogramming. There&#39;s a Republican presidential candidate, Vivek Ramaswamy, who loves rap music despite facing criticism from others. 
 
-In Hawaii, the utility knew it needed to upgrade its equipment but didn&#39;t make necessary changes to reduce fire risks and now one death has been reported due to wildfire. Seattle is also having similar issues with a 9,500 acre wildfire burning and dozens of buildings destroyed. 
+In terms of environmental crisis, Hurricane Hilary is weakening but still expected to produce heavy rain and flooding for at least Mexico and California. There have also been major wild fires in British Columbia; Hawaiian Electric Was Warned of Its System’s Fragility Before Wildfire; and Gen Z is taking on climate change with TikTok and lawsuits. 
 
-Brazil is facing a unique challenge as they have found the last two members of an isolated tribe. And in France people are attending climate change classes as part of a night out in Paris. Gen Z is taking on a more active role in trying to solve climate change around the world too by engaging in social media and filing lawsuits.</p>
+What do you think about all this?</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Inside the Collapse of Hunter Biden’s Plea Deal</h3>
+<sub>By Michael S. Schmidt, Luke Broadwater and Glenn Thrush</sub>
+<p>An examination of confidential correspondence and interviews with those close to Mr. Biden and lawyers involved in the case show how the deal ultimately fell apart amid schisms and withering external pressures.  <a href="https://nyti.ms/3P3CFgA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 19, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Inside Trump’s Decision to Skip the G.O.P. Debate</h3>
 <sub>By Jonathan Swan, Jeremy W. Peters and Maggie Haberman</sub>
 <p>Fox News leaned on the former president privately and publicly to join the debate. But all the while he was proceeding with a plan for his own counterprogramming.  <a href="https://nyti.ms/3seql4d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Wasn’t Invited to This Georgia Event, but His Presence Was Still Felt</h3>
+<sub>By Maya King</sub>
+<p>Although the Republican front-runner was absent at a conservative conference where other candidates were in attendance, he was still top of mind.  <a href="https://nyti.ms/3E32R4H"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -85,9 +97,9 @@ Brazil is facing a unique challenge as they have found the last two members of a
 <sub><sub>Saturday, August 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Hurricane Hilary, Now a Category 3 Storm, Nears Mexico and California</h3>
+<h3>Hurricane Hilary Weakens to a Category 2 Storm as it Nears Mexico and California</h3>
 <sub>By Judson Jones</sub>
-<p>The storm weakened to a Category 3 hurricane on Saturday, but it was still expected to produce heavy rain and flooding.  <a href="https://nyti.ms/3OG1pdy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The storm weakened to a Category 2 hurricane on Saturday afternoon, but it was still expected to produce heavy rain and flooding.  <a href="https://nyti.ms/3OG1pdy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -102,12 +114,6 @@ Brazil is facing a unique challenge as they have found the last two members of a
 <p>Storm path and precipitation forecasts for Hurricane Hilary.  <a href="https://nyti.ms/3KLxUFM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The South Knows a Hot, Sticky Summer. But This? ‘It’s Hell.’</h3>
-<sub>By Rick Rojas</sub>
-<p>It’s not just the heat, as Southerners have explained for generations. It’s the moist, soupy, suffocating humidity. And this year the punishing conditions have been relentless.  <a href="https://nyti.ms/47AY6wS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 19, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Brazil Found the Last Survivors of an Amazon Tribe. Now What?</h3>
 <sub>By Jack Nicas and Manuela Andreoni</sub>
@@ -120,22 +126,16 @@ Brazil is facing a unique challenge as they have found the last two members of a
 <p>The utility knew it needed to upgrade its equipment but did not make changes that could have reduced risks of fires, energy experts said.  <a href="https://nyti.ms/3DZ2F6F"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>One Dead, Dozens of Buildings Destroyed in Washington State Wildfire</h3>
-<sub>By Eduardo Medina, Mike Ives and Orlando Mayorquin</sub>
-<p>The Gray fire had burned 9,500 acres by Saturday morning in communities southwest of Spokane, with no sign of containment. One death has been reported.  <a href="https://nyti.ms/3QH2aFR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 18, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>British Columbia Wildfire in Photos: ‘A Long-Lasting Scar’</h3>
+<sub>By Ian Austen</sub>
+<p>Fire is raging in the suburban fringes of the resort town of Kelowna, British Columbia, as a state of emergency across the province continued.  <a href="https://nyti.ms/45fU1ww"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>With TikTok and Lawsuits, Gen Z Takes on Climate Change</h3>
 <sub>By David Gelles</sub>
 <p>‘We’re the last resort,’ one young activist said.  <a href="https://nyti.ms/3E4Zryg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>For a Trendy Night Out in Paris, How About a Climate Change Workshop?</h3>
-<sub>By Constant Méheut</sub>
-<p>More than a million people in France have attended a “Climate Fresk” class to understand the process of global warming. The project is now spreading abroad.  <a href="https://nyti.ms/3E0MDsQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 19, Central Standard Time</sub></sub>
 <hr/>
 </ol>
