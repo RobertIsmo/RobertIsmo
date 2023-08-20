@@ -60,14 +60,8 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, August 20, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. In the United States, the unusual amount of rain in Palm Springs has caused residents to prepare for a downpour from Hurricane Hilary. On the political front, Ron DeSantis has been making waves with his Ivy League credentials and views on several issues. In Europe, Ukraine is bolstering its military power by receiving F-16 fighter jets from both Denmark and the Netherlands. Meanwhile, China&#39;s real estate crisis continues to cause problems for their economy.</p>
+There have been a lot of newsworthy events in the world lately. We have been tracking Hurricane Hilary&#39;s path and precipitation forecasts. In the US, Ron DeSantis received a lot of attention for his transformative transformation after attending Ivy League schools. In sports, Spain won the World Cup, and England almost clinched it but in the end, ran out of luck. Girls in Spain were especially inspired after their team&#39;s success. Similarly, Russia had a failed mission when its lunar lander crashed into the moon. On the political front, Republican presidential candidates are starting to ramp up their campaigns as Biden enjoys strong support from many voters. Meanwhile in Ukraine, their military forces are younger and more offense-minded than those from Russia due to recent NATO shipments of F-16 fighter jets from Denmark and Netherlands in addition to local support from President Volodymyr Zelensky. Lastly, Maui just had a raging fire which led to shifts in the way they manage water resources here in the United States.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Palm Springs, Where Rain Is Rare, Residents Brace for Hilary’s Downpour</h3>
-<sub>By Maggie Miles and Anna Betts</sub>
-<p>Throughout the desert resort city in California, anxiety set in as the storm approached.  <a href="https://nyti.ms/45sn7so"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 19, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Maps: Tracking Hurricane Hilary</h3>
 <sub>By Judson Jones and Madison Dong</sub>
@@ -84,6 +78,24 @@ There is a lot happening in the world right now. In the United States, the unusu
 <h3>The Education of Ron DeSantis: 5 Takeaways</h3>
 <sub>By Nicholas Confessore</sub>
 <p>Mr. DeSantis, the Republican governor and presidential candidate, leaned heavily on his Ivy League schooling before using it as fodder in the culture wars. Here are key findings from a Times examination.  <a href="https://nyti.ms/3OCeGDQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>For Spain, a World Cup Title Built on Talent, Not Harmony</h3>
+<sub>By Rory Smith</sub>
+<p>A team that had endured all that Spain has in the past 12 months should not be able to win a World Cup. And yet that is precisely what it did.  <a href="https://nyti.ms/45eVFP2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>England, the World Cup’s Great Survivor, Runs Out of Lifelines</h3>
+<sub>By Jenny Vrentas</sub>
+<p>For weeks, England had found a way to win matches and keep its title dream alive. Against Spain, it ran out of magic, and time.  <a href="https://nyti.ms/3P5mBv1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>For Girls in Spain, Women’s World Cup Win is a Joy and a Catalyst</h3>
+<sub>By Constant Méheut and Isabella Kwai</sub>
+<p>The final against England brought out fans of all stripes and rallied girls in both countries to hit the field and play.  <a href="https://nyti.ms/47BDWmh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
@@ -120,18 +132,6 @@ There is a lot happening in the world right now. In the United States, the unusu
 <h3>Lahaina Fire Prompts a Shift in Maui’s Long-Running Water Fights</h3>
 <sub>By Michael Corkery, Mike Baker and Shawn Hubler</sub>
 <p>After a fight over water on the day of the Lahaina fire, the governor says the state has “tipped too far” in trying to preserve water.  <a href="https://nyti.ms/3QRLKut"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Georgia Case Against Superstar Rapper, Hints of How Trump Case Could Unfold</h3>
-<sub>By Richard Fausset and Danny Hakim</sub>
-<p>The racketeering case against Young Thug has been marked by a plodding pace, an avalanche of pretrial defense motions and pressure on lower-level defendants to plead guilty.  <a href="https://nyti.ms/3P2BtsT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>China Is on Edge as Fallout From Its Real Estate Crisis Spreads</h3>
-<sub>By Daisuke Wakabayashi and Alexandra Stevenson</sub>
-<p>Beijing wanted to cool its housing market, but created a bigger problem, as the fallout from debt-laden developers and sinking sales spreads to the broader economy.  <a href="https://nyti.ms/3OGkXP2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 20, Central Standard Time</sub></sub>
 <hr/>
 </ol>
