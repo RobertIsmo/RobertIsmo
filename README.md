@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Sunday, August 20, Central Standard Time</p>
+<p>It is Monday, August 21, Central Standard Time</p>
 <p>
-There has been a 5.1 magnitude earthquake in California, and Tropical Storm Hilary is in the news with maps to track its path. There have been talks of police wearing body cameras for recordings of interactions, but it&#39;s estimated to cost more money. Ron DeSantis had his own political campaign struggles lately and has been making adjustments. Spain recently won the World Cup amidst controversy regarding sexism within the sport, with a chief kissing one of the players during the medal ceremony. A Lunar Lander crashed on the moon from Russia and Ukrainian commanders are now in a better offensive position while Russian troops appear worse off. There was a fire in Lahaina, Maui which has sparked debate about conserving water sources. Finally, Sean Paul has been active for over two decades getting people to let loose on the dance floor, and shows no signs of stopping yet!</p>
+Right now, there&#39;s a lot going on in the world! In California, a 5.1-magnitude earthquake just happened but luckily didn&#39;t cause any major damage or injuries. There&#39;s also a Tropical Storm Hilary that just started and its path and precipitation levels can be tracked. Meanwhile in Florida, Governor Ron DeSantis is facing quite a few campaign issues and is trying to fix it by adjusting his messaging and tactics. Beekeepers in Slovenia are pleading people not to purchase more bees due to growth in numbers but Spain recently won the World Cup, with one of their forward receiving an uncomfortable kiss from the Soccer Federation chief during the medal ceremony which sparked outrage. In Russia, their Luna-25 space craft crashed into the moon after a failed orbital adjustment and in Ecuador, an establishment leftist and newcomer businessman are headed into a runoff for the election with declining security being the main concern for voters.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>California Quake Rattled Nerves, but Didn’t Appear to Cause Major Damage</h3>
@@ -122,17 +122,17 @@ There has been a 5.1 magnitude earthquake in California, and Tropical Storm Hila
 <p>Despite tough fighting and heavy casualties, Ukrainian commanders say their forces are in better shape now than just months ago, while Russian troops appear worse off.  <a href="https://nyti.ms/44dTlq1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Lahaina Fire Prompts a Shift in Maui’s Long-Running Water Fights</h3>
-<sub>By Michael Corkery, Mike Baker and Shawn Hubler</sub>
-<p>After a fight over water on the day of the Lahaina fire, the governor says the state has “tipped too far” in trying to preserve water.  <a href="https://nyti.ms/3QRLKut"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Establishment Leftist and Newcomer Businessman Appear Headed to Ecuador Runoff</h3>
+<sub>By Genevieve Glatsky, José María León Cabrera and Thalíe Ponce</sub>
+<p>Luisa González and Daniel Noboa were poised to be the top candidates of Sunday’s election in a country where declining security has been the leading issue for most voters.  <a href="https://nyti.ms/3qGJNX2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Sean Paul Is Still Busy</h3>
-<sub>By Iva Dixit</sub>
-<p>For more than 20 years he’s taught generations to let loose on the dance floor. He’s not stopping anytime soon.  <a href="https://nyti.ms/3sg8w4U"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 16, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-espanol-blue" alt="">
+<h3>Luisa González y Daniel Noboa parecen ser los elegidos para la segunda vuelta en las elecciones en Ecuador</h3>
+<sub>By Genevieve Glatsky, José María León Cabrera and Thalíe Ponce</sub>
+<p>La candidata de la izquierda tradicional y un empresario relativamente nuevo en la política fueron los más votados en los comicios del domingo.  <a href="https://nyti.ms/3OMuCDw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 20, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
