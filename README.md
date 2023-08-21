@@ -60,17 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, August 21, Central Standard Time</p>
 <p>
-Right now, a lot of different things are happening all over the world. In California, there was recently a 5.1-magnitude earthquake that caused some nerves to be rattled, but luckily didn&#39;t cause any major damage or injuries. In Ecuador, an election between an establishment leftist and a newcomer businessman is being held, with the results awaiting. There&#39;s also been Post-Tropical Storm Hilary causing chaos in some parts of the world. 
-
-On the business side of things, near misses involving US commercial airlines occur on average multiple times a week according to a New York Times investigation. Additionally, China is facing economic deflation and despair due to people&#39;s reluctance to spend and borrow, which could feed an even more dangerous cycle. 
-
-Things don&#39;t seem to be getting better quickly either; in Saudi Arabia, hundreds of African migrants were killed by border guards over a 15-month period according to a Human Rights Watch report — and in Hawaii, thousands have been displaced after weeks of dangerous wildfires that wiped out entire communities.</p>
+Hey there! A lot has been happening in the world recently. In the US, California is free of extreme drought conditions for the first time in three years, thanks to heavy rain and snow over the winter. In Hawaii, President Biden is visiting to inspect wildfire damage and Maui was not prepared for the disaster that unfolded. Democrats, popcorn in hand, are actively rooting for a rowdy Republican debate and a new Iowa poll shows Trump dominating. Globally, we’re tracking post-tropical storm Hilary’s path and a war of tanks is being played in Ukraine involving World of Tanks Online. The BRICS club of emerging nations is debating on whether or not to let more nations join. Finally, Mother A.M.E Zion Church in Harlem is working hard to stay open despite attendance declining in recent years.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>California Quake Rattled Nerves, but Didn’t Appear to Cause Major Damage</h3>
-<sub>By Thomas Fuller and Soumya Karlamangla</sub>
-<p>There were no initial reports of significant damage or injuries from the 5.1-magnitude earthquake, one of several emergencies officials had to juggle.  <a href="https://nyti.ms/44hfnbq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 20, Central Standard Time</sub></sub>
+<h3>California Is Free of Extreme Drought Conditions for the First Time in 3 Years</h3>
+<sub>By Nikita Richardson</sub>
+<p>Heavy rain and snow over the winter helped alleviate the state’s long dry spell.  <a href="https://nyti.ms/3KQmd0C"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Maps: Tracking Post-Tropical Storm Hilary</h3>
@@ -82,24 +78,6 @@ Things don&#39;t seem to be getting better quickly either; in Saudi Arabia, hund
 <h3>Airline Close Calls Happen Far More Often Than Previously Known</h3>
 <sub>By Sydney Ember, Emily Steel, Leanne Abraham, Eleanor Lutz and Ella Koeze</sub>
 <p>Near misses involving U.S. commercial airlines happen on average multiple times a week, a New York Times investigation found.  <a href="https://nyti.ms/44hx3ni"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In a War of Tanks, Ukrainian Soldiers Play World of Tanks Online</h3>
-<sub>By Thomas Gibbons-Neff</sub>
-<p>The urge to play a violent video game in the midst of the most brutal land war in Europe since World War II may seem baffling. But it’s a way to cope.  <a href="https://nyti.ms/45UqWH1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-realestate-blue" alt="">
-<h3>Once a Force in Harlem, the Oldest Black Church in New York Hangs On</h3>
-<sub>By Mia Jackson</sub>
-<p>Mother A.M.E. Zion Church recently received a $200,000 grant for preservation, but attendance has declined in recent years.  <a href="https://nyti.ms/3KL37Jf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Steepest Hill</h3>
-<sub></sub>
-<p>A man, his daughter, and the many items left behind.  <a href="https://nyti.ms/3OKAMnz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -114,28 +92,46 @@ Things don&#39;t seem to be getting better quickly either; in Saudi Arabia, hund
 <p>Gov. Josh Green of Hawaii sees lessons far beyond the islands in the disaster that has unfolded on Maui.  <a href="https://nyti.ms/3P2FPBo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 21, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Visiting Hawaii to Inspect Wildfire Damage</h3>
+<sub>By Peter Baker</sub>
+<p>After remaining secluded since Friday, the president will break away from his vacation for a brief trip to Maui, where flames have demolished a town and killed more than 100 people.  <a href="https://nyti.ms/44dsU3H"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-realestate-blue" alt="">
+<h3>Once a Force in Harlem, the Oldest Black Church in New York Hangs On</h3>
+<sub>By Mia Jackson</sub>
+<p>Mother A.M.E. Zion Church recently received a $200,000 grant for preservation, but attendance has declined in recent years.  <a href="https://nyti.ms/3KL37Jf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The Steepest Hill</h3>
+<sub></sub>
+<p>A man, his daughter, and the many items left behind.  <a href="https://nyti.ms/3OKAMnz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In a War of Tanks, Ukrainian Soldiers Play World of Tanks Online</h3>
+<sub>By Thomas Gibbons-Neff</sub>
+<p>The urge to play a violent video game in the midst of the most brutal land war in Europe since World War II may seem baffling. But it’s a way to cope.  <a href="https://nyti.ms/45UqWH1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Democrats, Popcorn in Hand, Root for a Rowdy G.O.P. Debate</h3>
+<sub>By Reid J. Epstein</sub>
+<p>Top Democrats, suddenly feeling a bit better about 2024, would love to see Republicans talk about a national abortion ban. They’re less excited about the inevitable Hunter Biden tirades.  <a href="https://nyti.ms/3QNIBvI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Dominates in New Iowa Poll</h3>
+<sub>By Anjali Huynh</sub>
+<p>The survey suggests a remarkably stable G.O.P. race in the state less than five months before the caucuses.  <a href="https://nyti.ms/3P2BVbG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 21, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>The BRICS Club of Emerging Nations Debates Letting Others In</h3>
 <sub>By David Pierson, Lynsey Chutel, Jack Nicas, Alex Travelli and Paul Sonne</sub>
 <p>China wants to expand the five-nation bloc, but the members’ conflicting interests may get in the way.  <a href="https://nyti.ms/3qDBOtK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Establishment Leftist and Newcomer Businessman Appear Headed to Ecuador Runoff</h3>
-<sub>By Genevieve Glatsky, José María León Cabrera and Thalíe Ponce</sub>
-<p>Luisa González and Daniel Noboa were poised to be the top candidates of Sunday’s election in a country where declining security has been the leading issue for most voters.  <a href="https://nyti.ms/3qGJNX2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Saudi Border Guards Accused of Killing Hundreds of African Migrants</h3>
-<sub>By Ben Hubbard and Shuaib Almosawa</sub>
-<p>A Human Rights Watch report says the guards regularly fire on African migrants trying to enter the kingdom from Yemen and killed hundreds in a 15-month period.  <a href="https://nyti.ms/3P4yYY0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>As China Falls Into Deflation, the Mood Turns Dark</h3>
-<sub>By Li Yuan</sub>
-<p>Consumers and business owners say they feel paralyzed by despair, and their reluctance to spend and borrow is feeding what could become a dangerous cycle.  <a href="https://nyti.ms/44mgpD0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
