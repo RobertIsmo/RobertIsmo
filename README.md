@@ -60,18 +60,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, August 20, Central Standard Time</p>
 <p>
-Right now there is an incredibly active hurricane season in the US and the Caribbean, which has been worrying people and creating havoc with weather forecasts. Meanwhile, in Florida, Governor Ron DeSantis is gaining attention for his Ivy League-backed political plays. Sports fans are celebrating Spain&#39;s recent World Cup win, but are also reflecting on sexism and gender bias in sports. In Russia, a lunar lander has crashed into the moon, while in Ukraine soldiers on the front line say they are better off now than they were a few months ago. Finally, beekeepers around the world are working to improve conservation efforts of honeybees.</p>
+Right now, a lot of things are happening all around the world. Here in the US, there was recently a 5.1 magnitude earthquake in California that fortunately caused no major damage or injuries, but was still very scary. We&#39;re also keeping an eye on Tropical Storm Hilary, following its path and precipitation forecasts. 
+
+Across the globe, people are talking about the World Cup- the Spanish team won after some tough competition and celebrated with a post-victory kiss on the lips between a player and a soccer federation chief that has stirred conversation about sexism in women&#39;s soccer. 
+
+Meanwhile, in Ukraine, there is growing optimism from Ukrainian commanders who feel their troops are significantly better off now than they were months ago - even if it&#39;s still dangerous and casualties are heavy. Lastly, Russia failed in its attempt to send a lunar lander into space when the spacecraft &quot;ceased to exist&quot; during an orbit adjustment. 
+
+So as you can see, it&#39;s been an eventful few weeks with many stories unfolding from around our world!</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>California Quake Rattled Nerves, but Didn’t Appear to Cause Major Damage</h3>
+<sub>By Thomas Fuller and Soumya Karlamangla</sub>
+<p>There were no initial reports of significant damage or injuries from the 5.1-magnitude earthquake, one of several emergencies officials had to juggle.  <a href="https://nyti.ms/44hfnbq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 20, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Maps: Tracking Hurricane Hilary</h3>
+<h3>Maps: Tracking Tropical Storm Hilary</h3>
 <sub>By Judson Jones and Madison Dong</sub>
-<p>Storm path and precipitation forecasts for Hurricane Hilary.  <a href="https://nyti.ms/3KLxUFM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Storm path and precipitation forecasts for Tropical Storm Hilary.  <a href="https://nyti.ms/3KLxUFM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Six Weather Takeaways on Hilary Right Now</h3>
-<sub>By Judson Jones</sub>
-<p>The rain is picking up in the United States, Monday should be calmer, and other things to know about the tropical storm.  <a href="https://nyti.ms/3smoUkj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Think the Police Should Wear Body Cameras? That Will Cost Taxpayers Extra.</h3>
+<sub>By Shaila Dewan</sub>
+<p>The public increasingly expects that police interactions will be recorded. And police unions increasingly expect a raise for doing the recording.  <a href="https://nyti.ms/3E1m9Yn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -92,6 +104,12 @@ Right now there is an incredibly active hurricane season in the US and the Carib
 <p>The Florida governor, who has been losing ground in polls and dealing with staffing, spending and messaging issues, looks to right his campaign in New Hampshire.  <a href="https://nyti.ms/3QU1nRM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 20, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>The Beekeepers Who Don’t Want You to Buy More Bees</h3>
+<sub>By David Segal and Ciril Jazbec</sub>
+<p>In Slovenia and around the world, conservationists try — and mostly fail — to combat the widespread belief that honey bees are in danger.  <a href="https://nyti.ms/45idmx2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 19, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>For Spain, a World Cup Title Built on Talent, Not Harmony</h3>
 <sub>By Rory Smith</sub>
@@ -105,12 +123,6 @@ Right now there is an incredibly active hurricane season in the US and the Carib
 <sub><sub>Sunday, August 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>For Girls in Spain, Women’s World Cup Win is a Joy and a Catalyst</h3>
-<sub>By Constant Méheut and Isabella Kwai</sub>
-<p>The final against England brought out fans of all stripes and rallied girls in both countries to hit the field and play.  <a href="https://nyti.ms/47BDWmh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>A Kiss After Spain’s World Cup Win Prompts Many to Cry Foul</h3>
 <sub>By Constant Méheut</sub>
 <p>A soccer federation chief kissed the Spanish forward Jennifer Hermoso fully on the lips during the medals ceremony, an unpleasant reminder to many of the sexism that has plagued women’s soccer.  <a href="https://nyti.ms/3YHVyJe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -118,7 +130,7 @@ Right now there is an incredibly active hurricane season in the US and the Carib
 <hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
 <h3>Russia’s Lunar Lander Crashes Into the Moon</h3>
-<sub>By Kenneth Chang and Anton Troianovski</sub>
+<sub>By Kenneth Chang, Alina Lobzina and Anton Troianovski</sub>
 <p>The robotic Luna-25 spacecraft appeared to have “ceased its existence” after a failed orbital adjustment, the space agency Roscosmos said.  <a href="https://nyti.ms/3YHtWny"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 20, Central Standard Time</sub></sub>
 <hr/>
@@ -127,12 +139,6 @@ Right now there is an incredibly active hurricane season in the US and the Carib
 <sub>By Carlotta Gall</sub>
 <p>Despite tough fighting and heavy casualties, Ukrainian commanders say their forces are in better shape now than just months ago, while Russian troops appear worse off.  <a href="https://nyti.ms/44dTlq1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Beekeepers Who Don’t Want You to Buy More Bees</h3>
-<sub>By David Segal and Ciril Jazbec</sub>
-<p>In Slovenia and around the world, conservationists try — and mostly fail — to combat the widespread belief that honey bees are in danger.  <a href="https://nyti.ms/45idmx2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 19, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
