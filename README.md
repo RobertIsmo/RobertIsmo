@@ -60,12 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, August 21, Central Standard Time</p>
 <p>
-There is a lot of news about America right now. A New York Times investigation has revealed that near misses involving U.S. commercial airlines happen multiple times a week. California is also drought-free for the first time in 3 years due to heavy rain and snow, and Hawaii has experienced devastating wildfires, leading President Biden to visit Maui to survey the damage. Democrats are now feeling more optimistic about 2024, and Iowa poll results suggest a remarkably stable G.O.P race ahead of the caucuses. Finally, President Trump and his advisers are debating whether or not he should take part in upcoming debates with President Biden, with the RNC possibly being involved in that decision.</p>
+It looks like our world is going through a lot right now. Former President Donald J. Trump recently had his bail set at $200,000 in a Georgia election interference case. In California, it&#39;s been announced that extreme drought conditions are officially gone for the first time in three years. Globally, people are worried about the possibility of nuclear war and what could happen if it becomes a reality. Politically, we&#39;re seeing big changes happening in the US with Democrats rooting for Republicans to start a debate about abortion and Chris Christie wanting to have a confrontation with Donald Trump onstage. There are also some big cases going on at the Supreme Court that could have huge implications for racial admissions standards and how Ukrainian war alliances shake out. We even have some grown-up theater kids being prominent in the world: Supreme Court Justice Amy Coney Barrett, Chris Christie, Senator Ted Cruz, &amp; MSNBC&#39;s Rachel Maddow, among others.</p>
 <ol>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Airline Close Calls Happen Far More Often Than Previously Known</h3>
-<sub>By Sydney Ember, Emily Steel, Leanne Abraham, Eleanor Lutz and Ella Koeze</sub>
-<p>Near misses involving U.S. commercial airlines happen on average multiple times a week, a New York Times investigation found.  <a href="https://nyti.ms/44hx3ni"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Bail for Trump Set at $200,000 in Georgia Election Interference Case</h3>
+<sub>By Danny Hakim, Maggie Haberman and Richard Fausset</sub>
+<p>The move came as it became clear that former President Donald J. Trump and 18 other defendants will be required to pay cash upon being booked in Atlanta this week.  <a href="https://nyti.ms/3qJoofJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -74,40 +74,16 @@ There is a lot of news about America right now. A New York Times investigation h
 <p>Heavy rain and snow over the winter helped alleviate the state’s long dry spell.  <a href="https://nyti.ms/3KQmd0C"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Maui Knew Dangerous Wildfires Had Become Inevitable. It Still Wasn’t Ready.</h3>
-<sub>By Tim Arango, Jack Healy and Damien Cave</sub>
-<p>As President Biden arrives to survey the damage with state and local officials, shock and grief are giving way to anger and questions about the government’s preparation.  <a href="https://nyti.ms/44mTk38"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>Hawaii-Tok Wants Tourists to Stay Home</h3>
-<sub>By Madison Malone Kircher</sub>
-<p>The right thing to do depends on whom you ask.  <a href="https://nyti.ms/44hvc1Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Heads to Hawaii to Inspect Wildfire Damage</h3>
-<sub>By Peter Baker</sub>
-<p>After remaining secluded since Friday, the president broke away from his vacation for a brief trip to Maui, where flames have demolished a town and killed more than 100 people.  <a href="https://nyti.ms/44dsU3H"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Airline Close Calls Happen Far More Often Than Previously Known</h3>
+<sub>By Sydney Ember, Emily Steel, Leanne Abraham, Eleanor Lutz and Ella Koeze</sub>
+<p>Near misses involving U.S. commercial airlines happen on average multiple times a week, a New York Times investigation found.  <a href="https://nyti.ms/44hx3ni"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
 <h3>Nuclear War Could End the World, but What if It’s All in Our Heads?</h3>
 <sub>By Sarah Scoles</sub>
 <p>Some experts want to apply recent neuroscience research to the decision making that could lead to doomsday.  <a href="https://nyti.ms/3sgBLEB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Steepest Hill</h3>
-<sub></sub>
-<p>A man, his daughter, and the many items left behind.  <a href="https://nyti.ms/3OKAMnz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-espanol-blue" alt="">
-<h3>Un gran obstáculo</h3>
-<sub></sub>
-<p>Un hombre, su hija, y lo que dejaron atrás.  <a href="https://nyti.ms/3OI5jT9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -123,15 +99,39 @@ There is a lot of news about America right now. A New York Times investigation h
 <sub><sub>Monday, August 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Dominates in New Iowa Poll</h3>
-<sub>By Anjali Huynh</sub>
-<p>The survey suggests a remarkably stable G.O.P. race in the state less than five months before the caucuses.  <a href="https://nyti.ms/3P2BVbG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Was Warned: Skipping Debate Could Let Biden Do the Same in ’24</h3>
 <sub>By Maggie Haberman, Shane Goldmacher and Jonathan Swan</sub>
 <p>The strong desire of Donald Trump’s advisers to see him debate President Biden in the event of a rematch could lead to a clash with the Republican National Committee.  <a href="https://nyti.ms/3sbfwji"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Corporate America’s Chief Critic, Carl Icahn, Gets His Comeuppance</h3>
+<sub>By Maureen Farrell</sub>
+<p>After a short seller targeted Icahn Enterprises, the activist investor made changes. At 87, he insists he’s not going anywhere and will refocus on rattling company cages.  <a href="https://nyti.ms/47yfFgW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Grieving Governor’s Moderate Gun Proposal Is Spurned by G.O.P. Allies</h3>
+<sub>By Emily Cochrane</sub>
+<p>Tennessee’s Republican governor called a special session to address public safety in the wake of a school shooting, but his own party is set to thwart his key measure.  <a href="https://nyti.ms/45BUb12"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Supreme Court Is Asked to Hear a New Admissions Case on Race</h3>
+<sub>By Stephanie Saul and Adam Liptak</sub>
+<p>Parents, backed by a legal foundation, say admissions standards at Thomas Jefferson High School in Virginia are not truly “race neutral.”  <a href="https://nyti.ms/3YKWj47"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Dueling Tours for Influence as Ukraine War Scrambles Alliances</h3>
+<sub>By Niki Kitsantonis and Paul Sonne</sub>
+<p>As Volodymyr Zelensky went on a diplomatic blitz of Europe, a top Iranian general made his way to Moscow.  <a href="https://nyti.ms/3YHUsx4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>Grown-Up Theater Kids Run the World</h3>
+<sub>By Madison Malone Kircher</sub>
+<p>A Supreme Court justice. The governor of New Jersey. Senator Ted Cruz. A prominent MSNBC host. Practically half the tech world. What’s behind this moment of thespian power?  <a href="https://nyti.ms/3KPoN7g"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 20, Central Standard Time</sub></sub>
 <hr/>
 </ol>
