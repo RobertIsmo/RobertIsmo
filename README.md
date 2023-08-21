@@ -60,7 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, August 21, Central Standard Time</p>
 <p>
-Right now, there’s a lot happening around the world. In the US, there recently was an earthquake in California that didn&#39;t cause too much damage. There’s also been lots of debates about whether police officers should wear body cameras and if they deserve pay increases. In the political landscape, Florida Governor Ron DeSantis has made some changes to his messaging and tactics while running for re-election. Internationally, Tropical Storm Hilary is churning across the ocean and Spain won the FIFA World Cup, although a kiss between a soccer federation chief and a Spanish forward caused some controversy. Furthermore, Russia had a lunar lander crash on the moon while in Ecuador there&#39;s a runoff vote coming up between an establishment leftist and newcomer businessman.</p>
+Right now, a lot of different things are happening all over the world. In California, there was recently a 5.1-magnitude earthquake that caused some nerves to be rattled, but luckily didn&#39;t cause any major damage or injuries. In Ecuador, an election between an establishment leftist and a newcomer businessman is being held, with the results awaiting. There&#39;s also been Post-Tropical Storm Hilary causing chaos in some parts of the world. 
+
+On the business side of things, near misses involving US commercial airlines occur on average multiple times a week according to a New York Times investigation. Additionally, China is facing economic deflation and despair due to people&#39;s reluctance to spend and borrow, which could feed an even more dangerous cycle. 
+
+Things don&#39;t seem to be getting better quickly either; in Saudi Arabia, hundreds of African migrants were killed by border guards over a 15-month period according to a Human Rights Watch report — and in Hawaii, thousands have been displaced after weeks of dangerous wildfires that wiped out entire communities.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>California Quake Rattled Nerves, but Didn’t Appear to Cause Major Damage</h3>
@@ -69,58 +73,52 @@ Right now, there’s a lot happening around the world. In the US, there recently
 <sub><sub>Sunday, August 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Maps: Tracking Tropical Storm Hilary</h3>
+<h3>Maps: Tracking Post-Tropical Storm Hilary</h3>
 <sub>By Judson Jones and Madison Dong</sub>
-<p>Storm path and precipitation forecasts for Tropical Storm Hilary.  <a href="https://nyti.ms/3KLxUFM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Storm path and precipitation maps for Post-Tropical Storm Hilary.  <a href="https://nyti.ms/3KLxUFM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Think the Police Should Wear Body Cameras? That Will Cost Taxpayers Extra.</h3>
-<sub>By Shaila Dewan</sub>
-<p>The public increasingly expects that police interactions will be recorded. And police unions increasingly expect a raise for doing the recording.  <a href="https://nyti.ms/3E1m9Yn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Ron DeSantis Joined the ‘Ruling Class’ — and Turned Against It</h3>
-<sub>By Nicholas Confessore</sub>
-<p>Over the years, Mr. DeSantis embraced and exploited his Ivy League credentials. Now he is reframing his experiences at Yale and Harvard to wage a vengeful political war.  <a href="https://nyti.ms/44lrTXo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis Tweaks His Messaging and Tactics After a Tough Campaign Stretch</h3>
-<sub>By Nicholas Nehamas</sub>
-<p>The Florida governor, who has been losing ground in polls and dealing with staffing, spending and messaging issues, looks to right his campaign in New Hampshire.  <a href="https://nyti.ms/3QU1nRM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 20, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Beekeepers Who Don’t Want You to Buy More Bees</h3>
-<sub>By David Segal and Ciril Jazbec</sub>
-<p>In Slovenia and around the world, conservationists try — and mostly fail — to combat the widespread belief that honey bees are in danger.  <a href="https://nyti.ms/45idmx2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>For Spain, a World Cup Title Built on Talent, Not Harmony</h3>
-<sub>By Rory Smith</sub>
-<p>A team that had endured all that Spain has in the past 12 months should not be able to win a World Cup. And yet that is precisely what it did.  <a href="https://nyti.ms/45eVFP2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 20, Central Standard Time</sub></sub>
+<h3>Airline Close Calls Happen Far More Often Than Previously Known</h3>
+<sub>By Sydney Ember, Emily Steel, Leanne Abraham, Eleanor Lutz and Ella Koeze</sub>
+<p>Near misses involving U.S. commercial airlines happen on average multiple times a week, a New York Times investigation found.  <a href="https://nyti.ms/44hx3ni"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Kiss After Spain’s World Cup Win Prompts Many to Cry Foul</h3>
-<sub>By Constant Méheut</sub>
-<p>A soccer federation chief kissed the Spanish forward Jennifer Hermoso fully on the lips during the medals ceremony, an unpleasant reminder to many of the sexism that has plagued women’s soccer.  <a href="https://nyti.ms/3YHVyJe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 20, Central Standard Time</sub></sub>
+<h3>In a War of Tanks, Ukrainian Soldiers Play World of Tanks Online</h3>
+<sub>By Thomas Gibbons-Neff</sub>
+<p>The urge to play a violent video game in the midst of the most brutal land war in Europe since World War II may seem baffling. But it’s a way to cope.  <a href="https://nyti.ms/45UqWH1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>Russia’s Lunar Lander Crashes Into the Moon</h3>
-<sub>By Kenneth Chang, Alina Lobzina and Anton Troianovski</sub>
-<p>The robotic Luna-25 spacecraft appeared to have “ceased its existence” after a failed orbital adjustment, the space agency Roscosmos said.  <a href="https://nyti.ms/3YHtWny"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 20, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-realestate-blue" alt="">
+<h3>Once a Force in Harlem, the Oldest Black Church in New York Hangs On</h3>
+<sub>By Mia Jackson</sub>
+<p>Mother A.M.E. Zion Church recently received a $200,000 grant for preservation, but attendance has declined in recent years.  <a href="https://nyti.ms/3KL37Jf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>On the Front Line, Ukrainian Commanders Are Buoyed to Be on the Offensive</h3>
-<sub>By Carlotta Gall</sub>
-<p>Despite tough fighting and heavy casualties, Ukrainian commanders say their forces are in better shape now than just months ago, while Russian troops appear worse off.  <a href="https://nyti.ms/44dTlq1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 20, Central Standard Time</sub></sub>
+<h3>The Steepest Hill</h3>
+<sub></sub>
+<p>A man, his daughter, and the many items left behind.  <a href="https://nyti.ms/3OKAMnz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Maui Knew Dangerous Wildfires Had Become Inevitable. It Still Wasn’t Ready.</h3>
+<sub>By Tim Arango, Jack Healy and Damien Cave</sub>
+<p>As President Biden arrives to survey the damage with state and local officials, shock and grief are giving way to anger and questions about the government’s preparation.  <a href="https://nyti.ms/44mTk38"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>For Hawaii’s Governor, a Balancing Act With No Margin for Error</h3>
+<sub>By Shawn Hubler</sub>
+<p>Gov. Josh Green of Hawaii sees lessons far beyond the islands in the disaster that has unfolded on Maui.  <a href="https://nyti.ms/3P2FPBo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The BRICS Club of Emerging Nations Debates Letting Others In</h3>
+<sub>By David Pierson, Lynsey Chutel, Jack Nicas, Alex Travelli and Paul Sonne</sub>
+<p>China wants to expand the five-nation bloc, but the members’ conflicting interests may get in the way.  <a href="https://nyti.ms/3qDBOtK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Establishment Leftist and Newcomer Businessman Appear Headed to Ecuador Runoff</h3>
@@ -128,11 +126,17 @@ Right now, there’s a lot happening around the world. In the US, there recently
 <p>Luisa González and Daniel Noboa were poised to be the top candidates of Sunday’s election in a country where declining security has been the leading issue for most voters.  <a href="https://nyti.ms/3qGJNX2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-espanol-blue" alt="">
-<h3>Luisa González y Daniel Noboa parecen ser los elegidos para la segunda vuelta en las elecciones en Ecuador</h3>
-<sub>By Genevieve Glatsky, José María León Cabrera and Thalíe Ponce</sub>
-<p>La candidata de la izquierda tradicional y un empresario relativamente nuevo en la política fueron los más votados en los comicios del domingo.  <a href="https://nyti.ms/3OMuCDw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Saudi Border Guards Accused of Killing Hundreds of African Migrants</h3>
+<sub>By Ben Hubbard and Shuaib Almosawa</sub>
+<p>A Human Rights Watch report says the guards regularly fire on African migrants trying to enter the kingdom from Yemen and killed hundreds in a 15-month period.  <a href="https://nyti.ms/3P4yYY0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>As China Falls Into Deflation, the Mood Turns Dark</h3>
+<sub>By Li Yuan</sub>
+<p>Consumers and business owners say they feel paralyzed by despair, and their reluctance to spend and borrow is feeding what could become a dangerous cycle.  <a href="https://nyti.ms/44mgpD0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
