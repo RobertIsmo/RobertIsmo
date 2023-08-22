@@ -58,12 +58,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Monday, August 21, Central Standard Time</p>
+<p>It is Tuesday, August 22, Central Standard Time</p>
 <p>
-Hey! There&#39;s been a lot going on in the world recently that I wanted to bring you up to speed on. 
-In the US, Donald Trump was arrested and had his bail set at $200,000 for election interference in Georgia. His preliminary trial date is set for 2026. Additionally, officials from both parties are gearing up for a Republican Presidential debate next week. On the other side of the country, California just narrowly avoided catastrophic damage due to a rare tropical storm. Unfortunately, smoke from numerous wildfires is blanketing the Pacific Northwest with air quality alerts and evacuations throughout the region. Additionally, over 50 buildings have burned in British Columbia due to wildfires. 
-On a less serious note, Oliver Anthony Music&#39;s song &quot;Rich Men North of Richmond&quot; unexpectedly reached number 1 on the charts due to viral marketing tactics. Finally, Waymo just started offering its self-driving taxis on Monday in San Francisco for people to pay for and experience first-hand. 
-That&#39;s some of what&#39;s been going on in the world lately!</p>
+Right now there is a lot going on in the world. In the US, former president Donald Trump has been set a bail of $200,000 for an election interference case, and there is a court case coming up related to the Jan 6th insurrection. On top of that, President Biden has been doing some wildfire damage control on Maui after fires devastated the island and killed over 100 people. Meanwhile, there are Republican presidential hopefuls gearing up for their first GOP debate in Milwaukee without Trump. 
+
+In terms of sports, Sha’Carri Richardson just became the fastest woman in the world by beating out Shericka Jackson and Shelly-Ann Fraser-Pryce. On the other hand, California was fortunately able to dodge catastrophic damage from a rare tropical storm, but Pacific Northwest is still suffering from wildfires and the damages it leaves in its wake. And in Japan they are planning to release treated water from a destroyed nuclear plant despite people&#39;s concerns. 
+
+Finally, Waymo started offering their driverless robot taxis across San Francisco while British Columbia is finally starting to see some relief from widespread Wildfires.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Bail for Trump Set at $200,000 in Georgia Election Interference Case</h3>
@@ -96,15 +97,9 @@ That&#39;s some of what&#39;s been going on in the world lately!</p>
 <sub><sub>Monday, August 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Democrats, Popcorn in Hand, Root for a Rowdy G.O.P. Debate</h3>
-<sub>By Reid J. Epstein</sub>
-<p>Top Democrats, suddenly feeling a bit better about 2024, would love to see Republicans talk about a national abortion ban. They’re less excited about the inevitable Hunter Biden tirades.  <a href="https://nyti.ms/3QNIBvI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Ramaswamy’s Foreign Policy Approach Offers Rivals a Line of Attack</h3>
-<sub>By Jonathan Weisman</sub>
-<p>As Vivek Ramaswamy rises in the polls, fellow Republican presidential candidates are keying in on a number of policy pronouncements that veer far from the G.O.P. mainstream.  <a href="https://nyti.ms/47yMhXU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>How to Watch the First Republican Presidential Debate</h3>
+<sub>By Maggie Astor</sub>
+<p>The first debate is Wednesday night from 9 to 11 p.m. Eastern. Donald Trump has taped an interview with former Fox News host Tucker Carlson that is scheduled to air simultaneously.  <a href="https://nyti.ms/3YIbgUy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
@@ -135,6 +130,12 @@ That&#39;s some of what&#39;s been going on in the world lately!</p>
 <h3>‘This Experience May Feel Futuristic’: Three Rides in Waymo Robot Taxis</h3>
 <sub>By Tripp Mickle, Yiwen Lu and Mike Isaac</sub>
 <p>On Monday, Waymo began letting the public pay for rides in its driverless cars in San Francisco. The New York Times dispatched three reporters around the city to test the service.  <a href="https://nyti.ms/44jw1qT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Japan to Release Treated Water From Ruined Nuclear Plant Despite Concerns</h3>
+<sub>By Motoko Rich and Hisako Ueno</sub>
+<p>In the face of regional and domestic objections, the country plans to proceed with a discharge at Fukushima that will eventually reach more than a million tons of water.  <a href="https://nyti.ms/3KO4B5H"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
