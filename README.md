@@ -60,11 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, August 22, Central Standard Time</p>
 <p>
-Right now there is a lot going on in the world. In the US, former president Donald Trump has been set a bail of $200,000 for an election interference case, and there is a court case coming up related to the Jan 6th insurrection. On top of that, President Biden has been doing some wildfire damage control on Maui after fires devastated the island and killed over 100 people. Meanwhile, there are Republican presidential hopefuls gearing up for their first GOP debate in Milwaukee without Trump. 
-
-In terms of sports, Sha’Carri Richardson just became the fastest woman in the world by beating out Shericka Jackson and Shelly-Ann Fraser-Pryce. On the other hand, California was fortunately able to dodge catastrophic damage from a rare tropical storm, but Pacific Northwest is still suffering from wildfires and the damages it leaves in its wake. And in Japan they are planning to release treated water from a destroyed nuclear plant despite people&#39;s concerns. 
-
-Finally, Waymo started offering their driverless robot taxis across San Francisco while British Columbia is finally starting to see some relief from widespread Wildfires.</p>
+There is a lot going on in the world right now. In the US, there is a bail set of $200,000 for Donald Trump in Georgia’s election interference case. On the same topic, the Justice Department wants to go to trial for Jan. 6 incident and has criticized Trump’s request for a 2026 trial date. Additionally, US President Joe Biden recently visited Maui to see the damage caused by wildfire that killed over a hundred people. There is also a Republican Presidential debate scheduled with eight participants without Donald Trump being present. On the music front, an unknown artist Oliver Anthony Music abruptly made it to the top of charts thanks to some tactics that help pop stars going viral. In sports, Sha&#39;Carri Richardson emerged as the fastest woman in the world and won her first world championship title. Moreover, Hurricane Hilary caused no deaths in California, which was expecting much worse damage. However, Texas will not be as lucky as Tropical Storm Harold has already started heading there. Similarly, smoke from numerous wildfires in Washington and Oregon have been affecting air quality heavily and one person has died so far. Lastly, Waymo robot taxis are now publicly available for rides in San Francisco and Japan plans to release treated water from its ruined nuclear plant despite objections from regions around it.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Bail for Trump Set at $200,000 in Georgia Election Interference Case</h3>
@@ -115,15 +111,15 @@ Finally, Waymo started offering their driverless robot taxis across San Francisc
 <sub><sub>Monday, August 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Tropical Storm Harold Forms and Quickly Heads to Texas</h3>
+<sub>By Judson Jones</sub>
+<p>The storm was less than 200 miles east of Texas early Tuesday, and expected to move inland later in the day.  <a href="https://nyti.ms/3P6I7zh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Smoke Blankets Pacific Northwest as Wildfires Rage</h3>
 <sub>By Remy Tumin</sub>
 <p>Numerous wildfires in Canada, Washington and Oregon sparked air quality alerts and evacuations across the region. At least one person has died.  <a href="https://nyti.ms/3sjiFhh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>At Least 50 Buildings Have Burned in British Columbia Wildfires</h3>
-<sub>By Ian Austen</sub>
-<p>The final tally of the damage will be higher, officials said, although no buildings have been destroyed over the past 24 hours as the fires ease.  <a href="https://nyti.ms/3KOZYZ6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
