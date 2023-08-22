@@ -60,24 +60,36 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, August 22, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now! In China there is a real estate crisis causing difficulty to resolve, which may be one of the reasons for increased tensions between the US and China. The leaders of Brazil, Russia, India, China and South Africa have had a meeting to discuss ways to expand their group which they view as an alternative to Western-led groups. Moving onto US politics, there will be a first Republican Presidential Debate this week with 8 candidates and Donald Trump has taped an interview with Tucker Carlson instead. On the US&#x2F;Mexico border tensions are rising about Governor Abbott&#39;s plans to crackdown on migrants, with many people having second thoughts about it. In terms of rape, psychologists and biologists are citing freezing as an involuntary response to trauma when it comes to victims failing to fight back. Lastly, Poland is warning that their northern border is under threat from Russia and Belarus but locals are saying it&#39;s all just election-related hyperbole. Meanwhile the Met in NYC is planning an exhibition about the Harlem Renaissance for 2024 borrowing artwork from historically Black institutions. And finally, some investigative research has found that near misses between U.S commercial airlines happen multiple times a week on average, which is far higher than anyone previously knew!</p>
+Right now, there are a few interesting things going on in the world. In Ukraine, U.S. officials are saying that their military forces have been spread too thin, and need to focus their efforts on a main counteroffensive in the south. Across the globe, August is ending with intense heat waves, wildfires, mudslides, and tropical storms - all being seen as warning signs of global warming. On the Texas border, there has been an effort to curb immigration - but now some of the local residents there aren&#39;t as supportive of it anymore. Finally, there&#39;s the upcoming Republican debate with 8 hopefuls at stake - but not Donald Trump - and it&#39;s almost time to find out who will be crowned winner of &#39;Top Chef&#39; this year.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Ukraine’s Forces and Firepower Are Misallocated, U.S. Officials Say</h3>
+<sub>By Eric Schmitt, Julian E. Barnes, Helene Cooper and Thomas Gibbons-Neff</sub>
+<p>American strategists say Ukraine’s troops are too spread out and need to concentrate along the counteroffensive’s main front in the south.  <a href="https://nyti.ms/45giwJS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Extreme August Arrives With a Warning: Expect More</h3>
+<sub>By Somini Sengupta</sub>
+<p>A mix of devastating wildfires, tropical storms, mudslides and heat waves foreshadows a future of intensified extremes as the world warms.  <a href="https://nyti.ms/3P7fPVl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Tropical Storm Harold Makes Landfall in Texas</h3>
+<sub>By Judson Jones</sub>
+<p>The storm was unleashing heavy rainfall that could cause flash flooding across parts of southern Texas, forecasters said.  <a href="https://nyti.ms/3P6I7zh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How Mark Meadows Pursued a High-Wire Legal Strategy in Trump Inquiries</h3>
+<sub>By Jonathan Swan, Alan Feuer, Luke Broadwater and Maggie Haberman</sub>
+<p>The former White House chief of staff, a key witness to Donald J. Trump’s efforts to remain in power after his 2020 election loss, maneuvered to provide federal prosecutors only what he had to.  <a href="https://nyti.ms/3P5J7nc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 22, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Why It’s So Hard for China to Fix Its Real Estate Crisis</h3>
 <sub>By Keith Bradsher</sub>
 <p>Beijing has often addressed economic troubles by boosting spending on infrastructure and real estate, but now heavy debt loads make that a hard playbook to follow.  <a href="https://nyti.ms/44ihBaz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Spreading State Restrictions on China Show Depths of Distrust in the U.S.</h3>
-<sub>By Alan Rappeport</sub>
-<p>Businesses fear that efforts to look tough on Beijing, which have the potential to be more expansive than moves by the federal government, could have unintended consequences.  <a href="https://nyti.ms/3E6flss"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Commerce Secretary to Visit China Next Week in Bid to Steady Ties</h3>
-<sub>By Ana Swanson</sub>
-<p>The trip by Gina Raimondo, the secretary of commerce, comes at a tense moment for the U.S.-China relationship and the Chinese economy.  <a href="https://nyti.ms/3ONppeC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -93,7 +105,7 @@ There&#39;s a lot going on in the world right now! In China there is a real esta
 <sub><sub>Monday, August 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Long-Shot Candidate Playbook: Make the Debate, Then See What Happens</h3>
+<h3>With Little Chance in 2024, Why Are These Republicans Even Running?</h3>
 <sub>By Trip Gabriel</sub>
 <p>The 2024 Republican field has a number of contenders who have almost no chance to take down Donald Trump. So why do they run?  <a href="https://nyti.ms/3qP8nEW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 22, Central Standard Time</sub></sub>
@@ -104,35 +116,23 @@ There&#39;s a lot going on in the world right now! In China there is a real esta
 <p>The first debate is Wednesday night from 9 to 11 p.m. Eastern. Donald Trump has taped an interview with former Fox News host Tucker Carlson that is scheduled to air simultaneously.  <a href="https://nyti.ms/3YIbgUy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 21, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-dining-blue" alt="">
+<h3>How Does Kristen Kish Feel at the Top of ‘Top Chef’? It’s Complicated.</h3>
+<sub>By Kim Severson</sub>
+<p>Padma Lakshmi’s successor is a different kind of host: gay, Korean American and ready to share her emotions, including a lifelong struggle with anxiety.  <a href="https://nyti.ms/47IjPmp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 22, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>At Texas Border, Some Support for Abbott’s Crackdown Is Waning</h3>
 <sub>By Edgar Sandoval</sub>
 <p>Gov. Greg Abbott’s intensive campaign to turn back migrants was initially welcomed on the border. But in Eagle Pass, the effort’s main focal point, residents are having second thoughts.  <a href="https://nyti.ms/3QWcNEC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>What People Misunderstand About Rape</h3>
-<sub>By Jen Percy</sub>
-<p>Sexual assault often goes unpunished when victims fail to fight back. But investigators, psychologists and biologists all describe freezing as an involuntary response to trauma.  <a href="https://nyti.ms/47F8io1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Texas Sent Migrants Into California’s Storm Emergency, Aid Groups Say</h3>
+<sub>By Somini Sengupta</sub>
+<p>The group of 37, including a three-week-old infant, traveled by bus to Los Angeles at a time when officials were warning against driving.  <a href="https://nyti.ms/45hi5ip"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>At Risk of Invasion or Lovely to Visit: Two Views of a Polish Border Area</h3>
-<sub>By Andrew Higgins</sub>
-<p>Polish authorities have issued dire warnings that the Suwalki Gap, on Poland’s northern border between Russia and Belarus, is under threat. Locals say that is just election-related fear-mongering.  <a href="https://nyti.ms/3sllka2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>The Met Announces Harlem Renaissance Exhibition for 2024</h3>
-<sub>By Zachary Small</sub>
-<p>Artworks on loan from historically Black institutions will make the show one of the largest surveys of the era in nearly 40 years.  <a href="https://nyti.ms/3OO6Wig"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Airline Close Calls Happen Far More Often Than Previously Known</h3>
-<sub>By Sydney Ember, Emily Steel, Leanne Abraham, Eleanor Lutz and Ella Koeze</sub>
-<p>Near misses involving U.S. commercial airlines happen on average multiple times a week, a New York Times investigation found.  <a href="https://nyti.ms/44hx3ni"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
