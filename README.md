@@ -59,7 +59,8 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, August 22, Central Standard Time</p>
-<p>There&#39;s a lot going on around the world right now. In China, there&#39;s an ongoing real estate crisis that is making it difficult for the government to resolve. In the United States, distrust of China is leading to restrictions placed on Chinese businesses, and the US Commerce Secretary will be visiting next week to try and steady relations. The BRICS Club of emerging nations is debating whether or not to let new members in, while Republican presidential hopefuls will face off in a televised debate without Donald Trump. Poland&#39;s northern border area has been shrouded in fear due to potential invasion, there are deeper conversations being had about sexual assault and rape, a wheelchair football team in Buffalo is providing players with community and purpose, and some residents of the Texas border are having second thoughts regarding Governor Abbott&#39;s crackdown on migrants. Lastly, US airline companies have had multiple close calls between planes that were previously not known. And in Pakistan, a cable car malfunctioned while taking students to school, leaving them dangling for hours.</p>
+<p>
+There&#39;s a lot going on in the world right now! In China there is a real estate crisis causing difficulty to resolve, which may be one of the reasons for increased tensions between the US and China. The leaders of Brazil, Russia, India, China and South Africa have had a meeting to discuss ways to expand their group which they view as an alternative to Western-led groups. Moving onto US politics, there will be a first Republican Presidential Debate this week with 8 candidates and Donald Trump has taped an interview with Tucker Carlson instead. On the US&#x2F;Mexico border tensions are rising about Governor Abbott&#39;s plans to crackdown on migrants, with many people having second thoughts about it. In terms of rape, psychologists and biologists are citing freezing as an involuntary response to trauma when it comes to victims failing to fight back. Lastly, Poland is warning that their northern border is under threat from Russia and Belarus but locals are saying it&#39;s all just election-related hyperbole. Meanwhile the Met in NYC is planning an exhibition about the Harlem Renaissance for 2024 borrowing artwork from historically Black institutions. And finally, some investigative research has found that near misses between U.S commercial airlines happen multiple times a week on average, which is far higher than anyone previously knew!</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Why It’s So Hard for China to Fix Its Real Estate Crisis</h3>
@@ -80,16 +81,22 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <sub><sub>Tuesday, August 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The BRICS Club of Emerging Nations Debates Letting Others In</h3>
-<sub>By David Pierson, Lynsey Chutel, Jack Nicas, Alex Travelli and Paul Sonne</sub>
-<p>China wants to expand the five-nation bloc, but the members’ conflicting interests may get in the way.  <a href="https://nyti.ms/3qDBOtK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 21, Central Standard Time</sub></sub>
+<h3>BRICS Meeting Attracts Global Interest Not Seen in Years</h3>
+<sub>By Lynsey Chutel</sub>
+<p>The leaders from the five-member group of nations — Brazil, Russia, India, China and South Africa — are discussing expanding the club, which harbors ambitions of becoming a geopolitical alternative to Western-led forums.  <a href="https://nyti.ms/47GBhHY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Stage of Eight Takes Shape for a Trump-Less First G.O.P. Debate</h3>
+<h3>8 Candidates Are Announced for First G.O.P. Debate, Trump Not Among Them</h3>
 <sub>By Shane Goldmacher and Lisa Lerer</sub>
 <p>Eight Republican presidential hopefuls will spar on Wednesday night in Milwaukee, without the party’s dominant front-runner.  <a href="https://nyti.ms/3OO0Oq6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Long-Shot Candidate Playbook: Make the Debate, Then See What Happens</h3>
+<sub>By Trip Gabriel</sub>
+<p>The 2024 Republican field has a number of contenders who have almost no chance to take down Donald Trump. So why do they run?  <a href="https://nyti.ms/3qP8nEW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>How to Watch the First Republican Presidential Debate</h3>
@@ -97,11 +104,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>The first debate is Wednesday night from 9 to 11 p.m. Eastern. Donald Trump has taped an interview with former Fox News host Tucker Carlson that is scheduled to air simultaneously.  <a href="https://nyti.ms/3YIbgUy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>At Risk of Invasion or Lovely to Visit: Two Views of a Polish Border Area</h3>
-<sub>By Andrew Higgins</sub>
-<p>Polish authorities have issued dire warnings that the Suwalki Gap, on Poland’s northern border between Russia and Belarus, is under threat. Locals say that is just election-related fear-mongering.  <a href="https://nyti.ms/3sllka2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 21, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>At Texas Border, Some Support for Abbott’s Crackdown Is Waning</h3>
+<sub>By Edgar Sandoval</sub>
+<p>Gov. Greg Abbott’s intensive campaign to turn back migrants was initially welcomed on the border. But in Eagle Pass, the effort’s main focal point, residents are having second thoughts.  <a href="https://nyti.ms/3QWcNEC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
 <h3>What People Misunderstand About Rape</h3>
@@ -109,16 +116,16 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>Sexual assault often goes unpunished when victims fail to fight back. But investigators, psychologists and biologists all describe freezing as an involuntary response to trauma.  <a href="https://nyti.ms/47F8io1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>In Wheelchair Football, Camaraderie Comes With Metal-on-Metal Contact</h3>
-<sub>By Matt Higgins and Jalen Wright</sub>
-<p>A collision-heavy wheelchair football team in Buffalo is giving players community and purpose.  <a href="https://nyti.ms/3QN8pYy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 22, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>At Risk of Invasion or Lovely to Visit: Two Views of a Polish Border Area</h3>
+<sub>By Andrew Higgins</sub>
+<p>Polish authorities have issued dire warnings that the Suwalki Gap, on Poland’s northern border between Russia and Belarus, is under threat. Locals say that is just election-related fear-mongering.  <a href="https://nyti.ms/3sllka2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>At Texas Border, Some Support for Abbott’s Crackdown Is Waning</h3>
-<sub>By Edgar Sandoval</sub>
-<p>Gov. Greg Abbott’s intensive campaign to turn back migrants was initially welcomed on the border. But in Eagle Pass, the effort’s main focal point, residents are having second thoughts.  <a href="https://nyti.ms/3QWcNEC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>The Met Announces Harlem Renaissance Exhibition for 2024</h3>
+<sub>By Zachary Small</sub>
+<p>Artworks on loan from historically Black institutions will make the show one of the largest surveys of the era in nearly 40 years.  <a href="https://nyti.ms/3OO6Wig"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -126,12 +133,6 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <sub>By Sydney Ember, Emily Steel, Leanne Abraham, Eleanor Lutz and Ella Koeze</sub>
 <p>Near misses involving U.S. commercial airlines happen on average multiple times a week, a New York Times investigation found.  <a href="https://nyti.ms/44hx3ni"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Children Left Dangling for Hours in Cable Car After Cables Break</h3>
-<sub>By Salman Masood</sub>
-<p>A rescue operation was being mobilized in Pakistan after the cable car malfunctioned while ferrying students to school at an altitude of more than 6,000 feet.  <a href="https://nyti.ms/3KOVmlI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
