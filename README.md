@@ -59,31 +59,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, August 22, Central Standard Time</p>
-<p>
-There is a lot going on in the world right now. In the US, there is a bail set of $200,000 for Donald Trump in Georgia’s election interference case. On the same topic, the Justice Department wants to go to trial for Jan. 6 incident and has criticized Trump’s request for a 2026 trial date. Additionally, US President Joe Biden recently visited Maui to see the damage caused by wildfire that killed over a hundred people. There is also a Republican Presidential debate scheduled with eight participants without Donald Trump being present. On the music front, an unknown artist Oliver Anthony Music abruptly made it to the top of charts thanks to some tactics that help pop stars going viral. In sports, Sha&#39;Carri Richardson emerged as the fastest woman in the world and won her first world championship title. Moreover, Hurricane Hilary caused no deaths in California, which was expecting much worse damage. However, Texas will not be as lucky as Tropical Storm Harold has already started heading there. Similarly, smoke from numerous wildfires in Washington and Oregon have been affecting air quality heavily and one person has died so far. Lastly, Waymo robot taxis are now publicly available for rides in San Francisco and Japan plans to release treated water from its ruined nuclear plant despite objections from regions around it.</p>
+<p>There&#39;s a lot going on around the world right now. In China, there&#39;s an ongoing real estate crisis that is making it difficult for the government to resolve. In the United States, distrust of China is leading to restrictions placed on Chinese businesses, and the US Commerce Secretary will be visiting next week to try and steady relations. The BRICS Club of emerging nations is debating whether or not to let new members in, while Republican presidential hopefuls will face off in a televised debate without Donald Trump. Poland&#39;s northern border area has been shrouded in fear due to potential invasion, there are deeper conversations being had about sexual assault and rape, a wheelchair football team in Buffalo is providing players with community and purpose, and some residents of the Texas border are having second thoughts regarding Governor Abbott&#39;s crackdown on migrants. Lastly, US airline companies have had multiple close calls between planes that were previously not known. And in Pakistan, a cable car malfunctioned while taking students to school, leaving them dangling for hours.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Bail for Trump Set at $200,000 in Georgia Election Interference Case</h3>
-<sub>By Danny Hakim, Maggie Haberman and Richard Fausset</sub>
-<p>Mr. Trump, who said he would turn himself in on Thursday, was told not to intimidate or threaten any witnesses or co-defendants in the case.  <a href="https://nyti.ms/3qJoofJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 21, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Why It’s So Hard for China to Fix Its Real Estate Crisis</h3>
+<sub>By Keith Bradsher</sub>
+<p>Beijing has often addressed economic troubles by boosting spending on infrastructure and real estate, but now heavy debt loads make that a hard playbook to follow.  <a href="https://nyti.ms/44ihBaz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Prosecutors Criticize Trump’s Request for 2026 Trial Date in Jan. 6 Case</h3>
-<sub>By Alan Feuer</sub>
-<p>Defense lawyers had said they needed years to wade through 11 million pages of evidence, but the Justice Department, which is seeking to go to trial in January, said they were exaggerating the burden.  <a href="https://nyti.ms/3KNj8hO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Spreading State Restrictions on China Show Depths of Distrust in the U.S.</h3>
+<sub>By Alan Rappeport</sub>
+<p>Businesses fear that efforts to look tough on Beijing, which have the potential to be more expansive than moves by the federal government, could have unintended consequences.  <a href="https://nyti.ms/3E6flss"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘The Devastation Is Overwhelming’: Biden Tours Wildfire Damage on Maui</h3>
-<sub>By Zolan Kanno-Youngs and Erica L. Green</sub>
-<p>The president broke away from his vacation to meet with survivors and officials after flames demolished a town and killed more than 100 people.  <a href="https://nyti.ms/44dsU3H"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 21, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Commerce Secretary to Visit China Next Week in Bid to Steady Ties</h3>
+<sub>By Ana Swanson</sub>
+<p>The trip by Gina Raimondo, the secretary of commerce, comes at a tense moment for the U.S.-China relationship and the Chinese economy.  <a href="https://nyti.ms/3ONppeC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>How ‘Rich Men North of Richmond’ Reached the Top of the Charts</h3>
-<sub>By Joe Coscarelli and Marc Tracy</sub>
-<p>A song by the previously unknown Oliver Anthony Music struck a chord with conservative pundits. Its quick trip to No. 1 relied on tactics that help pop stars go viral.  <a href="https://nyti.ms/3si1e0l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The BRICS Club of Emerging Nations Debates Letting Others In</h3>
+<sub>By David Pierson, Lynsey Chutel, Jack Nicas, Alex Travelli and Paul Sonne</sub>
+<p>China wants to expand the five-nation bloc, but the members’ conflicting interests may get in the way.  <a href="https://nyti.ms/3qDBOtK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -98,41 +97,41 @@ There is a lot going on in the world right now. In the US, there is a bail set o
 <p>The first debate is Wednesday night from 9 to 11 p.m. Eastern. Donald Trump has taped an interview with former Fox News host Tucker Carlson that is scheduled to air simultaneously.  <a href="https://nyti.ms/3YIbgUy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 21, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>At Risk of Invasion or Lovely to Visit: Two Views of a Polish Border Area</h3>
+<sub>By Andrew Higgins</sub>
+<p>Polish authorities have issued dire warnings that the Suwalki Gap, on Poland’s northern border between Russia and Belarus, is under threat. Locals say that is just election-related fear-mongering.  <a href="https://nyti.ms/3sllka2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>What People Misunderstand About Rape</h3>
+<sub>By Jen Percy</sub>
+<p>Sexual assault often goes unpunished when victims fail to fight back. But investigators, psychologists and biologists all describe freezing as an involuntary response to trauma.  <a href="https://nyti.ms/47F8io1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 22, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Sha’Carri Richardson Is the Fastest Woman in the World</h3>
-<sub>By Talya Minsberg</sub>
-<p>Richardson outran Shericka Jackson and Shelly-Ann Fraser-Pryce to take home her first major world championship title.  <a href="https://nyti.ms/45gPbiF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>California Evades Catastrophic Damage From Rare Tropical Storm</h3>
-<sub>By Jill Cowan and Thomas Fuller</sub>
-<p>After bracing for the worst, the state so far has recorded no deaths from Tropical Storm Hilary, officials said. Some desert and mountain communities are digging out from a deluge of mud.  <a href="https://nyti.ms/47F9NTe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Tropical Storm Harold Forms and Quickly Heads to Texas</h3>
-<sub>By Judson Jones</sub>
-<p>The storm was less than 200 miles east of Texas early Tuesday, and expected to move inland later in the day.  <a href="https://nyti.ms/3P6I7zh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>In Wheelchair Football, Camaraderie Comes With Metal-on-Metal Contact</h3>
+<sub>By Matt Higgins and Jalen Wright</sub>
+<p>A collision-heavy wheelchair football team in Buffalo is giving players community and purpose.  <a href="https://nyti.ms/3QN8pYy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Smoke Blankets Pacific Northwest as Wildfires Rage</h3>
-<sub>By Remy Tumin</sub>
-<p>Numerous wildfires in Canada, Washington and Oregon sparked air quality alerts and evacuations across the region. At least one person has died.  <a href="https://nyti.ms/3sjiFhh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 21, Central Standard Time</sub></sub>
+<h3>At Texas Border, Some Support for Abbott’s Crackdown Is Waning</h3>
+<sub>By Edgar Sandoval</sub>
+<p>Gov. Greg Abbott’s intensive campaign to turn back migrants was initially welcomed on the border. But in Eagle Pass, the effort’s main focal point, residents are having second thoughts.  <a href="https://nyti.ms/3QWcNEC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>‘This Experience May Feel Futuristic’: Three Rides in Waymo Robot Taxis</h3>
-<sub>By Tripp Mickle, Yiwen Lu and Mike Isaac</sub>
-<p>On Monday, Waymo began letting the public pay for rides in its driverless cars in San Francisco. The New York Times dispatched three reporters around the city to test the service.  <a href="https://nyti.ms/44jw1qT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Airline Close Calls Happen Far More Often Than Previously Known</h3>
+<sub>By Sydney Ember, Emily Steel, Leanne Abraham, Eleanor Lutz and Ella Koeze</sub>
+<p>Near misses involving U.S. commercial airlines happen on average multiple times a week, a New York Times investigation found.  <a href="https://nyti.ms/44hx3ni"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Japan to Release Treated Water From Ruined Nuclear Plant Despite Concerns</h3>
-<sub>By Motoko Rich and Hisako Ueno</sub>
-<p>In the face of regional and domestic objections, the country plans to proceed with a discharge at Fukushima that will eventually reach more than a million tons of water.  <a href="https://nyti.ms/3KO4B5H"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 21, Central Standard Time</sub></sub>
+<h3>Children Left Dangling for Hours in Cable Car After Cables Break</h3>
+<sub>By Salman Masood</sub>
+<p>A rescue operation was being mobilized in Pakistan after the cable car malfunctioned while ferrying students to school at an altitude of more than 6,000 feet.  <a href="https://nyti.ms/3KOVmlI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
