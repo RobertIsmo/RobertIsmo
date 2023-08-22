@@ -60,7 +60,10 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, August 21, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In the US, Donald Trump has been charged with interfering with an election in Georgia and his lawyers are trying to get his trial moved back to 2026. Meanwhile, in California, they avoided catastrophe from a rare tropical storm, but the Pacific Northwest is dealing with smoke-filled skies due to raging wildfires. British Columbia has recorded at least 50 buildings burned. On the political side of things, Democrats are rooting for a rowdy Republican debate where abortion bans will be discussed and Vivek Ramaswamy&#39;s foreign policy approach is being scrutinized by his fellow GOP candidates. Music-wise, an unknown artist named Oliver Anthony Music is topping the charts. There&#39;s also a legal battle against race-based admissions standards at Thomas Jefferson High School in Virginia and Sha&#39;Carri Richardson became the fastest woman in the world at a track event. The tech world welcomed Waymo&#39;s robot taxis that are now available for riders in San Francisco, and scientists are questioning whether nuclear war could be stopped if it was all happening in our heads.</p>
+Hey! There&#39;s been a lot going on in the world recently that I wanted to bring you up to speed on. 
+In the US, Donald Trump was arrested and had his bail set at $200,000 for election interference in Georgia. His preliminary trial date is set for 2026. Additionally, officials from both parties are gearing up for a Republican Presidential debate next week. On the other side of the country, California just narrowly avoided catastrophic damage due to a rare tropical storm. Unfortunately, smoke from numerous wildfires is blanketing the Pacific Northwest with air quality alerts and evacuations throughout the region. Additionally, over 50 buildings have burned in British Columbia due to wildfires. 
+On a less serious note, Oliver Anthony Music&#39;s song &quot;Rich Men North of Richmond&quot; unexpectedly reached number 1 on the charts due to viral marketing tactics. Finally, Waymo just started offering its self-driving taxis on Monday in San Francisco for people to pay for and experience first-hand. 
+That&#39;s some of what&#39;s been going on in the world lately!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Bail for Trump Set at $200,000 in Georgia Election Interference Case</h3>
@@ -75,21 +78,21 @@ There is a lot going on in the world right now. In the US, Donald Trump has been
 <sub><sub>Monday, August 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>California Evades Catastrophic Damage From Rare Tropical Storm</h3>
-<sub>By Jill Cowan and Thomas Fuller</sub>
-<p>After bracing for the worst, the state so far has recorded no deaths and avoided major problems from Tropical Storm Hilary, officials said.  <a href="https://nyti.ms/47F9NTe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>‘The Devastation Is Overwhelming’: Biden Tours Wildfire Damage on Maui</h3>
+<sub>By Zolan Kanno-Youngs and Erica L. Green</sub>
+<p>The president broke away from his vacation to meet with survivors and officials after flames demolished a town and killed more than 100 people.  <a href="https://nyti.ms/44dsU3H"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>How ‘Rich Men North of Richmond’ Reached the Top of the Charts</h3>
+<sub>By Joe Coscarelli and Marc Tracy</sub>
+<p>A song by the previously unknown Oliver Anthony Music struck a chord with conservative pundits. Its quick trip to No. 1 relied on tactics that help pop stars go viral.  <a href="https://nyti.ms/3si1e0l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Smoke Blankets Pacific Northwest as Wildfires Rage</h3>
-<sub>By Remy Tumin</sub>
-<p>Numerous wildfires in Canada, Washington and Oregon sparked air quality alerts and evacuations across the region. At least one person has died.  <a href="https://nyti.ms/3sjiFhh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>At Least 50 Buildings Have Burned in British Columbia Wildfires</h3>
-<sub>By Ian Austen</sub>
-<p>The final tally of the damage will be higher, officials said, although no buildings have been destroyed over the past 24 hours as the fires ease.  <a href="https://nyti.ms/3KOZYZ6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>A Stage of Eight Takes Shape for a Trump-Less First G.O.P. Debate</h3>
+<sub>By Shane Goldmacher and Lisa Lerer</sub>
+<p>Eight Republican presidential hopefuls will spar on Wednesday night in Milwaukee, without the party’s dominant front-runner.  <a href="https://nyti.ms/3OO0Oq6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -104,34 +107,34 @@ There is a lot going on in the world right now. In the US, Donald Trump has been
 <p>As Vivek Ramaswamy rises in the polls, fellow Republican presidential candidates are keying in on a number of policy pronouncements that veer far from the G.O.P. mainstream.  <a href="https://nyti.ms/47yMhXU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>How ‘Rich Men North of Richmond’ Reached the Top of the Charts</h3>
-<sub>By Joe Coscarelli and Marc Tracy</sub>
-<p>A song by the previously unknown Oliver Anthony Music struck a chord with conservative pundits. Its quick trip to No. 1 relied on tactics that help pop stars go viral.  <a href="https://nyti.ms/3si1e0l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Supreme Court Is Asked to Hear a New Admissions Case on Race</h3>
-<sub>By Stephanie Saul and Adam Liptak</sub>
-<p>Parents, backed by a legal foundation, say admissions standards at Thomas Jefferson High School in Virginia are not truly “race neutral.”  <a href="https://nyti.ms/3YKWj47"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 21, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Sha’Carri Richardson Is the Fastest Woman in the World</h3>
 <sub>By Talya Minsberg</sub>
 <p>Richardson outran Shericka Jackson and Shelly-Ann Fraser-Pryce to take home her first major world championship title.  <a href="https://nyti.ms/45gPbiF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 21, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>California Evades Catastrophic Damage From Rare Tropical Storm</h3>
+<sub>By Jill Cowan and Thomas Fuller</sub>
+<p>After bracing for the worst, the state so far has recorded no deaths from Tropical Storm Hilary, officials said. Some desert and mountain communities are digging out from a deluge of mud.  <a href="https://nyti.ms/47F9NTe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Smoke Blankets Pacific Northwest as Wildfires Rage</h3>
+<sub>By Remy Tumin</sub>
+<p>Numerous wildfires in Canada, Washington and Oregon sparked air quality alerts and evacuations across the region. At least one person has died.  <a href="https://nyti.ms/3sjiFhh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>At Least 50 Buildings Have Burned in British Columbia Wildfires</h3>
+<sub>By Ian Austen</sub>
+<p>The final tally of the damage will be higher, officials said, although no buildings have been destroyed over the past 24 hours as the fires ease.  <a href="https://nyti.ms/3KOZYZ6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 21, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>‘This Experience May Feel Futuristic’: Three Rides in Waymo Robot Taxis</h3>
 <sub>By Tripp Mickle, Yiwen Lu and Mike Isaac</sub>
 <p>On Monday, Waymo began letting the public pay for rides in its driverless cars in San Francisco. The New York Times dispatched three reporters around the city to test the service.  <a href="https://nyti.ms/44jw1qT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>Nuclear War Could End the World, but What if It’s All in Our Heads?</h3>
-<sub>By Sarah Scoles</sub>
-<p>Some experts want to apply recent neuroscience research to the decision making that could lead to doomsday.  <a href="https://nyti.ms/3sgBLEB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
