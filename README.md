@@ -60,30 +60,36 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, August 21, Central Standard Time</p>
 <p>
-It looks like our world is going through a lot right now. Former President Donald J. Trump recently had his bail set at $200,000 in a Georgia election interference case. In California, it&#39;s been announced that extreme drought conditions are officially gone for the first time in three years. Globally, people are worried about the possibility of nuclear war and what could happen if it becomes a reality. Politically, we&#39;re seeing big changes happening in the US with Democrats rooting for Republicans to start a debate about abortion and Chris Christie wanting to have a confrontation with Donald Trump onstage. There are also some big cases going on at the Supreme Court that could have huge implications for racial admissions standards and how Ukrainian war alliances shake out. We even have some grown-up theater kids being prominent in the world: Supreme Court Justice Amy Coney Barrett, Chris Christie, Senator Ted Cruz, &amp; MSNBC&#39;s Rachel Maddow, among others.</p>
+There is a lot going on in the world right now. In the US, Donald Trump has been charged with interfering with an election in Georgia and his lawyers are trying to get his trial moved back to 2026. Meanwhile, in California, they avoided catastrophe from a rare tropical storm, but the Pacific Northwest is dealing with smoke-filled skies due to raging wildfires. British Columbia has recorded at least 50 buildings burned. On the political side of things, Democrats are rooting for a rowdy Republican debate where abortion bans will be discussed and Vivek Ramaswamy&#39;s foreign policy approach is being scrutinized by his fellow GOP candidates. Music-wise, an unknown artist named Oliver Anthony Music is topping the charts. There&#39;s also a legal battle against race-based admissions standards at Thomas Jefferson High School in Virginia and Sha&#39;Carri Richardson became the fastest woman in the world at a track event. The tech world welcomed Waymo&#39;s robot taxis that are now available for riders in San Francisco, and scientists are questioning whether nuclear war could be stopped if it was all happening in our heads.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Bail for Trump Set at $200,000 in Georgia Election Interference Case</h3>
 <sub>By Danny Hakim, Maggie Haberman and Richard Fausset</sub>
-<p>The move came as it became clear that former President Donald J. Trump and 18 other defendants will be required to pay cash upon being booked in Atlanta this week.  <a href="https://nyti.ms/3qJoofJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Mr. Trump, who said he would turn himself in on Thursday, was told not to intimidate or threaten any witnesses or co-defendants in the case.  <a href="https://nyti.ms/3qJoofJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>California Is Free of Extreme Drought Conditions for the First Time in 3 Years</h3>
-<sub>By Nikita Richardson</sub>
-<p>Heavy rain and snow over the winter helped alleviate the state’s long dry spell.  <a href="https://nyti.ms/3KQmd0C"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Prosecutors Criticize Trump’s Request for 2026 Trial Date in Jan. 6 Case</h3>
+<sub>By Alan Feuer</sub>
+<p>Defense lawyers had said they needed years to wade through 11 million pages of evidence, but the Justice Department, which is seeking to go to trial in January, said they were exaggerating the burden.  <a href="https://nyti.ms/3KNj8hO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Airline Close Calls Happen Far More Often Than Previously Known</h3>
-<sub>By Sydney Ember, Emily Steel, Leanne Abraham, Eleanor Lutz and Ella Koeze</sub>
-<p>Near misses involving U.S. commercial airlines happen on average multiple times a week, a New York Times investigation found.  <a href="https://nyti.ms/44hx3ni"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>California Evades Catastrophic Damage From Rare Tropical Storm</h3>
+<sub>By Jill Cowan and Thomas Fuller</sub>
+<p>After bracing for the worst, the state so far has recorded no deaths and avoided major problems from Tropical Storm Hilary, officials said.  <a href="https://nyti.ms/47F9NTe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>Nuclear War Could End the World, but What if It’s All in Our Heads?</h3>
-<sub>By Sarah Scoles</sub>
-<p>Some experts want to apply recent neuroscience research to the decision making that could lead to doomsday.  <a href="https://nyti.ms/3sgBLEB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Smoke Blankets Pacific Northwest as Wildfires Rage</h3>
+<sub>By Remy Tumin</sub>
+<p>Numerous wildfires in Canada, Washington and Oregon sparked air quality alerts and evacuations across the region. At least one person has died.  <a href="https://nyti.ms/3sjiFhh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>At Least 50 Buildings Have Burned in British Columbia Wildfires</h3>
+<sub>By Ian Austen</sub>
+<p>The final tally of the damage will be higher, officials said, although no buildings have been destroyed over the past 24 hours as the fires ease.  <a href="https://nyti.ms/3KOZYZ6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -93,27 +99,15 @@ It looks like our world is going through a lot right now. Former President Donal
 <sub><sub>Monday, August 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>If Chris Christie Debates Without Donald Trump, Does He Make a Sound?</h3>
-<sub>By Nick Corasaniti and Charles Homans</sub>
-<p>The former New Jersey governor has relentlessly taunted Donald Trump, hoping for a dramatic onstage confrontation. It appears he is not going to get what he wants.  <a href="https://nyti.ms/45B2U3l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Ramaswamy’s Foreign Policy Approach Offers Rivals a Line of Attack</h3>
+<sub>By Jonathan Weisman</sub>
+<p>As Vivek Ramaswamy rises in the polls, fellow Republican presidential candidates are keying in on a number of policy pronouncements that veer far from the G.O.P. mainstream.  <a href="https://nyti.ms/47yMhXU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Was Warned: Skipping Debate Could Let Biden Do the Same in ’24</h3>
-<sub>By Maggie Haberman, Shane Goldmacher and Jonathan Swan</sub>
-<p>The strong desire of Donald Trump’s advisers to see him debate President Biden in the event of a rematch could lead to a clash with the Republican National Committee.  <a href="https://nyti.ms/3sbfwji"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Corporate America’s Chief Critic, Carl Icahn, Gets His Comeuppance</h3>
-<sub>By Maureen Farrell</sub>
-<p>After a short seller targeted Icahn Enterprises, the activist investor made changes. At 87, he insists he’s not going anywhere and will refocus on rattling company cages.  <a href="https://nyti.ms/47yfFgW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Grieving Governor’s Moderate Gun Proposal Is Spurned by G.O.P. Allies</h3>
-<sub>By Emily Cochrane</sub>
-<p>Tennessee’s Republican governor called a special session to address public safety in the wake of a school shooting, but his own party is set to thwart his key measure.  <a href="https://nyti.ms/45BUb12"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>How ‘Rich Men North of Richmond’ Reached the Top of the Charts</h3>
+<sub>By Joe Coscarelli and Marc Tracy</sub>
+<p>A song by the previously unknown Oliver Anthony Music struck a chord with conservative pundits. Its quick trip to No. 1 relied on tactics that help pop stars go viral.  <a href="https://nyti.ms/3si1e0l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -122,17 +116,23 @@ It looks like our world is going through a lot right now. Former President Donal
 <p>Parents, backed by a legal foundation, say admissions standards at Thomas Jefferson High School in Virginia are not truly “race neutral.”  <a href="https://nyti.ms/3YKWj47"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Dueling Tours for Influence as Ukraine War Scrambles Alliances</h3>
-<sub>By Niki Kitsantonis and Paul Sonne</sub>
-<p>As Volodymyr Zelensky went on a diplomatic blitz of Europe, a top Iranian general made his way to Moscow.  <a href="https://nyti.ms/3YHUsx4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Sha’Carri Richardson Is the Fastest Woman in the World</h3>
+<sub>By Talya Minsberg</sub>
+<p>Richardson outran Shericka Jackson and Shelly-Ann Fraser-Pryce to take home her first major world championship title.  <a href="https://nyti.ms/45gPbiF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>Grown-Up Theater Kids Run the World</h3>
-<sub>By Madison Malone Kircher</sub>
-<p>A Supreme Court justice. The governor of New Jersey. Senator Ted Cruz. A prominent MSNBC host. Practically half the tech world. What’s behind this moment of thespian power?  <a href="https://nyti.ms/3KPoN7g"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 20, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>‘This Experience May Feel Futuristic’: Three Rides in Waymo Robot Taxis</h3>
+<sub>By Tripp Mickle, Yiwen Lu and Mike Isaac</sub>
+<p>On Monday, Waymo began letting the public pay for rides in its driverless cars in San Francisco. The New York Times dispatched three reporters around the city to test the service.  <a href="https://nyti.ms/44jw1qT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>Nuclear War Could End the World, but What if It’s All in Our Heads?</h3>
+<sub>By Sarah Scoles</sub>
+<p>Some experts want to apply recent neuroscience research to the decision making that could lead to doomsday.  <a href="https://nyti.ms/3sgBLEB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
