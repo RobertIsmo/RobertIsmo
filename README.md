@@ -60,18 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, August 23, Central Standard Time</p>
 <p>
-I&#39;m catching up on a lot of news lately. Here&#39;s the short version: Russia is in a standoff with one of its leaders and 19 people, including former President Donald J. Trump, have been charged with an election inquiry in Georgia. It looks like Rudy Giuliani may turn himself into authorities soon in an election case that he was involved in last year. Meanwhile, the federal minimum wage is becoming obsolete due to a hot job market, and revisions to data have slightly decreased the reported U.S. job growth for the past year. There&#39;s also some fascinating developments with A.I. helping a paralyzed woman regain her speech after losing it due to a stroke. Finally, India has successfully completed a mission to reach the lunar south pole—the first nation to do so—and there&#39;s an ongoing inheritance case involving the Wildenstein art dynasty.</p>
+There are a lot of important things going on in the news right now. In Russia, a top general has been demoted due to his ties with Prigozhin. Former President Donald Trump&#39;s lawyer Rudy Giuliani has turned himself in to jail in Georgia related to an election case. Nineteen people, including Trump, have been charged related to the election inquiry. Florida Governor DeSantis is preparing to debate tonight to reclaim lost ground among Republican Presidential contenders. The first Republican Presidential debate is happening tonight, which will be fact-checked after Republican candidates made misstatements during their campaigns. In North Dakota, Governor Doug Burgum injured himself during a basketball game and may not be able to participate in the debate. President Biden is signing new incentives for foreign investors which are reportedly benefiting certain factories. Nvidia recently released financial results showing significant increases in revenue due to high demand for A.I. chips. There have been reports of a paralyzed woman having her brain activity translated into words spoken by an avatar. India recently succeeded in its Chandrayaan-3 mission to the lunar south polar region, marking an important advancement for its own space program. Lastly, there is an ongoing legal case involving the Wildenstein family of France which could jeopardize their art collection and has revealed dark secrets about the global art market.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Timeline: What Led to the Standoff Between Russia and Prigozhin</h3>
-<sub>By Gaya Gupta</sub>
-<p>The leader of the Wagner mercenary group had kept a low profile for years, only acknowledging his force’s existence in September of last year.  <a href="https://nyti.ms/46k6Tmc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, June 24, Central Standard Time</sub></sub>
+<h3>Russia demotes Surovikin, a top general tied to Prigozhin.</h3>
+<sub>By Valeriya Safronova and Anton Troianovski</sub>
+<p>  <a href="https://nyti.ms/45kgB7c"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Giuliani Plans to Surrender Wednesday in Georgia Election Case</h3>
+<h3>Giuliani Surrenders at Jail in Georgia Election Case</h3>
 <sub>By Danny Hakim, Maggie Haberman and Richard Fausset</sub>
-<p>Mr. Giuliani served as Donald Trump’s personal lawyer in the aftermath of the 2020 election, and advanced false claims that the election was stolen.  <a href="https://nyti.ms/47KgDXx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Mr. Giuliani served as Donald Trump’s personal lawyer in the aftermath of the 2020 election, and advanced false claims that the election was stolen. His bond was set at $150,000.  <a href="https://nyti.ms/47KgDXx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -81,39 +81,39 @@ I&#39;m catching up on a lot of news lately. Here&#39;s the short version: Russi
 <sub><sub>Monday, August 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Witness in Trump Documents Case Changed Lawyers, and Then Testimony</h3>
-<sub>By Maggie Haberman and Alan Feuer</sub>
-<p>Federal prosecutors described the shift in a court filing that highlighted conflicts of interest in the overlapping legal representation of witnesses and defendants in the case.  <a href="https://nyti.ms/44hDVRD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>DeSantis’s Debate Mission: Prove He’s Still the Top Trump Alternative</h3>
 <sub>By Shane Goldmacher and Maggie Haberman</sub>
-<p>Allies believe the Florida governor needs to reassure skittish donors and supporters alike that he can square off with Mr. Trump.  <a href="https://nyti.ms/3P9YRpe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The Florida governor was livid after his allies’ debate strategy memo was revealed online. He enters tonight’s debate looking to reclaim lost ground.  <a href="https://nyti.ms/3P9YRpe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Who Can Seize the Spotlight From Trump? What to Watch For in the G.O.P. Debate</h3>
-<sub>By Lisa Lerer and Shane Goldmacher</sub>
-<p>Former President Donald J. Trump won’t be on the stage in Milwaukee, but his rivals still need to make a case to be the alternative.  <a href="https://nyti.ms/3YLnBYg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 22, Central Standard Time</sub></sub>
+<h3>Preparing to Fact-Check the First G.O.P. Debate: A Misstatement Sampler</h3>
+<sub>By Anjali Huynh</sub>
+<p>Through stump speeches and statements on the campaign trail, the Republican presidential contenders have hinted at what they might say on the debate stage. Here’s a look at their possible lines.  <a href="https://nyti.ms/3P65j0y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Doug Burgum Suffers Basketball Injury Ahead of G.O.P. Debate Appearance</h3>
+<h3>How to Watch the First Republican Presidential Debate</h3>
+<sub>By Maggie Astor</sub>
+<p>The first debate is Wednesday night from 9 to 11 p.m. Eastern. Donald Trump has taped an interview with former Fox News host Tucker Carlson that is scheduled to air simultaneously.  <a href="https://nyti.ms/3YIbgUy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Doug Burgum Suffers Basketball Injury, Threatening G.O.P. Debate Appearance</h3>
 <sub>By Shane Goldmacher</sub>
-<p>The North Dakota governor, a long-shot Republican presidential candidate, was taken to an emergency room Tuesday. The extent of his injury was unclear.  <a href="https://nyti.ms/3YKfQlc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The North Dakota governor, a long-shot Republican presidential candidate, tore his Achilles’ tendon while playing basketball with his staff, an aide said.  <a href="https://nyti.ms/3YKfQlc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>In a Hot Job Market, the Minimum Wage Becomes an Afterthought</h3>
-<sub>By Ben Casselman and Lydia DePillis</sub>
-<p>The federal wage floor of $7.25 is increasingly irrelevant when even most teenagers are earning twice that. But what happens when the economy cools?  <a href="https://nyti.ms/3QLWJWb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Incentives for Foreign Investment Are Benefiting Factories</h3>
+<sub>By Jim Tankersley</sub>
+<p>Early data suggest laws to increase semiconductor production and renewable energy technology have shifted the makeup of foreign direct investment — but not increased it.  <a href="https://nyti.ms/3Pa2fjW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Fresh Look at Data Shaves Just a Hair Off U.S. Job Growth</h3>
-<sub>By Ben Casselman</sub>
-<p>Revised figures for the year that ended in March show 300,000 fewer jobs at the close of the period than previously reported.  <a href="https://nyti.ms/44osac2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Nvidia Revenue Doubles on Demand for A.I. Chips, and Could Go Higher</h3>
+<sub>By Don Clark</sub>
+<p>Sales for the current quarter will nearly triple their total a year ago, said the company, which makes chips essential to the development of A.I. systems.  <a href="https://nyti.ms/3qITBQd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
