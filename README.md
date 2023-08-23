@@ -60,14 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, August 23, Central Standard Time</p>
 <p>
-There have been a lot of news and events happening in the US recently that are important to know about. For instance, Rudy Giuliani, Donald Trump&#39;s ex-lawyer who promoted false claims of election fraud, is planning to surrender to authorities in Georgia today. There are also reports on the Trump family&#39;s overseas business dealings and a court case involving documents relating to Trump. 
-
-In the business world, minimum wage jobs aren&#39;t as noteworthy now as they were before because teenagers are earning double the federal wage floor of $7.25. In Japan, there’s a Marxist best-selling book making the case for &quot;degrowth communism&quot; which suggests shrinking could be good for Japan. 
-
-Plus, the Republican presidential debate will take place without Donald Trump. Doug Burgum, one of the longshot GOP candidates, suffered an unfortunate basketball injury ahead of his debate appearance and has been taken to an emergency room. With regards to merchandising for political campaigns, we can expect some surprises and India seems to be transforming the planet&#39;s connection to space exploration with at least 140 registered start-ups in this area. 
-
-Back home, Washington University&#39;s youth gender clinic in St Louis is inundated with people seeking care and mental health support, while in Russia military service is being advertised through media messaging in an effort to recruit more soldiers. That&#39;s a lot of current news!</p>
+I&#39;m catching up on a lot of news lately. Here&#39;s the short version: Russia is in a standoff with one of its leaders and 19 people, including former President Donald J. Trump, have been charged with an election inquiry in Georgia. It looks like Rudy Giuliani may turn himself into authorities soon in an election case that he was involved in last year. Meanwhile, the federal minimum wage is becoming obsolete due to a hot job market, and revisions to data have slightly decreased the reported U.S. job growth for the past year. There&#39;s also some fascinating developments with A.I. helping a paralyzed woman regain her speech after losing it due to a stroke. Finally, India has successfully completed a mission to reach the lunar south pole—the first nation to do so—and there&#39;s an ongoing inheritance case involving the Wildenstein art dynasty.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Timeline: What Led to the Standoff Between Russia and Prigozhin</h3>
+<sub>By Gaya Gupta</sub>
+<p>The leader of the Wagner mercenary group had kept a low profile for years, only acknowledging his force’s existence in September of last year.  <a href="https://nyti.ms/46k6Tmc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, June 24, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Giuliani Plans to Surrender Wednesday in Georgia Election Case</h3>
 <sub>By Danny Hakim, Maggie Haberman and Richard Fausset</sub>
@@ -75,16 +75,34 @@ Back home, Washington University&#39;s youth gender clinic in St Louis is inunda
 <sub><sub>Wednesday, August 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>To Trump, Foreign Business Is Scandalous, Unless It’s His Own</h3>
-<sub>By Peter Baker</sub>
-<p>Donald J. Trump has berated Joseph R. Biden Jr. for his son’s overseas deal making, despite plenty of overseas deal making by the Trump family.  <a href="https://nyti.ms/3smiRMF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 22, Central Standard Time</sub></sub>
+<h3>Who Has Been Charged in the Election Inquiry in Georgia</h3>
+<sub>By The New York Times</sub>
+<p>Nineteen people, including former President Donald J. Trump, have been charged in an expansive legal case challenging Mr. Trump’s attempts to cling to power.  <a href="https://nyti.ms/3YBhFAT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Witness in Trump Documents Case Changed Lawyers, and Then Testimony</h3>
 <sub>By Maggie Haberman and Alan Feuer</sub>
 <p>Federal prosecutors described the shift in a court filing that highlighted conflicts of interest in the overlapping legal representation of witnesses and defendants in the case.  <a href="https://nyti.ms/44hDVRD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>DeSantis’s Debate Mission: Prove He’s Still the Top Trump Alternative</h3>
+<sub>By Shane Goldmacher and Maggie Haberman</sub>
+<p>Allies believe the Florida governor needs to reassure skittish donors and supporters alike that he can square off with Mr. Trump.  <a href="https://nyti.ms/3P9YRpe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Who Can Seize the Spotlight From Trump? What to Watch For in the G.O.P. Debate</h3>
+<sub>By Lisa Lerer and Shane Goldmacher</sub>
+<p>Former President Donald J. Trump won’t be on the stage in Milwaukee, but his rivals still need to make a case to be the alternative.  <a href="https://nyti.ms/3YLnBYg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Doug Burgum Suffers Basketball Injury Ahead of G.O.P. Debate Appearance</h3>
+<sub>By Shane Goldmacher</sub>
+<p>The North Dakota governor, a long-shot Republican presidential candidate, was taken to an emergency room Tuesday. The extent of his injury was unclear.  <a href="https://nyti.ms/3YKfQlc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>In a Hot Job Market, the Minimum Wage Becomes an Afterthought</h3>
@@ -93,51 +111,27 @@ Back home, Washington University&#39;s youth gender clinic in St Louis is inunda
 <sub><sub>Wednesday, August 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Can Shrinking Be Good for Japan? A Marxist Best Seller Makes the Case.</h3>
-<sub>By Ben Dooley and Hisako Ueno</sub>
-<p>Kohei Saito says the country should seize this moment of demographic and economic challenge to reinvent itself through “degrowth communism.”  <a href="https://nyti.ms/3QQM78q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Who Can Seize the Spotlight From Trump? What to Watch For in the G.O.P. Debate</h3>
-<sub>By Lisa Lerer and Shane Goldmacher</sub>
-<p>Former President Donald J. Trump won’t be on the stage in Milwaukee, but his rivals still need to make a case to be the alternative.  <a href="https://nyti.ms/3YLnBYg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>The First Debate and the Race for Second Place</h3>
-<sub>By Nate Cohn</sub>
-<p>Being No. 2 could be especially important next year, and Ramaswamy has been gaining on DeSantis.  <a href="https://nyti.ms/45ExoS5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Doug Burgum Suffers Basketball Injury Ahead of G.O.P. Debate Appearance</h3>
-<sub>By Shane Goldmacher</sub>
-<p>The North Dakota governor, a long-shot Republican presidential candidate, was taken to an emergency room Tuesday. The extent of his injury was unclear.  <a href="https://nyti.ms/3YKfQlc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>The Secrets of Debate Swag</h3>
-<sub>By Vanessa Friedman</sub>
-<p>Oh, the games campaigns play with political merch. They may surprise you.  <a href="https://nyti.ms/45FkUtG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Surprising Striver in the World’s Space Business</h3>
-<sub>By Alex Travelli</sub>
-<p>With at least 140 registered space-tech start-ups, India stands to transform the planet’s connection to the final frontier.  <a href="https://nyti.ms/46Milr9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, July 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Manliness, Prestige and Cash: How Military Service Is Sold on Russian TV</h3>
-<sub>By Anton Troianovski, Alina Lobzina, Sarah Kerr and Natalie Reneau</sub>
-<p>The Times tracked several months of Russian state messaging in the Kremlin’s effort to recruit soldiers.  <a href="https://nyti.ms/44gbQdD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Fresh Look at Data Shaves Just a Hair Off U.S. Job Growth</h3>
+<sub>By Ben Casselman</sub>
+<p>Revised figures for the year that ended in March show 300,000 fewer jobs at the close of the period than previously reported.  <a href="https://nyti.ms/44osac2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>How a Small Gender Clinic Landed in a Political Storm</h3>
-<sub>By Azeen Ghorayshi</sub>
-<p>Washington University’s youth gender clinic in St. Louis, like others around the world, was overwhelmed by new patients and struggled to provide them with mental health care.  <a href="https://nyti.ms/45FkUKc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>A Stroke Stole Her Ability to Speak at 30. A.I. Is Helping to Restore It Years Later.</h3>
+<sub>By Pam Belluck</sub>
+<p>The brain activity of a paralyzed woman is being translated into words spoken by an avatar. This milestone could help others who have lost speech.  <a href="https://nyti.ms/3QQVbdh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>‘India Is on the Moon’: Lander’s Success Moves Nation to Next Space Chapter</h3>
+<sub>By Hari Kumar, Alex Travelli, Mujib Mashal and Kenneth Chang</sub>
+<p>The Chandrayaan-3 mission makes India the first country to reach the lunar south polar region in one piece and adds to the achievements of the country’s homegrown space program.  <a href="https://nyti.ms/3stp5Kt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>The Inheritance Case That Could Unravel an Art Dynasty</h3>
+<sub>By Rachel Corbett</sub>
+<p>How a widow’s legal fight against the Wildenstein family of France has threatened their storied collection — and revealed the underbelly of the global art market.  <a href="https://nyti.ms/3QKJSU8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 23, Central Standard Time</sub></sub>
 <hr/>
 </ol>
