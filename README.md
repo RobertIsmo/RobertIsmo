@@ -60,67 +60,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, August 23, Central Standard Time</p>
 <p>
-It looks like the job market is heating up - people are now earning double the federal minimum wage, and even teenagers are getting higher wages. Meanwhile, in Japan, there&#39;s a new book that argues for &quot;degrowth communism&quot; as a way for the country to reinvigorate its economy.
+There have been a lot of news and events happening in the US recently that are important to know about. For instance, Rudy Giuliani, Donald Trump&#39;s ex-lawyer who promoted false claims of election fraud, is planning to surrender to authorities in Georgia today. There are also reports on the Trump family&#39;s overseas business dealings and a court case involving documents relating to Trump. 
 
-In U.S. politics, there&#39;s a big Republican debate coming up with major potential implications for the 2024 presidential election. And candidates have already started spending heavily on ads ahead of this debate in order to introduce themselves to as many voters as possible - including ad campaigns from Donald Trump looking forward to a matchup with President Biden.
+In the business world, minimum wage jobs aren&#39;t as noteworthy now as they were before because teenagers are earning double the federal wage floor of $7.25. In Japan, there’s a Marxist best-selling book making the case for &quot;degrowth communism&quot; which suggests shrinking could be good for Japan. 
 
-In other news, Russian state messaging has been using military service promotions to appeal to a sense of manliness and prestige. And Washington University is struggling to provide mental health care to patients at its youth gender clinic in St. Louis due to an influx of new patients at the clinic.
+Plus, the Republican presidential debate will take place without Donald Trump. Doug Burgum, one of the longshot GOP candidates, suffered an unfortunate basketball injury ahead of his debate appearance and has been taken to an emergency room. With regards to merchandising for political campaigns, we can expect some surprises and India seems to be transforming the planet&#39;s connection to space exploration with at least 140 registered start-ups in this area. 
 
-Finally, the race is on for private companies and agencies alike to land - or crash - on the moon safely. As for Trump himself, he&#39;s been highly critical of Joe Biden Jr.&#39;s son&#39;s overseas dealmaking, despite his own family having done plenty of their own such deals. And in a related court case about Trump documents, one witness changed lawyers and subsequently their testimony has caused some legal conflicts. Lastly, here on Earth, firefighters left a contained scene in Lahaina too soon only for it to become an inferno moments later -- leaving some residents alarmed that someone should have stayed instead.</p>
+Back home, Washington University&#39;s youth gender clinic in St Louis is inundated with people seeking care and mental health support, while in Russia military service is being advertised through media messaging in an effort to recruit more soldiers. That&#39;s a lot of current news!</p>
 <ol>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>In a Hot Job Market, the Minimum Wage Becomes an Afterthought</h3>
-<sub>By Ben Casselman and Lydia DePillis</sub>
-<p>The federal wage floor of $7.25 is increasingly irrelevant when even most teenagers are earning twice that. But what happens when the economy cools?  <a href="https://nyti.ms/3QLWJWb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Can Shrinking Be Good for Japan? A Marxist Best Seller Makes the Case.</h3>
-<sub>By Ben Dooley and Hisako Ueno</sub>
-<p>Kohei Saito says the country should seize this moment of demographic and economic challenge to reinvent itself through “degrowth communism.”  <a href="https://nyti.ms/3QQM78q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 22, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>9 Things That Will Shape Wednesday’s G.O.P. Debate</h3>
-<sub>By Lisa Lerer and Shane Goldmacher</sub>
-<p>Former President Donald J. Trump won’t be on the stage in Milwaukee, but his rivals still need to make a case to be the alternative.  <a href="https://nyti.ms/3YLnBYg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Beyond the Debate, Republicans Are Deep in the 2024 Ad Wars</h3>
-<sub>By Rebecca Davis O’Brien</sub>
-<p>Many of the party’s presidential candidates have spent heavily as they try to introduce themselves to voters. Ads for Donald Trump, meanwhile, look ahead to a matchup with President Biden.  <a href="https://nyti.ms/3ssuW2I"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Giuliani Plans to Surrender Wednesday in Georgia Election Case</h3>
+<sub>By Danny Hakim, Maggie Haberman and Richard Fausset</sub>
+<p>Mr. Giuliani served as Donald Trump’s personal lawyer in the aftermath of the 2020 election, and advanced false claims that the election was stolen.  <a href="https://nyti.ms/47KgDXx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>The First Debate and the Race for Second Place</h3>
-<sub>By Nate Cohn</sub>
-<p>Being No. 2 could be especially important next year, and Ramaswamy has been gaining on DeSantis.  <a href="https://nyti.ms/45ExoS5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>The Secrets of Debate Swag</h3>
-<sub>By Vanessa Friedman</sub>
-<p>Oh, the games campaigns play with political merch. They may surprise you.  <a href="https://nyti.ms/45FkUtG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Manliness, Prestige and Cash: How Military Service Is Sold on Russian TV</h3>
-<sub>By Anton Troianovski, Alina Lobzina, Sarah Kerr and Natalie Reneau</sub>
-<p>The Times tracked several months of Russian state messaging in the Kremlin’s effort to recruit soldiers.  <a href="https://nyti.ms/44gbQdD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>How a Small Gender Clinic Landed in a Political Storm</h3>
-<sub>By Azeen Ghorayshi</sub>
-<p>Washington University’s youth gender clinic in St. Louis, like others around the world, was overwhelmed by new patients and struggled to provide them with mental health care.  <a href="https://nyti.ms/45FkUKc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>Racing to Land, or Crash, on the Moon</h3>
-<sub>By Jonathan Corum</sub>
-<p>Six decades of crashes, belly flops and hard landings on the lunar surface.  <a href="https://nyti.ms/3E6Ph09"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>To Trump, Foreign Business Is Scandalous, Unless It’s His Own</h3>
@@ -134,10 +86,58 @@ Finally, the race is on for private companies and agencies alike to land - or cr
 <p>Federal prosecutors described the shift in a court filing that highlighted conflicts of interest in the overlapping legal representation of witnesses and defendants in the case.  <a href="https://nyti.ms/44hDVRD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 22, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>In a Hot Job Market, the Minimum Wage Becomes an Afterthought</h3>
+<sub>By Ben Casselman and Lydia DePillis</sub>
+<p>The federal wage floor of $7.25 is increasingly irrelevant when even most teenagers are earning twice that. But what happens when the economy cools?  <a href="https://nyti.ms/3QLWJWb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Can Shrinking Be Good for Japan? A Marxist Best Seller Makes the Case.</h3>
+<sub>By Ben Dooley and Hisako Ueno</sub>
+<p>Kohei Saito says the country should seize this moment of demographic and economic challenge to reinvent itself through “degrowth communism.”  <a href="https://nyti.ms/3QQM78q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 22, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Lahaina Inferno Began After Firefighters Departed a ‘Contained’ Scene</h3>
-<sub>By Serge F. Kovaleski and Mike Baker</sub>
-<p>Some residents said they were alarmed when fire crews left the site of an early-morning fire: “Someone should have stayed.”  <a href="https://nyti.ms/3OIfSFT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Who Can Seize the Spotlight From Trump? What to Watch For in the G.O.P. Debate</h3>
+<sub>By Lisa Lerer and Shane Goldmacher</sub>
+<p>Former President Donald J. Trump won’t be on the stage in Milwaukee, but his rivals still need to make a case to be the alternative.  <a href="https://nyti.ms/3YLnBYg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>The First Debate and the Race for Second Place</h3>
+<sub>By Nate Cohn</sub>
+<p>Being No. 2 could be especially important next year, and Ramaswamy has been gaining on DeSantis.  <a href="https://nyti.ms/45ExoS5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Doug Burgum Suffers Basketball Injury Ahead of G.O.P. Debate Appearance</h3>
+<sub>By Shane Goldmacher</sub>
+<p>The North Dakota governor, a long-shot Republican presidential candidate, was taken to an emergency room Tuesday. The extent of his injury was unclear.  <a href="https://nyti.ms/3YKfQlc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>The Secrets of Debate Swag</h3>
+<sub>By Vanessa Friedman</sub>
+<p>Oh, the games campaigns play with political merch. They may surprise you.  <a href="https://nyti.ms/45FkUtG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>The Surprising Striver in the World’s Space Business</h3>
+<sub>By Alex Travelli</sub>
+<p>With at least 140 registered space-tech start-ups, India stands to transform the planet’s connection to the final frontier.  <a href="https://nyti.ms/46Milr9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, July 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Manliness, Prestige and Cash: How Military Service Is Sold on Russian TV</h3>
+<sub>By Anton Troianovski, Alina Lobzina, Sarah Kerr and Natalie Reneau</sub>
+<p>The Times tracked several months of Russian state messaging in the Kremlin’s effort to recruit soldiers.  <a href="https://nyti.ms/44gbQdD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>How a Small Gender Clinic Landed in a Political Storm</h3>
+<sub>By Azeen Ghorayshi</sub>
+<p>Washington University’s youth gender clinic in St. Louis, like others around the world, was overwhelmed by new patients and struggled to provide them with mental health care.  <a href="https://nyti.ms/45FkUKc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 23, Central Standard Time</sub></sub>
 <hr/>
 </ol>
