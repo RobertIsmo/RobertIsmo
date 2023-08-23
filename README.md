@@ -60,8 +60,26 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, August 22, Central Standard Time</p>
 <p>
-Right now, there are a lot of things happening in the world that are causing turmoil. In Ukraine, U.S. officials have expressed disagreement with how their forces and firepower are allocated, while Russian President Vladimir Putin seeks support from leaders of Brazil, India, China and South Africa at a much-watched BRICS Summit. Meanwhile in the U.S., former White House Chief of Staff Mark Meadows is going through a high-wire legal strategy connected to Trump inquiries while legal battles have begun in a case against Trump and allies in Georgia and witnesses in related cases have been changing lawyers. The nation&#39;s midsection is sweltering under a heat dome with more severe weather predicted to come as Canada criticizes Facebook for blocking news links amid devastating wildfires and an 8-person rescue ended happily when helicopters and a zip line were utilized to get people out of peril in remote Pakistan. And here at home, while some Republicans like Donald Trump are considering another presidential run for 2024, others in the party don&#39;t stand a chance yet are still running despite it. There&#39;s also disagreement over if his allies will be kept out of the Fox News spin room after Trump chose not to attend a debate. Phew!</p>
+There is a lot going on in the world right now. In the US, there are legal battles taking place against former President Trump and his allies regarding election interference in Georgia. We are seeing some conflict in Ukraine, where American strategists believe the troops are spread out over too wide an area. Families of those missing in Maui, Hawaii are desperately searching for their loved ones following devastating wildfires. Central US states have been sweltering under a heat dome, with precations needing to be taken to beat the heat. Meanwhile, Canadian officials have condemned Facebook for blocking news links while their country is dealing with its worst wildfire season ever. In Brazil, former president Jair Bolsonaro is facing multiple criminal charges, including one related to a Rolex gifted by Saudi Arabia that was bought at a mall in Pennsylvania. Lastly, there are quite a few Republicans who have announced they will be running for Presidency in 2024 despite having virtually no chance of beating Trump should he decide to run again. All these events leaving many wondering what will happen come debate time.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Legal Battles Begin in Case Against Trump and Allies in Georgia</h3>
+<sub>By Richard Fausset and Danny Hakim</sub>
+<p>Several of Mr. Trump’s co-defendants in the state racketeering case over election interference are seeking to have the matter transferred to federal court or dismissed entirely.  <a href="https://nyti.ms/45hGrZj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How Mark Meadows Pursued a High-Wire Legal Strategy in Trump Inquiries</h3>
+<sub>By Jonathan Swan, Alan Feuer, Luke Broadwater and Maggie Haberman</sub>
+<p>The former White House chief of staff, a key witness to Donald J. Trump’s efforts to remain in power after his 2020 election loss, maneuvered to provide federal prosecutors only what he had to.  <a href="https://nyti.ms/3P5J7nc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Witness in Trump Documents Case Changed Lawyers, and Then Testimony</h3>
+<sub>By Maggie Haberman and Alan Feuer</sub>
+<p>Federal prosecutors described the shift in a court filing that highlighted conflicts of interest in the overlapping legal representation of witnesses and defendants in the case.  <a href="https://nyti.ms/44hDVRD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 22, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Ukraine’s Forces and Firepower Are Misallocated, U.S. Officials Say</h3>
 <sub>By Eric Schmitt, Julian E. Barnes, Helene Cooper and Thomas Gibbons-Neff</sub>
@@ -75,33 +93,21 @@ Right now, there are a lot of things happening in the world that are causing tur
 <sub><sub>Tuesday, August 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Mark Meadows Pursued a High-Wire Legal Strategy in Trump Inquiries</h3>
-<sub>By Jonathan Swan, Alan Feuer, Luke Broadwater and Maggie Haberman</sub>
-<p>The former White House chief of staff, a key witness to Donald J. Trump’s efforts to remain in power after his 2020 election loss, maneuvered to provide federal prosecutors only what he had to.  <a href="https://nyti.ms/3P5J7nc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>For Families of Missing in Maui, Search Grows More Desperate</h3>
+<sub>By Jack Healy and Tim Arango</sub>
+<p>Hundreds of people are still unaccounted for after the deadly fires, and loved ones still hope for a “miracle.”  <a href="https://nyti.ms/3KTcdnk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Legal Battles Begin in Case Against Trump and Allies in Georgia</h3>
-<sub>By Richard Fausset and Danny Hakim</sub>
-<p>Several of Mr. Trump’s co-defendants in the state racketeering case over election interference are seeking to have the matter transferred to federal court or dismissed entirely.  <a href="https://nyti.ms/45hGrZj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Witness in Trump Documents Case Changed Lawyers, and Then Testimony</h3>
-<sub>By Maggie Haberman and Alan Feuer</sub>
-<p>Federal prosecutors described the shift in a court filing that highlighted conflicts of interest in the overlapping legal representation of witnesses and defendants in the case.  <a href="https://nyti.ms/44hDVRD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>In Several California Communities, Recovery Efforts Continue After the Storm</h3>
+<sub>By Sergio Olmos, Maggie Miles and Corina Knoll</sub>
+<p>While most of Southern California survived Tropical Storm Hilary without serious damage, a handful of mountain and desert areas east of Los Angeles were still trying to recover.  <a href="https://nyti.ms/3P6sbft"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Central U.S. Swelters Under Heat Dome, Forcing Cancellations and Precautions</h3>
 <sub>By Mitch Smith, Lauryn Higgins and Ann Hinga Klein</sub>
 <p>A summer of extreme weather continued as residents coped with oppressive heat across a large stretch of the nation’s midsection.  <a href="https://nyti.ms/3R7jMuT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Extreme August Arrives With a Warning: Expect More</h3>
-<sub>By Somini Sengupta</sub>
-<p>A mix of devastating wildfires, tropical storms, mudslides and heat waves foreshadows a future of intensified extremes as the world warms.  <a href="https://nyti.ms/3P7fPVl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -111,9 +117,9 @@ Right now, there are a lot of things happening in the world that are causing tur
 <sub><sub>Tuesday, August 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Helicopters, a Zip Line and Prayers: How a Cable Car Rescue Got Its Happy Ending</h3>
-<sub>By Christina Goldbaum, Zia ur-Rehman and Salman Masood</sub>
-<p>Eight people, including seven students heading to a nearby school, were saved after being stranded for hours hundreds of feet above a valley in a remote, mountainous region of Pakistan.  <a href="https://nyti.ms/3KOVmlI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>A Saudi Rolex Sold in a U.S. Mall Could Get Bolsonaro Arrested</h3>
+<sub>By Jack Nicas</sub>
+<p>Brazil’s former president, Jair Bolsonaro, is the target of multiple criminal investigations. One includes a watch, gifted by the Saudis, sold in a Pennsylvania mall.  <a href="https://nyti.ms/3shC9Tb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -126,12 +132,6 @@ Right now, there are a lot of things happening in the world that are causing tur
 <h3>Are You ‘as Tough as Trump?’: What Readers Want to Hear at the Debate</h3>
 <sub>By Jennifer Medina</sub>
 <p>More than 850 readers sent us their questions for the Republican candidates. Donald Trump was a hot topic, but not the only: “I don’t want to ask about the past,” one said.  <a href="https://nyti.ms/47FXPc1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Allies May Be Kept Out of Fox News Spin Room After Trump Shuns Debate</h3>
-<sub>By Maggie Astor</sub>
-<p>Fox News, which is hosting the event, will allow aides only for the candidates on the stage.  <a href="https://nyti.ms/3P4XYys"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
