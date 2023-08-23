@@ -60,22 +60,72 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, August 23, Central Standard Time</p>
 <p>
-There are a lot of interesting things happening in the world right now. In the US, there&#39;s a legal battle kicking off against Trump and his allies over election interference. There are also investigations into his attempts to stay in power after losing the 2020 election. Meanwhile, in Ukraine, US officials say their troops are spread out too thin and need to concentrate at the main front in the south. 
+It looks like the job market is heating up - people are now earning double the federal minimum wage, and even teenagers are getting higher wages. Meanwhile, in Japan, there&#39;s a new book that argues for &quot;degrowth communism&quot; as a way for the country to reinvigorate its economy.
 
-At a much-watched BRICS summit, Russian President Putin tried to rally support even though he couldn&#39;t attend in person due to war crimes charges against him. In Maui, families are desperately searching for missing loved ones after deadly fires, with over 1,000 still unaccounted for. In California, some mountain and desert areas east of Los Angeles are still recovering from Tropical Storm Hilary. And many central US states are sweltering under an oppressive heat dome.
+In U.S. politics, there&#39;s a big Republican debate coming up with major potential implications for the 2024 presidential election. And candidates have already started spending heavily on ads ahead of this debate in order to introduce themselves to as many voters as possible - including ad campaigns from Donald Trump looking forward to a matchup with President Biden.
 
-Internationally, investigations into Brazil&#39;s former President Jair Bolsonaro may involve an expensive Rolex gifted by the Saudis that was sold at a Pennsylvania mall! Back home, there are several Republicans running for President in 2024 even though it seems unlikely they&#39;ll be able to unseat Trump - Fox News is even refusing to let any of his allies enter its spin room for the upcoming debate. So it&#39;s definitely an interesting time!</p>
+In other news, Russian state messaging has been using military service promotions to appeal to a sense of manliness and prestige. And Washington University is struggling to provide mental health care to patients at its youth gender clinic in St. Louis due to an influx of new patients at the clinic.
+
+Finally, the race is on for private companies and agencies alike to land - or crash - on the moon safely. As for Trump himself, he&#39;s been highly critical of Joe Biden Jr.&#39;s son&#39;s overseas dealmaking, despite his own family having done plenty of their own such deals. And in a related court case about Trump documents, one witness changed lawyers and subsequently their testimony has caused some legal conflicts. Lastly, here on Earth, firefighters left a contained scene in Lahaina too soon only for it to become an inferno moments later -- leaving some residents alarmed that someone should have stayed instead.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Legal Battles Begin in Case Against Trump and Allies in Georgia</h3>
-<sub>By Richard Fausset and Danny Hakim</sub>
-<p>Several of Mr. Trump’s co-defendants in the state racketeering case over election interference are seeking to have the matter transferred to federal court or dismissed entirely.  <a href="https://nyti.ms/45hGrZj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>In a Hot Job Market, the Minimum Wage Becomes an Afterthought</h3>
+<sub>By Ben Casselman and Lydia DePillis</sub>
+<p>The federal wage floor of $7.25 is increasingly irrelevant when even most teenagers are earning twice that. But what happens when the economy cools?  <a href="https://nyti.ms/3QLWJWb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Can Shrinking Be Good for Japan? A Marxist Best Seller Makes the Case.</h3>
+<sub>By Ben Dooley and Hisako Ueno</sub>
+<p>Kohei Saito says the country should seize this moment of demographic and economic challenge to reinvent itself through “degrowth communism.”  <a href="https://nyti.ms/3QQM78q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Mark Meadows Pursued a High-Wire Legal Strategy in Trump Inquiries</h3>
-<sub>By Jonathan Swan, Alan Feuer, Luke Broadwater and Maggie Haberman</sub>
-<p>The former White House chief of staff, a key witness to Donald J. Trump’s efforts to remain in power after his 2020 election loss, maneuvered to provide federal prosecutors only what he had to.  <a href="https://nyti.ms/3P5J7nc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>9 Things That Will Shape Wednesday’s G.O.P. Debate</h3>
+<sub>By Lisa Lerer and Shane Goldmacher</sub>
+<p>Former President Donald J. Trump won’t be on the stage in Milwaukee, but his rivals still need to make a case to be the alternative.  <a href="https://nyti.ms/3YLnBYg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Beyond the Debate, Republicans Are Deep in the 2024 Ad Wars</h3>
+<sub>By Rebecca Davis O’Brien</sub>
+<p>Many of the party’s presidential candidates have spent heavily as they try to introduce themselves to voters. Ads for Donald Trump, meanwhile, look ahead to a matchup with President Biden.  <a href="https://nyti.ms/3ssuW2I"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>The First Debate and the Race for Second Place</h3>
+<sub>By Nate Cohn</sub>
+<p>Being No. 2 could be especially important next year, and Ramaswamy has been gaining on DeSantis.  <a href="https://nyti.ms/45ExoS5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>The Secrets of Debate Swag</h3>
+<sub>By Vanessa Friedman</sub>
+<p>Oh, the games campaigns play with political merch. They may surprise you.  <a href="https://nyti.ms/45FkUtG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Manliness, Prestige and Cash: How Military Service Is Sold on Russian TV</h3>
+<sub>By Anton Troianovski, Alina Lobzina, Sarah Kerr and Natalie Reneau</sub>
+<p>The Times tracked several months of Russian state messaging in the Kremlin’s effort to recruit soldiers.  <a href="https://nyti.ms/44gbQdD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>How a Small Gender Clinic Landed in a Political Storm</h3>
+<sub>By Azeen Ghorayshi</sub>
+<p>Washington University’s youth gender clinic in St. Louis, like others around the world, was overwhelmed by new patients and struggled to provide them with mental health care.  <a href="https://nyti.ms/45FkUKc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>Racing to Land, or Crash, on the Moon</h3>
+<sub>By Jonathan Corum</sub>
+<p>Six decades of crashes, belly flops and hard landings on the lunar surface.  <a href="https://nyti.ms/3E6Ph09"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>To Trump, Foreign Business Is Scandalous, Unless It’s His Own</h3>
+<sub>By Peter Baker</sub>
+<p>Donald J. Trump has berated Joseph R. Biden Jr. for his son’s overseas deal making, despite plenty of overseas deal making by the Trump family.  <a href="https://nyti.ms/3smiRMF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -85,58 +135,10 @@ Internationally, investigations into Brazil&#39;s former President Jair Bolsonar
 <sub><sub>Tuesday, August 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Ukraine’s Forces and Firepower Are Misallocated, U.S. Officials Say</h3>
-<sub>By Eric Schmitt, Julian E. Barnes, Helene Cooper and Thomas Gibbons-Neff</sub>
-<p>American strategists say Ukraine’s troops are too spread out and need to concentrate along the counteroffensive’s main front in the south.  <a href="https://nyti.ms/45giwJS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>At a Much-Watched BRICS Summit, Putin Tries to Rally Support</h3>
-<sub>By Lynsey Chutel</sub>
-<p>Leaders of Brazil, India, China and South Africa addressed other topics, but Russia’s president, unable to attend in person because he is wanted for war crimes, put the war in Ukraine at center stage in the meeting.  <a href="https://nyti.ms/3YNyWar"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>For Families of Missing in Maui, Search Grows More Desperate</h3>
-<sub>By Jack Healy and Tim Arango</sub>
-<p>Hundreds of people are still unaccounted for after the deadly fires, and loved ones hope for a “miracle.”  <a href="https://nyti.ms/3KTcdnk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>With Reported Missing in Maui Topping 1,000, Officials Will Release Names</h3>
-<sub>By Tim Arango and Jack Healy</sub>
-<p>Investigators in Hawaii hope that making the names public will narrow the search, as happened after the 2018 Camp fire, which killed 85 people in California.  <a href="https://nyti.ms/45i5FXv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Several California Communities, Recovery Efforts Continue After the Storm</h3>
-<sub>By Sergio Olmos, Maggie Miles and Corina Knoll</sub>
-<p>While most of Southern California survived Tropical Storm Hilary without serious damage, a handful of mountain and desert areas east of Los Angeles were still trying to recover.  <a href="https://nyti.ms/3P6sbft"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Central U.S. Swelters Under Heat Dome, Forcing Cancellations and Precautions</h3>
-<sub>By Mitch Smith, Lauryn Higgins and Ann Hinga Klein</sub>
-<p>A summer of extreme weather continued as residents coped with oppressive heat across a large stretch of the nation’s midsection.  <a href="https://nyti.ms/3R7jMuT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Saudi Rolex Sold in a U.S. Mall Could Get Bolsonaro Arrested</h3>
-<sub>By Jack Nicas</sub>
-<p>Brazil’s former president, Jair Bolsonaro, is the target of multiple criminal investigations. One includes a watch, gifted by the Saudis, sold in a Pennsylvania mall.  <a href="https://nyti.ms/3shC9Tb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>With Little Chance in 2024, Why Are These Republicans Even Running?</h3>
-<sub>By Trip Gabriel</sub>
-<p>The 2024 Republican field has a number of contenders who have almost no chance to take down Donald Trump. So why do they run?  <a href="https://nyti.ms/3qP8nEW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Allies May Be Kept Out of Fox News Spin Room After Trump Shuns Debate</h3>
-<sub>By Maggie Astor</sub>
-<p>Fox News, which is hosting the event, will allow aides only for the candidates on the stage.  <a href="https://nyti.ms/3P4XYys"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 22, Central Standard Time</sub></sub>
+<h3>Lahaina Inferno Began After Firefighters Departed a ‘Contained’ Scene</h3>
+<sub>By Serge F. Kovaleski and Mike Baker</sub>
+<p>Some residents said they were alarmed when fire crews left the site of an early-morning fire: “Someone should have stayed.”  <a href="https://nyti.ms/3OIfSFT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 23, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
