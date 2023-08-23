@@ -60,7 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, August 23, Central Standard Time</p>
 <p>
-Right now, there are a lot of legal battles going on in the US. Donald Trump and his allies are facing a racketeering case for election interference, and many of them are seeking to have the case transferred to federal court or dismissed. Mark Meadows is one of the witnesses who had worked closely with Donald Trump in trying to challenge the 2020 election results. In Ukraine, there is talk of misallocating troops and fire power in their fight against separatists. On a lighter note, there was a BRICS summit that addressed several topics, but it was led by Russian President Vladimir Putin who was not in person due to war crimes allegations imposed on him. In Hawaii, the missing people from the recent Maui fires has surpassed 1,000, and officials will soon release the names publicly to help in the search. Other parts of California are still recovering from storm damage caused by Hilary. Moving around US and into central regions, an oppressive heat dome is affecting many people day-to-day. Across oceans again into Brazil, a Saudi Rolex watch sold in US malls could possibly lead to Jair Bolsonaro’s arrest if it hinges on criminal investigation leads. Last but not least, several Republic candidates are running for president in 2024 even if they don&#39;t stand a chance against Donald Trump</p>
+There are a lot of interesting things happening in the world right now. In the US, there&#39;s a legal battle kicking off against Trump and his allies over election interference. There are also investigations into his attempts to stay in power after losing the 2020 election. Meanwhile, in Ukraine, US officials say their troops are spread out too thin and need to concentrate at the main front in the south. 
+
+At a much-watched BRICS summit, Russian President Putin tried to rally support even though he couldn&#39;t attend in person due to war crimes charges against him. In Maui, families are desperately searching for missing loved ones after deadly fires, with over 1,000 still unaccounted for. In California, some mountain and desert areas east of Los Angeles are still recovering from Tropical Storm Hilary. And many central US states are sweltering under an oppressive heat dome.
+
+Internationally, investigations into Brazil&#39;s former President Jair Bolsonaro may involve an expensive Rolex gifted by the Saudis that was sold at a Pennsylvania mall! Back home, there are several Republicans running for President in 2024 even though it seems unlikely they&#39;ll be able to unseat Trump - Fox News is even refusing to let any of his allies enter its spin room for the upcoming debate. So it&#39;s definitely an interesting time!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Legal Battles Begin in Case Against Trump and Allies in Georgia</h3>
@@ -129,9 +133,9 @@ Right now, there are a lot of legal battles going on in the US. Donald Trump and
 <sub><sub>Tuesday, August 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Are You ‘as Tough as Trump?’: What Readers Want to Hear at the Debate</h3>
-<sub>By Jennifer Medina</sub>
-<p>More than 850 readers sent us their questions for the Republican candidates. Donald Trump was a hot topic, but not the only: “I don’t want to ask about the past,” one said.  <a href="https://nyti.ms/47FXPc1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Trump Allies May Be Kept Out of Fox News Spin Room After Trump Shuns Debate</h3>
+<sub>By Maggie Astor</sub>
+<p>Fox News, which is hosting the event, will allow aides only for the candidates on the stage.  <a href="https://nyti.ms/3P4XYys"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
