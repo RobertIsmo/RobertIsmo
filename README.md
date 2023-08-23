@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Tuesday, August 22, Central Standard Time</p>
+<p>It is Wednesday, August 23, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In the US, there are legal battles taking place against former President Trump and his allies regarding election interference in Georgia. We are seeing some conflict in Ukraine, where American strategists believe the troops are spread out over too wide an area. Families of those missing in Maui, Hawaii are desperately searching for their loved ones following devastating wildfires. Central US states have been sweltering under a heat dome, with precations needing to be taken to beat the heat. Meanwhile, Canadian officials have condemned Facebook for blocking news links while their country is dealing with its worst wildfire season ever. In Brazil, former president Jair Bolsonaro is facing multiple criminal charges, including one related to a Rolex gifted by Saudi Arabia that was bought at a mall in Pennsylvania. Lastly, there are quite a few Republicans who have announced they will be running for Presidency in 2024 despite having virtually no chance of beating Trump should he decide to run again. All these events leaving many wondering what will happen come debate time.</p>
+Right now, there are a lot of legal battles going on in the US. Donald Trump and his allies are facing a racketeering case for election interference, and many of them are seeking to have the case transferred to federal court or dismissed. Mark Meadows is one of the witnesses who had worked closely with Donald Trump in trying to challenge the 2020 election results. In Ukraine, there is talk of misallocating troops and fire power in their fight against separatists. On a lighter note, there was a BRICS summit that addressed several topics, but it was led by Russian President Vladimir Putin who was not in person due to war crimes allegations imposed on him. In Hawaii, the missing people from the recent Maui fires has surpassed 1,000, and officials will soon release the names publicly to help in the search. Other parts of California are still recovering from storm damage caused by Hilary. Moving around US and into central regions, an oppressive heat dome is affecting many people day-to-day. Across oceans again into Brazil, a Saudi Rolex watch sold in US malls could possibly lead to Jair Bolsonaro’s arrest if it hinges on criminal investigation leads. Last but not least, several Republic candidates are running for president in 2024 even if they don&#39;t stand a chance against Donald Trump</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Legal Battles Begin in Case Against Trump and Allies in Georgia</h3>
@@ -95,7 +95,13 @@ There is a lot going on in the world right now. In the US, there are legal battl
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>For Families of Missing in Maui, Search Grows More Desperate</h3>
 <sub>By Jack Healy and Tim Arango</sub>
-<p>Hundreds of people are still unaccounted for after the deadly fires, and loved ones still hope for a “miracle.”  <a href="https://nyti.ms/3KTcdnk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Hundreds of people are still unaccounted for after the deadly fires, and loved ones hope for a “miracle.”  <a href="https://nyti.ms/3KTcdnk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>With Reported Missing in Maui Topping 1,000, Officials Will Release Names</h3>
+<sub>By Tim Arango and Jack Healy</sub>
+<p>Investigators in Hawaii hope that making the names public will narrow the search, as happened after the 2018 Camp fire, which killed 85 people in California.  <a href="https://nyti.ms/45i5FXv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -108,12 +114,6 @@ There is a lot going on in the world right now. In the US, there are legal battl
 <h3>Central U.S. Swelters Under Heat Dome, Forcing Cancellations and Precautions</h3>
 <sub>By Mitch Smith, Lauryn Higgins and Ann Hinga Klein</sub>
 <p>A summer of extreme weather continued as residents coped with oppressive heat across a large stretch of the nation’s midsection.  <a href="https://nyti.ms/3R7jMuT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Canadian Officials Condemn Facebook for News Ban as Wildfires Burn</h3>
-<sub>By Remy Tumin</sub>
-<p>Prime Minister Justin Trudeau said it was “inconceivable” that the platform had responded to a new licensing law by blocking news links, as the country confronts its worst wildfire season on record.  <a href="https://nyti.ms/3smL1ae"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
