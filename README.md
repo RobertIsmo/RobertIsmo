@@ -60,33 +60,25 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, August 24, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In the United States, there was a Republican debate where Donald Trump was only given 10 minutes for questions from the moderators. At an event held at the Richard Nixon Presidential Library, traditional Republicans looked forward to seeing what could be in store with a post-Trump era. On a different note, Rudy Giuliani (Donald Trump&#39;s former lawyer) surrendered at a Georgia jail when he was indicted for election fraud. There are also some incentives coming from Biden which are intended to shift the makeup of foreign investments. 
-
-On a more technological level, there has been an increase in demand for artificial intelligence chips, helping Nvidia&#39;s revenue to double and possibly triple in their next quarter. A 30 year old woman who cannot speak due to a stroke is receiving treatment to help her communicate, using brain activity to control an avatar which speaks for her. 
-
-India is continuing its success in space exploration as well, with Chandrayaan-3 mission succeeding and India becoming the first country to reach the lunar south polar region in one piece. There has also been a study about gender surgeries increasing almost threefold from 2016-2019 due to access broadening. 
-
-There is even an update about two men convicted of a grisly murder in 1993 potentially getting new trials, all because someone theorized Richard Matt (who escaped prison during one of New York&#39;s most famous jailbreaks) was involved too. 
-
-Overall it&#39;s been quite thematic with moral cowardice being displayed in different arenas and people pushing for change - politically, biologically, technologically - being successful!</p>
+Recently, there has been a lot going on around the world. At the Republican presidential debate, the candidates mostly left their party’s front-runner Donald Trump unscathed, though he got only ten minutes of questions from the moderators. In Moscow, the American reporter Evan Gershkovich has been wrongfully detained and his pretrial detention was extended by a court. Meanwhile, Mr. Giuliani, Donald Trump&#39;s personal lawyer in the aftermath of the 2020 election, surrendered at a jail in Georgia election case. Biden incentives for foreign investment are benefiting factories but have not yet increased investment. The company NVIDIA is seeing huge success with its artificial intelligence chips and is nearly tripling revenue from last year. A paralyzed woman is regaining her speech ability through AI and India has had a successful space mission with its Chandrayaan-3 mission making it the first country to reach the lunar south polar region in one piece. Brazil, Russia, India, China and South Africa have invited six countries to join their club of emerging nations and two men convicted for a grisly 1993 murder were granted new trials after an explosive claim came out linking it to Richard Matt (one of two escapees from one of New York’s most famous jailbreaks). Finally, opinion pieces have been circulating discussing Republican moral cowardice and an individual’s ultimate betrayal in Putin’s Russia.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Ramaswamy Seizes Spotlight as DeSantis Hangs Back: 7 Debate Takeaways</h3>
+<sub>By Shane Goldmacher, Jonathan Swan and Maggie Haberman</sub>
+<p>As Republican presidential candidates traded fire at their first debate, they mostly left their party’s dominant front-runner unscathed.  <a href="https://nyti.ms/3YMUwLX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>A Fox News Debate That Skimped on ‘the Elephant Not in the Room’</h3>
 <sub>By Michael M. Grynbaum</sub>
 <p>Donald J. Trump is the most important figure in the Republican Party, but he merited only 10 minutes of questions from the moderators, Bret Baier and Martha MacCallum.  <a href="https://nyti.ms/3KSirUy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>From a G.O.P. Stronghold, Debate Watchers Cheered Signs of a Post-Trump Era</h3>
-<sub>By Jennifer Medina</sub>
-<p>A debate watch party at the Richard Nixon Presidential Library drew traditional Republicans pining for the policy debates of the past. They left happy.  <a href="https://nyti.ms/3R9dBqb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The fates of two men key to Putin’s war are now both in question.</h3>
-<sub>By Anton Troianovski</sub>
-<p>  <a href="https://nyti.ms/45mvTZ3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 23, Central Standard Time</sub></sub>
+<h3>Russia Extends Pretrial Detention of Evan Gershkovich</h3>
+<sub>By Valeriya Safronova</sub>
+<p>A Moscow court on Thursday extended the pretrial detention of the American reporter who has denied the espionage charges he faces. The U.S. says he has been wrongfully detained.  <a href="https://nyti.ms/3KURCiJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Giuliani Surrenders at Jail in Georgia Election Case</h3>
@@ -118,17 +110,11 @@ Overall it&#39;s been quite thematic with moral cowardice being displayed in dif
 <p>The Chandrayaan-3 mission makes India the first country to reach the lunar south polar region in one piece and adds to the achievements of the country’s homegrown space program.  <a href="https://nyti.ms/3stp5Kt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>How a Small Gender Clinic Landed in a Political Storm</h3>
-<sub>By Azeen Ghorayshi</sub>
-<p>Washington University’s youth gender clinic in St. Louis, like others around the world, was overwhelmed by new patients and struggled to provide them with mental health care.  <a href="https://nyti.ms/45FkUKc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Gender Surgeries Nearly Tripled From 2016 Through 2019, Study Finds</h3>
-<sub>By Emily Baumgaertner</sub>
-<p>The number of procedures rose to roughly 13,000 in 2019 from about 4,550 in 2016 as access broadened, researchers estimated.  <a href="https://nyti.ms/3OOuoM3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 23, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The BRICS Group Announces New Members, Expanding Its Reach</h3>
+<sub>By Lynsey Chutel</sub>
+<p>Argentina, Egypt, Ethiopia, Iran, the U.A.E. and Saudi Arabia have been invited to join the club of emerging nations, strengthening its role as a geopolitical alternative to Western-led forums.  <a href="https://nyti.ms/3QNL1KH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Judge Orders New Trials for 2 Men Convicted in Grisly ’93 Murder</h3>
@@ -140,6 +126,12 @@ Overall it&#39;s been quite thematic with moral cowardice being displayed in dif
 <h3>At the Republican Debate, an Infuriating Display of Moral Cowardice</h3>
 <sub>By Frank Bruni</sub>
 <p>The candidates refused to tell the full truth about Trump’s lies.  <a href="https://nyti.ms/3QSBzWn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>What Prigozhin Did in Putin’s Russia Was the Ultimate Betrayal</h3>
+<sub>By Serge Schmemann</sub>
+<p>His fate may have already been sealed.  <a href="https://nyti.ms/47MHv9c"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
 <hr/>
 </ol>
