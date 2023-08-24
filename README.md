@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, August 24, Central Standard Time</p>
 <p>
-Recently, there has been a lot going on around the world. At the Republican presidential debate, the candidates mostly left their party’s front-runner Donald Trump unscathed, though he got only ten minutes of questions from the moderators. In Moscow, the American reporter Evan Gershkovich has been wrongfully detained and his pretrial detention was extended by a court. Meanwhile, Mr. Giuliani, Donald Trump&#39;s personal lawyer in the aftermath of the 2020 election, surrendered at a jail in Georgia election case. Biden incentives for foreign investment are benefiting factories but have not yet increased investment. The company NVIDIA is seeing huge success with its artificial intelligence chips and is nearly tripling revenue from last year. A paralyzed woman is regaining her speech ability through AI and India has had a successful space mission with its Chandrayaan-3 mission making it the first country to reach the lunar south polar region in one piece. Brazil, Russia, India, China and South Africa have invited six countries to join their club of emerging nations and two men convicted for a grisly 1993 murder were granted new trials after an explosive claim came out linking it to Richard Matt (one of two escapees from one of New York’s most famous jailbreaks). Finally, opinion pieces have been circulating discussing Republican moral cowardice and an individual’s ultimate betrayal in Putin’s Russia.</p>
+It seems like a lot has been going on in the world lately! In the US, there was a Republican presidential debate with all the candidates trying to gain attention. We&#39;ve also been hearing news about an American reporter wrongfully detained in Russia. There has been a plane crash involving a prominent mercenary leader from Russia, and a housing crisis in China. There&#39;s also a new law allowing residents of Connecticut to shoot bears in certain circumstances. Meanwhile, schools are starting to use artificial intelligence (A.I.) more widely, and the BRICS group has invited six additional countries to join its forum as a geopolitical alternative to Western-led ones.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Ramaswamy Seizes Spotlight as DeSantis Hangs Back: 7 Debate Takeaways</h3>
@@ -68,70 +68,70 @@ Recently, there has been a lot going on around the world. At the Republican pres
 <p>As Republican presidential candidates traded fire at their first debate, they mostly left their party’s dominant front-runner unscathed.  <a href="https://nyti.ms/3YMUwLX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>A Fox News Debate That Skimped on ‘the Elephant Not in the Room’</h3>
-<sub>By Michael M. Grynbaum</sub>
-<p>Donald J. Trump is the most important figure in the Republican Party, but he merited only 10 minutes of questions from the moderators, Bret Baier and Martha MacCallum.  <a href="https://nyti.ms/3KSirUy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Who Won the Debate? Political Observers Weigh In.</h3>
+<sub>By Michael Gold</sub>
+<p>Commentators largely agreed that little seemed to alter the state of a race in which Donald J. Trump appears the runaway favorite.  <a href="https://nyti.ms/3PaISrl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Republicans’ Onstage Clashes Highlight Fault Lines Within the Party</h3>
+<sub>By Alan Rappeport</sub>
+<p>At the first presidential debate for the 2024 race, the rivals were divided over issues including Ukraine, abortion and the economy.  <a href="https://nyti.ms/47EhBVn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>What to Know About the Plane Crash Linked to Yevgeny Prigozhin</h3>
+<sub>By Matthew Mpoke Bigg</sub>
+<p>The Wagner mercenary group leader, who staged a short-lived mutiny against Russia’s military leadership in June, was listed as a passenger on a plane that crashed on Wednesday. Here’s what to know.  <a href="https://nyti.ms/45juP8v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Russia Extends Pretrial Detention of Evan Gershkovich</h3>
 <sub>By Valeriya Safronova</sub>
-<p>A Moscow court on Thursday extended the pretrial detention of the American reporter who has denied the espionage charges he faces. The U.S. says he has been wrongfully detained.  <a href="https://nyti.ms/3KURCiJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>A Moscow court on Thursday extended the pretrial detention of the American reporter, who has denied the espionage charges he faces. The U.S. says he has been wrongfully detained.  <a href="https://nyti.ms/3KURCiJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Giuliani Surrenders at Jail in Georgia Election Case</h3>
-<sub>By Danny Hakim, Maggie Haberman and Richard Fausset</sub>
-<p>Mr. Giuliani, whose bond was set at $150,000, served as Donald Trump’s personal lawyer in the aftermath of the 2020 election. Another defendant requested a speedy trial on Wednesday.  <a href="https://nyti.ms/47KgDXx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Incentives for Foreign Investment Are Benefiting Factories</h3>
-<sub>By Jim Tankersley</sub>
-<p>Early data suggest laws to increase semiconductor production and renewable energy technology have shifted the makeup of foreign direct investment — but not increased it.  <a href="https://nyti.ms/3Pa2fjW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 23, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Despite Cheating Fears, Schools Repeal ChatGPT Bans</h3>
+<sub>By Natasha Singer</sub>
+<p>Some districts that once raced to block A.I. chatbots are now trying to embrace them.  <a href="https://nyti.ms/3YNmffC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Nvidia Revenue Doubles on Demand for A.I. Chips, and Could Go Higher</h3>
-<sub>By Don Clark</sub>
-<p>Sales for the current quarter will nearly triple their total a year ago, said the company, which makes chips essential to the development of A.I. systems.  <a href="https://nyti.ms/3qITBQd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 23, Central Standard Time</sub></sub>
+<h3>How Schools Can Survive (and Maybe Even Thrive) With A.I. This Fall</h3>
+<sub>By Kevin Roose</sub>
+<p>Step 1: Assume all students are going to use the technology.  <a href="https://nyti.ms/3KUqEaG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>A Stroke Stole Her Ability to Speak at 30. A.I. Is Helping to Restore It Years Later.</h3>
-<sub>By Pam Belluck</sub>
-<p>The brain activity of a paralyzed woman is being translated into words spoken by an avatar. This milestone could help others who have lost speech.  <a href="https://nyti.ms/3QQVbdh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 23, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>How teachers and students feel about A.I.</h3>
+<sub>By Natasha Singer</sub>
+<p>As the school year begins, their thinking has evolved.  <a href="https://nyti.ms/47MdVB2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>‘India Is on the Moon’: Lander’s Success Moves Nation to Next Space Chapter</h3>
-<sub>By Hari Kumar, Alex Travelli, Mujib Mashal and Kenneth Chang</sub>
-<p>The Chandrayaan-3 mission makes India the first country to reach the lunar south polar region in one piece and adds to the achievements of the country’s homegrown space program.  <a href="https://nyti.ms/3stp5Kt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 23, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Bears Are Running Amok in Connecticut. State Gives OK to Shoot Them.</h3>
+<sub>By Amelia Nierenberg</sub>
+<p>A new law allows residents to kill bears in certain circumstances. But some residents want a full-fledged bear hunt, allowed in almost every nearby state.  <a href="https://nyti.ms/3QV1HzR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>How China Made Its Housing Crisis Worse</h3>
+<sub>By Keith Bradsher</sub>
+<p>Years of inattention to building an adequate safety net for seniors, the jobless and others in financial stress have left Chinese consumers afraid to spend.  <a href="https://nyti.ms/47MdB5i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>The Unusual Legal Agreement Behind ‘The Blind Side’</h3>
+<sub>By Santul Nerkar</sub>
+<p>Michael Oher says Sean and Leigh Anne Tuohy used their relationship with him to unfairly profit from his story. They have denied it.  <a href="https://nyti.ms/47I3vlM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>The BRICS Group Announces New Members, Expanding Its Reach</h3>
 <sub>By Lynsey Chutel</sub>
 <p>Argentina, Egypt, Ethiopia, Iran, the U.A.E. and Saudi Arabia have been invited to join the club of emerging nations, strengthening its role as a geopolitical alternative to Western-led forums.  <a href="https://nyti.ms/3QNL1KH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Judge Orders New Trials for 2 Men Convicted in Grisly ’93 Murder</h3>
-<sub>By Jesse McKinley, Danny Hakim and Ed Shanahan</sub>
-<p>An explosive claim in the murder of a young mother outside Buffalo had led to theories of another possible culprit: Richard Matt, one of two escapees in one of New York’s most famous jailbreaks.  <a href="https://nyti.ms/3slWmYa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>At the Republican Debate, an Infuriating Display of Moral Cowardice</h3>
-<sub>By Frank Bruni</sub>
-<p>The candidates refused to tell the full truth about Trump’s lies.  <a href="https://nyti.ms/3QSBzWn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>What Prigozhin Did in Putin’s Russia Was the Ultimate Betrayal</h3>
-<sub>By Serge Schmemann</sub>
-<p>His fate may have already been sealed.  <a href="https://nyti.ms/47MHv9c"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
 <hr/>
 </ol>
