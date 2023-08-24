@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, August 24, Central Standard Time</p>
 <p>
-It seems like a lot has been going on in the world lately! In the US, there was a Republican presidential debate with all the candidates trying to gain attention. We&#39;ve also been hearing news about an American reporter wrongfully detained in Russia. There has been a plane crash involving a prominent mercenary leader from Russia, and a housing crisis in China. There&#39;s also a new law allowing residents of Connecticut to shoot bears in certain circumstances. Meanwhile, schools are starting to use artificial intelligence (A.I.) more widely, and the BRICS group has invited six additional countries to join its forum as a geopolitical alternative to Western-led ones.</p>
+I have some news stories about what is happening in the world today. In the US, Republican presidential candidates debated each other but mostly left the party’s front runner unscathed. Meanwhile, America has made charges of espionage against an American reporter being held in Russia. In Connecticut, there have been a lot of bear encounters so they decided to allow residents to shoot bears in certain circumstances. In China, a housing crisis has been made worse by years of government neglect. Meanwhile, Donald Trump is shaking up his legal team ahead of being booked in Atlanta. And finally, there are legal issues with the movie &#39;The Blind Side&#39; because Michael Oher says that Sean and Leigh Anne Tuohy used their relationship with him to make money off his story.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Ramaswamy Seizes Spotlight as DeSantis Hangs Back: 7 Debate Takeaways</h3>
@@ -72,12 +72,6 @@ It seems like a lot has been going on in the world lately! In the US, there was 
 <h3>Who Won the Debate? Political Observers Weigh In.</h3>
 <sub>By Michael Gold</sub>
 <p>Commentators largely agreed that little seemed to alter the state of a race in which Donald J. Trump appears the runaway favorite.  <a href="https://nyti.ms/3PaISrl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Republicans’ Onstage Clashes Highlight Fault Lines Within the Party</h3>
-<sub>By Alan Rappeport</sub>
-<p>At the first presidential debate for the 2024 race, the rivals were divided over issues including Ukraine, abortion and the economy.  <a href="https://nyti.ms/47EhBVn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -111,9 +105,9 @@ It seems like a lot has been going on in the world lately! In the US, there was 
 <sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Bears Are Running Amok in Connecticut. State Gives OK to Shoot Them.</h3>
+<h3>A State Plagued by Bear Encounters Turns to an Old Solution: Guns</h3>
 <sub>By Amelia Nierenberg</sub>
-<p>A new law allows residents to kill bears in certain circumstances. But some residents want a full-fledged bear hunt, allowed in almost every nearby state.  <a href="https://nyti.ms/3QV1HzR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>A Connecticut law allows residents to kill bears in certain circumstances. But some residents want a full-fledged bear hunt, allowed in almost every nearby state.  <a href="https://nyti.ms/3QV1HzR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -122,16 +116,22 @@ It seems like a lot has been going on in the world lately! In the US, there was 
 <p>Years of inattention to building an adequate safety net for seniors, the jobless and others in financial stress have left Chinese consumers afraid to spend.  <a href="https://nyti.ms/47MdB5i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Shakes Up His Georgia Legal Team Ahead of Atlanta Booking</h3>
+<sub>By Richard Fausset, Maggie Haberman and Danny Hakim</sub>
+<p>Mr. Trump is hiring Steve Sadow, a veteran criminal defense lawyer in Atlanta who has taken on a number of high-profile cases.  <a href="https://nyti.ms/3OOAjB5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Keeping Track of the Trump Investigations</h3>
+<sub>By The New York Times</sub>
+<p>See a guide to the major criminal cases involving the former president.  <a href="https://nyti.ms/3Q9udxn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 26, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>The Unusual Legal Agreement Behind ‘The Blind Side’</h3>
 <sub>By Santul Nerkar</sub>
 <p>Michael Oher says Sean and Leigh Anne Tuohy used their relationship with him to unfairly profit from his story. They have denied it.  <a href="https://nyti.ms/47I3vlM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The BRICS Group Announces New Members, Expanding Its Reach</h3>
-<sub>By Lynsey Chutel</sub>
-<p>Argentina, Egypt, Ethiopia, Iran, the U.A.E. and Saudi Arabia have been invited to join the club of emerging nations, strengthening its role as a geopolitical alternative to Western-led forums.  <a href="https://nyti.ms/3QNL1KH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
 <hr/>
 </ol>
