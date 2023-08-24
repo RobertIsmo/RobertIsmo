@@ -60,48 +60,46 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, August 24, Central Standard Time</p>
 <p>
-I have some news stories about what is happening in the world today. In the US, Republican presidential candidates debated each other but mostly left the party’s front runner unscathed. Meanwhile, America has made charges of espionage against an American reporter being held in Russia. In Connecticut, there have been a lot of bear encounters so they decided to allow residents to shoot bears in certain circumstances. In China, a housing crisis has been made worse by years of government neglect. Meanwhile, Donald Trump is shaking up his legal team ahead of being booked in Atlanta. And finally, there are legal issues with the movie &#39;The Blind Side&#39; because Michael Oher says that Sean and Leigh Anne Tuohy used their relationship with him to make money off his story.</p>
+There has been a lot of political news this week. The United States had its first Republican debate with eight candidates on stage, and it was an interesting one due to the fact that Donald Trump was not part of it. In other election-related news, House Republicans have begun looking into Fani Willis, the Fulton County district attorney in Atlanta, ahead of President Trump&#39;s upcoming booking in the area. 
+
+In international news, there is speculation as to whether or not Russian business leader Prigozhin was killed in a plane crash. Both the Wagner Group and Russian government have yet to confirm his death. The BRICS Group has also recently expanded their reach by inviting Argentina, Egypt, Ethiopia, Iran, the U.A.E., and Saudi Arabia into the club of emerging nations. 
+
+On a lighter note, there&#39;s also been some entertainment news this week. Olivia Rodrigo has taken over the pop music scene with her hit albums &quot;Sour&quot; and “Guts”; and Michael Oher is reopening a legal agreement from &quot;The Blind Side&quot; movie. Lastly, people around the world are turning to tiny forests to help reduce climate change and China is attempting to build a safety net for seniors and other financially distressed citizens amidst their housing crisis.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Ramaswamy Seizes Spotlight as DeSantis Hangs Back: 7 Debate Takeaways</h3>
-<sub>By Shane Goldmacher, Jonathan Swan and Maggie Haberman</sub>
-<p>As Republican presidential candidates traded fire at their first debate, they mostly left their party’s dominant front-runner unscathed.  <a href="https://nyti.ms/3YMUwLX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Who Won the Debate? Political Observers Weigh In.</h3>
-<sub>By Michael Gold</sub>
-<p>Commentators largely agreed that little seemed to alter the state of a race in which Donald J. Trump appears the runaway favorite.  <a href="https://nyti.ms/3PaISrl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>What to Know About the Plane Crash Linked to Yevgeny Prigozhin</h3>
-<sub>By Matthew Mpoke Bigg</sub>
-<p>The Wagner mercenary group leader, who staged a short-lived mutiny against Russia’s military leadership in June, was listed as a passenger on a plane that crashed on Wednesday. Here’s what to know.  <a href="https://nyti.ms/45juP8v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Was Prigozhin Killed in the Plane Crash? It Will Take Time to Confirm, Milley Says.</h3>
+<sub>By Helene Cooper</sub>
+<p>The Wagner Group has not confirmed its leader’s death, nor has the Russian government.  <a href="https://nyti.ms/3P8nnr0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia Extends Pretrial Detention of Evan Gershkovich</h3>
-<sub>By Valeriya Safronova</sub>
-<p>A Moscow court on Thursday extended the pretrial detention of the American reporter, who has denied the espionage charges he faces. The U.S. says he has been wrongfully detained.  <a href="https://nyti.ms/3KURCiJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>At First Debate, a Glimpse of Trumpism Without Trump</h3>
+<sub>By Lisa Lerer</sub>
+<p>At times onstage, Republican rivals could imagine the primary race was about issues, ideology and biography. Then reality set in.  <a href="https://nyti.ms/3KUGC4P"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Despite Cheating Fears, Schools Repeal ChatGPT Bans</h3>
-<sub>By Natasha Singer</sub>
-<p>Some districts that once raced to block A.I. chatbots are now trying to embrace them.  <a href="https://nyti.ms/3YNmffC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>The First Republican Debate Starred Eight Candidates and a Ghost</h3>
+<sub>By James Poniewozik</sub>
+<p>A strange evening on Fox News was most passionate when it involved the contestant who didn’t show up.  <a href="https://nyti.ms/45oh4oL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>How Schools Can Survive (and Maybe Even Thrive) With A.I. This Fall</h3>
-<sub>By Kevin Roose</sub>
-<p>Step 1: Assume all students are going to use the technology.  <a href="https://nyti.ms/3KUqEaG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Shakes Up His Georgia Legal Team Ahead of Atlanta Booking</h3>
+<sub>By Richard Fausset, Maggie Haberman and Danny Hakim</sub>
+<p>Mr. Trump is hiring Steve Sadow, a veteran criminal defense lawyer in Atlanta who has taken on a number of high-profile cases.  <a href="https://nyti.ms/3OOAjB5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>How teachers and students feel about A.I.</h3>
-<sub>By Natasha Singer</sub>
-<p>As the school year begins, their thinking has evolved.  <a href="https://nyti.ms/47MdVB2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>House Republicans Begin Investigating Willis Before Trump’s Atlanta Booking</h3>
+<sub>By Luke Broadwater</sub>
+<p>The launch of an inquiry into Fani Willis, the Fulton County, Ga., district attorney, was the latest example of how the former president’s allies in Congress are using their majority to try to protect him.  <a href="https://nyti.ms/47NQ3wQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Olivia Rodrigo, Pop’s Brightest New Hope, Just May Be a Rock Star</h3>
+<sub>By Caryn Ganz</sub>
+<p>After the blockbuster success of her debut LP, “Sour,” and its smash “Drivers License,” the 20-year-old cranks up the volume and digs deep for its powerful follow-up, “Guts.”  <a href="https://nyti.ms/47O2W9Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -116,22 +114,28 @@ I have some news stories about what is happening in the world today. In the US, 
 <p>Years of inattention to building an adequate safety net for seniors, the jobless and others in financial stress have left Chinese consumers afraid to spend.  <a href="https://nyti.ms/47MdB5i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Shakes Up His Georgia Legal Team Ahead of Atlanta Booking</h3>
-<sub>By Richard Fausset, Maggie Haberman and Danny Hakim</sub>
-<p>Mr. Trump is hiring Steve Sadow, a veteran criminal defense lawyer in Atlanta who has taken on a number of high-profile cases.  <a href="https://nyti.ms/3OOAjB5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Keeping Track of the Trump Investigations</h3>
-<sub>By The New York Times</sub>
-<p>See a guide to the major criminal cases involving the former president.  <a href="https://nyti.ms/3Q9udxn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 26, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>The Unusual Legal Agreement Behind ‘The Blind Side’</h3>
 <sub>By Santul Nerkar</sub>
 <p>Michael Oher says Sean and Leigh Anne Tuohy used their relationship with him to unfairly profit from his story. They have denied it.  <a href="https://nyti.ms/47I3vlM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Tiny Forests With Big Benefits</h3>
+<sub>By Cara Buckley</sub>
+<p>Native plants crowded onto postage-stamp-size plots have been delivering environmental benefits around the world — and, increasingly, in the U.S.  <a href="https://nyti.ms/47EhpW9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>In a Worrisome Sign, Some Emperor Penguins Had a Terrible 2022</h3>
+<sub>By Delger Erdenesanaa</sub>
+<p>New research indicates that a majority of emperor penguins in a region of Antarctica lost their chicks to sea ice melt.  <a href="https://nyti.ms/3YPTwGZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>BRICS Group Announces New Members, Expanding Its Reach</h3>
+<sub>By David Pierson and Lynsey Chutel</sub>
+<p>Argentina, Egypt, Ethiopia, Iran, the U.A.E. and Saudi Arabia have been invited to join the club of emerging nations, strengthening its role as a geopolitical alternative to Western-led forums.  <a href="https://nyti.ms/3QNL1KH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
 <hr/>
 </ol>
