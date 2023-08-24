@@ -58,25 +58,29 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Wednesday, August 23, Central Standard Time</p>
+<p>It is Thursday, August 24, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now! To start off, the Republican Party is gearing up for its first presidential debate of the election season, and two prominent Fox News mainstays, Bret Baier and Martha MacCallum, are moderating. Meanwhile, in Russia, two prominent figures key to Putin&#39;s wartime operations have had their fates put into question. 
+There is a lot going on in the world right now. In the United States, there was a Republican debate where Donald Trump was only given 10 minutes for questions from the moderators. At an event held at the Richard Nixon Presidential Library, traditional Republicans looked forward to seeing what could be in store with a post-Trump era. On a different note, Rudy Giuliani (Donald Trump&#39;s former lawyer) surrendered at a Georgia jail when he was indicted for election fraud. There are also some incentives coming from Biden which are intended to shift the makeup of foreign investments. 
 
-In the US, former president Donald Trump&#39;s lawyer and ally Rudy Giuliani just surrendered at jail in Georgia over an election case. Multiple state legislatures have passed new laws incentivizing foreign investments in factories producing semiconductor technology as well as renewable energy technology — though it remains to be seen whether this will actually increase overseas investment.
+On a more technological level, there has been an increase in demand for artificial intelligence chips, helping Nvidia&#39;s revenue to double and possibly triple in their next quarter. A 30 year old woman who cannot speak due to a stroke is receiving treatment to help her communicate, using brain activity to control an avatar which speaks for her. 
 
-The tech company Nvidia just announced that its revenues have nearly doubled due to an increase in demand for artificially intelligent chips — with sales estimated to triple from last year! In a medical breakthrough, researchers are leveraging artificial intelligence to help patients who are unable to speak due to complications from a stroke.
+India is continuing its success in space exploration as well, with Chandrayaan-3 mission succeeding and India becoming the first country to reach the lunar south polar region in one piece. There has also been a study about gender surgeries increasing almost threefold from 2016-2019 due to access broadening. 
 
-Meanwhile India just became the first country to successfully land a spacecraft at the lunar south polar region with its Chandrayaan-3 mission — and is expected to make great advances in space exploration in the coming years. Additionally, there are legal proceedings making waves in the global art market involving a French family called Wildenstein that’s facing financial ruin due to inheritance disputes.
+There is even an update about two men convicted of a grisly murder in 1993 potentially getting new trials, all because someone theorized Richard Matt (who escaped prison during one of New York&#39;s most famous jailbreaks) was involved too. 
 
-A gender healthcare clinic at Washington University has also been caught up in a political storm due to the number of new patients it’s receiving overwhelming staff; research suggests that gender surgeries almost tripled between 2016 and 2019 as access for these procedures broadened. In a shocking twist of events, two men previously convicted of a grisly 1993 murder outside of Buffalo, NY may planned trials after new evidence was drawn up implying another possible culprit. 
-
-Finally, there&#39;s been some opinion pieces focusing President Trump&#39;s most loyal supporters dubbing Florida Governor Ron DeSantis “the second-best Trump” characterizing him as being all talk but no action— we&#39;ll see how this plays out!</p>
+Overall it&#39;s been quite thematic with moral cowardice being displayed in different arenas and people pushing for change - politically, biologically, technologically - being successful!</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>A Fox News Debate That Skimped on ‘the Elephant Not in the Room’</h3>
+<sub>By Michael M. Grynbaum</sub>
+<p>Donald J. Trump is the most important figure in the Republican Party, but he merited only 10 minutes of questions from the moderators, Bret Baier and Martha MacCallum.  <a href="https://nyti.ms/3KSirUy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Republican Debate Will Be a Test for the Moderators, Too. Who Are They?</h3>
-<sub>By Neil Vigdor</sub>
-<p>Bret Baier and Martha MacCallum, Fox News mainstays, will preside over the first Republican presidential debate in Milwaukee.  <a href="https://nyti.ms/3E6VLfw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 23, Central Standard Time</sub></sub>
+<h3>From a G.O.P. Stronghold, Debate Watchers Cheered Signs of a Post-Trump Era</h3>
+<sub>By Jennifer Medina</sub>
+<p>A debate watch party at the Richard Nixon Presidential Library drew traditional Republicans pining for the policy debates of the past. They left happy.  <a href="https://nyti.ms/3R9dBqb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>The fates of two men key to Putin’s war are now both in question.</h3>
@@ -114,12 +118,6 @@ Finally, there&#39;s been some opinion pieces focusing President Trump&#39;s mos
 <p>The Chandrayaan-3 mission makes India the first country to reach the lunar south polar region in one piece and adds to the achievements of the country’s homegrown space program.  <a href="https://nyti.ms/3stp5Kt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>The Inheritance Case That Could Unravel an Art Dynasty</h3>
-<sub>By Rachel Corbett</sub>
-<p>How a widow’s legal fight against the Wildenstein family of France has threatened their storied collection — and revealed the underbelly of the global art market.  <a href="https://nyti.ms/3QKJSU8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 23, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>How a Small Gender Clinic Landed in a Political Storm</h3>
 <sub>By Azeen Ghorayshi</sub>
@@ -139,10 +137,10 @@ Finally, there&#39;s been some opinion pieces focusing President Trump&#39;s mos
 <sub><sub>Wednesday, August 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>Trump Voters Can See Right Through DeSantis</h3>
-<sub>By Thomas B. Edsall</sub>
-<p>“They are not going to settle for the second-best Trump.”  <a href="https://nyti.ms/3P3rBjz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 23, Central Standard Time</sub></sub>
+<h3>At the Republican Debate, an Infuriating Display of Moral Cowardice</h3>
+<sub>By Frank Bruni</sub>
+<p>The candidates refused to tell the full truth about Trump’s lies.  <a href="https://nyti.ms/3QSBzWn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
