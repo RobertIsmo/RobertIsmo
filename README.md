@@ -60,18 +60,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, August 23, Central Standard Time</p>
 <p>
-There are a lot of important things going on in the news right now. In Russia, a top general has been demoted due to his ties with Prigozhin. Former President Donald Trump&#39;s lawyer Rudy Giuliani has turned himself in to jail in Georgia related to an election case. Nineteen people, including Trump, have been charged related to the election inquiry. Florida Governor DeSantis is preparing to debate tonight to reclaim lost ground among Republican Presidential contenders. The first Republican Presidential debate is happening tonight, which will be fact-checked after Republican candidates made misstatements during their campaigns. In North Dakota, Governor Doug Burgum injured himself during a basketball game and may not be able to participate in the debate. President Biden is signing new incentives for foreign investors which are reportedly benefiting certain factories. Nvidia recently released financial results showing significant increases in revenue due to high demand for A.I. chips. There have been reports of a paralyzed woman having her brain activity translated into words spoken by an avatar. India recently succeeded in its Chandrayaan-3 mission to the lunar south polar region, marking an important advancement for its own space program. Lastly, there is an ongoing legal case involving the Wildenstein family of France which could jeopardize their art collection and has revealed dark secrets about the global art market.</p>
+It&#39;s a pretty busy world out there right now. There&#39;s a lot of focus on the upcoming Republican presidential debate in Milwaukee with moderators Bret Baier and Martha MacCallum from Fox News. In Russia, two men who are key figures in the war are now facing uncertain fates. Former president Donald Trump&#39;s lawyer Rudy Giuliani was arrested in Georgia related to an election inquiry — nineteen people have been charged in total. President Joe Biden has pushed incentives for foreign investment, which has changed the makeup but not necessarily the amount invested in things like renewable energy and semiconductor production. On the tech side, Nvidia is doing great with an almost tripled revenue thanks to their A.I. chips. India successfully launched its Chandrayaan-3 mission into space, making them the first country to reach the lunar south polar region intact. There&#39;s also a legal fight unfolding between a widow and France&#39;s Wildenstein family over their art collection, which is revealing some ugly sides of art markets worldwide. Gender surgeries rose drastically from 2016 through 2019 as access broadened, according to a recent study. Lastly, Washington University&#39;s youth gender clinic is struggling to provide mental health care for all of its new patients due to recent political storms against it.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Here’s what to watch for from each of the eight candidates in tonight’s debate.</h3>
+<sub>By Lisa Lerer and Shane Goldmacher</sub>
+<p>  <a href="https://nyti.ms/3KP93RJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Republican Debate Will Be a Test for the Moderators, Too. Who Are They?</h3>
+<sub>By Neil Vigdor</sub>
+<p>Bret Baier and Martha MacCallum, Fox News mainstays, will preside over the first Republican presidential debate in Milwaukee.  <a href="https://nyti.ms/3E6VLfw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 23, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia demotes Surovikin, a top general tied to Prigozhin.</h3>
-<sub>By Valeriya Safronova and Anton Troianovski</sub>
-<p>  <a href="https://nyti.ms/45kgB7c"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>The fates of two men key to Putin’s war are now both in question.</h3>
+<sub>By Anton Troianovski</sub>
+<p>  <a href="https://nyti.ms/45mvTZ3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Giuliani Surrenders at Jail in Georgia Election Case</h3>
 <sub>By Danny Hakim, Maggie Haberman and Richard Fausset</sub>
-<p>Mr. Giuliani served as Donald Trump’s personal lawyer in the aftermath of the 2020 election, and advanced false claims that the election was stolen. His bond was set at $150,000.  <a href="https://nyti.ms/47KgDXx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Mr. Giuliani, whose bond was set at $150,000, served as Donald Trump’s personal lawyer in the aftermath of the 2020 election. Another defendant requested a speedy trial on Wednesday.  <a href="https://nyti.ms/47KgDXx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -79,30 +91,6 @@ There are a lot of important things going on in the news right now. In Russia, a
 <sub>By The New York Times</sub>
 <p>Nineteen people, including former President Donald J. Trump, have been charged in an expansive legal case challenging Mr. Trump’s attempts to cling to power.  <a href="https://nyti.ms/3YBhFAT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis’s Debate Mission: Prove He’s Still the Top Trump Alternative</h3>
-<sub>By Shane Goldmacher and Maggie Haberman</sub>
-<p>The Florida governor was livid after his allies’ debate strategy memo was revealed online. He enters tonight’s debate looking to reclaim lost ground.  <a href="https://nyti.ms/3P9YRpe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Preparing to Fact-Check the First G.O.P. Debate: A Misstatement Sampler</h3>
-<sub>By Anjali Huynh</sub>
-<p>Through stump speeches and statements on the campaign trail, the Republican presidential contenders have hinted at what they might say on the debate stage. Here’s a look at their possible lines.  <a href="https://nyti.ms/3P65j0y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How to Watch the First Republican Presidential Debate</h3>
-<sub>By Maggie Astor</sub>
-<p>The first debate is Wednesday night from 9 to 11 p.m. Eastern. Donald Trump has taped an interview with former Fox News host Tucker Carlson that is scheduled to air simultaneously.  <a href="https://nyti.ms/3YIbgUy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Doug Burgum Suffers Basketball Injury, Threatening G.O.P. Debate Appearance</h3>
-<sub>By Shane Goldmacher</sub>
-<p>The North Dakota governor, a long-shot Republican presidential candidate, tore his Achilles’ tendon while playing basketball with his staff, an aide said.  <a href="https://nyti.ms/3YKfQlc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Incentives for Foreign Investment Are Benefiting Factories</h3>
@@ -132,6 +120,18 @@ There are a lot of important things going on in the news right now. In Russia, a
 <h3>The Inheritance Case That Could Unravel an Art Dynasty</h3>
 <sub>By Rachel Corbett</sub>
 <p>How a widow’s legal fight against the Wildenstein family of France has threatened their storied collection — and revealed the underbelly of the global art market.  <a href="https://nyti.ms/3QKJSU8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>How a Small Gender Clinic Landed in a Political Storm</h3>
+<sub>By Azeen Ghorayshi</sub>
+<p>Washington University’s youth gender clinic in St. Louis, like others around the world, was overwhelmed by new patients and struggled to provide them with mental health care.  <a href="https://nyti.ms/45FkUKc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Gender Surgeries Nearly Tripled From 2016 Through 2019, Study Finds</h3>
+<sub>By Emily Baumgaertner</sub>
+<p>The number of procedures rose to roughly 13,000 in 2019 from about 4,550 in 2016 as access broadened, researchers estimated.  <a href="https://nyti.ms/3OOuoM3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 23, Central Standard Time</sub></sub>
 <hr/>
 </ol>
