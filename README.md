@@ -60,16 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, August 24, Central Standard Time</p>
 <p>
-There has been a lot of political news this week. The United States had its first Republican debate with eight candidates on stage, and it was an interesting one due to the fact that Donald Trump was not part of it. In other election-related news, House Republicans have begun looking into Fani Willis, the Fulton County district attorney in Atlanta, ahead of President Trump&#39;s upcoming booking in the area. 
-
-In international news, there is speculation as to whether or not Russian business leader Prigozhin was killed in a plane crash. Both the Wagner Group and Russian government have yet to confirm his death. The BRICS Group has also recently expanded their reach by inviting Argentina, Egypt, Ethiopia, Iran, the U.A.E., and Saudi Arabia into the club of emerging nations. 
-
-On a lighter note, there&#39;s also been some entertainment news this week. Olivia Rodrigo has taken over the pop music scene with her hit albums &quot;Sour&quot; and “Guts”; and Michael Oher is reopening a legal agreement from &quot;The Blind Side&quot; movie. Lastly, people around the world are turning to tiny forests to help reduce climate change and China is attempting to build a safety net for seniors and other financially distressed citizens amidst their housing crisis.</p>
+There is a lot going on in the world right now.  In the U.S., President Trump has shaken up his legal team ahead of an Atlanta booking, Republicans candidates discussed abortion more than any other issue during the first debate, and Nikki Haley is looking to turn her debate moment into momentum. Over in Russia, a reminder was issued of the high cost for standing up to President Putin. Across the pond, pop&#39;s brightest new hope Olivia Rodrigo just dropped her second album, while in Maui officials are suing Hawaiian Electric for allowing a deadly fire to start. New York Governor Kathy Hochul is pushing Biden to speed up migrant permits, and there&#39;s a lawsuit that centers around the movie &#39;The Blind Side&#39;. Finally, tiny forests with big benefits are delivering environmental benefits across the globe and here in the U.S.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Shakes Up His Georgia Legal Team Ahead of Atlanta Booking</h3>
+<sub>By Richard Fausset, Maggie Haberman and Danny Hakim</sub>
+<p>Mr. Trump is hiring Steve Sadow, a veteran criminal defense lawyer in Atlanta who has taken on a number of high-profile cases.  <a href="https://nyti.ms/3OOAjB5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Was Prigozhin Killed in the Plane Crash? It Will Take Time to Confirm, Milley Says.</h3>
-<sub>By Helene Cooper</sub>
-<p>The Wagner Group has not confirmed its leader’s death, nor has the Russian government.  <a href="https://nyti.ms/3P8nnr0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Rule No. 1 in Putin’s Russia: Defy Him at Your Peril</h3>
+<sub>By Paul Sonne</sub>
+<p>The fate of Yevgeny V. Prigozhin is a reminder of all those who have paid a heavy price for standing up to President Vladimir V. Putin, and of how quickly people can fall from his favor.  <a href="https://nyti.ms/47OZkoc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -78,22 +80,22 @@ On a lighter note, there&#39;s also been some entertainment news this week. Oliv
 <p>At times onstage, Republican rivals could imagine the primary race was about issues, ideology and biography. Then reality set in.  <a href="https://nyti.ms/3KUGC4P"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>The First Republican Debate Starred Eight Candidates and a Ghost</h3>
-<sub>By James Poniewozik</sub>
-<p>A strange evening on Fox News was most passionate when it involved the contestant who didn’t show up.  <a href="https://nyti.ms/45oh4oL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>G.O.P. Chair Says Candidates Must Talk About Abortion to Win in 2024</h3>
+<sub>By Michael Gold</sub>
+<p>Republican rivals spent more time talking about abortion than any other single issue during the first debate, exposing divisions around a federal ban.  <a href="https://nyti.ms/45lEUSf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Shakes Up His Georgia Legal Team Ahead of Atlanta Booking</h3>
-<sub>By Richard Fausset, Maggie Haberman and Danny Hakim</sub>
-<p>Mr. Trump is hiring Steve Sadow, a veteran criminal defense lawyer in Atlanta who has taken on a number of high-profile cases.  <a href="https://nyti.ms/3OOAjB5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Nikki Haley Aims to Turn Her Debate Moment Into Momentum</h3>
+<sub>By Jazmine Ulloa</sub>
+<p>The former South Carolina governor — the only woman in the Republican field — stood out for her responses on abortion, foreign policy and Donald Trump’s indictments.  <a href="https://nyti.ms/3EbQmUA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>House Republicans Begin Investigating Willis Before Trump’s Atlanta Booking</h3>
-<sub>By Luke Broadwater</sub>
-<p>The launch of an inquiry into Fani Willis, the Fulton County, Ga., district attorney, was the latest example of how the former president’s allies in Congress are using their majority to try to protect him.  <a href="https://nyti.ms/47NQ3wQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>G.O.P. Debate Draws 12.8 Million Viewers</h3>
+<sub>By John Koblin</sub>
+<p>The figure exceeded the expectations of some television executives, who believed that Mr. Trump’s absence would lead to far fewer viewers.  <a href="https://nyti.ms/3KRdaN9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
@@ -102,16 +104,22 @@ On a lighter note, there&#39;s also been some entertainment news this week. Oliv
 <p>After the blockbuster success of her debut LP, “Sour,” and its smash “Drivers License,” the 20-year-old cranks up the volume and digs deep for its powerful follow-up, “Guts.”  <a href="https://nyti.ms/47O2W9Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Maui Officials Blame Utility for Allowing Deadly Fire to Start</h3>
+<sub>By Mitch Smith</sub>
+<p>In a new lawsuit, Maui County said Hawaiian Electric acted negligently by failing to disconnect power lines that were at risk of toppling in high winds.  <a href="https://nyti.ms/3YSeyoE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>A State Plagued by Bear Encounters Turns to an Old Solution: Guns</h3>
 <sub>By Amelia Nierenberg</sub>
 <p>A Connecticut law allows residents to kill bears in certain circumstances. But some residents want a full-fledged bear hunt, allowed in almost every nearby state.  <a href="https://nyti.ms/3QV1HzR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How China Made Its Housing Crisis Worse</h3>
-<sub>By Keith Bradsher</sub>
-<p>Years of inattention to building an adequate safety net for seniors, the jobless and others in financial stress have left Chinese consumers afraid to spend.  <a href="https://nyti.ms/47MdB5i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>‘Let Them Work’: N.Y. Governor Pushes Biden to Speed Up Migrant Permits</h3>
+<sub>By Luis Ferré-Sadurní and Grace Ashford</sub>
+<p>In a shift in tone, Gov. Kathy Hochul criticized the White House for failing to help the state deal with the continuing influx of migrants into New York.  <a href="https://nyti.ms/47P8IZg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
@@ -124,18 +132,6 @@ On a lighter note, there&#39;s also been some entertainment news this week. Oliv
 <h3>Tiny Forests With Big Benefits</h3>
 <sub>By Cara Buckley</sub>
 <p>Native plants crowded onto postage-stamp-size plots have been delivering environmental benefits around the world — and, increasingly, in the U.S.  <a href="https://nyti.ms/47EhpW9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>In a Worrisome Sign, Some Emperor Penguins Had a Terrible 2022</h3>
-<sub>By Delger Erdenesanaa</sub>
-<p>New research indicates that a majority of emperor penguins in a region of Antarctica lost their chicks to sea ice melt.  <a href="https://nyti.ms/3YPTwGZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>BRICS Group Announces New Members, Expanding Its Reach</h3>
-<sub>By David Pierson and Lynsey Chutel</sub>
-<p>Argentina, Egypt, Ethiopia, Iran, the U.A.E. and Saudi Arabia have been invited to join the club of emerging nations, strengthening its role as a geopolitical alternative to Western-led forums.  <a href="https://nyti.ms/3QNL1KH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
 <hr/>
 </ol>
