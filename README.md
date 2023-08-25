@@ -60,18 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, August 25, Central Standard Time</p>
 <p>
-There is increasing economic instability in China combined with a lack of faith in the future, prompting the Federal Reserve&#39;s head to make a speech about keeping inflation in check. Consumers here in the US are beginning to show signs of stress, a reflection of shifting shopping habits. Wall Street had a brief spell of turbulence this summer, but some are arguing that this might ultimately be a good thing. In Russia, outspoken oligarch and ally to President Putin Yevgeny Prigozhin passed away in a mysterious plane crash and some see it as being an indicator of how the Kremlin deals with disloyalty. Ukraine is actively responding to Russian aggression by launching drone strikes, sending a strong message to its citizens that they are not powerless. Former American president Donald Trump is embroiled in an expansive legal inquiry related to alleged election interference in Georgia; there were 19 people charged in total. Hawaii authorities have released a list of 388 people who are missing following devastating bush fires in Maui. The Director of the British Museum stepped down after an employee was fired for stealing from the museum. And finally, the head of Spanish Soccer has refused to resign after he made a kiss gesture toward a winning Spanish women’s soccer team member during an awards ceremony.</p>
+The world is going through some difficult times right now. The global economy is facing big problems, including an ongoing crisis of confidence in China. Consumers in the US are showing signs of stress too, which makes sense as the Federal Reserve&#39;s chair recently said that the fight against inflation isn&#39;t over yet. Meanwhile, some Silicon Valley tech billionaires are taking on a huge project to build a city from scratch in the San Francisco area. 
+
+In other news, Russia appears to be pursuing long-term influence operations directed at both the US and Europe, while back home in America, 19 people have been charged in an expansive legal case involving former President Trump&#39;s attempts to hold on to power. In the entertainment world, the director of London&#39;s British Museum stepped down after an employee was fired for theft, and Yale students were angered by a safety flier with a picture of the Grim Reaper that was shared by their campus police (who are renegotiating a contract). Finally, in Hawaii, officials recently released a list of 388 people missing from major wildfires that devastated parts of Maui. It&#39;s certainly not an easy time for anyone!</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>A Crisis of Confidence Is Gripping China’s Economy</h3>
 <sub>By Daisuke Wakabayashi and Claire Fu</sub>
 <p>China’s economy, which once seemed unstoppable, is plagued by a series of problems, and a growing lack of faith in the future is verging on despair.  <a href="https://nyti.ms/45IHKAr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Fed Chair’s Message Is Clear: The Fight Against Inflation Isn’t Over</h3>
-<sub>By Jeanna Smialek</sub>
-<p>Jerome H. Powell, the head of the Federal Reserve, struck a resolute tone in a speech at the central bank’s most closely watched conference.  <a href="https://nyti.ms/3Ec8uh1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -81,9 +77,15 @@ There is increasing economic instability in China combined with a lack of faith 
 <sub><sub>Friday, August 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Why the Stock Market’s Summer Doldrums Are Not a Problem</h3>
-<sub>By Jeff Sommer</sub>
-<p>After a fierce rally largely propelled by a handful of tech stocks, the market’s rapid climb stalled in August. That setback could ultimately be a good thing, our columnist says.  <a href="https://nyti.ms/47PoL94"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Fed Chair’s Message Is Clear: The Fight Against Inflation Isn’t Over</h3>
+<sub>By Jeanna Smialek</sub>
+<p>Jerome H. Powell, the head of the Federal Reserve, struck a resolute tone in a speech at the central bank’s most closely watched conference.  <a href="https://nyti.ms/3Ec8uh1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>The Silicon Valley Elite Who Want to Build a City From Scratch</h3>
+<sub>By Conor Dougherty and Erin Griffith</sub>
+<p>A mysterious company has spent $800 million in an effort to buy thousands of acres of San Francisco Bay Area land. The people behind the deals are said to be a who’s who of the tech industry.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -92,22 +94,22 @@ There is increasing economic instability in China combined with a lack of faith 
 <p>The Kremlin appears to be sending the signal that no degree of effectiveness can protect someone from punishment for disloyalty.  <a href="https://nyti.ms/3PeE83X"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Yevgeny Prigozhin, Renegade Mercenary Chief Who Rattled Kremlin</h3>
-<sub>By Valerie Hopkins</sub>
-<p>A tycoon and a Putin ally, he built a paramilitary force that fought by Russia’s side even as he castigated its military leaders. He is believed to have died at 62 in a plane crash.  <a href="https://nyti.ms/47KUA2Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Russia Pushes Long-Term Influence Operations Aimed at the U.S. and Europe</h3>
+<sub>By Julian E. Barnes</sub>
+<p>A newly declassified American intelligence analysis says Russian spy agencies are using influence laundering techniques to hide the Kremlin’s involvement in cultivating pro-Russia and anti-Ukraine messages.  <a href="https://nyti.ms/3QT8hXw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Ukraine’s Drone Strikes Against Russia Are a Message for Its Own People</h3>
-<sub>By Julian E. Barnes</sub>
-<p>U.S. officials say they expect Ukraine to continue its attacks because they send a strong message: Kyiv can still strike back.  <a href="https://nyti.ms/45DYAjO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Spanish Women’s Squad Refuses to Play Until Soccer Chief Resigns</h3>
+<sub>By Rachel Chaundler</sub>
+<p>The players demanded change after Luis Rubiales declined to quit over kissing Jennifer Hermoso, a member of the World Cup-winning team.  <a href="https://nyti.ms/3QXO2bh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Jeffrey Clark, Former Justice Department Official, Booked in Trump Georgia Case</h3>
 <sub>By Richard Fausset</sub>
-<p>As of late Friday morning, all 19 defendants in the state election interference case involving former President Donald J. Trump had turned themselves in.  <a href="https://nyti.ms/3qLvqRg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>All 19 defendants in the state election interference case involving former President Donald J. Trump have now turned themselves in, and all but one have been released.  <a href="https://nyti.ms/3qLvqRg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -116,22 +118,22 @@ There is increasing economic instability in China combined with a lack of faith 
 <p>Nineteen people, including former President Donald J. Trump, have been charged in an expansive legal case challenging Mr. Trump’s attempts to cling to power.  <a href="https://nyti.ms/3YBhFAT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Hawaii Officials Release List of 388 People Missing From Maui Fires</h3>
-<sub>By Tim Arango and Nicholas Bogel-Burroughs</sub>
-<p>The list names people still unaccounted for after wildfires devastated the town of Lahaina and other areas. Officials asked anyone on the list who survived the fires to come forward.  <a href="https://nyti.ms/47P1JiY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 25, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>British Museum Director Resigns After Worker Fired for Theft</h3>
 <sub>By Alex Marshall</sub>
 <p>Hartwig Fischer, who had led the museum since 2016, said that the museum’s failure to adequately respond to earlier warnings “must ultimately rest with the director.”  <a href="https://nyti.ms/45pRjo7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Spanish Soccer Chief Refuses to Resign Over World Cup Kiss</h3>
-<sub>By Rachel Chaundler</sub>
-<p>Luis Rubiales was denounced for his behavior toward Jennifer Hermoso, a member of the winning Spanish women’s soccer team, at an awards ceremony in Australia.  <a href="https://nyti.ms/3QXO2bh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Yale Students Got a Terrifying Message. From the Campus Police.</h3>
+<sub>By Amelia Nierenberg</sub>
+<p>There was anger after the campus police union — which is renegotiating a contract — shared a safety flier with a picture of the Grim Reaper on it.  <a href="https://nyti.ms/3EdPvmq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Hawaii Officials Release List of 388 People Missing From Maui Fires</h3>
+<sub>By Tim Arango and Nicholas Bogel-Burroughs</sub>
+<p>The list names people still unaccounted for after wildfires devastated the town of Lahaina and other areas. Officials asked anyone on the list who survived the fires to come forward.  <a href="https://nyti.ms/47P1JiY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 25, Central Standard Time</sub></sub>
 <hr/>
 </ol>
