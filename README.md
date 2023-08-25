@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, August 25, Central Standard Time</p>
 <p>
-There has been a lot going on in the world recently! In the US, former President Donald J. Trump has surrendered at an Atlanta jail for election interference and posted his mug shot on a service now known as X. Meanwhile, there are multiple theories still being explored surrounding the explosion of a plane in Russia that killed Yevgeny Prigozhin and the first debate of Republican rivals was a glimpse of what Trumpism without Trump looks like. G.O.P Chair is also insisting that candidates must talk about abortion to win in 2024. Nikki Haley is looking to turn her debate moment into momentum, while rival Vivek Ramaswamy&#39;s name has been tripping up people since. Here in the US, Maui county is blaming Hawaiian Electric for allowing a deadly fire to start and President Biden is refraining from commenting on the rising death toll from wildfires in the state. Lastly, Southern Europe is being affected by an intense heat wave while in Connecticut authorities are turning to firearms as a solution to address bear encounters in the area.</p>
+Right now, things are a bit chaotic around the world. Former President Donald Trump recently surrendered at a jail in Georgia to face criminal cases in connection with election interference. At the same time, an infamous Russian businessman has been put on blast for challenging President Vladimir Putin, making it clear that anyone who goes against Putin will face dire consequences. In addition, Republicans had their first debate for the coming election year, and Democrats are struggling to address the crisis of wildfires destructing Greece this summer. Closer to home here in the US, Hawaiian Electric is getting blamed for allowing a deadly fire to start in Maui, and Connecticut is considering reinstating a law that allows residents to kill bears under certain circumstances.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Surrenders at Atlanta Jail in Georgia Election Interference Case</h3>
@@ -72,12 +72,6 @@ There has been a lot going on in the world recently! In the US, former President
 <h3>Trump Returns to the Service Formerly Known as Twitter</h3>
 <sub>By Kate Conger</sub>
 <p>Absent for more than two years, former President Donald J. Trump posted his mug shot on the site, now called X.  <a href="https://nyti.ms/45lsI43"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Blast Likely Downed Jet and Killed Prigozhin, U.S. Officials Say</h3>
-<sub>By Julian E. Barnes, Helene Cooper, Eric Schmitt, Riley Mellen, Muyi Xiao and Robin Stein</sub>
-<p>The officials stressed that multiple theories about what brought down a plane in Russia were still being explored. President Putin acknowledged the incident and spoke about Yevgeny Prigozhin in the past tense.  <a href="https://nyti.ms/3R0pAWC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -133,6 +127,12 @@ There has been a lot going on in the world recently! In the US, former President
 <sub>By Rachel Chaundler and Aurelien Breeden</sub>
 <p>In France, Spain and Italy, residents and tourists did their best to avoid scorching temperatures — again.  <a href="https://nyti.ms/3YUKIQk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Scenes From Greece, Where Hundreds of New Fires Burn</h3>
+<sub>By Isabella Kwai</sub>
+<p>Firefighters are struggling to quell deadly flames, part of a crisis of wildfires in the nation this summer. Here are photos from the latest blazes.  <a href="https://nyti.ms/3E8uFEM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 23, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
