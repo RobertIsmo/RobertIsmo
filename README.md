@@ -60,12 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, August 24, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now.  In the U.S., President Trump has shaken up his legal team ahead of an Atlanta booking, Republicans candidates discussed abortion more than any other issue during the first debate, and Nikki Haley is looking to turn her debate moment into momentum. Over in Russia, a reminder was issued of the high cost for standing up to President Putin. Across the pond, pop&#39;s brightest new hope Olivia Rodrigo just dropped her second album, while in Maui officials are suing Hawaiian Electric for allowing a deadly fire to start. New York Governor Kathy Hochul is pushing Biden to speed up migrant permits, and there&#39;s a lawsuit that centers around the movie &#39;The Blind Side&#39;. Finally, tiny forests with big benefits are delivering environmental benefits across the globe and here in the U.S.</p>
+It&#39;s been a busy news week around the world! Former President Donald Trump recently returned to the site formerly known as Twitter, where he posted his mug shot. In Russia, a blast is suspected to have downed a jet and killed Yevgeny Prigozhin, with President Putin speaking about him in the past tense. In terms of politics, many Republican rivals argued for their ideas and ideologies during the first presidential debate. A few candidates even discussed abortion as an important issue for the upcoming election in 2024. And Nikki Haley aimed to turn her moment into momentum after standing out for her responses. In terms of business and entertainment news, 12.8 million viewers tuned in to the GOP debate, surprising some executives who expected fewer viewers without Trump in attendance. Olivia Rodrigo also had a big debut with her album &quot;Sour,&quot; released alongside her powerful follow-up &quot;Guts.&quot; Meanwhile, Maui officials are blaming a utility for allowing deadly fire to start, while President Biden appears to have brushed off a question about Maui&#39;s constantly rising death toll from wildfires. Finally here in New York State, we&#39;re facing an influx of migrants which has prompted Gov. Kathy Hochul to push for quicker migrant permits from the White House. As if all that wasn&#39;t enough, residents are now considering the use of guns against local bear encounters as this is allowed by law in Connecticut while almost every other state nearby has full-fledged bear hunts - quite wild!</p>
 <ol>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Trump Returns to the Service Formerly Known as Twitter</h3>
+<sub>By Kate Conger</sub>
+<p>Absent for more than two years, former President Donald J. Trump posted his mug shot on the site, now called X.  <a href="https://nyti.ms/45lsI43"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Shakes Up His Georgia Legal Team Ahead of Atlanta Booking</h3>
-<sub>By Richard Fausset, Maggie Haberman and Danny Hakim</sub>
-<p>Mr. Trump is hiring Steve Sadow, a veteran criminal defense lawyer in Atlanta who has taken on a number of high-profile cases.  <a href="https://nyti.ms/3OOAjB5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Blast Likely Downed Jet and Killed Prigozhin, U.S. Officials Say</h3>
+<sub>By Julian E. Barnes, Helene Cooper, Eric Schmitt, Riley Mellen, Muyi Xiao and Robin Stein</sub>
+<p>The officials stressed that multiple theories about what brought down a plane in Russia were still being explored. President Putin acknowledged the incident and spoke about Yevgeny Prigozhin in the past tense.  <a href="https://nyti.ms/3R0pAWC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -110,6 +116,12 @@ There is a lot going on in the world right now.  In the U.S., President Trump ha
 <p>In a new lawsuit, Maui County said Hawaiian Electric acted negligently by failing to disconnect power lines that were at risk of toppling in high winds.  <a href="https://nyti.ms/3YSeyoE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Didn’t Hear Question on Maui He Appeared to Brush Off, White House Says</h3>
+<sub>By Erica L. Green</sub>
+<p>The president has faced criticism that his “no comment,” in apparent response to a query on the mounting death toll of the wildfires, was callous.  <a href="https://nyti.ms/461LX2z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>A State Plagued by Bear Encounters Turns to an Old Solution: Guns</h3>
 <sub>By Amelia Nierenberg</sub>
@@ -120,18 +132,6 @@ There is a lot going on in the world right now.  In the U.S., President Trump ha
 <h3>‘Let Them Work’: N.Y. Governor Pushes Biden to Speed Up Migrant Permits</h3>
 <sub>By Luis Ferré-Sadurní and Grace Ashford</sub>
 <p>In a shift in tone, Gov. Kathy Hochul criticized the White House for failing to help the state deal with the continuing influx of migrants into New York.  <a href="https://nyti.ms/47P8IZg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>The Unusual Legal Agreement Behind ‘The Blind Side’</h3>
-<sub>By Santul Nerkar</sub>
-<p>Michael Oher says Sean and Leigh Anne Tuohy used their relationship with him to unfairly profit from his story. They have denied it.  <a href="https://nyti.ms/47I3vlM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Tiny Forests With Big Benefits</h3>
-<sub>By Cara Buckley</sub>
-<p>Native plants crowded onto postage-stamp-size plots have been delivering environmental benefits around the world — and, increasingly, in the U.S.  <a href="https://nyti.ms/47EhpW9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
 <hr/>
 </ol>
