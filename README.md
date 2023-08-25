@@ -58,10 +58,16 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Thursday, August 24, Central Standard Time</p>
+<p>It is Friday, August 25, Central Standard Time</p>
 <p>
-It&#39;s been a busy news week around the world! Former President Donald Trump recently returned to the site formerly known as Twitter, where he posted his mug shot. In Russia, a blast is suspected to have downed a jet and killed Yevgeny Prigozhin, with President Putin speaking about him in the past tense. In terms of politics, many Republican rivals argued for their ideas and ideologies during the first presidential debate. A few candidates even discussed abortion as an important issue for the upcoming election in 2024. And Nikki Haley aimed to turn her moment into momentum after standing out for her responses. In terms of business and entertainment news, 12.8 million viewers tuned in to the GOP debate, surprising some executives who expected fewer viewers without Trump in attendance. Olivia Rodrigo also had a big debut with her album &quot;Sour,&quot; released alongside her powerful follow-up &quot;Guts.&quot; Meanwhile, Maui officials are blaming a utility for allowing deadly fire to start, while President Biden appears to have brushed off a question about Maui&#39;s constantly rising death toll from wildfires. Finally here in New York State, we&#39;re facing an influx of migrants which has prompted Gov. Kathy Hochul to push for quicker migrant permits from the White House. As if all that wasn&#39;t enough, residents are now considering the use of guns against local bear encounters as this is allowed by law in Connecticut while almost every other state nearby has full-fledged bear hunts - quite wild!</p>
+There has been a lot going on in the world recently! In the US, former President Donald J. Trump has surrendered at an Atlanta jail for election interference and posted his mug shot on a service now known as X. Meanwhile, there are multiple theories still being explored surrounding the explosion of a plane in Russia that killed Yevgeny Prigozhin and the first debate of Republican rivals was a glimpse of what Trumpism without Trump looks like. G.O.P Chair is also insisting that candidates must talk about abortion to win in 2024. Nikki Haley is looking to turn her debate moment into momentum, while rival Vivek Ramaswamy&#39;s name has been tripping up people since. Here in the US, Maui county is blaming Hawaiian Electric for allowing a deadly fire to start and President Biden is refraining from commenting on the rising death toll from wildfires in the state. Lastly, Southern Europe is being affected by an intense heat wave while in Connecticut authorities are turning to firearms as a solution to address bear encounters in the area.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Surrenders at Atlanta Jail in Georgia Election Interference Case</h3>
+<sub>By Richard Fausset, Danny Hakim and Thomas Fuller</sub>
+<p>Mr. Trump spent about 20 minutes at the jail, getting fingerprinted and having his mug shot taken for the first time in the four criminal cases he has faced this year.  <a href="https://nyti.ms/47JEyGH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Trump Returns to the Service Formerly Known as Twitter</h3>
 <sub>By Kate Conger</sub>
@@ -98,16 +104,10 @@ It&#39;s been a busy news week around the world! Former President Donald Trump r
 <p>The former South Carolina governor — the only woman in the Republican field — stood out for her responses on abortion, foreign policy and Donald Trump’s indictments.  <a href="https://nyti.ms/3EbQmUA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>G.O.P. Debate Draws 12.8 Million Viewers</h3>
-<sub>By John Koblin</sub>
-<p>The figure exceeded the expectations of some television executives, who believed that Mr. Trump’s absence would lead to far fewer viewers.  <a href="https://nyti.ms/3KRdaN9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Olivia Rodrigo, Pop’s Brightest New Hope, Just May Be a Rock Star</h3>
-<sub>By Caryn Ganz</sub>
-<p>After the blockbuster success of her debut LP, “Sour,” and its smash “Drivers License,” the 20-year-old cranks up the volume and digs deep for its powerful follow-up, “Guts.”  <a href="https://nyti.ms/47O2W9Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>However People Say It, Vivek Ramaswamy Is Happy to Be in the Conversation</h3>
+<sub>By Anjali Huynh</sub>
+<p>At the debate and on the campaign trail, rivals, pundits and voters have stumbled on his name. (Rhymes with “cake,” he says.)  <a href="https://nyti.ms/45nZxgC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -128,10 +128,10 @@ It&#39;s been a busy news week around the world! Former President Donald Trump r
 <p>A Connecticut law allows residents to kill bears in certain circumstances. But some residents want a full-fledged bear hunt, allowed in almost every nearby state.  <a href="https://nyti.ms/3QV1HzR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>‘Let Them Work’: N.Y. Governor Pushes Biden to Speed Up Migrant Permits</h3>
-<sub>By Luis Ferré-Sadurní and Grace Ashford</sub>
-<p>In a shift in tone, Gov. Kathy Hochul criticized the White House for failing to help the state deal with the continuing influx of migrants into New York.  <a href="https://nyti.ms/47P8IZg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Late-Summer Heat Wave Bakes Southern Europe</h3>
+<sub>By Rachel Chaundler and Aurelien Breeden</sub>
+<p>In France, Spain and Italy, residents and tourists did their best to avoid scorching temperatures — again.  <a href="https://nyti.ms/3YUKIQk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
 <hr/>
 </ol>
