@@ -60,8 +60,26 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, August 25, Central Standard Time</p>
 <p>
-Right now, things are a bit chaotic around the world. Former President Donald Trump recently surrendered at a jail in Georgia to face criminal cases in connection with election interference. At the same time, an infamous Russian businessman has been put on blast for challenging President Vladimir Putin, making it clear that anyone who goes against Putin will face dire consequences. In addition, Republicans had their first debate for the coming election year, and Democrats are struggling to address the crisis of wildfires destructing Greece this summer. Closer to home here in the US, Hawaiian Electric is getting blamed for allowing a deadly fire to start in Maui, and Connecticut is considering reinstating a law that allows residents to kill bears under certain circumstances.</p>
+There is a lot going on in the world right now. In Russia, Yevgeny Prigozhin, a tycoon and ally of Putin who built a paramilitary force to fight by Russia’s side, has been reported dead at the age of 62. Putin appears to be sending out the message that no degree of effectiveness can protect someone from punishment for disloyalty. 
+
+Meanwhile, Donald Trump had to surrender at an Atlanta jail in Georgia for an election interference case. His mug shot was posted to X (which was formerly known as Twitter), his first criminal case in 2021. 
+
+In Hawaii, the wildfires have caused insurance companies to reassess the state’s risk. This is due to Maui county blaming the utility for allowing the deadly fire to start which caused a lot of fatalities. President Biden was criticized for his “no comment” while some thought it came off callous towards the deaths. 
+
+Finally, on a more positive note, there are dream jobs in the culture and art industries which involve long hours but are compensated handsomely. However, some executives have had their housing benefit reduced due to post-pandemic strains. Lastly, Jair Candor tracks elusive Amazon tribes only from the shadows in order to prove they exist so that their land can be legally protected.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>With Prigozhin’s Death, Putin Projects a Message of Power</h3>
+<sub>By Anton Troianovski and Valerie Hopkins</sub>
+<p>The Kremlin appears to be sending the signal that no degree of effectiveness can protect someone from punishment for disloyalty.  <a href="https://nyti.ms/3PeE83X"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Yevgeny Prigozhin, Renegade Mercenary Chief Who Rattled Kremlin</h3>
+<sub>By Valerie Hopkins</sub>
+<p>A tycoon and a Putin ally, he built a paramilitary force that fought by Russia’s side even as he castigated its military leaders. He is believed dead at 62 in a plane crash.  <a href="https://nyti.ms/47KUA2Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 25, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Surrenders at Atlanta Jail in Georgia Election Interference Case</h3>
 <sub>By Richard Fausset, Danny Hakim and Thomas Fuller</sub>
@@ -74,35 +92,11 @@ Right now, things are a bit chaotic around the world. Former President Donald Tr
 <p>Absent for more than two years, former President Donald J. Trump posted his mug shot on the site, now called X.  <a href="https://nyti.ms/45lsI43"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Rule No. 1 in Putin’s Russia: Defy Him at Your Peril</h3>
-<sub>By Paul Sonne</sub>
-<p>The fate of Yevgeny V. Prigozhin is a reminder of all those who have paid a heavy price for standing up to President Vladimir V. Putin, and of how quickly people can fall from his favor.  <a href="https://nyti.ms/47OZkoc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>At First Debate, a Glimpse of Trumpism Without Trump</h3>
-<sub>By Lisa Lerer</sub>
-<p>At times onstage, Republican rivals could imagine the primary race was about issues, ideology and biography. Then reality set in.  <a href="https://nyti.ms/3KUGC4P"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>G.O.P. Chair Says Candidates Must Talk About Abortion to Win in 2024</h3>
-<sub>By Michael Gold</sub>
-<p>Republican rivals spent more time talking about abortion than any other single issue during the first debate, exposing divisions around a federal ban.  <a href="https://nyti.ms/45lEUSf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Nikki Haley Aims to Turn Her Debate Moment Into Momentum</h3>
-<sub>By Jazmine Ulloa</sub>
-<p>The former South Carolina governor — the only woman in the Republican field — stood out for her responses on abortion, foreign policy and Donald Trump’s indictments.  <a href="https://nyti.ms/3EbQmUA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>However People Say It, Vivek Ramaswamy Is Happy to Be in the Conversation</h3>
-<sub>By Anjali Huynh</sub>
-<p>At the debate and on the campaign trail, rivals, pundits and voters have stumbled on his name. (Rhymes with “cake,” he says.)  <a href="https://nyti.ms/45nZxgC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Hawaii Wildfires Spur Insurers to Reassess the State’s Risk</h3>
+<sub>By Santul Nerkar and Emily Flitter</sub>
+<p>Hawaii has long been a low-risk and profitable market for insurers, but the Maui disaster could change that, and even have a global ripple effect.  <a href="https://nyti.ms/3qRcSPl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Maui Officials Blame Utility for Allowing Deadly Fire to Start</h3>
@@ -116,23 +110,35 @@ Right now, things are a bit chaotic around the world. Former President Donald Tr
 <p>The president has faced criticism that his “no comment,” in apparent response to a query on the mounting death toll of the wildfires, was callous.  <a href="https://nyti.ms/461LX2z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Dream Jobs in the World of Culture and What You Get for Doing Them</h3>
+<sub>By Colin Moynihan</sub>
+<p>The hours are punishing and the politics — internal and external — can be demanding. But executives at some of America’s most influential arts organizations are compensated handsomely.  <a href="https://nyti.ms/4627rfJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>For Some Culture Executives, a Housing Perk Is Rolled Back</h3>
+<sub>By Robin Pogrebin</sub>
+<p>Amid sensitivity over income inequality in their ranks as well as post-pandemic financial strains, several cultural organizations have reduced the housing benefit they provided former directors.  <a href="https://nyti.ms/45JCFrD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 25, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>A State Plagued by Bear Encounters Turns to an Old Solution: Guns</h3>
+<h3>Yale Students Got a Terrifying Message. From the Campus Police.</h3>
 <sub>By Amelia Nierenberg</sub>
-<p>A Connecticut law allows residents to kill bears in certain circumstances. But some residents want a full-fledged bear hunt, allowed in almost every nearby state.  <a href="https://nyti.ms/3QV1HzR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
+<p>There was anger after the campus police union — which is renegotiating a contract — shared a safety flier with a picture of the Grim Reaper on it.  <a href="https://nyti.ms/3EdPvmq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>This Is Public Housing. Just Don’t Call It That.</h3>
+<sub>By Conor Dougherty</sub>
+<p>Montgomery County, Md., like many places, has an affordable housing crisis. So it started acting like a benevolent real estate investor.  <a href="https://nyti.ms/480yaer"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Late-Summer Heat Wave Bakes Southern Europe</h3>
-<sub>By Rachel Chaundler and Aurelien Breeden</sub>
-<p>In France, Spain and Italy, residents and tourists did their best to avoid scorching temperatures — again.  <a href="https://nyti.ms/3YUKIQk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Scenes From Greece, Where Hundreds of New Fires Burn</h3>
-<sub>By Isabella Kwai</sub>
-<p>Firefighters are struggling to quell deadly flames, part of a crisis of wildfires in the nation this summer. Here are photos from the latest blazes.  <a href="https://nyti.ms/3E8uFEM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 23, Central Standard Time</sub></sub>
+<h3>He Tracks Elusive Amazon Tribes, but Only From the Shadows</h3>
+<sub>By Manuela Andreoni and Jack Nicas</sub>
+<p>Jair Candor combs the forest for Indigenous people who want no contact with outsiders. The goal: to prove they exist so their land can be legally protected.  <a href="https://nyti.ms/3P9dLfw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 25, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
