@@ -60,13 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, August 25, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In Russia, Yevgeny Prigozhin, a tycoon and ally of Putin who built a paramilitary force to fight by Russia’s side, has been reported dead at the age of 62. Putin appears to be sending out the message that no degree of effectiveness can protect someone from punishment for disloyalty. 
-
-Meanwhile, Donald Trump had to surrender at an Atlanta jail in Georgia for an election interference case. His mug shot was posted to X (which was formerly known as Twitter), his first criminal case in 2021. 
-
-In Hawaii, the wildfires have caused insurance companies to reassess the state’s risk. This is due to Maui county blaming the utility for allowing the deadly fire to start which caused a lot of fatalities. President Biden was criticized for his “no comment” while some thought it came off callous towards the deaths. 
-
-Finally, on a more positive note, there are dream jobs in the culture and art industries which involve long hours but are compensated handsomely. However, some executives have had their housing benefit reduced due to post-pandemic strains. Lastly, Jair Candor tracks elusive Amazon tribes only from the shadows in order to prove they exist so that their land can be legally protected.</p>
+There is a lot going on right now in the world. Putin projected a message of power by announcing the death of his ally, Yevgeny Prigozhin, who was a renegade mercenary chief and built a paramilitary force. Donald Trump recently surrendered to Atlanta Jail in Georgia as he has been charged for election interference. Nineteen people in total have been charged by the election inquiry in Georgia. The Federal Reserve&#39;s chair Jerome H. Powell is pushing for continued fight against inflation without showing signs of weakening. On the consumer side, retailers have reported worrying shifts in shopping habits. Stock market&#39;s summer doldrums may be good for the overall market, but we don&#39;t know yet. In Hawaii, officials are missing 388 people due to fires that devastated the Lahaina town. In terms of culture and art jobs, executives are compensated handsomely though housing perk being taken away from them lately. A new study has found an increase in mental health spending during the pandemic due to Americans using more remote services. Lastly, Yale students were shocked to see a safety flier with a picture of Grim Reaper on it from the campus police union who is renegotiating their contract.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>With Prigozhin’s Death, Putin Projects a Message of Power</h3>
@@ -77,7 +71,7 @@ Finally, on a more positive note, there are dream jobs in the culture and art in
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Yevgeny Prigozhin, Renegade Mercenary Chief Who Rattled Kremlin</h3>
 <sub>By Valerie Hopkins</sub>
-<p>A tycoon and a Putin ally, he built a paramilitary force that fought by Russia’s side even as he castigated its military leaders. He is believed dead at 62 in a plane crash.  <a href="https://nyti.ms/47KUA2Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>A tycoon and a Putin ally, he built a paramilitary force that fought by Russia’s side even as he castigated its military leaders. He is believed to have died at 62 in a plane crash.  <a href="https://nyti.ms/47KUA2Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -86,29 +80,35 @@ Finally, on a more positive note, there are dream jobs in the culture and art in
 <p>Mr. Trump spent about 20 minutes at the jail, getting fingerprinted and having his mug shot taken for the first time in the four criminal cases he has faced this year.  <a href="https://nyti.ms/47JEyGH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Trump Returns to the Service Formerly Known as Twitter</h3>
-<sub>By Kate Conger</sub>
-<p>Absent for more than two years, former President Donald J. Trump posted his mug shot on the site, now called X.  <a href="https://nyti.ms/45lsI43"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Who Has Been Charged in the Election Inquiry in Georgia</h3>
+<sub>By The New York Times</sub>
+<p>Nineteen people, including former President Donald J. Trump, have been charged in an expansive legal case challenging Mr. Trump’s attempts to cling to power.  <a href="https://nyti.ms/3YBhFAT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Hawaii Wildfires Spur Insurers to Reassess the State’s Risk</h3>
-<sub>By Santul Nerkar and Emily Flitter</sub>
-<p>Hawaii has long been a low-risk and profitable market for insurers, but the Maui disaster could change that, and even have a global ripple effect.  <a href="https://nyti.ms/3qRcSPl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Fed Chair’s Message Is Clear: The Fight Against Inflation Isn’t Over</h3>
+<sub>By Jeanna Smialek</sub>
+<p>Jerome H. Powell, the head of the Federal Reserve, struck a resolute tone in a speech at the central bank’s most closely watched conference.  <a href="https://nyti.ms/3Ec8uh1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>U.S. Consumers Are Showing Signs of Stress, Retailers Say</h3>
+<sub>By Jordyn Holman</sub>
+<p>Consumer spending remains resilient, but retailers’ latest earnings offered a glimpse into worrying shifts in shopping habits.  <a href="https://nyti.ms/3KXw7h1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Why the Stock Market’s Summer Doldrums Are Not a Problem</h3>
+<sub>By Jeff Sommer</sub>
+<p>After a fierce rally largely propelled by a handful of tech stocks, the market’s rapid climb stalled in August. That setback could ultimately be a good thing, our columnist says.  <a href="https://nyti.ms/47PoL94"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Maui Officials Blame Utility for Allowing Deadly Fire to Start</h3>
-<sub>By Mitch Smith</sub>
-<p>In a new lawsuit, Maui County said Hawaiian Electric acted negligently by failing to disconnect power lines that were at risk of toppling in high winds.  <a href="https://nyti.ms/3YSeyoE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Didn’t Hear Question on Maui He Appeared to Brush Off, White House Says</h3>
-<sub>By Erica L. Green</sub>
-<p>The president has faced criticism that his “no comment,” in apparent response to a query on the mounting death toll of the wildfires, was callous.  <a href="https://nyti.ms/461LX2z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 24, Central Standard Time</sub></sub>
+<h3>Hawaii Officials Release List of 388 People Missing From Maui Fires</h3>
+<sub>By Tim Arango and Nicholas Bogel-Burroughs</sub>
+<p>The list names people still unaccounted for after wildfires devastated the town of Lahaina and other areas. Officials asked anyone on the list who survived the fires to come forward.  <a href="https://nyti.ms/47P1JiY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>Dream Jobs in the World of Culture and What You Get for Doing Them</h3>
@@ -122,22 +122,16 @@ Finally, on a more positive note, there are dream jobs in the culture and art in
 <p>Amid sensitivity over income inequality in their ranks as well as post-pandemic financial strains, several cultural organizations have reduced the housing benefit they provided former directors.  <a href="https://nyti.ms/45JCFrD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 25, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Mental Health Spending Surged During the Pandemic</h3>
+<sub>By Ellen Barry</sub>
+<p>Americans’ use of mental health services pivoted to remote visits and increased considerably, a new study found. Economists think both changes are here to stay.  <a href="https://nyti.ms/44l02GY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 25, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Yale Students Got a Terrifying Message. From the Campus Police.</h3>
 <sub>By Amelia Nierenberg</sub>
 <p>There was anger after the campus police union — which is renegotiating a contract — shared a safety flier with a picture of the Grim Reaper on it.  <a href="https://nyti.ms/3EdPvmq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>This Is Public Housing. Just Don’t Call It That.</h3>
-<sub>By Conor Dougherty</sub>
-<p>Montgomery County, Md., like many places, has an affordable housing crisis. So it started acting like a benevolent real estate investor.  <a href="https://nyti.ms/480yaer"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>He Tracks Elusive Amazon Tribes, but Only From the Shadows</h3>
-<sub>By Manuela Andreoni and Jack Nicas</sub>
-<p>Jair Candor combs the forest for Indigenous people who want no contact with outsiders. The goal: to prove they exist so their land can be legally protected.  <a href="https://nyti.ms/3P9dLfw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 25, Central Standard Time</sub></sub>
 <hr/>
 </ol>
