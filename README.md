@@ -60,13 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, August 26, Central Standard Time</p>
 <p>
-There is a lot going on around the world at the moment. In economic news, there is speculation about how US relations with China will be impacted by the country&#39;s economic woes. US Commerce Secretary Raimondo is currently in China trying to strike a balance between promoting trade and restricting it. In other news, former President Trump and his co-defendants in Georgia are already engaging in legal wrangling ahead of their trials. 
-
-In Ukraine, there is still fallout from a private military force left behind by businessman Prigozhin. Russian forces have held back areas, resulting in a costly fight for Ukrainian territory. To counteract this, Ukraine&#39;s commander recently called for more defense measures in the northeast against possible Russian expansion. 
-
-Meanwhile, Spanish soccer federation has announced plans to sue after one of its players publicly described an incident of sexual assault by the president of the federation. 
-
-In New York City, birders have been making unexpected discoveries at different parts of the city such as rare brown boobies and pink-footed geese. On top of that, allegations of rampant sexual harassment and discrimination have filled the National Association of Realtor&#39;s ranks while many health disparities in wealthy versus poorer neighborhoods have been highlighted with respect to weight loss medication prescriptions. Finally, we have seen some reflection on how the civil rights movement began with Martin Luther King&#39;s &quot;I Have a Dream&quot; speech at the March on Washington, though such activism had actually begun much earlier on Harlem streets back in 1963 despite efforts by many to stop this from happening.</p>
+It looks like there is a lot happening around the world right now! China&#39;s economic woes are having implications for the U.S. and Commerce Secretary Raimondo is traveling to the country to try to figure out a balance between promoting trade and restricting it. In Georgia, former President Trump and his defendants in court are already at odds with each other. FIFA has suspended a Spanish Soccer Federation president who was involved in a post-game kiss, which has raised debate about how women are treated in Spanish soccer. In the U.S., 38 year-old entrepreneur Vivek Ramaswamy is running for office and making inaccurate claims about climate change as well as the Jan 6th Capitol attack. A singer&#39;s number-one hit has sparked discussion about politics after presidential candidates referenced it in a debate. Birders are on an eternal search for an elusive &#39;Nemesis Bird&#39;. In New York City, rare bird sightings are now possible during certain times of year. In Ukraine, Russia left behind a battlefield that the country is still grappling with. The Kremlin is considering how to bring a private military group under its control and the Ukrainian Commander is calling for more defense measures in the northeast as Russia threatens to take more territory.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>What China’s Economic Woes May Mean for the U.S.</h3>
@@ -87,6 +81,42 @@ In New York City, birders have been making unexpected discoveries at different p
 <sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>FIFA Suspends Spanish Soccer Federation Chief Involved in Post-Game Kiss</h3>
+<sub>By Aaron Boxerman and Constant Méheut</sub>
+<p>The kiss and its aftermath have stirred debate over the treatment of women in Spanish soccer.  <a href="https://nyti.ms/3EeyKr8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Ramaswamy, the Millennial Candidate, Has a Lot to Say About His Generation</h3>
+<sub>By Jonathan Weisman</sub>
+<p>The 38-year-old entrepreneur says he has a plan to fix what ails Americans his age and younger, but many of his positions are out of step with those voters.  <a href="https://nyti.ms/45I0b8v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Fact-Checking Vivek Ramaswamy on the Campaign Trail</h3>
+<sub>By Linda Qiu</sub>
+<p>The upstart Republican candidate has made inaccurate claims about climate change as well as the Jan. 6 attack on the Capitol, while mischaracterizing his own positions and past comments.  <a href="https://nyti.ms/47Pu1tn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Singer of ‘Rich Men North of Richmond’ Says It’s Not a Republican Anthem</h3>
+<sub>By Livia Albeck-Ripka</sub>
+<p>“I wrote this song about those people,” Oliver Anthony said of his No. 1 hit, after presidential candidates answered a question about his Billboard hit at their first debate.  <a href="https://nyti.ms/45qTSGH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>The Eternal Search for the ‘Nemesis Bird’</h3>
+<sub>By Joe Trezza</sub>
+<p>For every devoted birder, there is a bird that continues to elude sighting.  <a href="https://nyti.ms/3QV0M2g"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>In New York City, the Odds of Spotting a Rare Bird are Rising</h3>
+<sub>By Lola Fadulu</sub>
+<p>Sharp-eyed birders might spot brown boobies, a tropical species once rare even in the Southern states. A flock of Canada geese might just include a pink-footed goose, too.  <a href="https://nyti.ms/47NDmls"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ukraine Is Still Grappling With the Battlefield Prigozhin Left Behind</h3>
 <sub>By Paul Sonne</sub>
 <p>He shored up Russian forces at their most vulnerable and drew Ukraine into a costly fight for Bakhmut, giving Moscow time to build defenses that are slowing Ukraine’s counteroffensive.  <a href="https://nyti.ms/3QZ1trt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -101,43 +131,7 @@ In New York City, birders have been making unexpected discoveries at different p
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ukrainian Commander Urges More Defenses in the Northeast</h3>
 <sub>By Thomas Gibbons-Neff</sub>
-<p>In an apparent break with Pentagon advice, Gen. Oleksandr Syrsky, the commander of Ukraine’s eastern forces, called for “all measures” to defend an area where Russia was threatening to take more territory.  <a href="https://nyti.ms/47GEpng"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Spanish Soccer Federation Says It Will Sue Over Player’s Account of Kiss</h3>
-<sub>By Aaron Boxerman</sub>
-<p>The group said it was defending the honor of its president, Luis Rubiales, who kissed the player, Jennifer Hermoso. Players have vowed not to take the field until he resigns.  <a href="https://nyti.ms/3EeyKr8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>The Eternal Search for the ‘Nemesis Bird’</h3>
-<sub>By Joe Trezza</sub>
-<p>For every devoted birder, there is a bird that continues to elude sighting.  <a href="https://nyti.ms/3QV0M2g"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>In New York City, the Odds of Spotting a Rare Bird are Rising</h3>
-<sub>By Lola Fadulu</sub>
-<p>Sharp-eyed birders might spot brown boobies, a tropical species once rare even in the Southern states. A flock of Canada geese might just include a pink-footed goose, too.  <a href="https://nyti.ms/47NDmls"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-realestate-blue" alt="">
-<h3>Women Say Sexual Harassment and Discrimination Is Rife in Group for Realtors</h3>
-<sub>By Debra Kamin</sub>
-<p>The powerful National Association of Realtors has ignored sexual harassment complaints, including those against the group’s president, current and former employees say.  <a href="https://nyti.ms/45JxTKH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>The 1963 March on Washington Changed America. Its Roots Were in Harlem.</h3>
-<sub>By John Leland</sub>
-<p>Before Martin Luther King Jr. gave his “I Have a Dream” speech to 250,000 people, a group of civil rights activists spent a summer planning an event many didn’t want to happen.  <a href="https://nyti.ms/47LGoqv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>The N.Y.C. Neighborhood That’s Getting Even Thinner on Ozempic</h3>
-<sub>By Joseph Goldstein</sub>
-<p>Prescriptions for a new class of medications used for diabetes and weight loss are concentrated in the city’s wealthier, whiter and healthier neighborhoods.  <a href="https://nyti.ms/45GIBSg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>In an apparent break with Pentagon advice, Oleksandr Syrsky, Ukraine’s top general in the east, called for “all measures” to defend an area where Russia was threatening to take more territory.  <a href="https://nyti.ms/47GEpng"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
 <hr/>
 </ol>
