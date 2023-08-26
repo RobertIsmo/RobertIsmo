@@ -60,79 +60,85 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, August 26, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. In Hawaii, officials have released their first list of missing people following the devastating fires. Native Hawaiians are finding strength in traditional spirituality and culture as they strive to rebuild. In China, a crisis of confidence is gripping the economy and leading to increased despair. Meanwhile in the U.S., retailers are seeing shifts in consumer spending habits and presidential candidates are seeking to cash in on their first formal debate. In Russia, there has been speculation that Putin&#39;s chief associate, Prigozhin, has been killed as a show of power. Lastly, Ukraine is sending Russia a message through drone strikes, showing that Kyiv can still fight back.</p>
+There is a lot going on around the world at the moment. In economic news, there is speculation about how US relations with China will be impacted by the country&#39;s economic woes. US Commerce Secretary Raimondo is currently in China trying to strike a balance between promoting trade and restricting it. In other news, former President Trump and his co-defendants in Georgia are already engaging in legal wrangling ahead of their trials. 
+
+In Ukraine, there is still fallout from a private military force left behind by businessman Prigozhin. Russian forces have held back areas, resulting in a costly fight for Ukrainian territory. To counteract this, Ukraine&#39;s commander recently called for more defense measures in the northeast against possible Russian expansion. 
+
+Meanwhile, Spanish soccer federation has announced plans to sue after one of its players publicly described an incident of sexual assault by the president of the federation. 
+
+In New York City, birders have been making unexpected discoveries at different parts of the city such as rare brown boobies and pink-footed geese. On top of that, allegations of rampant sexual harassment and discrimination have filled the National Association of Realtor&#39;s ranks while many health disparities in wealthy versus poorer neighborhoods have been highlighted with respect to weight loss medication prescriptions. Finally, we have seen some reflection on how the civil rights movement began with Martin Luther King&#39;s &quot;I Have a Dream&quot; speech at the March on Washington, though such activism had actually begun much earlier on Harlem streets back in 1963 despite efforts by many to stop this from happening.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Among the 388 Listed as Missing in Maui: Survivors Lost in the Paperwork</h3>
-<sub>By Tim Arango and Nicholas Bogel-Burroughs</sub>
-<p>Hawaii officials released their first list of missing people, prompting friends — and even some of those named — to come forward with their whereabouts.  <a href="https://nyti.ms/47P1JiY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>After the Fires, Native Hawaiians Seek Revival Through Ritual</h3>
-<sub>By Ruth Graham and Damien Cave</sub>
-<p>On an island where Christianity and Buddhism are also prominent, many are finding strength in traditional Hawaiian spirituality and culture.  <a href="https://nyti.ms/3KWPaIC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 25, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>What China’s Economic Woes May Mean for the U.S.</h3>
+<sub>By Lydia DePillis</sub>
+<p>The fallout is probably limited — and there may be some upside for American interests.  <a href="https://nyti.ms/47PtZSh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>A Crisis of Confidence Is Gripping China’s Economy</h3>
-<sub>By Daisuke Wakabayashi and Claire Fu</sub>
-<p>China’s economy, which once seemed unstoppable, is plagued by a series of problems, and a growing lack of faith in the future is verging on despair.  <a href="https://nyti.ms/45IHKAr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.S. Consumers Are Showing Signs of Stress, Retailers Say</h3>
-<sub>By Jordyn Holman</sub>
-<p>Consumer spending remains resilient, but retailers’ latest earnings offered a glimpse into worrying shifts in shopping habits.  <a href="https://nyti.ms/3KXw7h1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Silicon Valley Elite Who Want to Build a City From Scratch</h3>
-<sub>By Conor Dougherty and Erin Griffith</sub>
-<p>A mysterious company has spent $800 million in an effort to buy thousands of acres of San Francisco Bay Area land. The people behind the deals are said to be a who’s who of the tech industry.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 25, Central Standard Time</sub></sub>
+<h3>Raimondo Heads to China to Both Promote Trade, and Restrict It</h3>
+<sub>By Ana Swanson</sub>
+<p>The commerce secretary’s trip may be the clearest demonstration yet of the balancing act the Biden administration is trying to pull off in its relations with China.  <a href="https://nyti.ms/463vQS7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Candidates Look to Cash In on First G.O.P. Debate — Especially Haley and Pence</h3>
-<sub>By Rebecca Davis O’Brien</sub>
-<p>Campaigns saw the nationally televised event, the first of the 2024 campaign, not just as a way to reach voters, but also as an appeal to donors big and small.  <a href="https://nyti.ms/3EbT8sP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Story Behind DeSantis’s Anecdote About an ‘Abortion Survivor’</h3>
-<sub>By Lisa Lerer and Nicholas Nehamas</sub>
-<p>Gov. Ron DeSantis of Florida has been retelling Miriam Hopper’s 1955 birth story. The details are jarring, highly unusual and unverifiable.  <a href="https://nyti.ms/3QVxOzr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>For Tim Scott, the Debate Was the Moment That Wasn’t</h3>
-<sub>By Maya King and Shane Goldmacher</sub>
-<p>At the G.O.P. debate, the senator often faded into the background. “He was one that I wanted to hear more from,” one voter said as he sought to regain momentum in New Hampshire.  <a href="https://nyti.ms/3soPaKR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Singer of ‘Rich Men North of Richmond’ Says It’s Not a Republican Anthem</h3>
-<sub>By Livia Albeck-Ripka</sub>
-<p>“I wrote this song about those people,” Oliver Anthony said of his No. 1 hit, after presidential candidates answered a question about his Billboard hit at their first debate.  <a href="https://nyti.ms/45qTSGH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 25, Central Standard Time</sub></sub>
+<h3>Trump and His Co-Defendants in Georgia Are Already at Odds</h3>
+<sub>By Richard Fausset and Danny Hakim</sub>
+<p>Some defendants have already sought to move the case to federal court, while others are seeking speedy or separate trials.  <a href="https://nyti.ms/3OVAzhw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>With Prigozhin’s Death, Putin Projects a Message of Power</h3>
-<sub>By Anton Troianovski and Valerie Hopkins</sub>
-<p>The Kremlin appears to be sending the signal that no degree of effectiveness can protect someone from punishment for disloyalty.  <a href="https://nyti.ms/3PeE83X"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia Denies Killing Prigozhin, Calling the Idea Anti-Putin Propaganda</h3>
-<sub>By Paul Sonne, Valeriya Safronova and Cassandra Vinograd</sub>
-<p>The Kremlin and its proxies rebuffed suggestions that it was responsible for destroying a plane that reportedly carried the chief of the Wagner mercenary group.  <a href="https://nyti.ms/3QVjGGz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 25, Central Standard Time</sub></sub>
+<h3>Ukraine Is Still Grappling With the Battlefield Prigozhin Left Behind</h3>
+<sub>By Paul Sonne</sub>
+<p>He shored up Russian forces at their most vulnerable and drew Ukraine into a costly fight for Bakhmut, giving Moscow time to build defenses that are slowing Ukraine’s counteroffensive.  <a href="https://nyti.ms/3QZ1trt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Ukraine’s Drone Strikes Against Russia Are a Message for Its Own People</h3>
-<sub>By Julian E. Barnes</sub>
-<p>U.S. officials say they expect Ukraine to continue its attacks because they send a strong message: Kyiv can still strike back.  <a href="https://nyti.ms/45DYAjO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 25, Central Standard Time</sub></sub>
+<h3>Kremlin Considers How to Bring Private Military Group Under Its Control</h3>
+<sub>By Julian E. Barnes and Eric Schmitt</sub>
+<p>Wagner could be absorbed into Russia’s Defense Ministry or its military intelligence arm. A Russian general could also be installed to lead the group, U.S. and Western officials said.  <a href="https://nyti.ms/3YTReqc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukrainian Commander Urges More Defenses in the Northeast</h3>
+<sub>By Thomas Gibbons-Neff</sub>
+<p>In an apparent break with Pentagon advice, Gen. Oleksandr Syrsky, the commander of Ukraine’s eastern forces, called for “all measures” to defend an area where Russia was threatening to take more territory.  <a href="https://nyti.ms/47GEpng"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Spanish Soccer Federation Says It Will Sue Over Player’s Account of Kiss</h3>
+<sub>By Aaron Boxerman</sub>
+<p>The group said it was defending the honor of its president, Luis Rubiales, who kissed the player, Jennifer Hermoso. Players have vowed not to take the field until he resigns.  <a href="https://nyti.ms/3EeyKr8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>The Eternal Search for the ‘Nemesis Bird’</h3>
+<sub>By Joe Trezza</sub>
+<p>For every devoted birder, there is a bird that continues to elude sighting.  <a href="https://nyti.ms/3QV0M2g"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>In New York City, the Odds of Spotting a Rare Bird are Rising</h3>
+<sub>By Lola Fadulu</sub>
+<p>Sharp-eyed birders might spot brown boobies, a tropical species once rare even in the Southern states. A flock of Canada geese might just include a pink-footed goose, too.  <a href="https://nyti.ms/47NDmls"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-realestate-blue" alt="">
+<h3>Women Say Sexual Harassment and Discrimination Is Rife in Group for Realtors</h3>
+<sub>By Debra Kamin</sub>
+<p>The powerful National Association of Realtors has ignored sexual harassment complaints, including those against the group’s president, current and former employees say.  <a href="https://nyti.ms/45JxTKH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>The 1963 March on Washington Changed America. Its Roots Were in Harlem.</h3>
+<sub>By John Leland</sub>
+<p>Before Martin Luther King Jr. gave his “I Have a Dream” speech to 250,000 people, a group of civil rights activists spent a summer planning an event many didn’t want to happen.  <a href="https://nyti.ms/47LGoqv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>The N.Y.C. Neighborhood That’s Getting Even Thinner on Ozempic</h3>
+<sub>By Joseph Goldstein</sub>
+<p>Prescriptions for a new class of medications used for diabetes and weight loss are concentrated in the city’s wealthier, whiter and healthier neighborhoods.  <a href="https://nyti.ms/45GIBSg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
