@@ -60,9 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, August 25, Central Standard Time</p>
 <p>
-The world is going through some difficult times right now. The global economy is facing big problems, including an ongoing crisis of confidence in China. Consumers in the US are showing signs of stress too, which makes sense as the Federal Reserve&#39;s chair recently said that the fight against inflation isn&#39;t over yet. Meanwhile, some Silicon Valley tech billionaires are taking on a huge project to build a city from scratch in the San Francisco area. 
-
-In other news, Russia appears to be pursuing long-term influence operations directed at both the US and Europe, while back home in America, 19 people have been charged in an expansive legal case involving former President Trump&#39;s attempts to hold on to power. In the entertainment world, the director of London&#39;s British Museum stepped down after an employee was fired for theft, and Yale students were angered by a safety flier with a picture of the Grim Reaper that was shared by their campus police (who are renegotiating a contract). Finally, in Hawaii, officials recently released a list of 388 people missing from major wildfires that devastated parts of Maui. It&#39;s certainly not an easy time for anyone!</p>
+World affairs seem to be increasingly unstable and complex. In China, the economy is struggling with a growing lack of confidence in the future. In the U.S., retailers are noticing worrisome shifts in consumer spending habits and presidential candidates are already vying for donors ahead of the 2024 campaign. Meanwhile, a mysterious company has been buying up large amounts of land in the Bay Area. In Hawaii, wildfires have left hundreds unaccounted for and native Hawaiians are seeking spiritual guidance. Russia has experienced a number of plane crashes, including one carrying the chief of a mercenary group; Moscow denies responsibility but many believe Putin sent the message that loyalty must be earned. Lastly, Ukraine continues its drone strikes against Russia as a show of strength and resilience to its own people.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>A Crisis of Confidence Is Gripping China’s Economy</h3>
@@ -77,15 +75,45 @@ In other news, Russia appears to be pursuing long-term influence operations dire
 <sub><sub>Friday, August 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Fed Chair’s Message Is Clear: The Fight Against Inflation Isn’t Over</h3>
-<sub>By Jeanna Smialek</sub>
-<p>Jerome H. Powell, the head of the Federal Reserve, struck a resolute tone in a speech at the central bank’s most closely watched conference.  <a href="https://nyti.ms/3Ec8uh1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>The Silicon Valley Elite Who Want to Build a City From Scratch</h3>
 <sub>By Conor Dougherty and Erin Griffith</sub>
 <p>A mysterious company has spent $800 million in an effort to buy thousands of acres of San Francisco Bay Area land. The people behind the deals are said to be a who’s who of the tech industry.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Candidates Look to Cash In on First G.O.P. Debate — Especially Haley and Pence</h3>
+<sub>By Rebecca Davis O’Brien</sub>
+<p>Campaigns saw the nationally televised event, the first of the 2024 campaign, not just as a way to reach voters, but also as an appeal to donors big and small.  <a href="https://nyti.ms/3EbT8sP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Story Behind DeSantis’s Anecdote About an ‘Abortion Survivor’</h3>
+<sub>By Lisa Lerer and Nicholas Nehamas</sub>
+<p>Gov. Ron DeSantis of Florida has been retelling Miriam Hopper’s 1955 birth story. The details are jarring, highly unusual and unverifiable.  <a href="https://nyti.ms/3QVxOzr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>For Tim Scott, the Debate Was the Moment That Wasn’t</h3>
+<sub>By Maya King and Shane Goldmacher</sub>
+<p>At the G.O.P. debate, the senator often faded into the background. “He was one that I wanted to hear more from,” one voter said as he sought to regain momentum in New Hampshire.  <a href="https://nyti.ms/3soPaKR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Singer of ‘Rich Men North of Richmond’ Says It’s Not a Republican Anthem</h3>
+<sub>By Livia Albeck-Ripka</sub>
+<p>“I wrote this song about those people,” Oliver Anthony said of his No. 1 hit, after presidential candidates answered a question about his Billboard hit at their first debate.  <a href="https://nyti.ms/45qTSGH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Hawaii Officials Release List of 388 People Missing From Maui Fires</h3>
+<sub>By Tim Arango and Nicholas Bogel-Burroughs</sub>
+<p>The list names people still unaccounted for after wildfires devastated the town of Lahaina and other areas. Officials asked anyone on the list who survived the fires to come forward.  <a href="https://nyti.ms/47P1JiY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>After the Fires, Native Hawaiians Seek Revival Through Ritual</h3>
+<sub>By Ruth Graham and Damien Cave</sub>
+<p>On an island where Christianity and Buddhism are also prominent, many are finding strength in traditional Hawaiian spirituality and culture.  <a href="https://nyti.ms/3KWPaIC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -94,46 +122,16 @@ In other news, Russia appears to be pursuing long-term influence operations dire
 <p>The Kremlin appears to be sending the signal that no degree of effectiveness can protect someone from punishment for disloyalty.  <a href="https://nyti.ms/3PeE83X"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Russia Pushes Long-Term Influence Operations Aimed at the U.S. and Europe</h3>
-<sub>By Julian E. Barnes</sub>
-<p>A newly declassified American intelligence analysis says Russian spy agencies are using influence laundering techniques to hide the Kremlin’s involvement in cultivating pro-Russia and anti-Ukraine messages.  <a href="https://nyti.ms/3QT8hXw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 25, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Spanish Women’s Squad Refuses to Play Until Soccer Chief Resigns</h3>
-<sub>By Rachel Chaundler</sub>
-<p>The players demanded change after Luis Rubiales declined to quit over kissing Jennifer Hermoso, a member of the World Cup-winning team.  <a href="https://nyti.ms/3QXO2bh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Russia Denies Killing Prigozhin, Calling the Idea Anti-Putin Propaganda</h3>
+<sub>By Paul Sonne, Valeriya Safronova and Cassandra Vinograd</sub>
+<p>The Kremlin and its proxies rebuffed suggestions that it was responsible for destroying a plane that reportedly carried the chief of the Wagner mercenary group.  <a href="https://nyti.ms/3QVjGGz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Jeffrey Clark, Former Justice Department Official, Booked in Trump Georgia Case</h3>
-<sub>By Richard Fausset</sub>
-<p>All 19 defendants in the state election interference case involving former President Donald J. Trump have now turned themselves in, and all but one have been released.  <a href="https://nyti.ms/3qLvqRg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Who Has Been Charged in the Election Inquiry in Georgia</h3>
-<sub>By The New York Times</sub>
-<p>Nineteen people, including former President Donald J. Trump, have been charged in an expansive legal case challenging Mr. Trump’s attempts to cling to power.  <a href="https://nyti.ms/3YBhFAT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>British Museum Director Resigns After Worker Fired for Theft</h3>
-<sub>By Alex Marshall</sub>
-<p>Hartwig Fischer, who had led the museum since 2016, said that the museum’s failure to adequately respond to earlier warnings “must ultimately rest with the director.”  <a href="https://nyti.ms/45pRjo7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Yale Students Got a Terrifying Message. From the Campus Police.</h3>
-<sub>By Amelia Nierenberg</sub>
-<p>There was anger after the campus police union — which is renegotiating a contract — shared a safety flier with a picture of the Grim Reaper on it.  <a href="https://nyti.ms/3EdPvmq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Hawaii Officials Release List of 388 People Missing From Maui Fires</h3>
-<sub>By Tim Arango and Nicholas Bogel-Burroughs</sub>
-<p>The list names people still unaccounted for after wildfires devastated the town of Lahaina and other areas. Officials asked anyone on the list who survived the fires to come forward.  <a href="https://nyti.ms/47P1JiY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Ukraine’s Drone Strikes Against Russia Are a Message for Its Own People</h3>
+<sub>By Julian E. Barnes</sub>
+<p>U.S. officials say they expect Ukraine to continue its attacks because they send a strong message: Kyiv can still strike back.  <a href="https://nyti.ms/45DYAjO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 25, Central Standard Time</sub></sub>
 <hr/>
 </ol>
