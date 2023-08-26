@@ -60,38 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, August 26, Central Standard Time</p>
 <p>
-The world is currently having to navigate many complex situations. China is facing economic difficulties which could potentially have an effect on the U.S., and U.S. policymakers are trying to find ways to strike a balance with China. Trump and his co-defendants in Georgia are clashing in court. Bob Barker, a famous television host, died at 99. FIFA has suspended a Spanish soccer federation chief for their involvement in a post-game kiss. A Millennial candidate by the name of Vivek Ramsawmy is running for office in the United States and has gotten some attention due to fact-checking around his campaign trail claims. A singer of the popular song &quot;Rich Men North of Richmond&quot; has stated that it was not intended as a Republican anthem. Bird watchers are searching for a rare species known as the Nemesis bird, while more exotic birds have started showing up in New York City. Lastly, Ukraine is still dealing with a battlefield left behind by a Russian contractor, while Russia is looking into ways to gradually bring the private military group led by this contractor under its control.</p>
+There&#39;s a lot going on in the world right now! In the US, there&#39;s a 38-year-old Republican candidate for office named Vivek Ramaswamy who&#39;s trying to appeal to younger voters, but is making some inaccurate claims along the way. There&#39;s also been a Republican presidential debate, and Oliver Anthony, the singer of a hit song called &quot;Rich Men North of Richmond,&quot; is pushing back against its being mistaken for a Republican anthem. 
+
+In terms of international news, there have been some headlines coming out of China recently concerning their economy and potential impacts on the US. Meanwhile, FIFA has suspended Spanish soccer federation chief involved in post-game kiss due to the fallout it created over perceived sexism. 
+
+Ukraine is in the news with news of Yevgeny V. Prigozhin, leader of the Wagner private militia, whose presumed death was just reported this week - with many residents not feeling any sorrow for him. The Ukrainian commander has also been calling for more defenses in northeast Ukraine as Russia continues to push forward with plans to take more territory there.</p>
 <ol>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>What China’s Economic Woes May Mean for the U.S.</h3>
-<sub>By Lydia DePillis</sub>
-<p>The fallout is probably limited — and there may be some upside for American interests.  <a href="https://nyti.ms/47PtZSh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Raimondo Heads to China to Both Promote Trade, and Restrict It</h3>
-<sub>By Ana Swanson</sub>
-<p>The commerce secretary’s trip may be the clearest demonstration yet of the balancing act the Biden administration is trying to pull off in its relations with China.  <a href="https://nyti.ms/463vQS7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump and His Co-Defendants in Georgia Are Already at Odds</h3>
-<sub>By Richard Fausset and Danny Hakim</sub>
-<p>Some defendants have already sought to move the case to federal court, while others are seeking speedy or separate trials.  <a href="https://nyti.ms/3OVAzhw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Bob Barker, Longtime Host of ‘The Price Is Right,’ Dies at 99</h3>
-<sub>By Richard Severo</sub>
-<p>The winner of numerous Emmy Awards, he was almost as well known for his advocacy of animal rights as he was for his half a century as a daytime television fixture.  <a href="https://nyti.ms/3qPbv3Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>FIFA Suspends Spanish Soccer Federation Chief Involved in Post-Game Kiss</h3>
-<sub>By Aaron Boxerman and Constant Méheut</sub>
-<p>The kiss and its aftermath have stirred debate over the treatment of women in Spanish soccer.  <a href="https://nyti.ms/3EeyKr8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Ramaswamy, the Millennial Candidate, Has a Lot to Say About His Generation</h3>
 <sub>By Jonathan Weisman</sub>
@@ -104,22 +78,46 @@ The world is currently having to navigate many complex situations. China is faci
 <p>The upstart Republican candidate has made inaccurate claims about climate change as well as the Jan. 6 attack on the Capitol, while mischaracterizing his own positions and past comments.  <a href="https://nyti.ms/47Pu1tn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Candidates Look to Cash In on First G.O.P. Debate — Especially Haley and Pence</h3>
+<sub>By Rebecca Davis O’Brien</sub>
+<p>Campaigns saw the nationally televised event, the first of the 2024 campaign, not just as a way to reach voters, but also as an appeal to donors big and small.  <a href="https://nyti.ms/3EbT8sP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 25, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>Singer of ‘Rich Men North of Richmond’ Says It’s Not a Republican Anthem</h3>
 <sub>By Livia Albeck-Ripka</sub>
 <p>“I wrote this song about those people,” Oliver Anthony said of his No. 1 hit, after presidential candidates answered a question about his Billboard hit at their first debate.  <a href="https://nyti.ms/45qTSGH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 25, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>What China’s Economic Woes May Mean for the U.S.</h3>
+<sub>By Lydia DePillis</sub>
+<p>The fallout is probably limited — and there may be some upside for American interests.  <a href="https://nyti.ms/47PtZSh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Bob Barker, Longtime Host of ‘The Price Is Right,’ Dies at 99</h3>
+<sub>By Richard Severo</sub>
+<p>The winner of numerous Emmy Awards, he was almost as well known for his advocacy of animal rights as he was for his half a century as a daytime television fixture.  <a href="https://nyti.ms/3qPbv3Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump and His Co-Defendants in Georgia Are Already at Odds</h3>
+<sub>By Richard Fausset and Danny Hakim</sub>
+<p>Some defendants have already sought to move the case to federal court, while others are seeking speedy or separate trials.  <a href="https://nyti.ms/3OVAzhw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>FIFA Suspends Spanish Soccer Federation Chief Involved in Post-Game Kiss</h3>
+<sub>By Aaron Boxerman and Constant Méheut</sub>
+<p>The kiss and its aftermath have stirred debate over the treatment of women in Spanish soccer.  <a href="https://nyti.ms/3EeyKr8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
 <h3>The Eternal Search for the ‘Nemesis Bird’</h3>
 <sub>By Joe Trezza</sub>
 <p>For every devoted birder, there is a bird that continues to elude sighting.  <a href="https://nyti.ms/3QV0M2g"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>In New York City, the Odds of Spotting a Rare Bird are Rising</h3>
-<sub>By Lola Fadulu</sub>
-<p>Sharp-eyed birders might spot brown boobies, a tropical species once rare even in the Southern states. A flock of Canada geese might just include a pink-footed goose, too.  <a href="https://nyti.ms/47NDmls"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -128,10 +126,16 @@ The world is currently having to navigate many complex situations. China is faci
 <p>He shored up Russian forces at their most vulnerable and drew Ukraine into a costly fight for Bakhmut, giving Moscow time to build defenses that are slowing Ukraine’s counteroffensive.  <a href="https://nyti.ms/3QZ1trt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Kremlin Considers How to Bring Private Military Group Under Its Control</h3>
-<sub>By Julian E. Barnes and Eric Schmitt</sub>
-<p>Wagner could be absorbed into Russia’s Defense Ministry or its military intelligence arm. A Russian general could also be installed to lead the group, U.S. and Western officials said.  <a href="https://nyti.ms/3YTReqc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘He Has Blood on His Hands’</h3>
+<sub>By Marc Santora and Tyler Hicks</sub>
+<p>In a Ukraine village, there are no tears for Yevgeny V. Prigozhin, the leader of the Wagner private militia, whose presumed death in a plane crash was reported this week.  <a href="https://nyti.ms/47RIx4a"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukrainian Commander Urges More Defenses in the Northeast</h3>
+<sub>By Thomas Gibbons-Neff</sub>
+<p>In an apparent break with Pentagon advice, Oleksandr Syrsky, Ukraine’s top general in the east, called for “all measures” to defend an area where Russia was threatening to take more territory.  <a href="https://nyti.ms/47GEpng"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
 <hr/>
 </ol>
