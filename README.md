@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, August 26, Central Standard Time</p>
 <p>
-It looks like there is a lot happening around the world right now! China&#39;s economic woes are having implications for the U.S. and Commerce Secretary Raimondo is traveling to the country to try to figure out a balance between promoting trade and restricting it. In Georgia, former President Trump and his defendants in court are already at odds with each other. FIFA has suspended a Spanish Soccer Federation president who was involved in a post-game kiss, which has raised debate about how women are treated in Spanish soccer. In the U.S., 38 year-old entrepreneur Vivek Ramaswamy is running for office and making inaccurate claims about climate change as well as the Jan 6th Capitol attack. A singer&#39;s number-one hit has sparked discussion about politics after presidential candidates referenced it in a debate. Birders are on an eternal search for an elusive &#39;Nemesis Bird&#39;. In New York City, rare bird sightings are now possible during certain times of year. In Ukraine, Russia left behind a battlefield that the country is still grappling with. The Kremlin is considering how to bring a private military group under its control and the Ukrainian Commander is calling for more defense measures in the northeast as Russia threatens to take more territory.</p>
+The world is currently having to navigate many complex situations. China is facing economic difficulties which could potentially have an effect on the U.S., and U.S. policymakers are trying to find ways to strike a balance with China. Trump and his co-defendants in Georgia are clashing in court. Bob Barker, a famous television host, died at 99. FIFA has suspended a Spanish soccer federation chief for their involvement in a post-game kiss. A Millennial candidate by the name of Vivek Ramsawmy is running for office in the United States and has gotten some attention due to fact-checking around his campaign trail claims. A singer of the popular song &quot;Rich Men North of Richmond&quot; has stated that it was not intended as a Republican anthem. Bird watchers are searching for a rare species known as the Nemesis bird, while more exotic birds have started showing up in New York City. Lastly, Ukraine is still dealing with a battlefield left behind by a Russian contractor, while Russia is looking into ways to gradually bring the private military group led by this contractor under its control.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>What China’s Economic Woes May Mean for the U.S.</h3>
@@ -78,6 +78,12 @@ It looks like there is a lot happening around the world right now! China&#39;s e
 <h3>Trump and His Co-Defendants in Georgia Are Already at Odds</h3>
 <sub>By Richard Fausset and Danny Hakim</sub>
 <p>Some defendants have already sought to move the case to federal court, while others are seeking speedy or separate trials.  <a href="https://nyti.ms/3OVAzhw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Bob Barker, Longtime Host of ‘The Price Is Right,’ Dies at 99</h3>
+<sub>By Richard Severo</sub>
+<p>The winner of numerous Emmy Awards, he was almost as well known for his advocacy of animal rights as he was for his half a century as a daytime television fixture.  <a href="https://nyti.ms/3qPbv3Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -126,12 +132,6 @@ It looks like there is a lot happening around the world right now! China&#39;s e
 <h3>Kremlin Considers How to Bring Private Military Group Under Its Control</h3>
 <sub>By Julian E. Barnes and Eric Schmitt</sub>
 <p>Wagner could be absorbed into Russia’s Defense Ministry or its military intelligence arm. A Russian general could also be installed to lead the group, U.S. and Western officials said.  <a href="https://nyti.ms/3YTReqc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukrainian Commander Urges More Defenses in the Northeast</h3>
-<sub>By Thomas Gibbons-Neff</sub>
-<p>In an apparent break with Pentagon advice, Oleksandr Syrsky, Ukraine’s top general in the east, called for “all measures” to defend an area where Russia was threatening to take more territory.  <a href="https://nyti.ms/47GEpng"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
 <hr/>
 </ol>
