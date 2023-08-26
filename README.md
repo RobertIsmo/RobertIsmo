@@ -60,8 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, August 25, Central Standard Time</p>
 <p>
-World affairs seem to be increasingly unstable and complex. In China, the economy is struggling with a growing lack of confidence in the future. In the U.S., retailers are noticing worrisome shifts in consumer spending habits and presidential candidates are already vying for donors ahead of the 2024 campaign. Meanwhile, a mysterious company has been buying up large amounts of land in the Bay Area. In Hawaii, wildfires have left hundreds unaccounted for and native Hawaiians are seeking spiritual guidance. Russia has experienced a number of plane crashes, including one carrying the chief of a mercenary group; Moscow denies responsibility but many believe Putin sent the message that loyalty must be earned. Lastly, Ukraine continues its drone strikes against Russia as a show of strength and resilience to its own people.</p>
+Things are getting quite intense around the world. In Hawaii, officials released their first list of people missing in Maui, prompting friends and even some of those named to share their whereabouts. After recently-devastating fires, many locals are finding strength in traditional Hawaiian spirituality and culture. In China, their economy is plagued by problems and a growing lack of confidence in the future. US consumers are showing signs of stress, according to retailers, announcing changes in their spending habits. Recently, some Silicon Valley elite have bought thousands of acres of San Francisco Bay Area land, sparking questions about what their intentions might be. The recent GOP debate has been a way for candidates to try to appeal to donors big and small. Meanwhile, the story behind Gov. Ron DeSantis of Florida retelling an abortion survivor&#39;s birth story has been unverifiable and highly unusual. In regards to the debates, Tim Scott seemed to mostly fade into the background in New Hampshire campaigns and listeners were looking for more from him. The singer of &#39;Rich Men North of Richmond&#39; recently discussed his hit debut being mentioned at the debate saying he did not intend for this to be a Republican Anthem. Russia has denied killing a Dillon Prigozhin and called it anti-Putin propaganda; however Kyiv has continued its drone strikes against Russia in order send a message that they can still fight against foreign threats.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Among the 388 Listed as Missing in Maui: Survivors Lost in the Paperwork</h3>
+<sub>By Tim Arango and Nicholas Bogel-Burroughs</sub>
+<p>Hawaii officials released their first list of missing people, prompting friends — and even some of those named — to come forward with their whereabouts.  <a href="https://nyti.ms/47P1JiY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>After the Fires, Native Hawaiians Seek Revival Through Ritual</h3>
+<sub>By Ruth Graham and Damien Cave</sub>
+<p>On an island where Christianity and Buddhism are also prominent, many are finding strength in traditional Hawaiian spirituality and culture.  <a href="https://nyti.ms/3KWPaIC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 25, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>A Crisis of Confidence Is Gripping China’s Economy</h3>
 <sub>By Daisuke Wakabayashi and Claire Fu</sub>
@@ -102,18 +114,6 @@ World affairs seem to be increasingly unstable and complex. In China, the econom
 <h3>Singer of ‘Rich Men North of Richmond’ Says It’s Not a Republican Anthem</h3>
 <sub>By Livia Albeck-Ripka</sub>
 <p>“I wrote this song about those people,” Oliver Anthony said of his No. 1 hit, after presidential candidates answered a question about his Billboard hit at their first debate.  <a href="https://nyti.ms/45qTSGH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Hawaii Officials Release List of 388 People Missing From Maui Fires</h3>
-<sub>By Tim Arango and Nicholas Bogel-Burroughs</sub>
-<p>The list names people still unaccounted for after wildfires devastated the town of Lahaina and other areas. Officials asked anyone on the list who survived the fires to come forward.  <a href="https://nyti.ms/47P1JiY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>After the Fires, Native Hawaiians Seek Revival Through Ritual</h3>
-<sub>By Ruth Graham and Damien Cave</sub>
-<p>On an island where Christianity and Buddhism are also prominent, many are finding strength in traditional Hawaiian spirituality and culture.  <a href="https://nyti.ms/3KWPaIC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
