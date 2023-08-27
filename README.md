@@ -60,10 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, August 26, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now! In the US, a 38-year-old entrepreneur is running for office and calling for policy changes to support millennials. In Iowa, a voter asked the Florida governor where he stands regarding former US President Trump. Also in the US, Bob Barker, a famous TV presenter and advocate for animal rights, passed away. 
-
-In business news, there is discussion about how China&#39;s current economic troubles might affect the US. On an international note, FIFA suspended the president of the Spanish soccer federation over a post-game kiss. 
-In Russia, there has been backlash against Yevgeny V. Prigozhin after reports of his death in a plane crash. Meanwhile in Ukraine, an orchestra played Beethoven&#39;s Ninth Symphony as sign of freedom while their top commander calls for more defenses in response to Russia&#39;s possible territorial expansions.</p>
+It&#39;s been a busy few days in the news - there&#39;s a 38-year-old entrepreneur running for office and looking to fix what ails Millennials and younger Americans. In Iowa, controversial Florida governor DeSantis faced questions from voters. China is facing major economic difficulties that may have some effect on the US economy. Long running The Price Is Right host Bob Barker passed away, having put enormous effort into animal rights advocacy during his life. There was also a large March on Washington to commemorate Martin Luther King&#39;s famous &#39;I Have a Dream&#39; speech, as well as an &quot;Ode to Joy&quot; performed by the Ukrainian Freedom Orchestra in pursuit of Ukrainian self-determination. In NY, mourners called for the NYPD sergeant responsible for killing Eric Duprey to be charged, and a racially motivated shooting at a Dollar General store near Jacksonville resulted in 3 deaths. A US judge has shaken the very foundations of US government cases at Guantánamo Bay post 9&#x2F;11 by dismissing a confession related to the bombing of the USS Cole.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Ramaswamy, the Millennial Candidate, Has a Lot to Say About His Generation</h3>
@@ -83,12 +80,6 @@ In Russia, there has been backlash against Yevgeny V. Prigozhin after reports of
 <p>The fallout is probably limited — and there may be some upside for American interests.  <a href="https://nyti.ms/47PtZSh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Raimondo Heads to China to Both Promote Trade, and Restrict It</h3>
-<sub>By Ana Swanson</sub>
-<p>The commerce secretary’s trip may be the clearest demonstration yet of the balancing act the Biden administration is trying to pull off in its relations with China.  <a href="https://nyti.ms/463vQS7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>Bob Barker, Longtime Host of ‘The Price Is Right,’ Dies at 99</h3>
 <sub>By Richard Severo</sub>
@@ -102,21 +93,15 @@ In Russia, there has been backlash against Yevgeny V. Prigozhin after reports of
 <sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump and His Co-Defendants in Georgia Are Already at Odds</h3>
-<sub>By Richard Fausset and Danny Hakim</sub>
-<p>Some defendants have already sought to move the case to federal court, while others are seeking speedy or separate trials.  <a href="https://nyti.ms/3OVAzhw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>‘I Have a Dream,’ Yesterday and Today</h3>
+<sub>By Darren Sands</sub>
+<p>At the March on Washington, where thousands gathered on Saturday to renew the call for equality, participants reflected on Martin Luther King’s historic speech and its themes in the present.  <a href="https://nyti.ms/45pz4PT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
 <h3>The Eternal Search for the ‘Nemesis Bird’</h3>
 <sub>By Joe Trezza</sub>
 <p>For every devoted birder, there is a bird that continues to elude sighting.  <a href="https://nyti.ms/3QV0M2g"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>FIFA Suspends Spanish Soccer Federation Chief Involved in Post-Game Kiss</h3>
-<sub>By Aaron Boxerman and Constant Méheut</sub>
-<p>The kiss and its aftermath have stirred debate over the treatment of women in Spanish soccer.  <a href="https://nyti.ms/3EeyKr8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -131,10 +116,22 @@ In Russia, there has been backlash against Yevgeny V. Prigozhin after reports of
 <p>As war in Ukraine continues, so does the Ukrainian Freedom Orchestra, with a version of Beethoven’s Ninth Symphony tailored to the moment.  <a href="https://nyti.ms/47KOYpw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukrainian Commander Urges More Defenses in the Northeast</h3>
-<sub>By Thomas Gibbons-Neff</sub>
-<p>In an apparent break with Pentagon advice, Oleksandr Syrsky, Ukraine’s top general in the east, called for “all measures” to defend an area where Russia was threatening to take more territory.  <a href="https://nyti.ms/47GEpng"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>After N.Y.P.D. Sergeant Hits Man With Cooler, Mourners Call for Charges</h3>
+<sub>By Erin Nolan, Hurubie Meko and Nate Schweber</sub>
+<p>The state attorney general’s office is investigating the death of Eric Duprey, which has been ruled a homicide.  <a href="https://nyti.ms/3swvPrd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>3 Dead in Racially Motivated Shooting at Florida Store, Officials Say</h3>
+<sub>By Orlando Mayorquin</sub>
+<p>The shooting occurred at a Dollar General store near Edward Waters University in Jacksonville. The gunman also died, officials said.  <a href="https://nyti.ms/3YTE3pn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How a Judge’s Ruling on Torture Imperils a Guantánamo Prosecution Strategy</h3>
+<sub>By Carol Rosenberg</sub>
+<p>In dismissing a confession in the bombing of the U.S.S. Cole, Col. Lanny J. Acosta Jr. has shaken a foundation of U.S. government cases at the post-9&#x2F;11 court.  <a href="https://nyti.ms/47MkZxn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
 <hr/>
 </ol>
