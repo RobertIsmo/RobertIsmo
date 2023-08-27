@@ -60,7 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, August 27, Central Standard Time</p>
 <p>
-The world is in state of flux right now. In Russia, an ally of the president has died at 62 in a plane crash, and a former French president, Nicolas Sarkozy, is voicing pro-Putin sympathies while Ukraine retaliates against Russian interests by launching drone attacks. In the US, there is elation over the potential of technology and AI in aerial combat, as well as more immediate issues of managing labor through the federal stimulus money. On the global sports stage, young tennis stars shine while the US Open brings attention to Queens. Meanwhile, Cairo&#39;s historic gems and green spaces are being razed for urban renewal programs. To top it off, Bob Barker—host of &#39;The Price Is Right&#39; for 35 years—died recently due to his big heart for animals; he worked tirelessly to fight animal cruelty through philanthropy and activism.</p>
+There have been a lot of new developments around the world recently. In Russia, an ally of President Putin tragically passed away in a plane crash. He was famous for creating a paramilitary force for Russia and criticized the military. Meanwhile, in France, former President Nicolas Sarkozy has been making controversial pro-Putin statements that could put pressure on Western resolve. Elsewhere, known oligarchs, such as Konstantin Malofeyev, are receiving backing from Western banks for their charity work in Ukraine, despite being blacklisted by U.S. authorities.
+
+In the U.S., the Air Force is embracing artificial intelligence technology which could have major implications for how wars are fought and their defense industry. The Biden administration and labor groups have highlighted concerns with auto manufacturer Hyundai over transitioning to electric cars and protecting workers’ jobs. There has been a radical shift away from Reaganism in politics with figures like Vivek Ramaswamy rejecting traditional conservative platforms.
+
+In sports news, tennis players Novak Djokovic and Coco Gauff are causing waves as they prepare to play in the U.S. Open. Finally in California, population growth has stagnated but state officials still hope to drive modernization and progress through various projects and initiatives - even if that means demolishing some cultural gems and green spaces in the process.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Yevgeny Prigozhin, Renegade Mercenary Chief Who Rattled Kremlin</h3>
@@ -75,9 +79,9 @@ The world is in state of flux right now. In Russia, an ally of the president has
 <sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia Says Ukraine Fired Drones at Three Regions</h3>
-<sub>By Vivek Shankar and Constant Méheut</sub>
-<p>The frequency of drone attacks inside Russia has increased in recent weeks, bringing the war to areas deep inside Russian territory.  <a href="https://nyti.ms/3YPPYVl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Western Banks Help Fund Blacklisted Oligarch’s Charity</h3>
+<sub>By Monika Pronczuk and Valerie Hopkins</sub>
+<p>Konstantin Malofeyev’s foundation funds orphanages in occupied Ukraine. He denies that a child-removal program there is a war crime: “All of this is fake.”  <a href="https://nyti.ms/3QW15da"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -86,10 +90,22 @@ The world is in state of flux right now. In Russia, an ally of the president has
 <p>An Air Force program shows how the Pentagon is starting to embrace the potential of a rapidly emerging technology, with far-reaching implications for war-fighting tactics, military culture and the defense industry.  <a href="https://nyti.ms/3KY2XyC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>U.S. Commerce Secretary Faces a Wide Range of Issues in China</h3>
+<sub>By Ana Swanson, Alan Rappeport and Keith Bradsher</sub>
+<p>The secretary said she planned to discuss U.S. technology controls, commercial disputes and opportunities for doing more business in her visits to Beijing and Shanghai this week.  <a href="https://nyti.ms/44rD1SL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Labor Groups Target Hyundai — and Biden — Over Transition to Electric</h3>
 <sub>By Jonathan Weisman</sub>
 <p>A coalition of unions and civic groups is pushing one of the world’s largest automakers to protect and train workers in return for federal money under President Biden’s signature laws.  <a href="https://nyti.ms/3OR9zjh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Ramaswamy-Pence Clash Shows New Right’s Radical Break From Reaganism</h3>
+<sub>By Jonathan Swan</sub>
+<p>Vivek Ramaswamy invoked Ronald Reagan’s “morning in America” theme to mock a generation of Republicans he views as out of touch.  <a href="https://nyti.ms/44v6oUd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
@@ -104,11 +120,11 @@ The world is in state of flux right now. In Russia, an ally of the president has
 <p>Coco Gauff and Jessica Pegula enter the U.S. Open with both on a roll. Can they withstand the home-country pressure?  <a href="https://nyti.ms/3szzVP7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>The U.S. Open Is King of New York. Could It Do More for Queens?</h3>
-<sub>By David Waldstein and Gabriela Bhaskar</sub>
-<p>The U.S. Open is a landmark event generating international attention and huge profits, but some nearby residents and business owners say they don’t reap all the benefits.  <a href="https://nyti.ms/3qWdRxL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Covid Closed the Nation’s Schools. Cleaner Air Can Keep Them Open.</h3>
+<sub>By Apoorva Mandavilli</sub>
+<p>Scientists and educators are searching for ways to improve air quality in the nation’s often dilapidated school buildings.  <a href="https://nyti.ms/45Ldm8x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Shrinking California Still Dreams, but More Modestly</h3>
@@ -120,18 +136,6 @@ The world is in state of flux right now. In Russia, an ally of the president has
 <h3>In Push to Modernize Cairo, Cultural Gems and Green Spaces Razed</h3>
 <sub>By Vivian Yee</sub>
 <p>The Egyptian government has demolished historic tombs, cultural centers, artisan workshops and gardens in pursuit of large-scale urban renewal.  <a href="https://nyti.ms/3OQnA0A"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>America Came on Down, and Bob Barker Was Thrilled Every Time</h3>
-<sub>By Alexis Soloski</sub>
-<p>At the helm of “The Price Is Right” for 35 years, Barker eased many sick days with his knack for turning silly games and giddy contestants into fun television.  <a href="https://nyti.ms/3OUoVU1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Through Philanthropy and Activism, Bob Barker Fought Animal Cruelty</h3>
-<sub>By Chris Cameron</sub>
-<p>With millions in donations and a powerful bully pulpit, Mr. Barker became one of the most prominent allies of the animal rights movement in Hollywood.  <a href="https://nyti.ms/3qPmN8e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
 <hr/>
 </ol>
