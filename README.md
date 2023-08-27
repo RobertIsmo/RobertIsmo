@@ -59,13 +59,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, August 27, Central Standard Time</p>
-<p>
-There have been a lot of new developments around the world recently. In Russia, an ally of President Putin tragically passed away in a plane crash. He was famous for creating a paramilitary force for Russia and criticized the military. Meanwhile, in France, former President Nicolas Sarkozy has been making controversial pro-Putin statements that could put pressure on Western resolve. Elsewhere, known oligarchs, such as Konstantin Malofeyev, are receiving backing from Western banks for their charity work in Ukraine, despite being blacklisted by U.S. authorities.
+<p> 
+The world is facing some challenging times right now. We&#39;ve recently seen the death of Yevgeny Prigozhin, a tycoon and an ally to Putin who helped build a paramilitary force that fought alongside Russia. This has led to questions about the future of the mercenary group he was associated with. In other news, former French President Nicolas Sarkozy has made some controversial remarks that have raised fears that Europe&#39;s pro-Putin sentiment may grow stronger.
 
-In the U.S., the Air Force is embracing artificial intelligence technology which could have major implications for how wars are fought and their defense industry. The Biden administration and labor groups have highlighted concerns with auto manufacturer Hyundai over transitioning to electric cars and protecting workers’ jobs. There has been a radical shift away from Reaganism in politics with figures like Vivek Ramaswamy rejecting traditional conservative platforms.
+Meanwhile, in the US, there is much happening. The Air Force is now using A.I. technology to help pilots in aerial combat. Also, tragedy struck Jacksonville, Florida this week when 3 Black people were killed and the gunman, who was white, later committed suicide as authorities investigate it as a hate crime. In addition, labor groups are lobbying and putting pressure on Hyundai and President Biden&#39;s administration to transition to electric vehicles and protect workers in the process. There&#39;s also been a clash between Vivek Ramaswamy and Mike Pence which speaks to an ideological difference within the Republican party.
 
-In sports news, tennis players Novak Djokovic and Coco Gauff are causing waves as they prepare to play in the U.S. Open. Finally in California, population growth has stagnated but state officials still hope to drive modernization and progress through various projects and initiatives - even if that means demolishing some cultural gems and green spaces in the process.</p>
+Finally, there are some interesting sights on the sports front too. Novak Djokovic is currently back in New York loving it more than ever before while Coco Gauff and Jessica Pegula enter the US Open looking really strong ahead of tryouts for home-country pressure.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Leaderless and Exposed, Russia’s Wagner Faces an Uncertain Future</h3>
+<sub>By Paul Sonne and Valerie Hopkins</sub>
+<p>It could be hard for the Kremlin to find a way to neutralize the mercenary group after Yevgeny Prigozhin’s death while retaining its fighting power and geopolitical links.  <a href="https://nyti.ms/3qEQPM0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Yevgeny Prigozhin, Renegade Mercenary Chief Who Rattled Kremlin</h3>
 <sub>By Valerie Hopkins</sub>
@@ -90,6 +96,18 @@ In sports news, tennis players Novak Djokovic and Coco Gauff are causing waves a
 <p>An Air Force program shows how the Pentagon is starting to embrace the potential of a rapidly emerging technology, with far-reaching implications for war-fighting tactics, military culture and the defense industry.  <a href="https://nyti.ms/3KY2XyC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The 11 Fatal Minutes in the Jacksonville Shooting</h3>
+<sub>By Nichole Manna, Anna Betts and Patricia Mazzei</sub>
+<p>The sheriff’s office identified the three victims and the gunman who fatally shot himself in the attack, which authorities are investigating as a hate crime.  <a href="https://nyti.ms/3svwd9q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>What to Know About the Jacksonville Shooting</h3>
+<sub>By Jin Yu Young, Emma Bubola, Adam Goldman and Anna Betts</sub>
+<p>Three people, all Black, were fatally shot in a dollar store before the gunman, a white man, killed himself. Investigators are treating the killing as a hate crime.  <a href="https://nyti.ms/3PdnhgL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>U.S. Commerce Secretary Faces a Wide Range of Issues in China</h3>
 <sub>By Ana Swanson, Alan Rappeport and Keith Bradsher</sub>
@@ -97,7 +115,7 @@ In sports news, tennis players Novak Djokovic and Coco Gauff are causing waves a
 <sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Labor Groups Target Hyundai — and Biden — Over Transition to Electric</h3>
+<h3>Labor Groups Target Hyundai, and Biden, Over Transition to Electric</h3>
 <sub>By Jonathan Weisman</sub>
 <p>A coalition of unions and civic groups is pushing one of the world’s largest automakers to protect and train workers in return for federal money under President Biden’s signature laws.  <a href="https://nyti.ms/3OR9zjh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
@@ -119,24 +137,6 @@ In sports news, tennis players Novak Djokovic and Coco Gauff are causing waves a
 <sub>By Matthew Futterman</sub>
 <p>Coco Gauff and Jessica Pegula enter the U.S. Open with both on a roll. Can they withstand the home-country pressure?  <a href="https://nyti.ms/3szzVP7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Covid Closed the Nation’s Schools. Cleaner Air Can Keep Them Open.</h3>
-<sub>By Apoorva Mandavilli</sub>
-<p>Scientists and educators are searching for ways to improve air quality in the nation’s often dilapidated school buildings.  <a href="https://nyti.ms/45Ldm8x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Shrinking California Still Dreams, but More Modestly</h3>
-<sub>By Corina Knoll</sub>
-<p>The state, once synonymous with boundless growth, sees its population stagnate and rethinks its future.  <a href="https://nyti.ms/3EaLJu1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Push to Modernize Cairo, Cultural Gems and Green Spaces Razed</h3>
-<sub>By Vivian Yee</sub>
-<p>The Egyptian government has demolished historic tombs, cultural centers, artisan workshops and gardens in pursuit of large-scale urban renewal.  <a href="https://nyti.ms/3OQnA0A"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
