@@ -60,11 +60,10 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, August 26, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now! In the US, there&#39;s a 38-year-old Republican candidate for office named Vivek Ramaswamy who&#39;s trying to appeal to younger voters, but is making some inaccurate claims along the way. There&#39;s also been a Republican presidential debate, and Oliver Anthony, the singer of a hit song called &quot;Rich Men North of Richmond,&quot; is pushing back against its being mistaken for a Republican anthem. 
+There is a lot going on in the world right now! In the US, a 38-year-old entrepreneur is running for office and calling for policy changes to support millennials. In Iowa, a voter asked the Florida governor where he stands regarding former US President Trump. Also in the US, Bob Barker, a famous TV presenter and advocate for animal rights, passed away. 
 
-In terms of international news, there have been some headlines coming out of China recently concerning their economy and potential impacts on the US. Meanwhile, FIFA has suspended Spanish soccer federation chief involved in post-game kiss due to the fallout it created over perceived sexism. 
-
-Ukraine is in the news with news of Yevgeny V. Prigozhin, leader of the Wagner private militia, whose presumed death was just reported this week - with many residents not feeling any sorrow for him. The Ukrainian commander has also been calling for more defenses in northeast Ukraine as Russia continues to push forward with plans to take more territory there.</p>
+In business news, there is discussion about how China&#39;s current economic troubles might affect the US. On an international note, FIFA suspended the president of the Spanish soccer federation over a post-game kiss. 
+In Russia, there has been backlash against Yevgeny V. Prigozhin after reports of his death in a plane crash. Meanwhile in Ukraine, an orchestra played Beethoven&#39;s Ninth Symphony as sign of freedom while their top commander calls for more defenses in response to Russia&#39;s possible territorial expansions.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Ramaswamy, the Millennial Candidate, Has a Lot to Say About His Generation</h3>
@@ -73,27 +72,21 @@ Ukraine is in the news with news of Yevgeny V. Prigozhin, leader of the Wagner p
 <sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Fact-Checking Vivek Ramaswamy on the Campaign Trail</h3>
-<sub>By Linda Qiu</sub>
-<p>The upstart Republican candidate has made inaccurate claims about climate change as well as the Jan. 6 attack on the Capitol, while mischaracterizing his own positions and past comments.  <a href="https://nyti.ms/47Pu1tn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>In Iowa, a Voter Asks DeSantis: Why Should I Choose You Over Trump?</h3>
+<sub>By Nicholas Nehamas</sub>
+<p>The Florida governor was reluctant to attack the former president too directly as he navigated the tricky waters of the Republican primary.  <a href="https://nyti.ms/3QVHOIQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Candidates Look to Cash In on First G.O.P. Debate — Especially Haley and Pence</h3>
-<sub>By Rebecca Davis O’Brien</sub>
-<p>Campaigns saw the nationally televised event, the first of the 2024 campaign, not just as a way to reach voters, but also as an appeal to donors big and small.  <a href="https://nyti.ms/3EbT8sP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Singer of ‘Rich Men North of Richmond’ Says It’s Not a Republican Anthem</h3>
-<sub>By Livia Albeck-Ripka</sub>
-<p>“I wrote this song about those people,” Oliver Anthony said of his No. 1 hit, after presidential candidates answered a question about his Billboard hit at their first debate.  <a href="https://nyti.ms/45qTSGH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>What China’s Economic Woes May Mean for the U.S.</h3>
 <sub>By Lydia DePillis</sub>
 <p>The fallout is probably limited — and there may be some upside for American interests.  <a href="https://nyti.ms/47PtZSh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Raimondo Heads to China to Both Promote Trade, and Restrict It</h3>
+<sub>By Ana Swanson</sub>
+<p>The commerce secretary’s trip may be the clearest demonstration yet of the balancing act the Biden administration is trying to pull off in its relations with China.  <a href="https://nyti.ms/463vQS7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
@@ -103,15 +96,15 @@ Ukraine is in the news with news of Yevgeny V. Prigozhin, leader of the Wagner p
 <sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Through Philanthropy and Activism, Bob Barker Fought Animal Cruelty</h3>
+<sub>By Chris Cameron</sub>
+<p>With millions in donations and a powerful bully pulpit, Mr. Barker became one of the most prominent allies of the animal rights movement in Hollywood.  <a href="https://nyti.ms/3qPmN8e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump and His Co-Defendants in Georgia Are Already at Odds</h3>
 <sub>By Richard Fausset and Danny Hakim</sub>
 <p>Some defendants have already sought to move the case to federal court, while others are seeking speedy or separate trials.  <a href="https://nyti.ms/3OVAzhw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>FIFA Suspends Spanish Soccer Federation Chief Involved in Post-Game Kiss</h3>
-<sub>By Aaron Boxerman and Constant Méheut</sub>
-<p>The kiss and its aftermath have stirred debate over the treatment of women in Spanish soccer.  <a href="https://nyti.ms/3EeyKr8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
@@ -121,9 +114,9 @@ Ukraine is in the news with news of Yevgeny V. Prigozhin, leader of the Wagner p
 <sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Is Still Grappling With the Battlefield Prigozhin Left Behind</h3>
-<sub>By Paul Sonne</sub>
-<p>He shored up Russian forces at their most vulnerable and drew Ukraine into a costly fight for Bakhmut, giving Moscow time to build defenses that are slowing Ukraine’s counteroffensive.  <a href="https://nyti.ms/3QZ1trt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>FIFA Suspends Spanish Soccer Federation Chief Involved in Post-Game Kiss</h3>
+<sub>By Aaron Boxerman and Constant Méheut</sub>
+<p>The kiss and its aftermath have stirred debate over the treatment of women in Spanish soccer.  <a href="https://nyti.ms/3EeyKr8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -131,6 +124,12 @@ Ukraine is in the news with news of Yevgeny V. Prigozhin, leader of the Wagner p
 <sub>By Marc Santora and Tyler Hicks</sub>
 <p>In a Ukraine village, there are no tears for Yevgeny V. Prigozhin, the leader of the Wagner private militia, whose presumed death in a plane crash was reported this week.  <a href="https://nyti.ms/47RIx4a"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>An Orchestra’s ‘Ode to Joy’ Calls for Ukrainian Freedom</h3>
+<sub>By Ben Miller</sub>
+<p>As war in Ukraine continues, so does the Ukrainian Freedom Orchestra, with a version of Beethoven’s Ninth Symphony tailored to the moment.  <a href="https://nyti.ms/47KOYpw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ukrainian Commander Urges More Defenses in the Northeast</h3>
