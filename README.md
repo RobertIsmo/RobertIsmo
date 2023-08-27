@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, August 27, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now! An entrepreneur from the US named Ramaswamy is running for office, and has some interesting thoughts about his generation. Meanwhile, a Voter in Iowa is asking DeSantis why they should pick him over Trump. China&#39;s economic woes could affect the US economy, and Bob Barker, the long-time host of &#39;The Price Is Right&#39;, has passed away aged 99. He was a strong advocate for animal rights throughout his life. On Saturday, thousands gathered at the March on Washington to remember Martin Luther King&#39;s historic speech and its themes in modern day. There is an ongoing search for the &#39;Nemesis Bird&#39;, which remains elusive to birders, while Yevgeny V. Prigozhin, leader of the Wagner private militia, has reportedly passed away too - but not without controversy as some are saying he had blood on his hands. In response to ongoing war in Ukraine, musicians have put together an updated version of Beethoven&#39;s Ninth Symphony entitled &#39;Ode to Joy&#39;. In New York City, mourners are calling for charges after an NYPD Sergeant hit a man with a cooler leading to his death. And lastly, a judge&#39;s ruling on torture at Guantanamo could threaten US government cases from post-9&#x2F;11. </p>
+There is a lot going on in the world right now. In the United States, there is an entrepreneur running for office called Ramaswamy who has a plan to help people his age and younger. There is also a very delicate situation in Iowa with the Republican Party Presidential Primary. On an international level, China&#39;s economic woes have caused some fallout which may have some upside for the United States as well as other countries. Sadly, Bob Barker passed away and he was known as much for his advocacy of animal rights as for his show &quot;The Price Is Right&quot;. There is also tension between Ukraine and Russia and activism in the form of music to call attention to wish Ukrainian freedom. In America, there was a racially motivated shooting at a store in Florida that left three people dead, and three United States Marines died in an air crash in Australia. Additionally, there are calls for charges after a New York Police Sergeant hit someone with a cooler that led to Eric Duprey’s death and it has been ruled as a homicide.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Ramaswamy, the Millennial Candidate, Has a Lot to Say About His Generation</h3>
@@ -116,22 +116,22 @@ There is a lot going on in the world right now! An entrepreneur from the US name
 <p>As war in Ukraine continues, so does the Ukrainian Freedom Orchestra, with a version of Beethoven’s Ninth Symphony tailored to the moment.  <a href="https://nyti.ms/47KOYpw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>After N.Y.P.D. Sergeant Hits Man With Cooler, Mourners Call for Charges</h3>
-<sub>By Erin Nolan, Hurubie Meko and Nate Schweber</sub>
-<p>The state attorney general’s office is investigating the death of Eric Duprey, which has been ruled a homicide.  <a href="https://nyti.ms/3swvPrd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>3 Dead in Racially Motivated Shooting at Florida Store, Officials Say</h3>
 <sub>By Orlando Mayorquin</sub>
 <p>The shooting occurred at a Dollar General store near Edward Waters University in Jacksonville. The gunman also died, officials said.  <a href="https://nyti.ms/3YTE3pn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How a Judge’s Ruling on Torture Imperils a Guantánamo Prosecution Strategy</h3>
-<sub>By Carol Rosenberg</sub>
-<p>In dismissing a confession in the bombing of the U.S.S. Cole, Col. Lanny J. Acosta Jr. has shaken a foundation of U.S. government cases at the post-9&#x2F;11 court.  <a href="https://nyti.ms/47MkZxn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Three U.S. Marines Die in Air Crash in Australia</h3>
+<sub>By Yan Zhuang</sub>
+<p>The Osprey aircraft, with 23 people on board, crashed during a joint training exercise near Darwin, in the north of Australia. Several others were seriously injured.  <a href="https://nyti.ms/3PohBln"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>After N.Y.P.D. Sergeant Hits Man With Cooler, Mourners Call for Charges</h3>
+<sub>By Erin Nolan, Hurubie Meko and Nate Schweber</sub>
+<p>The state attorney general’s office is investigating the death of Eric Duprey, which has been ruled a homicide.  <a href="https://nyti.ms/3swvPrd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
 <hr/>
 </ol>
