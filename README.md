@@ -60,13 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, August 27, Central Standard Time</p>
 <p>
-There is a lot happening in the world! In Russia, Yevgeny Prigozhin, a tycoon and close ally of Vladimir Putin, has died in a plane crash. The death of Prigozhin may have consequences for Russia&#39;s political and military scene. Additionally, former French President Nicolas Sarkozy has made pro-Putin comments that have caused fears across Europe. Russia has also recently experienced multiple drone attacks within its borders. 
-
-In the US, the Pentagon is moving towards embracing artificial intelligence technology as the nation moves into Aerial Combat. The Biden presidency is also pushing Hyundai to make sure its workers are trained as the auto industry moves towards electric cars. 
-
-Tennis fans will be happy to hear that Novak Djokovic has returned to New York City -- and he certainly won&#39;t be alone as Coco Gauff and Jessica Pegula also enter the U.S Open with high levels of performance. 
-
-California is facing population stagnation, leading the state to determine how it will face its new future. In Cairo, Egypt large scale urban planning efforts have led to the destruction of historic sites and green spaces in pursuit of modernity. Finally, we remember Bob Barker who was at at the helm of “The Price Is Right” for 35 years and used his time on TV to fight animal cruelty.</p>
+The world is in state of flux right now. In Russia, an ally of the president has died at 62 in a plane crash, and a former French president, Nicolas Sarkozy, is voicing pro-Putin sympathies while Ukraine retaliates against Russian interests by launching drone attacks. In the US, there is elation over the potential of technology and AI in aerial combat, as well as more immediate issues of managing labor through the federal stimulus money. On the global sports stage, young tennis stars shine while the US Open brings attention to Queens. Meanwhile, Cairo&#39;s historic gems and green spaces are being razed for urban renewal programs. To top it off, Bob Barker—host of &#39;The Price Is Right&#39; for 35 years—died recently due to his big heart for animals; he worked tirelessly to fight animal cruelty through philanthropy and activism.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Yevgeny Prigozhin, Renegade Mercenary Chief Who Rattled Kremlin</h3>
@@ -116,10 +110,10 @@ California is facing population stagnation, leading the state to determine how i
 <p>The U.S. Open is a landmark event generating international attention and huge profits, but some nearby residents and business owners say they don’t reap all the benefits.  <a href="https://nyti.ms/3qWdRxL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Shrinking California Still Dreams, but More Modestly</h3>
 <sub>By Corina Knoll</sub>
-<p>The state, once synonymous with boundless growth, sees its population stagnate and rethinks its future.  <a href="https://nyti.ms/3szhoCA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The state, once synonymous with boundless growth, sees its population stagnate and rethinks its future.  <a href="https://nyti.ms/3EaLJu1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
