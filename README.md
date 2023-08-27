@@ -60,78 +60,84 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, August 27, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In the United States, there is an entrepreneur running for office called Ramaswamy who has a plan to help people his age and younger. There is also a very delicate situation in Iowa with the Republican Party Presidential Primary. On an international level, China&#39;s economic woes have caused some fallout which may have some upside for the United States as well as other countries. Sadly, Bob Barker passed away and he was known as much for his advocacy of animal rights as for his show &quot;The Price Is Right&quot;. There is also tension between Ukraine and Russia and activism in the form of music to call attention to wish Ukrainian freedom. In America, there was a racially motivated shooting at a store in Florida that left three people dead, and three United States Marines died in an air crash in Australia. Additionally, there are calls for charges after a New York Police Sergeant hit someone with a cooler that led to Eric Duprey’s death and it has been ruled as a homicide.</p>
+There is a lot happening in the world! In Russia, Yevgeny Prigozhin, a tycoon and close ally of Vladimir Putin, has died in a plane crash. The death of Prigozhin may have consequences for Russia&#39;s political and military scene. Additionally, former French President Nicolas Sarkozy has made pro-Putin comments that have caused fears across Europe. Russia has also recently experienced multiple drone attacks within its borders. 
+
+In the US, the Pentagon is moving towards embracing artificial intelligence technology as the nation moves into Aerial Combat. The Biden presidency is also pushing Hyundai to make sure its workers are trained as the auto industry moves towards electric cars. 
+
+Tennis fans will be happy to hear that Novak Djokovic has returned to New York City -- and he certainly won&#39;t be alone as Coco Gauff and Jessica Pegula also enter the U.S Open with high levels of performance. 
+
+California is facing population stagnation, leading the state to determine how it will face its new future. In Cairo, Egypt large scale urban planning efforts have led to the destruction of historic sites and green spaces in pursuit of modernity. Finally, we remember Bob Barker who was at at the helm of “The Price Is Right” for 35 years and used his time on TV to fight animal cruelty.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Yevgeny Prigozhin, Renegade Mercenary Chief Who Rattled Kremlin</h3>
+<sub>By Valerie Hopkins</sub>
+<p>A tycoon and a Putin ally, he built a paramilitary force that fought by Russia’s side even as he castigated its military leaders. He died at 62 in a plane crash, Russian authorities said.  <a href="https://nyti.ms/47KUA2Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Former French President Gives a Voice to Obstinate Russian Sympathies</h3>
+<sub>By Roger Cohen</sub>
+<p>Remarks by Nicolas Sarkozy have raised fears that Europe’s pro-Putin chorus may grow louder as Ukraine’s plodding counteroffensive puts pressure on Western resolve.  <a href="https://nyti.ms/44sXpmg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russia Says Ukraine Fired Drones at Three Regions</h3>
+<sub>By Vivek Shankar and Constant Méheut</sub>
+<p>The frequency of drone attacks inside Russia has increased in recent weeks, bringing the war to areas deep inside Russian territory.  <a href="https://nyti.ms/3YPPYVl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Ramaswamy, the Millennial Candidate, Has a Lot to Say About His Generation</h3>
+<h3>A.I. Brings the Robot Wingman to Aerial Combat</h3>
+<sub>By Eric Lipton</sub>
+<p>An Air Force program shows how the Pentagon is starting to embrace the potential of a rapidly emerging technology, with far-reaching implications for war-fighting tactics, military culture and the defense industry.  <a href="https://nyti.ms/3KY2XyC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Labor Groups Target Hyundai — and Biden — Over Transition to Electric</h3>
 <sub>By Jonathan Weisman</sub>
-<p>The 38-year-old entrepreneur says he has a plan to fix what ails Americans his age and younger, but many of his positions are out of step with those voters.  <a href="https://nyti.ms/45I0b8v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>A coalition of unions and civic groups is pushing one of the world’s largest automakers to protect and train workers in return for federal money under President Biden’s signature laws.  <a href="https://nyti.ms/3OR9zjh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Novak Djokovic, Back in New York and Loving It as Never Before</h3>
+<sub>By Matthew Futterman</sub>
+<p>Led by Carlos Alcaraz, tennis youth is coming for Djokovic. “My role nowadays is to prevent them from that.”  <a href="https://nyti.ms/3qPBkRk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>The Suddenly Hot ‘Coco and Jessie Show’ Is Ready to Open in New York</h3>
+<sub>By Matthew Futterman</sub>
+<p>Coco Gauff and Jessica Pegula enter the U.S. Open with both on a roll. Can they withstand the home-country pressure?  <a href="https://nyti.ms/3szzVP7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>The U.S. Open Is King of New York. Could It Do More for Queens?</h3>
+<sub>By David Waldstein and Gabriela Bhaskar</sub>
+<p>The U.S. Open is a landmark event generating international attention and huge profits, but some nearby residents and business owners say they don’t reap all the benefits.  <a href="https://nyti.ms/3qWdRxL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Iowa, a Voter Asks DeSantis: Why Should I Choose You Over Trump?</h3>
-<sub>By Nicholas Nehamas</sub>
-<p>The Florida governor was reluctant to attack the former president too directly as he navigated the tricky waters of the Republican primary.  <a href="https://nyti.ms/3QVHOIQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Shrinking California Still Dreams, but More Modestly</h3>
+<sub>By Corina Knoll</sub>
+<p>The state, once synonymous with boundless growth, sees its population stagnate and rethinks its future.  <a href="https://nyti.ms/3szhoCA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>What China’s Economic Woes May Mean for the U.S.</h3>
-<sub>By Lydia DePillis</sub>
-<p>The fallout is probably limited — and there may be some upside for American interests.  <a href="https://nyti.ms/47PtZSh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Push to Modernize Cairo, Cultural Gems and Green Spaces Razed</h3>
+<sub>By Vivian Yee</sub>
+<p>The Egyptian government has demolished historic tombs, cultural centers, artisan workshops and gardens in pursuit of large-scale urban renewal.  <a href="https://nyti.ms/3OQnA0A"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Bob Barker, Longtime Host of ‘The Price Is Right,’ Dies at 99</h3>
-<sub>By Richard Severo</sub>
-<p>The winner of numerous Emmy Awards, he was almost as well known for his advocacy of animal rights as he was for his half a century as a daytime television fixture.  <a href="https://nyti.ms/3qPbv3Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
+<h3>America Came on Down, and Bob Barker Was Thrilled Every Time</h3>
+<sub>By Alexis Soloski</sub>
+<p>At the helm of “The Price Is Right” for 35 years, Barker eased many sick days with his knack for turning silly games and giddy contestants into fun television.  <a href="https://nyti.ms/3OUoVU1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Through Philanthropy and Activism, Bob Barker Fought Animal Cruelty</h3>
 <sub>By Chris Cameron</sub>
 <p>With millions in donations and a powerful bully pulpit, Mr. Barker became one of the most prominent allies of the animal rights movement in Hollywood.  <a href="https://nyti.ms/3qPmN8e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘I Have a Dream,’ Yesterday and Today</h3>
-<sub>By Darren Sands</sub>
-<p>At the March on Washington, where thousands gathered on Saturday to renew the call for equality, participants reflected on Martin Luther King’s historic speech and its themes in the present.  <a href="https://nyti.ms/45pz4PT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>The Eternal Search for the ‘Nemesis Bird’</h3>
-<sub>By Joe Trezza</sub>
-<p>For every devoted birder, there is a bird that continues to elude sighting.  <a href="https://nyti.ms/3QV0M2g"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘He Has Blood on His Hands’</h3>
-<sub>By Marc Santora and Tyler Hicks</sub>
-<p>In a Ukraine village, there are no tears for Yevgeny V. Prigozhin, the leader of the Wagner private militia, whose presumed death in a plane crash was reported this week.  <a href="https://nyti.ms/47RIx4a"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>An Orchestra’s ‘Ode to Joy’ Calls for Ukrainian Freedom</h3>
-<sub>By Ben Miller</sub>
-<p>As war in Ukraine continues, so does the Ukrainian Freedom Orchestra, with a version of Beethoven’s Ninth Symphony tailored to the moment.  <a href="https://nyti.ms/47KOYpw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>3 Dead in Racially Motivated Shooting at Florida Store, Officials Say</h3>
-<sub>By Orlando Mayorquin</sub>
-<p>The shooting occurred at a Dollar General store near Edward Waters University in Jacksonville. The gunman also died, officials said.  <a href="https://nyti.ms/3YTE3pn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Three U.S. Marines Die in Air Crash in Australia</h3>
-<sub>By Yan Zhuang</sub>
-<p>The Osprey aircraft, with 23 people on board, crashed during a joint training exercise near Darwin, in the north of Australia. Several others were seriously injured.  <a href="https://nyti.ms/3PohBln"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>After N.Y.P.D. Sergeant Hits Man With Cooler, Mourners Call for Charges</h3>
-<sub>By Erin Nolan, Hurubie Meko and Nate Schweber</sub>
-<p>The state attorney general’s office is investigating the death of Eric Duprey, which has been ruled a homicide.  <a href="https://nyti.ms/3swvPrd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
 <hr/>
 </ol>
