@@ -60,73 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, August 28, Central Standard Time</p>
 <p>
-There are a lot of interesting things happening around the world lately. In Russia, a mercenary group known as Wagner is facing an uncertain future due to the death of its leader, Yevgeny Prigozhin. Meanwhile in Europe, former French President Nicolas Sarkozy has been creating pro-Putin feelings, causing some worries about Western resolve in Ukraine. 
-
-The US Air Force is getting into using A.I. as part of aerial combat, and Jacksonville, Fla., recently had an 11-minute and deadly shooting which is being investigated as a hate crime. 
-
-There&#39;s also been a clash between Vivek Ramaswamy and Mike Pence which shows the new right&#39;s break from Reaganism, and people are finding ways to turn errands into exercises to be healthier and happier. In northwestern Syria there was an earthquake six months ago which added more destruction and chaos from the civil war already taking place there. 
-
-US Commerce Secretary Wilbur Ross is currently in China discussing a wide range of issues from tourism to advanced technology. On the other hand, here in the US there are people like Rex Heuermann (suspect in Gilgo Beach murders) who have families that just keep living on as usual despite his charges. Finally, due to Covid-19 closing schools worldwide, scientists and educators are searching for ways to improve air quality in school buildings so students can safely return. Oh, and also did you know there&#39;s a 16-foot clock atop Trump Tower that nobody even knew about until recently?</p>
+There is a late-summer Covid wave and hospitalization rates have been on the rise again recently. Scientists and educators are looking for ways to keep schools open safely during the pandemic by improving air quality. In Russia, people visited a sidewalk memorial to leave tribute to Yevgeny Prigozhin, founder of the Wagner private military company. Two election cases against former President Trump are being heard on Monday, which could affect public faith in American juries. Frances Tiafoe is getting ready to compete in the U.S. Open and people are talking about how to recognize a tennis prodigy. Tropical Storm Idalia is expected to affect part of Florida soon and Hurricane Franklin has already intensified into a Category 3 storm creating life-threatening rip currents along the East Coast. There&#39;s also a story of one man who quit his job as a paramedic to help people with drug addiction at a safe injection site, even though it&#39;s illegal. Lastly, 11 fatal minutes in Jacksonville have raised tensions around racism in the US again.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Leaderless and Exposed, Russia’s Wagner Faces an Uncertain Future</h3>
-<sub>By Paul Sonne and Valerie Hopkins</sub>
-<p>It could be hard for the Kremlin to find a way to neutralize the mercenary group after Yevgeny Prigozhin’s death while retaining its fighting power and geopolitical links.  <a href="https://nyti.ms/3qEQPM0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Former French President Gives a Voice to Obstinate Russian Sympathies</h3>
-<sub>By Roger Cohen</sub>
-<p>Remarks by Nicolas Sarkozy have raised fears that Europe’s pro-Putin chorus may grow louder as Ukraine’s plodding counteroffensive puts pressure on Western resolve.  <a href="https://nyti.ms/44sXpmg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A.I. Brings the Robot Wingman to Aerial Combat</h3>
-<sub>By Eric Lipton</sub>
-<p>An Air Force program shows how the Pentagon is starting to embrace the potential of a rapidly emerging technology, with far-reaching implications for war-fighting tactics, military culture and the defense industry.  <a href="https://nyti.ms/3KY2XyC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>11 Fatal Minutes That Have Jacksonville Confronting Racism Yet Again</h3>
-<sub>By Nichole Manna, Anna Betts and Patricia Mazzei</sub>
-<p>The sheriff’s office identified the three victims and the gunman who fatally shot himself in the attack on Saturday, which authorities are investigating as a hate crime.  <a href="https://nyti.ms/3svwd9q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What to Know About the Jacksonville Shooting</h3>
-<sub>By Livia Albeck-Ripka, Anna Betts, Orlando Mayorquin, Nichole Manna and Patricia Mazzei</sub>
-<p>Three people, all Black, were fatally shot in a dollar store before the gunman, a white man, killed himself. Investigators are treating the killing as a hate crime.  <a href="https://nyti.ms/3PdnhgL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Ramaswamy-Pence Clash Shows New Right’s Radical Break From Reaganism</h3>
-<sub>By Jonathan Swan</sub>
-<p>Vivek Ramaswamy invoked Ronald Reagan’s “morning in America” theme to mock a generation of Republicans he views as out of touch.  <a href="https://nyti.ms/44v6oUd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>How I Turned My Errands Into Exercise</h3>
-<sub>By Andrew Leonard</sub>
-<p>One reluctant exerciser found that ditching his car and walking or biking to the store was a boon for his mental and physical health.  <a href="https://nyti.ms/47MkQKl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In a Place Shattered by War and Earthquakes, People Feel Forgotten</h3>
-<sub>By Raja Abdulrahim and Nicole Tung</sub>
-<p>In northwestern Syria, a devastating quake six months ago compounded the damage of years of civil war. U.S. lawmakers just visited for the first time in a decade.  <a href="https://nyti.ms/47RRD0q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.S. Commerce Secretary Faces a Wide Range of Issues in China</h3>
-<sub>By Ana Swanson, Alan Rappeport and Keith Bradsher</sub>
-<p>From tourism to advanced technology, here are the topics that are dominating the secretary’s visit to China this week.  <a href="https://nyti.ms/44rD1SL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Once Rarely Seen, Gilgo Beach Suspect’s Family Now Barbecues on the Lawn</h3>
-<sub>By Corey Kilgannon</sub>
-<p>After Rex Heuermann was charged in a notorious string of murders, neighbors assumed his wife and children would vanish. They haven’t.  <a href="https://nyti.ms/44oxzjr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
+<h3>Not Over Yet: Late-Summer Covid Wave Brings Warning of More to Come</h3>
+<sub>By Julie Bosman</sub>
+<p>Hospitalizations are still low but are on the rise in recent weeks, according to the Centers for Disease Control and Prevention.  <a href="https://nyti.ms/3ss9N90"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>Covid Closed the Nation’s Schools. Cleaner Air Can Keep Them Open.</h3>
@@ -134,10 +74,64 @@ US Commerce Secretary Wilbur Ross is currently in China discussing a wide range 
 <p>Scientists and educators are searching for ways to improve air quality in the nation’s often dilapidated school buildings.  <a href="https://nyti.ms/45Ldm8x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Wagner Mourners in Moscow Reflect Prigozhin’s Appeal Among Russians</h3>
+<sub>By Valerie Hopkins</sub>
+<p>Visitors, some tearful, left flowers and other tributes to Yevgeny Prigozhin, the founder of the Wagner private military company, at a sidewalk memorial.  <a href="https://nyti.ms/3qMV4oA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Leaderless and Exposed, Russia’s Wagner Faces an Uncertain Future</h3>
+<sub>By Paul Sonne and Valerie Hopkins</sub>
+<p>It could be hard for the Kremlin to find a way to neutralize the mercenary group after Yevgeny Prigozhin’s death while retaining its fighting power and geopolitical links.  <a href="https://nyti.ms/3qEQPM0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Hearings Set for Monday in Two Election Cases Against Trump</h3>
+<sub>By Alan Feuer</sub>
+<p>Proceedings before federal judges in Washington and Atlanta could begin to address some of the many complexities and scheduling challenges in the cases against the former president.  <a href="https://nyti.ms/45D20DE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Americans Still Put Their Trust in Juries. Will Trump’s Trials Break That Faith?</h3>
+<sub>By Ruth Igielnik</sub>
+<p>A new survey provides a portrait of the type of American who serves on a jury and a rare window into the thoughts of the kinds of people who may decide Donald Trump’s fate.  <a href="https://nyti.ms/3PcPXri"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Frances Tiafoe Is Ready</h3>
+<sub>By Lulu Garcia-Navarro</sub>
+<p>Returning to the U.S. Open after last year’s electric run and crushing defeat, the boundary-busting American thinks he can win it all — and make tennis cool.  <a href="https://nyti.ms/45mVyAS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>How to Recognize a Tennis Prodigy</h3>
+<sub>By Tom Shroder</sub>
+<p>The people who coached Frances Tiafoe as a child said they could see even then that he would become one of the world’s top players. But how did they know?  <a href="https://nyti.ms/44twmHL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Tropical Storm Idalia Strengthening as It Moves Toward Florida’s Gulf Coast</h3>
+<sub>By Judson Jones and Rebecca Carballo</sub>
+<p>The state was mobilizing resources ahead of the storm, which forecasters described as “increasingly dangerous.” It’s expected to begin affecting part of Florida by late Tuesday.  <a href="https://nyti.ms/45LzsaZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Hurricane Franklin Intensifies Into a Category 3 Storm</h3>
+<sub>By Judson Jones and Hogla Enecia Pérez</sub>
+<p>Meteorologists expect the storm to create life-threatening rip currents along the East Coast.  <a href="https://nyti.ms/3YGni0I"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 20, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Did You Know About the 16-Foot Trump Tower Clock? Neither Did the City.</h3>
-<sub>By Sam Roberts</sub>
-<p>The Trump Organization audaciously installed a distinctive clock on Fifth Avenue without applying for a permit or paying a fee. City inspectors never noticed.  <a href="https://nyti.ms/3Ec5Qb4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>His Job Helping Drug Users Is Illegal. He Says He Does It to Save Lives.</h3>
+<sub>By Sharon Otterman</sub>
+<p>Bryan Ortiz quit a job as a paramedic to help people at a safe injection site for drugs like fentanyl and heroin. Now, his job is under legal threat.  <a href="https://nyti.ms/3PgyU7u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>11 Fatal Minutes That Have Jacksonville Confronting Racism Yet Again</h3>
+<sub>By Nichole Manna, Anna Betts and Patricia Mazzei</sub>
+<p>The sheriff’s office identified the three victims and the gunman who fatally shot himself in the attack on Saturday, which authorities are investigating as a hate crime.  <a href="https://nyti.ms/3svwd9q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
 <hr/>
 </ol>
