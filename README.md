@@ -60,24 +60,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, August 28, Central Standard Time</p>
 <p>
-Right now, things are pretty intense across the globe. In the US, the Centers for Disease Control and Prevention has warned of a late-summer Covid wave and that there could be more to come. There are also a few election cases against former president Donald Trump that are expected to start this week. Here in the US there is also a hurricane forming that is expected to affect parts of Florida soon. Meanwhile, other countries are facing their own issues - in Spain there&#39;s outrage over a soccer official kissing a player after winning the Women&#39;s World Cup, in Russia there are lots of tributes being left for Yevgeny Prigozhin who was the founder of a private military company, and in Jacksonville police are investigating a shooting as a hate crime. It&#39;s really a lot happening right now!</p>
+Right now, there is a lot happening in the world. In Spain, people are talking about a reckoning with sexism after the president of the soccer federation nonconsensually kissed a player. There are some legal issues going on in the US - like a former president facing an election fraud trial and another case being considered for moving from state to federal court. One area some Americans may be concerned about is the Covid-19 situation - we&#39;re seeing a late-summer wave of cases, so people should take due caution. In Russia, mourners left flowers and tributes at a sidewalk memorial for the founder of the Wagner private military company. And in Ukraine, the counteroffensive is facing difficult terrain. Lastly, there&#39;s plenty of action in the sports world - like a football coach confronting a terrible truth after the loss of their son, as well as a tennis player spontaneously taking over the game.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Not Over Yet: Late-Summer Covid Wave Brings Warning of More to Come</h3>
-<sub>By Julie Bosman</sub>
-<p>Hospitalizations are still low but have been rising in recent weeks, according to the Centers for Disease Control and Prevention.  <a href="https://nyti.ms/3ss9N90"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Forced Kiss, and a Reckoning With Sexism in Spain</h3>
+<sub>By Jason Horowitz and Rachel Chaundler</sub>
+<p>The nonconsensual kiss that Luis Rubiales, the president of Spain’s soccer federation, pressed on Jennifer Hermoso has come to embody the generational fault line between a culture of machismo and more recent progressivism.  <a href="https://nyti.ms/45tbj9p"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Covid Closed the Nation’s Schools. Cleaner Air Can Keep Them Open.</h3>
-<sub>By Apoorva Mandavilli</sub>
-<p>Scientists and educators are searching for ways to improve air quality in the nation’s often dilapidated school buildings.  <a href="https://nyti.ms/45Ldm8x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Spanish Prosecutors Open Inquiry Into Soccer Official Who Kissed Player</h3>
+<sub>By Rachel Chaundler and Jason Horowitz</sub>
+<p>Luis Rubiales caused outrage with his conduct after Spain won the Women’s World Cup and then for his defiant stand when he came under heavy criticism.  <a href="https://nyti.ms/3YVTnSg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Hearings Set for Monday in Two Election Cases Against Trump</h3>
-<sub>By Alan Feuer</sub>
-<p>Proceedings before federal judges in Washington and Atlanta could begin to address some of the many complexities and scheduling challenges in the cases against the former president.  <a href="https://nyti.ms/45D20DE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Judge Sets Trial Date in March for Trump’s Federal Election Case</h3>
+<sub>By Alan Feuer and Glenn Thrush</sub>
+<p>Judge Tanya S. Chutkan rejected efforts by the former president’s legal team to postpone the trial until 2026.  <a href="https://nyti.ms/3OVJ1NH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Judge Hears Bid to Move Georgia Trump Case to Federal Court</h3>
+<sub>By Richard Fausset and Danny Hakim</sub>
+<p>Lawyers for Mark Meadows, one of several defendants trying to move the case from state to federal court, were making their arguments to a federal judge in Atlanta on Monday.  <a href="https://nyti.ms/45sn5kw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -86,10 +92,22 @@ Right now, things are pretty intense across the globe. In the US, the Centers fo
 <p>A new survey provides a portrait of the type of American who serves on a jury and a rare window into the thoughts of the kinds of people who may decide Donald Trump’s fate.  <a href="https://nyti.ms/3PcPXri"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Spanish Prosecutors Open Inquiry Into Soccer Official Who Kissed Player</h3>
-<sub>By Rachel Chaundler and Jason Horowitz</sub>
-<p>Luis Rubiales caused outrage with his conduct after Spain won the Women’s World Cup and then for his defiant stand when he came under heavy criticism.  <a href="https://nyti.ms/3YVTnSg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Tropical Storm Idalia to Hit Florida as a Hurricane</h3>
+<sub>By Judson Jones, Johnny Diaz and Rebecca Carballo</sub>
+<p>Evacuations were ordered ahead of the storm, which is expected to make landfall on the state’s Gulf Coast early Wednesday after strengthening into a major hurricane.  <a href="https://nyti.ms/45LzsaZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Tracking Tropical Storm Idalia</h3>
+<sub>By William B. Davis, Judson Jones, Bea Malsky, John Keefe and Madison Dong</sub>
+<p>See the path and estimated wind arrival times for Idalia.  <a href="https://nyti.ms/45jGDYd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Not Over Yet: Late-Summer Covid Wave Brings Warning of More to Come</h3>
+<sub>By Julie Bosman</sub>
+<p>Hospitalizations are still low but have been rising in recent weeks, according to the Centers for Disease Control and Prevention.  <a href="https://nyti.ms/3ss9N90"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -99,40 +117,22 @@ Right now, things are pretty intense across the globe. In the US, the Centers fo
 <sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Leaderless and Exposed, Russia’s Wagner Faces an Uncertain Future</h3>
-<sub>By Paul Sonne and Valerie Hopkins</sub>
-<p>It could be hard for the Kremlin to find a way to neutralize the mercenary group after Yevgeny Prigozhin’s death while retaining its fighting power and geopolitical links.  <a href="https://nyti.ms/3qEQPM0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Tropical Storm Idalia Expected to Hit Florida’s Gulf Coast as a Hurricane</h3>
-<sub>By Judson Jones and Rebecca Carballo</sub>
-<p>“This is going to be a major hurricane,” the governor said on Monday. The storm is expected to strengthen and begin affecting parts of Florida by late Tuesday.  <a href="https://nyti.ms/45LzsaZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Hurricane Franklin Intensifies Into a Category 4 Storm</h3>
-<sub>By Judson Jones and Hogla Enecia Pérez</sub>
-<p>Meteorologists expect the storm to create life-threatening rip currents along the East Coast.  <a href="https://nyti.ms/3YGni0I"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 20, Central Standard Time</sub></sub>
+<h3>21 Miles of Obstacles</h3>
+<sub>By Thomas Gibbons-Neff, Josh Holder and Marco Hernandez</sub>
+<p>The Ukrainian counteroffensive faces an enemy nearly as daunting as the Russians: the terrain.  <a href="https://nyti.ms/3NxoPBh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Frances Tiafoe Is Ready</h3>
-<sub>By Lulu Garcia-Navarro</sub>
-<p>Returning to the U.S. Open after last year’s electric run and crushing defeat, the boundary-busting American thinks he can win it all — and make tennis cool.  <a href="https://nyti.ms/45uW8N2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>After the Loss of a Son, a Football Coach Confronts a Terrible Truth</h3>
+<sub>By John Branch, Kassie Bracken, Ben Laffin, Alfredo Chiarappa and Joe Ward</sub>
+<p>Meiko Locksley was found to have had a degenerative brain disease often associated with football. His father, the head coach at Maryland, is still reckoning with the implications.  <a href="https://nyti.ms/45sg57e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>How to Recognize a Tennis Prodigy</h3>
-<sub>By Tom Shroder</sub>
-<p>The people who coached Frances Tiafoe as a child said they could see even then that he would become one of the world’s top players. But how did they know?  <a href="https://nyti.ms/44twmHL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Carlos Alcaraz Is Bending Tennis to His Will and Taking Over the Game</h3>
+<sub>By Matthew Futterman</sub>
+<p>Alcaraz, the defending U.S. Open men’s singles champion, has forced the best players in the world to adapt to his playing style, or risk losing for a long time.  <a href="https://nyti.ms/3qXspx4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>11 Fatal Minutes That Have Jacksonville Confronting Racism Yet Again</h3>
-<sub>By Nichole Manna, Anna Betts and Patricia Mazzei</sub>
-<p>The sheriff’s office identified the three victims and the gunman who fatally shot himself in the attack on Saturday, which authorities are investigating as a hate crime.  <a href="https://nyti.ms/3svwd9q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
