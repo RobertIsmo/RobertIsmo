@@ -60,11 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, August 27, Central Standard Time</p>
 <p>
-There are a lot of things happening in the world right now! In Russia, an influential ally of President Putin died in a plane crash recently called Yevgeny Prigozhin. He ran a paramilitary force that fought on Russia&#39;s side, but there is some uncertainty about how this might impact the future. Former French President Nicolas Sarkozy has been vocal  in his support for President Putin and this is causing alarm for those who want to preserve the Western resolve against Russia as Ukraine continues its counteroffensive. 
-
-In the US, the Pentagon is starting to embrace A.I. technology to help its aerial combat tactics. Recently there was a shooting in Jacksonville, Florida which authorities are now looking into as a potential hate crime - 3 victims who were all Black were fatally shot before the white gunman killed himself. There has been debate between those on the new right looking to break away from Reaganism and those more sympathetic towards him, as well as discussion on how to improve air quality in often rundown school buildings so that schools may stay open during COVID-19.
-
-Finally, in Syria a devastating earthquake earlier this year added more destruction and damage to their already existing civil war conditions. US lawmakers have only visited for the first time in 10 years to witness the destruction and lack of aid by other nations. </p>
+There&#39;s a lot going on in the world right now. In Russia, there&#39;s been some uncertainty about what will happen to an influential mercenary group after the death of Yevgeny Prigozhin, an ally of President Putin. Meanwhile, Europeans are concerned about increasing pro-Putin sentiment due to the Ukrainian conflict. The US is making advances in Artificial Intelligence and the Air Force is taking advantage of it to boost their capabilities. Sadly, last Saturday there was a shooting in Jacksonville involving a white gunman and three Black victims, being investigated as a hate crime. Similarly, Rex Heuermann has been charged with a string of murders and his family hasn&#39;t left their neighborhood since. Lastly, air quality is becoming more important as Covid-19 has closed schools worldwide and science shows cleaner air can keep them open.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Leaderless and Exposed, Russia’s Wagner Faces an Uncertain Future</h3>
@@ -93,12 +89,12 @@ Finally, in Syria a devastating earthquake earlier this year added more destruct
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>11 Fatal Minutes That Have Jacksonville Confronting Racism Yet Again</h3>
 <sub>By Nichole Manna, Anna Betts and Patricia Mazzei</sub>
-<p>The sheriff’s office identified the three victims and the gunman who fatally shot himself in the attack, which authorities are investigating as a hate crime.  <a href="https://nyti.ms/3svwd9q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The sheriff’s office identified the three victims and the gunman who fatally shot himself in the attack on Saturday, which authorities are investigating as a hate crime.  <a href="https://nyti.ms/3svwd9q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>What to Know About the Jacksonville Shooting</h3>
-<sub>By Jin Yu Young, Emma Bubola, Adam Goldman and Anna Betts</sub>
+<sub>By Livia Albeck-Ripka, Anna Betts, Orlando Mayorquin, Nichole Manna and Patricia Mazzei</sub>
 <p>Three people, all Black, were fatally shot in a dollar store before the gunman, a white man, killed himself. Investigators are treating the killing as a hate crime.  <a href="https://nyti.ms/3PdnhgL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
 <hr/>
