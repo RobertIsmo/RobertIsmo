@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, August 28, Central Standard Time</p>
 <p>
-Right now, there is a lot happening in the world. In Spain, people are talking about a reckoning with sexism after the president of the soccer federation nonconsensually kissed a player. There are some legal issues going on in the US - like a former president facing an election fraud trial and another case being considered for moving from state to federal court. One area some Americans may be concerned about is the Covid-19 situation - we&#39;re seeing a late-summer wave of cases, so people should take due caution. In Russia, mourners left flowers and tributes at a sidewalk memorial for the founder of the Wagner private military company. And in Ukraine, the counteroffensive is facing difficult terrain. Lastly, there&#39;s plenty of action in the sports world - like a football coach confronting a terrible truth after the loss of their son, as well as a tennis player spontaneously taking over the game.</p>
+There is a lot happening in the world right now. In China, the property crisis has caused small businesses and workers to be owed hundreds of billions of dollars, creating economic hardship. In Spain, there has been a reckoning with misogyny after a soccer executive was accused of kissing a player without her consent. The president of Spain&#39;s soccer federation is being asked to resign in the midst of a criminal investigation. In the US, former President Trump faces a trial over his involvement in the federal election and several other political issues are sparking debate. Also, Tropical Storm Idalia is set to hit Florida as a hurricane, prompting evacuations. Finally, in Ukraine, there is an ongoing counteroffensive taking place against Russian forces that face challenging terrain.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Paid Late, or Never: Painters, Builders and Realtors Hit by China’s Property Crisis</h3>
+<sub>By Alexandra Stevenson</sub>
+<p>As a real estate meltdown ripples through the economy, small businesses and workers are owed hundreds of billions of dollars, and new projects have dried up.  <a href="https://nyti.ms/3ssAHNX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 28, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>A Forced Kiss, and a Reckoning With Sexism in Spain</h3>
 <sub>By Jason Horowitz and Rachel Chaundler</sub>
@@ -69,27 +75,21 @@ Right now, there is a lot happening in the world. In Spain, people are talking a
 <sub><sub>Monday, August 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Spanish Prosecutors Open Inquiry Into Soccer Official Who Kissed Player</h3>
+<h3>After Prosecutors Open Inquiry Into Soccer Chief, He Is Asked to Resign</h3>
 <sub>By Rachel Chaundler and Jason Horowitz</sub>
-<p>Luis Rubiales caused outrage with his conduct after Spain won the Women’s World Cup and then for his defiant stand when he came under heavy criticism.  <a href="https://nyti.ms/3YVTnSg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Luis Rubiales caused outrage for kissing a player after Spain won the Women’s World Cup. On Monday, a criminal investigation was begun, and he was told to step down.  <a href="https://nyti.ms/3YVTnSg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Judge Sets Trial Date in March for Trump’s Federal Election Case</h3>
 <sub>By Alan Feuer and Glenn Thrush</sub>
-<p>Judge Tanya S. Chutkan rejected efforts by the former president’s legal team to postpone the trial until 2026.  <a href="https://nyti.ms/3OVJ1NH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Judge Tanya S. Chutkan rejected efforts by the former president’s legal team to postpone the trial until 2026 and scheduled it to start the day before Super Tuesday.  <a href="https://nyti.ms/3OVJ1NH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Judge Hears Bid to Move Georgia Trump Case to Federal Court</h3>
+<h3>Meadows Testifies in Bid to Move Georgia Trump Case to Federal Court</h3>
 <sub>By Richard Fausset and Danny Hakim</sub>
-<p>Lawyers for Mark Meadows, one of several defendants trying to move the case from state to federal court, were making their arguments to a federal judge in Atlanta on Monday.  <a href="https://nyti.ms/45sn5kw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Americans Still Put Their Trust in Juries. Will Trump’s Trials Break That Faith?</h3>
-<sub>By Ruth Igielnik</sub>
-<p>A new survey provides a portrait of the type of American who serves on a jury and a rare window into the thoughts of the kinds of people who may decide Donald Trump’s fate.  <a href="https://nyti.ms/3PcPXri"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Mr. Meadows, a former White House chief of staff, told a judge he believed his actions regarding the 2020 election fell within the scope of his job as a federal official.  <a href="https://nyti.ms/45sn5kw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -105,16 +105,10 @@ Right now, there is a lot happening in the world. In Spain, people are talking a
 <sub><sub>Monday, August 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Not Over Yet: Late-Summer Covid Wave Brings Warning of More to Come</h3>
-<sub>By Julie Bosman</sub>
-<p>Hospitalizations are still low but have been rising in recent weeks, according to the Centers for Disease Control and Prevention.  <a href="https://nyti.ms/3ss9N90"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>With Jacksonville and Idalia, DeSantis Faces Two Crises in Florida</h3>
+<sub>By Nicholas Nehamas</sub>
+<p>A racially motivated shooting and an impending storm provide the most serious tests of Mr. DeSantis’s leadership since he began running for president in May.  <a href="https://nyti.ms/3YSfFo6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Wagner Mourners in Moscow Reflect Prigozhin’s Appeal Among Russians</h3>
-<sub>By Valerie Hopkins</sub>
-<p>Visitors, some tearful, left flowers and other tributes to Yevgeny Prigozhin, the founder of the Wagner private military company, at a sidewalk memorial.  <a href="https://nyti.ms/3qMV4oA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>21 Miles of Obstacles</h3>
@@ -128,10 +122,16 @@ Right now, there is a lot happening in the world. In Spain, people are talking a
 <p>Meiko Locksley was found to have had a degenerative brain disease often associated with football. His father, the head coach at Maryland, is still reckoning with the implications.  <a href="https://nyti.ms/45sg57e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Carlos Alcaraz Is Bending Tennis to His Will and Taking Over the Game</h3>
-<sub>By Matthew Futterman</sub>
-<p>Alcaraz, the defending U.S. Open men’s singles champion, has forced the best players in the world to adapt to his playing style, or risk losing for a long time.  <a href="https://nyti.ms/3qXspx4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Where’s ‘Woke’? Republicans Test a Different Education Message</h3>
+<sub>By Trip Gabriel and Nicholas Nehamas</sub>
+<p>Ron DeSantis rose to prominence in part on his “anti-woke” agenda, especially when it comes to education. In some settings, culture-war messaging seems to be receding.  <a href="https://nyti.ms/45Mg0Ln"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>How Ozempic and Weight Loss Drugs Are Reshaping This Country’s Economy</h3>
+<sub>By Eshe Nelson</sub>
+<p>Novo Nordisk, the Danish company behind two popular obesity medications, is reaping huge profits and is now responsible for most of Denmark’s economic growth.  <a href="https://nyti.ms/3st6UVA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
