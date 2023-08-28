@@ -60,7 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, August 28, Central Standard Time</p>
 <p>
-It looks like there&#39;s a lot going on in the world right now. In Russia, their main mercenary group, Wagner, is without a leader and facing an uncertain future. Meanwhile, in Europe, former French president Nicolas Sarkozy has been vocal in his support of Putin, which some people are worried could bolster pro-Putin sentiment at a time when Ukraine is trying to counterbalance them. The US military is embracing artificial intelligence and the idea of &quot;robot wingmen&quot; in combat. Closer to home, there was a shooting near Jacksonville recently which has raised questions about racism. They&#39;re trying to find ways to keep the schools open during COVID while improving air quality, and the Trump Organization put up this huge clock on Fifth Avenue without applying for a permit or paying a fee and nobody noticed.</p>
+There are a lot of interesting things happening around the world lately. In Russia, a mercenary group known as Wagner is facing an uncertain future due to the death of its leader, Yevgeny Prigozhin. Meanwhile in Europe, former French President Nicolas Sarkozy has been creating pro-Putin feelings, causing some worries about Western resolve in Ukraine. 
+
+The US Air Force is getting into using A.I. as part of aerial combat, and Jacksonville, Fla., recently had an 11-minute and deadly shooting which is being investigated as a hate crime. 
+
+There&#39;s also been a clash between Vivek Ramaswamy and Mike Pence which shows the new right&#39;s break from Reaganism, and people are finding ways to turn errands into exercises to be healthier and happier. In northwestern Syria there was an earthquake six months ago which added more destruction and chaos from the civil war already taking place there. 
+
+US Commerce Secretary Wilbur Ross is currently in China discussing a wide range of issues from tourism to advanced technology. On the other hand, here in the US there are people like Rex Heuermann (suspect in Gilgo Beach murders) who have families that just keep living on as usual despite his charges. Finally, due to Covid-19 closing schools worldwide, scientists and educators are searching for ways to improve air quality in school buildings so students can safely return. Oh, and also did you know there&#39;s a 16-foot clock atop Trump Tower that nobody even knew about until recently?</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Leaderless and Exposed, Russia’s Wagner Faces an Uncertain Future</h3>
