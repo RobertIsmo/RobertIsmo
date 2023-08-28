@@ -59,12 +59,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, August 27, Central Standard Time</p>
-<p> 
-The world is facing some challenging times right now. We&#39;ve recently seen the death of Yevgeny Prigozhin, a tycoon and an ally to Putin who helped build a paramilitary force that fought alongside Russia. This has led to questions about the future of the mercenary group he was associated with. In other news, former French President Nicolas Sarkozy has made some controversial remarks that have raised fears that Europe&#39;s pro-Putin sentiment may grow stronger.
+<p>
+There are a lot of things happening in the world right now! In Russia, an influential ally of President Putin died in a plane crash recently called Yevgeny Prigozhin. He ran a paramilitary force that fought on Russia&#39;s side, but there is some uncertainty about how this might impact the future. Former French President Nicolas Sarkozy has been vocal  in his support for President Putin and this is causing alarm for those who want to preserve the Western resolve against Russia as Ukraine continues its counteroffensive. 
 
-Meanwhile, in the US, there is much happening. The Air Force is now using A.I. technology to help pilots in aerial combat. Also, tragedy struck Jacksonville, Florida this week when 3 Black people were killed and the gunman, who was white, later committed suicide as authorities investigate it as a hate crime. In addition, labor groups are lobbying and putting pressure on Hyundai and President Biden&#39;s administration to transition to electric vehicles and protect workers in the process. There&#39;s also been a clash between Vivek Ramaswamy and Mike Pence which speaks to an ideological difference within the Republican party.
+In the US, the Pentagon is starting to embrace A.I. technology to help its aerial combat tactics. Recently there was a shooting in Jacksonville, Florida which authorities are now looking into as a potential hate crime - 3 victims who were all Black were fatally shot before the white gunman killed himself. There has been debate between those on the new right looking to break away from Reaganism and those more sympathetic towards him, as well as discussion on how to improve air quality in often rundown school buildings so that schools may stay open during COVID-19.
 
-Finally, there are some interesting sights on the sports front too. Novak Djokovic is currently back in New York loving it more than ever before while Coco Gauff and Jessica Pegula enter the US Open looking really strong ahead of tryouts for home-country pressure.</p>
+Finally, in Syria a devastating earthquake earlier this year added more destruction and damage to their already existing civil war conditions. US lawmakers have only visited for the first time in 10 years to witness the destruction and lack of aid by other nations. </p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Leaderless and Exposed, Russia’s Wagner Faces an Uncertain Future</h3>
@@ -84,12 +84,6 @@ Finally, there are some interesting sights on the sports front too. Novak Djokov
 <p>Remarks by Nicolas Sarkozy have raised fears that Europe’s pro-Putin chorus may grow louder as Ukraine’s plodding counteroffensive puts pressure on Western resolve.  <a href="https://nyti.ms/44sXpmg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Western Banks Help Fund Blacklisted Oligarch’s Charity</h3>
-<sub>By Monika Pronczuk and Valerie Hopkins</sub>
-<p>Konstantin Malofeyev’s foundation funds orphanages in occupied Ukraine. He denies that a child-removal program there is a war crime: “All of this is fake.”  <a href="https://nyti.ms/3QW15da"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A.I. Brings the Robot Wingman to Aerial Combat</h3>
 <sub>By Eric Lipton</sub>
@@ -97,7 +91,7 @@ Finally, there are some interesting sights on the sports front too. Novak Djokov
 <sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The 11 Fatal Minutes in the Jacksonville Shooting</h3>
+<h3>11 Fatal Minutes That Have Jacksonville Confronting Racism Yet Again</h3>
 <sub>By Nichole Manna, Anna Betts and Patricia Mazzei</sub>
 <p>The sheriff’s office identified the three victims and the gunman who fatally shot himself in the attack, which authorities are investigating as a hate crime.  <a href="https://nyti.ms/3svwd9q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
@@ -108,34 +102,40 @@ Finally, there are some interesting sights on the sports front too. Novak Djokov
 <p>Three people, all Black, were fatally shot in a dollar store before the gunman, a white man, killed himself. Investigators are treating the killing as a hate crime.  <a href="https://nyti.ms/3PdnhgL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.S. Commerce Secretary Faces a Wide Range of Issues in China</h3>
-<sub>By Ana Swanson, Alan Rappeport and Keith Bradsher</sub>
-<p>The secretary said she planned to discuss U.S. technology controls, commercial disputes and opportunities for doing more business in her visits to Beijing and Shanghai this week.  <a href="https://nyti.ms/44rD1SL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Labor Groups Target Hyundai, and Biden, Over Transition to Electric</h3>
-<sub>By Jonathan Weisman</sub>
-<p>A coalition of unions and civic groups is pushing one of the world’s largest automakers to protect and train workers in return for federal money under President Biden’s signature laws.  <a href="https://nyti.ms/3OR9zjh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Ramaswamy-Pence Clash Shows New Right’s Radical Break From Reaganism</h3>
 <sub>By Jonathan Swan</sub>
 <p>Vivek Ramaswamy invoked Ronald Reagan’s “morning in America” theme to mock a generation of Republicans he views as out of touch.  <a href="https://nyti.ms/44v6oUd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Novak Djokovic, Back in New York and Loving It as Never Before</h3>
-<sub>By Matthew Futterman</sub>
-<p>Led by Carlos Alcaraz, tennis youth is coming for Djokovic. “My role nowadays is to prevent them from that.”  <a href="https://nyti.ms/3qPBkRk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>How I Turned My Errands Into Exercise</h3>
+<sub>By Andrew Leonard</sub>
+<p>One reluctant exerciser found that ditching his car and walking or biking to the store was a boon for his mental and physical health.  <a href="https://nyti.ms/47MkQKl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In a Place Shattered by War and Earthquakes, People Feel Forgotten</h3>
+<sub>By Raja Abdulrahim and Nicole Tung</sub>
+<p>In northwestern Syria, a devastating quake six months ago compounded the damage of years of civil war. U.S. lawmakers just visited for the first time in a decade.  <a href="https://nyti.ms/47RRD0q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>The Suddenly Hot ‘Coco and Jessie Show’ Is Ready to Open in New York</h3>
-<sub>By Matthew Futterman</sub>
-<p>Coco Gauff and Jessica Pegula enter the U.S. Open with both on a roll. Can they withstand the home-country pressure?  <a href="https://nyti.ms/3szzVP7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>U.S. Commerce Secretary Faces a Wide Range of Issues in China</h3>
+<sub>By Ana Swanson, Alan Rappeport and Keith Bradsher</sub>
+<p>The secretary said she planned to discuss U.S. technology controls, commercial disputes and opportunities for doing more business in her visits to Beijing and Shanghai this week.  <a href="https://nyti.ms/44rD1SL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Once Rarely Seen, Gilgo Beach Suspect’s Family Now Barbecues on the Lawn</h3>
+<sub>By Corey Kilgannon</sub>
+<p>After Rex Heuermann was charged in a notorious string of murders, neighbors assumed his wife and children would vanish. They haven’t.  <a href="https://nyti.ms/44oxzjr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Covid Closed the Nation’s Schools. Cleaner Air Can Keep Them Open.</h3>
+<sub>By Apoorva Mandavilli</sub>
+<p>Scientists and educators are searching for ways to improve air quality in the nation’s often dilapidated school buildings.  <a href="https://nyti.ms/45Ldm8x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
 <hr/>
 </ol>
