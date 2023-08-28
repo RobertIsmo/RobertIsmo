@@ -58,21 +58,15 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Sunday, August 27, Central Standard Time</p>
+<p>It is Monday, August 28, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. In Russia, there&#39;s been some uncertainty about what will happen to an influential mercenary group after the death of Yevgeny Prigozhin, an ally of President Putin. Meanwhile, Europeans are concerned about increasing pro-Putin sentiment due to the Ukrainian conflict. The US is making advances in Artificial Intelligence and the Air Force is taking advantage of it to boost their capabilities. Sadly, last Saturday there was a shooting in Jacksonville involving a white gunman and three Black victims, being investigated as a hate crime. Similarly, Rex Heuermann has been charged with a string of murders and his family hasn&#39;t left their neighborhood since. Lastly, air quality is becoming more important as Covid-19 has closed schools worldwide and science shows cleaner air can keep them open.</p>
+It looks like there&#39;s a lot going on in the world right now. In Russia, their main mercenary group, Wagner, is without a leader and facing an uncertain future. Meanwhile, in Europe, former French president Nicolas Sarkozy has been vocal in his support of Putin, which some people are worried could bolster pro-Putin sentiment at a time when Ukraine is trying to counterbalance them. The US military is embracing artificial intelligence and the idea of &quot;robot wingmen&quot; in combat. Closer to home, there was a shooting near Jacksonville recently which has raised questions about racism. They&#39;re trying to find ways to keep the schools open during COVID while improving air quality, and the Trump Organization put up this huge clock on Fifth Avenue without applying for a permit or paying a fee and nobody noticed.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Leaderless and Exposed, Russia’s Wagner Faces an Uncertain Future</h3>
 <sub>By Paul Sonne and Valerie Hopkins</sub>
 <p>It could be hard for the Kremlin to find a way to neutralize the mercenary group after Yevgeny Prigozhin’s death while retaining its fighting power and geopolitical links.  <a href="https://nyti.ms/3qEQPM0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Yevgeny Prigozhin, Renegade Mercenary Chief Who Rattled Kremlin</h3>
-<sub>By Valerie Hopkins</sub>
-<p>A tycoon and a Putin ally, he built a paramilitary force that fought by Russia’s side even as he castigated its military leaders. He died at 62 in a plane crash, Russian authorities said.  <a href="https://nyti.ms/47KUA2Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>A Former French President Gives a Voice to Obstinate Russian Sympathies</h3>
@@ -119,7 +113,7 @@ There&#39;s a lot going on in the world right now. In Russia, there&#39;s been s
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>U.S. Commerce Secretary Faces a Wide Range of Issues in China</h3>
 <sub>By Ana Swanson, Alan Rappeport and Keith Bradsher</sub>
-<p>The secretary said she planned to discuss U.S. technology controls, commercial disputes and opportunities for doing more business in her visits to Beijing and Shanghai this week.  <a href="https://nyti.ms/44rD1SL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>From tourism to advanced technology, here are the topics that are dominating the secretary’s visit to China this week.  <a href="https://nyti.ms/44rD1SL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -132,6 +126,12 @@ There&#39;s a lot going on in the world right now. In Russia, there&#39;s been s
 <h3>Covid Closed the Nation’s Schools. Cleaner Air Can Keep Them Open.</h3>
 <sub>By Apoorva Mandavilli</sub>
 <p>Scientists and educators are searching for ways to improve air quality in the nation’s often dilapidated school buildings.  <a href="https://nyti.ms/45Ldm8x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Did You Know About the 16-Foot Trump Tower Clock? Neither Did the City.</h3>
+<sub>By Sam Roberts</sub>
+<p>The Trump Organization audaciously installed a distinctive clock on Fifth Avenue without applying for a permit or paying a fee. City inspectors never noticed.  <a href="https://nyti.ms/3Ec5Qb4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
 <hr/>
 </ol>
