@@ -60,30 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, August 28, Central Standard Time</p>
 <p>
-There is a late-summer Covid wave and hospitalization rates have been on the rise again recently. Scientists and educators are looking for ways to keep schools open safely during the pandemic by improving air quality. In Russia, people visited a sidewalk memorial to leave tribute to Yevgeny Prigozhin, founder of the Wagner private military company. Two election cases against former President Trump are being heard on Monday, which could affect public faith in American juries. Frances Tiafoe is getting ready to compete in the U.S. Open and people are talking about how to recognize a tennis prodigy. Tropical Storm Idalia is expected to affect part of Florida soon and Hurricane Franklin has already intensified into a Category 3 storm creating life-threatening rip currents along the East Coast. There&#39;s also a story of one man who quit his job as a paramedic to help people with drug addiction at a safe injection site, even though it&#39;s illegal. Lastly, 11 fatal minutes in Jacksonville have raised tensions around racism in the US again.</p>
+Right now, things are pretty intense across the globe. In the US, the Centers for Disease Control and Prevention has warned of a late-summer Covid wave and that there could be more to come. There are also a few election cases against former president Donald Trump that are expected to start this week. Here in the US there is also a hurricane forming that is expected to affect parts of Florida soon. Meanwhile, other countries are facing their own issues - in Spain there&#39;s outrage over a soccer official kissing a player after winning the Women&#39;s World Cup, in Russia there are lots of tributes being left for Yevgeny Prigozhin who was the founder of a private military company, and in Jacksonville police are investigating a shooting as a hate crime. It&#39;s really a lot happening right now!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Not Over Yet: Late-Summer Covid Wave Brings Warning of More to Come</h3>
 <sub>By Julie Bosman</sub>
-<p>Hospitalizations are still low but are on the rise in recent weeks, according to the Centers for Disease Control and Prevention.  <a href="https://nyti.ms/3ss9N90"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Hospitalizations are still low but have been rising in recent weeks, according to the Centers for Disease Control and Prevention.  <a href="https://nyti.ms/3ss9N90"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>Covid Closed the Nation’s Schools. Cleaner Air Can Keep Them Open.</h3>
 <sub>By Apoorva Mandavilli</sub>
 <p>Scientists and educators are searching for ways to improve air quality in the nation’s often dilapidated school buildings.  <a href="https://nyti.ms/45Ldm8x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Wagner Mourners in Moscow Reflect Prigozhin’s Appeal Among Russians</h3>
-<sub>By Valerie Hopkins</sub>
-<p>Visitors, some tearful, left flowers and other tributes to Yevgeny Prigozhin, the founder of the Wagner private military company, at a sidewalk memorial.  <a href="https://nyti.ms/3qMV4oA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Leaderless and Exposed, Russia’s Wagner Faces an Uncertain Future</h3>
-<sub>By Paul Sonne and Valerie Hopkins</sub>
-<p>It could be hard for the Kremlin to find a way to neutralize the mercenary group after Yevgeny Prigozhin’s death while retaining its fighting power and geopolitical links.  <a href="https://nyti.ms/3qEQPM0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -98,34 +86,46 @@ There is a late-summer Covid wave and hospitalization rates have been on the ris
 <p>A new survey provides a portrait of the type of American who serves on a jury and a rare window into the thoughts of the kinds of people who may decide Donald Trump’s fate.  <a href="https://nyti.ms/3PcPXri"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 28, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Spanish Prosecutors Open Inquiry Into Soccer Official Who Kissed Player</h3>
+<sub>By Rachel Chaundler and Jason Horowitz</sub>
+<p>Luis Rubiales caused outrage with his conduct after Spain won the Women’s World Cup and then for his defiant stand when he came under heavy criticism.  <a href="https://nyti.ms/3YVTnSg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Wagner Mourners in Moscow Reflect Prigozhin’s Appeal Among Russians</h3>
+<sub>By Valerie Hopkins</sub>
+<p>Visitors, some tearful, left flowers and other tributes to Yevgeny Prigozhin, the founder of the Wagner private military company, at a sidewalk memorial.  <a href="https://nyti.ms/3qMV4oA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Leaderless and Exposed, Russia’s Wagner Faces an Uncertain Future</h3>
+<sub>By Paul Sonne and Valerie Hopkins</sub>
+<p>It could be hard for the Kremlin to find a way to neutralize the mercenary group after Yevgeny Prigozhin’s death while retaining its fighting power and geopolitical links.  <a href="https://nyti.ms/3qEQPM0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Tropical Storm Idalia Expected to Hit Florida’s Gulf Coast as a Hurricane</h3>
+<sub>By Judson Jones and Rebecca Carballo</sub>
+<p>“This is going to be a major hurricane,” the governor said on Monday. The storm is expected to strengthen and begin affecting parts of Florida by late Tuesday.  <a href="https://nyti.ms/45LzsaZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Hurricane Franklin Intensifies Into a Category 4 Storm</h3>
+<sub>By Judson Jones and Hogla Enecia Pérez</sub>
+<p>Meteorologists expect the storm to create life-threatening rip currents along the East Coast.  <a href="https://nyti.ms/3YGni0I"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 20, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Frances Tiafoe Is Ready</h3>
 <sub>By Lulu Garcia-Navarro</sub>
-<p>Returning to the U.S. Open after last year’s electric run and crushing defeat, the boundary-busting American thinks he can win it all — and make tennis cool.  <a href="https://nyti.ms/45mVyAS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Returning to the U.S. Open after last year’s electric run and crushing defeat, the boundary-busting American thinks he can win it all — and make tennis cool.  <a href="https://nyti.ms/45uW8N2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>How to Recognize a Tennis Prodigy</h3>
 <sub>By Tom Shroder</sub>
 <p>The people who coached Frances Tiafoe as a child said they could see even then that he would become one of the world’s top players. But how did they know?  <a href="https://nyti.ms/44twmHL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Tropical Storm Idalia Strengthening as It Moves Toward Florida’s Gulf Coast</h3>
-<sub>By Judson Jones and Rebecca Carballo</sub>
-<p>The state was mobilizing resources ahead of the storm, which forecasters described as “increasingly dangerous.” It’s expected to begin affecting part of Florida by late Tuesday.  <a href="https://nyti.ms/45LzsaZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Hurricane Franklin Intensifies Into a Category 3 Storm</h3>
-<sub>By Judson Jones and Hogla Enecia Pérez</sub>
-<p>Meteorologists expect the storm to create life-threatening rip currents along the East Coast.  <a href="https://nyti.ms/3YGni0I"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>His Job Helping Drug Users Is Illegal. He Says He Does It to Save Lives.</h3>
-<sub>By Sharon Otterman</sub>
-<p>Bryan Ortiz quit a job as a paramedic to help people at a safe injection site for drugs like fentanyl and heroin. Now, his job is under legal threat.  <a href="https://nyti.ms/3PgyU7u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
