@@ -60,12 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, August 29, Central Standard Time</p>
 <p>
-Right now, the US is getting ready to negotiate for lower prices on prescription drugs. America overuses its groundwater resources which needs to be addressed quickly before it impacts millions of people. We are also tracking Hurricane Idalia, which could be made stronger by hot sea temperatures this year. In China, their economy is slowing down and this has hurt many small business owners such as Sun Junli who lost everything due to a change in government policy. A Chinese influence campaign was taken down by Meta recently that spanned many accounts across various social media platforms. In regards to TikTok&#39;s future in the US, the US Secretary of Commerce will be in China this week to discuss its fate. There is a lot of unceasing conflict between Russia and Ukraine currently, especially in relation to merchant shipping on the Danube River that is becoming an increasingly important export artery for grain goods. This conflict is also affecting the soccer world, where sexism still exists between generations and was highlighted in Spain when a forced kiss happened between the president of the Spanish soccer federation and a famous player. On top of that, Trump&#39;s election lies have been damaging political relations and could leave the Michigan Republican Party broken if it isn&#39;t able to rebuild in time for the presidential election.</p>
+There is a lot going on in the world right now! The U.S. is implementing a new price negotiation program that is expected to save billions of dollars in the coming years. There&#39;s also the issue of overuse of groundwater in the U.S., which is threatening millions people across the country. Hurricane Idalia is roaring across the Atlantic and hot ocean temperatures have the potential to further fuel it. In China, there&#39;s been concern over their economic outlook and how it&#39;s impacting small business owners while there have been allegations of Chinese influence campaigns overseas. The war in Ukraine and subsequent actions from Russia have led to high levels of tension, making it a difficult place for merchants ships to navigate and shaping competition between Ukrainian, Russian, and allied players on the tennis court. Within the U.S., President Trump has been facing backlash for his election lies which have damaged relations within the Michigan G.O.P. Lastly, there have been calls for resignation of a Spanish soccer official over his behavior at the World Cup but prosecutors are now investigating.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>U.S. Announces First Drugs Picked for Medicare Price Negotiations</h3>
 <sub>By Sheryl Gay Stolberg and Rebecca Robbins</sub>
-<p>The Biden administration’s announcement was an important moment for Democrats, who have campaigned on a promise to lower the cost of prescription drugs.  <a href="https://nyti.ms/44uOiBF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The price negotiation program, established by Democrats as part of the Inflation Reduction Act, is expected to save the government tens of billions of dollars in the coming years.  <a href="https://nyti.ms/44uOiBF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
@@ -83,7 +83,13 @@ Right now, the US is getting ready to negotiate for lower prices on prescription
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>Hot Ocean Temperatures Could Give Hurricane Idalia a Boost</h3>
 <sub>By Raymond Zhong</sub>
-<p>Warm water temperatures can fuel tropical storms and hurricanes. This year has been record-breaking for ocean heat.  <a href="https://nyti.ms/3L1zaom"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Warm water can fuel tropical storms and hurricanes. This year has been record-breaking for ocean heat.  <a href="https://nyti.ms/3L1zaom"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>U.S. Does Not Want to ‘Decouple’ From China, Commerce Chief Says</h3>
+<sub>By Ana Swanson and Keith Bradsher</sub>
+<p>Gina Raimondo, the commerce secretary, also emphasized U.S. concerns over harsh treatment of foreign companies and national security issues in a meeting with top officials in Beijing.  <a href="https://nyti.ms/3qS0nmO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -105,12 +111,6 @@ Right now, the US is getting ready to negotiate for lower prices on prescription
 <sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>TikTok’s U.S. Future Still in Limbo as Commerce Secretary Visits China</h3>
-<sub>By Sapna Maheshwari and David McCabe</sub>
-<p>Gina Raimondo, who is in China this week, has said banning TikTok could “lose every voter under 35, forever.”  <a href="https://nyti.ms/44ozMvi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Past Drones and Sea Mines, a Merchant Ship’s Perilous Journey in Ukraine</h3>
 <sub>By Jenny Gross and Valerie Hopkins</sub>
 <p>Ukraine’s Danube River ports have become key arteries for grain exports. But threats from Russia and costly delays have made some shippers rethink their operations in the Black Sea.  <a href="https://nyti.ms/3L1M7ih"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -129,10 +129,10 @@ Right now, the US is getting ready to negotiate for lower prices on prescription
 <sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Forced Kiss, and a Reckoning With Sexism in Spain</h3>
-<sub>By Jason Horowitz and Rachel Chaundler</sub>
-<p>The nonconsensual kiss that Luis Rubiales, the president of Spain’s soccer federation, pressed on Jennifer Hermoso has come to embody the generational fault line between a culture of machismo and more recent progressivism.  <a href="https://nyti.ms/45tbj9p"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 28, Central Standard Time</sub></sub>
+<h3>Pressure Mounts on Spanish Soccer Chief Over Kiss at World Cup</h3>
+<sub>By Rachel Chaundler</sub>
+<p>Luis Rubiales has defied calls to resign, now echoed by his own federation. Soccer’s world governing body has suspended him, and prosecutors have opened an initial investigation.  <a href="https://nyti.ms/45OOE7q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
