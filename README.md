@@ -59,8 +59,8 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
 <p>It is Monday, August 28, Central Standard Time</p>
-<p> 
-There is a lot happening right now in the world! In China, the real estate market has collapsed, leading to hundreds of billions of dollars owed by small businesses and workers and making new projects impossible. Meanwhile, in Spain, residents are confronting sexism and pushing back against machismo after the President of their soccer federation kissed a player without her consent. In the US, former President Trump is set to have a trial in March for federal election issues and Florida&#39;s Gulf Coast is bracing for Hurricane Idalia. Lastly, in sports world, there&#39;s been an upsetting discovery about a football coach&#39;s son and defending US Open champion Carlos Alcaraz is taking over the game of tennis!</p>
+<p>
+There are some serious issues happening around the world right now. In China, there&#39;s a real estate meltdown which has caused small businesses and workers to be owed hundreds of billions of dollars. Over in Spain, sexism has become a huge issue with the president of their soccer federation being called out for a forced kiss on a player. Here in America, we&#39;re dealing with Hurricane Idalia coming down on Florida&#39;s Gulf Coast and Hurricane Franklin intensifying into a category four storm. We&#39;re also seeing tension between Republicans and the education system over &quot;anti-woke&quot; policies. Finally, there was the unfortunate shooting at a church in Jacksonville over the weekend which has resulted in Nikki Haley speaking out against it. Hopefully these things will keep improving soon.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Paid Late, or Never: Painters, Builders and Brokers Hit by China’s Property Crisis</h3>
@@ -104,6 +104,12 @@ There is a lot happening right now in the world! In China, the real estate marke
 <p>See the path and estimated wind arrival times for Idalia.  <a href="https://nyti.ms/45jGDYd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 28, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Hurricane Franklin Intensifies Into a Category 4 Storm</h3>
+<sub>By Judson Jones and Hogla Enecia Pérez</sub>
+<p>A tropical storm watch was issued for Bermuda, though the eye of the storm is expected to stay away from land.  <a href="https://nyti.ms/3YGni0I"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 20, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>After the Loss of a Son, a Football Coach Confronts a Terrible Truth</h3>
 <sub>By John Branch, Kassie Bracken, Ben Laffin, Alfredo Chiarappa and Joe Ward</sub>
@@ -117,21 +123,15 @@ There is a lot happening right now in the world! In China, the real estate marke
 <sub><sub>Monday, August 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>‘No Place for Hate in America,’ Haley Says, Recalling 2015 Church Massacre</h3>
+<sub>By Jazmine Ulloa</sub>
+<p>Nikki Haley, fresh off a strong debate performance last week, was back on the trail and took a moment to condemn the weekend shooting in Jacksonville, Fla.  <a href="https://nyti.ms/3OXymSG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Eminem Tells Vivek Ramaswamy to Stop Rapping His Songs</h3>
 <sub>By Jonathan Weisman</sub>
-<p>“To the American people’s chagrin, we will have to leave the rapping to the real Slim Shady,” Mr. Ramaswamy’s spokesman said after the campaign received a cease-and-desist letter.  <a href="https://nyti.ms/45pz0PW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>At the U.S. Open, Frances Tiafoe Picks Up Where He Left Off</h3>
-<sub>By Matthew Futterman and Gabriela Bhaskar</sub>
-<p>Tiafoe, who made a sensational run to the semifinal in New York last year where he ran into Carlos Alcaraz, got an easy first-round win over Learner Tien on Monday.  <a href="https://nyti.ms/3L2dg4t"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Carlos Alcaraz Is Bending Tennis to His Will and Taking Over the Game</h3>
-<sub>By Matthew Futterman</sub>
-<p>Alcaraz, the defending U.S. Open men’s singles champion, has forced the best players in the world to adapt to his playing style, or risk losing for a long time.  <a href="https://nyti.ms/3qXspx4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>“To the American people’s chagrin, we will have to leave the rapping to the real Slim Shady,” Mr. Ramaswamy’s spokesman said after the campaign received a cease-and-desist letter.  <a href="https://nyti.ms/3ZabbcR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
