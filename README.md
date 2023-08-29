@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, August 29, Central Standard Time</p>
 <p>
-It looks like a lot has been going on lately. In China, there is a property crisis, and hundreds of billions of dollars is owed to small businesses who are getting the short end of the stick. On the global scale, there have been lots of conversations around sexism in leadership positions, prompting investigations into certain figures and calls for them to resign. Closer to home, we&#39;re bracing for the impact of two hurricanes hitting Florida&#39;s Gulf Coast and Bermuda, each of which is expected to be very powerful storms. Meanwhile, tensions over Republicans&#39; &quot;anti-woke&quot; education agenda but also America&#39;s ongoing racism are present in conversations as well. We&#39;re seeing a rap battle between Eminem and Vivek Ramaswamy continuing to unfold and this weekend&#39;s racially motivated shootings in Jacksonville has added onto the call for accountability and justice.</p>
+There is a lot happening in the world right now! In China, a real estate market meltdown is leaving small businesses and workers waiting to be paid after they&#39;ve finished jobs. In Spain, tensions between those who embrace machismo and progressive movements have been recently highlighted after the country&#39;s soccer president forcibly kissed a player. The US is also dealing with current events, particularly in regards to Hurricane Ian that is ravaging the Gulf Coast. There&#39;s also a US federal election case that has been given a trial date for March and Tropical Storm Idalia that&#39;s expected to rapidly intensify near Florida&#39;s coast. As if this wasn&#39;t enough, there has also been a shooting in Jacksonville, Fla and Eminem has sent cease-and-desist letter to an aspiring rapper who tried to rap one of his songs. All in all, it&#39;s an interesting time in the world!</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Paid Late, or Never: Painters, Builders and Brokers Hit by China’s Property Crisis</h3>
@@ -99,7 +99,7 @@ It looks like a lot has been going on lately. In China, there is a property cris
 <sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Tracking Tropical Storm Idalia</h3>
+<h3>Tracking Hurricane Idalia</h3>
 <sub>By William B. Davis, Judson Jones, Bea Malsky, John Keefe and Madison Dong</sub>
 <p>See the path and estimated wind arrival times for Idalia.  <a href="https://nyti.ms/45jGDYd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 28, Central Standard Time</sub></sub>
@@ -109,6 +109,12 @@ It looks like a lot has been going on lately. In China, there is a property cris
 <sub>By Judson Jones and Hogla Enecia Pérez</sub>
 <p>The season’s most powerful Atlantic storm was heading for Bermuda, though the eye of the storm is expected to stay well away from land.  <a href="https://nyti.ms/3YGni0I"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukraine Says It Retook a Village, a Win That Highlights the Rough Going</h3>
+<sub>By Constant Méheut</sub>
+<p>It took weeks of fierce combat for Ukrainian forces to seize the village of Robotyne from the Russians, and they have advanced just a few miles since June — signs of the daunting task ahead.  <a href="https://nyti.ms/44CjAa4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Where’s ‘Woke’? Republicans Test a Different Education Message</h3>
@@ -126,12 +132,6 @@ It looks like a lot has been going on lately. In China, there is a property cris
 <h3>Eminem Tells Vivek Ramaswamy to Stop Rapping His Songs</h3>
 <sub>By Jonathan Weisman</sub>
 <p>“To the American people’s chagrin, we will have to leave the rapping to the real Slim Shady,” Mr. Ramaswamy’s spokesman said after the campaign received a cease-and-desist letter.  <a href="https://nyti.ms/3ZabbcR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Grief and Anger Continue to Reverberate From Jacksonville Shootings</h3>
-<sub>By Anna Betts and Nichole Manna</sub>
-<p>New details emerge from the racially motivated attacks on Saturday.  <a href="https://nyti.ms/44yZX2q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
