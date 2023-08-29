@@ -60,22 +60,10 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, August 29, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. We are facing some huge environmental issues, especially when it comes to climate change. The US government has just announced the first drugs it has picked to be put up for price negotiation as part of its inflation reduction program. There is also a storm threatening to move through the Southeast and there is worry that heavy rain could stir up potentially toxic algae blooms in lakes like Lake Okeechobee. On top of all of that, global trade ties with China are still strong and even trying to decouple from them is proving difficult right now. Additionally, there have been reports of a Chinese influence campaign that was recently taken down and the death of Yevgeny Prigozhin, who died in a plane crash along with nine others. Maritime vessels in Ukraine are being asked to take some risky trips through dangerous waters due to the political tensions with Russia and New York City is trying its best to prevent West Nile virus outbreaks by targeting mosquitos in Queens.</p>
+Right now, Hurricane Idalia has just made landfall in Florida and is threatening to move through the southeastern United States, potentially bringing flooding, storm surge, and even tornadoes. Here in the US, we&#39;re also facing a scary problem -- groundwater overuse. Aquifers have been drained and damaged nationwide, threatening millions of people. On top of that, US Commerce Secretary Gina Raimondo has met with top government officials in Beijing to address US concerns about harsh treatment of foreign companies and national security issues there. In China itself, while the government is continuing its pep talks about the country&#39;s economic outlook, there seem to be widespread anxiety and pessimism about their economic slowdown on the ground. Lastly, former President Donald Trump has challenged his trial date in a federal election case, situation that legal experts don&#39;t seem too optimistic about.</p>
 <ol>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>America Is Using Up Its Groundwater Like There’s No Tomorrow</h3>
-<sub>By Mira Rojanasakul, Christopher Flavelle, Blacki Migliozzi and Eli Murray</sub>
-<p>Unchecked overuse is draining and damaging aquifers nationwide, a data investigation by the New York Times revealed, threatening millions of people and America’s status as a food superpower.  <a href="https://nyti.ms/3soZaDM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 28, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Announces First Drugs Picked for Medicare Price Negotiations</h3>
-<sub>By Sheryl Gay Stolberg and Rebecca Robbins</sub>
-<p>The price negotiation program, established by Democrats as part of the Inflation Reduction Act, is expected to save the government tens of billions of dollars in the coming years.  <a href="https://nyti.ms/44uOiBF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>After Florida, Idalia Will Move through the Southeast</h3>
+<h3>After Florida, Idalia Will Move Through the Southeast</h3>
 <sub>By Judson Jones</sub>
 <p>The storm could produce flooding, storm surge and even tornadoes through northern Florida, southeastern Georgia and coastal South Carolina in the coming days.  <a href="https://nyti.ms/45GhvLe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
@@ -92,6 +80,48 @@ There is a lot going on in the world right now. We are facing some huge environm
 <p>See the path and estimated wind arrival times for Idalia.  <a href="https://nyti.ms/45jGDYd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 28, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>America Is Using Up Its Groundwater Like There’s No Tomorrow</h3>
+<sub>By Mira Rojanasakul, Christopher Flavelle, Blacki Migliozzi and Eli Murray</sub>
+<p>Unchecked overuse is draining and damaging aquifers nationwide, a data investigation by the New York Times revealed, threatening millions of people and America’s status as a food superpower.  <a href="https://nyti.ms/3soZaDM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. Announces First Drugs Picked for Medicare Price Negotiations</h3>
+<sub>By Sheryl Gay Stolberg and Rebecca Robbins</sub>
+<p>The price negotiation program, established by Democrats as part of the Inflation Reduction Act, is expected to save the government tens of billions of dollars in the coming years.  <a href="https://nyti.ms/44uOiBF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>A California Land Mystery Is Solved. Now the Political Fight Begins.</h3>
+<sub>By Conor Dougherty and Shawn Hubler</sub>
+<p>Tech industry investors spent roughly $900 million buying land to build a dream city in a rural part of the Bay Area. It could be years, though, before they can do anything with it.  <a href="https://nyti.ms/47TOsp3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Where Tech Investors Are Buying Up Land, Locals Are Worried</h3>
+<sub>By Holly Secon</sub>
+<p>In Solano County, Calif., longtime residents are both worried and baffled by an ambitious plan to build a city where there is now mostly farmland.  <a href="https://nyti.ms/47RbtZW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How Might Trump Challenge the March 4 Trial Date in the Federal Election Case?</h3>
+<sub>By Charlie Savage</sub>
+<p>The ex-president vowed to appeal a judge’s decision to schedule the start on his trial the day before Super Tuesday. He can’t disrupt the trial that way, legal experts say — but there is a longer-shot possibility.  <a href="https://nyti.ms/3OT84RH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How Trump’s Election Lies Left the Michigan G.O.P. Broken and Battered</h3>
+<sub>By Nick Corasaniti</sub>
+<p>Infighting between Trump acolytes and traditionalists has driven away donors and voters. Can the Michigan Republican Party rebuild in time for the presidential election?  <a href="https://nyti.ms/44oJQV6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>The Dangerous Marketing of the Trump Mug Shot</h3>
+<sub>By Vanessa Friedman</sub>
+<p>Both sides are trying to profit from reducing this moment to a whole lotta merch.  <a href="https://nyti.ms/3YVhbps"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>U.S. Does Not Want to ‘Decouple’ From China, Commerce Chief Says</h3>
 <sub>By Ana Swanson and Keith Bradsher</sub>
@@ -102,36 +132,6 @@ There is a lot going on in the world right now. We are facing some huge environm
 <h3>China’s Economic Outlook: Pep Talks Up Top, Gloom on the Ground</h3>
 <sub>By Vivian Wang</sub>
 <p>Beijing has characterized concerns about the economic slowdown as being inflated by Western critics. Widespread anxiety and pessimism paint a different picture.  <a href="https://nyti.ms/3KW6ptd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Factories May Be Leaving China, but Trade Ties Are Stronger Than They Seem</h3>
-<sub>By Ana Swanson and Jeanna Smialek</sub>
-<p>The United States is trying to lessen its dependence on Chinese goods, but research is showing how tough it is to truly alter global supply chains.  <a href="https://nyti.ms/44KWD4B"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Meta’s ‘Biggest Single Takedown’ Removes Chinese Influence Campaign</h3>
-<sub>By Sheera Frenkel</sub>
-<p>The campaign began at least four years ago and spanned thousands of accounts on Facebook, Instagram, TikTok, X, Substack and Chinese websites, Meta said.  <a href="https://nyti.ms/3YWtYrD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Wagner Says Its Chief Has Been Buried, Ending Days of Speculation</h3>
-<sub>By Valerie Hopkins</sub>
-<p>Details about the funeral for Yevgeny Prigozhin, who died in a plane crash last week along with nine other people, were murky.  <a href="https://nyti.ms/3OWQyvH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Past Drones and Sea Mines, a Merchant Ship’s Perilous Journey in Ukraine</h3>
-<sub>By Jenny Gross and Valerie Hopkins</sub>
-<p>Ukraine’s Danube River ports have become key arteries for grain exports. But threats from Russia and costly delays have made some shippers rethink their operations in the Black Sea.  <a href="https://nyti.ms/3L1M7ih"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>In a Decaying Queens Fortress, It’s One Man Versus 47 Kinds of Mosquito</h3>
-<sub>By Andy Newman</sub>
-<p>Dr. Waheed Bajwa and the Health Department’s Office of Vector Surveillance and Control work all year to protect New York City from a summertime West Nile virus outbreak.  <a href="https://nyti.ms/3OTQQDM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
 <hr/>
 </ol>
