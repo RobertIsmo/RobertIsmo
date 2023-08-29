@@ -60,14 +60,8 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, August 29, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now! The U.S. is implementing a new price negotiation program that is expected to save billions of dollars in the coming years. There&#39;s also the issue of overuse of groundwater in the U.S., which is threatening millions people across the country. Hurricane Idalia is roaring across the Atlantic and hot ocean temperatures have the potential to further fuel it. In China, there&#39;s been concern over their economic outlook and how it&#39;s impacting small business owners while there have been allegations of Chinese influence campaigns overseas. The war in Ukraine and subsequent actions from Russia have led to high levels of tension, making it a difficult place for merchants ships to navigate and shaping competition between Ukrainian, Russian, and allied players on the tennis court. Within the U.S., President Trump has been facing backlash for his election lies which have damaged relations within the Michigan G.O.P. Lastly, there have been calls for resignation of a Spanish soccer official over his behavior at the World Cup but prosecutors are now investigating.</p>
+There is a lot going on in the world right now. We are facing some huge environmental issues, especially when it comes to climate change. The US government has just announced the first drugs it has picked to be put up for price negotiation as part of its inflation reduction program. There is also a storm threatening to move through the Southeast and there is worry that heavy rain could stir up potentially toxic algae blooms in lakes like Lake Okeechobee. On top of all of that, global trade ties with China are still strong and even trying to decouple from them is proving difficult right now. Additionally, there have been reports of a Chinese influence campaign that was recently taken down and the death of Yevgeny Prigozhin, who died in a plane crash along with nine others. Maritime vessels in Ukraine are being asked to take some risky trips through dangerous waters due to the political tensions with Russia and New York City is trying its best to prevent West Nile virus outbreaks by targeting mosquitos in Queens.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Announces First Drugs Picked for Medicare Price Negotiations</h3>
-<sub>By Sheryl Gay Stolberg and Rebecca Robbins</sub>
-<p>The price negotiation program, established by Democrats as part of the Inflation Reduction Act, is expected to save the government tens of billions of dollars in the coming years.  <a href="https://nyti.ms/44uOiBF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>America Is Using Up Its Groundwater Like There’s No Tomorrow</h3>
 <sub>By Mira Rojanasakul, Christopher Flavelle, Blacki Migliozzi and Eli Murray</sub>
@@ -75,21 +69,33 @@ There is a lot going on in the world right now! The U.S. is implementing a new p
 <sub><sub>Monday, August 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. Announces First Drugs Picked for Medicare Price Negotiations</h3>
+<sub>By Sheryl Gay Stolberg and Rebecca Robbins</sub>
+<p>The price negotiation program, established by Democrats as part of the Inflation Reduction Act, is expected to save the government tens of billions of dollars in the coming years.  <a href="https://nyti.ms/44uOiBF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>After Florida, Idalia Will Move through the Southeast</h3>
+<sub>By Judson Jones</sub>
+<p>The storm could produce flooding, storm surge and even tornadoes through northern Florida, southeastern Georgia and coastal South Carolina in the coming days.  <a href="https://nyti.ms/45GhvLe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Hurricane Idalia Threatens to Stir Up Lake Okeechobee’s Toxic Algae Blooms</h3>
+<sub>By Delger Erdenesanaa</sub>
+<p>Cyanobacteria have overrun this lake an hour outside West Palm Beach, and excessive rain could spread that algae to nearby waterways.  <a href="https://nyti.ms/3L3dwAa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Tracking Hurricane Idalia</h3>
 <sub>By William B. Davis, Judson Jones, Bea Malsky, John Keefe and Madison Dong</sub>
 <p>See the path and estimated wind arrival times for Idalia.  <a href="https://nyti.ms/45jGDYd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Hot Ocean Temperatures Could Give Hurricane Idalia a Boost</h3>
-<sub>By Raymond Zhong</sub>
-<p>Warm water can fuel tropical storms and hurricanes. This year has been record-breaking for ocean heat.  <a href="https://nyti.ms/3L1zaom"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>U.S. Does Not Want to ‘Decouple’ From China, Commerce Chief Says</h3>
 <sub>By Ana Swanson and Keith Bradsher</sub>
-<p>Gina Raimondo, the commerce secretary, also emphasized U.S. concerns over harsh treatment of foreign companies and national security issues in a meeting with top officials in Beijing.  <a href="https://nyti.ms/3qS0nmO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Gina Raimondo, the commerce secretary, emphasized U.S. concerns over harsh treatment of foreign companies and national security issues in a meeting with top officials in Beijing.  <a href="https://nyti.ms/3qS0nmO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -99,15 +105,21 @@ There is a lot going on in the world right now! The U.S. is implementing a new p
 <sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>She Rose From Poverty as China Prospered. Then It Made Her Poor Again.</h3>
-<sub>By Li Yuan</sub>
-<p>Sun Junli is one of many small-business owners, the backbone of China’s economy, who lost everything to a change in government policy.  <a href="https://nyti.ms/3qQytaN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 28, Central Standard Time</sub></sub>
+<h3>Factories May Be Leaving China, but Trade Ties Are Stronger Than They Seem</h3>
+<sub>By Ana Swanson and Jeanna Smialek</sub>
+<p>The United States is trying to lessen its dependence on Chinese goods, but research is showing how tough it is to truly alter global supply chains.  <a href="https://nyti.ms/44KWD4B"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Meta’s ‘Biggest Single Takedown’ Removes Chinese Influence Campaign</h3>
 <sub>By Sheera Frenkel</sub>
 <p>The campaign began at least four years ago and spanned thousands of accounts on Facebook, Instagram, TikTok, X, Substack and Chinese websites, Meta said.  <a href="https://nyti.ms/3YWtYrD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Wagner Says Its Chief Has Been Buried, Ending Days of Speculation</h3>
+<sub>By Valerie Hopkins</sub>
+<p>Details about the funeral for Yevgeny Prigozhin, who died in a plane crash last week along with nine other people, were murky.  <a href="https://nyti.ms/3OWQyvH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -116,22 +128,10 @@ There is a lot going on in the world right now! The U.S. is implementing a new p
 <p>Ukraine’s Danube River ports have become key arteries for grain exports. But threats from Russia and costly delays have made some shippers rethink their operations in the Black Sea.  <a href="https://nyti.ms/3L1M7ih"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>How the War in Ukraine Turned Tennis Into a Battlefield</h3>
-<sub>By Michael Steinberger</sub>
-<p>For Ukrainian players, as well as those from Russia and its allies, the unceasing conflict at home has bled into the game. Now they face off at the U.S. Open.  <a href="https://nyti.ms/47PveRz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Trump’s Election Lies Left the Michigan G.O.P. Broken and Battered</h3>
-<sub>By Nick Corasaniti</sub>
-<p>Infighting between Trump acolytes and traditionalists has driven away donors and voters. Can the Michigan Republican Party rebuild in time for the presidential election?  <a href="https://nyti.ms/44oJQV6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Pressure Mounts on Spanish Soccer Chief Over Kiss at World Cup</h3>
-<sub>By Rachel Chaundler</sub>
-<p>Luis Rubiales has defied calls to resign, now echoed by his own federation. Soccer’s world governing body has suspended him, and prosecutors have opened an initial investigation.  <a href="https://nyti.ms/45OOE7q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>In a Decaying Queens Fortress, It’s One Man Versus 47 Kinds of Mosquito</h3>
+<sub>By Andy Newman</sub>
+<p>Dr. Waheed Bajwa and the Health Department’s Office of Vector Surveillance and Control work all year to protect New York City from a summertime West Nile virus outbreak.  <a href="https://nyti.ms/3OTQQDM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
 <hr/>
 </ol>
