@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Monday, August 28, Central Standard Time</p>
+<p>It is Tuesday, August 29, Central Standard Time</p>
 <p>
-There are some serious issues happening around the world right now. In China, there&#39;s a real estate meltdown which has caused small businesses and workers to be owed hundreds of billions of dollars. Over in Spain, sexism has become a huge issue with the president of their soccer federation being called out for a forced kiss on a player. Here in America, we&#39;re dealing with Hurricane Idalia coming down on Florida&#39;s Gulf Coast and Hurricane Franklin intensifying into a category four storm. We&#39;re also seeing tension between Republicans and the education system over &quot;anti-woke&quot; policies. Finally, there was the unfortunate shooting at a church in Jacksonville over the weekend which has resulted in Nikki Haley speaking out against it. Hopefully these things will keep improving soon.</p>
+It looks like a lot has been going on lately. In China, there is a property crisis, and hundreds of billions of dollars is owed to small businesses who are getting the short end of the stick. On the global scale, there have been lots of conversations around sexism in leadership positions, prompting investigations into certain figures and calls for them to resign. Closer to home, we&#39;re bracing for the impact of two hurricanes hitting Florida&#39;s Gulf Coast and Bermuda, each of which is expected to be very powerful storms. Meanwhile, tensions over Republicans&#39; &quot;anti-woke&quot; education agenda but also America&#39;s ongoing racism are present in conversations as well. We&#39;re seeing a rap battle between Eminem and Vivek Ramaswamy continuing to unfold and this weekend&#39;s racially motivated shootings in Jacksonville has added onto the call for accountability and justice.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Paid Late, or Never: Painters, Builders and Brokers Hit by China’s Property Crisis</h3>
@@ -105,16 +105,10 @@ There are some serious issues happening around the world right now. In China, th
 <sub><sub>Monday, August 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Hurricane Franklin Intensifies Into a Category 4 Storm</h3>
+<h3>Hurricane Franklin Intensifies Into a ‘Very Powerful’ Category 4 Storm</h3>
 <sub>By Judson Jones and Hogla Enecia Pérez</sub>
-<p>A tropical storm watch was issued for Bermuda, though the eye of the storm is expected to stay away from land.  <a href="https://nyti.ms/3YGni0I"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The season’s most powerful Atlantic storm was heading for Bermuda, though the eye of the storm is expected to stay well away from land.  <a href="https://nyti.ms/3YGni0I"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>After the Loss of a Son, a Football Coach Confronts a Terrible Truth</h3>
-<sub>By John Branch, Kassie Bracken, Ben Laffin, Alfredo Chiarappa and Joe Ward</sub>
-<p>Meiko Locksley was found to have had a degenerative brain disease often associated with football. His father, the head coach at Maryland, is still reckoning with the implications.  <a href="https://nyti.ms/45sg57e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Where’s ‘Woke’? Republicans Test a Different Education Message</h3>
@@ -132,6 +126,12 @@ There are some serious issues happening around the world right now. In China, th
 <h3>Eminem Tells Vivek Ramaswamy to Stop Rapping His Songs</h3>
 <sub>By Jonathan Weisman</sub>
 <p>“To the American people’s chagrin, we will have to leave the rapping to the real Slim Shady,” Mr. Ramaswamy’s spokesman said after the campaign received a cease-and-desist letter.  <a href="https://nyti.ms/3ZabbcR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Grief and Anger Continue to Reverberate From Jacksonville Shootings</h3>
+<sub>By Anna Betts and Nichole Manna</sub>
+<p>New details emerge from the racially motivated attacks on Saturday.  <a href="https://nyti.ms/44yZX2q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
