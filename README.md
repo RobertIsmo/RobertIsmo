@@ -59,11 +59,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
 <p>It is Monday, August 28, Central Standard Time</p>
-<p>
-There is a lot happening in the world right now. In China, the property crisis has caused small businesses and workers to be owed hundreds of billions of dollars, creating economic hardship. In Spain, there has been a reckoning with misogyny after a soccer executive was accused of kissing a player without her consent. The president of Spain&#39;s soccer federation is being asked to resign in the midst of a criminal investigation. In the US, former President Trump faces a trial over his involvement in the federal election and several other political issues are sparking debate. Also, Tropical Storm Idalia is set to hit Florida as a hurricane, prompting evacuations. Finally, in Ukraine, there is an ongoing counteroffensive taking place against Russian forces that face challenging terrain.</p>
+<p> 
+There is a lot happening right now in the world! In China, the real estate market has collapsed, leading to hundreds of billions of dollars owed by small businesses and workers and making new projects impossible. Meanwhile, in Spain, residents are confronting sexism and pushing back against machismo after the President of their soccer federation kissed a player without her consent. In the US, former President Trump is set to have a trial in March for federal election issues and Florida&#39;s Gulf Coast is bracing for Hurricane Idalia. Lastly, in sports world, there&#39;s been an upsetting discovery about a football coach&#39;s son and defending US Open champion Carlos Alcaraz is taking over the game of tennis!</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Paid Late, or Never: Painters, Builders and Realtors Hit by China’s Property Crisis</h3>
+<h3>Paid Late, or Never: Painters, Builders and Brokers Hit by China’s Property Crisis</h3>
 <sub>By Alexandra Stevenson</sub>
 <p>As a real estate meltdown ripples through the economy, small businesses and workers are owed hundreds of billions of dollars, and new projects have dried up.  <a href="https://nyti.ms/3ssAHNX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 28, Central Standard Time</sub></sub>
@@ -81,21 +81,21 @@ There is a lot happening in the world right now. In China, the property crisis h
 <sub><sub>Monday, August 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Judge Sets Trial Date in March for Trump’s Federal Election Case</h3>
-<sub>By Alan Feuer and Glenn Thrush</sub>
-<p>Judge Tanya S. Chutkan rejected efforts by the former president’s legal team to postpone the trial until 2026 and scheduled it to start the day before Super Tuesday.  <a href="https://nyti.ms/3OVJ1NH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Meadows Testifies in Bid to Move Georgia Trump Case to Federal Court</h3>
 <sub>By Richard Fausset and Danny Hakim</sub>
-<p>Mr. Meadows, a former White House chief of staff, told a judge he believed his actions regarding the 2020 election fell within the scope of his job as a federal official.  <a href="https://nyti.ms/45sn5kw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Mark Meadows, a former White House chief of staff, told a judge he believed his actions regarding the 2020 election fell within the scope of his job as a federal official.  <a href="https://nyti.ms/45sn5kw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Tropical Storm Idalia to Hit Florida as a Hurricane</h3>
-<sub>By Judson Jones, Johnny Diaz and Rebecca Carballo</sub>
-<p>Evacuations were ordered ahead of the storm, which is expected to make landfall on the state’s Gulf Coast early Wednesday after strengthening into a major hurricane.  <a href="https://nyti.ms/45LzsaZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Judge Sets Trial Date in March for Trump’s Federal Election Case</h3>
+<sub>By Alan Feuer and Glenn Thrush</sub>
+<p>Judge Tanya S. Chutkan rejected efforts by the former president’s legal team to postpone the trial until 2026.  <a href="https://nyti.ms/3OVJ1NH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A New Threat on a Coast Ravaged by Hurricane Ian</h3>
+<sub>By Patricia Mazzei, Johnny Diaz and Judson Jones</sub>
+<p>Tropical Storm Idalia, expected to strengthen into a major hurricane before making landfall on Florida’s Gulf Coast, forced evacuations and prompted warnings to “buckle up.”  <a href="https://nyti.ms/45LzsaZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -103,18 +103,6 @@ There is a lot happening in the world right now. In China, the property crisis h
 <sub>By William B. Davis, Judson Jones, Bea Malsky, John Keefe and Madison Dong</sub>
 <p>See the path and estimated wind arrival times for Idalia.  <a href="https://nyti.ms/45jGDYd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>With Jacksonville and Idalia, DeSantis Faces Two Crises in Florida</h3>
-<sub>By Nicholas Nehamas</sub>
-<p>A racially motivated shooting and an impending storm provide the most serious tests of Mr. DeSantis’s leadership since he began running for president in May.  <a href="https://nyti.ms/3YSfFo6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>21 Miles of Obstacles</h3>
-<sub>By Thomas Gibbons-Neff, Josh Holder and Marco Hernandez</sub>
-<p>The Ukrainian counteroffensive faces an enemy nearly as daunting as the Russians: the terrain.  <a href="https://nyti.ms/3NxoPBh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, June 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>After the Loss of a Son, a Football Coach Confronts a Terrible Truth</h3>
@@ -128,10 +116,22 @@ There is a lot happening in the world right now. In China, the property crisis h
 <p>Ron DeSantis rose to prominence in part on his “anti-woke” agenda, especially when it comes to education. In some settings, culture-war messaging seems to be receding.  <a href="https://nyti.ms/45Mg0Ln"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How Ozempic and Weight Loss Drugs Are Reshaping This Country’s Economy</h3>
-<sub>By Eshe Nelson</sub>
-<p>Novo Nordisk, the Danish company behind two popular obesity medications, is reaping huge profits and is now responsible for most of Denmark’s economic growth.  <a href="https://nyti.ms/3st6UVA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Eminem Tells Vivek Ramaswamy to Stop Rapping His Songs</h3>
+<sub>By Jonathan Weisman</sub>
+<p>“To the American people’s chagrin, we will have to leave the rapping to the real Slim Shady,” Mr. Ramaswamy’s spokesman said after the campaign received a cease-and-desist letter.  <a href="https://nyti.ms/45pz0PW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>At the U.S. Open, Frances Tiafoe Picks Up Where He Left Off</h3>
+<sub>By Matthew Futterman and Gabriela Bhaskar</sub>
+<p>Tiafoe, who made a sensational run to the semifinal in New York last year where he ran into Carlos Alcaraz, got an easy first-round win over Learner Tien on Monday.  <a href="https://nyti.ms/3L2dg4t"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Carlos Alcaraz Is Bending Tennis to His Will and Taking Over the Game</h3>
+<sub>By Matthew Futterman</sub>
+<p>Alcaraz, the defending U.S. Open men’s singles champion, has forced the best players in the world to adapt to his playing style, or risk losing for a long time.  <a href="https://nyti.ms/3qXspx4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
