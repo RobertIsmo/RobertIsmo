@@ -60,43 +60,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, August 29, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now! In China, a real estate market meltdown is leaving small businesses and workers waiting to be paid after they&#39;ve finished jobs. In Spain, tensions between those who embrace machismo and progressive movements have been recently highlighted after the country&#39;s soccer president forcibly kissed a player. The US is also dealing with current events, particularly in regards to Hurricane Ian that is ravaging the Gulf Coast. There&#39;s also a US federal election case that has been given a trial date for March and Tropical Storm Idalia that&#39;s expected to rapidly intensify near Florida&#39;s coast. As if this wasn&#39;t enough, there has also been a shooting in Jacksonville, Fla and Eminem has sent cease-and-desist letter to an aspiring rapper who tried to rap one of his songs. All in all, it&#39;s an interesting time in the world!</p>
+Right now, the US is getting ready to negotiate for lower prices on prescription drugs. America overuses its groundwater resources which needs to be addressed quickly before it impacts millions of people. We are also tracking Hurricane Idalia, which could be made stronger by hot sea temperatures this year. In China, their economy is slowing down and this has hurt many small business owners such as Sun Junli who lost everything due to a change in government policy. A Chinese influence campaign was taken down by Meta recently that spanned many accounts across various social media platforms. In regards to TikTok&#39;s future in the US, the US Secretary of Commerce will be in China this week to discuss its fate. There is a lot of unceasing conflict between Russia and Ukraine currently, especially in relation to merchant shipping on the Danube River that is becoming an increasingly important export artery for grain goods. This conflict is also affecting the soccer world, where sexism still exists between generations and was highlighted in Spain when a forced kiss happened between the president of the Spanish soccer federation and a famous player. On top of that, Trump&#39;s election lies have been damaging political relations and could leave the Michigan Republican Party broken if it isn&#39;t able to rebuild in time for the presidential election.</p>
 <ol>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Paid Late, or Never: Painters, Builders and Brokers Hit by China’s Property Crisis</h3>
-<sub>By Alexandra Stevenson</sub>
-<p>As a real estate meltdown ripples through the economy, small businesses and workers are owed hundreds of billions of dollars, and new projects have dried up.  <a href="https://nyti.ms/3ssAHNX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Forced Kiss, and a Reckoning With Sexism in Spain</h3>
-<sub>By Jason Horowitz and Rachel Chaundler</sub>
-<p>The nonconsensual kiss that Luis Rubiales, the president of Spain’s soccer federation, pressed on Jennifer Hermoso has come to embody the generational fault line between a culture of machismo and more recent progressivism.  <a href="https://nyti.ms/45tbj9p"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>After Prosecutors Open Inquiry Into Soccer Chief, He Is Asked to Resign</h3>
-<sub>By Rachel Chaundler and Jason Horowitz</sub>
-<p>Luis Rubiales caused outrage for kissing a player after Spain won the Women’s World Cup. On Monday, a criminal investigation was begun, and he was told to step down.  <a href="https://nyti.ms/3YVTnSg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 28, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Meadows Testifies in Bid to Move Georgia Trump Case to Federal Court</h3>
-<sub>By Richard Fausset and Danny Hakim</sub>
-<p>Mark Meadows, a former White House chief of staff, told a judge he believed his actions regarding the 2020 election fell within the scope of his job as a federal official.  <a href="https://nyti.ms/45sn5kw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 28, Central Standard Time</sub></sub>
+<h3>U.S. Announces First Drugs Picked for Medicare Price Negotiations</h3>
+<sub>By Sheryl Gay Stolberg and Rebecca Robbins</sub>
+<p>The Biden administration’s announcement was an important moment for Democrats, who have campaigned on a promise to lower the cost of prescription drugs.  <a href="https://nyti.ms/44uOiBF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Judge Sets Trial Date in March for Trump’s Federal Election Case</h3>
-<sub>By Alan Feuer and Glenn Thrush</sub>
-<p>Judge Tanya S. Chutkan rejected efforts by the former president’s legal team to postpone the trial until 2026.  <a href="https://nyti.ms/3OVJ1NH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>America Is Using Up Its Groundwater Like There’s No Tomorrow</h3>
+<sub>By Mira Rojanasakul, Christopher Flavelle, Blacki Migliozzi and Eli Murray</sub>
+<p>Unchecked overuse is draining and damaging aquifers nationwide, a data investigation by the New York Times revealed, threatening millions of people and America’s status as a food superpower.  <a href="https://nyti.ms/3soZaDM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A New Threat on a Coast Ravaged by Hurricane Ian</h3>
-<sub>By Patricia Mazzei, Johnny Diaz and Judson Jones</sub>
-<p>Tropical Storm Idalia, expected to strengthen into a major hurricane before making landfall on Florida’s Gulf Coast, forced evacuations and prompted warnings to “buckle up.”  <a href="https://nyti.ms/45LzsaZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Tracking Hurricane Idalia</h3>
@@ -104,34 +80,58 @@ There is a lot happening in the world right now! In China, a real estate market 
 <p>See the path and estimated wind arrival times for Idalia.  <a href="https://nyti.ms/45jGDYd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Hurricane Franklin Intensifies Into a ‘Very Powerful’ Category 4 Storm</h3>
-<sub>By Judson Jones and Hogla Enecia Pérez</sub>
-<p>The season’s most powerful Atlantic storm was heading for Bermuda, though the eye of the storm is expected to stay well away from land.  <a href="https://nyti.ms/3YGni0I"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 20, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Hot Ocean Temperatures Could Give Hurricane Idalia a Boost</h3>
+<sub>By Raymond Zhong</sub>
+<p>Warm water temperatures can fuel tropical storms and hurricanes. This year has been record-breaking for ocean heat.  <a href="https://nyti.ms/3L1zaom"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Says It Retook a Village, a Win That Highlights the Rough Going</h3>
-<sub>By Constant Méheut</sub>
-<p>It took weeks of fierce combat for Ukrainian forces to seize the village of Robotyne from the Russians, and they have advanced just a few miles since June — signs of the daunting task ahead.  <a href="https://nyti.ms/44CjAa4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>China’s Economic Outlook: Pep Talks Up Top, Gloom on the Ground</h3>
+<sub>By Vivian Wang</sub>
+<p>Beijing has characterized concerns about the economic slowdown as being inflated by Western critics. Widespread anxiety and pessimism paint a different picture.  <a href="https://nyti.ms/3KW6ptd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>She Rose From Poverty as China Prospered. Then It Made Her Poor Again.</h3>
+<sub>By Li Yuan</sub>
+<p>Sun Junli is one of many small-business owners, the backbone of China’s economy, who lost everything to a change in government policy.  <a href="https://nyti.ms/3qQytaN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Where’s ‘Woke’? Republicans Test a Different Education Message</h3>
-<sub>By Trip Gabriel and Nicholas Nehamas</sub>
-<p>Ron DeSantis rose to prominence in part on his “anti-woke” agenda, especially when it comes to education. In some settings, culture-war messaging seems to be receding.  <a href="https://nyti.ms/45Mg0Ln"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Meta’s ‘Biggest Single Takedown’ Removes Chinese Influence Campaign</h3>
+<sub>By Sheera Frenkel</sub>
+<p>The campaign began at least four years ago and spanned thousands of accounts on Facebook, Instagram, TikTok, X, Substack and Chinese websites, Meta said.  <a href="https://nyti.ms/3YWtYrD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>TikTok’s U.S. Future Still in Limbo as Commerce Secretary Visits China</h3>
+<sub>By Sapna Maheshwari and David McCabe</sub>
+<p>Gina Raimondo, who is in China this week, has said banning TikTok could “lose every voter under 35, forever.”  <a href="https://nyti.ms/44ozMvi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘No Place for Hate in America,’ Haley Says, Recalling 2015 Church Massacre</h3>
-<sub>By Jazmine Ulloa</sub>
-<p>Nikki Haley, fresh off a strong debate performance last week, was back on the trail and took a moment to condemn the weekend shooting in Jacksonville, Fla.  <a href="https://nyti.ms/3OXymSG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Past Drones and Sea Mines, a Merchant Ship’s Perilous Journey in Ukraine</h3>
+<sub>By Jenny Gross and Valerie Hopkins</sub>
+<p>Ukraine’s Danube River ports have become key arteries for grain exports. But threats from Russia and costly delays have made some shippers rethink their operations in the Black Sea.  <a href="https://nyti.ms/3L1M7ih"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 28, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>How the War in Ukraine Turned Tennis Into a Battlefield</h3>
+<sub>By Michael Steinberger</sub>
+<p>For Ukrainian players, as well as those from Russia and its allies, the unceasing conflict at home has bled into the game. Now they face off at the U.S. Open.  <a href="https://nyti.ms/47PveRz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Eminem Tells Vivek Ramaswamy to Stop Rapping His Songs</h3>
-<sub>By Jonathan Weisman</sub>
-<p>“To the American people’s chagrin, we will have to leave the rapping to the real Slim Shady,” Mr. Ramaswamy’s spokesman said after the campaign received a cease-and-desist letter.  <a href="https://nyti.ms/3ZabbcR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>How Trump’s Election Lies Left the Michigan G.O.P. Broken and Battered</h3>
+<sub>By Nick Corasaniti</sub>
+<p>Infighting between Trump acolytes and traditionalists has driven away donors and voters. Can the Michigan Republican Party rebuild in time for the presidential election?  <a href="https://nyti.ms/44oJQV6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Forced Kiss, and a Reckoning With Sexism in Spain</h3>
+<sub>By Jason Horowitz and Rachel Chaundler</sub>
+<p>The nonconsensual kiss that Luis Rubiales, the president of Spain’s soccer federation, pressed on Jennifer Hermoso has come to embody the generational fault line between a culture of machismo and more recent progressivism.  <a href="https://nyti.ms/45tbj9p"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
