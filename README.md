@@ -60,25 +60,37 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, August 30, Central Standard Time</p>
 <p>
-Right now, there is widespread disruption and chaos caused by a number of different events happening around the world. In the United States, many counties have issued evacuation orders ahead of Hurricane Idalia&#39;s arrival, and former President Trump is challenging the start date of his federal election case trial. On top of that, CNN is expected to pick Mark Thompson as their next leader and new legislation will bring drug price negotiations to Medicare. Furthermore, ground water use is heavily impacting parts of America and rumors are preventing supporters from attending the burial of a recent mutiny in Russia. Finally, families in Lahaina, Hawaii are trying to recover from a deadly fire and save the educational support network they built up for their children.</p>
+Right now, there are a few major events going on globally. In the US, a powerful hurricane named Idalia is heading through the southeastern states, so people in Georgia and South Carolina have been warned about its potential for causing destruction and losses worth billions. At the same time, there is ongoing research into the Native American boarding school system, which sadly forcibly removed children from their families in an effort to assimilate them. Political news includes Trump&#39;s nomination potentially being decided before everyone knows if he&#39;s a felon, and there is evidence that some Republican women are using birth control legislation as a way to distract from their anti-abortion stances. On top of this, climate change has already caused serious damage to Canada, and its effects are now being seen in a storied river where lots of fish have died.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Hurricane Idalia: Florida’s Evacuation Orders by County</h3>
-<sub>By John Yoon</sub>
-<p>At least 30 counties issued evacuation orders ahead of the storm’s arrival.  <a href="https://nyti.ms/3Pg32A5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Tracking Hurricane Idalia</h3>
+<sub>By William B. Davis, Judson Jones, Bea Malsky, John Keefe and Madison Dong</sub>
+<p>See the path and estimated wind arrival times for Idalia.  <a href="https://nyti.ms/45jGDYd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>After Florida, Idalia Will Move Through the Southeast</h3>
+<sub>By Judson Jones</sub>
+<p>A hurricane warning was issued for coastal areas in Georgia and South Carolina ahead of the storm’s arrival.  <a href="https://nyti.ms/45GhvLe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>A California Land Mystery Is Solved. Now the Political Fight Begins.</h3>
-<sub>By Conor Dougherty and Shawn Hubler</sub>
-<p>Tech industry investors spent roughly $900 million buying land to build a dream city in a rural part of the Bay Area. It could be years, though, before they can do anything with it.  <a href="https://nyti.ms/47TOsp3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
+<h3>Idalia Could Become Another Multibillion-Dollar Superstorm</h3>
+<sub>By Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
+<p>The Category 3 hurricane could expose insurers and their customers to huge losses across a wide stretch of Florida, Georgia and the Carolinas.  <a href="https://nyti.ms/3Ph4Vwh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Where Tech Investors Are Buying Up Land, Locals Are Worried</h3>
-<sub>By Holly Secon</sub>
-<p>In Solano County, Calif., longtime residents are both worried and baffled by an ambitious plan to build a city where there is now mostly farmland.  <a href="https://nyti.ms/47RbtZW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>‘War Against the Children’</h3>
+<sub>By Zach Levitt, Yuliya Parshina-Kottas, Simon Romero and Tim Wallace</sub>
+<p>New research reveals the vast scope of the Native American boarding school system, which for more than a century removed Native children from their homes and families in an effort to assimilate them. Students at the schools gave up their names, their labor and sometimes their lives.  <a href="https://nyti.ms/3qXvm0D"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Could Clinch the Nomination Before the G.O.P. Knows if He’s a Felon</h3>
+<sub>By Reid J. Epstein, Maggie Haberman, Charlie Savage and Jonathan Swan</sub>
+<p>The federal election interference case — one of four — is set to start just before Super Tuesday and a cascade of consequential primaries.  <a href="https://nyti.ms/45HfONC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Court Skirmishes Show Divergent Strategies by Prosecutors in Trump Cases</h3>
@@ -87,51 +99,39 @@ Right now, there is widespread disruption and chaos caused by a number of differ
 <sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Might Trump Challenge the March 4 Trial Date in the Federal Election Case?</h3>
-<sub>By Charlie Savage</sub>
-<p>The ex-president vowed to appeal a judge’s decision to schedule the start on his trial the day before Super Tuesday. He can’t disrupt the trial that way, legal experts say — but there is a longer-shot possibility.  <a href="https://nyti.ms/3OT84RH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
+<h3>The Evolution of A.O.C.</h3>
+<sub>By Lulu Garcia-Navarro</sub>
+<p>The congresswoman from New York says she’s different from when she first took office. But she’s not ready to call herself an insider.  <a href="https://nyti.ms/3QZaEYU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>The Dangerous Marketing of the Trump Mug Shot</h3>
-<sub>By Vanessa Friedman</sub>
-<p>Both sides are trying to profit from reducing this moment to a whole lotta merch.  <a href="https://nyti.ms/3YVhbps"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Last Defendant in Trump Election Interference Case in Georgia Is Granted Bond</h3>
-<sub>By Richard Fausset</sub>
-<p>Harrison William Prescott Floyd, who once led a group called Black Voices for Trump, was held longer at an Atlanta jail after turning himself in, apparently because he showed up to his booking without a lawyer.  <a href="https://nyti.ms/45uNgqy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Henry Timms Wants to Tear Down Walls at Lincoln Center</h3>
+<sub>By Javier C. Hernández and Robin Pogrebin</sub>
+<p>With David Geffen Hall open, Lincoln Center’s leader is working to diversify programming, staff and audiences and engage the city. But some worry about what’s being lost.  <a href="https://nyti.ms/45Sj2hh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>CNN Is Expected to Pick Mark Thompson as Next Leader</h3>
+<h3>CNN Names Mark Thompson Its Next Chief Executive</h3>
 <sub>By Benjamin Mullin and John Koblin</sub>
-<p>Mr. Thompson, who helped revitalize The New York Times, will take over at a pivotal moment for the news network.  <a href="https://nyti.ms/3PhVL2N"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>America Is Using Up Its Groundwater Like There’s No Tomorrow</h3>
-<sub>By Mira Rojanasakul, Christopher Flavelle, Blacki Migliozzi and Eli Murray</sub>
-<p>Unchecked overuse is draining and damaging aquifers nationwide, a data investigation by the New York Times revealed, threatening millions of people and America’s status as a food superpower.  <a href="https://nyti.ms/3soZaDM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 28, Central Standard Time</sub></sub>
+<p>Mr. Thompson, who oversaw a period of growth at The New York Times, will lead the network during a pivotal period.  <a href="https://nyti.ms/3qSrT3z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Announces First Drugs Picked for Medicare Price Negotiations</h3>
-<sub>By Sheryl Gay Stolberg and Rebecca Robbins</sub>
-<p>The price negotiation program, established by Democrats as part of the Inflation Reduction Act, is projected to save the government tens of billions of dollars in the coming years.  <a href="https://nyti.ms/44uOiBF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>The Object of Ukraine’s Desire: F-16s From the West. But It’s Tricky.</h3>
+<sub>By Lara Jakes, Eric Schmitt and Thomas Gibbons-Neff</sub>
+<p>Ukraine’s sense of urgency in obtaining the fighter jet reflects concerns about the war against Russia, but also the political calendar in the West. But training pilots and support crew is a lengthy process.  <a href="https://nyti.ms/3R2fN2E"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Republican Women, Fearing Backlash on Abortion, Pivot to Birth Control</h3>
+<sub>By Annie Karni</sub>
+<p>A group of politically vulnerable G.O.P. women has backed legislation that purports to expand birth control access but would have little effect. Critics say the bill is meant to distract from their anti-abortion stances.  <a href="https://nyti.ms/3Egkoqj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Rumors and Misdirection Keep Crowds Away From Prigozhin Burial</h3>
-<sub>By Valerie Hopkins</sub>
-<p>The burial of the Wagner mercenary group boss, two months after his mutiny, was shrouded in misinformation, preventing a public display of support the Kremlin did not want to see.  <a href="https://nyti.ms/3YY4Pgz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>After Losing Their Homes, Lahaina Parents Try to Save Their School Community</h3>
-<sub>By Nicholas Bogel-Burroughs</sub>
-<p>Nearly 60 percent of Lahaina students haven’t enrolled in classes after the deadly fire, and families are yearning to rebuild their school network for educational and emotional support.  <a href="https://nyti.ms/3QZVXoH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>In a Storied River, Fish Are Dying in Droves as Climate Change Scorches Canada</h3>
+<sub>By Norimitsu Onishi</sub>
+<p>The effects of a summer of environmental catastrophes were felt everywhere in Canada, from its vast boreal forests to a river on Vancouver Island once fished by Hollywood royalty.  <a href="https://nyti.ms/3L1wDdT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
 <hr/>
 </ol>
