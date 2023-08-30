@@ -60,30 +60,28 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, August 30, Central Standard Time</p>
 <p>
-Right now in the world, there is a lot happening. For one, Hurricane Idalia has been tracking across Florida and is headed for the southeast United States. In response, coastal areas in Georgia and South Carolina have been issued a hurricane warning. Also, CNN has just named Mark Thompson as its new chief executive. In Canada, the effects of climate change are becoming clearer with fish in some storied rivers dying en masse due to catastrophic environmental conditions over summer. Closer to home, some Republican women have pivoted to birth control to distract from their anti-abortion stances and Alexandria Ocasio-Cortez has indicated she&#39;s changing since taking office. Last but not least, Donald Trump could clinch the Republican nomination before the party knows if he&#39;s a felon - this coming in light of court skirmishes with federal prosecutors in Trump-related cases.</p>
+There is a lot going on in the world right now. In the US, there have been flight delays and cancellations due to bad weather, and people are sharing false information related to recent natural disasters like heatwaves, floods and wildfires. Scientists are also exploring new ways to map war.
+
+In Ukraine, they are trying to get F-16s from the West but it’s not easy; while in the US, a defamation case against Rudy Giuliani for trying to overturn the 2020 election is moving forward. Plus, a legal case that could decide if Donald Trump is a felon could start before Super Tuesday voting starts. 
+
+Meanwhile, Alexandria Ocasio-Cortez has been reflecting on how she changed since taking office and some Republican women have pivoted to birth control laws to distract from their anti-abortion stances. There’s also a book that came out about when Naomi Klein encountered her ‘doppelganger’ as a conspiracy theorist. Lastly, Philadelphia is having a public debate about a white sculptor that was handpicked to create a Harriet Tubman statue and a new report highlights the Native American boarding school system which tried to assimilate Native children.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Tracking Hurricane Idalia</h3>
-<sub>By William B. Davis, Madison Dong, Martín González Gómez, Judson Jones, John Keefe, Zach Levitt and Bea Malsky</sub>
-<p>See the path and estimated wind arrival times for Idalia.  <a href="https://nyti.ms/45jGDYd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>After Florida, Idalia Will Move Through the Southeast</h3>
-<sub>By Judson Jones</sub>
-<p>A hurricane warning was issued for coastal areas in Georgia and South Carolina ahead of the storm’s arrival.  <a href="https://nyti.ms/45GhvLe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Idalia Could Become Another Multibillion-Dollar Superstorm</h3>
-<sub>By Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
-<p>The Category 3 hurricane could expose insurers and their customers to huge losses across a wide stretch of Florida, Georgia and the Carolinas.  <a href="https://nyti.ms/3Ph4Vwh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Flight delays and cancellations were piling up on Wednesday.</h3>
+<sub>By Christine Chung</sub>
+<p>  <a href="https://nyti.ms/3LqcoHl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Republican Women, Fearing Backlash on Abortion, Pivot to Birth Control</h3>
-<sub>By Annie Karni</sub>
-<p>A group of politically vulnerable G.O.P. women has backed legislation that purports to expand birth control access but would have little effect. Critics say the bill is meant to distract from their anti-abortion stances.  <a href="https://nyti.ms/3Egkoqj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Falsehoods Follow Close Behind This Summer’s Natural Disasters</h3>
+<sub>By Tiffany Hsu</sub>
+<p>Misattributed videos, recycled lies and warped fears are fueling unfounded claims about the recent record-breaking heat, floods and wildfires.  <a href="https://nyti.ms/3qIvBgg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Thousand Tiny Quakes</h3>
+<sub>By James Glanz and Josh Holder</sub>
+<p>Scientists are mapping war in an entirely new way.  <a href="https://nyti.ms/3P09l9L"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -93,9 +91,9 @@ Right now in the world, there is a lot happening. For one, Hurricane Idalia has 
 <sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Evolution of A.O.C.</h3>
-<sub>By Lulu Garcia-Navarro</sub>
-<p>The congresswoman from New York says she’s different from when she first took office. But she’s not ready to call herself an insider.  <a href="https://nyti.ms/3QZaEYU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Giuliani Is Liable for Defaming Georgia Election Workers, Judge Says</h3>
+<sub>By Alan Feuer and Ben Protess</sub>
+<p>The ruling means that a defamation case against Rudolph W. Giuliani, stemming from his role in seeking to overturn the 2020 election, can proceed to a trial where damages will be considered.  <a href="https://nyti.ms/47Xa4kH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -105,21 +103,21 @@ Right now in the world, there is a lot happening. For one, Hurricane Idalia has 
 <sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Court Skirmishes Show Divergent Strategies by Prosecutors in Trump Cases</h3>
-<sub>By Glenn Thrush and Danny Hakim</sub>
-<p>In Washington, the special counsel is pursuing a streamlined approach and has gotten an early trial date. In Georgia, a more comprehensive indictment faces slower going.  <a href="https://nyti.ms/3OUE7kb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Henry Timms Wants to Tear Down Walls at Lincoln Center</h3>
-<sub>By Javier C. Hernández and Robin Pogrebin</sub>
-<p>With David Geffen Hall open, Lincoln Center’s leader is working to diversify programming, staff and audiences and engage the city. But some worry about what’s being lost.  <a href="https://nyti.ms/45Sj2hh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Alexandria Ocasio-Cortez on How She’s Changed</h3>
+<sub>By Lulu Garcia-Navarro</sub>
+<p>The congresswoman from New York says she’s different from when she first took office. But she’s not ready to call herself an insider.  <a href="https://nyti.ms/3QZaEYU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>CNN Names Mark Thompson Its Next Chief Executive</h3>
-<sub>By Benjamin Mullin and John Koblin</sub>
-<p>Mr. Thompson, who oversaw a period of growth at The New York Times, will lead the network during a pivotal period.  <a href="https://nyti.ms/3qSrT3z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Republican Women, Fearing Backlash on Abortion, Pivot to Birth Control</h3>
+<sub>By Annie Karni</sub>
+<p>A group of politically vulnerable G.O.P. women has backed legislation that purports to expand birth control access but would have little effect. Critics say the bill is meant to distract from their anti-abortion stances.  <a href="https://nyti.ms/3Egkoqj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>When Your ‘Doppelganger’ Becomes a Conspiracy Theorist</h3>
+<sub>By Jennifer Szalai</sub>
+<p>If you’re Naomi Klein, you write a book about it.  <a href="https://nyti.ms/44xf4t6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -128,11 +126,17 @@ Right now in the world, there is a lot happening. For one, Hurricane Idalia has 
 <p>New research reveals the vast scope of the Native American boarding school system, which for more than a century removed Native children from their homes and families in an effort to assimilate them. Students at the schools gave up their names, their labor and sometimes their lives.  <a href="https://nyti.ms/3qXvm0D"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In a Storied River, Fish Are Dying in Droves as Climate Change Scorches Canada</h3>
-<sub>By Norimitsu Onishi</sub>
-<p>The effects of a summer of environmental catastrophes were felt everywhere in Canada, from its vast boreal forests to a river on Vancouver Island once fished by Hollywood royalty.  <a href="https://nyti.ms/3L1wDdT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Philadelphia Asks if Race of Tubman Sculptor Matters</h3>
+<sub>By Christopher Kuo</sub>
+<p>A white artist was invited to design a statue of Harriet Tubman. After complaints, the city held an open call for submissions.  <a href="https://nyti.ms/44wRQmQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Emulating Trump, Ramaswamy Shows a Penchant for Dispensing With the Facts</h3>
+<sub>By Neil Vigdor, Jonathan Weisman and Maggie Haberman</sub>
+<p>In clashes with the news media and his rivals, the Republican upstart has retreated from past comments and lied about on-the-record statements.  <a href="https://nyti.ms/47QLZfh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
