@@ -60,12 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, August 30, Central Standard Time</p>
 <p>
-It seems like a lot is going on right now! In California, tech industry investors are building an ambitious project in a rural part of the Bay Area, but locals are concerned about it. Prosecutors in former President Trump&#39;s cases are employing different strategies around the US. Some people are even trying to make money off of his mugshot. And Trump has vowed to challenge a judge&#39;s decision for his trial start date on Super Tuesday - although legal experts say he won&#39;t be successful. Meanwhile, CNN is hiring a new leader as they enter a pivotal time. 
-
-In terms of environmental news, America is using up their groundwater at an alarming rate that could have devastating effects. And the federal government just announced the first drugs that will be negotiated under new pricing agreements to help save money. 
-
-Internationally, there&#39;s a lot going on too! The burial of a mercenary leader was shrouded in misinformation in Russia, while both Russia and Ukraine are managing multiple strategic battles around the area. Finally, a small community in Hawaii lost their homes to deadly fires and they&#39;re struggling to rebuild their school network.</p>
+Right now, there is widespread disruption and chaos caused by a number of different events happening around the world. In the United States, many counties have issued evacuation orders ahead of Hurricane Idalia&#39;s arrival, and former President Trump is challenging the start date of his federal election case trial. On top of that, CNN is expected to pick Mark Thompson as their next leader and new legislation will bring drug price negotiations to Medicare. Furthermore, ground water use is heavily impacting parts of America and rumors are preventing supporters from attending the burial of a recent mutiny in Russia. Finally, families in Lahaina, Hawaii are trying to recover from a deadly fire and save the educational support network they built up for their children.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Hurricane Idalia: Florida’s Evacuation Orders by County</h3>
+<sub>By John Yoon</sub>
+<p>At least 30 counties issued evacuation orders ahead of the storm’s arrival.  <a href="https://nyti.ms/3Pg32A5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>A California Land Mystery Is Solved. Now the Political Fight Begins.</h3>
 <sub>By Conor Dougherty and Shawn Hubler</sub>
@@ -124,12 +126,6 @@ Internationally, there&#39;s a lot going on too! The burial of a mercenary leade
 <h3>Rumors and Misdirection Keep Crowds Away From Prigozhin Burial</h3>
 <sub>By Valerie Hopkins</sub>
 <p>The burial of the Wagner mercenary group boss, two months after his mutiny, was shrouded in misinformation, preventing a public display of support the Kremlin did not want to see.  <a href="https://nyti.ms/3YY4Pgz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>With Multiple Battles, Russia and Ukraine Puzzle Over Where to Put Troops</h3>
-<sub>By Constant Méheut</sub>
-<p>Russians are advancing in the Northeast, toward Kupiansk, while Ukraine presses its offensive in the South, each hoping to force the other to redeploy its forces.  <a href="https://nyti.ms/3YZFti7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
