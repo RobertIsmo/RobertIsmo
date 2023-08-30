@@ -60,22 +60,28 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, August 30, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In the US, there have been flight delays and cancellations due to bad weather, and people are sharing false information related to recent natural disasters like heatwaves, floods and wildfires. Scientists are also exploring new ways to map war.
+There has been a lot of news lately, so it can be overwhelming. There has been a category 5 hurricane that hit multiple islands in the Gulf of Mexico, including Cedar Key, and people are worried about the aftermath. Because of different natural disasters this summer, there have been a lot of unsubstantiated rumors which have complicated the response efforts. 
 
-In Ukraine, they are trying to get F-16s from the West but it’s not easy; while in the US, a defamation case against Rudy Giuliani for trying to overturn the 2020 election is moving forward. Plus, a legal case that could decide if Donald Trump is a felon could start before Super Tuesday voting starts. 
+On top of this, President Trump&#39;s actions have been making headlines. There is now a defamation case against Rudy Giuliani and an ongoing debate about whether or not Trump will be able to run for president again in the future. As always, he is continuously promoting misinformation and manipulating facts to fit his agenda. 
 
-Meanwhile, Alexandria Ocasio-Cortez has been reflecting on how she changed since taking office and some Republican women have pivoted to birth control laws to distract from their anti-abortion stances. There’s also a book that came out about when Naomi Klein encountered her ‘doppelganger’ as a conspiracy theorist. Lastly, Philadelphia is having a public debate about a white sculptor that was handpicked to create a Harriet Tubman statue and a new report highlights the Native American boarding school system which tried to assimilate Native children.</p>
+Not all of the news is negative though; there has also been an effort to recognize Harriet Tubman&#39;s legacy with a statue in Philadelphia, and a few projects exploring how scientists are using new ways to map war. Lastly, Mark Thompson just joined CNN as its new leader and Alexandria Ocasio-Cortez has spoken out about some changes she has made since taking office.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Flight delays and cancellations were piling up on Wednesday.</h3>
-<sub>By Christine Chung</sub>
-<p>  <a href="https://nyti.ms/3LqcoHl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>‘We Should Have Gotten Off the Island’: Cedar Key Residents Survived Idalia’s Wrath</h3>
+<sub>By Patricia Mazzei</sub>
+<p>Much of Cedar Key, a series of tiny islands that jut into the Gulf, was covered by storm surge overnight as the hurricane came ashore.  <a href="https://nyti.ms/3OWi4ts"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Falsehoods Follow Close Behind This Summer’s Natural Disasters</h3>
 <sub>By Tiffany Hsu</sub>
 <p>Misattributed videos, recycled lies and warped fears are fueling unfounded claims about the recent record-breaking heat, floods and wildfires.  <a href="https://nyti.ms/3qIvBgg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>McConnell Freezes Up a Second Time While Addressing Reporters</h3>
+<sub>By Annie Karni</sub>
+<p>The episode, which took place in the Republican leader’s home state of Kentucky, intensified questions about his future in the Senate.  <a href="https://nyti.ms/3R11RWA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -85,33 +91,15 @@ Meanwhile, Alexandria Ocasio-Cortez has been reflecting on how she changed since
 <sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Object of Ukraine’s Desire: F-16s From the West. But It’s Tricky.</h3>
-<sub>By Lara Jakes, Eric Schmitt and Thomas Gibbons-Neff</sub>
-<p>Ukraine’s sense of urgency in obtaining the fighter jet reflects concerns about the war against Russia, but also the political calendar in the West. But training pilots and support crew is a lengthy process.  <a href="https://nyti.ms/3R2fN2E"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Giuliani Is Liable for Defaming Georgia Election Workers, Judge Says</h3>
 <sub>By Alan Feuer and Ben Protess</sub>
 <p>The ruling means that a defamation case against Rudolph W. Giuliani, stemming from his role in seeking to overturn the 2020 election, can proceed to a trial where damages will be considered.  <a href="https://nyti.ms/47Xa4kH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Could Clinch the Nomination Before the G.O.P. Knows if He’s a Felon</h3>
-<sub>By Reid J. Epstein, Maggie Haberman, Charlie Savage and Jonathan Swan</sub>
-<p>The federal election interference case — one of four — is set to start just before Super Tuesday and a cascade of consequential primaries.  <a href="https://nyti.ms/45HfONC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Alexandria Ocasio-Cortez on How She’s Changed</h3>
-<sub>By Lulu Garcia-Navarro</sub>
-<p>The congresswoman from New York says she’s different from when she first took office. But she’s not ready to call herself an insider.  <a href="https://nyti.ms/3QZaEYU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Republican Women, Fearing Backlash on Abortion, Pivot to Birth Control</h3>
-<sub>By Annie Karni</sub>
-<p>A group of politically vulnerable G.O.P. women has backed legislation that purports to expand birth control access but would have little effect. Critics say the bill is meant to distract from their anti-abortion stances.  <a href="https://nyti.ms/3Egkoqj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Is Trump Disqualified? Republicans Prepare to Fight Long-Shot Legal Theory.</h3>
+<sub>By Nick Corasaniti and Jonathan Weisman</sub>
+<p>In New Hampshire, Republicans are feuding over whether the 14th Amendment bars Donald J. Trump from running for president. Other states are watching closely.  <a href="https://nyti.ms/3OXI5bJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
@@ -121,9 +109,21 @@ Meanwhile, Alexandria Ocasio-Cortez has been reflecting on how she changed since
 <sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Alexandria Ocasio-Cortez on How She’s Changed</h3>
+<sub>By Lulu Garcia-Navarro</sub>
+<p>The congresswoman from New York says she’s different from when she first took office. But she’s not ready to call herself an insider.  <a href="https://nyti.ms/3QZaEYU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>‘War Against the Children’</h3>
 <sub>By Zach Levitt, Yuliya Parshina-Kottas, Simon Romero and Tim Wallace</sub>
 <p>New research reveals the vast scope of the Native American boarding school system, which for more than a century removed Native children from their homes and families in an effort to assimilate them. Students at the schools gave up their names, their labor and sometimes their lives.  <a href="https://nyti.ms/3qXvm0D"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Mark Thompson Helped Steady 2 News Outlets. Can He Do the Same at CNN?</h3>
+<sub>By John Koblin, Benjamin Mullin and Katie Robertson</sub>
+<p>Mr. Thompson, who oversaw a period of growth at The New York Times and the BBC, will lead the network during a pivotal period.  <a href="https://nyti.ms/3qSrT3z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
