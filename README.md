@@ -58,22 +58,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Tuesday, August 29, Central Standard Time</p>
+<p>It is Wednesday, August 30, Central Standard Time</p>
 <p>
-Right now, the world is facing some pretty big challenges. In America, issues with groundwater overuse are threatening millions of people&#39;s well-being as well as our food security. Changes in Medicare drug prices and a political fight over planned tech industry investments in California are also occurring. In New York, health workers are battling mosquito-based illnesses while Trump scandals still weigh monthly court dates. On the international stage, Russia and Ukraine are facing multiple armed conflicts while families affected by a deadly fire in Lahaina have lost their homes and many kids have not enrolled in school again. It really is quite a lot to take in.</p>
+It seems like a lot is going on right now! In California, tech industry investors are building an ambitious project in a rural part of the Bay Area, but locals are concerned about it. Prosecutors in former President Trump&#39;s cases are employing different strategies around the US. Some people are even trying to make money off of his mugshot. And Trump has vowed to challenge a judge&#39;s decision for his trial start date on Super Tuesday - although legal experts say he won&#39;t be successful. Meanwhile, CNN is hiring a new leader as they enter a pivotal time. 
+
+In terms of environmental news, America is using up their groundwater at an alarming rate that could have devastating effects. And the federal government just announced the first drugs that will be negotiated under new pricing agreements to help save money. 
+
+Internationally, there&#39;s a lot going on too! The burial of a mercenary leader was shrouded in misinformation in Russia, while both Russia and Ukraine are managing multiple strategic battles around the area. Finally, a small community in Hawaii lost their homes to deadly fires and they&#39;re struggling to rebuild their school network.</p>
 <ol>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>America Is Using Up Its Groundwater Like There’s No Tomorrow</h3>
-<sub>By Mira Rojanasakul, Christopher Flavelle, Blacki Migliozzi and Eli Murray</sub>
-<p>Unchecked overuse is draining and damaging aquifers nationwide, a data investigation by the New York Times revealed, threatening millions of people and America’s status as a food superpower.  <a href="https://nyti.ms/3soZaDM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Announces First Drugs Picked for Medicare Price Negotiations</h3>
-<sub>By Sheryl Gay Stolberg and Rebecca Robbins</sub>
-<p>The price negotiation program, established by Democrats as part of the Inflation Reduction Act, is projected to save the government tens of billions of dollars in the coming years.  <a href="https://nyti.ms/44uOiBF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>A California Land Mystery Is Solved. Now the Political Fight Begins.</h3>
 <sub>By Conor Dougherty and Shawn Hubler</sub>
@@ -84,12 +76,6 @@ Right now, the world is facing some pretty big challenges. In America, issues wi
 <h3>Where Tech Investors Are Buying Up Land, Locals Are Worried</h3>
 <sub>By Holly Secon</sub>
 <p>In Solano County, Calif., longtime residents are both worried and baffled by an ambitious plan to build a city where there is now mostly farmland.  <a href="https://nyti.ms/47RbtZW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>In a Decaying Queens Fortress, It’s One Man Versus 47 Kinds of Mosquito</h3>
-<sub>By Andy Newman</sub>
-<p>Dr. Waheed Bajwa and the Health Department’s Office of Vector Surveillance and Control work all year to protect New York City from a summertime West Nile virus outbreak.  <a href="https://nyti.ms/3OTQQDM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -114,6 +100,24 @@ Right now, the world is facing some pretty big challenges. In America, issues wi
 <h3>Last Defendant in Trump Election Interference Case in Georgia Is Granted Bond</h3>
 <sub>By Richard Fausset</sub>
 <p>Harrison William Prescott Floyd, who once led a group called Black Voices for Trump, was held longer at an Atlanta jail after turning himself in, apparently because he showed up to his booking without a lawyer.  <a href="https://nyti.ms/45uNgqy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>CNN Is Expected to Pick Mark Thompson as Next Leader</h3>
+<sub>By Benjamin Mullin and John Koblin</sub>
+<p>Mr. Thompson, who helped revitalize The New York Times, will take over at a pivotal moment for the news network.  <a href="https://nyti.ms/3PhVL2N"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>America Is Using Up Its Groundwater Like There’s No Tomorrow</h3>
+<sub>By Mira Rojanasakul, Christopher Flavelle, Blacki Migliozzi and Eli Murray</sub>
+<p>Unchecked overuse is draining and damaging aquifers nationwide, a data investigation by the New York Times revealed, threatening millions of people and America’s status as a food superpower.  <a href="https://nyti.ms/3soZaDM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. Announces First Drugs Picked for Medicare Price Negotiations</h3>
+<sub>By Sheryl Gay Stolberg and Rebecca Robbins</sub>
+<p>The price negotiation program, established by Democrats as part of the Inflation Reduction Act, is projected to save the government tens of billions of dollars in the coming years.  <a href="https://nyti.ms/44uOiBF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
