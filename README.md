@@ -60,20 +60,8 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, August 29, Central Standard Time</p>
 <p>
-There are some big events happening worldwide. Here&#39;s what I know: A hurricane named Idalia is threatening to spread toxic algae blooms in Lake Okeechobee near West Palm Beach. The New York Times published a data investigation revealing the unchecked overuse of groundwater in America, which threatens people and the country&#39;s food supply. The US announced that some drugs will be up for price negotiation, projected to save the government billions in the coming years. Tech investors in the Bay Area have been buying land to build a dream city, but locals are worried that it might be years before anything can happen there. In Queens, an official is working all year to protect NYC from a potential West Nile virus outbreak. And in Wisconsin, former President Donald Trump allies are targeting the state&#39;s election chief for removal due to false information. Lastly, the burial of a Russian mercenary group leader two months after his mutiny was surrounded by misinformation, preventing a public display of support that the Kremlin did not want to see.</p>
+Right now, the world is facing some pretty big challenges. In America, issues with groundwater overuse are threatening millions of people&#39;s well-being as well as our food security. Changes in Medicare drug prices and a political fight over planned tech industry investments in California are also occurring. In New York, health workers are battling mosquito-based illnesses while Trump scandals still weigh monthly court dates. On the international stage, Russia and Ukraine are facing multiple armed conflicts while families affected by a deadly fire in Lahaina have lost their homes and many kids have not enrolled in school again. It really is quite a lot to take in.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Hurricane Idalia Threatens to Stir Up Lake Okeechobee’s Toxic Algae Blooms</h3>
-<sub>By Delger Erdenesanaa</sub>
-<p>Cyanobacteria have overrun this lake an hour outside West Palm Beach, and excessive rain could spread that algae to nearby waterways.  <a href="https://nyti.ms/3L3dwAa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Tracking Hurricane Idalia</h3>
-<sub>By William B. Davis, Judson Jones, Bea Malsky, John Keefe and Madison Dong</sub>
-<p>See the path and estimated wind arrival times for Idalia.  <a href="https://nyti.ms/45jGDYd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 28, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>America Is Using Up Its Groundwater Like There’s No Tomorrow</h3>
 <sub>By Mira Rojanasakul, Christopher Flavelle, Blacki Migliozzi and Eli Murray</sub>
@@ -123,15 +111,27 @@ There are some big events happening worldwide. Here&#39;s what I know: A hurrica
 <sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Republicans Target Wisconsin’s Election Chief for Removal, Fueled by Falsehoods</h3>
-<sub>By Neil Vigdor</sub>
-<p>Meagan Wolfe, the Wisconsin Elections Commission administrator since 2018, has been demonized by former President Donald J. Trump’s allies in the battleground state.  <a href="https://nyti.ms/45xkNR6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Last Defendant in Trump Election Interference Case in Georgia Is Granted Bond</h3>
+<sub>By Richard Fausset</sub>
+<p>Harrison William Prescott Floyd, who once led a group called Black Voices for Trump, was held longer at an Atlanta jail after turning himself in, apparently because he showed up to his booking without a lawyer.  <a href="https://nyti.ms/45uNgqy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Rumors and Misdirection Keep Crowds Away From Prigozhin Burial</h3>
 <sub>By Valerie Hopkins</sub>
 <p>The burial of the Wagner mercenary group boss, two months after his mutiny, was shrouded in misinformation, preventing a public display of support the Kremlin did not want to see.  <a href="https://nyti.ms/3YY4Pgz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>With Multiple Battles, Russia and Ukraine Puzzle Over Where to Put Troops</h3>
+<sub>By Constant Méheut</sub>
+<p>Russians are advancing in the Northeast, toward Kupiansk, while Ukraine presses its offensive in the South, each hoping to force the other to redeploy its forces.  <a href="https://nyti.ms/3YZFti7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>After Losing Their Homes, Lahaina Parents Try to Save Their School Community</h3>
+<sub>By Nicholas Bogel-Burroughs</sub>
+<p>Nearly 60 percent of Lahaina students haven’t enrolled in classes after the deadly fire, and families are yearning to rebuild their school network for educational and emotional support.  <a href="https://nyti.ms/3QZVXoH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
 <hr/>
 </ol>
