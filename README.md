@@ -60,14 +60,8 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, August 29, Central Standard Time</p>
 <p>
-Right now, Hurricane Idalia has just made landfall in Florida and is threatening to move through the southeastern United States, potentially bringing flooding, storm surge, and even tornadoes. Here in the US, we&#39;re also facing a scary problem -- groundwater overuse. Aquifers have been drained and damaged nationwide, threatening millions of people. On top of that, US Commerce Secretary Gina Raimondo has met with top government officials in Beijing to address US concerns about harsh treatment of foreign companies and national security issues there. In China itself, while the government is continuing its pep talks about the country&#39;s economic outlook, there seem to be widespread anxiety and pessimism about their economic slowdown on the ground. Lastly, former President Donald Trump has challenged his trial date in a federal election case, situation that legal experts don&#39;t seem too optimistic about.</p>
+There are some big events happening worldwide. Here&#39;s what I know: A hurricane named Idalia is threatening to spread toxic algae blooms in Lake Okeechobee near West Palm Beach. The New York Times published a data investigation revealing the unchecked overuse of groundwater in America, which threatens people and the country&#39;s food supply. The US announced that some drugs will be up for price negotiation, projected to save the government billions in the coming years. Tech investors in the Bay Area have been buying land to build a dream city, but locals are worried that it might be years before anything can happen there. In Queens, an official is working all year to protect NYC from a potential West Nile virus outbreak. And in Wisconsin, former President Donald Trump allies are targeting the state&#39;s election chief for removal due to false information. Lastly, the burial of a Russian mercenary group leader two months after his mutiny was surrounded by misinformation, preventing a public display of support that the Kremlin did not want to see.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>After Florida, Idalia Will Move Through the Southeast</h3>
-<sub>By Judson Jones</sub>
-<p>The storm could produce flooding, storm surge and even tornadoes through northern Florida, southeastern Georgia and coastal South Carolina in the coming days.  <a href="https://nyti.ms/45GhvLe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Hurricane Idalia Threatens to Stir Up Lake Okeechobee’s Toxic Algae Blooms</h3>
 <sub>By Delger Erdenesanaa</sub>
@@ -89,7 +83,7 @@ Right now, Hurricane Idalia has just made landfall in Florida and is threatening
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>U.S. Announces First Drugs Picked for Medicare Price Negotiations</h3>
 <sub>By Sheryl Gay Stolberg and Rebecca Robbins</sub>
-<p>The price negotiation program, established by Democrats as part of the Inflation Reduction Act, is expected to save the government tens of billions of dollars in the coming years.  <a href="https://nyti.ms/44uOiBF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The price negotiation program, established by Democrats as part of the Inflation Reduction Act, is projected to save the government tens of billions of dollars in the coming years.  <a href="https://nyti.ms/44uOiBF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -104,16 +98,22 @@ Right now, Hurricane Idalia has just made landfall in Florida and is threatening
 <p>In Solano County, Calif., longtime residents are both worried and baffled by an ambitious plan to build a city where there is now mostly farmland.  <a href="https://nyti.ms/47RbtZW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>In a Decaying Queens Fortress, It’s One Man Versus 47 Kinds of Mosquito</h3>
+<sub>By Andy Newman</sub>
+<p>Dr. Waheed Bajwa and the Health Department’s Office of Vector Surveillance and Control work all year to protect New York City from a summertime West Nile virus outbreak.  <a href="https://nyti.ms/3OTQQDM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Court Skirmishes Show Divergent Strategies by Prosecutors in Trump Cases</h3>
+<sub>By Glenn Thrush and Danny Hakim</sub>
+<p>In Washington, the special counsel is pursuing a streamlined approach and has gotten an early trial date. In Georgia, a more comprehensive indictment faces slower going.  <a href="https://nyti.ms/3OUE7kb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>How Might Trump Challenge the March 4 Trial Date in the Federal Election Case?</h3>
 <sub>By Charlie Savage</sub>
 <p>The ex-president vowed to appeal a judge’s decision to schedule the start on his trial the day before Super Tuesday. He can’t disrupt the trial that way, legal experts say — but there is a longer-shot possibility.  <a href="https://nyti.ms/3OT84RH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Trump’s Election Lies Left the Michigan G.O.P. Broken and Battered</h3>
-<sub>By Nick Corasaniti</sub>
-<p>Infighting between Trump acolytes and traditionalists has driven away donors and voters. Can the Michigan Republican Party rebuild in time for the presidential election?  <a href="https://nyti.ms/44oJQV6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
@@ -122,16 +122,16 @@ Right now, Hurricane Idalia has just made landfall in Florida and is threatening
 <p>Both sides are trying to profit from reducing this moment to a whole lotta merch.  <a href="https://nyti.ms/3YVhbps"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.S. Does Not Want to ‘Decouple’ From China, Commerce Chief Says</h3>
-<sub>By Ana Swanson and Keith Bradsher</sub>
-<p>Gina Raimondo, the commerce secretary, emphasized U.S. concerns over harsh treatment of foreign companies and national security issues in a meeting with top officials in Beijing.  <a href="https://nyti.ms/3qS0nmO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Republicans Target Wisconsin’s Election Chief for Removal, Fueled by Falsehoods</h3>
+<sub>By Neil Vigdor</sub>
+<p>Meagan Wolfe, the Wisconsin Elections Commission administrator since 2018, has been demonized by former President Donald J. Trump’s allies in the battleground state.  <a href="https://nyti.ms/45xkNR6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>China’s Economic Outlook: Pep Talks Up Top, Gloom on the Ground</h3>
-<sub>By Vivian Wang</sub>
-<p>Beijing has characterized concerns about the economic slowdown as being inflated by Western critics. Widespread anxiety and pessimism paint a different picture.  <a href="https://nyti.ms/3KW6ptd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Rumors and Misdirection Keep Crowds Away From Prigozhin Burial</h3>
+<sub>By Valerie Hopkins</sub>
+<p>The burial of the Wagner mercenary group boss, two months after his mutiny, was shrouded in misinformation, preventing a public display of support the Kremlin did not want to see.  <a href="https://nyti.ms/3YY4Pgz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
 <hr/>
 </ol>
