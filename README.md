@@ -60,11 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, August 30, Central Standard Time</p>
 <p>
-Right now, there are a few major events going on globally. In the US, a powerful hurricane named Idalia is heading through the southeastern states, so people in Georgia and South Carolina have been warned about its potential for causing destruction and losses worth billions. At the same time, there is ongoing research into the Native American boarding school system, which sadly forcibly removed children from their families in an effort to assimilate them. Political news includes Trump&#39;s nomination potentially being decided before everyone knows if he&#39;s a felon, and there is evidence that some Republican women are using birth control legislation as a way to distract from their anti-abortion stances. On top of this, climate change has already caused serious damage to Canada, and its effects are now being seen in a storied river where lots of fish have died.</p>
+Right now in the world, there is a lot happening. For one, Hurricane Idalia has been tracking across Florida and is headed for the southeast United States. In response, coastal areas in Georgia and South Carolina have been issued a hurricane warning. Also, CNN has just named Mark Thompson as its new chief executive. In Canada, the effects of climate change are becoming clearer with fish in some storied rivers dying en masse due to catastrophic environmental conditions over summer. Closer to home, some Republican women have pivoted to birth control to distract from their anti-abortion stances and Alexandria Ocasio-Cortez has indicated she&#39;s changing since taking office. Last but not least, Donald Trump could clinch the Republican nomination before the party knows if he&#39;s a felon - this coming in light of court skirmishes with federal prosecutors in Trump-related cases.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Tracking Hurricane Idalia</h3>
-<sub>By William B. Davis, Judson Jones, Bea Malsky, John Keefe and Madison Dong</sub>
+<sub>By William B. Davis, Madison Dong, Martín González Gómez, Judson Jones, John Keefe, Zach Levitt and Bea Malsky</sub>
 <p>See the path and estimated wind arrival times for Idalia.  <a href="https://nyti.ms/45jGDYd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 28, Central Standard Time</sub></sub>
 <hr/>
@@ -81,9 +81,21 @@ Right now, there are a few major events going on globally. In the US, a powerful
 <sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘War Against the Children’</h3>
-<sub>By Zach Levitt, Yuliya Parshina-Kottas, Simon Romero and Tim Wallace</sub>
-<p>New research reveals the vast scope of the Native American boarding school system, which for more than a century removed Native children from their homes and families in an effort to assimilate them. Students at the schools gave up their names, their labor and sometimes their lives.  <a href="https://nyti.ms/3qXvm0D"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Republican Women, Fearing Backlash on Abortion, Pivot to Birth Control</h3>
+<sub>By Annie Karni</sub>
+<p>A group of politically vulnerable G.O.P. women has backed legislation that purports to expand birth control access but would have little effect. Critics say the bill is meant to distract from their anti-abortion stances.  <a href="https://nyti.ms/3Egkoqj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Object of Ukraine’s Desire: F-16s From the West. But It’s Tricky.</h3>
+<sub>By Lara Jakes, Eric Schmitt and Thomas Gibbons-Neff</sub>
+<p>Ukraine’s sense of urgency in obtaining the fighter jet reflects concerns about the war against Russia, but also the political calendar in the West. But training pilots and support crew is a lengthy process.  <a href="https://nyti.ms/3R2fN2E"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Evolution of A.O.C.</h3>
+<sub>By Lulu Garcia-Navarro</sub>
+<p>The congresswoman from New York says she’s different from when she first took office. But she’s not ready to call herself an insider.  <a href="https://nyti.ms/3QZaEYU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -98,12 +110,6 @@ Right now, there are a few major events going on globally. In the US, a powerful
 <p>In Washington, the special counsel is pursuing a streamlined approach and has gotten an early trial date. In Georgia, a more comprehensive indictment faces slower going.  <a href="https://nyti.ms/3OUE7kb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Evolution of A.O.C.</h3>
-<sub>By Lulu Garcia-Navarro</sub>
-<p>The congresswoman from New York says she’s different from when she first took office. But she’s not ready to call herself an insider.  <a href="https://nyti.ms/3QZaEYU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>Henry Timms Wants to Tear Down Walls at Lincoln Center</h3>
 <sub>By Javier C. Hernández and Robin Pogrebin</sub>
@@ -117,15 +123,9 @@ Right now, there are a few major events going on globally. In the US, a powerful
 <sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Object of Ukraine’s Desire: F-16s From the West. But It’s Tricky.</h3>
-<sub>By Lara Jakes, Eric Schmitt and Thomas Gibbons-Neff</sub>
-<p>Ukraine’s sense of urgency in obtaining the fighter jet reflects concerns about the war against Russia, but also the political calendar in the West. But training pilots and support crew is a lengthy process.  <a href="https://nyti.ms/3R2fN2E"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Republican Women, Fearing Backlash on Abortion, Pivot to Birth Control</h3>
-<sub>By Annie Karni</sub>
-<p>A group of politically vulnerable G.O.P. women has backed legislation that purports to expand birth control access but would have little effect. Critics say the bill is meant to distract from their anti-abortion stances.  <a href="https://nyti.ms/3Egkoqj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>‘War Against the Children’</h3>
+<sub>By Zach Levitt, Yuliya Parshina-Kottas, Simon Romero and Tim Wallace</sub>
+<p>New research reveals the vast scope of the Native American boarding school system, which for more than a century removed Native children from their homes and families in an effort to assimilate them. Students at the schools gave up their names, their labor and sometimes their lives.  <a href="https://nyti.ms/3qXvm0D"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
