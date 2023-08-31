@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Wednesday, August 30, Central Standard Time</p>
+<p>It is Thursday, August 31, Central Standard Time</p>
 <p>
-There are some interesting things going on around the world. In the US, there are many consequences of the recent hurricanes, both in terms of storm surge and rip currents along the east coast, and the political effects in Washington DC. There&#39;s a lawsuit against Donald Trump for allegedly inflating his assets by 2.2 billion, and Republicans are debating whether or not Trump should even be allowed to run for president again. Meanwhile, Pope Francis is taking a stand against a strong US faction, and Ukraine is facing some serious aerial attacks both from itself and Russia. Lastly, Joe Biden is making drug price control a major policy focus while Medicaid systems have reportedly been reducing their rolls without verifying if it affects children.</p>
+It’s been a crazy past few weeks in the news. On the US front, we’ve seen Cedar Key, Florida ravaged by a hurricane, a dangerous rip current along the east coast, and McConnell has frozen up again while addressing reporters. The former president Trump is involved in a legal tussle as the NY attorney general says he has overinflated his worth. Plus, Trump also testified that he averted a ‘nuclear holocaust.’ In international news, Pope Francis is criticizing some conservative American Catholics for rejecting change and there has been a dueling aerial assaults between Russia and Ukraine. Closer to home, Biden is making lower drug prices the center peak of his 2024 campaign and there are issues arising with many children potentially losing their Medicaid coverage due to state errors. Finally, two years after exiting Afghanistan Biden is resisting calls for more contact with the Taliban. And on a lighter note, at the US Open we’re seeing 19 year old Arthur Fils and 21 year old Jack Draper burning bright but not for long!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>‘We Should Have Gotten Off the Island’: Cedar Key Residents Survived Idalia’s Wrath</h3>
@@ -71,7 +71,7 @@ There are some interesting things going on around the world. In the US, there ar
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Hurricane Franklin Causing ‘Dangerous’ Rip Currents Along East Coast</h3>
 <sub>By Judson Jones and Hogla Enecia Pérez</sub>
-<p>The storm is a Category 2 hurricane, but its eye is expected to stay far from land. Life-threatening surf and rip currents have continued along the East Coast.  <a href="https://nyti.ms/3YGni0I"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The storm is a Category 2 hurricane, but its eye has stayed far from land. Still, life-threatening surf and rip currents are expected to continue.  <a href="https://nyti.ms/3YGni0I"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, August 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -96,12 +96,6 @@ There are some interesting things going on around the world. In the US, there ar
 <h3>Is Trump Disqualified? Republicans Prepare to Fight Long-Shot Legal Theory.</h3>
 <sub>By Nick Corasaniti and Jonathan Weisman</sub>
 <p>In New Hampshire, Republicans are feuding over whether the 14th Amendment bars Donald J. Trump from running for president. Other states are watching closely.  <a href="https://nyti.ms/3OXI5bJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>When Your ‘Doppelganger’ Becomes a Conspiracy Theorist</h3>
-<sub>By Jennifer Szalai</sub>
-<p>If you’re Naomi Klein, you write a book about it.  <a href="https://nyti.ms/44xf4t6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -132,6 +126,12 @@ There are some interesting things going on around the world. In the US, there ar
 <h3>Two Years After Afghanistan Exit, Biden Resists Calls for More Taliban Contact</h3>
 <sub>By Michael Crowley</sub>
 <p>Some U.S. officials had clung to the hope that the Taliban had moderated since they last controlled the country in the 1990s.  <a href="https://nyti.ms/3R1WLJM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>A Grand Slam Rite of Passage: Be Young, Burn Bright, but Not for Long</h3>
+<sub>By Matthew Futterman</sub>
+<p>At the U.S. Open, Arthur Fils, a 19-year-old Frenchman, is surpassing expectations. Britain’s Jack Draper, 21, has been there. It’s all good.  <a href="https://nyti.ms/3R2lE7Y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
 <hr/>
 </ol>
