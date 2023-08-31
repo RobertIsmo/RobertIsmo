@@ -60,25 +60,43 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, August 31, Central Standard Time</p>
 <p>
-There have been a lot of immense changes in the world recently. In the US, President Biden is making lower drug prices a centerpiece for his 2024 campaign, and Republicans are preparing to fight a longshot legal theory that Donald Trump is disqualified from running for president. Meanwhile overseas, Pope Francis has remarked that conservative American Catholics have ignored much of the Church&#39;s mission, and Ukraine and Russia have been engaging in a series of aerial assaults. Closer to home, there was an early-morning fire in a building that had become an informal settlement, and many children may have lost Medicaid coverage due to state errors.</p>
+It looks like there are a lot of different issues happening around the world right now. For example, Tropical Storm Idalia is causing a lot of upheaval and wind speeds as it moves across the US. Inflation around the globe has been slowing down recently, but there&#39;s some uncertainty about how stable it will be in the long term. The US and China have started to talk again about economic topics, although it&#39;s unclear what will come out of those discussions. Germany is sending old tanks to help bolster Ukraine&#39;s front lines. In Texas prison, some death row inmates are playing Dungeons and Dragons as a way to stay connected with one another and their imaginations. Trump is facing a lawsuit that accuses him of over-reporting his assets by $2.2 billion, and he gave a deposition in the case where he talked about avoiding “nuclear holocaust” among other topics. There has been a massive fire in Johannesburg that has killed many people, and authorities are looking into what caused it. The Pope has made some strong remarks about US Catholics lately due to disagreements about Church practices and beliefs. Finally, there is a heat wave in Mexico that is causing migrants to die from heat exhaustion, plus there have been rare protests in Syria in recent weeks against the authoritarian government.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘We Should Have Gotten Off the Island’: Cedar Key Residents Survived Idalia’s Wrath</h3>
-<sub>By Patricia Mazzei</sub>
-<p>Much of Cedar Key, a series of tiny islands that jut into the Gulf, was covered by storm surge overnight as the hurricane came ashore.  <a href="https://nyti.ms/3OWi4ts"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Tracking Tropical Storm Idalia</h3>
+<sub>By William B. Davis, Madison Dong, Martín González Gómez, Judson Jones, John Keefe, Zach Levitt and Bea Malsky</sub>
+<p>See the path and estimated wind arrival times for Idalia.  <a href="https://nyti.ms/45jGDYd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Inflation Has Been Easing Fast, but Wild Cards Lie Ahead</h3>
+<sub>By Jeanna Smialek</sub>
+<p>Will inflation continue to slow at a solid pace? Economists are warily watching a few key areas, like housing and cars.  <a href="https://nyti.ms/3PhJNGl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Hurricane Franklin Causing ‘Dangerous’ Rip Currents Along East Coast</h3>
-<sub>By Judson Jones and Hogla Enecia Pérez</sub>
-<p>The storm is a Category 2 hurricane, but its eye has stayed far from land. Still, life-threatening surf and rip currents are expected to continue.  <a href="https://nyti.ms/3YGni0I"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, August 20, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Inflation Rate in Eurozone Holds Steady</h3>
+<sub>By Eshe Nelson</sub>
+<p>Prices rose at an annual rate of 5.3 percent, defying expectations of a slowdown. The news may bolster the case for another European Central Bank interest rate increase.  <a href="https://nyti.ms/3R9tU5Y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>McConnell Freezes Up a Second Time While Addressing Reporters</h3>
-<sub>By Annie Karni</sub>
-<p>The episode, which took place in the Republican leader’s home state of Kentucky, intensified questions about his future in the Senate.  <a href="https://nyti.ms/3R11RWA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>The U.S. and China Are Talking Again. Where It Will Lead Is Unclear.</h3>
+<sub>By Ana Swanson and Keith Bradsher</sub>
+<p>Gina Raimondo, the U.S. commerce secretary, and her Chinese counterparts agreed to continue economic talks, but such dialogues have a disheartening record.  <a href="https://nyti.ms/3sveHlD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>An Obsolete German Tank Seeks a Second Life on Ukraine’s Front Lines</h3>
+<sub>By Christopher F. Schuetze</sub>
+<p>The Cold War-era Leopard 1A5 may be old, but it is still effective, Germany says. The country is now training Ukrainian troops to operate the weapons.  <a href="https://nyti.ms/3OS93S6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>The Dungeons &amp; Dragons Players of Death Row</h3>
+<sub>By Keri Blakinger</sub>
+<p>For a group of men in a Texas prison, the fantasy game became a lifeline — to their imaginations, and to one another.  <a href="https://nyti.ms/488jdaf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Trump Asks to Dismiss Suit as A.G. Says He Inflated Worth by $2.2 Billion</h3>
@@ -92,11 +110,11 @@ There have been a lot of immense changes in the world recently. In the US, Presi
 <p>During a deposition in his civil case, the former president offered a series of defenses, digressions and meandering explanations of his political and professional dealings.  <a href="https://nyti.ms/45x4Gmx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Is Trump Disqualified? Republicans Prepare to Fight Long-Shot Legal Theory.</h3>
-<sub>By Nick Corasaniti and Jonathan Weisman</sub>
-<p>In New Hampshire, Republicans are feuding over whether the 14th Amendment bars Donald J. Trump from running for president. Other states are watching closely.  <a href="https://nyti.ms/3OXI5bJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Scenes From Johannesburg: A Deadly Fire Downtown Kills Scores</h3>
+<sub>By Isabella Kwai</sub>
+<p>The blaze struck an abandoned building that had become a crowded squatter camp. The authorities were investigating the cause.  <a href="https://nyti.ms/486zKLM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Pope Says a Strong U.S. Faction Offers a Backward, Narrow View of the Church</h3>
@@ -104,35 +122,17 @@ There have been a lot of immense changes in the world recently. In the US, Presi
 <p>In unusually sharp remarks published this week, Pope Francis said some conservative American Catholics wrongly ignore much of the Church’s mission and reject the possibility of change.  <a href="https://nyti.ms/3P1sasW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Dueling Aerial Assaults Hit Ukraine and Russia</h3>
-<sub>By Andrew E. Kramer and Victoria Kim</sub>
-<p>Four military cargo planes at a Russia airfield were damaged, and the Kyiv region was hit with one of the most significant missile and drone barrages in months.  <a href="https://nyti.ms/44CYRTb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Makes Lower Drug Prices a Centerpiece of His 2024 Campaign</h3>
-<sub>By Michael D. Shear</sub>
-<p>President Biden’s Inflation Reduction Act allows Medicare to negotiate some drug prices, a change that the pharmaceutical industry and Republicans have opposed for decades.  <a href="https://nyti.ms/47Vy8nR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Many Children May Have Lost Medicaid Coverage Because of State Errors</h3>
-<sub>By Noah Weiland</sub>
-<p>Federal officials warned state agencies to review their systems for establishing eligibility, as they pare back Medicaid rolls. Children in particular may have been affected.  <a href="https://nyti.ms/3EhZtmv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Two Years After Afghanistan Exit, Biden Resists Calls for More Taliban Contact</h3>
-<sub>By Michael Crowley</sub>
-<p>Some U.S. officials had clung to the hope that the Taliban had moderated since they last controlled the country in the 1990s.  <a href="https://nyti.ms/3R1WLJM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Here are the latest developments.</h3>
-<sub>By John Eligon and Lynsey Chutel</sub>
-<p>The early-morning blaze tore through a five-story building that had become a sprawling informal settlement, officials said. The cause was not yet known.  <a href="https://nyti.ms/44sLd53"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Scorching Heat Is Contributing to Migrant Deaths</h3>
+<sub>By Edgar Sandoval</sub>
+<p>Amid a relentless heat wave, some migrants are succumbing to heat exhaustion. More than 500 people have died of various causes this year while trying to cross from Mexico.  <a href="https://nyti.ms/3PhpQzu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Rare Protests in Syria Summon Echoes of Arab Spring</h3>
+<sub>By Raja Abdulrahim</sub>
+<p>After 12 years of conflict, anger over growing economic hardships has boiled over. Protesters are demanding the ouster of the authoritarian President Bashar al-Assad and an end to the war.  <a href="https://nyti.ms/3QZoYRe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
