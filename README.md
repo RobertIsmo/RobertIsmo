@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, August 31, Central Standard Time</p>
 <p>
-There are some big events happening around the world right now. In the US, Supreme Court Justices Clarence Thomas and Samuel A. Alito Jr. face scrutiny regarding travel and financial disclosures, while former President Donald Trump has pleaded not guilty in a case surrounding the interference of the 2020 election in Georgia. Meanwhile, Proud Boys Lieutenant Joseph Biggs has been sentenced to 17 years in prison as part of sedition charges from the US Capitol attack in January. Additionally, New York Attorney General Letitia James is suing President Trump for inflating his assets by $2.2 billion. In South Africa, a building which was once an apartheid checkpoint has burned down and in Ukraine an old German tank is replacing their current weapons systems. Over in the Atlantic, Tropical Storm Idalia is tracking and is expected to be absorbed by Hurricane Franklin-- making 3 named storms over there. Lastly, Pope Francis recently released some statements regarding the state of the Catholic Church in America and how conservative American Catholics have a narrow view of their mission and reject change.</p>
+There have been some interesting reports in the US recently. Justice Thomas and Justice Alito both requested extensions for their annual financial forms. A lieutenant in the Proud Boys group was sentenced to 17 years in prison for involvement in the Capitol attack, and President Trump pleaded not guilty in a Georgia case. Meanwhile, Senate Majority Leader Mitch McConnell released a letter stating that he had been medically cleared to work after an episode of freezing up at a news conference, igniting speculation over his future in the Senate. In other news, authorities are investigating what caused a deadly fire in an apartment building in Johannesburg, South Africa. In the UK, Ben Wallace – an ex-soldier – has stepped down as Defense Secretary and been replaced by Grant Shapps, who is known more for his political skills rather than military experience. Lastly, tropical storms Jose and Idalia are quickly moving around Atlantic, with Jose being expected to be absorbed by Hurricane Franklin. On a lighter note, an interesting article recently came out about Dungeons &amp; Dragons players on death row in Texas – showing how this fantasy game has become a lifeline to imaginations and companionship for these men.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Justice Thomas Reports Private Trips With Harlan Crow</h3>
@@ -71,7 +71,7 @@ There are some big events happening around the world right now. In the US, Supre
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Proud Boys Lieutenant Sentenced to 17 Years in Jan. 6 Sedition Case</h3>
 <sub>By Alan Feuer and Zach Montague</sub>
-<p>The penalty for Joseph Biggs is the second longest so far in more than 1,100 criminal cases stemming from the Capitol attack.  <a href="https://nyti.ms/44xzqCv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The penalty for Joseph Biggs is the second longest in more than 1,100 criminal cases stemming from the Capitol attack. Another Proud Boys leader was sentenced to 15 years.  <a href="https://nyti.ms/44xzqCv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -80,11 +80,29 @@ There are some big events happening around the world right now. In the US, Supre
 <p>The 19 defendants in the election interference case are sparring with prosecutors over when a trial might start, and whether it will be in state or federal court.  <a href="https://nyti.ms/3YXcqf6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Trump Asks to Dismiss Suit as A.G. Says He Inflated Worth by $2.2 Billion</h3>
-<sub>By Jonah E. Bromwich, Ben Protess and William K. Rashbaum</sub>
-<p>Letitia James, the attorney general, asked a judge to find, without a trial, that the former president had fraudulently overvalued his assets.  <a href="https://nyti.ms/45tN1Mt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>McConnell Releases Letter Declaring Him ‘Medically Clear’ to Work After Episode</h3>
+<sub>By Annie Karni</sub>
+<p>The brief statement came from the attending physician of Congress, who said he had reached the conclusion after consulting with the top Republican’s doctors and didn’t say he had examined the senator.  <a href="https://nyti.ms/3EkqPsj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>‘Three Johns’ Top the List of Potential Successors to Mitch McConnell</h3>
+<sub>By Carl Hulse</sub>
+<p>The men are considered the leading candidates to replace the top Senate Republican, should he be forced to step aside for health reasons.  <a href="https://nyti.ms/3R5wLNo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>What Happens if Mitch McConnell Retires Before His Senate Term Ends?</h3>
+<sub>By Neil Vigdor</sub>
+<p>The longtime Republican leader froze up during a news conference on Wednesday in Kentucky. The second such episode in recent weeks, it stirred speculation about his future in the Senate.  <a href="https://nyti.ms/45RLvDH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Why the Johannesburg Apartment Building Was a Firetrap</h3>
+<sub>By Lauren Leatherby, Lynsey Chutel and John Eligon</sub>
+<p>A visit and imagery of the five-story building show that it had a litany of major safety issues that made it vulnerable to a deadly fire.  <a href="https://nyti.ms/45A02UU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>The building that burned was a feared checkpoint during apartheid.</h3>
@@ -93,13 +111,13 @@ There are some big events happening around the world right now. In the US, Supre
 <sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>An Obsolete German Tank Seeks a Second Life on Ukraine’s Front Lines</h3>
-<sub>By Christopher F. Schuetze</sub>
-<p>The Cold War-era Leopard 1A5 may be old, but it is still effective, Germany says. The country is now training Ukrainian troops to operate the weapons.  <a href="https://nyti.ms/3OS93S6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
+<h3>For U.K. Defense Secretary: Exit the Ex-Soldier. Enter the Political Operative.</h3>
+<sub>By Mark Landler</sub>
+<p>Ben Wallace, a former soldier, championed the Ukrainians in their war against Russia. His successor, Grant Shapps, is best known for his political skills.  <a href="https://nyti.ms/3ElRZiI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Tracking Tropical Storm Idalia</h3>
+<h3>Tracking Post-tropical Cyclone Idalia</h3>
 <sub>By William B. Davis, Madison Dong, Martín González Gómez, Judson Jones, John Keefe, Zach Levitt and Bea Malsky</sub>
 <p>See the path and estimated wind arrival times for Idalia.  <a href="https://nyti.ms/45jGDYd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, August 28, Central Standard Time</sub></sub>
@@ -110,29 +128,11 @@ There are some big events happening around the world right now. In the US, Supre
 <p>Jose formed on Thursday morning. It’s now the third named storm in the Atlantic, along with Idalia and Franklin.  <a href="https://nyti.ms/3szjNxc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Inflation and Consumers Show Staying Power as Fed Eyes Another Rate Move</h3>
-<sub>By Jeanna Smialek</sub>
-<p>Overall inflation climbed to 3.3 percent, from 3 percent previously, underscoring the Fed’s long road back to 2 percent price increases.  <a href="https://nyti.ms/3P1oQ15"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
 <h3>The Dungeons &amp; Dragons Players of Death Row</h3>
 <sub>By Keri Blakinger</sub>
 <p>For a group of men in a Texas prison, the fantasy game became a lifeline — to their imaginations, and to one another.  <a href="https://nyti.ms/488jdaf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>After Fox News, Geraldo Rivera Boats Into the Sunset (via Cleveland)</h3>
-<sub>By Katherine Rosman and Lanna Apisukh</sub>
-<p>At 80 years old, the longtime television personality found himself unexpectedly unemployed after more than half a century. So he steered his boat toward the Erie Canal, seeking one last adventure.  <a href="https://nyti.ms/3L1GkJv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Pope Says a Strong U.S. Faction Offers a Backward, Narrow View of the Church</h3>
-<sub>By Jason Horowitz and Ruth Graham</sub>
-<p>In unusually sharp remarks published this week, Pope Francis said some conservative American Catholics wrongly ignore much of the Church’s mission and reject the possibility of change.  <a href="https://nyti.ms/3P1sasW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
