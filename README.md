@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, August 31, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. In the US, Justices Thomas and Alito have asked for extensions on their financial disclosure forms, while Tropical Storms Idalia and Jose are headed our way. In Johannesburg, a deadly fire has killed dozens of people in an abandoned building that was being used as a squatter settlement. Business wise, inflation and consumer goods continue to hold steady while the US and China have begun talking again. In Europe, the inflation rate is holding steady, though many fear an increase in European Central Bank interest rates. Additionally, an obsolete German tank is being trained to be used on Ukraine&#39;s front lines. Closer to home, former President Trump is being sued by the Attorney General for inflating his worth by over two billion dollars and also said under oath that he averted &quot;nuclear holocaust&quot;. Pope Francis also recently made some unusually sharp remarks about some conservative American Catholics who reject change within the Church.</p>
+There are some big events happening around the world right now. In the US, Supreme Court Justices Clarence Thomas and Samuel A. Alito Jr. face scrutiny regarding travel and financial disclosures, while former President Donald Trump has pleaded not guilty in a case surrounding the interference of the 2020 election in Georgia. Meanwhile, Proud Boys Lieutenant Joseph Biggs has been sentenced to 17 years in prison as part of sedition charges from the US Capitol attack in January. Additionally, New York Attorney General Letitia James is suing President Trump for inflating his assets by $2.2 billion. In South Africa, a building which was once an apartheid checkpoint has burned down and in Ukraine an old German tank is replacing their current weapons systems. Over in the Atlantic, Tropical Storm Idalia is tracking and is expected to be absorbed by Hurricane Franklin-- making 3 named storms over there. Lastly, Pope Francis recently released some statements regarding the state of the Catholic Church in America and how conservative American Catholics have a narrow view of their mission and reject change.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Justice Thomas Reports Private Trips With Harlan Crow</h3>
@@ -68,11 +68,35 @@ There&#39;s a lot going on in the world right now. In the US, Justices Thomas an
 <p>Justices Clarence Thomas and Samuel A. Alito Jr. had asked for extensions on their annual forms that show travel, gifts and other financial information.  <a href="https://nyti.ms/45C1dDh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Scenes From Johannesburg: A Deadly Fire Downtown Kills Scores</h3>
-<sub>By The New York Times</sub>
-<p>The blaze struck an abandoned building that had become a crowded squatter settlement. The authorities were investigating the cause.  <a href="https://nyti.ms/486zKLM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Proud Boys Lieutenant Sentenced to 17 Years in Jan. 6 Sedition Case</h3>
+<sub>By Alan Feuer and Zach Montague</sub>
+<p>The penalty for Joseph Biggs is the second longest so far in more than 1,100 criminal cases stemming from the Capitol attack.  <a href="https://nyti.ms/44xzqCv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump, Waiving Arraignment, Pleads Not Guilty in Georgia Case</h3>
+<sub>By Danny Hakim and Richard Fausset</sub>
+<p>The 19 defendants in the election interference case are sparring with prosecutors over when a trial might start, and whether it will be in state or federal court.  <a href="https://nyti.ms/3YXcqf6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Trump Asks to Dismiss Suit as A.G. Says He Inflated Worth by $2.2 Billion</h3>
+<sub>By Jonah E. Bromwich, Ben Protess and William K. Rashbaum</sub>
+<p>Letitia James, the attorney general, asked a judge to find, without a trial, that the former president had fraudulently overvalued his assets.  <a href="https://nyti.ms/45tN1Mt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The building that burned was a feared checkpoint during apartheid.</h3>
+<sub>By Aaron Boxerman</sub>
+<p>  <a href="https://nyti.ms/3qT7JGz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>An Obsolete German Tank Seeks a Second Life on Ukraine’s Front Lines</h3>
+<sub>By Christopher F. Schuetze</sub>
+<p>The Cold War-era Leopard 1A5 may be old, but it is still effective, Germany says. The country is now training Ukrainian troops to operate the weapons.  <a href="https://nyti.ms/3OS93S6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Tracking Tropical Storm Idalia</h3>
@@ -92,24 +116,6 @@ There&#39;s a lot going on in the world right now. In the US, Justices Thomas an
 <p>Overall inflation climbed to 3.3 percent, from 3 percent previously, underscoring the Fed’s long road back to 2 percent price increases.  <a href="https://nyti.ms/3P1oQ15"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Inflation Rate in Eurozone Holds Steady</h3>
-<sub>By Eshe Nelson</sub>
-<p>Prices rose at an annual rate of 5.3 percent, defying expectations of a slowdown. The news may bolster the case for another European Central Bank interest rate increase.  <a href="https://nyti.ms/3R9tU5Y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The U.S. and China Are Talking Again. Where It Will Lead Is Unclear.</h3>
-<sub>By Ana Swanson and Keith Bradsher</sub>
-<p>Gina Raimondo, the U.S. commerce secretary, and her Chinese counterparts agreed to continue economic talks, but such dialogues have a disheartening record.  <a href="https://nyti.ms/3sveHlD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>An Obsolete German Tank Seeks a Second Life on Ukraine’s Front Lines</h3>
-<sub>By Christopher F. Schuetze</sub>
-<p>The Cold War-era Leopard 1A5 may be old, but it is still effective, Germany says. The country is now training Ukrainian troops to operate the weapons.  <a href="https://nyti.ms/3OS93S6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
 <h3>The Dungeons &amp; Dragons Players of Death Row</h3>
 <sub>By Keri Blakinger</sub>
@@ -117,16 +123,10 @@ There&#39;s a lot going on in the world right now. In the US, Justices Thomas an
 <sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Trump Asks to Dismiss Suit as A.G. Says He Inflated Worth by $2.2 Billion</h3>
-<sub>By Jonah E. Bromwich, Ben Protess and William K. Rashbaum</sub>
-<p>Letitia James, the attorney general, asked a judge to find, without a trial, that the former president had fraudulently overvalued his assets.  <a href="https://nyti.ms/45tN1Mt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Trump, Under Oath, Says He Averted ‘Nuclear Holocaust’</h3>
-<sub>By Ben Protess, Jonah E. Bromwich and William K. Rashbaum</sub>
-<p>During a deposition in his civil case, the former president offered a series of defenses, digressions and meandering explanations of his political and professional dealings.  <a href="https://nyti.ms/45x4Gmx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
+<h3>After Fox News, Geraldo Rivera Boats Into the Sunset (via Cleveland)</h3>
+<sub>By Katherine Rosman and Lanna Apisukh</sub>
+<p>At 80 years old, the longtime television personality found himself unexpectedly unemployed after more than half a century. So he steered his boat toward the Erie Canal, seeking one last adventure.  <a href="https://nyti.ms/3L1GkJv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Pope Says a Strong U.S. Faction Offers a Backward, Narrow View of the Church</h3>
