@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, August 31, Central Standard Time</p>
 <p>
-It’s been a crazy past few weeks in the news. On the US front, we’ve seen Cedar Key, Florida ravaged by a hurricane, a dangerous rip current along the east coast, and McConnell has frozen up again while addressing reporters. The former president Trump is involved in a legal tussle as the NY attorney general says he has overinflated his worth. Plus, Trump also testified that he averted a ‘nuclear holocaust.’ In international news, Pope Francis is criticizing some conservative American Catholics for rejecting change and there has been a dueling aerial assaults between Russia and Ukraine. Closer to home, Biden is making lower drug prices the center peak of his 2024 campaign and there are issues arising with many children potentially losing their Medicaid coverage due to state errors. Finally, two years after exiting Afghanistan Biden is resisting calls for more contact with the Taliban. And on a lighter note, at the US Open we’re seeing 19 year old Arthur Fils and 21 year old Jack Draper burning bright but not for long!</p>
+There have been a lot of immense changes in the world recently. In the US, President Biden is making lower drug prices a centerpiece for his 2024 campaign, and Republicans are preparing to fight a longshot legal theory that Donald Trump is disqualified from running for president. Meanwhile overseas, Pope Francis has remarked that conservative American Catholics have ignored much of the Church&#39;s mission, and Ukraine and Russia have been engaging in a series of aerial assaults. Closer to home, there was an early-morning fire in a building that had become an informal settlement, and many children may have lost Medicaid coverage due to state errors.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>‘We Should Have Gotten Off the Island’: Cedar Key Residents Survived Idalia’s Wrath</h3>
@@ -128,11 +128,11 @@ It’s been a crazy past few weeks in the news. On the US front, we’ve seen Ce
 <p>Some U.S. officials had clung to the hope that the Taliban had moderated since they last controlled the country in the 1990s.  <a href="https://nyti.ms/3R1WLJM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>A Grand Slam Rite of Passage: Be Young, Burn Bright, but Not for Long</h3>
-<sub>By Matthew Futterman</sub>
-<p>At the U.S. Open, Arthur Fils, a 19-year-old Frenchman, is surpassing expectations. Britain’s Jack Draper, 21, has been there. It’s all good.  <a href="https://nyti.ms/3R2lE7Y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Here are the latest developments.</h3>
+<sub>By John Eligon and Lynsey Chutel</sub>
+<p>The early-morning blaze tore through a five-story building that had become a sprawling informal settlement, officials said. The cause was not yet known.  <a href="https://nyti.ms/44sLd53"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
