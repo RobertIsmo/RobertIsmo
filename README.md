@@ -60,11 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, August 30, Central Standard Time</p>
 <p>
-There has been a lot of news lately, so it can be overwhelming. There has been a category 5 hurricane that hit multiple islands in the Gulf of Mexico, including Cedar Key, and people are worried about the aftermath. Because of different natural disasters this summer, there have been a lot of unsubstantiated rumors which have complicated the response efforts. 
-
-On top of this, President Trump&#39;s actions have been making headlines. There is now a defamation case against Rudy Giuliani and an ongoing debate about whether or not Trump will be able to run for president again in the future. As always, he is continuously promoting misinformation and manipulating facts to fit his agenda. 
-
-Not all of the news is negative though; there has also been an effort to recognize Harriet Tubman&#39;s legacy with a statue in Philadelphia, and a few projects exploring how scientists are using new ways to map war. Lastly, Mark Thompson just joined CNN as its new leader and Alexandria Ocasio-Cortez has spoken out about some changes she has made since taking office.</p>
+Right now, there is a lot going on in the world. In the US, we&#39;re seeing reports of homes damaged by a hurricane that came ashore in Cedar Key, but hurricane Franklin is keeping its eye far from land while creating dangerous rip currents along the East Coast. Meanwhile, former president Donald Trump&#39;s worth has been questioned as the New York attorney general asked a judge to find he had fraudulently overvalued his assets. There are also Republican forces preparing to fight a long-shot legal battle over whether or not he can run for president again in 2024. On the international front, Pope Francis recently made sharp remarks about some American conservatives, and there was conflict between Russia and Ukraine with one of the most significant missile and drone barrages in months. Closer to home, President Joe Biden has made reducing drug prices a centerpiece of his 2024 campaign, and state governments have been warned to review their Medicaid eligibility systems due to potential errors that may have resulted in children losing their coverage. Finally, two years after US troops withdrew from Afghanistan, Biden is still resisting calls for more Taliban contact.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>‘We Should Have Gotten Off the Island’: Cedar Key Residents Survived Idalia’s Wrath</h3>
@@ -72,11 +68,11 @@ Not all of the news is negative though; there has also been an effort to recogni
 <p>Much of Cedar Key, a series of tiny islands that jut into the Gulf, was covered by storm surge overnight as the hurricane came ashore.  <a href="https://nyti.ms/3OWi4ts"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Falsehoods Follow Close Behind This Summer’s Natural Disasters</h3>
-<sub>By Tiffany Hsu</sub>
-<p>Misattributed videos, recycled lies and warped fears are fueling unfounded claims about the recent record-breaking heat, floods and wildfires.  <a href="https://nyti.ms/3qIvBgg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Hurricane Franklin Causing ‘Dangerous’ Rip Currents Along East Coast</h3>
+<sub>By Judson Jones and Hogla Enecia Pérez</sub>
+<p>The storm is a Category 2 hurricane, but its eye is expected to stay far from land. Life-threatening surf and rip currents have continued along the East Coast.  <a href="https://nyti.ms/3YGni0I"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, August 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>McConnell Freezes Up a Second Time While Addressing Reporters</h3>
@@ -84,16 +80,16 @@ Not all of the news is negative though; there has also been an effort to recogni
 <p>The episode, which took place in the Republican leader’s home state of Kentucky, intensified questions about his future in the Senate.  <a href="https://nyti.ms/3R11RWA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Thousand Tiny Quakes</h3>
-<sub>By James Glanz and Josh Holder</sub>
-<p>Scientists are mapping war in an entirely new way.  <a href="https://nyti.ms/3P09l9L"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Trump Asks to Dismiss Suit as A.G. Says He Inflated Worth by $2.2 Billion</h3>
+<sub>By Jonah E. Bromwich, Ben Protess and William K. Rashbaum</sub>
+<p>Letitia James, the attorney general, asked a judge to find, without a trial, that the former president had fraudulently overvalued his assets.  <a href="https://nyti.ms/45tN1Mt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Giuliani Is Liable for Defaming Georgia Election Workers, Judge Says</h3>
-<sub>By Alan Feuer and Ben Protess</sub>
-<p>The ruling means that a defamation case against Rudolph W. Giuliani, stemming from his role in seeking to overturn the 2020 election, can proceed to a trial where damages will be considered.  <a href="https://nyti.ms/47Xa4kH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Trump, Under Oath, Says He Averted ‘Nuclear Holocaust’</h3>
+<sub>By Ben Protess, Jonah E. Bromwich and William K. Rashbaum</sub>
+<p>During a deposition in his civil case, the former president offered a series of defenses, digressions and meandering explanations of his political and professional dealings.  <a href="https://nyti.ms/45x4Gmx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -108,34 +104,34 @@ Not all of the news is negative though; there has also been an effort to recogni
 <p>If you’re Naomi Klein, you write a book about it.  <a href="https://nyti.ms/44xf4t6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Alexandria Ocasio-Cortez on How She’s Changed</h3>
-<sub>By Lulu Garcia-Navarro</sub>
-<p>The congresswoman from New York says she’s different from when she first took office. But she’s not ready to call herself an insider.  <a href="https://nyti.ms/3QZaEYU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Pope Says a Strong U.S. Faction Offers a Backward, Narrow View of the Church</h3>
+<sub>By Jason Horowitz and Ruth Graham</sub>
+<p>In unusually sharp remarks published this week, Pope Francis said some conservative American Catholics wrongly ignore much of the Church’s mission and reject the possibility of change.  <a href="https://nyti.ms/3P1sasW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Dueling Aerial Assaults Hit Ukraine and Russia</h3>
+<sub>By Andrew E. Kramer and Victoria Kim</sub>
+<p>Four military cargo planes at a Russia airfield were damaged, and the Kyiv region was hit with one of the most significant missile and drone barrages in months.  <a href="https://nyti.ms/44CYRTb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘War Against the Children’</h3>
-<sub>By Zach Levitt, Yuliya Parshina-Kottas, Simon Romero and Tim Wallace</sub>
-<p>New research reveals the vast scope of the Native American boarding school system, which for more than a century removed Native children from their homes and families in an effort to assimilate them. Students at the schools gave up their names, their labor and sometimes their lives.  <a href="https://nyti.ms/3qXvm0D"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Biden Makes Lower Drug Prices a Centerpiece of His 2024 Campaign</h3>
+<sub>By Michael D. Shear</sub>
+<p>President Biden’s Inflation Reduction Act allows Medicare to negotiate some drug prices, a change that the pharmaceutical industry and Republicans have opposed for decades.  <a href="https://nyti.ms/47Vy8nR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Mark Thompson Helped Steady 2 News Outlets. Can He Do the Same at CNN?</h3>
-<sub>By John Koblin, Benjamin Mullin and Katie Robertson</sub>
-<p>Mr. Thompson, who oversaw a period of growth at The New York Times and the BBC, will lead the network during a pivotal period.  <a href="https://nyti.ms/3qSrT3z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Philadelphia Asks if Race of Tubman Sculptor Matters</h3>
-<sub>By Christopher Kuo</sub>
-<p>A white artist was invited to design a statue of Harriet Tubman. After complaints, the city held an open call for submissions.  <a href="https://nyti.ms/44wRQmQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Many Children May Have Lost Medicaid Coverage Because of State Errors</h3>
+<sub>By Noah Weiland</sub>
+<p>Federal officials warned state agencies to review their systems for establishing eligibility, as they pare back Medicaid rolls. Children in particular may have been affected.  <a href="https://nyti.ms/3EhZtmv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Emulating Trump, Ramaswamy Shows a Penchant for Dispensing With the Facts</h3>
-<sub>By Neil Vigdor, Jonathan Weisman and Maggie Haberman</sub>
-<p>In clashes with the news media and his rivals, the Republican upstart has retreated from past comments and lied about on-the-record statements.  <a href="https://nyti.ms/47QLZfh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Two Years After Afghanistan Exit, Biden Resists Calls for More Taliban Contact</h3>
+<sub>By Michael Crowley</sub>
+<p>Some U.S. officials had clung to the hope that the Taliban had moderated since they last controlled the country in the 1990s.  <a href="https://nyti.ms/3R1WLJM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
 <hr/>
 </ol>
