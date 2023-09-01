@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, September 1, Central Standard Time</p>
 <p>
-There are some interesting things happening in the world right now. Businesses are looking into how they can use Artificial Intelligence (A.I.) to help with college admissions essays, while federal officials have proposed new nursing home standards to help increase staffing in these places. In terms of international news, there is tension building up in Ukraine and Malawi over civil rights issues, while Maui is struggling with a huge drop in tourism due to a disasterous fire. And on a lighter note, we&#39;re finally starting to appreciate theimpact that Tammy Wynette has had on modern pop music.</p>
+I wanted to update you on a few things that have been going on in the world. First, businesses are trying to decide whether to embrace or ban the use of AI-generated essays for college admissions. This is leading to ethical debates over whether it should be allowed. Also, in the US, hiring has settled into a lower gear due to the pandemic lockdowns, and many workers in Hollywood have been affected by recent strikes. There&#39;s also been a lot of news about the conditions faced by some South African renters - living without basic services like water and electricity - as well as staffing concerns at nursing homes. In other news, a Proud Boy member who smashed a window at the Capitol was sentenced to 10 years in prison, and experts are investigating why so many tennis players are getting sick at the US Open.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Ban or Embrace? Colleges Wrestle With A.I.-Generated Admissions Essays.</h3>
@@ -80,16 +80,28 @@ There are some interesting things happening in the world right now. Businesses a
 <p>ChatGPT might change the application essay forever.  <a href="https://nyti.ms/3P210lD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 1, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As Ukraine’s Fight Grinds On, Talk of Negotiations Becomes Nearly Taboo</h3>
+<sub>By Steven Erlanger</sub>
+<p>Discussion of a Plan B, should Ukraine fail to win a total victory, has become more fraught than ever, say those who have tried.  <a href="https://nyti.ms/3YWVcP9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 1, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>Mitch McConnell May Be Experiencing Small Seizures, Doctors Suggest</h3>
 <sub>By Benjamin Mueller</sub>
 <p>Two episodes, where the Republican senator froze and did not respond to some questions, may be symptoms of a serious illness, according to neurologists not involved in his medical care.  <a href="https://nyti.ms/3qUBkPU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Ukraine’s Fight Grinds On, Talk of Negotiations Becomes Nearly Taboo</h3>
-<sub>By Steven Erlanger</sub>
-<p>Discussion of a Plan B, should Ukraine fail to win a total victory, has become more fraught than ever, say those who have tried.  <a href="https://nyti.ms/3YWVcP9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>U.S. Hiring Settles Into a Lower Gear</h3>
+<sub>By Lydia DePillis</sub>
+<p>Employers added 187,000 jobs in August and unemployment rose to 3.8 percent as the economy continued to lose momentum built up after pandemic lockdowns.  <a href="https://nyti.ms/3EF05Df"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Impact of Hollywood Strikes on Jobs Goes Beyond the Strikers</h3>
+<sub>By Lydia DePillis</sub>
+<p>Walkouts by screenwriters and actors have meant less work in fields that cater to the TV and film industry.  <a href="https://nyti.ms/3R9bmTL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -99,15 +111,9 @@ There are some interesting things happening in the world right now. Businesses a
 <sub><sub>Friday, September 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Survivor of South Africa Fire Describes a Harrowing Escape</h3>
-<sub>By John Eligon</sub>
-<p>Tom Mandala, a Malawi native, jumped from the fifth floor as a blaze raged in a Johannesburg residential building. Many other residents were also from Malawi.  <a href="https://nyti.ms/3EnJhjY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Conferences Are Changing. The Sport Is, Too.</h3>
-<sub>By Billy Witz</sub>
-<p>This season is the last before new-look leagues and an expanded playoff will make the sport feel much different. More change came Friday with California, Stanford and Southern Methodist joining the Atlantic Coast Conference.  <a href="https://nyti.ms/3qUqzgG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Filthy Toilets, No Showers and Criminal Landlords: Life in a South African Firetrap</h3>
+<sub>By John Eligon and Lynsey Chutel</sub>
+<p>After harrowing escapes from the apartment fire in Johannesburg that killed at least 74 people, residents described how they managed to build lives with no legal water or electricity, and very little privacy.  <a href="https://nyti.ms/3EnJhjY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
@@ -122,16 +128,10 @@ There are some interesting things happening in the world right now. Businesses a
 <p>Dominic Pezzola was the third member of the far-right group to be sentenced this week. Among the first of the rioters to enter the Capitol, he was convicted of six felonies but acquitted of sedition.  <a href="https://nyti.ms/3L14R1q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Tourists Were Told to Avoid Maui. Many Workers Want Them Back.</h3>
-<sub>By Nicholas Bogel-Burroughs</sub>
-<p>A plunge in tourism after a disastrous fire has already crippled the economy in Maui. Now, some locals who wanted visitors to stay away are urging them back.  <a href="https://nyti.ms/3qUNuII"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Are We Finally Ready to Take Tammy Wynette Seriously?</h3>
-<sub>By Lindsay Zoladz</sub>
-<p>The unsung godmother of so-called “sad girl” music — and one of pop’s most wrenching chroniclers of feminized pain — has long been misunderstood.  <a href="https://nyti.ms/45RYFAJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Why Are So Many Players Getting Sick at the U.S. Open?</h3>
+<sub>By Jesus Jiménez</sub>
+<p>Ons Jabeur has won two rounds despite having flu symptoms, but Dominic Thiem was forced to retire from his second-round match with an illness.  <a href="https://nyti.ms/3Z3hAGI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
