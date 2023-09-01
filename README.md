@@ -60,7 +60,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, September 1, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In Ukraine, there is an ongoing fight that is making talks of negotiations more tense than ever. Meanwhile, Russia is implementing new high school textbooks that are designed to justify the war in Ukraine.  In the US, Mitch McConnell released a letter claiming to be medically clear to work after his health episode. In business, companies have been hit hard with empty office space due to the pandemic. Pope Francis visited a small flock in Mongolia to encourage faith but it could also suggest closer diplomatic ties with China and Russia. Additionally, South Africa recently experienced an intense fire which killed 74 people and Johannesburg residents are still trying to identify victims. On top of that, Silicon Valley billionaires have been investing in rural land in California in order to create a metropolitan city from scratch, while a teenage trailblazer of women’s tennis was once denied the ability to play on boys&#39; teams. And finally, the one-handed backhand technique has become nearly obsolete in tennis despite it being such an iconic stroke in sports history.</p>
+There are a lot of things happening around the world right now. In Ukraine, a conflict is grinding on and negotiations to end it have become more tricky. Russian high school textbooks are trying to defend their role in the conflict. In the US, Senator McConnell released a letter declaring he is medically cleared after exhibiting small seizures in public. There is also an interesting story about a tech millionaire who is trying to build his own city from scratch. 
+
+In South Africa, at least 74 people died in a horrific residential fire earlier this week and families are struggling to identify their relatives. Also, tourists were recently asked to stay away from Maui but some locals are now encouraging them to come back due to the plunge in tourism and related economic issues. Finally, Typhoon Saola hit Hong Kong today and another typhoon is predicted to hit China&#39;s east coast tomorrow.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>As Ukraine’s Fight Grinds On, Talk of Negotiations Becomes Nearly Taboo</h3>
@@ -74,40 +76,34 @@ There is a lot going on in the world right now. In Ukraine, there is an ongoing 
 <p>The textbooks, which cover Russian history from 1945 to present, also reimagine the brutality of Joseph Stalin’s policies.  <a href="https://nyti.ms/489X9Mr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 1, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Mitch McConnell May Be Experiencing Small Seizures, Doctors Suggest</h3>
+<sub>By Benjamin Mueller</sub>
+<p>Two episodes, where the Republican senator froze and did not respond to some questions, may be symptoms of a serious illness, according to neurologists not involved in his medical care.  <a href="https://nyti.ms/3qUBkPU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 1, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>McConnell Releases Letter Declaring Him ‘Medically Clear’ to Work After Episode</h3>
 <sub>By Annie Karni and Benjamin Mueller</sub>
 <p>The brief statement came from the attending physician of Congress, who said he had reached the conclusion after consulting with the top Republican’s doctors and didn’t say he had examined the senator.  <a href="https://nyti.ms/3EkqPsj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘Three Johns’ Top the List of Potential Successors to Mitch McConnell</h3>
-<sub>By Carl Hulse</sub>
-<p>The men are considered the leading candidates to replace the top Senate Republican, should he be forced to step aside for health reasons.  <a href="https://nyti.ms/3R5wLNo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>All That Empty Office Space Belongs to Someone</h3>
 <sub>By Emma Goldberg and Haruka Sakaguchi</sub>
-<p>If the nearly 100 million square feet of office real estate stays empty, who loses?  <a href="https://nyti.ms/45wT82R"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>What happens if the nearly 100 million square feet of workplace real estate stays empty?  <a href="https://nyti.ms/45wT82R"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Visit to Tiny Flock in Mongolia, Pope Has an Eye on Russia and China</h3>
-<sub>By Jason Horowitz</sub>
-<p>The pontiff arrived Friday on a trip that the Vatican said was meant to encourage the fewer than 1,500 Catholics there. But it also brings him close to two great powers that have vexed him.  <a href="https://nyti.ms/3Z1jcAL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>U.S. Officials Are Streaming to China. Will Beijing Return the Favor?</h3>
-<sub>By David Pierson, Keith Bradsher and Olivia Wang</sub>
-<p>Such visits could help convey Beijing’s interest in stabilizing ties with Washington. But China has been noncommittal.  <a href="https://nyti.ms/3Em89IL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Survivor of South Africa Fire Describes a Harrowing Escape</h3>
+<sub>By John Eligon</sub>
+<p>Tom Mandala, a Malawi native, jumped from the fifth floor as a blaze raged in a Johannesburg residential building. Many other residents were also from Malawi.  <a href="https://nyti.ms/3EnJhjY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Grim Struggle Begins to Identify Victims in South African Fire</h3>
 <sub>By Isabella Kwai</sub>
-<p>Families on Friday were trying to identify relatives caught in the blaze, a day after it consumed a sprawling settlement in one of the deadliest residential fires in South African history.  <a href="https://nyti.ms/3Z1XT1C"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Families on Friday were trying to identify relatives caught in one of the deadliest residential fires in South African history, which health officials said would require DNA testing.  <a href="https://nyti.ms/3Z1XT1C"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -116,23 +112,29 @@ There is a lot going on in the world right now. In Ukraine, there is an ongoing 
 <p>The blaze, one of the worst residential ones in South Africa’s history, occurred in a building that officials and locals say had become an overcrowded death trap for the hundreds who lived there.  <a href="https://nyti.ms/3PlEVQs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 1, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Conferences Are Changing. The Sport Is, Too.</h3>
+<sub>By Billy Witz</sub>
+<p>This season is the last before new-look leagues and an expanded playoff will make the sport feel much different. And possible federal mandates requiring revenue sharing could bring structural change.  <a href="https://nyti.ms/3qUqzgG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Tourists Were Told to Avoid Maui. Many Workers Want Them Back.</h3>
+<sub>By Nicholas Bogel-Burroughs</sub>
+<p>A plunge in tourism after a disastrous fire has already crippled the economy in Maui. Now, some locals who wanted visitors to stay away are urging them back.  <a href="https://nyti.ms/3qUNuII"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Typhoon Saola Hits Hong Kong</h3>
+<sub>By Mike Ives</sub>
+<p>The tropical cyclone was expected to make landfall late Friday or early Saturday. Another typhoon was forecast to hit China’s east coast on Sunday.  <a href="https://nyti.ms/44EjsXC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>How the Dream of Building a California City From Scratch Got Started</h3>
 <sub>By Erin Griffith and Conor Dougherty</sub>
 <p>A former Goldman Sachs trader moved to the Bay Area to make it in tech. He ended up buying rural land with money from some of Silicon Valley’s wealthiest people.  <a href="https://nyti.ms/3PmhRBk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>The Forgotten Teenage Trailblazer of Women’s Tennis</h3>
-<sub>By Ginia Bellafante</sub>
-<p>Before Billie Jean King beat Bobby Riggs in the “Battle of the Sexes,” Phyllis Graber wanted to play tennis on a boys’ team. The rules said she couldn’t.  <a href="https://nyti.ms/3sJ8Rgo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>The One-Handed Backhand Is on the Way to Extinction</h3>
-<sub>By Matthew Futterman</sub>
-<p>How can something so beautiful to watch, a stroke so etched into tennis history, be so exploitable — and why have a dwindling handful of players remained loyal to it?  <a href="https://nyti.ms/3qVk9xL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
