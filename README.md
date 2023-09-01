@@ -60,14 +60,10 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, August 31, Central Standard Time</p>
 <p>
-There have been some interesting reports in the US recently. Justice Thomas and Justice Alito both requested extensions for their annual financial forms. A lieutenant in the Proud Boys group was sentenced to 17 years in prison for involvement in the Capitol attack, and President Trump pleaded not guilty in a Georgia case. Meanwhile, Senate Majority Leader Mitch McConnell released a letter stating that he had been medically cleared to work after an episode of freezing up at a news conference, igniting speculation over his future in the Senate. In other news, authorities are investigating what caused a deadly fire in an apartment building in Johannesburg, South Africa. In the UK, Ben Wallace – an ex-soldier – has stepped down as Defense Secretary and been replaced by Grant Shapps, who is known more for his political skills rather than military experience. Lastly, tropical storms Jose and Idalia are quickly moving around Atlantic, with Jose being expected to be absorbed by Hurricane Franklin. On a lighter note, an interesting article recently came out about Dungeons &amp; Dragons players on death row in Texas – showing how this fantasy game has become a lifeline to imaginations and companionship for these men.</p>
+It&#39;s been an eventful few weeks across the world. In the US, things have kicked off with a sentencing of 17 years to a leader of the Proud Boys group in connection with last year&#39;s Capitol attack, and former President Trump entering a plea of not guilty in a Georgia election interference case. The US Senate also had a bit of news with an update from Senator McConnell about his health and rumors of preparing possible successors should he have to retire. 
+
+In terms of migration issues, US leaders have been pressuring President Biden to offer more help to those crossing the border into New York, as well as increasing attention and concerns over work permits for immigrants. On an international scale, there has been some progress on the Ukraine-Russia conflict with Ukrainian forces recapturing parts of their territories, though there are still formidable obstacles ahead. Lastly, news out of South Africa just recently brings attention to an apartment building fire in Johannesburg that has been considered a &quot;firetrap&quot; due to many safety issues and lack of affordable housing.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Justice Thomas Reports Private Trips With Harlan Crow</h3>
-<sub>By Abbie VanSickle</sub>
-<p>Justices Clarence Thomas and Samuel A. Alito Jr. had asked for extensions on their annual forms that show travel, gifts and other financial information.  <a href="https://nyti.ms/45C1dDh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Proud Boys Lieutenant Sentenced to 17 Years in Jan. 6 Sedition Case</h3>
 <sub>By Alan Feuer and Zach Montague</sub>
@@ -82,7 +78,7 @@ There have been some interesting reports in the US recently. Justice Thomas and 
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>McConnell Releases Letter Declaring Him ‘Medically Clear’ to Work After Episode</h3>
-<sub>By Annie Karni</sub>
+<sub>By Annie Karni and Benjamin Mueller</sub>
 <p>The brief statement came from the attending physician of Congress, who said he had reached the conclusion after consulting with the top Republican’s doctors and didn’t say he had examined the senator.  <a href="https://nyti.ms/3EkqPsj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
 <hr/>
@@ -99,39 +95,45 @@ There have been some interesting reports in the US recently. Justice Thomas and 
 <sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>With a Village Recaptured, Ukraine Takes the Next Step in Its Counteroffensive</h3>
+<sub>By Marc Santora, Constant Méheut and Eric Schmitt</sub>
+<p>After penetrating Russian defenses to retake the village of Robotyne, Ukrainian forces have pushed the fight a few miles east, but formidable obstacles lie ahead.  <a href="https://nyti.ms/3r3rYkV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Justice Thomas Reports Private Trips With Harlan Crow</h3>
+<sub>By Abbie VanSickle</sub>
+<p>Justices Clarence Thomas and Samuel A. Alito Jr. had asked for extensions on their annual forms that show travel, gifts and other financial information.  <a href="https://nyti.ms/45C1dDh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>After Fox News, Geraldo Rivera Boats Into the Sunset (via Cleveland)</h3>
+<sub>By Katherine Rosman and Lanna Apisukh</sub>
+<p>At 80 years old, the longtime television personality found himself unexpectedly unemployed after more than half a century. So he steered his boat toward the Erie Canal, seeking one last adventure.  <a href="https://nyti.ms/3L1GkJv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>As Migrant Crisis Worsens, New York Leaders Pressure Biden to Do More</h3>
+<sub>By Jeffery C. Mays</sub>
+<p>A broad coalition of civic, business and union leaders has come together to apply pressure on Washington to help with the migrant crisis in New York.  <a href="https://nyti.ms/3EmQSPu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Why Biden Can’t Expedite Work Permits for Migrants</h3>
+<sub>By Eileen Sullivan</sub>
+<p>Congress is unwilling to change entrenched immigration laws. Other options face lawsuits or backlogs that could lead to even longer waits.  <a href="https://nyti.ms/3OVVSj7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>At Refuge for Desperate Families, Deadly Fire Was ‘Waiting to Happen’</h3>
+<sub>By John Eligon and Lynsey Chutel</sub>
+<p>Johannesburg, with a severe shortage of affordable housing, has hundreds of illegally occupied derelict buildings that officials and housing advocates say have become firetraps.  <a href="https://nyti.ms/3Pi2rxR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Why the Johannesburg Apartment Building Was a Firetrap</h3>
 <sub>By Lauren Leatherby, Lynsey Chutel and John Eligon</sub>
 <p>A visit and imagery of the five-story building show that it had a litany of major safety issues that made it vulnerable to a deadly fire.  <a href="https://nyti.ms/45A02UU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The building that burned was a feared checkpoint during apartheid.</h3>
-<sub>By Aaron Boxerman</sub>
-<p>  <a href="https://nyti.ms/3qT7JGz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>For U.K. Defense Secretary: Exit the Ex-Soldier. Enter the Political Operative.</h3>
-<sub>By Mark Landler</sub>
-<p>Ben Wallace, a former soldier, championed the Ukrainians in their war against Russia. His successor, Grant Shapps, is best known for his political skills.  <a href="https://nyti.ms/3ElRZiI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Tracking Post-tropical Cyclone Idalia</h3>
-<sub>By William B. Davis, Madison Dong, Martín González Gómez, Judson Jones, John Keefe, Zach Levitt and Bea Malsky</sub>
-<p>See the path and estimated wind arrival times for Idalia.  <a href="https://nyti.ms/45jGDYd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Tropical Storm Jose Is Expected to Be Absorbed by Hurricane Franklin</h3>
-<sub>By Judson Jones</sub>
-<p>Jose formed on Thursday morning. It’s now the third named storm in the Atlantic, along with Idalia and Franklin.  <a href="https://nyti.ms/3szjNxc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>The Dungeons &amp; Dragons Players of Death Row</h3>
-<sub>By Keri Blakinger</sub>
-<p>For a group of men in a Texas prison, the fantasy game became a lifeline — to their imaginations, and to one another.  <a href="https://nyti.ms/488jdaf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
 <hr/>
 </ol>
