@@ -60,23 +60,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, September 1, Central Standard Time</p>
 <p>
-In the US, proud boys lieutenant Joseph Biggs has been sentenced to 17 years in prison for sedition in the Jan. 6 Capitol attack, and former President Trump has pleaded not guilty in a Georgia election interference case. In addition, Senate Republican leader Mitch McConnell has released a letter declaring him medically clear to work after a medical episode. Meanwhile, &#39;Three Johns&#39; are the top potential successors to McConnell should he be forced to resign for health reasons. 
-
-In international news, Ukraine is pushing ahead with their offensive against Russian forces after recapturing a village and new Russian high school textbooks have been released that seek to justify the war in Ukraine. In Africa, South Africa is dealing with the scandal and fallout from the British Museum as well as an illegally occupied derelict building firetrap that tragically claimed lives in Johannesburg. 
-
-In the art world, Investigators have seized a &#39;Marcus Aurelius&#39; statue from Cleveland Museum, Christie&#39;s cancelled a sale of jewelry connected to a Nazi-era fortune due to backlash from Jewish organizations, and former Goldman Sachs trader has apparently started a venture backed by some of Silicon Valley&#39;s wealthiest people to build a California city from scratch.</p>
+There is a lot going on in the world right now. In Ukraine, there is an ongoing fight that is making talks of negotiations more tense than ever. Meanwhile, Russia is implementing new high school textbooks that are designed to justify the war in Ukraine.  In the US, Mitch McConnell released a letter claiming to be medically clear to work after his health episode. In business, companies have been hit hard with empty office space due to the pandemic. Pope Francis visited a small flock in Mongolia to encourage faith but it could also suggest closer diplomatic ties with China and Russia. Additionally, South Africa recently experienced an intense fire which killed 74 people and Johannesburg residents are still trying to identify victims. On top of that, Silicon Valley billionaires have been investing in rural land in California in order to create a metropolitan city from scratch, while a teenage trailblazer of women’s tennis was once denied the ability to play on boys&#39; teams. And finally, the one-handed backhand technique has become nearly obsolete in tennis despite it being such an iconic stroke in sports history.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Proud Boys Lieutenant Sentenced to 17 Years in Jan. 6 Sedition Case</h3>
-<sub>By Alan Feuer and Zach Montague</sub>
-<p>The penalty for Joseph Biggs is the second longest in more than 1,100 criminal cases stemming from the Capitol attack. Another Proud Boys leader was sentenced to 15 years.  <a href="https://nyti.ms/44xzqCv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As Ukraine’s Fight Grinds On, Talk of Negotiations Becomes Nearly Taboo</h3>
+<sub>By Steven Erlanger</sub>
+<p>Discussion of a Plan B, should Ukraine fail to win a total victory, has become more fraught than ever, say those who have tried.  <a href="https://nyti.ms/3YWVcP9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump, Waiving Arraignment, Pleads Not Guilty in Georgia Case</h3>
-<sub>By Danny Hakim and Richard Fausset</sub>
-<p>The 19 defendants in the election interference case are sparring with prosecutors over when a trial might start, and whether it will be in state or federal court.  <a href="https://nyti.ms/3YXcqf6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>New Russian High School Textbooks Seek to Justify War in Ukraine</h3>
+<sub>By Valeriya Safronova</sub>
+<p>The textbooks, which cover Russian history from 1945 to present, also reimagine the brutality of Joseph Stalin’s policies.  <a href="https://nyti.ms/489X9Mr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>McConnell Releases Letter Declaring Him ‘Medically Clear’ to Work After Episode</h3>
@@ -90,41 +86,35 @@ In the art world, Investigators have seized a &#39;Marcus Aurelius&#39; statue f
 <p>The men are considered the leading candidates to replace the top Senate Republican, should he be forced to step aside for health reasons.  <a href="https://nyti.ms/3R5wLNo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>With a Village Recaptured, Ukraine Takes the Next Step in Its Counteroffensive</h3>
-<sub>By Marc Santora, Constant Méheut and Eric Schmitt</sub>
-<p>After penetrating Russian defenses to retake the village of Robotyne, Ukrainian forces have pushed the fight a few miles east, but formidable obstacles lie ahead.  <a href="https://nyti.ms/3r3rYkV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>New Russian High School Textbooks Seek to Justify War in Ukraine</h3>
-<sub>By Valeriya Safronova</sub>
-<p>The textbooks, which cover Russian history from 1945 to present, also reimagine the brutality of Joseph Stalin’s policies.  <a href="https://nyti.ms/489X9Mr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>All That Empty Office Space Belongs to Someone</h3>
+<sub>By Emma Goldberg and Haruka Sakaguchi</sub>
+<p>If the nearly 100 million square feet of office real estate stays empty, who loses?  <a href="https://nyti.ms/45wT82R"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Justice Thomas Reports Private Trips With Harlan Crow</h3>
-<sub>By Abbie VanSickle</sub>
-<p>Justices Clarence Thomas and Samuel A. Alito Jr. had asked for extensions on their annual forms that show travel, gifts and other financial information.  <a href="https://nyti.ms/45C1dDh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Visit to Tiny Flock in Mongolia, Pope Has an Eye on Russia and China</h3>
+<sub>By Jason Horowitz</sub>
+<p>The pontiff arrived Friday on a trip that the Vatican said was meant to encourage the fewer than 1,500 Catholics there. But it also brings him close to two great powers that have vexed him.  <a href="https://nyti.ms/3Z1jcAL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>A Scandal and Its Fallout Compound the British Museum’s Woes</h3>
-<sub>By Alex Marshall</sub>
-<p>After it fired a worker for theft and its director stepped down, the museum faces renewed calls to give back contested objects and an uphill battle to raise funds for refurbishment.  <a href="https://nyti.ms/3PlngbB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>U.S. Officials Are Streaming to China. Will Beijing Return the Favor?</h3>
+<sub>By David Pierson, Keith Bradsher and Olivia Wang</sub>
+<p>Such visits could help convey Beijing’s interest in stabilizing ties with Washington. But China has been noncommittal.  <a href="https://nyti.ms/3Em89IL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Investigators Seize ‘Marcus Aurelius’ Statue From Cleveland Museum</h3>
-<sub>By Tom Mashberg</sub>
-<p>The Manhattan district attorney’s office said the headless bronze, valued at $20 million, is a depiction of the Roman emperor and was looted from Turkey.  <a href="https://nyti.ms/44BltDL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Grim Struggle Begins to Identify Victims in South African Fire</h3>
+<sub>By Isabella Kwai</sub>
+<p>Families on Friday were trying to identify relatives caught in the blaze, a day after it consumed a sprawling settlement in one of the deadliest residential fires in South African history.  <a href="https://nyti.ms/3Z1XT1C"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Christie’s Cancels Sale of Jewelry Connected to Nazi-Era Fortune</h3>
-<sub>By Zachary Small</sub>
-<p>The decision follows a backlash from Jewish organizations after the auction house generated $202 million in a spring sale from the jewelry collection of Heidi Horten.  <a href="https://nyti.ms/3szSN0F"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>What to Know About the Fire That Killed at Least 74 in Johannesburg</h3>
+<sub>By Aaron Boxerman</sub>
+<p>The blaze, one of the worst residential ones in South Africa’s history, occurred in a building that officials and locals say had become an overcrowded death trap for the hundreds who lived there.  <a href="https://nyti.ms/3PlEVQs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>How the Dream of Building a California City From Scratch Got Started</h3>
@@ -132,11 +122,17 @@ In the art world, Investigators have seized a &#39;Marcus Aurelius&#39; statue f
 <p>A former Goldman Sachs trader moved to the Bay Area to make it in tech. He ended up buying rural land with money from some of Silicon Valley’s wealthiest people.  <a href="https://nyti.ms/3PmhRBk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>At Refuge for Desperate Families, Deadly Fire Was ‘Waiting to Happen’</h3>
-<sub>By John Eligon and Lynsey Chutel</sub>
-<p>Johannesburg, with a severe shortage of affordable housing, has hundreds of illegally occupied derelict buildings that officials and housing advocates say have become firetraps.  <a href="https://nyti.ms/3Pi2rxR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>The Forgotten Teenage Trailblazer of Women’s Tennis</h3>
+<sub>By Ginia Bellafante</sub>
+<p>Before Billie Jean King beat Bobby Riggs in the “Battle of the Sexes,” Phyllis Graber wanted to play tennis on a boys’ team. The rules said she couldn’t.  <a href="https://nyti.ms/3sJ8Rgo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>The One-Handed Backhand Is on the Way to Extinction</h3>
+<sub>By Matthew Futterman</sub>
+<p>How can something so beautiful to watch, a stroke so etched into tennis history, be so exploitable — and why have a dwindling handful of players remained loyal to it?  <a href="https://nyti.ms/3qVk9xL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
