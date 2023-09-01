@@ -60,7 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, September 1, Central Standard Time</p>
 <p>
-Right now, there are a lot of events happening in the world. In the US, there has been some legal action taken regarding the attack on the Capitol on January 6th. Two Proud Boys leaders have been sentenced to long jail sentences as a result of their involvement in the attack. There have also been legal developments in President Trump&#39;s Georgia case that is still ongoing and Senator Mitch McConnell&#39;s health status is being monitored more closely after an episode. On an international level, Ukraine is engaging in a military counteroffensive against Russia and Pope Francis is making a visit to Mongolia out of solidarity for its tiny catholic population, though it is seen as a symbol of defiance towards Russia and China. Finally, there are also some cultural challenges occurring in Britain with calls to return objects from the British Museum and ethical questions about a Christie&#39;s auction house featuring Nazi-era jewelry.</p>
+In the US, proud boys lieutenant Joseph Biggs has been sentenced to 17 years in prison for sedition in the Jan. 6 Capitol attack, and former President Trump has pleaded not guilty in a Georgia election interference case. In addition, Senate Republican leader Mitch McConnell has released a letter declaring him medically clear to work after a medical episode. Meanwhile, &#39;Three Johns&#39; are the top potential successors to McConnell should he be forced to resign for health reasons. 
+
+In international news, Ukraine is pushing ahead with their offensive against Russian forces after recapturing a village and new Russian high school textbooks have been released that seek to justify the war in Ukraine. In Africa, South Africa is dealing with the scandal and fallout from the British Museum as well as an illegally occupied derelict building firetrap that tragically claimed lives in Johannesburg. 
+
+In the art world, Investigators have seized a &#39;Marcus Aurelius&#39; statue from Cleveland Museum, Christie&#39;s cancelled a sale of jewelry connected to a Nazi-era fortune due to backlash from Jewish organizations, and former Goldman Sachs trader has apparently started a venture backed by some of Silicon Valley&#39;s wealthiest people to build a California city from scratch.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Proud Boys Lieutenant Sentenced to 17 Years in Jan. 6 Sedition Case</h3>
@@ -91,6 +95,12 @@ Right now, there are a lot of events happening in the world. In the US, there ha
 <sub>By Marc Santora, Constant Méheut and Eric Schmitt</sub>
 <p>After penetrating Russian defenses to retake the village of Robotyne, Ukrainian forces have pushed the fight a few miles east, but formidable obstacles lie ahead.  <a href="https://nyti.ms/3r3rYkV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>New Russian High School Textbooks Seek to Justify War in Ukraine</h3>
+<sub>By Valeriya Safronova</sub>
+<p>The textbooks, which cover Russian history from 1945 to present, also reimagine the brutality of Joseph Stalin’s policies.  <a href="https://nyti.ms/489X9Mr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Justice Thomas Reports Private Trips With Harlan Crow</h3>
@@ -126,12 +136,6 @@ Right now, there are a lot of events happening in the world. In the US, there ha
 <h3>At Refuge for Desperate Families, Deadly Fire Was ‘Waiting to Happen’</h3>
 <sub>By John Eligon and Lynsey Chutel</sub>
 <p>Johannesburg, with a severe shortage of affordable housing, has hundreds of illegally occupied derelict buildings that officials and housing advocates say have become firetraps.  <a href="https://nyti.ms/3Pi2rxR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Visit to Tiny Flock in Mongolia, Pope Has an Eye on Russia and China</h3>
-<sub>By Jason Horowitz</sub>
-<p>The pontiff arrived Friday on a trip that the Vatican said was meant to encourage the fewer than 1,500 Catholics there. But it also brings him close to two great powers that have vexed him.  <a href="https://nyti.ms/3Z1jcAL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
 <hr/>
 </ol>
