@@ -60,9 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, August 31, Central Standard Time</p>
 <p>
-It&#39;s been an eventful few weeks across the world. In the US, things have kicked off with a sentencing of 17 years to a leader of the Proud Boys group in connection with last year&#39;s Capitol attack, and former President Trump entering a plea of not guilty in a Georgia election interference case. The US Senate also had a bit of news with an update from Senator McConnell about his health and rumors of preparing possible successors should he have to retire. 
+In the U.S., two Proud Boys leaders have been sentenced to a combined 32 years in prison for their roles in the Capitol attack earlier this year. Donald Trump pleaded not guilty in a case in Georgia, while Mitch McConnell released a letter claiming he is &quot;medically clear&quot; to work after a recent episode. Meanwhile, some prominent Republicans are being discussed as potential successors of McConnell should he step down due to health reasons. 
 
-In terms of migration issues, US leaders have been pressuring President Biden to offer more help to those crossing the border into New York, as well as increasing attention and concerns over work permits for immigrants. On an international scale, there has been some progress on the Ukraine-Russia conflict with Ukrainian forces recapturing parts of their territories, though there are still formidable obstacles ahead. Lastly, news out of South Africa just recently brings attention to an apartment building fire in Johannesburg that has been considered a &quot;firetrap&quot; due to many safety issues and lack of affordable housing.</p>
+On the international front, Ukrainian forces have advanced in a counteroffensive against Russian defenses to retake a village and are pushing forward. Pope Francis has arrived in Mongolia, which lies near both Russia and China, on a visit meant to encourage the local Catholic population there. In South Africa, Johannesburg has hundreds of derelict buildings that are illegally occupied, which have become firetraps due to the severe shortage of affordable housing.
+
+Meanwhile, back in the U.S., Floridians are facing uncertain futures as Hurricane Idalia wrecks boats and turns pristine waters dark and dirty. And there&#39;s also news of a super PAC affiliated with Governor DeSantis reaching out to donors for 50 million dollars, after strategist for the PAC made disparaging remarks about rivals before an upcoming G.O.P. debate.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Proud Boys Lieutenant Sentenced to 17 Years in Jan. 6 Sedition Case</h3>
@@ -88,12 +90,6 @@ In terms of migration issues, US leaders have been pressuring President Biden to
 <p>The men are considered the leading candidates to replace the top Senate Republican, should he be forced to step aside for health reasons.  <a href="https://nyti.ms/3R5wLNo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What Happens if Mitch McConnell Retires Before His Senate Term Ends?</h3>
-<sub>By Neil Vigdor</sub>
-<p>The longtime Republican leader froze up during a news conference on Wednesday in Kentucky. The second such episode in recent weeks, it stirred speculation about his future in the Senate.  <a href="https://nyti.ms/45RLvDH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>With a Village Recaptured, Ukraine Takes the Next Step in Its Counteroffensive</h3>
 <sub>By Marc Santora, Constant Méheut and Eric Schmitt</sub>
@@ -112,16 +108,10 @@ In terms of migration issues, US leaders have been pressuring President Biden to
 <p>At 80 years old, the longtime television personality found himself unexpectedly unemployed after more than half a century. So he steered his boat toward the Erie Canal, seeking one last adventure.  <a href="https://nyti.ms/3L1GkJv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>As Migrant Crisis Worsens, New York Leaders Pressure Biden to Do More</h3>
-<sub>By Jeffery C. Mays</sub>
-<p>A broad coalition of civic, business and union leaders has come together to apply pressure on Washington to help with the migrant crisis in New York.  <a href="https://nyti.ms/3EmQSPu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Why Biden Can’t Expedite Work Permits for Migrants</h3>
-<sub>By Eileen Sullivan</sub>
-<p>Congress is unwilling to change entrenched immigration laws. Other options face lawsuits or backlogs that could lead to even longer waits.  <a href="https://nyti.ms/3OVVSj7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>How the Dream of Building a California City From Scratch Got Started</h3>
+<sub>By Erin Griffith and Conor Dougherty</sub>
+<p>A former Goldman Sachs trader moved to the Bay Area to make it in tech. He ended up buying rural land with money from some of Silicon Valley’s wealthiest people.  <a href="https://nyti.ms/3PmhRBk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -131,9 +121,21 @@ In terms of migration issues, US leaders have been pressuring President Biden to
 <sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Why the Johannesburg Apartment Building Was a Firetrap</h3>
-<sub>By Lauren Leatherby, Lynsey Chutel and John Eligon</sub>
-<p>A visit and imagery of the five-story building show that it had a litany of major safety issues that made it vulnerable to a deadly fire.  <a href="https://nyti.ms/45A02UU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>In Visit to Tiny Flock in Mongolia, Pope Has an Eye on Russia and China</h3>
+<sub>By Jason Horowitz</sub>
+<p>The pontiff arrived Friday on a trip that the Vatican said was meant to encourage the fewer than 1,500 Catholics there. But it also brings him close to two great powers that have vexed him.  <a href="https://nyti.ms/3Z1jcAL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>After the Storm, a Cherished Local Fishing Industry Feels More Fragile</h3>
+<sub>By Emily Cochrane, Patricia Mazzei and Jacey Fortin</sub>
+<p>The fate of the fishing industry in Florida’s Big Bend region felt uncertain after Hurricane Idalia wrecked boats and turned pristine waters dark and dirty.  <a href="https://nyti.ms/3EmybLQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>DeSantis Super PAC’s Urgent Plea to Donors: ‘We Need 50 Million Bucks’</h3>
+<sub>By Jonathan Swan and Maggie Haberman</sub>
+<p>In an audio recording made just before the first G.O.P. debate, the super PAC’s chief strategist disparaged rivals and described an expensive attempt to thwart Donald Trump in Iowa.  <a href="https://nyti.ms/47TisBE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
 <hr/>
 </ol>
