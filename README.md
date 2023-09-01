@@ -58,13 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Thursday, August 31, Central Standard Time</p>
+<p>It is Friday, September 1, Central Standard Time</p>
 <p>
-In the U.S., two Proud Boys leaders have been sentenced to a combined 32 years in prison for their roles in the Capitol attack earlier this year. Donald Trump pleaded not guilty in a case in Georgia, while Mitch McConnell released a letter claiming he is &quot;medically clear&quot; to work after a recent episode. Meanwhile, some prominent Republicans are being discussed as potential successors of McConnell should he step down due to health reasons. 
-
-On the international front, Ukrainian forces have advanced in a counteroffensive against Russian defenses to retake a village and are pushing forward. Pope Francis has arrived in Mongolia, which lies near both Russia and China, on a visit meant to encourage the local Catholic population there. In South Africa, Johannesburg has hundreds of derelict buildings that are illegally occupied, which have become firetraps due to the severe shortage of affordable housing.
-
-Meanwhile, back in the U.S., Floridians are facing uncertain futures as Hurricane Idalia wrecks boats and turns pristine waters dark and dirty. And there&#39;s also news of a super PAC affiliated with Governor DeSantis reaching out to donors for 50 million dollars, after strategist for the PAC made disparaging remarks about rivals before an upcoming G.O.P. debate.</p>
+Right now, there are a lot of events happening in the world. In the US, there has been some legal action taken regarding the attack on the Capitol on January 6th. Two Proud Boys leaders have been sentenced to long jail sentences as a result of their involvement in the attack. There have also been legal developments in President Trump&#39;s Georgia case that is still ongoing and Senator Mitch McConnell&#39;s health status is being monitored more closely after an episode. On an international level, Ukraine is engaging in a military counteroffensive against Russia and Pope Francis is making a visit to Mongolia out of solidarity for its tiny catholic population, though it is seen as a symbol of defiance towards Russia and China. Finally, there are also some cultural challenges occurring in Britain with calls to return objects from the British Museum and ethical questions about a Christie&#39;s auction house featuring Nazi-era jewelry.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Proud Boys Lieutenant Sentenced to 17 Years in Jan. 6 Sedition Case</h3>
@@ -102,10 +98,22 @@ Meanwhile, back in the U.S., Floridians are facing uncertain futures as Hurrican
 <p>Justices Clarence Thomas and Samuel A. Alito Jr. had asked for extensions on their annual forms that show travel, gifts and other financial information.  <a href="https://nyti.ms/45C1dDh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>After Fox News, Geraldo Rivera Boats Into the Sunset (via Cleveland)</h3>
-<sub>By Katherine Rosman and Lanna Apisukh</sub>
-<p>At 80 years old, the longtime television personality found himself unexpectedly unemployed after more than half a century. So he steered his boat toward the Erie Canal, seeking one last adventure.  <a href="https://nyti.ms/3L1GkJv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>A Scandal and Its Fallout Compound the British Museum’s Woes</h3>
+<sub>By Alex Marshall</sub>
+<p>After it fired a worker for theft and its director stepped down, the museum faces renewed calls to give back contested objects and an uphill battle to raise funds for refurbishment.  <a href="https://nyti.ms/3PlngbB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Investigators Seize ‘Marcus Aurelius’ Statue From Cleveland Museum</h3>
+<sub>By Tom Mashberg</sub>
+<p>The Manhattan district attorney’s office said the headless bronze, valued at $20 million, is a depiction of the Roman emperor and was looted from Turkey.  <a href="https://nyti.ms/44BltDL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Christie’s Cancels Sale of Jewelry Connected to Nazi-Era Fortune</h3>
+<sub>By Zachary Small</sub>
+<p>The decision follows a backlash from Jewish organizations after the auction house generated $202 million in a spring sale from the jewelry collection of Heidi Horten.  <a href="https://nyti.ms/3szSN0F"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -124,18 +132,6 @@ Meanwhile, back in the U.S., Floridians are facing uncertain futures as Hurrican
 <h3>In Visit to Tiny Flock in Mongolia, Pope Has an Eye on Russia and China</h3>
 <sub>By Jason Horowitz</sub>
 <p>The pontiff arrived Friday on a trip that the Vatican said was meant to encourage the fewer than 1,500 Catholics there. But it also brings him close to two great powers that have vexed him.  <a href="https://nyti.ms/3Z1jcAL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>After the Storm, a Cherished Local Fishing Industry Feels More Fragile</h3>
-<sub>By Emily Cochrane, Patricia Mazzei and Jacey Fortin</sub>
-<p>The fate of the fishing industry in Florida’s Big Bend region felt uncertain after Hurricane Idalia wrecked boats and turned pristine waters dark and dirty.  <a href="https://nyti.ms/3EmybLQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis Super PAC’s Urgent Plea to Donors: ‘We Need 50 Million Bucks’</h3>
-<sub>By Jonathan Swan and Maggie Haberman</sub>
-<p>In an audio recording made just before the first G.O.P. debate, the super PAC’s chief strategist disparaged rivals and described an expensive attempt to thwart Donald Trump in Iowa.  <a href="https://nyti.ms/47TisBE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
 <hr/>
 </ol>
