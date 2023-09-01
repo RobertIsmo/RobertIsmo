@@ -60,20 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, September 1, Central Standard Time</p>
 <p>
-There are a lot of things happening around the world right now. In Ukraine, a conflict is grinding on and negotiations to end it have become more tricky. Russian high school textbooks are trying to defend their role in the conflict. In the US, Senator McConnell released a letter declaring he is medically cleared after exhibiting small seizures in public. There is also an interesting story about a tech millionaire who is trying to build his own city from scratch. 
-
-In South Africa, at least 74 people died in a horrific residential fire earlier this week and families are struggling to identify their relatives. Also, tourists were recently asked to stay away from Maui but some locals are now encouraging them to come back due to the plunge in tourism and related economic issues. Finally, Typhoon Saola hit Hong Kong today and another typhoon is predicted to hit China&#39;s east coast tomorrow.</p>
+There are some interesting things happening in the world right now. Businesses are looking into how they can use Artificial Intelligence (A.I.) to help with college admissions essays, while federal officials have proposed new nursing home standards to help increase staffing in these places. In terms of international news, there is tension building up in Ukraine and Malawi over civil rights issues, while Maui is struggling with a huge drop in tourism due to a disasterous fire. And on a lighter note, we&#39;re finally starting to appreciate theimpact that Tammy Wynette has had on modern pop music.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Ukraine’s Fight Grinds On, Talk of Negotiations Becomes Nearly Taboo</h3>
-<sub>By Steven Erlanger</sub>
-<p>Discussion of a Plan B, should Ukraine fail to win a total victory, has become more fraught than ever, say those who have tried.  <a href="https://nyti.ms/3YWVcP9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Ban or Embrace? Colleges Wrestle With A.I.-Generated Admissions Essays.</h3>
+<sub>By Natasha Singer</sub>
+<p>A.I. chatbots could facilitate plagiarism on college applications or democratize student access to writing help. Or maybe both.  <a href="https://nyti.ms/44EBjxo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>New Russian High School Textbooks Seek to Justify War in Ukraine</h3>
-<sub>By Valeriya Safronova</sub>
-<p>The textbooks, which cover Russian history from 1945 to present, also reimagine the brutality of Joseph Stalin’s policies.  <a href="https://nyti.ms/489X9Mr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>We Used A.I. to Write Essays for Harvard, Yale and Princeton. Here’s How It Went.</h3>
+<sub>By Natasha Singer</sub>
+<p>A.I. chatbots can do a passable job of generating short essays. Whether their use on college applications is ethical is the subject of fierce debate.  <a href="https://nyti.ms/3R3OHIo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Applying to College? Here’s How A.I. Tools Might Hurt, or Help.</h3>
+<sub>By Natasha Singer</sub>
+<p>ChatGPT might change the application essay forever.  <a href="https://nyti.ms/3P210lD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
@@ -82,11 +86,11 @@ In South Africa, at least 74 people died in a horrific residential fire earlier 
 <p>Two episodes, where the Republican senator froze and did not respond to some questions, may be symptoms of a serious illness, according to neurologists not involved in his medical care.  <a href="https://nyti.ms/3qUBkPU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>McConnell Releases Letter Declaring Him ‘Medically Clear’ to Work After Episode</h3>
-<sub>By Annie Karni and Benjamin Mueller</sub>
-<p>The brief statement came from the attending physician of Congress, who said he had reached the conclusion after consulting with the top Republican’s doctors and didn’t say he had examined the senator.  <a href="https://nyti.ms/3EkqPsj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As Ukraine’s Fight Grinds On, Talk of Negotiations Becomes Nearly Taboo</h3>
+<sub>By Steven Erlanger</sub>
+<p>Discussion of a Plan B, should Ukraine fail to win a total victory, has become more fraught than ever, say those who have tried.  <a href="https://nyti.ms/3YWVcP9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>All That Empty Office Space Belongs to Someone</h3>
@@ -100,22 +104,22 @@ In South Africa, at least 74 people died in a horrific residential fire earlier 
 <p>Tom Mandala, a Malawi native, jumped from the fifth floor as a blaze raged in a Johannesburg residential building. Many other residents were also from Malawi.  <a href="https://nyti.ms/3EnJhjY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Grim Struggle Begins to Identify Victims in South African Fire</h3>
-<sub>By Isabella Kwai</sub>
-<p>Families on Friday were trying to identify relatives caught in one of the deadliest residential fires in South African history, which health officials said would require DNA testing.  <a href="https://nyti.ms/3Z1XT1C"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>What to Know About the Fire That Killed at Least 74 in Johannesburg</h3>
-<sub>By Aaron Boxerman</sub>
-<p>The blaze, one of the worst residential ones in South Africa’s history, occurred in a building that officials and locals say had become an overcrowded death trap for the hundreds who lived there.  <a href="https://nyti.ms/3PlEVQs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 1, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Conferences Are Changing. The Sport Is, Too.</h3>
 <sub>By Billy Witz</sub>
-<p>This season is the last before new-look leagues and an expanded playoff will make the sport feel much different. And possible federal mandates requiring revenue sharing could bring structural change.  <a href="https://nyti.ms/3qUqzgG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>This season is the last before new-look leagues and an expanded playoff will make the sport feel much different. More change came Friday with California, Stanford and Southern Methodist joining the Atlantic Coast Conference.  <a href="https://nyti.ms/3qUqzgG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Federal Officials Propose New Nursing Home Standards to Increase Staffing</h3>
+<sub>By Jordan Rau</sub>
+<p>Citing worker shortages, nursing home operators said the standard could not be met without additional funding for higher wages.  <a href="https://nyti.ms/3PlhFlF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Proud Boy Who Smashed Window at Capitol Sentenced to 10 Years</h3>
+<sub>By Alan Feuer and Zach Montague</sub>
+<p>Dominic Pezzola was the third member of the far-right group to be sentenced this week. Among the first of the rioters to enter the Capitol, he was convicted of six felonies but acquitted of sedition.  <a href="https://nyti.ms/3L14R1q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -124,17 +128,11 @@ In South Africa, at least 74 people died in a horrific residential fire earlier 
 <p>A plunge in tourism after a disastrous fire has already crippled the economy in Maui. Now, some locals who wanted visitors to stay away are urging them back.  <a href="https://nyti.ms/3qUNuII"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Typhoon Saola Hits Hong Kong</h3>
-<sub>By Mike Ives</sub>
-<p>The tropical cyclone was expected to make landfall late Friday or early Saturday. Another typhoon was forecast to hit China’s east coast on Sunday.  <a href="https://nyti.ms/44EjsXC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How the Dream of Building a California City From Scratch Got Started</h3>
-<sub>By Erin Griffith and Conor Dougherty</sub>
-<p>A former Goldman Sachs trader moved to the Bay Area to make it in tech. He ended up buying rural land with money from some of Silicon Valley’s wealthiest people.  <a href="https://nyti.ms/3PmhRBk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Are We Finally Ready to Take Tammy Wynette Seriously?</h3>
+<sub>By Lindsay Zoladz</sub>
+<p>The unsung godmother of so-called “sad girl” music — and one of pop’s most wrenching chroniclers of feminized pain — has long been misunderstood.  <a href="https://nyti.ms/45RYFAJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
