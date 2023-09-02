@@ -60,13 +60,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, September 2, Central Standard Time</p>
 <p>
-There are a lot of interesting things happening in the world right now. In Ukraine, small-scale assault groups have been tasked to slowly push forward in their counteroffensive. Unfortunately, folk singer Jimmy Buffett recently passed away, but his influence and millions live on with his Broadway show, &quot;Escape to Margaritaville&quot;. Two proud boys have been sentenced for their role in the Jan 6 sedition case, while President Biden won&#39;t be meeting with Florida Governor DeSantis during his tour of hurricane damage. The remnants of Idalia, a former hurricane, could become a tropical or subtropical storm and is approaching Bermuda. Meanwhile Senator McConnell may be experiencing small seizures, which medical doctors suggest may indicate a serious illness. On the international front, Clément Beaune of France is trying to revive the center-left and build the united Europe he cherishes. Back in America, colleges are debating the impact of AI-generated admission essays and Hollywood strikes are also having a broad effect on jobs related to TV and film production. Finally, Mohamed al-Fayed, an egyptian tycoon whose son died with Diana, passed away at 94. Lastly, there&#39;s concern that a hard right immigration stance may inject itself into the spending fight in Congress and potentially cause shutdowns again going forward.</p>
+There is currently a lot going on in the world. In Mexico, the police, military officers and others have been secretly working with a cartel that was responsible for kidnapping 43 students nine years ago. In the US, President Biden is struggling to make his policies on the economy popular among Americans and he is visiting Florida to survey the aftermath of Hurricane Idalia. Meanwhile, a small-scale counteroffensive is being waged in Ukraine against Russian forces and tensions between Russia and Ukraine have been simmering over an attack on a bridge that links occupied Crimea to Russia. Additionally, Montana has made headlines as one of its top elected officials prioritized banning TikTok, putting the state in the center of a geopolitical storm. Finally, at the US Open, granules of sand that shape court surfaces and the difficult process of becoming a ballperson are some of the events making news on the sports front.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Brutal Path Forward, Village by Village</h3>
-<sub>By Marc Santora and Tyler Hicks</sub>
-<p>As Ukraine pushes slowly forward in its counteroffensive, it’s relying heavily on the effort of hundreds of small-scale assault groups, each tasked with attacking a single trench, tree line or house.  <a href="https://nyti.ms/3PipXL3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 1, Central Standard Time</sub></sub>
+<h3>Why Did a Drug Gang Kill 43 Students? Text Messages Hold Clues.</h3>
+<sub>By Natalie Kitroeff and Ronen Bergman</sub>
+<p>The Mexican police, military officers and others secretly colluded with a cartel that kidnapped 43 students, a case unsolved after nearly a decade. Wiretaps show just how much the authorities helped the cartel behind the mass abduction, and what led to it.  <a href="https://nyti.ms/45M1p2I"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-espanol-blue" alt="">
+<h3>‘Es una revelación’: miles de mensajes de texto dan nuevas pistas del caso Ayotzinapa</h3>
+<sub>By Natalie Kitroeff and Ronen Bergman</sub>
+<p>Policías, militares y otros funcionarios se coludieron con un cártel que secuestró a 43 estudiantes en un caso que lleva casi una década sin resolverse. Unas intercepciones telefónicas muestran la ayuda que brindaron las autoridades al cártel en la desaparición masiva, y las circunstancias que llevaron a ella.  <a href="https://nyti.ms/3R68Oph"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>Jimmy Buffett, Roguish Bard of Island Escapism, Is Dead at 76</h3>
@@ -80,59 +86,53 @@ There are a lot of interesting things happening in the world right now. In Ukrai
 <p>Mr. Buffett, who has a new Broadway show, “Escape to Margaritaville,” built a half-billion-dollar empire on his laid-back beach brand. But he’s all business now.  <a href="https://nyti.ms/2BhOTN9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Two Proud Boys Sentenced in Jan. 6 Sedition Case</h3>
-<sub>By Alan Feuer and Zach Montague</sub>
-<p>Ethan Nordean, a ground commander of the far-right group, got 18 years, matching the longest Jan. 6 sentence so far. Dominic Pezzola, among the first rioters to enter the Capitol, received 10 years.  <a href="https://nyti.ms/3L14R1q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis and Biden Won’t Meet in Florida During Tour of Hurricane Damage</h3>
-<sub>By Nicholas Nehamas, Michael D. Shear and Jonathan Swan</sub>
-<p>Though the president said earlier on Friday that he would see the governor on Saturday, Mr. DeSantis’s office said there were no plans for a meeting.  <a href="https://nyti.ms/45WiwhZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Brutal Path Forward, Village by Village</h3>
+<sub>By Marc Santora and Tyler Hicks</sub>
+<p>As Ukraine pushes slowly forward in its counteroffensive, it’s relying heavily on the effort of hundreds of small-scale assault groups, each tasked with attacking a single trench, tree line or house.  <a href="https://nyti.ms/3PipXL3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>After Hitting the Southeast, Idalia to Strengthen and Approach Bermuda</h3>
-<sub>By Chris Stanford</sub>
-<p>The remnants of the former hurricane, now a post-tropical cyclone, were forecast to strengthen into a tropical or subtropical storm over the weekend.  <a href="https://nyti.ms/45DH1kr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Mitch McConnell May Be Experiencing Small Seizures, Doctors Suggest</h3>
-<sub>By Benjamin Mueller</sub>
-<p>Two episodes, where the Republican senator froze and did not respond to some questions, may be symptoms of a serious illness, according to neurologists not involved in his medical care.  <a href="https://nyti.ms/3qUBkPU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Europe’s ‘Tormented History’ Drives an Ambitious Macron Protégé</h3>
-<sub>By Roger Cohen</sub>
-<p>Clément Beaune, who had a double coming out as a gay man with Jewish roots, wants to be mayor of Paris, revive the center-left and build the united Europe he cherishes.  <a href="https://nyti.ms/3EkjFnR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Ban or Embrace? Colleges Wrestle With A.I.-Generated Admissions Essays.</h3>
-<sub>By Natasha Singer</sub>
-<p>A.I. chatbots could facilitate plagiarism on college applications or democratize student access to writing help. Or maybe both.  <a href="https://nyti.ms/44EBjxo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Impact of Hollywood Strikes on Jobs Goes Beyond the Strikers</h3>
-<sub>By Lydia DePillis</sub>
-<p>Walkouts by screenwriters and actors have meant less work in fields that cater to the TV and film industry.  <a href="https://nyti.ms/3R9bmTL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Mohamed al-Fayed, Tycoon Whose Son Died With Diana, Is Dead at 94</h3>
-<sub>By Robert D. McFadden</sub>
-<p>An Egyptian businessman, he built an empire of trophy properties in London, Paris and elsewhere, but it was all overshadowed by a fatal car crash that stunned the world.  <a href="https://nyti.ms/3Z2Vrba"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 1, Central Standard Time</sub></sub>
+<h3>Russia Says It Thwarted Another Ukrainian Attack on Crimea Bridge</h3>
+<sub>By Marc Santora</sub>
+<p>Russia’s Ministry of Defense said it had destroyed three sea drones targeting the Kerch Strait Bridge, a vital supply line for Moscow’s forces that links occupied Crimea to Russia.  <a href="https://nyti.ms/45Rpkxu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Hard Right Injects Immigration Into Spending Fight, Raising Shutdown Fears</h3>
-<sub>By Karoun Demirjian</sub>
-<p>The House Freedom Caucus has said it will not support any spending measure — even a stopgap bill to keep the government open while lawmakers negotiate — without a sweeping border crackdown.  <a href="https://nyti.ms/3YXDZoL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Biden Struggles to Make ‘Bidenomics’ a Plus, Not a Minus</h3>
+<sub>By Reid J. Epstein</sub>
+<p>Wages are up, inflation has slowed and the White House has a new slogan. Still, President Biden’s poor marks on the economy are making Democrats worried.  <a href="https://nyti.ms/3EqfpmZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Florida, Even a Hurricane Can’t Sweep Away Presidential Politics</h3>
+<sub>By Michael D. Shear and Nicholas Nehamas</sub>
+<p>President Biden said he would meet with Gov. Ron DeSantis of Florida during a visit to tour the aftermath of Hurricane Idalia. An aide to the governor said he had no such plans.  <a href="https://nyti.ms/45OzoXW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Ed Ruscha’s ‘Chocolate Room’ Still Tantalizes</h3>
+<sub>By Travis Diehl</sub>
+<p>“I was a little bit tired of making conventional pictures”: The artist on recreating his bittersweet installation, first seen in 1970, for the Museum of Modern Art.  <a href="https://nyti.ms/3Z2TXOu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Taxes, Drugs and … TikTok?</h3>
+<sub>By Sapna Maheshwari</sub>
+<p>How one of Montana’s top elected officials made banning the app a top priority, putting the state at the center of a geopolitical storm.  <a href="https://nyti.ms/3qTwqCX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Seen from Close-up: How the U.S. Open Dials in its Court Speed</h3>
+<sub>By Helmuth Rosales and Geoff Macdonald</sub>
+<p>The tiny granules of sand that make up the hardcourt surfaces at Flushing Meadows shape the outcome of every match.  <a href="https://nyti.ms/3sA3HDA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>The Hardest Ticket at the U.S. Open? Ball Person.</h3>
+<sub>By Talya Minsberg and Karsten Moran</sub>
+<p>The road to becoming a U.S. Open ball person is not for the faint of heart.  <a href="https://nyti.ms/3qZYapt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 2, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
