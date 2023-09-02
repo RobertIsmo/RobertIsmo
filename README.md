@@ -60,8 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, September 2, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In Mexico, authorities are secretly colluding with a cartel that is responsible for the kidnapping of 43 students – nearly a decade ago – and finally text messages have emerged offering clues as to who was behind it and why it happened. Meanwhile, music legend Jimmy Buffett has passed away at the age of 76 – leaving behind a legacy of island escapism and inspiring millions with his unforgettable songs. 
-On the political front, there&#39;s been news from both Ukraine and Russia, where the latter is saying it thwarted an attack from the former on Crimea Bridge. Over in the U.S., President Biden is struggling to make &#39;Bidenomics&#39; a plus instead of a minus – and he’s currently preparing to tour Florida after Hurricane Idalia tore through the state. Back home, taxes, drugs and even TikTok are gaining attention thanks to one Montana politician&#39;s efforts to make banning the app a priority. Finally, the U.S. Open has been drawing eyes all over as well – not only for its court speed thanks to its hardcourt surfaces but also for its ball persons, who have had to endure long and tough training processes in order to land their spot at this tennis event.</p>
+There are some serious issues going on right now in the world. In Mexico, 43 students were kidnapped by a drug gang over a decade ago, and authorities recently revealed that the police, military officers, and others had secretly worked with the cartel. President Biden is also in Florida touring the area after Hurricane Idalia hit, and getting criticism from Republicans. Elsewhere, Ukraine is working towards a counteroffensive backed by hundreds of assault groups, while Biden&#39;s &quot;Bidenomics&quot; policies are worrying Democrats. There&#39;s also drama going on with TikTok in Montana and at the U.S. Open in New York with their hardcourt surfaces. Lastly, Bill Richardson, a Champion of Americans Held Overseas passed away recently at 75 while Jimmy Buffett passed away at 76 after becoming a millionaire many times over through his popular songs.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Why Did a Drug Gang Kill 43 Students? Text Messages Hold Clues.</h3>
@@ -69,10 +68,10 @@ On the political front, there&#39;s been news from both Ukraine and Russia, wher
 <p>The Mexican police, military officers and others secretly colluded with a cartel that kidnapped 43 students, a case unsolved after nearly a decade. Wiretaps show just how much the authorities helped the cartel behind the mass abduction, and what led to it.  <a href="https://nyti.ms/45M1p2I"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-espanol-blue" alt="">
-<h3>‘Es una revelación’: miles de mensajes de texto dan nuevas pistas del caso Ayotzinapa</h3>
-<sub>By Natalie Kitroeff and Ronen Bergman</sub>
-<p>Policías, militares y otros funcionarios se coludieron con un cártel que secuestró a 43 estudiantes en un caso que lleva casi una década sin resolverse. Unas intercepciones telefónicas muestran la ayuda que brindaron las autoridades al cártel en la desaparición masiva, y las circunstancias que llevaron a ella.  <a href="https://nyti.ms/3R68Oph"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Bill Richardson, Champion of Americans Held Overseas, Dies at 75</h3>
+<sub>By Sam Roberts</sub>
+<p>After serving two terms as governor of New Mexico, he practiced quasi-public diplomacy, working to secure the release of people he believed were being wrongfully detained.  <a href="https://nyti.ms/47VGvzU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
@@ -93,12 +92,6 @@ On the political front, there&#39;s been news from both Ukraine and Russia, wher
 <p>As Ukraine pushes slowly forward in its counteroffensive, it’s relying heavily on the effort of hundreds of small-scale assault groups, each tasked with attacking a single trench, tree line or house.  <a href="https://nyti.ms/3PipXL3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia Says It Thwarted Another Ukrainian Attack on Crimea Bridge</h3>
-<sub>By Marc Santora</sub>
-<p>Russia’s Ministry of Defense said it had destroyed three sea drones targeting the Kerch Strait Bridge, a vital supply line for Moscow’s forces that links occupied Crimea to Russia.  <a href="https://nyti.ms/45Rpkxu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 2, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Struggles to Make ‘Bidenomics’ a Plus, Not a Minus</h3>
 <sub>By Reid J. Epstein</sub>
@@ -106,9 +99,15 @@ On the political front, there&#39;s been news from both Ukraine and Russia, wher
 <sub><sub>Saturday, September 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Team Isn’t Waiting for Impeachment to Go on the Offensive</h3>
+<sub>By Peter Baker</sub>
+<p>The White House has enlisted two dozen attorneys, legislative liaisons and others to craft strategies in the face of Republican threats to charge the president with high crimes and misdemeanors.  <a href="https://nyti.ms/3Z7V2Ve"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In Florida, Even a Hurricane Can’t Sweep Away Presidential Politics</h3>
 <sub>By Michael D. Shear and Nicholas Nehamas</sub>
-<p>President Biden said he would meet with Gov. Ron DeSantis of Florida during a visit to tour the aftermath of Hurricane Idalia. An aide to the governor said he had no such plans.  <a href="https://nyti.ms/45OzoXW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>President Biden arrived in Florida to tour an area hit by Hurricane Idalia, a day after an aide to Gov. Ron DeSantis said he had no plans to meet with the president.  <a href="https://nyti.ms/45OzoXW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
