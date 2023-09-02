@@ -60,20 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, September 1, Central Standard Time</p>
 <p>
-Right now, there&#39;s a lot going on in the world. US colleges are wrestling with the decision to embrace or reject the use of AI-generated essays in admissions applications. Meanwhile, two Proud Boys were recently sentenced for their involvement in the January 6 insurrection at the US Capitol. President Biden was supposed to meet with Florida Governor Ron DeSantis over hurricane damage but canceled at the last minute. Idalia, a former hurricane making its way through the Southeast, is picking up strength and expected to approach Bermuda over the weekend. In health news, neurologists have speculated that US Senate Majority Leader Mitch McConnell may be experiencing small seizures. On the business side of things, August job growth slowed dramatically compared to pre-pandemic levels despite worker shortages in nursing homes. Hollywood strikes have impacted those who work in the industry beyond just those on strike. Finally, we lost a prominent businessman and father whose son famously died alongside Princess Diana: Mohamed al-Fayed.</p>
+Right now, it seems like a lot of things are happening in the world. In the US, two members of the far-right group Proud Boys were recently sentenced to prison after being charged with sedition related to the Capitol riots in January. Meanwhile, President Biden is visiting Florida to look at hurricane damage, but won&#39;t be meeting the state&#39;s Governor DeSantis while there. In other news, a storm named Idalia is approaching Bermuda after hitting the Southeast region. 
+
+On the medical front, doctors have recently suggested that Senator Mitch McConnell may be dealing with small seizures. Meanwhile, colleges are debating whether or not to embrace A.I.-generated admissions essays in order to combat potential plagiarism issues. There have also been talks about increasing staffing numbers and providing better wages for nursing homes due to worker shortages in those locations. 
+
+Finally, in business news, US hiring settled into a lower gear in August and unemployment rose to 3.8%. The Hollywood strike is having an effect on jobs outside of those strikers as well and billionaire Mohamed al-Fayed has passed away aged 94. 
+
+In sports, Caroline Wozniacki continues to amaze by making comebacks during this year&#39;s US Open tennis tournament while Coco Gauff overcame some initial struggles and staged an impressive win early on in the tournament. But a few players have gotten sick which has left fans wondering why this was happening during the event.</p>
 <ol>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Ban or Embrace? Colleges Wrestle With A.I.-Generated Admissions Essays.</h3>
-<sub>By Natasha Singer</sub>
-<p>A.I. chatbots could facilitate plagiarism on college applications or democratize student access to writing help. Or maybe both.  <a href="https://nyti.ms/44EBjxo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>We Used A.I. to Write Essays for Harvard, Yale and Princeton. Here’s How It Went.</h3>
-<sub>By Natasha Singer</sub>
-<p>A.I. chatbots can do a passable job of generating short essays. Whether their use on college applications is ethical is the subject of fierce debate.  <a href="https://nyti.ms/3R3OHIo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 1, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Two Proud Boys Sentenced in Jan. 6 Sedition Case</h3>
 <sub>By Alan Feuer and Zach Montague</sub>
@@ -81,7 +75,7 @@ Right now, there&#39;s a lot going on in the world. US colleges are wrestling wi
 <sub><sub>Friday, September 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Won’t Meet DeSantis in Florida During Tour of Hurricane Damage</h3>
+<h3>DeSantis and Biden Won’t Meet in Florida During Tour of Hurricane Damage</h3>
 <sub>By Nicholas Nehamas, Michael D. Shear and Jonathan Swan</sub>
 <p>Though the president said earlier on Friday that he would see the governor on Saturday, Mr. DeSantis’s office said there were no plans for a meeting.  <a href="https://nyti.ms/45WiwhZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 1, Central Standard Time</sub></sub>
@@ -96,6 +90,12 @@ Right now, there&#39;s a lot going on in the world. US colleges are wrestling wi
 <h3>Mitch McConnell May Be Experiencing Small Seizures, Doctors Suggest</h3>
 <sub>By Benjamin Mueller</sub>
 <p>Two episodes, where the Republican senator froze and did not respond to some questions, may be symptoms of a serious illness, according to neurologists not involved in his medical care.  <a href="https://nyti.ms/3qUBkPU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Ban or Embrace? Colleges Wrestle With A.I.-Generated Admissions Essays.</h3>
+<sub>By Natasha Singer</sub>
+<p>A.I. chatbots could facilitate plagiarism on college applications or democratize student access to writing help. Or maybe both.  <a href="https://nyti.ms/44EBjxo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -114,6 +114,12 @@ Right now, there&#39;s a lot going on in the world. US colleges are wrestling wi
 <h3>Caroline Wozniacki Is Getting Very Good at Comebacks</h3>
 <sub>By Matthew Futterman</sub>
 <p>Wozniacki keeps finding magic at the U.S. Open, but she’s not the only player enjoying a revival. Stan Wawrinka and Elina Svitolina also can’t find the exits.  <a href="https://nyti.ms/3qVDCyq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Coco Gauff Wobbles, Then Steals the Show at the U.S. Open</h3>
+<sub>By Lola Fadulu</sub>
+<p>Gauff, the 19-year-old American star, made error after error in the first set but rallied for a 3-6, 6-3, 6-0 win to advance to the round of 16.  <a href="https://nyti.ms/3Ej7FmN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
