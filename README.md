@@ -58,16 +58,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Friday, September 1, Central Standard Time</p>
+<p>It is Saturday, September 2, Central Standard Time</p>
 <p>
-Right now, it seems like a lot of things are happening in the world. In the US, two members of the far-right group Proud Boys were recently sentenced to prison after being charged with sedition related to the Capitol riots in January. Meanwhile, President Biden is visiting Florida to look at hurricane damage, but won&#39;t be meeting the state&#39;s Governor DeSantis while there. In other news, a storm named Idalia is approaching Bermuda after hitting the Southeast region. 
+Right now there&#39;s a lot happening around the world. Ukraine is pushing forward in its counteroffensive and relying heavily on small attack groups operating in trenches and house-to-house battles. In the US, two Proud Boys have been sentenced after participating in the Capitol riots on January 6th. Meanwhile, President Biden and Florida Governor DeSantis will not meet each other this weekend during a tour of hurricane damage. The remnants of Idalia, a former hurricane, are predicted to strengthen and drift towards Bermuda. Senator Mitch McConnell may be having seizures according to neurologists, while Clément Beaune, a protégé of Emmanuel Macron with a double coming out as gay with Jewish roots is aiming to revive center-left politics in Europe. 
 
-On the medical front, doctors have recently suggested that Senator Mitch McConnell may be dealing with small seizures. Meanwhile, colleges are debating whether or not to embrace A.I.-generated admissions essays in order to combat potential plagiarism issues. There have also been talks about increasing staffing numbers and providing better wages for nursing homes due to worker shortages in those locations. 
-
-Finally, in business news, US hiring settled into a lower gear in August and unemployment rose to 3.8%. The Hollywood strike is having an effect on jobs outside of those strikers as well and billionaire Mohamed al-Fayed has passed away aged 94. 
-
-In sports, Caroline Wozniacki continues to amaze by making comebacks during this year&#39;s US Open tennis tournament while Coco Gauff overcame some initial struggles and staged an impressive win early on in the tournament. But a few players have gotten sick which has left fans wondering why this was happening during the event.</p>
+In business news, college admissions are reworking how they view A.I.-generated essays. Hollywood strikes have caused decreased work for many in fields related to the TV&#x2F;Film industry. On a lighter note, Tycon Mohamed al-Fayed passed away at 94. Finally, on immigration front the hard right is causing chaos attempting to tie immigration laws to a spending measure, leading fears of another possible government shutdown. Southern America is also struggling with an unprecedented number of families crossing the borders illegally last August - an issue that has divided Maui locals between wanting tourists back or keeping them away from the islands.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Brutal Path Forward, Village by Village</h3>
+<sub>By Marc Santora and Tyler Hicks</sub>
+<p>As Ukraine pushes slowly forward in its counteroffensive, it’s relying heavily on the effort of hundreds of small-scale assault groups, each tasked with attacking a single trench, tree line or house.  <a href="https://nyti.ms/3PipXL3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 1, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Two Proud Boys Sentenced in Jan. 6 Sedition Case</h3>
 <sub>By Alan Feuer and Zach Montague</sub>
@@ -92,16 +94,16 @@ In sports, Caroline Wozniacki continues to amaze by making comebacks during this
 <p>Two episodes, where the Republican senator froze and did not respond to some questions, may be symptoms of a serious illness, according to neurologists not involved in his medical care.  <a href="https://nyti.ms/3qUBkPU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 1, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Europe’s ‘Tormented History’ Drives an Ambitious Macron Protégé</h3>
+<sub>By Roger Cohen</sub>
+<p>Clément Beaune, who had a double coming out as a gay man with Jewish roots, wants to be mayor of Paris, revive the center-left and build the united Europe he cherishes.  <a href="https://nyti.ms/3EkjFnR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 1, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Ban or Embrace? Colleges Wrestle With A.I.-Generated Admissions Essays.</h3>
 <sub>By Natasha Singer</sub>
 <p>A.I. chatbots could facilitate plagiarism on college applications or democratize student access to writing help. Or maybe both.  <a href="https://nyti.ms/44EBjxo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.S. Hiring Settles Into a Lower Gear</h3>
-<sub>By Lydia DePillis</sub>
-<p>Employers added 187,000 jobs in August and unemployment rose to 3.8 percent as the economy continued to lose momentum built up after pandemic lockdowns.  <a href="https://nyti.ms/3EF05Df"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -110,34 +112,28 @@ In sports, Caroline Wozniacki continues to amaze by making comebacks during this
 <p>Walkouts by screenwriters and actors have meant less work in fields that cater to the TV and film industry.  <a href="https://nyti.ms/3R9bmTL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Caroline Wozniacki Is Getting Very Good at Comebacks</h3>
-<sub>By Matthew Futterman</sub>
-<p>Wozniacki keeps finding magic at the U.S. Open, but she’s not the only player enjoying a revival. Stan Wawrinka and Elina Svitolina also can’t find the exits.  <a href="https://nyti.ms/3qVDCyq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Coco Gauff Wobbles, Then Steals the Show at the U.S. Open</h3>
-<sub>By Lola Fadulu</sub>
-<p>Gauff, the 19-year-old American star, made error after error in the first set but rallied for a 3-6, 6-3, 6-0 win to advance to the round of 16.  <a href="https://nyti.ms/3Ej7FmN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Why Are So Many Players Getting Sick at the U.S. Open?</h3>
-<sub>By Jesus Jiménez</sub>
-<p>Ons Jabeur has won two rounds despite having flu symptoms, but Dominic Thiem was forced to retire from his second-round match with an illness.  <a href="https://nyti.ms/3Z3hAGI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 1, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Mohamed al-Fayed, Tycoon Whose Son Died With Diana, Is Dead at 94</h3>
 <sub>By Robert D. McFadden</sub>
-<p>An Egyptian businessman, he built an empire of trophy properties in London, Paris and elsewhere, but it was overshadowed by a fatal car crash that stunned the world.  <a href="https://nyti.ms/3Z2Vrba"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>An Egyptian businessman, he built an empire of trophy properties in London, Paris and elsewhere, but it was all overshadowed by a fatal car crash that stunned the world.  <a href="https://nyti.ms/3Z2Vrba"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Federal Officials Propose New Nursing Home Standards to Increase Staffing</h3>
-<sub>By Jordan Rau</sub>
-<p>Citing worker shortages, nursing home operators said the standard could not be met without additional funding for higher wages.  <a href="https://nyti.ms/3PlhFlF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Hard Right Injects Immigration Into Spending Fight, Raising Shutdown Fears</h3>
+<sub>By Karoun Demirjian</sub>
+<p>The House Freedom Caucus has said it will not support any spending measure — even a stopgap bill to keep the government open while lawmakers negotiate — without a sweeping border crackdown.  <a href="https://nyti.ms/3YXDZoL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Record Number of Families Cross Southern Border Illegally in August</h3>
+<sub>By Zolan Kanno-Youngs and Eileen Sullivan</sub>
+<p>The roughly 91,000 migrants who were arrested after crossing together as families exceeded a record set in May 2019, the height of the border crisis during the Trump administration.  <a href="https://nyti.ms/45TJBm1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Tourists Were Told to Avoid Maui. Many Workers Want Them Back.</h3>
+<sub>By Nicholas Bogel-Burroughs</sub>
+<p>A plunge in tourism after a disastrous fire has already crippled the economy in Maui. Now, some locals who wanted visitors to stay away are urging them back.  <a href="https://nyti.ms/3qUNuII"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
