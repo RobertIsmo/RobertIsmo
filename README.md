@@ -60,7 +60,8 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, September 2, Central Standard Time</p>
 <p>
-There is currently a lot going on in the world. In Mexico, the police, military officers and others have been secretly working with a cartel that was responsible for kidnapping 43 students nine years ago. In the US, President Biden is struggling to make his policies on the economy popular among Americans and he is visiting Florida to survey the aftermath of Hurricane Idalia. Meanwhile, a small-scale counteroffensive is being waged in Ukraine against Russian forces and tensions between Russia and Ukraine have been simmering over an attack on a bridge that links occupied Crimea to Russia. Additionally, Montana has made headlines as one of its top elected officials prioritized banning TikTok, putting the state in the center of a geopolitical storm. Finally, at the US Open, granules of sand that shape court surfaces and the difficult process of becoming a ballperson are some of the events making news on the sports front.</p>
+There is a lot going on in the world right now. In Mexico, authorities are secretly colluding with a cartel that is responsible for the kidnapping of 43 students – nearly a decade ago – and finally text messages have emerged offering clues as to who was behind it and why it happened. Meanwhile, music legend Jimmy Buffett has passed away at the age of 76 – leaving behind a legacy of island escapism and inspiring millions with his unforgettable songs. 
+On the political front, there&#39;s been news from both Ukraine and Russia, where the latter is saying it thwarted an attack from the former on Crimea Bridge. Over in the U.S., President Biden is struggling to make &#39;Bidenomics&#39; a plus instead of a minus – and he’s currently preparing to tour Florida after Hurricane Idalia tore through the state. Back home, taxes, drugs and even TikTok are gaining attention thanks to one Montana politician&#39;s efforts to make banning the app a priority. Finally, the U.S. Open has been drawing eyes all over as well – not only for its court speed thanks to its hardcourt surfaces but also for its ball persons, who have had to endure long and tough training processes in order to land their spot at this tennis event.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Why Did a Drug Gang Kill 43 Students? Text Messages Hold Clues.</h3>
@@ -77,7 +78,7 @@ There is currently a lot going on in the world. In Mexico, the police, military 
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>Jimmy Buffett, Roguish Bard of Island Escapism, Is Dead at 76</h3>
 <sub>By Bill Friskics-Warren</sub>
-<p>With songs like “Margaritaville” and “Fins,” he became a folk hero to fans known as Parrot Heads. He also became a millionaire hundreds of times over.  <a href="https://nyti.ms/3R8xRYL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>With songs like “Margaritaville” and “Cheeseburger in Paradise,” he became a folk hero to fans known as Parrot Heads. He also became a millionaire hundreds of times over.  <a href="https://nyti.ms/3R8xRYL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-theater-blue" alt="">
