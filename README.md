@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, September 1, Central Standard Time</p>
 <p>
-I wanted to update you on a few things that have been going on in the world. First, businesses are trying to decide whether to embrace or ban the use of AI-generated essays for college admissions. This is leading to ethical debates over whether it should be allowed. Also, in the US, hiring has settled into a lower gear due to the pandemic lockdowns, and many workers in Hollywood have been affected by recent strikes. There&#39;s also been a lot of news about the conditions faced by some South African renters - living without basic services like water and electricity - as well as staffing concerns at nursing homes. In other news, a Proud Boy member who smashed a window at the Capitol was sentenced to 10 years in prison, and experts are investigating why so many tennis players are getting sick at the US Open.</p>
+Right now, there&#39;s a lot going on in the world. US colleges are wrestling with the decision to embrace or reject the use of AI-generated essays in admissions applications. Meanwhile, two Proud Boys were recently sentenced for their involvement in the January 6 insurrection at the US Capitol. President Biden was supposed to meet with Florida Governor Ron DeSantis over hurricane damage but canceled at the last minute. Idalia, a former hurricane making its way through the Southeast, is picking up strength and expected to approach Bermuda over the weekend. In health news, neurologists have speculated that US Senate Majority Leader Mitch McConnell may be experiencing small seizures. On the business side of things, August job growth slowed dramatically compared to pre-pandemic levels despite worker shortages in nursing homes. Hollywood strikes have impacted those who work in the industry beyond just those on strike. Finally, we lost a prominent businessman and father whose son famously died alongside Princess Diana: Mohamed al-Fayed.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Ban or Embrace? Colleges Wrestle With A.I.-Generated Admissions Essays.</h3>
@@ -74,16 +74,22 @@ I wanted to update you on a few things that have been going on in the world. Fir
 <p>A.I. chatbots can do a passable job of generating short essays. Whether their use on college applications is ethical is the subject of fierce debate.  <a href="https://nyti.ms/3R3OHIo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Applying to College? Here’s How A.I. Tools Might Hurt, or Help.</h3>
-<sub>By Natasha Singer</sub>
-<p>ChatGPT might change the application essay forever.  <a href="https://nyti.ms/3P210lD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Two Proud Boys Sentenced in Jan. 6 Sedition Case</h3>
+<sub>By Alan Feuer and Zach Montague</sub>
+<p>Ethan Nordean, a ground commander of the far-right group, got 18 years, matching the longest Jan. 6 sentence so far. Dominic Pezzola, among the first rioters to enter the Capitol, received 10 years.  <a href="https://nyti.ms/3L14R1q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Won’t Meet DeSantis in Florida During Tour of Hurricane Damage</h3>
+<sub>By Nicholas Nehamas, Michael D. Shear and Jonathan Swan</sub>
+<p>Though the president said earlier on Friday that he would see the governor on Saturday, Mr. DeSantis’s office said there were no plans for a meeting.  <a href="https://nyti.ms/45WiwhZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Ukraine’s Fight Grinds On, Talk of Negotiations Becomes Nearly Taboo</h3>
-<sub>By Steven Erlanger</sub>
-<p>Discussion of a Plan B, should Ukraine fail to win a total victory, has become more fraught than ever, say those who have tried.  <a href="https://nyti.ms/3YWVcP9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>After Hitting the Southeast, Idalia to Strengthen and Approach Bermuda</h3>
+<sub>By Chris Stanford</sub>
+<p>The remnants of the former hurricane, now a post-tropical cyclone, were forecast to strengthen into a tropical storm again over the weekend.  <a href="https://nyti.ms/45DH1kr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
@@ -104,34 +110,28 @@ I wanted to update you on a few things that have been going on in the world. Fir
 <p>Walkouts by screenwriters and actors have meant less work in fields that cater to the TV and film industry.  <a href="https://nyti.ms/3R9bmTL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>All That Empty Office Space Belongs to Someone</h3>
-<sub>By Emma Goldberg and Haruka Sakaguchi</sub>
-<p>What happens if the nearly 100 million square feet of workplace real estate stays empty?  <a href="https://nyti.ms/45wT82R"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Filthy Toilets, No Showers and Criminal Landlords: Life in a South African Firetrap</h3>
-<sub>By John Eligon and Lynsey Chutel</sub>
-<p>After harrowing escapes from the apartment fire in Johannesburg that killed at least 74 people, residents described how they managed to build lives with no legal water or electricity, and very little privacy.  <a href="https://nyti.ms/3EnJhjY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Federal Officials Propose New Nursing Home Standards to Increase Staffing</h3>
-<sub>By Jordan Rau</sub>
-<p>Citing worker shortages, nursing home operators said the standard could not be met without additional funding for higher wages.  <a href="https://nyti.ms/3PlhFlF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Proud Boy Who Smashed Window at Capitol Sentenced to 10 Years</h3>
-<sub>By Alan Feuer and Zach Montague</sub>
-<p>Dominic Pezzola was the third member of the far-right group to be sentenced this week. Among the first of the rioters to enter the Capitol, he was convicted of six felonies but acquitted of sedition.  <a href="https://nyti.ms/3L14R1q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Caroline Wozniacki Is Getting Very Good at Comebacks</h3>
+<sub>By Matthew Futterman</sub>
+<p>Wozniacki keeps finding magic at the U.S. Open, but she’s not the only player enjoying a revival. Stan Wawrinka and Elina Svitolina also can’t find the exits.  <a href="https://nyti.ms/3qVDCyq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Why Are So Many Players Getting Sick at the U.S. Open?</h3>
 <sub>By Jesus Jiménez</sub>
 <p>Ons Jabeur has won two rounds despite having flu symptoms, but Dominic Thiem was forced to retire from his second-round match with an illness.  <a href="https://nyti.ms/3Z3hAGI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Mohamed al-Fayed, Tycoon Whose Son Died With Diana, Is Dead at 94</h3>
+<sub>By Robert D. McFadden</sub>
+<p>An Egyptian businessman, he built an empire of trophy properties in London, Paris and elsewhere, but it was overshadowed by a fatal car crash that stunned the world.  <a href="https://nyti.ms/3Z2Vrba"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Federal Officials Propose New Nursing Home Standards to Increase Staffing</h3>
+<sub>By Jordan Rau</sub>
+<p>Citing worker shortages, nursing home operators said the standard could not be met without additional funding for higher wages.  <a href="https://nyti.ms/3PlhFlF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
