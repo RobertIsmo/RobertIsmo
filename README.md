@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, September 2, Central Standard Time</p>
 <p>
-There are some serious issues going on right now in the world. In Mexico, 43 students were kidnapped by a drug gang over a decade ago, and authorities recently revealed that the police, military officers, and others had secretly worked with the cartel. President Biden is also in Florida touring the area after Hurricane Idalia hit, and getting criticism from Republicans. Elsewhere, Ukraine is working towards a counteroffensive backed by hundreds of assault groups, while Biden&#39;s &quot;Bidenomics&quot; policies are worrying Democrats. There&#39;s also drama going on with TikTok in Montana and at the U.S. Open in New York with their hardcourt surfaces. Lastly, Bill Richardson, a Champion of Americans Held Overseas passed away recently at 75 while Jimmy Buffett passed away at 76 after becoming a millionaire many times over through his popular songs.</p>
+It looks like there&#39;s a lot of truly terrible news happening in the world. In Mexico, authorities illegally colluded with a cartel to kidnap 43 students a decade ago and it still hasn&#39;t been solved. In Bangladesh, the ruling political party is paralyzing the opposition by bringing them to court on hundreds of separate cases ahead of an important election. There’s also news of a humanitarian crisis in Florida due to Hurricane Idalia and in California where the beach is rapidly disappearing due to sea level rise. On a more positive note, Bill Richardson, who practiced diplomacy throughout his career, has died at 75 and Ed Ruscha has recreated a bittersweet art installation first seen in 1970 for the Museum of Modern Art.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Why Did a Drug Gang Kill 43 Students? Text Messages Hold Clues.</h3>
@@ -71,13 +71,19 @@ There are some serious issues going on right now in the world. In Mexico, 43 stu
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Bill Richardson, Champion of Americans Held Overseas, Dies at 75</h3>
 <sub>By Sam Roberts</sub>
-<p>After serving two terms as governor of New Mexico, he practiced quasi-public diplomacy, working to secure the release of people he believed were being wrongfully detained.  <a href="https://nyti.ms/47VGvzU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>After serving in Congress and as governor of New Mexico, he practiced quasi-public and freelance diplomacy, often with considerable success.  <a href="https://nyti.ms/47VGvzU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>Jimmy Buffett, Roguish Bard of Island Escapism, Is Dead at 76</h3>
 <sub>By Bill Friskics-Warren</sub>
 <p>With songs like “Margaritaville” and “Cheeseburger in Paradise,” he became a folk hero to fans known as Parrot Heads. He also became a millionaire hundreds of times over.  <a href="https://nyti.ms/3R8xRYL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Jimmy Buffett Was More Than Beaches and Booze</h3>
+<sub>By Jon Pareles</sub>
+<p>There was wistfulness behind party tunes like “Margaritaville.” Buffett helped listeners feel like they’d earned the good times just by holding on.  <a href="https://nyti.ms/3P0I8Um"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-theater-blue" alt="">
@@ -91,6 +97,12 @@ There are some serious issues going on right now in the world. In Mexico, 43 stu
 <sub>By Marc Santora and Tyler Hicks</sub>
 <p>As Ukraine pushes slowly forward in its counteroffensive, it’s relying heavily on the effort of hundreds of small-scale assault groups, each tasked with attacking a single trench, tree line or house.  <a href="https://nyti.ms/3PipXL3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A California Beach Town Is Desperate to Save Its Vanishing Sand</h3>
+<sub>By Jill Cowan and Maggie Shannon</sub>
+<p>Sea-level rise and man-made projects have left Oceanside with precious little beach space. That’s a problem if coastal life is part of your city’s identity.  <a href="https://nyti.ms/3sE7C2l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Struggles to Make ‘Bidenomics’ a Plus, Not a Minus</h3>
@@ -107,7 +119,7 @@ There are some serious issues going on right now in the world. In Mexico, 43 stu
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In Florida, Even a Hurricane Can’t Sweep Away Presidential Politics</h3>
 <sub>By Michael D. Shear and Nicholas Nehamas</sub>
-<p>President Biden arrived in Florida to tour an area hit by Hurricane Idalia, a day after an aide to Gov. Ron DeSantis said he had no plans to meet with the president.  <a href="https://nyti.ms/45OzoXW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>President Biden arrived in Florida to tour an area hit by Hurricane Idalia, but Gov. Ron DeSantis, a potential rival for the presidency, was a no-show.  <a href="https://nyti.ms/45OzoXW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
@@ -116,22 +128,10 @@ There are some serious issues going on right now in the world. In Mexico, 43 stu
 <p>“I was a little bit tired of making conventional pictures”: The artist on recreating his bittersweet installation, first seen in 1970, for the Museum of Modern Art.  <a href="https://nyti.ms/3Z2TXOu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Taxes, Drugs and … TikTok?</h3>
-<sub>By Sapna Maheshwari</sub>
-<p>How one of Montana’s top elected officials made banning the app a top priority, putting the state at the center of a geopolitical storm.  <a href="https://nyti.ms/3qTwqCX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Seen from Close-up: How the U.S. Open Dials in its Court Speed</h3>
-<sub>By Helmuth Rosales and Geoff Macdonald</sub>
-<p>The tiny granules of sand that make up the hardcourt surfaces at Flushing Meadows shape the outcome of every match.  <a href="https://nyti.ms/3sA3HDA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>The Hardest Ticket at the U.S. Open? Ball Person.</h3>
-<sub>By Talya Minsberg and Karsten Moran</sub>
-<p>The road to becoming a U.S. Open ball person is not for the faint of heart.  <a href="https://nyti.ms/3qZYapt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Quietly Crushing a Democracy: Millions on Trial in Bangladesh</h3>
+<sub>By Mujib Mashal and Atul Loke</sub>
+<p>The most active rivals to the country’s ruling party face dozens, even hundreds, of court cases each, paralyzing the opposition as a crucial election approaches.  <a href="https://nyti.ms/3qVVzNk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 2, Central Standard Time</sub></sub>
 <hr/>
 </ol>
