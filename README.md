@@ -60,15 +60,25 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, September 2, Central Standard Time</p>
 <p>
-Right now there&#39;s a lot happening around the world. Ukraine is pushing forward in its counteroffensive and relying heavily on small attack groups operating in trenches and house-to-house battles. In the US, two Proud Boys have been sentenced after participating in the Capitol riots on January 6th. Meanwhile, President Biden and Florida Governor DeSantis will not meet each other this weekend during a tour of hurricane damage. The remnants of Idalia, a former hurricane, are predicted to strengthen and drift towards Bermuda. Senator Mitch McConnell may be having seizures according to neurologists, while Clément Beaune, a protégé of Emmanuel Macron with a double coming out as gay with Jewish roots is aiming to revive center-left politics in Europe. 
-
-In business news, college admissions are reworking how they view A.I.-generated essays. Hollywood strikes have caused decreased work for many in fields related to the TV&#x2F;Film industry. On a lighter note, Tycon Mohamed al-Fayed passed away at 94. Finally, on immigration front the hard right is causing chaos attempting to tie immigration laws to a spending measure, leading fears of another possible government shutdown. Southern America is also struggling with an unprecedented number of families crossing the borders illegally last August - an issue that has divided Maui locals between wanting tourists back or keeping them away from the islands.</p>
+There are a lot of interesting things happening in the world right now. In Ukraine, small-scale assault groups have been tasked to slowly push forward in their counteroffensive. Unfortunately, folk singer Jimmy Buffett recently passed away, but his influence and millions live on with his Broadway show, &quot;Escape to Margaritaville&quot;. Two proud boys have been sentenced for their role in the Jan 6 sedition case, while President Biden won&#39;t be meeting with Florida Governor DeSantis during his tour of hurricane damage. The remnants of Idalia, a former hurricane, could become a tropical or subtropical storm and is approaching Bermuda. Meanwhile Senator McConnell may be experiencing small seizures, which medical doctors suggest may indicate a serious illness. On the international front, Clément Beaune of France is trying to revive the center-left and build the united Europe he cherishes. Back in America, colleges are debating the impact of AI-generated admission essays and Hollywood strikes are also having a broad effect on jobs related to TV and film production. Finally, Mohamed al-Fayed, an egyptian tycoon whose son died with Diana, passed away at 94. Lastly, there&#39;s concern that a hard right immigration stance may inject itself into the spending fight in Congress and potentially cause shutdowns again going forward.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>A Brutal Path Forward, Village by Village</h3>
 <sub>By Marc Santora and Tyler Hicks</sub>
 <p>As Ukraine pushes slowly forward in its counteroffensive, it’s relying heavily on the effort of hundreds of small-scale assault groups, each tasked with attacking a single trench, tree line or house.  <a href="https://nyti.ms/3PipXL3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Jimmy Buffett, Roguish Bard of Island Escapism, Is Dead at 76</h3>
+<sub>By Bill Friskics-Warren</sub>
+<p>With songs like “Margaritaville” and “Fins,” he became a folk hero to fans known as Parrot Heads. He also became a millionaire hundreds of times over.  <a href="https://nyti.ms/3R8xRYL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-theater-blue" alt="">
+<h3>Jimmy Buffett Does Not Live the Jimmy Buffett Lifestyle</h3>
+<sub>By Taffy Brodesser-Akner</sub>
+<p>Mr. Buffett, who has a new Broadway show, “Escape to Margaritaville,” built a half-billion-dollar empire on his laid-back beach brand. But he’s all business now.  <a href="https://nyti.ms/2BhOTN9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Two Proud Boys Sentenced in Jan. 6 Sedition Case</h3>
@@ -85,7 +95,7 @@ In business news, college admissions are reworking how they view A.I.-generated 
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>After Hitting the Southeast, Idalia to Strengthen and Approach Bermuda</h3>
 <sub>By Chris Stanford</sub>
-<p>The remnants of the former hurricane, now a post-tropical cyclone, were forecast to strengthen into a tropical storm again over the weekend.  <a href="https://nyti.ms/45DH1kr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The remnants of the former hurricane, now a post-tropical cyclone, were forecast to strengthen into a tropical or subtropical storm over the weekend.  <a href="https://nyti.ms/45DH1kr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
@@ -122,18 +132,6 @@ In business news, college admissions are reworking how they view A.I.-generated 
 <h3>Hard Right Injects Immigration Into Spending Fight, Raising Shutdown Fears</h3>
 <sub>By Karoun Demirjian</sub>
 <p>The House Freedom Caucus has said it will not support any spending measure — even a stopgap bill to keep the government open while lawmakers negotiate — without a sweeping border crackdown.  <a href="https://nyti.ms/3YXDZoL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Record Number of Families Cross Southern Border Illegally in August</h3>
-<sub>By Zolan Kanno-Youngs and Eileen Sullivan</sub>
-<p>The roughly 91,000 migrants who were arrested after crossing together as families exceeded a record set in May 2019, the height of the border crisis during the Trump administration.  <a href="https://nyti.ms/45TJBm1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Tourists Were Told to Avoid Maui. Many Workers Want Them Back.</h3>
-<sub>By Nicholas Bogel-Burroughs</sub>
-<p>A plunge in tourism after a disastrous fire has already crippled the economy in Maui. Now, some locals who wanted visitors to stay away are urging them back.  <a href="https://nyti.ms/3qUNuII"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
