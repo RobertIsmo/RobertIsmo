@@ -60,8 +60,26 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, September 2, Central Standard Time</p>
 <p>
-It looks like there&#39;s a lot of truly terrible news happening in the world. In Mexico, authorities illegally colluded with a cartel to kidnap 43 students a decade ago and it still hasn&#39;t been solved. In Bangladesh, the ruling political party is paralyzing the opposition by bringing them to court on hundreds of separate cases ahead of an important election. There’s also news of a humanitarian crisis in Florida due to Hurricane Idalia and in California where the beach is rapidly disappearing due to sea level rise. On a more positive note, Bill Richardson, who practiced diplomacy throughout his career, has died at 75 and Ed Ruscha has recreated a bittersweet art installation first seen in 1970 for the Museum of Modern Art.</p>
+There are some worrying developments globally at the moment. In China, the government is asking people to help combat foreign enemies by being vigilant about their activities. There&#39;s also been a lot of changes in power in China, which has resulted in Xi Jinping dismantling certain guardrails for authority to become more centralized. 
+
+In Mexico, the police force and other authorities have withheld details about the kidnapping of 43 students by a drug gang nearly a decade ago—wiretaps from the case show their deep involvement with this cartel. 
+
+In the US, Bill Richardson recently passed away; he served both as Ambassador to the United Nations and as governor of New Mexico. He was known for his unique diplomatic efforts by talking with strongmen and dictators when other officials couldn&#39;t or wouldn&#39;t do so. Furthermore, musician and folk hero Jimmy Buffett also just passed away and is remembered fondly for his songs like ‘Margaritaville’ and ‘Cheeseburger in Paradise’ that made him a millionaire many times over. 
+
+Finally, there have been issues in South Africa regarding a fire that killed 76 people this week—documents show that authorities were warned repeatedly about the danger of the derelict building but nothing was done. Closer to home, a beach town in California is desperate to save its vanishing sand—the rising seas are making matters even worse due to coast-side identity of the city. Lastly, professional football player Alex Smith has had to grapple with helplessness while his daughter battles brain tumor; he had just recovered from a serious leg injury himself.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>China to Its People: Spies Are Everywhere, Help Us Catch Them</h3>
+<sub>By Vivian Wang</sub>
+<p>As Beijing tries to enlist the “whole of society” to guard against foreign enemies, the line between vigilance and paranoia fades.  <a href="https://nyti.ms/46dIs9l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>How Xi Returned China to One-Man Rule</h3>
+<sub>By Weiyi Cai, Aaron Byrd, Chris Buckley and Pablo Robles</sub>
+<p>For decades, China built guardrails to prevent another Mao. Here’s how Xi Jinping has dismantled them and created his own machinery of power.  <a href="https://nyti.ms/3qWcLCb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 2, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Why Did a Drug Gang Kill 43 Students? Text Messages Hold Clues.</h3>
 <sub>By Natalie Kitroeff and Ronen Bergman</sub>
@@ -74,29 +92,35 @@ It looks like there&#39;s a lot of truly terrible news happening in the world. I
 <p>After serving in Congress and as governor of New Mexico, he practiced quasi-public and freelance diplomacy, often with considerable success.  <a href="https://nyti.ms/47VGvzU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 2, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Bill Richardson Reveled in Role of Freelance Envoy to Dictators</h3>
+<sub>By Michael Crowley</sub>
+<p>The former New Mexico governor and ambassador to the U.N. filled a specialized diplomatic niche, talking to strongmen when presidents and other officials could — or would — not.  <a href="https://nyti.ms/3sIXOUt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 2, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>Jimmy Buffett, Roguish Bard of Island Escapism, Is Dead at 76</h3>
 <sub>By Bill Friskics-Warren</sub>
 <p>With songs like “Margaritaville” and “Cheeseburger in Paradise,” he became a folk hero to fans known as Parrot Heads. He also became a millionaire hundreds of times over.  <a href="https://nyti.ms/3R8xRYL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Jimmy Buffett Was More Than Beaches and Booze</h3>
-<sub>By Jon Pareles</sub>
-<p>There was wistfulness behind party tunes like “Margaritaville.” Buffett helped listeners feel like they’d earned the good times just by holding on.  <a href="https://nyti.ms/3P0I8Um"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Fans Remember Jimmy Buffett, ‘a Poet of Paradise’</h3>
+<sub>By Rebecca Carballo</sub>
+<p>Mr. Buffett’s fandom was wide-ranging: Notables from politics, sports and the arts now look back fondly on the singer’s life and career.  <a href="https://nyti.ms/3PnfMoF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-theater-blue" alt="">
-<h3>Jimmy Buffett Does Not Live the Jimmy Buffett Lifestyle</h3>
-<sub>By Taffy Brodesser-Akner</sub>
-<p>Mr. Buffett, who has a new Broadway show, “Escape to Margaritaville,” built a half-billion-dollar empire on his laid-back beach brand. But he’s all business now.  <a href="https://nyti.ms/2BhOTN9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 8, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>Don’t Underestimate Jimmy Buffett’s Influence on Style</h3>
+<sub>By Guy Trebay</sub>
+<p>The singer made a lot of money peddling laid-back boatyard chic.  <a href="https://nyti.ms/3sD2H1s"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Brutal Path Forward, Village by Village</h3>
-<sub>By Marc Santora and Tyler Hicks</sub>
-<p>As Ukraine pushes slowly forward in its counteroffensive, it’s relying heavily on the effort of hundreds of small-scale assault groups, each tasked with attacking a single trench, tree line or house.  <a href="https://nyti.ms/3PipXL3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 1, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>‘Jamaica Mistaica’: Jimmy Buffett Song Inspired After Plane Sprayed by Gunfire</h3>
+<sub>By Orlando Mayorquin</sub>
+<p>In 1996, the police in Jamaica mistook Buffett for a drug smuggler after he landed his seaplane with the singer Bono and others on board and opened fire on it.  <a href="https://nyti.ms/44CvuQY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A California Beach Town Is Desperate to Save Its Vanishing Sand</h3>
@@ -104,35 +128,17 @@ It looks like there&#39;s a lot of truly terrible news happening in the world. I
 <p>Sea-level rise and man-made projects have left Oceanside with precious little beach space. That’s a problem if coastal life is part of your city’s identity.  <a href="https://nyti.ms/3sE7C2l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Struggles to Make ‘Bidenomics’ a Plus, Not a Minus</h3>
-<sub>By Reid J. Epstein</sub>
-<p>Wages are up, inflation has slowed and the White House has a new slogan. Still, President Biden’s poor marks on the economy are making Democrats worried.  <a href="https://nyti.ms/3EqfpmZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Team Isn’t Waiting for Impeachment to Go on the Offensive</h3>
-<sub>By Peter Baker</sub>
-<p>The White House has enlisted two dozen attorneys, legislative liaisons and others to craft strategies in the face of Republican threats to charge the president with high crimes and misdemeanors.  <a href="https://nyti.ms/3Z7V2Ve"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Florida, Even a Hurricane Can’t Sweep Away Presidential Politics</h3>
-<sub>By Michael D. Shear and Nicholas Nehamas</sub>
-<p>President Biden arrived in Florida to tour an area hit by Hurricane Idalia, but Gov. Ron DeSantis, a potential rival for the presidency, was a no-show.  <a href="https://nyti.ms/45OzoXW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Ed Ruscha’s ‘Chocolate Room’ Still Tantalizes</h3>
-<sub>By Travis Diehl</sub>
-<p>“I was a little bit tired of making conventional pictures”: The artist on recreating his bittersweet installation, first seen in 1970, for the Museum of Modern Art.  <a href="https://nyti.ms/3Z2TXOu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 1, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Quietly Crushing a Democracy: Millions on Trial in Bangladesh</h3>
-<sub>By Mujib Mashal and Atul Loke</sub>
-<p>The most active rivals to the country’s ruling party face dozens, even hundreds, of court cases each, paralyzing the opposition as a crucial election approaches.  <a href="https://nyti.ms/3qVVzNk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Officials in South Africa Knew About Problems at a ‘Bad Building,’ but Did Nothing</h3>
+<sub>By John Eligon, Lynsey Chutel and Jeffrey Gettleman</sub>
+<p>An extensive paper trail reveals that the authorities in Johannesburg were warned repeatedly about the dangers in the derelict building where 76 people died in a fire this week.  <a href="https://nyti.ms/44BZhJu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>‘It’s Different When It’s Your Little Girl’</h3>
+<sub>By Jonathan Abrams</sub>
+<p>Alex Smith returned to play pro football after a horrific leg injury nearly killed him. Nothing about his recovery prepared him for the helplessness of watching his daughter battle a brain tumor.  <a href="https://nyti.ms/47W45fI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
