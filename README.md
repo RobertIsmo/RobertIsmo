@@ -60,13 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, September 2, Central Standard Time</p>
 <p>
-There are some worrying developments globally at the moment. In China, the government is asking people to help combat foreign enemies by being vigilant about their activities. There&#39;s also been a lot of changes in power in China, which has resulted in Xi Jinping dismantling certain guardrails for authority to become more centralized. 
+There is a lot going on in the world right now. In China, people are being urged to help catch spies, as Beijing tries to enlist everyone in the protection against foreign enemies. This comes at a time when President Xi has dismantled decades of guardrails protecting against another Mao-era dictator taking power. 
 
-In Mexico, the police force and other authorities have withheld details about the kidnapping of 43 students by a drug gang nearly a decade ago—wiretaps from the case show their deep involvement with this cartel. 
+In Mexico, authorities have been found coordinating with drug gangs which are responsible for the kidnapping of 43 students nearly 10 years ago. Meanwhile, Bill Richardson, an American diplomat known for successfully dealing with dictators and strongmen in his roles in Congress and New Mexico governor passed away. 
 
-In the US, Bill Richardson recently passed away; he served both as Ambassador to the United Nations and as governor of New Mexico. He was known for his unique diplomatic efforts by talking with strongmen and dictators when other officials couldn&#39;t or wouldn&#39;t do so. Furthermore, musician and folk hero Jimmy Buffett also just passed away and is remembered fondly for his songs like ‘Margaritaville’ and ‘Cheeseburger in Paradise’ that made him a millionaire many times over. 
+Also passing away was folk hero and multi-millionaire singer, Jimmy Buffett. Fans remember him fondly for his hit songs &#39;Margaritaville&#39; and “Cheeseburger in Paradise”. Many were inspired by the escapism he gave through his music.  
 
-Finally, there have been issues in South Africa regarding a fire that killed 76 people this week—documents show that authorities were warned repeatedly about the danger of the derelict building but nothing was done. Closer to home, a beach town in California is desperate to save its vanishing sand—the rising seas are making matters even worse due to coast-side identity of the city. Lastly, professional football player Alex Smith has had to grapple with helplessness while his daughter battles brain tumor; he had just recovered from a serious leg injury himself.</p>
+Closer to home here in the US, a town in California is desperate to save its vanishing beaches due to sea-level rise and man-made projects leaving them with little sand space. On the other side of the world, South African officials are coming under fire after having knowledge of problems at a derelict building where 76 people died in a fire this week. Lastly, Alex Smith returned from football after his leg injury almost killed him only to go through the helplessness of watching his daughter battle a brain tumor.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>China to Its People: Spies Are Everywhere, Help Us Catch Them</h3>
