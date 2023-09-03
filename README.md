@@ -60,8 +60,22 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, September 3, Central Standard Time</p>
 <p>
-In the world right now, China is enlisting its people in a vigilance effort to root out foreign spies lurking within the country. Meanwhile, Chinese President Xi Jinping has consolidated power by dismantling systems that had been put in place to guard against a despot like Mao. In Mexico, 43 students were kidnapped and murdered by a drug gang almost ten years ago, and authorities have recently been piecing together text messages to better understand what happened. On a lighter note, Bill Richardson, an American politician known for his diplomacy, passed away recently. And music fans around the world are mourning the loss of &quot;Margaritaville&quot; singer Jimmy Buffett. Also not to be forgotten, California is struggling with beach erosion due to rising sea levels, and Johannesburg is trying to uncover why city officials dismissed warnings about a building where 76 people were killed in a fire this week. Lastly, NFL quarterback Alex Smith has been on a journey of recovery after suffering from a horrific injury and then having his daughter diagnosed with a brain tumor.</p>
+There are a lot of worrying news reports happening around the world. In the US, for example, we are seeing issues with the emergency alert system as a wildfire in Maui demonstrated recently. We also have reports of different weapons being sent to Ukraine, which prompts the story of three people whose lives have been forever changed by these weapons. There is also a lot of tension concerning Russia attacking Ukrainian river ports and Ukraine&#39;s president announcing that two more ships had traveled through a temporary corridor after Moscow pulled out of the Black Sea grain deal. 
+
+In other parts of the world, China is asking all citizens to help guard against foreign enemies, making it difficult to figure out if it&#39;s actually vigilance or just paranoia. And in terms of environmental news, we know that unchecked overuse of groundwater is draining and damaging aquifers across America as well as Minnesota farmers cranking up powerful wells and blowing through state limits in order to grow certain types of crops. Last but not least, over in Ukraine there is still damage from a dam disaster months after it happened with many communities still reeling.</p>
 <ol>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Big Farms and Flawless Fries Are Gulping Water in the Land of 10,000 Lakes</h3>
+<sub>By Dionne Searcey and Mira Rojanasakul</sub>
+<p>When Minnesota farmers cranked up their powerful wells, they blew through state limits. Thirsty crops included corn, soybeans and perfect, fry-friendly potatoes.  <a href="https://nyti.ms/3Z9a399"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>America Is Using Up Its Groundwater Like There’s No Tomorrow</h3>
+<sub>By Mira Rojanasakul, Christopher Flavelle, Blacki Migliozzi and Eli Murray</sub>
+<p>Unchecked overuse is draining and damaging aquifers nationwide, a data investigation by the New York Times revealed, threatening millions of people and America’s status as a food superpower.  <a href="https://nyti.ms/3soZaDM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 28, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>China to Its People: Spies Are Everywhere, Help Us Catch Them</h3>
 <sub>By Vivian Wang</sub>
@@ -75,15 +89,33 @@ In the world right now, China is enlisting its people in a vigilance effort to r
 <sub><sub>Saturday, September 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Why Did a Drug Gang Kill 43 Students? Text Messages Hold Clues.</h3>
-<sub>By Natalie Kitroeff and Ronen Bergman</sub>
-<p>The Mexican police, military officers and others secretly colluded with a cartel that kidnapped 43 students, a case unsolved after nearly a decade. Wiretaps show just how much the authorities helped the cartel behind the mass abduction, and what led to it.  <a href="https://nyti.ms/45M1p2I"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 2, Central Standard Time</sub></sub>
+<h3>The Never-Ending Nightmare of Ukraine’s Dam Disaster</h3>
+<sub>By Jeffrey Gettleman and Finbarr O’Reilly</sub>
+<p>Environmentally, economically and in terms of pure human suffering, the destruction of the Kakhovka dam unleashed untold damage. Months later, many communities are still reeling.  <a href="https://nyti.ms/3R1UM8d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Bill Richardson, Champion of Americans Held Overseas, Dies at 75</h3>
-<sub>By Sam Roberts</sub>
-<p>After serving in Congress and as governor of New Mexico, he practiced quasi-public and freelance diplomacy, often with considerable success.  <a href="https://nyti.ms/47VGvzU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Three American Lives Forever Changed by a Weapon Now Being Sent to Ukraine</h3>
+<sub>By John Ismay</sub>
+<p>The mother of a Marine and two veterans who served in Iraq reflect on the U.S. decision to send failure-prone shells to help the Ukrainian military battle Russia.  <a href="https://nyti.ms/3R3MOeE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russia Attacks Ukrainian River Port, Injuring at Least 2</h3>
+<sub>By Vivek Shankar and Constant Méheut</sub>
+<p>The assault in the Odesa region came as Ukraine’s president announced that two more ships had traveled through a temporary corridor established by Kyiv after Moscow pulled out of the Black Sea grain deal.  <a href="https://nyti.ms/4802LbH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Maui Sent an Evacuation Alert. Why Did So Few People Get It?</h3>
+<sub>By Mike Baker, Sergio Olmos and Eileen Sullivan</sub>
+<p>The Hawaii wildfire offered insights into the promises and shortcomings of a wireless alert system that relies on cellphones for emergency warnings.  <a href="https://nyti.ms/3Z0d8Z4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>When Coco Gauff and Zendaya Need Tennis Tips, They Ask Brad Gilbert</h3>
+<sub>By Matthew Futterman</sub>
+<p>Gilbert, a former pro, coached Andre Agassi to a U.S. Open victory in 1994. Now he’s advising Gauff — in between calling matches — at this year’s tournament.  <a href="https://nyti.ms/3R6vu8S"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -92,47 +124,17 @@ In the world right now, China is enlisting its people in a vigilance effort to r
 <p>The former New Mexico governor and ambassador to the U.N. filled a specialized diplomatic niche, talking to strongmen when presidents and other officials could — or would — not.  <a href="https://nyti.ms/3sIXOUt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Jimmy Buffett, Roguish Bard of Island Escapism, Is Dead at 76</h3>
-<sub>By Bill Friskics-Warren</sub>
-<p>With songs like “Margaritaville” and “Cheeseburger in Paradise,” he became a folk hero to fans known as Parrot Heads. He also became a millionaire hundreds of times over.  <a href="https://nyti.ms/3R8xRYL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 2, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Fans Remember Jimmy Buffett, ‘a Poet of Paradise’</h3>
-<sub>By Rebecca Carballo</sub>
-<p>Mr. Buffett’s fandom was wide-ranging: Notables from politics, sports and the arts now look back fondly on the singer’s life and career.  <a href="https://nyti.ms/3PnfMoF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>Don’t Underestimate Jimmy Buffett’s Influence on Style</h3>
-<sub>By Guy Trebay</sub>
-<p>The singer made a lot of money peddling laid-back boatyard chic.  <a href="https://nyti.ms/3sD2H1s"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>‘Jamaica Mistaica’: Jimmy Buffett Song Inspired After Plane Sprayed by Gunfire</h3>
+<h3>Trapped in Mud, Burning Man Attendees Are Told to Conserve Food</h3>
 <sub>By Orlando Mayorquin</sub>
-<p>In 1996, the police in Jamaica mistook Buffett for a drug smuggler after he landed his seaplane with the singer Bono and others on board and opened fire on it.  <a href="https://nyti.ms/44CvuQY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>As the festival in the remote Nevada desert became encased in mud after heavy rains on Friday night, the police opened an investigation on Saturday into the death of an attendee.  <a href="https://nyti.ms/3sAIx8m"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A California Beach Town Is Desperate to Save Its Vanishing Sand</h3>
-<sub>By Jill Cowan and Maggie Shannon</sub>
-<p>Sea-level rise and man-made projects have left Oceanside with precious little beach space. That’s a problem if coastal life is part of your city’s identity.  <a href="https://nyti.ms/3sE7C2l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>In Key West, Where Buffett Met His Muse, the Tributes Flow</h3>
+<sub>By Nancy Klingener</sub>
+<p>On Saturday, the island that inspired him, and grew in fame because of him, celebrated a life and a way of life.  <a href="https://nyti.ms/44CBYPO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Officials in South Africa Knew About Problems at a ‘Bad Building,’ but Did Nothing</h3>
-<sub>By John Eligon, Lynsey Chutel and Jeffrey Gettleman</sub>
-<p>An extensive paper trail reveals that the authorities in Johannesburg were warned repeatedly about the dangers in the derelict building where 76 people died in a fire this week.  <a href="https://nyti.ms/44BZhJu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>‘It’s Different When It’s Your Little Girl’</h3>
-<sub>By Jonathan Abrams</sub>
-<p>Alex Smith returned to play pro football after a horrific leg injury nearly killed him. Nothing about his recovery prepared him for the helplessness of watching his daughter battle a brain tumor.  <a href="https://nyti.ms/47W45fI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
