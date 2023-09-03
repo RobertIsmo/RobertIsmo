@@ -60,9 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, September 3, Central Standard Time</p>
 <p>
-There are a lot of worrying news reports happening around the world. In the US, for example, we are seeing issues with the emergency alert system as a wildfire in Maui demonstrated recently. We also have reports of different weapons being sent to Ukraine, which prompts the story of three people whose lives have been forever changed by these weapons. There is also a lot of tension concerning Russia attacking Ukrainian river ports and Ukraine&#39;s president announcing that two more ships had traveled through a temporary corridor after Moscow pulled out of the Black Sea grain deal. 
-
-In other parts of the world, China is asking all citizens to help guard against foreign enemies, making it difficult to figure out if it&#39;s actually vigilance or just paranoia. And in terms of environmental news, we know that unchecked overuse of groundwater is draining and damaging aquifers across America as well as Minnesota farmers cranking up powerful wells and blowing through state limits in order to grow certain types of crops. Last but not least, over in Ukraine there is still damage from a dam disaster months after it happened with many communities still reeling.</p>
+There are some worrying trends happening around the world. In Minnesota, farmers are pumping water from powerful wells to irrigate their crops like corn and potatoes, even though they have exceeded the state’s limits. This is happening elsewhere too, with groundwater being recklessly used up nationwide in America. China has been enlisting its people&#39;s help to identify possible spies with their &#39;whole of society&#39; efforts and Xi Jinping seems to be dismantling the guardrails that were created post Mao&#39;s rule. Ukraine continues to face disasters such as the Kakhovka dam destruction and the US decision to send flawed shells is having serious implications on some American lives. Russia keeps attacking Ukrainian river port; Hawaii is no stranger to natural disasters such as wildfires; and following a heavy downpour at Burning Man festival, people are being asked to conserve food. Lastly, Bill Richardson was famous for negotiating with dictators and recently, Key West celebrated Jimmy Buffett&#39;s life whose influence made the island famous.</p>
 <ol>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>Big Farms and Flawless Fries Are Gulping Water in the Land of 10,000 Lakes</h3>
@@ -109,8 +107,14 @@ In other parts of the world, China is asking all citizens to help guard against 
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Maui Sent an Evacuation Alert. Why Did So Few People Get It?</h3>
 <sub>By Mike Baker, Sergio Olmos and Eileen Sullivan</sub>
-<p>The Hawaii wildfire offered insights into the promises and shortcomings of a wireless alert system that relies on cellphones for emergency warnings.  <a href="https://nyti.ms/3Z0d8Z4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The Hawaii wildfire offered insights into the promises and shortcomings of a wireless alert system that relies on cellphones for emergency warnings.  <a href="https://nyti.ms/3EkswWR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trapped in Mud, Burning Man Attendees Are Told to Conserve Food</h3>
+<sub>By Orlando Mayorquin</sub>
+<p>As the festival in the remote Nevada desert became encased in mud after heavy rains on Friday night, the police opened an investigation on Saturday into the death of an attendee.  <a href="https://nyti.ms/3sAIx8m"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>When Coco Gauff and Zendaya Need Tennis Tips, They Ask Brad Gilbert</h3>
@@ -122,12 +126,6 @@ In other parts of the world, China is asking all citizens to help guard against 
 <h3>Bill Richardson Reveled in Role of Freelance Envoy to Dictators</h3>
 <sub>By Michael Crowley</sub>
 <p>The former New Mexico governor and ambassador to the U.N. filled a specialized diplomatic niche, talking to strongmen when presidents and other officials could — or would — not.  <a href="https://nyti.ms/3sIXOUt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trapped in Mud, Burning Man Attendees Are Told to Conserve Food</h3>
-<sub>By Orlando Mayorquin</sub>
-<p>As the festival in the remote Nevada desert became encased in mud after heavy rains on Friday night, the police opened an investigation on Saturday into the death of an attendee.  <a href="https://nyti.ms/3sAIx8m"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
