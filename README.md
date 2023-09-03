@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, September 3, Central Standard Time</p>
 <p>
-There are some worrying trends happening around the world. In Minnesota, farmers are pumping water from powerful wells to irrigate their crops like corn and potatoes, even though they have exceeded the state’s limits. This is happening elsewhere too, with groundwater being recklessly used up nationwide in America. China has been enlisting its people&#39;s help to identify possible spies with their &#39;whole of society&#39; efforts and Xi Jinping seems to be dismantling the guardrails that were created post Mao&#39;s rule. Ukraine continues to face disasters such as the Kakhovka dam destruction and the US decision to send flawed shells is having serious implications on some American lives. Russia keeps attacking Ukrainian river port; Hawaii is no stranger to natural disasters such as wildfires; and following a heavy downpour at Burning Man festival, people are being asked to conserve food. Lastly, Bill Richardson was famous for negotiating with dictators and recently, Key West celebrated Jimmy Buffett&#39;s life whose influence made the island famous.</p>
+There are a lot of worrying things happening in the world right now. In Minnesota, massive farms and their crops are using up too much groundwater, putting communities and their access to water at risk. China is trying to enlist citizens to help them detect perceived espionage. A powerful Chinese leader has dismantled the machinery of power that was meant to keep their country from descending into another Mao-style regime. On the West coast, Los Angeles officials are embroiled in a political battle over new congressional maps while Florida is in court over similar issues with theirs. Ukraine is facing a never-ending nightmare from a major dam disaster, while Russia attacked a port and injured two people. There&#39;s also the worry that emergency alert systems may not be reaching everyone who needs them in Maui. Finally, sports fans can take heart in Brad Gilbert, a pro tennis coach who is giving advice to Coco Gauff and Zendaya at this year&#39;s U.S. Open tournament.</p>
 <ol>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>Big Farms and Flawless Fries Are Gulping Water in the Land of 10,000 Lakes</h3>
@@ -86,6 +86,24 @@ There are some worrying trends happening around the world. In Minnesota, farmers
 <p>For decades, China built guardrails to prevent another Mao. Here’s how Xi Jinping has dismantled them and created his own machinery of power.  <a href="https://nyti.ms/3qWcLCb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 2, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Thousands of Attendees Trapped at Burning Man Festival Brace for More Rain</h3>
+<sub>By Anna Betts, Orlando Mayorquin and Eduardo Medina</sub>
+<p>Officials were urging campers to conserve food and water as access to the site remained limited on Sunday and the police investigated one death.  <a href="https://nyti.ms/3PmbpKy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How a New City Council Map of L.A. Turned Into a Political Brawl</h3>
+<sub>By Jill Cowan, Serge F. Kovaleski and Leanne Abraham</sub>
+<p>Blatant political gerrymandering occurs in cities across the country, many of them run by Democrats. In Los Angeles, a scandal over a racist recording was only the tip of the iceberg.  <a href="https://nyti.ms/3QZCHaO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Florida’s Congressional Map Illegally Hurt Black Voters, Judge Rules</h3>
+<sub>By Maggie Astor</sub>
+<p>Under the ruling, Florida is forbidden to use the map in the 2024 election, and state legislators are required to draw a new one. But the decision can be appealed.  <a href="https://nyti.ms/3L3fa56"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 3, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>The Never-Ending Nightmare of Ukraine’s Dam Disaster</h3>
 <sub>By Jeffrey Gettleman and Finbarr O’Reilly</sub>
@@ -101,7 +119,7 @@ There are some worrying trends happening around the world. In Minnesota, farmers
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Russia Attacks Ukrainian River Port, Injuring at Least 2</h3>
 <sub>By Vivek Shankar and Constant Méheut</sub>
-<p>The assault in the Odesa region came as Ukraine’s president announced that two more ships had traveled through a temporary corridor established by Kyiv after Moscow pulled out of the Black Sea grain deal.  <a href="https://nyti.ms/4802LbH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The assault in the Odesa region came as Ukraine’s president said two more ships had traveled through a temporary corridor established by Kyiv after Moscow pulled out of the Black Sea grain deal.  <a href="https://nyti.ms/4802LbH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -110,28 +128,10 @@ There are some worrying trends happening around the world. In Minnesota, farmers
 <p>The Hawaii wildfire offered insights into the promises and shortcomings of a wireless alert system that relies on cellphones for emergency warnings.  <a href="https://nyti.ms/3EkswWR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trapped in Mud, Burning Man Attendees Are Told to Conserve Food</h3>
-<sub>By Orlando Mayorquin</sub>
-<p>As the festival in the remote Nevada desert became encased in mud after heavy rains on Friday night, the police opened an investigation on Saturday into the death of an attendee.  <a href="https://nyti.ms/3sAIx8m"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 2, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>When Coco Gauff and Zendaya Need Tennis Tips, They Ask Brad Gilbert</h3>
 <sub>By Matthew Futterman</sub>
 <p>Gilbert, a former pro, coached Andre Agassi to a U.S. Open victory in 1994. Now he’s advising Gauff — in between calling matches — at this year’s tournament.  <a href="https://nyti.ms/3R6vu8S"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Bill Richardson Reveled in Role of Freelance Envoy to Dictators</h3>
-<sub>By Michael Crowley</sub>
-<p>The former New Mexico governor and ambassador to the U.N. filled a specialized diplomatic niche, talking to strongmen when presidents and other officials could — or would — not.  <a href="https://nyti.ms/3sIXOUt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Key West, Where Buffett Met His Muse, the Tributes Flow</h3>
-<sub>By Nancy Klingener</sub>
-<p>On Saturday, the island that inspired him, and grew in fame because of him, celebrated a life and a way of life.  <a href="https://nyti.ms/44CBYPO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 2, Central Standard Time</sub></sub>
 <hr/>
 </ol>
