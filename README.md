@@ -60,36 +60,60 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, September 3, Central Standard Time</p>
 <p>
-There are a lot of worrying things happening in the world right now. In Minnesota, massive farms and their crops are using up too much groundwater, putting communities and their access to water at risk. China is trying to enlist citizens to help them detect perceived espionage. A powerful Chinese leader has dismantled the machinery of power that was meant to keep their country from descending into another Mao-style regime. On the West coast, Los Angeles officials are embroiled in a political battle over new congressional maps while Florida is in court over similar issues with theirs. Ukraine is facing a never-ending nightmare from a major dam disaster, while Russia attacked a port and injured two people. There&#39;s also the worry that emergency alert systems may not be reaching everyone who needs them in Maui. Finally, sports fans can take heart in Brad Gilbert, a pro tennis coach who is giving advice to Coco Gauff and Zendaya at this year&#39;s U.S. Open tournament.</p>
+There have been a lot of labor disputes in the US this summer, with unions and companies negotiating contracts and sometimes threatening strikes. Internationally, there&#39;s been news about political shake-ups and military conflict in Ukraine. The US sent weapons to Ukraine that were linked to the deaths of 3 Americans in Iraq. There have also been conflicts over water rights in Minnesota, and a scandal over gerrymandering in Los Angeles. Finally, Florida was ruled to have violated the Voting Rights Act by creating an illegal congressional map. In Hawaii, there has been some confusion over evacuation alerts due to a faulty wireless alert system.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Auto Strike Looms, Threatening to Shut Detroit’s Big 3</h3>
+<sub>By Neal E. Boudette</sub>
+<p>With their contract expiring Sept. 14, the United Auto Workers and the companies are far apart in talks. A walkout could take a big economic toll.  <a href="https://nyti.ms/3P5j3HS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>A Summer of Strikes</h3>
+<sub>By Molly Cook Escobar and Christine Zhang</sub>
+<p>See how a wave of labor activity in the United States this summer compares with decades past.  <a href="https://nyti.ms/3Z46LnN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Zelensky Says He’ll Replace Ukraine’s Defense Minister</h3>
+<sub>By Andrew E. Kramer</sub>
+<p>The fate of the defense minister, Oleksii Reznikov, had been the subject of increasing speculation in Ukraine. It was the biggest shake-up in Ukraine’s government since Russia’s full-scale invasion.  <a href="https://nyti.ms/48b3K9k"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Three American Lives Forever Changed by a Weapon Now Being Sent to Ukraine</h3>
+<sub>By John Ismay</sub>
+<p>The mother of a Marine and two veterans who served in Iraq reflect on the U.S. decision to send failure-prone shells to help the Ukrainian military battle Russia.  <a href="https://nyti.ms/3R3MOeE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>South African Inquiry Rebuts U.S. Charge on Russian Arms</h3>
+<sub>By John Eligon and Lynsey Chutel</sub>
+<p>A government investigation about a Russian ship contradicts U.S. accusations that South Africa provided arms to fight Ukraine, President Cyril Ramaphosa said. But a government report won’t be released, he added.  <a href="https://nyti.ms/44FehGJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 3, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>Big Farms and Flawless Fries Are Gulping Water in the Land of 10,000 Lakes</h3>
 <sub>By Dionne Searcey and Mira Rojanasakul</sub>
 <p>When Minnesota farmers cranked up their powerful wells, they blew through state limits. Thirsty crops included corn, soybeans and perfect, fry-friendly potatoes.  <a href="https://nyti.ms/3Z9a399"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>America Is Using Up Its Groundwater Like There’s No Tomorrow</h3>
-<sub>By Mira Rojanasakul, Christopher Flavelle, Blacki Migliozzi and Eli Murray</sub>
-<p>Unchecked overuse is draining and damaging aquifers nationwide, a data investigation by the New York Times revealed, threatening millions of people and America’s status as a food superpower.  <a href="https://nyti.ms/3soZaDM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>China to Its People: Spies Are Everywhere, Help Us Catch Them</h3>
-<sub>By Vivian Wang</sub>
-<p>As Beijing tries to enlist the “whole of society” to guard against foreign enemies, the line between vigilance and paranoia fades.  <a href="https://nyti.ms/46dIs9l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>How Xi Returned China to One-Man Rule</h3>
-<sub>By Weiyi Cai, Aaron Byrd, Chris Buckley and Pablo Robles</sub>
-<p>For decades, China built guardrails to prevent another Mao. Here’s how Xi Jinping has dismantled them and created his own machinery of power.  <a href="https://nyti.ms/3qWcLCb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 2, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trapped by Rain and Mud, Attendees at Burning Man Fest Bear Down, and Many Party On</h3>
+<sub>By Finn-Olaf Jones, Anna Betts and Amanda Holpuch</sub>
+<p>Officials were urging the thousands of campers to conserve food and water as access to the site remained limited on Sunday and the police investigated one death.  <a href="https://nyti.ms/3PmbpKy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Thousands of Attendees Trapped at Burning Man Festival Brace for More Rain</h3>
-<sub>By Anna Betts, Orlando Mayorquin and Eduardo Medina</sub>
-<p>Officials were urging campers to conserve food and water as access to the site remained limited on Sunday and the police investigated one death.  <a href="https://nyti.ms/3PmbpKy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Burning Man 2023: What We Know</h3>
+<sub>By Amanda Holpuch</sub>
+<p>Thousands of people were stuck at the Burning Man festival in Nevada this weekend because of rain and mud. It was not clear when, or how, attendees would get out.  <a href="https://nyti.ms/3YYKAiN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>To Experience Paris Up Close and Personal, Plunge Into a Public Pool</h3>
+<sub>By Catherine Porter</sub>
+<p>Swimming in Paris is a full-on cultural experience, offering intimate views into the French psyche, which is on near-naked display in the swimming lanes, locker rooms and (mostly coed) showers.  <a href="https://nyti.ms/3R6wfyW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -104,35 +128,11 @@ There are a lot of worrying things happening in the world right now. In Minnesot
 <p>Under the ruling, Florida is forbidden to use the map in the 2024 election, and state legislators are required to draw a new one. But the decision can be appealed.  <a href="https://nyti.ms/3L3fa56"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Never-Ending Nightmare of Ukraine’s Dam Disaster</h3>
-<sub>By Jeffrey Gettleman and Finbarr O’Reilly</sub>
-<p>Environmentally, economically and in terms of pure human suffering, the destruction of the Kakhovka dam unleashed untold damage. Months later, many communities are still reeling.  <a href="https://nyti.ms/3R1UM8d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Three American Lives Forever Changed by a Weapon Now Being Sent to Ukraine</h3>
-<sub>By John Ismay</sub>
-<p>The mother of a Marine and two veterans who served in Iraq reflect on the U.S. decision to send failure-prone shells to help the Ukrainian military battle Russia.  <a href="https://nyti.ms/3R3MOeE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia Attacks Ukrainian River Port, Injuring at Least 2</h3>
-<sub>By Vivek Shankar and Constant Méheut</sub>
-<p>The assault in the Odesa region came as Ukraine’s president said two more ships had traveled through a temporary corridor established by Kyiv after Moscow pulled out of the Black Sea grain deal.  <a href="https://nyti.ms/4802LbH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 3, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Maui Sent an Evacuation Alert. Why Did So Few People Get It?</h3>
 <sub>By Mike Baker, Sergio Olmos and Eileen Sullivan</sub>
 <p>The Hawaii wildfire offered insights into the promises and shortcomings of a wireless alert system that relies on cellphones for emergency warnings.  <a href="https://nyti.ms/3EkswWR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>When Coco Gauff and Zendaya Need Tennis Tips, They Ask Brad Gilbert</h3>
-<sub>By Matthew Futterman</sub>
-<p>Gilbert, a former pro, coached Andre Agassi to a U.S. Open victory in 1994. Now he’s advising Gauff — in between calling matches — at this year’s tournament.  <a href="https://nyti.ms/3R6vu8S"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 2, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
