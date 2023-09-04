@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, September 3, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. In Ukraine, President Zelensky has replaced the Defense Minister as part of a response to Russia&#39;s full-scale invasion. The US recently sent failure-prone shells to help the Ukrainian military battle Russia, and South Africa is rebutting US charges that it provided arms to fight Ukraine. On the business side, a potential auto strike looms in Detroit at the Big 3 US auto companies, while also more strikes occurred this summer in comparison to decades past. Meanwhile, farms are consuming more water than usual in Minnesota as they cranked up powerful wells. At the Burning Man festival in Nevada on the US side of things, attendees were stuck because of rain and mud and one death was being investigated. Lastly, in Los Angeles a political brawl occurred over a City Council map, and in Florida a Judge ruled that their congressional map hurt black voters which requires state legislators to draw a new one.</p>
+There is a lot going on around the world right now. In Ukraine, President Zelensky is replacing the defense minister and the US is sending faulty weapons to help Ukraine fight against Russia. In South Africa, a government investigation has disproved American accusations of Russian arms shipments. Meanwhile, in the US, there are labor strikes across different sectors and communities and a case of gerrymandering in LA, while also in the US Native American boarding schools have been revealed for systematically removing Native children from their families.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Zelensky Replaces Defense Minister, Citing Need for ‘New Approaches’</h3>
@@ -99,9 +99,9 @@ There is a lot happening in the world right now. In Ukraine, President Zelensky 
 <sub><sub>Sunday, September 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trapped by Rain and Mud, Attendees at Burning Man Fest Bear Down, and Many Party On</h3>
+<h3>Amid Rain and Mud, Climactic ‘Burn’ Is Delayed at Burning Man Fest</h3>
 <sub>By Finn-Olaf Jones, Anna Betts and Amanda Holpuch</sub>
-<p>Officials were urging campers to conserve food and water as access to the site remained limited on Sunday and the police investigated one death.  <a href="https://nyti.ms/3PmbpKy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Officials urged campers to conserve food and water on Sunday, as the police investigated one death. The annual burning of a manlike figure was postponed.  <a href="https://nyti.ms/3PmbpKy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
