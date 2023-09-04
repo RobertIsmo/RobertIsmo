@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, September 4, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. In Ukraine, a new defense minister has been appointed to try and address the country&#39;s ongoing challenge with military corruption, while in the US, the Navy is struggling to update its methods for coping with newer global threats. Meanwhile, there&#39;s a conservative push in Texas to keep their attorney general in office, and new high school graduates face conflicting advice as they apply to college withoutinput from affirmative action policies. In the UK, the prime minister is relying on divisive politics ahead of an upcoming election. And at home, Burning Man festival-goers are stuck in the desert due to rainstorms while plenty of Americans remain excited about US Open tennis tournament winners.</p>
+Right now, there is a lot of focus on the geopolitical issues happening around the world. In Ukraine, there is military graft and corruption in the government that has been coming to light and President Volodymyr Zelensky is facing criticism for it. In the US Navy, they are trying to adjust to changing threats with new vessels but there is a push for traditional ships due to political influence and jobs. Texas Attorney General Ken Paxton&#39;s impeachment trial is starting Tuesday and his future in the Republican Party is uncertain. In China, their leader Xi Jinping may be skipping the annual G20 summit, which is being held in India this year. Lastly, in the UK, their Prime Minister Rishi Sunak is trying to harness divisive politics as they move toward an election next year.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>‘Where Is the Money?’ Military Graft Becomes a Headache for Ukraine</h3>
@@ -87,12 +87,6 @@ There&#39;s a lot going on in the world right now. In Ukraine, a new defense min
 <sub><sub>Monday, September 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Affirmative Action Is Over. Should Applicants Still Mention Their Race?</h3>
-<sub>By Jessica Cheung</sub>
-<p>The first high school seniors to apply to college since the Supreme Court’s landmark decision are trying to sort through a morass of conflicting guidance.  <a href="https://nyti.ms/3sEtdro"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
 <h3>Anderson Cooper Is Still Learning to Live With Loss</h3>
 <sub>By David Marchese</sub>
 <p>“The fact that I’m 56 and still realizing I never grieved when I was 11? That’s ridiculous,” says the CNN anchor.  <a href="https://nyti.ms/3QZCW5I"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -110,10 +104,28 @@ There&#39;s a lot going on in the world right now. In Ukraine, a new defense min
 <p>The annual festival started as an impromptu bonfire, but now attracts tens of thousands of revelers a year. How did it get here?  <a href="https://nyti.ms/45MJYPo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 3, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Affirmative Action Is Over. Should Applicants Still Mention Their Race?</h3>
+<sub>By Jessica Cheung</sub>
+<p>The first high school seniors to apply to college since the Supreme Court’s landmark decision are trying to sort through a morass of conflicting guidance.  <a href="https://nyti.ms/3sEtdro"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Jimmy Buffett Was More Than Beaches and Booze</h3>
+<sub>By Jon Pareles</sub>
+<p>There was wistfulness behind party tunes like “Margaritaville.” Buffett helped listeners feel like they’d earned the good times just by holding on.  <a href="https://nyti.ms/3P0I8Um"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Jimmy Buffett Died of Rare Form of Skin Cancer</h3>
+<sub>By Ben Sisario</sub>
+<p>The singer’s website said he had Merkel cell carcinoma for four years and died at his home on Long Island.  <a href="https://nyti.ms/3qXHP4v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 4, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>China’s Leader Looks Set to Skip G20 Summit in Snub to India</h3>
 <sub>By David Pierson and Sameer Yasir</sub>
-<p>Xi Jinping has never missed the annual Group of 20 gathering since taking power in 2012. Beijing would not explain his apparent decision to forgo the event.  <a href="https://nyti.ms/44DdrKF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Xi Jinping has never missed the annual Group of 20 gathering since taking power in 2012. Beijing would not explain his apparent decision to forgo the event in New Delhi.  <a href="https://nyti.ms/44DdrKF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -121,18 +133,6 @@ There&#39;s a lot going on in the world right now. In Ukraine, a new defense min
 <sub>By Mark Landler</sub>
 <p>Climate. Refugees. Crime. With an election looming next year, the prime minister and his party are turning to populist issues.  <a href="https://nyti.ms/45Egdk4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>At the U.S. Open, It Feels Like the Fourth of July</h3>
-<sub>By Matthew Futterman</sub>
-<p>It has been several decades since American tennis players dominated en masse this deep into their home Grand Slam tournament. The American tennis party looks to continue for at least a few more days.  <a href="https://nyti.ms/3qRm5aG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Iga Swiatek, No. 1 Seed at U.S. Open, Loses in Fourth Round</h3>
-<sub>By Jesus Jiménez</sub>
-<p>Swiatek, the top-ranked woman, lost to Jelena Ostapenko in three sets.  <a href="https://nyti.ms/45EhmZ4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
