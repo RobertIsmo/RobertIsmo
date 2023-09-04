@@ -60,22 +60,10 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, September 3, Central Standard Time</p>
 <p>
-There have been a lot of labor disputes in the US this summer, with unions and companies negotiating contracts and sometimes threatening strikes. Internationally, there&#39;s been news about political shake-ups and military conflict in Ukraine. The US sent weapons to Ukraine that were linked to the deaths of 3 Americans in Iraq. There have also been conflicts over water rights in Minnesota, and a scandal over gerrymandering in Los Angeles. Finally, Florida was ruled to have violated the Voting Rights Act by creating an illegal congressional map. In Hawaii, there has been some confusion over evacuation alerts due to a faulty wireless alert system.</p>
+There is a lot happening in the world right now. In Ukraine, President Zelensky has replaced the Defense Minister as part of a response to Russia&#39;s full-scale invasion. The US recently sent failure-prone shells to help the Ukrainian military battle Russia, and South Africa is rebutting US charges that it provided arms to fight Ukraine. On the business side, a potential auto strike looms in Detroit at the Big 3 US auto companies, while also more strikes occurred this summer in comparison to decades past. Meanwhile, farms are consuming more water than usual in Minnesota as they cranked up powerful wells. At the Burning Man festival in Nevada on the US side of things, attendees were stuck because of rain and mud and one death was being investigated. Lastly, in Los Angeles a political brawl occurred over a City Council map, and in Florida a Judge ruled that their congressional map hurt black voters which requires state legislators to draw a new one.</p>
 <ol>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Auto Strike Looms, Threatening to Shut Detroit’s Big 3</h3>
-<sub>By Neal E. Boudette</sub>
-<p>With their contract expiring Sept. 14, the United Auto Workers and the companies are far apart in talks. A walkout could take a big economic toll.  <a href="https://nyti.ms/3P5j3HS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>A Summer of Strikes</h3>
-<sub>By Molly Cook Escobar and Christine Zhang</sub>
-<p>See how a wave of labor activity in the United States this summer compares with decades past.  <a href="https://nyti.ms/3Z46LnN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 3, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Zelensky Says He’ll Replace Ukraine’s Defense Minister</h3>
+<h3>Zelensky Replaces Defense Minister, Citing Need for ‘New Approaches’</h3>
 <sub>By Andrew E. Kramer</sub>
 <p>The fate of the defense minister, Oleksii Reznikov, had been the subject of increasing speculation in Ukraine. It was the biggest shake-up in Ukraine’s government since Russia’s full-scale invasion.  <a href="https://nyti.ms/48b3K9k"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 3, Central Standard Time</sub></sub>
@@ -92,6 +80,18 @@ There have been a lot of labor disputes in the US this summer, with unions and c
 <p>A government investigation about a Russian ship contradicts U.S. accusations that South Africa provided arms to fight Ukraine, President Cyril Ramaphosa said. But a government report won’t be released, he added.  <a href="https://nyti.ms/44FehGJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 3, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Auto Strike Looms, Threatening to Shut Detroit’s Big 3</h3>
+<sub>By Neal E. Boudette</sub>
+<p>With their contract expiring Sept. 14, the United Auto Workers and the companies are far apart in talks. A walkout could take a big economic toll.  <a href="https://nyti.ms/3P5j3HS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>A Summer of Strikes</h3>
+<sub>By Molly Cook Escobar and Christine Zhang</sub>
+<p>See how a wave of labor activity in the United States this summer compares with decades past.  <a href="https://nyti.ms/3Z46LnN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 3, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>Big Farms and Flawless Fries Are Gulping Water in the Land of 10,000 Lakes</h3>
 <sub>By Dionne Searcey and Mira Rojanasakul</sub>
@@ -101,7 +101,7 @@ There have been a lot of labor disputes in the US this summer, with unions and c
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trapped by Rain and Mud, Attendees at Burning Man Fest Bear Down, and Many Party On</h3>
 <sub>By Finn-Olaf Jones, Anna Betts and Amanda Holpuch</sub>
-<p>Officials were urging the thousands of campers to conserve food and water as access to the site remained limited on Sunday and the police investigated one death.  <a href="https://nyti.ms/3PmbpKy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Officials were urging campers to conserve food and water as access to the site remained limited on Sunday and the police investigated one death.  <a href="https://nyti.ms/3PmbpKy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -129,10 +129,10 @@ There have been a lot of labor disputes in the US this summer, with unions and c
 <sub><sub>Sunday, September 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Maui Sent an Evacuation Alert. Why Did So Few People Get It?</h3>
-<sub>By Mike Baker, Sergio Olmos and Eileen Sullivan</sub>
-<p>The Hawaii wildfire offered insights into the promises and shortcomings of a wireless alert system that relies on cellphones for emergency warnings.  <a href="https://nyti.ms/3EkswWR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 3, Central Standard Time</sub></sub>
+<h3>‘War Against the Children’</h3>
+<sub>By Zach Levitt, Yuliya Parshina-Kottas, Simon Romero and Tim Wallace</sub>
+<p>New research reveals the vast scope of the Native American boarding school system, which for more than a century removed Native children from their homes and families in an effort to assimilate them. Students at the schools gave up their names, their labor and sometimes their lives.  <a href="https://nyti.ms/3qXvm0D"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
