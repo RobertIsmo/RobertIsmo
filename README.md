@@ -60,30 +60,37 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, September 4, Central Standard Time</p>
 <p>
-I&#39;ve got some interesting news from around the world. In Ukraine, there&#39;s been a challenge to political corruption after the defense minister was removed. The US Navy is facing evolution threats and is attempting to adapt, while Texas attorney general Ken Paxton is under conservative pressure to avoid impeachment. At 97, Elaine LaLanne has become a model for aging well as a first lady of fitness, while Smash Mouth&#39;s old lead singer Steve Harwell passed away last week. Thousands of Burning Man attendees were stranded in Nevada due to torrential rain over the weekend and may be able to leave on Monday. Paul McCartney&#39;s lost bass guitar from his Beatles days is being searched for now in a new campaign, meanwhile CNN anchor Anderson Cooper has opened up about his own grief during childhood. Lastly, countries are making progress towards clean energy use through investments in Congolese solar power, while The Folk Implosion recently reunited during the pandemic to release more music since their 1999 LP.</p>
+There is a lot happening in the world lately. Kim Jong-un and Vladimir Putin are set to meet in Russia at the end of this month to discuss weapons development, while a Russian general detained after a Wagner mutiny was recently released. In China, one of their biggest homebuilders is struggling as the economy slows down. 
+At 97, famed first lady of fitness Elaine LaLanne is still influencing the industry. Meanwhile, the US Navy is debating how to face evolving threats with bigger shipbuilding programs. There&#39;s been some musical losses recently as well - former lead singer of Smash Mouth Steve Harwell passed away and fans are searching for Paul McCartney&#39;s lost bass guitar. Additionally, Marilyn Lovell, wife of astronaut Jim Lovell from Apollo 13, passed away at 93 this year. Last but not least, Burning Man attendees have had to scramble due to severe flooding in Nevada.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Kim Jong-un and Putin Plan to Meet in Russia to Discuss Weapons</h3>
+<sub>By Edward Wong and Julian E. Barnes</sub>
+<p>Russia seeks more weaponry for its war in Ukraine, and a North Korean delegation recently traveled to Russia by train to plan for Mr. Kim’s visit this month, officials say.  <a href="https://nyti.ms/4825m5e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 4, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘Where Is the Money?’ Military Graft Becomes a Headache for Ukraine</h3>
-<sub>By Andrew E. Kramer</sub>
-<p>The removal of the defense minister highlights the enduring challenge of corruption in Ukraine, which has emerged as a rare area of criticism of President Volodymyr Zelensky’s leadership.  <a href="https://nyti.ms/3OVABWM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Top Russian General Detained After Wagner Mutiny Is Released</h3>
+<sub>By Paul Sonne, Anatoly Kurmanaev and Julian E. Barnes</sub>
+<p>Gen. Sergei Surovikin, who was seen as an ally of the mercenary leader Yevgeny V. Prigozhin, has re-emerged in public.  <a href="https://nyti.ms/3EpMRda"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>China’s Biggest Homebuilder Reels as Economy Slows</h3>
+<sub>By Daisuke Wakabayashi and Claire Fu</sub>
+<p>Once considered a survivor of China’s real estate turmoil, Country Garden is now at the center of the crisis and threatens the broader economy.  <a href="https://nyti.ms/44EVsmS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>At 97, the First Lady of Fitness Is Still Shaping the Industry</h3>
+<sub>By Danielle Friedman and Michael Tyrone Delaney</sub>
+<p>Elaine LaLanne — who revolutionized modern exercise alongside her husband, Jack — is a model for aging well.  <a href="https://nyti.ms/3R6TpFb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Faced With Evolving Threats, U.S. Navy Struggles to Change</h3>
 <sub>By Eric Lipton</sub>
 <p>A new generation of cheaper and more flexible vessels could be vital in any conflict with China, but the Navy remains lashed to big shipbuilding programs driven by tradition, political influence and jobs.  <a href="https://nyti.ms/3Eor9pZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Conservative Push to Save Ken Paxton</h3>
-<sub>By J. David Goodman</sub>
-<p>The effort to help the Texas attorney general, whose impeachment trial starts Tuesday, is part of an ongoing struggle over the Republican Party’s future.  <a href="https://nyti.ms/45SlV1t"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>At 97, the First Lady of Fitness Is Still Shaping the Industry</h3>
-<sub>By Danielle Friedman and Michael Tyrone Delaney</sub>
-<p>Elaine LaLanne — who revolutionized modern exercise alongside her husband, Jack — is a model for aging well.  <a href="https://nyti.ms/3R6TpFb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
@@ -93,7 +100,19 @@ I&#39;ve got some interesting news from around the world. In Ukraine, there&#39;
 <sub><sub>Monday, September 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Burning Man Attendees May Get to Leave on Monday</h3>
+<h3>A Conservative Push to Save Ken Paxton</h3>
+<sub>By J. David Goodman</sub>
+<p>The effort to help the Texas attorney general, whose impeachment trial starts Tuesday, is part of an ongoing struggle over the Republican Party’s future.  <a href="https://nyti.ms/45SlV1t"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Nikki Haley Has a Playbook for Winning Tough Races, but 2024 Is Different</h3>
+<sub>By Jazmine Ulloa</sub>
+<p>Still pitching herself as a political outsider, Ms. Haley now has a political résumé that includes a stint in the Trump administration. Then there’s Mr. Trump himself.  <a href="https://nyti.ms/47WsC4l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Burning Man Attendees Begin to Leave Soggy Festival Site</h3>
 <sub>By Finn-Olaf Jones, Jack Healy and Derrick Bryson Taylor</sub>
 <p>Thousands of people have been stranded for days at the festival’s remote desert site in Nevada because of torrential rain.  <a href="https://nyti.ms/44EqdbV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 4, Central Standard Time</sub></sub>
@@ -110,28 +129,10 @@ I&#39;ve got some interesting news from around the world. In Ukraine, there&#39;
 <p>For decades, mystery has surrounded the fate of the missing bass that accompanied the Beatles as they rocketed to fame. A new campaign is trying to find it.  <a href="https://nyti.ms/3qXWexA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Anderson Cooper Is Still Learning to Live With Loss</h3>
-<sub>By David Marchese</sub>
-<p>“The fact that I’m 56 and still realizing I never grieved when I was 11? That’s ridiculous,” says the CNN anchor.  <a href="https://nyti.ms/3QZCW5I"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 3, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Nikki Haley Has a Playbook for Winning Tough Races, but 2024 Is Different</h3>
-<sub>By Jazmine Ulloa</sub>
-<p>Still pitching herself as a political outsider, Ms. Haley now has a political résumé that includes a stint in the Trump administration. Then there’s Mr. Trump himself.  <a href="https://nyti.ms/47WsC4l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Clean Energy Projects Are Booming Everywhere. Except in Poor Nations.</h3>
-<sub>By Max Bearak</sub>
-<p>A big obstacle is the lack of loans, a subject of intense disagreement between richer and poorer countries. But in Congo, a hard-fought solar investment shows a possible path forward.  <a href="https://nyti.ms/3P5XF54"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>The Folk Implosion’s Music From ‘Kids’ Is Returning. The Band Is, Too.</h3>
-<sub>By Jeremy Gordon</sub>
-<p>Lou Barlow and John Davis made tracks for the 1995 cultural flashpoint. They split after a 1999 LP, but reunited during the pandemic, and made plans to release more songs.  <a href="https://nyti.ms/45WBg1a"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Marilyn Lovell, Astronaut’s Wife in the Spotlight, Dies at 93</h3>
+<sub>By Alex Traub</sub>
+<p>She embodied the glamour and the hardship of being married to an American hero. Her husband, Jim Lovell, was the captain of the ill-fated Apollo 13 mission.  <a href="https://nyti.ms/45D2g63"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
