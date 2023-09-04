@@ -58,20 +58,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Sunday, September 3, Central Standard Time</p>
+<p>It is Monday, September 4, Central Standard Time</p>
 <p>
-There is a lot going on around the world right now. In Ukraine, President Zelensky is replacing the defense minister and the US is sending faulty weapons to help Ukraine fight against Russia. In South Africa, a government investigation has disproved American accusations of Russian arms shipments. Meanwhile, in the US, there are labor strikes across different sectors and communities and a case of gerrymandering in LA, while also in the US Native American boarding schools have been revealed for systematically removing Native children from their families.</p>
+Right now in the world there is a lot of political activity. Ukrainian president Zelensky recently replaced the defense minister, saying it was necessary for new approaches. In South Africa, President Cyril Ramaphosa has rebuked U.S. accusations that his country supplied arms to help fight Ukraine. The United Auto Workers and the big three Detroit automakers are in negotiations for a new contract, but a strike could take place if they cannot reach an agreement. Additionally, this summer has been filled with many labor strikes across the United States. In Minnesota, farmers have been using too much water to grow crops like corn and soybeans, leading to shortages. At Burning Man festival in Nevada last weekend, rain and mud held up the attendees and forced organizers to delay the burning of the manlike figure. At another event in Paris, swimming has become a full cultural experience for different people from all walks of life. In Los Angeles, a new city council map caused a huge political debate with allegations of racism surfacing in the process. Also, in Florida, there was an illegal redistricting ruling that targeted black voters and state legislators are now tasked with drawing a new map for 2024 elections. Finally, research has been done into the Native American boarding school system which forcibly removed Native children from their homes and families for more than a century in order to try and assimilate them.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Zelensky Replaces Defense Minister, Citing Need for ‘New Approaches’</h3>
 <sub>By Andrew E. Kramer</sub>
 <p>The fate of the defense minister, Oleksii Reznikov, had been the subject of increasing speculation in Ukraine. It was the biggest shake-up in Ukraine’s government since Russia’s full-scale invasion.  <a href="https://nyti.ms/48b3K9k"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Three American Lives Forever Changed by a Weapon Now Being Sent to Ukraine</h3>
-<sub>By John Ismay</sub>
-<p>The mother of a Marine and two veterans who served in Iraq reflect on the U.S. decision to send failure-prone shells to help the Ukrainian military battle Russia.  <a href="https://nyti.ms/3R3MOeE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -108,6 +102,12 @@ There is a lot going on around the world right now. In Ukraine, President Zelens
 <h3>Burning Man 2023: What We Know</h3>
 <sub>By Amanda Holpuch</sub>
 <p>Thousands of people were stuck at the Burning Man festival in Nevada this weekend because of rain and mud. It was not clear when, or how, attendees would get out.  <a href="https://nyti.ms/3YYKAiN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>What Is Burning Man, and Why Have Paris Hilton and Elon Musk Shown Up?</h3>
+<sub>By Callie Holtermann</sub>
+<p>The annual festival started as an impromptu bonfire, but now attracts tens of thousands of revelers a year. How did it get here?  <a href="https://nyti.ms/45MJYPo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
