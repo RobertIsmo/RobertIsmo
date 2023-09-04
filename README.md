@@ -60,49 +60,49 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, September 4, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In Ukraine, the president, Zelensky, has replaced the defense minister due to a need for &#39;new approaches&#39;. South Africa is also rebutting accusations from the US regarding Russian arms in their country. In Detroit, there is an impending auto strike which could have a big economic impact. A wave of labor activity has spread across the US this summer. In Minnesota, big farms are draining water from the land of 10,000 Lakes. At the Burning Man Festival in Nevada, attendees were stuck because of rain and mud - it was unclear when or how they could leave. We&#39;ve also seen controversy around city council maps in Los Angeles and congressional maps in Florida that hurt black voters. Finally, new research reveals the vast scope of the Native American boarding school system over the past century which removed Native children from their homes and families in an effort to assimilate them.</p>
+There&#39;s a lot going on in the world right now. In Ukraine, a new defense minister has been appointed to try and address the country&#39;s ongoing challenge with military corruption, while in the US, the Navy is struggling to update its methods for coping with newer global threats. Meanwhile, there&#39;s a conservative push in Texas to keep their attorney general in office, and new high school graduates face conflicting advice as they apply to college withoutinput from affirmative action policies. In the UK, the prime minister is relying on divisive politics ahead of an upcoming election. And at home, Burning Man festival-goers are stuck in the desert due to rainstorms while plenty of Americans remain excited about US Open tennis tournament winners.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Zelensky Replaces Defense Minister, Citing Need for ‘New Approaches’</h3>
+<h3>‘Where Is the Money?’ Military Graft Becomes a Headache for Ukraine</h3>
 <sub>By Andrew E. Kramer</sub>
-<p>The fate of the defense minister, Oleksii Reznikov, had been the subject of increasing speculation in Ukraine. It was the biggest shake-up in Ukraine’s government since Russia’s full-scale invasion.  <a href="https://nyti.ms/48b3K9k"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 3, Central Standard Time</sub></sub>
+<p>The removal of the defense minister highlights the enduring challenge of corruption in Ukraine, which has emerged as a rare area of criticism of President Volodymyr Zelensky’s leadership.  <a href="https://nyti.ms/3OVABWM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>South African Inquiry Rebuts U.S. Charge on Russian Arms</h3>
-<sub>By John Eligon and Lynsey Chutel</sub>
-<p>A government investigation about a Russian ship contradicts U.S. accusations that South Africa provided arms to fight Ukraine, President Cyril Ramaphosa said. But a government report won’t be released, he added.  <a href="https://nyti.ms/44FehGJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 3, Central Standard Time</sub></sub>
+<h3>Who Is Rustem Umerov, Zelensky’s Nominee for Defense Minister of Ukraine?</h3>
+<sub>By Anushka Patil and Andrew E. Kramer</sub>
+<p>Though a member of an opposition political party, Mr. Umerov has taken on several critical roles for the Zelensky government since the Russian invasion last year.  <a href="https://nyti.ms/3P6cHbj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Auto Strike Looms, Threatening to Shut Detroit’s Big 3</h3>
-<sub>By Neal E. Boudette</sub>
-<p>With their contract expiring Sept. 14, the United Auto Workers and the companies are far apart in talks. A walkout could take a big economic toll.  <a href="https://nyti.ms/3P5j3HS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 3, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Faced With Evolving Threats, U.S. Navy Struggles to Change</h3>
+<sub>By Eric Lipton</sub>
+<p>A new generation of cheaper and more flexible vessels could be vital in any conflict with China, but the Navy remains lashed to big shipbuilding programs driven by tradition, political influence and jobs.  <a href="https://nyti.ms/3Eor9pZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>A Summer of Strikes</h3>
-<sub>By Molly Cook Escobar and Christine Zhang</sub>
-<p>See how a wave of labor activity in the United States this summer compares with decades past.  <a href="https://nyti.ms/3Z46LnN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 3, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Conservative Push to Save Ken Paxton</h3>
+<sub>By J. David Goodman</sub>
+<p>The effort to help the Texas attorney general, whose impeachment trial starts Tuesday, is part of an ongoing struggle over the Republican Party’s future.  <a href="https://nyti.ms/45SlV1t"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Big Farms and Flawless Fries Are Gulping Water in the Land of 10,000 Lakes</h3>
-<sub>By Dionne Searcey and Mira Rojanasakul</sub>
-<p>When Minnesota farmers cranked up their powerful wells, they blew through state limits. Thirsty crops included corn, soybeans and perfect, fry-friendly potatoes.  <a href="https://nyti.ms/3Z9a399"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Affirmative Action Is Over. Should Applicants Still Mention Their Race?</h3>
+<sub>By Jessica Cheung</sub>
+<p>The first high school seniors to apply to college since the Supreme Court’s landmark decision are trying to sort through a morass of conflicting guidance.  <a href="https://nyti.ms/3sEtdro"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Anderson Cooper Is Still Learning to Live With Loss</h3>
+<sub>By David Marchese</sub>
+<p>“The fact that I’m 56 and still realizing I never grieved when I was 11? That’s ridiculous,” says the CNN anchor.  <a href="https://nyti.ms/3QZCW5I"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Amid Rain and Mud, Climactic ‘Burn’ Is Delayed at Burning Man Fest</h3>
-<sub>By Finn-Olaf Jones, Anna Betts and Amanda Holpuch</sub>
-<p>Officials urged campers to conserve food and water on Sunday, as the police investigated one death. The annual burning of a manlike figure was postponed.  <a href="https://nyti.ms/3PmbpKy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What Happened at Burning Man</h3>
-<sub>By Amanda Holpuch</sub>
-<p>Thousands of people were stuck at the Burning Man festival in Nevada this weekend because of rain and mud. It was not clear when, or how, attendees would get out.  <a href="https://nyti.ms/3YYKAiN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 3, Central Standard Time</sub></sub>
+<h3>Burning Man Attendees May Get to Leave on Monday</h3>
+<sub>By Derrick Bryson Taylor and Finn-Olaf Jones</sub>
+<p>Thousands of people have been stranded for days at the festival’s remote desert site in Nevada because of torrential rain.  <a href="https://nyti.ms/44EqdbV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
 <h3>What Is Burning Man, and Why Have Paris Hilton and Elon Musk Shown Up?</h3>
@@ -111,28 +111,28 @@ There is a lot going on in the world right now. In Ukraine, the president, Zelen
 <sub><sub>Sunday, September 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>To Experience Paris Up Close and Personal, Plunge Into a Public Pool</h3>
-<sub>By Catherine Porter</sub>
-<p>Swimming in Paris is a full-on cultural experience, offering intimate views into the French psyche, which is on near-naked display in the swimming lanes, locker rooms and (mostly coed) showers.  <a href="https://nyti.ms/3R6wfyW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>China’s Leader Looks Set to Skip G20 Summit in Snub to India</h3>
+<sub>By David Pierson and Sameer Yasir</sub>
+<p>Xi Jinping has never missed the annual Group of 20 gathering since taking power in 2012. Beijing would not explain his apparent decision to forgo the event.  <a href="https://nyti.ms/44DdrKF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Rishi Sunak, Behind in U.K. Polls, Embraces Divisive Politics</h3>
+<sub>By Mark Landler</sub>
+<p>Climate. Refugees. Crime. With an election looming next year, the prime minister and his party are turning to populist issues.  <a href="https://nyti.ms/45Egdk4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>At the U.S. Open, It Feels Like the Fourth of July</h3>
+<sub>By Matthew Futterman</sub>
+<p>It has been several decades since American tennis players dominated en masse this deep into their home Grand Slam tournament. The American tennis party looks to continue for at least a few more days.  <a href="https://nyti.ms/3qRm5aG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How a New City Council Map of L.A. Turned Into a Political Brawl</h3>
-<sub>By Jill Cowan, Serge F. Kovaleski and Leanne Abraham</sub>
-<p>Blatant political gerrymandering occurs in cities across the country, many of them run by Democrats. In Los Angeles, a scandal over a racist recording was only the tip of the iceberg.  <a href="https://nyti.ms/3QZCHaO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Iga Swiatek, No. 1 Seed at U.S. Open, Loses in Fourth Round</h3>
+<sub>By Jesus Jiménez</sub>
+<p>Swiatek, the top-ranked woman, lost to Jelena Ostapenko in three sets.  <a href="https://nyti.ms/45EhmZ4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Florida’s Congressional Map Illegally Hurt Black Voters, Judge Rules</h3>
-<sub>By Maggie Astor</sub>
-<p>Under the ruling, Florida is forbidden to use the map in the 2024 election, and state legislators are required to draw a new one. But the decision can be appealed.  <a href="https://nyti.ms/3L3fa56"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘War Against the Children’</h3>
-<sub>By Zach Levitt, Yuliya Parshina-Kottas, Simon Romero and Tim Wallace</sub>
-<p>New research reveals the vast scope of the Native American boarding school system, which for more than a century removed Native children from their homes and families in an effort to assimilate them. Students at the schools gave up their names, their labor and sometimes their lives.  <a href="https://nyti.ms/3qXvm0D"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 30, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
