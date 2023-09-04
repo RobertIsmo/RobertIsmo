@@ -60,18 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, September 4, Central Standard Time</p>
 <p>
-Right now, there is a lot of focus on the geopolitical issues happening around the world. In Ukraine, there is military graft and corruption in the government that has been coming to light and President Volodymyr Zelensky is facing criticism for it. In the US Navy, they are trying to adjust to changing threats with new vessels but there is a push for traditional ships due to political influence and jobs. Texas Attorney General Ken Paxton&#39;s impeachment trial is starting Tuesday and his future in the Republican Party is uncertain. In China, their leader Xi Jinping may be skipping the annual G20 summit, which is being held in India this year. Lastly, in the UK, their Prime Minister Rishi Sunak is trying to harness divisive politics as they move toward an election next year.</p>
+I&#39;ve got some interesting news from around the world. In Ukraine, there&#39;s been a challenge to political corruption after the defense minister was removed. The US Navy is facing evolution threats and is attempting to adapt, while Texas attorney general Ken Paxton is under conservative pressure to avoid impeachment. At 97, Elaine LaLanne has become a model for aging well as a first lady of fitness, while Smash Mouth&#39;s old lead singer Steve Harwell passed away last week. Thousands of Burning Man attendees were stranded in Nevada due to torrential rain over the weekend and may be able to leave on Monday. Paul McCartney&#39;s lost bass guitar from his Beatles days is being searched for now in a new campaign, meanwhile CNN anchor Anderson Cooper has opened up about his own grief during childhood. Lastly, countries are making progress towards clean energy use through investments in Congolese solar power, while The Folk Implosion recently reunited during the pandemic to release more music since their 1999 LP.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>‘Where Is the Money?’ Military Graft Becomes a Headache for Ukraine</h3>
 <sub>By Andrew E. Kramer</sub>
 <p>The removal of the defense minister highlights the enduring challenge of corruption in Ukraine, which has emerged as a rare area of criticism of President Volodymyr Zelensky’s leadership.  <a href="https://nyti.ms/3OVABWM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Who Is Rustem Umerov, Zelensky’s Nominee for Defense Minister of Ukraine?</h3>
-<sub>By Anushka Patil and Andrew E. Kramer</sub>
-<p>Though a member of an opposition political party, Mr. Umerov has taken on several critical roles for the Zelensky government since the Russian invasion last year.  <a href="https://nyti.ms/3P6cHbj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -86,6 +80,36 @@ Right now, there is a lot of focus on the geopolitical issues happening around t
 <p>The effort to help the Texas attorney general, whose impeachment trial starts Tuesday, is part of an ongoing struggle over the Republican Party’s future.  <a href="https://nyti.ms/45SlV1t"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 4, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>At 97, the First Lady of Fitness Is Still Shaping the Industry</h3>
+<sub>By Danielle Friedman and Michael Tyrone Delaney</sub>
+<p>Elaine LaLanne — who revolutionized modern exercise alongside her husband, Jack — is a model for aging well.  <a href="https://nyti.ms/3R6TpFb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Steve Harwell, Former Smash Mouth Lead Singer, Dies at 56</h3>
+<sub>By Claire Moses and Ben Sisario</sub>
+<p>He was a founding member of the band, which broke out in the late 1990s with hit songs like “Walkin’ on the Sun” and “All Star.”  <a href="https://nyti.ms/45TrlJA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Burning Man Attendees May Get to Leave on Monday</h3>
+<sub>By Finn-Olaf Jones, Jack Healy and Derrick Bryson Taylor</sub>
+<p>Thousands of people have been stranded for days at the festival’s remote desert site in Nevada because of torrential rain.  <a href="https://nyti.ms/44EqdbV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>What Happened at Burning Man</h3>
+<sub>By Amanda Holpuch</sub>
+<p>Thousands of people were hoping to leave the festival’s remote desert site in Nevada on Monday after being stranded over the weekend because of rain and mud.  <a href="https://nyti.ms/3YYKAiN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Have You Seen Paul McCartney’s Lost Bass Guitar? Tips Welcome.</h3>
+<sub>By Isabella Kwai</sub>
+<p>For decades, mystery has surrounded the fate of the missing bass that accompanied the Beatles as they rocketed to fame. A new campaign is trying to find it.  <a href="https://nyti.ms/3qXWexA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 4, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
 <h3>Anderson Cooper Is Still Learning to Live With Loss</h3>
 <sub>By David Marchese</sub>
@@ -93,45 +117,21 @@ Right now, there is a lot of focus on the geopolitical issues happening around t
 <sub><sub>Sunday, September 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Burning Man Attendees May Get to Leave on Monday</h3>
-<sub>By Derrick Bryson Taylor and Finn-Olaf Jones</sub>
-<p>Thousands of people have been stranded for days at the festival’s remote desert site in Nevada because of torrential rain.  <a href="https://nyti.ms/44EqdbV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Nikki Haley Has a Playbook for Winning Tough Races, but 2024 Is Different</h3>
+<sub>By Jazmine Ulloa</sub>
+<p>Still pitching herself as a political outsider, Ms. Haley now has a political résumé that includes a stint in the Trump administration. Then there’s Mr. Trump himself.  <a href="https://nyti.ms/47WsC4l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>What Is Burning Man, and Why Have Paris Hilton and Elon Musk Shown Up?</h3>
-<sub>By Callie Holtermann</sub>
-<p>The annual festival started as an impromptu bonfire, but now attracts tens of thousands of revelers a year. How did it get here?  <a href="https://nyti.ms/45MJYPo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Affirmative Action Is Over. Should Applicants Still Mention Their Race?</h3>
-<sub>By Jessica Cheung</sub>
-<p>The first high school seniors to apply to college since the Supreme Court’s landmark decision are trying to sort through a morass of conflicting guidance.  <a href="https://nyti.ms/3sEtdro"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Clean Energy Projects Are Booming Everywhere. Except in Poor Nations.</h3>
+<sub>By Max Bearak</sub>
+<p>A big obstacle is the lack of loans, a subject of intense disagreement between richer and poorer countries. But in Congo, a hard-fought solar investment shows a possible path forward.  <a href="https://nyti.ms/3P5XF54"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Jimmy Buffett Was More Than Beaches and Booze</h3>
-<sub>By Jon Pareles</sub>
-<p>There was wistfulness behind party tunes like “Margaritaville.” Buffett helped listeners feel like they’d earned the good times just by holding on.  <a href="https://nyti.ms/3P0I8Um"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Jimmy Buffett Died of Rare Form of Skin Cancer</h3>
-<sub>By Ben Sisario</sub>
-<p>The singer’s website said he had Merkel cell carcinoma for four years and died at his home on Long Island.  <a href="https://nyti.ms/3qXHP4v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>China’s Leader Looks Set to Skip G20 Summit in Snub to India</h3>
-<sub>By David Pierson and Sameer Yasir</sub>
-<p>Xi Jinping has never missed the annual Group of 20 gathering since taking power in 2012. Beijing would not explain his apparent decision to forgo the event in New Delhi.  <a href="https://nyti.ms/44DdrKF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Rishi Sunak, Behind in U.K. Polls, Embraces Divisive Politics</h3>
-<sub>By Mark Landler</sub>
-<p>Climate. Refugees. Crime. With an election looming next year, the prime minister and his party are turning to populist issues.  <a href="https://nyti.ms/45Egdk4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>The Folk Implosion’s Music From ‘Kids’ Is Returning. The Band Is, Too.</h3>
+<sub>By Jeremy Gordon</sub>
+<p>Lou Barlow and John Davis made tracks for the 1995 cultural flashpoint. They split after a 1999 LP, but reunited during the pandemic, and made plans to release more songs.  <a href="https://nyti.ms/45WBg1a"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
