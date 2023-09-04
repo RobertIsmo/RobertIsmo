@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, September 4, Central Standard Time</p>
 <p>
-Right now in the world there is a lot of political activity. Ukrainian president Zelensky recently replaced the defense minister, saying it was necessary for new approaches. In South Africa, President Cyril Ramaphosa has rebuked U.S. accusations that his country supplied arms to help fight Ukraine. The United Auto Workers and the big three Detroit automakers are in negotiations for a new contract, but a strike could take place if they cannot reach an agreement. Additionally, this summer has been filled with many labor strikes across the United States. In Minnesota, farmers have been using too much water to grow crops like corn and soybeans, leading to shortages. At Burning Man festival in Nevada last weekend, rain and mud held up the attendees and forced organizers to delay the burning of the manlike figure. At another event in Paris, swimming has become a full cultural experience for different people from all walks of life. In Los Angeles, a new city council map caused a huge political debate with allegations of racism surfacing in the process. Also, in Florida, there was an illegal redistricting ruling that targeted black voters and state legislators are now tasked with drawing a new map for 2024 elections. Finally, research has been done into the Native American boarding school system which forcibly removed Native children from their homes and families for more than a century in order to try and assimilate them.</p>
+There is a lot going on in the world right now. In Ukraine, the president, Zelensky, has replaced the defense minister due to a need for &#39;new approaches&#39;. South Africa is also rebutting accusations from the US regarding Russian arms in their country. In Detroit, there is an impending auto strike which could have a big economic impact. A wave of labor activity has spread across the US this summer. In Minnesota, big farms are draining water from the land of 10,000 Lakes. At the Burning Man Festival in Nevada, attendees were stuck because of rain and mud - it was unclear when or how they could leave. We&#39;ve also seen controversy around city council maps in Los Angeles and congressional maps in Florida that hurt black voters. Finally, new research reveals the vast scope of the Native American boarding school system over the past century which removed Native children from their homes and families in an effort to assimilate them.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Zelensky Replaces Defense Minister, Citing Need for ‘New Approaches’</h3>
@@ -99,7 +99,7 @@ Right now in the world there is a lot of political activity. Ukrainian president
 <sub><sub>Sunday, September 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Burning Man 2023: What We Know</h3>
+<h3>What Happened at Burning Man</h3>
 <sub>By Amanda Holpuch</sub>
 <p>Thousands of people were stuck at the Burning Man festival in Nevada this weekend because of rain and mud. It was not clear when, or how, attendees would get out.  <a href="https://nyti.ms/3YYKAiN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 3, Central Standard Time</sub></sub>
