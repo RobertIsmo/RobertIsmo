@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, September 5, Central Standard Time</p>
 <p>
-There are a lot of interesting developments around the world right now. In the U.S., budget threats have receded and economists are looking at how to reimagine city centers. In Ukraine, a legacy of World War II still lingers as North Korea gets involved in their conflict and looks to get new missile and warhead technology from Russia. On top of that, there&#39;s been a surge of students with allergies and dietary restrictions on college campuses, while Americans are increasingly losing faith in the value of higher education. Meanwhile, China is making an impression on the Munich Auto Show and Saudi Arabia is looking to make a deal with Israel, while Palestinians use new tactics to try to gain sway in the negotiations. Finally, Coco Gauff has become the queen of this year&#39;s U.S. Open tennis tournament.</p>
+There are a lot of interesting things happening across the world right now. In the US, the threat to the budget has receded, and a federal court has struck down Alabama&#39;s congressional map. On the global front, North Korea is likely to seek more missile and warhead technology in an upcoming visit to Russia, while Kenya is offering to send boots on the ground to help the security crisis in Haiti. Meanwhile, China is dominating the car market at Munich’s auto show and Americans are losing faith in college education value. In science news, two astronomers have traveled 13.8 billion years back in time and archaeologists have found remains of a suspected child revenant!</p>
 <ol>
 <img src="https://img.shields.io/badge/-upshot-blue" alt="">
 <h3>A Huge Threat to the U.S. Budget Has Receded. And No One Is Sure Why.</h3>
@@ -69,16 +69,16 @@ There are a lot of interesting developments around the world right now. In the U
 <sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>3 Bullets, 2 Wars, 1 Village</h3>
-<sub>By Thomas Gibbons-Neff</sub>
-<p>The legacy of World War II lingers in the Ukrainian town of Kamianka, where tractors spit out shell casings, old and new. Now it has been destroyed by a new conflict.  <a href="https://nyti.ms/47XEWS3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>North Korea Finds New Leverage in the Ukraine War</h3>
 <sub>By Choe Sang-Hun</sub>
 <p>Kim Jong-un is likely to seek missile and warhead technology in an expected visit to Russia, and he is already getting a public embrace he has long sought.  <a href="https://nyti.ms/45CcxiR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>3 Bullets, 2 Wars, 1 Village</h3>
+<sub>By Thomas Gibbons-Neff</sub>
+<p>The legacy of World War II lingers in the Ukrainian town of Kamianka, where tractors spit out shell casings, old and new. Now it has been destroyed by a new conflict.  <a href="https://nyti.ms/47XEWS3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-upshot-blue" alt="">
 <h3>The Ground-Floor Window Into What’s Ailing Downtowns</h3>
@@ -98,12 +98,6 @@ There are a lot of interesting developments around the world right now. In the U
 <p>For most people, the new economics of higher ed make going to college a risky bet.  <a href="https://nyti.ms/3L7HqmQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-dining-blue" alt="">
-<h3>The New Reality for College Dining Halls: Dozens of Dietary Restrictions</h3>
-<sub>By Priya Krishna</sub>
-<p>A surge of students with allergies and special diets is challenging meal services and changing the shape of the campus cafeteria.  <a href="https://nyti.ms/3P3qn6S"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
 <h3>Back to New Jersey, Where the Universe Began</h3>
 <sub>By Dennis Overbye and Hiroko Masuike</sub>
@@ -116,22 +110,28 @@ There are a lot of interesting developments around the world right now. In the U
 <p>China, an electric-vehicle juggernaut, will have at least seven brands on display, while Germany’s automakers are now a drag on their home economy.  <a href="https://nyti.ms/3Z3o4Fg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 4, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Can Kenya Bring Order to Haiti? Doubts Are Swirling.</h3>
+<sub>By Simon Romero, Andre Paultre and Abdi Latif Dahir</sub>
+<p>The African country has volunteered to put boots on the ground in the Caribbean nation by the end of the year. But the plan is facing pushback even as Haiti’s security crisis spirals out of control.  <a href="https://nyti.ms/3qWBUwL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Federal Court Again Strikes Down Alabama’s Congressional Map</h3>
+<sub>By Emily Cochrane</sub>
+<p>Republicans failed to comply with a court order to create a second majority-Black district or something “close to it,” the judicial panel said.  <a href="https://nyti.ms/44DZVpV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Peter Navarro to Face Contempt Trial Over Defiance of Jan. 6 Committee</h3>
 <sub>By Zach Montague</sub>
 <p>A federal judge allowed the trial to proceed after finding little evidence that the former president authorized Mr. Navarro to ignore a subpoena from Congress.  <a href="https://nyti.ms/45UxXHM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Saudis Consider Deal With Israel, Palestinians Seek Sway in Talks</h3>
-<sub>By Patrick Kingsley and Aaron Boxerman</sub>
-<p>The Palestinian leadership condemned efforts in 2020 to end Israel’s diplomatic isolation in the Arab world. Now, in the face of similar moves, they are trying a new tack.  <a href="https://nyti.ms/480r9Ko"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>This Year’s U.S. Open Belongs to Coco Gauff, Win or Lose</h3>
-<sub>By Matthew Futterman</sub>
-<p>It has become clear that Gauff, at age 19, is the queen of this U.S. Open.  <a href="https://nyti.ms/3R87jqt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>Undying Dread: A 400-Year-Old Corpse, Locked to Its Grave</h3>
+<sub>By Franz Lidz</sub>
+<p>In 17th-century Europe, the dead were a constant threat to rise again and bedevil the living. Now archaeologists have found the remains of a suspected child revenant.  <a href="https://nyti.ms/3R8qnF7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
