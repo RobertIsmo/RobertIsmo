@@ -60,13 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, September 4, Central Standard Time</p>
 <p>
-There is a lot happening in the world lately. Kim Jong-un and Vladimir Putin are set to meet in Russia at the end of this month to discuss weapons development, while a Russian general detained after a Wagner mutiny was recently released. In China, one of their biggest homebuilders is struggling as the economy slows down. 
-At 97, famed first lady of fitness Elaine LaLanne is still influencing the industry. Meanwhile, the US Navy is debating how to face evolving threats with bigger shipbuilding programs. There&#39;s been some musical losses recently as well - former lead singer of Smash Mouth Steve Harwell passed away and fans are searching for Paul McCartney&#39;s lost bass guitar. Additionally, Marilyn Lovell, wife of astronaut Jim Lovell from Apollo 13, passed away at 93 this year. Last but not least, Burning Man attendees have had to scramble due to severe flooding in Nevada.</p>
+There have been some interesting changes in the world recently – Kim Jong-un and Vladimir Putin are planning to meet in Russia to discuss weapons, Recep Tayyip Erdogan of Turkey had a friendly meeting with Putin, a top Russian general was briefly detained after a mutiny, China&#39;s biggest homebuilder is reeling from the slowing economy, there&#39;s controversy over a Detroit tiny home program meant for low-income residents, and Elaine LaLanne (the first lady of fitness) is 97 and still shaping the industry. Unfortunately, there&#39;s also been Steve Harwell (of Smash Mouth fame) passing away at 56. Beyond this, Nikki Haley is gaining attention as she has a playbook for winning tough races leading up to 2024 and Burning Man attendees have been stranded due to torrential rain. However, it isn&#39;t all bad news – Coco Gauff has taken this year&#39;s US Open by storm!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Kim Jong-un and Putin Plan to Meet in Russia to Discuss Weapons</h3>
 <sub>By Edward Wong and Julian E. Barnes</sub>
 <p>Russia seeks more weaponry for its war in Ukraine, and a North Korean delegation recently traveled to Russia by train to plan for Mr. Kim’s visit this month, officials say.  <a href="https://nyti.ms/4825m5e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Friendly Putin-Erdogan Meeting Keeps West Guessing</h3>
+<sub>By Ben Hubbard and Paul Sonne</sub>
+<p>Any notion that President Recep Tayyip Erdogan of Turkey might be shifting away from his friendly ties with the Kremlin appeared to evaporate on Monday.  <a href="https://nyti.ms/3PoEoxd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -81,16 +86,16 @@ At 97, famed first lady of fitness Elaine LaLanne is still influencing the indus
 <p>Once considered a survivor of China’s real estate turmoil, Country Garden is now at the center of the crisis and threatens the broader economy.  <a href="https://nyti.ms/44EVsmS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 3, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-realestate-blue" alt="">
+<h3>In Detroit, a Tiny Home Generates a Big Controversy</h3>
+<sub>By Allan Lengel</sub>
+<p>A program that rents homes to low-income residents, and helps them build equity as homeowners, was rocked when one of the initial participants was evicted.  <a href="https://nyti.ms/3qRDLmy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 4, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-well-blue" alt="">
 <h3>At 97, the First Lady of Fitness Is Still Shaping the Industry</h3>
 <sub>By Danielle Friedman and Michael Tyrone Delaney</sub>
 <p>Elaine LaLanne — who revolutionized modern exercise alongside her husband, Jack — is a model for aging well.  <a href="https://nyti.ms/3R6TpFb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Faced With Evolving Threats, U.S. Navy Struggles to Change</h3>
-<sub>By Eric Lipton</sub>
-<p>A new generation of cheaper and more flexible vessels could be vital in any conflict with China, but the Navy remains lashed to big shipbuilding programs driven by tradition, political influence and jobs.  <a href="https://nyti.ms/3Eor9pZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
@@ -99,10 +104,10 @@ At 97, famed first lady of fitness Elaine LaLanne is still influencing the indus
 <p>He was a founding member of the band, which broke out in the late 1990s with hit songs like “Walkin’ on the Sun” and “All Star.”  <a href="https://nyti.ms/45TrlJA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Conservative Push to Save Ken Paxton</h3>
-<sub>By J. David Goodman</sub>
-<p>The effort to help the Texas attorney general, whose impeachment trial starts Tuesday, is part of an ongoing struggle over the Republican Party’s future.  <a href="https://nyti.ms/45SlV1t"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>How Smash Mouth’s ‘All Star’ Got a Second Wind From Memes</h3>
+<sub>By Ben Sisario</sub>
+<p>The track, sung by Steve Harwell, took a winding path to evergreen status that illustrates how social media and fan-made content have transformed the music business.  <a href="https://nyti.ms/3PpOkGK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -118,21 +123,15 @@ At 97, famed first lady of fitness Elaine LaLanne is still influencing the indus
 <sub><sub>Monday, September 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What Happened at Burning Man</h3>
-<sub>By Amanda Holpuch</sub>
-<p>Thousands of people were hoping to leave the festival’s remote desert site in Nevada on Monday after being stranded over the weekend because of rain and mud.  <a href="https://nyti.ms/3YYKAiN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Have You Seen Paul McCartney’s Lost Bass Guitar? Tips Welcome.</h3>
-<sub>By Isabella Kwai</sub>
-<p>For decades, mystery has surrounded the fate of the missing bass that accompanied the Beatles as they rocketed to fame. A new campaign is trying to find it.  <a href="https://nyti.ms/3qXWexA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Marilyn Lovell, Astronaut’s Wife in the Spotlight, Is Dead at 93</h3>
+<sub>By Alex Traub</sub>
+<p>She embodied the glamour and the hardship of being married to an American hero. Her husband, Jim Lovell, was the captain of the ill-fated Apollo 13 mission in 1970.  <a href="https://nyti.ms/45D2g63"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Marilyn Lovell, Astronaut’s Wife in the Spotlight, Dies at 93</h3>
-<sub>By Alex Traub</sub>
-<p>She embodied the glamour and the hardship of being married to an American hero. Her husband, Jim Lovell, was the captain of the ill-fated Apollo 13 mission.  <a href="https://nyti.ms/45D2g63"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>This Year’s U.S. Open Belongs to Coco Gauff, Win or Lose</h3>
+<sub>By Matthew Futterman</sub>
+<p>It has become clear that Gauff, at age 19, is the queen of this U.S. Open.  <a href="https://nyti.ms/3R87jqt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
