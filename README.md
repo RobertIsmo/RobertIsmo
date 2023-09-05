@@ -60,72 +60,72 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, September 5, Central Standard Time</p>
 <p>
-Right now, there&#39;s a lot happening in the world. China&#39;s biggest homebuilder is in trouble as the economy slows, and Country Garden has to make a series of large payments to avoid default. On the political front, Kim Jong-un and Putin plan to meet in Russia to discuss weapons, while Turkish President Recep Tayyip Erdogan and Russian President Vladimir Putin recently met with each other. Back home, a small Detroit housing program is facing controversy, and former US Ambassador Nikki Haley has been subtly hinting at a possible run for 2024 Presidential election. We&#39;ve lost Steve Harwell of the band Smash Mouth at 56, and Marilyn Lovell -- whose husband commanded the ill-fated Apollo 13 mission --has also passed away at 93. Finally, 19-year-old Coco Gauff has become the highlight of this year&#39;s U.S. Open as it wraps up.</p>
+There are a lot of interesting developments around the world right now. In the U.S., budget threats have receded and economists are looking at how to reimagine city centers. In Ukraine, a legacy of World War II still lingers as North Korea gets involved in their conflict and looks to get new missile and warhead technology from Russia. On top of that, there&#39;s been a surge of students with allergies and dietary restrictions on college campuses, while Americans are increasingly losing faith in the value of higher education. Meanwhile, China is making an impression on the Munich Auto Show and Saudi Arabia is looking to make a deal with Israel, while Palestinians use new tactics to try to gain sway in the negotiations. Finally, Coco Gauff has become the queen of this year&#39;s U.S. Open tennis tournament.</p>
 <ol>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>A Huge Threat to the U.S. Budget Has Receded. And No One Is Sure Why.</h3>
+<sub>By Margot Sanger-Katz, Alicia Parlapiano and Josh Katz</sub>
+<p>Instead of growing and growing, as it always had, spending per Medicare beneficiary has nearly leveled off over more than a decade.  <a href="https://nyti.ms/3r34AnN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>3 Bullets, 2 Wars, 1 Village</h3>
+<sub>By Thomas Gibbons-Neff</sub>
+<p>The legacy of World War II lingers in the Ukrainian town of Kamianka, where tractors spit out shell casings, old and new. Now it has been destroyed by a new conflict.  <a href="https://nyti.ms/47XEWS3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>North Korea Finds New Leverage in the Ukraine War</h3>
+<sub>By Choe Sang-Hun</sub>
+<p>Kim Jong-un is likely to seek missile and warhead technology in an expected visit to Russia, and he is already getting a public embrace he has long sought.  <a href="https://nyti.ms/45CcxiR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>The Ground-Floor Window Into What’s Ailing Downtowns</h3>
+<sub>By Emily Badger</sub>
+<p>City centers may have to be reimagined to solve the problem of vacant storefronts.  <a href="https://nyti.ms/3EmOE2P"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 4, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>China’s Biggest Homebuilder Reels as Economy Slows</h3>
-<sub>By Daisuke Wakabayashi and Claire Fu</sub>
-<p>Once considered a survivor of China’s real estate turmoil, Country Garden is now at the center of the crisis and threatens the broader economy.  <a href="https://nyti.ms/44EVsmS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Where in the World Are People Back in the Office?</h3>
+<sub></sub>
+<p>A city’s density, the size of people’s homes and cultural norms are among the factors that affect hybrid work patterns.  <a href="https://nyti.ms/3P5sve8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Country Garden Makes $22.5 Million Payment, With $15 Billion To Go</h3>
-<sub>By Daisuke Wakabayashi and Claire Fu</sub>
-<p>The embattled Chinese property giant is said to have avoided default by meeting a deadline to pay interest on small loans. But it must repay billions within the next year.  <a href="https://nyti.ms/3R88q9H"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 4, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Americans Are Losing Faith in the Value of College. Whose Fault Is That?</h3>
+<sub>By Paul Tough</sub>
+<p>For most people, the new economics of higher ed make going to college a risky bet.  <a href="https://nyti.ms/3L7HqmQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Kim Jong-un and Putin Plan to Meet in Russia to Discuss Weapons</h3>
-<sub>By Edward Wong and Julian E. Barnes</sub>
-<p>Russia seeks more weaponry for its war in Ukraine, and a North Korean delegation recently traveled to Russia by train to plan for Mr. Kim’s visit this month, officials say.  <a href="https://nyti.ms/4825m5e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-dining-blue" alt="">
+<h3>The New Reality for College Dining Halls: Dozens of Dietary Restrictions</h3>
+<sub>By Priya Krishna</sub>
+<p>A surge of students with allergies and special diets is challenging meal services and changing the shape of the campus cafeteria.  <a href="https://nyti.ms/3P3qn6S"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>Back to New Jersey, Where the Universe Began</h3>
+<sub>By Dennis Overbye and Hiroko Masuike</sub>
+<p>A half-century ago, a radio telescope in Holmdel, N.J., sent two astronomers 13.8 billion years back in time — and opened a cosmic window that scientists have been peering through ever since.  <a href="https://nyti.ms/3OVwD0k"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Friendly Putin-Erdogan Meeting Keeps West Guessing</h3>
-<sub>By Ben Hubbard and Paul Sonne</sub>
-<p>Any notion that President Recep Tayyip Erdogan of Turkey might be shifting away from his friendly ties with the Kremlin appeared to evaporate on Monday.  <a href="https://nyti.ms/3PoEoxd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Chinese Cars Star at Munich Auto Show, Underscoring German Economic Woes</h3>
+<sub>By Melissa Eddy</sub>
+<p>China, an electric-vehicle juggernaut, will have at least seven brands on display, while Germany’s automakers are now a drag on their home economy.  <a href="https://nyti.ms/3Z3o4Fg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Peter Navarro to Face Contempt Trial Over Defiance of Jan. 6 Committee</h3>
+<sub>By Zach Montague</sub>
+<p>A federal judge allowed the trial to proceed after finding little evidence that the former president authorized Mr. Navarro to ignore a subpoena from Congress.  <a href="https://nyti.ms/45UxXHM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Top Russian General Detained After Wagner Mutiny Is Released</h3>
-<sub>By Paul Sonne, Anatoly Kurmanaev and Julian E. Barnes</sub>
-<p>Gen. Sergei Surovikin, who was seen as an ally of the mercenary leader Yevgeny V. Prigozhin, has re-emerged in public.  <a href="https://nyti.ms/3EpMRda"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-realestate-blue" alt="">
-<h3>In Detroit, a Tiny Home Generates a Big Controversy</h3>
-<sub>By Allan Lengel</sub>
-<p>A program that rents homes to low-income residents, and helps them build equity as homeowners, was rocked when one of the initial participants was evicted.  <a href="https://nyti.ms/3qRDLmy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Steve Harwell, Voice of the Band Smash Mouth, Is Dead at 56</h3>
-<sub>By Claire Moses and Ben Sisario</sub>
-<p>He was a founding member of the band, which broke out in the late 1990s with hit songs like “Walkin’ on the Sun” and “All Star.”  <a href="https://nyti.ms/45TrlJA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>How Smash Mouth’s ‘All Star’ Got a Second Wind From Memes</h3>
-<sub>By Ben Sisario</sub>
-<p>The track, sung by Steve Harwell, took a winding path to evergreen status that illustrates how social media and fan-made content have transformed the music business.  <a href="https://nyti.ms/3swyZer"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Nikki Haley Has a Playbook for Winning Tough Races, but 2024 Is Different</h3>
-<sub>By Jazmine Ulloa</sub>
-<p>Still pitching herself as a political outsider, Ms. Haley now has a political résumé that includes a stint in the Trump administration. Then there’s Mr. Trump himself.  <a href="https://nyti.ms/47WsC4l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Burning Man Attendees Begin to Leave Soggy Festival Site</h3>
-<sub>By Finn-Olaf Jones, Jack Healy and Derrick Bryson Taylor</sub>
-<p>After days of torrential rain, an exodus from the Nevada site began on Monday. The festival’s fiery climax, postponed twice, finally took place.  <a href="https://nyti.ms/44EqdbV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Marilyn Lovell, Astronaut’s Wife in the Spotlight, Is Dead at 93</h3>
-<sub>By Alex Traub</sub>
-<p>She embodied the glamour and the hardship of being married to an American hero. Her husband, Jim Lovell, was the captain of the ill-fated Apollo 13 mission in 1970.  <a href="https://nyti.ms/45D2g63"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>As Saudis Consider Deal With Israel, Palestinians Seek Sway in Talks</h3>
+<sub>By Patrick Kingsley and Aaron Boxerman</sub>
+<p>The Palestinian leadership condemned efforts in 2020 to end Israel’s diplomatic isolation in the Arab world. Now, in the face of similar moves, they are trying a new tack.  <a href="https://nyti.ms/480r9Ko"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
