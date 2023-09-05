@@ -60,14 +60,8 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, September 5, Central Standard Time</p>
 <p>
-There are a lot of interesting things happening across the world right now. In the US, the threat to the budget has receded, and a federal court has struck down Alabama&#39;s congressional map. On the global front, North Korea is likely to seek more missile and warhead technology in an upcoming visit to Russia, while Kenya is offering to send boots on the ground to help the security crisis in Haiti. Meanwhile, China is dominating the car market at Munich’s auto show and Americans are losing faith in college education value. In science news, two astronomers have traveled 13.8 billion years back in time and archaeologists have found remains of a suspected child revenant!</p>
+There seems to be a lot of geopolitical tension going on. North Korea is apparently seeking missile and warhead technology from Russia, and Cuba has reported that its citizens are being lured to fight in Russia&#39;s war in Ukraine. Meanwhile, here at home, a huge threat to the U.S. budget has receded without explanation, and Americans are increasingly losing faith in the value of college. Water rights also continue to be a major issue in drought-ridden parts of the American West, with no clear solution in sight. On a more positive note, congressional Republicans have begun to show signs of rethinking their economic blueprint, while hybrid work patterns are slowly becoming normal due to the ongoing pandemic. Finally, the strikes in Hollywood have led to both anxiety and introspection over how fall TV schedules will reflect the issues at hand.</p>
 <ol>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>A Huge Threat to the U.S. Budget Has Receded. And No One Is Sure Why.</h3>
-<sub>By Margot Sanger-Katz, Alicia Parlapiano and Josh Katz</sub>
-<p>Instead of growing and growing, as it always had, spending per Medicare beneficiary has nearly leveled off over more than a decade.  <a href="https://nyti.ms/3r34AnN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>North Korea Finds New Leverage in the Ukraine War</h3>
 <sub>By Choe Sang-Hun</sub>
@@ -75,10 +69,28 @@ There are a lot of interesting things happening across the world right now. In t
 <sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>3 Bullets, 2 Wars, 1 Village</h3>
-<sub>By Thomas Gibbons-Neff</sub>
-<p>The legacy of World War II lingers in the Ukrainian town of Kamianka, where tractors spit out shell casings, old and new. Now it has been destroyed by a new conflict.  <a href="https://nyti.ms/47XEWS3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 4, Central Standard Time</sub></sub>
+<h3>Cuba Says Its Citizens Were Lured to Fight in Russia’s War in Ukraine</h3>
+<sub>By Valeriya Safronova</sub>
+<p>The Cuban government said it had begun criminal proceedings against a “trafficking network” that had been recruiting its citizens in both Russia and Cuba for Russia’s armed forces.  <a href="https://nyti.ms/3Z3siga"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>A Huge Threat to the U.S. Budget Has Receded. And No One Is Sure Why.</h3>
+<sub>By Margot Sanger-Katz, Alicia Parlapiano and Josh Katz</sub>
+<p>Instead of growing and growing, as it always had, spending per Medicare beneficiary has nearly leveled off over more than a decade.  <a href="https://nyti.ms/3r34AnN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Americans Are Losing Faith in the Value of College. Whose Fault Is That?</h3>
+<sub>By Paul Tough</sub>
+<p>For most people, the new economics of higher ed make going to college a risky bet.  <a href="https://nyti.ms/3L7HqmQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>A Colorado City Has Been Battling for Decades to Use Its Own Water</h3>
+<sub>By David Gelles</sub>
+<p>Lawsuits, protests and fierce disputes over who controls water in the parched American West have held up a crucial pipeline.  <a href="https://nyti.ms/3EoPEDB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-upshot-blue" alt="">
 <h3>The Ground-Floor Window Into What’s Ailing Downtowns</h3>
@@ -92,28 +104,16 @@ There are a lot of interesting things happening across the world right now. In t
 <p>A city’s density, the size of people’s homes and cultural norms are among the factors that affect hybrid work patterns.  <a href="https://nyti.ms/3P5sve8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Americans Are Losing Faith in the Value of College. Whose Fault Is That?</h3>
-<sub>By Paul Tough</sub>
-<p>For most people, the new economics of higher ed make going to college a risky bet.  <a href="https://nyti.ms/3L7HqmQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>Back to New Jersey, Where the Universe Began</h3>
+<h3>Where the Universe Began</h3>
 <sub>By Dennis Overbye and Hiroko Masuike</sub>
 <p>A half-century ago, a radio telescope in Holmdel, N.J., sent two astronomers 13.8 billion years back in time — and opened a cosmic window that scientists have been peering through ever since.  <a href="https://nyti.ms/3OVwD0k"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Chinese Cars Star at Munich Auto Show, Underscoring German Economic Woes</h3>
-<sub>By Melissa Eddy</sub>
-<p>China, an electric-vehicle juggernaut, will have at least seven brands on display, while Germany’s automakers are now a drag on their home economy.  <a href="https://nyti.ms/3Z3o4Fg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Can Kenya Bring Order to Haiti? Doubts Are Swirling.</h3>
-<sub>By Simon Romero, Andre Paultre and Abdi Latif Dahir</sub>
-<p>The African country has volunteered to put boots on the ground in the Caribbean nation by the end of the year. But the plan is facing pushback even as Haiti’s security crisis spirals out of control.  <a href="https://nyti.ms/3qWBUwL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Wrestling With Inequality, Some Conservatives Redraw Economic Blueprint</h3>
+<sub>By Talmon Joseph Smith</sub>
+<p>A growing number of Republican politicians and theorists are challenging party orthodoxy on pocketbook issues, corporate power and government’s role.  <a href="https://nyti.ms/3r2DM78"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -122,16 +122,16 @@ There are a lot of interesting things happening across the world right now. In t
 <p>Republicans failed to comply with a court order to create a second majority-Black district or something “close to it,” the judicial panel said.  <a href="https://nyti.ms/44DZVpV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Peter Navarro to Face Contempt Trial Over Defiance of Jan. 6 Committee</h3>
-<sub>By Zach Montague</sub>
-<p>A federal judge allowed the trial to proceed after finding little evidence that the former president authorized Mr. Navarro to ignore a subpoena from Congress.  <a href="https://nyti.ms/45UxXHM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 4, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Fall TV Reflects the Hollywood Strikes, but Not How You Think</h3>
+<sub>By Margaret Lyons</sub>
+<p>The tired familiarity of the reality-heavy network schedules is a reminder of the issues that led to the work stoppages.  <a href="https://nyti.ms/3R9tjBA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>Undying Dread: A 400-Year-Old Corpse, Locked to Its Grave</h3>
-<sub>By Franz Lidz</sub>
-<p>In 17th-century Europe, the dead were a constant threat to rise again and bedevil the living. Now archaeologists have found the remains of a suspected child revenant.  <a href="https://nyti.ms/3R8qnF7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Telluride Film Festival Goes On, Despite Anxiety Over Strikes</h3>
+<sub>By Nicole Sperling</sub>
+<p>The festival opened this weekend with fewer stars, who were wary of breaking union rules about promoting films while two strikes have shut down much of Hollywood.  <a href="https://nyti.ms/45ELyDe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
