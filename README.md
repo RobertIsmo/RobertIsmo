@@ -58,15 +58,23 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Monday, September 4, Central Standard Time</p>
+<p>It is Tuesday, September 5, Central Standard Time</p>
 <p>
-Hey there! A lot has been going on in the world lately. The Chinese economy is slowing down, which is causing problems for the country&#39;s biggest homebuilder. Kim Jong-un and Putin are planning to meet up in Russia soon to discuss weapons. Turkey&#39;s President Erdogan had a friendly meeting with Putin recently, causing people to wonder what winds they&#39;re playing. A top Russian General was detained and then released after a mutiny in Wagner. There&#39;s controversy going on in Detroit over a tiny home project meant to help low-income residents. 97 year old Elaine LaLanne, the first lady of fitness, is setting an example for aging well. The singer for Smash Mouth, Steve Harwell, recently passed away at 56, and his hit song &quot;All Star&quot; has gotten some new life from memes recently. Nikki Haley is publicizing her successes in the Trump administration while still marketing herself as an outsider with regard to 2024 elections. Burning Man attendees are being forced to leave due to torrential rains, and a newsworthy figure from the Apollo 13 mission, Marilyn Lovell, has just died at 93. Finally, young prodigy Coco Gauff is making waves at this year&#39;s US Open! Wow that&#39;s a lot of news - hope you&#39;re doing okay!</p>
+Well, it looks like things are getting more unpredictable as the economy around the world slows. China&#39;s biggest homebuilder Country Garden recently made a $22.5 million payment to avoid default and has billions more it needs to repay in the next year. Meanwhile, Russian President Vladimir Putin and North Korean leader Kim Jong Un plan to meet this month to discuss weapons. Putin also met with Turkish President Recep Tayyip Erdogan on Monday, which could be a sign that Turkey may not be shifting away from its friendly ties with the Kremlin after all. In Russia, one top general was detained after a mutiny with a mercenary leader but was later released. 
+
+In the U.S., former UN ambassador Nikki Haley now has a political résumé that includes a stint in the Trump administration as she prepares for 2024 elections. Recently, Burning Man attendees started leaving a soggy festival site following torrential rain and the ~fiery climax~ was finally held after twice being postponed. There&#39;s also been some sad news with the passing away of astronaut Jim Lovell&#39;s wife Marilyn Lovell at 93 and Steve Harwell, voice of the band Smash Mouth, who died at 56 - although his song &#39;All Star&#39; is going strong due to memes. Oh and at this year&#39;s U.S. Open tennis tournament, 19-year old Coco Gauff is queen!</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>China’s Biggest Homebuilder Reels as Economy Slows</h3>
 <sub>By Daisuke Wakabayashi and Claire Fu</sub>
 <p>Once considered a survivor of China’s real estate turmoil, Country Garden is now at the center of the crisis and threatens the broader economy.  <a href="https://nyti.ms/44EVsmS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Country Garden Makes $22.5 Million Payment, With $15 Billion To Go</h3>
+<sub>By Daisuke Wakabayashi and Claire Fu</sub>
+<p>The embattled Chinese property giant is said to have avoided default by meeting a deadline to pay interest on small loans. But it must repay billions within the next year.  <a href="https://nyti.ms/3R88q9H"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Kim Jong-un and Putin Plan to Meet in Russia to Discuss Weapons</h3>
@@ -92,14 +100,8 @@ Hey there! A lot has been going on in the world lately. The Chinese economy is s
 <p>A program that rents homes to low-income residents, and helps them build equity as homeowners, was rocked when one of the initial participants was evicted.  <a href="https://nyti.ms/3qRDLmy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>At 97, the First Lady of Fitness Is Still Shaping the Industry</h3>
-<sub>By Danielle Friedman and Michael Tyrone Delaney</sub>
-<p>Elaine LaLanne — who revolutionized modern exercise alongside her husband, Jack — is a model for aging well.  <a href="https://nyti.ms/3R6TpFb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 4, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Steve Harwell, Former Smash Mouth Lead Singer, Dies at 56</h3>
+<h3>Steve Harwell, Voice of the Band Smash Mouth, Is Dead at 56</h3>
 <sub>By Claire Moses and Ben Sisario</sub>
 <p>He was a founding member of the band, which broke out in the late 1990s with hit songs like “Walkin’ on the Sun” and “All Star.”  <a href="https://nyti.ms/45TrlJA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 4, Central Standard Time</sub></sub>
@@ -119,7 +121,7 @@ Hey there! A lot has been going on in the world lately. The Chinese economy is s
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Burning Man Attendees Begin to Leave Soggy Festival Site</h3>
 <sub>By Finn-Olaf Jones, Jack Healy and Derrick Bryson Taylor</sub>
-<p>Thousands of people have been stranded for days at the festival’s remote desert site in Nevada because of torrential rain.  <a href="https://nyti.ms/44EqdbV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>After days of torrential rain, an exodus from the Nevada site began on Monday. The festival’s fiery climax, postponed twice, finally took place.  <a href="https://nyti.ms/44EqdbV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
