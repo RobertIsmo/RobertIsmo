@@ -60,9 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, September 5, Central Standard Time</p>
 <p>
-Well, it looks like things are getting more unpredictable as the economy around the world slows. China&#39;s biggest homebuilder Country Garden recently made a $22.5 million payment to avoid default and has billions more it needs to repay in the next year. Meanwhile, Russian President Vladimir Putin and North Korean leader Kim Jong Un plan to meet this month to discuss weapons. Putin also met with Turkish President Recep Tayyip Erdogan on Monday, which could be a sign that Turkey may not be shifting away from its friendly ties with the Kremlin after all. In Russia, one top general was detained after a mutiny with a mercenary leader but was later released. 
-
-In the U.S., former UN ambassador Nikki Haley now has a political résumé that includes a stint in the Trump administration as she prepares for 2024 elections. Recently, Burning Man attendees started leaving a soggy festival site following torrential rain and the ~fiery climax~ was finally held after twice being postponed. There&#39;s also been some sad news with the passing away of astronaut Jim Lovell&#39;s wife Marilyn Lovell at 93 and Steve Harwell, voice of the band Smash Mouth, who died at 56 - although his song &#39;All Star&#39; is going strong due to memes. Oh and at this year&#39;s U.S. Open tennis tournament, 19-year old Coco Gauff is queen!</p>
+Right now, there&#39;s a lot happening in the world. China&#39;s biggest homebuilder is in trouble as the economy slows, and Country Garden has to make a series of large payments to avoid default. On the political front, Kim Jong-un and Putin plan to meet in Russia to discuss weapons, while Turkish President Recep Tayyip Erdogan and Russian President Vladimir Putin recently met with each other. Back home, a small Detroit housing program is facing controversy, and former US Ambassador Nikki Haley has been subtly hinting at a possible run for 2024 Presidential election. We&#39;ve lost Steve Harwell of the band Smash Mouth at 56, and Marilyn Lovell -- whose husband commanded the ill-fated Apollo 13 mission --has also passed away at 93. Finally, 19-year-old Coco Gauff has become the highlight of this year&#39;s U.S. Open as it wraps up.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>China’s Biggest Homebuilder Reels as Economy Slows</h3>
@@ -109,7 +107,7 @@ In the U.S., former UN ambassador Nikki Haley now has a political résumé that 
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>How Smash Mouth’s ‘All Star’ Got a Second Wind From Memes</h3>
 <sub>By Ben Sisario</sub>
-<p>The track, sung by Steve Harwell, took a winding path to evergreen status that illustrates how social media and fan-made content have transformed the music business.  <a href="https://nyti.ms/3PpOkGK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The track, sung by Steve Harwell, took a winding path to evergreen status that illustrates how social media and fan-made content have transformed the music business.  <a href="https://nyti.ms/3swyZer"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
