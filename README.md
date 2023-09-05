@@ -60,18 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, September 5, Central Standard Time</p>
 <p>
-There seems to be a lot of geopolitical tension going on. North Korea is apparently seeking missile and warhead technology from Russia, and Cuba has reported that its citizens are being lured to fight in Russia&#39;s war in Ukraine. Meanwhile, here at home, a huge threat to the U.S. budget has receded without explanation, and Americans are increasingly losing faith in the value of college. Water rights also continue to be a major issue in drought-ridden parts of the American West, with no clear solution in sight. On a more positive note, congressional Republicans have begun to show signs of rethinking their economic blueprint, while hybrid work patterns are slowly becoming normal due to the ongoing pandemic. Finally, the strikes in Hollywood have led to both anxiety and introspection over how fall TV schedules will reflect the issues at hand.</p>
+Currently, North Korea is looking to leverage theUkraine War by seeking missile and warhead technology from Russia. In the US, a huge threat to the budget has receded but no one is sure why. There&#39;s been a decline in faith in the value of college, with questions of who&#39;s to blame. On the health front, the US Senate minority leader has released new assurances from the Capitol’s physician after an examination found no signs of stroke or seizure. In Colorado, a city has been fighting for decades to use its own water due to lawsuits. Archaeologists have found the 400-year-old corpse of suspected child revenant in Europe. In Pennsylvania, schools are closed as authorities search for an escaped prisoner sentenced to life for homicide. Sports fans are excited that 19-year-old Coco Gauff is now one match away from her first career singles final at the US Open. In New York, plans were announced for the NYPD to drop a contentious tactic used during protests as part of an agreement with state attorney general and other activist groups. Three governor&#39;s races across the US show ads focused on issues like education, economy, jobs and taxes as well as local scandals and crime. At the Venice Film Festival there was a mixed reception for Woody Allen&#39;s 50th film Coup de Chance both from critics and protesters who asked organizers to &quot;turn the spotlight off of rapists.&quot; And finally, tennis fans gave rise to online trends after professional player Frances Tiafoe requested multiple changes in shirts midmatch.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>North Korea Finds New Leverage in the Ukraine War</h3>
 <sub>By Choe Sang-Hun</sub>
 <p>Kim Jong-un is likely to seek missile and warhead technology in an expected visit to Russia, and he is already getting a public embrace he has long sought.  <a href="https://nyti.ms/45CcxiR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Cuba Says Its Citizens Were Lured to Fight in Russia’s War in Ukraine</h3>
-<sub>By Valeriya Safronova</sub>
-<p>The Cuban government said it had begun criminal proceedings against a “trafficking network” that had been recruiting its citizens in both Russia and Cuba for Russia’s armed forces.  <a href="https://nyti.ms/3Z3siga"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-upshot-blue" alt="">
@@ -86,52 +80,58 @@ There seems to be a lot of geopolitical tension going on. North Korea is apparen
 <p>For most people, the new economics of higher ed make going to college a risky bet.  <a href="https://nyti.ms/3L7HqmQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>McConnell Releases New Health Assurances From the Capitol’s Physician</h3>
+<sub>By Carl Hulse</sub>
+<p>With the Senate returning from its long summer recess, the minority leader circulated a note from the congressional doctor saying an examination and tests showed no signs of a stroke or seizure.  <a href="https://nyti.ms/45C9JSP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>A Colorado City Has Been Battling for Decades to Use Its Own Water</h3>
 <sub>By David Gelles</sub>
 <p>Lawsuits, protests and fierce disputes over who controls water in the parched American West have held up a crucial pipeline.  <a href="https://nyti.ms/3EoPEDB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>The Ground-Floor Window Into What’s Ailing Downtowns</h3>
-<sub>By Emily Badger</sub>
-<p>City centers may have to be reimagined to solve the problem of vacant storefronts.  <a href="https://nyti.ms/3EmOE2P"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Where in the World Are People Back in the Office?</h3>
-<sub></sub>
-<p>A city’s density, the size of people’s homes and cultural norms are among the factors that affect hybrid work patterns.  <a href="https://nyti.ms/3P5sve8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 3, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>Where the Universe Began</h3>
-<sub>By Dennis Overbye and Hiroko Masuike</sub>
-<p>A half-century ago, a radio telescope in Holmdel, N.J., sent two astronomers 13.8 billion years back in time — and opened a cosmic window that scientists have been peering through ever since.  <a href="https://nyti.ms/3OVwD0k"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Undying Dread: A 400-Year-Old Corpse, Locked to Its Grave</h3>
+<sub>By Franz Lidz</sub>
+<p>In 17th-century Europe, the dead were a constant threat to rise again and bedevil the living. Now archaeologists have found the remains of a suspected child revenant.  <a href="https://nyti.ms/3R8qnF7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Wrestling With Inequality, Some Conservatives Redraw Economic Blueprint</h3>
-<sub>By Talmon Joseph Smith</sub>
-<p>A growing number of Republican politicians and theorists are challenging party orthodoxy on pocketbook issues, corporate power and government’s role.  <a href="https://nyti.ms/3r2DM78"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Schools Closed as Manhunt for Pennsylvania Fugitive Expands</h3>
+<sub>By Johnny Diaz</sub>
+<p>Danelo Cavalcante escaped from a prison near Philadelphia on Thursday, days after receiving a life sentence for homicide. The authorities said he had been spotted near homes.  <a href="https://nyti.ms/3sGVw8u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Coco Gauff Storms Into the U.S. Open Semifinals</h3>
+<sub>By David Waldstein</sub>
+<p>After easily beating Jelena Ostapenko, 6-0, 6-2, Gauff, 19, is now one match win away from her first career singles final at the Open.  <a href="https://nyti.ms/3sEqMVD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>N.Y.P.D. Will Drop Contentious Tactic Used to Crack Down on Protests</h3>
+<sub>By Maria Cramer</sub>
+<p>The department agreed to set new rules and create an oversight board for protests in a sweeping deal with the state attorney general, the New York Civil Liberties Union and the Legal Aid Society.  <a href="https://nyti.ms/3LckmmW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Federal Court Again Strikes Down Alabama’s Congressional Map</h3>
-<sub>By Emily Cochrane</sub>
-<p>Republicans failed to comply with a court order to create a second majority-Black district or something “close to it,” the judicial panel said.  <a href="https://nyti.ms/44DZVpV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>No Trump, Not Much Biden: The Ad Wars in 3 Governor’s Races</h3>
+<sub>By Nick Corasaniti</sub>
+<p>Offering a look at both parties’ political strategies this year, the ads focus largely on issues like education, the economy, jobs and taxes, as well as local scandals and crime.  <a href="https://nyti.ms/45Ft8SL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Fall TV Reflects the Hollywood Strikes, but Not How You Think</h3>
-<sub>By Margaret Lyons</sub>
-<p>The tired familiarity of the reality-heavy network schedules is a reminder of the issues that led to the work stoppages.  <a href="https://nyti.ms/3R9tjBA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>Woody Allen Finds a Decidedly Mixed Reception at the Venice Film Festival</h3>
+<sub>By Kyle Buchanan</sub>
+<p>The director premiered his 50th film, “Coup de Chance.” It won over critics but not protesters, who asked organizers to “turn the spotlight off of rapists.”  <a href="https://nyti.ms/3PrdvZn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Telluride Film Festival Goes On, Despite Anxiety Over Strikes</h3>
-<sub>By Nicole Sperling</sub>
-<p>The festival opened this weekend with fewer stars, who were wary of breaking union rules about promoting films while two strikes have shut down much of Hollywood.  <a href="https://nyti.ms/45ELyDe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>No Sweat. Frances Tiafoe Would Like a Fresh Shirt Now.</h3>
+<sub>By Jesus Jiménez</sub>
+<p>Many athletes take their quirks and superstitions with them into competition, but Tiafoe has taken changing his damp shirt midmatch to an unusual level.  <a href="https://nyti.ms/44En0c4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
