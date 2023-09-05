@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, September 4, Central Standard Time</p>
 <p>
-There have been some interesting changes in the world recently – Kim Jong-un and Vladimir Putin are planning to meet in Russia to discuss weapons, Recep Tayyip Erdogan of Turkey had a friendly meeting with Putin, a top Russian general was briefly detained after a mutiny, China&#39;s biggest homebuilder is reeling from the slowing economy, there&#39;s controversy over a Detroit tiny home program meant for low-income residents, and Elaine LaLanne (the first lady of fitness) is 97 and still shaping the industry. Unfortunately, there&#39;s also been Steve Harwell (of Smash Mouth fame) passing away at 56. Beyond this, Nikki Haley is gaining attention as she has a playbook for winning tough races leading up to 2024 and Burning Man attendees have been stranded due to torrential rain. However, it isn&#39;t all bad news – Coco Gauff has taken this year&#39;s US Open by storm!</p>
+Hey there! A lot has been going on in the world lately. The Chinese economy is slowing down, which is causing problems for the country&#39;s biggest homebuilder. Kim Jong-un and Putin are planning to meet up in Russia soon to discuss weapons. Turkey&#39;s President Erdogan had a friendly meeting with Putin recently, causing people to wonder what winds they&#39;re playing. A top Russian General was detained and then released after a mutiny in Wagner. There&#39;s controversy going on in Detroit over a tiny home project meant to help low-income residents. 97 year old Elaine LaLanne, the first lady of fitness, is setting an example for aging well. The singer for Smash Mouth, Steve Harwell, recently passed away at 56, and his hit song &quot;All Star&quot; has gotten some new life from memes recently. Nikki Haley is publicizing her successes in the Trump administration while still marketing herself as an outsider with regard to 2024 elections. Burning Man attendees are being forced to leave due to torrential rains, and a newsworthy figure from the Apollo 13 mission, Marilyn Lovell, has just died at 93. Finally, young prodigy Coco Gauff is making waves at this year&#39;s US Open! Wow that&#39;s a lot of news - hope you&#39;re doing okay!</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>China’s Biggest Homebuilder Reels as Economy Slows</h3>
+<sub>By Daisuke Wakabayashi and Claire Fu</sub>
+<p>Once considered a survivor of China’s real estate turmoil, Country Garden is now at the center of the crisis and threatens the broader economy.  <a href="https://nyti.ms/44EVsmS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 3, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Kim Jong-un and Putin Plan to Meet in Russia to Discuss Weapons</h3>
 <sub>By Edward Wong and Julian E. Barnes</sub>
@@ -79,12 +85,6 @@ There have been some interesting changes in the world recently – Kim Jong-un a
 <sub>By Paul Sonne, Anatoly Kurmanaev and Julian E. Barnes</sub>
 <p>Gen. Sergei Surovikin, who was seen as an ally of the mercenary leader Yevgeny V. Prigozhin, has re-emerged in public.  <a href="https://nyti.ms/3EpMRda"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>China’s Biggest Homebuilder Reels as Economy Slows</h3>
-<sub>By Daisuke Wakabayashi and Claire Fu</sub>
-<p>Once considered a survivor of China’s real estate turmoil, Country Garden is now at the center of the crisis and threatens the broader economy.  <a href="https://nyti.ms/44EVsmS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-realestate-blue" alt="">
 <h3>In Detroit, a Tiny Home Generates a Big Controversy</h3>
