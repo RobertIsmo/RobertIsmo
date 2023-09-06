@@ -58,15 +58,17 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Tuesday, September 5, Central Standard Time</p>
+<p>It is Wednesday, September 6, Central Standard Time</p>
 <p>
-There are a lot of things happening in the world right now. In the US, the former leader of the Proud Boys has been sentenced to 22 years in prison for his role in the Jan. 6 insurrection at the Capitol. Another man, who founded a failed cryptocurrency exchange, is facing fraud charges and is protesting his conditions in jail. Meanwhile, bankruptcy lawyers have made a fortune from five crypto companies that have declared bankruptcy. 
+Recently, there have been some big news stories happening. In the U.S., a man named Enrique Tarrio who was the leader of the Proud Boys has been sentenced to 22 years in prison for his role in the January 6th insurrection. Meanwhile, a cryptocurrency company called FTX founder is currently in jail awaiting fraud charges. Those inside the cryptocurrency world have made huge profits from the collapse of these companies - some lawyers earning around $700 million. 
 
-In Ukraine, there is an ongoing battle with Russia as forces try to punch a hole through Russian lines. And in the US, there is a manhunt for a Pennsylvania fugitive who escaped from a prison after being sentenced to life for murder, while lawyers are seeking a new trial for South Carolina lawyer Alex Murdaughwho was convicted of murder. 
+On another note, a much needed budget problem that would have had major implications for the U.S. has suddenly receded leaving many people unsure why. In Ukraine, forces there are trying to spread their seize of an area held by Russia but it won’t be easy military analysts said. 
 
-Closer to home, Americans are starting to lose faith in the value of college and high tuition rates may be to blame. In Colorado, there has been a long dispute over water rights which has finally come to fruition. And Texans are facing impeachment charges brought against their attorney general by fellow Republicans. 
+Back home, there&#39;s been an uproar over college costs and whether or not not getting a degree is even worth the money anymore with many Americans losing their faith in higher education. And in Pennsylvania, police are on the hunt for an escaped prisoner by the name of Danelo Cavalcante who is serving a life sentence for murder. 
 
-Finally, scientists have discovered the remains of a child suspected of being a revenant (undead creature) from around 400 years ago when Europeans believed that corpses could rise from their graves!</p>
+In South Carolina, Alex Murdaugh is making motions for a new trial as lawyers allege jurors were given false instructions by an official and evidence may have been tampered with. In sports news there&#39;s some exciting upsets with Coco Gauff and Ben Shelton both now playing in the semifinals of the U.S Open and Ken Paxton, Texas attorney general, is facing charges from fellow Republicans at an impeachment trial that is expected to last a long time.
+
+Finally, archaeologists recently dug up 400-year-old corpse who was locked in their grave seemingly due to fears back then that they would rise and bedevil the living! It&#39;s been a wild couple of weeks!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Ex-Leader of Proud Boys Sentenced to 22 Years in Jan. 6 Sedition Case</h3>
@@ -116,22 +118,22 @@ Finally, scientists have discovered the remains of a child suspected of being a 
 <p>Lawyers for Alex Murdaugh, a South Carolina lawyer convicted of murder, said in a court filing that an official told jurors not to be “fooled by” his testimony.  <a href="https://nyti.ms/3R62yOn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>A Colorado City Has Been Battling for Decades to Use Its Own Water</h3>
-<sub>By David Gelles</sub>
-<p>Lawsuits, protests and fierce disputes over who controls water in the parched American West have held up a crucial pipeline.  <a href="https://nyti.ms/3EoPEDB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Ben Shelton Advances to U.S. Open Semifinal Against Novak Djokovic</h3>
+<sub>By Matthew Futterman</sub>
+<p>Shelton, 20, becomes the youngest American man to reach a U.S. Open semifinal since Andy Roddick in 2003.  <a href="https://nyti.ms/3ZlWRy1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Coco Gauff Storms Into the U.S. Open Semifinals</h3>
+<sub>By David Waldstein</sub>
+<p>After easily beating Jelena Ostapenko, 6-0, 6-2, Gauff, 19, is now one match win away from her first career singles final at the Open.  <a href="https://nyti.ms/3sEqMVD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Ken Paxton Faces Charges From Fellow Republicans at Impeachment Trial</h3>
 <sub>By J. David Goodman, David Montgomery and Edgar Sandoval</sub>
 <p>The Texas attorney general pleaded not guilty to accusations of corruption and abuse of office in what is expected to be a lengthy trial in the State Senate.  <a href="https://nyti.ms/3rasHAR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>McConnell Releases New Health Assurances From the Capitol’s Physician</h3>
-<sub>By Carl Hulse</sub>
-<p>With the Senate returning from its long summer recess, the minority leader circulated a note from the congressional doctor saying an examination and tests showed no signs of a stroke or seizure.  <a href="https://nyti.ms/45C9JSP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
