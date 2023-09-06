@@ -60,18 +60,38 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, September 5, Central Standard Time</p>
 <p>
-Currently, North Korea is looking to leverage theUkraine War by seeking missile and warhead technology from Russia. In the US, a huge threat to the budget has receded but no one is sure why. There&#39;s been a decline in faith in the value of college, with questions of who&#39;s to blame. On the health front, the US Senate minority leader has released new assurances from the Capitol’s physician after an examination found no signs of stroke or seizure. In Colorado, a city has been fighting for decades to use its own water due to lawsuits. Archaeologists have found the 400-year-old corpse of suspected child revenant in Europe. In Pennsylvania, schools are closed as authorities search for an escaped prisoner sentenced to life for homicide. Sports fans are excited that 19-year-old Coco Gauff is now one match away from her first career singles final at the US Open. In New York, plans were announced for the NYPD to drop a contentious tactic used during protests as part of an agreement with state attorney general and other activist groups. Three governor&#39;s races across the US show ads focused on issues like education, economy, jobs and taxes as well as local scandals and crime. At the Venice Film Festival there was a mixed reception for Woody Allen&#39;s 50th film Coup de Chance both from critics and protesters who asked organizers to &quot;turn the spotlight off of rapists.&quot; And finally, tennis fans gave rise to online trends after professional player Frances Tiafoe requested multiple changes in shirts midmatch.</p>
+There are a number of ongoing news stories that tell us about what is happening in the world right now. In the US, a former leader of the Proud Boys has been sentenced to 22 years in prison as part of a sedition case related to the Capitol attack. Meanwhile, the founder of a failed cryptocurrency exchange is currently in jail awaiting trial on fraud charges, and lawyers working on the bankruptcies of several crypto companies have made millions. In Ukraine, soldiers are trying to break through Russian lines.
+
+On the domestic front, Americans are losing faith in the value of college, while Texas attorney general Ken Paxton faces charges from fellow Republicans during an impeachment trial. Another contentious issue is the battle for water rights in parched Colorado towns. Back in Pennsylvania, law enforcement officials are searching for an escaped murderer, and lawyers representing a South Carolina lawyer convicted of murder allege jury tampering. Across Capitol Hill, assurances from the congressional doctor that there are no signs of stroke or seizure continue to be released by Minority Leader Mitch McConnell. Finally, archaeologists recently uncovered the 400-year-old remains of a suspected child revenant from 17th-century Europe believed to have risen from death to bedevil the living.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>North Korea Finds New Leverage in the Ukraine War</h3>
-<sub>By Choe Sang-Hun</sub>
-<p>Kim Jong-un is likely to seek missile and warhead technology in an expected visit to Russia, and he is already getting a public embrace he has long sought.  <a href="https://nyti.ms/45CcxiR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Ex-Leader of Proud Boys Sentenced to 22 Years in Jan. 6 Sedition Case</h3>
+<sub>By Alan Feuer</sub>
+<p>The prison term for Enrique Tarrio was the most severe penalty handed down so far to any of the more than 1,100 people charged in connection with the Capitol attack.  <a href="https://nyti.ms/45CNX13"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Bread, Water and Peanut Butter: Sam Bankman-Fried’s Life in Jail</h3>
+<sub>By David Yaffe-Bellany and Matthew Goldstein</sub>
+<p>Mr. Bankman-Fried, founder of the failed cryptocurrency exchange FTX, has protested his conditions at Brooklyn’s Metropolitan Detention Center as he awaits trial on fraud charges.  <a href="https://nyti.ms/3Z7nypJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>A $700 Million Bonanza for the Winners of Crypto’s Collapse: Lawyers</h3>
+<sub>By David Yaffe-Bellany and Yiwen Lu</sub>
+<p>Bankruptcy lawyers and other corporate turnaround specialists have reaped major fees from the bankruptcies of five cryptocurrency companies, including FTX.  <a href="https://nyti.ms/3EqYrF1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-upshot-blue" alt="">
 <h3>A Huge Threat to the U.S. Budget Has Receded. And No One Is Sure Why.</h3>
 <sub>By Margot Sanger-Katz, Alicia Parlapiano and Josh Katz</sub>
 <p>Instead of growing and growing, as it always had, spending per Medicare beneficiary has nearly leveled off over more than a decade.  <a href="https://nyti.ms/3r34AnN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukraine’s Forces Try to Punch 2nd Hole in Russian Lines</h3>
+<sub>By Constant Méheut and Thomas Gibbons-Neff</sub>
+<p>Ukrainian soldiers are trying to build on a new breach in enemy lines, but the battle will not be easy, military analysts said.  <a href="https://nyti.ms/3PrglO1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
@@ -81,9 +101,9 @@ Currently, North Korea is looking to leverage theUkraine War by seeking missile 
 <sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>McConnell Releases New Health Assurances From the Capitol’s Physician</h3>
-<sub>By Carl Hulse</sub>
-<p>With the Senate returning from its long summer recess, the minority leader circulated a note from the congressional doctor saying an examination and tests showed no signs of a stroke or seizure.  <a href="https://nyti.ms/45C9JSP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Ken Paxton Faces Charges From Fellow Republicans at Impeachment Trial</h3>
+<sub>By J. David Goodman, David Montgomery and Edgar Sandoval</sub>
+<p>The Texas attorney general pleaded not guilty to accusations of corruption and abuse of office in what is expected to be a lengthy trial in the State Senate.  <a href="https://nyti.ms/3rasHAR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
@@ -92,46 +112,28 @@ Currently, North Korea is looking to leverage theUkraine War by seeking missile 
 <p>Lawsuits, protests and fierce disputes over who controls water in the parched American West have held up a crucial pipeline.  <a href="https://nyti.ms/3EoPEDB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Schools Closed as Manhunt for Pennsylvania Fugitive Expands</h3>
+<sub>By Johnny Diaz</sub>
+<p>Danelo Cavalcante escaped from a prison near Philadelphia on Thursday, days after receiving a life sentence for murder. The authorities said he had been spotted near homes.  <a href="https://nyti.ms/3sGVw8u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Murdaugh’s Lawyers Seek New Trial, Saying Clerk Tampered With Jury</h3>
+<sub>By Nicholas Bogel-Burroughs</sub>
+<p>Lawyers for Alex Murdaugh, a South Carolina lawyer convicted of murder, said in a court filing that an official told jurors not to be “fooled by” his testimony.  <a href="https://nyti.ms/3R62yOn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>McConnell Releases New Health Assurances From the Capitol’s Physician</h3>
+<sub>By Carl Hulse</sub>
+<p>With the Senate returning from its long summer recess, the minority leader circulated a note from the congressional doctor saying an examination and tests showed no signs of a stroke or seizure.  <a href="https://nyti.ms/45C9JSP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
 <h3>Undying Dread: A 400-Year-Old Corpse, Locked to Its Grave</h3>
 <sub>By Franz Lidz</sub>
 <p>In 17th-century Europe, the dead were a constant threat to rise again and bedevil the living. Now archaeologists have found the remains of a suspected child revenant.  <a href="https://nyti.ms/3R8qnF7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Schools Closed as Manhunt for Pennsylvania Fugitive Expands</h3>
-<sub>By Johnny Diaz</sub>
-<p>Danelo Cavalcante escaped from a prison near Philadelphia on Thursday, days after receiving a life sentence for homicide. The authorities said he had been spotted near homes.  <a href="https://nyti.ms/3sGVw8u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Coco Gauff Storms Into the U.S. Open Semifinals</h3>
-<sub>By David Waldstein</sub>
-<p>After easily beating Jelena Ostapenko, 6-0, 6-2, Gauff, 19, is now one match win away from her first career singles final at the Open.  <a href="https://nyti.ms/3sEqMVD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>N.Y.P.D. Will Drop Contentious Tactic Used to Crack Down on Protests</h3>
-<sub>By Maria Cramer</sub>
-<p>The department agreed to set new rules and create an oversight board for protests in a sweeping deal with the state attorney general, the New York Civil Liberties Union and the Legal Aid Society.  <a href="https://nyti.ms/3LckmmW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>No Trump, Not Much Biden: The Ad Wars in 3 Governor’s Races</h3>
-<sub>By Nick Corasaniti</sub>
-<p>Offering a look at both parties’ political strategies this year, the ads focus largely on issues like education, the economy, jobs and taxes, as well as local scandals and crime.  <a href="https://nyti.ms/45Ft8SL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>Woody Allen Finds a Decidedly Mixed Reception at the Venice Film Festival</h3>
-<sub>By Kyle Buchanan</sub>
-<p>The director premiered his 50th film, “Coup de Chance.” It won over critics but not protesters, who asked organizers to “turn the spotlight off of rapists.”  <a href="https://nyti.ms/3PrdvZn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>No Sweat. Frances Tiafoe Would Like a Fresh Shirt Now.</h3>
-<sub>By Jesus Jiménez</sub>
-<p>Many athletes take their quirks and superstitions with them into competition, but Tiafoe has taken changing his damp shirt midmatch to an unusual level.  <a href="https://nyti.ms/44En0c4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
