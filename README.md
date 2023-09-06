@@ -60,55 +60,61 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, September 6, Central Standard Time</p>
 <p>
-There is a lot going on in the world! In the US, Enrique Tarrio, former leader of the Proud Boys, was sentenced to 22 years in a sedition case related to the Capitol attack. In technology news, Sam Bankman-Fried, founder of a failed cryptocurrency exchange, is protesting his detention conditions at a Brooklyn jail while awaiting trial on fraud charges. At the same time, corporate turnaround specialists are profiting from recent bankruptcies of 5 crypto companies, one being Bankman-Fried&#39;s. In Ukraine, they&#39;re trying to build on a breach in Russian lines. On the budget front here in the US, spending on Medicare has leveled off over the past decade despite predictions it would continue to grow. And college tuition is increasingly becoming less of a good value for most people. Here at home, police are searching for an escaped prisoner and a murderer is trying to get his case overturned due to jury tampering. Something completely different - sports news - Ben Shelton advanced to the US Open semifinal vs Novak Djokovic and Coco Gauff is only one match away from her first single final at the Open. And finally, in science news, archaeologists found the remains of someone believed to be an undead revenant from 400 years ago in Europe of all places!</p>
+There is a lot of news happening around the world right now. In China, economic pain is testing President Xi Jinping&#39;s control over the country. In Slovakia, a new election could change Ukraine&#39;s biggest ally in Europe, and in the United States, tech giants like Google are facing antitrust charges. There has also been an upswell of activism on mental health issues at Yale recently, and in tennis, young pros are turning to innovative plays like drop shots to win big tournaments. On top of that, there is an American soccer player making history at the U.S. Open and a cryptocurrency trader jailed on fraud charges.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>China’s Economic Pain Is a Test of Xi’s Fixation With Control</h3>
+<sub>By Chris Buckley</sub>
+<p>The slowdown is posing perhaps the most sustained challenge to President Xi Jinping’s agenda in over a decade in power. He now faces a tangle of difficult choices.  <a href="https://nyti.ms/3Z9YbUj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>It’s One of Ukraine’s Fiercest Allies. But an Election Could Change That.</h3>
+<sub>By Andrew Higgins</sub>
+<p>The vote in Slovakia this month will be a test of European unity on Ukraine, and of Russia’s efforts to undermine it. The front-runner wants to halt arms shipments to Kyiv.  <a href="https://nyti.ms/3P5pWZI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>In Its First Monopoly Trial of Modern Internet Era, U.S. Sets Sights on Google</h3>
+<sub>By David McCabe and Cecilia Kang</sub>
+<p>The 10-week trial, set to begin Tuesday, amps up efforts to rein in Big Tech by targeting the core search business that turned Google into a $1.7 trillion behemoth.  <a href="https://nyti.ms/3Rg3eRr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Google Turns to a Steady Old Hand to Fight Antitrust Charges</h3>
+<sub>By Nico Grant</sub>
+<p>The tech giant is facing the greatest legal threat in its history, and hopes the stolid approach of Kent Walker, its top lawyer, will once again prevail.  <a href="https://nyti.ms/3sEdd8J"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>America’s Fire Spotters Aren’t Ready to Fade Away Just Yet</h3>
+<sub>By Raymond Zhong and Mark Felix</sub>
+<p>Officials say the future of wildfire detection is cameras. But in northwest Montana, solitary humans on mountaintops still do more than machines alone can offer.  <a href="https://nyti.ms/45GeqLt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>As Abortion Laws Drive Obstetricians From Red States, Maternity Care Suffers</h3>
+<sub>By Sheryl Gay Stolberg</sub>
+<p>Some doctors who handle high-risk pregnancies are fleeing restrictive abortion laws. Idaho has been particularly hard hit.  <a href="https://nyti.ms/44E5FAg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Ex-Leader of Proud Boys Sentenced to 22 Years in Jan. 6 Sedition Case</h3>
 <sub>By Alan Feuer</sub>
 <p>The prison term for Enrique Tarrio was the most severe penalty handed down so far to any of the more than 1,100 people charged in connection with the Capitol attack.  <a href="https://nyti.ms/45CNX13"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Bread, Water and Peanut Butter: Sam Bankman-Fried’s Life in Jail</h3>
-<sub>By David Yaffe-Bellany and Matthew Goldstein</sub>
-<p>Mr. Bankman-Fried, founder of the failed cryptocurrency exchange FTX, has protested his conditions at Brooklyn’s Metropolitan Detention Center as he awaits trial on fraud charges.  <a href="https://nyti.ms/3Z7nypJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>At Yale, a Surge of Activism Forced Changes in Mental Health Policies</h3>
+<sub>By Anemona Hartocollis and Ellen Barry</sub>
+<p>For decades, the university required students seeking medical leaves to withdraw and reapply. A campus suicide set off a cascade of revisions.  <a href="https://nyti.ms/3Z2IAWN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>A $700 Million Bonanza for the Winners of Crypto’s Collapse: Lawyers</h3>
-<sub>By David Yaffe-Bellany and Yiwen Lu</sub>
-<p>Bankruptcy lawyers and other corporate turnaround specialists have reaped major fees from the bankruptcies of five cryptocurrency companies, including FTX.  <a href="https://nyti.ms/3EqYrF1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine’s Forces Try to Punch 2nd Hole in Russian Lines</h3>
-<sub>By Constant Méheut and Thomas Gibbons-Neff</sub>
-<p>Ukrainian soldiers are trying to build on a new breach in enemy lines, but the battle will not be easy, military analysts said.  <a href="https://nyti.ms/3PrglO1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>A Huge Threat to the U.S. Budget Has Receded. And No One Is Sure Why.</h3>
-<sub>By Margot Sanger-Katz, Alicia Parlapiano and Josh Katz</sub>
-<p>Instead of growing and growing, as it always had, spending per Medicare beneficiary has nearly leveled off over more than a decade.  <a href="https://nyti.ms/3r34AnN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Americans Are Losing Faith in the Value of College. Whose Fault Is That?</h3>
-<sub>By Paul Tough</sub>
-<p>For most people, the new economics of higher ed make going to college a risky bet.  <a href="https://nyti.ms/3L7HqmQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Schools Closed as Manhunt for Pennsylvania Fugitive Expands</h3>
-<sub>By Johnny Diaz</sub>
-<p>Danelo Cavalcante escaped from a prison near Philadelphia on Thursday, days after receiving a life sentence for murder. The authorities said he had been spotted near homes.  <a href="https://nyti.ms/3sGVw8u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Murdaugh’s Lawyers Seek New Trial, Saying Clerk Tampered With Jury</h3>
-<sub>By Nicholas Bogel-Burroughs</sub>
-<p>Lawyers for Alex Murdaugh, a South Carolina lawyer convicted of murder, said in a court filing that an official told jurors not to be “fooled by” his testimony.  <a href="https://nyti.ms/3R62yOn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>To Win Big, Top Tennis Pros Turn to Marshmallows</h3>
+<sub>By Kurt Streeter</sub>
+<p>Carlos Alcaraz is among the ranked players on the men’s and women&#39;s tours who have increasingly dared to use the drop shot on crucial points.  <a href="https://nyti.ms/44Kq1Yq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Ben Shelton Advances to U.S. Open Semifinal Against Novak Djokovic</h3>
@@ -117,22 +123,16 @@ There is a lot going on in the world! In the US, Enrique Tarrio, former leader o
 <sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Coco Gauff Storms Into the U.S. Open Semifinals</h3>
-<sub>By David Waldstein</sub>
-<p>After easily beating Jelena Ostapenko, 6-0, 6-2, Gauff, 19, is now one match win away from her first career singles final at the Open.  <a href="https://nyti.ms/3sEqMVD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Zheng Qinwen Is Coming Into Her Own</h3>
+<sub>By Matthew Futterman</sub>
+<p>Zheng, 20, has battled through four matches at the U.S. Open, improving with each win. On Wednesday, she will play Aryna Sabalenka, who is on the cusp of being the world No. 1.  <a href="https://nyti.ms/45ERYlS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Ken Paxton Faces Charges From Fellow Republicans at Impeachment Trial</h3>
-<sub>By J. David Goodman, David Montgomery and Edgar Sandoval</sub>
-<p>The Texas attorney general pleaded not guilty to accusations of corruption and abuse of office in what is expected to be a lengthy trial in the State Senate.  <a href="https://nyti.ms/3rasHAR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Bread, Water and Peanut Butter: Sam Bankman-Fried’s Life in Jail</h3>
+<sub>By David Yaffe-Bellany and Matthew Goldstein</sub>
+<p>Mr. Bankman-Fried, founder of the failed cryptocurrency exchange FTX, has protested his conditions at Brooklyn’s Metropolitan Detention Center as he awaits trial on fraud charges.  <a href="https://nyti.ms/3Z7nypJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>Undying Dread: A 400-Year-Old Corpse, Locked to Its Grave</h3>
-<sub>By Franz Lidz</sub>
-<p>In 17th-century Europe, the dead were a constant threat to rise again and bedevil the living. Now archaeologists have found the remains of a suspected child revenant.  <a href="https://nyti.ms/3R8qnF7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
