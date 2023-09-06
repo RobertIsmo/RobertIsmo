@@ -60,18 +60,22 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, September 6, Central Standard Time</p>
 <p>
-There is a lot of news happening around the world right now. In China, economic pain is testing President Xi Jinping&#39;s control over the country. In Slovakia, a new election could change Ukraine&#39;s biggest ally in Europe, and in the United States, tech giants like Google are facing antitrust charges. There has also been an upswell of activism on mental health issues at Yale recently, and in tennis, young pros are turning to innovative plays like drop shots to win big tournaments. On top of that, there is an American soccer player making history at the U.S. Open and a cryptocurrency trader jailed on fraud charges.</p>
+Right now, there&#39;s a lot of tension surrounding European unity and Ukraine, as a big election in Slovakia could determine Ukraine&#39;s future alliances. The vote is a test of Russia&#39;s efforts to undermine European unity. In China, their economic slowdown is posing one of the biggest challenges for President Xi Jinping since he was appointed.
+
+In the US, there&#39;s new restrictions on abortion and medical leaves that are making it harder for obstetricians to practice across red states. On the other side, student mental health policies at Yale are improving in response to student activism.
+
+In sports, tennis pros are turning to drop shots to win matches and American Ben Shelton made the semifinal in the US Open. Meanwhile, Chinese player Zheng Qinwen has been progressing well through her matches at the same tournament. Lastly, in tech news, one of the founders of failed cryptocurrency exchange FTX is under legal charges and being kept in jail with bread, water and peanut butter. Lastly, Republicans in Wisconsin are trying to impeach a liberal State Supreme Court justice before she&#39;s been able to hear any cases.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>China’s Economic Pain Is a Test of Xi’s Fixation With Control</h3>
-<sub>By Chris Buckley</sub>
-<p>The slowdown is posing perhaps the most sustained challenge to President Xi Jinping’s agenda in over a decade in power. He now faces a tangle of difficult choices.  <a href="https://nyti.ms/3Z9YbUj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>It’s One of Ukraine’s Fiercest Allies. But an Election Could Change That.</h3>
 <sub>By Andrew Higgins</sub>
 <p>The vote in Slovakia this month will be a test of European unity on Ukraine, and of Russia’s efforts to undermine it. The front-runner wants to halt arms shipments to Kyiv.  <a href="https://nyti.ms/3P5pWZI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>China’s Economic Pain Is a Test of Xi’s Fixation With Control</h3>
+<sub>By Chris Buckley</sub>
+<p>The slowdown is posing perhaps the most sustained challenge to President Xi Jinping’s agenda in over a decade in power. He now faces a tangle of difficult choices.  <a href="https://nyti.ms/3Z9YbUj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -97,12 +101,6 @@ There is a lot of news happening around the world right now. In China, economic 
 <sub>By Sheryl Gay Stolberg</sub>
 <p>Some doctors who handle high-risk pregnancies are fleeing restrictive abortion laws. Idaho has been particularly hard hit.  <a href="https://nyti.ms/44E5FAg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Ex-Leader of Proud Boys Sentenced to 22 Years in Jan. 6 Sedition Case</h3>
-<sub>By Alan Feuer</sub>
-<p>The prison term for Enrique Tarrio was the most severe penalty handed down so far to any of the more than 1,100 people charged in connection with the Capitol attack.  <a href="https://nyti.ms/45CNX13"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>At Yale, a Surge of Activism Forced Changes in Mental Health Policies</h3>
@@ -133,6 +131,12 @@ There is a lot of news happening around the world right now. In China, economic 
 <sub>By David Yaffe-Bellany and Matthew Goldstein</sub>
 <p>Mr. Bankman-Fried, founder of the failed cryptocurrency exchange FTX, has protested his conditions at Brooklyn’s Metropolitan Detention Center as he awaits trial on fraud charges.  <a href="https://nyti.ms/3Z7nypJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Why Republicans Could Impeach a Liberal Judge Before She’s Heard a Case</h3>
+<sub>By Reid J. Epstein</sub>
+<p>Republicans in Wisconsin have floated impeaching a newly seated liberal State Supreme Court justice who is threatening conservatives’ grip on state politics.  <a href="https://nyti.ms/3Zd0hTC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
