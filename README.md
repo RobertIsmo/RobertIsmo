@@ -60,11 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, September 6, Central Standard Time</p>
 <p>
-Right now, there&#39;s a lot of tension surrounding European unity and Ukraine, as a big election in Slovakia could determine Ukraine&#39;s future alliances. The vote is a test of Russia&#39;s efforts to undermine European unity. In China, their economic slowdown is posing one of the biggest challenges for President Xi Jinping since he was appointed.
+There is a lot happening in the world right now. In Slovakia, a vote in mid-February could have major consequences for European unity when it comes to Ukraine, and Russia is trying to influence those outcomes. Meanwhile, China&#39;s economic downturn is posing the greatest challenge to President Xi Jinping since he came to power over 10 years ago. 
 
-In the US, there&#39;s new restrictions on abortion and medical leaves that are making it harder for obstetricians to practice across red states. On the other side, student mental health policies at Yale are improving in response to student activism.
+In the US, the Biden administration is expected to cancel oil drilling leases in an Alaskan wildlife refuge and a Florida bill seeks to make a test featuring Christian thought an alternative to the SAT or ACT. Yale has responded to student activism by making changes to their mental health policies and people are on edge as a convicted killer remains on the run near Philadelphia. 
 
-In sports, tennis pros are turning to drop shots to win matches and American Ben Shelton made the semifinal in the US Open. Meanwhile, Chinese player Zheng Qinwen has been progressing well through her matches at the same tournament. Lastly, in tech news, one of the founders of failed cryptocurrency exchange FTX is under legal charges and being kept in jail with bread, water and peanut butter. Lastly, Republicans in Wisconsin are trying to impeach a liberal State Supreme Court justice before she&#39;s been able to hear any cases.</p>
+On the sports scene, tennis players have turned to marshmallows for increased performance success and there have been reports of sexism within Spanish soccer teams, with one player filing a criminal complaint over an unwarranted kiss from the head of their soccer federation.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>It’s One of Ukraine’s Fiercest Allies. But an Election Could Change That.</h3>
@@ -78,16 +78,10 @@ In sports, tennis pros are turning to drop shots to win matches and American Ben
 <p>The slowdown is posing perhaps the most sustained challenge to President Xi Jinping’s agenda in over a decade in power. He now faces a tangle of difficult choices.  <a href="https://nyti.ms/3Z9YbUj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>In Its First Monopoly Trial of Modern Internet Era, U.S. Sets Sights on Google</h3>
-<sub>By David McCabe and Cecilia Kang</sub>
-<p>The 10-week trial, set to begin Tuesday, amps up efforts to rein in Big Tech by targeting the core search business that turned Google into a $1.7 trillion behemoth.  <a href="https://nyti.ms/3Rg3eRr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Google Turns to a Steady Old Hand to Fight Antitrust Charges</h3>
-<sub>By Nico Grant</sub>
-<p>The tech giant is facing the greatest legal threat in its history, and hopes the stolid approach of Kent Walker, its top lawyer, will once again prevail.  <a href="https://nyti.ms/3sEdd8J"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Biden Administration Expected to Cancel Drilling Leases in Alaskan Wildlife Refuge</h3>
+<sub>By Lisa Friedman</sub>
+<p>The oil and gas rights had been sold to the state’s economic development agency under the Trump administration.  <a href="https://nyti.ms/4871iQY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
@@ -96,10 +90,34 @@ In sports, tennis pros are turning to drop shots to win matches and American Ben
 <p>Officials say the future of wildfire detection is cameras. But in northwest Montana, solitary humans on mountaintops still do more than machines alone can offer.  <a href="https://nyti.ms/45GeqLt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Bedtime Check-Ins and Verbal Abuse: Women’s Life in Spanish Soccer</h3>
+<sub>By Rachel Chaundler, Sarah Hurtes and Jeré Longman</sub>
+<p>More than a dozen women described sexism ranging from paternalism to verbal abuse. “What you really need is a good man,” a former national captain said players were told.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Spain Player Files Criminal Complaint Over Soccer Chief’s Kiss</h3>
+<sub>By Emma Bubola and Rachel Chaundler</sub>
+<p>Jennifer Hermoso has said the kiss from Luis Rubiales, head of the Spanish soccer federation, at the women’s World Cup was not consensual. The scandal has grown into a reckoning over sexism.  <a href="https://nyti.ms/3Ri6yLw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>As Abortion Laws Drive Obstetricians From Red States, Maternity Care Suffers</h3>
 <sub>By Sheryl Gay Stolberg</sub>
 <p>Some doctors who handle high-risk pregnancies are fleeing restrictive abortion laws. Idaho has been particularly hard hit.  <a href="https://nyti.ms/44E5FAg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Florida Expected to Approve Classical Exam as a Competitor to the SAT</h3>
+<sub>By Dana Goldstein</sub>
+<p>The Classic Learning Test emphasizes the Western canon and Christian thought. It’s the latest move by Gov. Ron DeSantis to shake up the education establishment.  <a href="https://nyti.ms/3sI6PgN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Here’s What It’s Like to Take the Classic Learning Test</h3>
+<sub></sub>
+<p>Florida’s public university system is expected to approve the Classic Learning Test for college admissions, an alternative to the SAT or ACT.  <a href="https://nyti.ms/3sIxVo2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
@@ -108,34 +126,16 @@ In sports, tennis pros are turning to drop shots to win matches and American Ben
 <p>For decades, the university required students seeking medical leaves to withdraw and reapply. A campus suicide set off a cascade of revisions.  <a href="https://nyti.ms/3Z2IAWN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>With an Escaped Killer Loose, an Unsettling Encounter in a Darkened House</h3>
+<sub>By Campbell Robertson</sub>
+<p>As the search for a convicted murderer continues, a mixture of fear and unease has settled over the community outside Philadelphia where he escaped and is believed to be hiding.  <a href="https://nyti.ms/3Pq4xvw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>To Win Big, Top Tennis Pros Turn to Marshmallows</h3>
 <sub>By Kurt Streeter</sub>
 <p>Carlos Alcaraz is among the ranked players on the men’s and women&#39;s tours who have increasingly dared to use the drop shot on crucial points.  <a href="https://nyti.ms/44Kq1Yq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Ben Shelton Advances to U.S. Open Semifinal Against Novak Djokovic</h3>
-<sub>By Matthew Futterman</sub>
-<p>Shelton, 20, becomes the youngest American man to reach a U.S. Open semifinal since Andy Roddick in 2003.  <a href="https://nyti.ms/3ZlWRy1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Zheng Qinwen Is Coming Into Her Own</h3>
-<sub>By Matthew Futterman</sub>
-<p>Zheng, 20, has battled through four matches at the U.S. Open, improving with each win. On Wednesday, she will play Aryna Sabalenka, who is on the cusp of being the world No. 1.  <a href="https://nyti.ms/45ERYlS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Bread, Water and Peanut Butter: Sam Bankman-Fried’s Life in Jail</h3>
-<sub>By David Yaffe-Bellany and Matthew Goldstein</sub>
-<p>Mr. Bankman-Fried, founder of the failed cryptocurrency exchange FTX, has protested his conditions at Brooklyn’s Metropolitan Detention Center as he awaits trial on fraud charges.  <a href="https://nyti.ms/3Z7nypJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Why Republicans Could Impeach a Liberal Judge Before She’s Heard a Case</h3>
-<sub>By Reid J. Epstein</sub>
-<p>Republicans in Wisconsin have floated impeaching a newly seated liberal State Supreme Court justice who is threatening conservatives’ grip on state politics.  <a href="https://nyti.ms/3Zd0hTC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
 <hr/>
 </ol>
