@@ -60,15 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, September 6, Central Standard Time</p>
 <p>
-Recently, there have been some big news stories happening. In the U.S., a man named Enrique Tarrio who was the leader of the Proud Boys has been sentenced to 22 years in prison for his role in the January 6th insurrection. Meanwhile, a cryptocurrency company called FTX founder is currently in jail awaiting fraud charges. Those inside the cryptocurrency world have made huge profits from the collapse of these companies - some lawyers earning around $700 million. 
-
-On another note, a much needed budget problem that would have had major implications for the U.S. has suddenly receded leaving many people unsure why. In Ukraine, forces there are trying to spread their seize of an area held by Russia but it won’t be easy military analysts said. 
-
-Back home, there&#39;s been an uproar over college costs and whether or not not getting a degree is even worth the money anymore with many Americans losing their faith in higher education. And in Pennsylvania, police are on the hunt for an escaped prisoner by the name of Danelo Cavalcante who is serving a life sentence for murder. 
-
-In South Carolina, Alex Murdaugh is making motions for a new trial as lawyers allege jurors were given false instructions by an official and evidence may have been tampered with. In sports news there&#39;s some exciting upsets with Coco Gauff and Ben Shelton both now playing in the semifinals of the U.S Open and Ken Paxton, Texas attorney general, is facing charges from fellow Republicans at an impeachment trial that is expected to last a long time.
-
-Finally, archaeologists recently dug up 400-year-old corpse who was locked in their grave seemingly due to fears back then that they would rise and bedevil the living! It&#39;s been a wild couple of weeks!</p>
+There is a lot going on in the world! In the US, Enrique Tarrio, former leader of the Proud Boys, was sentenced to 22 years in a sedition case related to the Capitol attack. In technology news, Sam Bankman-Fried, founder of a failed cryptocurrency exchange, is protesting his detention conditions at a Brooklyn jail while awaiting trial on fraud charges. At the same time, corporate turnaround specialists are profiting from recent bankruptcies of 5 crypto companies, one being Bankman-Fried&#39;s. In Ukraine, they&#39;re trying to build on a breach in Russian lines. On the budget front here in the US, spending on Medicare has leveled off over the past decade despite predictions it would continue to grow. And college tuition is increasingly becoming less of a good value for most people. Here at home, police are searching for an escaped prisoner and a murderer is trying to get his case overturned due to jury tampering. Something completely different - sports news - Ben Shelton advanced to the US Open semifinal vs Novak Djokovic and Coco Gauff is only one match away from her first single final at the Open. And finally, in science news, archaeologists found the remains of someone believed to be an undead revenant from 400 years ago in Europe of all places!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Ex-Leader of Proud Boys Sentenced to 22 Years in Jan. 6 Sedition Case</h3>
@@ -88,16 +80,16 @@ Finally, archaeologists recently dug up 400-year-old corpse who was locked in th
 <p>Bankruptcy lawyers and other corporate turnaround specialists have reaped major fees from the bankruptcies of five cryptocurrency companies, including FTX.  <a href="https://nyti.ms/3EqYrF1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>A Huge Threat to the U.S. Budget Has Receded. And No One Is Sure Why.</h3>
-<sub>By Margot Sanger-Katz, Alicia Parlapiano and Josh Katz</sub>
-<p>Instead of growing and growing, as it always had, spending per Medicare beneficiary has nearly leveled off over more than a decade.  <a href="https://nyti.ms/3r34AnN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ukraine’s Forces Try to Punch 2nd Hole in Russian Lines</h3>
 <sub>By Constant Méheut and Thomas Gibbons-Neff</sub>
 <p>Ukrainian soldiers are trying to build on a new breach in enemy lines, but the battle will not be easy, military analysts said.  <a href="https://nyti.ms/3PrglO1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>A Huge Threat to the U.S. Budget Has Receded. And No One Is Sure Why.</h3>
+<sub>By Margot Sanger-Katz, Alicia Parlapiano and Josh Katz</sub>
+<p>Instead of growing and growing, as it always had, spending per Medicare beneficiary has nearly leveled off over more than a decade.  <a href="https://nyti.ms/3r34AnN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
