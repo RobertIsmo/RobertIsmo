@@ -60,9 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, September 5, Central Standard Time</p>
 <p>
-There are a number of ongoing news stories that tell us about what is happening in the world right now. In the US, a former leader of the Proud Boys has been sentenced to 22 years in prison as part of a sedition case related to the Capitol attack. Meanwhile, the founder of a failed cryptocurrency exchange is currently in jail awaiting trial on fraud charges, and lawyers working on the bankruptcies of several crypto companies have made millions. In Ukraine, soldiers are trying to break through Russian lines.
+There are a lot of things happening in the world right now. In the US, the former leader of the Proud Boys has been sentenced to 22 years in prison for his role in the Jan. 6 insurrection at the Capitol. Another man, who founded a failed cryptocurrency exchange, is facing fraud charges and is protesting his conditions in jail. Meanwhile, bankruptcy lawyers have made a fortune from five crypto companies that have declared bankruptcy. 
 
-On the domestic front, Americans are losing faith in the value of college, while Texas attorney general Ken Paxton faces charges from fellow Republicans during an impeachment trial. Another contentious issue is the battle for water rights in parched Colorado towns. Back in Pennsylvania, law enforcement officials are searching for an escaped murderer, and lawyers representing a South Carolina lawyer convicted of murder allege jury tampering. Across Capitol Hill, assurances from the congressional doctor that there are no signs of stroke or seizure continue to be released by Minority Leader Mitch McConnell. Finally, archaeologists recently uncovered the 400-year-old remains of a suspected child revenant from 17th-century Europe believed to have risen from death to bedevil the living.</p>
+In Ukraine, there is an ongoing battle with Russia as forces try to punch a hole through Russian lines. And in the US, there is a manhunt for a Pennsylvania fugitive who escaped from a prison after being sentenced to life for murder, while lawyers are seeking a new trial for South Carolina lawyer Alex Murdaughwho was convicted of murder. 
+
+Closer to home, Americans are starting to lose faith in the value of college and high tuition rates may be to blame. In Colorado, there has been a long dispute over water rights which has finally come to fruition. And Texans are facing impeachment charges brought against their attorney general by fellow Republicans. 
+
+Finally, scientists have discovered the remains of a child suspected of being a revenant (undead creature) from around 400 years ago when Europeans believed that corpses could rise from their graves!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Ex-Leader of Proud Boys Sentenced to 22 Years in Jan. 6 Sedition Case</h3>
@@ -101,18 +105,6 @@ On the domestic front, Americans are losing faith in the value of college, while
 <sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Ken Paxton Faces Charges From Fellow Republicans at Impeachment Trial</h3>
-<sub>By J. David Goodman, David Montgomery and Edgar Sandoval</sub>
-<p>The Texas attorney general pleaded not guilty to accusations of corruption and abuse of office in what is expected to be a lengthy trial in the State Senate.  <a href="https://nyti.ms/3rasHAR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>A Colorado City Has Been Battling for Decades to Use Its Own Water</h3>
-<sub>By David Gelles</sub>
-<p>Lawsuits, protests and fierce disputes over who controls water in the parched American West have held up a crucial pipeline.  <a href="https://nyti.ms/3EoPEDB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Schools Closed as Manhunt for Pennsylvania Fugitive Expands</h3>
 <sub>By Johnny Diaz</sub>
 <p>Danelo Cavalcante escaped from a prison near Philadelphia on Thursday, days after receiving a life sentence for murder. The authorities said he had been spotted near homes.  <a href="https://nyti.ms/3sGVw8u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -122,6 +114,18 @@ On the domestic front, Americans are losing faith in the value of college, while
 <h3>Murdaugh’s Lawyers Seek New Trial, Saying Clerk Tampered With Jury</h3>
 <sub>By Nicholas Bogel-Burroughs</sub>
 <p>Lawyers for Alex Murdaugh, a South Carolina lawyer convicted of murder, said in a court filing that an official told jurors not to be “fooled by” his testimony.  <a href="https://nyti.ms/3R62yOn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>A Colorado City Has Been Battling for Decades to Use Its Own Water</h3>
+<sub>By David Gelles</sub>
+<p>Lawsuits, protests and fierce disputes over who controls water in the parched American West have held up a crucial pipeline.  <a href="https://nyti.ms/3EoPEDB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Ken Paxton Faces Charges From Fellow Republicans at Impeachment Trial</h3>
+<sub>By J. David Goodman, David Montgomery and Edgar Sandoval</sub>
+<p>The Texas attorney general pleaded not guilty to accusations of corruption and abuse of office in what is expected to be a lengthy trial in the State Senate.  <a href="https://nyti.ms/3rasHAR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
