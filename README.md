@@ -59,29 +59,28 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, September 6, Central Standard Time</p>
-<p>
-There is a lot happening in the world right now. In Slovakia, a vote in mid-February could have major consequences for European unity when it comes to Ukraine, and Russia is trying to influence those outcomes. Meanwhile, China&#39;s economic downturn is posing the greatest challenge to President Xi Jinping since he came to power over 10 years ago. 
+<p>There is a lot going on around the world right now. The Biden administration is attempting to bar drilling on millions of acres in Alaska and there have been reports of at least 17 people dead after a Russian strike in eastern Ukraine. In Romania, suspected Russian drone debris was found and the Romanian President says it would be a serious violation of NATO&#39;s sovereignty if confirmed. There has also been reports of women soccer players in Spain facing sexism from coaches and officials. Jennifer Hermoso has filed a criminal complaint against the head of the Spanish soccer federation over an alleged kiss that was not consensual.
 
-In the US, the Biden administration is expected to cancel oil drilling leases in an Alaskan wildlife refuge and a Florida bill seeks to make a test featuring Christian thought an alternative to the SAT or ACT. Yale has responded to student activism by making changes to their mental health policies and people are on edge as a convicted killer remains on the run near Philadelphia. 
+In the US, abortion laws have been driving obstetricians out of red states, resulting in maternity care suffering in those areas. On top of that, Florida is expecting to approve classic exams as a competitor to the SAT which emphasizes the Western canon and Christianity. Meanwhile, a convicted killer has escaped outside Philadelphia which is causing fear and unease in the community surrounding the area he&#39;s believed to be hiding in. 
 
-On the sports scene, tennis players have turned to marshmallows for increased performance success and there have been reports of sexism within Spanish soccer teams, with one player filing a criminal complaint over an unwarranted kiss from the head of their soccer federation.</p>
+At the same time, technology has caused &quot;staggering&quot; education inequality according to a UN agency as heavy reliance on online remote learning during the pandemic drew attention away from more equitable at-home teaching methods. To wrap things up, top tennis pros are turning to marshmallows to win big matches by using drop shots on crucial points.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>It’s One of Ukraine’s Fiercest Allies. But an Election Could Change That.</h3>
-<sub>By Andrew Higgins</sub>
-<p>The vote in Slovakia this month will be a test of European unity on Ukraine, and of Russia’s efforts to undermine it. The front-runner wants to halt arms shipments to Kyiv.  <a href="https://nyti.ms/3P5pWZI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>China’s Economic Pain Is a Test of Xi’s Fixation With Control</h3>
-<sub>By Chris Buckley</sub>
-<p>The slowdown is posing perhaps the most sustained challenge to President Xi Jinping’s agenda in over a decade in power. He now faces a tangle of difficult choices.  <a href="https://nyti.ms/3Z9YbUj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Biden Administration Expected to Cancel Drilling Leases in Alaskan Wildlife Refuge</h3>
+<h3>Biden Administration to Bar Drilling on Millions of Acres in Alaska</h3>
 <sub>By Lisa Friedman</sub>
-<p>The oil and gas rights had been sold to the state’s economic development agency under the Trump administration.  <a href="https://nyti.ms/4871iQY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The administration will cancel drilling leases in the Arctic National Wildlife Refuge and set aside more than half of the National Petroleum Reserve.  <a href="https://nyti.ms/4871iQY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>At least 17 are dead after a Russian strike in eastern Ukraine, officials say.</h3>
+<sub>By Constant Méheut</sub>
+<p>  <a href="https://nyti.ms/3Lh4Q9x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Suspected Russian drone debris is found in Romania.</h3>
+<sub>By Andrew Higgins</sub>
+<p>The Romanian president, Klaus Iohannis, said that if the wreckage was confirmed to be Russian, it would be “a serious violation” of a NATO member’s sovereignty.  <a href="https://nyti.ms/3PtE0xs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
@@ -120,16 +119,16 @@ On the sports scene, tennis players have turned to marshmallows for increased pe
 <p>Florida’s public university system is expected to approve the Classic Learning Test for college admissions, an alternative to the SAT or ACT.  <a href="https://nyti.ms/3sIxVo2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>At Yale, a Surge of Activism Forced Changes in Mental Health Policies</h3>
-<sub>By Anemona Hartocollis and Ellen Barry</sub>
-<p>For decades, the university required students seeking medical leaves to withdraw and reapply. A campus suicide set off a cascade of revisions.  <a href="https://nyti.ms/3Z2IAWN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>With an Escaped Killer Loose, an Unsettling Encounter in a Darkened House</h3>
 <sub>By Campbell Robertson</sub>
 <p>As the search for a convicted murderer continues, a mixture of fear and unease has settled over the community outside Philadelphia where he escaped and is believed to be hiding.  <a href="https://nyti.ms/3Pq4xvw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Dependence on Tech Caused ‘Staggering’ Education Inequality, U.N. Agency Says</h3>
+<sub>By Natasha Singer</sub>
+<p>Heavy reliance on online remote learning during the pandemic drew attention away from more equitable ways of teaching children at home, a UNESCO report says.  <a href="https://nyti.ms/3Z9T7zy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
