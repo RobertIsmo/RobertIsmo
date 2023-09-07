@@ -59,52 +59,61 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, September 6, Central Standard Time</p>
-<p>There is a lot going on around the world right now. The Biden administration is attempting to bar drilling on millions of acres in Alaska and there have been reports of at least 17 people dead after a Russian strike in eastern Ukraine. In Romania, suspected Russian drone debris was found and the Romanian President says it would be a serious violation of NATO&#39;s sovereignty if confirmed. There has also been reports of women soccer players in Spain facing sexism from coaches and officials. Jennifer Hermoso has filed a criminal complaint against the head of the Spanish soccer federation over an alleged kiss that was not consensual.
-
-In the US, abortion laws have been driving obstetricians out of red states, resulting in maternity care suffering in those areas. On top of that, Florida is expecting to approve classic exams as a competitor to the SAT which emphasizes the Western canon and Christianity. Meanwhile, a convicted killer has escaped outside Philadelphia which is causing fear and unease in the community surrounding the area he&#39;s believed to be hiding in. 
-
-At the same time, technology has caused &quot;staggering&quot; education inequality according to a UN agency as heavy reliance on online remote learning during the pandemic drew attention away from more equitable at-home teaching methods. To wrap things up, top tennis pros are turning to marshmallows to win big matches by using drop shots on crucial points.</p>
+<p>
+At the moment, a lot of news is coming from the US. There have been prison sentences for those involved in the Capitol riots in January, while former Vice President Pence talked about Trump&#39;s brand of populism. We are also seeing prosecution in a case involving election interference, while Hunter Biden is due to face criminal charges too. In addition, President Biden has made moves to end oil and gas drilling in Alaska, while Mexico decriminalized abortion nationwide. This week, Secretary of State Blinken visited Ukraine and promised support, while Florida is considering an exam based on classical thought as an alternative to the SAT or ACT. Lastly, we saw hot weather causing some athletes distress at the U.S Open.</p>
 <ol>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Biden Administration to Bar Drilling on Millions of Acres in Alaska</h3>
-<sub>By Lisa Friedman</sub>
-<p>The administration will cancel drilling leases in the Arctic National Wildlife Refuge and set aside more than half of the National Petroleum Reserve.  <a href="https://nyti.ms/4871iQY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>At least 17 are dead after a Russian strike in eastern Ukraine, officials say.</h3>
-<sub>By Constant Méheut</sub>
-<p>  <a href="https://nyti.ms/3Lh4Q9x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Suspected Russian drone debris is found in Romania.</h3>
-<sub>By Andrew Higgins</sub>
-<p>The Romanian president, Klaus Iohannis, said that if the wreckage was confirmed to be Russian, it would be “a serious violation” of a NATO member’s sovereignty.  <a href="https://nyti.ms/3PtE0xs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>America’s Fire Spotters Aren’t Ready to Fade Away Just Yet</h3>
-<sub>By Raymond Zhong and Mark Felix</sub>
-<p>Officials say the future of wildfire detection is cameras. But in northwest Montana, solitary humans on mountaintops still do more than machines alone can offer.  <a href="https://nyti.ms/45GeqLt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Bedtime Check-Ins and Verbal Abuse: Women’s Life in Spanish Soccer</h3>
-<sub>By Rachel Chaundler, Sarah Hurtes and Jeré Longman</sub>
-<p>More than a dozen women described sexism ranging from paternalism to verbal abuse. “What you really need is a good man,” a former national captain said players were told.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Spain Player Files Criminal Complaint Over Soccer Chief’s Kiss</h3>
-<sub>By Emma Bubola and Rachel Chaundler</sub>
-<p>Jennifer Hermoso has said the kiss from Luis Rubiales, head of the Spanish soccer federation, at the women’s World Cup was not consensual. The scandal has grown into a reckoning over sexism.  <a href="https://nyti.ms/3Ri6yLw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Jan. 6 Rioters Have Been Held to Account. That Might Be the Easy Part.</h3>
+<sub>By Alan Feuer</sub>
+<p>With leaders of the far-right groups that helped drive the attack on the Capitol sentenced to long prison terms, attention is shifting to the fraught process of prosecuting Donald Trump.  <a href="https://nyti.ms/484fz0Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>As Abortion Laws Drive Obstetricians From Red States, Maternity Care Suffers</h3>
-<sub>By Sheryl Gay Stolberg</sub>
-<p>Some doctors who handle high-risk pregnancies are fleeing restrictive abortion laws. Idaho has been particularly hard hit.  <a href="https://nyti.ms/44E5FAg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Georgia Judge Says Two Defendants in Trump Case Will Get Early Trial Together</h3>
+<sub>By Richard Fausset and Danny Hakim</sub>
+<p>Sidney Powell followed Kenneth Chesebro in demanding a speedy trial, but neither defendant in the election interference case wanted to be tried with the other.  <a href="https://nyti.ms/3PoYTtD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Pence Calls Trump’s Populism a ‘Road to Ruin’ for the G.O.P.</h3>
+<sub>By Jonathan Swan</sub>
+<p>The former vice president used a speech in New Hampshire on Wednesday to call on Republicans to choose between conservatism and Donald Trump’s brand of populism.  <a href="https://nyti.ms/3qZE5Qb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Prosecutors Rest Case Against Peter Navarro in Contempt Trial</h3>
+<sub>By Zach Montague</sub>
+<p>The defense also rested, with closing arguments expected to begin Thursday morning. The fast clip of the trial suggested that the jury could deliberate shortly after.  <a href="https://nyti.ms/3LdOMFo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Biden Administration to Bar Drilling on Millions of Acres in Alaska</h3>
+<sub>By Lisa Friedman</sub>
+<p>The administration will cancel oil and gas leases in the Arctic National Wildlife Refuge and set aside more than half of the National Petroleum Reserve.  <a href="https://nyti.ms/4871iQY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Mexico’s Supreme Court Decriminalizes Abortion Nationwide</h3>
+<sub>By Simon Romero and Emiliano Rodríguez Mega</sub>
+<p>The decision builds on an earlier high court ruling and reflects how Latin American countries are expanding women’s rights.  <a href="https://nyti.ms/3r4I9i2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>With an Escaped Killer Loose, an Unsettling Encounter in a Darkened House</h3>
+<sub>By Campbell Robertson and Joel Wolfram</sub>
+<p>As the search for a convicted murderer continues, a mixture of fear and unease has settled over the community outside Philadelphia where he escaped and is believed to be hiding.  <a href="https://nyti.ms/3Pq4xvw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Justice Dept. Says It Will Indict Hunter Biden on Gun Charge This Month</h3>
+<sub>By Glenn Thrush</sub>
+<p>The timetable, following the collapse of an earlier deal that would have allowed President Biden’s son to avoid any jail time, means he will face prosecution as his father seeks re-election.  <a href="https://nyti.ms/45DWCAp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As Blinken Visits Kyiv to Show Support, Russia Makes a Deadly Attack</h3>
+<sub>By Andrew E. Kramer and Constant Méheut</sub>
+<p>A Russian missile killed at least 17 civilians and wounded dozens, while Secretary of State Antony J. Blinken vowed lasting backing and announced a new round of aid.  <a href="https://nyti.ms/3r2hG4K"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -119,22 +128,10 @@ At the same time, technology has caused &quot;staggering&quot; education inequal
 <p>Florida’s public university system is expected to approve the Classic Learning Test for college admissions, an alternative to the SAT or ACT.  <a href="https://nyti.ms/3sIxVo2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>With an Escaped Killer Loose, an Unsettling Encounter in a Darkened House</h3>
-<sub>By Campbell Robertson</sub>
-<p>As the search for a convicted murderer continues, a mixture of fear and unease has settled over the community outside Philadelphia where he escaped and is believed to be hiding.  <a href="https://nyti.ms/3Pq4xvw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Dependence on Tech Caused ‘Staggering’ Education Inequality, U.N. Agency Says</h3>
-<sub>By Natasha Singer</sub>
-<p>Heavy reliance on online remote learning during the pandemic drew attention away from more equitable ways of teaching children at home, a UNESCO report says.  <a href="https://nyti.ms/3Z9T7zy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>To Win Big, Top Tennis Pros Turn to Marshmallows</h3>
-<sub>By Kurt Streeter</sub>
-<p>Carlos Alcaraz is among the ranked players on the men’s and women&#39;s tours who have increasingly dared to use the drop shot on crucial points.  <a href="https://nyti.ms/44Kq1Yq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>At the U.S. Open, Stifling Heat Causes Some Players to Lose Their Cool</h3>
+<sub>By Matthew Futterman</sub>
+<p>An unseasonal stretch of extreme heat and humidity has left the stadiums at the Open sweltering. But a few players, Coco Gauff among them, say the hotter, the better.  <a href="https://nyti.ms/45XU7J4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
 <hr/>
 </ol>
