@@ -58,13 +58,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Wednesday, September 6, Central Standard Time</p>
+<p>It is Thursday, September 7, Central Standard Time</p>
 <p>
-There has been some major news happening around the world recently. In the US, rioters involved in the attack on the Capitol have been held accountable and now attention is turning to prosecuting Donald Trump. In Georgia, two defendants in a Trump case will get an early trial together. Meanwhile, Mike Pence has denounced Trump&#39;s brand of populism as a &quot;road to ruin&quot; for the Republican Party. Also, prosecutors have made their case against Peter Navarro in a contempt trial.
+In the United States, news reports have been covering the aftermath of the January 6 Capitol riot. Several leaders from far-right groups who helped instigate it have received long prison sentences. Attention is now turning toward the difficult process of prosecuting former President Donald Trump. Meanwhile, Vice President Mike Pence has criticized Trump&#39;s populism in a speech in New Hampshire and Justice Department plans to indict Hunter Biden on a gun charge this month. 
 
-Elsewhere, Mexico has decriminalized abortion nationwide, with two women set to face off against one another to become president of the country for the first time ever. President Biden is also taking action regarding drilling, instituting a ban on millions of acres in Alaska and cancelling oil and gas leases in the Arctic National Wildlife Refuge. The Justice Dept. is reportedly planning to indict Hunter Biden on a gun charge this month, too.
+In Mexico, the Supreme Court has issued an historic ruling decriminalizing abortion nationwide, women competed for the presidency for the first time ever, and exports have been declining. Meanwhile in China, car makers are having success with overseas sales as other exports are faltering. 
 
-Finally, Secretary of State Antony Blinken is visiting Kyiv to show support while there was a deadly attack by Russia in the region. Additionally, it&#39;s been stiflingly hot at the US Open, which has caused some players to lose their cool. Naomi Osaka isn&#39;t competing this year; she took time off for mental health reasons and to start a family with her long-term goal being to play again by 2024.</p>
+On a lighter note, temperatures at the US Open tennis tournament have been very high with some players saying they perform better in warmer weather.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Jan. 6 Rioters Have Been Held to Account. That Might Be the Easy Part.</h3>
@@ -91,6 +91,12 @@ Finally, Secretary of State Antony Blinken is visiting Kyiv to show support whil
 <sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Abortions Rose in Most States This Year, New Data Shows</h3>
+<sub>By Amy Schoenfeld Walker and Allison McCann</sub>
+<p>In eight states, the estimated number of abortions increased by 60 percent or more as patients crossed state lines seeking care.  <a href="https://nyti.ms/3Pr9C6Y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>With an Escaped Killer Loose, an Unsettling Encounter in a Darkened House</h3>
 <sub>By Campbell Robertson and Joel Wolfram</sub>
 <p>As the search for a convicted murderer continues, a mixture of fear and unease has settled over the community outside Philadelphia where he escaped and is believed to be hiding.  <a href="https://nyti.ms/3Pq4xvw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -108,10 +114,16 @@ Finally, Secretary of State Antony Blinken is visiting Kyiv to show support whil
 <p>Mexico will elect its first woman as president next year after the governing party chose Claudia Sheinbaum to square off against the opposition’s candidate, Xóchitl Gálvez.  <a href="https://nyti.ms/3sJpqJo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Biden Administration to Bar Drilling on Millions of Acres in Alaska</h3>
-<sub>By Lisa Friedman</sub>
-<p>The administration will cancel oil and gas leases in the Arctic National Wildlife Refuge and set aside more than half of the National Petroleum Reserve.  <a href="https://nyti.ms/4871iQY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>China Is Flooding the World With Cars</h3>
+<sub>By Keith Bradsher</sub>
+<p>Even as China’s other exports falter, its carmakers are seeing big increases in overseas sales, mainly for gasoline-powered models.  <a href="https://nyti.ms/45F32iZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>China’s Exports Fall for Fourth Straight Month</h3>
+<sub>By Keith Bradsher</sub>
+<p>New data on trade showed continuing declines in both overseas sales and imports, signs of China’s economic struggles.  <a href="https://nyti.ms/47WStJs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -120,22 +132,10 @@ Finally, Secretary of State Antony Blinken is visiting Kyiv to show support whil
 <p>The timetable, following the collapse of an earlier deal that would have allowed President Biden’s son to avoid any jail time, means he will face prosecution as his father seeks re-election.  <a href="https://nyti.ms/45DWCAp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Blinken Visits Kyiv to Show Support, Russia Makes a Deadly Attack</h3>
-<sub>By Andrew E. Kramer and Constant Méheut</sub>
-<p>A Russian missile killed at least 17 civilians and wounded dozens, while Secretary of State Antony J. Blinken vowed lasting backing and announced a new round of aid.  <a href="https://nyti.ms/3r2hG4K"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>At the U.S. Open, Stifling Heat Causes Some Players to Lose Their Cool</h3>
 <sub>By Matthew Futterman</sub>
 <p>An unseasonal stretch of extreme heat and humidity has left the stadiums at the Open sweltering. But a few players, Coco Gauff among them, say the hotter, the better.  <a href="https://nyti.ms/45XU7J4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Naomi Osaka Makes U.S. Open Return. But Not for Tennis.</h3>
-<sub>By Jesus Jiménez</sub>
-<p>Osaka, the four-time Grand Slam singles champion, has taken breaks from tennis for her mental health and to start a family, but she is aiming to compete again in 2024.  <a href="https://nyti.ms/3r1CPvK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
 <hr/>
 </ol>
