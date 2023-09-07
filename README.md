@@ -60,7 +60,8 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, September 7, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. In Ukraine, people are using cluster munitions to fight Russian forces, despite concerns over human rights. In the U.S., abortions have increased in most states this year, due to people crossing state lines for care. Covid keeps rising worldwide, and experts are still trying to understand the short- and long-term risks of having more than one infection. Meanwhile, N.F.L. running backs are being devalued, and China’s exports and imports have been dropping steadily for several months. Finally, there’s an escaped murderer in Pennsylvania whom the police are still searching for.</p>
+Right now there is a lot going on in the world. In Ukraine, some people are embracing cluster munitions for protection in their fight with Russian forces, even though most countries consider them to be human rights violations. Abortions have gone up in most states in the US this year due to difficulty in accessing care. And Covid-19 continues to rise, but there is some hope from potential new vaccines. 
+In India, the G20 summit is scheduled this weekend, but its leader’s religious politics are causing tension. The NFL running back position has been devalued due to several different influencing factors and in Pennsylvania a convicted murderer escaped and is believed to be hiding. Lastly, the process of prosecuting Donald Trump in connection with his involvement in the January 6th Capitol rioting has shifted attention to his trial and two defendants in his election interference case will receive an early trial together as per order from a Georgia judge.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ukrainians Embrace Cluster Munitions, but Are They Helping?</h3>
@@ -98,29 +99,17 @@ There&#39;s a lot going on in the world right now. In Ukraine, people are using 
 <p>Reinfections are becoming more common. Experts are still unsure about how damaging they can be.  <a href="https://nyti.ms/3KKHAkd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Can India’s Global Ambitions Survive Its Deepening Chasms at Home?</h3>
+<sub>By Mujib Mashal and Hari Kumar</sub>
+<p>India’s hosting of the G20 summit this weekend will put its growing power on display. But its leader’s divisive religious politics threaten its rise.  <a href="https://nyti.ms/44PZppe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-upshot-blue" alt="">
 <h3>The Plight of the N.F.L. Running Back</h3>
 <sub>By Ben Blatt</sub>
 <p>A combination of factors has devalued one of the marquee positions in all of American sports.  <a href="https://nyti.ms/45VBm8Y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>How the N.F.L. Used Supercomputers to Set Its TV (and Streaming) Schedule</h3>
-<sub>By Ken Belson</sub>
-<p>The N.F.L. leaned into optimizing its 2023 schedule for TV (and streaming), turning to high-powered computers rather than football tradition to create matchups.  <a href="https://nyti.ms/44J0SNY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>China Is Flooding the World With Cars</h3>
-<sub>By Keith Bradsher</sub>
-<p>Even as China’s other exports falter, its carmakers are seeing big increases in overseas sales, mainly for gasoline-powered models.  <a href="https://nyti.ms/45F32iZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>China’s Exports Fall for Fourth Straight Month</h3>
-<sub>By Keith Bradsher</sub>
-<p>New data on trade showed continuing declines in both overseas sales and imports, signs of China’s economic struggles.  <a href="https://nyti.ms/47WStJs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>With an Escaped Killer Loose, an Unsettling Encounter in a Darkened House</h3>
@@ -133,6 +122,18 @@ There&#39;s a lot going on in the world right now. In Ukraine, people are using 
 <sub>By Jin Yu Young</sub>
 <p>Surveillance video released by the police shows the convicted killer wedging himself between two opposing walls and propelling himself upward.  <a href="https://nyti.ms/45XyiJF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Jan. 6 Rioters Have Been Held to Account. That Might Be the Easy Part.</h3>
+<sub>By Alan Feuer</sub>
+<p>With leaders of the far-right groups that helped drive the attack on the Capitol sentenced to long prison terms, attention is shifting to the fraught process of prosecuting Donald Trump.  <a href="https://nyti.ms/484fz0Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Georgia Judge Says Two Defendants in Trump Case Will Get Early Trial Together</h3>
+<sub>By Richard Fausset and Danny Hakim</sub>
+<p>Sidney Powell followed Kenneth Chesebro in demanding a speedy trial, but neither defendant in the election interference case wanted to be tried with the other.  <a href="https://nyti.ms/3PoYTtD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
