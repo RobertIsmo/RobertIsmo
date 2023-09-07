@@ -60,9 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, September 7, Central Standard Time</p>
 <p>
-Right now there is a lot going on in the world. In Ukraine, some people are embracing cluster munitions for protection in their fight with Russian forces, even though most countries consider them to be human rights violations. Abortions have gone up in most states in the US this year due to difficulty in accessing care. And Covid-19 continues to rise, but there is some hope from potential new vaccines. 
-In India, the G20 summit is scheduled this weekend, but its leader’s religious politics are causing tension. The NFL running back position has been devalued due to several different influencing factors and in Pennsylvania a convicted murderer escaped and is believed to be hiding. Lastly, the process of prosecuting Donald Trump in connection with his involvement in the January 6th Capitol rioting has shifted attention to his trial and two defendants in his election interference case will receive an early trial together as per order from a Georgia judge.</p>
+There is a lot going on around the world right now! In New York City, Mayor Eric Adams recently warned that the migrant crisis there could &#39;destroy&#39; the city unless they get federal help. Meanwhile, Texas Governor Greg Abbott has been sending buses of migrants to other states as well. In Ukraine, people are using cluster munitions to fight Russian forces, even though most countries have banned them. Abortions have been rising in many states due to patients crossing state lines for care. The Covid-19 pandemic continues to spread around the world, although there&#39;s hope on the horizon with new vaccines. Regarding heart health and Covid, experts are learning more about what risks might be associated with lasting damage from exposure to the virus. When it comes to wearing masks, the recommendation is still to wear one when out in public as Covid continues to circulate. But don&#39;t worry about scheduling your Covid booster just yet - a new formulation is being rolled out and experts recommend waiting for it. India is hosting the G20 summit this weekend and their leader&#39;s religious politics may threaten their rise on the global stage - not to mention all of the monkeys they are trying to stock away so they don&#39;t steal the spotlight. Finally, speaking of stealing the spotlight - Victoria&#39;s Secret is holding its return runway show as a feature length film, signifying a major part of their reinvention. As for Jim Jordan in Ohio - he got slammed by a Georgia prosecutor for trying to obstruct her case against Donald Trump and his allies. Whew!</p>
 <ol>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>In Escalation, Adams Says Migrant Crisis ‘Will Destroy New York City’</h3>
+<sub>By Emma G. Fitzsimmons</sub>
+<p>In provocative remarks at a town hall meeting, Mayor Eric Adams said that he did not “see an ending” to the migrant crisis and renewed his push for federal help.  <a href="https://nyti.ms/3Rc8yVS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Who’s Really Paying to Bus Migrants From the Border?</h3>
+<sub>By Miriam Jordan and Edgar Sandoval</sub>
+<p>Gov. Greg Abbott of Texas has run a high-profile campaign to send migrants to Los Angeles, New York and other cities. But they are a fraction of the number of new migrants boarding buses.  <a href="https://nyti.ms/3Z4f9DL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ukrainians Embrace Cluster Munitions, but Are They Helping?</h3>
 <sub>By Lara Jakes and Eric Schmitt</sub>
@@ -88,16 +99,16 @@ In India, the G20 summit is scheduled this weekend, but its leader’s religious
 <sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>Wait, Is That Rapid Test Really Expired?</h3>
+<h3>Is It Time to Wear a Mask Again?</h3>
 <sub>By Dani Blum</sub>
-<p>As Covid cases rise, at-home tests are a critical tool to keep yourself and others safe. Here are answers to a few common questions about when and how to use them.  <a href="https://nyti.ms/44sbNeQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Experts recommend when and how to use them, as Covid continues to circulate.  <a href="https://nyti.ms/3Ef3GYe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>How Bad Is a Second (or Third or Fourth) Case of Covid?</h3>
-<sub>By Dani Blum</sub>
-<p>Reinfections are becoming more common. Experts are still unsure about how damaging they can be.  <a href="https://nyti.ms/3KKHAkd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
+<h3>Don’t Get Your Next Covid Booster Quite Yet</h3>
+<sub>By Dana G. Smith</sub>
+<p>A new formulation is coming, and there are two main reasons to wait for it.  <a href="https://nyti.ms/3OPY3FZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Can India’s Global Ambitions Survive Its Deepening Chasms at Home?</h3>
@@ -105,35 +116,23 @@ In India, the G20 summit is scheduled this weekend, but its leader’s religious
 <p>India’s hosting of the G20 summit this weekend will put its growing power on display. But its leader’s divisive religious politics threaten its rise.  <a href="https://nyti.ms/44PZppe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>The Plight of the N.F.L. Running Back</h3>
-<sub>By Ben Blatt</sub>
-<p>A combination of factors has devalued one of the marquee positions in all of American sports.  <a href="https://nyti.ms/45VBm8Y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>India’s Preparations for G20 Must Also Account for Monkeys</h3>
+<sub>By Sameer Yasir and Mike Ives</sub>
+<p>For New Delhi, monkeys are a minor problem compared with poverty and pollution, but the government doesn’t want them stealing the spotlight when world leaders arrive.  <a href="https://nyti.ms/44IDy2H"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>The Victoria’s Secret Fashion Show Returns. But Not as You Knew It.</h3>
+<sub>By Vanessa Friedman</sub>
+<p>The lingerie brand introduces a feature-length film meant to be the final piece of its reinvention.  <a href="https://nyti.ms/3Z7qPp6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>With an Escaped Killer Loose, an Unsettling Encounter in a Darkened House</h3>
-<sub>By Campbell Robertson and Joel Wolfram</sub>
-<p>As the search for a convicted murderer continues, a mixture of fear and unease has settled over the community outside Philadelphia where he escaped and is believed to be hiding.  <a href="https://nyti.ms/3Pq4xvw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How the Pennsylvania Fugitive Scaled a Prison Wall and Escaped</h3>
-<sub>By Jin Yu Young</sub>
-<p>Surveillance video released by the police shows the convicted killer wedging himself between two opposing walls and propelling himself upward.  <a href="https://nyti.ms/45XyiJF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Jan. 6 Rioters Have Been Held to Account. That Might Be the Easy Part.</h3>
-<sub>By Alan Feuer</sub>
-<p>With leaders of the far-right groups that helped drive the attack on the Capitol sentenced to long prison terms, attention is shifting to the fraught process of prosecuting Donald Trump.  <a href="https://nyti.ms/484fz0Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Georgia Judge Says Two Defendants in Trump Case Will Get Early Trial Together</h3>
+<h3>Georgia Prosecutor Sharply Rebukes House Republican Investigating Her</h3>
 <sub>By Richard Fausset and Danny Hakim</sub>
-<p>Sidney Powell followed Kenneth Chesebro in demanding a speedy trial, but neither defendant in the election interference case wanted to be tried with the other.  <a href="https://nyti.ms/3PoYTtD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
+<p>The prosecutor, Fani T. Willis, accused Representative Jim Jordan of Ohio of trying to obstruct her prosecution of the racketeering case against Donald J. Trump and his allies.  <a href="https://nyti.ms/3Z5zTed"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
