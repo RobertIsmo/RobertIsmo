@@ -60,7 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, September 6, Central Standard Time</p>
 <p>
-At the moment, a lot of news is coming from the US. There have been prison sentences for those involved in the Capitol riots in January, while former Vice President Pence talked about Trump&#39;s brand of populism. We are also seeing prosecution in a case involving election interference, while Hunter Biden is due to face criminal charges too. In addition, President Biden has made moves to end oil and gas drilling in Alaska, while Mexico decriminalized abortion nationwide. This week, Secretary of State Blinken visited Ukraine and promised support, while Florida is considering an exam based on classical thought as an alternative to the SAT or ACT. Lastly, we saw hot weather causing some athletes distress at the U.S Open.</p>
+There has been some major news happening around the world recently. In the US, rioters involved in the attack on the Capitol have been held accountable and now attention is turning to prosecuting Donald Trump. In Georgia, two defendants in a Trump case will get an early trial together. Meanwhile, Mike Pence has denounced Trump&#39;s brand of populism as a &quot;road to ruin&quot; for the Republican Party. Also, prosecutors have made their case against Peter Navarro in a contempt trial.
+
+Elsewhere, Mexico has decriminalized abortion nationwide, with two women set to face off against one another to become president of the country for the first time ever. President Biden is also taking action regarding drilling, instituting a ban on millions of acres in Alaska and cancelling oil and gas leases in the Arctic National Wildlife Refuge. The Justice Dept. is reportedly planning to indict Hunter Biden on a gun charge this month, too.
+
+Finally, Secretary of State Antony Blinken is visiting Kyiv to show support while there was a deadly attack by Russia in the region. Additionally, it&#39;s been stiflingly hot at the US Open, which has caused some players to lose their cool. Naomi Osaka isn&#39;t competing this year; she took time off for mental health reasons and to start a family with her long-term goal being to play again by 2024.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Jan. 6 Rioters Have Been Held to Account. That Might Be the Easy Part.</h3>
@@ -86,10 +90,10 @@ At the moment, a lot of news is coming from the US. There have been prison sente
 <p>The defense also rested, with closing arguments expected to begin Thursday morning. The fast clip of the trial suggested that the jury could deliberate shortly after.  <a href="https://nyti.ms/3LdOMFo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Biden Administration to Bar Drilling on Millions of Acres in Alaska</h3>
-<sub>By Lisa Friedman</sub>
-<p>The administration will cancel oil and gas leases in the Arctic National Wildlife Refuge and set aside more than half of the National Petroleum Reserve.  <a href="https://nyti.ms/4871iQY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>With an Escaped Killer Loose, an Unsettling Encounter in a Darkened House</h3>
+<sub>By Campbell Robertson and Joel Wolfram</sub>
+<p>As the search for a convicted murderer continues, a mixture of fear and unease has settled over the community outside Philadelphia where he escaped and is believed to be hiding.  <a href="https://nyti.ms/3Pq4xvw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -98,10 +102,16 @@ At the moment, a lot of news is coming from the US. There have been prison sente
 <p>The decision builds on an earlier high court ruling and reflects how Latin American countries are expanding women’s rights.  <a href="https://nyti.ms/3r4I9i2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>With an Escaped Killer Loose, an Unsettling Encounter in a Darkened House</h3>
-<sub>By Campbell Robertson and Joel Wolfram</sub>
-<p>As the search for a convicted murderer continues, a mixture of fear and unease has settled over the community outside Philadelphia where he escaped and is believed to be hiding.  <a href="https://nyti.ms/3Pq4xvw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Historic First for Mexico as Two Women Vie for the Presidency</h3>
+<sub>By Emiliano Rodríguez Mega and Simon Romero</sub>
+<p>Mexico will elect its first woman as president next year after the governing party chose Claudia Sheinbaum to square off against the opposition’s candidate, Xóchitl Gálvez.  <a href="https://nyti.ms/3sJpqJo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Biden Administration to Bar Drilling on Millions of Acres in Alaska</h3>
+<sub>By Lisa Friedman</sub>
+<p>The administration will cancel oil and gas leases in the Arctic National Wildlife Refuge and set aside more than half of the National Petroleum Reserve.  <a href="https://nyti.ms/4871iQY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -116,22 +126,16 @@ At the moment, a lot of news is coming from the US. There have been prison sente
 <p>A Russian missile killed at least 17 civilians and wounded dozens, while Secretary of State Antony J. Blinken vowed lasting backing and announced a new round of aid.  <a href="https://nyti.ms/3r2hG4K"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Florida Expected to Approve Classical Exam as a Competitor to the SAT</h3>
-<sub>By Dana Goldstein</sub>
-<p>The Classic Learning Test emphasizes the Western canon and Christian thought. It’s the latest move by Gov. Ron DeSantis to shake up the education establishment.  <a href="https://nyti.ms/3sI6PgN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Here’s What It’s Like to Take the Classic Learning Test</h3>
-<sub></sub>
-<p>Florida’s public university system is expected to approve the Classic Learning Test for college admissions, an alternative to the SAT or ACT.  <a href="https://nyti.ms/3sIxVo2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>At the U.S. Open, Stifling Heat Causes Some Players to Lose Their Cool</h3>
 <sub>By Matthew Futterman</sub>
 <p>An unseasonal stretch of extreme heat and humidity has left the stadiums at the Open sweltering. But a few players, Coco Gauff among them, say the hotter, the better.  <a href="https://nyti.ms/45XU7J4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Naomi Osaka Makes U.S. Open Return. But Not for Tennis.</h3>
+<sub>By Jesus Jiménez</sub>
+<p>Osaka, the four-time Grand Slam singles champion, has taken breaks from tennis for her mental health and to start a family, but she is aiming to compete again in 2024.  <a href="https://nyti.ms/3r1CPvK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
 <hr/>
 </ol>
