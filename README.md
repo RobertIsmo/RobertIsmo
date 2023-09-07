@@ -60,30 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, September 7, Central Standard Time</p>
 <p>
-It looks like there is a lot of news coming out of the US right now. First, the leaders of far-right groups who were involved in the attack on the Capitol have been sentenced to long prison terms and attention is shifting to prosecution for Donald Trump. In Georgia a judge said two defendants in a Trump case will get early trial together, and Mike Pence has warned about Trump&#39;s populism leading to ruin for the GOP party. There&#39;s also a trial for Peter Navarro on contempt charges and data showing abortions increasing in most states. There&#39;s also an escaped convicted murderer hiding outside Philadelphia that authorities are searching for. In Mexico decriminalizing abortion nationwide, their first two women candidates competing for presidential office, and China flooding the world with cars- even as their own exports drop. And Justice Department says Hunter Biden will be indicted on gun charge later this month.</p>
+There&#39;s a lot going on in the world right now. In Ukraine, people are using cluster munitions to fight Russian forces, despite concerns over human rights. In the U.S., abortions have increased in most states this year, due to people crossing state lines for care. Covid keeps rising worldwide, and experts are still trying to understand the short- and long-term risks of having more than one infection. Meanwhile, N.F.L. running backs are being devalued, and China’s exports and imports have been dropping steadily for several months. Finally, there’s an escaped murderer in Pennsylvania whom the police are still searching for.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Jan. 6 Rioters Have Been Held to Account. That Might Be the Easy Part.</h3>
-<sub>By Alan Feuer</sub>
-<p>With leaders of the far-right groups that helped drive the attack on the Capitol sentenced to long prison terms, attention is shifting to the fraught process of prosecuting Donald Trump.  <a href="https://nyti.ms/484fz0Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Georgia Judge Says Two Defendants in Trump Case Will Get Early Trial Together</h3>
-<sub>By Richard Fausset and Danny Hakim</sub>
-<p>Sidney Powell followed Kenneth Chesebro in demanding a speedy trial, but neither defendant in the election interference case wanted to be tried with the other.  <a href="https://nyti.ms/3PoYTtD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Pence Calls Trump’s Populism a ‘Road to Ruin’ for the G.O.P.</h3>
-<sub>By Jonathan Swan</sub>
-<p>The former vice president used a speech in New Hampshire on Wednesday to call on Republicans to choose between conservatism and Donald Trump’s brand of populism.  <a href="https://nyti.ms/3qZE5Qb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Prosecutors Rest Case Against Peter Navarro in Contempt Trial</h3>
-<sub>By Zach Montague</sub>
-<p>The defense also rested, with closing arguments expected to begin Thursday morning. The fast clip of the trial suggested that the jury could deliberate shortly after.  <a href="https://nyti.ms/3LdOMFo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukrainians Embrace Cluster Munitions, but Are They Helping?</h3>
+<sub>By Lara Jakes and Eric Schmitt</sub>
+<p>The weapons, banned by most countries over human rights concerns, are “not a magic wand,” but some Ukrainian troops say they are making a difference in fighting Russian forces.  <a href="https://nyti.ms/3Pt3nPS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -92,29 +74,41 @@ It looks like there is a lot of news coming out of the US right now. First, the 
 <p>In eight states, the estimated number of abortions increased by 60 percent or more as patients crossed state lines seeking care.  <a href="https://nyti.ms/3Pr9C6Y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>With an Escaped Killer Loose, an Unsettling Encounter in a Darkened House</h3>
-<sub>By Campbell Robertson and Joel Wolfram</sub>
-<p>As the search for a convicted murderer continues, a mixture of fear and unease has settled over the community outside Philadelphia where he escaped and is believed to be hiding.  <a href="https://nyti.ms/3Pq4xvw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How the Pennsylvania Fugitive Scaled a Prison Wall and Escaped</h3>
-<sub>By Jin Yu Young</sub>
-<p>Surveillance video released by the police shows the convicted killer wedging himself between two opposing walls and propelling himself upward.  <a href="https://nyti.ms/45XyiJF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Covid Continues to Rise, but Experts Remain Optimistic</h3>
+<sub>By Apoorva Mandavilli</sub>
+<p>An uptick in hospitalizations and deaths persists, but the numbers are relatively low and new vaccines are around the corner.  <a href="https://nyti.ms/3qVvRsl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Mexico’s Supreme Court Decriminalizes Abortion Nationwide</h3>
-<sub>By Simon Romero and Emiliano Rodríguez Mega</sub>
-<p>The decision builds on an earlier high court ruling and reflects how Latin American countries are expanding women’s rights.  <a href="https://nyti.ms/3r4I9i2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>How Covid Affects the Heart</h3>
+<sub>By Dana G. Smith</sub>
+<p>Three years into the pandemic, the short- and long-term risks are becoming more clear.  <a href="https://nyti.ms/4632cMw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Historic First for Mexico as Two Women Vie for the Presidency</h3>
-<sub>By Emiliano Rodríguez Mega and Simon Romero</sub>
-<p>Mexico will elect its first woman as president next year after the governing party chose Claudia Sheinbaum to square off against the opposition’s candidate, Xóchitl Gálvez.  <a href="https://nyti.ms/3sJpqJo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>Wait, Is That Rapid Test Really Expired?</h3>
+<sub>By Dani Blum</sub>
+<p>As Covid cases rise, at-home tests are a critical tool to keep yourself and others safe. Here are answers to a few common questions about when and how to use them.  <a href="https://nyti.ms/44sbNeQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>How Bad Is a Second (or Third or Fourth) Case of Covid?</h3>
+<sub>By Dani Blum</sub>
+<p>Reinfections are becoming more common. Experts are still unsure about how damaging they can be.  <a href="https://nyti.ms/3KKHAkd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>The Plight of the N.F.L. Running Back</h3>
+<sub>By Ben Blatt</sub>
+<p>A combination of factors has devalued one of the marquee positions in all of American sports.  <a href="https://nyti.ms/45VBm8Y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>How the N.F.L. Used Supercomputers to Set Its TV (and Streaming) Schedule</h3>
+<sub>By Ken Belson</sub>
+<p>The N.F.L. leaned into optimizing its 2023 schedule for TV (and streaming), turning to high-powered computers rather than football tradition to create matchups.  <a href="https://nyti.ms/44J0SNY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>China Is Flooding the World With Cars</h3>
@@ -129,10 +123,16 @@ It looks like there is a lot of news coming out of the US right now. First, the 
 <sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Justice Dept. Says It Will Indict Hunter Biden on Gun Charge This Month</h3>
-<sub>By Glenn Thrush</sub>
-<p>The timetable, following the collapse of an earlier deal that would have allowed President Biden’s son to avoid any jail time, means he will face prosecution as his father seeks re-election.  <a href="https://nyti.ms/45DWCAp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>With an Escaped Killer Loose, an Unsettling Encounter in a Darkened House</h3>
+<sub>By Campbell Robertson and Joel Wolfram</sub>
+<p>As the search for a convicted murderer continues, a mixture of fear and unease has settled over the community outside Philadelphia where he escaped and is believed to be hiding.  <a href="https://nyti.ms/3Pq4xvw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How the Pennsylvania Fugitive Scaled a Prison Wall and Escaped</h3>
+<sub>By Jin Yu Young</sub>
+<p>Surveillance video released by the police shows the convicted killer wedging himself between two opposing walls and propelling himself upward.  <a href="https://nyti.ms/45XyiJF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
