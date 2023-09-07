@@ -60,11 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, September 7, Central Standard Time</p>
 <p>
-In the United States, news reports have been covering the aftermath of the January 6 Capitol riot. Several leaders from far-right groups who helped instigate it have received long prison sentences. Attention is now turning toward the difficult process of prosecuting former President Donald Trump. Meanwhile, Vice President Mike Pence has criticized Trump&#39;s populism in a speech in New Hampshire and Justice Department plans to indict Hunter Biden on a gun charge this month. 
-
-In Mexico, the Supreme Court has issued an historic ruling decriminalizing abortion nationwide, women competed for the presidency for the first time ever, and exports have been declining. Meanwhile in China, car makers are having success with overseas sales as other exports are faltering. 
-
-On a lighter note, temperatures at the US Open tennis tournament have been very high with some players saying they perform better in warmer weather.</p>
+It looks like there is a lot of news coming out of the US right now. First, the leaders of far-right groups who were involved in the attack on the Capitol have been sentenced to long prison terms and attention is shifting to prosecution for Donald Trump. In Georgia a judge said two defendants in a Trump case will get early trial together, and Mike Pence has warned about Trump&#39;s populism leading to ruin for the GOP party. There&#39;s also a trial for Peter Navarro on contempt charges and data showing abortions increasing in most states. There&#39;s also an escaped convicted murderer hiding outside Philadelphia that authorities are searching for. In Mexico decriminalizing abortion nationwide, their first two women candidates competing for presidential office, and China flooding the world with cars- even as their own exports drop. And Justice Department says Hunter Biden will be indicted on gun charge later this month.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Jan. 6 Rioters Have Been Held to Account. That Might Be the Easy Part.</h3>
@@ -102,6 +98,12 @@ On a lighter note, temperatures at the US Open tennis tournament have been very 
 <p>As the search for a convicted murderer continues, a mixture of fear and unease has settled over the community outside Philadelphia where he escaped and is believed to be hiding.  <a href="https://nyti.ms/3Pq4xvw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How the Pennsylvania Fugitive Scaled a Prison Wall and Escaped</h3>
+<sub>By Jin Yu Young</sub>
+<p>Surveillance video released by the police shows the convicted killer wedging himself between two opposing walls and propelling himself upward.  <a href="https://nyti.ms/45XyiJF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Mexico’s Supreme Court Decriminalizes Abortion Nationwide</h3>
 <sub>By Simon Romero and Emiliano Rodríguez Mega</sub>
@@ -130,12 +132,6 @@ On a lighter note, temperatures at the US Open tennis tournament have been very 
 <h3>Justice Dept. Says It Will Indict Hunter Biden on Gun Charge This Month</h3>
 <sub>By Glenn Thrush</sub>
 <p>The timetable, following the collapse of an earlier deal that would have allowed President Biden’s son to avoid any jail time, means he will face prosecution as his father seeks re-election.  <a href="https://nyti.ms/45DWCAp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>At the U.S. Open, Stifling Heat Causes Some Players to Lose Their Cool</h3>
-<sub>By Matthew Futterman</sub>
-<p>An unseasonal stretch of extreme heat and humidity has left the stadiums at the Open sweltering. But a few players, Coco Gauff among them, say the hotter, the better.  <a href="https://nyti.ms/45XU7J4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
 <hr/>
 </ol>
