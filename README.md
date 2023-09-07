@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, September 7, Central Standard Time</p>
 <p>
-There is a lot going on around the world right now! In New York City, Mayor Eric Adams recently warned that the migrant crisis there could &#39;destroy&#39; the city unless they get federal help. Meanwhile, Texas Governor Greg Abbott has been sending buses of migrants to other states as well. In Ukraine, people are using cluster munitions to fight Russian forces, even though most countries have banned them. Abortions have been rising in many states due to patients crossing state lines for care. The Covid-19 pandemic continues to spread around the world, although there&#39;s hope on the horizon with new vaccines. Regarding heart health and Covid, experts are learning more about what risks might be associated with lasting damage from exposure to the virus. When it comes to wearing masks, the recommendation is still to wear one when out in public as Covid continues to circulate. But don&#39;t worry about scheduling your Covid booster just yet - a new formulation is being rolled out and experts recommend waiting for it. India is hosting the G20 summit this weekend and their leader&#39;s religious politics may threaten their rise on the global stage - not to mention all of the monkeys they are trying to stock away so they don&#39;t steal the spotlight. Finally, speaking of stealing the spotlight - Victoria&#39;s Secret is holding its return runway show as a feature length film, signifying a major part of their reinvention. As for Jim Jordan in Ohio - he got slammed by a Georgia prosecutor for trying to obstruct her case against Donald Trump and his allies. Whew!</p>
+Right now, the world is dealing with a lot of different issues and people have different opinions on how to address them. On the climate front, President Biden recently approved an big oil project in Alaska, but he&#39;s since curtailed fossil fuel activities on millions of acres of public land. In New York City, Mayor Eric Adams has been speaking out about the migrant crisis and asking for federal help. On the political front, Senate Minority Leader Mitch McConnell&#39;s health issues have been worrying Democrats, while Speaker Nancy Pelosi has suggested sexism is behind calls for Senator Dianne Feinstein to step aside. Meanwhile, Texas Governor Greg Abbott has been under scrutiny due to his role in busing migrants to other cities. In other news, Peter Navarro recently was convicted of contempt of Congress over a Jan. 6 subpoena, and GOP presidential candidates DeSantis and Ramaswamy have caused controversy by calling the Proud Boys&#39; sentences ‘excessive’ and ‘wrong’. Looking at health, Covid continues to rise around the country but experts remain optimistic about new vaccines nearing release. Lastly, there’s been advice about when and how to wear masks as well as holding off on getting covid booster shots till a new formulation is ready.</p>
 <ol>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Biden Approved a Big Oil Project. Now, He’s Cracking Down on Drilling.</h3>
+<sub>By Lisa Friedman</sub>
+<p>In the months since the president allowed the Willow project in Alaska, his administration has curtailed fossil fuel activities on millions of acres of public land and in federal waters.  <a href="https://nyti.ms/3LCdakD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>In Escalation, Adams Says Migrant Crisis ‘Will Destroy New York City’</h3>
 <sub>By Emma G. Fitzsimmons</sub>
@@ -69,33 +75,51 @@ There is a lot going on around the world right now! In New York City, Mayor Eric
 <sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Who’s Really Paying to Bus Migrants From the Border?</h3>
+<h3>Is Texas’ Busing Responsible for the Migrant Crisis Across Cities?</h3>
 <sub>By Miriam Jordan and Edgar Sandoval</sub>
-<p>Gov. Greg Abbott of Texas has run a high-profile campaign to send migrants to Los Angeles, New York and other cities. But they are a fraction of the number of new migrants boarding buses.  <a href="https://nyti.ms/3Z4f9DL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Gov. Greg Abbott of Texas has run a high-profile campaign to send migrants to Los Angeles, New York and other cities. But they are a fraction of the number of new migrants boarding buses.  <a href="https://nyti.ms/3PtYdmF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukrainians Embrace Cluster Munitions, but Are They Helping?</h3>
-<sub>By Lara Jakes and Eric Schmitt</sub>
-<p>The weapons, banned by most countries over human rights concerns, are “not a magic wand,” but some Ukrainian troops say they are making a difference in fighting Russian forces.  <a href="https://nyti.ms/3Pt3nPS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>‘The Devil They Know’: McConnell’s Health Issues Worry Democrats</h3>
+<sub>By Carl Hulse</sub>
+<p>The legislative stances of the G.O.P. leader and his usual opponents are aligned on Ukraine, spending and impeachment as he faces mounting health scrutiny.  <a href="https://nyti.ms/3RcuAYA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Abortions Rose in Most States This Year, New Data Shows</h3>
-<sub>By Amy Schoenfeld Walker and Allison McCann</sub>
-<p>In eight states, the estimated number of abortions increased by 60 percent or more as patients crossed state lines seeking care.  <a href="https://nyti.ms/3Pr9C6Y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 6, Central Standard Time</sub></sub>
+<h3>Pelosi Suggests Sexism Is Behind Calls for Feinstein to Step Aside</h3>
+<sub>By Anjali Huynh</sub>
+<p>The longtime Democratic leader, who has served in the House for close to four decades, also left the door open to running again.  <a href="https://nyti.ms/3PgM6IG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Covid Continues to Rise, but Experts Remain Optimistic</h3>
-<sub>By Apoorva Mandavilli</sub>
-<p>An uptick in hospitalizations and deaths persists, but the numbers are relatively low and new vaccines are around the corner.  <a href="https://nyti.ms/3qVvRsl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Peter Navarro Convicted of Contempt of Congress Over Jan. 6 Subpoena</h3>
+<sub>By Zach Montague</sub>
+<p>The verdict made Mr. Navarro the second top adviser to former President Donald J. Trump to be found guilty of contempt for defying the Jan. 6 committee’s investigation.  <a href="https://nyti.ms/3Z6OJB0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Georgia Prosecutor Sharply Rebukes House Republican Investigating Her</h3>
+<sub>By Richard Fausset and Danny Hakim</sub>
+<p>The prosecutor, Fani T. Willis, accused Representative Jim Jordan of Ohio of trying to obstruct her prosecution of the racketeering case against Donald J. Trump and his allies.  <a href="https://nyti.ms/3Z5zTed"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>DeSantis and Ramaswamy Call Proud Boys’ Sentences ‘Excessive’ and ‘Wrong’</h3>
+<sub>By Maggie Astor</sub>
+<p>The two G.O.P. presidential candidates also floated the idea of pardoning some of the Jan. 6 defendants if they are elected.  <a href="https://nyti.ms/3PqkdyV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-well-blue" alt="">
 <h3>How Covid Affects the Heart</h3>
 <sub>By Dana G. Smith</sub>
 <p>Three years into the pandemic, the short- and long-term risks are becoming more clear.  <a href="https://nyti.ms/4632cMw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Covid Continues to Rise, but Experts Remain Optimistic</h3>
+<sub>By Apoorva Mandavilli</sub>
+<p>An uptick in hospitalizations and deaths persists, but the numbers are relatively low and new vaccines are around the corner.  <a href="https://nyti.ms/3qVvRsl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-well-blue" alt="">
@@ -109,30 +133,6 @@ There is a lot going on around the world right now! In New York City, Mayor Eric
 <sub>By Dana G. Smith</sub>
 <p>A new formulation is coming, and there are two main reasons to wait for it.  <a href="https://nyti.ms/3OPY3FZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Can India’s Global Ambitions Survive Its Deepening Chasms at Home?</h3>
-<sub>By Mujib Mashal and Hari Kumar</sub>
-<p>India’s hosting of the G20 summit this weekend will put its growing power on display. But its leader’s divisive religious politics threaten its rise.  <a href="https://nyti.ms/44PZppe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>India’s Preparations for G20 Must Also Account for Monkeys</h3>
-<sub>By Sameer Yasir and Mike Ives</sub>
-<p>For New Delhi, monkeys are a minor problem compared with poverty and pollution, but the government doesn’t want them stealing the spotlight when world leaders arrive.  <a href="https://nyti.ms/44IDy2H"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>The Victoria’s Secret Fashion Show Returns. But Not as You Knew It.</h3>
-<sub>By Vanessa Friedman</sub>
-<p>The lingerie brand introduces a feature-length film meant to be the final piece of its reinvention.  <a href="https://nyti.ms/3Z7qPp6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Georgia Prosecutor Sharply Rebukes House Republican Investigating Her</h3>
-<sub>By Richard Fausset and Danny Hakim</sub>
-<p>The prosecutor, Fani T. Willis, accused Representative Jim Jordan of Ohio of trying to obstruct her prosecution of the racketeering case against Donald J. Trump and his allies.  <a href="https://nyti.ms/3Z5zTed"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
