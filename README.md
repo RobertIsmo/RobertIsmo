@@ -60,19 +60,17 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, September 8, Central Standard Time</p>
 <p>
-Right now there are quite a few things happening in the world. In the US, President Biden is facing pressure to act on the growing migrant crisis that has taxed resources in some cities like New York, Chicago, and Los Angeles. On top of that, both Nancy Pelosi and Manchin have still not declared whether they are running for re-election in 2024 and people in Washington are waiting on Kristi Noem to declare if she will endorse Donald Trump. In terms of global politics, Russia has been dealing with the death of Yevgeny Prigozhin which has caused a scramble for his empire and Elon Musk has recently admitted to withholding access to satellite services as a way of thwarting an attack by Ukraine. Lastly, the US and Vietnam are deepening ties while there are concerns about China&#39;s authoritarian crackdown. Meanwhile, some magazine articles have talked about why Duke University has so few low income students and which US colleges are the most economically diverse.</p>
+Currently, there&#39;s a lot going on around the world. In Russia, power is being transferred after the death of Yevgeny Prigozhin, the head of the Wagner mercenary group. Ukraine has been in conflict with Russia recently, and Elon Musk refused to enable a Ukrainian drone attack on a Russian fleet. 
+
+In the US, politicians are making their decisions about their future: Nancy Pelosi is planning to seek re-election in 2024 for her representative seat, West Virginia Democrat Joe Manchin is unsure if he will run again for Senate, and Florida Governor Ron DeSantis is running as a presidential candidate while also being an advocate for expanding fossil fuel production.
+
+Meanwhile, many colleges have adopted unofficial policies of affirmative action for men because of declining male enrollment, and Florida Supreme Court is considering upholding abortion restrictions. Lastly, Donald Trump will be having his civil trial in October that would last nearly three months.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>G.O.P. Gets the Democratic Border Crisis It Wanted</h3>
 <sub>By Jonathan Weisman and Nicholas Fandos</sub>
 <p>The strain of migrants in New York, Chicago, Los Angeles and other cities has taxed resources, divided Democrats and put pressure on President Biden to act.  <a href="https://nyti.ms/44IHjoW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>What to Know About the Migrant Crisis in New York City</h3>
-<sub>By Hurubie Meko</sub>
-<p>Tens of thousands of migrants have arrived in the city over the last year. Why are they coming to New York? And what will happen to them next?  <a href="https://nyti.ms/3MzZc1M"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>After Prigozhin’s Death, a High-Stakes Scramble for His Empire</h3>
@@ -81,15 +79,15 @@ Right now there are quite a few things happening in the world. In the US, Presid
 <sub><sub>Friday, September 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Elon Musk Acknowledges Withholding Satellite Service to Thwart Ukrainian Attack</h3>
-<sub>By Victoria Kim</sub>
-<p>The Starlink satellite internet service, which is operated by Mr. Musk’s rocket company SpaceX, has been a digital lifeline for soldiers and civilians in Ukraine.  <a href="https://nyti.ms/45JAUuP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Elon Musk Refused to Enable Ukraine Drone Attack on Russian Fleet</h3>
+<sub>By Victoria Kim, Richard Pérez-Peña and Andrew E. Kramer</sub>
+<p>News that Mr. Musk did not allow the use of his Starlink satellite network highlights concerns in Kyiv and Washington about his outsize influence in the war.  <a href="https://nyti.ms/3Pz63fa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Pelosi, Defying Predictions, Says She Will Seek Re-election in 2024</h3>
 <sub>By Annie Karni</sub>
-<p>Since she stepped down from leadership last year, many observers expected Representative Nancy Pelosi of California was headed toward retirement. But she has kept people guessing about her political future.  <a href="https://nyti.ms/3Zhi7Vp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Since she stepped down from leadership last year, many observers expected Representative Nancy Pelosi of California to head toward retirement. But she has kept people guessing about her future.  <a href="https://nyti.ms/3Zhi7Vp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -99,21 +97,39 @@ Right now there are quite a few things happening in the world. In the US, Presid
 <sub><sub>Friday, September 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis, Leading a State Menaced by Climate Change, Shrugs Off the Threat</h3>
-<sub>By Nicholas Nehamas and Patricia Mazzei</sub>
-<p>The Florida governor, who has cast himself as a Teddy Roosevelt-style conservationist, sounds far different as a presidential candidate, pledging to expand fossil fuel production and fight electric-vehicle mandates.  <a href="https://nyti.ms/3sLKfUy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Race to Be Trump’s Running Mate Begins, With Noem Likely to Endorse Him</h3>
 <sub>By Michael C. Bender</sub>
 <p>Gov. Kristi Noem of South Dakota is likely to issue a Friday endorsement of the former president, whose large lead in polls has stirred speculation about the No. 2 job.  <a href="https://nyti.ms/3r9A9wb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Georgia Panel Recommended Charging Lindsey Graham in Trump Case</h3>
+<h3>Georgia Panel Recommended Charging Dozens, Including Lindsey Graham, in Trump Case</h3>
 <sub>By Richard Fausset and Danny Hakim</sub>
 <p>A special grand jury made the recommendation last year after hearing from dozens of witnesses on whether Donald J. Trump and his allies interfered in the 2020 election.  <a href="https://nyti.ms/48aggpE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Trump Civil Trial Scheduled to Last Nearly Three Months</h3>
+<sub>By Jonah E. Bromwich and Ben Protess</sub>
+<p>The trial, stemming from a lawsuit filed by New York’s attorney general, Letitia James, against the former president, is scheduled to start in October and last almost until Christmas.  <a href="https://nyti.ms/3P9xP0i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Florida Supreme Court Considers Upholding Abortion Restrictions</h3>
+<sub>By Patricia Mazzei</sub>
+<p>Several justices questioned whether Florida’s constitutional privacy rights extend to abortion, as has been longstanding legal precedent.  <a href="https://nyti.ms/45I9bed"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>DeSantis, Leading a State Menaced by Climate Change, Shrugs Off the Threat</h3>
+<sub>By Nicholas Nehamas and Patricia Mazzei</sub>
+<p>The Florida governor, who has cast himself as a Teddy Roosevelt-style conservationist, sounds far different as a presidential candidate, pledging to expand fossil fuel production and fight electric-vehicle mandates.  <a href="https://nyti.ms/3sLKfUy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>‘There Was Definitely a Thumb on the Scale to Get Boys’</h3>
+<sub>By Susan Dominus</sub>
+<p>Declining male enrollment has led many colleges to adopt an unofficial policy: affirmative action for men.  <a href="https://nyti.ms/3Z9jCoA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -121,18 +137,6 @@ Right now there are quite a few things happening in the world. In the US, Presid
 <sub>By Sui-Lee Wee</sub>
 <p>President Biden is expected to celebrate a new upgrade in relations with Vietnam this weekend, despite concerns about the country’s authoritarian crackdown and repression.  <a href="https://nyti.ms/45Ggsel"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Why Does Duke Have So Few Low-Income Students?</h3>
-<sub>By David Leonhardt</sub>
-<p>A case study in elite college admissions.  <a href="https://nyti.ms/3sRqnPF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>The Top U.S. Colleges With the Greatest Economic Diversity</h3>
-<sub>By David Leonhardt and Ashley Wu</sub>
-<p>The college access index 2023.  <a href="https://nyti.ms/44NGhrI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
