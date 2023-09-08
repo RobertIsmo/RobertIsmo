@@ -60,23 +60,45 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, September 8, Central Standard Time</p>
 <p>
-Right now, it feels like the world is going through a lot. In the US, hundreds of people are still unaccounted for in Maui after in inferno destroyed the area - many families have started to accept that their loved ones likely won&#39;t be coming back. On top of this, Senate majority leader McConnell has had health issues recently, making both Democrats and Republicans worry about his political stances, while also pushing them to face fears of his mortality. In Pennsylvania, human error played a role in an inmate&#39;s escape, and prison officials are now reviewing what went wrong. 
+Currently, there is a lot going on in the world. Yevgeny Prigozhin, head of the Wagner mercenary group, has recently passed away and a big fight for his empire is starting in three countries. Elon Musk has acknowledged withholding satellite service to Ukraine to prevent an attack. At the G20 meeting, US President Biden is trying to get other countries to take his side on issues like Ukraine and China&#39;s assertiveness in the Indo-Pacific region. 
 
-In the sporting world, Coco Gauff has made it to the U.S Open final, alongside Aryna Sabalenka, and an environmental protest delayed her semifinal match. Climate activists have been striving to gain attention on their cause, with protesters throwing mashed potatoes at a Monet painting and blocking commuter routes worldwide. Lyndon B Johnson approved a big oil project in Alaska but now Biden&#39;s administration has curtailed fossil fuel activities on public sites. Peter Navarro was convicted of contempt of Congress over denying a subpoena and Georgia Prosecutor Willis sharply rebuked Jim Jordan of Ohio for trying to influence her racketeering case against Trump and his allies. Finally, New York mayor Eric Adams has been escalating his views on the migrant crisis saying it &quot;will destroy New York City&quot; and is calling for federal help.
-
-On top of all this, we&#39;re still dealing with the long-term effects of Covid-19; experts are now more clear on its short-term and long-term risks, suggesting we should wait for the new formulation for our next booster shot.</p>
+Also, Duke University has very few low-income students so this case is getting studied by colleges with economic diversity. The US Open semi-finals were stopped due to environmental protesters and now Coco Gauff and Aryna Sabalenka will be playing the finals. In Pennsylvania, prison officials are investigating why Danelo Cavalcante was able to escape and Trump&#39;s election interference report will soon be released in Georgia. Lastly, Peter Navarro who was a top adviser of former president Trump was charged with contempt of Congress for defying House investigation. Additionally, Hong Kong and other Southern Chinese cities have recently been flooded by rainstorms from Typhoon Haikui.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Grim Reality in Maui: Hundreds Still on Missing List a Month After Inferno</h3>
-<sub>By Tim Arango and Lisa L. Schell</sub>
-<p>The F.B.I. says more than 380 people remain unaccounted for. Many residents have begun to accept that their loved ones will not be coming back, and survivors wonder what comes next.  <a href="https://nyti.ms/485Xyze"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>After Prigozhin’s Death, a High-Stakes Scramble for His Empire</h3>
+<sub>By Anton Troianovski, Declan Walsh, Eric Schmitt, Vivian Yee and Julian E. Barnes</sub>
+<p>A shadowy fight is playing out on three continents for control of Yevgeny Prigozhin’s sprawling interests as head of the Wagner mercenary group. The biggest prize: his lucrative operations in Africa.  <a href="https://nyti.ms/44ZgOff"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Elon Musk Acknowledges Withholding Satellite Service to Thwart Ukrainian Attack</h3>
+<sub>By Victoria Kim</sub>
+<p>The Starlink satellite internet service, which is operated by Mr. Musk’s rocket company SpaceX, has been a digital lifeline for soldiers and civilians in Ukraine.  <a href="https://nyti.ms/45JAUuP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘The Devil They Know’: McConnell’s Health Issues Worry Democrats</h3>
-<sub>By Carl Hulse</sub>
-<p>The legislative stances of the G.O.P. leader and his usual opponents are aligned on Ukraine, spending and impeachment as he faces mounting health scrutiny.  <a href="https://nyti.ms/3RcuAYA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>At G20, Biden Looks to Fill a Hole Left by Putin and Xi</h3>
+<sub>By Katie Rogers and Peter Baker</sub>
+<p>With the Russian and Chinese leaders absent, the president hopes to get others to align with him on a variety of matters, including Ukraine and curbing Beijing’s assertiveness in the Indo-Pacific.  <a href="https://nyti.ms/3r40POS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Why Does Duke Have So Few Low-Income Students?</h3>
+<sub>By David Leonhardt</sub>
+<p>A case study in elite college admissions.  <a href="https://nyti.ms/3sRqnPF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>The Top U.S. Colleges With the Greatest Economic Diversity</h3>
+<sub>By David Leonhardt and Ashley Wu</sub>
+<p>The college access index 2023.  <a href="https://nyti.ms/44NGhrI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The College Access Index Returns</h3>
+<sub>By David Leonhardt</sub>
+<p>A new look at economic diversity in higher education.  <a href="https://nyti.ms/3LhgsJH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Prison Officials Say Human Error Played Role in Pennsylvania Escape</h3>
@@ -96,17 +118,11 @@ On top of all this, we&#39;re still dealing with the long-term effects of Covid-
 <p>The delay of 49 minutes during the match between Coco Gauff and Karolina Muchova was caused by environmental protesters, including one who glued his feet to the ground.  <a href="https://nyti.ms/3EvIj4Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Stopping Tennis to Call Attention to Climate Change</h3>
-<sub>By Lisa Friedman</sub>
-<p>Protesters have thrown mashed potatoes at a Monet, interrupted fancy galas and blocked commuter routes in efforts to prompt action on global warming.  <a href="https://nyti.ms/45Tn8pk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Biden Approved a Big Oil Project. Now, He’s Cracking Down on Drilling.</h3>
-<sub>By Lisa Friedman</sub>
-<p>In the months since the president allowed the Willow project in Alaska, his administration has curtailed fossil fuel activities on millions of acres of public land and in federal waters.  <a href="https://nyti.ms/3LCdakD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Release of Trump Election Interference Report Is Expected in Georgia</h3>
+<sub>By Richard Fausset and Danny Hakim</sub>
+<p>The report will show whether any additional indictments were recommended by the special grand jury that heard from dozens of witnesses last year.  <a href="https://nyti.ms/45cmBif"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Peter Navarro Convicted of Contempt of Congress Over Jan. 6 Subpoena</h3>
@@ -114,29 +130,11 @@ On top of all this, we&#39;re still dealing with the long-term effects of Covid-
 <p>The verdict made Mr. Navarro the second top adviser to former President Donald J. Trump to be found guilty of contempt for defying the House committee’s investigation.  <a href="https://nyti.ms/3Z6OJB0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Georgia Prosecutor Sharply Rebukes House Republican Investigating Her</h3>
-<sub>By Richard Fausset and Danny Hakim</sub>
-<p>The prosecutor, Fani T. Willis, accused Representative Jim Jordan of Ohio of trying to obstruct her prosecution of the racketeering case against Donald J. Trump and his allies.  <a href="https://nyti.ms/3Z5zTed"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>In Escalation, Adams Says Migrant Crisis ‘Will Destroy New York City’</h3>
-<sub>By Emma G. Fitzsimmons</sub>
-<p>In provocative remarks at a town hall meeting, Mayor Eric Adams said that he did not “see an ending” to the migrant crisis and renewed his push for federal help.  <a href="https://nyti.ms/3Rc8yVS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>How Covid Affects the Heart</h3>
-<sub>By Dana G. Smith</sub>
-<p>Three years into the pandemic, the short- and long-term risks are becoming more clear.  <a href="https://nyti.ms/4632cMw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>Don’t Get Your Next Covid Booster Quite Yet</h3>
-<sub>By Dana G. Smith</sub>
-<p>A new formulation is coming, and there are two main reasons to wait for it.  <a href="https://nyti.ms/3OPY3FZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Storms Deluge Hong Kong and Other Southern Chinese Cities</h3>
+<sub>By Chris Buckley</sub>
+<p>Rainstorms caused by remnants of Typhoon Haikui, which had been churning along the Chinese coast, submerged roads and homes, and set rainfall records.  <a href="https://nyti.ms/45TtMvM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 8, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
