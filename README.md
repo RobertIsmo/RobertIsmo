@@ -60,9 +60,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, September 8, Central Standard Time</p>
 <p>
-Currently, there is a lot going on in the world. Yevgeny Prigozhin, head of the Wagner mercenary group, has recently passed away and a big fight for his empire is starting in three countries. Elon Musk has acknowledged withholding satellite service to Ukraine to prevent an attack. At the G20 meeting, US President Biden is trying to get other countries to take his side on issues like Ukraine and China&#39;s assertiveness in the Indo-Pacific region. 
+The world is a pretty chaotic place right now. We are learning more news about Yevgeny Prigozhin, the head of the shadowy Wagner mercenary group, after his death and a high-stakes scramble for control of his empire that&#39;s playing out on three continents. Elon Musk acknowledged withholding Starlink satellite service from Ukraine to stop an attack. In terms of the environment, countries around the world need to improve their efforts towards achieving the goals of the 2015 Paris Agreement, but unfortunately there were no bidders in Britain&#39;s offshore wind auction as costs have risen too high. 
 
-Also, Duke University has very few low-income students so this case is getting studied by colleges with economic diversity. The US Open semi-finals were stopped due to environmental protesters and now Coco Gauff and Aryna Sabalenka will be playing the finals. In Pennsylvania, prison officials are investigating why Danelo Cavalcante was able to escape and Trump&#39;s election interference report will soon be released in Georgia. Lastly, Peter Navarro who was a top adviser of former president Trump was charged with contempt of Congress for defying House investigation. Additionally, Hong Kong and other Southern Chinese cities have recently been flooded by rainstorms from Typhoon Haikui.</p>
+Besides environmental news, President Biden is looking to build deeper ties with Vietnam despite authoritarian concerns and hopes to align other countries with him in curbing China&#39;s assertiveness in the Indo-Pacific—two leaders (Putin and Xi) from which are absent from the G20 meeting in India. Back in America, Duke University has been noted for not having many low-income students and the College Access Index is returning to help give more economic diversity in higher education. There has also been news regarding former President Trump&#39;s allies; a Georgia panel recommended charging Senator Lindsey Graham for election interference and Peter Navarro was found guilty of contempt of Congress for defying a House investigation subpoena. Finally, there was an inspiring story about a man who turned his life around during the pandemic by creating craft hobbies which eventually blew up on social media.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>After Prigozhin’s Death, a High-Stakes Scramble for His Empire</h3>
@@ -76,8 +76,26 @@ Also, Duke University has very few low-income students so this case is getting s
 <p>The Starlink satellite internet service, which is operated by Mr. Musk’s rocket company SpaceX, has been a digital lifeline for soldiers and civilians in Ukraine.  <a href="https://nyti.ms/45JAUuP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 8, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Climate Report Card Says Countries Are Trying, but Urgently Need Improvement</h3>
+<sub>By Brad Plumer</sub>
+<p>The global assessment, two years in the making, is the first official gauge of progress under the 2015 Paris Agreement.  <a href="https://nyti.ms/3r6UKRL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>No Bidders in British Offshore Wind Auction</h3>
+<sub>By Stanley Reed</sub>
+<p>In a potentially troubling sign for the industry, wind farm developers declined to bid. They say rising costs make the terms offered by the government unreasonable.  <a href="https://nyti.ms/3EwaKji"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Vietnam and U.S. Forge Deeper Ties as Worries Rise About China</h3>
+<sub>By Sui-Lee Wee</sub>
+<p>President Biden is expected to celebrate a new upgrade in relations with Vietnam this weekend, despite concerns about the country’s authoritarian crackdown and repression.  <a href="https://nyti.ms/45Ggsel"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 8, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>At G20, Biden Looks to Fill a Hole Left by Putin and Xi</h3>
+<h3>At G20 in India, Biden Looks to Fill a Hole Left by Putin and Xi</h3>
 <sub>By Katie Rogers and Peter Baker</sub>
 <p>With the Russian and Chinese leaders absent, the president hopes to get others to align with him on a variety of matters, including Ukraine and curbing Beijing’s assertiveness in the Indo-Pacific.  <a href="https://nyti.ms/3r40POS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 8, Central Standard Time</sub></sub>
@@ -101,28 +119,10 @@ Also, Duke University has very few low-income students so this case is getting s
 <sub><sub>Friday, September 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Prison Officials Say Human Error Played Role in Pennsylvania Escape</h3>
-<sub>By Campbell Robertson, Shaila Dewan and Joel Wolfram</sub>
-<p>An officer who was in a watchtower is on administrative leave, as prison officials review what went wrong during Danelo Cavalcante’s escape last week.  <a href="https://nyti.ms/3rdulBL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Coco Gauff and Aryna Sabalenka to Meet in U.S. Open Final</h3>
-<sub>By Matthew Futterman</sub>
-<p>After a lengthy delay caused by protesters, Gauff and Sabalenka emerged as winners. Both will play the first U.S. Open final and second major final of their career.  <a href="https://nyti.ms/3Z6zsQU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Protest Stops U.S. Open Semifinal Match</h3>
-<sub>By Jesus Jiménez and Kurt Streeter</sub>
-<p>The delay of 49 minutes during the match between Coco Gauff and Karolina Muchova was caused by environmental protesters, including one who glued his feet to the ground.  <a href="https://nyti.ms/3EvIj4Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Release of Trump Election Interference Report Is Expected in Georgia</h3>
+<h3>Georgia Panel Recommended Charging Lindsey Graham in Trump Case</h3>
 <sub>By Richard Fausset and Danny Hakim</sub>
-<p>The report will show whether any additional indictments were recommended by the special grand jury that heard from dozens of witnesses last year.  <a href="https://nyti.ms/45cmBif"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 14, Central Standard Time</sub></sub>
+<p>A special grand jury made the recommendation last year after hearing from dozens of witnesses on whether Donald J. Trump and his allies interfered in the 2020 election.  <a href="https://nyti.ms/3Px4UEw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Peter Navarro Convicted of Contempt of Congress Over Jan. 6 Subpoena</h3>
@@ -130,10 +130,10 @@ Also, Duke University has very few low-income students so this case is getting s
 <p>The verdict made Mr. Navarro the second top adviser to former President Donald J. Trump to be found guilty of contempt for defying the House committee’s investigation.  <a href="https://nyti.ms/3Z6OJB0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Storms Deluge Hong Kong and Other Southern Chinese Cities</h3>
-<sub>By Chris Buckley</sub>
-<p>Rainstorms caused by remnants of Typhoon Haikui, which had been churning along the Chinese coast, submerged roads and homes, and set rainfall records.  <a href="https://nyti.ms/45TtMvM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Jobless, Divorced and on Probation, a Pandemic Hobby Turned His Life Around</h3>
+<sub>By Liza Weisstuch</sub>
+<p>Danny Cortes was at rock bottom when Covid hit. Then a craft hobby to stay sane during lockdown blew up on social media — and in auction houses.  <a href="https://nyti.ms/3Eww2xk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 8, Central Standard Time</sub></sub>
 <hr/>
 </ol>
