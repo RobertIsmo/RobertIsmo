@@ -60,24 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, September 7, Central Standard Time</p>
 <p>
-Right now, the world is dealing with a lot of different issues and people have different opinions on how to address them. On the climate front, President Biden recently approved an big oil project in Alaska, but he&#39;s since curtailed fossil fuel activities on millions of acres of public land. In New York City, Mayor Eric Adams has been speaking out about the migrant crisis and asking for federal help. On the political front, Senate Minority Leader Mitch McConnell&#39;s health issues have been worrying Democrats, while Speaker Nancy Pelosi has suggested sexism is behind calls for Senator Dianne Feinstein to step aside. Meanwhile, Texas Governor Greg Abbott has been under scrutiny due to his role in busing migrants to other cities. In other news, Peter Navarro recently was convicted of contempt of Congress over a Jan. 6 subpoena, and GOP presidential candidates DeSantis and Ramaswamy have caused controversy by calling the Proud Boys&#39; sentences ‘excessive’ and ‘wrong’. Looking at health, Covid continues to rise around the country but experts remain optimistic about new vaccines nearing release. Lastly, there’s been advice about when and how to wear masks as well as holding off on getting covid booster shots till a new formulation is ready.</p>
+There are a lot of important things going on in the world right now. President Biden recently approved an oil project in Alaska, but also crack down on drilling and fossil fuel activities. In US news, Senate Republican leader Mitch McConnell has had health issues recently, causing concerns for Democratic legislators. House Speaker Nancy Pelosi is pushing back against calls for Senator Dianne Feinstein to resign. Also, prison officials say that human error played a role in a Pennsylvania prisoner&#39;s escape. Mayor Eric Adams of New York says the migrant crisis will destroy the city and warns it has no foreseeable end. Meanwhile Peter Navarro was convicted of contempt of Congress over January 6th subpoena and Fani Willis is accusing House Representative Jim Jordan of Ohio for trying to obstruct the racketeering case against Donald J Trump and his allies. DeSantis and Ramaswamy have stated they believe the Proud Boys&#39; sentences are too harsh. In the health sector, Covid-19 continues to affect hearts short and long-term, plus there are new vaccine formulations coming soon. Finally, first lady Jill Biden tested negative for coronavirus and this avoided upending the president&#39;s trip to India for a G20 summit.</p>
 <ol>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>Biden Approved a Big Oil Project. Now, He’s Cracking Down on Drilling.</h3>
 <sub>By Lisa Friedman</sub>
 <p>In the months since the president allowed the Willow project in Alaska, his administration has curtailed fossil fuel activities on millions of acres of public land and in federal waters.  <a href="https://nyti.ms/3LCdakD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>In Escalation, Adams Says Migrant Crisis ‘Will Destroy New York City’</h3>
-<sub>By Emma G. Fitzsimmons</sub>
-<p>In provocative remarks at a town hall meeting, Mayor Eric Adams said that he did not “see an ending” to the migrant crisis and renewed his push for federal help.  <a href="https://nyti.ms/3Rc8yVS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Is Texas’ Busing Responsible for the Migrant Crisis Across Cities?</h3>
-<sub>By Miriam Jordan and Edgar Sandoval</sub>
-<p>Gov. Greg Abbott of Texas has run a high-profile campaign to send migrants to Los Angeles, New York and other cities. But they are a fraction of the number of new migrants boarding buses.  <a href="https://nyti.ms/3PtYdmF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -87,15 +75,27 @@ Right now, the world is dealing with a lot of different issues and people have d
 <sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Pelosi Suggests Sexism Is Behind Calls for Feinstein to Step Aside</h3>
+<h3>Pelosi Pushes Back on Calls for Feinstein to Resign</h3>
 <sub>By Anjali Huynh</sub>
 <p>The longtime Democratic leader, who has served in the House for close to four decades, also left the door open to running again.  <a href="https://nyti.ms/3PgM6IG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Prison Officials Say Human Error Played Role in Pennsylvania Escape</h3>
+<sub>By Campbell Robertson, Shaila Dewan and Joel Wolfram</sub>
+<p>An officer who was in a watchtower is on administrative leave, as prison officials review what went wrong during Danelo Cavalcante’s escape last week.  <a href="https://nyti.ms/3rdulBL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>In Escalation, Adams Says Migrant Crisis ‘Will Destroy New York City’</h3>
+<sub>By Emma G. Fitzsimmons</sub>
+<p>In provocative remarks at a town hall meeting, Mayor Eric Adams said that he did not “see an ending” to the migrant crisis and renewed his push for federal help.  <a href="https://nyti.ms/3Rc8yVS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Peter Navarro Convicted of Contempt of Congress Over Jan. 6 Subpoena</h3>
 <sub>By Zach Montague</sub>
-<p>The verdict made Mr. Navarro the second top adviser to former President Donald J. Trump to be found guilty of contempt for defying the Jan. 6 committee’s investigation.  <a href="https://nyti.ms/3Z6OJB0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The verdict made Mr. Navarro the second top adviser to former President Donald J. Trump to be found guilty of contempt for defying the House committee’s investigation.  <a href="https://nyti.ms/3Z6OJB0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -116,23 +116,23 @@ Right now, the world is dealing with a lot of different issues and people have d
 <p>Three years into the pandemic, the short- and long-term risks are becoming more clear.  <a href="https://nyti.ms/4632cMw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Covid Continues to Rise, but Experts Remain Optimistic</h3>
-<sub>By Apoorva Mandavilli</sub>
-<p>An uptick in hospitalizations and deaths persists, but the numbers are relatively low and new vaccines are around the corner.  <a href="https://nyti.ms/3qVvRsl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>Is It Time to Wear a Mask Again?</h3>
-<sub>By Dani Blum</sub>
-<p>Experts recommend when and how to use them, as Covid continues to circulate.  <a href="https://nyti.ms/3Ef3GYe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 29, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-well-blue" alt="">
 <h3>Don’t Get Your Next Covid Booster Quite Yet</h3>
 <sub>By Dana G. Smith</sub>
 <p>A new formulation is coming, and there are two main reasons to wait for it.  <a href="https://nyti.ms/3OPY3FZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Jill Biden Tests Negative for Coronavirus</h3>
+<sub>By Chris Cameron</sub>
+<p>The first lady’s brief Covid episode had threatened to upend President Biden’s trip to a Group of 20 summit in India.  <a href="https://nyti.ms/3R8R9NP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Drone Strikes Rock Russian City That Is Home to Key Military Base</h3>
+<sub>By Marc Santora</sub>
+<p>Ukraine never acknowledges strikes on Russian soil, but the incursions are happening with increasing frequency.  <a href="https://nyti.ms/3PcwGoN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
