@@ -60,7 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, September 7, Central Standard Time</p>
 <p>
-There are a lot of important things going on in the world right now. President Biden recently approved an oil project in Alaska, but also crack down on drilling and fossil fuel activities. In US news, Senate Republican leader Mitch McConnell has had health issues recently, causing concerns for Democratic legislators. House Speaker Nancy Pelosi is pushing back against calls for Senator Dianne Feinstein to resign. Also, prison officials say that human error played a role in a Pennsylvania prisoner&#39;s escape. Mayor Eric Adams of New York says the migrant crisis will destroy the city and warns it has no foreseeable end. Meanwhile Peter Navarro was convicted of contempt of Congress over January 6th subpoena and Fani Willis is accusing House Representative Jim Jordan of Ohio for trying to obstruct the racketeering case against Donald J Trump and his allies. DeSantis and Ramaswamy have stated they believe the Proud Boys&#39; sentences are too harsh. In the health sector, Covid-19 continues to affect hearts short and long-term, plus there are new vaccine formulations coming soon. Finally, first lady Jill Biden tested negative for coronavirus and this avoided upending the president&#39;s trip to India for a G20 summit.</p>
+Recently, the Biden Administration has taken action to reduce fossil fuel activities on millions of acres of public land and in federal waters, which has triggered some controversy. In other news, some health concerns have been raised about Senate Majority Leader Mitch McConnell that may be affecting his legislative voting stances. Additionally, a convict escaped from a Pennsylvania prison recently due to an officer error.
+
+In sports news, the young tennis star Coco Gauff has made it to her first US Open singles final at only 19 years old. However, environmental protesters stopped her semifinal match for almost an hour when one person glued their feet to the ground. The same protesters also showed up to stop other events in an effort to call attention to climate change and global warming.
+
+There are political controversies, too. Peter Navarro was recently convicted of contempt of Congress for disregarding their investigations of the Trump administration. And recently Representative Jim Jordan was accused of trying to obstruct Fani T. Willis&#39;s investigation into the racketeering case against former President Trump and his allies.
+
+In New York City Mayor Eric Adams is warning citizens that the migrant crisis could &#39;destroy&#39; the city unless there is federal help given. Lastly, more information about Covid-19&#39;s effect on the heart has been made clear recently as well as advice not to get your next booster shot until a new formulation is available. Finally, First Lady Jill Biden recently tested negative for Covid-19 after a brief episode that threatened President Biden&#39;s trip out of the country for the Group of 20 summit in India.</p>
 <ol>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>Biden Approved a Big Oil Project. Now, He’s Cracking Down on Drilling.</h3>
@@ -75,21 +81,27 @@ There are a lot of important things going on in the world right now. President B
 <sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Pelosi Pushes Back on Calls for Feinstein to Resign</h3>
-<sub>By Anjali Huynh</sub>
-<p>The longtime Democratic leader, who has served in the House for close to four decades, also left the door open to running again.  <a href="https://nyti.ms/3PgM6IG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Prison Officials Say Human Error Played Role in Pennsylvania Escape</h3>
 <sub>By Campbell Robertson, Shaila Dewan and Joel Wolfram</sub>
 <p>An officer who was in a watchtower is on administrative leave, as prison officials review what went wrong during Danelo Cavalcante’s escape last week.  <a href="https://nyti.ms/3rdulBL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>In Escalation, Adams Says Migrant Crisis ‘Will Destroy New York City’</h3>
-<sub>By Emma G. Fitzsimmons</sub>
-<p>In provocative remarks at a town hall meeting, Mayor Eric Adams said that he did not “see an ending” to the migrant crisis and renewed his push for federal help.  <a href="https://nyti.ms/3Rc8yVS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Coco Gauff Beats Karolina Muchova to Reach Her First U.S. Open Singles Final</h3>
+<sub>By Matthew Futterman</sub>
+<p>After a lengthy delay caused by protesters in the stands, Gauff, 19, became the youngest American player to make the final in New York since Serena Williams in 2001.  <a href="https://nyti.ms/45UeJlG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Protest Stops U.S. Open Semifinal Match</h3>
+<sub>By Jesus Jiménez</sub>
+<p>The delay of 49 minutes during the match between Coco Gauff and Karolina Muchova was caused by environmental protesters, including one who glued his feet to the ground.  <a href="https://nyti.ms/3EvIj4Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Stopping Tennis to Call Attention to Climate Change</h3>
+<sub>By Lisa Friedman</sub>
+<p>Protesters have thrown mashed potatoes at a Monet, interrupted fancy galas and blocked commuter routes in efforts to prompt action on global warming.  <a href="https://nyti.ms/45Tn8pk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -104,10 +116,10 @@ There are a lot of important things going on in the world right now. President B
 <p>The prosecutor, Fani T. Willis, accused Representative Jim Jordan of Ohio of trying to obstruct her prosecution of the racketeering case against Donald J. Trump and his allies.  <a href="https://nyti.ms/3Z5zTed"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis and Ramaswamy Call Proud Boys’ Sentences ‘Excessive’ and ‘Wrong’</h3>
-<sub>By Maggie Astor</sub>
-<p>The two G.O.P. presidential candidates also floated the idea of pardoning some of the Jan. 6 defendants if they are elected.  <a href="https://nyti.ms/3PqkdyV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>In Escalation, Adams Says Migrant Crisis ‘Will Destroy New York City’</h3>
+<sub>By Emma G. Fitzsimmons</sub>
+<p>In provocative remarks at a town hall meeting, Mayor Eric Adams said that he did not “see an ending” to the migrant crisis and renewed his push for federal help.  <a href="https://nyti.ms/3Rc8yVS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-well-blue" alt="">
@@ -126,12 +138,6 @@ There are a lot of important things going on in the world right now. President B
 <h3>Jill Biden Tests Negative for Coronavirus</h3>
 <sub>By Chris Cameron</sub>
 <p>The first lady’s brief Covid episode had threatened to upend President Biden’s trip to a Group of 20 summit in India.  <a href="https://nyti.ms/3R8R9NP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Drone Strikes Rock Russian City That Is Home to Key Military Base</h3>
-<sub>By Marc Santora</sub>
-<p>Ukraine never acknowledges strikes on Russian soil, but the incursions are happening with increasing frequency.  <a href="https://nyti.ms/3PcwGoN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
