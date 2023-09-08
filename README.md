@@ -58,20 +58,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Thursday, September 7, Central Standard Time</p>
+<p>It is Friday, September 8, Central Standard Time</p>
 <p>
-Recently, the Biden Administration has taken action to reduce fossil fuel activities on millions of acres of public land and in federal waters, which has triggered some controversy. In other news, some health concerns have been raised about Senate Majority Leader Mitch McConnell that may be affecting his legislative voting stances. Additionally, a convict escaped from a Pennsylvania prison recently due to an officer error.
-
-In sports news, the young tennis star Coco Gauff has made it to her first US Open singles final at only 19 years old. However, environmental protesters stopped her semifinal match for almost an hour when one person glued their feet to the ground. The same protesters also showed up to stop other events in an effort to call attention to climate change and global warming.
-
-There are political controversies, too. Peter Navarro was recently convicted of contempt of Congress for disregarding their investigations of the Trump administration. And recently Representative Jim Jordan was accused of trying to obstruct Fani T. Willis&#39;s investigation into the racketeering case against former President Trump and his allies.
-
-In New York City Mayor Eric Adams is warning citizens that the migrant crisis could &#39;destroy&#39; the city unless there is federal help given. Lastly, more information about Covid-19&#39;s effect on the heart has been made clear recently as well as advice not to get your next booster shot until a new formulation is available. Finally, First Lady Jill Biden recently tested negative for Covid-19 after a brief episode that threatened President Biden&#39;s trip out of the country for the Group of 20 summit in India.</p>
+There is a lot happening in the world right now. In Maui, hundreds of people are still missing after a huge inferno destroyed the area and people are beginning to accept that their loved ones may not be coming back. On the political side of things, F.B.I. documents show that U.S. Senator Mitch McConnell may have some health issues and there was a prison escape in Pennsylvania due to human error by an officer on watchtower duty. Meanwhile, the U.S Open is going on but there was a delay due to environmental protesters, who are also pushing for increased action on global warming in France and elsewhere. There have been big updates in terms of President Biden&#39;s policies as well - he recently approved an oil project before outlying new restrictions on fossil fuel activities across public land and sea territory. Finally, there has been some drama between New York City Mayor Eric Adams and Republican congressman Jim Jordan over migrants in the area, as well as some interesting findings regarding the effect of COVID-19 on hearts and why you may want to wait for your next COVID booster shot.</p>
 <ol>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Biden Approved a Big Oil Project. Now, He’s Cracking Down on Drilling.</h3>
-<sub>By Lisa Friedman</sub>
-<p>In the months since the president allowed the Willow project in Alaska, his administration has curtailed fossil fuel activities on millions of acres of public land and in federal waters.  <a href="https://nyti.ms/3LCdakD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Grim Reality in Maui: Hundreds Still on Missing List a Month After Inferno</h3>
+<sub>By Tim Arango and Lisa L. Schell</sub>
+<p>The F.B.I. says more than 380 people remain unaccounted for. Many residents have begun to accept that their loved ones will not be coming back, and survivors wonder what comes next.  <a href="https://nyti.ms/485Xyze"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -87,14 +81,14 @@ In New York City Mayor Eric Adams is warning citizens that the migrant crisis co
 <sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Coco Gauff Beats Karolina Muchova to Reach Her First U.S. Open Singles Final</h3>
+<h3>Coco Gauff and Aryna Sabalenka to Meet in U.S. Open Final</h3>
 <sub>By Matthew Futterman</sub>
-<p>After a lengthy delay caused by protesters in the stands, Gauff, 19, became the youngest American player to make the final in New York since Serena Williams in 2001.  <a href="https://nyti.ms/45UeJlG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>After a lengthy delay caused by protesters, Gauff and Sabalenka emerged as winners. Both will play the first U.S. Open final and second major final of their career.  <a href="https://nyti.ms/3Z6zsQU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Protest Stops U.S. Open Semifinal Match</h3>
-<sub>By Jesus Jiménez</sub>
+<sub>By Jesus Jiménez and Kurt Streeter</sub>
 <p>The delay of 49 minutes during the match between Coco Gauff and Karolina Muchova was caused by environmental protesters, including one who glued his feet to the ground.  <a href="https://nyti.ms/3EvIj4Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
 <hr/>
@@ -102,6 +96,12 @@ In New York City Mayor Eric Adams is warning citizens that the migrant crisis co
 <h3>Stopping Tennis to Call Attention to Climate Change</h3>
 <sub>By Lisa Friedman</sub>
 <p>Protesters have thrown mashed potatoes at a Monet, interrupted fancy galas and blocked commuter routes in efforts to prompt action on global warming.  <a href="https://nyti.ms/45Tn8pk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Biden Approved a Big Oil Project. Now, He’s Cracking Down on Drilling.</h3>
+<sub>By Lisa Friedman</sub>
+<p>In the months since the president allowed the Willow project in Alaska, his administration has curtailed fossil fuel activities on millions of acres of public land and in federal waters.  <a href="https://nyti.ms/3LCdakD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -133,12 +133,6 @@ In New York City Mayor Eric Adams is warning citizens that the migrant crisis co
 <sub>By Dana G. Smith</sub>
 <p>A new formulation is coming, and there are two main reasons to wait for it.  <a href="https://nyti.ms/3OPY3FZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, August 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Jill Biden Tests Negative for Coronavirus</h3>
-<sub>By Chris Cameron</sub>
-<p>The first lady’s brief Covid episode had threatened to upend President Biden’s trip to a Group of 20 summit in India.  <a href="https://nyti.ms/3R8R9NP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
