@@ -60,8 +60,26 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, September 9, Central Standard Time</p>
 <p>
-In the world, the G20 has invited the African Union to join, continuing the rise of the Global South. In the US, former White House Chief of Staff Mark Meadows&#39; was denied a request to move his Georgia case to federal court. In addition, former President Trump gave his first post-fourth indictment rally in South Dakota. On an international level, Myanmar&#39;s coup has been resisted by a former rock star turned bodyguard who now directs films. Meanwhile, Elon Musk refused to enable Ukraine drone attacks on Russia&#39;s fleet. Corporate America continues to find risks and rewards in doing business in China. In Pennsylvania, a manhunt is underway for an escaped prisoner near a botanical garden in Philadelphia, and in sports Coco Gauff and Aryna Sabalenka are playing for the U.S. Open Championship while Daniil Medvedev faces Novak Djokovic in the men&#39;s singles final. Additionally, Mangosuthu Buthelezi, a Zulu Nationalist and one-time rival of Nelson Mandela passed away at age 95.</p>
+There&#39;ve been a lot of events happening around the world recently. An earthquake in Morocco caused fear and chaos for victims, while Vietnam is trying to strengthen its military by buying weapons from Russia, which might violate U.S. sanctions. The G20 also invited the African Union to join, expanding the ‘Global South’s reach further. In America, an appeals court ruled that the White House overstepped its First Amendment rights on social media. There&#39;s also a situation going on in Florida&#39;s education system that Ben Sasse is trying to intervene in. A federal judge denied Mark Meadows&#39; request to move a Georgia case to federal court and Yuscil Taveras, a Trump employee, is facing charges after being caught up in the Trump documents case. Meanwhile, former US President Donald Trump was recently indicted for the fourth time and recently ranted about it at a South Dakota rally. On the other side of the world, Elon Musk refused to allow Ukraine to use his Starlink satellite network for drone attacks against a Russian fleet. Lastly, Coco Gauff and Aryna Sabalenka both got through to the U.S. Open Championship finals!</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>It ‘felt like years’: For earthquake victims, a night of fear and chaos.</h3>
+<sub>By Aida Alami and Aurelien Breeden</sub>
+<p>  <a href="https://nyti.ms/3sTvn6n"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Serious earthquakes have hit Morocco before.</h3>
+<sub>By John Yoon</sub>
+<p>  <a href="https://nyti.ms/45L760W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Vietnam Chases Secret Russian Arms Deal, Even as It Deepens U.S. Ties</h3>
+<sub>By Hannah Beech</sub>
+<p>Defying U.S. sanctions, a Vietnamese government document lays out a plan to buy Russian weapons, which officials see as a way to upgrade its military as a hedge against China.  <a href="https://nyti.ms/3PdUhFm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>As the G20 invites the African Union to join, the ‘Global South’ continues its advance.</h3>
 <sub>By Damien Cave</sub>
@@ -74,6 +92,12 @@ In the world, the G20 has invited the African Union to join, continuing the rise
 <p>A Fifth Circuit panel partly upheld restrictions on the Biden administration’s communications with online platforms about their content.  <a href="https://nyti.ms/3ZcUKw0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 8, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>How Ben Sasse Became a Combatant in Florida’s Education Wars</h3>
+<sub>By Michael Sokolove</sub>
+<p>As Ron DeSantis has turned public education into a political battleground, his state’s flagship university, now led by the former G.O.P. senator from Nebraska, has not remained neutral territory.  <a href="https://nyti.ms/3EAoPw1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Judge Denies Meadows’s Request to Move Georgia Case to Federal Court</h3>
 <sub>By Richard Fausset and Danny Hakim</sub>
@@ -81,27 +105,15 @@ In the world, the G20 has invited the African Union to join, continuing the rise
 <sub><sub>Friday, September 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Read the ruling</h3>
-<sub></sub>
-<p>Judge Steve C. Jones of the Northern District of Georgia rejected an effort by Mark Meadows, Mr. Trump’s former White House chief of staff, to move his racketeering case from state court to federal court.  <a href="https://nyti.ms/3ZdhlsI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 8, Central Standard Time</sub></sub>
+<h3>He Was Just the I.T. Guy. Then He Got Caught in the Trump Documents Case.</h3>
+<sub>By Ben Protess, Adam Goldman, Alan Feuer and Maggie Haberman</sub>
+<p>Yuscil Taveras is among the little-known people with links to Donald Trump to have come under scrutiny. So far, he’s the only Trump employee known to have agreed to cooperate with prosecutors after facing charges.  <a href="https://nyti.ms/3sDtniz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>‘I’m Being Indicted for You,’ Trump Tells South Dakota Rally</h3>
 <sub>By Michael Gold</sub>
 <p>In his first rally since his fourth indictment, the former president focused on his Republican rivals and President Biden, as some in the crowd wore Mr. Trump’s mug shot on their T-shirts.  <a href="https://nyti.ms/465Fsvk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-obituaries-blue" alt="">
-<h3>Mangosuthu Buthelezi, Zulu Nationalist and a Mandela Rival, Dies at 95</h3>
-<sub>By Robert D. McFadden</sub>
-<p>He was a powerful force as apartheid ended and bargaining over South Africa’s future began, emerging as a voice for tribal and ethnic rights, and powers for regional governments.  <a href="https://nyti.ms/486irdG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>From Rock Star to Bodyguard to Resisting Myanmar’s Coup in Film</h3>
-<sub>By Sui-Lee Wee</sub>
-<p>Lynn Lynn was a musical idol when he volunteered in 2015 to protect the life of Myanmar’s new civilian leader. Forced to flee after 2021’s coup, he has reinvented himself as a film director.  <a href="https://nyti.ms/44DSe3j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -110,28 +122,16 @@ In the world, the G20 has invited the African Union to join, continuing the rise
 <p>News that Mr. Musk did not allow the use of his Starlink satellite network highlights concerns in Kyiv and Washington about his outsize influence in the war.  <a href="https://nyti.ms/3Pz63fa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>China Is Full of Risks. So Why Can’t Corporate America Leave?</h3>
-<sub>By Alexandra Stevenson</sub>
-<p>Doing business in China, once seen as a can’t-miss opportunity, poses a troubling quandary: Reasons to stay can be as compelling as the reasons to retreat.  <a href="https://nyti.ms/3P8Dbc3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Manhunt Intensifies as Escaped Pennsylvania Prisoner Remains at Large</h3>
-<sub>By Joel Wolfram, Ana Ionova and Campbell Robertson</sub>
-<p>The search is focused on an area near a sprawling botanical garden in the suburbs of Philadelphia. A guard who failed to notice the escapee was fired by the prison.  <a href="https://nyti.ms/3r9ZiH5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 8, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Former Soldier Who Escaped From a British Prison Is Recaptured in London</h3>
+<sub>By Mark Landler</sub>
+<p>The fugitive broke out by strapping himself to the bottom of a food delivery van. He was arrested on Saturday morning in the city’s Chiswick district.  <a href="https://nyti.ms/44Kin0j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Coco Gauff and Aryna Sabalenka Play for the U.S. Open Championship</h3>
 <sub>By Jesus Jiménez</sub>
 <p>Gauff, 19, is the first American teenager to reach the singles final in New York since Serena Williams in 2001.  <a href="https://nyti.ms/3sNSO1b"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Medvedev Stuns Alcaraz to Meet Djokovic in U.S. Open Finals</h3>
-<sub>By Matthew Futterman</sub>
-<p>Daniil Medvedev upset the reigning champion Carlos Alcaraz in their semifinal, while Novak Djokovic predictably beat Ben Shelton.  <a href="https://nyti.ms/3PvEJOJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 8, Central Standard Time</sub></sub>
 <hr/>
 </ol>
