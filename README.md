@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, September 9, Central Standard Time</p>
 <p>
-There&#39;ve been a lot of events happening around the world recently. An earthquake in Morocco caused fear and chaos for victims, while Vietnam is trying to strengthen its military by buying weapons from Russia, which might violate U.S. sanctions. The G20 also invited the African Union to join, expanding the ‘Global South’s reach further. In America, an appeals court ruled that the White House overstepped its First Amendment rights on social media. There&#39;s also a situation going on in Florida&#39;s education system that Ben Sasse is trying to intervene in. A federal judge denied Mark Meadows&#39; request to move a Georgia case to federal court and Yuscil Taveras, a Trump employee, is facing charges after being caught up in the Trump documents case. Meanwhile, former US President Donald Trump was recently indicted for the fourth time and recently ranted about it at a South Dakota rally. On the other side of the world, Elon Musk refused to allow Ukraine to use his Starlink satellite network for drone attacks against a Russian fleet. Lastly, Coco Gauff and Aryna Sabalenka both got through to the U.S. Open Championship finals!</p>
+Right now, there are some difficult and tragic events happening in the world. In Morocco, a deadly earthquake struck and left many residence devastated and terrified. In Vietnam, the government is planning to buy Russian weapons, even with US sanctions in place. On the US front, President Donald Trump has been indicted again and was just at a rally where supporters had his mugshot on their T-shirts. There&#39;s also an arms dealer in Ukraine who is making money from the secretive arms market with help from the Pentagon. Elon Musk refused to aid a Ukraine drone strike on a Russian fleet. In sports, we just witnessed 19 year old Coco Gauff become the first American teenager since Serena Williams to make it to the US Open singles final, and she met Aryna Sabalenka there. Finally Daniil Medvedev shocked Carlos Alcaraz in their semifinal to make it to the finals against Novak Djokovic.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>It ‘felt like years’: For earthquake victims, a night of fear and chaos.</h3>
@@ -69,21 +69,15 @@ There&#39;ve been a lot of events happening around the world recently. An earthq
 <sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Serious earthquakes have hit Morocco before.</h3>
-<sub>By John Yoon</sub>
-<p>  <a href="https://nyti.ms/45L760W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Scenes From Morocco: A Deadly Earthquake Strikes</h3>
+<sub>By The New York Times</sub>
+<p>The quake about 50 miles from Marrakesh turned residences into rubble and left the survivors terrified.  <a href="https://nyti.ms/3Ra5tpf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Vietnam Chases Secret Russian Arms Deal, Even as It Deepens U.S. Ties</h3>
 <sub>By Hannah Beech</sub>
 <p>Defying U.S. sanctions, a Vietnamese government document lays out a plan to buy Russian weapons, which officials see as a way to upgrade its military as a hedge against China.  <a href="https://nyti.ms/3PdUhFm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As the G20 invites the African Union to join, the ‘Global South’ continues its advance.</h3>
-<sub>By Damien Cave</sub>
-<p>  <a href="https://nyti.ms/3EzWHcF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -117,21 +111,27 @@ There&#39;ve been a lot of events happening around the world recently. An earthq
 <sub><sub>Friday, September 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Ukraine, a U.S. Arms Dealer Is Making a Fortune and Testing Limits</h3>
+<sub>By Justin Scheck and Thomas Gibbons-Neff</sub>
+<p>Billions are pouring into a clubby, secretive arms market. With Pentagon cash and unusually close Ukrainian military ties, Marc Morales has few peers.  <a href="https://nyti.ms/3Puw676"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Elon Musk Refused to Enable Ukraine Drone Attack on Russian Fleet</h3>
 <sub>By Victoria Kim, Richard Pérez-Peña and Andrew E. Kramer</sub>
 <p>News that Mr. Musk did not allow the use of his Starlink satellite network highlights concerns in Kyiv and Washington about his outsize influence in the war.  <a href="https://nyti.ms/3Pz63fa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Former Soldier Who Escaped From a British Prison Is Recaptured in London</h3>
-<sub>By Mark Landler</sub>
-<p>The fugitive broke out by strapping himself to the bottom of a food delivery van. He was arrested on Saturday morning in the city’s Chiswick district.  <a href="https://nyti.ms/44Kin0j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Coco Gauff and Aryna Sabalenka Play for the U.S. Open Championship</h3>
 <sub>By Jesus Jiménez</sub>
-<p>Gauff, 19, is the first American teenager to reach the singles final in New York since Serena Williams in 2001.  <a href="https://nyti.ms/3sNSO1b"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Gauff, 19, is the first American teenager to reach the singles final in New York since Serena Williams in 2001.  <a href="https://nyti.ms/3PwFCGR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Medvedev Stuns Alcaraz to Meet Djokovic in U.S. Open Finals</h3>
+<sub>By Matthew Futterman</sub>
+<p>Daniil Medvedev upset the reigning champion Carlos Alcaraz in their semifinal, while Novak Djokovic predictably beat Ben Shelton.  <a href="https://nyti.ms/3PvEJOJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 8, Central Standard Time</sub></sub>
 <hr/>
 </ol>
