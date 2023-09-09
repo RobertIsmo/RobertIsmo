@@ -60,22 +60,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, September 8, Central Standard Time</p>
 <p>
-Currently, there&#39;s a lot going on around the world. In Russia, power is being transferred after the death of Yevgeny Prigozhin, the head of the Wagner mercenary group. Ukraine has been in conflict with Russia recently, and Elon Musk refused to enable a Ukrainian drone attack on a Russian fleet. 
-
-In the US, politicians are making their decisions about their future: Nancy Pelosi is planning to seek re-election in 2024 for her representative seat, West Virginia Democrat Joe Manchin is unsure if he will run again for Senate, and Florida Governor Ron DeSantis is running as a presidential candidate while also being an advocate for expanding fossil fuel production.
-
-Meanwhile, many colleges have adopted unofficial policies of affirmative action for men because of declining male enrollment, and Florida Supreme Court is considering upholding abortion restrictions. Lastly, Donald Trump will be having his civil trial in October that would last nearly three months.</p>
+Right now, there is a lot happening in the world. In China, big companies are having to face the difficult dilemma of whether to stay or leave due to the risks involved. In the US, a court case involving Donald Trump&#39;s chief of staff was denied to move into federal court, and he is also under investigation for connections with the Capitol attack. The Supreme Court has been asked to take up a case on abortion pill availability. Elon Musk refused to help enable Ukraine perform a drone attack on Russian fleets. Nancy Pelosi said that she will seek re-election in 2024 and Joe Manchin keeps Washington guessing as he contemplates his political future. Lastly, immigration crisis have taxed resources and put pressure on President Biden to act.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>G.O.P. Gets the Democratic Border Crisis It Wanted</h3>
-<sub>By Jonathan Weisman and Nicholas Fandos</sub>
-<p>The strain of migrants in New York, Chicago, Los Angeles and other cities has taxed resources, divided Democrats and put pressure on President Biden to act.  <a href="https://nyti.ms/44IHjoW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>China Is Full of Risks. So Why Can’t Corporate America Leave?</h3>
+<sub>By Alexandra Stevenson</sub>
+<p>Doing business in China, once seen as a can’t-miss opportunity, poses a troubling quandary: Reasons to stay can be as compelling as the reasons to retreat.  <a href="https://nyti.ms/3P8Dbc3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>After Prigozhin’s Death, a High-Stakes Scramble for His Empire</h3>
-<sub>By Anton Troianovski, Declan Walsh, Eric Schmitt, Vivian Yee and Julian E. Barnes</sub>
-<p>A shadowy fight is playing out on three continents for control of Yevgeny Prigozhin’s sprawling interests as head of the Wagner mercenary group. The biggest prize: his lucrative operations in Africa.  <a href="https://nyti.ms/44ZgOff"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Judge Denies Meadows’s Request to Move Georgia Case to Federal Court</h3>
+<sub>By Richard Fausset and Danny Hakim</sub>
+<p>Moving the case to federal court would have given Mark Meadows, a former White House chief of staff, one key advantage: a jury pool that was more favorable to Donald J. Trump.  <a href="https://nyti.ms/3Ey0JCa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Read the ruling</h3>
+<sub></sub>
+<p>Judge Steve C. Jones of the Northern District of Georgia rejected an effort by Mark Meadows, Mr. Trump’s former White House chief of staff, to move his racketeering case from state court to federal court.  <a href="https://nyti.ms/3ZdhlsI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Seeking Link to Trump, Prosecutors Questioned Proud Boys Leader</h3>
+<sub>By Alan Feuer</sub>
+<p>Enrique Tarrio said in an interview that prosecutors believed he had communicated with President Donald Trump through intermediaries before the Jan. 6, 2021, attack on the Capitol.  <a href="https://nyti.ms/462Cgk7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -97,33 +105,9 @@ Meanwhile, many colleges have adopted unofficial policies of affirmative action 
 <sub><sub>Friday, September 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Race to Be Trump’s Running Mate Begins, With Noem Likely to Endorse Him</h3>
-<sub>By Michael C. Bender</sub>
-<p>Gov. Kristi Noem of South Dakota is likely to issue a Friday endorsement of the former president, whose large lead in polls has stirred speculation about the No. 2 job.  <a href="https://nyti.ms/3r9A9wb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Georgia Panel Recommended Charging Dozens, Including Lindsey Graham, in Trump Case</h3>
-<sub>By Richard Fausset and Danny Hakim</sub>
-<p>A special grand jury made the recommendation last year after hearing from dozens of witnesses on whether Donald J. Trump and his allies interfered in the 2020 election.  <a href="https://nyti.ms/48aggpE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Trump Civil Trial Scheduled to Last Nearly Three Months</h3>
-<sub>By Jonah E. Bromwich and Ben Protess</sub>
-<p>The trial, stemming from a lawsuit filed by New York’s attorney general, Letitia James, against the former president, is scheduled to start in October and last almost until Christmas.  <a href="https://nyti.ms/3P9xP0i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Florida Supreme Court Considers Upholding Abortion Restrictions</h3>
-<sub>By Patricia Mazzei</sub>
-<p>Several justices questioned whether Florida’s constitutional privacy rights extend to abortion, as has been longstanding legal precedent.  <a href="https://nyti.ms/45I9bed"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis, Leading a State Menaced by Climate Change, Shrugs Off the Threat</h3>
-<sub>By Nicholas Nehamas and Patricia Mazzei</sub>
-<p>The Florida governor, who has cast himself as a Teddy Roosevelt-style conservationist, sounds far different as a presidential candidate, pledging to expand fossil fuel production and fight electric-vehicle mandates.  <a href="https://nyti.ms/3sLKfUy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Here Are the 20 Oldest Members of Congress</h3>
+<sub>By Annie Karni</sub>
+<p>Congress has long been an institution that runs on seniority and rewards longevity, and these veteran lawmakers are still running the country at an age when most people are well into retirement.  <a href="https://nyti.ms/3Z8LWY2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
@@ -132,10 +116,22 @@ Meanwhile, many colleges have adopted unofficial policies of affirmative action 
 <p>Declining male enrollment has led many colleges to adopt an unofficial policy: affirmative action for men.  <a href="https://nyti.ms/3Z9jCoA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Vietnam and U.S. Forge Deeper Ties as Worries Rise About China</h3>
-<sub>By Sui-Lee Wee</sub>
-<p>President Biden is expected to celebrate a new upgrade in relations with Vietnam this weekend, despite concerns about the country’s authoritarian crackdown and repression.  <a href="https://nyti.ms/45Ggsel"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>G.O.P. Gets the Democratic Border Crisis It Wanted</h3>
+<sub>By Jonathan Weisman and Nicholas Fandos</sub>
+<p>The strain of migrants in New York, Chicago, Los Angeles and other cities has taxed resources, divided Democrats and put pressure on President Biden to act.  <a href="https://nyti.ms/44IHjoW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>White House Urges Eligible Immigrants to Apply for Work Permits</h3>
+<sub>By Michael D. Shear</sub>
+<p>The Biden administration is ramping up efforts to ensure that some migrants can quickly get jobs, in a bid to ease the spiraling political and financial costs of the crisis.  <a href="https://nyti.ms/464bmbH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Justice Dept. Asks Supreme Court to Hear Abortion Pill Case</h3>
+<sub>By Abbie VanSickle</sub>
+<p>The case sets up a showdown before the court on the availability of the most common method of terminating pregnancies.  <a href="https://nyti.ms/460KOrQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 8, Central Standard Time</sub></sub>
 <hr/>
 </ol>
