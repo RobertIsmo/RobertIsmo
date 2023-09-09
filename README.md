@@ -60,12 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, September 9, Central Standard Time</p>
 <p>
-Currently, a lot is going on in the world. In particular, there have been many natural disasters across the globe. For example, earthquake victims in many countries have experienced a night of fear and chaos. Diplomatic efforts are also ongoing and there has been recent discussion of recently-imposed sanctions in Vietnam for its plan to buy Russian weapons. On the American political front, there has been a recent Appeals Court ruling against restrictions on the Biden administration’s social media platforms. In addition, the U.S. Open Singles Championship is underway with Novak Djokovic and Daniil Medvedev competing for the title; Coco Gauff and Aryna Sabalenka are playing for the women&#39;s championship title. Finally, a new book about Elon Musk has revealed some insight into his complex personality.</p>
+There are rescue efforts underway in Morocco, but not progressing very quickly. Leaders at the G20 summit recently released a statement that omitted criticism of Russia while noting Ukrainians&#39; suffering, and now American officials are pressing for peace in Ukraine. Meanwhile, Vietnam is still going ahead with plans to purchase weapons from Russia, despite U.S. sanctions. Ben Sasse has become a combatant in Florida&#39;s education wars while tennis prodigy Coco Gauff is striving for greatness. In sports news, the U.S. Open Men&#39;s Singles final will be between Novak Djokovic and Daniil Medvedev as they both compete for their 24th Grand Slam title. Yuscil Taveras, an I.T. guy from Donald Trump&#39;s organization, recently cooperated with prosecutors after facing charges and Marc Morales in Ukraine is profiting from Pentagon money and investing in the arms market. Finally, there&#39;s discussion of allowing migrants to obtain work permits in New York but it has faced some tension among Democrats and business leaders. Elon Musk has also been receiving attention lately with the release of Walter Isaacson&#39;s biography on him and California governor Newsom is urging Democrats to back Joe Biden for the next campaign.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>It ‘felt like years’: For earthquake victims, a night of fear and chaos.</h3>
-<sub>By Aida Alami and Aurelien Breeden</sub>
-<p>  <a href="https://nyti.ms/3RkJWud"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Rescue efforts are underway, but not in full swing, in Morocco.</h3>
+<sub>By Constant Méheut</sub>
+<p>  <a href="https://nyti.ms/3ExO4za"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -86,17 +86,23 @@ Currently, a lot is going on in the world. In particular, there have been many n
 <p>As Ron DeSantis has turned public education into a political battleground, his state’s flagship university, now led by the former G.O.P. senator from Nebraska, has not remained neutral territory.  <a href="https://nyti.ms/3EAoPw1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Can Coco Gauff the Tennis Prodigy Become a Tennis Legend?</h3>
+<sub>By Susan Dominus</sub>
+<p>Since Coco Gauff went pro at 14, she has played under the weight of high expectations. Now 18, she has her own measures for greatness.  <a href="https://nyti.ms/3e0mjoP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>The U.S. Open Men’s Singles Final We Only Half Expected: Djokovic vs. Medvedev</h3>
+<sub>By Jesus Jiménez</sub>
+<p>Novak Djokovic will be playing for his 24th Grand Slam title. Daniil Medvedev will be conjuring his 2021 Open outcome.  <a href="https://nyti.ms/3RmCCOm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>He Was Just the I.T. Guy. Then He Got Caught in the Trump Documents Case.</h3>
 <sub>By Ben Protess, Adam Goldman, Alan Feuer and Maggie Haberman</sub>
 <p>Yuscil Taveras is among the little-known people with links to Donald Trump to have come under scrutiny. So far, he’s the only Trump employee known to have agreed to cooperate with prosecutors after facing charges.  <a href="https://nyti.ms/3sDtniz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Appeals Court Rules White House Overstepped 1st Amendment on Social Media</h3>
-<sub>By Steven Lee Myers</sub>
-<p>A Fifth Circuit panel partly upheld restrictions on the Biden administration’s communications with online platforms about their content.  <a href="https://nyti.ms/3ZcUKw0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>In Ukraine, a U.S. Arms Dealer Is Making a Fortune and Testing Limits</h3>
@@ -122,16 +128,10 @@ Currently, a lot is going on in the world. In particular, there have been many n
 <p>The biography, by Walter Isaacson, portrays Mr. Musk as a complex, tortured figure.  <a href="https://nyti.ms/3P9DALf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Coco Gauff and Aryna Sabalenka Play for the U.S. Open Championship</h3>
-<sub>By Jesus Jiménez</sub>
-<p>Gauff, 19, is the first American teenager to reach the singles final in New York since Serena Williams in 2001.  <a href="https://nyti.ms/3PwFCGR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>The U.S. Open Men’s Singles We Only Half Expected: Djokovic vs. Medvedev</h3>
-<sub>By Jesus Jiménez</sub>
-<p>Novak Djokovic will be playing for his 24th Grand Slam title. Daniil Medvedev will be conjuring his 2021 Open outcome.  <a href="https://nyti.ms/3RmCCOm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Newsom to Democrats: ‘Buck Up’ and Back Biden</h3>
+<sub>By Adam Nagourney</sub>
+<p>The California governor has become the most visible Democrat-in-waiting. His support of the president is a key part of his effort to put himself forward for the next campaign.  <a href="https://nyti.ms/3Py2SV0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
 <hr/>
 </ol>
