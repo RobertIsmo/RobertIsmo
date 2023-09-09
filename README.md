@@ -58,20 +58,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Friday, September 8, Central Standard Time</p>
+<p>It is Saturday, September 9, Central Standard Time</p>
 <p>
-It looks like the Biden Administration is facing a court battle over their communications when it comes to the 1st Amendment on Social Media. In addition, there&#39;s an ongoing dispute in China between corporate America and their desire to stay or leave. Back home, a former White House Chief of Staff has been denied the ability to move one of his racketeering cases to Federal Court from a state court and an investigation to connect Trump to the Capitol Riots continues. And not far away, a Tennessee man and his mother associated with the riots were sentenced to terms in prison. Even Elon Musk made news by refusing to aid a Ukrainian drone attack on Russia through his Starlink Satellite Network. Meanwhile, Nancy Pelosi defied predictions by announcing she&#39;ll seek re-election for her Congressional seat in 2024 among the 19 other veteran Representatives who are still currently in office. To add even more tension on the topic, college enrolees have become decreasingly male leading many colleges to adopt an unofficial policy: Affirmative Action for men. Taking it even further into controversial territory, the Supreme Court is now being asked to hear an Abortion Pill case that could have future implications surrounding terminating pregnancies while Florida Supreme Court is considering if their traditional legal principle extends abortion rights in regards to its constitutional privacy rights.</p>
+There have been some really interesting developments in the world lately. The G20 recently invited the African Union to join, which is a major step forward for the &quot;Global South&quot;. Meanwhile, the appeals court ruled that the White House was overstepping their First Amendment rights with social media platforms. There&#39;s also a lot going on in the U.S. - there was a ruling that denied Meadows&#39; request to move a Georgia case to federal court, and former President Trump even made an appearance at a South Dakota rally, claiming he&#39;s being indicted for them. The world of celebrity obits has been rocked by the passing of Mangosuthu Buthelezi, who was a powerful force in South Africa as apartheid ended, while Lynn Lynn has become an unlikely freedom fighter against Myanmar&#39;s coup by reinventing himself as a film director. Elon Musk recently refused to enable Ukraine&#39;s drone attack on Russia&#39;s fleet, which highlights how much power he and other tech moguls have in international politics. China still remains quite risky for doing business but corporate America has yet to retreat due to compelling reasons for staying there. Finally, on the sports side, Coco Gauff and Aryna Sabalenka are playing for the U.S Open championship while Daniil Medvedev shocked Carlos Alacaraz to meet Novak Djokovic in the finals!</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As the G20 invites the African Union to join, the ‘Global South’ continues its advance.</h3>
+<sub>By Damien Cave</sub>
+<p>  <a href="https://nyti.ms/3EzWHcF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Appeals Court Rules White House Overstepped 1st Amendment on Social Media</h3>
 <sub>By Steven Lee Myers</sub>
 <p>A Fifth Circuit panel partly upheld restrictions on the Biden administration’s communications with online platforms about their content.  <a href="https://nyti.ms/3ZcUKw0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>China Is Full of Risks. So Why Can’t Corporate America Leave?</h3>
-<sub>By Alexandra Stevenson</sub>
-<p>Doing business in China, once seen as a can’t-miss opportunity, poses a troubling quandary: Reasons to stay can be as compelling as the reasons to retreat.  <a href="https://nyti.ms/3P8Dbc3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -87,15 +87,21 @@ It looks like the Biden Administration is facing a court battle over their commu
 <sub><sub>Friday, September 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Seeking Link to Trump, Prosecutors Questioned Proud Boys Leader</h3>
-<sub>By Alan Feuer</sub>
-<p>Enrique Tarrio said in an interview that prosecutors believed he had communicated with President Donald Trump through intermediaries before the Jan. 6, 2021, attack on the Capitol.  <a href="https://nyti.ms/462Cgk7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>‘I’m Being Indicted for You,’ Trump Tells South Dakota Rally</h3>
+<sub>By Michael Gold</sub>
+<p>In his first rally since his fourth indictment, the former president focused on his Republican rivals and President Biden, as some in the crowd wore Mr. Trump’s mug shot on their T-shirts.  <a href="https://nyti.ms/465Fsvk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘Zip Tie Guy’ and His Mother Get Prison Terms in Jan. 6 Riot</h3>
-<sub>By Eduardo Medina</sub>
-<p>Eric Munchel, 32, of Tennessee, was sentenced to nearly five years in prison in connection with the attack on the U.S. Capitol in 2021, while his mother, Lisa Eisenhart, 59, received a two-and-a-half-year term.  <a href="https://nyti.ms/3rf6r8W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-obituaries-blue" alt="">
+<h3>Mangosuthu Buthelezi, Zulu Nationalist and a Mandela Rival, Dies at 95</h3>
+<sub>By Robert D. McFadden</sub>
+<p>He was a powerful force as apartheid ended and bargaining over South Africa’s future began, emerging as a voice for tribal and ethnic rights, and powers for regional governments.  <a href="https://nyti.ms/486irdG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>From Rock Star to Bodyguard to Resisting Myanmar’s Coup in Film</h3>
+<sub>By Sui-Lee Wee</sub>
+<p>Lynn Lynn was a musical idol when he volunteered in 2015 to protect the life of Myanmar’s new civilian leader. Forced to flee after 2021’s coup, he has reinvented himself as a film director.  <a href="https://nyti.ms/44DSe3j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -104,34 +110,28 @@ It looks like the Biden Administration is facing a court battle over their commu
 <p>News that Mr. Musk did not allow the use of his Starlink satellite network highlights concerns in Kyiv and Washington about his outsize influence in the war.  <a href="https://nyti.ms/3Pz63fa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Pelosi, Defying Predictions, Says She Will Seek Re-election in 2024</h3>
-<sub>By Annie Karni</sub>
-<p>Since she stepped down from leadership last year, many observers expected Representative Nancy Pelosi of California to head toward retirement. But she has kept people guessing about her future.  <a href="https://nyti.ms/3Zhi7Vp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>China Is Full of Risks. So Why Can’t Corporate America Leave?</h3>
+<sub>By Alexandra Stevenson</sub>
+<p>Doing business in China, once seen as a can’t-miss opportunity, poses a troubling quandary: Reasons to stay can be as compelling as the reasons to retreat.  <a href="https://nyti.ms/3P8Dbc3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Here Are the 20 Oldest Members of Congress</h3>
-<sub>By Annie Karni</sub>
-<p>Congress has long been an institution that runs on seniority and rewards longevity, and these veteran lawmakers are still running the country at an age when most people are well into retirement.  <a href="https://nyti.ms/3Z8LWY2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Manhunt Intensifies as Escaped Pennsylvania Prisoner Remains at Large</h3>
+<sub>By Joel Wolfram, Ana Ionova and Campbell Robertson</sub>
+<p>The search is focused on an area near a sprawling botanical garden in the suburbs of Philadelphia. A guard who failed to notice the escapee was fired by the prison.  <a href="https://nyti.ms/3r9ZiH5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>‘There Was Definitely a Thumb on the Scale to Get Boys’</h3>
-<sub>By Susan Dominus</sub>
-<p>Declining male enrollment has led many colleges to adopt an unofficial policy: affirmative action for men.  <a href="https://nyti.ms/3Z9jCoA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Coco Gauff and Aryna Sabalenka Play for the U.S. Open Championship</h3>
+<sub>By Jesus Jiménez</sub>
+<p>Gauff, 19, is the first American teenager to reach the singles final in New York since Serena Williams in 2001.  <a href="https://nyti.ms/3sNSO1b"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Justice Dept. Asks Supreme Court to Hear Abortion Pill Case</h3>
-<sub>By Abbie VanSickle</sub>
-<p>The case sets up a showdown before the court on the availability of the most common method of terminating pregnancies.  <a href="https://nyti.ms/460KOrQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Florida Supreme Court Considers Upholding Abortion Restrictions</h3>
-<sub>By Patricia Mazzei</sub>
-<p>Several justices questioned whether Florida’s constitutional privacy rights extend to abortion, as has been longstanding legal precedent.  <a href="https://nyti.ms/45I9bed"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Medvedev Stuns Alcaraz to Meet Djokovic in U.S. Open Finals</h3>
+<sub>By Matthew Futterman</sub>
+<p>Daniil Medvedev upset the reigning champion Carlos Alcaraz in their semifinal, while Novak Djokovic predictably beat Ben Shelton.  <a href="https://nyti.ms/3PvEJOJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 8, Central Standard Time</sub></sub>
 <hr/>
 </ol>
