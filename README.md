@@ -60,18 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, September 9, Central Standard Time</p>
 <p>
-Right now, there are some difficult and tragic events happening in the world. In Morocco, a deadly earthquake struck and left many residence devastated and terrified. In Vietnam, the government is planning to buy Russian weapons, even with US sanctions in place. On the US front, President Donald Trump has been indicted again and was just at a rally where supporters had his mugshot on their T-shirts. There&#39;s also an arms dealer in Ukraine who is making money from the secretive arms market with help from the Pentagon. Elon Musk refused to aid a Ukraine drone strike on a Russian fleet. In sports, we just witnessed 19 year old Coco Gauff become the first American teenager since Serena Williams to make it to the US Open singles final, and she met Aryna Sabalenka there. Finally Daniil Medvedev shocked Carlos Alcaraz in their semifinal to make it to the finals against Novak Djokovic.</p>
+Currently, a lot is going on in the world. In particular, there have been many natural disasters across the globe. For example, earthquake victims in many countries have experienced a night of fear and chaos. Diplomatic efforts are also ongoing and there has been recent discussion of recently-imposed sanctions in Vietnam for its plan to buy Russian weapons. On the American political front, there has been a recent Appeals Court ruling against restrictions on the Biden administration’s social media platforms. In addition, the U.S. Open Singles Championship is underway with Novak Djokovic and Daniil Medvedev competing for the title; Coco Gauff and Aryna Sabalenka are playing for the women&#39;s championship title. Finally, a new book about Elon Musk has revealed some insight into his complex personality.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>It ‘felt like years’: For earthquake victims, a night of fear and chaos.</h3>
 <sub>By Aida Alami and Aurelien Breeden</sub>
-<p>  <a href="https://nyti.ms/3sTvn6n"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>  <a href="https://nyti.ms/3RkJWud"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Scenes From Morocco: A Deadly Earthquake Strikes</h3>
-<sub>By The New York Times</sub>
-<p>The quake about 50 miles from Marrakesh turned residences into rubble and left the survivors terrified.  <a href="https://nyti.ms/3Ra5tpf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>G20 Declaration Omits Criticism of Russia, Notes Ukrainians’ ‘Suffering’</h3>
+<sub>By Katie Rogers</sub>
+<p>American officials defended the agreement, saying it built on the statement released last year and that the United States was still pressing for peace in Ukraine.  <a href="https://nyti.ms/45MUUwW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -80,12 +80,6 @@ Right now, there are some difficult and tragic events happening in the world. In
 <p>Defying U.S. sanctions, a Vietnamese government document lays out a plan to buy Russian weapons, which officials see as a way to upgrade its military as a hedge against China.  <a href="https://nyti.ms/3PdUhFm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Appeals Court Rules White House Overstepped 1st Amendment on Social Media</h3>
-<sub>By Steven Lee Myers</sub>
-<p>A Fifth Circuit panel partly upheld restrictions on the Biden administration’s communications with online platforms about their content.  <a href="https://nyti.ms/3ZcUKw0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 8, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
 <h3>How Ben Sasse Became a Combatant in Florida’s Education Wars</h3>
 <sub>By Michael Sokolove</sub>
@@ -93,21 +87,15 @@ Right now, there are some difficult and tragic events happening in the world. In
 <sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Judge Denies Meadows’s Request to Move Georgia Case to Federal Court</h3>
-<sub>By Richard Fausset and Danny Hakim</sub>
-<p>Moving the case to federal court would have given Mark Meadows, a former White House chief of staff, one key advantage: a jury pool that was more favorable to Donald J. Trump.  <a href="https://nyti.ms/3Ey0JCa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>He Was Just the I.T. Guy. Then He Got Caught in the Trump Documents Case.</h3>
 <sub>By Ben Protess, Adam Goldman, Alan Feuer and Maggie Haberman</sub>
 <p>Yuscil Taveras is among the little-known people with links to Donald Trump to have come under scrutiny. So far, he’s the only Trump employee known to have agreed to cooperate with prosecutors after facing charges.  <a href="https://nyti.ms/3sDtniz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘I’m Being Indicted for You,’ Trump Tells South Dakota Rally</h3>
-<sub>By Michael Gold</sub>
-<p>In his first rally since his fourth indictment, the former president focused on his Republican rivals and President Biden, as some in the crowd wore Mr. Trump’s mug shot on their T-shirts.  <a href="https://nyti.ms/465Fsvk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Appeals Court Rules White House Overstepped 1st Amendment on Social Media</h3>
+<sub>By Steven Lee Myers</sub>
+<p>A Fifth Circuit panel partly upheld restrictions on the Biden administration’s communications with online platforms about their content.  <a href="https://nyti.ms/3ZcUKw0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -116,11 +104,23 @@ Right now, there are some difficult and tragic events happening in the world. In
 <p>Billions are pouring into a clubby, secretive arms market. With Pentagon cash and unusually close Ukrainian military ties, Marc Morales has few peers.  <a href="https://nyti.ms/3Puw676"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Elon Musk Refused to Enable Ukraine Drone Attack on Russian Fleet</h3>
-<sub>By Victoria Kim, Richard Pérez-Peña and Andrew E. Kramer</sub>
-<p>News that Mr. Musk did not allow the use of his Starlink satellite network highlights concerns in Kyiv and Washington about his outsize influence in the war.  <a href="https://nyti.ms/3Pz63fa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 8, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>New York Employers Are Eager to Hire Migrants. They Can’t.</h3>
+<sub>By Jesse McKinley and Luis Ferré-Sadurní</sub>
+<p>Many Democrats and business leaders favor giving migrants work permits, but pockets of tension and reluctance have created a complex political calculus.  <a href="https://nyti.ms/44IrJd2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-books-blue" alt="">
+<h3>Elon Musk Wants to Save Humanity. The Only Problem: People.</h3>
+<sub>By Jennifer Szalai</sub>
+<p>Walter Isaacson’s biography of the billionaire entrepreneur depicts a mercurial “man-child” with grandiose ambitions and an ego to match.  <a href="https://nyti.ms/3sTPLUX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>‘I’m Not Trump’s Fan’ and Other Takeaways From a New Book on Elon Musk</h3>
+<sub>By Jeremy W. Peters, Niraj Chokshi and Benjamin Mullin</sub>
+<p>The biography, by Walter Isaacson, portrays Mr. Musk as a complex, tortured figure.  <a href="https://nyti.ms/3P9DALf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Coco Gauff and Aryna Sabalenka Play for the U.S. Open Championship</h3>
@@ -129,10 +129,10 @@ Right now, there are some difficult and tragic events happening in the world. In
 <sub><sub>Friday, September 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Medvedev Stuns Alcaraz to Meet Djokovic in U.S. Open Finals</h3>
-<sub>By Matthew Futterman</sub>
-<p>Daniil Medvedev upset the reigning champion Carlos Alcaraz in their semifinal, while Novak Djokovic predictably beat Ben Shelton.  <a href="https://nyti.ms/3PvEJOJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 8, Central Standard Time</sub></sub>
+<h3>The U.S. Open Men’s Singles We Only Half Expected: Djokovic vs. Medvedev</h3>
+<sub>By Jesus Jiménez</sub>
+<p>Novak Djokovic will be playing for his 24th Grand Slam title. Daniil Medvedev will be conjuring his 2021 Open outcome.  <a href="https://nyti.ms/3RmCCOm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
