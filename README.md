@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, September 8, Central Standard Time</p>
 <p>
-Right now, there is a lot happening in the world. In China, big companies are having to face the difficult dilemma of whether to stay or leave due to the risks involved. In the US, a court case involving Donald Trump&#39;s chief of staff was denied to move into federal court, and he is also under investigation for connections with the Capitol attack. The Supreme Court has been asked to take up a case on abortion pill availability. Elon Musk refused to help enable Ukraine perform a drone attack on Russian fleets. Nancy Pelosi said that she will seek re-election in 2024 and Joe Manchin keeps Washington guessing as he contemplates his political future. Lastly, immigration crisis have taxed resources and put pressure on President Biden to act.</p>
+It looks like the Biden Administration is facing a court battle over their communications when it comes to the 1st Amendment on Social Media. In addition, there&#39;s an ongoing dispute in China between corporate America and their desire to stay or leave. Back home, a former White House Chief of Staff has been denied the ability to move one of his racketeering cases to Federal Court from a state court and an investigation to connect Trump to the Capitol Riots continues. And not far away, a Tennessee man and his mother associated with the riots were sentenced to terms in prison. Even Elon Musk made news by refusing to aid a Ukrainian drone attack on Russia through his Starlink Satellite Network. Meanwhile, Nancy Pelosi defied predictions by announcing she&#39;ll seek re-election for her Congressional seat in 2024 among the 19 other veteran Representatives who are still currently in office. To add even more tension on the topic, college enrolees have become decreasingly male leading many colleges to adopt an unofficial policy: Affirmative Action for men. Taking it even further into controversial territory, the Supreme Court is now being asked to hear an Abortion Pill case that could have future implications surrounding terminating pregnancies while Florida Supreme Court is considering if their traditional legal principle extends abortion rights in regards to its constitutional privacy rights.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Appeals Court Rules White House Overstepped 1st Amendment on Social Media</h3>
+<sub>By Steven Lee Myers</sub>
+<p>A Fifth Circuit panel partly upheld restrictions on the Biden administration’s communications with online platforms about their content.  <a href="https://nyti.ms/3ZcUKw0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 8, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>China Is Full of Risks. So Why Can’t Corporate America Leave?</h3>
 <sub>By Alexandra Stevenson</sub>
@@ -86,6 +92,12 @@ Right now, there is a lot happening in the world. In China, big companies are ha
 <p>Enrique Tarrio said in an interview that prosecutors believed he had communicated with President Donald Trump through intermediaries before the Jan. 6, 2021, attack on the Capitol.  <a href="https://nyti.ms/462Cgk7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 8, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>‘Zip Tie Guy’ and His Mother Get Prison Terms in Jan. 6 Riot</h3>
+<sub>By Eduardo Medina</sub>
+<p>Eric Munchel, 32, of Tennessee, was sentenced to nearly five years in prison in connection with the attack on the U.S. Capitol in 2021, while his mother, Lisa Eisenhart, 59, received a two-and-a-half-year term.  <a href="https://nyti.ms/3rf6r8W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 8, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Elon Musk Refused to Enable Ukraine Drone Attack on Russian Fleet</h3>
 <sub>By Victoria Kim, Richard Pérez-Peña and Andrew E. Kramer</sub>
@@ -96,12 +108,6 @@ Right now, there is a lot happening in the world. In China, big companies are ha
 <h3>Pelosi, Defying Predictions, Says She Will Seek Re-election in 2024</h3>
 <sub>By Annie Karni</sub>
 <p>Since she stepped down from leadership last year, many observers expected Representative Nancy Pelosi of California to head toward retirement. But she has kept people guessing about her future.  <a href="https://nyti.ms/3Zhi7Vp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Manchin Mulls His Political Future, Keeping Washington Guessing</h3>
-<sub>By Luke Broadwater and Jonathan Weisman</sub>
-<p>The West Virginia Democrat could run for re-election to the Senate, make a third-party presidential bid or simply retire from politics. To his party’s consternation, he’s not ready to say which.  <a href="https://nyti.ms/3LhJqsO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -117,21 +123,15 @@ Right now, there is a lot happening in the world. In China, big companies are ha
 <sub><sub>Friday, September 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>G.O.P. Gets the Democratic Border Crisis It Wanted</h3>
-<sub>By Jonathan Weisman and Nicholas Fandos</sub>
-<p>The strain of migrants in New York, Chicago, Los Angeles and other cities has taxed resources, divided Democrats and put pressure on President Biden to act.  <a href="https://nyti.ms/44IHjoW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>White House Urges Eligible Immigrants to Apply for Work Permits</h3>
-<sub>By Michael D. Shear</sub>
-<p>The Biden administration is ramping up efforts to ensure that some migrants can quickly get jobs, in a bid to ease the spiraling political and financial costs of the crisis.  <a href="https://nyti.ms/464bmbH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Justice Dept. Asks Supreme Court to Hear Abortion Pill Case</h3>
 <sub>By Abbie VanSickle</sub>
 <p>The case sets up a showdown before the court on the availability of the most common method of terminating pregnancies.  <a href="https://nyti.ms/460KOrQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Florida Supreme Court Considers Upholding Abortion Restrictions</h3>
+<sub>By Patricia Mazzei</sub>
+<p>Several justices questioned whether Florida’s constitutional privacy rights extend to abortion, as has been longstanding legal precedent.  <a href="https://nyti.ms/45I9bed"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 8, Central Standard Time</sub></sub>
 <hr/>
 </ol>
