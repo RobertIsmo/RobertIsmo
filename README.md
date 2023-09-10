@@ -60,16 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, September 10, Central Standard Time</p>
 <p>
-Right now, there&#39;s a lot happening in the world. In Morocco, a deadly earthquake shook the country, leaving survivors terrified and rubble everywhere. Russia seems to have a new player entering politics- Viktor A. Bout, an arms trafficker who is convicted of his crimes but hopes to make a comeback in politics. Ukraine is pointing the blame on Russia for reports of torture against citizens, while Russia has denied it altogether. 
+In the world right now, there&#39;s sadly a lot of tragedy, but some good news too. In Morocco, more than 2,000 people were killed in a devastating earthquake and the hardest hit was the province of Al Haouz. On a different continent, Russia’s ‘Merchant of Death’ is looking to forge a new life in politics. Over in Ukraine, there are accounts of torture which point to systematic Russian policy and may have been approved by Moscow. 
 
-In the US, there&#39;s a miracle happening in Missouri - people are visiting a nun&#39;s body that hasn&#39;t decomposed 4 years after her death. President Biden is keeping his son Hunter close despite the political ramifications. At Iowa’s biggest football game, Trump and DeSantis went head to head in a clash of politics and sports. Coco Gauff has earned quite the spotlight after winning the U.S. Open singles title and is ready to take on fame even more in-depth than before.
-
-Technology wise, there is development in facial recognition technology from both Facebook and Google - they built tools to idenitify any face and though Silicon Valley tends to not move slowly with releasing things, they&#39;ve held back this time around.</p>
+As for the U.S., there are all kinds of unexpected things happening. In Missouri, people are flocking to visit a nun&#39;s corpse that hasn&#39;t decomposed four years after her death. There&#39;s also been drama at the Iowa football game where former President Trump appeared and the tables seemed to turn on him. Additionally, the recent U.S Open tennis tournament had a great men&#39;s final match between Novak Djokovic and Daniil Medvedev. Finally, Massachusetts is dealing with an influx of migrants placed in towns around the state, which has raised difficult questions about their handling of the situation.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>For a Woman Bereaved in Quake, First Came Shock and Then a Wail.</h3>
+<sub>By Vivian Yee</sub>
+<p>More than 2,000 people were killed in the quake that hit Morocco on Friday night. Hardest hit was the province of Al Haouz, which is home to Amizmiz.  <a href="https://nyti.ms/3r0VckG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 10, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Scenes From Morocco: A Deadly Earthquake Strikes</h3>
 <sub>By The New York Times</sub>
-<p>The quake about 50 miles from Marrakesh turned residences into rubble and left the survivors terrified.  <a href="https://nyti.ms/3Ra5tpf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The quake centered about 50 miles from Marrakesh turned homes into rubble and left survivors terrified.  <a href="https://nyti.ms/3Ra5tpf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -115,9 +119,9 @@ Technology wise, there is development in facial recognition technology from both
 <sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Seeing the U.S. Open in an Unusual Light</h3>
-<sub>By Karsten Moran</sub>
-<p>An infrared-converted camera gives a unique perspective on New York’s major tennis tournament.  <a href="https://nyti.ms/4896kfJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Amid U.S. Open Fanfare, U.S.T.A. Fights Questions of Its Handling of Sexual Abuse</h3>
+<sub>By Matthew Futterman</sub>
+<p>Kylie McKenzie accused a U.S.T.A. coach of inappropriately touching her when she was 19. In depositions, the organization has questioned her sexual history.  <a href="https://nyti.ms/3R9FQVA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
@@ -131,12 +135,6 @@ Technology wise, there is development in facial recognition technology from both
 <sub>By Jenna Russell and Sophie Park</sub>
 <p>The mayor of Woburn, where hotels are housing 150 migrant families, said the state’s 40-year-old right-to-shelter law “was not meant to cover what we’re seeing now.”  <a href="https://nyti.ms/3sKMFCO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>The Technology Facebook and Google Didn’t Dare Release</h3>
-<sub>By Kashmir Hill</sub>
-<p>Engineers at the tech giants built tools years ago that could put a name to any face but, for once, Silicon Valley did not want to move fast and break things.  <a href="https://nyti.ms/3LcLcLZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
