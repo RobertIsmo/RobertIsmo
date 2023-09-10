@@ -60,24 +60,52 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, September 10, Central Standard Time</p>
 <p>
-There has been a devastating earthquake in Morocco, and rescuers are having trouble getting to the hardest-hit areas quickly. Countries are still clashing around the situation in Ukraine, despite an agreement not to criticize Russia at the G20 Summit. Vietnam is pursuing a secret arms deal with Russia, even as it strengthens ties with the US. At the U.S. Open, 19 year old Coco Gauff and Novak Djokovic won their respective singles titles. There have been reports of torture in Ukraine by Russia, and one particular US arms dealer who has gotten millions in Pentagon funds has been making a lot of money. In Paris, they are trying to create &quot;cool green spaces&quot; by repurposing old railroads to survive climate change. Here in NYC, Mayor Adams is calling for budget cuts after seeing increased costs related to migrants, while employers are eager to hire them despite some tension. Finally, Walter Isaacson&#39;s biography of Elon Musk was just released, which depicts him as a mercurial man-child with grand ambitions and ambitions that sometimes don&#39;t align with reality.</p>
+Right now, there&#39;s a lot happening in the world. In Morocco, a deadly earthquake shook the country, leaving survivors terrified and rubble everywhere. Russia seems to have a new player entering politics- Viktor A. Bout, an arms trafficker who is convicted of his crimes but hopes to make a comeback in politics. Ukraine is pointing the blame on Russia for reports of torture against citizens, while Russia has denied it altogether. 
+
+In the US, there&#39;s a miracle happening in Missouri - people are visiting a nun&#39;s body that hasn&#39;t decomposed 4 years after her death. President Biden is keeping his son Hunter close despite the political ramifications. At Iowa’s biggest football game, Trump and DeSantis went head to head in a clash of politics and sports. Coco Gauff has earned quite the spotlight after winning the U.S. Open singles title and is ready to take on fame even more in-depth than before.
+
+Technology wise, there is development in facial recognition technology from both Facebook and Google - they built tools to idenitify any face and though Silicon Valley tends to not move slowly with releasing things, they&#39;ve held back this time around.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Morocco Rescuers Slow to Reach Hardest Hit Areas After Quake</h3>
-<sub>By Constant Méheut</sub>
-<p>It remained unclear how quickly emergency teams would be able to reach the victims and prevent more deaths. Many of the areas affected by the quake are remote mountain villages that are not easily accessible.  <a href="https://nyti.ms/3Pa4B17"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Scenes From Morocco: A Deadly Earthquake Strikes</h3>
+<sub>By The New York Times</sub>
+<p>The quake about 50 miles from Marrakesh turned residences into rubble and left the survivors terrified.  <a href="https://nyti.ms/3Ra5tpf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>G20 Declaration Omits Criticism of Russia, Notes Ukrainians’ ‘Suffering’</h3>
+<h3>Maps: Where the Earthquake Struck Morocco</h3>
+<sub>By Lauren Leatherby, Marco Hernandez, Elena Shao and Karen Yourish</sub>
+<p>See where the earthquake caused major damage in cities and towns in southern Morocco.  <a href="https://nyti.ms/3Z9LF7k"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russia’s ‘Merchant of Death’ Is Looking to Forge a New Life in Politics</h3>
+<sub>By Valerie Hopkins</sub>
+<p>The convicted arms trafficker Viktor A. Bout hasn’t much flair for retail politicking, but his celebrity may compensate for that in regional elections.  <a href="https://nyti.ms/3r6Cgki"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukrainian Accounts of Torture Point to Systematic Russian Policy, Expert Says</h3>
+<sub>By Carlotta Gall</sub>
+<p>The U.N. Special Rapporteur on torture said Moscow’s refusal to address the issue represented tacit approval of its use. Russia has denied it practices torture.  <a href="https://nyti.ms/44JZ3jJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Miracle in Missouri? The Nun Who Put Her Abbey on the Map.</h3>
+<sub>By Ruth Graham and Katie Currid</sub>
+<p>Four years after her death, the body of Sister Wilhelmina Lancaster has not decomposed, her fellow nuns said. Believers come from all over to see for themselves.  <a href="https://nyti.ms/3LbMJ52"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>President Biden Keeps Hunter Close Despite the Political Peril</h3>
 <sub>By Katie Rogers</sub>
-<p>American officials defended the agreement, saying it built on the statement released last year and that the United States was still pressing for peace in Ukraine.  <a href="https://nyti.ms/45MUUwW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
+<p>The possibility of a federal indictment of Hunter Biden stunned the president. Yet the bond between him and his only surviving son is ironclad.  <a href="https://nyti.ms/3sJuJsd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Vietnam Chases Secret Russian Arms Deal, Even as It Deepens U.S. Ties</h3>
-<sub>By Hannah Beech</sub>
-<p>Defying U.S. sanctions, a Vietnamese government document lays out a plan to buy Russian weapons, which officials see as a way to upgrade its military as a hedge against China.  <a href="https://nyti.ms/3PdUhFm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>At Iowa’s Biggest Game, Football and Politics Collide</h3>
+<sub>By Anjali Huynh and Nicholas Nehamas</sub>
+<p>Donald J. Trump and Ron DeSantis played off each other at the Iowa-Iowa State game, where the tables appeared to turn on the former president.  <a href="https://nyti.ms/3EzKMeI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
@@ -87,51 +115,27 @@ There has been a devastating earthquake in Morocco, and rescuers are having trou
 <sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Seeing the U.S. Open in an Unusual Light</h3>
+<sub>By Karsten Moran</sub>
+<p>An infrared-converted camera gives a unique perspective on New York’s major tennis tournament.  <a href="https://nyti.ms/4896kfJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>The U.S. Open Men’s Singles Final We Only Half Expected: Djokovic vs. Medvedev</h3>
 <sub>By Jesus Jiménez</sub>
 <p>Novak Djokovic will be playing for his 24th Grand Slam title. Daniil Medvedev will be conjuring his 2021 Open outcome.  <a href="https://nyti.ms/3RmCCOm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukrainian Accounts of Torture Point to Systematic Russian Policy, Expert Says</h3>
-<sub>By Carlotta Gall</sub>
-<p>The U.N. Special Rapporteur on torture said Moscow’s refusal to address the issue represented tacit approval of its use. Russia has denied it practices torture.  <a href="https://nyti.ms/44JZ3jJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>As Migrants Are Placed Around Massachusetts, Towns Are Welcoming but Worried</h3>
+<sub>By Jenna Russell and Sophie Park</sub>
+<p>The mayor of Woburn, where hotels are housing 150 migrant families, said the state’s 40-year-old right-to-shelter law “was not meant to cover what we’re seeing now.”  <a href="https://nyti.ms/3sKMFCO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Ukraine, a U.S. Arms Dealer Is Making a Fortune and Testing Limits</h3>
-<sub>By Justin Scheck and Thomas Gibbons-Neff</sub>
-<p>Billions are pouring into a clubby, secretive arms market. With Pentagon cash and unusually close Ukrainian military ties, Marc Morales has few peers.  <a href="https://nyti.ms/3Puw676"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Search of Cool Green Spaces, Paris Turns to an Old Rail Line</h3>
-<sub>By Juliette Guéron-Gabrielle</sub>
-<p>The French capital is converting the tracks into semi-wild oases to provide relief as climate change brings hotter days, although the nature that has flourished there may pay a price.  <a href="https://nyti.ms/3RbTpDN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>He Was Just the I.T. Guy. Then He Got Caught in the Trump Documents Case.</h3>
-<sub>By Ben Protess, Adam Goldman, Alan Feuer and Maggie Haberman</sub>
-<p>Yuscil Taveras is among the little-known people with links to Donald Trump to have come under scrutiny. So far, he’s the only Trump employee known to have agreed to cooperate with prosecutors after facing charges.  <a href="https://nyti.ms/3sDtniz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>New York Employers Are Eager to Hire Migrants. They Can’t.</h3>
-<sub>By Jesse McKinley and Luis Ferré-Sadurní</sub>
-<p>Many Democrats and business leaders favor giving migrants work permits, but pockets of tension and reluctance have created a complex political calculus.  <a href="https://nyti.ms/44IrJd2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Citing Costs of Migrant Care, Adams Calls for More Budget Cuts</h3>
-<sub>By Hurubie Meko</sub>
-<p>The mayor ordered New York City agencies to reduce spending by 15 percent in the coming months, but said that federal and state aid could prevent the need for cuts.  <a href="https://nyti.ms/3ZbhzQO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-books-blue" alt="">
-<h3>Elon Musk Wants to Save Humanity. The Only Problem: People.</h3>
-<sub>By Jennifer Szalai</sub>
-<p>Walter Isaacson’s biography of the billionaire entrepreneur depicts a mercurial “man-child” with grandiose ambitions and an ego to match.  <a href="https://nyti.ms/3sTPLUX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>The Technology Facebook and Google Didn’t Dare Release</h3>
+<sub>By Kashmir Hill</sub>
+<p>Engineers at the tech giants built tools years ago that could put a name to any face but, for once, Silicon Valley did not want to move fast and break things.  <a href="https://nyti.ms/3LcLcLZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
 <hr/>
 </ol>
