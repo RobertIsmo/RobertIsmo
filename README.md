@@ -58,22 +58,10 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Saturday, September 9, Central Standard Time</p>
+<p>It is Sunday, September 10, Central Standard Time</p>
 <p>
-There has been a devastating earthquake in Morocco that has killed more than 2,000 people and rescue efforts are being attempted. The leaders of the G20 have made an agreement that omits criticism of Russia and notes Ukrainian&#39;s suffering. Vietnam is trying to buy Russian arms despite US sanctions, and there is a lot of tension between Democrats and business leaders in the US over giving migrants work permits. Meanwhile, there is a U.S Open Men&#39;s Singles Final being played, Paris is transforming an old rail line into a semi-wild space for climate relief, and a new book has been released on Elon Musk that portrays him as a complex figure.</p>
+There is a lot going on in the world right now. At the G20 summit, there was a declaration that seemed to omit criticism of Russia and there are reports of Vietnam looking to buy Russian weapons, even as they&#39;re deepening ties with the US. There&#39;s also a lot of concern over the human cost of migration, with fears over how to care for newcomers and politicians discussing budget cuts to assist them. In Paris there is an effort to create green spaces in response to climate change. On the sports scene, Coco Gauff won the US Open singles title and Novak Djokovic and Daniil Medvedev will be playing in the men&#39;s singles final. Lastly, there was a book released about Elon Musk showcasing his mercurial ambition and ego. As for local news concerning US politics, California Governor Newsom called on Democrats to ‘buck up’ and support President Biden.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Powerful Earthquake Shakes Morocco, Killing More Than 2,000</h3>
-<sub>By Catie Edmondson, Aida Alami, Aurelien Breeden and Constant Méheut</sub>
-<p>The quake, centered in the mountains just outside of Marrakesh, was the strongest to hit that area in a century. “It didn’t last long, but felt like years,” said one woman who lives near the epicenter.  <a href="https://nyti.ms/3PAviha"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Rescue efforts are underway, but not in full swing, in Morocco.</h3>
-<sub>By Constant Méheut</sub>
-<p>  <a href="https://nyti.ms/3ExO4za"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>G20 Declaration Omits Criticism of Russia, Notes Ukrainians’ ‘Suffering’</h3>
 <sub>By Katie Rogers</sub>
@@ -84,6 +72,12 @@ There has been a devastating earthquake in Morocco that has killed more than 2,0
 <h3>Vietnam Chases Secret Russian Arms Deal, Even as It Deepens U.S. Ties</h3>
 <sub>By Hannah Beech</sub>
 <p>Defying U.S. sanctions, a Vietnamese government document lays out a plan to buy Russian weapons, which officials see as a way to upgrade its military as a hedge against China.  <a href="https://nyti.ms/3PdUhFm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Coco Gauff Says She’s ‘Ready’ for the Headiest Levels of Fame</h3>
+<sub>By David Waldstein</sub>
+<p>Gauff, 19, has been in the spotlight since she was a 15-year-old playing Wimbledon, but after she won the U.S. Open singles title, those lights will burn far hotter.  <a href="https://nyti.ms/3LhcKzG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
@@ -132,6 +126,12 @@ There has been a devastating earthquake in Morocco that has killed more than 2,0
 <h3>‘I’m Not Trump’s Fan’ and Other Takeaways From a New Book on Elon Musk</h3>
 <sub>By Jeremy W. Peters, Niraj Chokshi and Benjamin Mullin</sub>
 <p>The biography, by Walter Isaacson, portrays Mr. Musk as a complex, tortured figure.  <a href="https://nyti.ms/3P9DALf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Newsom to Democrats: ‘Buck Up’ and Back Biden</h3>
+<sub>By Adam Nagourney</sub>
+<p>The California governor has become the most visible Democrat-in-waiting. His support of the president is a key part of his effort to put himself forward for the next campaign.  <a href="https://nyti.ms/3Py2SV0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
 <hr/>
 </ol>
