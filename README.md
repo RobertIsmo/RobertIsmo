@@ -60,27 +60,15 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, September 10, Central Standard Time</p>
 <p>
-In the world right now, there&#39;s sadly a lot of tragedy, but some good news too. In Morocco, more than 2,000 people were killed in a devastating earthquake and the hardest hit was the province of Al Haouz. On a different continent, Russia’s ‘Merchant of Death’ is looking to forge a new life in politics. Over in Ukraine, there are accounts of torture which point to systematic Russian policy and may have been approved by Moscow. 
-
-As for the U.S., there are all kinds of unexpected things happening. In Missouri, people are flocking to visit a nun&#39;s corpse that hasn&#39;t decomposed four years after her death. There&#39;s also been drama at the Iowa football game where former President Trump appeared and the tables seemed to turn on him. Additionally, the recent U.S Open tennis tournament had a great men&#39;s final match between Novak Djokovic and Daniil Medvedev. Finally, Massachusetts is dealing with an influx of migrants placed in towns around the state, which has raised difficult questions about their handling of the situation.</p>
+There have been a lot of stories in the news lately that reflect a global, tumultuous landscape. In Morocco, an earthquake has left a remote village without power and running low on food and water. Meanwhile, in Russia, a convicted arms trader is trying to get into politics. 
+In Argentina, a singer was publicly denounced for performing at the ruins of a bombed-out theater. Closer to home, in Missouri, there are reports that four years after her death, the body of a nun has not decomposed. In Iowa, the football game turned political as Donald Trump and Ron DeSantis made appearances. Governor Newsom has stepped up his support for President Biden and is encouraging other Democrats to follow suit. 
+On the sports front, there&#39;s Coco Gauff who recently won the U.S. Open singles title and Djokovic up against Medvedev for the men&#39;s singles final. Lastly, here in Massachusetts, towns are welcoming but also concerned about housing around 150 migrant families. Lastly, Silicon Valley is holding back tech that can put a name to any face they can see due to privacy issues.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>For a Woman Bereaved in Quake, First Came Shock and Then a Wail.</h3>
-<sub>By Vivian Yee</sub>
-<p>More than 2,000 people were killed in the quake that hit Morocco on Friday night. Hardest hit was the province of Al Haouz, which is home to Amizmiz.  <a href="https://nyti.ms/3r0VckG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>‘We didn’t wait for anybody to start saving people’s lives.’</h3>
+<sub>By Vivian Yee and Aida Alami</sub>
+<p>When the quake struck a remote village in the Atlas Mountains outside of Marrakesh, it knocked out power and phones, making it impossible to call for help. Now food and water are running very low.  <a href="https://nyti.ms/3EwbTHN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Scenes From Morocco: A Deadly Earthquake Strikes</h3>
-<sub>By The New York Times</sub>
-<p>The quake centered about 50 miles from Marrakesh turned homes into rubble and left survivors terrified.  <a href="https://nyti.ms/3Ra5tpf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Maps: Where the Earthquake Struck Morocco</h3>
-<sub>By Lauren Leatherby, Marco Hernandez, Elena Shao and Karen Yourish</sub>
-<p>See where the earthquake caused major damage in cities and towns in southern Morocco.  <a href="https://nyti.ms/3Z9LF7k"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Russia’s ‘Merchant of Death’ Is Looking to Forge a New Life in Politics</h3>
@@ -88,10 +76,10 @@ As for the U.S., there are all kinds of unexpected things happening. In Missouri
 <p>The convicted arms trafficker Viktor A. Bout hasn’t much flair for retail politicking, but his celebrity may compensate for that in regional elections.  <a href="https://nyti.ms/3r6Cgki"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukrainian Accounts of Torture Point to Systematic Russian Policy, Expert Says</h3>
-<sub>By Carlotta Gall</sub>
-<p>The U.N. Special Rapporteur on torture said Moscow’s refusal to address the issue represented tacit approval of its use. Russia has denied it practices torture.  <a href="https://nyti.ms/44JZ3jJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Chinese Singer Denounced Over Video at Bombed-Out Ukrainian Theater</h3>
+<sub>By Javier C. Hernández</sub>
+<p>The singer Wang Fang drew criticism after she performed “Katyusha,” a Soviet-era patriotic song, at the ruins of a theater in Mariupol.  <a href="https://nyti.ms/461E7Ww"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -110,6 +98,12 @@ As for the U.S., there are all kinds of unexpected things happening. In Missouri
 <h3>At Iowa’s Biggest Game, Football and Politics Collide</h3>
 <sub>By Anjali Huynh and Nicholas Nehamas</sub>
 <p>Donald J. Trump and Ron DeSantis played off each other at the Iowa-Iowa State game, where the tables appeared to turn on the former president.  <a href="https://nyti.ms/3EzKMeI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Newsom to Democrats: ‘Buck Up’ and Back Biden</h3>
+<sub>By Adam Nagourney</sub>
+<p>The California governor has become the most visible Democrat-in-waiting. His support of the president is a key part of his effort to put himself forward for the next campaign.  <a href="https://nyti.ms/3Py2SV0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
@@ -135,6 +129,12 @@ As for the U.S., there are all kinds of unexpected things happening. In Missouri
 <sub>By Jenna Russell and Sophie Park</sub>
 <p>The mayor of Woburn, where hotels are housing 150 migrant families, said the state’s 40-year-old right-to-shelter law “was not meant to cover what we’re seeing now.”  <a href="https://nyti.ms/3sKMFCO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>The Technology Facebook and Google Didn’t Dare Release</h3>
+<sub>By Kashmir Hill</sub>
+<p>Engineers at the tech giants built tools years ago that could put a name to any face but, for once, Silicon Valley did not want to move fast and break things.  <a href="https://nyti.ms/3LcLcLZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
