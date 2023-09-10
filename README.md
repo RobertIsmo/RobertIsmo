@@ -60,8 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, September 9, Central Standard Time</p>
 <p>
-There are rescue efforts underway in Morocco, but not progressing very quickly. Leaders at the G20 summit recently released a statement that omitted criticism of Russia while noting Ukrainians&#39; suffering, and now American officials are pressing for peace in Ukraine. Meanwhile, Vietnam is still going ahead with plans to purchase weapons from Russia, despite U.S. sanctions. Ben Sasse has become a combatant in Florida&#39;s education wars while tennis prodigy Coco Gauff is striving for greatness. In sports news, the U.S. Open Men&#39;s Singles final will be between Novak Djokovic and Daniil Medvedev as they both compete for their 24th Grand Slam title. Yuscil Taveras, an I.T. guy from Donald Trump&#39;s organization, recently cooperated with prosecutors after facing charges and Marc Morales in Ukraine is profiting from Pentagon money and investing in the arms market. Finally, there&#39;s discussion of allowing migrants to obtain work permits in New York but it has faced some tension among Democrats and business leaders. Elon Musk has also been receiving attention lately with the release of Walter Isaacson&#39;s biography on him and California governor Newsom is urging Democrats to back Joe Biden for the next campaign.</p>
+There are some serious events happening in the world right now. In Morocco, a powerful earthquake shook the country and killed more than 2,000 people. Rescue efforts have been slow to start but are underway. The G20 declaration recently omitted criticism of Russia and noted the suffering of Ukrainians, and American officials defended the agreement. Meanwhile, Vietnam is defying U.S. sanctions by looking into a secret Russian arms deal and deepening ties with them at the same time. 
+
+Other news comes from Paris, which is trying to turn old rail lines into green spaces as climate change brings hotter days, although nature that has flourished there may suffer due to this plan. In Ukraine, an American arms dealer is making a fortune out of selling weapons and New York employers are eager to hire migrants but cannot do so due to resistance and reluctance from various political figures. 
+
+The last two articles discuss biographies on Elon Musk - one describing him as a mercurial man-child with grandiose ambitions and an ego to match, while another takes us through takeaways from the book such as his attempt to save humanity but facing problem due to people&#39;s reactions.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Powerful Earthquake Shakes Morocco, Killing More Than 2,000</h3>
+<sub>By Catie Edmondson, Aida Alami, Aurelien Breeden and Constant Méheut</sub>
+<p>The quake, centered in the mountains just outside of Marrakesh, was the strongest to hit that area in a century. “It didn’t last long, but felt like years,” said one woman who lives near the epicenter.  <a href="https://nyti.ms/3Z9RQIG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Rescue efforts are underway, but not in full swing, in Morocco.</h3>
 <sub>By Constant Méheut</sub>
@@ -80,22 +90,16 @@ There are rescue efforts underway in Morocco, but not progressing very quickly. 
 <p>Defying U.S. sanctions, a Vietnamese government document lays out a plan to buy Russian weapons, which officials see as a way to upgrade its military as a hedge against China.  <a href="https://nyti.ms/3PdUhFm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>How Ben Sasse Became a Combatant in Florida’s Education Wars</h3>
-<sub>By Michael Sokolove</sub>
-<p>As Ron DeSantis has turned public education into a political battleground, his state’s flagship university, now led by the former G.O.P. senator from Nebraska, has not remained neutral territory.  <a href="https://nyti.ms/3EAoPw1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Can Coco Gauff the Tennis Prodigy Become a Tennis Legend?</h3>
-<sub>By Susan Dominus</sub>
-<p>Since Coco Gauff went pro at 14, she has played under the weight of high expectations. Now 18, she has her own measures for greatness.  <a href="https://nyti.ms/3e0mjoP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 26, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>The U.S. Open Men’s Singles Final We Only Half Expected: Djokovic vs. Medvedev</h3>
 <sub>By Jesus Jiménez</sub>
 <p>Novak Djokovic will be playing for his 24th Grand Slam title. Daniil Medvedev will be conjuring his 2021 Open outcome.  <a href="https://nyti.ms/3RmCCOm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Search of Cool Green Spaces, Paris Turns to an Old Rail Line</h3>
+<sub>By Juliette Guéron-Gabrielle</sub>
+<p>The French capital is converting the tracks into semi-wild oases to provide relief as climate change brings hotter days, although the nature that has flourished there may pay a price.  <a href="https://nyti.ms/3RbTpDN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -116,6 +120,12 @@ There are rescue efforts underway in Morocco, but not progressing very quickly. 
 <p>Many Democrats and business leaders favor giving migrants work permits, but pockets of tension and reluctance have created a complex political calculus.  <a href="https://nyti.ms/44IrJd2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Citing Costs of Migrant Care, Adams Calls for More Budget Cuts</h3>
+<sub>By Hurubie Meko</sub>
+<p>The mayor ordered New York City agencies to reduce spending by 15 percent in the coming months, but said that federal and state aid could prevent the need for cuts.  <a href="https://nyti.ms/3ZbhzQO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-books-blue" alt="">
 <h3>Elon Musk Wants to Save Humanity. The Only Problem: People.</h3>
 <sub>By Jennifer Szalai</sub>
@@ -126,12 +136,6 @@ There are rescue efforts underway in Morocco, but not progressing very quickly. 
 <h3>‘I’m Not Trump’s Fan’ and Other Takeaways From a New Book on Elon Musk</h3>
 <sub>By Jeremy W. Peters, Niraj Chokshi and Benjamin Mullin</sub>
 <p>The biography, by Walter Isaacson, portrays Mr. Musk as a complex, tortured figure.  <a href="https://nyti.ms/3P9DALf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Newsom to Democrats: ‘Buck Up’ and Back Biden</h3>
-<sub>By Adam Nagourney</sub>
-<p>The California governor has become the most visible Democrat-in-waiting. His support of the president is a key part of his effort to put himself forward for the next campaign.  <a href="https://nyti.ms/3Py2SV0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
 <hr/>
 </ol>
