@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, September 10, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. At the G20 summit, there was a declaration that seemed to omit criticism of Russia and there are reports of Vietnam looking to buy Russian weapons, even as they&#39;re deepening ties with the US. There&#39;s also a lot of concern over the human cost of migration, with fears over how to care for newcomers and politicians discussing budget cuts to assist them. In Paris there is an effort to create green spaces in response to climate change. On the sports scene, Coco Gauff won the US Open singles title and Novak Djokovic and Daniil Medvedev will be playing in the men&#39;s singles final. Lastly, there was a book released about Elon Musk showcasing his mercurial ambition and ego. As for local news concerning US politics, California Governor Newsom called on Democrats to ‘buck up’ and support President Biden.</p>
+There has been a devastating earthquake in Morocco, and rescuers are having trouble getting to the hardest-hit areas quickly. Countries are still clashing around the situation in Ukraine, despite an agreement not to criticize Russia at the G20 Summit. Vietnam is pursuing a secret arms deal with Russia, even as it strengthens ties with the US. At the U.S. Open, 19 year old Coco Gauff and Novak Djokovic won their respective singles titles. There have been reports of torture in Ukraine by Russia, and one particular US arms dealer who has gotten millions in Pentagon funds has been making a lot of money. In Paris, they are trying to create &quot;cool green spaces&quot; by repurposing old railroads to survive climate change. Here in NYC, Mayor Adams is calling for budget cuts after seeing increased costs related to migrants, while employers are eager to hire them despite some tension. Finally, Walter Isaacson&#39;s biography of Elon Musk was just released, which depicts him as a mercurial man-child with grand ambitions and ambitions that sometimes don&#39;t align with reality.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Morocco Rescuers Slow to Reach Hardest Hit Areas After Quake</h3>
+<sub>By Constant Méheut</sub>
+<p>It remained unclear how quickly emergency teams would be able to reach the victims and prevent more deaths. Many of the areas affected by the quake are remote mountain villages that are not easily accessible.  <a href="https://nyti.ms/3Pa4B17"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>G20 Declaration Omits Criticism of Russia, Notes Ukrainians’ ‘Suffering’</h3>
 <sub>By Katie Rogers</sub>
@@ -87,6 +93,18 @@ There is a lot going on in the world right now. At the G20 summit, there was a d
 <sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukrainian Accounts of Torture Point to Systematic Russian Policy, Expert Says</h3>
+<sub>By Carlotta Gall</sub>
+<p>The U.N. Special Rapporteur on torture said Moscow’s refusal to address the issue represented tacit approval of its use. Russia has denied it practices torture.  <a href="https://nyti.ms/44JZ3jJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Ukraine, a U.S. Arms Dealer Is Making a Fortune and Testing Limits</h3>
+<sub>By Justin Scheck and Thomas Gibbons-Neff</sub>
+<p>Billions are pouring into a clubby, secretive arms market. With Pentagon cash and unusually close Ukrainian military ties, Marc Morales has few peers.  <a href="https://nyti.ms/3Puw676"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>In Search of Cool Green Spaces, Paris Turns to an Old Rail Line</h3>
 <sub>By Juliette Guéron-Gabrielle</sub>
 <p>The French capital is converting the tracks into semi-wild oases to provide relief as climate change brings hotter days, although the nature that has flourished there may pay a price.  <a href="https://nyti.ms/3RbTpDN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -96,12 +114,6 @@ There is a lot going on in the world right now. At the G20 summit, there was a d
 <h3>He Was Just the I.T. Guy. Then He Got Caught in the Trump Documents Case.</h3>
 <sub>By Ben Protess, Adam Goldman, Alan Feuer and Maggie Haberman</sub>
 <p>Yuscil Taveras is among the little-known people with links to Donald Trump to have come under scrutiny. So far, he’s the only Trump employee known to have agreed to cooperate with prosecutors after facing charges.  <a href="https://nyti.ms/3sDtniz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Ukraine, a U.S. Arms Dealer Is Making a Fortune and Testing Limits</h3>
-<sub>By Justin Scheck and Thomas Gibbons-Neff</sub>
-<p>Billions are pouring into a clubby, secretive arms market. With Pentagon cash and unusually close Ukrainian military ties, Marc Morales has few peers.  <a href="https://nyti.ms/3Puw676"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -120,18 +132,6 @@ There is a lot going on in the world right now. At the G20 summit, there was a d
 <h3>Elon Musk Wants to Save Humanity. The Only Problem: People.</h3>
 <sub>By Jennifer Szalai</sub>
 <p>Walter Isaacson’s biography of the billionaire entrepreneur depicts a mercurial “man-child” with grandiose ambitions and an ego to match.  <a href="https://nyti.ms/3sTPLUX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>‘I’m Not Trump’s Fan’ and Other Takeaways From a New Book on Elon Musk</h3>
-<sub>By Jeremy W. Peters, Niraj Chokshi and Benjamin Mullin</sub>
-<p>The biography, by Walter Isaacson, portrays Mr. Musk as a complex, tortured figure.  <a href="https://nyti.ms/3P9DALf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Newsom to Democrats: ‘Buck Up’ and Back Biden</h3>
-<sub>By Adam Nagourney</sub>
-<p>The California governor has become the most visible Democrat-in-waiting. His support of the president is a key part of his effort to put himself forward for the next campaign.  <a href="https://nyti.ms/3Py2SV0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
 <hr/>
 </ol>
