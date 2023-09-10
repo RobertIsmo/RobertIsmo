@@ -60,9 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, September 10, Central Standard Time</p>
 <p>
-There have been a lot of stories in the news lately that reflect a global, tumultuous landscape. In Morocco, an earthquake has left a remote village without power and running low on food and water. Meanwhile, in Russia, a convicted arms trader is trying to get into politics. 
-In Argentina, a singer was publicly denounced for performing at the ruins of a bombed-out theater. Closer to home, in Missouri, there are reports that four years after her death, the body of a nun has not decomposed. In Iowa, the football game turned political as Donald Trump and Ron DeSantis made appearances. Governor Newsom has stepped up his support for President Biden and is encouraging other Democrats to follow suit. 
-On the sports front, there&#39;s Coco Gauff who recently won the U.S. Open singles title and Djokovic up against Medvedev for the men&#39;s singles final. Lastly, here in Massachusetts, towns are welcoming but also concerned about housing around 150 migrant families. Lastly, Silicon Valley is holding back tech that can put a name to any face they can see due to privacy issues.</p>
+There is a lot happening in the world right now. A deadly earthquake recently struck a remote village in the Atlas Mountains outside of Marrakesh that knocked power and phones out, leaving survivors stranded with little access to food or water. The U.S. Open saw Coco Gauff become singles champion while allegations of inappropriate conduct by U.S.T.A. coaches towards players remain an issue. In Spain, the top soccer official resigned due to a scandal involving unwanted sexual advances, and in Missouri, an unusual phenomenon surrounding a nun&#39;s body has turned believers from all over into visitors of her abbey. President Biden continues to stand by his son Hunter as a federal investigation is underway, and Floridian Governor Ron DeSantis was seen connecting politically with Donald J.Trump at the Iowa-Iowa State game. In Massachusetts, migrant families are being placed in local towns with varying responses among citizens while some technology developed by Facebook and Google remain unreleased due to ethical considerations.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>‘We didn’t wait for anybody to start saving people’s lives.’</h3>
@@ -71,15 +69,21 @@ On the sports front, there&#39;s Coco Gauff who recently won the U.S. Open singl
 <sub><sub>Sunday, September 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia’s ‘Merchant of Death’ Is Looking to Forge a New Life in Politics</h3>
-<sub>By Valerie Hopkins</sub>
-<p>The convicted arms trafficker Viktor A. Bout hasn’t much flair for retail politicking, but his celebrity may compensate for that in regional elections.  <a href="https://nyti.ms/3r6Cgki"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Scenes From Morocco: A Deadly Earthquake Strikes</h3>
+<sub>By The New York Times</sub>
+<p>The quake centered about 50 miles from Marrakesh turned homes into rubble and left survivors terrified.  <a href="https://nyti.ms/3Ra5tpf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>At the U.S. Open, Coco Gauff and Company Stake Their Claim</h3>
+<sub>By Kurt Streeter</sub>
+<p>Last year’s U.S. Open focused on goodbyes. This year, Gauff, the new singles champion, along with Ben Shelton, Frances Tiafoe and Taylor Fritz, burst through the front door with plans to stay.  <a href="https://nyti.ms/3PwLyPX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Chinese Singer Denounced Over Video at Bombed-Out Ukrainian Theater</h3>
-<sub>By Javier C. Hernández</sub>
-<p>The singer Wang Fang drew criticism after she performed “Katyusha,” a Soviet-era patriotic song, at the ruins of a theater in Mariupol.  <a href="https://nyti.ms/461E7Ww"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Amid U.S. Open Fanfare, U.S.T.A. Fights Questions of Its Handling of Sexual Abuse</h3>
+<sub>By Matthew Futterman</sub>
+<p>Kylie McKenzie accused a U.S.T.A. coach of inappropriately touching her when she was 19. In depositions, the organization has questioned her sexual history.  <a href="https://nyti.ms/3R9FQVA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -88,10 +92,22 @@ On the sports front, there&#39;s Coco Gauff who recently won the U.S. Open singl
 <p>Four years after her death, the body of Sister Wilhelmina Lancaster has not decomposed, her fellow nuns said. Believers come from all over to see for themselves.  <a href="https://nyti.ms/3LbMJ52"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Spain’s Top Soccer Official Resigns Over Unwanted World Cup Kiss</h3>
+<sub>By Michael Wolgelenter and Rachel Chaundler</sub>
+<p>Pressure had been building on Luis Rubiales, with prosecutors opening an investigation, his soccer federation calling for him to step down and FIFA suspending him.  <a href="https://nyti.ms/468BtOT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 10, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>President Biden Keeps Hunter Close Despite the Political Peril</h3>
 <sub>By Katie Rogers</sub>
 <p>The possibility of a federal indictment of Hunter Biden stunned the president. Yet the bond between him and his only surviving son is ironclad.  <a href="https://nyti.ms/3sJuJsd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Covid Hero or ‘Lockdown Ron’? DeSantis and Trump Renew Pandemic Politics</h3>
+<sub>By Nicholas Nehamas</sub>
+<p>The Florida governor has recently highlighted his state’s response to the coronavirus in hopes of striking some distance from Donald Trump.  <a href="https://nyti.ms/468qh4P"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -100,29 +116,11 @@ On the sports front, there&#39;s Coco Gauff who recently won the U.S. Open singl
 <p>Donald J. Trump and Ron DeSantis played off each other at the Iowa-Iowa State game, where the tables appeared to turn on the former president.  <a href="https://nyti.ms/3EzKMeI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Newsom to Democrats: ‘Buck Up’ and Back Biden</h3>
-<sub>By Adam Nagourney</sub>
-<p>The California governor has become the most visible Democrat-in-waiting. His support of the president is a key part of his effort to put himself forward for the next campaign.  <a href="https://nyti.ms/3Py2SV0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Coco Gauff Says She’s ‘Ready’ for the Headiest Levels of Fame</h3>
-<sub>By David Waldstein</sub>
-<p>Gauff, 19, has been in the spotlight since she was a 15-year-old playing Wimbledon, but after she won the U.S. Open singles title, those lights will burn far hotter.  <a href="https://nyti.ms/3LhcKzG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Amid U.S. Open Fanfare, U.S.T.A. Fights Questions of Its Handling of Sexual Abuse</h3>
-<sub>By Matthew Futterman</sub>
-<p>Kylie McKenzie accused a U.S.T.A. coach of inappropriately touching her when she was 19. In depositions, the organization has questioned her sexual history.  <a href="https://nyti.ms/3R9FQVA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>The U.S. Open Men’s Singles Final We Only Half Expected: Djokovic vs. Medvedev</h3>
-<sub>By Jesus Jiménez</sub>
-<p>Novak Djokovic will be playing for his 24th Grand Slam title. Daniil Medvedev will be conjuring his 2021 Open outcome.  <a href="https://nyti.ms/3RmCCOm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-realestate-blue" alt="">
+<h3>How Black Nurses Were Recruited to Staten Island to Fight a Deadly Disease</h3>
+<sub>By John Freeman Gill</sub>
+<p>Many old buildings at a New York City hospital are in ruins, but it played a key role in the battle against tuberculosis, which killed 5.6 million people in the U.S. in the first half of the 20th century.  <a href="https://nyti.ms/464qBkK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>As Migrants Are Placed Around Massachusetts, Towns Are Welcoming but Worried</h3>
