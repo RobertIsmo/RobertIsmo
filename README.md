@@ -60,16 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, September 9, Central Standard Time</p>
 <p>
-There are some serious events happening in the world right now. In Morocco, a powerful earthquake shook the country and killed more than 2,000 people. Rescue efforts have been slow to start but are underway. The G20 declaration recently omitted criticism of Russia and noted the suffering of Ukrainians, and American officials defended the agreement. Meanwhile, Vietnam is defying U.S. sanctions by looking into a secret Russian arms deal and deepening ties with them at the same time. 
-
-Other news comes from Paris, which is trying to turn old rail lines into green spaces as climate change brings hotter days, although nature that has flourished there may suffer due to this plan. In Ukraine, an American arms dealer is making a fortune out of selling weapons and New York employers are eager to hire migrants but cannot do so due to resistance and reluctance from various political figures. 
-
-The last two articles discuss biographies on Elon Musk - one describing him as a mercurial man-child with grandiose ambitions and an ego to match, while another takes us through takeaways from the book such as his attempt to save humanity but facing problem due to people&#39;s reactions.</p>
+There has been a devastating earthquake in Morocco that has killed more than 2,000 people and rescue efforts are being attempted. The leaders of the G20 have made an agreement that omits criticism of Russia and notes Ukrainian&#39;s suffering. Vietnam is trying to buy Russian arms despite US sanctions, and there is a lot of tension between Democrats and business leaders in the US over giving migrants work permits. Meanwhile, there is a U.S Open Men&#39;s Singles Final being played, Paris is transforming an old rail line into a semi-wild space for climate relief, and a new book has been released on Elon Musk that portrays him as a complex figure.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Powerful Earthquake Shakes Morocco, Killing More Than 2,000</h3>
 <sub>By Catie Edmondson, Aida Alami, Aurelien Breeden and Constant Méheut</sub>
-<p>The quake, centered in the mountains just outside of Marrakesh, was the strongest to hit that area in a century. “It didn’t last long, but felt like years,” said one woman who lives near the epicenter.  <a href="https://nyti.ms/3Z9RQIG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The quake, centered in the mountains just outside of Marrakesh, was the strongest to hit that area in a century. “It didn’t last long, but felt like years,” said one woman who lives near the epicenter.  <a href="https://nyti.ms/3PAviha"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
