@@ -60,30 +60,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, September 10, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. A deadly earthquake recently struck a remote village in the Atlas Mountains outside of Marrakesh that knocked power and phones out, leaving survivors stranded with little access to food or water. The U.S. Open saw Coco Gauff become singles champion while allegations of inappropriate conduct by U.S.T.A. coaches towards players remain an issue. In Spain, the top soccer official resigned due to a scandal involving unwanted sexual advances, and in Missouri, an unusual phenomenon surrounding a nun&#39;s body has turned believers from all over into visitors of her abbey. President Biden continues to stand by his son Hunter as a federal investigation is underway, and Floridian Governor Ron DeSantis was seen connecting politically with Donald J.Trump at the Iowa-Iowa State game. In Massachusetts, migrant families are being placed in local towns with varying responses among citizens while some technology developed by Facebook and Google remain unreleased due to ethical considerations.</p>
+To my friend: 
+There is a lot of news happening around the world right now that&#39;s worth catching up on. In the US, President Biden just forged a new strategic partnership with Vietnam in light of increasing regional competition from China. Tennis has had a lot of action with Coco Gauff winning at the U.S. Open and making history. There&#39;s also this incredible story out of Missouri about a nun whose remains haven&#39;t decomposed - quite mysterious! Besides these stories, our president is still dealing with the political danger surrounding his son Hunter, and Florida governor DeSantis is trying to maintain distance from Donald Trump while managing their state&#39;s Covid response. On the global front, Spain&#39;s top soccer official recently resigned over an inappropriate kiss incident and prosecutors have opened an investigation against him. Meanwhile we have Viktor Bout, aka the &quot;merchant of death,&quot; makinig moves in politics, and a Chinese singer that received backlash for performing at a bombed-out theater in Ukraine. All that in one day!</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘We didn’t wait for anybody to start saving people’s lives.’</h3>
-<sub>By Vivian Yee and Aida Alami</sub>
-<p>When the quake struck a remote village in the Atlas Mountains outside of Marrakesh, it knocked out power and phones, making it impossible to call for help. Now food and water are running very low.  <a href="https://nyti.ms/3EwbTHN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Forges Deeper Ties With Vietnam as China’s Ambition Mounts</h3>
+<sub>By Peter Baker and Katie Rogers</sub>
+<p>Visiting Hanoi, the president cemented a new strategic partnership that puts the memories of the past behind them and focuses on mutual concerns over Beijing’s assertiveness in the region.  <a href="https://nyti.ms/45JKtdv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Scenes From Morocco: A Deadly Earthquake Strikes</h3>
-<sub>By The New York Times</sub>
-<p>The quake centered about 50 miles from Marrakesh turned homes into rubble and left survivors terrified.  <a href="https://nyti.ms/3Ra5tpf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>At the U.S. Open, Coco Gauff and Company Stake Their Claim</h3>
 <sub>By Kurt Streeter</sub>
 <p>Last year’s U.S. Open focused on goodbyes. This year, Gauff, the new singles champion, along with Ben Shelton, Frances Tiafoe and Taylor Fritz, burst through the front door with plans to stay.  <a href="https://nyti.ms/3PwLyPX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Amid U.S. Open Fanfare, U.S.T.A. Fights Questions of Its Handling of Sexual Abuse</h3>
-<sub>By Matthew Futterman</sub>
-<p>Kylie McKenzie accused a U.S.T.A. coach of inappropriately touching her when she was 19. In depositions, the organization has questioned her sexual history.  <a href="https://nyti.ms/3R9FQVA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -110,12 +99,6 @@ There is a lot happening in the world right now. A deadly earthquake recently st
 <p>The Florida governor has recently highlighted his state’s response to the coronavirus in hopes of striking some distance from Donald Trump.  <a href="https://nyti.ms/468qh4P"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>At Iowa’s Biggest Game, Football and Politics Collide</h3>
-<sub>By Anjali Huynh and Nicholas Nehamas</sub>
-<p>Donald J. Trump and Ron DeSantis played off each other at the Iowa-Iowa State game, where the tables appeared to turn on the former president.  <a href="https://nyti.ms/3EzKMeI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-realestate-blue" alt="">
 <h3>How Black Nurses Were Recruited to Staten Island to Fight a Deadly Disease</h3>
 <sub>By John Freeman Gill</sub>
@@ -128,11 +111,29 @@ There is a lot happening in the world right now. A deadly earthquake recently st
 <p>The mayor of Woburn, where hotels are housing 150 migrant families, said the state’s 40-year-old right-to-shelter law “was not meant to cover what we’re seeing now.”  <a href="https://nyti.ms/3sKMFCO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>The Technology Facebook and Google Didn’t Dare Release</h3>
-<sub>By Kashmir Hill</sub>
-<p>Engineers at the tech giants built tools years ago that could put a name to any face but, for once, Silicon Valley did not want to move fast and break things.  <a href="https://nyti.ms/3LcLcLZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Pennsylvania Fugitive Is Seen With New Look, Miles From Previous Search Area</h3>
+<sub>By Joel Wolfram and Campbell Robertson</sub>
+<p>After slipping through a perimeter, Danelo Cavalcante appeared clean shaven in an area 40 minutes away and obtained a van, which the police later found. He remains at large.  <a href="https://nyti.ms/485HvRX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Pennsylvania Fugitive: Why Wasn’t He Deported?</h3>
+<sub>By Miriam Jordan</sub>
+<p>Undocumented immigrants accused of minor crimes are often sent back to their homelands. Danelo Cavalcante, who escaped from a U.S. prison, had been facing a murder charge in Brazil.  <a href="https://nyti.ms/3Ev8rwW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russia’s ‘Merchant of Death’ Is Looking to Forge a New Life in Politics</h3>
+<sub>By Valerie Hopkins</sub>
+<p>The convicted arms trafficker Viktor A. Bout hasn’t much flair for retail politicking, but his celebrity may compensate for that in regional elections.  <a href="https://nyti.ms/3r6Cgki"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Chinese Singer Denounced Over Video at Bombed-Out Ukrainian Theater</h3>
+<sub>By Javier C. Hernández</sub>
+<p>The singer Wang Fang drew criticism after she performed “Katyusha,” a Soviet-era patriotic song, at the ruins of a theater in Mariupol.  <a href="https://nyti.ms/461E7Ww"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 10, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
