@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, September 11, Central Standard Time</p>
 <p>
-It looks like things have been quite busy lately. In Morocco, there was a big earthquake that caused major damage in cities and towns. In Vietnam, President Biden visited and was strengthening ties between the two countries as they have common concerns over Beijing&#39;s assertiveness in the region. In sports, Novak Djokovic won the U.S. Open and gained a 24th Grand Slam Title, and newcomer Coco Gauff also made her claim at the same event. In Spain, their top soccer official resigned due to an unwanted world cup kiss. In the UK, families have been cut off due to a crisis with unsafe lightweight concrete being used in schools. In Pennsylvania, a fugitive has been on the run and appeared with a new look miles away from where he was last seen. It&#39;s unclear yet why he had not been deported when facing a murder charge in Brazil.</p>
+There&#39;s a lot of turmoil around the world right now. An earthquake recently struck Morocco and caused major damage. In Ukraine, there is a war that encompasses many different battlefronts, which is being monitored by the United States for potential aid opportunities. Additionally, the US Justice Department is suing Google for antitrust violations, and Microsoft is facing its own antitrust case from 25 years ago. In Israel, divisions between those who want a larger and more unified country and those who prefer it remain divided have come to the forefront. Lastly, child care providers in New York City are struggling with soaring costs and an Irish fishing village has created a memorial to honor the victims of 9&#x2F;11.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Maps: Where the Earthquake Struck Morocco</h3>
@@ -68,35 +68,59 @@ It looks like things have been quite busy lately. In Morocco, there was a big ea
 <p>See where the earthquake caused major damage in cities and towns in southern Morocco.  <a href="https://nyti.ms/3Z9LF7k"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Forges Deeper Ties With Vietnam as China’s Ambition Mounts</h3>
-<sub>By Peter Baker and Katie Rogers</sub>
-<p>Visiting Hanoi, the president cemented a new strategic partnership that puts the memories of the past behind them and focuses on mutual concerns over Beijing’s assertiveness in the region.  <a href="https://nyti.ms/45JKtdv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Novak Djokovic Wins the U.S. Open and a 24th Grand Slam Title</h3>
-<sub>By Matthew Futterman</sub>
-<p>On a court where he had regularly played the villain, Djokovic soaked in the fan adoration as he beat Daniil Medvedev in straight sets.  <a href="https://nyti.ms/486ze0f"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>At the U.S. Open, Coco Gauff and Company Stake Their Claim</h3>
-<sub>By Kurt Streeter</sub>
-<p>Last year’s U.S. Open focused on goodbyes. This year, Gauff, the new singles champion, along with Ben Shelton, Frances Tiafoe and Taylor Fritz, burst through the front door with plans to stay.  <a href="https://nyti.ms/3PwLyPX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 10, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Theaters of War That Make Up the Fighting in Ukraine</h3>
+<sub>By Marc Santora</sub>
+<p>A “striking fist” in the North, and river crossings in the South. Along a jagged 1,000-mile front, the fighting is multifaceted — and relentless.  <a href="https://nyti.ms/3Rf4Omi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Miracle in Missouri? The Nun Who Put Her Abbey on the Map.</h3>
-<sub>By Ruth Graham and Katie Currid</sub>
-<p>Four years after her death, the body of Sister Wilhelmina Lancaster has not decomposed, her fellow nuns said. Believers come from all over to see for themselves.  <a href="https://nyti.ms/3LbMJ52"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
+<h3>As Ukraine Aid Benefits Their Districts, Some House Republicans Oppose It</h3>
+<sub>By Karoun Demirjian</sub>
+<p>The American push to fund Kyiv’s war effort has created big economic opportunities for Mesquite, Texas, and other cities around the country. Some of their G.O.P. congressmen want to end it.  <a href="https://nyti.ms/3PzRAj4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Microsoft, Google and Antitrust: Similar Legal Theories in a Different Era</h3>
+<sub>By Steve Lohr</sub>
+<p>The government’s antitrust case against Google borrows heavily from the landmark lawsuit against Microsoft 25 years ago. But it lacks the same cultural impact.  <a href="https://nyti.ms/3PIsK0x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Why Is the Justice Dept. Suing Google?</h3>
+<sub>By David McCabe and Nico Grant</sub>
+<p>The government claims that Google illegally used its monopoly power to stifle rivals, while the company says its practices are legal and mainstream.  <a href="https://nyti.ms/48bPxZK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Who’s Who in the Google Monopoly Trial</h3>
+<sub>By Cecilia Kang</sub>
+<p>The federal government’s first monopoly trial this century will feature top tech executives, experienced litigators and an Obama-appointed judge.  <a href="https://nyti.ms/3PzhQKn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Spain’s Top Soccer Official Resigns Over Unwanted World Cup Kiss</h3>
-<sub>By Michael Wolgelenter and Rachel Chaundler</sub>
-<p>Pressure had been building on Luis Rubiales, with prosecutors opening an investigation, his soccer federation calling for him to step down and FIFA suspending him.  <a href="https://nyti.ms/468BtOT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 10, Central Standard Time</sub></sub>
+<h3>‘Wounds Will Need to Be Healed’: Collisions in a Fractured Israel</h3>
+<sub>By Patrick Kingsley and Moises Saman</sub>
+<p>Israelis are deeply split about what kind of country Israel should be. Four encounters at four recent protests show how that division plays out in daily life.  <a href="https://nyti.ms/45GADJc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>As Smartphone Industry Sputters, the iPhone Expands Its Dominance</h3>
+<sub>By Tripp Mickle</sub>
+<p>Apple, which is set to release a new iPhone on Tuesday, has increased its share of smartphone sales by converting Android customers and adding teenagers.  <a href="https://nyti.ms/3RahcUO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>How Child Care in New York City Became Unaffordable for Nearly Everyone</h3>
+<sub>By Eliza Shapiro, Asmaa Elkeurti and Maansi Srivastava</sub>
+<p>Even upper-middle-class New Yorkers are struggling with the soaring costs of child care. So are the workers they pay.  <a href="https://nyti.ms/3LmWayr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘It Is Evening, Isn’t It?’ An 80-Year-Old President’s Whirlwind Trip.</h3>
+<sub>By Katie Rogers</sub>
+<p>President Biden went to Asia with a diplomatic to-do list. But he also wanted to show he remains up to the rigors of globe-trotting statesmanship.  <a href="https://nyti.ms/488YXoC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Families Cut Adrift by Concrete Crisis in U.K. Schools</h3>
@@ -104,35 +128,11 @@ It looks like things have been quite busy lately. In Morocco, there was a big ea
 <p>More than 100 schools have had to shut or close areas off because of dangerous lightweight concrete, leaving many parents, especially those whose children have special needs, scrambling for care.  <a href="https://nyti.ms/3EyH0m4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>President Biden Keeps Hunter Close Despite the Political Peril</h3>
-<sub>By Katie Rogers</sub>
-<p>The possibility of a federal indictment of Hunter Biden stunned the president. Yet the bond between him and his only surviving son is ironclad.  <a href="https://nyti.ms/3sJuJsd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Covid Hero or ‘Lockdown Ron’? DeSantis and Trump Renew Pandemic Politics</h3>
-<sub>By Nicholas Nehamas</sub>
-<p>The Florida governor has recently highlighted his state’s response to the coronavirus in hopes of striking some distance from Donald Trump.  <a href="https://nyti.ms/468qh4P"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-realestate-blue" alt="">
-<h3>How Black Nurses Were Recruited to Staten Island to Fight a Deadly Disease</h3>
-<sub>By John Freeman Gill</sub>
-<p>Many old buildings at a New York City hospital are in ruins, but it played a key role in the battle against tuberculosis, which killed 5.6 million people in the U.S. in the first half of the 20th century.  <a href="https://nyti.ms/464qBkK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Pennsylvania Fugitive Is Seen With New Look, Miles From Previous Search Area</h3>
-<sub>By Joel Wolfram and Campbell Robertson</sub>
-<p>After slipping through a perimeter, Danelo Cavalcante appeared clean shaven in an area 40 minutes away and obtained a van, which the police later found. He remains at large.  <a href="https://nyti.ms/485HvRX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Pennsylvania Fugitive: Why Wasn’t He Deported?</h3>
-<sub>By Miriam Jordan</sub>
-<p>Undocumented immigrants accused of minor crimes are often sent back to their homelands. Danelo Cavalcante, who escaped from a U.S. prison, had been facing a murder charge in Brazil.  <a href="https://nyti.ms/3Ev8rwW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>The 343 Reasons a Small Town in Ireland Mourns on Sept. 11</h3>
+<sub>By Claire Fahy</sub>
+<p>Kinsale, an Irish fishing village, is home to a 9&#x2F;11 memorial honoring the firefighters who were killed in New York that day.  <a href="https://nyti.ms/460EbFU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 11, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
