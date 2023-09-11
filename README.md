@@ -58,16 +58,10 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Sunday, September 10, Central Standard Time</p>
+<p>It is Monday, September 11, Central Standard Time</p>
 <p>
-There has been a powerful earthquake in Morocco, leading to major destruction in cities and towns in its south. President Biden is forging closer ties with Vietnam as China&#39;s ambition mounts. Novak Djokovic won the U.S. Open and his 24thgrand slam title, and Coco Gauff and other younger players have staked their claim on the court. In Spain, a top soccer official resigned over unwarranted misconduct. Here at home, President Biden is still keeping Hunter close despite the political peril, and Florida Governor Ron DeSantis is highlighting his state&#39;s response to the coronavirus pandemic. In Massachusetts, migrant families are being housed in hotels, causing concern among many towns. Pennsylvania is searching for a fugitive who has changed his appearance and fled to an area 40 minutes away from the previous search area. Finally, a New York City hospital from the early 20th century has been revisited to learn more about its role in fighting a deadly disease.</p>
+There have been some pretty big stories in the news lately. In Morocco, a strong earthquake has caused major damage to cities and towns in the south. In Vietnam, President Biden is visiting to strengthen ties with the country while China&#39;s presence in the region is rising. Novak Djokovic recently won the U.S. Open and a 24th Grand Slam Title, while Coco Gauff and other rising stars in tennis staked their claim at the tournament. Sister Wilhelmina Lancaster of Missouri was viewed as a miracle when her body didn&#39;t decompose right after her death. Meanwhile, Spain&#39;s top soccer official resigned over an unwanted world cup kiss, and families in the U.K. had to cut adrift due to a concrete crisis in their schools. Even closer to home here in the U.S., President Biden is still standing by his son Hunter despite political peril, Florida governor DeSantis and Donald Trump are once again discussing Covid restrictions, Black nurses had to be recruited to Staten Island during a deadly disease outbreak, and an undocumented immigrant who escaped from prison called Danelo Cavalcante was seen miles away from where he was being searched for with a new look but not deported despite facing a murder charge back in Brazil.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Quake-Battered Mountains, Many Moroccans Must Fend for Themselves</h3>
-<sub>By Vivian Yee, Aida Alami and Jenny Gross</sub>
-<p>In a critical period for search-and-rescue teams, the Moroccan government has given few updates about its response and the scope of the destruction.  <a href="https://nyti.ms/3Pvwv9l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 10, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Maps: Where the Earthquake Struck Morocco</h3>
 <sub>By Lauren Leatherby, Marco Hernandez, Scott Reinhard, Elena Shao, Karen Yourish and Christine Zhang</sub>
@@ -104,6 +98,12 @@ There has been a powerful earthquake in Morocco, leading to major destruction in
 <p>Pressure had been building on Luis Rubiales, with prosecutors opening an investigation, his soccer federation calling for him to step down and FIFA suspending him.  <a href="https://nyti.ms/468BtOT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 10, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Families Cut Adrift by Concrete Crisis in U.K. Schools</h3>
+<sub>By Megan Specia</sub>
+<p>More than 100 schools have had to shut or close areas off because of dangerous lightweight concrete, leaving many parents, especially those whose children have special needs, scrambling for care.  <a href="https://nyti.ms/3EyH0m4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 10, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>President Biden Keeps Hunter Close Despite the Political Peril</h3>
 <sub>By Katie Rogers</sub>
@@ -123,16 +123,16 @@ There has been a powerful earthquake in Morocco, leading to major destruction in
 <sub><sub>Friday, September 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>As Migrants Are Placed Around Massachusetts, Towns Are Welcoming but Worried</h3>
-<sub>By Jenna Russell and Sophie Park</sub>
-<p>The mayor of Woburn, where hotels are housing 150 migrant families, said the state’s 40-year-old right-to-shelter law “was not meant to cover what we’re seeing now.”  <a href="https://nyti.ms/3sKMFCO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Pennsylvania Fugitive Is Seen With New Look, Miles From Previous Search Area</h3>
 <sub>By Joel Wolfram and Campbell Robertson</sub>
 <p>After slipping through a perimeter, Danelo Cavalcante appeared clean shaven in an area 40 minutes away and obtained a van, which the police later found. He remains at large.  <a href="https://nyti.ms/485HvRX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Pennsylvania Fugitive: Why Wasn’t He Deported?</h3>
+<sub>By Miriam Jordan</sub>
+<p>Undocumented immigrants accused of minor crimes are often sent back to their homelands. Danelo Cavalcante, who escaped from a U.S. prison, had been facing a murder charge in Brazil.  <a href="https://nyti.ms/3Ev8rwW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
