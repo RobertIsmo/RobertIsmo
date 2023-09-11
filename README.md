@@ -60,13 +60,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, September 10, Central Standard Time</p>
 <p>
-To my friend: 
-There is a lot of news happening around the world right now that&#39;s worth catching up on. In the US, President Biden just forged a new strategic partnership with Vietnam in light of increasing regional competition from China. Tennis has had a lot of action with Coco Gauff winning at the U.S. Open and making history. There&#39;s also this incredible story out of Missouri about a nun whose remains haven&#39;t decomposed - quite mysterious! Besides these stories, our president is still dealing with the political danger surrounding his son Hunter, and Florida governor DeSantis is trying to maintain distance from Donald Trump while managing their state&#39;s Covid response. On the global front, Spain&#39;s top soccer official recently resigned over an inappropriate kiss incident and prosecutors have opened an investigation against him. Meanwhile we have Viktor Bout, aka the &quot;merchant of death,&quot; makinig moves in politics, and a Chinese singer that received backlash for performing at a bombed-out theater in Ukraine. All that in one day!</p>
+There has been a powerful earthquake in Morocco, leading to major destruction in cities and towns in its south. President Biden is forging closer ties with Vietnam as China&#39;s ambition mounts. Novak Djokovic won the U.S. Open and his 24thgrand slam title, and Coco Gauff and other younger players have staked their claim on the court. In Spain, a top soccer official resigned over unwarranted misconduct. Here at home, President Biden is still keeping Hunter close despite the political peril, and Florida Governor Ron DeSantis is highlighting his state&#39;s response to the coronavirus pandemic. In Massachusetts, migrant families are being housed in hotels, causing concern among many towns. Pennsylvania is searching for a fugitive who has changed his appearance and fled to an area 40 minutes away from the previous search area. Finally, a New York City hospital from the early 20th century has been revisited to learn more about its role in fighting a deadly disease.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Quake-Battered Mountains, Many Moroccans Must Fend for Themselves</h3>
+<sub>By Vivian Yee, Aida Alami and Jenny Gross</sub>
+<p>In a critical period for search-and-rescue teams, the Moroccan government has given few updates about its response and the scope of the destruction.  <a href="https://nyti.ms/3Pvwv9l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Maps: Where the Earthquake Struck Morocco</h3>
+<sub>By Lauren Leatherby, Marco Hernandez, Scott Reinhard, Elena Shao, Karen Yourish and Christine Zhang</sub>
+<p>See where the earthquake caused major damage in cities and towns in southern Morocco.  <a href="https://nyti.ms/3Z9LF7k"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Forges Deeper Ties With Vietnam as China’s Ambition Mounts</h3>
 <sub>By Peter Baker and Katie Rogers</sub>
 <p>Visiting Hanoi, the president cemented a new strategic partnership that puts the memories of the past behind them and focuses on mutual concerns over Beijing’s assertiveness in the region.  <a href="https://nyti.ms/45JKtdv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Novak Djokovic Wins the U.S. Open and a 24th Grand Slam Title</h3>
+<sub>By Matthew Futterman</sub>
+<p>On a court where he had regularly played the villain, Djokovic soaked in the fan adoration as he beat Daniil Medvedev in straight sets.  <a href="https://nyti.ms/486ze0f"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
@@ -115,24 +132,6 @@ There is a lot of news happening around the world right now that&#39;s worth cat
 <h3>Pennsylvania Fugitive Is Seen With New Look, Miles From Previous Search Area</h3>
 <sub>By Joel Wolfram and Campbell Robertson</sub>
 <p>After slipping through a perimeter, Danelo Cavalcante appeared clean shaven in an area 40 minutes away and obtained a van, which the police later found. He remains at large.  <a href="https://nyti.ms/485HvRX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Pennsylvania Fugitive: Why Wasn’t He Deported?</h3>
-<sub>By Miriam Jordan</sub>
-<p>Undocumented immigrants accused of minor crimes are often sent back to their homelands. Danelo Cavalcante, who escaped from a U.S. prison, had been facing a murder charge in Brazil.  <a href="https://nyti.ms/3Ev8rwW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia’s ‘Merchant of Death’ Is Looking to Forge a New Life in Politics</h3>
-<sub>By Valerie Hopkins</sub>
-<p>The convicted arms trafficker Viktor A. Bout hasn’t much flair for retail politicking, but his celebrity may compensate for that in regional elections.  <a href="https://nyti.ms/3r6Cgki"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Chinese Singer Denounced Over Video at Bombed-Out Ukrainian Theater</h3>
-<sub>By Javier C. Hernández</sub>
-<p>The singer Wang Fang drew criticism after she performed “Katyusha,” a Soviet-era patriotic song, at the ruins of a theater in Mariupol.  <a href="https://nyti.ms/461E7Ww"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 10, Central Standard Time</sub></sub>
 <hr/>
 </ol>
