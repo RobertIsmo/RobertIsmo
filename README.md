@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, September 11, Central Standard Time</p>
 <p>
-There&#39;s a lot of turmoil around the world right now. An earthquake recently struck Morocco and caused major damage. In Ukraine, there is a war that encompasses many different battlefronts, which is being monitored by the United States for potential aid opportunities. Additionally, the US Justice Department is suing Google for antitrust violations, and Microsoft is facing its own antitrust case from 25 years ago. In Israel, divisions between those who want a larger and more unified country and those who prefer it remain divided have come to the forefront. Lastly, child care providers in New York City are struggling with soaring costs and an Irish fishing village has created a memorial to honor the victims of 9&#x2F;11.</p>
+There&#39;s a lot of turbulence in many parts of the world. In Morocco, there has been an earthquake that caused damage in cities and towns in the South. Ukraine remains in conflict, with ongoing fighting along a 1,000-mile front. There are also some tensions in the US, including government opposition to aid for Ukraine and antitrust cases against tech giants like Google. In the UK, over 100 schools have had to close due to dangerous lightweight concrete. And President Biden recently visited Asia with a diplomatic to-do list.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Maps: Where the Earthquake Struck Morocco</h3>
@@ -86,16 +86,10 @@ There&#39;s a lot of turmoil around the world right now. An earthquake recently 
 <p>The government’s antitrust case against Google borrows heavily from the landmark lawsuit against Microsoft 25 years ago. But it lacks the same cultural impact.  <a href="https://nyti.ms/3PIsK0x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Why Is the Justice Dept. Suing Google?</h3>
-<sub>By David McCabe and Nico Grant</sub>
-<p>The government claims that Google illegally used its monopoly power to stifle rivals, while the company says its practices are legal and mainstream.  <a href="https://nyti.ms/48bPxZK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Who’s Who in the Google Monopoly Trial</h3>
-<sub>By Cecilia Kang</sub>
-<p>The federal government’s first monopoly trial this century will feature top tech executives, experienced litigators and an Obama-appointed judge.  <a href="https://nyti.ms/3PzhQKn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>How Soaring Child Care Costs Are Crushing New Yorkers</h3>
+<sub>By Eliza Shapiro, Asmaa Elkeurti and Maansi Srivastava</sub>
+<p>Even upper-middle-class New Yorkers are struggling to pay for child care. The workers who provide it are struggling too.  <a href="https://nyti.ms/3LmWayr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -111,9 +105,21 @@ There&#39;s a lot of turmoil around the world right now. An earthquake recently 
 <sub><sub>Monday, September 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>How Child Care in New York City Became Unaffordable for Nearly Everyone</h3>
-<sub>By Eliza Shapiro, Asmaa Elkeurti and Maansi Srivastava</sub>
-<p>Even upper-middle-class New Yorkers are struggling with the soaring costs of child care. So are the workers they pay.  <a href="https://nyti.ms/3LmWayr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Mourners Gather at Ground Zero to Remember 9&#x2F;11 Victims</h3>
+<sub>By Claire Fahy</sub>
+<p>Relatives of those who died went to Lower Manhattan to mark the 22nd anniversary of the terrorist attack, where they were joined by governors, senators and the vice president.  <a href="https://nyti.ms/463of5Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>The 343 Reasons a Small Town in Ireland Mourns on Sept. 11</h3>
+<sub>By Claire Fahy</sub>
+<p>Kinsale, an Irish fishing village, is home to a 9&#x2F;11 memorial honoring the firefighters who were killed in New York that day.  <a href="https://nyti.ms/460EbFU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>For Biden, Who Neither Fought in Vietnam Nor Protested War, Trip Offers Opportunity</h3>
+<sub>By Peter Baker</sub>
+<p>While others of his generation were scarred by the conflict, President Biden forged a strategic partnership on his first visit to the country, framing it in pragmatic terms.  <a href="https://nyti.ms/3ZaogTp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -127,12 +133,6 @@ There&#39;s a lot of turmoil around the world right now. An earthquake recently 
 <sub>By Megan Specia</sub>
 <p>More than 100 schools have had to shut or close areas off because of dangerous lightweight concrete, leaving many parents, especially those whose children have special needs, scrambling for care.  <a href="https://nyti.ms/3EyH0m4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>The 343 Reasons a Small Town in Ireland Mourns on Sept. 11</h3>
-<sub>By Claire Fahy</sub>
-<p>Kinsale, an Irish fishing village, is home to a 9&#x2F;11 memorial honoring the firefighters who were killed in New York that day.  <a href="https://nyti.ms/460EbFU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 11, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
