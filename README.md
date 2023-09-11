@@ -60,13 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, September 11, Central Standard Time</p>
 <p>
-There&#39;s a lot of turbulence in many parts of the world. In Morocco, there has been an earthquake that caused damage in cities and towns in the South. Ukraine remains in conflict, with ongoing fighting along a 1,000-mile front. There are also some tensions in the US, including government opposition to aid for Ukraine and antitrust cases against tech giants like Google. In the UK, over 100 schools have had to close due to dangerous lightweight concrete. And President Biden recently visited Asia with a diplomatic to-do list.</p>
+There is a lot happening in the world right now. Putin had a meeting with North Korean leader Kim Jong-Un that could lead to an improved relationship between the two countries. At the same time, there is ongoing fighting in Ukraine and an earthquake just struck Morocco. In the U.S., there are two new Covid-19 vaccines that have been approved and conspiracy theorists are capitalizing on the recent increase in cases of the virus. New Yorkers have seen a surge in child care costs, so much so that even upper-middle-class people have difficulty affording it, and Republicans are hoping to take control of Virginia&#39;s state government this fall. Apple is set to release a new iPhone soon, meaning that their share of smartphone sales will increase even more. On top of all that, today marks 22 years since 9&#x2F;11 and people have paid their respects at Ground Zero in NYC.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Maps: Where the Earthquake Struck Morocco</h3>
-<sub>By Lauren Leatherby, Marco Hernandez, Scott Reinhard, Elena Shao, Karen Yourish and Christine Zhang</sub>
-<p>See where the earthquake caused major damage in cities and towns in southern Morocco.  <a href="https://nyti.ms/3Z9LF7k"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
+<h3>Putin’s meeting with Kim could herald a new era of cooperation.</h3>
+<sub>By Paul Sonne</sub>
+<p>  <a href="https://nyti.ms/48bA7Vd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Theaters of War That Make Up the Fighting in Ukraine</h3>
@@ -74,11 +74,11 @@ There&#39;s a lot of turbulence in many parts of the world. In Morocco, there ha
 <p>A “striking fist” in the North, and river crossings in the South. Along a jagged 1,000-mile front, the fighting is multifaceted — and relentless.  <a href="https://nyti.ms/3Rf4Omi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>As Ukraine Aid Benefits Their Districts, Some House Republicans Oppose It</h3>
-<sub>By Karoun Demirjian</sub>
-<p>The American push to fund Kyiv’s war effort has created big economic opportunities for Mesquite, Texas, and other cities around the country. Some of their G.O.P. congressmen want to end it.  <a href="https://nyti.ms/3PzRAj4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 11, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Maps: Where the Earthquake Struck Morocco</h3>
+<sub>By Lauren Leatherby, Marco Hernandez, Scott Reinhard, Elena Shao, Karen Yourish and Christine Zhang</sub>
+<p>See where the earthquake caused major damage in cities and towns in southern Morocco.  <a href="https://nyti.ms/3Z9LF7k"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Microsoft, Google and Antitrust: Similar Legal Theories in a Different Era</h3>
@@ -86,53 +86,53 @@ There&#39;s a lot of turbulence in many parts of the world. In Morocco, there ha
 <p>The government’s antitrust case against Google borrows heavily from the landmark lawsuit against Microsoft 25 years ago. But it lacks the same cultural impact.  <a href="https://nyti.ms/3PIsK0x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 11, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>F.D.A. Approves New Covid Shots</h3>
+<sub>By Christina Jewett and Noah Weiland</sub>
+<p>A nationwide rollout of the vaccines by Pfizer and Moderna should begin later this week, after the C.D.C. considers guidelines to prepare Americans for this season when infections usually tick upward.  <a href="https://nyti.ms/3PvIbZA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>As Covid-19 Cases Tick Higher, Conspiracy Theorists Stoke New Fears</h3>
+<sub>By Stuart A. Thompson</sub>
+<p>A late-summer rise in Covid-19 infections is bringing with it a wave of conspiracy theories.  <a href="https://nyti.ms/3rej8Rp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 11, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>How Soaring Child Care Costs Are Crushing New Yorkers</h3>
 <sub>By Eliza Shapiro, Asmaa Elkeurti and Maansi Srivastava</sub>
-<p>Even upper-middle-class New Yorkers are struggling to pay for child care. The workers who provide it are struggling too.  <a href="https://nyti.ms/3LmWayr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘Wounds Will Need to Be Healed’: Collisions in a Fractured Israel</h3>
-<sub>By Patrick Kingsley and Moises Saman</sub>
-<p>Israelis are deeply split about what kind of country Israel should be. Four encounters at four recent protests show how that division plays out in daily life.  <a href="https://nyti.ms/45GADJc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>As Smartphone Industry Sputters, the iPhone Expands Its Dominance</h3>
-<sub>By Tripp Mickle</sub>
-<p>Apple, which is set to release a new iPhone on Tuesday, has increased its share of smartphone sales by converting Android customers and adding teenagers.  <a href="https://nyti.ms/3RahcUO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Mourners Gather at Ground Zero to Remember 9&#x2F;11 Victims</h3>
-<sub>By Claire Fahy</sub>
-<p>Relatives of those who died went to Lower Manhattan to mark the 22nd anniversary of the terrorist attack, where they were joined by governors, senators and the vice president.  <a href="https://nyti.ms/463of5Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>The 343 Reasons a Small Town in Ireland Mourns on Sept. 11</h3>
-<sub>By Claire Fahy</sub>
-<p>Kinsale, an Irish fishing village, is home to a 9&#x2F;11 memorial honoring the firefighters who were killed in New York that day.  <a href="https://nyti.ms/460EbFU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>As the city’s affordability crisis worsens for nearly everyone, even upper-middle-class New Yorkers are struggling to pay for child care. The workers who provide it are struggling too.  <a href="https://nyti.ms/3LmWayr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>For Biden, Who Neither Fought in Vietnam Nor Protested War, Trip Offers Opportunity</h3>
-<sub>By Peter Baker</sub>
-<p>While others of his generation were scarred by the conflict, President Biden forged a strategic partnership on his first visit to the country, framing it in pragmatic terms.  <a href="https://nyti.ms/3ZaogTp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>‘Virginia Is the Test Case’: Youngkin Pushes for G.O.P. Takeover This Fall</h3>
+<sub>By Trip Gabriel</sub>
+<p>Glenn Youngkin, a popular Republican governor with national ambitions, is trying to help his party take full control of state government in crucial legislative races this year.  <a href="https://nyti.ms/469rbxZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘It Is Evening, Isn’t It?’ An 80-Year-Old President’s Whirlwind Trip.</h3>
-<sub>By Katie Rogers</sub>
-<p>President Biden went to Asia with a diplomatic to-do list. But he also wanted to show he remains up to the rigors of globe-trotting statesmanship.  <a href="https://nyti.ms/488YXoC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>Trump’s Electoral College Edge Seems to Be Fading</h3>
+<sub>By Nate Cohn and Alicia Parlapiano</sub>
+<p>Democrats appear resilient in the battleground states despite a nationwide loss of nonwhite support. New issues may be one reason.  <a href="https://nyti.ms/3Zei0db"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Families Cut Adrift by Concrete Crisis in U.K. Schools</h3>
-<sub>By Megan Specia</sub>
-<p>More than 100 schools have had to shut or close areas off because of dangerous lightweight concrete, leaving many parents, especially those whose children have special needs, scrambling for care.  <a href="https://nyti.ms/3EyH0m4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 10, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>As Smartphone Industry Sputters, the iPhone Expands Its Dominance</h3>
+<sub>By Tripp Mickle</sub>
+<p>Apple, which is set to release a new iPhone on Tuesday, has increased its share of smartphone sales by converting Android customers and adding teenagers.  <a href="https://nyti.ms/3Leo6Ev"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>A Diver Feared the Titan Sub, but Couldn’t Resist the Titanic</h3>
+<sub>By William J. Broad and Catherine Porter</sub>
+<p>Paul-Henri Nargeolet mixed decades of passion for the ship of dreams with repeated dives and recoveries meant to save what remained of the famous ocean liner.  <a href="https://nyti.ms/3LihbKM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Somber 9&#x2F;11 Ceremony Draws Mourners to Ground Zero</h3>
+<sub>By Claire Fahy</sub>
+<p>Relatives of those who died went to Lower Manhattan to mark the 22nd anniversary of the terrorist attack, where they were joined by governors, senators and the vice president.  <a href="https://nyti.ms/463of5Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 11, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
