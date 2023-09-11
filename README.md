@@ -60,36 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, September 11, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. Putin had a meeting with North Korean leader Kim Jong-Un that could lead to an improved relationship between the two countries. At the same time, there is ongoing fighting in Ukraine and an earthquake just struck Morocco. In the U.S., there are two new Covid-19 vaccines that have been approved and conspiracy theorists are capitalizing on the recent increase in cases of the virus. New Yorkers have seen a surge in child care costs, so much so that even upper-middle-class people have difficulty affording it, and Republicans are hoping to take control of Virginia&#39;s state government this fall. Apple is set to release a new iPhone soon, meaning that their share of smartphone sales will increase even more. On top of all that, today marks 22 years since 9&#x2F;11 and people have paid their respects at Ground Zero in NYC.</p>
+Right now, the US is preparing to roll out two new Covid vaccinations developed by Pfizer and Moderna, while conspiracy theorists are stoking fear about the increasing infection levels. In Morocco, aid is being provided to those affected by a recent earthquake, but there are residents desperate for basic supplies who feel they&#39;ve been abandoned. North Korea has something Russia needs, and new wrinkle in their relationship as Kim Jong-un may get advanced technology and food aid in return. A fugitive from Brazil escaped from prison near Philadelphia in 2017 and is still at large. In New York City, the cost of child care has become incredibly expensive for even upper-middle-class residents while providers of the care face financial strain too. In Hawaii, China has been propagating misinformation using advanced artificial intelligence tactics. Republicans are trying to take control of Virginia&#39;s state government with the ambition of Glenn Youngkin who wants to be governor on a national level. Finally, the 22nd anniversary of 9&#x2F;11 was marked by a somber ceremony in Manhattan that was attended by relatives of those who died, governors, senators and the vice president.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Putin’s meeting with Kim could herald a new era of cooperation.</h3>
-<sub>By Paul Sonne</sub>
-<p>  <a href="https://nyti.ms/48bA7Vd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Theaters of War That Make Up the Fighting in Ukraine</h3>
-<sub>By Marc Santora</sub>
-<p>A “striking fist” in the North, and river crossings in the South. Along a jagged 1,000-mile front, the fighting is multifaceted — and relentless.  <a href="https://nyti.ms/3Rf4Omi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Maps: Where the Earthquake Struck Morocco</h3>
-<sub>By Lauren Leatherby, Marco Hernandez, Scott Reinhard, Elena Shao, Karen Yourish and Christine Zhang</sub>
-<p>See where the earthquake caused major damage in cities and towns in southern Morocco.  <a href="https://nyti.ms/3Z9LF7k"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Microsoft, Google and Antitrust: Similar Legal Theories in a Different Era</h3>
-<sub>By Steve Lohr</sub>
-<p>The government’s antitrust case against Google borrows heavily from the landmark lawsuit against Microsoft 25 years ago. But it lacks the same cultural impact.  <a href="https://nyti.ms/3PIsK0x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 11, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>F.D.A. Approves New Covid Shots</h3>
 <sub>By Christina Jewett and Noah Weiland</sub>
 <p>A nationwide rollout of the vaccines by Pfizer and Moderna should begin later this week, after the C.D.C. considers guidelines to prepare Americans for this season when infections usually tick upward.  <a href="https://nyti.ms/3PvIbZA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>What to Know About the New Covid Booster Shots</h3>
+<sub>By Knvul Sheikh</sub>
+<p>The updated vaccines could become available within a few days.  <a href="https://nyti.ms/44ISnSR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -98,10 +80,34 @@ There is a lot happening in the world right now. Putin had a meeting with North 
 <p>A late-summer rise in Covid-19 infections is bringing with it a wave of conspiracy theories.  <a href="https://nyti.ms/3rej8Rp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 11, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Aid Trickles In to Moroccans Stranded by Quake, but Desperation Mounts</h3>
+<sub>By Vivian Yee and Aida Alami</sub>
+<p>The government defended its response to the earthquake as robust, but some residents desperate for basic supplies say they feel abandoned.  <a href="https://nyti.ms/3PAGgms"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Kim Jong-un Has Something Putin Needs, and That’s a New Wrinkle</h3>
+<sub>By Paul Sonne and Valeriya Safronova</sub>
+<p>Kim Jong-un has ammunition stocks that Russia covets as it continues its war in Ukraine, and North Korea may get advanced technology and badly needed food aid in return.  <a href="https://nyti.ms/3RgCnEw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Escapee Had Been a Fugitive Before Pennsylvania Jailbreak</h3>
+<sub>By Ana Ionova</sub>
+<p>The subject of the manhunt outside Philadelphia disappeared into the wilderness in 2017 after an arrest warrant was issued in connection with a murder in northern Brazil.  <a href="https://nyti.ms/3LgJl8I"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 11, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>How Soaring Child Care Costs Are Crushing New Yorkers</h3>
 <sub>By Eliza Shapiro, Asmaa Elkeurti and Maansi Srivastava</sub>
 <p>As the city’s affordability crisis worsens for nearly everyone, even upper-middle-class New Yorkers are struggling to pay for child care. The workers who provide it are struggling too.  <a href="https://nyti.ms/3LmWayr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>China Sows Disinformation About Hawaii Fires Using New Techniques</h3>
+<sub>By David E. Sanger and Steven Lee Myers</sub>
+<p>Beijing’s influence campaign using artificial intelligence is a rapid change in tactics, researchers from Microsoft and other organizations say.  <a href="https://nyti.ms/488uXt7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -114,12 +120,6 @@ There is a lot happening in the world right now. Putin had a meeting with North 
 <h3>Trump’s Electoral College Edge Seems to Be Fading</h3>
 <sub>By Nate Cohn and Alicia Parlapiano</sub>
 <p>Democrats appear resilient in the battleground states despite a nationwide loss of nonwhite support. New issues may be one reason.  <a href="https://nyti.ms/3Zei0db"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>As Smartphone Industry Sputters, the iPhone Expands Its Dominance</h3>
-<sub>By Tripp Mickle</sub>
-<p>Apple, which is set to release a new iPhone on Tuesday, has increased its share of smartphone sales by converting Android customers and adding teenagers.  <a href="https://nyti.ms/3Leo6Ev"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
