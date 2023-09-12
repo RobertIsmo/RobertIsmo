@@ -60,11 +60,17 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, September 11, Central Standard Time</p>
 <p>
-A lot is happening in the world at the moment. In Morocco, people are still reeling from an earthquake and there’s been a slow response in providing aid to those stranded. Here in the US, new Covid-19 booster shots have been approved by the FDA and conspiracy theorists are making people more afraid than they need to be. Kim Jong-Un of North Korea is also making headlines. He&#39;s traveling to Russia to meet with President Putin and is asking for advanced technology and food aid. Meanwhile, China is spreading disinformation about Hawaii fires using artificial intelligence and there’s a debate in Britain over its relations with Beijing after the arrest of a suspected spy. Finally closer to home, Glenn Youngkin is trying to get Republicans a majority in state government during this year’s legislative races in Virginia.</p>
+There is a lot going on in the world right now. A powerful earthquake in Morocco left people desperate for help and aid. Luckily, vaccines for Covid-19 from Moderna and Pfizer have been approved by the FDA, with a nationwide rollout likely soon. But some conspiracy theorists are stoking new fears about Covid-19 cases rising again. 
+
+In the US, President Biden&#39;s news conference during his visit to Vietnam has ignited his opponents. Meanwhile, China is reportedly using new techniques to sow disinformation about Hawaii fires. In Britain, the arrest of a suspected spy has fueled calls for a tougher stance on China. 
+
+On the international scene, Kim Jong-un is making waves by heading to Russia on board his slow yet bulletproof mystery train which is full of wine! He may be offering Russian President Putin ammunition stocks in exchange for advanced technology and food aid. Closer to home, the manhunt for an escapee in Philadelphia has led back to his previous fugitive status in 2017 when he sought for a murder charge against him in Northern Brazil. 
+
+Trump’s advantage in the Electoral College may be fading too as Democrats remain resilient in battleground states despite nationwide loss of nonwhite support - most likely due to changing political issues.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Fury as Quake Help Finally Arrives: ‘How Many Hours Has It Been?’</h3>
-<sub>By Vivian Yee, Aida Alami and Yassine Oulhiq</sub>
+<sub>By Vivian Yee, Aida Alami, Yassine Oulhiq and Sergey Ponomarev</sub>
 <p>The people of a village high in the Atlas Mountains erupted in anger when the Moroccan government left them alone for three days to dig out and bury their loved ones.  <a href="https://nyti.ms/48dBym0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 11, Central Standard Time</sub></sub>
 <hr/>
@@ -92,16 +98,10 @@ A lot is happening in the world at the moment. In Morocco, people are still reel
 <p>A late-summer rise in Covid-19 infections is bringing with it a wave of conspiracy theories.  <a href="https://nyti.ms/3rej8Rp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Kim Jong-un Has Something Putin Needs, and That’s a New Wrinkle</h3>
-<sub>By Paul Sonne and Valeriya Safronova</sub>
-<p>Kim Jong-un has ammunition stocks that Russia covets as it continues its war in Ukraine, and North Korea may get advanced technology and badly needed food aid in return.  <a href="https://nyti.ms/3RgCnEw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Bulletproof, Slow and Full of Wine: Kim Jong-un’s Mystery Train</h3>
-<sub>By Choe Sang-Hun and Russell Goldman</sub>
-<p>As he heads to Russia to meet with President Vladimir Putin, the North Korean leader continues his family’s history of traveling solely by rail.  <a href="https://nyti.ms/3PcrbpZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden’s News Conference in Vietnam Ignites His Opponents</h3>
+<sub>By Michael D. Shear</sub>
+<p>The president’s top aides believe that stories about the president’s age and health are stoked by his enemies in an effort to undermine his accomplishments.  <a href="https://nyti.ms/3P62KdC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -116,10 +116,16 @@ A lot is happening in the world at the moment. In Morocco, people are still reel
 <p>Allegations that a researcher in Parliament was a foreign agent have intensified a fiery debate over Britain’s relations with Beijing.  <a href="https://nyti.ms/3PcwIgc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden’s News Conference in Vietnam Ignites His Opponents</h3>
-<sub>By Michael D. Shear</sub>
-<p>The president’s top aides believe that stories about the president’s age and health are stoked by his enemies in an effort to undermine his accomplishments.  <a href="https://nyti.ms/3P62KdC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Kim Jong-un Has Something Putin Needs, and That’s a New Wrinkle</h3>
+<sub>By Paul Sonne and Valeriya Safronova</sub>
+<p>Kim Jong-un has ammunition stocks that Russia covets as it continues its war in Ukraine, and North Korea may get advanced technology and badly needed food aid in return.  <a href="https://nyti.ms/3RgCnEw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Bulletproof, Slow and Full of Wine: Kim Jong-un’s Mystery Train</h3>
+<sub>By Choe Sang-Hun and Russell Goldman</sub>
+<p>Heading to Russia to meet with President Vladimir Putin, the North Korean leader chose to travel by rail, on a train with some unusual features.  <a href="https://nyti.ms/3PcrbpZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -128,10 +134,10 @@ A lot is happening in the world at the moment. In Morocco, people are still reel
 <p>The subject of the manhunt outside Philadelphia disappeared into the wilderness in 2017 after an arrest warrant was issued in connection with a murder in northern Brazil.  <a href="https://nyti.ms/3LgJl8I"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘Virginia Is the Test Case’: Youngkin Pushes for G.O.P. Takeover This Fall</h3>
-<sub>By Trip Gabriel</sub>
-<p>Glenn Youngkin, a popular Republican governor with national ambitions, is trying to help his party take full control of state government in crucial legislative races this year.  <a href="https://nyti.ms/469rbxZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>Trump’s Electoral College Edge Seems to Be Fading</h3>
+<sub>By Nate Cohn and Alicia Parlapiano</sub>
+<p>Democrats appear resilient in the battleground states despite a nationwide loss of nonwhite support. New issues may be one reason.  <a href="https://nyti.ms/3Zei0db"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 11, Central Standard Time</sub></sub>
 <hr/>
 </ol>
