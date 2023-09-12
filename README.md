@@ -60,37 +60,41 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, September 12, Central Standard Time</p>
 <p>
-There is a big flood disaster happening in Libya that has put thousands of people’s lives in danger. In the US, Speaker Kevin McCarthy is under pressure to endorse an impeachment inquiry into President Biden, while the Biden campaign is trying to show voters his vigor. In Russia, President Putin is making comments about the cases against Donald Trump that expose the “rottenness” of the US system. Meanwhile, Europe is preparing for defense but lack consensus, and Morocco just had an earthquake that resulted in a rescue effort for victims. In tech news, Google is going through a monopoly trial with many top executives involved. The US government is also researching how income influences college attendance and New York state has launched a program to offer students $2,000 per year to stay enrolled and graduate. Finally, New Yorkers are getting creative with their cooking because of small apartments and tight living conditions.</p>
+There is a lot going on around the world right now. In the US, Republicans have launched an impeachment inquiry against President Biden as some far-right House Republicans are irate over spending and threatening to depose him. Also in the US, there is a looming scandal over four-time league MVP Aaron Rodgers&#39;s Jets season ending early with a torn Achilles&#39;s tendon after being carted off the field in the first regular season game. 
+
+Internationally, Putin has spoken out about the cases against Donald Trump, describing it as showing the &#39;rottenness&#39; of the US system. The tragedy in Libya of a dam bursting and destroying an entire city just occurred as well, leaving more than 5,000 dead and submerging neighborhoods in Derna. Additionally, 30+ allied countries have been working on arming themselves against Russia&#39;s invasion of Ukraine, and satellite data has helped Morocco understand why their &#39;blind earthquake&#39; happened last week. 
+
+Climate change is also having an effect as irreversible damage is being done to some of America&#39;s West glaciers that were once thought to be forever like Mount Rainier. Finally, Google has its monopoly trial this century with top tech executives showing up to litigate some major issues.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Thousands Feared Dead in Libya as Dam Collapses Deepen Flood Disaster</h3>
-<sub>By Mohammed Abdusamee and Vivian Nereim</sub>
-<p>The authorities in the country’s east said that two dams unleashed their waters on the city of Derna during a heavy storm this weekend, sweeping entire neighborhoods into the sea.  <a href="https://nyti.ms/46qDohZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>McCarthy, Under Threat From Right Flank, to Endorse Impeachment Inquiry</h3>
+<h3>McCarthy, Under Threat From Right, Orders Biden Impeachment Inquiry</h3>
 <sub>By Luke Broadwater</sub>
-<p>The move against President Biden, which Speaker Kevin McCarthy has been signaling for weeks, comes as some far-right House Republicans are irate over spending and threatening to depose him.  <a href="https://nyti.ms/3Pe1yoO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The move against President Biden, which Speaker Kevin McCarthy had been signaling for weeks, comes as some far-right House Republicans are irate over spending and threatening to depose him.  <a href="https://nyti.ms/3Pe1yoO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>As Democratic Jitters Grow, Biden Campaign Tries to Showcase His Vigor</h3>
-<sub>By Reid J. Epstein and Lisa Lerer</sub>
-<p>With low approval ratings and shaky public performances, the president and his team are planning an ad blitz and trying to reassure voters about his age.  <a href="https://nyti.ms/3PzNZ4m"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 11, Central Standard Time</sub></sub>
+<h3>Republican Presidential Candidates on the Biden Impeachment Inquiry</h3>
+<sub></sub>
+<p>As the Republican presidential candidates campaign under the shadow of a front-runner facing dozens of felony charges, The New York Times examined their stances on eight key issues.  <a href="https://nyti.ms/46ahRJY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Putin says the cases against Donald Trump show the ‘rottenness’ of the U.S. system.</h3>
 <sub>By Paul Sonne</sub>
-<p>President Vladimir V. Putin’s wide-ranging remarks also touched on the war in Ukraine, China and Elon Musk.  <a href="https://nyti.ms/3sHjvV1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>  <a href="https://nyti.ms/3r3YsvE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>McCarthy Is Under the Gun as the House Returns for a Spending Fight</h3>
-<sub>By Carl Hulse</sub>
-<p>Speaker Kevin McCarthy faces his biggest test since the debt ceiling showdown as right-wing Republicans demand deep spending cuts and tougher border policies opposed by the White House and Senate.  <a href="https://nyti.ms/467lC32"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 11, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>More Than 5,000 Dead in Libya as Dam Collapses Deepen Flood Disaster</h3>
+<sub>By Mohammed Abdusamee, Vivian Nereim and Isabella Kwai</sub>
+<p>In a catastrophe recalling Hurricane Katrina, a heavy storm burst through dams to unleash their waters on the city of Derna, sweeping away entire neighborhoods.  <a href="https://nyti.ms/45KKkGw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Mapping Where Floods Have Devastated a Libyan Port City</h3>
+<sub>By Lauren Leatherby and Lazaro Gamio</sub>
+<p>Derna, on Libya’s northeast coast, was inundated with floodwaters that killed at least 2,300 people after Storm Daniel made landfall on Sunday.  <a href="https://nyti.ms/3LmHO0W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>A Rush to Build Defenses in Europe, but Little Consensus on How</h3>
@@ -98,16 +102,16 @@ There is a big flood disaster happening in Libya that has put thousands of peopl
 <p>A push by more than 30 allied countries to arm themselves, precipitated in part by Russia’s invasion of Ukraine, has raised concerns of disorganization and supply shortages.  <a href="https://nyti.ms/3PxKmfo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-international-home-blue" alt="">
-<h3>In Wake of Morocco Earthquake, Frustration Fuels Solidarity</h3>
-<sub>By Catherine Porter</sub>
-<p>Anger is quietly growing against the government’s slow reaction and reluctance to accept foreign aid. But in a country where protest is a risk, perhaps the loudest response is action.  <a href="https://nyti.ms/3r8kXzm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>Satellite Data Yields Clues to Morocco’s ‘Blind Earthquake’</h3>
+<sub>By Maya Wei-Haas</sub>
+<p>The observations from orbit suggest that a fault that had been inactive in modern times ruptured on Friday.  <a href="https://nyti.ms/3PdXpRS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Morocco Earthquake Rescue Efforts Enter 4th Day</h3>
-<sub>By Aaron Boxerman and Vivian Yee</sub>
-<p>Aid workers say hopes of rescuing trapped earthquake victims are dwindling. The Moroccan government has drawn some criticism for being slow to greenlight international aid.  <a href="https://nyti.ms/3RgI1Xi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Rodgers’s Jets Season Ends Early With Torn Achilles’ Tendon</h3>
+<sub>By Victor Mather</sub>
+<p>An M.R.I. confirmed the team’s worst fears after the four-time league M.V.P. was carted to the locker room after an injury in the opening minutes of the first regular season game.  <a href="https://nyti.ms/3ZgI1bP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -122,16 +126,16 @@ There is a big flood disaster happening in Libya that has put thousands of peopl
 <p>Unlike many elite colleges, most flagship public colleges are “pretty fair in who gets in.”  <a href="https://nyti.ms/3PxRhVD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Could $2,000 a Year Keep Students in College?</h3>
-<sub>By Sharon Otterman</sub>
-<p>New York’s public university system is starting a program that uses simple strategies, like transportation money, to keep students enrolled and on the path to graduation.  <a href="https://nyti.ms/44SKkmC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Is Måneskin the Last Rock Band?</h3>
+<sub>By Dan Brooks</sub>
+<p>The Italian group has become a global sensation — by giving Gen Z a taste of a genre that might have already taken its final breath.  <a href="https://nyti.ms/45Zlh2i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-dining-blue" alt="">
-<h3>A Bathtub in the Kitchen? Not a Problem for New Yorkers.</h3>
-<sub>By Jess Eng</sub>
-<p>The appliances might be miniature and the floor plans eccentric, but these home cooks make it work.  <a href="https://nyti.ms/3RnEBCp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>The ‘Forever’ Glaciers of America’s West Aren’t Forever Anymore</h3>
+<sub>By Somini Sengupta</sub>
+<p>Climate change is melting the ice on Mount Rainier. The environmental effects will be widespread, a Park Service study warned.  <a href="https://nyti.ms/3PzEnqb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
 <hr/>
 </ol>
