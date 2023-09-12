@@ -60,10 +60,32 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, September 12, Central Standard Time</p>
 <p>
-It looks like there&#39;s a lot going on right now in politics and business. In the US, Speaker Kevin McCarthy is under pressure from right-wing Republicans in Congress who want more spending cuts and tougher border policies, but the White House and Senate are opposing those plans. Meanwhile, countries in Europe are rushing to build up their defenses in response to Russia&#39;s invasion of Ukraine, but there isn&#39;t consensus yet on how to do it. On a lighter note, Joe Biden&#39;s campaign team is doing an ad blitz and reassuring voters about his age despite his low approval ratings. Plus over 30 candidates have qualified for the next Republican presidential debate, but Donald Trump might not be one of them. 
-
-In other places around the world, in Morocco after a devastating earthquake people are growing frustrated with their government’s slow response and reluctance to accept foreign aid. There’s also a rescue effort underway in Libya after a dam collapsed during a big storm and swept entire neighborhoods into the sea. To top it off, Google is heading to trial over accusations that it has monopoly power and is illegally stifling its competitors.</p>
+There is a big flood disaster happening in Libya that has put thousands of people’s lives in danger. In the US, Speaker Kevin McCarthy is under pressure to endorse an impeachment inquiry into President Biden, while the Biden campaign is trying to show voters his vigor. In Russia, President Putin is making comments about the cases against Donald Trump that expose the “rottenness” of the US system. Meanwhile, Europe is preparing for defense but lack consensus, and Morocco just had an earthquake that resulted in a rescue effort for victims. In tech news, Google is going through a monopoly trial with many top executives involved. The US government is also researching how income influences college attendance and New York state has launched a program to offer students $2,000 per year to stay enrolled and graduate. Finally, New Yorkers are getting creative with their cooking because of small apartments and tight living conditions.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Thousands Feared Dead in Libya as Dam Collapses Deepen Flood Disaster</h3>
+<sub>By Mohammed Abdusamee and Vivian Nereim</sub>
+<p>The authorities in the country’s east said that two dams unleashed their waters on the city of Derna during a heavy storm this weekend, sweeping entire neighborhoods into the sea.  <a href="https://nyti.ms/46qDohZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>McCarthy, Under Threat From Right Flank, to Endorse Impeachment Inquiry</h3>
+<sub>By Luke Broadwater</sub>
+<p>The move against President Biden, which Speaker Kevin McCarthy has been signaling for weeks, comes as some far-right House Republicans are irate over spending and threatening to depose him.  <a href="https://nyti.ms/3Pe1yoO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>As Democratic Jitters Grow, Biden Campaign Tries to Showcase His Vigor</h3>
+<sub>By Reid J. Epstein and Lisa Lerer</sub>
+<p>With low approval ratings and shaky public performances, the president and his team are planning an ad blitz and trying to reassure voters about his age.  <a href="https://nyti.ms/3PzNZ4m"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Putin says the cases against Donald Trump show the ‘rottenness’ of the U.S. system.</h3>
+<sub>By Paul Sonne</sub>
+<p>President Vladimir V. Putin’s wide-ranging remarks also touched on the war in Ukraine, China and Elon Musk.  <a href="https://nyti.ms/3sHjvV1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>McCarthy Is Under the Gun as the House Returns for a Spending Fight</h3>
 <sub>By Carl Hulse</sub>
@@ -75,18 +97,6 @@ In other places around the world, in Morocco after a devastating earthquake peop
 <sub>By Patricia Cohen</sub>
 <p>A push by more than 30 allied countries to arm themselves, precipitated in part by Russia’s invasion of Ukraine, has raised concerns of disorganization and supply shortages.  <a href="https://nyti.ms/3PxKmfo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>As Democratic Jitters Grow, Biden Campaign Tries to Showcase His Vigor</h3>
-<sub>By Reid J. Epstein and Lisa Lerer</sub>
-<p>With low approval ratings and shaky public performances, the president and his team are planning an ad blitz and trying to reassure voters about his age.  <a href="https://nyti.ms/3PzNZ4m"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Who Has Qualified for the Second Republican Presidential Debate?</h3>
-<sub>By Maggie Astor, Andrew Fischer and Eleanor Lutz</sub>
-<p>Six candidates appear to have made the cut for the next debate. Donald J. Trump might not be there.  <a href="https://nyti.ms/3ECahfq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-international-home-blue" alt="">
 <h3>In Wake of Morocco Earthquake, Frustration Fuels Solidarity</h3>
@@ -101,15 +111,21 @@ In other places around the world, in Morocco after a devastating earthquake peop
 <sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Arm, a British Chip Designer, Juggles Challenges Before 2023’s Biggest I.P.O.</h3>
-<sub>By Don Clark</sub>
-<p>The SoftBank-owned company, which for decades has defined how mobile phones operate, is grappling with geopolitical and commercial complexities as it prepares to go public this week.  <a href="https://nyti.ms/3EwNcLk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
+<h3>Who’s Who in the Google Monopoly Trial</h3>
+<sub>By Cecilia Kang</sub>
+<p>The federal government’s first monopoly trial this century will feature top tech executives, experienced litigators and an Obama-appointed judge.  <a href="https://nyti.ms/3PzhQKn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>SoftBank Needs a Hit, and It’s Betting on Arm</h3>
-<sub>By Maureen Farrell and Anupreeta Das</sub>
-<p>Softbank’s chief executive, Masayoshi Son, believes the chip design company he bought in 2016 is poised to reap the fruits of the A.I. revolution.  <a href="https://nyti.ms/48cZMNu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>Explore How Income Influences Attendance at 139 Top Colleges</h3>
+<sub>By Aatish Bhatia and Claire Cain Miller</sub>
+<p>Unlike many elite colleges, most flagship public colleges are “pretty fair in who gets in.”  <a href="https://nyti.ms/3PxRhVD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Could $2,000 a Year Keep Students in College?</h3>
+<sub>By Sharon Otterman</sub>
+<p>New York’s public university system is starting a program that uses simple strategies, like transportation money, to keep students enrolled and on the path to graduation.  <a href="https://nyti.ms/44SKkmC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-dining-blue" alt="">
@@ -117,24 +133,6 @@ In other places around the world, in Morocco after a devastating earthquake peop
 <sub>By Jess Eng</sub>
 <p>The appliances might be miniature and the floor plans eccentric, but these home cooks make it work.  <a href="https://nyti.ms/3RnEBCp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Thousands Feared Dead in Libya as Dam Collapses Deepen Flood Disaster</h3>
-<sub>By Mohammed Abdusamee and Vivian Nereim</sub>
-<p>The authorities in the country’s east said that two dams unleashed their waters on the city of Derna during a heavy storm this weekend, sweeping entire neighborhoods into the sea.  <a href="https://nyti.ms/46qDohZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Google Goes on Trial Over Justice Dept. Claims That It Has Monopoly Power</h3>
-<sub>By David McCabe and Nico Grant</sub>
-<p>The government claims that Google illegally stifles rivals, while the company says its practices are legal and mainstream.  <a href="https://nyti.ms/48bPxZK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Who’s Who in the Google Monopoly Trial</h3>
-<sub>By Cecilia Kang</sub>
-<p>The federal government’s first monopoly trial this century will feature top tech executives, experienced litigators and an Obama-appointed judge.  <a href="https://nyti.ms/3PzhQKn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 11, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
