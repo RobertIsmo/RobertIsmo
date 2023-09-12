@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, September 12, Central Standard Time</p>
 <p>
-There is a lot of upheaval happening in the world right now. In Morocco, people are desperate for aid after an earthquake left them stranded. There is also widespread excitement about two new Covid vaccines that have recently been approved by the FDA and are expected to begin rolling out later this week. In the UK, there&#39;s been renewed debate over ties to China after the suspected arrest of a spy. Meanwhile, North Korean leader Kim Jong-un has embarked on a mystery train to meet with Russian President Vladimir Putin. In the US, President Biden&#39;s news conference in Vietnam provoked strong reactions from his opponents and reports of disinformation about Hawaiian fires are circulating from Beijing. And in Pennsylvania, there&#39;s an intense manhunt for an escaped fugitive and convicted murderer who had already been on the run since 2017. Lastly, Donald Trump&#39;s electoral college edge seems to be slipping away due to decreased nonwhite support and emerging issues.</p>
+There has been a lot going on in the world lately. In Morocco, there was an earthquake that led to people becoming desperate for help and supplies. The US has been dealing with the Covid pandemic, with two new vaccines recently approved by the FDA to start a nationwide rollout. In the UK, there have been calls for a tougher stance on China after a suspected spy was arrested, while China appears to be using new techniques for spreading disinformation about Hawaii fires. North Korean leader Kim Jong-un traveled to Russia on an unusually equipped train, while an escapee from a Pennsylvania jail have sparked a manhunt. President Biden held a press conference in Vietnam that ignited his opponents, while Trump&#39;s electoral college edge seems to be fading and he&#39;s trying to get a judge to recuse herself from his federal elections case.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Fury as Quake Help Finally Arrives: ‘How Many Hours Has It Been?’</h3>
@@ -105,12 +105,6 @@ There is a lot of upheaval happening in the world right now. In Morocco, people 
 <sub><sub>Monday, September 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Kim Jong-un Has Something Putin Needs, and That’s a New Wrinkle</h3>
-<sub>By Paul Sonne and Valeriya Safronova</sub>
-<p>Kim Jong-un has ammunition stocks that Russia covets as it continues its war in Ukraine, and North Korea may get advanced technology and badly needed food aid in return.  <a href="https://nyti.ms/3RgCnEw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Bulletproof, Slow and Full of Wine: Kim Jong-un’s Mystery Train</h3>
 <sub>By Choe Sang-Hun and Russell Goldman</sub>
 <p>Heading to Russia to meet with President Vladimir Putin, the North Korean leader chose to travel by rail, on a train with some unusual features.  <a href="https://nyti.ms/3PcrbpZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -132,6 +126,12 @@ There is a lot of upheaval happening in the world right now. In Morocco, people 
 <h3>Trump’s Electoral College Edge Seems to Be Fading</h3>
 <sub>By Nate Cohn and Alicia Parlapiano</sub>
 <p>Democrats appear resilient in the battleground states despite a nationwide loss of nonwhite support. New issues may be one reason.  <a href="https://nyti.ms/3Zei0db"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Seeks Recusal of Judge in Federal Elections Case</h3>
+<sub>By Alan Feuer</sub>
+<p>The former president said Judge Tanya S. Chutkan, who is hearing the Justice Department’s case accusing him of seeking to overturn the 2020 election, had shown bias against him in public statements.  <a href="https://nyti.ms/3sW5L8X"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 11, Central Standard Time</sub></sub>
 <hr/>
 </ol>
