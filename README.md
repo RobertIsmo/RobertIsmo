@@ -60,78 +60,80 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, September 12, Central Standard Time</p>
 <p>
-There has been a lot going on in the world lately. In Morocco, there was an earthquake that led to people becoming desperate for help and supplies. The US has been dealing with the Covid pandemic, with two new vaccines recently approved by the FDA to start a nationwide rollout. In the UK, there have been calls for a tougher stance on China after a suspected spy was arrested, while China appears to be using new techniques for spreading disinformation about Hawaii fires. North Korean leader Kim Jong-un traveled to Russia on an unusually equipped train, while an escapee from a Pennsylvania jail have sparked a manhunt. President Biden held a press conference in Vietnam that ignited his opponents, while Trump&#39;s electoral college edge seems to be fading and he&#39;s trying to get a judge to recuse herself from his federal elections case.</p>
+It looks like there&#39;s a lot going on right now in politics and business. In the US, Speaker Kevin McCarthy is under pressure from right-wing Republicans in Congress who want more spending cuts and tougher border policies, but the White House and Senate are opposing those plans. Meanwhile, countries in Europe are rushing to build up their defenses in response to Russia&#39;s invasion of Ukraine, but there isn&#39;t consensus yet on how to do it. On a lighter note, Joe Biden&#39;s campaign team is doing an ad blitz and reassuring voters about his age despite his low approval ratings. Plus over 30 candidates have qualified for the next Republican presidential debate, but Donald Trump might not be one of them. 
+
+In other places around the world, in Morocco after a devastating earthquake people are growing frustrated with their government’s slow response and reluctance to accept foreign aid. There’s also a rescue effort underway in Libya after a dam collapsed during a big storm and swept entire neighborhoods into the sea. To top it off, Google is heading to trial over accusations that it has monopoly power and is illegally stifling its competitors.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Fury as Quake Help Finally Arrives: ‘How Many Hours Has It Been?’</h3>
-<sub>By Vivian Yee, Aida Alami, Yassine Oulhiq and Sergey Ponomarev</sub>
-<p>The people of a village high in the Atlas Mountains erupted in anger when the Moroccan government left them alone for three days to dig out and bury their loved ones.  <a href="https://nyti.ms/48dBym0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>McCarthy Is Under the Gun as the House Returns for a Spending Fight</h3>
+<sub>By Carl Hulse</sub>
+<p>Speaker Kevin McCarthy faces his biggest test since the debt ceiling showdown as right-wing Republicans demand deep spending cuts and tougher border policies opposed by the White House and Senate.  <a href="https://nyti.ms/467lC32"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Aid Trickles In to Moroccans Stranded by Quake, but Desperation Mounts</h3>
-<sub>By Vivian Yee and Aida Alami</sub>
-<p>The government defended its response to the earthquake as robust, but some residents desperate for basic supplies say they feel abandoned.  <a href="https://nyti.ms/3PAGgms"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>F.D.A. Approves New Covid Shots</h3>
-<sub>By Christina Jewett and Noah Weiland</sub>
-<p>A nationwide rollout of the vaccines by Pfizer and Moderna should begin later this week, after the C.D.C. considers guidelines to prepare Americans for this season when infections usually tick upward.  <a href="https://nyti.ms/3PvIbZA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>What to Know About the New Covid Booster Shots</h3>
-<sub>By Knvul Sheikh</sub>
-<p>The updated vaccines could become available within a few days.  <a href="https://nyti.ms/44ISnSR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>A Rush to Build Defenses in Europe, but Little Consensus on How</h3>
+<sub>By Patricia Cohen</sub>
+<p>A push by more than 30 allied countries to arm themselves, precipitated in part by Russia’s invasion of Ukraine, has raised concerns of disorganization and supply shortages.  <a href="https://nyti.ms/3PxKmfo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden’s News Conference in Vietnam Ignites His Opponents</h3>
-<sub>By Michael D. Shear</sub>
-<p>The president’s top aides believe that stories about the president’s age and health are stoked by his enemies in an effort to undermine his accomplishments.  <a href="https://nyti.ms/3P62KdC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>As Democratic Jitters Grow, Biden Campaign Tries to Showcase His Vigor</h3>
+<sub>By Reid J. Epstein and Lisa Lerer</sub>
+<p>With low approval ratings and shaky public performances, the president and his team are planning an ad blitz and trying to reassure voters about his age.  <a href="https://nyti.ms/3PzNZ4m"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>China Sows Disinformation About Hawaii Fires Using New Techniques</h3>
-<sub>By David E. Sanger and Steven Lee Myers</sub>
-<p>Beijing’s influence campaign using artificial intelligence is a rapid change in tactics, researchers from Microsoft and other organizations say.  <a href="https://nyti.ms/488uXt7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 11, Central Standard Time</sub></sub>
+<h3>Who Has Qualified for the Second Republican Presidential Debate?</h3>
+<sub>By Maggie Astor, Andrew Fischer and Eleanor Lutz</sub>
+<p>Six candidates appear to have made the cut for the next debate. Donald J. Trump might not be there.  <a href="https://nyti.ms/3ECahfq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-international-home-blue" alt="">
+<h3>In Wake of Morocco Earthquake, Frustration Fuels Solidarity</h3>
+<sub>By Catherine Porter</sub>
+<p>Anger is quietly growing against the government’s slow reaction and reluctance to accept foreign aid. But in a country where protest is a risk, perhaps the loudest response is action.  <a href="https://nyti.ms/3r8kXzm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>U.K.’s Arrest of Suspected Spy Fuels Calls for Tougher Stance on China</h3>
-<sub>By Mark Landler</sub>
-<p>Allegations that a researcher in Parliament was a foreign agent have intensified a fiery debate over Britain’s relations with Beijing.  <a href="https://nyti.ms/3PcwIgc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 11, Central Standard Time</sub></sub>
+<h3>Morocco Earthquake Rescue Efforts Enter 4th Day</h3>
+<sub>By Aaron Boxerman and Vivian Yee</sub>
+<p>Aid workers say hopes of rescuing trapped earthquake victims are dwindling. The Moroccan government has drawn some criticism for being slow to greenlight international aid.  <a href="https://nyti.ms/3RgI1Xi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Arm, a British Chip Designer, Juggles Challenges Before 2023’s Biggest I.P.O.</h3>
+<sub>By Don Clark</sub>
+<p>The SoftBank-owned company, which for decades has defined how mobile phones operate, is grappling with geopolitical and commercial complexities as it prepares to go public this week.  <a href="https://nyti.ms/3EwNcLk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>SoftBank Needs a Hit, and It’s Betting on Arm</h3>
+<sub>By Maureen Farrell and Anupreeta Das</sub>
+<p>Softbank’s chief executive, Masayoshi Son, believes the chip design company he bought in 2016 is poised to reap the fruits of the A.I. revolution.  <a href="https://nyti.ms/48cZMNu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-dining-blue" alt="">
+<h3>A Bathtub in the Kitchen? Not a Problem for New Yorkers.</h3>
+<sub>By Jess Eng</sub>
+<p>The appliances might be miniature and the floor plans eccentric, but these home cooks make it work.  <a href="https://nyti.ms/3RnEBCp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Bulletproof, Slow and Full of Wine: Kim Jong-un’s Mystery Train</h3>
-<sub>By Choe Sang-Hun and Russell Goldman</sub>
-<p>Heading to Russia to meet with President Vladimir Putin, the North Korean leader chose to travel by rail, on a train with some unusual features.  <a href="https://nyti.ms/3PcrbpZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Thousands Feared Dead in Libya as Dam Collapses Deepen Flood Disaster</h3>
+<sub>By Mohammed Abdusamee and Vivian Nereim</sub>
+<p>The authorities in the country’s east said that two dams unleashed their waters on the city of Derna during a heavy storm this weekend, sweeping entire neighborhoods into the sea.  <a href="https://nyti.ms/46qDohZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Google Goes on Trial Over Justice Dept. Claims That It Has Monopoly Power</h3>
+<sub>By David McCabe and Nico Grant</sub>
+<p>The government claims that Google illegally stifles rivals, while the company says its practices are legal and mainstream.  <a href="https://nyti.ms/48bPxZK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Escapee Had Been a Fugitive Before Pennsylvania Jailbreak</h3>
-<sub>By Ana Ionova</sub>
-<p>The subject of the manhunt outside Philadelphia disappeared into the wilderness in 2017 after an arrest warrant was issued in connection with a murder in northern Brazil.  <a href="https://nyti.ms/3LgJl8I"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Pennsylvania Fugitive Is Armed, Police Say</h3>
-<sub>By Mike Ives and Campbell Robertson</sub>
-<p>The police are hunting for Danelo Cavalcante, a convicted murderer who escaped from prison on Aug. 31. He was spotted again on Monday as the search intensified.  <a href="https://nyti.ms/45Pq2M8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>Trump’s Electoral College Edge Seems to Be Fading</h3>
-<sub>By Nate Cohn and Alicia Parlapiano</sub>
-<p>Democrats appear resilient in the battleground states despite a nationwide loss of nonwhite support. New issues may be one reason.  <a href="https://nyti.ms/3Zei0db"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Seeks Recusal of Judge in Federal Elections Case</h3>
-<sub>By Alan Feuer</sub>
-<p>The former president said Judge Tanya S. Chutkan, who is hearing the Justice Department’s case accusing him of seeking to overturn the 2020 election, had shown bias against him in public statements.  <a href="https://nyti.ms/3sW5L8X"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Who’s Who in the Google Monopoly Trial</h3>
+<sub>By Cecilia Kang</sub>
+<p>The federal government’s first monopoly trial this century will feature top tech executives, experienced litigators and an Obama-appointed judge.  <a href="https://nyti.ms/3PzhQKn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 11, Central Standard Time</sub></sub>
 <hr/>
 </ol>
