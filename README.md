@@ -60,8 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, September 11, Central Standard Time</p>
 <p>
-Right now, the US is preparing to roll out two new Covid vaccinations developed by Pfizer and Moderna, while conspiracy theorists are stoking fear about the increasing infection levels. In Morocco, aid is being provided to those affected by a recent earthquake, but there are residents desperate for basic supplies who feel they&#39;ve been abandoned. North Korea has something Russia needs, and new wrinkle in their relationship as Kim Jong-un may get advanced technology and food aid in return. A fugitive from Brazil escaped from prison near Philadelphia in 2017 and is still at large. In New York City, the cost of child care has become incredibly expensive for even upper-middle-class residents while providers of the care face financial strain too. In Hawaii, China has been propagating misinformation using advanced artificial intelligence tactics. Republicans are trying to take control of Virginia&#39;s state government with the ambition of Glenn Youngkin who wants to be governor on a national level. Finally, the 22nd anniversary of 9&#x2F;11 was marked by a somber ceremony in Manhattan that was attended by relatives of those who died, governors, senators and the vice president.</p>
+A lot is happening in the world at the moment. In Morocco, people are still reeling from an earthquake and there’s been a slow response in providing aid to those stranded. Here in the US, new Covid-19 booster shots have been approved by the FDA and conspiracy theorists are making people more afraid than they need to be. Kim Jong-Un of North Korea is also making headlines. He&#39;s traveling to Russia to meet with President Putin and is asking for advanced technology and food aid. Meanwhile, China is spreading disinformation about Hawaii fires using artificial intelligence and there’s a debate in Britain over its relations with Beijing after the arrest of a suspected spy. Finally closer to home, Glenn Youngkin is trying to get Republicans a majority in state government during this year’s legislative races in Virginia.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Fury as Quake Help Finally Arrives: ‘How Many Hours Has It Been?’</h3>
+<sub>By Vivian Yee, Aida Alami and Yassine Oulhiq</sub>
+<p>The people of a village high in the Atlas Mountains erupted in anger when the Moroccan government left them alone for three days to dig out and bury their loved ones.  <a href="https://nyti.ms/48dBym0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Aid Trickles In to Moroccans Stranded by Quake, but Desperation Mounts</h3>
+<sub>By Vivian Yee and Aida Alami</sub>
+<p>The government defended its response to the earthquake as robust, but some residents desperate for basic supplies say they feel abandoned.  <a href="https://nyti.ms/3PAGgms"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 11, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>F.D.A. Approves New Covid Shots</h3>
 <sub>By Christina Jewett and Noah Weiland</sub>
@@ -81,27 +93,15 @@ Right now, the US is preparing to roll out two new Covid vaccinations developed 
 <sub><sub>Monday, September 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Aid Trickles In to Moroccans Stranded by Quake, but Desperation Mounts</h3>
-<sub>By Vivian Yee and Aida Alami</sub>
-<p>The government defended its response to the earthquake as robust, but some residents desperate for basic supplies say they feel abandoned.  <a href="https://nyti.ms/3PAGgms"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Kim Jong-un Has Something Putin Needs, and That’s a New Wrinkle</h3>
 <sub>By Paul Sonne and Valeriya Safronova</sub>
 <p>Kim Jong-un has ammunition stocks that Russia covets as it continues its war in Ukraine, and North Korea may get advanced technology and badly needed food aid in return.  <a href="https://nyti.ms/3RgCnEw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Escapee Had Been a Fugitive Before Pennsylvania Jailbreak</h3>
-<sub>By Ana Ionova</sub>
-<p>The subject of the manhunt outside Philadelphia disappeared into the wilderness in 2017 after an arrest warrant was issued in connection with a murder in northern Brazil.  <a href="https://nyti.ms/3LgJl8I"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>How Soaring Child Care Costs Are Crushing New Yorkers</h3>
-<sub>By Eliza Shapiro, Asmaa Elkeurti and Maansi Srivastava</sub>
-<p>As the city’s affordability crisis worsens for nearly everyone, even upper-middle-class New Yorkers are struggling to pay for child care. The workers who provide it are struggling too.  <a href="https://nyti.ms/3LmWayr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Bulletproof, Slow and Full of Wine: Kim Jong-un’s Mystery Train</h3>
+<sub>By Choe Sang-Hun and Russell Goldman</sub>
+<p>As he heads to Russia to meet with President Vladimir Putin, the North Korean leader continues his family’s history of traveling solely by rail.  <a href="https://nyti.ms/3PcrbpZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -110,28 +110,28 @@ Right now, the US is preparing to roll out two new Covid vaccinations developed 
 <p>Beijing’s influence campaign using artificial intelligence is a rapid change in tactics, researchers from Microsoft and other organizations say.  <a href="https://nyti.ms/488uXt7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 11, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>U.K.’s Arrest of Suspected Spy Fuels Calls for Tougher Stance on China</h3>
+<sub>By Mark Landler</sub>
+<p>Allegations that a researcher in Parliament was a foreign agent have intensified a fiery debate over Britain’s relations with Beijing.  <a href="https://nyti.ms/3PcwIgc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden’s News Conference in Vietnam Ignites His Opponents</h3>
+<sub>By Michael D. Shear</sub>
+<p>The president’s top aides believe that stories about the president’s age and health are stoked by his enemies in an effort to undermine his accomplishments.  <a href="https://nyti.ms/3P62KdC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Escapee Had Been a Fugitive Before Pennsylvania Jailbreak</h3>
+<sub>By Ana Ionova</sub>
+<p>The subject of the manhunt outside Philadelphia disappeared into the wilderness in 2017 after an arrest warrant was issued in connection with a murder in northern Brazil.  <a href="https://nyti.ms/3LgJl8I"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 11, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>‘Virginia Is the Test Case’: Youngkin Pushes for G.O.P. Takeover This Fall</h3>
 <sub>By Trip Gabriel</sub>
 <p>Glenn Youngkin, a popular Republican governor with national ambitions, is trying to help his party take full control of state government in crucial legislative races this year.  <a href="https://nyti.ms/469rbxZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>Trump’s Electoral College Edge Seems to Be Fading</h3>
-<sub>By Nate Cohn and Alicia Parlapiano</sub>
-<p>Democrats appear resilient in the battleground states despite a nationwide loss of nonwhite support. New issues may be one reason.  <a href="https://nyti.ms/3Zei0db"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>A Diver Feared the Titan Sub, but Couldn’t Resist the Titanic</h3>
-<sub>By William J. Broad and Catherine Porter</sub>
-<p>Paul-Henri Nargeolet mixed decades of passion for the ship of dreams with repeated dives and recoveries meant to save what remained of the famous ocean liner.  <a href="https://nyti.ms/3LihbKM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Somber 9&#x2F;11 Ceremony Draws Mourners to Ground Zero</h3>
-<sub>By Claire Fahy</sub>
-<p>Relatives of those who died went to Lower Manhattan to mark the 22nd anniversary of the terrorist attack, where they were joined by governors, senators and the vice president.  <a href="https://nyti.ms/463of5Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 11, Central Standard Time</sub></sub>
 <hr/>
 </ol>
