@@ -58,15 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Monday, September 11, Central Standard Time</p>
+<p>It is Tuesday, September 12, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. A powerful earthquake in Morocco left people desperate for help and aid. Luckily, vaccines for Covid-19 from Moderna and Pfizer have been approved by the FDA, with a nationwide rollout likely soon. But some conspiracy theorists are stoking new fears about Covid-19 cases rising again. 
-
-In the US, President Biden&#39;s news conference during his visit to Vietnam has ignited his opponents. Meanwhile, China is reportedly using new techniques to sow disinformation about Hawaii fires. In Britain, the arrest of a suspected spy has fueled calls for a tougher stance on China. 
-
-On the international scene, Kim Jong-un is making waves by heading to Russia on board his slow yet bulletproof mystery train which is full of wine! He may be offering Russian President Putin ammunition stocks in exchange for advanced technology and food aid. Closer to home, the manhunt for an escapee in Philadelphia has led back to his previous fugitive status in 2017 when he sought for a murder charge against him in Northern Brazil. 
-
-Trump’s advantage in the Electoral College may be fading too as Democrats remain resilient in battleground states despite nationwide loss of nonwhite support - most likely due to changing political issues.</p>
+There is a lot of upheaval happening in the world right now. In Morocco, people are desperate for aid after an earthquake left them stranded. There is also widespread excitement about two new Covid vaccines that have recently been approved by the FDA and are expected to begin rolling out later this week. In the UK, there&#39;s been renewed debate over ties to China after the suspected arrest of a spy. Meanwhile, North Korean leader Kim Jong-un has embarked on a mystery train to meet with Russian President Vladimir Putin. In the US, President Biden&#39;s news conference in Vietnam provoked strong reactions from his opponents and reports of disinformation about Hawaiian fires are circulating from Beijing. And in Pennsylvania, there&#39;s an intense manhunt for an escaped fugitive and convicted murderer who had already been on the run since 2017. Lastly, Donald Trump&#39;s electoral college edge seems to be slipping away due to decreased nonwhite support and emerging issues.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Fury as Quake Help Finally Arrives: ‘How Many Hours Has It Been?’</h3>
@@ -90,12 +84,6 @@ Trump’s advantage in the Electoral College may be fading too as Democrats rema
 <h3>What to Know About the New Covid Booster Shots</h3>
 <sub>By Knvul Sheikh</sub>
 <p>The updated vaccines could become available within a few days.  <a href="https://nyti.ms/44ISnSR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>As Covid-19 Cases Tick Higher, Conspiracy Theorists Stoke New Fears</h3>
-<sub>By Stuart A. Thompson</sub>
-<p>A late-summer rise in Covid-19 infections is bringing with it a wave of conspiracy theories.  <a href="https://nyti.ms/3rej8Rp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -132,6 +120,12 @@ Trump’s advantage in the Electoral College may be fading too as Democrats rema
 <h3>Escapee Had Been a Fugitive Before Pennsylvania Jailbreak</h3>
 <sub>By Ana Ionova</sub>
 <p>The subject of the manhunt outside Philadelphia disappeared into the wilderness in 2017 after an arrest warrant was issued in connection with a murder in northern Brazil.  <a href="https://nyti.ms/3LgJl8I"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Pennsylvania Fugitive Is Armed, Police Say</h3>
+<sub>By Mike Ives and Campbell Robertson</sub>
+<p>The police are hunting for Danelo Cavalcante, a convicted murderer who escaped from prison on Aug. 31. He was spotted again on Monday as the search intensified.  <a href="https://nyti.ms/45Pq2M8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-upshot-blue" alt="">
