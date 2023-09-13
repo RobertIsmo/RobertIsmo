@@ -58,11 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Tuesday, September 12, Central Standard Time</p>
+<p>It is Wednesday, September 13, Central Standard Time</p>
 <p>
-In the US, there is an impeachment inquiry going on against President Biden. There are allegations made by some far-right Republicans against him, but there has yet to be any evidence of wrongdoing. In Libya, a major flooding disaster has devastated the port city of Derna, killing more than 5,000 people. Apple has unveiled its new iPhone 15 with a USB-C charger due to regulations from European regulators. In addition, the FDA has concluded that the decongestant in many cold medicines is ineffective and does not work at all. 
-
-Sports have been hit hard too due to New York City&#39;s athletes experiencing a bad stretch. Aaron Rodgers, New York Jets quarterback, suffered a season-ending injury and bar patrons betting on the Jets losing had to pay for their tabs when the team made a comeback. Lastly, there is a Pennsylvania fugitive believed to be dangerous and armed after stealing a rifle from a garage.</p>
+There is a lot going on in the world right now! In the US, Republican politicians are threatening to depose President Biden in an impeachment inquiry. Meanwhile, in Libya there has been a devastating flood caused by two dams bursting after Storm Daniel made landfall that is estimated to have killed over 5,000 people. In Russia, President Putin is wading back into US politics and offering words of praise for former President Trump amidst claims of &#39;persecution&#39;. Lastly, Apple just unveiled their new iPhone 15 and switched to USB-C charging.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>McCarthy, Facing an Ouster and a Shutdown, Orders an Impeachment Inquiry</h3>
@@ -74,6 +72,12 @@ Sports have been hit hard too due to New York City&#39;s athletes experiencing a
 <h3>What We Know About the Impeachment Case Against Biden</h3>
 <sub>By Luke Broadwater</sub>
 <p>Republicans claim they have unearthed evidence of wrongdoing by the president and his family that could rise to the level of high crimes and misdemeanors. In fact, there’s little to back up their allegations.  <a href="https://nyti.ms/3LjfPiE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>F.B.I. Agent Undercuts Claims of Political Interference in Hunter Biden Inquiry</h3>
+<sub>By Luke Broadwater</sub>
+<p>Thomas Sobocinski, an F.B.I. agent, told House investigators that the prosecutor overseeing the investigation into the president’s son never said he did not have full authority to pursue charges.  <a href="https://nyti.ms/3PgUwjd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -118,22 +122,16 @@ Sports have been hit hard too due to New York City&#39;s athletes experiencing a
 <p>Here’s what you can use instead.  <a href="https://nyti.ms/3rguRPq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Rodgers Injury Caps a Dismal Summer for New York City Sports Fans</h3>
-<sub>By Christopher Maag</sub>
-<p>A season-ending injury to Aaron Rodgers, the New York Jets quarterback, after months of hype and hope, was the capstone on a disappointing stretch for the city’s teams.  <a href="https://nyti.ms/3r9IcZS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukraine Strikes Russian Naval Ships at Black Sea Facility</h3>
+<sub>By Andrés R. Martínez and Marc Santora</sub>
+<p>The Russian Ministry of Defense said that Ukraine fired 10 cruise missiles at the facility in the city of Sevastopol. The area hosts naval operations that are key to Moscow’s war efforts in Ukraine.  <a href="https://nyti.ms/3PD92mP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Fans Bet Their Bar Tabs on the Jets Losing. It Wasn’t a Safe Bet.</h3>
-<sub>By Jesus Jiménez</sub>
-<p>A bar in Wisconsin, where Aaron Rodgers played for years, offered free drinks if the New York Jets lost on Monday. But after a surprising comeback, patrons were left to pay for their tabs.  <a href="https://nyti.ms/45OP7GS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Pennsylvania Fugitive Now Armed After Stealing Rifle From Garage</h3>
-<sub>By Campbell Robertson</sub>
-<p>“We consider him desperate. We consider him dangerous,” a state police colonel told reporters on Tuesday.  <a href="https://nyti.ms/44Q2RjA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Putin, Citing Trump ‘Persecution,’ Wades Back Into U.S. Politics</h3>
+<sub>By Paul Sonne and Michael C. Bender</sub>
+<p>The Russian leader, whose government meddled in the American presidential election won by Donald J. Trump, also offered words of praise for Elon Musk.  <a href="https://nyti.ms/3PBs5Oc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
 <hr/>
 </ol>
