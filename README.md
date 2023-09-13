@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, September 13, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now! In the US, Republican politicians are threatening to depose President Biden in an impeachment inquiry. Meanwhile, in Libya there has been a devastating flood caused by two dams bursting after Storm Daniel made landfall that is estimated to have killed over 5,000 people. In Russia, President Putin is wading back into US politics and offering words of praise for former President Trump amidst claims of &#39;persecution&#39;. Lastly, Apple just unveiled their new iPhone 15 and switched to USB-C charging.</p>
+There has been some major news in the world recently. In the US, Speaker Kevin McCarthy launched an impeachment inquiry against President Biden due to some far-right House Republicans being angry with spending. Evidence of wrongdoing by the president and his family has surfaced, but there is little to back up these claims. Meanwhile, in Libya there was a catastrophic flooding disaster caused by Storm Daniel breaking two dams in the city of Derna, which left more than 5,000 dead and destroyed entire neighborhoods. In Ukraine, there were Russian naval ships at a facility in the city of Sevastopol that were hit with 10 cruise missiles. In Russia, the leader Putin commented on Donald Trump&#39;s &quot;persecution&quot; and offered praise for Elon Musk. Apple also unveiled its new iPhones with USB-C chargers due to European regulations requiring it across all electronic devices. A decongestant used in many cold medicines is now deemed ineffective by Food and Drug Administration experts.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>McCarthy, Facing an Ouster and a Shutdown, Orders an Impeachment Inquiry</h3>
@@ -98,6 +98,18 @@ There is a lot going on in the world right now! In the US, Republican politician
 <p>Powerful rains destroyed two dams, and the death toll in the North African country is estimated at more than 5,000.  <a href="https://nyti.ms/45FVv3j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukraine Strikes Russian Naval Ships at Black Sea Facility</h3>
+<sub>By Andrés R. Martínez and Marc Santora</sub>
+<p>The Russian Ministry of Defense said that Ukraine fired 10 cruise missiles at the facility in the city of Sevastopol. The area hosts naval operations that are key to Moscow’s war efforts in Ukraine.  <a href="https://nyti.ms/3PD92mP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Putin, Citing Trump ‘Persecution,’ Wades Back Into U.S. Politics</h3>
+<sub>By Paul Sonne and Michael C. Bender</sub>
+<p>The Russian leader, whose government meddled in the American presidential election won by Donald J. Trump, also offered words of praise for Elon Musk.  <a href="https://nyti.ms/3PBs5Oc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Apple Unveils iPhone 15 and Switches to USB-C Charger</h3>
 <sub>By Tripp Mickle</sub>
@@ -120,18 +132,6 @@ There is a lot going on in the world right now! In the US, Republican politician
 <h3>A Decongestant in Many Cold Medicines is Ineffective.</h3>
 <sub>By Dani Blum</sub>
 <p>Here’s what you can use instead.  <a href="https://nyti.ms/3rguRPq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Strikes Russian Naval Ships at Black Sea Facility</h3>
-<sub>By Andrés R. Martínez and Marc Santora</sub>
-<p>The Russian Ministry of Defense said that Ukraine fired 10 cruise missiles at the facility in the city of Sevastopol. The area hosts naval operations that are key to Moscow’s war efforts in Ukraine.  <a href="https://nyti.ms/3PD92mP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Putin, Citing Trump ‘Persecution,’ Wades Back Into U.S. Politics</h3>
-<sub>By Paul Sonne and Michael C. Bender</sub>
-<p>The Russian leader, whose government meddled in the American presidential election won by Donald J. Trump, also offered words of praise for Elon Musk.  <a href="https://nyti.ms/3PBs5Oc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
 <hr/>
 </ol>
