@@ -60,7 +60,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, September 12, Central Standard Time</p>
 <p>
-There are a lot of alarming developments happening around the world right now. In the US, Speaker Kevin McCarthy has ordered an impeachment inquiry against President Biden, while some Republicans have been irate about spending and threatening to overthrow him. In Libya, devastating floods have caused the death toll to reach more than 5,000 people. Meanwhile, Apple is making a big switch from lightning chargers to USB-C chargers to comply with European regulations. On top of that, one of the decongestants commonly found in cold medicines has been deemed ineffective by an FDA panel. In New York City, sports fans are feeling very disheartened after Aaron Rodgers&#39; season-ending injury. Finally, Pennsylvania is on high alert as a fugitive who&#39;s been trained for survival has stolen a rifle from a garage and is now armed.</p>
+In the US, there is an impeachment inquiry going on against President Biden. There are allegations made by some far-right Republicans against him, but there has yet to be any evidence of wrongdoing. In Libya, a major flooding disaster has devastated the port city of Derna, killing more than 5,000 people. Apple has unveiled its new iPhone 15 with a USB-C charger due to regulations from European regulators. In addition, the FDA has concluded that the decongestant in many cold medicines is ineffective and does not work at all. 
+
+Sports have been hit hard too due to New York City&#39;s athletes experiencing a bad stretch. Aaron Rodgers, New York Jets quarterback, suffered a season-ending injury and bar patrons betting on the Jets losing had to pay for their tabs when the team made a comeback. Lastly, there is a Pennsylvania fugitive believed to be dangerous and armed after stealing a rifle from a garage.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>McCarthy, Facing an Ouster and a Shutdown, Orders an Impeachment Inquiry</h3>
@@ -122,16 +124,16 @@ There are a lot of alarming developments happening around the world right now. I
 <p>A season-ending injury to Aaron Rodgers, the New York Jets quarterback, after months of hype and hope, was the capstone on a disappointing stretch for the city’s teams.  <a href="https://nyti.ms/3r9IcZS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Fans Bet Their Bar Tabs on the Jets Losing. It Wasn’t a Safe Bet.</h3>
+<sub>By Jesus Jiménez</sub>
+<p>A bar in Wisconsin, where Aaron Rodgers played for years, offered free drinks if the New York Jets lost on Monday. But after a surprising comeback, patrons were left to pay for their tabs.  <a href="https://nyti.ms/45OP7GS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Pennsylvania Fugitive Now Armed After Stealing Rifle From Garage</h3>
 <sub>By Campbell Robertson</sub>
 <p>“We consider him desperate. We consider him dangerous,” a state police colonel told reporters on Tuesday.  <a href="https://nyti.ms/44Q2RjA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Pennsylvania Fugitive Has Been Trained for Survival, His Mother Says</h3>
-<sub>By Ana Ionova and Jack Nicas</sub>
-<p>In her first interview, Danelo Cavalcante’s mother said that her son had killed two people, but she insisted that he was not a threat to the public.  <a href="https://nyti.ms/44OFgQ3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
 <hr/>
 </ol>
