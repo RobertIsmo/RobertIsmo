@@ -60,10 +60,22 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, September 12, Central Standard Time</p>
 <p>
-There has been a lot of destruction going on in other parts of the world lately. In Libya, a dam collapse has caused deadly flooding and more than 5,000 people have died. In Morocco, an earthquake has just happened, which is being referred to as the “blind earthquake” because there were few indications that it was coming. Meanwhile, in the US, President Biden is facing an impeachment inquiry by Congress after some far-right Republicans argued over government spending. In addition, Apple is launching its new iPhone 15 with a USB-C charger and the Food and Drug Administration (FDA) has ruled that a popular decongestant found in cold medicines isn’t effective at all. Lastly, New York City sports fans have been dealing with disappointment after Aaron Rodgers, the Jets player quarterback, suffered a season-ending injury during the opening minutes of their first regular season game.</p>
+There are a lot of alarming developments happening around the world right now. In the US, Speaker Kevin McCarthy has ordered an impeachment inquiry against President Biden, while some Republicans have been irate about spending and threatening to overthrow him. In Libya, devastating floods have caused the death toll to reach more than 5,000 people. Meanwhile, Apple is making a big switch from lightning chargers to USB-C chargers to comply with European regulations. On top of that, one of the decongestants commonly found in cold medicines has been deemed ineffective by an FDA panel. In New York City, sports fans are feeling very disheartened after Aaron Rodgers&#39; season-ending injury. Finally, Pennsylvania is on high alert as a fugitive who&#39;s been trained for survival has stolen a rifle from a garage and is now armed.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>McCarthy, Facing an Ouster and a Shutdown, Orders an Impeachment Inquiry</h3>
+<sub>By Carl Hulse, Luke Broadwater and Annie Karni</sub>
+<p>The move against President Biden, which Speaker Kevin McCarthy had been signaling for weeks, comes as some far-right House Republicans are irate over spending and threatening to depose him.  <a href="https://nyti.ms/3Pe1yoO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>What We Know About the Impeachment Case Against Biden</h3>
+<sub>By Luke Broadwater</sub>
+<p>Republicans claim they have unearthed evidence of wrongdoing by the president and his family that could rise to the level of high crimes and misdemeanors. In fact, there’s little to back up their allegations.  <a href="https://nyti.ms/3LjfPiE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>More Than 5,000 Dead in Libya as Dam Collapses Worsen Flood Disaster</h3>
+<h3>More Than 5,000 Dead in Libya as Collapsed Dams Worsen Flood Disaster</h3>
 <sub>By Mohammed Abdusamee, Vivian Nereim and Isabella Kwai</sub>
 <p>In a catastrophe recalling Hurricane Katrina, a heavy storm burst through dams to unleash their waters on the city of Derna, sweeping away entire neighborhoods.  <a href="https://nyti.ms/45KKkGw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
@@ -74,22 +86,10 @@ There has been a lot of destruction going on in other parts of the world lately.
 <p>Derna, on Libya’s northeast coast, was inundated with floodwaters that killed more than 5,000 people after Storm Daniel made landfall on Sunday.  <a href="https://nyti.ms/3LmHO0W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>McCarthy, Facing an Ouster and a Shutdown, Orders an Impeachment Inquiry</h3>
-<sub>By Carl Hulse, Luke Broadwater and Annie Karni</sub>
-<p>The move against President Biden, which Speaker Kevin McCarthy had been signaling for weeks, comes as some far-right House Republicans are irate over spending and threatening to depose him.  <a href="https://nyti.ms/3Pe1yoO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Republican Presidential Candidates on the Biden Impeachment Inquiry</h3>
-<sub></sub>
-<p>As the Republican presidential candidates campaign under the shadow of a front-runner facing dozens of felony charges, The New York Times examined their stances on eight key issues.  <a href="https://nyti.ms/46ahRJY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Putin says the cases against Donald Trump show the ‘rottenness’ of the U.S. system.</h3>
-<sub>By Paul Sonne</sub>
-<p>  <a href="https://nyti.ms/3r3YsvE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Scenes From a Deluge: Floods Devastate Libya</h3>
+<sub>By The New York Times</sub>
+<p>Powerful rains destroyed two dams, and the death toll in the North African country is estimated at more than 5,000.  <a href="https://nyti.ms/45FVv3j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -106,8 +106,14 @@ There has been a lot of destruction going on in other parts of the world lately.
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>A Decongestant in Cold Medicines Doesn’t Work at All, an F.D.A. Panel Says</h3>
-<sub>By Christina Jewett</sub>
-<p>The agency now must decide whether products containing the ingredient, like some Sudafed and NyQuil products, should no longer be sold.  <a href="https://nyti.ms/3ZelufK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub>By Christina Jewett and Roni Caryn Rabin</sub>
+<p>The agency now must decide whether products containing the ingredient, like some Sudafed and NyQuil products, should no longer be sold or perhaps give companies lead time to substitute other ingredients.  <a href="https://nyti.ms/3ZelufK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>A Decongestant in Many Cold Medicines is Ineffective.</h3>
+<sub>By Dani Blum</sub>
+<p>Here’s what you can use instead.  <a href="https://nyti.ms/3rguRPq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -116,22 +122,16 @@ There has been a lot of destruction going on in other parts of the world lately.
 <p>A season-ending injury to Aaron Rodgers, the New York Jets quarterback, after months of hype and hope, was the capstone on a disappointing stretch for the city’s teams.  <a href="https://nyti.ms/3r9IcZS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Rodgers’s Jets Season Ends Early With Torn Achilles’ Tendon</h3>
-<sub>By Victor Mather and Emmanuel Morgan</sub>
-<p>An M.R.I. confirmed the team’s worst fears after the four-time league M.V.P. was carted to the locker room after an injury in the opening minutes of the first regular season game.  <a href="https://nyti.ms/3ZgI1bP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Pennsylvania Fugitive Now Armed After Stealing Rifle From Garage</h3>
+<sub>By Campbell Robertson</sub>
+<p>“We consider him desperate. We consider him dangerous,” a state police colonel told reporters on Tuesday.  <a href="https://nyti.ms/44Q2RjA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Earthquake Puts Morocco’s Elusive King in Spotlight</h3>
-<sub>By Steven Erlanger</sub>
-<p>The monarchy is revered and nearly all powerful in Morocco. But details about the lives and actions of the king, his family and his entourage remain mysterious and subject to speculation.  <a href="https://nyti.ms/3PgwC7t"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>Satellite Data Yields Clues to Morocco’s ‘Blind Earthquake’</h3>
-<sub>By Maya Wei-Haas</sub>
-<p>The observations from orbit suggest that a fault that had been inactive in modern times ruptured on Friday.  <a href="https://nyti.ms/3PdXpRS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Pennsylvania Fugitive Has Been Trained for Survival, His Mother Says</h3>
+<sub>By Ana Ionova and Jack Nicas</sub>
+<p>In her first interview, Danelo Cavalcante’s mother said that her son had killed two people, but she insisted that he was not a threat to the public.  <a href="https://nyti.ms/44OFgQ3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
 <hr/>
 </ol>
