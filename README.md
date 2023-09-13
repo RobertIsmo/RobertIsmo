@@ -60,10 +60,16 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, September 13, Central Standard Time</p>
 <p>
-Currently, there are some pretty major news events going on in US and world news. In the US, Mitt Romney has suggested that he will retire to make way for a &quot;new generation&quot; of leaders beyond President Biden and former President Trump. Additionally, reports have come out that Trump has been encouraging Republican lawmakers to impeach President Biden. On the economic front, inflation is on the rise and the Federal Reserve is taking notice.
+Right now, there is a lot going on in the United States and around the world. In Pennsylvania, a fugitive was successfully captured after two weeks of eluding police. At the same time, Mitt Romney announced his retirement from politics and called for a ‘new generation’ of leaders to emerge beyond Biden and Trump. The House Speaker, McCarthy, reversed his stance on beginning an impeachment inquiry, which could have major consequences for the investigation. There is also an increasingly hostile situation between Putin and Kim that could escalate and bring huge repercussions. 
 
-In world news, military tensions between Ukraine and Russia are at an all-time high as Ukraine has fired missiles at Russia&#39;s Black Sea Fleet in Crimea. There have also been devastating floods in Libya, where more than 10,000 people are missing and over 5,000 have died. Morocco&#39;s mountains have also recently experienced a large earthquake that has put their tourist industry in doubt.</p>
+On the other side of things, inflation has been increasing as gas prices rise and Libya was hit with the most devastating floods in its history. This flood killed over 5,200 people and displaced 30,000 more. Lastly, a beautiful performing arts center has risen at Ground Zero in New York City while a standoff between electric vehicle workers and companies looms in the US—a test for Biden to make electric vehicles into well-paying union jobs.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Fugitive’s Capture Brings Relief to a Corner of Pennsylvania</h3>
+<sub>By Campbell Robertson</sub>
+<p>After escaping from a county jail last month, Danelo Cavalcante eluded hundreds of law enforcement officers for nearly two weeks.  <a href="https://nyti.ms/3RCMcx5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 13, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Romney to Retire, Calling For a ‘New Generation’ Beyond Biden and Trump</h3>
 <sub>By Annie Karni</sub>
@@ -71,9 +77,9 @@ In world news, military tensions between Ukraine and Russia are at an all-time h
 <sub><sub>Wednesday, September 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Has Been Privately Encouraging G.O.P. Lawmakers to Impeach Biden</h3>
-<sub>By Jonathan Swan, Maggie Haberman and Alyce McFadden</sub>
-<p>The former president has talked regularly with members of the House Freedom Caucus and other congressional Republicans who pushed for impeachment.  <a href="https://nyti.ms/45RWAoW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>McCarthy Reversal on Impeachment Inquiry Reflects Pressure From the Right</h3>
+<sub>By Luke Broadwater</sub>
+<p>The speaker, who formerly argued that the House must vote before opening an impeachment inquiry, changed his tune this week, a decision that could have consequences for the investigation.  <a href="https://nyti.ms/3Rmmaho"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -89,21 +95,27 @@ In world news, military tensions between Ukraine and Russia are at an all-time h
 <sub><sub>Wednesday, September 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Strikes the Headquarters of Russia’s Black Sea Fleet in Crimea</h3>
-<sub>By Marc Santora and Andrés R. Martínez</sub>
-<p>The Russian Ministry of Defense said that it had shot down seven of 10 cruise missiles that Ukraine fired at the facility in the city of Sevastopol. The area hosts naval operations key to Moscow’s war efforts in Ukraine.  <a href="https://nyti.ms/3PD92mP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>More Than 10,000 Believed Missing After Libyan Floods</h3>
+<h3>Libyan Flood Survivor Recounts Horror After Dams Burst</h3>
 <sub>By Aaron Boxerman and Raja Abdulrahim</sub>
-<p>“We walked out barefoot and saw our friends and neighbors dying around us. And we couldn’t do anything,” said one survivor in the city of Derna. More than 5,000 people are reported dead.  <a href="https://nyti.ms/3EElCM0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>“We walked out barefoot and saw our friends and neighbors dying,” said a woman from the hard-hit city of Derna. More than 5,000 are reported dead and 10,000 more are believed to be missing.  <a href="https://nyti.ms/3EElCM0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>Floods in Libya</h3>
-<sub>By David Leonhardt and Lauren Jackson</sub>
-<p>At least 5,200 people have died and thousands more are missing.  <a href="https://nyti.ms/44Vcm0O"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>What We Know About the Deadly Floods in Libya</h3>
+<sub>By Raja Abdulrahim</sub>
+<p>At least 5,200 people were killed, and at least 30,000 were displaced. Heavy rain caused two dams to break, devastating the coastal city of Derna.  <a href="https://nyti.ms/468UBMB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Why Floods Can Turn So Deadly, So Fast</h3>
+<sub>By Delger Erdenesanaa</sub>
+<p>The flooding Libya shows how climate, geography and other factors can collide with swift and disastrous results.  <a href="https://nyti.ms/3ED5hax"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Putin and Kim Find Common Ground in Hostility Toward the West</h3>
+<sub>By Paul Sonne and Choe Sang-Hun</sub>
+<p>The two leaders trumpeted their ties in a summit that signaled a new era in their relationship, amid speculation that North Korea would send more weapons to Moscow for its war in Ukraine.  <a href="https://nyti.ms/3sQSgHV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
@@ -122,18 +134,6 @@ In world news, military tensions between Ukraine and Russia are at an all-time h
 <h3>Economic Impact of an Auto Strike Could Be Felt Nationwide</h3>
 <sub>By Santul Nerkar</sub>
 <p>An extended walkout by the United Auto Workers in a contract dispute could raise car prices and affect jobs at the companies’ suppliers.  <a href="https://nyti.ms/44PK4ou"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.S. Automakers Face a Huge Strike. Here’s What to Know.</h3>
-<sub>By J. Edward Moreno</sub>
-<p>U.A.W. workers could strike as soon as Friday. The union and the carmakers remain far apart on wages.  <a href="https://nyti.ms/46tkSFJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Morocco’s Quake Zone Now Fears for Its Livelihood, Too</h3>
-<sub>By Vivian Yee and Aida Alami</sub>
-<p>The towns and villages of the Atlas Mountains were building a thriving tourist economy. The devastation of the earthquake puts that in doubt.  <a href="https://nyti.ms/3sKa33e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
