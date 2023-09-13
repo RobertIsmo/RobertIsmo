@@ -60,7 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, September 13, Central Standard Time</p>
 <p>
-Things are pretty chaotic in the world right now. There&#39;s a lot of conflict and tension between Russia and Ukraine, as Moscow has expanded its missile production despite sanctions and Ukraine recently fired missiles at the facilities of Russia&#39;s Black Sea Fleet in Crimea. Sadly, there has also been a lot of natural disaster recently: floods in Libya have killed more than 5,000 people recently, while an earthquake hit Morocco and flattened villages. Adding to the chaos, former President Trump is encouraging Republican lawmakers to impeach President Biden despite little evidence to back up their allegations. On a lighter note, New York City is building its first new performance center for the arts at Ground Zero since 9&#x2F;11! Finally, abortion rights are unexpectedly on the ballot in a few places - and winning - which is an encouraging change from the status quo.</p>
+Things aren&#39;t looking so good for Ukraine right now. Russia has increased its production of missiles, leaving the country more vulnerable in the coming months. To make matters worse, they just fired cruise missiles at a Russian military facility in Crimea - and Russia shot them down.
+
+Meanwhile in Libya, two dams have been destroyed due to a deluge of powerful rains leading to a reported death toll of over 5,000 people.
+
+On the political front, former President Trump has been trying to encourage GOP lawmakers to impeach President Biden based on unsubstantiated allegations. Meanwhile in Morocco, an earthquake shook villages and triggered a race to save survivors - thousands were reported dead. 
+
+Voters are also taking action on abortion rights - succeeding in some unexpected places - while Senator Tuberville is blocking military promotions unless the Pentagon cancels its access-to-abortion policy.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Russia Overcomes Sanctions to Expand Missile Production, Officials Say</h3>
@@ -76,8 +82,8 @@ Things are pretty chaotic in the world right now. There&#39;s a lot of conflict 
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Aid Trickles Into Libya, but Flood Damage Hampers Relief Efforts</h3>
-<sub>By Raja Abdulrahim</sub>
-<p>More than 5,000 people are reported to have died in the floods in recent days. As international relief gradually arrived, the U.N. pledged $10 million in aid.  <a href="https://nyti.ms/3EElCM0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub>By Raja Abdulrahim and Aaron Boxerman</sub>
+<p>“We walked out barefoot and saw our friends and neighbors dying around us. And we couldn’t do anything,” said one survivor in Derna. More than 5,000 people are reported dead.  <a href="https://nyti.ms/3EElCM0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -85,6 +91,18 @@ Things are pretty chaotic in the world right now. There&#39;s a lot of conflict 
 <sub>By The New York Times</sub>
 <p>Powerful rains destroyed two dams, and the death toll in the North African country is estimated at more than 5,000.  <a href="https://nyti.ms/45FVv3j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>Floods in Libya</h3>
+<sub>By David Leonhardt and Lauren Jackson</sub>
+<p>At least 5,200 people have died and thousands more are missing.  <a href="https://nyti.ms/44Vcm0O"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>A Spectacular Marble Cube Rises at Ground Zero</h3>
+<sub>By Michael Kimmelman</sub>
+<p>The Perelman Performing Arts Center, a glamorous $500 million project, may yet turn the World Trade Center into a neighborhood, our critic writes.  <a href="https://nyti.ms/3Ri1KG8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Has Been Privately Encouraging G.O.P. Lawmakers to Impeach Biden</h3>
@@ -98,12 +116,6 @@ Things are pretty chaotic in the world right now. There&#39;s a lot of conflict 
 <p>Republicans claim they have unearthed evidence of wrongdoing by the president and his family that could rise to the level of high crimes and misdemeanors. In fact, there’s little to back up their allegations.  <a href="https://nyti.ms/3LjfPiE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>F.B.I. Agent Undercuts Claims of Political Interference in Hunter Biden Inquiry</h3>
-<sub>By Luke Broadwater</sub>
-<p>Thomas Sobocinski, an F.B.I. agent, told House investigators that the prosecutor overseeing the investigation into the president’s son never said he did not have full authority to pursue charges.  <a href="https://nyti.ms/3PgUwjd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Morocco’s Quake Zone Now Fears for Its Livelihood, Too</h3>
 <sub>By Vivian Yee and Aida Alami</sub>
@@ -111,28 +123,22 @@ Things are pretty chaotic in the world right now. There&#39;s a lot of conflict 
 <sub><sub>Wednesday, September 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Earthquake Puts Morocco’s Elusive King in Spotlight</h3>
-<sub>By Steven Erlanger</sub>
-<p>The monarchy is revered and nearly all powerful in Morocco. But details about the lives and actions of the king, his family and his entourage remain mysterious and subject to speculation.  <a href="https://nyti.ms/3PgwC7t"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>What We Know About the Earthquake That Devastated Morocco</h3>
 <sub>By Aaron Boxerman</sub>
 <p>Thousands of people were killed after an earthquake flattened villages, rattled ancient mosques and touched off a race to save survivors.  <a href="https://nyti.ms/3rdaN0u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>A Spectacular Marble Cube Rises at Ground Zero</h3>
-<sub>By Michael Kimmelman</sub>
-<p>The Perelman Performing Arts Center, a glamorous $500 million project, may yet turn the World Trade Center into a neighborhood, our critic writes.  <a href="https://nyti.ms/3Ri1KG8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
 <h3>The Surprising Places Where Abortion Rights Are on the Ballot, and Winning</h3>
 <sub>By Emily Bazelon</sub>
 <p>After Dobbs, the political ground seems to be shifting in some unpredictable ways.  <a href="https://nyti.ms/3PanPUq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Senator’s Blockade of Military Promotions Begins to Cut Deep</h3>
+<sub>By Helene Cooper</sub>
+<p>Tommy Tuberville of Alabama has refused to lift his hold unless the Pentagon cancels a policy ensuring that service members have access to abortion.  <a href="https://nyti.ms/469XBZa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
