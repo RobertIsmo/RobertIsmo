@@ -60,13 +60,37 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, September 13, Central Standard Time</p>
 <p>
-There has been some major news in the world recently. In the US, Speaker Kevin McCarthy launched an impeachment inquiry against President Biden due to some far-right House Republicans being angry with spending. Evidence of wrongdoing by the president and his family has surfaced, but there is little to back up these claims. Meanwhile, in Libya there was a catastrophic flooding disaster caused by Storm Daniel breaking two dams in the city of Derna, which left more than 5,000 dead and destroyed entire neighborhoods. In Ukraine, there were Russian naval ships at a facility in the city of Sevastopol that were hit with 10 cruise missiles. In Russia, the leader Putin commented on Donald Trump&#39;s &quot;persecution&quot; and offered praise for Elon Musk. Apple also unveiled its new iPhones with USB-C chargers due to European regulations requiring it across all electronic devices. A decongestant used in many cold medicines is now deemed ineffective by Food and Drug Administration experts.</p>
+Things are pretty chaotic in the world right now. There&#39;s a lot of conflict and tension between Russia and Ukraine, as Moscow has expanded its missile production despite sanctions and Ukraine recently fired missiles at the facilities of Russia&#39;s Black Sea Fleet in Crimea. Sadly, there has also been a lot of natural disaster recently: floods in Libya have killed more than 5,000 people recently, while an earthquake hit Morocco and flattened villages. Adding to the chaos, former President Trump is encouraging Republican lawmakers to impeach President Biden despite little evidence to back up their allegations. On a lighter note, New York City is building its first new performance center for the arts at Ground Zero since 9&#x2F;11! Finally, abortion rights are unexpectedly on the ballot in a few places - and winning - which is an encouraging change from the status quo.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>McCarthy, Facing an Ouster and a Shutdown, Orders an Impeachment Inquiry</h3>
-<sub>By Carl Hulse, Luke Broadwater and Annie Karni</sub>
-<p>The move against President Biden, which Speaker Kevin McCarthy had been signaling for weeks, comes as some far-right House Republicans are irate over spending and threatening to depose him.  <a href="https://nyti.ms/3Pe1yoO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Russia Overcomes Sanctions to Expand Missile Production, Officials Say</h3>
+<sub>By Julian E. Barnes, Eric Schmitt and Thomas Gibbons-Neff</sub>
+<p>Moscow’s missile production now exceeds prewar levels, officials say, leaving Ukraine especially vulnerable this coming winter.  <a href="https://nyti.ms/3sP9c1k"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukraine Strikes the Headquarters of Russia’s Black Sea Fleet in Crimea</h3>
+<sub>By Marc Santora and Andrés R. Martínez</sub>
+<p>The Russian Ministry of Defense said that it shot down seven of 10 cruise missiles that Ukraine fired at the facility in the city of Sevastopol. The area hosts naval operations key to Moscow’s war efforts in Ukraine.  <a href="https://nyti.ms/3PD92mP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Aid Trickles Into Libya, but Flood Damage Hampers Relief Efforts</h3>
+<sub>By Raja Abdulrahim</sub>
+<p>More than 5,000 people are reported to have died in the floods in recent days. As international relief gradually arrived, the U.N. pledged $10 million in aid.  <a href="https://nyti.ms/3EElCM0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Scenes From a Deluge: Floods Devastate Libya</h3>
+<sub>By The New York Times</sub>
+<p>Powerful rains destroyed two dams, and the death toll in the North African country is estimated at more than 5,000.  <a href="https://nyti.ms/45FVv3j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Has Been Privately Encouraging G.O.P. Lawmakers to Impeach Biden</h3>
+<sub>By Jonathan Swan, Maggie Haberman and Alyce McFadden</sub>
+<p>The former president has talked regularly with members of the House Freedom Caucus and other congressional Republicans who pushed for impeachment.  <a href="https://nyti.ms/45RWAoW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>What We Know About the Impeachment Case Against Biden</h3>
@@ -81,57 +105,33 @@ There has been some major news in the world recently. In the US, Speaker Kevin M
 <sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>More Than 5,000 Dead in Libya as Collapsed Dams Worsen Flood Disaster</h3>
-<sub>By Mohammed Abdusamee, Vivian Nereim and Isabella Kwai</sub>
-<p>In a catastrophe recalling Hurricane Katrina, a heavy storm burst through dams to unleash their waters on the city of Derna, sweeping away entire neighborhoods.  <a href="https://nyti.ms/45KKkGw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Morocco’s Quake Zone Now Fears for Its Livelihood, Too</h3>
+<sub>By Vivian Yee and Aida Alami</sub>
+<p>The towns and villages of the Atlas Mountains were building a thriving tourist economy. The devastation of the earthquake puts that in doubt.  <a href="https://nyti.ms/3sKa33e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Earthquake Puts Morocco’s Elusive King in Spotlight</h3>
+<sub>By Steven Erlanger</sub>
+<p>The monarchy is revered and nearly all powerful in Morocco. But details about the lives and actions of the king, his family and his entourage remain mysterious and subject to speculation.  <a href="https://nyti.ms/3PgwC7t"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Mapping Where Floods Have Devastated a Libyan Port City</h3>
-<sub>By Lauren Leatherby, Lazaro Gamio, Zach Levitt, Leanne Abraham and Tim Wallace</sub>
-<p>Derna, on Libya’s northeast coast, was inundated with floodwaters that killed more than 5,000 people after Storm Daniel made landfall on Sunday.  <a href="https://nyti.ms/3LmHO0W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>What We Know About the Earthquake That Devastated Morocco</h3>
+<sub>By Aaron Boxerman</sub>
+<p>Thousands of people were killed after an earthquake flattened villages, rattled ancient mosques and touched off a race to save survivors.  <a href="https://nyti.ms/3rdaN0u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Scenes From a Deluge: Floods Devastate Libya</h3>
-<sub>By The New York Times</sub>
-<p>Powerful rains destroyed two dams, and the death toll in the North African country is estimated at more than 5,000.  <a href="https://nyti.ms/45FVv3j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>A Spectacular Marble Cube Rises at Ground Zero</h3>
+<sub>By Michael Kimmelman</sub>
+<p>The Perelman Performing Arts Center, a glamorous $500 million project, may yet turn the World Trade Center into a neighborhood, our critic writes.  <a href="https://nyti.ms/3Ri1KG8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Strikes Russian Naval Ships at Black Sea Facility</h3>
-<sub>By Andrés R. Martínez and Marc Santora</sub>
-<p>The Russian Ministry of Defense said that Ukraine fired 10 cruise missiles at the facility in the city of Sevastopol. The area hosts naval operations that are key to Moscow’s war efforts in Ukraine.  <a href="https://nyti.ms/3PD92mP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Putin, Citing Trump ‘Persecution,’ Wades Back Into U.S. Politics</h3>
-<sub>By Paul Sonne and Michael C. Bender</sub>
-<p>The Russian leader, whose government meddled in the American presidential election won by Donald J. Trump, also offered words of praise for Elon Musk.  <a href="https://nyti.ms/3PBs5Oc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Apple Unveils iPhone 15 and Switches to USB-C Charger</h3>
-<sub>By Tripp Mickle</sub>
-<p>European regulators passed a rule requiring USB-C charging across electronic devices, forcing the change in Apple’s newest iPhones.  <a href="https://nyti.ms/3PiwoMU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>How to Navigate Apple’s Shift From Lightning to USB-C</h3>
-<sub>By Brian X. Chen</sub>
-<p>The dream of carrying one power cable for all your devices is becoming a reality. But things aren’t as simple as they sound.  <a href="https://nyti.ms/3PhDUrj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>A Decongestant in Cold Medicines Doesn’t Work at All, an F.D.A. Panel Says</h3>
-<sub>By Christina Jewett and Roni Caryn Rabin</sub>
-<p>The agency now must decide whether products containing the ingredient, like some Sudafed and NyQuil products, should no longer be sold or perhaps give companies lead time to substitute other ingredients.  <a href="https://nyti.ms/3ZelufK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>A Decongestant in Many Cold Medicines is Ineffective.</h3>
-<sub>By Dani Blum</sub>
-<p>Here’s what you can use instead.  <a href="https://nyti.ms/3rguRPq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>The Surprising Places Where Abortion Rights Are on the Ballot, and Winning</h3>
+<sub>By Emily Bazelon</sub>
+<p>After Dobbs, the political ground seems to be shifting in some unpredictable ways.  <a href="https://nyti.ms/3PanPUq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
 <hr/>
 </ol>
