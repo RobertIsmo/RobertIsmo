@@ -60,37 +60,45 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, September 13, Central Standard Time</p>
 <p>
-Things aren&#39;t looking so good for Ukraine right now. Russia has increased its production of missiles, leaving the country more vulnerable in the coming months. To make matters worse, they just fired cruise missiles at a Russian military facility in Crimea - and Russia shot them down.
+Currently, there are some pretty major news events going on in US and world news. In the US, Mitt Romney has suggested that he will retire to make way for a &quot;new generation&quot; of leaders beyond President Biden and former President Trump. Additionally, reports have come out that Trump has been encouraging Republican lawmakers to impeach President Biden. On the economic front, inflation is on the rise and the Federal Reserve is taking notice.
 
-Meanwhile in Libya, two dams have been destroyed due to a deluge of powerful rains leading to a reported death toll of over 5,000 people.
-
-On the political front, former President Trump has been trying to encourage GOP lawmakers to impeach President Biden based on unsubstantiated allegations. Meanwhile in Morocco, an earthquake shook villages and triggered a race to save survivors - thousands were reported dead. 
-
-Voters are also taking action on abortion rights - succeeding in some unexpected places - while Senator Tuberville is blocking military promotions unless the Pentagon cancels its access-to-abortion policy.</p>
+In world news, military tensions between Ukraine and Russia are at an all-time high as Ukraine has fired missiles at Russia&#39;s Black Sea Fleet in Crimea. There have also been devastating floods in Libya, where more than 10,000 people are missing and over 5,000 have died. Morocco&#39;s mountains have also recently experienced a large earthquake that has put their tourist industry in doubt.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Russia Overcomes Sanctions to Expand Missile Production, Officials Say</h3>
-<sub>By Julian E. Barnes, Eric Schmitt and Thomas Gibbons-Neff</sub>
-<p>Moscow’s missile production now exceeds prewar levels, officials say, leaving Ukraine especially vulnerable this coming winter.  <a href="https://nyti.ms/3sP9c1k"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
+<h3>Romney to Retire, Calling For a ‘New Generation’ Beyond Biden and Trump</h3>
+<sub>By Annie Karni</sub>
+<p>The Utah Republican and 2012 G.O.P. presidential nominee, 76, said he would step aside to make way for younger leaders and strongly suggested the president and former president should, too.  <a href="https://nyti.ms/3LoCytY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Has Been Privately Encouraging G.O.P. Lawmakers to Impeach Biden</h3>
+<sub>By Jonathan Swan, Maggie Haberman and Alyce McFadden</sub>
+<p>The former president has talked regularly with members of the House Freedom Caucus and other congressional Republicans who pushed for impeachment.  <a href="https://nyti.ms/45RWAoW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>He Was a Hillary Clinton Cheerleader. Now He Calls Democrats a Threat.</h3>
+<sub>By Charles Homans</sub>
+<p>Peter Daou, a former Democratic activist, is running Cornel West’s third-party campaign. He talked to The New York Times about how he came to view the two-party system as a bigger problem than Donald J. Trump.  <a href="https://nyti.ms/3ZdRkcB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Inflation Sped Up as Gas Prices Rose</h3>
+<sub>By Jeanna Smialek</sub>
+<p>Consumer prices rose 3.7 percent in the year through August, marking another month of accelerating inflation. The Federal Reserve will closely parse the data as it prepares its next interest-rate decision.  <a href="https://nyti.ms/3RiwO8I"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ukraine Strikes the Headquarters of Russia’s Black Sea Fleet in Crimea</h3>
 <sub>By Marc Santora and Andrés R. Martínez</sub>
-<p>The Russian Ministry of Defense said that it shot down seven of 10 cruise missiles that Ukraine fired at the facility in the city of Sevastopol. The area hosts naval operations key to Moscow’s war efforts in Ukraine.  <a href="https://nyti.ms/3PD92mP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The Russian Ministry of Defense said that it had shot down seven of 10 cruise missiles that Ukraine fired at the facility in the city of Sevastopol. The area hosts naval operations key to Moscow’s war efforts in Ukraine.  <a href="https://nyti.ms/3PD92mP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Aid Trickles Into Libya, but Flood Damage Hampers Relief Efforts</h3>
-<sub>By Raja Abdulrahim and Aaron Boxerman</sub>
-<p>“We walked out barefoot and saw our friends and neighbors dying around us. And we couldn’t do anything,” said one survivor in Derna. More than 5,000 people are reported dead.  <a href="https://nyti.ms/3EElCM0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>More Than 10,000 Believed Missing After Libyan Floods</h3>
+<sub>By Aaron Boxerman and Raja Abdulrahim</sub>
+<p>“We walked out barefoot and saw our friends and neighbors dying around us. And we couldn’t do anything,” said one survivor in the city of Derna. More than 5,000 people are reported dead.  <a href="https://nyti.ms/3EElCM0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Scenes From a Deluge: Floods Devastate Libya</h3>
-<sub>By The New York Times</sub>
-<p>Powerful rains destroyed two dams, and the death toll in the North African country is estimated at more than 5,000.  <a href="https://nyti.ms/45FVv3j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-briefing-blue" alt="">
 <h3>Floods in Libya</h3>
@@ -104,40 +112,28 @@ Voters are also taking action on abortion rights - succeeding in some unexpected
 <p>The Perelman Performing Arts Center, a glamorous $500 million project, may yet turn the World Trade Center into a neighborhood, our critic writes.  <a href="https://nyti.ms/3Ri1KG8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Has Been Privately Encouraging G.O.P. Lawmakers to Impeach Biden</h3>
-<sub>By Jonathan Swan, Maggie Haberman and Alyce McFadden</sub>
-<p>The former president has talked regularly with members of the House Freedom Caucus and other congressional Republicans who pushed for impeachment.  <a href="https://nyti.ms/45RWAoW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Standoff Over Electric Vehicle Workers Poses Risk for Biden</h3>
+<sub>By Noam Scheiber</sub>
+<p>A looming auto industry strike could test the president’s commitment to making electric vehicles a source of well-paying union jobs.  <a href="https://nyti.ms/48b8GuL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What We Know About the Impeachment Case Against Biden</h3>
-<sub>By Luke Broadwater</sub>
-<p>Republicans claim they have unearthed evidence of wrongdoing by the president and his family that could rise to the level of high crimes and misdemeanors. In fact, there’s little to back up their allegations.  <a href="https://nyti.ms/3LjfPiE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Economic Impact of an Auto Strike Could Be Felt Nationwide</h3>
+<sub>By Santul Nerkar</sub>
+<p>An extended walkout by the United Auto Workers in a contract dispute could raise car prices and affect jobs at the companies’ suppliers.  <a href="https://nyti.ms/44PK4ou"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>U.S. Automakers Face a Huge Strike. Here’s What to Know.</h3>
+<sub>By J. Edward Moreno</sub>
+<p>U.A.W. workers could strike as soon as Friday. The union and the carmakers remain far apart on wages.  <a href="https://nyti.ms/46tkSFJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Morocco’s Quake Zone Now Fears for Its Livelihood, Too</h3>
 <sub>By Vivian Yee and Aida Alami</sub>
 <p>The towns and villages of the Atlas Mountains were building a thriving tourist economy. The devastation of the earthquake puts that in doubt.  <a href="https://nyti.ms/3sKa33e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>What We Know About the Earthquake That Devastated Morocco</h3>
-<sub>By Aaron Boxerman</sub>
-<p>Thousands of people were killed after an earthquake flattened villages, rattled ancient mosques and touched off a race to save survivors.  <a href="https://nyti.ms/3rdaN0u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>The Surprising Places Where Abortion Rights Are on the Ballot, and Winning</h3>
-<sub>By Emily Bazelon</sub>
-<p>After Dobbs, the political ground seems to be shifting in some unpredictable ways.  <a href="https://nyti.ms/3PanPUq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Senator’s Blockade of Military Promotions Begins to Cut Deep</h3>
-<sub>By Helene Cooper</sub>
-<p>Tommy Tuberville of Alabama has refused to lift his hold unless the Pentagon cancels a policy ensuring that service members have access to abortion.  <a href="https://nyti.ms/469XBZa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
