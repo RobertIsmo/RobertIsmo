@@ -60,10 +60,10 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, September 13, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. The U.A.W. is poised to stage a partial strike against Detroit automakers this Friday, with union president Shawn Fain ruling out a contract extension for further negotiations. This could test President Biden&#39;s commitment to creating well-paying jobs through electric vehicles. Meanwhile, in Pennsylvania, a fugitive has finally been captured, ending a two-week manhunt. The Supreme Court has declared the DACA program—which has allowed thousands of young immigrants to remain legally in the states—illegal. Utah&#39;s Republican senator and 2012 presidential nominee Mitt Romney has announced his retirement, urging for a &quot;new generation&quot; of leadership beyond President Trump and Joe Biden. Republican House Speaker McCarthy recently reversed his stance of needing a vote for an impeachment inquiry due to pressure from the right wing of the party. Ex-Hillary Clinton supporter Peter Daou is now running Cornel West&#39;s third-party campaign against the two-party system, while Vivek Ramaswamy has admitted his intention to fire most of the federal workforce if elected. Libya was recently hit by devastating floods that left many dead and missing and spotlighted how climate change can have swift and destructive consequences. Furthering international issues, Russian President Putin and North Korean leader Kim Jong Un recently heralded their solidarity in a summit signalling new ties between their countries, possibly signalling more arms from North Korea towards Russia for its war in Ukraine. Finally, Evan Gershkovich&#39;s family are appealing to the United Nations for help in securing his release; Gershkovich is a reported for the Wall Street Journal who has been detained since June 2020 in Russia.</p>
+There&#39;s a lot happening in the world right now. First, Detroit automakers are facing a limited strike tomorrow as the USW (United Auto Workers) president Shawn Fain has said that negotiators aren&#39;t close to reaching an agreement. This could test President Biden&#39;s commitment to making electric vehicles a source of well-paying union jobs. In Pennsylvania, police recently captured Danelo Cavalcante after he escaped county jail last month and was on the run for two weeks. Meanwhile, a judge has ruled that DACA (Deferred Action for Childhood Arrivals) program is still illegal. In politics, previous Republican presidential nominee Mitt Romney has announced retirement, and Peter Daou, formerly a Democratic activist, is now running Cornel West&#39;s third-party campaign and views the two-party system as a bigger problem than Donald J Trump. In New Jersey, former governor Chris Christie and singer Bruce Springsteen have had a one-sided relationship due to their political differences but are now on good terms. Meanwhile, Republican nominee Vivek Ramaswamy has vowed to demolish much of the federal government should he get elected. On the international side of things, there was devastating flooding in Libya which killed thousands of people and left many missing. Scientists say this was due to climate change and geography coming together with disastrous results very quickly. Lastly, Vladimir Putin and Kim Jong Un had a summit where they showcased their ties which signals a new era in their relationship amid speculation North Korea may be providing more weapons to Moscow for Ukraine&#39;s war.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.A.W. Prepares for Partial Strike Against Detroit Automakers on Friday</h3>
+<h3>U.A.W. Prepares for Limited Strike Against Detroit Automakers on Friday</h3>
 <sub>By Neal E. Boudette</sub>
 <p>The union’s president, Shawn Fain, said negotiators were nowhere near an agreement and ruled out a contract extension while talks continued.  <a href="https://nyti.ms/3Lp0InU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 13, Central Standard Time</sub></sub>
@@ -81,9 +81,15 @@ There is a lot going on in the world right now. The U.A.W. is poised to stage a 
 <sub><sub>Wednesday, September 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Federal Judge Again Rules DACA Is Illegal</h3>
+<h3>Police officers posed for a photo with the fugitive after his capture.</h3>
+<sub>By Shaila Dewan</sub>
+<p>  <a href="https://nyti.ms/3ZeU1L2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Judge Rules DACA Program for Young Immigrants Is Still Illegal</h3>
 <sub>By Miriam Jordan</sub>
-<p>The program has allowed thousands of young immigrants to avoid deportation and work legally.  <a href="https://nyti.ms/48dKbgm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The judge maintained that President Barack Obama exceeded his authority when he created the program, which has allowed thousands of undocumented immigrants to avoid deportation and work legally.  <a href="https://nyti.ms/48dKbgm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -93,15 +99,15 @@ There is a lot going on in the world right now. The U.A.W. is poised to stage a 
 <sub><sub>Wednesday, September 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>McCarthy Reversal on Impeachment Inquiry Reflects Pressure From the Right</h3>
-<sub>By Luke Broadwater</sub>
-<p>The speaker, who formerly argued that the House must vote before opening an impeachment inquiry, changed his tune this week, a decision that could have consequences for the investigation.  <a href="https://nyti.ms/3Rmmaho"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>He Was a Hillary Clinton Cheerleader. Now He Calls Democrats a Threat.</h3>
 <sub>By Charles Homans</sub>
 <p>Peter Daou, a former Democratic activist, is running Cornel West’s third-party campaign. He talked to The New York Times about how he came to view the two-party system as a bigger problem than Donald J. Trump.  <a href="https://nyti.ms/3ZdRkcB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Christie and the Boss: A One-Sided Jersey Relationship Warms Up (Sort Of)</h3>
+<sub>By Nick Corasaniti</sub>
+<p>The former New Jersey governor idolizes Bruce Springsteen, but their political differences have led to frostiness. Now, according to Chris Christie, their relationship is “a good one.”  <a href="https://nyti.ms/3LidFjC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -126,12 +132,6 @@ There is a lot going on in the world right now. The U.A.W. is poised to stage a 
 <h3>Putin and Kim Find Common Ground in Hostility Toward the West</h3>
 <sub>By Paul Sonne and Choe Sang-Hun</sub>
 <p>The two leaders trumpeted their ties in a summit that signaled a new era in their relationship, amid speculation that North Korea would send more weapons to Moscow for its war in Ukraine.  <a href="https://nyti.ms/3sQSgHV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Evan Gershkovich’s family appeals to the U.N. for help in securing his release.</h3>
-<sub>By Anushka Patil</sub>
-<p>The Wall Street Journal reporter’s parents and sister visited the U.N. just days before world leaders arrive for the annual General Assembly.  <a href="https://nyti.ms/3LmzaQc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
