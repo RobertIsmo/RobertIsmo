@@ -60,22 +60,23 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, September 14, Central Standard Time</p>
 <p>
-Right now there&#39;s a lot happening in the world that is concerning. Politicians are essentially selling tickets to migrants in order to get into the US, which is alarming. Meanwhile, South and North Korea have been supplying munitions to wars in other countries. 
+Right now, things are pretty busy in the world. President Biden&#39;s son has been indicted on gun charges. Also, migration policies are in flux - politicians are charging millions to have people sent to the US illegally. 
+Biden has also appointed the former commerce secretary Penny Pritzker to help with Ukraine&#39;s economic recovery. In Libya there&#39;s a chaotic struggle for rescuers after a deadly flood happened there.
 
-The Biden administration is putting an emphasis on economic recovery in Ukraine, but thousands of people have died due to floods in Libya, and thousands more are missing. Additionally, the White House is taking an active role to combat the current impeachment inquiry with politics. 
+In entertainment, The Rolling Stones have just release their first album of new songs since 2005 and first since the death of Charlie Watts. The White House is facing an impeachment inquiry with the President trying to combat it with politics rather than law. He plans to give a speech about democracy soon too.
 
-On a lighter note, The Rolling Stones recently released their first album since 2005 and are talking about it publicly, and Marilyn Monroe&#39;s last home is being saved from demolition in Los Angeles despite her death over 60 years ago. A global energy executive is leading the world away from oil, while unions plan to go on a limited strike against Detroit automakers this Friday.</p>
+Chris Christie has made big bet on New Hampshire for his candidacy and Romney recently wrote a gossipy biography about his own career in politics. In Morocco, there was an earthquake that resulted in people being left homeless, scared and in some cases pregnant. Finally, in New York region there is a court case against a fisherman accused of taking too many fish from the seas of Montauk.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Hunter Biden Indicted on Gun Charges</h3>
+<sub>By Michael S. Schmidt and Glenn Thrush</sub>
+<p>The Justice Department charged President Biden’s son after the collapse of an earlier plea deal and amid an impeachment investigation by House Republicans.  <a href="https://nyti.ms/44V1mjU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>‘A Ticket to Disney’? Politicians Charge Millions to Send Migrants to U.S.</h3>
 <sub>By Julie Turkewitz and Federico Rios</sub>
 <p>The Biden administration vowed to “end the illicit movement” of people through the Darién jungle. But the number of migrants moving through the forest has never been greater — and the profits are too big to pass up.  <a href="https://nyti.ms/46d90Hu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>History Turns Upside Down in a War Where the Koreas Are Suppliers</h3>
-<sub>By Choe Sang-Hun</sub>
-<p>Desperate for munitions for the war in Ukraine, the U.S. and Russia have turned to their allies in South and North Korea, which kept stockpiling arms for decades after their own conflict.  <a href="https://nyti.ms/3RlcHqA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -89,12 +90,6 @@ On a lighter note, The Rolling Stones recently released their first album since 
 <sub>By Raja Abdulrahim and Isabella Kwai</sub>
 <p>“The situation is still very bad — there is a mismanagement of the crisis,” said one volunteer. Thousands of people died, and many are still missing, after the collapse of two dams.  <a href="https://nyti.ms/3PlpHtG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Cries of ‘Save Us, Save Us’ as Homes Fill With Water</h3>
-<sub>By Aaron Boxerman and Raja Abdulrahim</sub>
-<p>“We walked out barefoot and saw our friends and neighbors dying,” said a woman from Derna, Libya. More than 5,000 are reported dead, and 10,000 more are believed to be missing.  <a href="https://nyti.ms/3EElCM0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>The Rolling Stones on Starting Up Again</h3>
@@ -114,29 +109,35 @@ On a lighter note, The Rolling Stones recently released their first album since 
 <p>One location under consideration for the remarks is the democracy-focused McCain Institute in Arizona.  <a href="https://nyti.ms/3sV0K0A"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Christie’s Big Bet: ‘If I Don’t Do Well in New Hampshire, Then I’ll Leave’</h3>
+<sub>By Nick Corasaniti</sub>
+<p>As he stakes his candidacy on the state, Chris Christie is promising to find new ways to confront Donald Trump. “I’m not going to let him get away with being a coward,” he said in an interview.  <a href="https://nyti.ms/468SZSY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Six Takeaways From Romney’s Tea-Spilling Biography</h3>
+<sub>By Annie Karni</sub>
+<p>The Utah Republican’s announcement that he would retire coincided with the publication of a forthcoming book based on extensive interviews in which he slammed his party and the Senate.  <a href="https://nyti.ms/3Lpik3j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Walking Out of Morocco’s Rubble, Pregnant, Scared and Homeless</h3>
 <sub>By Catherine Porter</sub>
 <p>Clambering away from an earthquake’s devastation and death, a family emerges treasuring a single new life.  <a href="https://nyti.ms/48iRHXl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.A.W. Prepares for Limited Strike Against Detroit Automakers on Friday</h3>
-<sub>By Neal E. Boudette</sub>
-<p>The union’s president, Shawn Fain, said negotiators were nowhere near an agreement and ruled out a contract extension while talks continued.  <a href="https://nyti.ms/3Lp0InU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Meet the Oil Man in Charge of Leading the World Away From Oil</h3>
-<sub>By Max Bearak and Sergey Ponomarev</sub>
-<p>Sultan al-Jaber, the energy executive leading this year’s global climate summit, says fossil fuel companies are key to the world’s energy transition. Some disagree.  <a href="https://nyti.ms/3RDtHIT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Georgia Judge Orders 2 Trials for Defendants in Trump Election Case</h3>
+<sub>By Richard Fausset and Danny Hakim</sub>
+<p>Two defendants will get a speedy trial starting in October, but the others, including Donald Trump, can have more time to prepare, the judge ruled.  <a href="https://nyti.ms/3RiXXZ5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Battle to Save Marilyn Monroe’s Last Home</h3>
-<sub>By Remy Tumin</sub>
-<p>The Los Angeles City Council has saved the actress’s Brentwood home from demolition — temporarily. Sixty years after her death there from an overdose, fans still leave flowers at the gate.  <a href="https://nyti.ms/44PJIyb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 13, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>The Government Takes On a Fisherman Over 200,000 Pounds of Fluke</h3>
+<sub>By Karen Zraick and Karsten Moran</sub>
+<p>Chris Winkler is on trial, accused of taking too many fish from the seas off gentrified Montauk. His former partners have pleaded guilty, and stand to make millions from the sale of their small seafood-themed empire.  <a href="https://nyti.ms/3ZkDLZ6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
