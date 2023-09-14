@@ -60,7 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, September 14, Central Standard Time</p>
 <p>
-Right now, the US is under pressure as it faces an impeachment inquiry and individuals like former Governor Chris Christie work toward warmer relationships with public figures like Bruce Springsteen. Elsewhere, there are political controversies over migrants travelling to the US through the Darien jungle, and in Libya two dams have tragically collapsed leaving thousands dead and many more missing. On the business side, the UAW are threatening strike if they don&#39;t get a better contract from Detroit automakers and SoftBank&#39;s chip designer ARM is making a big return to the stock market. Meanwhile, Instacart is preparing to go public while its competitors in the gig economy turn their focus to advertising for additional profits. Finally, current President Biden is facing criticism after yet another judge ruled that Obama&#39;s Deferred Action for Childhood Arrivals (DACA) policy is illegal.</p>
+Right now there&#39;s a lot happening in the world that is concerning. Politicians are essentially selling tickets to migrants in order to get into the US, which is alarming. Meanwhile, South and North Korea have been supplying munitions to wars in other countries. 
+
+The Biden administration is putting an emphasis on economic recovery in Ukraine, but thousands of people have died due to floods in Libya, and thousands more are missing. Additionally, the White House is taking an active role to combat the current impeachment inquiry with politics. 
+
+On a lighter note, The Rolling Stones recently released their first album since 2005 and are talking about it publicly, and Marilyn Monroe&#39;s last home is being saved from demolition in Los Angeles despite her death over 60 years ago. A global energy executive is leading the world away from oil, while unions plan to go on a limited strike against Detroit automakers this Friday.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>‘A Ticket to Disney’? Politicians Charge Millions to Send Migrants to U.S.</h3>
@@ -74,22 +78,28 @@ Right now, the US is under pressure as it faces an impeachment inquiry and indiv
 <p>Desperate for munitions for the war in Ukraine, the U.S. and Russia have turned to their allies in South and North Korea, which kept stockpiling arms for decades after their own conflict.  <a href="https://nyti.ms/3RlcHqA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Taps Penny Pritzker to Drive Ukraine’s Economic Revival</h3>
+<sub>By Michael Crowley</sub>
+<p>The appointment of the former commerce secretary and Democratic Party fund-raiser reflects a growing focus on Ukraine’s postwar economic survival.  <a href="https://nyti.ms/44XYbYJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>After Libya Floods, a Chaotic Scramble for Rescuers</h3>
-<sub>By Raja Abdulrahim</sub>
+<sub>By Raja Abdulrahim and Isabella Kwai</sub>
 <p>“The situation is still very bad — there is a mismanagement of the crisis,” said one volunteer. Thousands of people died, and many are still missing, after the collapse of two dams.  <a href="https://nyti.ms/3PlpHtG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Libyan Flood Survivor Recounts Horror After Dams Burst</h3>
+<h3>Cries of ‘Save Us, Save Us’ as Homes Fill With Water</h3>
 <sub>By Aaron Boxerman and Raja Abdulrahim</sub>
-<p>“We walked out barefoot and saw our friends and neighbors dying,” said a woman from the hard-hit city of Derna. More than 5,000 are reported dead and 10,000 more are believed to be missing.  <a href="https://nyti.ms/3EElCM0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>“We walked out barefoot and saw our friends and neighbors dying,” said a woman from Derna, Libya. More than 5,000 are reported dead, and 10,000 more are believed to be missing.  <a href="https://nyti.ms/3EElCM0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>The Rolling Stones Start Up Again</h3>
+<h3>The Rolling Stones on Starting Up Again</h3>
 <sub>By Jon Pareles</sub>
-<p>With its first album of new songs since 2005, and first since the death of Charlie Watts, the band recharges the partnership of Mick Jagger and Keith Richards.  <a href="https://nyti.ms/3r6yZBM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The band opens up about how its first album of new songs since 2005, and first since the death of Charlie Watts, recharges the partnership of Mick Jagger and Keith Richards.  <a href="https://nyti.ms/3r6yZBM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -99,10 +109,16 @@ Right now, the US is under pressure as it faces an impeachment inquiry and indiv
 <sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Christie and the Boss: A One-Sided Jersey Relationship Warms Up (Sort Of)</h3>
-<sub>By Nick Corasaniti</sub>
-<p>The former New Jersey governor idolizes Bruce Springsteen, but their political differences have led to frostiness. Now, according to Chris Christie, their relationship is “a good one.”  <a href="https://nyti.ms/3LidFjC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 13, Central Standard Time</sub></sub>
+<h3>Biden Plans Democracy-Focused Speech After Next G.O.P. Debate</h3>
+<sub>By Shane Goldmacher and Reid J. Epstein</sub>
+<p>One location under consideration for the remarks is the democracy-focused McCain Institute in Arizona.  <a href="https://nyti.ms/3sV0K0A"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Walking Out of Morocco’s Rubble, Pregnant, Scared and Homeless</h3>
+<sub>By Catherine Porter</sub>
+<p>Clambering away from an earthquake’s devastation and death, a family emerges treasuring a single new life.  <a href="https://nyti.ms/48iRHXl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>U.A.W. Prepares for Limited Strike Against Detroit Automakers on Friday</h3>
@@ -116,22 +132,10 @@ Right now, the US is under pressure as it faces an impeachment inquiry and indiv
 <p>Sultan al-Jaber, the energy executive leading this year’s global climate summit, says fossil fuel companies are key to the world’s energy transition. Some disagree.  <a href="https://nyti.ms/3RDtHIT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>The Stock Market Hopes for a Hit From the Year’s Biggest Initial Public Offering</h3>
-<sub>By Erin Griffith</sub>
-<p>Arm, the British chip designer owned by SoftBank, will provide clues as to whether the I.P.O. market may revive after a very quiet year.  <a href="https://nyti.ms/3ZxCA8N"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Instacart Was All About Grocery Delivery. No Longer.</h3>
-<sub>By Kellen Browning and Erin Griffith</sub>
-<p>As it prepares to go public next week, Instacart shows that one secret to making money as a gig economy company is to become an advertising company.  <a href="https://nyti.ms/3PEu1Wk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Federal Judge Again Rules DACA Is Illegal</h3>
-<sub>By Miriam Jordan</sub>
-<p>The judge maintained that President Barack Obama exceeded his authority when he created the program, which has allowed thousands of young undocumented immigrants to avoid deportation and work legally.  <a href="https://nyti.ms/48dKbgm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>The Battle to Save Marilyn Monroe’s Last Home</h3>
+<sub>By Remy Tumin</sub>
+<p>The Los Angeles City Council has saved the actress’s Brentwood home from demolition — temporarily. Sixty years after her death there from an overdose, fans still leave flowers at the gate.  <a href="https://nyti.ms/44PJIyb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
