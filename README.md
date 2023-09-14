@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Wednesday, September 13, Central Standard Time</p>
+<p>It is Thursday, September 14, Central Standard Time</p>
 <p>
-There&#39;s a lot happening in the world right now. First, Detroit automakers are facing a limited strike tomorrow as the USW (United Auto Workers) president Shawn Fain has said that negotiators aren&#39;t close to reaching an agreement. This could test President Biden&#39;s commitment to making electric vehicles a source of well-paying union jobs. In Pennsylvania, police recently captured Danelo Cavalcante after he escaped county jail last month and was on the run for two weeks. Meanwhile, a judge has ruled that DACA (Deferred Action for Childhood Arrivals) program is still illegal. In politics, previous Republican presidential nominee Mitt Romney has announced retirement, and Peter Daou, formerly a Democratic activist, is now running Cornel West&#39;s third-party campaign and views the two-party system as a bigger problem than Donald J Trump. In New Jersey, former governor Chris Christie and singer Bruce Springsteen have had a one-sided relationship due to their political differences but are now on good terms. Meanwhile, Republican nominee Vivek Ramaswamy has vowed to demolish much of the federal government should he get elected. On the international side of things, there was devastating flooding in Libya which killed thousands of people and left many missing. Scientists say this was due to climate change and geography coming together with disastrous results very quickly. Lastly, Vladimir Putin and Kim Jong Un had a summit where they showcased their ties which signals a new era in their relationship amid speculation North Korea may be providing more weapons to Moscow for Ukraine&#39;s war.</p>
+Things are pretty turbulent right now! In the US, a federal judge has ruled that the DACA program is illegal, Senator Mitt Romney has announced his retirement from the senate in order to make room for younger leaders, and Republican presidential candidate Vivek Ramaswamy has said he would fire most of the federal work force if elected. In business news, the U.A.W. is preparing for a limited strike against Detroit automakers on Friday and there&#39;s a standoff over electric vehicle workers that could test President Biden&#39;s commitment to making it a source of well-paying union jobs. Overseas, there&#39;s cause for concern in Libya where heavy flooding has killed more than 5,000 people and left thousands more missing; many survivors have recounted horrifying stories of loss and destruction. On the international political front, Putin and Kim have found common ground in their hostility toward the West as they recently held a summit signaling a new era of their relationship—and speculation is growing that North Korea may be sending more weapons to Moscow for its war in Ukraine.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>U.A.W. Prepares for Limited Strike Against Detroit Automakers on Friday</h3>
@@ -81,15 +81,15 @@ There&#39;s a lot happening in the world right now. First, Detroit automakers ar
 <sub><sub>Wednesday, September 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Police officers posed for a photo with the fugitive after his capture.</h3>
+<h3>Police Posed With Cavalcante After His Capture</h3>
 <sub>By Shaila Dewan</sub>
-<p>  <a href="https://nyti.ms/3ZeU1L2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The moment was captured on video by a news helicopter, and criticism swiftly followed on social media.  <a href="https://nyti.ms/3ZoYfjd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Judge Rules DACA Program for Young Immigrants Is Still Illegal</h3>
+<h3>Federal Judge Again Rules DACA Is Illegal</h3>
 <sub>By Miriam Jordan</sub>
-<p>The judge maintained that President Barack Obama exceeded his authority when he created the program, which has allowed thousands of undocumented immigrants to avoid deportation and work legally.  <a href="https://nyti.ms/48dKbgm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The judge maintained that President Barack Obama exceeded his authority when he created the program, which has allowed thousands of young undocumented immigrants to avoid deportation and work legally.  <a href="https://nyti.ms/48dKbgm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
