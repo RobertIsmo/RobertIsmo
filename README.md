@@ -60,10 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, September 13, Central Standard Time</p>
 <p>
-Right now, there is a lot going on in the United States and around the world. In Pennsylvania, a fugitive was successfully captured after two weeks of eluding police. At the same time, Mitt Romney announced his retirement from politics and called for a ‘new generation’ of leaders to emerge beyond Biden and Trump. The House Speaker, McCarthy, reversed his stance on beginning an impeachment inquiry, which could have major consequences for the investigation. There is also an increasingly hostile situation between Putin and Kim that could escalate and bring huge repercussions. 
-
-On the other side of things, inflation has been increasing as gas prices rise and Libya was hit with the most devastating floods in its history. This flood killed over 5,200 people and displaced 30,000 more. Lastly, a beautiful performing arts center has risen at Ground Zero in New York City while a standoff between electric vehicle workers and companies looms in the US—a test for Biden to make electric vehicles into well-paying union jobs.</p>
+There is a lot going on in the world right now. The U.A.W. is poised to stage a partial strike against Detroit automakers this Friday, with union president Shawn Fain ruling out a contract extension for further negotiations. This could test President Biden&#39;s commitment to creating well-paying jobs through electric vehicles. Meanwhile, in Pennsylvania, a fugitive has finally been captured, ending a two-week manhunt. The Supreme Court has declared the DACA program—which has allowed thousands of young immigrants to remain legally in the states—illegal. Utah&#39;s Republican senator and 2012 presidential nominee Mitt Romney has announced his retirement, urging for a &quot;new generation&quot; of leadership beyond President Trump and Joe Biden. Republican House Speaker McCarthy recently reversed his stance of needing a vote for an impeachment inquiry due to pressure from the right wing of the party. Ex-Hillary Clinton supporter Peter Daou is now running Cornel West&#39;s third-party campaign against the two-party system, while Vivek Ramaswamy has admitted his intention to fire most of the federal workforce if elected. Libya was recently hit by devastating floods that left many dead and missing and spotlighted how climate change can have swift and destructive consequences. Furthering international issues, Russian President Putin and North Korean leader Kim Jong Un recently heralded their solidarity in a summit signalling new ties between their countries, possibly signalling more arms from North Korea towards Russia for its war in Ukraine. Finally, Evan Gershkovich&#39;s family are appealing to the United Nations for help in securing his release; Gershkovich is a reported for the Wall Street Journal who has been detained since June 2020 in Russia.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>U.A.W. Prepares for Partial Strike Against Detroit Automakers on Friday</h3>
+<sub>By Neal E. Boudette</sub>
+<p>The union’s president, Shawn Fain, said negotiators were nowhere near an agreement and ruled out a contract extension while talks continued.  <a href="https://nyti.ms/3Lp0InU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Standoff Over Electric Vehicle Workers Poses Risk for Biden</h3>
+<sub>By Noam Scheiber</sub>
+<p>A looming auto industry strike could test the president’s commitment to making electric vehicles a source of well-paying union jobs.  <a href="https://nyti.ms/48b8GuL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 13, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A Fugitive’s Capture Brings Relief to a Corner of Pennsylvania</h3>
 <sub>By Campbell Robertson</sub>
@@ -71,9 +81,15 @@ On the other side of things, inflation has been increasing as gas prices rise an
 <sub><sub>Wednesday, September 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Romney to Retire, Calling For a ‘New Generation’ Beyond Biden and Trump</h3>
+<h3>Federal Judge Again Rules DACA Is Illegal</h3>
+<sub>By Miriam Jordan</sub>
+<p>The program has allowed thousands of young immigrants to avoid deportation and work legally.  <a href="https://nyti.ms/48dKbgm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Romney to Retire, Calling for a ‘New Generation’ Beyond Biden and Trump</h3>
 <sub>By Annie Karni</sub>
-<p>The Utah Republican and 2012 G.O.P. presidential nominee, 76, said he would step aside to make way for younger leaders and strongly suggested the president and former president should, too.  <a href="https://nyti.ms/3LoCytY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The Utah Republican and 2012 G.O.P. presidential nominee, 76, said he would step aside to make way for younger leaders and strongly suggested that the president and former president should, too.  <a href="https://nyti.ms/3LoCytY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -88,10 +104,10 @@ On the other side of things, inflation has been increasing as gas prices rise an
 <p>Peter Daou, a former Democratic activist, is running Cornel West’s third-party campaign. He talked to The New York Times about how he came to view the two-party system as a bigger problem than Donald J. Trump.  <a href="https://nyti.ms/3ZdRkcB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Inflation Sped Up as Gas Prices Rose</h3>
-<sub>By Jeanna Smialek</sub>
-<p>Consumer prices rose 3.7 percent in the year through August, marking another month of accelerating inflation. The Federal Reserve will closely parse the data as it prepares its next interest-rate decision.  <a href="https://nyti.ms/3RiwO8I"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Ramaswamy Says He Would Fire Most of the Federal Work Force if Elected</h3>
+<sub>By Chris Cameron and Charlie Savage</sub>
+<p>Vivek Ramaswamy, whose campaign for the Republican nomination has gained attention in recent months, has vowed to dismantle much of the federal government and shutter key agencies.  <a href="https://nyti.ms/45R5y5B"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -100,16 +116,10 @@ On the other side of things, inflation has been increasing as gas prices rise an
 <p>“We walked out barefoot and saw our friends and neighbors dying,” said a woman from the hard-hit city of Derna. More than 5,000 are reported dead and 10,000 more are believed to be missing.  <a href="https://nyti.ms/3EElCM0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>What We Know About the Deadly Floods in Libya</h3>
-<sub>By Raja Abdulrahim</sub>
-<p>At least 5,200 people were killed, and at least 30,000 were displaced. Heavy rain caused two dams to break, devastating the coastal city of Derna.  <a href="https://nyti.ms/468UBMB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 13, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>Why Floods Can Turn So Deadly, So Fast</h3>
 <sub>By Delger Erdenesanaa</sub>
-<p>The flooding Libya shows how climate, geography and other factors can collide with swift and disastrous results.  <a href="https://nyti.ms/3ED5hax"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The flooding in Libya shows how climate, geography and other factors can collide with swift and disastrous results.  <a href="https://nyti.ms/3ED5hax"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -118,22 +128,10 @@ On the other side of things, inflation has been increasing as gas prices rise an
 <p>The two leaders trumpeted their ties in a summit that signaled a new era in their relationship, amid speculation that North Korea would send more weapons to Moscow for its war in Ukraine.  <a href="https://nyti.ms/3sQSgHV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>A Spectacular Marble Cube Rises at Ground Zero</h3>
-<sub>By Michael Kimmelman</sub>
-<p>The Perelman Performing Arts Center, a glamorous $500 million project, may yet turn the World Trade Center into a neighborhood, our critic writes.  <a href="https://nyti.ms/3Ri1KG8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Standoff Over Electric Vehicle Workers Poses Risk for Biden</h3>
-<sub>By Noam Scheiber</sub>
-<p>A looming auto industry strike could test the president’s commitment to making electric vehicles a source of well-paying union jobs.  <a href="https://nyti.ms/48b8GuL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Economic Impact of an Auto Strike Could Be Felt Nationwide</h3>
-<sub>By Santul Nerkar</sub>
-<p>An extended walkout by the United Auto Workers in a contract dispute could raise car prices and affect jobs at the companies’ suppliers.  <a href="https://nyti.ms/44PK4ou"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Evan Gershkovich’s family appeals to the U.N. for help in securing his release.</h3>
+<sub>By Anushka Patil</sub>
+<p>The Wall Street Journal reporter’s parents and sister visited the U.N. just days before world leaders arrive for the annual General Assembly.  <a href="https://nyti.ms/3LmzaQc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
