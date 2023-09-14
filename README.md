@@ -60,12 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, September 14, Central Standard Time</p>
 <p>
-Right now, things are pretty busy in the world. President Biden&#39;s son has been indicted on gun charges. Also, migration policies are in flux - politicians are charging millions to have people sent to the US illegally. 
-Biden has also appointed the former commerce secretary Penny Pritzker to help with Ukraine&#39;s economic recovery. In Libya there&#39;s a chaotic struggle for rescuers after a deadly flood happened there.
+Right now, there is a lot going on in the world. In the US, Hunter Biden, President Biden&#39;s son, has been indicted on gun charges and House Republicans are impeaching him. Meanwhile, politicians in other countries are charging millions of dollars to send people to the US, something the Biden administration is trying to end. 
 
-In entertainment, The Rolling Stones have just release their first album of new songs since 2005 and first since the death of Charlie Watts. The White House is facing an impeachment inquiry with the President trying to combat it with politics rather than law. He plans to give a speech about democracy soon too.
+The US may also soon have a government shutdown due to differences between far-right Republicans and Speaker McCarthy, and there is the possibility of a UAW strike at the Detroit Auto Show. To add to this, the Treasury Secretary has announced new sanctions against Russia and thousands of people have been affected by floods in Libya. 
 
-Chris Christie has made big bet on New Hampshire for his candidacy and Romney recently wrote a gossipy biography about his own career in politics. In Morocco, there was an earthquake that resulted in people being left homeless, scared and in some cases pregnant. Finally, in New York region there is a court case against a fisherman accused of taking too many fish from the seas of Montauk.</p>
+President Biden has criticized Republicans for undercutting working-class Americans and Florida&#39;s Governor DeSantis has spread vaccine skepticism by contradicting the CDC. Chris Christie is making a big bet on doing well in New Hampshire and Utah Republican Mitt Romney&#39;s retirement coincides with the publication of a book that slams his party and Senate. Finally, there is an ongoing trial in New York involving a fisherman accused of taking too many fish from the sea off Montauk.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Hunter Biden Indicted on Gun Charges</h3>
@@ -80,33 +79,39 @@ Chris Christie has made big bet on New Hampshire for his candidacy and Romney re
 <sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Taps Penny Pritzker to Drive Ukraine’s Economic Revival</h3>
-<sub>By Michael Crowley</sub>
-<p>The appointment of the former commerce secretary and Democratic Party fund-raiser reflects a growing focus on Ukraine’s postwar economic survival.  <a href="https://nyti.ms/44XYbYJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>McCarthy Pulls Back Pentagon Spending Bill, Inching Closer to a Shutdown</h3>
+<sub>By Carl Hulse</sub>
+<p>The House speaker abandoned efforts to move forward on a normally bipartisan military spending bill as far-right Republicans balked at the funding level, after pleading with his party to avert a shutdown.  <a href="https://nyti.ms/48clctT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>U.A.W. Strike Looms Over Detroit Auto Show</h3>
+<sub>By Neal E. Boudette</sub>
+<p>The three established U.S. automakers could struggle to get new cars and trucks to dealerships and customers during a prolonged strike that slows or stops production lines.  <a href="https://nyti.ms/3rdG1EM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>U.S. Aims New Sanctions at Russian Military Supply Chains</h3>
+<sub>By Gaya Gupta</sub>
+<p>The sanctions are intended to deprive President Vladimir V. Putin of equipment and technology “he needs to wage his barbaric war on Ukraine,” Treasury Secretary Janet Yellen said.  <a href="https://nyti.ms/44Sp7Ju"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>After Libya Floods, a Chaotic Scramble for Rescuers</h3>
 <sub>By Raja Abdulrahim and Isabella Kwai</sub>
-<p>“The situation is still very bad — there is a mismanagement of the crisis,” said one volunteer. Thousands of people died, and many are still missing, after the collapse of two dams.  <a href="https://nyti.ms/3PlpHtG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>The Rolling Stones on Starting Up Again</h3>
-<sub>By Jon Pareles</sub>
-<p>The band opens up about how its first album of new songs since 2005, and first since the death of Charlie Watts, recharges the partnership of Mick Jagger and Keith Richards.  <a href="https://nyti.ms/3r6yZBM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>“The situation is still very bad — there is a mismanagement of the crisis,” said one volunteer. Thousands of people died, and many are still missing, after heavy rains led to the collapse of two dams.  <a href="https://nyti.ms/3PlpHtG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>White House Strategy on Impeachment: Fight Politics With Politics</h3>
+<h3>Biden Accuses Republicans of Undercutting Working-Class Americans</h3>
 <sub>By Peter Baker</sub>
-<p>The White House says it is battling the inquiry in the court of public opinion since House Republicans have not issued any new subpoenas or laid out any potential articles of impeachment.  <a href="https://nyti.ms/3ZleQVg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>President Biden trained his criticism on House Republicans who are threatening to shut down the federal government if their budget cuts are not enacted.  <a href="https://nyti.ms/3PC9r8W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Plans Democracy-Focused Speech After Next G.O.P. Debate</h3>
-<sub>By Shane Goldmacher and Reid J. Epstein</sub>
-<p>One location under consideration for the remarks is the democracy-focused McCain Institute in Arizona.  <a href="https://nyti.ms/3sV0K0A"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>DeSantis Spreads Vaccine Skepticism With Guidance That Contradicts C.D.C.</h3>
+<sub>By Anjali Huynh</sub>
+<p>The C.D.C. on Tuesday recommended at least one dose of the updated Covid-19 vaccines for most Americans six months and older.  <a href="https://nyti.ms/3PBIhPx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -124,13 +129,7 @@ Chris Christie has made big bet on New Hampshire for his candidacy and Romney re
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Walking Out of Morocco’s Rubble, Pregnant, Scared and Homeless</h3>
 <sub>By Catherine Porter</sub>
-<p>Clambering away from an earthquake’s devastation and death, a family emerges treasuring a single new life.  <a href="https://nyti.ms/48iRHXl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Georgia Judge Orders 2 Trials for Defendants in Trump Election Case</h3>
-<sub>By Richard Fausset and Danny Hakim</sub>
-<p>Two defendants will get a speedy trial starting in October, but the others, including Donald Trump, can have more time to prepare, the judge ruled.  <a href="https://nyti.ms/3RiXXZ5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Clambering away from an earthquake’s devastation and death, a family hoped to welcome a single new life.  <a href="https://nyti.ms/48iRHXl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
