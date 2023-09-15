@@ -60,7 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, September 15, Central Standard Time</p>
 <p>
-There&#39;s a lot happening in the world right now. The United Auto Workers are on strike, testing Biden&#39;s economic agenda. In Hollywood, actors and writers are in a battle over technology and control. Millions of people are under warnings in New England as Hurricane Lee approaches, and its landfall is expected this weekend. Meanwhile, Sam Bankman-Fried, the founder of the FTX, is facing several criminal charges and a small Connecticut city with a Republican mayoral nominee has voted for President Biden. Finally, analysts are exploring why Democrats seem to be losing ground among nonwhite voters.</p>
+There is a lot going on in the world right now. In the US, the United Auto Workers union has gone on strike to test President Biden&#39;s economic agenda, while Biden&#39;s administration is trying to protect the federal workforce from potential changes under another Trump term in office. On top of that, Biden has changed his view on presidential war powers and launched a survey on executive power aimed at future candidates.
+
+In other parts of the world, Chinese Defense Minister Li Shangfu hasn&#39;t been seen in weeks, sparking intrigue about what is happening in China&#39;s military. Meanwhile, China&#39;s economy is taking a hit with consumer spending up but apartment prices and construction rates down. In addition, Hurricane Lee is heading towards New England and Canada with millions now under warnings of tropical storm conditions this weekend.
+
+Finally, there are a few other stories making headlines. In Hollywood they&#39;re debating whether studios should be using A.I. stars over actors and writers and a Muslim cleric in Ukraine is reflecting on his war experiences as he works as a medic on the front line. Additionally, a man who was charged with entering the US Capitol during the Jan 6th riots may become Mayor of a Connecticut city that voted for president Biden, and Sam Bankman-Fried - one of the most hated people socially - has written 250 pages of self-justifications as he prepares for criminal trial next month.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>U.A.W. Strike Is a Real-Time Test of Biden’s Economic Agenda</h3>
@@ -68,20 +72,14 @@ There&#39;s a lot happening in the world right now. The United Auto Workers are 
 <p>White House aides believe the outcome of the battle between the car companies and its workers will underscore many of the president’s policy positions.  <a href="https://nyti.ms/44ZoLkd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The Autoworkers Go on Strike</h3>
-<sub>By David Leonhardt</sub>
-<p>The action by the United Auto Workers is part of a burst of labor activism attempting to reverse a decades-long trend.  <a href="https://nyti.ms/3sT9V1F"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The High Stakes Behind the U.A.W.’s Strike</h3>
-<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
-<p>The walkout by thousands of factory workers presents economic and political risks for the Big Three automakers, Midwestern states and President Biden.  <a href="https://nyti.ms/3sV8MGG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Administration Aims to Trump-Proof the Federal Work Force</h3>
+<sub>By Jonathan Swan, Charlie Savage and Maggie Haberman</sub>
+<p>If Donald Trump wins a second term, he and his allies want to revive a plan to allow a president to fire civil service workers who are supposed to be hired on merit. The Biden administration is trying to thwart it.  <a href="https://nyti.ms/48k58GL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>As President, Biden Sees Broader War Powers Than He Did as Senator</h3>
+<h3>How Biden’s View on Presidential War Powers Has Shifted</h3>
 <sub>By Charlie Savage, Maggie Haberman and Jonathan Swan</sub>
 <p>The president says he can direct limited military operations without lawmakers’ approval. Most G.O.P. presidential candidates, including Donald J. Trump, did not answer a survey on executive power.  <a href="https://nyti.ms/3t1ZatF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 15, Central Standard Time</sub></sub>
@@ -93,21 +91,21 @@ There&#39;s a lot happening in the world right now. The United Auto Workers are 
 <sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘We Are Accidentally Alive’: A Muslim Cleric Reflects on His War Experience</h3>
-<sub>By Carlotta Gall</sub>
-<p>Said Ismahilov fled Russians in eastern Ukraine and then fled the suburb of Bucha when the war began. Once the mufti of Ukraine, he is now a medic on the front line.  <a href="https://nyti.ms/3PED8pK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>China’s Defense Minister Has Not Been Seen in Weeks, Fueling Intrigue</h3>
+<sub>By Chris Buckley</sub>
+<p>General Li Shangfu was promoted to his position in March. His absence points to questions about the highest-level upheaval in China’s military in years.  <a href="https://nyti.ms/45JEa9H"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>Do Studios Dream of Android Stars?</h3>
-<sub>By Manohla Dargis</sub>
-<p>Striking actors and writers fear A.I. Executives don’t seem to. It’s a longstanding battle over technology and control in Hollywood that plays out onscreen, too.  <a href="https://nyti.ms/468j7NQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>China’s Slumping Economy: What the Latest Numbers Are Signaling</h3>
+<sub>By Keith Bradsher</sub>
+<p>Consumers are spending a little more, but apartment prices and the pace of construction keep falling.  <a href="https://nyti.ms/3re7LZW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Millions Under Warnings in New England as Hurricane Lee Approaches</h3>
 <sub>By Judson Jones</sub>
-<p>The storm is expected to affect the Northeast U.S. and Canada before its expected landfall this weekend along the Maine or Nova Scotia shorelines.  <a href="https://nyti.ms/44R9fHm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Tropical storm conditions are forecast for coastal New England on Friday afternoon before Lee’s expected landfall this weekend along the western end of Nova Scotia.  <a href="https://nyti.ms/44R9fHm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -115,6 +113,18 @@ There&#39;s a lot happening in the world right now. The United Auto Workers are 
 <sub>By William B. Davis, Madison Dong, Judson Jones, John Keefe and Bea Malsky</sub>
 <p>See the likely path and wind arrival times for Lee.  <a href="https://nyti.ms/45EHdzY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>Do Studios Dream of Android Stars?</h3>
+<sub>By Manohla Dargis</sub>
+<p>Striking actors and writers fear A.I. Executives don’t seem to. It’s a longstanding battle over technology and control in Hollywood that plays out onscreen, too.  <a href="https://nyti.ms/468j7NQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘We Are Accidentally Alive’: A Muslim Cleric Reflects on His War Experience</h3>
+<sub>By Carlotta Gall</sub>
+<p>Said Ismahilov fled Russians in eastern Ukraine and then fled the suburb of Bucha when the war began. Once the mufti of Ukraine, he is now a medic on the front line.  <a href="https://nyti.ms/3PED8pK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>‘One of the Most Hated People in the World’: Sam Bankman-Fried’s 250 Pages of Justifications</h3>
@@ -126,12 +136,6 @@ There&#39;s a lot happening in the world right now. The United Auto Workers are 
 <h3>He Faces Jan. 6 Trespassing Charges. He Might Become Mayor.</h3>
 <sub>By Amelia Nierenberg</sub>
 <p>Gino DiGiovanni Jr., who was charged with trespassing at the U.S. Capitol, is the presumptive Republican nominee for mayor in a small Connecticut city that voted for President Biden.  <a href="https://nyti.ms/3LqFjuK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>Why Are Democrats Losing Ground Among Nonwhite Voters? 5 Theories.</h3>
-<sub>By Nate Cohn</sub>
-<p>There’s no shortage of solid hypotheses, and the best explanation may be a combination of them.  <a href="https://nyti.ms/3RnTFj7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 15, Central Standard Time</sub></sub>
 <hr/>
 </ol>
