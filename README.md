@@ -60,19 +60,61 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, September 15, Central Standard Time</p>
 <p>
-Recently, the United Auto Workers union went on strike against Detroit&#39;s Big 3 automakers (Ford, General Motors and Stellantis) at three initial sites. Meanwhile, tech mogul Sam Bankman-Fried was put under house arrest while he prepares for his criminal trial next month. In Washington DC, House Speaker McCarthy pulled back a military spending bill as Republicans try to pass their budget cuts. Further, President Biden&#39;s son Hunter has been indicted on gun charges, and the White House is now aiming fresh sanctions at Russia&#39;s military supply chains in response to Putin&#39;s &#39;barbaric war&#39; on Ukraine. Additionally, Libya suffered devastating floods that killed thousands of people and destroyed homes; further compounding the nation&#39;s crisis is the mismanagement of support efforts. In Ireland, they&#39;re trying to figure out what to do with a budget surplus from multinational companies&#39; tax revenue - while in Florida, the governor is spreading vaccine skepticism despite the C.D.C.&#39;s guidance to get vaccinated. Lastly, President Biden criticized the Republican party over their budgeting tactics which hurt working-class Americans.</p>
+There&#39;s a lot happening in the world right now. The United Auto Workers are on strike, testing Biden&#39;s economic agenda. In Hollywood, actors and writers are in a battle over technology and control. Millions of people are under warnings in New England as Hurricane Lee approaches, and its landfall is expected this weekend. Meanwhile, Sam Bankman-Fried, the founder of the FTX, is facing several criminal charges and a small Connecticut city with a Republican mayoral nominee has voted for President Biden. Finally, analysts are exploring why Democrats seem to be losing ground among nonwhite voters.</p>
 <ol>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.A.W. Goes on Strike Against Detroit’s Big 3 Automakers</h3>
-<sub>By Neal E. Boudette</sub>
-<p>Workers walked off the job at 3 initial sites in a targeted labor action against Ford, General Motors and Stellantis — the first ever of all three at once.  <a href="https://nyti.ms/3ZhcRB2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.A.W. Strike Is a Real-Time Test of Biden’s Economic Agenda</h3>
+<sub>By Michael D. Shear</sub>
+<p>White House aides believe the outcome of the battle between the car companies and its workers will underscore many of the president’s policy positions.  <a href="https://nyti.ms/44ZoLkd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The Autoworkers Go on Strike</h3>
+<sub>By David Leonhardt</sub>
+<p>The action by the United Auto Workers is part of a burst of labor activism attempting to reverse a decades-long trend.  <a href="https://nyti.ms/3sT9V1F"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Here Are the Plants Where U.A.W. Strikes Are Happening</h3>
-<sub>By Lazaro Gamio and Eli Murray</sub>
-<p>See the plants owned by Ford, General Motors and Stellantis where U.A.W. members are on strike.  <a href="https://nyti.ms/46e3EM2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>The High Stakes Behind the U.A.W.’s Strike</h3>
+<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
+<p>The walkout by thousands of factory workers presents economic and political risks for the Big Three automakers, Midwestern states and President Biden.  <a href="https://nyti.ms/3sV8MGG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>As President, Biden Sees Broader War Powers Than He Did as Senator</h3>
+<sub>By Charlie Savage, Maggie Haberman and Jonathan Swan</sub>
+<p>The president says he can direct limited military operations without lawmakers’ approval. Most G.O.P. presidential candidates, including Donald J. Trump, did not answer a survey on executive power.  <a href="https://nyti.ms/3t1ZatF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The 2024 Executive Power Survey</h3>
+<sub>By Charlie Savage, Maggie Haberman and Jonathan Swan</sub>
+<p>We asked candidates about presidential authority. Here is what they said.  <a href="https://nyti.ms/3EDWtRF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘We Are Accidentally Alive’: A Muslim Cleric Reflects on His War Experience</h3>
+<sub>By Carlotta Gall</sub>
+<p>Said Ismahilov fled Russians in eastern Ukraine and then fled the suburb of Bucha when the war began. Once the mufti of Ukraine, he is now a medic on the front line.  <a href="https://nyti.ms/3PED8pK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>Do Studios Dream of Android Stars?</h3>
+<sub>By Manohla Dargis</sub>
+<p>Striking actors and writers fear A.I. Executives don’t seem to. It’s a longstanding battle over technology and control in Hollywood that plays out onscreen, too.  <a href="https://nyti.ms/468j7NQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Millions Under Warnings in New England as Hurricane Lee Approaches</h3>
+<sub>By Judson Jones</sub>
+<p>The storm is expected to affect the Northeast U.S. and Canada before its expected landfall this weekend along the Maine or Nova Scotia shorelines.  <a href="https://nyti.ms/44R9fHm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Tracking Hurricane Lee</h3>
+<sub>By William B. Davis, Madison Dong, Judson Jones, John Keefe and Bea Malsky</sub>
+<p>See the likely path and wind arrival times for Lee.  <a href="https://nyti.ms/45EHdzY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>‘One of the Most Hated People in the World’: Sam Bankman-Fried’s 250 Pages of Justifications</h3>
@@ -80,59 +122,17 @@ Recently, the United Auto Workers union went on strike against Detroit&#39;s Big
 <p>The FTX founder wrote hundreds of pages of reflections and self-justifications while under house arrest, shedding light on how he may defend himself at his criminal trial next month.  <a href="https://nyti.ms/3LjNCbO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>McCarthy Pulls Back Pentagon Spending Bill, Inching Closer to a Shutdown</h3>
-<sub>By Carl Hulse</sub>
-<p>The House speaker abandoned efforts to move forward on a normally bipartisan military spending bill as far-right Republicans balked at the funding level, after pleading with his party to avert a shutdown.  <a href="https://nyti.ms/45POcWF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>He Faces Jan. 6 Trespassing Charges. He Might Become Mayor.</h3>
+<sub>By Amelia Nierenberg</sub>
+<p>Gino DiGiovanni Jr., who was charged with trespassing at the U.S. Capitol, is the presumptive Republican nominee for mayor in a small Connecticut city that voted for President Biden.  <a href="https://nyti.ms/3LqFjuK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Hunter Biden Indicted on Gun Charges</h3>
-<sub>By Michael S. Schmidt and Glenn Thrush</sub>
-<p>The Justice Department charged President Biden’s son after the collapse of an earlier plea deal and amid an impeachment investigation by House Republicans.  <a href="https://nyti.ms/44V1mjU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>After Libya Floods, a Chaotic Scramble for Rescuers</h3>
-<sub>By Raja Abdulrahim and Isabella Kwai</sub>
-<p>“The situation is still very bad — there is a mismanagement of the crisis,” said one volunteer. Thousands of people died, and many are still missing, after heavy rains led to the collapse of two dams.  <a href="https://nyti.ms/3PlpHtG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Mapping Where Floods Have Devastated a Libyan Port City</h3>
-<sub>By Lauren Leatherby, Lazaro Gamio, Zach Levitt, Leanne Abraham and Tim Wallace</sub>
-<p>Derna, on Libya’s northeast coast, was inundated with floodwaters that killed thousands after Storm Daniel made landfall on Sunday.  <a href="https://nyti.ms/3LmHO0W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>U.S. Aims New Sanctions at Russian Military Supply Chains</h3>
-<sub>By Gaya Gupta</sub>
-<p>The sanctions are intended to deprive President Vladimir V. Putin of equipment and technology “he needs to wage his barbaric war on Ukraine,” Treasury Secretary Janet Yellen said.  <a href="https://nyti.ms/44Sp7Ju"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Intensifies Attacks on Russia in Crimea and Black Sea</h3>
-<sub>By Marc Santora</sub>
-<p>Claims of damage to Russian air defenses and warships reflect Ukraine’s growing strategy of degrading the Kremlin’s ability to use the region as a staging area that is vital to its war effort.  <a href="https://nyti.ms/3rg43Ps"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Ireland’s Latest Fiscal Headache: What to Do With 10 Billion Euros</h3>
-<sub>By Ed O’Loughlin</sub>
-<p>The government in Dublin has a big budget surplus, thanks to a boom in tax revenue from multinational companies. Build more housing? Or a subway? Sock it away? Whatever the case, someone will be unhappy.  <a href="https://nyti.ms/3sPXkvT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Accuses Republicans of Undercutting Working-Class Americans</h3>
-<sub>By Peter Baker</sub>
-<p>President Biden trained his criticism on House Republicans who are threatening to shut down the federal government if their budget cuts are not enacted.  <a href="https://nyti.ms/3PC9r8W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis Spreads Vaccine Skepticism With Guidance That Contradicts C.D.C.</h3>
-<sub>By Anjali Huynh</sub>
-<p>The C.D.C. on Tuesday recommended at least one dose of the updated Covid-19 vaccines for most Americans six months and older.  <a href="https://nyti.ms/3PBIhPx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>Why Are Democrats Losing Ground Among Nonwhite Voters? 5 Theories.</h3>
+<sub>By Nate Cohn</sub>
+<p>There’s no shortage of solid hypotheses, and the best explanation may be a combination of them.  <a href="https://nyti.ms/3RnTFj7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 15, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
