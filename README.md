@@ -60,11 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, September 15, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In the US, the United Auto Workers union has gone on strike to test President Biden&#39;s economic agenda, while Biden&#39;s administration is trying to protect the federal workforce from potential changes under another Trump term in office. On top of that, Biden has changed his view on presidential war powers and launched a survey on executive power aimed at future candidates.
+Right now, there is a lot happening in the world. In the United States, there is an ongoing strike between the car companies and their workers which is thought to help underscore President Biden&#39;s policy positions. Furthermore, the Biden administration is attempting to make it harder for President Trump to fire civil service workers should he be elected for a second term. Elsewhere, Congress is melting down over spending debates just days away from a potential shutdown. 
 
-In other parts of the world, Chinese Defense Minister Li Shangfu hasn&#39;t been seen in weeks, sparking intrigue about what is happening in China&#39;s military. Meanwhile, China&#39;s economy is taking a hit with consumer spending up but apartment prices and construction rates down. In addition, Hurricane Lee is heading towards New England and Canada with millions now under warnings of tropical storm conditions this weekend.
+In other news, there are mysterious rumors out of China regarding their defense minister who has not been seen in weeks, which point towards the potential of high-level upheaval in their military. The Chinese economy is also struggling evidenced by consumer spending and falling prices of apartment&#x2F;construction rates.
 
-Finally, there are a few other stories making headlines. In Hollywood they&#39;re debating whether studios should be using A.I. stars over actors and writers and a Muslim cleric in Ukraine is reflecting on his war experiences as he works as a medic on the front line. Additionally, a man who was charged with entering the US Capitol during the Jan 6th riots may become Mayor of a Connecticut city that voted for president Biden, and Sam Bankman-Fried - one of the most hated people socially - has written 250 pages of self-justifications as he prepares for criminal trial next month.</p>
+Roughly speaking, illegal mopeds and fake identities comprise something of an underground economy in New York City as new migrants gain whatever money they can by any means necessary with regard to employment restrictions. Additionally, there have been escalating protests due to influx of migrants in regards to Staten Island involving heckling, suing and cursing. 
+
+Also overseas, a Muslim cleric reflects on his experience during wartime while trying to escape Russian forces and ultimately settling on working as a medic at the front line. A notable businessman known as Sam Bankman-Fried has also recently been under investigation with hundreds of pages being written from him during his house arrest for self-justification. Finally and tragically, famed painter and sculptor Fernando Botero has passed away at 91 while his voluptuous figures leave an ever-lasting impression in art galleries around the globe. Lastly, the daughter of a notorious serial killer known as B.TK., Kerri Rawson visits her father in prison for the first time in order to help investigators with more potential cases.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>U.A.W. Strike Is a Real-Time Test of Biden’s Economic Agenda</h3>
@@ -79,16 +81,16 @@ Finally, there are a few other stories making headlines. In Hollywood they&#39;r
 <sub><sub>Friday, September 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Biden’s View on Presidential War Powers Has Shifted</h3>
-<sub>By Charlie Savage, Maggie Haberman and Jonathan Swan</sub>
-<p>The president says he can direct limited military operations without lawmakers’ approval. Most G.O.P. presidential candidates, including Donald J. Trump, did not answer a survey on executive power.  <a href="https://nyti.ms/3t1ZatF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Facing a Shutdown, Congress Melts Down</h3>
+<sub>By Carl Hulse</sub>
+<p>Bands of Republicans in the House and the Senate have brought the spending debate to a screeching halt with a shutdown just days away.  <a href="https://nyti.ms/48glos2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The 2024 Executive Power Survey</h3>
-<sub>By Charlie Savage, Maggie Haberman and Jonathan Swan</sub>
-<p>We asked candidates about presidential authority. Here is what they said.  <a href="https://nyti.ms/3EDWtRF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
+<h3>The Gun Charges Against Hunter Biden Are Unusual. Here’s Why.</h3>
+<sub>By Glenn Thrush</sub>
+<p>The heart of the federal case against the president’s son — that he lied about drug use on a federal form when he purchased a handgun — is not typically the basis for a stand-alone prosecution.  <a href="https://nyti.ms/3ZzK6Qx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>China’s Defense Minister Has Not Been Seen in Weeks, Fueling Intrigue</h3>
@@ -102,23 +104,17 @@ Finally, there are a few other stories making headlines. In Hollywood they&#39;r
 <p>Consumers are spending a little more, but apartment prices and the pace of construction keep falling.  <a href="https://nyti.ms/3re7LZW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Millions Under Warnings in New England as Hurricane Lee Approaches</h3>
-<sub>By Judson Jones</sub>
-<p>Tropical storm conditions are forecast for coastal New England on Friday afternoon before Lee’s expected landfall this weekend along the western end of Nova Scotia.  <a href="https://nyti.ms/44R9fHm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 7, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Illegal Mopeds and Fake Names: Migrants Scrape By in Underground Economy</h3>
+<sub>By Andrew Silverstein</sub>
+<p>The newest migrants in New York need money but are prohibited from working. A secondary market of fake app logins and weekly bike rentals has emerged.  <a href="https://nyti.ms/3Lq3h9z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Tracking Hurricane Lee</h3>
-<sub>By William B. Davis, Madison Dong, Judson Jones, John Keefe and Bea Malsky</sub>
-<p>See the likely path and wind arrival times for Lee.  <a href="https://nyti.ms/45EHdzY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>Do Studios Dream of Android Stars?</h3>
-<sub>By Manohla Dargis</sub>
-<p>Striking actors and writers fear A.I. Executives don’t seem to. It’s a longstanding battle over technology and control in Hollywood that plays out onscreen, too.  <a href="https://nyti.ms/468j7NQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Suing. Heckling. Cursing. N.Y.C. Protests Against Migrants Escalate</h3>
+<sub>By Claire Fahy and Raúl Vilchis</sub>
+<p>After migrants were sheltered at a defunct school, neighbors on Staten Island turned on a loudspeaker and put up signs to drive them away.  <a href="https://nyti.ms/3LoC72x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>‘We Are Accidentally Alive’: A Muslim Cleric Reflects on His War Experience</h3>
@@ -132,10 +128,16 @@ Finally, there are a few other stories making headlines. In Hollywood they&#39;r
 <p>The FTX founder wrote hundreds of pages of reflections and self-justifications while under house arrest, shedding light on how he may defend himself at his criminal trial next month.  <a href="https://nyti.ms/3LjNCbO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>He Faces Jan. 6 Trespassing Charges. He Might Become Mayor.</h3>
-<sub>By Amelia Nierenberg</sub>
-<p>Gino DiGiovanni Jr., who was charged with trespassing at the U.S. Capitol, is the presumptive Republican nominee for mayor in a small Connecticut city that voted for President Biden.  <a href="https://nyti.ms/3LqFjuK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Fernando Botero, Artist of Whimsical Rotundity, Is Dead at 91</h3>
+<sub>By Stephen Kinzer</sub>
+<p>His voluptuous figures, both in paintings and in sculpture, portrayed the high and mighty as well as everyday people through an enlarging prism.  <a href="https://nyti.ms/3Zm6UmH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Her Father Is the B.T.K. Killer. She’s Helping to Close More Cases.</h3>
+<sub>By Remy Tumin</sub>
+<p>Dennis Rader terrorized Kansas for decades before his arrest in 2005. His daughter, Kerri Rawson, could not bear to see him until this June, when she visited him in prison to help investigators.  <a href="https://nyti.ms/45U22aA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 15, Central Standard Time</sub></sub>
 <hr/>
 </ol>
