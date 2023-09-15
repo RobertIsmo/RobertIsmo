@@ -60,18 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, September 15, Central Standard Time</p>
 <p>
-Right now, there is a lot happening in the world. In the United States, there is an ongoing strike between the car companies and their workers which is thought to help underscore President Biden&#39;s policy positions. Furthermore, the Biden administration is attempting to make it harder for President Trump to fire civil service workers should he be elected for a second term. Elsewhere, Congress is melting down over spending debates just days away from a potential shutdown. 
-
-In other news, there are mysterious rumors out of China regarding their defense minister who has not been seen in weeks, which point towards the potential of high-level upheaval in their military. The Chinese economy is also struggling evidenced by consumer spending and falling prices of apartment&#x2F;construction rates.
-
-Roughly speaking, illegal mopeds and fake identities comprise something of an underground economy in New York City as new migrants gain whatever money they can by any means necessary with regard to employment restrictions. Additionally, there have been escalating protests due to influx of migrants in regards to Staten Island involving heckling, suing and cursing. 
-
-Also overseas, a Muslim cleric reflects on his experience during wartime while trying to escape Russian forces and ultimately settling on working as a medic at the front line. A notable businessman known as Sam Bankman-Fried has also recently been under investigation with hundreds of pages being written from him during his house arrest for self-justification. Finally and tragically, famed painter and sculptor Fernando Botero has passed away at 91 while his voluptuous figures leave an ever-lasting impression in art galleries around the globe. Lastly, the daughter of a notorious serial killer known as B.TK., Kerri Rawson visits her father in prison for the first time in order to help investigators with more potential cases.</p>
+There is a lot happening in the world right now. In the U.S., the Republican presidential candidates are campaigning and there is a labor strike at a Ford plant near Detroit while Congress faces shutdown over spending debates. Meanwhile, evidence has been presented that casts doubt on some of the allegations against President Biden and impeachment proceedings have started for Texas Attorney General Ken Paxton. Elsewhere in the world, China&#39;s defense minister hasn&#39;t been seen in weeks fueling speculation about a high-level upheaval in the military, and House Democrats visited a migrant hotel over political tensions between New York City&#39;s mayor and the federal government. There is also an underground economy wherein some illegal immigrants rent fake app logins and mopeds as they try to scrape by. Finally, the FDA is taking a while to deal with a disputed cold remedy that&#39;s been sold over-the-counter for decades.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.A.W. Strike Is a Real-Time Test of Biden’s Economic Agenda</h3>
-<sub>By Michael D. Shear</sub>
-<p>White House aides believe the outcome of the battle between the car companies and its workers will underscore many of the president’s policy positions.  <a href="https://nyti.ms/44ZoLkd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Republican Presidential Candidates on Labor and Unions</h3>
+<sub></sub>
+<p>As the Republican presidential candidates campaign under the shadow of a front-runner facing dozens of felony charges, The New York Times examined their stances on ten key issues.  <a href="https://nyti.ms/3PCTOy4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>A Spirited Start to the Strike at a Ford Plant Near Detroit</h3>
+<sub>By Neal E. Boudette and Brittany Greeson</sub>
+<p>Union members at one of three factories chosen for a first wave of walkouts voiced determination to win substantial pay gains in their next contract.  <a href="https://nyti.ms/44VlGSg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -87,21 +87,39 @@ Also overseas, a Muslim cleric reflects on his experience during wartime while t
 <sub><sub>Friday, September 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Witness Testimony Casts Doubt on Some Biden Impeachment Allegations</h3>
+<sub>By Luke Broadwater</sub>
+<p>As Republicans announced they were moving forward with an impeachment inquiry, fresh evidence emerged this week casting doubt on some of the key claims.  <a href="https://nyti.ms/3LqNYNw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The Gun Charges Against Hunter Biden Are Unusual. Here’s Why.</h3>
 <sub>By Glenn Thrush</sub>
 <p>The heart of the federal case against the president’s son — that he lied about drug use on a federal form when he purchased a handgun — is not typically the basis for a stand-alone prosecution.  <a href="https://nyti.ms/3ZzK6Qx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 15, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Texas Senators Begin to Deliberate Paxton Impeachment</h3>
+<sub>By J. David Goodman</sub>
+<p>The Republican-controlled Senate is weighing whether to remove the attorney general, Ken Paxton, based on evidence of bribery and abuse of office.  <a href="https://nyti.ms/3sXpLs5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Her Father Is the B.T.K. Killer. She’s Helping to Close More Cases.</h3>
+<sub>By Remy Tumin</sub>
+<p>Dennis Rader terrorized Kansas for decades before his arrest in 2005. His daughter, Kerri Rawson, could not bear to see him until this June, when she visited him in prison to help investigators.  <a href="https://nyti.ms/45U22aA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 15, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>China’s Defense Minister Has Not Been Seen in Weeks, Fueling Intrigue</h3>
 <sub>By Chris Buckley</sub>
-<p>General Li Shangfu was promoted to his position in March. His absence points to questions about the highest-level upheaval in China’s military in years.  <a href="https://nyti.ms/45JEa9H"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>General Li Shangfu was promoted to his position in March. His absence points to questions about the highest-level upheaval in China’s military in years.  <a href="https://nyti.ms/48kbRjK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>China’s Slumping Economy: What the Latest Numbers Are Signaling</h3>
-<sub>By Keith Bradsher</sub>
-<p>Consumers are spending a little more, but apartment prices and the pace of construction keep falling.  <a href="https://nyti.ms/3re7LZW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>House Democrats Visit a Migrant Hotel as Political Tensions Erupt</h3>
+<sub>By Andy Newman</sub>
+<p>After New York City’s mayor begged for help from the federal government, Congressional Democrats, including Alexandria Ocasio-Cortez, came to visit the city’s main migrant shelter.  <a href="https://nyti.ms/452qgOY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -110,34 +128,10 @@ Also overseas, a Muslim cleric reflects on his experience during wartime while t
 <p>The newest migrants in New York need money but are prohibited from working. A secondary market of fake app logins and weekly bike rentals has emerged.  <a href="https://nyti.ms/3Lq3h9z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Suing. Heckling. Cursing. N.Y.C. Protests Against Migrants Escalate</h3>
-<sub>By Claire Fahy and Raúl Vilchis</sub>
-<p>After migrants were sheltered at a defunct school, neighbors on Staten Island turned on a loudspeaker and put up signs to drive them away.  <a href="https://nyti.ms/3LoC72x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘We Are Accidentally Alive’: A Muslim Cleric Reflects on His War Experience</h3>
-<sub>By Carlotta Gall</sub>
-<p>Said Ismahilov fled Russians in eastern Ukraine and then fled the suburb of Bucha when the war began. Once the mufti of Ukraine, he is now a medic on the front line.  <a href="https://nyti.ms/3PED8pK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>‘One of the Most Hated People in the World’: Sam Bankman-Fried’s 250 Pages of Justifications</h3>
-<sub>By David Yaffe-Bellany</sub>
-<p>The FTX founder wrote hundreds of pages of reflections and self-justifications while under house arrest, shedding light on how he may defend himself at his criminal trial next month.  <a href="https://nyti.ms/3LjNCbO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Fernando Botero, Artist of Whimsical Rotundity, Is Dead at 91</h3>
-<sub>By Stephen Kinzer</sub>
-<p>His voluptuous figures, both in paintings and in sculpture, portrayed the high and mighty as well as everyday people through an enlarging prism.  <a href="https://nyti.ms/3Zm6UmH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Her Father Is the B.T.K. Killer. She’s Helping to Close More Cases.</h3>
-<sub>By Remy Tumin</sub>
-<p>Dennis Rader terrorized Kansas for decades before his arrest in 2005. His daughter, Kerri Rawson, could not bear to see him until this June, when she visited him in prison to help investigators.  <a href="https://nyti.ms/45U22aA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Why the F.D.A. Took So Long to Tackle a Disputed Cold Remedy</h3>
+<sub>By Christina Jewett</sub>
+<p>Pharmacists affiliated with the University of Florida have spent decades nudging the agency to pull a decongestant from over-the-counter medicines.  <a href="https://nyti.ms/45T462K"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 15, Central Standard Time</sub></sub>
 <hr/>
 </ol>
