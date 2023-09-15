@@ -60,28 +60,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, September 14, Central Standard Time</p>
 <p>
-Right now, there is a lot going on in the world. In the US, Hunter Biden, President Biden&#39;s son, has been indicted on gun charges and House Republicans are impeaching him. Meanwhile, politicians in other countries are charging millions of dollars to send people to the US, something the Biden administration is trying to end. 
+Right now there is tension between the US and Russia on a few different fronts. In Ukraine, the intensified attacks by the Ukrainian forces have been targeting Russian military supply chains in Crimea and the Black Sea. Meanwhile, President Biden has accused House Republicans in Congress of undercutting working-class Americans by threatening a government shutdown if their budget cuts are not passed. 
 
-The US may also soon have a government shutdown due to differences between far-right Republicans and Speaker McCarthy, and there is the possibility of a UAW strike at the Detroit Auto Show. To add to this, the Treasury Secretary has announced new sanctions against Russia and thousands of people have been affected by floods in Libya. 
+Meanwhile, the US House Speaker dropped efforts to pass a military spending bill due to objections from far-right Republicans. And in Florida, Governor DeSantis is spreading vaccine skepticism with guidance that contradicts the Centers for Disease Control and Prevention. 
 
-President Biden has criticized Republicans for undercutting working-class Americans and Florida&#39;s Governor DeSantis has spread vaccine skepticism by contradicting the CDC. Chris Christie is making a big bet on doing well in New Hampshire and Utah Republican Mitt Romney&#39;s retirement coincides with the publication of a book that slams his party and Senate. Finally, there is an ongoing trial in New York involving a fisherman accused of taking too many fish from the sea off Montauk.</p>
+There was also an indictment of Hunter Biden for gun charges and a long-simmering labor dispute between the UAW and Detroit auto makers has reached a boiling point as strike looms over the Detroit Auto Show. 
+
+Finally, there was devastating flooding in Libya which killed thousands and left many missing.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>McCarthy Pulls Back Pentagon Spending Bill, Inching Closer to a Shutdown</h3>
+<sub>By Carl Hulse</sub>
+<p>The House speaker abandoned efforts to move forward on a normally bipartisan military spending bill as far-right Republicans balked at the funding level, after pleading with his party to avert a shutdown.  <a href="https://nyti.ms/45POcWF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>‘One of the Most Hated People in the World’: Sam Bankman-Fried’s 250 Pages of Justifications</h3>
+<sub>By David Yaffe-Bellany</sub>
+<p>The FTX founder wrote hundreds of pages of reflections and self-justifications while under house arrest, shedding light on how he may defend himself at his criminal trial next month.  <a href="https://nyti.ms/3LjNCbO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Hunter Biden Indicted on Gun Charges</h3>
 <sub>By Michael S. Schmidt and Glenn Thrush</sub>
 <p>The Justice Department charged President Biden’s son after the collapse of an earlier plea deal and amid an impeachment investigation by House Republicans.  <a href="https://nyti.ms/44V1mjU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘A Ticket to Disney’? Politicians Charge Millions to Send Migrants to U.S.</h3>
-<sub>By Julie Turkewitz and Federico Rios</sub>
-<p>The Biden administration vowed to “end the illicit movement” of people through the Darién jungle. But the number of migrants moving through the forest has never been greater — and the profits are too big to pass up.  <a href="https://nyti.ms/46d90Hu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>McCarthy Pulls Back Pentagon Spending Bill, Inching Closer to a Shutdown</h3>
-<sub>By Carl Hulse</sub>
-<p>The House speaker abandoned efforts to move forward on a normally bipartisan military spending bill as far-right Republicans balked at the funding level, after pleading with his party to avert a shutdown.  <a href="https://nyti.ms/48clctT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -90,6 +92,24 @@ President Biden has criticized Republicans for undercutting working-class Americ
 <p>The three established U.S. automakers could struggle to get new cars and trucks to dealerships and customers during a prolonged strike that slows or stops production lines.  <a href="https://nyti.ms/3rdG1EM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Studios Say Talks With Striking Writers May Resume Next Week</h3>
+<sub>By Brooks Barnes</sub>
+<p>The Alliance of Motion Picture and Television Producers said the union had asked for a meeting, which would be the first in nearly a month.  <a href="https://nyti.ms/3EFPCY3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>After Libya Floods, a Chaotic Scramble for Rescuers</h3>
+<sub>By Raja Abdulrahim and Isabella Kwai</sub>
+<p>“The situation is still very bad — there is a mismanagement of the crisis,” said one volunteer. Thousands of people died, and many are still missing, after heavy rains led to the collapse of two dams.  <a href="https://nyti.ms/3PlpHtG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Mapping Where Floods Have Devastated a Libyan Port City</h3>
+<sub>By Lauren Leatherby, Lazaro Gamio, Zach Levitt, Leanne Abraham and Tim Wallace</sub>
+<p>Derna, on Libya’s northeast coast, was inundated with floodwaters that killed thousands after Storm Daniel made landfall on Sunday.  <a href="https://nyti.ms/3LmHO0W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 12, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>U.S. Aims New Sanctions at Russian Military Supply Chains</h3>
 <sub>By Gaya Gupta</sub>
@@ -97,9 +117,15 @@ President Biden has criticized Republicans for undercutting working-class Americ
 <sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>After Libya Floods, a Chaotic Scramble for Rescuers</h3>
-<sub>By Raja Abdulrahim and Isabella Kwai</sub>
-<p>“The situation is still very bad — there is a mismanagement of the crisis,” said one volunteer. Thousands of people died, and many are still missing, after heavy rains led to the collapse of two dams.  <a href="https://nyti.ms/3PlpHtG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Volodymyr Zelensky to visit Washington next week.</h3>
+<sub>By Michael Crowley and Karoun Demirjian</sub>
+<p>The Ukrainian leader will go from an appearance at the United Nations General Assembly to the capital to meet with President Biden and members of Congress.  <a href="https://nyti.ms/3RmXwgt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukraine Intensifies Attacks on Russia in Crimea and Black Sea</h3>
+<sub>By Marc Santora</sub>
+<p>Claims of damage to Russian air defenses and warships reflect Ukraine’s growing strategy of degrading the Kremlin’s ability to use the region as a staging area that is vital to its war effort.  <a href="https://nyti.ms/3rg43Ps"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -112,30 +138,6 @@ President Biden has criticized Republicans for undercutting working-class Americ
 <h3>DeSantis Spreads Vaccine Skepticism With Guidance That Contradicts C.D.C.</h3>
 <sub>By Anjali Huynh</sub>
 <p>The C.D.C. on Tuesday recommended at least one dose of the updated Covid-19 vaccines for most Americans six months and older.  <a href="https://nyti.ms/3PBIhPx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Christie’s Big Bet: ‘If I Don’t Do Well in New Hampshire, Then I’ll Leave’</h3>
-<sub>By Nick Corasaniti</sub>
-<p>As he stakes his candidacy on the state, Chris Christie is promising to find new ways to confront Donald Trump. “I’m not going to let him get away with being a coward,” he said in an interview.  <a href="https://nyti.ms/468SZSY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Six Takeaways From Romney’s Tea-Spilling Biography</h3>
-<sub>By Annie Karni</sub>
-<p>The Utah Republican’s announcement that he would retire coincided with the publication of a forthcoming book based on extensive interviews in which he slammed his party and the Senate.  <a href="https://nyti.ms/3Lpik3j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Walking Out of Morocco’s Rubble, Pregnant, Scared and Homeless</h3>
-<sub>By Catherine Porter</sub>
-<p>Clambering away from an earthquake’s devastation and death, a family hoped to welcome a single new life.  <a href="https://nyti.ms/48iRHXl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>The Government Takes On a Fisherman Over 200,000 Pounds of Fluke</h3>
-<sub>By Karen Zraick and Karsten Moran</sub>
-<p>Chris Winkler is on trial, accused of taking too many fish from the seas off gentrified Montauk. His former partners have pleaded guilty, and stand to make millions from the sale of their small seafood-themed empire.  <a href="https://nyti.ms/3ZkDLZ6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
