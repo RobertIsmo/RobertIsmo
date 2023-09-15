@@ -58,20 +58,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Thursday, September 14, Central Standard Time</p>
+<p>It is Friday, September 15, Central Standard Time</p>
 <p>
-The United Auto Workers (U.A.W.) are getting ready to go on strike if no contract deals are reached before the deadline, potentially causing problems for automakers like Ford and General Motors. Meanwhile, Sam Bankman-Fried, the founder of a trading platform, is currently preparing for his upcoming criminal trial next month. On top of that, House Speaker McCarthy just pulled back a bill for Pentagon spending, making it more likely the U.S government will shut down soon. There’s also been some trouble with Hunter Biden, who was recently indicted on gun charges, as well as President Biden criticizing Republicans for their attempts to cut working-class Americans&#39; funding. Lastly, there have been devastating floods in Libya that have caused many casualties and damage; Ukraine has intensified its attacks against Russia in Crimea and the Black Sea; and President Zelensky will be visiting Washington in the near future.</p>
+There is a lot of news happening around the world right now! The U.A.W. is on strike against Detroit&#39;s Big 3 automakers, Ford, General Motors and Stellantis, across several plants right now which could have big economic consequences. Technology mogul Sam Bankman-Fried is embroiled in a legal battle as he faces criminal charges soon. In politics, House Speaker McCarthy has scrapped plans to pass military spending in the US after tensions over budget levels with far-right Republicans. Meanwhile, Hunter Biden was indicted for gun charges and President Biden is taking aim at Republicans for undercutting working-class Americans. Over in Libya, citizens are dealing with widespread flooding that caused two dams to collapse resulting in thousands of deaths. In a separate but still related development, the US has put sanctions on Russia in response to its military activities in Ukraine while Ukraine is intensifying attacks on Russian forces in Crimea and the Black Sea region. Finally, Ireland has received 10 billion euros in a budget surplus with no clear direction on how to spend it yet – likely leaving some people unhappy.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.A.W. Set to Begin Walkouts as Deadline Nears With No Contract Deals</h3>
+<h3>U.A.W. Goes on Strike Against Detroit’s Big 3 Automakers</h3>
 <sub>By Neal E. Boudette</sub>
-<p>The union announced initial sites of a targeted strike meant to press Ford, General Motors and Stellantis in talks on pay, benefits and the workweek.  <a href="https://nyti.ms/3ZhcRB2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Workers walked off the job at 3 initial sites in a targeted labor action against Ford, General Motors and Stellantis — the first ever of all three at once.  <a href="https://nyti.ms/3ZhcRB2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.A.W. Strike Looms Over Detroit Auto Show</h3>
-<sub>By Neal E. Boudette</sub>
-<p>The three established U.S. automakers could struggle to get new cars and trucks to dealerships and customers if the walkouts drag on.  <a href="https://nyti.ms/3rdG1EM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Here Are the Plants Where U.A.W. Strikes Are Happening</h3>
+<sub>By Lazaro Gamio and Eli Murray</sub>
+<p>See the plants owned by Ford, General Motors and Stellantis where U.A.W. members are on strike.  <a href="https://nyti.ms/46e3EM2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -111,15 +111,15 @@ The United Auto Workers (U.A.W.) are getting ready to go on strike if no contrac
 <sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Volodymyr Zelensky to visit Washington next week.</h3>
-<sub>By Michael Crowley and Karoun Demirjian</sub>
-<p>The Ukrainian leader will go from an appearance at the United Nations General Assembly to the capital to meet with President Biden and members of Congress.  <a href="https://nyti.ms/3RmXwgt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ukraine Intensifies Attacks on Russia in Crimea and Black Sea</h3>
 <sub>By Marc Santora</sub>
 <p>Claims of damage to Russian air defenses and warships reflect Ukraine’s growing strategy of degrading the Kremlin’s ability to use the region as a staging area that is vital to its war effort.  <a href="https://nyti.ms/3rg43Ps"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Ireland’s Latest Fiscal Headache: What to Do With 10 Billion Euros</h3>
+<sub>By Ed O’Loughlin</sub>
+<p>The government in Dublin has a big budget surplus, thanks to its low tax rate for multinationals. Build more housing? Or a subway? Sock it away? Whatever the case, someone will be unhappy.  <a href="https://nyti.ms/3sPXkvT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
