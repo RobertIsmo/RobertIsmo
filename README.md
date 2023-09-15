@@ -60,18 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, September 14, Central Standard Time</p>
 <p>
-Right now there is tension between the US and Russia on a few different fronts. In Ukraine, the intensified attacks by the Ukrainian forces have been targeting Russian military supply chains in Crimea and the Black Sea. Meanwhile, President Biden has accused House Republicans in Congress of undercutting working-class Americans by threatening a government shutdown if their budget cuts are not passed. 
-
-Meanwhile, the US House Speaker dropped efforts to pass a military spending bill due to objections from far-right Republicans. And in Florida, Governor DeSantis is spreading vaccine skepticism with guidance that contradicts the Centers for Disease Control and Prevention. 
-
-There was also an indictment of Hunter Biden for gun charges and a long-simmering labor dispute between the UAW and Detroit auto makers has reached a boiling point as strike looms over the Detroit Auto Show. 
-
-Finally, there was devastating flooding in Libya which killed thousands and left many missing.</p>
+The United Auto Workers (U.A.W.) are getting ready to go on strike if no contract deals are reached before the deadline, potentially causing problems for automakers like Ford and General Motors. Meanwhile, Sam Bankman-Fried, the founder of a trading platform, is currently preparing for his upcoming criminal trial next month. On top of that, House Speaker McCarthy just pulled back a bill for Pentagon spending, making it more likely the U.S government will shut down soon. There’s also been some trouble with Hunter Biden, who was recently indicted on gun charges, as well as President Biden criticizing Republicans for their attempts to cut working-class Americans&#39; funding. Lastly, there have been devastating floods in Libya that have caused many casualties and damage; Ukraine has intensified its attacks against Russia in Crimea and the Black Sea; and President Zelensky will be visiting Washington in the near future.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>McCarthy Pulls Back Pentagon Spending Bill, Inching Closer to a Shutdown</h3>
-<sub>By Carl Hulse</sub>
-<p>The House speaker abandoned efforts to move forward on a normally bipartisan military spending bill as far-right Republicans balked at the funding level, after pleading with his party to avert a shutdown.  <a href="https://nyti.ms/45POcWF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>U.A.W. Set to Begin Walkouts as Deadline Nears With No Contract Deals</h3>
+<sub>By Neal E. Boudette</sub>
+<p>The union announced initial sites of a targeted strike meant to press Ford, General Motors and Stellantis in talks on pay, benefits and the workweek.  <a href="https://nyti.ms/3ZhcRB2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>U.A.W. Strike Looms Over Detroit Auto Show</h3>
+<sub>By Neal E. Boudette</sub>
+<p>The three established U.S. automakers could struggle to get new cars and trucks to dealerships and customers if the walkouts drag on.  <a href="https://nyti.ms/3rdG1EM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -81,21 +81,15 @@ Finally, there was devastating flooding in Libya which killed thousands and left
 <sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>McCarthy Pulls Back Pentagon Spending Bill, Inching Closer to a Shutdown</h3>
+<sub>By Carl Hulse</sub>
+<p>The House speaker abandoned efforts to move forward on a normally bipartisan military spending bill as far-right Republicans balked at the funding level, after pleading with his party to avert a shutdown.  <a href="https://nyti.ms/45POcWF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Hunter Biden Indicted on Gun Charges</h3>
 <sub>By Michael S. Schmidt and Glenn Thrush</sub>
 <p>The Justice Department charged President Biden’s son after the collapse of an earlier plea deal and amid an impeachment investigation by House Republicans.  <a href="https://nyti.ms/44V1mjU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.A.W. Strike Looms Over Detroit Auto Show</h3>
-<sub>By Neal E. Boudette</sub>
-<p>The three established U.S. automakers could struggle to get new cars and trucks to dealerships and customers during a prolonged strike that slows or stops production lines.  <a href="https://nyti.ms/3rdG1EM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Studios Say Talks With Striking Writers May Resume Next Week</h3>
-<sub>By Brooks Barnes</sub>
-<p>The Alliance of Motion Picture and Television Producers said the union had asked for a meeting, which would be the first in nearly a month.  <a href="https://nyti.ms/3EFPCY3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
