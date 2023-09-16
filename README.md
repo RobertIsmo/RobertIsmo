@@ -60,13 +60,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, September 16, Central Standard Time</p>
 <p>
-A lot is happening in the world right now. There is a strike by autoworkers, and President Biden is standing with them to ensure they get a fair share. There is also some legal drama with former President Trump - prosecutors are asking for a gag order on him in an election case, and recently unsealed court papers show that the special counsel has obtained private messages from his Twitter account. Additionally, in the U.K. they are banning a certain type of &quot;American Bully XL&quot; dog after a series of deaths related to them. Finally, here in the U.S., President Biden had a tough week - he was targeted for impeachment and his son was indicted, plus there have been fresh testimonies that cast doubt on some of the claims against him. Justice Ketanji Brown Jackson also remembered the anniversary of an ugly past in Alabama recently. And El Chapo&#39;s son was extradited to Chicago to face federal drug charges.</p>
+There has been a lot of news about the auto industry recently. There is a major strike going on between carmaking companies and their workers over electric vehicle production, which the White House believes reflects many of the President Biden&#39;s policy positions. The UAW has started a strike at plants owned by GM, Ford, and Stellantis as contract talks remain bogged down. 
+
+In Moscow there are few disruptions in daily life due to the ongoing war, but people can still see its effects in stores, movies, and an increasingly repressive environment. Interestingly enough, there is closer ties forming between Russia and North Korea that could weaken China&#39;s influence over both countries. Kim Jong-un even went to inspect missiles and nuclear bombers in Russia himself! 
+
+Outside of Russia, 3 of Ukraine&#39;s neighbors have decided to ban their grain sales as E.U. restrictions expire. In Aurora, Colorado there has been a deep divide over policing after Elijah McClain passed away and the public&#39;s reaction to police brutality changed everything. Additionally, dire warnings about Libya&#39;s dams were not listened to and now they are failing under the strain of storms. 
+
+On the climate front, Biden is targeting industrial pollution and if he wins re-election his climate team may try to cut greenhouse gases from steel, cement, and other hard-to-clean-up manufacturing. Even California has decided to sue big oil companies for deception after decades of it. </p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.A.W. Starts Strike Small, but Repercussions Could Prove Far-Reaching</h3>
+<h3>Battle Over Electric Vehicles Is Central to Auto Strike</h3>
 <sub>By Jack Ewing</sub>
-<p>The union targeted three factories: one run by General Motors, one by Ford and one by Stellantis. Prolonged walkouts could hurt the U.S. economy and President Biden.  <a href="https://nyti.ms/48kDNnU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 15, Central Standard Time</sub></sub>
+<p>Carmakers are anxious to keep costs down as they ramp up electric vehicle manufacturing, while striking workers want to preserve jobs as the industry shifts to batteries.  <a href="https://nyti.ms/3EFkyYf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Defends Striking Autoworkers: They Deserve a ‘Fair Share’</h3>
@@ -75,63 +81,63 @@ A lot is happening in the world right now. There is a strike by autoworkers, and
 <sub><sub>Friday, September 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>A Spirited Start to the Strike at a Ford Plant Near Detroit</h3>
-<sub>By Neal E. Boudette and Brittany Greeson</sub>
-<p>Union members at one of three factories chosen for a first wave of walkouts voiced determination to win substantial pay gains in their next contract.  <a href="https://nyti.ms/44VlGSg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Special Counsel Seeking Gag Order on Trump in Election Case</h3>
-<sub>By Alan Feuer</sub>
-<p>Prosecutors have asked Judge Tanya S. Chutkan to curb statements from the former president that could intimidate witnesses, influence potential jurors or lead to harassment of others in the case.  <a href="https://nyti.ms/3sVyCdL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Read Prosecutors’ Request for a Gag Order on Trump</h3>
-<sub></sub>
-<p>The special counsel has asked a judge to impose “a narrowly tailored” gag order on the former president in the federal election case against him, citing his “near-daily” social media attacks on numerous people involved in the case.  <a href="https://nyti.ms/3sS5Fzj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Special Counsel Obtained 32 Private Messages From Trump’s Twitter Account</h3>
-<sub>By Alan Feuer and Charlie Savage</sub>
-<p>Newly unsealed court papers shed additional light on a legal fight whose existence was revealed last month.  <a href="https://nyti.ms/3RmzTVc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Why the F.D.A. Took So Long to Tackle a Disputed Cold Remedy</h3>
-<sub>By Christina Jewett</sub>
-<p>Pharmacists affiliated with the University of Florida have spent decades nudging the agency to pull a decongestant from over-the-counter medicines.  <a href="https://nyti.ms/45T462K"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>U.A.W. Begins Strike at GM, Ford and Stellantis Plants. Here’s What to Know</h3>
+<sub>By Daniel Victor and Neal E. Boudette</sub>
+<p>The strike began on Friday morning at three plants, but could expand if contract talks remain bogged down.  <a href="https://nyti.ms/3ZmzAvu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>After Brutal Attacks and Fierce Debate, U.K. to Ban ‘American Bully XL’ Dogs</h3>
-<sub>By Mark Landler</sub>
-<p>Prime Minister Rishi Sunak announced steps to outlaw the dogs on Friday, after a string of deaths and a social media campaign piled pressure on the government to act.  <a href="https://nyti.ms/3ECLKHk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>In Moscow, the War Is Background Noise, but Ever-Present</h3>
+<sub>By Valerie Hopkins and Nanna Heitmann</sub>
+<p>Muscovites go about their daily lives with little major disruption. But the war’s effects are evident — in the stores, at the movies and in the increasingly repressive environment.  <a href="https://nyti.ms/48f2TEv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Putin and Kim’s Embrace May Place Xi in a Bind</h3>
+<sub>By David Pierson</sub>
+<p>Closer ties between Russia and North Korea could weaken Beijing’s leverage over both countries and set back China’s efforts to stabilize its ties with the West.  <a href="https://nyti.ms/46fTQRO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden’s Tough Week: The President Faces Personal and Political Setbacks</h3>
-<sub>By Peter Baker</sub>
-<p>In the past seven days, President Biden was targeted for impeachment and his son was indicted. That was just the start.  <a href="https://nyti.ms/4682C4c"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Kim Jong-un Inspects Missiles and Nuclear Bombers in Russia</h3>
+<sub>By Choe Sang-Hun</sub>
+<p>The North Korean leader was shown key elements of the Russian nuclear force as fears grew that the two nations were expanding their military ties.  <a href="https://nyti.ms/3riHERG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Three Neighbors of Ukraine Ban Its Grain as E.U. Restrictions Expire</h3>
+<sub>By Mike Ives</sub>
+<p>The bars against sales in Poland, Hungary and Slovakia were in place early Saturday, reviving an issue that has threatened European Union solidarity on Ukraine.  <a href="https://nyti.ms/3PjzPmv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>The Trials of Aurora: A Colorado City’s Deep Divide Over Policing</h3>
+<sub>By Audra D. S. Burch</sub>
+<p>After Elijah McClain died in 2019, the case seemed to be closed. The George Floyd protests — and the backlash to them — would change everything.  <a href="https://nyti.ms/44TwCjl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Witness Testimony Casts Doubt on Some Biden Impeachment Allegations</h3>
-<sub>By Luke Broadwater</sub>
-<p>As Republicans announced they were moving forward with an impeachment inquiry, fresh evidence emerged this week casting doubt on some of the key claims.  <a href="https://nyti.ms/3LqNYNw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Dire Warnings About Libya Dams Went Unheeded</h3>
+<sub>By Aaron Boxerman and James Glanz</sub>
+<p>“The state wasn’t interested,” said an engineer who published a paper on why Derna’s dams, after decades of postponed repairs, might fail under the stress of a powerful storm.  <a href="https://nyti.ms/3Zh4d5P"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>His Team Was a Chaotic Punchline. Then He Found a New Spot in the Sport.</h3>
+<sub>By Billy Witz</sub>
+<p>Dozens of players were caught up in the lies and false promises of Bishop Sycamore and Christians of Faith Academy. One player made it out to play major college football.  <a href="https://nyti.ms/44VRTZE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Justice Ketanji Brown Jackson Calls on Nation to Remember Ugly Past Truths</h3>
-<sub>By Erica L. Green and Abbie VanSickle</sub>
-<p>She was the keynote speaker at the 60th anniversary of the Ku Klux Klan bombing that killed four young girls at the Sixteenth Street Baptist Church in Birmingham, Ala.  <a href="https://nyti.ms/3sYPG2v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 15, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Biden to Target Industrial Pollution in a 2nd Term, if He Gets One</h3>
+<sub>By Coral Davenport</sub>
+<p>If the president wins re-election, his climate team is likely to try to cut greenhouse gases from steel, cement and other hard-to-clean-up manufacturing.  <a href="https://nyti.ms/3EFuX6j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Son of El Chapo Extradited to Chicago to Face Federal Drug Charges</h3>
-<sub>By Alan Feuer</sub>
-<p>Ovidio Guzmán López is the first of El Chapo’s four sons, who are all facing American criminal charges, to be sent to the United States for prosecution.  <a href="https://nyti.ms/3EEd1cv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>California Sues Giant Oil Companies, Citing Decades of Deception</h3>
+<sub>By David Gelles</sub>
+<p>Launching one of the most prominent climate lawsuits in the nation, the state claims Exxon, Shell, BP and others misled the public and seeks creation of a special fund to pay for recovery.  <a href="https://nyti.ms/3EFTxUF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 15, Central Standard Time</sub></sub>
 <hr/>
 </ol>
