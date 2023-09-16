@@ -60,31 +60,37 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, September 16, Central Standard Time</p>
 <p>
-Right now, there&#39;s a major battle between car companies and autoworkers that&#39;s drawing attention from world leaders. In addition, tech fears are affecting picket lines as workers worry that new technologies will threaten their jobs. On top of that, tensions are escalating in Ukraine and Moscow with leaders making moves to strengthen ties. Lastly, global warming is increasingly causing eco-anxiety due to extreme weather conditions like heat waves and floods. It&#39;s definitely a tumultuous moment right now on the world stage.</p>
+Right now, there is a lot of beautiful chaos happening in the world. In the United States, Texas Attorney General Ken Paxton was acquitted in a landmark Senate trial by a largely party-line vote after being impeached on charges of corruption and abuse of office. Meanwhile, the United Auto Workers union is resuming talks with three Detroit automakers, while tech fears are showing up on union picket lines. In Russia, the effects of a war are ever-present but its dangers have yet to disrupt daily life. Additionally, countries surrounding Ukraine have placed restrictions on Ukrainian grain sales. Moving onto sports, one college football player who experienced chaotic conditions at his previous school has found success in major college football. Moreover, there has been a tragedy at a Bronx day care facility where a 1-year-old boy died and three other children were hospitalized after opiod exposure. On top of that, controversy is brewing in Aurora Colorado centering around police regulations after Elijah McClain&#39;s death in 2019. Lastly, fears regarding global warming and environmental crises have gained attention after the summer saw intense heat waves, fires, and floods.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Texas Attorney General Is Acquitted in Landmark Senate Trial</h3>
+<sub>By J. David Goodman, Edgar Sandoval and David Montgomery</sub>
+<p>Senators voted largely on party lines against conviction of the attorney general, Ken Paxton, who had been impeached on charges of corruption and abuse of office.  <a href="https://nyti.ms/3t1S88e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Ken Paxton’s Trial Became a Contest Over Republican Politics</h3>
+<sub>By J. David Goodman</sub>
+<p>The battle over the fate of the Trump-backed Texas Attorney General became a litmus test for loyalty to the GOP.  <a href="https://nyti.ms/4500pXI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Union and 3 Detroit Automakers Resume Talks</h3>
+<sub>By Neal E. Boudette</sub>
+<p>The United Auto Workers said it had “reasonably productive conversations with Ford” but did not mention G.M. or Stellantis.  <a href="https://nyti.ms/3ZmDBA7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 16, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Battle Over Electric Vehicles Is Central to Auto Strike</h3>
 <sub>By Jack Ewing</sub>
 <p>Carmakers are anxious to keep costs down as they ramp up electric vehicle manufacturing, while striking workers want to preserve jobs as the industry shifts to batteries.  <a href="https://nyti.ms/3EFkyYf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Defends Striking Autoworkers: They Deserve a ‘Fair Share’</h3>
-<sub>By Michael D. Shear</sub>
-<p>White House aides believe the battle between the car companies and their workers underscores many of the president’s policy positions.  <a href="https://nyti.ms/44ZoLkd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 15, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Tech Fears Are Showing Up on Picket Lines</h3>
 <sub>By Sarah Kessler, Ephrat Livni and Michael J. de la Merced</sub>
 <p>What’s being called the “summer of strikes” comes at a time when workers increasingly fear new technologies will threaten their jobs.  <a href="https://nyti.ms/3rgEXQt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.A.W. Begins Strike at GM, Ford and Stellantis Plants. Here’s What to Know</h3>
-<sub>By Daniel Victor and Neal E. Boudette</sub>
-<p>The strike began on Friday morning at three plants, but could expand if contract talks remain bogged down.  <a href="https://nyti.ms/3ZmzAvu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>In Moscow, the War Is Background Noise, but Ever-Present</h3>
@@ -93,21 +99,21 @@ Right now, there&#39;s a major battle between car companies and autoworkers that
 <sub><sub>Saturday, September 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Putin and Kim’s Embrace May Place Xi in a Bind</h3>
-<sub>By David Pierson</sub>
-<p>Closer ties between Russia and North Korea could weaken Beijing’s leverage over both countries and set back China’s efforts to stabilize its ties with the West.  <a href="https://nyti.ms/46fTQRO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Kim Jong-un Inspects Missiles and Nuclear Bombers in Russia</h3>
-<sub>By Choe Sang-Hun</sub>
-<p>The North Korean leader was shown key elements of the Russian nuclear force as fears grew that the two nations were expanding their military ties.  <a href="https://nyti.ms/3riHERG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Three Neighbors of Ukraine Ban Its Grain as E.U. Restrictions Expire</h3>
 <sub>By Mike Ives and Gaya Gupta</sub>
 <p>The bars against sales in Poland, Hungary and Slovakia were in place early Saturday, reviving an issue that has threatened European Union solidarity on Ukraine.  <a href="https://nyti.ms/3PjzPmv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>His Team Was a Chaotic Punchline. Then He Found a New Spot in the Sport.</h3>
+<sub>By Billy Witz</sub>
+<p>Dozens of players were caught up in the lies and false promises of Bishop Sycamore and Christians of Faith Academy. One player made it out to play major college football.  <a href="https://nyti.ms/44VRTZE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>1-Year-Old Dead and Man in Custody After Opioid Exposure at Bronx Day Care</h3>
+<sub>By Hurubie Meko and Claire Fahy</sub>
+<p>A 1-year-old boy died and three other children were hospitalized on Friday after showing signs of drug exposure at the day care, officials said.  <a href="https://nyti.ms/3PES6MG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
@@ -127,12 +133,6 @@ Right now, there&#39;s a major battle between car companies and autoworkers that
 <sub>By Jason Horowitz</sub>
 <p>After a summer of intense heat, raging fires and catastrophic floods, a term for pervading dread about climate change and other environmental crises is having its moment.  <a href="https://nyti.ms/3Rpyi10"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>His Team Was a Chaotic Punchline. Then He Found a New Spot in the Sport.</h3>
-<sub>By Billy Witz</sub>
-<p>Dozens of players were caught up in the lies and false promises of Bishop Sycamore and Christians of Faith Academy. One player made it out to play major college football.  <a href="https://nyti.ms/44VRTZE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 15, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
