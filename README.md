@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Friday, September 15, Central Standard Time</p>
+<p>It is Saturday, September 16, Central Standard Time</p>
 <p>
-Recently, the United Auto Workers in the US launched a strike that has the potential to disrupt the economy and President Biden&#39;s plans. Biden has voiced his support of the strikers and argued that they deserve a fair wage. In other news, prosecutors have requested a gag order on former President Trump related to his federal election case. There has also been news about pharmacists pushing for new FDA regulations on decongestants, and a Texas judge recently called on citizens to remember violent racial histories. Lastly, authorities believe they overestimated the death toll from a wildfire on Maui, which is now believed to be at 97.</p>
+There has been a lot going on in the world lately. Last week, the United Auto Workers (UAW) union began a small strike at three car factories run by General Motors, Ford, and Stellantis. President Biden supports the striking auto workers, saying they deserve a &#39;fair share.&#39; The strike is likely to have wider economic implications if it lasts a long time. Also last week, former President Trump was made the subject of an impeachment inquiry; Democrats allege him of impropriety regarding the 2020 US election. This week however, some of those claims have been weakened as more evidence emerged. Meanwhile, US prosecutors have asked a judge to impose a gag order on Trump in an election-related case against him. Elsewhere, in the UK prime minister Rishi Sunak announced steps to outlaw a type of dog following several deaths related to them, and Justice Ketanji Brown Jackson made an emotional keynote speech at the 60thanniversary of the deadly Birmingham Ku Klux Klan bomb attack. In other news, El Chapo&#39;s son was extradited to Chicago this week to face federal drug charges - he is the first of El Chapo&#39;s four sons to be extradited for prosecution in the US.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>U.A.W. Starts Strike Small, but Repercussions Could Prove Far-Reaching</h3>
@@ -104,10 +104,10 @@ Recently, the United Auto Workers in the US launched a strike that has the poten
 <p>Pharmacists affiliated with the University of Florida have spent decades nudging the agency to pull a decongestant from over-the-counter medicines.  <a href="https://nyti.ms/45T462K"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Her Father Is the B.T.K. Killer. She’s Helping to Close More Cases.</h3>
-<sub>By Remy Tumin</sub>
-<p>Dennis Rader terrorized Kansas for decades before his arrest in 2005. His daughter, Kerri Rawson, could not bear to see him until this June, when she visited him in prison to help investigators.  <a href="https://nyti.ms/45U22aA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>After Brutal Attacks and Fierce Debate, U.K. to Ban ‘American Bully XL’ Dogs</h3>
+<sub>By Mark Landler</sub>
+<p>Prime Minister Rishi Sunak announced steps to outlaw the dogs on Friday, after a string of deaths and a social media campaign piled pressure on the government to act.  <a href="https://nyti.ms/3ECLKHk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -129,9 +129,9 @@ Recently, the United Auto Workers in the US launched a strike that has the poten
 <sub><sub>Friday, September 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Maui Fire Death Toll Drops to 97 After Weeks of DNA Review</h3>
-<sub>By Corina Knoll</sub>
-<p>For more than three weeks, officials said 115 people had died in the wildfire that destroyed most of Lahaina. They announced on Friday that they had overstated the death toll.  <a href="https://nyti.ms/45UBDcH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Son of El Chapo Extradited to Chicago to Face Federal Drug Charges</h3>
+<sub>By Alan Feuer</sub>
+<p>Ovidio Guzmán López is the first of El Chapo’s four sons, who are all facing American criminal charges, to be sent to the United States for prosecution.  <a href="https://nyti.ms/3EEd1cv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 15, Central Standard Time</sub></sub>
 <hr/>
 </ol>
