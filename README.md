@@ -60,10 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, September 16, Central Standard Time</p>
 <p>
-There has been a lot going on in the world lately. Automotive workers in the US recently went on strike after carmakers and workers disagreed over electric vehicle manufacturing costs. Overarching fears surrounding technology have fueled the &quot;summer of strikes&quot; in many industries. 
-In Russia, a war is taking place in the background where Muscovites go about their daily lives without major disruptions, however it&#39;s still apparent that effects are present. Meanwhile, Vladimir Putin and Kim Jong-un have grown closer North Korea leading China to take action. 
-Additionally, three neighbors of Ukraine have blocked sales of the country’s grain to show solidarity against European Union restrictions. 
-In our own hometown, Aurora recently experienced a deep divide over policing after Elijah McClain&#39;s death was not properly investigated. Lastly, Biden is aiming to target industrial pollution by reducing greenhouse gases if he gets re-elected for a second term.</p>
+Right now, there&#39;s a major battle between car companies and autoworkers that&#39;s drawing attention from world leaders. In addition, tech fears are affecting picket lines as workers worry that new technologies will threaten their jobs. On top of that, tensions are escalating in Ukraine and Moscow with leaders making moves to strengthen ties. Lastly, global warming is increasingly causing eco-anxiety due to extreme weather conditions like heat waves and floods. It&#39;s definitely a tumultuous moment right now on the world stage.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Battle Over Electric Vehicles Is Central to Auto Strike</h3>
@@ -109,7 +106,7 @@ In our own hometown, Aurora recently experienced a deep divide over policing aft
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Three Neighbors of Ukraine Ban Its Grain as E.U. Restrictions Expire</h3>
-<sub>By Mike Ives</sub>
+<sub>By Mike Ives and Gaya Gupta</sub>
 <p>The bars against sales in Poland, Hungary and Slovakia were in place early Saturday, reviving an issue that has threatened European Union solidarity on Ukraine.  <a href="https://nyti.ms/3PjzPmv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 16, Central Standard Time</sub></sub>
 <hr/>
@@ -125,17 +122,17 @@ In our own hometown, Aurora recently experienced a deep divide over policing aft
 <p>“The state wasn’t interested,” said an engineer who published a paper on why Derna’s dams, after decades of postponed repairs, might fail under the stress of a powerful storm.  <a href="https://nyti.ms/3Zh4d5P"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 16, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>How Do We Feel About Global Warming? It’s Called Eco-Anxiety.</h3>
+<sub>By Jason Horowitz</sub>
+<p>After a summer of intense heat, raging fires and catastrophic floods, a term for pervading dread about climate change and other environmental crises is having its moment.  <a href="https://nyti.ms/3Rpyi10"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 16, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>His Team Was a Chaotic Punchline. Then He Found a New Spot in the Sport.</h3>
 <sub>By Billy Witz</sub>
 <p>Dozens of players were caught up in the lies and false promises of Bishop Sycamore and Christians of Faith Academy. One player made it out to play major college football.  <a href="https://nyti.ms/44VRTZE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Biden to Target Industrial Pollution in a 2nd Term, if He Gets One</h3>
-<sub>By Coral Davenport</sub>
-<p>If the president wins re-election, his climate team is likely to try to cut greenhouse gases from steel, cement and other hard-to-clean-up manufacturing.  <a href="https://nyti.ms/3EFuX6j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
