@@ -60,13 +60,10 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, September 16, Central Standard Time</p>
 <p>
-There has been a lot of news about the auto industry recently. There is a major strike going on between carmaking companies and their workers over electric vehicle production, which the White House believes reflects many of the President Biden&#39;s policy positions. The UAW has started a strike at plants owned by GM, Ford, and Stellantis as contract talks remain bogged down. 
-
-In Moscow there are few disruptions in daily life due to the ongoing war, but people can still see its effects in stores, movies, and an increasingly repressive environment. Interestingly enough, there is closer ties forming between Russia and North Korea that could weaken China&#39;s influence over both countries. Kim Jong-un even went to inspect missiles and nuclear bombers in Russia himself! 
-
-Outside of Russia, 3 of Ukraine&#39;s neighbors have decided to ban their grain sales as E.U. restrictions expire. In Aurora, Colorado there has been a deep divide over policing after Elijah McClain passed away and the public&#39;s reaction to police brutality changed everything. Additionally, dire warnings about Libya&#39;s dams were not listened to and now they are failing under the strain of storms. 
-
-On the climate front, Biden is targeting industrial pollution and if he wins re-election his climate team may try to cut greenhouse gases from steel, cement, and other hard-to-clean-up manufacturing. Even California has decided to sue big oil companies for deception after decades of it. </p>
+There has been a lot going on in the world lately. Automotive workers in the US recently went on strike after carmakers and workers disagreed over electric vehicle manufacturing costs. Overarching fears surrounding technology have fueled the &quot;summer of strikes&quot; in many industries. 
+In Russia, a war is taking place in the background where Muscovites go about their daily lives without major disruptions, however it&#39;s still apparent that effects are present. Meanwhile, Vladimir Putin and Kim Jong-un have grown closer North Korea leading China to take action. 
+Additionally, three neighbors of Ukraine have blocked sales of the country’s grain to show solidarity against European Union restrictions. 
+In our own hometown, Aurora recently experienced a deep divide over policing after Elijah McClain&#39;s death was not properly investigated. Lastly, Biden is aiming to target industrial pollution by reducing greenhouse gases if he gets re-elected for a second term.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Battle Over Electric Vehicles Is Central to Auto Strike</h3>
@@ -79,6 +76,12 @@ On the climate front, Biden is targeting industrial pollution and if he wins re-
 <sub>By Michael D. Shear</sub>
 <p>White House aides believe the battle between the car companies and their workers underscores many of the president’s policy positions.  <a href="https://nyti.ms/44ZoLkd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Tech Fears Are Showing Up on Picket Lines</h3>
+<sub>By Sarah Kessler, Ephrat Livni and Michael J. de la Merced</sub>
+<p>What’s being called the “summer of strikes” comes at a time when workers increasingly fear new technologies will threaten their jobs.  <a href="https://nyti.ms/3rgEXQt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>U.A.W. Begins Strike at GM, Ford and Stellantis Plants. Here’s What to Know</h3>
@@ -133,12 +136,6 @@ On the climate front, Biden is targeting industrial pollution and if he wins re-
 <sub>By Coral Davenport</sub>
 <p>If the president wins re-election, his climate team is likely to try to cut greenhouse gases from steel, cement and other hard-to-clean-up manufacturing.  <a href="https://nyti.ms/3EFuX6j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>California Sues Giant Oil Companies, Citing Decades of Deception</h3>
-<sub>By David Gelles</sub>
-<p>Launching one of the most prominent climate lawsuits in the nation, the state claims Exxon, Shell, BP and others misled the public and seeks creation of a special fund to pay for recovery.  <a href="https://nyti.ms/3EFTxUF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 15, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
