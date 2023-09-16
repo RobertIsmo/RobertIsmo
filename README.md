@@ -60,12 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, September 15, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. In the U.S., the Republican presidential candidates are campaigning and there is a labor strike at a Ford plant near Detroit while Congress faces shutdown over spending debates. Meanwhile, evidence has been presented that casts doubt on some of the allegations against President Biden and impeachment proceedings have started for Texas Attorney General Ken Paxton. Elsewhere in the world, China&#39;s defense minister hasn&#39;t been seen in weeks fueling speculation about a high-level upheaval in the military, and House Democrats visited a migrant hotel over political tensions between New York City&#39;s mayor and the federal government. There is also an underground economy wherein some illegal immigrants rent fake app logins and mopeds as they try to scrape by. Finally, the FDA is taking a while to deal with a disputed cold remedy that&#39;s been sold over-the-counter for decades.</p>
+There have been a lot of news stories lately about labor disputes, legal cases, and civil rights commemorations. Workers at factories run by GM, Ford, and Stellantis recently went on strike and President Biden is defended their actions saying they should receive a fair share for their work. There&#39;s also a case in which the special counsel is seeking a gag order on former President Trump. Additionally, there&#39;s been a long-running dispute over a cold remedy that the FDA is addressing, as well as the story of Dennis Rader&#39;s daughter helping close more cases in reference to her father&#39;s BTK Serial Killer crimes. Finally, Texas Senators are deliberating whether or not to impeach Attorney General Ken Paxton based on evidence of bribery and abuse of office, and Justice Ketanji Brown Jackson recently called on the nation to remember the ugly truths of the past during the 60th anniversary of the Ku Klux Klan bombing that killed four young girls at Sixteenth Street Baptist Church in Birmingham, Alabama .</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>U.A.W. Starts Strike Small, but Repercussions Could Prove Far-Reaching</h3>
+<sub>By Jack Ewing</sub>
+<p>The union targeted three factories: one run by General Motors, one by Ford and one by Stellantis. Prolonged walkouts could hurt the U.S. economy and President Biden.  <a href="https://nyti.ms/48kDNnU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 15, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Republican Presidential Candidates on Labor and Unions</h3>
-<sub></sub>
-<p>As the Republican presidential candidates campaign under the shadow of a front-runner facing dozens of felony charges, The New York Times examined their stances on ten key issues.  <a href="https://nyti.ms/3PCTOy4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Biden Defends Striking Autoworkers: They Deserve a ‘Fair Share’</h3>
+<sub>By Michael D. Shear</sub>
+<p>White House aides believe the battle between the car companies and their workers underscores many of the president’s policy positions.  <a href="https://nyti.ms/44ZoLkd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -75,15 +81,39 @@ There is a lot happening in the world right now. In the U.S., the Republican pre
 <sub><sub>Friday, September 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Administration Aims to Trump-Proof the Federal Work Force</h3>
-<sub>By Jonathan Swan, Charlie Savage and Maggie Haberman</sub>
-<p>If Donald Trump wins a second term, he and his allies want to revive a plan to allow a president to fire civil service workers who are supposed to be hired on merit. The Biden administration is trying to thwart it.  <a href="https://nyti.ms/48k58GL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Special Counsel Seeking Gag Order on Trump in Election Case</h3>
+<sub>By Alan Feuer</sub>
+<p>Prosecutors have asked Judge Tanya S. Chutkan to curb statements from the former president that could intimidate witnesses, influence potential jurors or lead to harassment of others in the case.  <a href="https://nyti.ms/3sVyCdL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Facing a Shutdown, Congress Melts Down</h3>
-<sub>By Carl Hulse</sub>
-<p>Bands of Republicans in the House and the Senate have brought the spending debate to a screeching halt with a shutdown just days away.  <a href="https://nyti.ms/48glos2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Read Prosecutors’ Request for a Gag Order on Trump</h3>
+<sub></sub>
+<p>The special counsel has asked a judge to impose “a narrowly tailored” gag order on the former president in the federal election case against him, citing his “near-daily” social media attacks on numerous people involved in the case.  <a href="https://nyti.ms/3sS5Fzj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Special Counsel Obtained 32 Private Messages From Trump’s Twitter Account</h3>
+<sub>By Alan Feuer and Charlie Savage</sub>
+<p>Newly unsealed court papers shed additional light on a legal fight whose existence was revealed last month.  <a href="https://nyti.ms/3RmzTVc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Why the F.D.A. Took So Long to Tackle a Disputed Cold Remedy</h3>
+<sub>By Christina Jewett</sub>
+<p>Pharmacists affiliated with the University of Florida have spent decades nudging the agency to pull a decongestant from over-the-counter medicines.  <a href="https://nyti.ms/45T462K"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Her Father Is the B.T.K. Killer. She’s Helping to Close More Cases.</h3>
+<sub>By Remy Tumin</sub>
+<p>Dennis Rader terrorized Kansas for decades before his arrest in 2005. His daughter, Kerri Rawson, could not bear to see him until this June, when she visited him in prison to help investigators.  <a href="https://nyti.ms/45U22aA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden’s Tough Week: The President Faces Personal and Political Setbacks</h3>
+<sub>By Peter Baker</sub>
+<p>In the past seven days, President Biden was targeted for impeachment and his son was indicted. That was just the start.  <a href="https://nyti.ms/4682C4c"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -93,45 +123,15 @@ There is a lot happening in the world right now. In the U.S., the Republican pre
 <sub><sub>Friday, September 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Gun Charges Against Hunter Biden Are Unusual. Here’s Why.</h3>
-<sub>By Glenn Thrush</sub>
-<p>The heart of the federal case against the president’s son — that he lied about drug use on a federal form when he purchased a handgun — is not typically the basis for a stand-alone prosecution.  <a href="https://nyti.ms/3ZzK6Qx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Texas Senators Begin to Deliberate Paxton Impeachment</h3>
 <sub>By J. David Goodman</sub>
 <p>The Republican-controlled Senate is weighing whether to remove the attorney general, Ken Paxton, based on evidence of bribery and abuse of office.  <a href="https://nyti.ms/3sXpLs5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Her Father Is the B.T.K. Killer. She’s Helping to Close More Cases.</h3>
-<sub>By Remy Tumin</sub>
-<p>Dennis Rader terrorized Kansas for decades before his arrest in 2005. His daughter, Kerri Rawson, could not bear to see him until this June, when she visited him in prison to help investigators.  <a href="https://nyti.ms/45U22aA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>China’s Defense Minister Has Not Been Seen in Weeks, Fueling Intrigue</h3>
-<sub>By Chris Buckley</sub>
-<p>General Li Shangfu was promoted to his position in March. His absence points to questions about the highest-level upheaval in China’s military in years.  <a href="https://nyti.ms/48kbRjK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>House Democrats Visit a Migrant Hotel as Political Tensions Erupt</h3>
-<sub>By Andy Newman</sub>
-<p>After New York City’s mayor begged for help from the federal government, Congressional Democrats, including Alexandria Ocasio-Cortez, came to visit the city’s main migrant shelter.  <a href="https://nyti.ms/452qgOY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Illegal Mopeds and Fake Names: Migrants Scrape By in Underground Economy</h3>
-<sub>By Andrew Silverstein</sub>
-<p>The newest migrants in New York need money but are prohibited from working. A secondary market of fake app logins and weekly bike rentals has emerged.  <a href="https://nyti.ms/3Lq3h9z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Why the F.D.A. Took So Long to Tackle a Disputed Cold Remedy</h3>
-<sub>By Christina Jewett</sub>
-<p>Pharmacists affiliated with the University of Florida have spent decades nudging the agency to pull a decongestant from over-the-counter medicines.  <a href="https://nyti.ms/45T462K"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Justice Ketanji Brown Jackson Calls on Nation to Remember Ugly Past Truths</h3>
+<sub>By Erica L. Green and Abbie VanSickle</sub>
+<p>She was the keynote speaker at the 60th anniversary of the Ku Klux Klan bombing that killed four young girls at the Sixteenth Street Baptist Church in Birmingham, Ala.  <a href="https://nyti.ms/3sYPG2v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 15, Central Standard Time</sub></sub>
 <hr/>
 </ol>
