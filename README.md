@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, September 15, Central Standard Time</p>
 <p>
-There have been a lot of news stories lately about labor disputes, legal cases, and civil rights commemorations. Workers at factories run by GM, Ford, and Stellantis recently went on strike and President Biden is defended their actions saying they should receive a fair share for their work. There&#39;s also a case in which the special counsel is seeking a gag order on former President Trump. Additionally, there&#39;s been a long-running dispute over a cold remedy that the FDA is addressing, as well as the story of Dennis Rader&#39;s daughter helping close more cases in reference to her father&#39;s BTK Serial Killer crimes. Finally, Texas Senators are deliberating whether or not to impeach Attorney General Ken Paxton based on evidence of bribery and abuse of office, and Justice Ketanji Brown Jackson recently called on the nation to remember the ugly truths of the past during the 60th anniversary of the Ku Klux Klan bombing that killed four young girls at Sixteenth Street Baptist Church in Birmingham, Alabama .</p>
+Recently, the United Auto Workers in the US launched a strike that has the potential to disrupt the economy and President Biden&#39;s plans. Biden has voiced his support of the strikers and argued that they deserve a fair wage. In other news, prosecutors have requested a gag order on former President Trump related to his federal election case. There has also been news about pharmacists pushing for new FDA regulations on decongestants, and a Texas judge recently called on citizens to remember violent racial histories. Lastly, authorities believe they overestimated the death toll from a wildfire on Maui, which is now believed to be at 97.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>U.A.W. Starts Strike Small, but Repercussions Could Prove Far-Reaching</h3>
@@ -123,15 +123,15 @@ There have been a lot of news stories lately about labor disputes, legal cases, 
 <sub><sub>Friday, September 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Texas Senators Begin to Deliberate Paxton Impeachment</h3>
-<sub>By J. David Goodman</sub>
-<p>The Republican-controlled Senate is weighing whether to remove the attorney general, Ken Paxton, based on evidence of bribery and abuse of office.  <a href="https://nyti.ms/3sXpLs5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Justice Ketanji Brown Jackson Calls on Nation to Remember Ugly Past Truths</h3>
 <sub>By Erica L. Green and Abbie VanSickle</sub>
 <p>She was the keynote speaker at the 60th anniversary of the Ku Klux Klan bombing that killed four young girls at the Sixteenth Street Baptist Church in Birmingham, Ala.  <a href="https://nyti.ms/3sYPG2v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Maui Fire Death Toll Drops to 97 After Weeks of DNA Review</h3>
+<sub>By Corina Knoll</sub>
+<p>For more than three weeks, officials said 115 people had died in the wildfire that destroyed most of Lahaina. They announced on Friday that they had overstated the death toll.  <a href="https://nyti.ms/45UBDcH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 15, Central Standard Time</sub></sub>
 <hr/>
 </ol>
