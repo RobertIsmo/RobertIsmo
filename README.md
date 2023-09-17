@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, September 16, Central Standard Time</p>
 <p>
-Right now, there is a lot of beautiful chaos happening in the world. In the United States, Texas Attorney General Ken Paxton was acquitted in a landmark Senate trial by a largely party-line vote after being impeached on charges of corruption and abuse of office. Meanwhile, the United Auto Workers union is resuming talks with three Detroit automakers, while tech fears are showing up on union picket lines. In Russia, the effects of a war are ever-present but its dangers have yet to disrupt daily life. Additionally, countries surrounding Ukraine have placed restrictions on Ukrainian grain sales. Moving onto sports, one college football player who experienced chaotic conditions at his previous school has found success in major college football. Moreover, there has been a tragedy at a Bronx day care facility where a 1-year-old boy died and three other children were hospitalized after opiod exposure. On top of that, controversy is brewing in Aurora Colorado centering around police regulations after Elijah McClain&#39;s death in 2019. Lastly, fears regarding global warming and environmental crises have gained attention after the summer saw intense heat waves, fires, and floods.</p>
+There has been a lot going on in the world recently. In the US, Texas Attorney General Ken Paxton recently had a landmark trial and was acquitted, although it became largely a contest over Republican politics. Meanwhile in Detroit, the United Auto Workers and three automakers have resumed talks, while tech fears have been appearing on picket lines. In Colorado, there is a deep divide over policing following the death of Elijah McClain. In New York, a one-year-old died after experiencing opioid exposure at a day care. This prompted some discussion about opioid use among children. In terms of entertainment, Jann Wenner, Rolling Stone co-founder, was removed from the Rock Hall Board after making controversial comments in an interview. And finally in Ukraine and Libya, there are big issues rainfall is causing dam problems and climate change is causing eco-anxiety worldwide.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Texas Attorney General Is Acquitted in Landmark Senate Trial</h3>
@@ -81,33 +81,15 @@ Right now, there is a lot of beautiful chaos happening in the world. In the Unit
 <sub><sub>Saturday, September 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Battle Over Electric Vehicles Is Central to Auto Strike</h3>
-<sub>By Jack Ewing</sub>
-<p>Carmakers are anxious to keep costs down as they ramp up electric vehicle manufacturing, while striking workers want to preserve jobs as the industry shifts to batteries.  <a href="https://nyti.ms/3EFkyYf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Tech Fears Are Showing Up on Picket Lines</h3>
 <sub>By Sarah Kessler, Ephrat Livni and Michael J. de la Merced</sub>
 <p>What’s being called the “summer of strikes” comes at a time when workers increasingly fear new technologies will threaten their jobs.  <a href="https://nyti.ms/3rgEXQt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Moscow, the War Is Background Noise, but Ever-Present</h3>
-<sub>By Valerie Hopkins and Nanna Heitmann</sub>
-<p>Muscovites go about their daily lives with little major disruption. But the war’s effects are evident — in the stores, at the movies and in the increasingly repressive environment.  <a href="https://nyti.ms/48f2TEv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Three Neighbors of Ukraine Ban Its Grain as E.U. Restrictions Expire</h3>
-<sub>By Mike Ives and Gaya Gupta</sub>
-<p>The bars against sales in Poland, Hungary and Slovakia were in place early Saturday, reviving an issue that has threatened European Union solidarity on Ukraine.  <a href="https://nyti.ms/3PjzPmv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>His Team Was a Chaotic Punchline. Then He Found a New Spot in the Sport.</h3>
-<sub>By Billy Witz</sub>
-<p>Dozens of players were caught up in the lies and false promises of Bishop Sycamore and Christians of Faith Academy. One player made it out to play major college football.  <a href="https://nyti.ms/44VRTZE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>The Trials of Aurora: A Colorado City’s Deep Divide Over Policing</h3>
+<sub>By Audra D. S. Burch</sub>
+<p>After Elijah McClain died in 2019, the case seemed to be closed. The George Floyd protests — and the backlash to them — would change everything.  <a href="https://nyti.ms/44TwCjl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -116,11 +98,29 @@ Right now, there is a lot of beautiful chaos happening in the world. In the Unit
 <p>A 1-year-old boy died and three other children were hospitalized on Friday after showing signs of drug exposure at the day care, officials said.  <a href="https://nyti.ms/3PES6MG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>The Trials of Aurora: A Colorado City’s Deep Divide Over Policing</h3>
-<sub>By Audra D. S. Burch</sub>
-<p>After Elijah McClain died in 2019, the case seemed to be closed. The George Floyd protests — and the backlash to them — would change everything.  <a href="https://nyti.ms/44TwCjl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>What We Know About Children and Opioids</h3>
+<sub>By Benjamin Mueller</sub>
+<p>A 1-year-old died and three other children fell ill at a New York day care, and the authorities blamed opioids. Children are significantly more vulnerable to drugs because of their small bodies.  <a href="https://nyti.ms/3LqDGgs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Jann Wenner Removed From Rock Hall Board After Times Interview</h3>
+<sub>By Ben Sisario</sub>
+<p>The Rolling Stone co-founder’s exit comes a day after The New York Times published an interview in which he made widely criticized comments.  <a href="https://nyti.ms/46dwKv9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Jann Wenner Defends His Legacy, and His Generation’s</h3>
+<sub>By David Marchese</sub>
+<p>The co-founder of Rolling Stone magazine on the legacy of boomers and why he chose only white men for his book on rock’s “masters.”  <a href="https://nyti.ms/45Qcobr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>In Ukraine, Mathematics Offers Strength in Numbers</h3>
+<sub>By Siobhan Roberts</sub>
+<p>Mathematicians gathered in Kyiv and Warsaw to inaugurate a new center and “open, or reopen, Ukrainian science for the world.”  <a href="https://nyti.ms/44OzvSo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Dire Warnings About Libya Dams Went Unheeded</h3>
