@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, September 17, Central Standard Time</p>
 <p>
-There is a lot going on around the world right now.  The U.S. and China are engaged in a spy war, trying to collect intelligence on each other&#39;s leadership thinking and military capabilities. In the U.S., President Biden&#39;s re-election bid has been supported by Democratic party leaders, but it seems less popular with voters based on opinion polls. Meanwhile, there has been an increase in female athletes and some major shifts in power inside the Texas Republican party. Ken Paxton was recently acquitted in a Senate trial of charges related to corruption and abuse of office. There was also a case from Yale involving rape allegations that challenged campus disciplinary hearings. Closer to home, Wall Street investors have bought up a lot of starter homes and converted them into rentals, putting first-time buyers at a disadvantage and raising questions for our communities. On the international front, Finland&#39;s President has warned Europe about becoming complacent with Russia while some cargo ships were sent to Ukraine after Russia ended its grain deal with it. There is also news about Jann Wenner, co-founder of Rolling Stone magazine - he was removed from the Rock Hall Board due to some comments he made during an interview - and then defended his legacy in a separate interview. Finally, Sandra Bullock&#39;s movies have shown us how technology is impacting humanity&#39;s relationship with modernity.</p>
+Currently, there is a growing espionage shadow war between the US and China as each nation expands their global spy operations to try and gain intelligence on leadership thinking and military capabilities. US and Chinese officials met in Malta to discuss Ukraine and other issues, as the US government is trying to set up a meeting between President Biden and China&#39;s leader Xi. Meanwhile, President Trump has criticized Florida&#39;s Governor for banning abortion and Democrats are lackluster on the idea of President Biden running for re-election due to worries among voters. Sports is also at a pivotal point as there has been an unprecedented rise of female athletes over the last few years. In addition, South Korea has had to confront its past regarding an unethical adoption system, Wall Street investors are purchasing starter homes nationwide and converting them into rentals, a Yale student is facing a defamation lawsuit for accusations of rape resulting in her alleged attacker&#39;s expulsion from the university, two people have been charged with murder in a 1-year-old&#39;s death at a day care center (possibly due to opioids), thousands of religious followers are gathering in Ukraine for Rosh Hashana despite the war with Russia, and cargo ships have arrived at a Ukrainian port for the first time since Russia stopped grain trade with the country.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In Risky Hunt for Secrets, U.S. and China Expand Global Spy Operations</h3>
@@ -69,9 +69,21 @@ There is a lot going on around the world right now.  The U.S. and China are enga
 <sub><sub>Saturday, September 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. and Chinese Officials Meet in Malta to Discuss Ukraine and Other Flashpoints</h3>
+<sub>By Edward Wong</sub>
+<p>The talks between Jake Sullivan, the White House national security adviser, and Wang Yi, China’s top diplomat, took place as the two governments are trying to set up a Biden-Xi meeting.  <a href="https://nyti.ms/3PFbPvE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Top Democrats’ Bullishness on Biden 2024 Collides With Voters’ Worries</h3>
 <sub>By Lisa Lerer and Reid J. Epstein</sub>
 <p>Party leaders have rallied behind the president’s re-election bid, but as one top Democratic strategist put it, “The voters don’t want this, and that’s in poll after poll after poll.”  <a href="https://nyti.ms/48lTGdJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>‘A Terrible Mistake’: Trump Criticizes DeSantis on Abortion Ban</h3>
+<sub>By Jonathan Swan and Maggie Haberman</sub>
+<p>The former president, while denouncing his chief rival for the Republican nomination, also largely evaded questions on the issue.  <a href="https://nyti.ms/3LpCZnL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
@@ -80,16 +92,16 @@ There is a lot going on around the world right now.  The U.S. and China are enga
 <p>As our Sports of The Times columnist moves to a new assignment, he reflects on a recurring theme from his tenure: the rise of female athletes.  <a href="https://nyti.ms/3RkiHQl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Behind Paxton’s Impeachment, a Republican Battle for Control of Texas</h3>
-<sub>By J. David Goodman</sub>
-<p>The impeachment was the latest fight in an ongoing struggle between an emboldened hard right and the party’s more moderate old guard.  <a href="https://nyti.ms/3PJBcMZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>World’s Largest ‘Baby Exporter’ Confronts Its Painful Past</h3>
+<sub>By Choe Sang-Hun</sub>
+<p>South Korean adoptees have been returning to the country to hold the government accountable for what they call a corrupt adoption system that went largely unchanged until recent decades.  <a href="https://nyti.ms/48kzwkg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Texas Attorney General Is Acquitted in Landmark Senate Trial</h3>
-<sub>By J. David Goodman, Edgar Sandoval and David Montgomery</sub>
-<p>Senators voted largely on party lines against conviction of the attorney general, Ken Paxton, who had been impeached on charges of corruption and abuse of office.  <a href="https://nyti.ms/3t1S88e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-realestate-blue" alt="">
+<h3>What Happens When Wall Street Buys Most of the Homes on Your Block?</h3>
+<sub>By Ronda Kaysen and Ella Koeze</sub>
+<p>As Wall Street investors pluck up starter homes and convert them to rentals, first-time buyers are being squeezed out and residents are being forced to grapple with what the changes mean for their lives and their communities.  <a href="https://nyti.ms/3Zmx2h8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -98,11 +110,17 @@ There is a lot going on around the world right now.  The U.S. and China are enga
 <p>The woman’s allegation led to the expulsion of Saifullah Khan, who was acquitted in a criminal trial. His lawsuit is now challenging these disciplinary hearings.  <a href="https://nyti.ms/44URW8f"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-realestate-blue" alt="">
-<h3>What Happens When Wall Street Buys Most of the Homes on Your Block?</h3>
-<sub>By Ronda Kaysen and Ella Koeze</sub>
-<p>As Wall Street investors pluck up starter homes and convert them to rentals, first-time buyers are being squeezed out and residents are being forced to grapple with what the changes mean for their lives and their communities.  <a href="https://nyti.ms/3Zmx2h8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 16, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>2 Charged With Murder in Day Care Death of 1-Year-Old</h3>
+<sub>By Maria Cramer</sub>
+<p>The owner of the day care center and a neighbor were charged in the death of Nicholas Dominici, who never awakened from a nap. The police said they believed he had been exposed to an opioid.  <a href="https://nyti.ms/3PnJf0f"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Ukraine, a Rosh Hashana Party Not Even War Can Stop</h3>
+<sub>By Jeffrey Gettleman and Daniel Berehulak</sub>
+<p>Every year, thousands of followers of Rebbe Nachman of Breslov descend on the town of Uman to worship, dance and pay homage at the tomb of their spiritual leader.  <a href="https://nyti.ms/3PGIC3f"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Finland’s President, No Stranger to Russia, Warns Europe About Complacency</h3>
@@ -115,24 +133,6 @@ There is a lot going on around the world right now.  The U.S. and China are enga
 <sub>By Matthew Mpoke Bigg and Vivek Shankar</sub>
 <p>The arrival of two ships at the Ukrainian port of Chornomorsk over the weekend could signal the opening of an alternative route for Ukraine to export grain across the Black Sea.  <a href="https://nyti.ms/3ra5PBN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Jann Wenner Removed From Rock Hall Board After Times Interview</h3>
-<sub>By Ben Sisario</sub>
-<p>The Rolling Stone co-founder’s exit comes a day after The New York Times published an interview in which he made widely criticized comments.  <a href="https://nyti.ms/46dwKv9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Jann Wenner Defends His Legacy, and His Generation’s</h3>
-<sub>By David Marchese</sub>
-<p>The co-founder of Rolling Stone magazine on the legacy of boomers and why he chose only white men for his book on rock’s “masters.”  <a href="https://nyti.ms/45Qcobr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>The Rise of Tech, According to Sandra Bullock Movies</h3>
-<sub>By Jim Windolf</sub>
-<p>A completely correct theory, in which one of our greatest movie stars reveals humanity’s changing relationship to modernity.  <a href="https://nyti.ms/3r7HKeR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 15, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
