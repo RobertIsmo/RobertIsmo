@@ -58,12 +58,16 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Saturday, September 16, Central Standard Time</p>
+<p>It is Sunday, September 17, Central Standard Time</p>
 <p>
-There&#39;s a lot happening in the world right now! In the US, Texas Attorney General Ken Paxton was recently acquitted in a landmark Senate trial. It&#39;s becoming increasingly clear that decisions made by Republicans are being used as a litmus test for loyalty in the Trump era. Over in Detroit, United Auto Workers and 3 automakers had a resumption of talks which have been ongoing for months. At the same time, tech workers have been going on strike due to fears of job loss caused by up-and-coming technologies. 
-
-In Colorado, a stark divide has opened up over policing with the highly observed death of Elijah McClain last year. Over in New York, a one year old died and three other children were hospitalized after opioid exposure at a daycare center. We’re learning more about how children are particularly vulnerable to drugs and our understanding of eco-anxiety is deepening due to intense global warming throughout the summer months. Mathematics is gaining traction in Ukraine as their scientists continue to open and&#x2F;or reopen Ukrainian science for the world to see. Meanwhile, there are dire warnings coming from Libya about impending damage to dams from powerful storms that haven&#39;t been heeded in years. In light of all this, it&#39;s clear that we are navigate an unprecedented moment and need to remain ever vigilant during these uncertain times.</p>
+It looks like world leaders are engaging in an increasingly risky espionage war to try and gain insight into their opponents&#39; strategies. In the US, the attorney general of Texas was just acquitted at a Senate trial. It became a litmus test for Republicans and loyalty to the Trump administration. Meanwhile, the United Auto Workers union is in talks with Detroit&#39;s three automakers, which comes at a time when workers everywhere fear innovations in technology will take away their jobs. In New York, a 1-year-old died and three others became ill after exposure to opioids at a Bronx daycare, and experts are raising awareness about how drugs affect children differently than adults. The co-founder of Rolling Stone magazine also made some comments that weren&#39;t well received, and as a result he was removed from the Rock Hall board. A new center is being inaugurated in Ukraine that aims to make Ukrainian science open to the world, while an engineer tried to warn Libya against their lack of repairs for dams but wasn&#39;t taken seriously. Lastly in Pennsylvania, an escaped fugitive was able to evade the police for 13 days before getting caught!</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Risky Hunt for Secrets, U.S. and China Expand Global Spy Operations</h3>
+<sub>By Julian E. Barnes and Edward Wong</sub>
+<p>The nations are taking bold steps in the espionage shadow war to try to collect intelligence on leadership thinking and military capabilities.  <a href="https://nyti.ms/3ENPwxn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 16, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Texas Attorney General Is Acquitted in Landmark Senate Trial</h3>
 <sub>By J. David Goodman, Edgar Sandoval and David Montgomery</sub>
@@ -87,12 +91,6 @@ In Colorado, a stark divide has opened up over policing with the highly observed
 <sub>By Sarah Kessler, Ephrat Livni and Michael J. de la Merced</sub>
 <p>What’s being called the “summer of strikes” comes at a time when workers increasingly fear new technologies will threaten their jobs.  <a href="https://nyti.ms/3rgEXQt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>The Trials of Aurora: A Colorado City’s Deep Divide Over Policing</h3>
-<sub>By Audra D. S. Burch</sub>
-<p>After Elijah McClain died in 2019, the case seemed to be closed. The George Floyd protests — and the backlash to them — would change everything.  <a href="https://nyti.ms/44TwCjl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>1-Year-Old Dead and Man in Custody After Opioid Exposure at Bronx Day Care</h3>
@@ -130,10 +128,10 @@ In Colorado, a stark divide has opened up over policing with the highly observed
 <p>“The state wasn’t interested,” said an engineer who published a paper on why Derna’s dams, after decades of postponed repairs, might fail under the stress of a powerful storm.  <a href="https://nyti.ms/3Zh4d5P"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>How Do We Feel About Global Warming? It’s Called Eco-Anxiety.</h3>
-<sub>By Jason Horowitz</sub>
-<p>After a summer of intense heat, raging fires and catastrophic floods, a term for pervading dread about climate change and other environmental crises is having its moment.  <a href="https://nyti.ms/3Rpyi10"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How He Survived 13 Days: Cavalcante on the Run in Pennsylvania</h3>
+<sub>By Nicholas Bogel-Burroughs</sub>
+<p>The 34-year-old fugitive was desperate and resourceful, authorities said, and for days he stayed ahead of his pursuers, sometimes by steps, sometimes by miles.  <a href="https://nyti.ms/3ENaix7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
