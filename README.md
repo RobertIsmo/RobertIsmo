@@ -60,20 +60,8 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, September 17, Central Standard Time</p>
 <p>
-Currently, there is a growing espionage shadow war between the US and China as each nation expands their global spy operations to try and gain intelligence on leadership thinking and military capabilities. US and Chinese officials met in Malta to discuss Ukraine and other issues, as the US government is trying to set up a meeting between President Biden and China&#39;s leader Xi. Meanwhile, President Trump has criticized Florida&#39;s Governor for banning abortion and Democrats are lackluster on the idea of President Biden running for re-election due to worries among voters. Sports is also at a pivotal point as there has been an unprecedented rise of female athletes over the last few years. In addition, South Korea has had to confront its past regarding an unethical adoption system, Wall Street investors are purchasing starter homes nationwide and converting them into rentals, a Yale student is facing a defamation lawsuit for accusations of rape resulting in her alleged attacker&#39;s expulsion from the university, two people have been charged with murder in a 1-year-old&#39;s death at a day care center (possibly due to opioids), thousands of religious followers are gathering in Ukraine for Rosh Hashana despite the war with Russia, and cargo ships have arrived at a Ukrainian port for the first time since Russia stopped grain trade with the country.</p>
+It seems like a lot is happening in the world right now. To start, there&#39;s a debate among top Democrats about President Biden&#39;s re-election bid, and whether or not it&#39;s something the voters want. In the meantime, former president Trump has criticized a Florida governor for passing an abortion ban, and the US and China are stepping up their global espionage activities. The US and Chinese officials met in Malta to discuss the Ukraine crisis and other pressing issues. There have also been huge protests in New York City against fossil fuels, and people are recognizing the pervasive feeling of dread they feel due to climate change as &#39;eco-anxiety&#39;. Lastly, two people were charged with murder in connection with the death of a one year old at a day care center.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Risky Hunt for Secrets, U.S. and China Expand Global Spy Operations</h3>
-<sub>By Julian E. Barnes and Edward Wong</sub>
-<p>The nations are taking bold steps in the espionage shadow war to try to collect intelligence on leadership thinking and military capabilities.  <a href="https://nyti.ms/3ENPwxn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. and Chinese Officials Meet in Malta to Discuss Ukraine and Other Flashpoints</h3>
-<sub>By Edward Wong</sub>
-<p>The talks between Jake Sullivan, the White House national security adviser, and Wang Yi, China’s top diplomat, took place as the two governments are trying to set up a Biden-Xi meeting.  <a href="https://nyti.ms/3PFbPvE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 17, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Top Democrats’ Bullishness on Biden 2024 Collides With Voters’ Worries</h3>
 <sub>By Lisa Lerer and Reid J. Epstein</sub>
@@ -84,6 +72,24 @@ Currently, there is a growing espionage shadow war between the US and China as e
 <h3>‘A Terrible Mistake’: Trump Criticizes DeSantis on Abortion Ban</h3>
 <sub>By Jonathan Swan and Maggie Haberman</sub>
 <p>The former president, while denouncing his chief rival for the Republican nomination, also largely evaded questions on the issue.  <a href="https://nyti.ms/3LpCZnL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>New White House Counsel’s To-Do List: Impeachment on Day 2</h3>
+<sub>By Katie Rogers</sub>
+<p>A veteran of the Obama White House, Ed Siskel had one day to settle in before Speaker Kevin McCarthy opened an impeachment inquiry into President Biden.  <a href="https://nyti.ms/3sXvz4I"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Risky Hunt for Secrets, U.S. and China Expand Global Spy Operations</h3>
+<sub>By Julian E. Barnes and Edward Wong</sub>
+<p>The nations are taking bold steps in the espionage shadow war to try to collect intelligence on leadership thinking and military capabilities.  <a href="https://nyti.ms/3ENPwxn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. and Chinese Officials Meet in Malta to Discuss Ukraine and Other Flashpoints</h3>
+<sub>By Edward Wong</sub>
+<p>The talks between Jake Sullivan, the White House national security adviser, and Wang Yi, China’s top diplomat, took place as the two governments are trying to set up a Biden-Xi meeting.  <a href="https://nyti.ms/3PFbPvE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
@@ -113,26 +119,20 @@ Currently, there is a growing espionage shadow war between the US and China as e
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>2 Charged With Murder in Day Care Death of 1-Year-Old</h3>
 <sub>By Maria Cramer</sub>
-<p>The owner of the day care center and a neighbor were charged in the death of Nicholas Dominici, who never awakened from a nap. The police said they believed he had been exposed to an opioid.  <a href="https://nyti.ms/3PnJf0f"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The owner of the day care center and a neighbor were charged in the death of Nicholas Dominici, who the police believe had been exposed to an opioid. “He was the little prince of the house,” his mother said.  <a href="https://nyti.ms/3PnJf0f"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Climate Protesters March on New York, Calling for End to Fossil Fuels</h3>
+<sub>By Somini Sengupta, Hilary Howard and Delger Erdenesanaa</sub>
+<p>Ahead of U.N. meetings this week, thousands gathered in Midtown to demand that President Biden and other world leaders stop new oil and gas drilling.  <a href="https://nyti.ms/3PIQIIE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Ukraine, a Rosh Hashana Party Not Even War Can Stop</h3>
-<sub>By Jeffrey Gettleman and Daniel Berehulak</sub>
-<p>Every year, thousands of followers of Rebbe Nachman of Breslov descend on the town of Uman to worship, dance and pay homage at the tomb of their spiritual leader.  <a href="https://nyti.ms/3PGIC3f"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Finland’s President, No Stranger to Russia, Warns Europe About Complacency</h3>
-<sub>By Steven Erlanger</sub>
-<p>President Biden has consulted Sauli Niinisto throughout Russia’s war against Ukraine. Europeans should not dismiss the risks of a wider war, he says.  <a href="https://nyti.ms/3PG1wY5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>First Cargo Ships Arrive in Ukraine Since Russia Ended a Grain Deal</h3>
-<sub>By Matthew Mpoke Bigg and Vivek Shankar</sub>
-<p>The arrival of two ships at the Ukrainian port of Chornomorsk over the weekend could signal the opening of an alternative route for Ukraine to export grain across the Black Sea.  <a href="https://nyti.ms/3ra5PBN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 17, Central Standard Time</sub></sub>
+<h3>How Do We Feel About Global Warming? It’s Called Eco-Anxiety.</h3>
+<sub>By Jason Horowitz</sub>
+<p>After a summer of intense heat, raging fires and catastrophic floods, a term for pervading dread about climate change and other environmental crises is having its moment.  <a href="https://nyti.ms/3Rpyi10"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
