@@ -60,7 +60,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, September 17, Central Standard Time</p>
 <p>
-It seems like a lot is happening in the world right now. The U.S. and China are embroiled in a risky intelligence battle to collect information on each other, while in Texas the Attorney General has been acquitted after a landmark trial that became a litmus test for loyalty to the Republican party. There are talks between the United Auto Workers and the Detroit-based automakers, and tech is causing some workers worry with the fear of having their jobs threatened by new technologies. In New York, a one-year-old boy tragically died from opioid exposure at a day care, sparking conversations about the dangers of opioids to children. Arts-wise, Rolling Stone co-founder Jann Wenner was removed from the Rock Hall Board after making controversial comments and defending his generation&#39;s legacy. At the same time, mathematicians in Ukraine were coming together to inaugurate a new center and open their science back up for the world. Finally, there was an incredible story out of Pennsylvania where one of America&#39;s most wanted fugitives managed to stay ahead of his pursuers for 13 days.</p>
+There is a growing global espionage shadow war between the US and China to collect intelligence on leadership thinking and military capabilities, with both countries taking bold steps towards this. In the US, the Biden re-election campaign has been met with worries from the nation&#39;s voters as revealed in polls. Meanwhile, women athletes are being celebrated across various sports fields, in stark contrast to the ongoing battle between Texas&#39; hard right and moderate old guard. 
+
+In other world news, Finland&#39;s President Sauli Niinisto is warning Europe about the risks of complacency due to Russia&#39;s war against Ukraine, while two cargo ships have arrived in Ukraine since Russia ended a grain deal. On the entertainment side of things, Rolling Stone co-founder Jann Wenner was removed from his board following controversial comments in an interview, and Sandra Bullock movies are being examined for their exploration on tech-related topics. Closer to home, New York is faced with plans to further expand its biggest landfill which already stands as tall as Lady Liberty. Finally, Mattel&#39;s &quot;Barbie&quot; has made it big as a cinematic hit, and there was also an interesting discussion with Sean Combs as well as some sharks residing on a golf course.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In Risky Hunt for Secrets, U.S. and China Expand Global Spy Operations</h3>
@@ -69,40 +71,40 @@ It seems like a lot is happening in the world right now. The U.S. and China are 
 <sub><sub>Saturday, September 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Texas Attorney General Is Acquitted in Landmark Senate Trial</h3>
-<sub>By J. David Goodman, Edgar Sandoval and David Montgomery</sub>
-<p>Senators voted largely on party lines against conviction of the attorney general, Ken Paxton, who had been impeached on charges of corruption and abuse of office.  <a href="https://nyti.ms/3t1S88e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 16, Central Standard Time</sub></sub>
+<h3>Top Democrats’ Bullishness on Biden 2024 Collides With Voters’ Worries</h3>
+<sub>By Lisa Lerer and Reid J. Epstein</sub>
+<p>Party leaders have rallied behind the president’s re-election bid, but as one top Democratic strategist put it, “The voters don’t want this, and that’s in poll after poll after poll.”  <a href="https://nyti.ms/48lTGdJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>How Coco Gauff Embodies the Biggest Story in Sports</h3>
+<sub>By Kurt Streeter</sub>
+<p>As our Sports of The Times columnist moves to a new assignment, he reflects on a recurring theme from his tenure: the rise of female athletes.  <a href="https://nyti.ms/3RkiHQl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Ken Paxton’s Trial Became a Contest Over Republican Politics</h3>
+<h3>Behind Paxton’s Impeachment, a Republican Battle for Control of Texas</h3>
 <sub>By J. David Goodman</sub>
-<p>The battle over the fate of the Trump-backed Texas Attorney General became a litmus test for loyalty to the GOP.  <a href="https://nyti.ms/4500pXI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 16, Central Standard Time</sub></sub>
+<p>The impeachment was the latest fight in an ongoing struggle between an emboldened hard right and the party’s more moderate old guard.  <a href="https://nyti.ms/3PJBcMZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Union and 3 Detroit Automakers Resume Talks</h3>
-<sub>By Neal E. Boudette</sub>
-<p>The United Auto Workers said it had “reasonably productive conversations with Ford” but did not mention G.M. or Stellantis.  <a href="https://nyti.ms/3ZmDBA7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 16, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How a Yale Student’s Rape Accusation Exposed Her to a Defamation Lawsuit</h3>
+<sub>By Vimal Patel</sub>
+<p>The woman’s allegation led to the expulsion of Saifullah Khan, who was acquitted in a criminal trial. His lawsuit is now challenging these disciplinary hearings.  <a href="https://nyti.ms/44URW8f"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Tech Fears Are Showing Up on Picket Lines</h3>
-<sub>By Sarah Kessler, Ephrat Livni and Michael J. de la Merced</sub>
-<p>What’s being called the “summer of strikes” comes at a time when workers increasingly fear new technologies will threaten their jobs.  <a href="https://nyti.ms/3rgEXQt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 16, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Finland’s President, No Stranger to Russia, Warns Europe About Complacency</h3>
+<sub>By Steven Erlanger</sub>
+<p>President Biden has consulted Sauli Niinisto throughout Russia’s war against Ukraine. Europeans should not dismiss the risks of a wider war, he says.  <a href="https://nyti.ms/3PG1wY5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>1-Year-Old Dead and Man in Custody After Opioid Exposure at Bronx Day Care</h3>
-<sub>By Hurubie Meko and Claire Fahy</sub>
-<p>A 1-year-old boy died and three other children were hospitalized on Friday after showing signs of drug exposure at the day care, officials said.  <a href="https://nyti.ms/3PES6MG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>What We Know About Children and Opioids</h3>
-<sub>By Benjamin Mueller</sub>
-<p>A 1-year-old died and three other children fell ill at a New York day care, and the authorities blamed opioids. Children are significantly more vulnerable to drugs because of their small bodies.  <a href="https://nyti.ms/3LqDGgs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 16, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>First Cargo Ships Arrive in Ukraine Since Russia Ended a Grain Deal</h3>
+<sub>By Matthew Mpoke Bigg and Vivek Shankar</sub>
+<p>The arrival of two ships at the Ukrainian port of Chornomorsk over the weekend could signal the opening of an alternative route for Ukraine to export grain across the Black Sea.  <a href="https://nyti.ms/3ra5PBN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>Jann Wenner Removed From Rock Hall Board After Times Interview</h3>
@@ -116,23 +118,23 @@ It seems like a lot is happening in the world right now. The U.S. and China are 
 <p>The co-founder of Rolling Stone magazine on the legacy of boomers and why he chose only white men for his book on rock’s “masters.”  <a href="https://nyti.ms/45Qcobr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>In Ukraine, Mathematics Offers Strength in Numbers</h3>
-<sub>By Siobhan Roberts</sub>
-<p>Mathematicians gathered in Kyiv and Warsaw to inaugurate a new center and “open, or reopen, Ukrainian science for the world.”  <a href="https://nyti.ms/44OzvSo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 11, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>The Rise of Tech, According to Sandra Bullock Movies</h3>
+<sub>By Jim Windolf</sub>
+<p>A completely correct theory, in which one of our greatest movie stars reveals humanity’s changing relationship to modernity.  <a href="https://nyti.ms/3r7HKeR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Dire Warnings About Libya Dams Went Unheeded</h3>
-<sub>By Aaron Boxerman and James Glanz</sub>
-<p>“The state wasn’t interested,” said an engineer who published a paper on why Derna’s dams, after decades of postponed repairs, might fail under the stress of a powerful storm.  <a href="https://nyti.ms/3Zh4d5P"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 16, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>New York’s Biggest Landfill Could Get Even Bigger</h3>
+<sub>By Jesse McKinley and Lauren Petracca</sub>
+<p>Seneca Meadows is as tall as Lady Liberty. There are plans to make it taller.  <a href="https://nyti.ms/48kzg4M"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How He Survived 13 Days: Cavalcante on the Run in Pennsylvania</h3>
-<sub>By Nicholas Bogel-Burroughs</sub>
-<p>The 34-year-old fugitive was desperate and resourceful, authorities said, and for days he stayed ahead of his pursuers, sometimes by steps, sometimes by miles.  <a href="https://nyti.ms/3ENaix7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 16, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The Weekender</h3>
+<sub>By The New York Times</sub>
+<p>How Mattel made “Barbie” a cinematic hit. Also: an interview with Sean Combs, and sharks living on a golf course.  <a href="https://nyti.ms/3PlCWdB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 15, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
