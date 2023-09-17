@@ -60,9 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, September 17, Central Standard Time</p>
 <p>
-There is a growing global espionage shadow war between the US and China to collect intelligence on leadership thinking and military capabilities, with both countries taking bold steps towards this. In the US, the Biden re-election campaign has been met with worries from the nation&#39;s voters as revealed in polls. Meanwhile, women athletes are being celebrated across various sports fields, in stark contrast to the ongoing battle between Texas&#39; hard right and moderate old guard. 
-
-In other world news, Finland&#39;s President Sauli Niinisto is warning Europe about the risks of complacency due to Russia&#39;s war against Ukraine, while two cargo ships have arrived in Ukraine since Russia ended a grain deal. On the entertainment side of things, Rolling Stone co-founder Jann Wenner was removed from his board following controversial comments in an interview, and Sandra Bullock movies are being examined for their exploration on tech-related topics. Closer to home, New York is faced with plans to further expand its biggest landfill which already stands as tall as Lady Liberty. Finally, Mattel&#39;s &quot;Barbie&quot; has made it big as a cinematic hit, and there was also an interesting discussion with Sean Combs as well as some sharks residing on a golf course.</p>
+There is a lot going on around the world right now.  The U.S. and China are engaged in a spy war, trying to collect intelligence on each other&#39;s leadership thinking and military capabilities. In the U.S., President Biden&#39;s re-election bid has been supported by Democratic party leaders, but it seems less popular with voters based on opinion polls. Meanwhile, there has been an increase in female athletes and some major shifts in power inside the Texas Republican party. Ken Paxton was recently acquitted in a Senate trial of charges related to corruption and abuse of office. There was also a case from Yale involving rape allegations that challenged campus disciplinary hearings. Closer to home, Wall Street investors have bought up a lot of starter homes and converted them into rentals, putting first-time buyers at a disadvantage and raising questions for our communities. On the international front, Finland&#39;s President has warned Europe about becoming complacent with Russia while some cargo ships were sent to Ukraine after Russia ended its grain deal with it. There is also news about Jann Wenner, co-founder of Rolling Stone magazine - he was removed from the Rock Hall Board due to some comments he made during an interview - and then defended his legacy in a separate interview. Finally, Sandra Bullock&#39;s movies have shown us how technology is impacting humanity&#39;s relationship with modernity.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In Risky Hunt for Secrets, U.S. and China Expand Global Spy Operations</h3>
@@ -89,10 +87,22 @@ In other world news, Finland&#39;s President Sauli Niinisto is warning Europe ab
 <sub><sub>Sunday, September 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Texas Attorney General Is Acquitted in Landmark Senate Trial</h3>
+<sub>By J. David Goodman, Edgar Sandoval and David Montgomery</sub>
+<p>Senators voted largely on party lines against conviction of the attorney general, Ken Paxton, who had been impeached on charges of corruption and abuse of office.  <a href="https://nyti.ms/3t1S88e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>How a Yale Student’s Rape Accusation Exposed Her to a Defamation Lawsuit</h3>
 <sub>By Vimal Patel</sub>
 <p>The woman’s allegation led to the expulsion of Saifullah Khan, who was acquitted in a criminal trial. His lawsuit is now challenging these disciplinary hearings.  <a href="https://nyti.ms/44URW8f"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-realestate-blue" alt="">
+<h3>What Happens When Wall Street Buys Most of the Homes on Your Block?</h3>
+<sub>By Ronda Kaysen and Ella Koeze</sub>
+<p>As Wall Street investors pluck up starter homes and convert them to rentals, first-time buyers are being squeezed out and residents are being forced to grapple with what the changes mean for their lives and their communities.  <a href="https://nyti.ms/3Zmx2h8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Finland’s President, No Stranger to Russia, Warns Europe About Complacency</h3>
@@ -122,18 +132,6 @@ In other world news, Finland&#39;s President Sauli Niinisto is warning Europe ab
 <h3>The Rise of Tech, According to Sandra Bullock Movies</h3>
 <sub>By Jim Windolf</sub>
 <p>A completely correct theory, in which one of our greatest movie stars reveals humanity’s changing relationship to modernity.  <a href="https://nyti.ms/3r7HKeR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>New York’s Biggest Landfill Could Get Even Bigger</h3>
-<sub>By Jesse McKinley and Lauren Petracca</sub>
-<p>Seneca Meadows is as tall as Lady Liberty. There are plans to make it taller.  <a href="https://nyti.ms/48kzg4M"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The Weekender</h3>
-<sub>By The New York Times</sub>
-<p>How Mattel made “Barbie” a cinematic hit. Also: an interview with Sean Combs, and sharks living on a golf course.  <a href="https://nyti.ms/3PlCWdB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 15, Central Standard Time</sub></sub>
 <hr/>
 </ol>
