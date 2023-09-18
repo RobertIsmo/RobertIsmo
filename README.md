@@ -60,10 +60,16 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, September 18, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. Ukrainian President Zelensky is in the US making a case for more aid and thanking Western nations for their support. Singapore is rethinking its sweltering urban areas to lower the effects of climate change, while former Donald Trump aide Mark Meadows has testified in a Georgia court case with mixed results. Steven Calabresi, co-founder of the Federalist Society, has reversed his opinion on whether Trump can serve again after the 14th Amendment. Meanwhile, an immigrant community is reeling from a sheriff deputy shooting two teens, and businesses are introducing &quot;Woke Free&quot; products with an anti-liberal agenda. Iran said they expect a prisoner exchange with the US today as President Biden and Ebrahim Raisi of Iran prepare to attend the UN General Assembly meeting. Iraq&#39;s leader is heading there too to pitch himself as a face of change and focus attention on climate change, sovereign debt relief and development goals.</p>
+There has been a lot going on recently in the world. In the US, Iran has released 5 Americans and President Biden has come under intense criticism for unfreezing billions of oil revenue for Tehran. Meanwhile, the Ukrainian leader visited the US to make a case for more aid while also expressing gratitude for Western support. On a different note, Singapore is trying to cool down its city by relying on models to reduce the effects of climate change. In other news, former top Trump aide Mark Meadows testified in Georgia although it does not seem that his strategy paid off. Hunter Biden is also suing the IRS after agents disclosed details about his finances and former President Trump is facing legal action regarding violation of the 14th Amendment. Lastly, there are also updates related to sports and business. Every week, former pros gather for pickup soccer while businesses make ‘woke free’ a selling point to appeal to customers who think corporate America is pushing a liberal agenda. Additionally, some state universities were given higher rankings due to U.S. News changes while Vassar College is now facing legal action for gender-based pay gap and labor issues have arisen in talk-show production.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Iran Releases 5 Americans as U.S. Unfreezes Billions in Oil Revenue for Tehran</h3>
+<sub>By Michael D. Shear and Farnaz Fassihi</sub>
+<p>The terms of the deal have generated intense criticism from Republicans, who accused President Biden of helping to finance Iran’s terrorist activities.  <a href="https://nyti.ms/3RjJ7BM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 18, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In U.S. Visit, Zelensky to Make a Case for More Aid, and Say Thank You</h3>
+<h3>In U.S., Zelensky Will Make Case for More Aid, and Offer Thanks</h3>
 <sub>By Andrew E. Kramer</sub>
 <p>The Ukrainian leader’s second trip to America comes at a more delicate diplomatic moment, as he tries to navigate political currents while expressing gratitude for Western support.  <a href="https://nyti.ms/44VGWr1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 18, Central Standard Time</sub></sub>
@@ -81,6 +87,12 @@ There is a lot happening in the world right now. Ukrainian President Zelensky is
 <sub><sub>Monday, September 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Hunter Biden Sues I.R.S., Saying Disclosures by Agents Violated His Privacy</h3>
+<sub>By Michael S. Schmidt</sub>
+<p>The suit from the president’s son says investigators for the tax agency had no right to make public details of his finances. It was filed days after he was indicted on separate gun charges.  <a href="https://nyti.ms/48iNHGi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>An About-Face on Whether the 14th Amendment Bars Trump From Office</h3>
 <sub>By Adam Liptak</sub>
 <p>Steven Calabresi, a founder of the Federalist Society, recently — and forcefully — said the former president was disqualified. He has had a change of heart.  <a href="https://nyti.ms/3LtVTtz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -91,12 +103,6 @@ There is a lot happening in the world right now. Ukrainian President Zelensky is
 <sub>By Rory Smith and Kieran Dodds</sub>
 <p>Every week, a group of former pros gathers for what may be the best pickup soccer game in the world. The appeal is a chance to engage with the sport on their terms.  <a href="https://nyti.ms/48gK7N3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Iranian Official Says Prisoner Exchange With U.S. Is Expected Monday</h3>
-<sub>By The New York Times</sub>
-<p>The announcement came as President Biden and Ebrahim Raisi, Iran’s president, were set to attend the annual United Nations General Assembly meeting.  <a href="https://nyti.ms/3RjJ7BM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Anguish in an Immigrant Community After a Sheriff’s Deputy Kills 2 Teens</h3>
@@ -110,28 +116,22 @@ There is a lot happening in the world right now. Ukrainian President Zelensky is
 <p>A number of companies — from clothing to pet care — are trying to appeal to customers who think corporate America is pushing a liberal agenda.  <a href="https://nyti.ms/3ZoCu2Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Mayor Adams’s Ability to Freely Spend Money on Migrants May Be Curtailed</h3>
-<sub>By Jay Root</sub>
-<p>The New York City comptroller is auditing a no-bid $432 million migrant-services contract, and is weighing whether to scrap the mayor’s blanket approval to enter such contracts.  <a href="https://nyti.ms/454pj8Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 18, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>With a New Formula, U.S. News Rankings Boost Some State Universities</h3>
+<sub>By Alan Blinder</sub>
+<p>Responding to critics, the publication made its biggest changes to its method in four decades. But it’s unclear whether that is enough to quiet the naysayers.  <a href="https://nyti.ms/3sYUTaA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>‘So Much Suffering:’ What Migrant Children Carry to New York</h3>
-<sub>By Ginia Bellafante</sub>
-<p>The migrant crisis is a looming mental health crisis. Are city schools prepared to care for their most vulnerable new students?  <a href="https://nyti.ms/3Zi0ZyU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Iraq’s Leader, Heading to U.N., Pitches Himself as Face of Change</h3>
-<sub>By Alissa J. Rubin</sub>
-<p>Prime Minister Mohammed Shia al-Sudani hopes to persuade the world that he can solve Iraq’s problems when he addresses the U.N. General Assembly this week.  <a href="https://nyti.ms/48kIEVP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>One of America’s First Women’s Colleges Is Accused of Paying Men More</h3>
+<sub>By Sharon Otterman and Erin Nolan</sub>
+<p>Vassar has maintained a gender-based pay gap for two decades, current and former female professors say in a recently filed lawsuit.  <a href="https://nyti.ms/48gvObk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>U.N. to Meet Amid Growing Divisions, and Demands From the Global South</h3>
-<sub>By Farnaz Fassihi</sub>
-<p>With major world leaders skipping the annual event, discussions will focus on climate change, sovereign debt relief and development goals.  <a href="https://nyti.ms/44RMm6p"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>The Talk Shows Have Labor Pains</h3>
+<sub>By James Poniewozik</sub>
+<p>The Hollywood strikes and the trouble at “The Tonight Show” are a reminder that hosts are not just your TV friends. They’re also people’s bosses.  <a href="https://nyti.ms/3PeXTqA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
