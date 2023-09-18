@@ -60,7 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, September 18, Central Standard Time</p>
 <p>
-There is a lot of news happening around the world right now. Here are some highlights: Top Democrats in the US are rallying behind President Biden&#39;s re-election bid, despite polls showing voter worries. Former President Trump criticized Florida Governor DeSantis on a controversial abortion ban. In South Korea, adoptees have returned to hold the government accountable for a corrupt adoption system. Former pro soccer players meet up for a pickup game every week. Wall Street investors have started buying starter homes and converting them to rentals, but this is squeezing first-time buyers out of the market and giving communities pause. A Yale student&#39;s rape accusation led to the expulsion of her attacker, but he is now challenging these disciplinary hearings in court. Two people have been charged with murder in the death of a one-year-old exposed to fentanyl at a day care center. Republicans presented a plan for stopgap spending in order to avert a federal shutdown in the US. Thousands of followers of Rebbe Nachman descended on Ukraine&#39;s town of Uman for Rosh Hashana celebrations, despite war in the region. Kyiv forces said they have retaken another strategic settlement nearby too. In New York, thousands gathered to march and demand an end to fossil fuels ahead of UN meetings this week. California is also preparing to sign into law a landmark climate disclosure bill, which could have national repercussions.</p>
+There&#39;s a lot going on in the world right now. In the US, there is a divide between top Democrats and voters over whether President Biden should run for re-election in 2024. Former President Trump recently criticized Florida Governor DeSantis&#39; abortion ban, while France is leading a group of countries to push China to end restrictions that are preventing certain exports to the Chinese market. 
+
+The world&#39;s largest &quot;baby exporter&quot;, South Korea, is confronting its painful past as adoptees are returning to hold the government accountable for its past actions. On the lighter side, each week former pros gather for a pickup soccer game with an appeal to engage with the sport on their own terms. 
+
+Real estate investors have been buying up starter homes and converting them into rentals - a development that has been squeezing out first-time buyers and forcing people to confront the changes it&#39;s bringing to their communities. There have also been some criminal cases recently; two people were charged with murder in connection with the death of a 1-year-old at a day care center in New York. 
+
+Climate protesters recently marched on New York, demanding that President Biden and other world leaders take action against new oil and gas drilling worldwide, while California Governor Newsom is signing a landmark climate disclosure bill that could have countrywide repercussions. Finally, this latest trade war between China and Europe isn&#39;t about semiconductors - rather, it has more to do with cosmetic sales restrictions imposed by Beijing.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Top Democrats’ Bullishness on Biden 2024 Collides With Voters’ Worries</h3>
@@ -111,12 +117,6 @@ There is a lot of news happening around the world right now. Here are some highl
 <sub><sub>Sunday, September 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Ukraine, a Rosh Hashana Party Not Even War Can Stop</h3>
-<sub>By Jeffrey Gettleman and Daniel Berehulak</sub>
-<p>Every year, thousands of followers of Rebbe Nachman of Breslov descend on the town of Uman to worship, dance and pay homage at the tomb of their spiritual leader.  <a href="https://nyti.ms/3PGIC3f"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ukraine Says It Has Retaken Strategic Village Near Bakhmut</h3>
 <sub>By Matthew Mpoke Bigg, Cassandra Vinograd and Vivek Shankar</sub>
 <p>The small village of Klishchiivka is the second settlement in eastern Ukraine that Kyiv’s forces say they have retaken in three days.  <a href="https://nyti.ms/3sUDzmZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -132,6 +132,12 @@ There is a lot of news happening around the world right now. Here are some highl
 <h3>California Governor to Sign Landmark Climate Disclosure Bill</h3>
 <sub>By Coral Davenport</sub>
 <p>The first-in-the-nation law will compel major companies to publicly disclose their carbon dioxide emissions and could have national repercussions.  <a href="https://nyti.ms/3LtALDL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>This China Trade War Isn’t About Semiconductors</h3>
+<sub>By Keith Bradsher and Elizabeth Paton</sub>
+<p>Cosmetics sales in China are soaring, but a group of exporting nations led by France are pushing Beijing to lift restrictions they say are blocking them unfairly.  <a href="https://nyti.ms/48gbgQa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 17, Central Standard Time</sub></sub>
 <hr/>
 </ol>
