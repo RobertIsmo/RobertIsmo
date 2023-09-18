@@ -60,8 +60,26 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, September 18, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In Ghana, the government has been declared bankrupt and has had to turn to the International Monetary Fund for its 17th financial rescue since 1957. Meanwhile, the United Nations has been meeting to discuss issues such as climate change, sovereign debt relief, and global development goals, amid divisions and demands from the Global South. The United States and Iran have recently made a deal to release 5 Americans and unfreeze billions of dollars in oil revenue for Tehran, which has generated criticism from Republican lawmakers. Additionally, the Ukrainian leader is visiting the US to make a case for more aid while expressing gratitude for Western support. Singapore is also rethinking its sweltering urban areas in order to combat climate change. Closer to home, in the US Mark Meadows&#39;s strategy to have his election interference case moved to federal court hasn&#39;t worked out and Hunter Biden is suing federal agents over privacy breaches while also being indicted on gun charges. Additionally, former President Trump may be barred from office due to the 14th amendment and striking autoworkers have had mixed opinions on Biden&#39;s pro-union stance. Turning attention onto science, experts are exploring ways to measure consciousness levels in artificial intelligence systems.</p>
+There is a lot going on in the world right now. The US is facing a government shutdown because of opposition to McCarthy&#39;s plan, and the national debt has just topped $33 trillion. Meanwhile, Canadian Prime Minister Justin Trudeau is accusing Indian officials of killing a Canadian citizen who supports an independent Sikh nation. In Africa, Ghana is seeking its 17th financial rescue from the IMF due to a crisis of debt and bailout issues. The United Nations is trying to resolve international tensions and disagreements over climate change and other development goals. On the Iran front, President Trump agreed to unfreeze billions in oil revenue to Tehran in exchange for the release of 5 American prisoners. Police have arrested a suspect in the ambush shooting of a Los Angeles County Deputy. Finally, scientists have been looking at ways to tell if artificial intelligence can become conscious.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>McCarthy’s Plan to Avoid a Shutdown Hits Stiff G.O.P. Opposition</h3>
+<sub>By Carl Hulse</sub>
+<p>Republican leaders were hoping to pass the combination of spending cuts and border controls to show they were working to forestall a shutdown and pressure the Senate, but the bill’s prospects looked grim.  <a href="https://nyti.ms/3EHW7th"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. National Debt Tops $33 Trillion for First Time</h3>
+<sub>By Alan Rappeport</sub>
+<p>The fiscal milestone comes as Congress is facing a new spending fight with a government shutdown looming.  <a href="https://nyti.ms/45d8adb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Justin Trudeau Accuses India in a Killing on Canadian Soil</h3>
+<sub>By Ian Austen and Vjosa Isai</sub>
+<p>It was a rare, explosive allegation by the Canadian leader: That the Indian government killed a Canadian citizen who has advocated turning a part of India into an independent Sikh nation.  <a href="https://nyti.ms/45U5cuV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 18, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Crisis and Bailout: The Tortuous Cycle Stalking Nations in Debt</h3>
 <sub>By Patricia Cohen</sub>
@@ -77,25 +95,13 @@ There is a lot going on in the world right now. In Ghana, the government has bee
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Iran Releases 5 Americans as U.S. Unfreezes Billions in Oil Revenue for Tehran</h3>
 <sub>By Michael D. Shear and Farnaz Fassihi</sub>
-<p>The terms of the deal have generated intense criticism from Republicans, who accused President Biden of helping to finance Iran’s terrorist activities.  <a href="https://nyti.ms/3RjJ7BM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The terms of the deal have generated intense criticism from Republicans, even as the White House insists Iran will be prevented from spending the money on anything except humanitarian goods.  <a href="https://nyti.ms/3RjJ7BM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Who Are the Detainees Released by the U.S. and Iran?</h3>
 <sub>By Isabella Kwai, Emma Bubola and Farnaz Fassihi</sub>
 <p>Iran has freed five Americans, while the U.S. has agreed to unfreeze $6 billion in Iranian assets and to dismiss federal charges against five imprisoned Iranians.  <a href="https://nyti.ms/3ZnMnOv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In U.S., Zelensky Will Make Case for More Aid, and Offer Thanks</h3>
-<sub>By Andrew E. Kramer</sub>
-<p>The Ukrainian leader’s second trip to America comes at a more delicate diplomatic moment, as he tries to navigate political currents while expressing gratitude for Western support.  <a href="https://nyti.ms/44VGWr1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>How to Cool Down a City</h3>
-<sub>By Pablo Robles, Josh Holder and Jeremy White</sub>
-<p>Singapore is rethinking its sweltering urban areas to dampen the effects of climate change. Can it be a model?  <a href="https://nyti.ms/3LtJki2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -105,33 +111,27 @@ There is a lot going on in the world right now. In Ghana, the government has bee
 <sub><sub>Monday, September 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>​Mark Meadows’s Testimony in Georgia Case May Have Done Him No Favors</h3>
-<sub>By Richard Fausset and Danny Hakim</sub>
-<p>Mark Meadows, a former top Trump aide, took the witness stand in hopes of having his election interference case moved to federal court. So far, the strategy has not paid off.  <a href="https://nyti.ms/3Ltyhp7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Hunter Biden Sues I.R.S., Saying Disclosures by Agents Violated His Privacy</h3>
-<sub>By Michael S. Schmidt</sub>
-<p>The suit from the president’s son says investigators for the tax agency had no right to make public details of his finances. It was filed days after he was indicted on separate gun charges.  <a href="https://nyti.ms/48iNHGi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>An About-Face on Whether the 14th Amendment Bars Trump From Office</h3>
-<sub>By Adam Liptak</sub>
-<p>Steven Calabresi, a founder of the Federalist Society, recently — and forcefully — said the former president was disqualified. He has had a change of heart.  <a href="https://nyti.ms/3LtVTtz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Striking Autoworkers Are Cool to Biden’s Embrace</h3>
 <sub>By Trip Gabriel</sub>
 <p>The president has highlighted his pro-union credentials, but inflation has eroded blue-collar livelihoods and chilled support for the president on the picket lines.  <a href="https://nyti.ms/48lfENN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Acquitted by the Texas Senate, Ken Paxton Still Faces Legal Problems</h3>
+<sub>By Edgar Sandoval</sub>
+<p>The State Senate acquitted the attorney general on charges of corruption and abuse of office, but he still faces trial on securities fraud charges and a federal corruption investigation.  <a href="https://nyti.ms/3LueiX9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
 <h3>How to Tell if Your A.I. Is Conscious</h3>
 <sub>By Oliver Whang</sub>
 <p>In a new report, scientists offer a list of measurable qualities that might indicate the presence of some presence in a machine.  <a href="https://nyti.ms/46hq9zM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Police Arrest 29-Year-Old in Ambush Shooting of Los Angeles County Deputy</h3>
+<sub>By Adeel Hassan</sub>
+<p>The deputy, Ryan Clinkunbroomer, 30, was killed Saturday night as he sat in a patrol cruiser near the sheriff’s station in Palmdale, Calif.  <a href="https://nyti.ms/48hsuN8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
