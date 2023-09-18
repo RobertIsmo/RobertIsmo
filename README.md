@@ -60,31 +60,31 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, September 18, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. In the US, there is a divide between top Democrats and voters over whether President Biden should run for re-election in 2024. Former President Trump recently criticized Florida Governor DeSantis&#39; abortion ban, while France is leading a group of countries to push China to end restrictions that are preventing certain exports to the Chinese market. 
-
-The world&#39;s largest &quot;baby exporter&quot;, South Korea, is confronting its painful past as adoptees are returning to hold the government accountable for its past actions. On the lighter side, each week former pros gather for a pickup soccer game with an appeal to engage with the sport on their own terms. 
-
-Real estate investors have been buying up starter homes and converting them into rentals - a development that has been squeezing out first-time buyers and forcing people to confront the changes it&#39;s bringing to their communities. There have also been some criminal cases recently; two people were charged with murder in connection with the death of a 1-year-old at a day care center in New York. 
-
-Climate protesters recently marched on New York, demanding that President Biden and other world leaders take action against new oil and gas drilling worldwide, while California Governor Newsom is signing a landmark climate disclosure bill that could have countrywide repercussions. Finally, this latest trade war between China and Europe isn&#39;t about semiconductors - rather, it has more to do with cosmetic sales restrictions imposed by Beijing.</p>
+There is a lot happening in the world right now. Ukrainian President Zelensky is in the US making a case for more aid and thanking Western nations for their support. Singapore is rethinking its sweltering urban areas to lower the effects of climate change, while former Donald Trump aide Mark Meadows has testified in a Georgia court case with mixed results. Steven Calabresi, co-founder of the Federalist Society, has reversed his opinion on whether Trump can serve again after the 14th Amendment. Meanwhile, an immigrant community is reeling from a sheriff deputy shooting two teens, and businesses are introducing &quot;Woke Free&quot; products with an anti-liberal agenda. Iran said they expect a prisoner exchange with the US today as President Biden and Ebrahim Raisi of Iran prepare to attend the UN General Assembly meeting. Iraq&#39;s leader is heading there too to pitch himself as a face of change and focus attention on climate change, sovereign debt relief and development goals.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Top Democrats’ Bullishness on Biden 2024 Collides With Voters’ Worries</h3>
-<sub>By Lisa Lerer and Reid J. Epstein</sub>
-<p>Party leaders have rallied behind the president’s re-election bid, but as one top Democratic strategist put it, “The voters don’t want this, and that’s in poll after poll after poll.”  <a href="https://nyti.ms/48lTGdJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘A Terrible Mistake’: Trump Criticizes DeSantis on Abortion Ban</h3>
-<sub>By Jonathan Swan and Maggie Haberman</sub>
-<p>The former president, while denouncing his chief rival for the Republican nomination, also largely evaded questions on the issue.  <a href="https://nyti.ms/3LpCZnL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 17, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In U.S. Visit, Zelensky to Make a Case for More Aid, and Say Thank You</h3>
+<sub>By Andrew E. Kramer</sub>
+<p>The Ukrainian leader’s second trip to America comes at a more delicate diplomatic moment, as he tries to navigate political currents while expressing gratitude for Western support.  <a href="https://nyti.ms/44VGWr1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>World’s Largest ‘Baby Exporter’ Confronts Its Painful Past</h3>
-<sub>By Choe Sang-Hun</sub>
-<p>South Korean adoptees have been returning to the country to hold the government accountable for what they call a corrupt adoption system that went largely unchanged until recent decades.  <a href="https://nyti.ms/48kzwkg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 17, Central Standard Time</sub></sub>
+<h3>How to Cool Down a City</h3>
+<sub>By Pablo Robles, Josh Holder and Jeremy White</sub>
+<p>Singapore is rethinking its sweltering urban areas to dampen the effects of climate change. Can it be a model?  <a href="https://nyti.ms/3LtJki2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>​Mark Meadows’s Testimony in Georgia Case May Have Done Him No Favors</h3>
+<sub>By Richard Fausset and Danny Hakim</sub>
+<p>Mark Meadows, a former top Trump aide, took the witness stand in hopes of having his election interference case moved to federal court. So far, the strategy has not paid off.  <a href="https://nyti.ms/3Ltyhp7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>An About-Face on Whether the 14th Amendment Bars Trump From Office</h3>
+<sub>By Adam Liptak</sub>
+<p>Steven Calabresi, a founder of the Federalist Society, recently — and forcefully — said the former president was disqualified. He has had a change of heart.  <a href="https://nyti.ms/3LtVTtz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>The Game of Their Lives</h3>
@@ -92,53 +92,47 @@ Climate protesters recently marched on New York, demanding that President Biden 
 <p>Every week, a group of former pros gathers for what may be the best pickup soccer game in the world. The appeal is a chance to engage with the sport on their terms.  <a href="https://nyti.ms/48gK7N3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-realestate-blue" alt="">
-<h3>What Happens When Wall Street Buys Most of the Homes on Your Block?</h3>
-<sub>By Ronda Kaysen and Ella Koeze</sub>
-<p>As Wall Street investors pluck up starter homes and convert them to rentals, first-time buyers are being squeezed out and residents are being forced to grapple with what the changes mean for their lives and their communities.  <a href="https://nyti.ms/3Zmx2h8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 16, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How a Yale Student’s Rape Accusation Exposed Her to a Defamation Lawsuit</h3>
-<sub>By Vimal Patel</sub>
-<p>The woman’s allegation led to the expulsion of Saifullah Khan, who was acquitted in a criminal trial. His lawsuit is now challenging these disciplinary hearings.  <a href="https://nyti.ms/44URW8f"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 17, Central Standard Time</sub></sub>
+<h3>Iranian Official Says Prisoner Exchange With U.S. Is Expected Monday</h3>
+<sub>By The New York Times</sub>
+<p>The announcement came as President Biden and Ebrahim Raisi, Iran’s president, were set to attend the annual United Nations General Assembly meeting.  <a href="https://nyti.ms/3RjJ7BM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>2 Charged With Murder in Day Care Death of 1-Year-Old</h3>
-<sub>By Maria Cramer</sub>
-<p>The owner of the day care center and her tenant were charged in the death of Nicholas Dominici, who the authorities said had been exposed to fentanyl.  <a href="https://nyti.ms/3PnJf0f"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>House G.O.P. Considers Stopgap Spending Bill to Avert a Shutdown</h3>
-<sub>By Carl Hulse</sub>
-<p>Republicans were presented a plan on Sunday night to cut spending, impose strict border restrictions and keep federal agencies open for another month to allow more time to pass annual spending bills.  <a href="https://nyti.ms/46gJ5yy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Says It Has Retaken Strategic Village Near Bakhmut</h3>
-<sub>By Matthew Mpoke Bigg, Cassandra Vinograd and Vivek Shankar</sub>
-<p>The small village of Klishchiivka is the second settlement in eastern Ukraine that Kyiv’s forces say they have retaken in three days.  <a href="https://nyti.ms/3sUDzmZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Climate Protesters March on New York, Calling for End to Fossil Fuels</h3>
-<sub>By Somini Sengupta, Hilary Howard and Delger Erdenesanaa</sub>
-<p>Ahead of U.N. meetings this week, thousands gathered in Midtown to demand that President Biden and other world leaders stop new oil and gas drilling.  <a href="https://nyti.ms/3PIQIIE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>California Governor to Sign Landmark Climate Disclosure Bill</h3>
-<sub>By Coral Davenport</sub>
-<p>The first-in-the-nation law will compel major companies to publicly disclose their carbon dioxide emissions and could have national repercussions.  <a href="https://nyti.ms/3LtALDL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 17, Central Standard Time</sub></sub>
+<h3>Anguish in an Immigrant Community After a Sheriff’s Deputy Kills 2 Teens</h3>
+<sub>By Jesse McKinley</sub>
+<p>The sheriff in Syracuse, N.Y., had said his deputy acted in self-defense, but footage of the shooting cast the account into question.  <a href="https://nyti.ms/44Xe6Xi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>This China Trade War Isn’t About Semiconductors</h3>
-<sub>By Keith Bradsher and Elizabeth Paton</sub>
-<p>Cosmetics sales in China are soaring, but a group of exporting nations led by France are pushing Beijing to lift restrictions they say are blocking them unfairly.  <a href="https://nyti.ms/48gbgQa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 17, Central Standard Time</sub></sub>
+<h3>Some Businesses Make ‘Woke Free’ a Selling Point</h3>
+<sub>By Santul Nerkar</sub>
+<p>A number of companies — from clothing to pet care — are trying to appeal to customers who think corporate America is pushing a liberal agenda.  <a href="https://nyti.ms/3ZoCu2Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Mayor Adams’s Ability to Freely Spend Money on Migrants May Be Curtailed</h3>
+<sub>By Jay Root</sub>
+<p>The New York City comptroller is auditing a no-bid $432 million migrant-services contract, and is weighing whether to scrap the mayor’s blanket approval to enter such contracts.  <a href="https://nyti.ms/454pj8Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>‘So Much Suffering:’ What Migrant Children Carry to New York</h3>
+<sub>By Ginia Bellafante</sub>
+<p>The migrant crisis is a looming mental health crisis. Are city schools prepared to care for their most vulnerable new students?  <a href="https://nyti.ms/3Zi0ZyU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Iraq’s Leader, Heading to U.N., Pitches Himself as Face of Change</h3>
+<sub>By Alissa J. Rubin</sub>
+<p>Prime Minister Mohammed Shia al-Sudani hopes to persuade the world that he can solve Iraq’s problems when he addresses the U.N. General Assembly this week.  <a href="https://nyti.ms/48kIEVP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>U.N. to Meet Amid Growing Divisions, and Demands From the Global South</h3>
+<sub>By Farnaz Fassihi</sub>
+<p>With major world leaders skipping the annual event, discussions will focus on climate change, sovereign debt relief and development goals.  <a href="https://nyti.ms/44RMm6p"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
