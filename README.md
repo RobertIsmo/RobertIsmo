@@ -60,12 +60,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, September 18, Central Standard Time</p>
 <p>
-There has been a lot going on recently in the world. In the US, Iran has released 5 Americans and President Biden has come under intense criticism for unfreezing billions of oil revenue for Tehran. Meanwhile, the Ukrainian leader visited the US to make a case for more aid while also expressing gratitude for Western support. On a different note, Singapore is trying to cool down its city by relying on models to reduce the effects of climate change. In other news, former top Trump aide Mark Meadows testified in Georgia although it does not seem that his strategy paid off. Hunter Biden is also suing the IRS after agents disclosed details about his finances and former President Trump is facing legal action regarding violation of the 14th Amendment. Lastly, there are also updates related to sports and business. Every week, former pros gather for pickup soccer while businesses make ‘woke free’ a selling point to appeal to customers who think corporate America is pushing a liberal agenda. Additionally, some state universities were given higher rankings due to U.S. News changes while Vassar College is now facing legal action for gender-based pay gap and labor issues have arisen in talk-show production.</p>
+There is a lot going on in the world right now. In Ghana, the government has been declared bankrupt and has had to turn to the International Monetary Fund for its 17th financial rescue since 1957. Meanwhile, the United Nations has been meeting to discuss issues such as climate change, sovereign debt relief, and global development goals, amid divisions and demands from the Global South. The United States and Iran have recently made a deal to release 5 Americans and unfreeze billions of dollars in oil revenue for Tehran, which has generated criticism from Republican lawmakers. Additionally, the Ukrainian leader is visiting the US to make a case for more aid while expressing gratitude for Western support. Singapore is also rethinking its sweltering urban areas in order to combat climate change. Closer to home, in the US Mark Meadows&#39;s strategy to have his election interference case moved to federal court hasn&#39;t worked out and Hunter Biden is suing federal agents over privacy breaches while also being indicted on gun charges. Additionally, former President Trump may be barred from office due to the 14th amendment and striking autoworkers have had mixed opinions on Biden&#39;s pro-union stance. Turning attention onto science, experts are exploring ways to measure consciousness levels in artificial intelligence systems.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Crisis and Bailout: The Tortuous Cycle Stalking Nations in Debt</h3>
+<sub>By Patricia Cohen</sub>
+<p>The government of Ghana is essentially bankrupt, and has turned to the International Monetary Fund for its 17th financial rescue since 1957.  <a href="https://nyti.ms/3PJazYv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>U.N. to Meet Amid Growing Divisions, and Demands From the Global South</h3>
+<sub>By Farnaz Fassihi</sub>
+<p>With major world leaders skipping the annual event, discussions will focus on climate change, sovereign debt relief and development goals.  <a href="https://nyti.ms/44RMm6p"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 18, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Iran Releases 5 Americans as U.S. Unfreezes Billions in Oil Revenue for Tehran</h3>
 <sub>By Michael D. Shear and Farnaz Fassihi</sub>
 <p>The terms of the deal have generated intense criticism from Republicans, who accused President Biden of helping to finance Iran’s terrorist activities.  <a href="https://nyti.ms/3RjJ7BM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Who Are the Detainees Released by the U.S. and Iran?</h3>
+<sub>By Isabella Kwai, Emma Bubola and Farnaz Fassihi</sub>
+<p>Iran has freed five Americans, while the U.S. has agreed to unfreeze $6 billion in Iranian assets and to dismiss federal charges against five imprisoned Iranians.  <a href="https://nyti.ms/3ZnMnOv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -78,6 +96,12 @@ There has been a lot going on recently in the world. In the US, Iran has release
 <h3>How to Cool Down a City</h3>
 <sub>By Pablo Robles, Josh Holder and Jeremy White</sub>
 <p>Singapore is rethinking its sweltering urban areas to dampen the effects of climate change. Can it be a model?  <a href="https://nyti.ms/3LtJki2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How DeSantis Played Both Sides of the G.O.P. Rift Over the 2020 Election</h3>
+<sub>By Alexandra Berzon and Sharon LaFraniere</sub>
+<p>The Florida governor created an election crimes unit that placated election deniers. It led to scores of “zany-burger” tips, and, according to one Republican, “Kabuki theater.”  <a href="https://nyti.ms/45VIORU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -98,40 +122,16 @@ There has been a lot going on recently in the world. In the US, Iran has release
 <p>Steven Calabresi, a founder of the Federalist Society, recently — and forcefully — said the former president was disqualified. He has had a change of heart.  <a href="https://nyti.ms/3LtVTtz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>The Game of Their Lives</h3>
-<sub>By Rory Smith and Kieran Dodds</sub>
-<p>Every week, a group of former pros gathers for what may be the best pickup soccer game in the world. The appeal is a chance to engage with the sport on their terms.  <a href="https://nyti.ms/48gK7N3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Anguish in an Immigrant Community After a Sheriff’s Deputy Kills 2 Teens</h3>
-<sub>By Jesse McKinley</sub>
-<p>The sheriff in Syracuse, N.Y., had said his deputy acted in self-defense, but footage of the shooting cast the account into question.  <a href="https://nyti.ms/44Xe6Xi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Some Businesses Make ‘Woke Free’ a Selling Point</h3>
-<sub>By Santul Nerkar</sub>
-<p>A number of companies — from clothing to pet care — are trying to appeal to customers who think corporate America is pushing a liberal agenda.  <a href="https://nyti.ms/3ZoCu2Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 18, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>With a New Formula, U.S. News Rankings Boost Some State Universities</h3>
-<sub>By Alan Blinder</sub>
-<p>Responding to critics, the publication made its biggest changes to its method in four decades. But it’s unclear whether that is enough to quiet the naysayers.  <a href="https://nyti.ms/3sYUTaA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>One of America’s First Women’s Colleges Is Accused of Paying Men More</h3>
-<sub>By Sharon Otterman and Erin Nolan</sub>
-<p>Vassar has maintained a gender-based pay gap for two decades, current and former female professors say in a recently filed lawsuit.  <a href="https://nyti.ms/48gvObk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Striking Autoworkers Are Cool to Biden’s Embrace</h3>
+<sub>By Trip Gabriel</sub>
+<p>The president has highlighted his pro-union credentials, but inflation has eroded blue-collar livelihoods and chilled support for the president on the picket lines.  <a href="https://nyti.ms/48lfENN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>The Talk Shows Have Labor Pains</h3>
-<sub>By James Poniewozik</sub>
-<p>The Hollywood strikes and the trouble at “The Tonight Show” are a reminder that hosts are not just your TV friends. They’re also people’s bosses.  <a href="https://nyti.ms/3PeXTqA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>How to Tell if Your A.I. Is Conscious</h3>
+<sub>By Oliver Whang</sub>
+<p>In a new report, scientists offer a list of measurable qualities that might indicate the presence of some presence in a machine.  <a href="https://nyti.ms/46hq9zM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
