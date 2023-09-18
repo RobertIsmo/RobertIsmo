@@ -60,7 +60,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, September 17, Central Standard Time</p>
 <p>
-It seems like a lot is happening in the world right now. To start, there&#39;s a debate among top Democrats about President Biden&#39;s re-election bid, and whether or not it&#39;s something the voters want. In the meantime, former president Trump has criticized a Florida governor for passing an abortion ban, and the US and China are stepping up their global espionage activities. The US and Chinese officials met in Malta to discuss the Ukraine crisis and other pressing issues. There have also been huge protests in New York City against fossil fuels, and people are recognizing the pervasive feeling of dread they feel due to climate change as &#39;eco-anxiety&#39;. Lastly, two people were charged with murder in connection with the death of a one year old at a day care center.</p>
+There is a lot going on in the world right now. In the US, top Democrats are rallying behind President Biden&#39;s re-election bid but many voters are worried about it. Former President Trump recently criticized Florida Governor DeSantis&#39;s abortion ban. A new White House Counsel had to settle in quickly since Speaker Kevin McCarthy opened an impeachment inquiry into President Biden shortly after taking office. The US and China are also ramping up their global spy operations. 
+
+Sports is a hot topic too, with many celebrating young tennis star Coco Gauff’s rise to success as a female athlete. Around the world, South Korea is facing its painful past as it grapples with a corrupt adoption system that led to it becoming the world&#39;s largest &#39;baby exporter.&#39; Wall Street investors in the US are reshaping home ownership in some areas, squeezing out first-time buyers and causing disruption for local communities. There are still court cases going on related to issues such as sexual assault and false accusations – with one at Yale exposing the accused to a defamation lawsuit. Two people have been charged with murder in relation to the death of a 1-year-old at a daycare center, believed to be due to opioid exposure. On top of this, Speaker McCarthy is trying to break an economic impasse by introducing legislation related to military funding. Finally, climate protesters took to the streets of New York City for big march ahead of U.N. meetings this week calling for an end to fossil fuels, while California Governor Newsom is preparing to sign a landmark climate disclosure bill that could have national repercussions.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Top Democrats’ Bullishness on Biden 2024 Collides With Voters’ Worries</h3>
@@ -85,12 +87,6 @@ It seems like a lot is happening in the world right now. To start, there&#39;s a
 <sub>By Julian E. Barnes and Edward Wong</sub>
 <p>The nations are taking bold steps in the espionage shadow war to try to collect intelligence on leadership thinking and military capabilities.  <a href="https://nyti.ms/3ENPwxn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. and Chinese Officials Meet in Malta to Discuss Ukraine and Other Flashpoints</h3>
-<sub>By Edward Wong</sub>
-<p>The talks between Jake Sullivan, the White House national security adviser, and Wang Yi, China’s top diplomat, took place as the two governments are trying to set up a Biden-Xi meeting.  <a href="https://nyti.ms/3PFbPvE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>How Coco Gauff Embodies the Biggest Story in Sports</h3>
@@ -122,17 +118,23 @@ It seems like a lot is happening in the world right now. To start, there&#39;s a
 <p>The owner of the day care center and a neighbor were charged in the death of Nicholas Dominici, who the police believe had been exposed to an opioid. “He was the little prince of the house,” his mother said.  <a href="https://nyti.ms/3PnJf0f"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 17, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>McCarthy to Push Pentagon Measure in Effort to Break G.O.P. Spending Impasse</h3>
+<sub>By Carl Hulse</sub>
+<p>The speaker’s decision to hold a vote on the stalled legislation was a bid to pressure far-right Republicans to drop demands for steeper cuts — or risk public ire for voting against military funding.  <a href="https://nyti.ms/46gJ5yy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 17, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>Climate Protesters March on New York, Calling for End to Fossil Fuels</h3>
 <sub>By Somini Sengupta, Hilary Howard and Delger Erdenesanaa</sub>
 <p>Ahead of U.N. meetings this week, thousands gathered in Midtown to demand that President Biden and other world leaders stop new oil and gas drilling.  <a href="https://nyti.ms/3PIQIIE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>How Do We Feel About Global Warming? It’s Called Eco-Anxiety.</h3>
-<sub>By Jason Horowitz</sub>
-<p>After a summer of intense heat, raging fires and catastrophic floods, a term for pervading dread about climate change and other environmental crises is having its moment.  <a href="https://nyti.ms/3Rpyi10"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 16, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>California Governor to Sign Landmark Climate Disclosure Bill</h3>
+<sub>By Coral Davenport</sub>
+<p>The first-in-the-nation law will compel major companies to publicly disclose their carbon dioxide emissions and could have national repercussions.  <a href="https://nyti.ms/3LtALDL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 17, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
