@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Sunday, September 17, Central Standard Time</p>
+<p>It is Monday, September 18, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. In the U.S., top Democrats are pushing for President Biden to run for re-election, even though polls show many Americans don&#39;t want that to happen. This has gotten attention from former president Trump, who recently criticized Florida&#39;s governor DeSantis for an abortion ban. World news is just as compelling, with South Korea facing its difficult past of baby-exporting around the world while Ukraine is attempting to retake two strategic villages near Bakhmut. In sports, young female athletes are making waves and challenging conventional gender roles. On the real estate front, Wall Street investors are buying starter homes and converting them into rentals, making it harder for first-time buyers to get into the market. Finally, there have been climate change demonstrations all over the world, with thousands marching in New York to demand that President Biden and other leaders take action against new oil and gas drilling. California is also set to pass a landmark climate disclosure bill this week that could cause a ripple effect of similar laws nationwide.</p>
+There is a lot of news happening around the world right now. Here are some highlights: Top Democrats in the US are rallying behind President Biden&#39;s re-election bid, despite polls showing voter worries. Former President Trump criticized Florida Governor DeSantis on a controversial abortion ban. In South Korea, adoptees have returned to hold the government accountable for a corrupt adoption system. Former pro soccer players meet up for a pickup game every week. Wall Street investors have started buying starter homes and converting them to rentals, but this is squeezing first-time buyers out of the market and giving communities pause. A Yale student&#39;s rape accusation led to the expulsion of her attacker, but he is now challenging these disciplinary hearings in court. Two people have been charged with murder in the death of a one-year-old exposed to fentanyl at a day care center. Republicans presented a plan for stopgap spending in order to avert a federal shutdown in the US. Thousands of followers of Rebbe Nachman descended on Ukraine&#39;s town of Uman for Rosh Hashana celebrations, despite war in the region. Kyiv forces said they have retaken another strategic settlement nearby too. In New York, thousands gathered to march and demand an end to fossil fuels ahead of UN meetings this week. California is also preparing to sign into law a landmark climate disclosure bill, which could have national repercussions.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Top Democrats’ Bullishness on Biden 2024 Collides With Voters’ Worries</h3>
@@ -81,9 +81,9 @@ There is a lot happening in the world right now. In the U.S., top Democrats are 
 <sub><sub>Sunday, September 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>How Coco Gauff Embodies the Biggest Story in Sports</h3>
-<sub>By Kurt Streeter</sub>
-<p>As our Sports of The Times columnist moves to a new assignment, he reflects on a recurring theme from his tenure: the rise of female athletes.  <a href="https://nyti.ms/3RkiHQl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>The Game of Their Lives</h3>
+<sub>By Rory Smith and Kieran Dodds</sub>
+<p>Every week, a group of former pros gathers for what may be the best pickup soccer game in the world. The appeal is a chance to engage with the sport on their terms.  <a href="https://nyti.ms/48gK7N3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-realestate-blue" alt="">
