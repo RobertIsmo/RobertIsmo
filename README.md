@@ -60,9 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, September 17, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In the US, top Democrats are rallying behind President Biden&#39;s re-election bid but many voters are worried about it. Former President Trump recently criticized Florida Governor DeSantis&#39;s abortion ban. A new White House Counsel had to settle in quickly since Speaker Kevin McCarthy opened an impeachment inquiry into President Biden shortly after taking office. The US and China are also ramping up their global spy operations. 
-
-Sports is a hot topic too, with many celebrating young tennis star Coco Gauff’s rise to success as a female athlete. Around the world, South Korea is facing its painful past as it grapples with a corrupt adoption system that led to it becoming the world&#39;s largest &#39;baby exporter.&#39; Wall Street investors in the US are reshaping home ownership in some areas, squeezing out first-time buyers and causing disruption for local communities. There are still court cases going on related to issues such as sexual assault and false accusations – with one at Yale exposing the accused to a defamation lawsuit. Two people have been charged with murder in relation to the death of a 1-year-old at a daycare center, believed to be due to opioid exposure. On top of this, Speaker McCarthy is trying to break an economic impasse by introducing legislation related to military funding. Finally, climate protesters took to the streets of New York City for big march ahead of U.N. meetings this week calling for an end to fossil fuels, while California Governor Newsom is preparing to sign a landmark climate disclosure bill that could have national repercussions.</p>
+There is a lot happening in the world right now. In the U.S., top Democrats are pushing for President Biden to run for re-election, even though polls show many Americans don&#39;t want that to happen. This has gotten attention from former president Trump, who recently criticized Florida&#39;s governor DeSantis for an abortion ban. World news is just as compelling, with South Korea facing its difficult past of baby-exporting around the world while Ukraine is attempting to retake two strategic villages near Bakhmut. In sports, young female athletes are making waves and challenging conventional gender roles. On the real estate front, Wall Street investors are buying starter homes and converting them into rentals, making it harder for first-time buyers to get into the market. Finally, there have been climate change demonstrations all over the world, with thousands marching in New York to demand that President Biden and other leaders take action against new oil and gas drilling. California is also set to pass a landmark climate disclosure bill this week that could cause a ripple effect of similar laws nationwide.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Top Democrats’ Bullishness on Biden 2024 Collides With Voters’ Worries</h3>
@@ -76,28 +74,16 @@ Sports is a hot topic too, with many celebrating young tennis star Coco Gauff’
 <p>The former president, while denouncing his chief rival for the Republican nomination, also largely evaded questions on the issue.  <a href="https://nyti.ms/3LpCZnL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>New White House Counsel’s To-Do List: Impeachment on Day 2</h3>
-<sub>By Katie Rogers</sub>
-<p>A veteran of the Obama White House, Ed Siskel had one day to settle in before Speaker Kevin McCarthy opened an impeachment inquiry into President Biden.  <a href="https://nyti.ms/3sXvz4I"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>World’s Largest ‘Baby Exporter’ Confronts Its Painful Past</h3>
+<sub>By Choe Sang-Hun</sub>
+<p>South Korean adoptees have been returning to the country to hold the government accountable for what they call a corrupt adoption system that went largely unchanged until recent decades.  <a href="https://nyti.ms/48kzwkg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Risky Hunt for Secrets, U.S. and China Expand Global Spy Operations</h3>
-<sub>By Julian E. Barnes and Edward Wong</sub>
-<p>The nations are taking bold steps in the espionage shadow war to try to collect intelligence on leadership thinking and military capabilities.  <a href="https://nyti.ms/3ENPwxn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>How Coco Gauff Embodies the Biggest Story in Sports</h3>
 <sub>By Kurt Streeter</sub>
 <p>As our Sports of The Times columnist moves to a new assignment, he reflects on a recurring theme from his tenure: the rise of female athletes.  <a href="https://nyti.ms/3RkiHQl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>World’s Largest ‘Baby Exporter’ Confronts Its Painful Past</h3>
-<sub>By Choe Sang-Hun</sub>
-<p>South Korean adoptees have been returning to the country to hold the government accountable for what they call a corrupt adoption system that went largely unchanged until recent decades.  <a href="https://nyti.ms/48kzwkg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-realestate-blue" alt="">
@@ -115,13 +101,25 @@ Sports is a hot topic too, with many celebrating young tennis star Coco Gauff’
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>2 Charged With Murder in Day Care Death of 1-Year-Old</h3>
 <sub>By Maria Cramer</sub>
-<p>The owner of the day care center and a neighbor were charged in the death of Nicholas Dominici, who the police believe had been exposed to an opioid. “He was the little prince of the house,” his mother said.  <a href="https://nyti.ms/3PnJf0f"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The owner of the day care center and her tenant were charged in the death of Nicholas Dominici, who the authorities said had been exposed to fentanyl.  <a href="https://nyti.ms/3PnJf0f"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>McCarthy to Push Pentagon Measure in Effort to Break G.O.P. Spending Impasse</h3>
+<h3>House G.O.P. Considers Stopgap Spending Bill to Avert a Shutdown</h3>
 <sub>By Carl Hulse</sub>
-<p>The speaker’s decision to hold a vote on the stalled legislation was a bid to pressure far-right Republicans to drop demands for steeper cuts — or risk public ire for voting against military funding.  <a href="https://nyti.ms/46gJ5yy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Republicans were presented a plan on Sunday night to cut spending, impose strict border restrictions and keep federal agencies open for another month to allow more time to pass annual spending bills.  <a href="https://nyti.ms/46gJ5yy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Ukraine, a Rosh Hashana Party Not Even War Can Stop</h3>
+<sub>By Jeffrey Gettleman and Daniel Berehulak</sub>
+<p>Every year, thousands of followers of Rebbe Nachman of Breslov descend on the town of Uman to worship, dance and pay homage at the tomb of their spiritual leader.  <a href="https://nyti.ms/3PGIC3f"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukraine Says It Has Retaken Strategic Village Near Bakhmut</h3>
+<sub>By Matthew Mpoke Bigg, Cassandra Vinograd and Vivek Shankar</sub>
+<p>The small village of Klishchiivka is the second settlement in eastern Ukraine that Kyiv’s forces say they have retaken in three days.  <a href="https://nyti.ms/3sUDzmZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
