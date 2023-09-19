@@ -60,12 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, September 19, Central Standard Time</p>
 <p>
-Right now, the news is filled with political and business issues happening around the world. Ukrainian President Zelensky recently called for more international support for his nation and punishment of Russia at a United Nations meeting. Meanwhile, the White House is discussing a defense treaty model with Saudi Arabia, which may be an incentive for it to normalize its relationship with Israel. Canada recently made an unexpected claim against India concerning separatist groups, while Justin Trudeau accuses Indian agents of being involved in the killing of a Sikh leader in Canada. Closer to home, Pennsylvania has started automatic voter registration and a special election is underway in Pittsburgh to determine which party will control the state House. Finally, there&#39;s some labor news - autoworkers are going on strike, potentially affecting the overall labor movement.</p>
+Right now, there are a lot of international events happening. President Biden recently addressed the U.N. and called for collective action on Ukraine and other major crises. His aides are considering a defense treaty with Saudi Arabia as an incentive for them to normalize relations with Israel. Canadian Prime Minster Trudeau is pushing for India to cooperate with an investigation into the death of a Sikh separatist in Canada. Over in Ukraine, soldiers are still at risk due to ongoing clashes. In the US, voter registration is becoming automatic in some states and a special election in Pennsylvania will decide which party controls the state House. A magazine article has been published about migrant children being forced to work in violation of child labor laws. Jann Wenner of Rolling Stone was recently removed from The Rock Hall of Fame after making racist and sexist remarks in an interview, and The Restaurant List released its 2023 list of 50 recommended places to eat across America. Lastly, new genetic research has confirmed the oral history of a small group of nomadic people living in Indonesia&#39;s rainforest who have a song-like language all their own.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Zelensky, at the U.N., will call for support for Ukraine and demand punishment for Russia.</h3>
-<sub>By Andrew E. Kramer and Matthew Mpoke Bigg</sub>
-<p>  <a href="https://nyti.ms/48ijmI7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>In his U.N. speech, President Biden called for collective action on Ukraine and other major crises.</h3>
+<sub>By Michael D. Shear and Peter Baker</sub>
+<p>  <a href="https://nyti.ms/48oxsYC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -75,22 +75,16 @@ Right now, the news is filled with political and business issues happening aroun
 <sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Canada’s Startling Claim Punctuates Tension With India Over Separatists</h3>
-<sub>By Mujib Mashal, Hari Kumar and Suhasini Raj</sub>
-<p>The allegation that India was involved in the killing of a Sikh leader in Canada came after New Delhi had accused Western countries of inaction on secessionist groups.  <a href="https://nyti.ms/3sWLY9v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Trudeau Rejects India’s Denial of Involvement in Assassination in Canada</h3>
+<sub>By Ian Austen and Vjosa Isai</sub>
+<p>The Canadian prime minister again urged India to cooperate with the investigation into the death of a Sikh separatist.  <a href="https://nyti.ms/45WCdqB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Who Is the Man Whose Killing Canada Says India Instigated?</h3>
+<h3>Who Was the Man Whose Killing Canada Says India Instigated?</h3>
 <sub>By Suhasini Raj</sub>
 <p>Prime Minister Justin Trudeau of Canada accused Indian agents of involvement in the killing of a Sikh separatist in British Columbia. Who was he?  <a href="https://nyti.ms/3riOWEP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-dining-blue" alt="">
-<h3>The Restaurant List 2023</h3>
-<sub></sub>
-<p>The 50 places in the United States that we’re most excited about right now.  <a href="https://nyti.ms/3Pr2OFe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Load. Fire. Get to Cover.</h3>
@@ -128,11 +122,17 @@ Right now, the news is filled with political and business issues happening aroun
 <p>The day after the Rolling Stone co-founder made remarks widely criticized as racist and sexist in a Times interview, the Hall of Fame called an emergency vote and ousted him.  <a href="https://nyti.ms/3LqIyCk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Strike Is a High-Stakes Gamble for Autoworkers and the Labor Movement</h3>
-<sub>By Noam Scheiber</sub>
-<p>Experts on unions and the industry said the U.A.W. strike could accelerate a wave of worker actions, or stifle labor’s recent momentum.  <a href="https://nyti.ms/3PID2NP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-dining-blue" alt="">
+<h3>The Restaurant List 2023</h3>
+<sub></sub>
+<p>The 50 places in the United States that we’re most excited about right now.  <a href="https://nyti.ms/3Pr2OFe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>A Vanishing Nomadic Clan, With a Songlike Language All Their Own</h3>
+<sub>By Brendan Borrell and Joshua Irwandi</sub>
+<p>New genetic research confirms the oral history of a small group of nomadic people living in Indonesia’s rainforest.  <a href="https://nyti.ms/45Xq6JV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
