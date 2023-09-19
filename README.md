@@ -59,14 +59,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, September 19, Central Standard Time</p>
-<p>A lot is going on in the world right now! President Biden is giving a speech to the United Nations advocating for democracy and global leadership. At the same time, UN Chief Antonio Guterres is chastening those who are not doing enough to combat climate change. New genetic research shows that a nomadic people living in Indonesia&#39;s rainforest have their own unique language. Autoworkers represented by the UAW are staging a strike with major implications for labor movements across the US. The Restaurant List has chosen 50 places in the US that they&#39;re most excited about. On the world stage, Ukrainian soldiers were captured firing at unseen enemies and recent evidence suggests that a Ukrainian missile caused a high casualty rate in a market recently. For its part, Russia has wrongfully detained an American journalist covering an espionage case and US-Canada relations are getting tense as Canadian Prime Minister Justin Trudeau accuses India of killing a Sikh man on Canadian soil. In comparison, Los Angeles has been able to avoid the migrant crisis hitting New York City due to fewer immigrants coming into the region.</p>
+<p>
+There is a lot happening in the world right now. On the climate front, U.N. Chief António Guterres is calling out planet wreckers ahead of a United Nations climate summit this week without naming anyone specific. In terms of science, there’s a vanishing nomadic clan living in Indonesia’s rainforest that has kept an oral history, which was recently confirmed by genetic research. Canada has made a startling claim against India over separatist issues that has caused tension between the two countries. 
+
+On the business side of things, the Federal Reserve is inching closer towards ending rate increases, while the United Auto Workers union went on strike as they decide whether it will accelerate worker action or stop labor&#39;s recent momentum. Businesses are also struggling with expectations to work in China while dealing with confusing regulations and an increased security focus.
+
+In one part of America, Los Angeles has avoided the migrant crisis confronting New York City, likely due to it no longer being such an attractive destination for immigrants. The Times recently did an investigation on child labor and how it relates to migration issues at the border.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden to Urge Nations to Protect and Nurture Democracy</h3>
-<sub>By Michael D. Shear and Peter Baker</sub>
-<p>In a speech to the United Nations, President Biden is expected to promote his administration’s achievements around the globe even as he confronts challenges at home.  <a href="https://nyti.ms/48iAkGd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 18, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>U.N. Chief’s Test: Shaming Without Naming the World’s Climate Delinquents</h3>
 <sub>By Somini Sengupta</sub>
@@ -79,10 +78,10 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>New genetic research confirms the oral history of a small group of nomadic people living in Indonesia’s rainforest.  <a href="https://nyti.ms/45Xq6JV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Strike Is a High-Stakes Gamble for Autoworkers and the Labor Movement</h3>
-<sub>By Noam Scheiber</sub>
-<p>Experts on unions and the industry said the U.A.W. strike could accelerate a wave of worker actions, or stifle labor’s recent momentum.  <a href="https://nyti.ms/3PID2NP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Canada’s Startling Claim Punctuates Tension With India Over Separatists</h3>
+<sub>By Mujib Mashal, Hari Kumar and Suhasini Raj</sub>
+<p>The allegation that India was involved in the killing of a Sikh leader in Canada came after New Delhi had accused Western countries of inaction on secessionist groups.  <a href="https://nyti.ms/3sWLY9v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-dining-blue" alt="">
@@ -104,9 +103,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <sub><sub>Monday, September 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Wall Street Journal Reporter Evan Gershkovich Appears in Russian Court</h3>
+<h3>Russian Court Keeps Wall Street Journal Reporter in Detention</h3>
 <sub>By Anatoly Kurmanaev</sub>
-<p>The American, whom Russia accuses of espionage, is appealing a ruling that extended his pretrial detention. The United States has said he is wrongfully detained.  <a href="https://nyti.ms/3Ppk51r"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The court declined to hear an appeal from the American journalist, Evan Gershkovich, against his pretrial detention on espionage charges. The United States has said he is wrongfully detained.  <a href="https://nyti.ms/3Ppk51r"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -116,21 +115,27 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Hollywood Strikes Send a Chill Through Britain’s Film Industry</h3>
-<sub>By Eshe Nelson</sub>
-<p>Many U.S. studios’ blockbusters are filmed in Britain, so the walkouts by actors and screenwriters have caused thousands of U.K. film crews to lose work.  <a href="https://nyti.ms/3ZlIzNM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 18, Central Standard Time</sub></sub>
+<h3>Strike Is a High-Stakes Gamble for Autoworkers and the Labor Movement</h3>
+<sub>By Noam Scheiber</sub>
+<p>Experts on unions and the industry said the U.A.W. strike could accelerate a wave of worker actions, or stifle labor’s recent momentum.  <a href="https://nyti.ms/3PID2NP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Justin Trudeau Accuses India of a Killing on Canadian Soil</h3>
-<sub>By Ian Austen and Vjosa Isai</sub>
-<p>The Canadian leader said agents of India had assassinated a Sikh community leader in British Columbia in June. India called the accusation “absurd.”  <a href="https://nyti.ms/45U5cuV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 18, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Burner Laptops and Smaller Profits: Firms Portray Their China Challenges</h3>
+<sub>By Keith Bradsher and Alexandra Stevenson</sub>
+<p>Business groups chronicle the difficult environment inside China for U.S. and European companies navigating confusing regulations and an intensified security focus.  <a href="https://nyti.ms/3PICUNt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Why Los Angeles Has Avoided the Migrant Crisis Hitting New York</h3>
 <sub>By Jill Cowan and Miriam Jordan</sub>
 <p>The Southern California city so far has avoided the desperate situation that other metro areas are facing, in part because it no longer attracts as many immigrants as it once did.  <a href="https://nyti.ms/48jZap4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>Child Labor and the Broken Border</h3>
+<sub>By David Leonhardt</sub>
+<p>A Times investigation looked into the exploitation of young migrants.  <a href="https://nyti.ms/3PgaUjG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
 <hr/>
 </ol>
