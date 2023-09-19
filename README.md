@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, September 18, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. The US is facing a government shutdown because of opposition to McCarthy&#39;s plan, and the national debt has just topped $33 trillion. Meanwhile, Canadian Prime Minister Justin Trudeau is accusing Indian officials of killing a Canadian citizen who supports an independent Sikh nation. In Africa, Ghana is seeking its 17th financial rescue from the IMF due to a crisis of debt and bailout issues. The United Nations is trying to resolve international tensions and disagreements over climate change and other development goals. On the Iran front, President Trump agreed to unfreeze billions in oil revenue to Tehran in exchange for the release of 5 American prisoners. Police have arrested a suspect in the ambush shooting of a Los Angeles County Deputy. Finally, scientists have been looking at ways to tell if artificial intelligence can become conscious.</p>
+There is a lot going on in the world right now. In the US, there&#39;s Republican opposition to a plan proposed by McCarthy to avoid a shutdown; Our national debt has hit an all-time high of 33 trillion; and Trump is in Detroit to court striking union members and avoid the second GOP debate. On the international scene, Justin Trudeau has accused India of killing a Canadian citizen who was an advocate for independence, evidence suggests that a Ukrainian missile caused a market tragedy, and Ukraine&#39;s president is dealing with corruption in his Defense Ministry. In other news, scientists are exploring ways to measure whether A.I.s are conscious, countries like Ghana are facing financial crises that require bailouts, and authors like Jhumpa Lahiri are inspiring different styles of story-telling for Indian American fiction writers.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>McCarthy’s Plan to Avoid a Shutdown Hits Stiff G.O.P. Opposition</h3>
@@ -75,39 +75,27 @@ There is a lot going on in the world right now. The US is facing a government sh
 <sub><sub>Monday, September 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Justin Trudeau Accuses India in a Killing on Canadian Soil</h3>
+<h3>Justin Trudeau Accuses India of a Killing on Canadian Soil</h3>
 <sub>By Ian Austen and Vjosa Isai</sub>
-<p>It was a rare, explosive allegation by the Canadian leader: That the Indian government killed a Canadian citizen who has advocated turning a part of India into an independent Sikh nation.  <a href="https://nyti.ms/45U5cuV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Crisis and Bailout: The Tortuous Cycle Stalking Nations in Debt</h3>
-<sub>By Patricia Cohen</sub>
-<p>The government of Ghana is essentially bankrupt, and has turned to the International Monetary Fund for its 17th financial rescue since 1957.  <a href="https://nyti.ms/3PJazYv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>In a rare and explosive allegation, the Canadian leader said the Indian government was behind the death of a Canadian citizen who advocated turning part of India into an independent Sikh nation.  <a href="https://nyti.ms/45U5cuV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>U.N. to Meet Amid Growing Divisions, and Demands From the Global South</h3>
-<sub>By Farnaz Fassihi</sub>
-<p>With major world leaders skipping the annual event, discussions will focus on climate change, sovereign debt relief and development goals.  <a href="https://nyti.ms/44RMm6p"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Iran Releases 5 Americans as U.S. Unfreezes Billions in Oil Revenue for Tehran</h3>
-<sub>By Michael D. Shear and Farnaz Fassihi</sub>
-<p>The terms of the deal have generated intense criticism from Republicans, even as the White House insists Iran will be prevented from spending the money on anything except humanitarian goods.  <a href="https://nyti.ms/3RjJ7BM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Evidence Suggests Ukrainian Missile Caused Market Tragedy</h3>
+<sub>By John Ismay, Thomas Gibbons-Neff, Haley Willis, Malachy Browne, Christoph Koettl and Alexander Cardia</sub>
+<p>Witness accounts and an analysis of video and weapon fragments suggest a Ukrainian missile failed to hit its intended target and landed in a bustling street, with devastating consequences.  <a href="https://nyti.ms/3EKqsYs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Who Are the Detainees Released by the U.S. and Iran?</h3>
-<sub>By Isabella Kwai, Emma Bubola and Farnaz Fassihi</sub>
-<p>Iran has freed five Americans, while the U.S. has agreed to unfreeze $6 billion in Iranian assets and to dismiss federal charges against five imprisoned Iranians.  <a href="https://nyti.ms/3ZnMnOv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Zelensky Cleans House in Corruption-Plagued Defense Ministry</h3>
+<sub>By Matthew Mpoke Bigg and Andrew E. Kramer</sub>
+<p>On the eve of a trip to the United States, Ukraine’s president is eager to demonstrate that the billions of dollars Washington is spending to aid his country is not being squandered.  <a href="https://nyti.ms/45U0OvX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How DeSantis Played Both Sides of the G.O.P. Rift Over the 2020 Election</h3>
-<sub>By Alexandra Berzon and Sharon LaFraniere</sub>
-<p>The Florida governor created an election crimes unit that placated election deniers. It led to scores of “zany-burger” tips, and, according to one Republican, “Kabuki theater.”  <a href="https://nyti.ms/45VIORU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Trump to Woo Striking Union Members in Detroit, Skipping 2nd G.O.P. Debate</h3>
+<sub>By Shane Goldmacher and Maggie Haberman</sub>
+<p>Looking past the Republican primary, Donald Trump and his campaign are already gearing up for a possible rematch with President Biden.  <a href="https://nyti.ms/44UZDve"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -117,9 +105,15 @@ There is a lot going on in the world right now. The US is facing a government sh
 <sub><sub>Monday, September 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Acquitted by the Texas Senate, Ken Paxton Still Faces Legal Problems</h3>
-<sub>By Edgar Sandoval</sub>
-<p>The State Senate acquitted the attorney general on charges of corruption and abuse of office, but he still faces trial on securities fraud charges and a federal corruption investigation.  <a href="https://nyti.ms/3LueiX9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Police Arrest 29-Year-Old in Ambush Shooting of Los Angeles County Deputy</h3>
+<sub>By Adeel Hassan</sub>
+<p>The deputy, Ryan Clinkunbroomer, 30, was killed Saturday night as he sat in a patrol cruiser near the sheriff’s station in Palmdale, Calif.  <a href="https://nyti.ms/48hsuN8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>From Flood-Ravaged Ruins, Libyans Demand Accountability</h3>
+<sub>By Raja Abdulrahim, Vivian Nereim and Hwaida Saad</sub>
+<p>The cries of protesters were part of a rising chorus of calls for answers from leaders across a divided Libya, specifically for an international investigation.  <a href="https://nyti.ms/45UETFf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
@@ -128,10 +122,16 @@ There is a lot going on in the world right now. The US is facing a government sh
 <p>In a new report, scientists offer a list of measurable qualities that might indicate the presence of some presence in a machine.  <a href="https://nyti.ms/46hq9zM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Police Arrest 29-Year-Old in Ambush Shooting of Los Angeles County Deputy</h3>
-<sub>By Adeel Hassan</sub>
-<p>The deputy, Ryan Clinkunbroomer, 30, was killed Saturday night as he sat in a patrol cruiser near the sheriff’s station in Palmdale, Calif.  <a href="https://nyti.ms/48hsuN8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Crisis and Bailout: The Tortuous Cycle Stalking Nations in Debt</h3>
+<sub>By Patricia Cohen</sub>
+<p>The government of Ghana is essentially bankrupt, and has turned to the International Monetary Fund for its 17th financial rescue since 1957.  <a href="https://nyti.ms/3PJazYv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-books-blue" alt="">
+<h3>Jhumpa Lahiri and Me</h3>
+<sub>By Vauhini Vara</sub>
+<p>Like many Indian American fiction writers working in the shadow of Jhumpa Lahiri, I had to learn that my stories could be different — in part because America was different, too.  <a href="https://nyti.ms/3RHVjfZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
