@@ -60,28 +60,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, September 19, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. On the climate front, U.N. Chief António Guterres is calling out planet wreckers ahead of a United Nations climate summit this week without naming anyone specific. In terms of science, there’s a vanishing nomadic clan living in Indonesia’s rainforest that has kept an oral history, which was recently confirmed by genetic research. Canada has made a startling claim against India over separatist issues that has caused tension between the two countries. 
-
-On the business side of things, the Federal Reserve is inching closer towards ending rate increases, while the United Auto Workers union went on strike as they decide whether it will accelerate worker action or stop labor&#39;s recent momentum. Businesses are also struggling with expectations to work in China while dealing with confusing regulations and an increased security focus.
-
-In one part of America, Los Angeles has avoided the migrant crisis confronting New York City, likely due to it no longer being such an attractive destination for immigrants. The Times recently did an investigation on child labor and how it relates to migration issues at the border.</p>
+Right now, the news is filled with political and business issues happening around the world. Ukrainian President Zelensky recently called for more international support for his nation and punishment of Russia at a United Nations meeting. Meanwhile, the White House is discussing a defense treaty model with Saudi Arabia, which may be an incentive for it to normalize its relationship with Israel. Canada recently made an unexpected claim against India concerning separatist groups, while Justin Trudeau accuses Indian agents of being involved in the killing of a Sikh leader in Canada. Closer to home, Pennsylvania has started automatic voter registration and a special election is underway in Pittsburgh to determine which party will control the state House. Finally, there&#39;s some labor news - autoworkers are going on strike, potentially affecting the overall labor movement.</p>
 <ol>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>U.N. Chief’s Test: Shaming Without Naming the World’s Climate Delinquents</h3>
-<sub>By Somini Sengupta</sub>
-<p>António Guterres has spoken sharply of “planet wreckers” ahead of this week’s United Nations climate summit, but politics makes it tricky to get specific.  <a href="https://nyti.ms/3t0X8dx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 18, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Zelensky, at the U.N., will call for support for Ukraine and demand punishment for Russia.</h3>
+<sub>By Andrew E. Kramer and Matthew Mpoke Bigg</sub>
+<p>  <a href="https://nyti.ms/48ijmI7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>A Vanishing Nomadic Clan, With a Songlike Language All Their Own</h3>
-<sub>By Brendan Borrell and Joshua Irwandi</sub>
-<p>New genetic research confirms the oral history of a small group of nomadic people living in Indonesia’s rainforest.  <a href="https://nyti.ms/45Xq6JV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 18, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Aides and Saudis Explore Defense Treaty Modeled After Asian Pacts</h3>
+<sub>By Edward Wong and Mark Mazzetti</sub>
+<p>Despite U.S. fatigue over Middle East wars, the White House sees a security agreement resembling those with Japan or South Korea as an incentive for Saudi Arabia to normalize relations with Israel.  <a href="https://nyti.ms/3EIV4t5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Canada’s Startling Claim Punctuates Tension With India Over Separatists</h3>
 <sub>By Mujib Mashal, Hari Kumar and Suhasini Raj</sub>
 <p>The allegation that India was involved in the killing of a Sikh leader in Canada came after New Delhi had accused Western countries of inaction on secessionist groups.  <a href="https://nyti.ms/3sWLY9v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Who Is the Man Whose Killing Canada Says India Instigated?</h3>
+<sub>By Suhasini Raj</sub>
+<p>Prime Minister Justin Trudeau of Canada accused Indian agents of involvement in the killing of a Sikh separatist in British Columbia. Who was he?  <a href="https://nyti.ms/3riOWEP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-dining-blue" alt="">
@@ -96,46 +98,40 @@ In one part of America, Los Angeles has avoided the migrant crisis confronting N
 <p>It was just a single moment in a war that at times feels endless, but an image of Ukrainian soldiers firing upon an unseen enemy captures the dangers of the front line.  <a href="https://nyti.ms/45XE26r"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Evidence Suggests Ukrainian Missile Caused Market Tragedy</h3>
-<sub>By John Ismay, Thomas Gibbons-Neff, Haley Willis, Malachy Browne, Christoph Koettl and Alexander Cardia</sub>
-<p>Witness accounts and an analysis of video and weapon fragments suggest a Ukrainian missile failed to hit its intended target and landed in a bustling street, with devastating consequences.  <a href="https://nyti.ms/3EKqsYs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russian Court Keeps Wall Street Journal Reporter in Detention</h3>
-<sub>By Anatoly Kurmanaev</sub>
-<p>The court declined to hear an appeal from the American journalist, Evan Gershkovich, against his pretrial detention on espionage charges. The United States has said he is wrongfully detained.  <a href="https://nyti.ms/3Ppk51r"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Urgency Grows for DeSantis in Iowa as Trump Looks to Finish Him Off</h3>
+<sub>By Nicholas Nehamas</sub>
+<p>Despite spending far more time campaigning across the must-win state, Ron DeSantis still trails Donald Trump by double digits. And now Mr. Trump is stepping up his visits.  <a href="https://nyti.ms/45WmBmZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Fed Creeps Toward Next Phase in Its Fight Against Inflation</h3>
-<sub>By Jeanna Smialek</sub>
-<p>The Federal Reserve is unlikely to declare victory this week. But investors will watch for any hint that the end to rate increases is coming.  <a href="https://nyti.ms/3t7WNFG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Pennsylvania Will Start Automatic Voter Registration</h3>
+<sub>By Neil Vigdor</sub>
+<p>Nearly half of all states have similar programs that combine getting a driver’s license or state ID card with registering to vote.  <a href="https://nyti.ms/3PmoIt3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Voters in Pittsburgh Area Will Determine Balance in Pennsylvania House</h3>
+<sub>By David W. Chen</sub>
+<p>A special election to fill an open seat will decide which party controls the state’s evenly split lower chamber.  <a href="https://nyti.ms/46glL4d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>The Kids on the Night Shift</h3>
+<sub>By Hannah Dreier and Meridith Kohut</sub>
+<p>For Marcos Cux — and thousands of other migrant children — working dangerous jobs that violate child-labor laws is the only American dream there is.  <a href="https://nyti.ms/3Lv7Hfb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Jann Wenner’s Rock Hall Reign Lasted Years. It Ended in 20 Minutes.</h3>
+<sub>By Ben Sisario</sub>
+<p>The day after the Rolling Stone co-founder made remarks widely criticized as racist and sexist in a Times interview, the Hall of Fame called an emergency vote and ousted him.  <a href="https://nyti.ms/3LqIyCk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Strike Is a High-Stakes Gamble for Autoworkers and the Labor Movement</h3>
 <sub>By Noam Scheiber</sub>
 <p>Experts on unions and the industry said the U.A.W. strike could accelerate a wave of worker actions, or stifle labor’s recent momentum.  <a href="https://nyti.ms/3PID2NP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Burner Laptops and Smaller Profits: Firms Portray Their China Challenges</h3>
-<sub>By Keith Bradsher and Alexandra Stevenson</sub>
-<p>Business groups chronicle the difficult environment inside China for U.S. and European companies navigating confusing regulations and an intensified security focus.  <a href="https://nyti.ms/3PICUNt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Why Los Angeles Has Avoided the Migrant Crisis Hitting New York</h3>
-<sub>By Jill Cowan and Miriam Jordan</sub>
-<p>The Southern California city so far has avoided the desperate situation that other metro areas are facing, in part because it no longer attracts as many immigrants as it once did.  <a href="https://nyti.ms/48jZap4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>Child Labor and the Broken Border</h3>
-<sub>By David Leonhardt</sub>
-<p>A Times investigation looked into the exploitation of young migrants.  <a href="https://nyti.ms/3PgaUjG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
 <hr/>
 </ol>
