@@ -58,10 +58,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Monday, September 18, Central Standard Time</p>
+<p>It is Tuesday, September 19, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In the US, Republicans are facing opposition to their proposal meant to avoid a government shutdown, and the national debt has surpassed $33 trillion. Internationally, Canadian leader Justin Trudeau has accused India of a killing on Canadian soil, and there is evidence suggesting a Ukrainian missile caused a tragic event. Ukrainian President Zelensky is trying to combat corruption in his country as US President Trump heads to Detroit to woo striking union members and evade another GOP debate. Also, police have arrested a suspect in relation to an ambush shooting of a Los Angeles County deputy and Libyans are protesting for answers after floods ravage their country. Finally, scientists have devised tests for A.I. consciousness and Ghana&#39;s government is turning to the International Monetary Fund for its 17th financial rescue since 1957 due to crisis and bailout cycles. Additionally, Indian American fiction writers are reflecting on changes in America with Jhumpa Lahiri being an influence.</p>
+There are a lot of things happening in the world right now. In Canada, Justin Trudeau just accused India of assassinating a Sikh leader in British Columbia. Meanwhile in the US, Congress is facing a potential government shutdown if they can’t agree on border controls and spending cuts. The US has also reached $33 trillion in debt for the first time. 
+
+In Ukraine, evidence suggests that a missile failed to hit its intended target, killing people on a busy street. President Zelensky is trying to make it seem like Washington’s aid isn’t being wasted by cleaning house in the country’s corruption-plagued defense ministry. Donald Trump is countering Joe Biden’s moves by wooing striking union members in Detroit next week despite missing the 2nd Republican debate.
+
+Police have arrested a 29-year-old suspect for the ambush shooting of a Los Angeles County deputy this past weekend. People from flood-ravaged Libya are demanding accountability and are calling for an international investigation. Scientists have put together a list of measurable qualities to tell if an AI is conscious or not. Lastly, while Ghana has gone bankrupt and received their 17th IMF rescue since 1957, Hollywood strikes caused thousands of UK film crews to lose work. Ken Paxton was acquitted by Texas Senate on charges of abuse of office and corruption but still faces trial on securities fraud charge and federal corruption investigation.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Justin Trudeau Accuses India of a Killing on Canadian Soil</h3>
+<sub>By Ian Austen and Vjosa Isai</sub>
+<p>The Canadian leader said agents of India had assassinated a Sikh community leader in British Columbia in June. India called the accusation “absurd.”  <a href="https://nyti.ms/45U5cuV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 18, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>McCarthy’s Plan to Avoid a Shutdown Hits Stiff G.O.P. Opposition</h3>
 <sub>By Carl Hulse</sub>
@@ -72,12 +82,6 @@ There is a lot going on in the world right now. In the US, Republicans are facin
 <h3>U.S. National Debt Tops $33 Trillion for First Time</h3>
 <sub>By Alan Rappeport</sub>
 <p>The fiscal milestone comes as Congress is facing a new spending fight with a government shutdown looming.  <a href="https://nyti.ms/45d8adb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Justin Trudeau Accuses India of a Killing on Canadian Soil</h3>
-<sub>By Ian Austen and Vjosa Isai</sub>
-<p>In a rare and explosive allegation, the Canadian leader said the Indian government was behind the death of a Canadian citizen who advocated turning part of India into an independent Sikh nation.  <a href="https://nyti.ms/45U5cuV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -96,12 +100,6 @@ There is a lot going on in the world right now. In the US, Republicans are facin
 <h3>Trump to Woo Striking Union Members in Detroit, Skipping 2nd G.O.P. Debate</h3>
 <sub>By Shane Goldmacher and Maggie Haberman</sub>
 <p>Looking past the Republican primary, Donald Trump and his campaign are already gearing up for a possible rematch with President Biden.  <a href="https://nyti.ms/44UZDve"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Striking Autoworkers Are Cool to Biden’s Embrace</h3>
-<sub>By Trip Gabriel</sub>
-<p>The president has highlighted his pro-union credentials, but inflation has eroded blue-collar livelihoods and chilled support for the president on the picket lines.  <a href="https://nyti.ms/48lfENN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -128,10 +126,16 @@ There is a lot going on in the world right now. In the US, Republicans are facin
 <p>The government of Ghana is essentially bankrupt, and has turned to the International Monetary Fund for its 17th financial rescue since 1957.  <a href="https://nyti.ms/3PJazYv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-books-blue" alt="">
-<h3>Jhumpa Lahiri and Me</h3>
-<sub>By Vauhini Vara</sub>
-<p>Like many Indian American fiction writers working in the shadow of Jhumpa Lahiri, I had to learn that my stories could be different — in part because America was different, too.  <a href="https://nyti.ms/3RHVjfZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Hollywood Strikes Send a Chill Through Britain’s Film Industry</h3>
+<sub>By Eshe Nelson</sub>
+<p>Many U.S. studios’ blockbusters are filmed in Britain, so the walkouts by actors and screenwriters have caused thousands of U.K. film crews to lose work.  <a href="https://nyti.ms/3ZlIzNM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Acquitted by the Texas Senate, Ken Paxton Still Faces Legal Problems</h3>
+<sub>By Edgar Sandoval</sub>
+<p>The State Senate acquitted the attorney general on charges of corruption and abuse of office, but he still faces trial on securities fraud charges and a federal corruption investigation.  <a href="https://nyti.ms/3LueiX9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
