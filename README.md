@@ -59,25 +59,42 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, September 19, Central Standard Time</p>
-<p>
-There is a lot going on in the world right now. Canadian Prime Minister Justin Trudeau has accused India of carrying out a killing on Canadian soil, causing tension between the two countries. In the U.S., Republicans are attempting to pass a combination of spending cuts and border controls to avoid a government shutdown, while the national debt has topped $33 trillion for the first time. In Ukraine, evidence suggests that a missile caused major destruction in a market tragedy. Ukrainian President Zelensky is now working to combat corruption in his Defense Ministry. Donald Trump is trying to win over striking union members in Detroit with a campaign stop instead of attending the second G.O.P debate. In Los Angeles, police have arrested a 29-year-old man in connection with an ambush shooting of a deputy sheriff and, in Libya, floods have sparked protests from locals who are calling for accountability from their leaders. Scientists are exploring ways to recognize if an artificial intelligence is conscious, while nations like Ghana are stuck in a cycle of crisis and bailout due to being heavily in debt. Finally, Hollywood&#39;s labor strikes are creating job losses for thousands of Britsh film crews as U.S. studios no longer film blockbusters there.</p>
+<p>A lot is going on in the world right now! President Biden is giving a speech to the United Nations advocating for democracy and global leadership. At the same time, UN Chief Antonio Guterres is chastening those who are not doing enough to combat climate change. New genetic research shows that a nomadic people living in Indonesia&#39;s rainforest have their own unique language. Autoworkers represented by the UAW are staging a strike with major implications for labor movements across the US. The Restaurant List has chosen 50 places in the US that they&#39;re most excited about. On the world stage, Ukrainian soldiers were captured firing at unseen enemies and recent evidence suggests that a Ukrainian missile caused a high casualty rate in a market recently. For its part, Russia has wrongfully detained an American journalist covering an espionage case and US-Canada relations are getting tense as Canadian Prime Minister Justin Trudeau accuses India of killing a Sikh man on Canadian soil. In comparison, Los Angeles has been able to avoid the migrant crisis hitting New York City due to fewer immigrants coming into the region.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden to Urge Nations to Protect and Nurture Democracy</h3>
+<sub>By Michael D. Shear and Peter Baker</sub>
+<p>In a speech to the United Nations, President Biden is expected to promote his administration’s achievements around the globe even as he confronts challenges at home.  <a href="https://nyti.ms/48iAkGd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>U.N. Chief’s Test: Shaming Without Naming the World’s Climate Delinquents</h3>
+<sub>By Somini Sengupta</sub>
+<p>António Guterres has spoken sharply of “planet wreckers” ahead of this week’s United Nations climate summit, but politics makes it tricky to get specific.  <a href="https://nyti.ms/3t0X8dx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>A Vanishing Nomadic Clan, With a Songlike Language All Their Own</h3>
+<sub>By Brendan Borrell and Joshua Irwandi</sub>
+<p>New genetic research confirms the oral history of a small group of nomadic people living in Indonesia’s rainforest.  <a href="https://nyti.ms/45Xq6JV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Strike Is a High-Stakes Gamble for Autoworkers and the Labor Movement</h3>
+<sub>By Noam Scheiber</sub>
+<p>Experts on unions and the industry said the U.A.W. strike could accelerate a wave of worker actions, or stifle labor’s recent momentum.  <a href="https://nyti.ms/3PID2NP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-dining-blue" alt="">
+<h3>The Restaurant List 2023</h3>
+<sub></sub>
+<p>The 50 places in the United States that we’re most excited about right now.  <a href="https://nyti.ms/3Pr2OFe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 18, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Justin Trudeau Accuses India of a Killing on Canadian Soil</h3>
-<sub>By Ian Austen and Vjosa Isai</sub>
-<p>The Canadian leader said agents of India had assassinated a Sikh community leader in British Columbia in June. India called the accusation “absurd.”  <a href="https://nyti.ms/45U5cuV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>McCarthy’s Plan to Avoid a Shutdown Hits Stiff G.O.P. Opposition</h3>
-<sub>By Carl Hulse</sub>
-<p>Republican leaders were hoping to pass the combination of spending cuts and border controls to show they were working to forestall a shutdown and pressure the Senate, but the bill’s prospects looked grim.  <a href="https://nyti.ms/3EHW7th"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. National Debt Tops $33 Trillion for First Time</h3>
-<sub>By Alan Rappeport</sub>
-<p>The fiscal milestone comes as Congress is facing a new spending fight with a government shutdown looming.  <a href="https://nyti.ms/45d8adb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Load. Fire. Get to Cover.</h3>
+<sub>By Tyler Hicks</sub>
+<p>It was just a single moment in a war that at times feels endless, but an image of Ukrainian soldiers firing upon an unseen enemy captures the dangers of the front line.  <a href="https://nyti.ms/45XE26r"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -87,40 +104,16 @@ There is a lot going on in the world right now. Canadian Prime Minister Justin T
 <sub><sub>Monday, September 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Zelensky Cleans House in Corruption-Plagued Defense Ministry</h3>
-<sub>By Matthew Mpoke Bigg and Andrew E. Kramer</sub>
-<p>On the eve of a trip to the United States, Ukraine’s president is eager to demonstrate that the billions of dollars Washington is spending to aid his country is not being squandered.  <a href="https://nyti.ms/45U0OvX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump to Woo Striking Union Members in Detroit, Skipping 2nd G.O.P. Debate</h3>
-<sub>By Shane Goldmacher and Maggie Haberman</sub>
-<p>Looking past the Republican primary, Donald Trump and his campaign are already gearing up for a possible rematch with President Biden.  <a href="https://nyti.ms/44UZDve"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Police Arrest 29-Year-Old in Ambush Shooting of Los Angeles County Deputy</h3>
-<sub>By Adeel Hassan</sub>
-<p>The deputy, Ryan Clinkunbroomer, 30, was killed Saturday night as he sat in a patrol cruiser near the sheriff’s station in Palmdale, Calif.  <a href="https://nyti.ms/48hsuN8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>From Flood-Ravaged Ruins, Libyans Demand Accountability</h3>
-<sub>By Raja Abdulrahim, Vivian Nereim and Hwaida Saad</sub>
-<p>The cries of protesters were part of a rising chorus of calls for answers from leaders across a divided Libya, specifically for an international investigation.  <a href="https://nyti.ms/45UETFf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>How to Tell if Your A.I. Is Conscious</h3>
-<sub>By Oliver Whang</sub>
-<p>In a new report, scientists offer a list of measurable qualities that might indicate the presence of some presence in a machine.  <a href="https://nyti.ms/46hq9zM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 18, Central Standard Time</sub></sub>
+<h3>Wall Street Journal Reporter Evan Gershkovich Appears in Russian Court</h3>
+<sub>By Anatoly Kurmanaev</sub>
+<p>The American, whom Russia accuses of espionage, is appealing a ruling that extended his pretrial detention. The United States has said he is wrongfully detained.  <a href="https://nyti.ms/3Ppk51r"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Crisis and Bailout: The Tortuous Cycle Stalking Nations in Debt</h3>
-<sub>By Patricia Cohen</sub>
-<p>The government of Ghana is essentially bankrupt, and has turned to the International Monetary Fund for its 17th financial rescue since 1957.  <a href="https://nyti.ms/3PJazYv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 18, Central Standard Time</sub></sub>
+<h3>Fed Creeps Toward Next Phase in Its Fight Against Inflation</h3>
+<sub>By Jeanna Smialek</sub>
+<p>The Federal Reserve is unlikely to declare victory this week. But investors will watch for any hint that the end to rate increases is coming.  <a href="https://nyti.ms/3t7WNFG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Hollywood Strikes Send a Chill Through Britain’s Film Industry</h3>
@@ -128,11 +121,17 @@ There is a lot going on in the world right now. Canadian Prime Minister Justin T
 <p>Many U.S. studios’ blockbusters are filmed in Britain, so the walkouts by actors and screenwriters have caused thousands of U.K. film crews to lose work.  <a href="https://nyti.ms/3ZlIzNM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Acquitted by the Texas Senate, Ken Paxton Still Faces Legal Problems</h3>
-<sub>By Edgar Sandoval</sub>
-<p>The State Senate acquitted the attorney general on charges of corruption and abuse of office, but he still faces trial on securities fraud charges and a federal corruption investigation.  <a href="https://nyti.ms/3LueiX9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Justin Trudeau Accuses India of a Killing on Canadian Soil</h3>
+<sub>By Ian Austen and Vjosa Isai</sub>
+<p>The Canadian leader said agents of India had assassinated a Sikh community leader in British Columbia in June. India called the accusation “absurd.”  <a href="https://nyti.ms/45U5cuV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Why Los Angeles Has Avoided the Migrant Crisis Hitting New York</h3>
+<sub>By Jill Cowan and Miriam Jordan</sub>
+<p>The Southern California city so far has avoided the desperate situation that other metro areas are facing, in part because it no longer attracts as many immigrants as it once did.  <a href="https://nyti.ms/48jZap4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
