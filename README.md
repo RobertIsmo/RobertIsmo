@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, September 20, Central Standard Time</p>
 <p>
-Right now, the world is facing a lot of conflict. In Ukraine, progress against Russian forces has been slow and difficult even though the counteroffensive made some gains. President Volodymyr Zelensky of Ukraine is appealing to the broader international community for support as a matter of global security. In the US, Garland will tell House Republicans that he is ‘not the president’s lawyer’ as they push for impeachment, and right-wing house republicans have derailed a GOP bill, creating a potential government shutdown. On an economic level, the Federal Reserve is unlikely to declare victory on inflation yet, but gas prices have risen significantly this summer. The UK also has lower inflation rate than the summertime peak over 3 months ago, but $100 oil could once again scramble economic trends. Finally, in Morocco there has been an earthquake which forced many people to use a perilous mountain pass for its lifeline. Additionally in South Africa, 77 people tragically died in an apartement fire, leaving many families missing their loved ones.</p>
+There&#39;s a lot happening in the world right now. In Ukraine, there has been a counteroffensive against Russian defenses that has made progress, but there are still challenges ahead. In the US, Republicans have accused Supreme Court nominee Merrick Garland of misleading Congress about the Hunter Biden investigation. US gas prices are at their highest in 11 months, which has implications on the Federal Reserve&#39;s rates. Biden is also meeting with Netanyahu after snubbing him earlier this year, while the White House is planning to create an &quot;American Climate Corps&quot; to train young people for green jobs to combat climate change. There&#39;s also a discussion about how much patients should be told about potentially risky treatments. In Morocco, a stretch of road across the Atlas mountains has become a lifeline for villages that were destroyed in an earthquake recently. Meanwhile in Iowa, Donald Trump is returning and his rivals are seeing this as their best chance to score against him politically. Lastly, interesting research suggests animals may be able to communicate using some form of language!</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ukraine Has Gained Ground. But It Has Much Farther to Go</h3>
@@ -68,32 +68,14 @@ Right now, the world is facing a lot of conflict. In Ukraine, progress against R
 <p>Ukraine’s counteroffensive has breached Russian defenses, but progress has been grueling and slow. Familiar obstacles, fresh troops and worsening weather lie ahead.  <a href="https://nyti.ms/3PjV0oC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine’s Fight Is the World’s, Zelensky Tells U.N. Assembly</h3>
-<sub>By Richard Pérez-Peña, Andrew E. Kramer and Farnaz Fassihi</sub>
-<p>Painting Vladimir Putin’s Russia as a nation that seeks to dominate others, President Volodymyr Zelensky cast his appeal for broad support as a matter of global security.  <a href="https://nyti.ms/3Rvn4bg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>A Subtle Change for Biden</h3>
-<sub>By David Leonhardt</sub>
-<p>How the president talks about the world is changing.  <a href="https://nyti.ms/3sXb209"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Garland to Tell House Republicans, ‘I Am Not the President’s Lawyer’ as They Push for Impeachment</h3>
-<sub>By Glenn Thrush</sub>
-<p>The soft-spoken attorney general is expected to strike a sharper tone during testimony before the Judiciary Committee on Wednesday, saying prosecutors won’t be “intimidated” by threats from Trump allies.  <a href="https://nyti.ms/46hEQTx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Republicans have accused Garland of misleading Congress about the Hunter Biden investigation.</h3>
+<sub>By Luke Broadwater</sub>
+<p>  <a href="https://nyti.ms/3LuHxJF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Right-Wing House Republicans Derail Pentagon G.O.P. Bill, Rebuking McCarthy</h3>
-<sub>By Carl Hulse</sub>
-<p>The floor defeat underscored the G.O.P. resistance Speaker Kevin McCarthy was facing as he struggled to round up votes to avoid a government shutdown.  <a href="https://nyti.ms/48jncRc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>What to Watch at the Fed’s September Meeting</h3>
+<h3>What to watch at the Fed’s September meeting.</h3>
 <sub>By Jeanna Smialek</sub>
 <p>The Federal Reserve is unlikely to declare victory in its war on inflation. But investors will watch for any hint that rate increases might be over.  <a href="https://nyti.ms/46l3uCD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
@@ -104,16 +86,16 @@ Right now, the world is facing a lot of conflict. In Ukraine, progress against R
 <p>Now at their highest level in 11 months, they can complicate the Federal Reserve’s campaign to rein in inflation.  <a href="https://nyti.ms/3PlCQ61"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.K. Inflation Rate Slips Lower for Third Straight Month</h3>
-<sub>By Eshe Nelson</sub>
-<p>Prices rose at an annual rate of 6.7 percent in August. A rise in energy costs was offset by a slower increase in food prices.  <a href="https://nyti.ms/3PMgFYa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Biden meets Netanyahu, after snubbing him all year.</h3>
+<sub>By Patrick Kingsley and Michael D. Shear</sub>
+<p>  <a href="https://nyti.ms/3PKs1LZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How $100 Oil Could Scramble the Fed’s Fight Against Inflation</h3>
-<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced and Ephrat Livni</sub>
-<p>Goldman Sachs and others are predicting that crude will hit triple-digit prices, a scenario that could impact global economic growth.  <a href="https://nyti.ms/3PLk9de"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Wanted: 20,000 Young Americans to Fight Climate Change</h3>
+<sub>By Lisa Friedman</sub>
+<p>The White House plans to create an “American Climate Corps” that would train thousands of young people for green jobs.  <a href="https://nyti.ms/3Lr8NIX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
@@ -123,16 +105,34 @@ Right now, the world is facing a lot of conflict. In Ukraine, progress against R
 <sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Driving a Perilous Mountain Pass Through the Devastation of Morocco’s Earthquake</h3>
+<h3>Navigating a Perilous Mountain Pass After a Devastating Earthquake</h3>
 <sub>By Catherine Porter, Aida Alami and Nariman El-Mofty</sub>
 <p>A stretch of lonely road across Morocco’s Atlas Mountains has long been known for its stunning views and perilous turns. After the earthquake, it became a lifeline for dozens of destroyed villages.  <a href="https://nyti.ms/46i0mrn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Portraits of Fire Victims: Two Toddlers Named ‘Memory,’ and a Teacher About to Wed</h3>
-<sub>By Lynsey Chutel</sub>
-<p>A picture is emerging of some of the 77 people who died when the derelict building in Johannesburg where they were living went up in flames on Aug. 31.  <a href="https://nyti.ms/3PGwKyl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Returns to Iowa, Where Rivals See Their Best Chance</h3>
+<sub>By Michael Gold</sub>
+<p>After a light campaign schedule in the key early state, the former president is making five trips in the next six weeks.  <a href="https://nyti.ms/3PpMdBx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump’s Abortion Comments Expose a Line of Attack for Rivals in Iowa</h3>
+<sub>By Nicholas Nehamas and Maggie Haberman</sub>
+<p>After Donald Trump said a six-week ban signed by Ron DeSantis in Florida was “a terrible thing,” Iowa’s governor defended a similar law in her state, and others joined in the criticism.  <a href="https://nyti.ms/3rjK2aE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>The Animals Are Talking. What Does It Mean?</h3>
+<sub>By Sonia Shah</sub>
+<p>Language was long understood as a human-only affair. New research suggests that isn’t so.  <a href="https://nyti.ms/46j1jzK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Azerbaijan Says It Stops Assault on Armenian Enclave</h3>
+<sub>By Anton Troianovski and Ivan Nechepurenko</sub>
+<p>Pro-Armenian leaders in the breakaway region of Nagorno-Karabakh appeared to have surrendered to Azerbaijan’s demands. A calming of hostilities there could avert a wider war in the region.  <a href="https://nyti.ms/3rdXM70"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
