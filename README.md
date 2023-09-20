@@ -60,24 +60,54 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, September 20, Central Standard Time</p>
 <p>
-Currently there are a few things happening in the world. In the US, Republicans are accusing the Attorney General of misleading Congress about an investigation into the former president&#39;s son. In Ukraine, there has been a counteroffensive to breach Russian defenses. In Morocco, a devastating earthquake has left people navigating a perilous mountain pass as a lifeline. In Israel, President Biden is meeting with Prime Minister Netanyahu following a months-long delay. Lastly, Azerbaijan has declared it is ending its assault on an Armenian enclave.</p>
+Things are really busy in the world right now! The Federal Reserve recently held interest rates steady and may still make an additional rate move by the end of the year, which could impact mortgages, credit cards, and other forms of debt. In politics, the Senate is poised to confirm military chiefs, but Senator Tommy Tuberville of Alabama has been blocking them over a Pentagon abortion policy. Meanwhile, President Biden and Israeli Prime Minister Netanyahu had a successful meeting this week to try to improve tensions between their countries, despite Biden expressing frustration with Netanyahu&#39;s government. There was also an international summit on climate ambition - the U.S. and China were not even invited to speak due to their poor record on hot air reduction. Attorney General Merrick Garland has said he won&#39;t be intimidated by threats from Trump allies about disclosure of information related to Hunter Biden&#39;s inquiries, and Speaker Kevin McCarthy is stuck doing a balancing act in order to push spending bills through the House without alienating right-wing members. On the international front, Ukraine has gained some ground against Russian forces but has still a long way to go in terms of making progress. Finally, Google&#39;s newest chatbot Bard is incorporating more features from Gmail accounts etc., while OpenAI released a new version of its &quot;ChatGPT&quot; chatbot that can generate images too. Former Texas Congressman Will Hurd just released an AI plan as the first from the Republican presidential field for 2021.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Fed Aims for Soft Landing With a Rate Pause and a Pledge to Move ‘Carefully’</h3>
+<sub>By Jeanna Smialek</sub>
+<p>Central bankers held rates steady at 5.25 to 5.5 percent, and forecast that they could still make a final quarter-point rate move this year.  <a href="https://nyti.ms/46l3uCD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>What Fed Rate Moves Mean for Mortgages, Credit Cards and More</h3>
 <sub>By Tara Siegel Bernard</sub>
 <p>Savers benefit from higher rates, but borrowers have faced bigger bills on credit cards, student loans and other forms of debt.  <a href="https://nyti.ms/3rkgt8W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Senate Poised to Confirm Military Chiefs, Sidestepping Tuberville Blockade</h3>
+<sub>By Karoun Demirjian and Kayla Guo</sub>
+<p>Three generals were on track for confirmation, but Senator Tommy Tuberville, the Alabama Republican who has been blocking them, said he would continue to hold up others over a Pentagon abortion policy.  <a href="https://nyti.ms/451ypDc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Biden meets Netanyahu, after monthslong delay.</h3>
+<h3>Biden and Netanyahu Meet to Try to Soothe Tensions, With Some Success</h3>
 <sub>By Patrick Kingsley and Michael D. Shear</sub>
-<p>  <a href="https://nyti.ms/3PKs1LZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The president put aside his frustrations with the Israeli prime minister over his “extremist” government to focus on issues of mutual interest, like Iran and Saudi Arabia.  <a href="https://nyti.ms/3Lv8s8b"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>At a Summit on Climate Ambition, the U.S. and China End Up on the B List</h3>
+<sub>By Max Bearak</sub>
+<p>The world’s two biggest polluters were not invited to speak at a United Nations meeting designed to highlight effective action against warming.  <a href="https://nyti.ms/44VJmG9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Republicans have accused Garland of misleading Congress about the Hunter Biden investigation.</h3>
-<sub>By Luke Broadwater</sub>
-<p>  <a href="https://nyti.ms/3LuHxJF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Garland Rebuffs Republicans’ Efforts to Reveal Details on Hunter Biden Inquiry</h3>
+<sub>By Glenn Thrush</sub>
+<p>The soft-spoken attorney general struck a sharper tone during testimony before the Judiciary Committee, saying prosecutors won’t be “intimidated” by threats from Trump allies.  <a href="https://nyti.ms/46hEQTx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>McCarthy Puts Off Spending Votes, Stymied in Efforts to Avert a Shutdown</h3>
+<sub>By Carl Hulse and Annie Karni</sub>
+<p>Action on the floor stalled as Speaker Kevin McCarthy struggled for votes to bring spending bills up for debate and remained stalemated with right-wing members.  <a href="https://nyti.ms/48kx8Ki"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Here Are the Five Republicans Who Have Defied McCarthy on Spending</h3>
+<sub>By Annie Karni</sub>
+<p>The defectors broke with their party to block a Pentagon spending bill from being debated in the House. Their stances reflect deep G.O.P. divisions pushing the government toward a shutdown.  <a href="https://nyti.ms/48qH2tZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -86,52 +116,22 @@ Currently there are a few things happening in the world. In the US, Republicans 
 <p>Ukraine’s counteroffensive has breached Russian defenses, but progress has been grueling and slow. Familiar obstacles, fresh troops and worsening weather lie ahead.  <a href="https://nyti.ms/3PjV0oC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>How Much Do Patients Need to Know About a Potentially Risky Treatment?</h3>
-<sub>By Ellen Gabler, Steve Eder and Allie Pitchon</sub>
-<p>An unapproved product made from umbilical cord blood was used at a prominent New York hospital. After an F.D.A. warning came an internal complaint: Patients should have been told.  <a href="https://nyti.ms/3PMdpfp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Google’s Bard Just Got More Powerful. It’s Still Erratic.</h3>
+<sub>By Kevin Roose</sub>
+<p>The chatbot now pulls information from a user’s Gmail, Google Docs and Google Drive accounts. The feature leaves a lot to be desired.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Navigating a Perilous Mountain Pass After a Devastating Earthquake</h3>
-<sub>By Catherine Porter, Aida Alami and Nariman El-Mofty</sub>
-<p>A stretch of lonely road across Morocco’s Atlas Mountains has long been known for its stunning views and perilous turns. After the earthquake, it became a lifeline for dozens of destroyed villages.  <a href="https://nyti.ms/46i0mrn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Returns to Iowa, Where Rivals See Their Best Chance</h3>
-<sub>By Michael Gold</sub>
-<p>After a light campaign schedule in the key early state, the former president is making five trips in the next six weeks.  <a href="https://nyti.ms/3PpMdBx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>New York Loves to Hate Him. Can a $2.3 Billion Sphere Redeem Jim Dolan?</h3>
-<sub>By Katherine Rosman</sub>
-<p>In Las Vegas, the chief executive of Madison Square Garden is set to open a behemoth arena that he hopes will revolutionize live entertainment. Back home in New York, he is facing the wrath of lawyers, politicians and sports fans.  <a href="https://nyti.ms/45WnrQp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>The Animals Are Talking. What Does It Mean?</h3>
-<sub>By Sonia Shah</sub>
-<p>Language was long understood as a human-only affair. New research suggests that isn’t so.  <a href="https://nyti.ms/46j1jzK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>ChatGPT Can Now Generate Images, Too</h3>
+<sub>By Cade Metz and Tiffany Hsu</sub>
+<p>OpenAI released a new version of its DALL-E image generator to a small group of testers and incorporated the technology into its popular ChatGPT chatbot.  <a href="https://nyti.ms/3roMz3t"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Michigan and the Auto Industry Share a Past. What About the Future?</h3>
-<sub>By Mitch Smith</sub>
-<p>Fewer Michigan residents work in auto manufacturing than before, but a strike by U.A.W. members is a reminder of what the industry still means to the state.  <a href="https://nyti.ms/3PodLHr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Michael Bloomberg Dials Up a War on Plastics</h3>
-<sub>By David Gelles</sub>
-<p>The former New York City mayor is spending some of his wealth to try to block the construction of petrochemical plants. But this fight may be tougher than his earlier efforts to close coal-burning power plants.  <a href="https://nyti.ms/48m9SeK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Azerbaijan Says It Is Ending Its Assault on Armenian Enclave</h3>
-<sub>By Anton Troianovski and Ivan Nechepurenko</sub>
-<p>Pro-Armenian leaders in the breakaway region of Nagorno-Karabakh appeared to have surrendered to Azerbaijan’s demands. A calming of hostilities there could avert a wider war in the region.  <a href="https://nyti.ms/3rdXM70"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Will Hurd Releases A.I. Plan, a First in the Republican Presidential Field</h3>
+<sub>By Maggie Astor</sub>
+<p>The former Texas congressman’s plan takes an expansive view of both the potential and the risks of artificial intelligence, calling for it to be used more widely but also tightly regulated.  <a href="https://nyti.ms/3LxHTPz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
 <hr/>
 </ol>
