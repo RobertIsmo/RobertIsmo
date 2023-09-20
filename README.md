@@ -60,13 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, September 20, Central Standard Time</p>
 <p>
-There seem to be a lot of political and military tensions around the world right now. In the US, right-wing House Republicans have derailed a Pentagon bill, leading to warnings of a government shutdown. In Ukraine, President Zelensky is trying to gain global support for his country in its fight with Vladimir Putin’s Russia. Meanwhile in Iran, President Rouhani is threatening US officials from the UN podium. On a lighter note, Canada is trying to normalize relations with Saudi Arabia through some kind of security deal and Azerbaijan has started a military operation in Nagorno-Karabakh. Closer to home, there have some special elections in Pennsylvania resulting in Democrats maintaining control of the state’s lower chamber. Finally, Jann Wenner’s reign as head of the Rock Hall of Fame ended abruptly after he made racist and sexist remarks in an interview with The New York Times, and Temple University&#39;s very recently appointed acting president JoAnne A. Epps has passed away after becoming ill on stage.</p>
+Right now, the world is facing a lot of conflict. In Ukraine, progress against Russian forces has been slow and difficult even though the counteroffensive made some gains. President Volodymyr Zelensky of Ukraine is appealing to the broader international community for support as a matter of global security. In the US, Garland will tell House Republicans that he is ‘not the president’s lawyer’ as they push for impeachment, and right-wing house republicans have derailed a GOP bill, creating a potential government shutdown. On an economic level, the Federal Reserve is unlikely to declare victory on inflation yet, but gas prices have risen significantly this summer. The UK also has lower inflation rate than the summertime peak over 3 months ago, but $100 oil could once again scramble economic trends. Finally, in Morocco there has been an earthquake which forced many people to use a perilous mountain pass for its lifeline. Additionally in South Africa, 77 people tragically died in an apartement fire, leaving many families missing their loved ones.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Right-Wing House Republicans Derail Pentagon G.O.P. Bill, Rebuking McCarthy</h3>
-<sub>By Carl Hulse</sub>
-<p>The floor defeat underscored the G.O.P. resistance Speaker Kevin McCarthy was facing as he struggled to round up votes to avoid a government shutdown.  <a href="https://nyti.ms/48jncRc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukraine Has Gained Ground. But It Has Much Farther to Go</h3>
+<sub>By Thomas Gibbons-Neff and Lauren Leatherby</sub>
+<p>Ukraine’s counteroffensive has breached Russian defenses, but progress has been grueling and slow. Familiar obstacles, fresh troops and worsening weather lie ahead.  <a href="https://nyti.ms/3PjV0oC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ukraine’s Fight Is the World’s, Zelensky Tells U.N. Assembly</h3>
@@ -74,65 +74,65 @@ There seem to be a lot of political and military tensions around the world right
 <p>Painting Vladimir Putin’s Russia as a nation that seeks to dominate others, President Volodymyr Zelensky cast his appeal for broad support as a matter of global security.  <a href="https://nyti.ms/3Rvn4bg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Iran’s president threatens U.S. officials from the U.N. podium, dimming hopes for a rapprochement.</h3>
-<sub>By Farnaz Fassihi</sub>
-<p>  <a href="https://nyti.ms/3rjfeH1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>A Subtle Change for Biden</h3>
+<sub>By David Leonhardt</sub>
+<p>How the president talks about the world is changing.  <a href="https://nyti.ms/3sXb209"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Aides and Saudis Explore Defense Treaty Modeled After Asian Pacts</h3>
-<sub>By Edward Wong and Mark Mazzetti</sub>
-<p>Despite U.S. fatigue over Middle East wars, the White House sees a security agreement resembling those with Japan or South Korea as an incentive for Saudi Arabia to normalize relations with Israel.  <a href="https://nyti.ms/3EIV4t5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Azerbaijan Begins a Military Operation in Nagorno-Karabakh</h3>
-<sub>By Ivan Nechepurenko</sub>
-<p>The action in the Armenian enclave of Nagorno-Karabakh has left 25 people dead, the authorities say. And it’s raising fears of an expanding conflict.  <a href="https://nyti.ms/46jGEeD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Trudeau Rejects India’s Denial of Involvement in Assassination in Canada</h3>
-<sub>By Ian Austen, Vjosa Isai and Peter Baker</sub>
-<p>The Canadian prime minister again urged India to cooperate with the investigation into the death of a Sikh separatist.  <a href="https://nyti.ms/45WCdqB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Who Was the Man Whose Killing Canada Says India Instigated?</h3>
-<sub>By Suhasini Raj</sub>
-<p>Prime Minister Justin Trudeau of Canada accused Indian agents of involvement in the killing of a Sikh separatist in British Columbia. Who was he?  <a href="https://nyti.ms/3riOWEP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
+<h3>Garland to Tell House Republicans, ‘I Am Not the President’s Lawyer’ as They Push for Impeachment</h3>
+<sub>By Glenn Thrush</sub>
+<p>The soft-spoken attorney general is expected to strike a sharper tone during testimony before the Judiciary Committee on Wednesday, saying prosecutors won’t be “intimidated” by threats from Trump allies.  <a href="https://nyti.ms/46hEQTx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Democrats Keep Control of Pennsylvania House</h3>
-<sub>By David W. Chen</sub>
-<p>A special election to fill an open seat will decide which party controls the state’s evenly split lower chamber.  <a href="https://nyti.ms/46glL4d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Right-Wing House Republicans Derail Pentagon G.O.P. Bill, Rebuking McCarthy</h3>
+<sub>By Carl Hulse</sub>
+<p>The floor defeat underscored the G.O.P. resistance Speaker Kevin McCarthy was facing as he struggled to round up votes to avoid a government shutdown.  <a href="https://nyti.ms/48jncRc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump’s Abortion Comments Expose a Line of Attack for Rivals in Iowa</h3>
-<sub>By Nicholas Nehamas and Maggie Haberman</sub>
-<p>After Donald Trump said a six-week ban signed by Ron DeSantis in Florida was “a terrible thing,” Iowa’s governor defended a similar law in her state, and others joined in the criticism.  <a href="https://nyti.ms/48pSBkT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>What to Watch at the Fed’s September Meeting</h3>
+<sub>By Jeanna Smialek</sub>
+<p>The Federal Reserve is unlikely to declare victory in its war on inflation. But investors will watch for any hint that rate increases might be over.  <a href="https://nyti.ms/46l3uCD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Jann Wenner’s Rock Hall Reign Lasted Years. It Ended in 20 Minutes.</h3>
-<sub>By Ben Sisario</sub>
-<p>The day after the Rolling Stone co-founder made remarks widely criticized as racist and sexist in a Times interview, the Hall of Fame called an emergency vote and ousted him.  <a href="https://nyti.ms/3LqIyCk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Gas Prices Have Crept Higher This Summer, a Challenge for the Fed</h3>
+<sub>By Santul Nerkar</sub>
+<p>Now at their highest level in 11 months, they can complicate the Federal Reserve’s campaign to rein in inflation.  <a href="https://nyti.ms/3PlCQ61"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Temple University’s Acting President Dies After Becoming Ill Onstage</h3>
-<sub>By Eduardo Medina</sub>
-<p>JoAnne A. Epps, who was appointed in April, was taken to a hospital after she became ill at a memorial service on the university’s campus in Philadelphia.  <a href="https://nyti.ms/3ER7Dm5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>U.K. Inflation Rate Slips Lower for Third Straight Month</h3>
+<sub>By Eshe Nelson</sub>
+<p>Prices rose at an annual rate of 6.7 percent in August. A rise in energy costs was offset by a slower increase in food prices.  <a href="https://nyti.ms/3PMgFYa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-dining-blue" alt="">
-<h3>The Restaurant List 2023</h3>
-<sub></sub>
-<p>The 50 places in the United States that we’re most excited about right now.  <a href="https://nyti.ms/3Pr2OFe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 18, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>How $100 Oil Could Scramble the Fed’s Fight Against Inflation</h3>
+<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced and Ephrat Livni</sub>
+<p>Goldman Sachs and others are predicting that crude will hit triple-digit prices, a scenario that could impact global economic growth.  <a href="https://nyti.ms/3PLk9de"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>How Much Do Patients Need to Know About a Potentially Risky Treatment?</h3>
+<sub>By Ellen Gabler, Steve Eder and Allie Pitchon</sub>
+<p>An unapproved product made from umbilical cord blood was used at a prominent New York hospital. After an F.D.A. warning came an internal complaint: Patients should have been told.  <a href="https://nyti.ms/3PMdpfp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Driving a Perilous Mountain Pass Through the Devastation of Morocco’s Earthquake</h3>
+<sub>By Catherine Porter, Aida Alami and Nariman El-Mofty</sub>
+<p>A stretch of lonely road across Morocco’s Atlas Mountains has long been known for its stunning views and perilous turns. After the earthquake, it became a lifeline for dozens of destroyed villages.  <a href="https://nyti.ms/46i0mrn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Portraits of Fire Victims: Two Toddlers Named ‘Memory,’ and a Teacher About to Wed</h3>
+<sub>By Lynsey Chutel</sub>
+<p>A picture is emerging of some of the 77 people who died when the derelict building in Johannesburg where they were living went up in flames on Aug. 31.  <a href="https://nyti.ms/3PGwKyl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
