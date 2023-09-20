@@ -60,12 +60,36 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, September 19, Central Standard Time</p>
 <p>
-Right now, there are a lot of international events happening. President Biden recently addressed the U.N. and called for collective action on Ukraine and other major crises. His aides are considering a defense treaty with Saudi Arabia as an incentive for them to normalize relations with Israel. Canadian Prime Minster Trudeau is pushing for India to cooperate with an investigation into the death of a Sikh separatist in Canada. Over in Ukraine, soldiers are still at risk due to ongoing clashes. In the US, voter registration is becoming automatic in some states and a special election in Pennsylvania will decide which party controls the state House. A magazine article has been published about migrant children being forced to work in violation of child labor laws. Jann Wenner of Rolling Stone was recently removed from The Rock Hall of Fame after making racist and sexist remarks in an interview, and The Restaurant List released its 2023 list of 50 recommended places to eat across America. Lastly, new genetic research has confirmed the oral history of a small group of nomadic people living in Indonesia&#39;s rainforest who have a song-like language all their own.</p>
+I recently heard about some major geo-political events happening around the world. In the United States, right-wing House Republicans derailed a Pentagon G.O.P bill proposed by Speaker Kevin McCarthy. Meanwhile, in Ukraine their president called for collective action on major crises at the United Nations assembly. In response, Iran&#39;s president threatened U.S. officials from the same podium, dimming hopes of a rapprochement between the two countries. Ukraine is also pushing to get its grain out to the world by sea and over land, while Canada accuses India of instigation in the killing of a Sikh separatist and seeks cooperation in an investigation into his death. Lastly, in Asia, Biden aides are exploring a defense treaty with Saudi Arabia modeled after security agreements between Japan and South Korea. Closer to home, there is urgency in Iowa as Trump steps up visits, Pennsylvania will soon start automatic voter registration, and a special election in Pittsburgh could decide control of Pennsylvania&#39;s House. There&#39;s also news that Jann Wenner was voted off from the Rock Hall of Fame due to comments he made during an interview which were deemed as sexist and racist.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Right-Wing House Republicans Derail Pentagon G.O.P. Bill, Rebuking McCarthy</h3>
+<sub>By Carl Hulse</sub>
+<p>The floor defeat underscored the G.O.P. resistance Speaker Kevin McCarthy was facing as he struggled to round up votes to avoid a government shutdown.  <a href="https://nyti.ms/48jncRc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukraine’s Fight Is the World’s, Zelensky Tells U.N. Assembly</h3>
+<sub>By Richard Pérez-Peña, Andrew E. Kramer and Farnaz Fassihi</sub>
+<p>Painting Vladimir Putin’s Russia as a nation that seeks to dominate others, President Volodymyr Zelensky cast his appeal for broad support as a matter of global security.  <a href="https://nyti.ms/3Rvn4bg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>In his U.N. speech, President Biden called for collective action on Ukraine and other major crises.</h3>
 <sub>By Michael D. Shear and Peter Baker</sub>
 <p>  <a href="https://nyti.ms/48oxsYC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Iran’s president threatens U.S. officials from the U.N. podium, dimming hopes for a rapprochement.</h3>
+<sub>By Farnaz Fassihi</sub>
+<p>  <a href="https://nyti.ms/3rjfeH1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukraine Renews Push to Get Its Grain Out to the World</h3>
+<sub>By Matthew Mpoke Bigg</sub>
+<p>After a journey of 12 hours across waters caught up in the war, a ship carrying tons of wheat made it safely to Romanian waters, as Kyiv worked to transport grain overland, as well.  <a href="https://nyti.ms/3ZngSEa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -76,7 +100,7 @@ Right now, there are a lot of international events happening. President Biden re
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Trudeau Rejects India’s Denial of Involvement in Assassination in Canada</h3>
-<sub>By Ian Austen and Vjosa Isai</sub>
+<sub>By Ian Austen, Vjosa Isai and Peter Baker</sub>
 <p>The Canadian prime minister again urged India to cooperate with the investigation into the death of a Sikh separatist.  <a href="https://nyti.ms/45WCdqB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
 <hr/>
@@ -85,12 +109,6 @@ Right now, there are a lot of international events happening. President Biden re
 <sub>By Suhasini Raj</sub>
 <p>Prime Minister Justin Trudeau of Canada accused Indian agents of involvement in the killing of a Sikh separatist in British Columbia. Who was he?  <a href="https://nyti.ms/3riOWEP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Load. Fire. Get to Cover.</h3>
-<sub>By Tyler Hicks</sub>
-<p>It was just a single moment in a war that at times feels endless, but an image of Ukrainian soldiers firing upon an unseen enemy captures the dangers of the front line.  <a href="https://nyti.ms/45XE26r"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Urgency Grows for DeSantis in Iowa as Trump Looks to Finish Him Off</h3>
@@ -105,34 +123,16 @@ Right now, there are a lot of international events happening. President Biden re
 <sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Voters in Pittsburgh Area Will Determine Balance in Pennsylvania House</h3>
+<h3>Pittsburgh-Area Voters Deliver Democrats Control of Pennsylvania House</h3>
 <sub>By David W. Chen</sub>
 <p>A special election to fill an open seat will decide which party controls the state’s evenly split lower chamber.  <a href="https://nyti.ms/46glL4d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>The Kids on the Night Shift</h3>
-<sub>By Hannah Dreier and Meridith Kohut</sub>
-<p>For Marcos Cux — and thousands of other migrant children — working dangerous jobs that violate child-labor laws is the only American dream there is.  <a href="https://nyti.ms/3Lv7Hfb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>Jann Wenner’s Rock Hall Reign Lasted Years. It Ended in 20 Minutes.</h3>
 <sub>By Ben Sisario</sub>
 <p>The day after the Rolling Stone co-founder made remarks widely criticized as racist and sexist in a Times interview, the Hall of Fame called an emergency vote and ousted him.  <a href="https://nyti.ms/3LqIyCk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-dining-blue" alt="">
-<h3>The Restaurant List 2023</h3>
-<sub></sub>
-<p>The 50 places in the United States that we’re most excited about right now.  <a href="https://nyti.ms/3Pr2OFe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>A Vanishing Nomadic Clan, With a Songlike Language All Their Own</h3>
-<sub>By Brendan Borrell and Joshua Irwandi</sub>
-<p>New genetic research confirms the oral history of a small group of nomadic people living in Indonesia’s rainforest.  <a href="https://nyti.ms/45Xq6JV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
