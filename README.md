@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, September 20, Central Standard Time</p>
 <p>
-The world is a turbulent place right now! In the US, right-wing House Republicans have derailed a G.O.P. bill from the Pentagon and there&#39;s also an election in Pennsylvania that will decide which party controls the state&#39;s lower chamber. Over in Ukraine, President Zelensky is appealing for global security against Putin&#39;s Russia, while Iran&#39;s president is making threats from the U.N. podium. Elsewhere, Biden aides and Saudis are exploring a defense treaty modeled after Asian pacts and Ukraine is renewing its push to get its grain out to the world. In Azerbaijan, there&#39;s a military operation underway in Nagorno-Karabakh that has left 25 people dead and Trudeau just rejected India&#39;s denial of involvement in an assassination in Canada. In other news, Jann Wenner was just ousted from the Rock Hall of Fame after making racist and sexist comments in an interview and Temple University had to say goodbye to its acting president JoAnne A. Epps after she became ill onstage.</p>
+There seem to be a lot of political and military tensions around the world right now. In the US, right-wing House Republicans have derailed a Pentagon bill, leading to warnings of a government shutdown. In Ukraine, President Zelensky is trying to gain global support for his country in its fight with Vladimir Putin’s Russia. Meanwhile in Iran, President Rouhani is threatening US officials from the UN podium. On a lighter note, Canada is trying to normalize relations with Saudi Arabia through some kind of security deal and Azerbaijan has started a military operation in Nagorno-Karabakh. Closer to home, there have some special elections in Pennsylvania resulting in Democrats maintaining control of the state’s lower chamber. Finally, Jann Wenner’s reign as head of the Rock Hall of Fame ended abruptly after he made racist and sexist remarks in an interview with The New York Times, and Temple University&#39;s very recently appointed acting president JoAnne A. Epps has passed away after becoming ill on stage.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Right-Wing House Republicans Derail Pentagon G.O.P. Bill, Rebuking McCarthy</h3>
@@ -84,12 +84,6 @@ The world is a turbulent place right now! In the US, right-wing House Republican
 <h3>Biden Aides and Saudis Explore Defense Treaty Modeled After Asian Pacts</h3>
 <sub>By Edward Wong and Mark Mazzetti</sub>
 <p>Despite U.S. fatigue over Middle East wars, the White House sees a security agreement resembling those with Japan or South Korea as an incentive for Saudi Arabia to normalize relations with Israel.  <a href="https://nyti.ms/3EIV4t5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Renews Push to Get Its Grain Out to the World</h3>
-<sub>By Matthew Mpoke Bigg</sub>
-<p>After a journey of 12 hours across waters caught up in the war, a ship carrying tons of wheat made it safely to Romanian waters, as Kyiv worked to transport grain overland, as well.  <a href="https://nyti.ms/3ZngSEa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -133,6 +127,12 @@ The world is a turbulent place right now! In the US, right-wing House Republican
 <sub>By Eduardo Medina</sub>
 <p>JoAnne A. Epps, who was appointed in April, was taken to a hospital after she became ill at a memorial service on the university’s campus in Philadelphia.  <a href="https://nyti.ms/3ER7Dm5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-dining-blue" alt="">
+<h3>The Restaurant List 2023</h3>
+<sub></sub>
+<p>The 50 places in the United States that we’re most excited about right now.  <a href="https://nyti.ms/3Pr2OFe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
