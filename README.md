@@ -60,12 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, September 20, Central Standard Time</p>
 <p>
-There&#39;s a lot happening in the world right now. In Ukraine, there has been a counteroffensive against Russian defenses that has made progress, but there are still challenges ahead. In the US, Republicans have accused Supreme Court nominee Merrick Garland of misleading Congress about the Hunter Biden investigation. US gas prices are at their highest in 11 months, which has implications on the Federal Reserve&#39;s rates. Biden is also meeting with Netanyahu after snubbing him earlier this year, while the White House is planning to create an &quot;American Climate Corps&quot; to train young people for green jobs to combat climate change. There&#39;s also a discussion about how much patients should be told about potentially risky treatments. In Morocco, a stretch of road across the Atlas mountains has become a lifeline for villages that were destroyed in an earthquake recently. Meanwhile in Iowa, Donald Trump is returning and his rivals are seeing this as their best chance to score against him politically. Lastly, interesting research suggests animals may be able to communicate using some form of language!</p>
+Currently there are a few things happening in the world. In the US, Republicans are accusing the Attorney General of misleading Congress about an investigation into the former president&#39;s son. In Ukraine, there has been a counteroffensive to breach Russian defenses. In Morocco, a devastating earthquake has left people navigating a perilous mountain pass as a lifeline. In Israel, President Biden is meeting with Prime Minister Netanyahu following a months-long delay. Lastly, Azerbaijan has declared it is ending its assault on an Armenian enclave.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>What Fed Rate Moves Mean for Mortgages, Credit Cards and More</h3>
+<sub>By Tara Siegel Bernard</sub>
+<p>Savers benefit from higher rates, but borrowers have faced bigger bills on credit cards, student loans and other forms of debt.  <a href="https://nyti.ms/3rkgt8W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Has Gained Ground. But It Has Much Farther to Go</h3>
-<sub>By Thomas Gibbons-Neff and Lauren Leatherby</sub>
-<p>Ukraine’s counteroffensive has breached Russian defenses, but progress has been grueling and slow. Familiar obstacles, fresh troops and worsening weather lie ahead.  <a href="https://nyti.ms/3PjV0oC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Biden meets Netanyahu, after monthslong delay.</h3>
+<sub>By Patrick Kingsley and Michael D. Shear</sub>
+<p>  <a href="https://nyti.ms/3PKs1LZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -74,28 +80,10 @@ There&#39;s a lot happening in the world right now. In Ukraine, there has been a
 <p>  <a href="https://nyti.ms/3LuHxJF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>What to watch at the Fed’s September meeting.</h3>
-<sub>By Jeanna Smialek</sub>
-<p>The Federal Reserve is unlikely to declare victory in its war on inflation. But investors will watch for any hint that rate increases might be over.  <a href="https://nyti.ms/46l3uCD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Gas Prices Have Crept Higher This Summer, a Challenge for the Fed</h3>
-<sub>By Santul Nerkar</sub>
-<p>Now at their highest level in 11 months, they can complicate the Federal Reserve’s campaign to rein in inflation.  <a href="https://nyti.ms/3PlCQ61"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Biden meets Netanyahu, after snubbing him all year.</h3>
-<sub>By Patrick Kingsley and Michael D. Shear</sub>
-<p>  <a href="https://nyti.ms/3PKs1LZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Wanted: 20,000 Young Americans to Fight Climate Change</h3>
-<sub>By Lisa Friedman</sub>
-<p>The White House plans to create an “American Climate Corps” that would train thousands of young people for green jobs.  <a href="https://nyti.ms/3Lr8NIX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Ukraine Has Gained Ground. But It Has Much Farther to Go</h3>
+<sub>By Thomas Gibbons-Neff and Lauren Leatherby</sub>
+<p>Ukraine’s counteroffensive has breached Russian defenses, but progress has been grueling and slow. Familiar obstacles, fresh troops and worsening weather lie ahead.  <a href="https://nyti.ms/3PjV0oC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
@@ -116,11 +104,11 @@ There&#39;s a lot happening in the world right now. In Ukraine, there has been a
 <p>After a light campaign schedule in the key early state, the former president is making five trips in the next six weeks.  <a href="https://nyti.ms/3PpMdBx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump’s Abortion Comments Expose a Line of Attack for Rivals in Iowa</h3>
-<sub>By Nicholas Nehamas and Maggie Haberman</sub>
-<p>After Donald Trump said a six-week ban signed by Ron DeSantis in Florida was “a terrible thing,” Iowa’s governor defended a similar law in her state, and others joined in the criticism.  <a href="https://nyti.ms/3rjK2aE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>New York Loves to Hate Him. Can a $2.3 Billion Sphere Redeem Jim Dolan?</h3>
+<sub>By Katherine Rosman</sub>
+<p>In Las Vegas, the chief executive of Madison Square Garden is set to open a behemoth arena that he hopes will revolutionize live entertainment. Back home in New York, he is facing the wrath of lawyers, politicians and sports fans.  <a href="https://nyti.ms/45WnrQp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
 <h3>The Animals Are Talking. What Does It Mean?</h3>
@@ -128,8 +116,20 @@ There&#39;s a lot happening in the world right now. In Ukraine, there has been a
 <p>Language was long understood as a human-only affair. New research suggests that isn’t so.  <a href="https://nyti.ms/46j1jzK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Michigan and the Auto Industry Share a Past. What About the Future?</h3>
+<sub>By Mitch Smith</sub>
+<p>Fewer Michigan residents work in auto manufacturing than before, but a strike by U.A.W. members is a reminder of what the industry still means to the state.  <a href="https://nyti.ms/3PodLHr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Michael Bloomberg Dials Up a War on Plastics</h3>
+<sub>By David Gelles</sub>
+<p>The former New York City mayor is spending some of his wealth to try to block the construction of petrochemical plants. But this fight may be tougher than his earlier efforts to close coal-burning power plants.  <a href="https://nyti.ms/48m9SeK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Azerbaijan Says It Stops Assault on Armenian Enclave</h3>
+<h3>Azerbaijan Says It Is Ending Its Assault on Armenian Enclave</h3>
 <sub>By Anton Troianovski and Ivan Nechepurenko</sub>
 <p>Pro-Armenian leaders in the breakaway region of Nagorno-Karabakh appeared to have surrendered to Azerbaijan’s demands. A calming of hostilities there could avert a wider war in the region.  <a href="https://nyti.ms/3rdXM70"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
