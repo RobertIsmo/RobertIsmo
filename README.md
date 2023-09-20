@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Tuesday, September 19, Central Standard Time</p>
+<p>It is Wednesday, September 20, Central Standard Time</p>
 <p>
-Right now, there&#39;s a lot of political chaos going on in the US with House Republicans derailing a GOP bill and Republicans resisting Speaker Kevin McCarthy as he tries to avoid another government shutdown. On a global level, Ukraine&#39;s president is appealing for broad support to counter Russian domination, Biden is calling for action on other crises besides Ukraine at the UN Assembly, while Iran&#39;s president is threatening US officials from the podium. There&#39;s also strife in Canada with Trudeau rejecting India&#39;s denial of involvement in an assassination there. Lastly, Jann Wenner of Rolling Stone was removed from the Hall of Fame following controversial remarks in an interview.</p>
+The world is a turbulent place right now! In the US, right-wing House Republicans have derailed a G.O.P. bill from the Pentagon and there&#39;s also an election in Pennsylvania that will decide which party controls the state&#39;s lower chamber. Over in Ukraine, President Zelensky is appealing for global security against Putin&#39;s Russia, while Iran&#39;s president is making threats from the U.N. podium. Elsewhere, Biden aides and Saudis are exploring a defense treaty modeled after Asian pacts and Ukraine is renewing its push to get its grain out to the world. In Azerbaijan, there&#39;s a military operation underway in Nagorno-Karabakh that has left 25 people dead and Trudeau just rejected India&#39;s denial of involvement in an assassination in Canada. In other news, Jann Wenner was just ousted from the Rock Hall of Fame after making racist and sexist comments in an interview and Temple University had to say goodbye to its acting president JoAnne A. Epps after she became ill onstage.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Right-Wing House Republicans Derail Pentagon G.O.P. Bill, Rebuking McCarthy</h3>
@@ -75,15 +75,15 @@ Right now, there&#39;s a lot of political chaos going on in the US with House Re
 <sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Biden, in U.N. Speech, Calls for Action on Ukraine and Other Crises</h3>
-<sub>By Michael D. Shear and Peter Baker</sub>
-<p>As other major leaders skipped the annual opening session of the General Assembly, Mr. Biden used his address to try to counter war fatigue both at home and abroad.  <a href="https://nyti.ms/3RuJsBO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Iran’s president threatens U.S. officials from the U.N. podium, dimming hopes for a rapprochement.</h3>
 <sub>By Farnaz Fassihi</sub>
 <p>  <a href="https://nyti.ms/3rjfeH1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Aides and Saudis Explore Defense Treaty Modeled After Asian Pacts</h3>
+<sub>By Edward Wong and Mark Mazzetti</sub>
+<p>Despite U.S. fatigue over Middle East wars, the White House sees a security agreement resembling those with Japan or South Korea as an incentive for Saudi Arabia to normalize relations with Israel.  <a href="https://nyti.ms/3EIV4t5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -92,10 +92,10 @@ Right now, there&#39;s a lot of political chaos going on in the US with House Re
 <p>After a journey of 12 hours across waters caught up in the war, a ship carrying tons of wheat made it safely to Romanian waters, as Kyiv worked to transport grain overland, as well.  <a href="https://nyti.ms/3ZngSEa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Aides and Saudis Explore Defense Treaty Modeled After Asian Pacts</h3>
-<sub>By Edward Wong and Mark Mazzetti</sub>
-<p>Despite U.S. fatigue over Middle East wars, the White House sees a security agreement resembling those with Japan or South Korea as an incentive for Saudi Arabia to normalize relations with Israel.  <a href="https://nyti.ms/3EIV4t5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Azerbaijan Begins a Military Operation in Nagorno-Karabakh</h3>
+<sub>By Ivan Nechepurenko</sub>
+<p>The action in the Armenian enclave of Nagorno-Karabakh has left 25 people dead, the authorities say. And it’s raising fears of an expanding conflict.  <a href="https://nyti.ms/46jGEeD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -122,16 +122,16 @@ Right now, there&#39;s a lot of political chaos going on in the US with House Re
 <p>After Donald Trump said a six-week ban signed by Ron DeSantis in Florida was “a terrible thing,” Iowa’s governor defended a similar law in her state, and others joined in the criticism.  <a href="https://nyti.ms/48pSBkT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Urgency Grows for DeSantis in Iowa as Trump Looks to Finish Him Off</h3>
-<sub>By Nicholas Nehamas</sub>
-<p>Despite spending far more time campaigning across the must-win state, Ron DeSantis still trails Donald Trump by double digits. And now Mr. Trump is stepping up his visits.  <a href="https://nyti.ms/45WmBmZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>Jann Wenner’s Rock Hall Reign Lasted Years. It Ended in 20 Minutes.</h3>
 <sub>By Ben Sisario</sub>
 <p>The day after the Rolling Stone co-founder made remarks widely criticized as racist and sexist in a Times interview, the Hall of Fame called an emergency vote and ousted him.  <a href="https://nyti.ms/3LqIyCk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Temple University’s Acting President Dies After Becoming Ill Onstage</h3>
+<sub>By Eduardo Medina</sub>
+<p>JoAnne A. Epps, who was appointed in April, was taken to a hospital after she became ill at a memorial service on the university’s campus in Philadelphia.  <a href="https://nyti.ms/3ER7Dm5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
 <hr/>
 </ol>
