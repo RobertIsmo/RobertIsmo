@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, September 19, Central Standard Time</p>
 <p>
-I recently heard about some major geo-political events happening around the world. In the United States, right-wing House Republicans derailed a Pentagon G.O.P bill proposed by Speaker Kevin McCarthy. Meanwhile, in Ukraine their president called for collective action on major crises at the United Nations assembly. In response, Iran&#39;s president threatened U.S. officials from the same podium, dimming hopes of a rapprochement between the two countries. Ukraine is also pushing to get its grain out to the world by sea and over land, while Canada accuses India of instigation in the killing of a Sikh separatist and seeks cooperation in an investigation into his death. Lastly, in Asia, Biden aides are exploring a defense treaty with Saudi Arabia modeled after security agreements between Japan and South Korea. Closer to home, there is urgency in Iowa as Trump steps up visits, Pennsylvania will soon start automatic voter registration, and a special election in Pittsburgh could decide control of Pennsylvania&#39;s House. There&#39;s also news that Jann Wenner was voted off from the Rock Hall of Fame due to comments he made during an interview which were deemed as sexist and racist.</p>
+Right now, there&#39;s a lot of political chaos going on in the US with House Republicans derailing a GOP bill and Republicans resisting Speaker Kevin McCarthy as he tries to avoid another government shutdown. On a global level, Ukraine&#39;s president is appealing for broad support to counter Russian domination, Biden is calling for action on other crises besides Ukraine at the UN Assembly, while Iran&#39;s president is threatening US officials from the podium. There&#39;s also strife in Canada with Trudeau rejecting India&#39;s denial of involvement in an assassination there. Lastly, Jann Wenner of Rolling Stone was removed from the Hall of Fame following controversial remarks in an interview.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Right-Wing House Republicans Derail Pentagon G.O.P. Bill, Rebuking McCarthy</h3>
@@ -75,9 +75,9 @@ I recently heard about some major geo-political events happening around the worl
 <sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In his U.N. speech, President Biden called for collective action on Ukraine and other major crises.</h3>
+<h3>Biden, in U.N. Speech, Calls for Action on Ukraine and Other Crises</h3>
 <sub>By Michael D. Shear and Peter Baker</sub>
-<p>  <a href="https://nyti.ms/48oxsYC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>As other major leaders skipped the annual opening session of the General Assembly, Mr. Biden used his address to try to counter war fatigue both at home and abroad.  <a href="https://nyti.ms/3RuJsBO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -111,21 +111,21 @@ I recently heard about some major geo-political events happening around the worl
 <sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Democrats Keep Control of Pennsylvania House</h3>
+<sub>By David W. Chen</sub>
+<p>A special election to fill an open seat will decide which party controls the state’s evenly split lower chamber.  <a href="https://nyti.ms/46glL4d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump’s Abortion Comments Expose a Line of Attack for Rivals in Iowa</h3>
+<sub>By Nicholas Nehamas and Maggie Haberman</sub>
+<p>After Donald Trump said a six-week ban signed by Ron DeSantis in Florida was “a terrible thing,” Iowa’s governor defended a similar law in her state, and others joined in the criticism.  <a href="https://nyti.ms/48pSBkT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Urgency Grows for DeSantis in Iowa as Trump Looks to Finish Him Off</h3>
 <sub>By Nicholas Nehamas</sub>
 <p>Despite spending far more time campaigning across the must-win state, Ron DeSantis still trails Donald Trump by double digits. And now Mr. Trump is stepping up his visits.  <a href="https://nyti.ms/45WmBmZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Pennsylvania Will Start Automatic Voter Registration</h3>
-<sub>By Neil Vigdor</sub>
-<p>Nearly half of all states have similar programs that combine getting a driver’s license or state ID card with registering to vote.  <a href="https://nyti.ms/3PmoIt3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Pittsburgh-Area Voters Deliver Democrats Control of Pennsylvania House</h3>
-<sub>By David W. Chen</sub>
-<p>A special election to fill an open seat will decide which party controls the state’s evenly split lower chamber.  <a href="https://nyti.ms/46glL4d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
