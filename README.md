@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Wednesday, September 20, Central Standard Time</p>
+<p>It is Thursday, September 21, Central Standard Time</p>
 <p>
-Things are a bit hectic right now. The US government announced that it will allow nearly 500,000 Venezuelan migrants to work in the country legally. In Texas, local and federal authorities are struggling to respond to an influx of border crossings. In the Senate, Tommy Tuberville has been blocking military promotions but that could be sidestepped soon. Attorney General Merrick Garland is facing some Republican efforts to drag up details around Hunter Biden&#39;s investigations and he&#39;s not amused. Meanwhile, newly-appointed Chairman of the Joint Chiefs of Staff Charles Q. Brown Jr. is making his way through the Senate confirmation process and likely to make it past Tuberville&#39;s blockade. Hunter Biden is due for court next week, although his lawyer says he will plead not guilty on three gun charges. On the national level, President Biden is caught in between allies Canada and India following Canada&#39;s accusation of assassination against India. In the international arena, Sikhs and Hindus are even further divided as a result of this news. And finally, Google&#39;s new chatbot has just gotten more powerful but is still erratic, and OpenAI released a new version of its DALL-E image generator as well as incorporating it into their ChatGPT chatbot.</p>
+There&#39;s a lot happening in the world right now. In the US, officials are scrambling to respond to a sudden surge of migrants crossing the Texas border, while Senate Republicans try to block President Biden&#39;s appointment of a new head for the Joint Chiefs of Staff. On an international level, Ukrainian President Zelensky brought attention to Russia&#39;s veto power at the UN Security Council and Azerbaijan has regained territorial control over Armenian enclaves. Gabe Garland, the US Attorney General also recently testified before the House Judiciary Committee about Hunter Biden&#39;s inquiries. Meanwhile, Florida governor DeSantis slammed Biden&#39;s climate policies and two long-shot Republican hopefuls for president may not make it onto the next GOP debate stage. In the tech world, Google has made its chatbot Bard more powerful by integrating Gmail, Google Docs, and Google Drive accounts. OpenAI&#39;s ChatGPT chatbot has also seen improvements with a new version of its image generator DALL-E.</p>
 <ol>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>U.S. Will Allow Nearly 500,000 Venezuelan Migrants to Work Legally</h3>
@@ -80,6 +80,24 @@ Things are a bit hectic right now. The US government announced that it will allo
 <p>The Senate backed Gen. Charles Q. Brown Jr. of the Air Force for chairman and planned to advance promotions of two other military officials blockaded by Senator Tommy Tuberville of Alabama.  <a href="https://nyti.ms/451ypDc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russia Strikes Cities Across Ukraine Hours After Zelensky Speech at U.N.</h3>
+<sub>By Victoria Kim and Matthew Mpoke Bigg</sub>
+<p>Civilians rushed to shelters in Lviv, in far western Ukraine, and Kyiv, where at least seven people were hurt.  <a href="https://nyti.ms/3sZSVXA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Zelensky Tells U.N. Security Council It’s Useless While Russia Has a Veto</h3>
+<sub>By Richard Pérez-Peña, Farnaz Fassihi and Michael Crowley</sub>
+<p>The Ukrainian president joined many world leaders in calling for changes at the Security Council, where five permanent members wield veto power — a high barrier to taking action.  <a href="https://nyti.ms/46k2peA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Azerbaijan Reclaims Armenian Enclave, Shifting Region’s Political Dynamics</h3>
+<sub>By Ivan Nechepurenko and Anton Troianovski</sub>
+<p>Pro-Armenian leaders in the breakaway region of Nagorno-Karabakh appeared to have surrendered to Azerbaijan’s demands.  <a href="https://nyti.ms/3rdXM70"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Garland Rebuffs Republicans’ Efforts to Reveal Details on Hunter Biden Inquiry</h3>
 <sub>By Glenn Thrush</sub>
@@ -90,12 +108,6 @@ Things are a bit hectic right now. The US government announced that it will allo
 <h3>Takeaways From Garland’s Testimony Before the House Judiciary Committee</h3>
 <sub>By Glenn Thrush</sub>
 <p>While some of the questions hurled at Attorney General Merrick B. Garland were an attempt to pry free information, many were overtly partisan or based on distortion, insinuation and misinformation.  <a href="https://nyti.ms/3EKn67C"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Judge Rejects Hunter Biden’s Request for Remote Arraignment</h3>
-<sub>By Glenn Thrush</sub>
-<p>The president’s son will make his first court appearance on three gun charges next week. His lawyer has said he will plead not guilty.  <a href="https://nyti.ms/3PLGFTe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -120,18 +132,6 @@ Things are a bit hectic right now. The US government announced that it will allo
 <h3>ChatGPT Can Now Generate Images, Too</h3>
 <sub>By Cade Metz and Tiffany Hsu</sub>
 <p>OpenAI released a new version of its DALL-E image generator to a small group of testers and incorporated the technology into its popular ChatGPT chatbot.  <a href="https://nyti.ms/3roMz3t"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Is Caught Between Allies as Canada Accuses India of Assassination</h3>
-<sub>By Peter Baker</sub>
-<p>President Biden has prioritized bolstering partnerships over full-throated advocacy for democracy among American allies.  <a href="https://nyti.ms/458MX44"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Canada’s Assassination Claim Further Divides Its Indian Diaspora</h3>
-<sub>By Vjosa Isai and Ian Austen</sub>
-<p>The charge that the Indian government is linked to the killing of a Sikh separatist may fuel the rift between Canada’s Sikhs and Hindus.  <a href="https://nyti.ms/3rkLWYC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
 <hr/>
 </ol>
