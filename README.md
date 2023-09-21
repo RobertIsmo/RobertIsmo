@@ -60,24 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, September 21, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now! In the US, hard-right Republicans are blocking the defense budget bill and defying House Speaker Kevin McCarthy. Meanwhile, the Biden administration has announced that nearly 500,000 Venezuelan migrants will be allowed to work legally in the US. Mexico is feeling a lot of pressure from increased migration from South America, and this work authorization might draw even more people to the US. Elsewhere, the media empire led by Rupert Murdoch is changing with his retirement from Fox and News Corporation boards, leaving his son Lachlan in charge. There&#39;s also conflict over Nagorno-Karabakh, and former President Jimmy Carter marked his 99th birthday while in hospice. For Tesla and Musk, there could be both benefits and risks involved with an auto strike. Additionally, Federal Reserve officials forecast higher interest rates through 2026, meaning borrowing won&#39;t return to pre-pandemic levels anytime soon. Lastly, the White House is directing agencies to account for climate change in their budgets, which may come with legal and logistical challenges.</p>
+There are a lot of changes going on in the world right now. In Venezuela, hundreds of thousands of migrants have been granted work permits in the United States. Meanwhile, President Biden is facing competing pressures from both sides of the aisle in regards to the U.S. immigration crisis, while Mexico is feeling increasing pressure from South American migrants trekking north. Closer to home, Rupert Murdoch is stepping down from his media empire and Elon Musk is navigating a strike by the United Automobile Workers union. Finally, Federal Reserve officials recently forecast higher interest rates through 2026.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Right-Wing Rebels Block Defense Bill Again, Rebuking McCarthy on Spending</h3>
-<sub>By Annie Karni</sub>
-<p>It was the second time in a week that hard-right Republicans had defied Speaker Kevin McCarthy on a spending measure, signaling that there was still no G.O.P. agreement on a bill to fund the government.  <a href="https://nyti.ms/3ETRKLH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Venezuelan Migrants Scored a Big Victory. How Will It Affect New York?</h3>
+<sub>By Nicholas Fandos</sub>
+<p>With nearly 500,000 Venezuelan migrants able to legally work, N.Y. officials were weighing the practical and political impact of a complex decision.  <a href="https://nyti.ms/46pi9gt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>U.S. Will Allow Nearly 500,000 Venezuelan Migrants to Work Legally</h3>
-<sub>By Nicholas Fandos</sub>
-<p>The move, announced late Wednesday, followed intense lobbying by New York Democrats before and during President Biden’s visit to New York City this week.  <a href="https://nyti.ms/453AKgR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Mexico Feels Pressure of Relentless Migration From South America</h3>
-<sub>By James Fredrick</sub>
-<p>The surge of migrants trekking north mostly from South America has placed increasing pressure on Mexico as the country applies a range of tactics to quell arrivals.  <a href="https://nyti.ms/3Pui5oy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Faces Competing Pressures as He Tries to Ease the Migrant Crisis</h3>
+<sub>By Michael D. Shear and Luis Ferré-Sadurní</sub>
+<p>The situation provides ammunition to conservative Republicans who are vowing to shut down the government unless Congress agrees to harsh new anti-immigration measures.  <a href="https://nyti.ms/3Pqq1Hx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -86,17 +80,29 @@ There is a lot going on in the world right now! In the US, hard-right Republican
 <p>The Biden administration will grant work permits to hundreds of thousands of migrants, a move welcomed by the leaders of big cities, especially New York.  <a href="https://nyti.ms/48oibqw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 21, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Mexico Feels Pressure of Relentless Migration From South America</h3>
+<sub>By James Fredrick</sub>
+<p>The surge of migrants trekking north mostly from South America has placed increasing pressure on Mexico as the country applies a range of tactics to quell arrivals.  <a href="https://nyti.ms/3roWru2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Right-Wing Rebels Block Defense Bill Again, Rebuking McCarthy on Spending</h3>
+<sub>By Annie Karni</sub>
+<p>It was the second time in a week that hard-right Republicans had defied Speaker Kevin McCarthy on a spending measure, signaling that there was still no G.O.P. agreement on a bill to fund the government.  <a href="https://nyti.ms/3ETRKLH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 21, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Rupert Murdoch to Retire From Fox and News Corporation Boards</h3>
 <sub>By Jim Rutenberg</sub>
 <p>The move leaves his son Lachlan as the sole executive in charge of the global media empire.  <a href="https://nyti.ms/46ihME5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>How Rupert Murdoch’s Empire of Influence Remade the World</h3>
-<sub>By Jonathan Mahler and Jim Rutenberg</sub>
-<p>Murdoch and his children have toppled governments on two continents and destabilized the most important democracy on Earth. What do they want?  <a href="https://nyti.ms/2K1MvA0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 3, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>How Rupert Murdoch Built His Media Empire</h3>
+<sub>By J. Edward Moreno</sub>
+<p>Over seven decades, the Australian-born magnate compiled an array of news outlets, book publishers, and film and television properties into a global behemoth.  <a href="https://nyti.ms/48nVX7Y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>As Armenia and Azerbaijan Clash, Russia Is a Distracted Spectator</h3>
@@ -113,7 +119,7 @@ There is a lot going on in the world right now! In the US, hard-right Republican
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>For Tesla and Musk, Auto Strike Carries Benefits and Risks</h3>
 <sub>By Jack Ewing</sub>
-<p>Elon Musk, the Tesla chief executive, may be able to exploit his rivals’ weaknesses, but the United Auto Workers union also has the electric carmaker in its sights.  <a href="https://nyti.ms/48qQEoe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Elon Musk, the Tesla chief executive, may be able to exploit his rivals’ weaknesses, but the United Automobile Workers union also has the electric carmaker in its sights.  <a href="https://nyti.ms/48qQEoe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -124,15 +130,9 @@ There is a lot going on in the world right now! In the US, hard-right Republican
 <hr/>
 <img src="https://img.shields.io/badge/-well-blue" alt="">
 <h3>Being 13</h3>
-<sub>By Jessica Bennett</sub>
+<sub>By JESSICA BENNETT</sub>
 <p>Three girls, one year. This is what it’s like to be 13 today, in a world that can’t stop talking about the dire state of your future.  <a href="https://nyti.ms/3rnG6FY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>White House Directs Agencies to Account for Climate Change in Budgets</h3>
-<sub>By Coral Davenport</sub>
-<p>The directive is intended to embed the cost of climate change into all federal agencies. But it is not legally binding and could come with legal and logistical challenges.  <a href="https://nyti.ms/3Ptrr3T"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
