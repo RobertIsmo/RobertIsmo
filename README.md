@@ -60,10 +60,34 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, September 21, Central Standard Time</p>
 <p>
-There are a lot of international news stories happening right now. In Washington, President Zelensky from Ukraine is visiting the US to shore up support after some Republicans have spoken out against more aid for the country. In Nagorno-Karabakh, Armenia and Azerbaijan have met to discuss the future of Armenian residents who don&#39;t want to come under Azerbaijani rule. At the same time, the American government is allowing nearly half a million Venezuelan migrants to work legally in the US as part of the Biden administration&#39;s plan to stop migrants heading to the American border. Meanwhile, India has suspended visas for Canadian citizens after Canada accused them of killing a Canadian citizen who supported a separatist cause. This has caused tension between India and Canada, as well as between Indian diaspora in Canada. In three Southern States, there are legal battles over political maps that experts believe disfavor Black voters. Lastly, there’s intensified fighting in Darfur between rival military factions which has had deadly consequences.</p>
+There is a lot going on in the world right now. In the U.S., the Biden administration has announced they will allow nearly 500,000 Venezuelan migrants to work legally. They&#39;re also trying to keep migrants away from the border by setting up processing centers in Latin American countries. Meanwhile, media mogul Rupert Murdoch is retiring from Fox and News Corporation boards, leaving his son Lachlan as the lone executive in charge of their global media empire. Overseas, Ukrainian President Volodymyr Zelensky is making a visit to Washington to try and shore up support among a growing number of Republicans who oppose more assistance for Ukraine. In Nagorno-Karabakh, Armenia and Azerbaijan are discussing the future of its residents after Armenia&#39;s surrender, and Russia seems to be a distracted spectator. Meanwhile in India, they&#39;ve suspended visas for Canadians after Canada accused India of involvement in an assassination. Also in Asia, Hong Kong is doing its best to remain an international financial hub despite close ties to Beijing that have investors worried. Lastly, in Darfur renewed fighting between rival military factions has hundreds dead and thousands fleeing, while lawmakers in Alabama, Georgia and Louisiana are fighting over congressional maps that disfavor Black voters.</p>
 <ol>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>U.S. Will Allow Nearly 500,000 Venezuelan Migrants to Work Legally</h3>
+<sub>By Nicholas Fandos</sub>
+<p>The move, announced late Wednesday, followed intense lobbying by New York Democrats before and during President Biden’s visit to New York City this week.  <a href="https://nyti.ms/453AKgR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Biden Plan Seeks to Keep Migrants Away From the Border. Will It Work?</h3>
+<sub>By Genevieve Glatsky and Zolan Kanno-Youngs</sub>
+<p>By opening migration processing centers in three Latin American countries, the Biden administration is trying to coax people not to make a harrowing trek to the border.  <a href="https://nyti.ms/45X6bL5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Rupert Murdoch to Retire From Fox and News Corporation Boards</h3>
+<sub>By Jim Rutenberg</sub>
+<p>The move leaves his son Lachlan as the sole executive in charge of the global media empire.  <a href="https://nyti.ms/46ihME5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>How Rupert Murdoch’s Empire of Influence Remade the World</h3>
+<sub>By Jonathan Mahler and Jim Rutenberg</sub>
+<p>Murdoch and his children have toppled governments on two continents and destabilized the most important democracy on Earth. What do they want?  <a href="https://nyti.ms/2K1MvA0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 3, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Washington Visit, Zelensky Will Try to Shore Up Critical Support</h3>
+<h3>In Washington Visit, Zelensky Tries to Shore Up Critical Support</h3>
 <sub>By Erica L. Green</sub>
 <p>President Volodymyr Zelensky will meet with President Biden and members of Congress as a growing number of Republicans oppose further assistance for Ukraine.  <a href="https://nyti.ms/3Lw2xiV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 21, Central Standard Time</sub></sub>
@@ -74,41 +98,17 @@ There are a lot of international news stories happening right now. In Washington
 <p>Officials of the breakaway region met with representatives of Azerbaijan to talk about the future of its residents, many of whom strongly resist the idea of coming under Azerbaijani rule.  <a href="https://nyti.ms/3Zppr1g"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>U.S. Will Allow Nearly 500,000 Venezuelan Migrants to Work Legally</h3>
-<sub>By Nicholas Fandos</sub>
-<p>The move, announced late Wednesday, followed intense lobbying by New York Democrats before and during President Biden’s visit to New York City this week.  <a href="https://nyti.ms/453AKgR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>U.S. Wants to Keep Migrants Away From the Border by Moving It South</h3>
-<sub>By Genevieve Glatsky and Zolan Kanno-Youngs</sub>
-<p>By opening migration processing centers in three Latin American countries, the Biden administration is trying to coax people not to make a harrowing trek to the border.  <a href="https://nyti.ms/45X6bL5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Officials Scramble to Respond as Migrants Overwhelm Texas City</h3>
-<sub>By J. David Goodman, Edgar Sandoval, Miriam Jordan and Eileen Sullivan</sub>
-<p>The mayor of Eagle Pass said 2,500 migrants arrived in one day, part of a recent surge in crossings along the border that has taxed local, state and federal resources.  <a href="https://nyti.ms/46bMkaU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
+<h3>As Armenia and Azerbaijan Clash, Russia Is a Distracted Spectator</h3>
+<sub>By Andrew Higgins</sub>
+<p>In the conflict over Nagorno-Karabakh, Russia, drained by the war in Ukraine, seemed incapable of acting as the indispensable power capable of knocking heads together.  <a href="https://nyti.ms/3rrzXII"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>India Suspends Visas for Canadians, Escalating Clash Over Sikh’s Killing</h3>
 <sub>By Suhasini Raj and Yan Zhuang</sub>
 <p>The move followed Canada’s claim of Indian government involvement in the assassination of a Canadian citizen who supported a separatist cause.  <a href="https://nyti.ms/3ENzKCT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Is Caught Between Allies as Canada Accuses India of Assassination</h3>
-<sub>By Peter Baker</sub>
-<p>President Biden has prioritized bolstering partnerships over full-throated advocacy for democracy among American allies.  <a href="https://nyti.ms/458MX44"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Canada’s Assassination Claim Further Divides Its Indian Diaspora</h3>
-<sub>By Vjosa Isai and Ian Austen</sub>
-<p>The charge that the Indian government is linked to the killing of a Sikh separatist may fuel the rift between Canada’s Sikhs and Hindus.  <a href="https://nyti.ms/3rkLWYC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-t-magazine-blue" alt="">
 <h3>Inside the Elaborate, Enviable Design of Three New York Homes</h3>
