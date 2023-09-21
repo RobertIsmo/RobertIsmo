@@ -60,26 +60,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, September 21, Central Standard Time</p>
 <p>
-There is a lot going on around the world right now. In Ukraine, the president has criticized the United Nations Security Council for its inability to take action against Russia due to its veto power. In Azerbaijan, pro-Armenian leaders have given up control of the breakaway region of Nagorno-Karabakh after Azerbaijan escalated the conflict. 
-The US government has allowed nearly 500,000 Venezuelans living in the US to work legally, while also struggling to respond to a huge influx of Central American migrants along the Texas border. Senate confirmed General Charles Q. Brown Jr. as Chairman of the Joint Chiefs of Staff despite confrontation from Republican Senator Tommy Tubeville. Meanwhile, Attorney General Merrick B. Garland testified before Congress that prosecutors won&#39;t be intimidated by former President Trump&#39;s allies. The current climate debate was given an aggressive spin when Florida Governor Ron DeSantis called out President Biden’s climate policy as “an agenda to control you” during a speech in Texas. On top of all this, two long-shot Republican hopefuls may not make it onto the next G.O.P. debate stage due to low poll numbers. 
-In technology news, Google&#39;s voice assistant Bard has expanded its capabilities, but is still far from perfect. OpenAI has released a new version of its DALL-E image generator and incorporated it into their popular ChatGPT chatbot; both of which are available for testing purposes at the moment.</p>
+There are a lot of international news stories happening right now. In Washington, President Zelensky from Ukraine is visiting the US to shore up support after some Republicans have spoken out against more aid for the country. In Nagorno-Karabakh, Armenia and Azerbaijan have met to discuss the future of Armenian residents who don&#39;t want to come under Azerbaijani rule. At the same time, the American government is allowing nearly half a million Venezuelan migrants to work legally in the US as part of the Biden administration&#39;s plan to stop migrants heading to the American border. Meanwhile, India has suspended visas for Canadian citizens after Canada accused them of killing a Canadian citizen who supported a separatist cause. This has caused tension between India and Canada, as well as between Indian diaspora in Canada. In three Southern States, there are legal battles over political maps that experts believe disfavor Black voters. Lastly, there’s intensified fighting in Darfur between rival military factions which has had deadly consequences.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Zelensky Tells U.N. Security Council It’s Useless While Russia Has a Veto</h3>
-<sub>By Richard Pérez-Peña, Farnaz Fassihi and Michael Crowley</sub>
-<p>The Ukrainian president joined many world leaders in calling for changes at the Security Council, where five permanent members wield veto power — a high barrier to taking action.  <a href="https://nyti.ms/46k2peA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Washington Visit, Zelensky Will Try to Shore Up Critical Support</h3>
+<sub>By Erica L. Green</sub>
+<p>President Volodymyr Zelensky will meet with President Biden and members of Congress as a growing number of Republicans oppose further assistance for Ukraine.  <a href="https://nyti.ms/3Lw2xiV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Azerbaijan Reclaims Armenian Enclave, Shifting Region’s Political Dynamics</h3>
-<sub>By Ivan Nechepurenko and Anton Troianovski</sub>
-<p>Pro-Armenian leaders in the breakaway region of Nagorno-Karabakh appeared to have surrendered to Azerbaijan’s demands.  <a href="https://nyti.ms/3rdXM70"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
+<h3>After Surrender in Nagorno-Karabakh, Leaders Discuss Armenians’ Fate</h3>
+<sub>By Ivan Nechepurenko</sub>
+<p>Officials of the breakaway region met with representatives of Azerbaijan to talk about the future of its residents, many of whom strongly resist the idea of coming under Azerbaijani rule.  <a href="https://nyti.ms/3Zppr1g"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>U.S. Will Allow Nearly 500,000 Venezuelan Migrants to Work Legally</h3>
 <sub>By Nicholas Fandos</sub>
 <p>The move, announced late Wednesday, followed intense lobbying by New York Democrats before and during President Biden’s visit to New York City this week.  <a href="https://nyti.ms/453AKgR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>U.S. Wants to Keep Migrants Away From the Border by Moving It South</h3>
+<sub>By Genevieve Glatsky and Zolan Kanno-Youngs</sub>
+<p>By opening migration processing centers in three Latin American countries, the Biden administration is trying to coax people not to make a harrowing trek to the border.  <a href="https://nyti.ms/45X6bL5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -88,53 +92,47 @@ In technology news, Google&#39;s voice assistant Bard has expanded its capabilit
 <p>The mayor of Eagle Pass said 2,500 migrants arrived in one day, part of a recent surge in crossings along the border that has taxed local, state and federal resources.  <a href="https://nyti.ms/46bMkaU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Senate Confirms Chairman of Joint Chiefs of Staff, Sidestepping Tuberville Blockade</h3>
-<sub>By Karoun Demirjian and Kayla Guo</sub>
-<p>The Senate backed Gen. Charles Q. Brown Jr. of the Air Force for chairman and planned to advance promotions of two other military officials blockaded by Senator Tommy Tuberville of Alabama.  <a href="https://nyti.ms/451ypDc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Garland Rebuffs Republicans’ Efforts to Reveal Details on Hunter Biden Inquiry</h3>
-<sub>By Glenn Thrush</sub>
-<p>The soft-spoken attorney general struck a sharper tone during testimony before the Judiciary Committee, saying prosecutors won’t be “intimidated” by threats from Trump allies.  <a href="https://nyti.ms/46hEQTx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Takeaways From Garland’s Testimony Before the House Judiciary Committee</h3>
-<sub>By Glenn Thrush</sub>
-<p>While some of the questions hurled at Attorney General Merrick B. Garland were an attempt to pry free information, many were overtly partisan or based on distortion, insinuation and misinformation.  <a href="https://nyti.ms/3EKn67C"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis Slams Biden Climate Policy: ‘An Agenda to Control You’</h3>
-<sub>By Anjali Huynh</sub>
-<p>The Florida governor delivered an address in Texas that favored oil and gas development over climate agreements and electric vehicles.  <a href="https://nyti.ms/3ZG0QFP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Doug Burgum and Asa Hutchinson May Miss the Cut for the Next G.O.P. Debate</h3>
-<sub>By Neil Vigdor</sub>
-<p>Low poll numbers could keep the long-shot Republicans off the stage next Wednesday in the second presidential primary debate.  <a href="https://nyti.ms/3EK906j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Google’s Bard Just Got More Powerful. It’s Still Erratic.</h3>
-<sub>By Kevin Roose</sub>
-<p>The chatbot now pulls information from a user’s Gmail, Google Docs and Google Drive accounts. The feature leaves a lot to be desired.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>ChatGPT Can Now Generate Images, Too</h3>
-<sub>By Cade Metz and Tiffany Hsu</sub>
-<p>OpenAI released a new version of its DALL-E image generator to a small group of testers and incorporated the technology into its popular ChatGPT chatbot.  <a href="https://nyti.ms/3roMz3t"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>India Suspends Visas for Canadians, Escalating Clash Over Sikh’s Killing</h3>
+<sub>By Suhasini Raj and Yan Zhuang</sub>
+<p>The move followed Canada’s claim of Indian government involvement in the assassination of a Canadian citizen who supported a separatist cause.  <a href="https://nyti.ms/3ENzKCT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Is Caught Between Allies as Canada Accuses India of Assassination</h3>
 <sub>By Peter Baker</sub>
 <p>President Biden has prioritized bolstering partnerships over full-throated advocacy for democracy among American allies.  <a href="https://nyti.ms/458MX44"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Canada’s Assassination Claim Further Divides Its Indian Diaspora</h3>
+<sub>By Vjosa Isai and Ian Austen</sub>
+<p>The charge that the Indian government is linked to the killing of a Sikh separatist may fuel the rift between Canada’s Sikhs and Hindus.  <a href="https://nyti.ms/3rkLWYC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-t-magazine-blue" alt="">
+<h3>Inside the Elaborate, Enviable Design of Three New York Homes</h3>
+<sub></sub>
+<p>On Washington Square Park, in Harlem and on the coast in Montauk, several creative people renovate their spaces with an essential New York trait in mind: resourcefulness.  <a href="https://nyti.ms/3rlpG0G"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Hong Kong Says It Calls the Shots, Not Beijing. Investors Are Wary.</h3>
+<sub>By Alexandra Stevenson</sub>
+<p>Its close ties to Beijing are putting the city, still an international financial hub, in a bind as it lures Western investors to revive its economy.  <a href="https://nyti.ms/3LvPk9P"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Darfur’s New Generation, Once Full of Promise, Now Suffers ‘Fire of War’</h3>
+<sub>By Abdi Latif Dahir</sub>
+<p>In a region with a history of genocide, weeks of intense fighting between rival military factions in South Darfur have left hundreds dead and sent thousands fleeing.  <a href="https://nyti.ms/3ENavjX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Three Southern States, a Legal Battle Over Political Maps</h3>
+<sub>By Michael Wines</sub>
+<p>G.O.P. legislatures in Alabama, Georgia and Louisiana are contesting federal orders to redraw congressional maps that disfavor Black voters. The stakes are enormous.  <a href="https://nyti.ms/3rn3JOU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
