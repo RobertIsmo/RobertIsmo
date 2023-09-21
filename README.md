@@ -60,19 +60,36 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, September 20, Central Standard Time</p>
 <p>
-Right now there is a lot going on in the world. In the US, the Senate just voted to confirm Gen. Charles Q. Brown Jr. of the Air Force as the next chairman, despite a block put up by Senator Tommy Tuberville of Alabama. Attorney General Garland is refusing to give details on a Hunter Biden inquiry and turning awayRepublican efforts. Hunter Biden will be appearing in court next week on gun charges and Florida governor DeSantis slammed Biden&#39;s climate policy while two long-shot Republicans may miss the cut for the next GOP debate. 
-In terms of technology, Google&#39;s chatbot Bard just got more powerful but it is still erratic and another chatbot called ChatGPT is able to generate images now. Internationally, President Biden finds himself caught between allies Canada and Indiawhile Canadian Sikhs and Hindus are further divided over Canada&#39;s accusation that Indian government is linked to a killing of a Sikh separatist. Ukrainian President Zelensky spoke to the UN security council about the correspondingly high barrier taking action due to five permanent veto-wielding members. And finally, there are Republicans inching closer to a spending deal that will likely spark a shutdown showdown with the Senate over deeper cuts proposed by Speaker McCarthy.</p>
+Things are a bit hectic right now. The US government announced that it will allow nearly 500,000 Venezuelan migrants to work in the country legally. In Texas, local and federal authorities are struggling to respond to an influx of border crossings. In the Senate, Tommy Tuberville has been blocking military promotions but that could be sidestepped soon. Attorney General Merrick Garland is facing some Republican efforts to drag up details around Hunter Biden&#39;s investigations and he&#39;s not amused. Meanwhile, newly-appointed Chairman of the Joint Chiefs of Staff Charles Q. Brown Jr. is making his way through the Senate confirmation process and likely to make it past Tuberville&#39;s blockade. Hunter Biden is due for court next week, although his lawyer says he will plead not guilty on three gun charges. On the national level, President Biden is caught in between allies Canada and India following Canada&#39;s accusation of assassination against India. In the international arena, Sikhs and Hindus are even further divided as a result of this news. And finally, Google&#39;s new chatbot has just gotten more powerful but is still erratic, and OpenAI released a new version of its DALL-E image generator as well as incorporating it into their ChatGPT chatbot.</p>
 <ol>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>U.S. Will Allow Nearly 500,000 Venezuelan Migrants to Work Legally</h3>
+<sub>By Nicholas Fandos</sub>
+<p>The move, announced late Wednesday, followed intense lobbying by New York Democrats before and during President Biden’s visit to New York City this week.  <a href="https://nyti.ms/453AKgR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Officials Scramble to Respond as Migrants Overwhelm Texas City</h3>
+<sub>By J. David Goodman, Edgar Sandoval, Miriam Jordan and Eileen Sullivan</sub>
+<p>The mayor of Eagle Pass said 2,500 migrants arrived in one day, part of a recent surge in crossings along the border that has taxed local, state and federal resources.  <a href="https://nyti.ms/46bMkaU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Senate Confirms Chairman of Joint Chiefs of Staff, Sidestepping Tuberville Blockade</h3>
 <sub>By Karoun Demirjian and Kayla Guo</sub>
-<p>The Senate voted to confirm Gen. Charles Q. Brown Jr. of the Air Force as the next chairman and planned to advance promotions of two other military officials, despite a block by Senator Tommy Tuberville of Alabama.  <a href="https://nyti.ms/451ypDc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The Senate backed Gen. Charles Q. Brown Jr. of the Air Force for chairman and planned to advance promotions of two other military officials blockaded by Senator Tommy Tuberville of Alabama.  <a href="https://nyti.ms/451ypDc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Garland Rebuffs Republicans’ Efforts to Reveal Details on Hunter Biden Inquiry</h3>
 <sub>By Glenn Thrush</sub>
 <p>The soft-spoken attorney general struck a sharper tone during testimony before the Judiciary Committee, saying prosecutors won’t be “intimidated” by threats from Trump allies.  <a href="https://nyti.ms/46hEQTx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Takeaways From Garland’s Testimony Before the House Judiciary Committee</h3>
+<sub>By Glenn Thrush</sub>
+<p>While some of the questions hurled at Attorney General Merrick B. Garland were an attempt to pry free information, many were overtly partisan or based on distortion, insinuation and misinformation.  <a href="https://nyti.ms/3EKn67C"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -114,25 +131,7 @@ In terms of technology, Google&#39;s chatbot Bard just got more powerful but it 
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Canada’s Assassination Claim Further Divides Its Indian Diaspora</h3>
 <sub>By Vjosa Isai and Ian Austen</sub>
-<p>The charge that the Indian government is linked to the killing of a Sikh separatist may further fuel the rift between Canada’s Sikhs and Hindus.  <a href="https://nyti.ms/3rkLWYC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Republicans Inch Closer to Spending Deal, Spoiling for a Shutdown Showdown</h3>
-<sub>By Carl Hulse and Annie Karni</sub>
-<p>Speaker Kevin McCarthy, grasping for G.O.P. votes to bring spending bills up for debate, proposed a new measure with deeper cuts to appease the hard right, paving the way for a clash with the Senate.  <a href="https://nyti.ms/48kx8Ki"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Here Are the Five Republicans Who Have Defied McCarthy on Spending</h3>
-<sub>By Annie Karni</sub>
-<p>The defectors broke with their party to block a Pentagon spending bill from being debated in the House. Their stances reflect deep G.O.P. divisions pushing the government toward a shutdown.  <a href="https://nyti.ms/48qH2tZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Zelensky Tells U.N. Security Council It’s Useless While Russia Has a Veto</h3>
-<sub>By Richard Pérez-Peña, Farnaz Fassihi and Michael Crowley</sub>
-<p>The Ukrainian president joined many world leaders in calling for changes at the Security Council, where five permanent members wield veto power — a high barrier to taking action.  <a href="https://nyti.ms/46k2peA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The charge that the Indian government is linked to the killing of a Sikh separatist may fuel the rift between Canada’s Sikhs and Hindus.  <a href="https://nyti.ms/3rkLWYC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
 <hr/>
 </ol>
