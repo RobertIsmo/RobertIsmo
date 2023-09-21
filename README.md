@@ -60,8 +60,22 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, September 21, Central Standard Time</p>
 <p>
-There&#39;s a lot happening in the world right now. In the US, officials are scrambling to respond to a sudden surge of migrants crossing the Texas border, while Senate Republicans try to block President Biden&#39;s appointment of a new head for the Joint Chiefs of Staff. On an international level, Ukrainian President Zelensky brought attention to Russia&#39;s veto power at the UN Security Council and Azerbaijan has regained territorial control over Armenian enclaves. Gabe Garland, the US Attorney General also recently testified before the House Judiciary Committee about Hunter Biden&#39;s inquiries. Meanwhile, Florida governor DeSantis slammed Biden&#39;s climate policies and two long-shot Republican hopefuls for president may not make it onto the next GOP debate stage. In the tech world, Google has made its chatbot Bard more powerful by integrating Gmail, Google Docs, and Google Drive accounts. OpenAI&#39;s ChatGPT chatbot has also seen improvements with a new version of its image generator DALL-E.</p>
+There is a lot going on around the world right now. In Ukraine, the president has criticized the United Nations Security Council for its inability to take action against Russia due to its veto power. In Azerbaijan, pro-Armenian leaders have given up control of the breakaway region of Nagorno-Karabakh after Azerbaijan escalated the conflict. 
+The US government has allowed nearly 500,000 Venezuelans living in the US to work legally, while also struggling to respond to a huge influx of Central American migrants along the Texas border. Senate confirmed General Charles Q. Brown Jr. as Chairman of the Joint Chiefs of Staff despite confrontation from Republican Senator Tommy Tubeville. Meanwhile, Attorney General Merrick B. Garland testified before Congress that prosecutors won&#39;t be intimidated by former President Trump&#39;s allies. The current climate debate was given an aggressive spin when Florida Governor Ron DeSantis called out President Biden’s climate policy as “an agenda to control you” during a speech in Texas. On top of all this, two long-shot Republican hopefuls may not make it onto the next G.O.P. debate stage due to low poll numbers. 
+In technology news, Google&#39;s voice assistant Bard has expanded its capabilities, but is still far from perfect. OpenAI has released a new version of its DALL-E image generator and incorporated it into their popular ChatGPT chatbot; both of which are available for testing purposes at the moment.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Zelensky Tells U.N. Security Council It’s Useless While Russia Has a Veto</h3>
+<sub>By Richard Pérez-Peña, Farnaz Fassihi and Michael Crowley</sub>
+<p>The Ukrainian president joined many world leaders in calling for changes at the Security Council, where five permanent members wield veto power — a high barrier to taking action.  <a href="https://nyti.ms/46k2peA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Azerbaijan Reclaims Armenian Enclave, Shifting Region’s Political Dynamics</h3>
+<sub>By Ivan Nechepurenko and Anton Troianovski</sub>
+<p>Pro-Armenian leaders in the breakaway region of Nagorno-Karabakh appeared to have surrendered to Azerbaijan’s demands.  <a href="https://nyti.ms/3rdXM70"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>U.S. Will Allow Nearly 500,000 Venezuelan Migrants to Work Legally</h3>
 <sub>By Nicholas Fandos</sub>
@@ -78,24 +92,6 @@ There&#39;s a lot happening in the world right now. In the US, officials are scr
 <h3>Senate Confirms Chairman of Joint Chiefs of Staff, Sidestepping Tuberville Blockade</h3>
 <sub>By Karoun Demirjian and Kayla Guo</sub>
 <p>The Senate backed Gen. Charles Q. Brown Jr. of the Air Force for chairman and planned to advance promotions of two other military officials blockaded by Senator Tommy Tuberville of Alabama.  <a href="https://nyti.ms/451ypDc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia Strikes Cities Across Ukraine Hours After Zelensky Speech at U.N.</h3>
-<sub>By Victoria Kim and Matthew Mpoke Bigg</sub>
-<p>Civilians rushed to shelters in Lviv, in far western Ukraine, and Kyiv, where at least seven people were hurt.  <a href="https://nyti.ms/3sZSVXA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Zelensky Tells U.N. Security Council It’s Useless While Russia Has a Veto</h3>
-<sub>By Richard Pérez-Peña, Farnaz Fassihi and Michael Crowley</sub>
-<p>The Ukrainian president joined many world leaders in calling for changes at the Security Council, where five permanent members wield veto power — a high barrier to taking action.  <a href="https://nyti.ms/46k2peA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Azerbaijan Reclaims Armenian Enclave, Shifting Region’s Political Dynamics</h3>
-<sub>By Ivan Nechepurenko and Anton Troianovski</sub>
-<p>Pro-Armenian leaders in the breakaway region of Nagorno-Karabakh appeared to have surrendered to Azerbaijan’s demands.  <a href="https://nyti.ms/3rdXM70"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -132,6 +128,12 @@ There&#39;s a lot happening in the world right now. In the US, officials are scr
 <h3>ChatGPT Can Now Generate Images, Too</h3>
 <sub>By Cade Metz and Tiffany Hsu</sub>
 <p>OpenAI released a new version of its DALL-E image generator to a small group of testers and incorporated the technology into its popular ChatGPT chatbot.  <a href="https://nyti.ms/3roMz3t"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Is Caught Between Allies as Canada Accuses India of Assassination</h3>
+<sub>By Peter Baker</sub>
+<p>President Biden has prioritized bolstering partnerships over full-throated advocacy for democracy among American allies.  <a href="https://nyti.ms/458MX44"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
 <hr/>
 </ol>
