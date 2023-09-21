@@ -60,36 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, September 20, Central Standard Time</p>
 <p>
-Things are really busy in the world right now! The Federal Reserve recently held interest rates steady and may still make an additional rate move by the end of the year, which could impact mortgages, credit cards, and other forms of debt. In politics, the Senate is poised to confirm military chiefs, but Senator Tommy Tuberville of Alabama has been blocking them over a Pentagon abortion policy. Meanwhile, President Biden and Israeli Prime Minister Netanyahu had a successful meeting this week to try to improve tensions between their countries, despite Biden expressing frustration with Netanyahu&#39;s government. There was also an international summit on climate ambition - the U.S. and China were not even invited to speak due to their poor record on hot air reduction. Attorney General Merrick Garland has said he won&#39;t be intimidated by threats from Trump allies about disclosure of information related to Hunter Biden&#39;s inquiries, and Speaker Kevin McCarthy is stuck doing a balancing act in order to push spending bills through the House without alienating right-wing members. On the international front, Ukraine has gained some ground against Russian forces but has still a long way to go in terms of making progress. Finally, Google&#39;s newest chatbot Bard is incorporating more features from Gmail accounts etc., while OpenAI released a new version of its &quot;ChatGPT&quot; chatbot that can generate images too. Former Texas Congressman Will Hurd just released an AI plan as the first from the Republican presidential field for 2021.</p>
+Right now there is a lot going on in the world. In the US, the Senate just voted to confirm Gen. Charles Q. Brown Jr. of the Air Force as the next chairman, despite a block put up by Senator Tommy Tuberville of Alabama. Attorney General Garland is refusing to give details on a Hunter Biden inquiry and turning awayRepublican efforts. Hunter Biden will be appearing in court next week on gun charges and Florida governor DeSantis slammed Biden&#39;s climate policy while two long-shot Republicans may miss the cut for the next GOP debate. 
+In terms of technology, Google&#39;s chatbot Bard just got more powerful but it is still erratic and another chatbot called ChatGPT is able to generate images now. Internationally, President Biden finds himself caught between allies Canada and Indiawhile Canadian Sikhs and Hindus are further divided over Canada&#39;s accusation that Indian government is linked to a killing of a Sikh separatist. Ukrainian President Zelensky spoke to the UN security council about the correspondingly high barrier taking action due to five permanent veto-wielding members. And finally, there are Republicans inching closer to a spending deal that will likely spark a shutdown showdown with the Senate over deeper cuts proposed by Speaker McCarthy.</p>
 <ol>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Fed Aims for Soft Landing With a Rate Pause and a Pledge to Move ‘Carefully’</h3>
-<sub>By Jeanna Smialek</sub>
-<p>Central bankers held rates steady at 5.25 to 5.5 percent, and forecast that they could still make a final quarter-point rate move this year.  <a href="https://nyti.ms/46l3uCD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>What Fed Rate Moves Mean for Mortgages, Credit Cards and More</h3>
-<sub>By Tara Siegel Bernard</sub>
-<p>Savers benefit from higher rates, but borrowers have faced bigger bills on credit cards, student loans and other forms of debt.  <a href="https://nyti.ms/3rkgt8W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Senate Poised to Confirm Military Chiefs, Sidestepping Tuberville Blockade</h3>
+<h3>Senate Confirms Chairman of Joint Chiefs of Staff, Sidestepping Tuberville Blockade</h3>
 <sub>By Karoun Demirjian and Kayla Guo</sub>
-<p>Three generals were on track for confirmation, but Senator Tommy Tuberville, the Alabama Republican who has been blocking them, said he would continue to hold up others over a Pentagon abortion policy.  <a href="https://nyti.ms/451ypDc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Biden and Netanyahu Meet to Try to Soothe Tensions, With Some Success</h3>
-<sub>By Patrick Kingsley and Michael D. Shear</sub>
-<p>The president put aside his frustrations with the Israeli prime minister over his “extremist” government to focus on issues of mutual interest, like Iran and Saudi Arabia.  <a href="https://nyti.ms/3Lv8s8b"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>At a Summit on Climate Ambition, the U.S. and China End Up on the B List</h3>
-<sub>By Max Bearak</sub>
-<p>The world’s two biggest polluters were not invited to speak at a United Nations meeting designed to highlight effective action against warming.  <a href="https://nyti.ms/44VJmG9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The Senate voted to confirm Gen. Charles Q. Brown Jr. of the Air Force as the next chairman and planned to advance promotions of two other military officials, despite a block by Senator Tommy Tuberville of Alabama.  <a href="https://nyti.ms/451ypDc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -99,21 +76,21 @@ Things are really busy in the world right now! The Federal Reserve recently held
 <sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>McCarthy Puts Off Spending Votes, Stymied in Efforts to Avert a Shutdown</h3>
-<sub>By Carl Hulse and Annie Karni</sub>
-<p>Action on the floor stalled as Speaker Kevin McCarthy struggled for votes to bring spending bills up for debate and remained stalemated with right-wing members.  <a href="https://nyti.ms/48kx8Ki"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Judge Rejects Hunter Biden’s Request for Remote Arraignment</h3>
+<sub>By Glenn Thrush</sub>
+<p>The president’s son will make his first court appearance on three gun charges next week. His lawyer has said he will plead not guilty.  <a href="https://nyti.ms/3PLGFTe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Here Are the Five Republicans Who Have Defied McCarthy on Spending</h3>
-<sub>By Annie Karni</sub>
-<p>The defectors broke with their party to block a Pentagon spending bill from being debated in the House. Their stances reflect deep G.O.P. divisions pushing the government toward a shutdown.  <a href="https://nyti.ms/48qH2tZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>DeSantis Slams Biden Climate Policy: ‘An Agenda to Control You’</h3>
+<sub>By Anjali Huynh</sub>
+<p>The Florida governor delivered an address in Texas that favored oil and gas development over climate agreements and electric vehicles.  <a href="https://nyti.ms/3ZG0QFP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Has Gained Ground. But It Has Much Farther to Go</h3>
-<sub>By Thomas Gibbons-Neff and Lauren Leatherby</sub>
-<p>Ukraine’s counteroffensive has breached Russian defenses, but progress has been grueling and slow. Familiar obstacles, fresh troops and worsening weather lie ahead.  <a href="https://nyti.ms/3PjV0oC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Doug Burgum and Asa Hutchinson May Miss the Cut for the Next G.O.P. Debate</h3>
+<sub>By Neil Vigdor</sub>
+<p>Low poll numbers could keep the long-shot Republicans off the stage next Wednesday in the second presidential primary debate.  <a href="https://nyti.ms/3EK906j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -129,9 +106,33 @@ Things are really busy in the world right now! The Federal Reserve recently held
 <sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Will Hurd Releases A.I. Plan, a First in the Republican Presidential Field</h3>
-<sub>By Maggie Astor</sub>
-<p>The former Texas congressman’s plan takes an expansive view of both the potential and the risks of artificial intelligence, calling for it to be used more widely but also tightly regulated.  <a href="https://nyti.ms/3LxHTPz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Biden Is Caught Between Allies as Canada Accuses India of Assassination</h3>
+<sub>By Peter Baker</sub>
+<p>President Biden has prioritized bolstering partnerships over full-throated advocacy for democracy among American allies.  <a href="https://nyti.ms/458MX44"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Canada’s Assassination Claim Further Divides Its Indian Diaspora</h3>
+<sub>By Vjosa Isai and Ian Austen</sub>
+<p>The charge that the Indian government is linked to the killing of a Sikh separatist may further fuel the rift between Canada’s Sikhs and Hindus.  <a href="https://nyti.ms/3rkLWYC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Republicans Inch Closer to Spending Deal, Spoiling for a Shutdown Showdown</h3>
+<sub>By Carl Hulse and Annie Karni</sub>
+<p>Speaker Kevin McCarthy, grasping for G.O.P. votes to bring spending bills up for debate, proposed a new measure with deeper cuts to appease the hard right, paving the way for a clash with the Senate.  <a href="https://nyti.ms/48kx8Ki"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Here Are the Five Republicans Who Have Defied McCarthy on Spending</h3>
+<sub>By Annie Karni</sub>
+<p>The defectors broke with their party to block a Pentagon spending bill from being debated in the House. Their stances reflect deep G.O.P. divisions pushing the government toward a shutdown.  <a href="https://nyti.ms/48qH2tZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Zelensky Tells U.N. Security Council It’s Useless While Russia Has a Veto</h3>
+<sub>By Richard Pérez-Peña, Farnaz Fassihi and Michael Crowley</sub>
+<p>The Ukrainian president joined many world leaders in calling for changes at the Security Council, where five permanent members wield veto power — a high barrier to taking action.  <a href="https://nyti.ms/46k2peA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
 <hr/>
 </ol>
