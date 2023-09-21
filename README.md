@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, September 21, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In the U.S., the Biden administration has announced they will allow nearly 500,000 Venezuelan migrants to work legally. They&#39;re also trying to keep migrants away from the border by setting up processing centers in Latin American countries. Meanwhile, media mogul Rupert Murdoch is retiring from Fox and News Corporation boards, leaving his son Lachlan as the lone executive in charge of their global media empire. Overseas, Ukrainian President Volodymyr Zelensky is making a visit to Washington to try and shore up support among a growing number of Republicans who oppose more assistance for Ukraine. In Nagorno-Karabakh, Armenia and Azerbaijan are discussing the future of its residents after Armenia&#39;s surrender, and Russia seems to be a distracted spectator. Meanwhile in India, they&#39;ve suspended visas for Canadians after Canada accused India of involvement in an assassination. Also in Asia, Hong Kong is doing its best to remain an international financial hub despite close ties to Beijing that have investors worried. Lastly, in Darfur renewed fighting between rival military factions has hundreds dead and thousands fleeing, while lawmakers in Alabama, Georgia and Louisiana are fighting over congressional maps that disfavor Black voters.</p>
+There is a lot going on in the world right now! In the US, hard-right Republicans are blocking the defense budget bill and defying House Speaker Kevin McCarthy. Meanwhile, the Biden administration has announced that nearly 500,000 Venezuelan migrants will be allowed to work legally in the US. Mexico is feeling a lot of pressure from increased migration from South America, and this work authorization might draw even more people to the US. Elsewhere, the media empire led by Rupert Murdoch is changing with his retirement from Fox and News Corporation boards, leaving his son Lachlan in charge. There&#39;s also conflict over Nagorno-Karabakh, and former President Jimmy Carter marked his 99th birthday while in hospice. For Tesla and Musk, there could be both benefits and risks involved with an auto strike. Additionally, Federal Reserve officials forecast higher interest rates through 2026, meaning borrowing won&#39;t return to pre-pandemic levels anytime soon. Lastly, the White House is directing agencies to account for climate change in their budgets, which may come with legal and logistical challenges.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Right-Wing Rebels Block Defense Bill Again, Rebuking McCarthy on Spending</h3>
+<sub>By Annie Karni</sub>
+<p>It was the second time in a week that hard-right Republicans had defied Speaker Kevin McCarthy on a spending measure, signaling that there was still no G.O.P. agreement on a bill to fund the government.  <a href="https://nyti.ms/3ETRKLH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 21, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>U.S. Will Allow Nearly 500,000 Venezuelan Migrants to Work Legally</h3>
 <sub>By Nicholas Fandos</sub>
@@ -69,10 +75,16 @@ There is a lot going on in the world right now. In the U.S., the Biden administr
 <sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Biden Plan Seeks to Keep Migrants Away From the Border. Will It Work?</h3>
-<sub>By Genevieve Glatsky and Zolan Kanno-Youngs</sub>
-<p>By opening migration processing centers in three Latin American countries, the Biden administration is trying to coax people not to make a harrowing trek to the border.  <a href="https://nyti.ms/45X6bL5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
+<h3>Mexico Feels Pressure of Relentless Migration From South America</h3>
+<sub>By James Fredrick</sub>
+<p>The surge of migrants trekking north mostly from South America has placed increasing pressure on Mexico as the country applies a range of tactics to quell arrivals.  <a href="https://nyti.ms/3Pui5oy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Will Work Authorization Draw More Venezuelan Migrants to the U.S.?</h3>
+<sub>By Andy Newman</sub>
+<p>The Biden administration will grant work permits to hundreds of thousands of migrants, a move welcomed by the leaders of big cities, especially New York.  <a href="https://nyti.ms/48oibqw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Rupert Murdoch to Retire From Fox and News Corporation Boards</h3>
@@ -86,52 +98,40 @@ There is a lot going on in the world right now. In the U.S., the Biden administr
 <p>Murdoch and his children have toppled governments on two continents and destabilized the most important democracy on Earth. What do they want?  <a href="https://nyti.ms/2K1MvA0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Washington Visit, Zelensky Tries to Shore Up Critical Support</h3>
-<sub>By Erica L. Green</sub>
-<p>President Volodymyr Zelensky will meet with President Biden and members of Congress as a growing number of Republicans oppose further assistance for Ukraine.  <a href="https://nyti.ms/3Lw2xiV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>After Surrender in Nagorno-Karabakh, Leaders Discuss Armenians’ Fate</h3>
-<sub>By Ivan Nechepurenko</sub>
-<p>Officials of the breakaway region met with representatives of Azerbaijan to talk about the future of its residents, many of whom strongly resist the idea of coming under Azerbaijani rule.  <a href="https://nyti.ms/3Zppr1g"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 21, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>As Armenia and Azerbaijan Clash, Russia Is a Distracted Spectator</h3>
 <sub>By Andrew Higgins</sub>
 <p>In the conflict over Nagorno-Karabakh, Russia, drained by the war in Ukraine, seemed incapable of acting as the indispensable power capable of knocking heads together.  <a href="https://nyti.ms/3rrzXII"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>India Suspends Visas for Canadians, Escalating Clash Over Sikh’s Killing</h3>
-<sub>By Suhasini Raj and Yan Zhuang</sub>
-<p>The move followed Canada’s claim of Indian government involvement in the assassination of a Canadian citizen who supported a separatist cause.  <a href="https://nyti.ms/3ENzKCT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-t-magazine-blue" alt="">
-<h3>Inside the Elaborate, Enviable Design of Three New York Homes</h3>
-<sub></sub>
-<p>On Washington Square Park, in Harlem and on the coast in Montauk, several creative people renovate their spaces with an essential New York trait in mind: resourcefulness.  <a href="https://nyti.ms/3rlpG0G"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Jimmy Carter’s Final Chapter: Peanut Butter Ice Cream and His 99th Birthday</h3>
+<sub>By Peter Baker</sub>
+<p>Mr. Carter was already the longest-living president in American history, but his staying power even in hospice has captured the imagination of admirers around the world.  <a href="https://nyti.ms/3PNOZCc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Hong Kong Says It Calls the Shots, Not Beijing. Investors Are Wary.</h3>
-<sub>By Alexandra Stevenson</sub>
-<p>Its close ties to Beijing are putting the city, still an international financial hub, in a bind as it lures Western investors to revive its economy.  <a href="https://nyti.ms/3LvPk9P"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>For Tesla and Musk, Auto Strike Carries Benefits and Risks</h3>
+<sub>By Jack Ewing</sub>
+<p>Elon Musk, the Tesla chief executive, may be able to exploit his rivals’ weaknesses, but the United Auto Workers union also has the electric carmaker in its sights.  <a href="https://nyti.ms/48qQEoe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Are High Rates Going to Last? Fed Officials Increasingly Think So.</h3>
+<sub>By Ben Casselman and Jeanna Smialek</sub>
+<p>Federal Reserve officials forecast higher interest rates through 2026 this week, a sign that borrowing costs are not heading back to the rock-bottom levels normal before the pandemic.  <a href="https://nyti.ms/461djWH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>Being 13</h3>
+<sub>By Jessica Bennett</sub>
+<p>Three girls, one year. This is what it’s like to be 13 today, in a world that can’t stop talking about the dire state of your future.  <a href="https://nyti.ms/3rnG6FY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Darfur’s New Generation, Once Full of Promise, Now Suffers ‘Fire of War’</h3>
-<sub>By Abdi Latif Dahir</sub>
-<p>In a region with a history of genocide, weeks of intense fighting between rival military factions in South Darfur have left hundreds dead and sent thousands fleeing.  <a href="https://nyti.ms/3ENavjX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Three Southern States, a Legal Battle Over Political Maps</h3>
-<sub>By Michael Wines</sub>
-<p>G.O.P. legislatures in Alabama, Georgia and Louisiana are contesting federal orders to redraw congressional maps that disfavor Black voters. The stakes are enormous.  <a href="https://nyti.ms/3rn3JOU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>White House Directs Agencies to Account for Climate Change in Budgets</h3>
+<sub>By Coral Davenport</sub>
+<p>The directive is intended to embed the cost of climate change into all federal agencies. But it is not legally binding and could come with legal and logistical challenges.  <a href="https://nyti.ms/3Ptrr3T"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
