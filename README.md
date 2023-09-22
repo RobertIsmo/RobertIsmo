@@ -60,25 +60,52 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, September 22, Central Standard Time</p>
 <p>
-Recently, there&#39;s been some turmoil in world economics as one firm has caused alarm by not paying its investors. Meanwhile, Ukraine is using inexpensive drone technology in its war with Russia. There have been some promising international developments in the Middle East, as the US has secured the release of 5 American prisoners in Iran through negotiation. In South Korea, elderly citizens are taking advantage of free subway rides, something that can bring joy to their everyday lives. Stateside, US President Joe Biden is turning to his old adversary Donald Trump in an attempt to build support for his election campaign. In New York City, the lack of available housing and quality childcare units has caused children to be disproportionately affected. Additionally, a day care center containing narcotics was discovered in an apartment with a newly-renovated floor. Speaking of politics, former New Jersey governor Jim McGreevey is attempting another political comeback despite stepping away from office years ago owing to a scandal involving an extramarital affair with a male employee. Climate-wise things aren&#39;t looking much better, as more and more Arctic sea ice is melting due to a warmer climate and could be practically gone by 2030s. Finally, Rupert Murdoch has retired from Fox after spending many years building a media empire that promotes his idealogies through noise and propaganda. His son Lachlan meanwhile has taken charge after having a complicated relationship with the family business over the years.</p>
+I&#39;ve got some news to share about what&#39;s going on in the world. 
+In Business, there are negotiations and walkouts at Ford Company due to union demands. 
+In NYC, Senator Robert Menendez was recently indicted for bribery, and there could be other key players involved in the case. Additionally, China&#39;s shadow banks are facing financial crises and U.S. and China just agreed to a new economic dialogue format to try to resolve differences. 
+On the global front, there have been budget drones being used in wars and South Korea has made fares free for senior subway riders. Also, President Biden is warning that Trump could ‘destroy’ democracy and plans on taking him down in the upcoming election season. It has also been discovered that an NYC daycare was utilizing a secret door to keep hidden narcotics in the location where a child died. Lastly, Governor Jim McGreevey, who resigned following an extramarital affair is considering running for mayor again as part of a potential political comeback.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>U.A.W. Extends Walkouts to More Plants, but Cites Progress in Ford Talks</h3>
+<sub>By Neal E. Boudette</sub>
+<p>The union designated 38 parts distribution factories as additional strike targets at G.M. and Stellantis.  <a href="https://nyti.ms/462D6hf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Menendez Accused of Brazen Bribery Plot, Taking Cash and Gold</h3>
+<sub>By Benjamin Weiser, Tracey Tully and William K. Rashbaum</sub>
+<p>Senator Robert Menendez, a New Jersey Democrat, was charged six years after his trial in a different corruption case ended in a hung jury.  <a href="https://nyti.ms/3RC14vD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Read the Robert Menendez Indictment</h3>
+<sub></sub>
+<p>Mr. Menendez, a U.S. senator for New Jersey, was charged in a federal corruption indictment, the authorities said on Friday. Read the document.  <a href="https://nyti.ms/3rkWHdB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>These Are the Key Players in the Case Against Senator Menendez</h3>
+<sub>By Tracey Tully</sub>
+<p>Senator Robert Menendez and four others were charged after a lengthy investigation led by federal prosecutors in Manhattan.  <a href="https://nyti.ms/3PrJrMe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 22, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Real Estate Crisis Triggers New Alarms Over China’s Shadow Banks</h3>
 <sub>By Daisuke Wakabayashi and Claire Fu</sub>
 <p>A financially troubled firm has stopped paying investors, risking panic and testing the Chinese government’s resolve to take on debts from its property crisis.  <a href="https://nyti.ms/3reXFIp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 21, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. and China Agree to New Economic Dialogue Format</h3>
+<sub>By Alan Rappeport and Keith Bradsher</sub>
+<p>The regular talks are intended to give both countries a venue to resolve differences.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 22, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Budget Drones Prove Their Value in a Billion-Dollar War</h3>
 <sub>By Andrew E. Kramer and Lynsey Addario</sub>
 <p>A fleet of inexpensive, mostly off-the-shelf drones is helping Ukrainian forces evade and target sophisticated Russian air defense systems.  <a href="https://nyti.ms/3EMoDKv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Inside the Deal to Free 5 American Prisoners in Iran</h3>
-<sub>By Michael D. Shear and Farnaz Fassihi</sub>
-<p>U.S. negotiators say the release of the prisoners is proof that even fierce adversaries can sometimes find their way to an agreement. But the deal almost didn’t happen.  <a href="https://nyti.ms/451cJam"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>For South Korea’s Senior Subway Riders, the Joy Is in the Journey</h3>
@@ -89,7 +116,7 @@ Recently, there&#39;s been some turmoil in world economics as one firm has cause
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden, Warning Trump Could ‘Destroy’ Democracy, Moves Past G.O.P. Primary</h3>
 <sub>By Shane Goldmacher and Reid J. Epstein</sub>
-<p>The president is turning his attention to his old adversary as he tries to re-energize his party’s voters and donors, with polls showing soft support so far.  <a href="https://nyti.ms/46l6Bux"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Months before the first Republican primaries, the president is turning his attention to his old adversary as he tries to re-energize his party’s voters and donors.  <a href="https://nyti.ms/46l6Bux"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -109,30 +136,6 @@ Recently, there&#39;s been some turmoil in world economics as one firm has cause
 <sub>By Tracey Tully</sub>
 <p>Jim McGreevey, New Jersey’s 52nd governor, resigned after admitting to an extramarital affair with a male employee. Now he is preparing for a political comeback.  <a href="https://nyti.ms/3Ltuqbl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Here’s Life on an Expedition to Track Declining Arctic Ice</h3>
-<sub>By Henry Fountain and Esther Horvath</sub>
-<p>Each September, the ice at the top of the world hits its lowest extent of the year. Researchers are studying how a warming climate is affecting a not-so-frozen ocean.  <a href="https://nyti.ms/3RxfhK7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Arctic Summer Could Be Practically Sea-Ice-Free by the 2030s</h3>
-<sub>By Raymond Zhong</sub>
-<p>In a new study, scientists found that the climate milestone could come about a decade sooner than anticipated, even if planet-warming emissions are gradually reduced.  <a href="https://nyti.ms/42pyO0M"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Rupert Murdoch Turned Passion and Grievance Into Money and Power</h3>
-<sub>By James Poniewozik</sub>
-<p>The retiring Fox leader built a noise-and-propaganda machine by giving his people what they wanted — and sometimes by teaching them what to want.  <a href="https://nyti.ms/3t5l1AH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Lachlan Murdoch’s On-Again, Off-Again Relationship With the Family Business</h3>
-<sub>By Katie Robertson and Jeremy W. Peters</sub>
-<p>He solidified his rise to the top of his father’s media empire on Thursday.  <a href="https://nyti.ms/3Rw0AXD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
