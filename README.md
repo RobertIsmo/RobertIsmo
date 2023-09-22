@@ -58,10 +58,16 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Thursday, September 21, Central Standard Time</p>
+<p>It is Friday, September 22, Central Standard Time</p>
 <p>
-There is a lot of turmoil in the world. The Biden administration is facing pressure on how to resolve the migrant crisis and prevent a potential government shutdown due to anti-immigration measures. Venezuela has granted legal rights to over 500,000 migrants, making their way to countries such as Mexico to seek asylum which is causing huge pressures on the country. Additionally, five prisoners were released in Iran following negotiations by U.S. negotiators, showing that even adversaries can come to an agreement. In New York, narcotics were found hidden at a day care facility following renovations while in Washington D.C., President Zelensky is trying to review support for Ukraine&#39;s war against Russia by appealing not to stop sending aid and weapons. Tragedy struck in an accident involving a school bus carrying high school students when it crashed killing two people and dozens injured. Furthermore, media mogul Rupert Murdoch recently stepped down from both Fox Networks and News Corporation Boards leaving his son Lachlan as the sole leader of their global media empire.</p>
+Right now, there&#39;s a lot of turmoil around the world. In China, a financial crisis has triggered new alarms about the danger posed by shadow banks. The United States is facing immense pressure to manage the ongoing migrant crisis at its border, with conservative Republicans vowing to shut down the government without harsh anti-immigration measures. Meanwhile, Mexico is dealing with hordes of migrants heading north from South America. In Washington, Ukraine&#39;s president has been trying to shore up support from US lawmakers to protect their country from Russian intervention. In New York, two people have died and dozens more were injured in a bus crash involving a high school marching band. Lastly, Rupert Murdoch is retiring from his media empire and passing the torch to his son Lachlan who is now in charge.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Real Estate Crisis Triggers New Alarms Over China’s Shadow Banks</h3>
+<sub>By Daisuke Wakabayashi and Claire Fu</sub>
+<p>A financially troubled firm has stopped paying investors, risking panic and testing the Chinese government’s resolve to take on debts from its property crisis.  <a href="https://nyti.ms/3reXFIp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 21, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Faces Competing Pressures as He Tries to Ease the Migrant Crisis</h3>
 <sub>By Michael D. Shear and Luis Ferré-Sadurní</sub>
@@ -126,12 +132,6 @@ There is a lot of turmoil in the world. The Biden administration is facing press
 <h3>Lachlan Murdoch’s On-Again, Off-Again Relationship With the Family Business</h3>
 <sub>By Katie Robertson and Jeremy W. Peters</sub>
 <p>He solidified his rise to the top of his father’s media empire on Thursday.  <a href="https://nyti.ms/3Rw0AXD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How Rupert Murdoch Built His Media Empire</h3>
-<sub>By J. Edward Moreno</sub>
-<p>Over seven decades, the Australian-born magnate compiled an array of news outlets, book publishers, and film and television properties into a global behemoth.  <a href="https://nyti.ms/48nVX7Y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
