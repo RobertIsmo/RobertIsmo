@@ -60,16 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, September 22, Central Standard Time</p>
 <p>
-Right now, the UAW (United Automobile Workers) is on strike at factories and distribution centers owned by Ford, General Motors and Stellantis. They have recently expanded the strikes to 38 spare parts distribution centers. At the same time, they remain in talks with Ford and say they have seen progress. Meanwhile, President Biden has weighed in on the strike, saying he defends the workers, but has made no immediate plans to visit them. 
-
-Also, in politics, Senator Robert Menendez of New Jersey has been charged with bribery six years after his trial for corruption ended with a hung jury. On the international side, Ukraine has been using a fleet of drones to evade and target Russian air defense systems, while also making some progress in their counteroffensive against Russia. However, there has also been an unexpected development: elderly citizens of South Korea are now able to ride the rail system for free and many have taken advantage of it by taking long rides for enjoyment. 
-
-Meanwhile in China there is an increasing alarm over their real estate crisis after a financially troubled firm stopped paying investors and may spark panic. And finally, former hockey enforcer Chris Nilan is trying to answer questions about the CTE before it&#39;s too late and former New Jersey Governor Jim McGreevey is preparing for a potential political comeback despite having resigned after admitting an extramarital affair with a male employee.</p>
+There are a lot of things going on right now that could have a significant impact on the future.  Across the United States, officials are bracing for a government shutdown as salary advances and staff reshuffles occur in preparation. In New Jersey, Senator Robert Menendez is being accused of a brazen bribery plot and has stepped down from his chairmanship of the Foreign Relations Committee. Meanwhile, the United Auto Workers union is now demanding more concessions from General Motors, Stellantis and Ford and President Biden will be visiting Michigan to support striking autoworkers on the picket line. On top of that, there is tension between Ukraine and the US concerning their different strategies involving Russia.  And here at home, there is a battle over free speech versus risk of violence concerning President Trump&#39;s statements about the election case and also a debate between Democrats on how to handle immigration. Lastly, we have former hockey enforcer Chris Nilan who was involved in over 300 fights during his career facing issues with addiction and anger, that is currently being studied by Boston University for CTE.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Across Washington, Officials Brace for Government Shutdown</h3>
+<sub>By Robert Jimison and Kayla Guo</sub>
+<p>With salary advances and staff reshuffles, lawmakers and federal agencies are preparing for a lapse in government funding that is beginning to seem inevitable.  <a href="https://nyti.ms/4524fzE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Menendez Accused of Brazen Bribery Plot, Taking Cash and Gold</h3>
+<sub>By Benjamin Weiser, Tracey Tully and William K. Rashbaum</sub>
+<p>The governor of New Jersey called on Senator Robert Menendez to resign. The senator stepped down from his chairmanship of the Foreign Relations Committee.  <a href="https://nyti.ms/3RC14vD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 22, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>U.A.W. Widens Strikes at G.M. and Stellantis, but Cites Progress in Ford Talks</h3>
 <sub>By Neal E. Boudette</sub>
-<p>The union designated 38 spare parts distribution centers as additional strike targets at General Motors and Stellantis.  <a href="https://nyti.ms/462D6hf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The union designated 38 spare-parts distribution centers as additional strike targets at General Motors and Stellantis.  <a href="https://nyti.ms/462D6hf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -85,21 +93,15 @@ Meanwhile in China there is an increasing alarm over their real estate crisis af
 <sub><sub>Friday, September 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.A.W. President Steps Up Pressure on Biden With Invite to Picket Lines</h3>
-<sub>By Reid J. Epstein</sub>
-<p>President Biden has defended the striking autoworkers, who expanded their walkout on Friday, but has so far not announced plans to visit them.  <a href="https://nyti.ms/3t4ANM4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Biden Will Visit Michigan to Support Striking Autoworkers on Picket Line</h3>
+<sub>By Reid J. Epstein, Katie Rogers and Shane Goldmacher</sub>
+<p>In a historic show of support for organized labor, President Biden said he would join workers in Michigan in their strike against leading automakers.  <a href="https://nyti.ms/3t4ANM4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Menendez Accused of Brazen Bribery Plot, Taking Cash and Gold</h3>
-<sub>By Benjamin Weiser, Tracey Tully and William K. Rashbaum</sub>
-<p>Senator Robert Menendez, a New Jersey Democrat, was charged six years after his trial in a different corruption case ended in a hung jury.  <a href="https://nyti.ms/3RC14vD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Budget Drones Prove Their Value in a Billion-Dollar War</h3>
-<sub>By Andrew E. Kramer and Lynsey Addario</sub>
-<p>A fleet of inexpensive, mostly off-the-shelf drones is helping Ukrainian forces evade and target sophisticated Russian air defense systems.  <a href="https://nyti.ms/3EMoDKv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Zelensky’s Visit Reveals Strategy Divide Between Ukraine and U.S.</h3>
+<sub>By Helene Cooper and Julian E. Barnes</sub>
+<p>While the Ukrainian military remains focused on retaking territory in the east, American officials are pushing for a shift to the south.  <a href="https://nyti.ms/3PRKg2s"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -108,34 +110,28 @@ Meanwhile in China there is an increasing alarm over their real estate crisis af
 <p>Ukraine advanced at one location in the southeast, reflecting slight progress in Kyiv’s halting counteroffensive.  <a href="https://nyti.ms/3t6mbMj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>For South Korea’s Senior Subway Riders, the Joy Is in the Journey</h3>
-<sub>By Victoria Kim and Chang W. Lee</sub>
-<p>The fare is free for those older than 65, and so some retired people spend their days riding the trains to the end of the line.  <a href="https://nyti.ms/48jjgQx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Push to Gag Trump Pits Free Speech Against Risk of Violence</h3>
+<sub>By Charlie Savage</sub>
+<p>By putting threats to the judge and prosecutors at the heart of its argument to limit the former president’s statements about the election case, the Justice Department raised issues with little precedent.  <a href="https://nyti.ms/3PwgX40"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Request for Gag Order on Trump Raises Free Speech Dilemma</h3>
-<sub>By Charlie Savage</sub>
-<p>By putting the prospect of political violence at the heart of their argument to limit the former president’s statements about the election case, federal prosecutors raised issues that have little precedent.  <a href="https://nyti.ms/3PwgX40"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>First Batch of Biden Emails Undercuts G.O.P. Claims</h3>
+<sub>By Luke Broadwater</sub>
+<p>House Republicans have suggested that President Biden used an email alias to abuse his office and cover it up, but an initial tranche of the messages reveals banal content and personal information.  <a href="https://nyti.ms/462JcOD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Real Estate Crisis Triggers New Alarms Over China’s Shadow Banks</h3>
-<sub>By Daisuke Wakabayashi and Claire Fu</sub>
-<p>A financially troubled firm has stopped paying investors, risking panic and testing the Chinese government’s resolve to take on debts from its property crisis.  <a href="https://nyti.ms/3reXFIp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 21, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Influx of Migrants Exposes Democrats’ Division on Immigration</h3>
+<sub>By Lisa Lerer and Trip Gabriel</sub>
+<p>Democratic voters far from the border say they want leaders to do more to address the growing number of migrants in their cities, but they don’t agree on what.  <a href="https://nyti.ms/3EOQdGV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>A Former Hockey Enforcer Searches for Answers on C.T.E. Before It’s Too Late</h3>
 <sub>By David Waldstein</sub>
 <p>Chris Nilan fought more than 300 times during a pro hockey career, then had years of addiction and anger problems. A high-risk candidate for chronic traumatic encephalopathy, Nilan is being studied by Boston University.  <a href="https://nyti.ms/3t6WgEb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Governor Who Quit Politics Amid Scandal Eyes a New Job: Mayor</h3>
-<sub>By Tracey Tully</sub>
-<p>Jim McGreevey, New Jersey’s 52nd governor, resigned after admitting to an extramarital affair with a male employee. Now he is preparing for a political comeback.  <a href="https://nyti.ms/3Ltuqbl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
