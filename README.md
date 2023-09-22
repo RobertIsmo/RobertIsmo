@@ -60,18 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, September 21, Central Standard Time</p>
 <p>
-There are a lot of changes going on in the world right now. In Venezuela, hundreds of thousands of migrants have been granted work permits in the United States. Meanwhile, President Biden is facing competing pressures from both sides of the aisle in regards to the U.S. immigration crisis, while Mexico is feeling increasing pressure from South American migrants trekking north. Closer to home, Rupert Murdoch is stepping down from his media empire and Elon Musk is navigating a strike by the United Automobile Workers union. Finally, Federal Reserve officials recently forecast higher interest rates through 2026.</p>
+There is a lot of news about immigration right now -- the Biden administration is trying to address the migrant crisis at the US-Mexico border, while Venezuelan migrants may be granted work permits in the US, and particularly in New York. In international news, Mexico is struggling with a surge of immigrants from South America and tensions with Russia remain high. On the domestic front, there have been right-wing rebellions that prevent a defense bill from passing, and there was also a horrific bus crash in New York that left two people dead and dozens injured. Lastly, media mogul Rupert Murdoch has officially retired from his positions in Fox and News Corporation, leaving his son Lachlan in charge of their global media empire.</p>
 <ol>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Venezuelan Migrants Scored a Big Victory. How Will It Affect New York?</h3>
-<sub>By Nicholas Fandos</sub>
-<p>With nearly 500,000 Venezuelan migrants able to legally work, N.Y. officials were weighing the practical and political impact of a complex decision.  <a href="https://nyti.ms/46pi9gt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 21, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Faces Competing Pressures as He Tries to Ease the Migrant Crisis</h3>
 <sub>By Michael D. Shear and Luis Ferré-Sadurní</sub>
 <p>The situation provides ammunition to conservative Republicans who are vowing to shut down the government unless Congress agrees to harsh new anti-immigration measures.  <a href="https://nyti.ms/3Pqq1Hx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Venezuelan Migrants Scored a Big Victory. How Will It Affect New York?</h3>
+<sub>By Nicholas Fandos</sub>
+<p>With nearly 500,000 Venezuelan migrants able to legally work, N.Y. officials were weighing the practical and political impact of a complex decision.  <a href="https://nyti.ms/46pi9gt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -87,9 +87,33 @@ There are a lot of changes going on in the world right now. In Venezuela, hundre
 <sub><sub>Thursday, September 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Inside the Deal to Free 5 American Prisoners in Iran</h3>
+<sub>By Michael D. Shear and Farnaz Fassihi</sub>
+<p>U.S. negotiators say the release of the prisoners is proof that even fierce adversaries can sometimes find their way to an agreement. But the deal almost didn’t happen.  <a href="https://nyti.ms/451cJam"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>A Trap Door Hid a Cache of Narcotics at the Day Care Where a Child Died</h3>
+<sub>By Hurubie Meko</sub>
+<p>A neighbor said that the apartment had been renovated before the home-based facility opened, and workers had installed a new floor.  <a href="https://nyti.ms/3sZyA4x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Right-Wing Rebels Block Defense Bill Again, Rebuking McCarthy on Spending</h3>
-<sub>By Annie Karni</sub>
-<p>It was the second time in a week that hard-right Republicans had defied Speaker Kevin McCarthy on a spending measure, signaling that there was still no G.O.P. agreement on a bill to fund the government.  <a href="https://nyti.ms/3ETRKLH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub>By Annie Karni and Carl Hulse</sub>
+<p>It was the second time in a week that hard-right Republicans had defied Speaker Kevin McCarthy on a spending measure, signaling that the G.O.P. was still far from agreement on a bill to fund the government.  <a href="https://nyti.ms/3ETRKLH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Washington Visit, Zelensky Tries to Shore Up Critical Support</h3>
+<sub>By Erica L. Green and Katie Rogers</sub>
+<p>President Volodymyr Zelensky told lawmakers that Ukraine would lose the war to Russia if the United States curtailed the flow of aid and weapons.  <a href="https://nyti.ms/3Lw2xiV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Two Dead and Dozens Injured as Bus Carrying High School Students Crashes</h3>
+<sub>By Lola Fadulu and Sarah Maslin Nir</sub>
+<p>The bus was transporting a high school marching band from Long Island to a camp in Pennsylvania when it crashed on a New York highway.  <a href="https://nyti.ms/48nUm1Y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -98,41 +122,17 @@ There are a lot of changes going on in the world right now. In Venezuela, hundre
 <p>The move leaves his son Lachlan as the sole executive in charge of the global media empire.  <a href="https://nyti.ms/46ihME5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How Rupert Murdoch Built His Media Empire</h3>
-<sub>By J. Edward Moreno</sub>
-<p>Over seven decades, the Australian-born magnate compiled an array of news outlets, book publishers, and film and television properties into a global behemoth.  <a href="https://nyti.ms/48nVX7Y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Armenia and Azerbaijan Clash, Russia Is a Distracted Spectator</h3>
-<sub>By Andrew Higgins</sub>
-<p>In the conflict over Nagorno-Karabakh, Russia, drained by the war in Ukraine, seemed incapable of acting as the indispensable power capable of knocking heads together.  <a href="https://nyti.ms/3rrzXII"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Jimmy Carter’s Final Chapter: Peanut Butter Ice Cream and His 99th Birthday</h3>
-<sub>By Peter Baker</sub>
-<p>Mr. Carter was already the longest-living president in American history, but his staying power even in hospice has captured the imagination of admirers around the world.  <a href="https://nyti.ms/3PNOZCc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Rupert Murdoch Turned Passion and Grievance Into Money and Power</h3>
+<sub>By James Poniewozik</sub>
+<p>The retiring Fox leader built a noise-and-propaganda machine by giving his people what they wanted — and sometimes by teaching them what to want.  <a href="https://nyti.ms/3t5l1AH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>For Tesla and Musk, Auto Strike Carries Benefits and Risks</h3>
-<sub>By Jack Ewing</sub>
-<p>Elon Musk, the Tesla chief executive, may be able to exploit his rivals’ weaknesses, but the United Automobile Workers union also has the electric carmaker in its sights.  <a href="https://nyti.ms/48qQEoe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Lachlan Murdoch’s On-Again, Off-Again Relationship With the Family Business</h3>
+<sub>By Katie Robertson and Jeremy W. Peters</sub>
+<p>He solidified his rise to the top of his father’s media empire on Thursday.  <a href="https://nyti.ms/3Rw0AXD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Are High Rates Going to Last? Fed Officials Increasingly Think So.</h3>
-<sub>By Ben Casselman and Jeanna Smialek</sub>
-<p>Federal Reserve officials forecast higher interest rates through 2026 this week, a sign that borrowing costs are not heading back to the rock-bottom levels normal before the pandemic.  <a href="https://nyti.ms/461djWH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>Being 13</h3>
-<sub>By JESSICA BENNETT</sub>
-<p>Three girls, one year. This is what it’s like to be 13 today, in a world that can’t stop talking about the dire state of your future.  <a href="https://nyti.ms/3rnG6FY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
