@@ -60,45 +60,40 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, September 22, Central Standard Time</p>
 <p>
-I&#39;ve got some news to share about what&#39;s going on in the world. 
-In Business, there are negotiations and walkouts at Ford Company due to union demands. 
-In NYC, Senator Robert Menendez was recently indicted for bribery, and there could be other key players involved in the case. Additionally, China&#39;s shadow banks are facing financial crises and U.S. and China just agreed to a new economic dialogue format to try to resolve differences. 
-On the global front, there have been budget drones being used in wars and South Korea has made fares free for senior subway riders. Also, President Biden is warning that Trump could ‘destroy’ democracy and plans on taking him down in the upcoming election season. It has also been discovered that an NYC daycare was utilizing a secret door to keep hidden narcotics in the location where a child died. Lastly, Governor Jim McGreevey, who resigned following an extramarital affair is considering running for mayor again as part of a potential political comeback.</p>
+Right now, the UAW (United Automobile Workers) is on strike at factories and distribution centers owned by Ford, General Motors and Stellantis. They have recently expanded the strikes to 38 spare parts distribution centers. At the same time, they remain in talks with Ford and say they have seen progress. Meanwhile, President Biden has weighed in on the strike, saying he defends the workers, but has made no immediate plans to visit them. 
+
+Also, in politics, Senator Robert Menendez of New Jersey has been charged with bribery six years after his trial for corruption ended with a hung jury. On the international side, Ukraine has been using a fleet of drones to evade and target Russian air defense systems, while also making some progress in their counteroffensive against Russia. However, there has also been an unexpected development: elderly citizens of South Korea are now able to ride the rail system for free and many have taken advantage of it by taking long rides for enjoyment. 
+
+Meanwhile in China there is an increasing alarm over their real estate crisis after a financially troubled firm stopped paying investors and may spark panic. And finally, former hockey enforcer Chris Nilan is trying to answer questions about the CTE before it&#39;s too late and former New Jersey Governor Jim McGreevey is preparing for a potential political comeback despite having resigned after admitting an extramarital affair with a male employee.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.A.W. Extends Walkouts to More Plants, but Cites Progress in Ford Talks</h3>
+<h3>U.A.W. Widens Strikes at G.M. and Stellantis, but Cites Progress in Ford Talks</h3>
 <sub>By Neal E. Boudette</sub>
-<p>The union designated 38 parts distribution factories as additional strike targets at G.M. and Stellantis.  <a href="https://nyti.ms/462D6hf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The union designated 38 spare parts distribution centers as additional strike targets at General Motors and Stellantis.  <a href="https://nyti.ms/462D6hf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Here Are the Locations Where U.A.W. Strikes Are Happening</h3>
+<sub>By Lazaro Gamio, Molly Cook Escobar and Eli Murray</sub>
+<p>See where U.A.W. members are on strike at plants and distribution centers owned by Ford, General Motors and Stellantis.  <a href="https://nyti.ms/46e3EM2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>U.A.W. Expands Strikes at Automakers: Here’s What to Know.</h3>
+<sub>By J. Edward Moreno and Neal E. Boudette</sub>
+<p>The walkouts, which began on Sept. 15, were extended at two Detroit automakers, but not at Ford, which the union said had gone further in meeting its demands.  <a href="https://nyti.ms/46mt1vx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.A.W. President Steps Up Pressure on Biden With Invite to Picket Lines</h3>
+<sub>By Reid J. Epstein</sub>
+<p>President Biden has defended the striking autoworkers, who expanded their walkout on Friday, but has so far not announced plans to visit them.  <a href="https://nyti.ms/3t4ANM4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Menendez Accused of Brazen Bribery Plot, Taking Cash and Gold</h3>
 <sub>By Benjamin Weiser, Tracey Tully and William K. Rashbaum</sub>
 <p>Senator Robert Menendez, a New Jersey Democrat, was charged six years after his trial in a different corruption case ended in a hung jury.  <a href="https://nyti.ms/3RC14vD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Read the Robert Menendez Indictment</h3>
-<sub></sub>
-<p>Mr. Menendez, a U.S. senator for New Jersey, was charged in a federal corruption indictment, the authorities said on Friday. Read the document.  <a href="https://nyti.ms/3rkWHdB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>These Are the Key Players in the Case Against Senator Menendez</h3>
-<sub>By Tracey Tully</sub>
-<p>Senator Robert Menendez and four others were charged after a lengthy investigation led by federal prosecutors in Manhattan.  <a href="https://nyti.ms/3PrJrMe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Real Estate Crisis Triggers New Alarms Over China’s Shadow Banks</h3>
-<sub>By Daisuke Wakabayashi and Claire Fu</sub>
-<p>A financially troubled firm has stopped paying investors, risking panic and testing the Chinese government’s resolve to take on debts from its property crisis.  <a href="https://nyti.ms/3reXFIp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. and China Agree to New Economic Dialogue Format</h3>
-<sub>By Alan Rappeport and Keith Bradsher</sub>
-<p>The regular talks are intended to give both countries a venue to resolve differences.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -108,28 +103,34 @@ On the global front, there have been budget drones being used in wars and South 
 <sub><sub>Friday, September 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Another Step for Ukraine: Armored Vehicles Breach Some Russian Defenses</h3>
+<sub>By Andrew E. Kramer</sub>
+<p>Ukraine advanced at one location in the southeast, reflecting slight progress in Kyiv’s halting counteroffensive.  <a href="https://nyti.ms/3t6mbMj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>For South Korea’s Senior Subway Riders, the Joy Is in the Journey</h3>
 <sub>By Victoria Kim and Chang W. Lee</sub>
 <p>The fare is free for those older than 65, and so some retired people spend their days riding the trains to the end of the line.  <a href="https://nyti.ms/48jjgQx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden, Warning Trump Could ‘Destroy’ Democracy, Moves Past G.O.P. Primary</h3>
-<sub>By Shane Goldmacher and Reid J. Epstein</sub>
-<p>Months before the first Republican primaries, the president is turning his attention to his old adversary as he tries to re-energize his party’s voters and donors.  <a href="https://nyti.ms/46l6Bux"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Request for Gag Order on Trump Raises Free Speech Dilemma</h3>
+<sub>By Charlie Savage</sub>
+<p>By putting the prospect of political violence at the heart of their argument to limit the former president’s statements about the election case, federal prosecutors raised issues that have little precedent.  <a href="https://nyti.ms/3PwgX40"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Children Are the Casualties in New Yorkers’ Daily Struggle for Space</h3>
-<sub>By Ginia Bellafante</sub>
-<p>Tragedies abound at the confluence of two crises: the desperate need for housing and the shortage of quality child care.  <a href="https://nyti.ms/3LxNrd4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>A Trap Door Hid a Cache of Narcotics at the Day Care Where a Child Died</h3>
-<sub>By Hurubie Meko</sub>
-<p>A neighbor said that the apartment had been renovated before the home-based facility opened, and workers had installed a new floor.  <a href="https://nyti.ms/3sZyA4x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Real Estate Crisis Triggers New Alarms Over China’s Shadow Banks</h3>
+<sub>By Daisuke Wakabayashi and Claire Fu</sub>
+<p>A financially troubled firm has stopped paying investors, risking panic and testing the Chinese government’s resolve to take on debts from its property crisis.  <a href="https://nyti.ms/3reXFIp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>A Former Hockey Enforcer Searches for Answers on C.T.E. Before It’s Too Late</h3>
+<sub>By David Waldstein</sub>
+<p>Chris Nilan fought more than 300 times during a pro hockey career, then had years of addiction and anger problems. A high-risk candidate for chronic traumatic encephalopathy, Nilan is being studied by Boston University.  <a href="https://nyti.ms/3t6WgEb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Governor Who Quit Politics Amid Scandal Eyes a New Job: Mayor</h3>
