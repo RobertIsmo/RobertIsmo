@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, September 22, Central Standard Time</p>
 <p>
-It seems like a lot is going on in the world right now! In China, there is a real estate crisis that has triggered new alarms over the country&#39;s shadow banking system. Over in America, President Biden is trying to address the migrant crisis, while conservative Republicans are pushing for more restrictive immigration laws. In Venezuela, hundreds of thousands of migrants have been given permission to legally work, which could affect New York. Mexico is feeling pressure from the migration influx coming from South America. There was a deal made to free 5 American prisoners in Iran and there was recently discovered narcotics found in a day care where a child died. On the politics front, right-wing rebels have blocked the defense bill again due to quarreling within the GOP regarding government spending. Ukraine&#39;s president recently visited Washington and made an appeal for continued aid and weapons support. Tragically, there was also a bus accident recently which resulted in two deaths and dozens of injuries involving a high school marching band. Finally, media mogul Rupert Murdoch has announced his retirement from Fox and News Corporation boards, leaving his son Lachlan as its sole executive leader. It will be interesting to see what changes Lachlan makes!</p>
+Recently, there&#39;s been some turmoil in world economics as one firm has caused alarm by not paying its investors. Meanwhile, Ukraine is using inexpensive drone technology in its war with Russia. There have been some promising international developments in the Middle East, as the US has secured the release of 5 American prisoners in Iran through negotiation. In South Korea, elderly citizens are taking advantage of free subway rides, something that can bring joy to their everyday lives. Stateside, US President Joe Biden is turning to his old adversary Donald Trump in an attempt to build support for his election campaign. In New York City, the lack of available housing and quality childcare units has caused children to be disproportionately affected. Additionally, a day care center containing narcotics was discovered in an apartment with a newly-renovated floor. Speaking of politics, former New Jersey governor Jim McGreevey is attempting another political comeback despite stepping away from office years ago owing to a scandal involving an extramarital affair with a male employee. Climate-wise things aren&#39;t looking much better, as more and more Arctic sea ice is melting due to a warmer climate and could be practically gone by 2030s. Finally, Rupert Murdoch has retired from Fox after spending many years building a media empire that promotes his idealogies through noise and propaganda. His son Lachlan meanwhile has taken charge after having a complicated relationship with the family business over the years.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Real Estate Crisis Triggers New Alarms Over China’s Shadow Banks</h3>
@@ -68,23 +68,11 @@ It seems like a lot is going on in the world right now! In China, there is a rea
 <p>A financially troubled firm has stopped paying investors, risking panic and testing the Chinese government’s resolve to take on debts from its property crisis.  <a href="https://nyti.ms/3reXFIp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Faces Competing Pressures as He Tries to Ease the Migrant Crisis</h3>
-<sub>By Michael D. Shear and Luis Ferré-Sadurní</sub>
-<p>The situation provides ammunition to conservative Republicans who are vowing to shut down the government unless Congress agrees to harsh new anti-immigration measures.  <a href="https://nyti.ms/3Pqq1Hx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Venezuelan Migrants Scored a Big Victory. How Will It Affect New York?</h3>
-<sub>By Nicholas Fandos</sub>
-<p>With nearly 500,000 Venezuelan migrants able to legally work, N.Y. officials were weighing the practical and political impact of a complex decision.  <a href="https://nyti.ms/46pi9gt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 21, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Mexico Feels Pressure of Relentless Migration From South America</h3>
-<sub>By James Fredrick</sub>
-<p>The surge of migrants trekking north mostly from South America has placed increasing pressure on Mexico as the country applies a range of tactics to quell arrivals.  <a href="https://nyti.ms/3roWru2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 21, Central Standard Time</sub></sub>
+<h3>Budget Drones Prove Their Value in a Billion-Dollar War</h3>
+<sub>By Andrew E. Kramer and Lynsey Addario</sub>
+<p>A fleet of inexpensive, mostly off-the-shelf drones is helping Ukrainian forces evade and target sophisticated Russian air defense systems.  <a href="https://nyti.ms/3EMoDKv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Inside the Deal to Free 5 American Prisoners in Iran</h3>
@@ -92,35 +80,47 @@ It seems like a lot is going on in the world right now! In China, there is a rea
 <p>U.S. negotiators say the release of the prisoners is proof that even fierce adversaries can sometimes find their way to an agreement. But the deal almost didn’t happen.  <a href="https://nyti.ms/451cJam"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 21, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>For South Korea’s Senior Subway Riders, the Joy Is in the Journey</h3>
+<sub>By Victoria Kim and Chang W. Lee</sub>
+<p>The fare is free for those older than 65, and so some retired people spend their days riding the trains to the end of the line.  <a href="https://nyti.ms/48jjgQx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden, Warning Trump Could ‘Destroy’ Democracy, Moves Past G.O.P. Primary</h3>
+<sub>By Shane Goldmacher and Reid J. Epstein</sub>
+<p>The president is turning his attention to his old adversary as he tries to re-energize his party’s voters and donors, with polls showing soft support so far.  <a href="https://nyti.ms/46l6Bux"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Children Are the Casualties in New Yorkers’ Daily Struggle for Space</h3>
+<sub>By Ginia Bellafante</sub>
+<p>Tragedies abound at the confluence of two crises: the desperate need for housing and the shortage of quality child care.  <a href="https://nyti.ms/3LxNrd4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 22, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>A Trap Door Hid a Cache of Narcotics at the Day Care Where a Child Died</h3>
 <sub>By Hurubie Meko</sub>
 <p>A neighbor said that the apartment had been renovated before the home-based facility opened, and workers had installed a new floor.  <a href="https://nyti.ms/3sZyA4x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Right-Wing Rebels Block Defense Bill Again, Rebuking McCarthy on Spending</h3>
-<sub>By Annie Karni and Carl Hulse</sub>
-<p>It was the second time in a week that hard-right Republicans had defied Speaker Kevin McCarthy on a spending measure, signaling that the G.O.P. was still far from agreement on a bill to fund the government.  <a href="https://nyti.ms/3ETRKLH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Washington Visit, Zelensky Tries to Shore Up Critical Support</h3>
-<sub>By Erica L. Green and Katie Rogers</sub>
-<p>President Volodymyr Zelensky told lawmakers that Ukraine would lose the war to Russia if the United States curtailed the flow of aid and weapons.  <a href="https://nyti.ms/3Lw2xiV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 21, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Two Dead and Dozens Injured as Bus Carrying High School Students Crashes</h3>
-<sub>By Lola Fadulu and Sarah Maslin Nir</sub>
-<p>The bus was transporting a high school marching band from Long Island to a camp in Pennsylvania when it crashed on a New York highway.  <a href="https://nyti.ms/48nUm1Y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 21, Central Standard Time</sub></sub>
+<h3>Governor Who Quit Politics Amid Scandal Eyes a New Job: Mayor</h3>
+<sub>By Tracey Tully</sub>
+<p>Jim McGreevey, New Jersey’s 52nd governor, resigned after admitting to an extramarital affair with a male employee. Now he is preparing for a political comeback.  <a href="https://nyti.ms/3Ltuqbl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Rupert Murdoch to Retire From Fox and News Corporation Boards</h3>
-<sub>By Jim Rutenberg</sub>
-<p>The move leaves his son Lachlan as the sole executive in charge of the global media empire.  <a href="https://nyti.ms/46ihME5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 21, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Here’s Life on an Expedition to Track Declining Arctic Ice</h3>
+<sub>By Henry Fountain and Esther Horvath</sub>
+<p>Each September, the ice at the top of the world hits its lowest extent of the year. Researchers are studying how a warming climate is affecting a not-so-frozen ocean.  <a href="https://nyti.ms/3RxfhK7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Arctic Summer Could Be Practically Sea-Ice-Free by the 2030s</h3>
+<sub>By Raymond Zhong</sub>
+<p>In a new study, scientists found that the climate milestone could come about a decade sooner than anticipated, even if planet-warming emissions are gradually reduced.  <a href="https://nyti.ms/42pyO0M"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, June 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>Rupert Murdoch Turned Passion and Grievance Into Money and Power</h3>
