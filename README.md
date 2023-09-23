@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, September 23, Central Standard Time</p>
 <p>
-Right now, there is a lot happening around the world – both in terms of major news events and smaller ones. In the US, there is an influx of migrants at the border, while powerbrokers in Washington are creating dysfunction on Capitol Hill. Meanwhile in Europe, Ukraine is trying to get ammunition for its army, leading to some difficulties with Russia in the process. In New York, Senator Robert Menendez has been accused of accepting bribes and his case is being investigated. Here in the US too, there are investigations into Tyson and Perdue&#39;s child labor practices, as well as negotiations between unions and automakers that President Biden actually visited on the picket line. All in all, a chaotic few weeks!</p>
+There is a lot going on in the world right now. In the US, autoworkers are striking against major automakers and President Biden has pledged to join them on the picket line. Meanwhile, electric vehicle battery plants in Ohio are struggling hard with negotiating new labor standards set by Biden’s clean energy agenda. In the international arena, there is a diplomatic dispute between Canada and India over the assassination of a Sikh leader, and Europe is having difficulty providing Ukraine with ammunition for its conflict with Russia over Crimea. Furthermore, Senator Robert Menendez in New Jersey has been indicted on bribery charges. These are just some of the many stories making news right now!</p>
 <ol>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Gold Bullion and Halal Meat: Inside the Menendez Investigation</h3>
@@ -87,22 +87,22 @@ Right now, there is a lot happening around the world – both in terms of major 
 <sub><sub>Saturday, September 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>One Day on the Border: 8,900 Migrants Arrested, and More on the Way</h3>
-<sub>By Miriam Jordan, Jack Healy and Eileen Sullivan</sub>
-<p>A sudden surge of people from around the globe is showing up at the southern border, despite dangers and deportations. ‘If you don’t take risks, you cannot win,’ said one man who traveled from Peru.  <a href="https://nyti.ms/46erFD6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The Wrecking-Ball Caucus: How the Far Right Brought Washington to Its Knees</h3>
 <sub>By Carl Hulse</sub>
 <p>Right-wing Republicans who represent a minority in their party and in Congress have succeeded in sowing mass dysfunction, spoiling for a shutdown, an impeachment and a House coup.  <a href="https://nyti.ms/3ronlSQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>Being 13</h3>
-<sub>By Jessica Bennett</sub>
-<p>Three girls, one year. This is what it’s like to be 13 today, in a world that can’t stop talking about the dire state of your future.  <a href="https://nyti.ms/3rnG6FY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Two Hooded Gunmen, a Silver Getaway Car and a Slain Sikh Leader</h3>
+<sub>By Norimitsu Onishi and Ian Austen</sub>
+<p>Three witnesses who said they saw the killers of Hardeep Singh Nijjar, the Sikh leader at the center of a diplomatic dispute between Canada and India, described the scene.  <a href="https://nyti.ms/3LyfqJs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. Army Hospital in Germany Is Treating Americans Hurt Fighting in Ukraine</h3>
+<sub>By Dave Philipps and Eric Schmitt</sub>
+<p>The Army’s Landstuhl Regional Medical Center has quietly started admitting Ukrainian Army soldiers who were wounded in combat, most of them American volunteers.  <a href="https://nyti.ms/3PRC9CZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Europe Made a Bold Pledge of Ammunition for Ukraine. Now Comes the Hard Part.</h3>
@@ -128,10 +128,10 @@ Right now, there is a lot happening around the world – both in terms of major 
 <p>In an extraordinary show of support for organized labor, President Biden said he would join workers in Michigan on the front lines of their strike against leading automakers.  <a href="https://nyti.ms/3t4ANM4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Tyson and Perdue Are Facing Child Labor Investigations</h3>
-<sub>By Hannah Dreier</sub>
-<p>The Labor Department has opened inquiries into whether migrant children were working inside slaughterhouses owned by the poultry-processing giants.  <a href="https://nyti.ms/3ZvOFv9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>In Hospitals, Viruses Are Everywhere. Masks Are Not.</h3>
+<sub>By Apoorva Mandavilli</sub>
+<p>Amid an uptick in Covid infections, administrators, staff and patients are divided over the need for masks in health care settings.  <a href="https://nyti.ms/3ZrSWiS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 23, Central Standard Time</sub></sub>
 <hr/>
 </ol>
