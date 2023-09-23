@@ -60,11 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, September 22, Central Standard Time</p>
 <p>
-There&#39;s a lot going on right now in the US and abroad. In New Jersey, Senator Robert Menendez is being accused of bribery and has stepped down from his chairmanship of the Foreign Relations Committee. The Justice Department has these accusations at an opportune moment, as Washington is preparing for a potential government shutdown. Representative Gaetz is taking charge in the opposition to avoid a government shutdown. 
-
-Meanwhile, President Biden has made a historic move of stepping onto the picket line with autoworkers on strike against leading automakers in Michigan. For United Auto Workers, they have designated strike targets at 38 spare-parts distribution centers across General Motors and Stellantis. 
-
-The US-Mexico border is also in the news with 8,900 migrants arrested in one day, showing an increase in travelers from around the world. And there’s even been talk of putting a gag order on former president Trump due to threatening judgements and prosecutors in reference to his complaints about the election case. On top of it all, President Biden&#39;s emails have been released and contradict many of the claims made by House Republicans.</p>
+There is a lot happening in the world right now that&#39;s worth keeping an eye on. In the US, Senator Robert Menendez of New Jersey has been accused of a brazen bribery plot and the Democratic-controlled House of Representatives is hurtling toward a potential government shutdown. Meanwhile, President Biden has made history by joining autoworkers on the picket line in Michigan, in support of their labor strike. In Ukraine, President Zelensky is discovering divisions between his own strategy and that of the US. Finally, House Republicans have suggested that President Biden used an alias for emails and this was undercut by an initial release of multiple emails.</p>
 <ol>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Menendez Accused of Brazen Bribery Plot, Taking Cash and Gold</h3>
