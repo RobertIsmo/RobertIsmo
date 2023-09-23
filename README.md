@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Friday, September 22, Central Standard Time</p>
+<p>It is Saturday, September 23, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now that&#39;s worth keeping an eye on. In the US, Senator Robert Menendez of New Jersey has been accused of a brazen bribery plot and the Democratic-controlled House of Representatives is hurtling toward a potential government shutdown. Meanwhile, President Biden has made history by joining autoworkers on the picket line in Michigan, in support of their labor strike. In Ukraine, President Zelensky is discovering divisions between his own strategy and that of the US. Finally, House Republicans have suggested that President Biden used an alias for emails and this was undercut by an initial release of multiple emails.</p>
+There&#39;s a lot going on right now! In the US, we&#39;ve got a government shutdown over budget disagreements, and a lot of political tensions between both parties. There&#39;s also a labor strike against the leading automakers in the US, led by the UAW. On the global front, India is dealing with a water crisis, while Ukraine and the US are disagreeing on strategies for recovering lost territory in the east. And in political news, Senator Robert Menendez of New Jersey has been accused of bribery and his future in government is uncertain. Finally, there are revelations from emails and other documents about President Biden that counter some GOP-led claims about him.</p>
 <ol>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Menendez Accused of Brazen Bribery Plot, Taking Cash and Gold</h3>
@@ -110,10 +110,10 @@ There is a lot happening in the world right now that&#39;s worth keeping an eye 
 <p>A sudden surge of people from around the globe is showing up at the southern border, despite dangers and deportations. ‘If you don’t take risks, you cannot win,’ said one man who traveled from Peru.  <a href="https://nyti.ms/46erFD6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>A Former Hockey Enforcer Searches for Answers on C.T.E. Before It’s Too Late</h3>
-<sub>By David Waldstein</sub>
-<p>Chris Nilan fought more than 300 times during a pro hockey career, then had years of addiction and anger problems. A high-risk candidate for chronic traumatic encephalopathy, Nilan is being studied by Boston University.  <a href="https://nyti.ms/3t6WgEb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>India’s ‘Lake Man’ Relies on Ancient Methods to Ease a Water Crisis</h3>
+<sub>By Sameer Yasir</sub>
+<p>Anand Malligavad turned to centuries-old knowledge to reclaim dozens of lakes in the high-tech capital of Bengaluru. Now, he is in demand across India, one of the world’s most water-stressed nations.  <a href="https://nyti.ms/3t6FgOs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
