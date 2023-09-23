@@ -60,49 +60,27 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, September 23, Central Standard Time</p>
 <p>
-There has been a lot of scandal and political drama in the US recently. Senator Robert Menendez was called on to resign from his post after being accused of playing a part in a bribery plot. There is also concern for a potential government shutdown, with politicians preparing for a lapse in government funding. President Biden made a historic move by joining the UAW pickets line in Michigan in support of organized labor. Meanwhile, UAW has widened its strikes against some major corporation such as G.M. and Stellantis, but are showing progress with Ford talks. At the US-Mexico border, the influx of migrants is becoming increasingly apparent, and India is trying to mitigate their water crisis with ancient knowledge. On top of all this, the Justice Department is pushing for gag orders against former President Trump for making dangerous claims about the election case. Finally, the first batch of Biden emails has been released and nothing incriminating was found in them.</p>
+There is a lot of political upheaval going on right now. There is an ongoing federal investigation into the bribery scandal involving Senator Robert Menendez of New Jersey and his wife, Nadine. There has also been an influx of immigrants to the US-Mexico border. On the far right, Republicans have succeeded in sowing mass dysfunction and advocating for a House coup. 
+
+At the same time, there are labor issues within the US. President Biden has taken unprecedented measures in support of unionized autoworkers who are currently striking against major automakers, while Tyson and Perdue are under investigation for using child labor in their poultry-processing plants. Migrant children are also facing dire realities when it comes to their working conditions despite federal laws prohibiting it.</p>
 <ol>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Menendez Accused of Brazen Bribery Plot, Taking Cash and Gold</h3>
-<sub>By Benjamin Weiser, Tracey Tully and William K. Rashbaum</sub>
-<p>The governor of New Jersey called on Senator Robert Menendez to resign. The senator stepped down from his chairmanship of the Foreign Relations Committee.  <a href="https://nyti.ms/3RC14vD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 22, Central Standard Time</sub></sub>
+<h3>Gold Bullion and Halal Meat: Inside the Menendez Investigation</h3>
+<sub>By Nicole Hong</sub>
+<p>Federal prosecutors have accused Senator Robert Menendez of New Jersey and his wife, Nadine, of accepting bribes in exchange for official actions by Mr. Menendez.  <a href="https://nyti.ms/3Lyr3jJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Menendez Indictment Appears to Undercut Claims of ‘Two-Tiered System’ of Justice</h3>
-<sub>By Glenn Thrush</sub>
-<p>The indictment of the Democratic senator from New Jersey comes at a politically opportune moment for the besieged Justice Department.  <a href="https://nyti.ms/44YPayF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 22, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Does Robert Menendez Have Enough Teflon to Survive Again?</h3>
+<sub>By Nicholas Fandos</sub>
+<p>Senator Menendez, who has defeated prosecutors and political challengers, faces his sternest test yet in his federal indictment in Manhattan.  <a href="https://nyti.ms/3EW1g0R"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Across Washington, Officials Brace for Government Shutdown</h3>
-<sub>By Robert Jimison and Kayla Guo</sub>
-<p>With salary advances and staff reshuffles, lawmakers and federal agencies are preparing for a lapse in government funding that is beginning to seem inevitable.  <a href="https://nyti.ms/4524fzE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Gold, an Investment for Some, Is a Portable Vehicle for Graft</h3>
+<sub>By Ed Shanahan</sub>
+<p>Prosecutors say Senator Robert Menendez had a cache of ill-gotten ingots and a sudden interest in the price of the precious metal.  <a href="https://nyti.ms/3PQrQ1G"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>With House Hurtling Toward a Shutdown, Gaetz Is Leading the Resistance</h3>
-<sub>By Annie Karni</sub>
-<p>The Florida Republican, who has styled himself as Speaker Kevin McCarthy’s chief tormentor, is leading the opposition to a measure to keep the government open.  <a href="https://nyti.ms/3t6aa9C"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Will Join Autoworkers on Picket Line in Michigan, a Historic Move</h3>
-<sub>By Reid J. Epstein, Katie Rogers and Shane Goldmacher</sub>
-<p>In an extraordinary show of support for organized labor, President Biden said he would join workers in Michigan on the front lines of their strike against leading automakers.  <a href="https://nyti.ms/3t4ANM4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.A.W. Widens Strikes at G.M. and Stellantis, but Cites Progress in Ford Talks</h3>
-<sub>By Neal E. Boudette</sub>
-<p>The union designated 38 spare-parts distribution centers as additional strike targets at General Motors and Stellantis.  <a href="https://nyti.ms/462D6hf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Here Are the Locations Where U.A.W. Strikes Are Happening</h3>
-<sub>By Lazaro Gamio, Molly Cook Escobar and Eli Murray</sub>
-<p>See where U.A.W. members are on strike at plants and distribution centers owned by Ford, General Motors and Stellantis.  <a href="https://nyti.ms/46e3EM2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>One Day on the Border: 8,900 Migrants Arrested, and More on the Way</h3>
@@ -110,29 +88,53 @@ There has been a lot of scandal and political drama in the US recently. Senator 
 <p>A sudden surge of people from around the globe is showing up at the southern border, despite dangers and deportations. ‘If you don’t take risks, you cannot win,’ said one man who traveled from Peru.  <a href="https://nyti.ms/46erFD6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 22, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Wrecking-Ball Caucus: How the Far Right Brought Washington to Its Knees</h3>
+<sub>By Carl Hulse</sub>
+<p>Right-wing Republicans who represent a minority in their party and in Congress have succeeded in sowing mass dysfunction, spoiling for a shutdown, an impeachment and a House coup.  <a href="https://nyti.ms/3ronlSQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>Being 13</h3>
+<sub>By Jessica Bennett</sub>
+<p>Three girls, one year. This is what it’s like to be 13 today, in a world that can’t stop talking about the dire state of your future.  <a href="https://nyti.ms/3rnG6FY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 20, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>India’s ‘Lake Man’ Relies on Ancient Methods to Ease a Water Crisis</h3>
-<sub>By Sameer Yasir</sub>
-<p>Anand Malligavad turned to centuries-old knowledge to reclaim dozens of lakes in the high-tech capital of Bengaluru. Now, he is in demand across India, one of the world’s most water-stressed nations.  <a href="https://nyti.ms/3t6FgOs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Europe Made a Bold Pledge of Ammunition for Ukraine. Now Comes the Hard Part.</h3>
+<sub>By Lara Jakes</sub>
+<p>After 30 years of atrophy, experts say, Europe’s shrunken military industry will struggle to provide the Ukrainians with a million artillery shells by March.  <a href="https://nyti.ms/3PpVQjP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukraine Targets Crimea for Second Day in a Row, Russia Says</h3>
+<sub>By Constant Méheut</sub>
+<p>Russian-installed authorities in the occupied peninsula said debris from a downed rocket fell in the Sevastopol bay, where Moscow’s Black Sea Fleet is based.  <a href="https://nyti.ms/3RtmYkB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>An Ohio Town Struggles Between Biden’s Clean Energy Agenda and Union Support</h3>
+<sub>By Jonathan Weisman</sub>
+<p>Contract talks at an electric vehicle battery plant in Lordstown could have even more of an impact than the autoworkers’ strike on the labor standards of the emerging electric-vehicle industry.  <a href="https://nyti.ms/3PwvSLm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Will Join Autoworkers on Picket Line in Michigan, a Historic Move</h3>
+<sub>By Reid J. Epstein, Katie Rogers and Shane Goldmacher</sub>
+<p>In an extraordinary show of support for organized labor, President Biden said he would join workers in Michigan on the front lines of their strike against leading automakers.  <a href="https://nyti.ms/3t4ANM4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Zelensky’s Visit Reveals Strategy Divide Between Ukraine and U.S.</h3>
-<sub>By Helene Cooper and Julian E. Barnes</sub>
-<p>While the Ukrainian military remains focused on retaking territory in the east, American officials are pushing for a shift to the south.  <a href="https://nyti.ms/3PRKg2s"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 22, Central Standard Time</sub></sub>
+<h3>Tyson and Perdue Are Facing Child Labor Investigations</h3>
+<sub>By Hannah Dreier</sub>
+<p>The Labor Department has opened inquiries into whether migrant children were working inside slaughterhouses owned by the poultry-processing giants.  <a href="https://nyti.ms/3ZvOFv9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Push to Gag Trump Pits Free Speech Against Risk of Violence</h3>
-<sub>By Charlie Savage</sub>
-<p>By putting threats to the judge and prosecutors at the heart of its argument to limit the former president’s statements about the election case, the Justice Department raised issues with little precedent.  <a href="https://nyti.ms/3PwgX40"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>First Batch of Biden Emails Undercuts G.O.P. Claims</h3>
-<sub>By Luke Broadwater</sub>
-<p>House Republicans have suggested that President Biden used an email alias to abuse his office and cover it up, but an initial tranche of the messages reveals banal content and personal information.  <a href="https://nyti.ms/462JcOD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 22, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>The Kids on the Night Shift</h3>
+<sub>By Hannah Dreier and Meridith Kohut</sub>
+<p>For Marcos Cux — and thousands of other migrant children — working dangerous jobs that violate child-labor laws is the only American dream there is.  <a href="https://nyti.ms/3Lv7Hfb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
