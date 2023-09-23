@@ -60,9 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, September 23, Central Standard Time</p>
 <p>
-There is a lot of political upheaval going on right now. There is an ongoing federal investigation into the bribery scandal involving Senator Robert Menendez of New Jersey and his wife, Nadine. There has also been an influx of immigrants to the US-Mexico border. On the far right, Republicans have succeeded in sowing mass dysfunction and advocating for a House coup. 
-
-At the same time, there are labor issues within the US. President Biden has taken unprecedented measures in support of unionized autoworkers who are currently striking against major automakers, while Tyson and Perdue are under investigation for using child labor in their poultry-processing plants. Migrant children are also facing dire realities when it comes to their working conditions despite federal laws prohibiting it.</p>
+Right now, there is a lot happening around the world – both in terms of major news events and smaller ones. In the US, there is an influx of migrants at the border, while powerbrokers in Washington are creating dysfunction on Capitol Hill. Meanwhile in Europe, Ukraine is trying to get ammunition for its army, leading to some difficulties with Russia in the process. In New York, Senator Robert Menendez has been accused of accepting bribes and his case is being investigated. Here in the US too, there are investigations into Tyson and Perdue&#39;s child labor practices, as well as negotiations between unions and automakers that President Biden actually visited on the picket line. All in all, a chaotic few weeks!</p>
 <ol>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Gold Bullion and Halal Meat: Inside the Menendez Investigation</h3>
@@ -81,6 +79,12 @@ At the same time, there are labor issues within the US. President Biden has take
 <sub>By Ed Shanahan</sub>
 <p>Prosecutors say Senator Robert Menendez had a cache of ill-gotten ingots and a sudden interest in the price of the precious metal.  <a href="https://nyti.ms/3PQrQ1G"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>For Egypt, Menendez Was Key to Access to Billions in U.S. Aid</h3>
+<sub>By Vivian Yee and Karoun Demirjian</sub>
+<p>When the annual allotment of up to $1.3 billion faltered even a sliver, Egypt found an ally in Senator Robert J. Menendez, who on Friday was indicted on bribery charges tied to Egypt.  <a href="https://nyti.ms/3Zw5buM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>One Day on the Border: 8,900 Migrants Arrested, and More on the Way</h3>
@@ -109,7 +113,7 @@ At the same time, there are labor issues within the US. President Biden has take
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ukraine Targets Crimea for Second Day in a Row, Russia Says</h3>
 <sub>By Constant Méheut</sub>
-<p>Russian-installed authorities in the occupied peninsula said debris from a downed rocket fell in the Sevastopol bay, where Moscow’s Black Sea Fleet is based.  <a href="https://nyti.ms/3RtmYkB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Russian-installed authorities in the occupied peninsula said debris from a downed rocket fell in the Sevastopol bay, where Moscow’s Black Sea Fleet is based.  <a href="https://nyti.ms/3rmwsn3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -129,12 +133,6 @@ At the same time, there are labor issues within the US. President Biden has take
 <sub>By Hannah Dreier</sub>
 <p>The Labor Department has opened inquiries into whether migrant children were working inside slaughterhouses owned by the poultry-processing giants.  <a href="https://nyti.ms/3ZvOFv9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>The Kids on the Night Shift</h3>
-<sub>By Hannah Dreier and Meridith Kohut</sub>
-<p>For Marcos Cux — and thousands of other migrant children — working dangerous jobs that violate child-labor laws is the only American dream there is.  <a href="https://nyti.ms/3Lv7Hfb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
