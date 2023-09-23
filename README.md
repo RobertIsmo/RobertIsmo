@@ -60,18 +60,40 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, September 22, Central Standard Time</p>
 <p>
-There are a lot of things going on right now that could have a significant impact on the future.  Across the United States, officials are bracing for a government shutdown as salary advances and staff reshuffles occur in preparation. In New Jersey, Senator Robert Menendez is being accused of a brazen bribery plot and has stepped down from his chairmanship of the Foreign Relations Committee. Meanwhile, the United Auto Workers union is now demanding more concessions from General Motors, Stellantis and Ford and President Biden will be visiting Michigan to support striking autoworkers on the picket line. On top of that, there is tension between Ukraine and the US concerning their different strategies involving Russia.  And here at home, there is a battle over free speech versus risk of violence concerning President Trump&#39;s statements about the election case and also a debate between Democrats on how to handle immigration. Lastly, we have former hockey enforcer Chris Nilan who was involved in over 300 fights during his career facing issues with addiction and anger, that is currently being studied by Boston University for CTE.</p>
+There&#39;s a lot going on right now in the US and abroad. In New Jersey, Senator Robert Menendez is being accused of bribery and has stepped down from his chairmanship of the Foreign Relations Committee. The Justice Department has these accusations at an opportune moment, as Washington is preparing for a potential government shutdown. Representative Gaetz is taking charge in the opposition to avoid a government shutdown. 
+
+Meanwhile, President Biden has made a historic move of stepping onto the picket line with autoworkers on strike against leading automakers in Michigan. For United Auto Workers, they have designated strike targets at 38 spare-parts distribution centers across General Motors and Stellantis. 
+
+The US-Mexico border is also in the news with 8,900 migrants arrested in one day, showing an increase in travelers from around the world. And there’s even been talk of putting a gag order on former president Trump due to threatening judgements and prosecutors in reference to his complaints about the election case. On top of it all, President Biden&#39;s emails have been released and contradict many of the claims made by House Republicans.</p>
 <ol>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Menendez Accused of Brazen Bribery Plot, Taking Cash and Gold</h3>
+<sub>By Benjamin Weiser, Tracey Tully and William K. Rashbaum</sub>
+<p>The governor of New Jersey called on Senator Robert Menendez to resign. The senator stepped down from his chairmanship of the Foreign Relations Committee.  <a href="https://nyti.ms/3RC14vD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Menendez Indictment Appears to Undercut Claims of ‘Two-Tiered System’ of Justice</h3>
+<sub>By Glenn Thrush</sub>
+<p>The indictment of the Democratic senator from New Jersey comes at a politically opportune moment for the besieged Justice Department.  <a href="https://nyti.ms/44YPayF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 22, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Across Washington, Officials Brace for Government Shutdown</h3>
 <sub>By Robert Jimison and Kayla Guo</sub>
 <p>With salary advances and staff reshuffles, lawmakers and federal agencies are preparing for a lapse in government funding that is beginning to seem inevitable.  <a href="https://nyti.ms/4524fzE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Menendez Accused of Brazen Bribery Plot, Taking Cash and Gold</h3>
-<sub>By Benjamin Weiser, Tracey Tully and William K. Rashbaum</sub>
-<p>The governor of New Jersey called on Senator Robert Menendez to resign. The senator stepped down from his chairmanship of the Foreign Relations Committee.  <a href="https://nyti.ms/3RC14vD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>With House Hurtling Toward a Shutdown, Gaetz Is Leading the Resistance</h3>
+<sub>By Annie Karni</sub>
+<p>The Florida Republican, who has styled himself as Speaker Kevin McCarthy’s chief tormentor, is leading the opposition to a measure to keep the government open.  <a href="https://nyti.ms/3t6aa9C"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Will Join Autoworkers on Picket Line in Michigan, a Historic Move</h3>
+<sub>By Reid J. Epstein, Katie Rogers and Shane Goldmacher</sub>
+<p>In an extraordinary show of support for organized labor, President Biden said he would join workers in Michigan on the front lines of their strike against leading automakers.  <a href="https://nyti.ms/3t4ANM4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -86,28 +108,22 @@ There are a lot of things going on right now that could have a significant impac
 <p>See where U.A.W. members are on strike at plants and distribution centers owned by Ford, General Motors and Stellantis.  <a href="https://nyti.ms/46e3EM2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.A.W. Expands Strikes at Automakers: Here’s What to Know.</h3>
-<sub>By J. Edward Moreno and Neal E. Boudette</sub>
-<p>The walkouts, which began on Sept. 15, were extended at two Detroit automakers, but not at Ford, which the union said had gone further in meeting its demands.  <a href="https://nyti.ms/46mt1vx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 15, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Will Visit Michigan to Support Striking Autoworkers on Picket Line</h3>
-<sub>By Reid J. Epstein, Katie Rogers and Shane Goldmacher</sub>
-<p>In a historic show of support for organized labor, President Biden said he would join workers in Michigan in their strike against leading automakers.  <a href="https://nyti.ms/3t4ANM4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>One Day on the Border: 8,900 Migrants Arrested, and More on the Way</h3>
+<sub>By Miriam Jordan, Jack Healy and Eileen Sullivan</sub>
+<p>A sudden surge of people from around the globe is showing up at the southern border, despite dangers and deportations. ‘If you don’t take risks, you cannot win,’ said one man who traveled from Peru.  <a href="https://nyti.ms/46erFD6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>A Former Hockey Enforcer Searches for Answers on C.T.E. Before It’s Too Late</h3>
+<sub>By David Waldstein</sub>
+<p>Chris Nilan fought more than 300 times during a pro hockey career, then had years of addiction and anger problems. A high-risk candidate for chronic traumatic encephalopathy, Nilan is being studied by Boston University.  <a href="https://nyti.ms/3t6WgEb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Zelensky’s Visit Reveals Strategy Divide Between Ukraine and U.S.</h3>
 <sub>By Helene Cooper and Julian E. Barnes</sub>
 <p>While the Ukrainian military remains focused on retaking territory in the east, American officials are pushing for a shift to the south.  <a href="https://nyti.ms/3PRKg2s"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Another Step for Ukraine: Armored Vehicles Breach Some Russian Defenses</h3>
-<sub>By Andrew E. Kramer</sub>
-<p>Ukraine advanced at one location in the southeast, reflecting slight progress in Kyiv’s halting counteroffensive.  <a href="https://nyti.ms/3t6mbMj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -120,18 +136,6 @@ There are a lot of things going on right now that could have a significant impac
 <h3>First Batch of Biden Emails Undercuts G.O.P. Claims</h3>
 <sub>By Luke Broadwater</sub>
 <p>House Republicans have suggested that President Biden used an email alias to abuse his office and cover it up, but an initial tranche of the messages reveals banal content and personal information.  <a href="https://nyti.ms/462JcOD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Influx of Migrants Exposes Democrats’ Division on Immigration</h3>
-<sub>By Lisa Lerer and Trip Gabriel</sub>
-<p>Democratic voters far from the border say they want leaders to do more to address the growing number of migrants in their cities, but they don’t agree on what.  <a href="https://nyti.ms/3EOQdGV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>A Former Hockey Enforcer Searches for Answers on C.T.E. Before It’s Too Late</h3>
-<sub>By David Waldstein</sub>
-<p>Chris Nilan fought more than 300 times during a pro hockey career, then had years of addiction and anger problems. A high-risk candidate for chronic traumatic encephalopathy, Nilan is being studied by Boston University.  <a href="https://nyti.ms/3t6WgEb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
