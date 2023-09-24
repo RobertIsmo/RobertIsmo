@@ -60,16 +60,68 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, September 24, Central Standard Time</p>
 <p>
-There are a few big stories happening in the world right now. In Canada, there is a diplomatic dispute with India with regard to the killing of a Sikh leader, Hardeep Singh Nijjar. U.S. intelligence gave assistance to Canada but communications intercepted by Canada were more definitive in linking India to the killing. 
-
-In New Jersey, Senator Robert Menendez is facing bribery charges for taking bribes in exchange for official actions. U.S. prosecutors have accused him and his wife Nadine of accepting gold bullion and halal meat in exchange for favors. 
-
-The U.S. Army&#39;s hospital in Germany is treating American citizens wounded while fighting Ukraine. Meanwhile, Russia says it has been targeted by Ukraine for the second day in a row with debris falling into Sevastopol bay near Moscow&#39;s Black Sea Fleet base. 
-
-In the business world, union deal with Ford could put pressure on other two Detroit automakers and negotiations are still ongoing with all three companies. In addition, television networks are focusing on boomers as they are the last best hope for ratings as viewers flee prime-time lineups for streaming outlets. 
-
-Finally, in terms of entertainment news there is a new show called &quot;Golden Bachelor&quot; featuring singles over the age of 60 looking for both love and pickleball partners!</p>
+There is a lot of instability happening around the world right now. In China, there is a major militarization of the waters around them, causing an increase in tension in the area. In New York, fentanyl use has become increasingly fatal and residents are divided on how to best address it. In Moldova, a fraudster is looking to benefit from the war at Ukraine by taking control of an ethnic enclave. To avoid threats in the Black Sea, Ukraine is utilizing a new shipping route to revive several exports. Meanwhile in Mexico, Karen Rodriguez was kidnapped by a cartel and her family will go to any length to try and find her. There are many changes going on in sports as more women have been hired as scouts and assistant coaches for pro football teams and have formed their own support systems. In Florida, Ron DeSantis has taken aim at transforming public colleges into conservative bastions with increased sports programs while cutting gender studies course offerings. Additionally, Republicans in North Carolina are trying to seize control of election boards from the Democratic governor with potential implications for 2024 elections. With Canada home to one of the largest Sikh populations outside India, many Punjabis are caught in a diplomatic firestorm over the death of a separatist leader that American intelligence gave assistance finding out who was responsible for killing him. Lastly, Venezuelans are making the dangerous journey to the United States in search for a safe and stable life because society back home has become too dangerous.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Blasting Bullhorns and Water Cannons, Chinese Ships Wall Off the Sea</h3>
+<sub>By Hannah Beech and Jes Aznar</sub>
+<p>The world’s most brazen maritime militarization is gaining muscle in waters through which one-third of global ocean trade passes.  <a href="https://nyti.ms/3PvDuxB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>A Day Care Death and the Dilemma Over How to Crack Down on Drugs</h3>
+<sub>By Sharon Otterman, Maria Cramer and Wesley Parnell</sub>
+<p>Fentanyl use is increasingly out in the open, and increasingly fatal. But New Yorkers are divided over what to do: decriminalize it or make more arrests.  <a href="https://nyti.ms/3rsdFqw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Cash, Mules and Paid Protests: How a Fraudster Seized an Ethnic Enclave</h3>
+<sub>By Andrew Higgins</sub>
+<p>The war in Ukraine is intensifying longstanding frictions in a region of Moldova called Gagauzia. A Moldovan convicted of plundering his country’s central bank sees an opportunity.  <a href="https://nyti.ms/3PPvlFN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Amid Black Sea Threats, Ukraine Steps Up Use of New Shipping Route</h3>
+<sub>By Matthew Mpoke Bigg</sub>
+<p>The route has allowed Kyiv to revive exports of grain and other goods across the Black Sea despite Russia’s wartime threats to commercial shipping.  <a href="https://nyti.ms/3riZ0xQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Battling a Cartel in a Horrifying Quest to Find Her Daughter</h3>
+<sub>By Azam Ahmed</sub>
+<p>Karen Rodriguez was kidnapped by Mexico’s Zeta cartel. Her mother would stop at nothing to find out exactly what happened to her.  <a href="https://nyti.ms/3t5ERvD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>As the Number of Women in the N.F.L. Expands, So Does This Group Text</h3>
+<sub>By Emmanuel Morgan</sub>
+<p>Pro football has seen an influx of women hired as scouts and assistant coaches in the past decade. They have formed their own support systems.  <a href="https://nyti.ms/46iejWa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Inside the Unfounded Claim That DeSantis Abused Guantánamo Detainees</h3>
+<sub>By Matthew Rosenberg and Carol Rosenberg</sub>
+<p>A former prisoner’s story of mistreatment at the hands of Ron DeSantis made headlines. But The New York Times found no evidence to back it up.  <a href="https://nyti.ms/3ER2n23"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Sports Are In, Gender Studies Are Out at College Targeted by DeSantis</h3>
+<sub>By Patricia Mazzei</sub>
+<p>An influx of athletes is among many changes since Gov. Ron DeSantis of Florida vowed to transform New College, a public institution, into a bastion of conservatism.  <a href="https://nyti.ms/3EMffGE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In North Carolina, Republicans Seek More Control Over Elections</h3>
+<sub>By Michael Wines</sub>
+<p>The G.O.P.-led legislature may seize control of state and local election boards from the Democratic governor, fueling a feud that could resonate in 2024.  <a href="https://nyti.ms/46mMU5p"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Uncertainty ‘Is Killing Us’: Sikhs in India Are in Limbo Amid Canada Dispute</h3>
+<sub>By Suhasini Raj</sub>
+<p>With Canada home to the largest Sikh population outside India, many Punjabis are caught in a diplomatic firestorm over the death of a separatist leader in British Columbia.  <a href="https://nyti.ms/3LzT0HY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 24, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>U.S. Provided Canada With Intelligence on Killing of Sikh Leader</h3>
 <sub>By Julian E. Barnes and Ian Austen</sub>
@@ -77,70 +129,10 @@ Finally, in terms of entertainment news there is a new show called &quot;Golden 
 <sub><sub>Saturday, September 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Two Hooded Gunmen, a Silver Getaway Car and a Slain Sikh Leader</h3>
-<sub>By Norimitsu Onishi and Ian Austen</sub>
-<p>Three witnesses who said they saw the killers of Hardeep Singh Nijjar, the Sikh leader at the center of a diplomatic dispute between Canada and India, described the scene.  <a href="https://nyti.ms/3LyfqJs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Wrecking-Ball Caucus: How the Far Right Brought Washington to Its Knees</h3>
-<sub>By Carl Hulse</sub>
-<p>Right-wing Republicans who represent a minority in their party and in Congress have succeeded in sowing mass dysfunction, spoiling for a shutdown, an impeachment and a House coup.  <a href="https://nyti.ms/3ronlSQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Gold Bullion and Halal Meat: Inside the Menendez Investigation</h3>
-<sub>By Nicole Hong</sub>
-<p>Federal prosecutors have accused Senator Robert Menendez of New Jersey and his wife, Nadine, of accepting bribes in exchange for official actions by Mr. Menendez.  <a href="https://nyti.ms/3Lyr3jJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Gold, an Investment for Some, Is a Portable Vehicle for Graft</h3>
-<sub>By Ed Shanahan</sub>
-<p>Prosecutors say Senator Robert Menendez had a cache of ill-gotten ingots and a sudden interest in the price of the precious metal.  <a href="https://nyti.ms/3PQrQ1G"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>For Egypt, Menendez Was Key to Access to Billions in U.S. Aid</h3>
-<sub>By Vivian Yee and Karoun Demirjian</sub>
-<p>When the annual allotment of up to $1.3 billion faltered even a sliver, Egypt found an ally in Senator Robert J. Menendez, who on Friday was indicted on bribery charges tied to Egypt.  <a href="https://nyti.ms/3Zw5buM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Army Hospital in Germany Is Treating Americans Hurt Fighting in Ukraine</h3>
-<sub>By Dave Philipps and Eric Schmitt</sub>
-<p>The Army’s Landstuhl Regional Medical Center has quietly started admitting Ukrainian Army soldiers who were wounded in combat, most of them American volunteers.  <a href="https://nyti.ms/3PRC9CZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Targets Crimea for Second Day in a Row, Russia Says</h3>
-<sub>By Constant Méheut</sub>
-<p>Russian-installed authorities in the occupied peninsula said debris from a downed rocket fell in the Sevastopol bay, where Moscow’s Black Sea Fleet is based.  <a href="https://nyti.ms/3rmwsn3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Union Deal With Ford Could Put Pressure on Other 2 Detroit Automakers</h3>
-<sub>By Jack Ewing</sub>
-<p>Talks continued on Saturday with all three companies, a day after the U.A.W. expanded its strike at G.M. and Stellantis.  <a href="https://nyti.ms/46nlNqV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>In Hospitals, Viruses Are Everywhere. Masks Are Not.</h3>
-<sub>By Apoorva Mandavilli</sub>
-<p>Amid an uptick in Covid infections, administrators, staff and patients are divided over the need for masks in health care settings.  <a href="https://nyti.ms/3ZrSWiS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>TV Networks’ Last Best Hope: Boomers</h3>
-<sub>By John Koblin</sub>
-<p>Viewers have fled prime-time lineups for streaming outlets, with one notable exception: people over 60.  <a href="https://nyti.ms/3RyV4nk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>On ‘Golden Bachelor,’ Looking for Love and a Pickleball Partner</h3>
-<sub>By Julia Jacobs</sub>
-<p>The latest “Bachelor” spinoff stars singles who are 60 and older, a largely ignored demographic in the ever-growing world of dating shows.  <a href="https://nyti.ms/3ZsiSek"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 23, Central Standard Time</sub></sub>
+<h3>Why Are So Many Venezuelans Going to the United States?</h3>
+<sub>By Julie Turkewitz and Isayen Herrera</sub>
+<p>Unable to build safe or stable lives in other parts of South America, many people are making the perilous journey to the United States.  <a href="https://nyti.ms/48jGV38"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 24, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
