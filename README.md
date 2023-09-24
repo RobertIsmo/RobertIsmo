@@ -60,16 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, September 24, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. In China, they&#39;re using ships, water cannons, and bullhorns to form a wall of protection over their sea. It&#39;s one-third of the global ocean trade that goes through these waters. China also built a unique coast guard to gain more control over their seas. 
-
-In North Carolina, Republicans are trying to seize more control over elections from the current Democratic governor. And many Republican presidential candidates have been brandishing their names in fashion statements - like wearing &quot;Ron DeSantis&quot; shirts or &quot;Tim Scott&quot; hats. 
-
-Things are getting intense in Ukraine as the war intensifies. Moldova is also dealing with a fraudster taking advantage of the situation in one of its ethnic enclaves and it&#39;s causing all sorts of problems. The country has worked to revive exports of goods across their Black Sea despite Russian threats. 
-
-Meanwhile, back at home, there&#39;s a dilemma over how to crack down on drug problems due to fentanyl use becoming increasingly fatal.  At the same time, there&#39;s questions about an unfounded claim that former prisoner was mistreated by Ron DeSantis at Guantanamo. 
-
-Finally, gold mining has caused a huge problem due to mercury usage as an illegal part of mining not being removed even though an international treaty has been in place for 10 years.  It&#39;s poisoning people and even affecting your wedding rings!</p>
+Right now, it seems like the news in the world is quite chaotic. In the US, prosecutors are moving forward with criminal cases against Donald Trump and there is increasing concern from authorities about his supporters taking to political dissent that could become dangerous. Meanwhile in China, naval vessels are walling off parts of the sea for militarization purposes and other countries are trying to respond with tougher coast guards. There&#39;s also a dilemma over how to crack down on drugs in New York and NASA just came home from a mission with an asteroid gift. On top of that, White House has been warning of government shutdown repercussions ahead of an important deadline. Lastly, refugees have been fleeing to Armenia as a breakaway enclave is now under Azerbaijan&#39;s control, and there is an unfounded claim that Florida Governor DeSantis abused Guantanamo detainees that was found not to be true.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>As Trump Prosecutions Move Forward, Threats and Concerns Increase</h3>
+<sub>By Michael S. Schmidt, Adam Goldman, Alan Feuer, Maggie Haberman and Glenn Thrush</sub>
+<p>As criminal cases proceed against the former president, heated rhetoric and anger among his supporters have authorities worried about the risk of political dissent becoming deadly.  <a href="https://nyti.ms/3Rz4E9E"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 24, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Blasting Bullhorns and Water Cannons, Chinese Ships Wall Off the Sea</h3>
 <sub>By Hannah Beech and Jes Aznar</sub>
@@ -88,6 +86,42 @@ Finally, gold mining has caused a huge problem due to mercury usage as an illega
 <p>Fentanyl use is increasingly out in the open, and increasingly fatal. But New Yorkers are divided over what to do: decriminalize it or make more arrests.  <a href="https://nyti.ms/3rsdFqw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 24, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>A NASA Spacecraft Comes Home With an Asteroid Gift for Earth</h3>
+<sub>By Katrina Miller</sub>
+<p>The seven-year OSIRIS-REX mission ended on Sunday with the return of regolith from the asteroid Bennu, which might hold clues about the origins of our solar system and life.  <a href="https://nyti.ms/3ETm617"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>White House Steps Up Warnings of Shutdown Impact as Deadline Nears</h3>
+<sub>By Carl Hulse and Annie Karni</sub>
+<p>President Biden and Transportation Secretary Pete Buttigieg made public calls for Republicans, who remain at an impasse over funding the government, to resolve their differences before next Sunday.  <a href="https://nyti.ms/3PR9Og4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Battling a Cartel in a Horrifying Quest to Find Her Daughter</h3>
+<sub>By Azam Ahmed</sub>
+<p>Karen Rodriguez was kidnapped by Mexico’s Zeta cartel. Her mother would stop at nothing to find out exactly what happened to her.  <a href="https://nyti.ms/3t5ERvD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Gold’s Deadly Truth: Much Is Mined With Mercury</h3>
+<sub>By Fabian Federl, Jack Nicas and Ian Cheibub</sub>
+<p>Ten years after an international treaty to ban mercury, the toxic metal continues to poison. The reason might have to do with your wedding ring.  <a href="https://nyti.ms/3Zqxkn0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Cash, Mules and Paid Protests: How a Fraudster Seized an Ethnic Enclave</h3>
+<sub>By Andrew Higgins</sub>
+<p>The war in Ukraine is intensifying longstanding frictions in a region of Moldova called Gagauzia. A Moldovan convicted of plundering his country’s banking system sees an opportunity.  <a href="https://nyti.ms/3rz2FYd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Refugees Flee to Armenia as Breakaway Enclave Comes Under Azerbaijan’s Control</h3>
+<sub>By Ivan Nechepurenko</sub>
+<p>More than 1,000 people crossed the border from the breakaway region of Nagorno-Karabakh on Sunday, days after a military offensive returned the ethnic Armenian enclave to Azerbaijan’s control.  <a href="https://nyti.ms/3PNvDgi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 24, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Inside the Unfounded Claim That DeSantis Abused Guantánamo Detainees</h3>
 <sub>By Matthew Rosenberg and Carol Rosenberg</sub>
@@ -99,48 +133,6 @@ Finally, gold mining has caused a huge problem due to mercury usage as an illega
 <sub>By Michael Wines</sub>
 <p>The G.O.P.-led legislature may seize control of state and local election boards from the Democratic governor, fueling a feud that could resonate in 2024.  <a href="https://nyti.ms/46mMU5p"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Republican Fashion Watch: Our Critic on 2024’s Hottest Trend</h3>
-<sub>By Reid J. Epstein and Vanessa Friedman</sub>
-<p>Ron DeSantis wears a “Ron DeSantis” shirt. Tim Scott sports a “Tim Scott” hat. Self-branding is all the rage for presidential candidates. To find out why, we asked Vanessa Friedman.  <a href="https://nyti.ms/48pcecW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Dana Perino of Fox News Is About to Face Her Biggest Test as a Journalist</h3>
-<sub>By Jeremy W. Peters</sub>
-<p>The former press secretary in the Bush White House will moderate the next Republican debate. She’s managed to rise at Fox without being a Trump supplicant.  <a href="https://nyti.ms/3Pv6pSz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>A NASA Spacecraft Comes Home With an Asteroid Gift for Earth</h3>
-<sub>By Katrina Miller</sub>
-<p>The seven-year OSIRIS-REX mission ended on Sunday with the return of regolith from the asteroid Bennu, which might hold clues about the origins of our solar system and life.  <a href="https://nyti.ms/3ETm617"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Battling a Cartel in a Horrifying Quest to Find Her Daughter</h3>
-<sub>By Azam Ahmed</sub>
-<p>Karen Rodriguez was kidnapped by Mexico’s Zeta cartel. Her mother would stop at nothing to find out exactly what happened to her.  <a href="https://nyti.ms/3t5ERvD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Cash, Mules and Paid Protests: How a Fraudster Seized an Ethnic Enclave</h3>
-<sub>By Andrew Higgins</sub>
-<p>The war in Ukraine is intensifying longstanding frictions in a region of Moldova called Gagauzia. A Moldovan convicted of plundering his country’s central bank sees an opportunity.  <a href="https://nyti.ms/3rz2FYd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Amid Black Sea Threats, Ukraine Steps Up Use of New Shipping Route</h3>
-<sub>By Matthew Mpoke Bigg</sub>
-<p>The route has allowed Kyiv to revive exports of grain and other goods across the Black Sea despite Russia’s wartime threats to commercial shipping.  <a href="https://nyti.ms/3riZ0xQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Gold’s Deadly Truth: Much Is Mined With Mercury</h3>
-<sub>By Fabian Federl, Jack Nicas and Ian Cheibub</sub>
-<p>Ten years after an international treaty to ban mercury, the toxic metal continues to poison. The reason might have to do with your wedding ring.  <a href="https://nyti.ms/3Zqxkn0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
