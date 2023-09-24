@@ -60,7 +60,15 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, September 24, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. China is increasingly militarizing its waters, creating an intimidating coast guard to assert its power in Asia. There&#39;s a growing problem with fentanyl drug use in New York, and how to deal with it has become a contentious issue. In Moldova, a fraudster has seized an ethnic enclave there to further his own plans. Ukraine is attempting to revive exports across the Black Sea despite Russian threats. NASA just collected regolith from an asteroid which may provide knowledge about our solar system and life. Ron DeSantis was accused of mistreating Guantanamo detainees but The New York Times found no evidence to back this up. He is now trying to take control of North Carolina&#39;s election boards and transform a public college into a bastion of conservatism. In Mexico, people are battling cartels trying to find missing loved ones. Finally, the number of women in the NFL has been increasing and they have formed their own support systems.</p>
+There&#39;s a lot going on in the world right now. In China, they&#39;re using ships, water cannons, and bullhorns to form a wall of protection over their sea. It&#39;s one-third of the global ocean trade that goes through these waters. China also built a unique coast guard to gain more control over their seas. 
+
+In North Carolina, Republicans are trying to seize more control over elections from the current Democratic governor. And many Republican presidential candidates have been brandishing their names in fashion statements - like wearing &quot;Ron DeSantis&quot; shirts or &quot;Tim Scott&quot; hats. 
+
+Things are getting intense in Ukraine as the war intensifies. Moldova is also dealing with a fraudster taking advantage of the situation in one of its ethnic enclaves and it&#39;s causing all sorts of problems. The country has worked to revive exports of goods across their Black Sea despite Russian threats. 
+
+Meanwhile, back at home, there&#39;s a dilemma over how to crack down on drug problems due to fentanyl use becoming increasingly fatal.  At the same time, there&#39;s questions about an unfounded claim that former prisoner was mistreated by Ron DeSantis at Guantanamo. 
+
+Finally, gold mining has caused a huge problem due to mercury usage as an illegal part of mining not being removed even though an international treaty has been in place for 10 years.  It&#39;s poisoning people and even affecting your wedding rings!</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Blasting Bullhorns and Water Cannons, Chinese Ships Wall Off the Sea</h3>
@@ -80,16 +88,28 @@ There is a lot going on in the world right now. China is increasingly militarizi
 <p>Fentanyl use is increasingly out in the open, and increasingly fatal. But New Yorkers are divided over what to do: decriminalize it or make more arrests.  <a href="https://nyti.ms/3rsdFqw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Cash, Mules and Paid Protests: How a Fraudster Seized an Ethnic Enclave</h3>
-<sub>By Andrew Higgins</sub>
-<p>The war in Ukraine is intensifying longstanding frictions in a region of Moldova called Gagauzia. A Moldovan convicted of plundering his country’s central bank sees an opportunity.  <a href="https://nyti.ms/3PPvlFN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Inside the Unfounded Claim That DeSantis Abused Guantánamo Detainees</h3>
+<sub>By Matthew Rosenberg and Carol Rosenberg</sub>
+<p>A former prisoner’s story of mistreatment at the hands of Ron DeSantis made headlines. But The New York Times found no evidence to back it up.  <a href="https://nyti.ms/3ER2n23"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Amid Black Sea Threats, Ukraine Steps Up Use of New Shipping Route</h3>
-<sub>By Matthew Mpoke Bigg</sub>
-<p>The route has allowed Kyiv to revive exports of grain and other goods across the Black Sea despite Russia’s wartime threats to commercial shipping.  <a href="https://nyti.ms/3riZ0xQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In North Carolina, Republicans Seek More Control Over Elections</h3>
+<sub>By Michael Wines</sub>
+<p>The G.O.P.-led legislature may seize control of state and local election boards from the Democratic governor, fueling a feud that could resonate in 2024.  <a href="https://nyti.ms/46mMU5p"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Republican Fashion Watch: Our Critic on 2024’s Hottest Trend</h3>
+<sub>By Reid J. Epstein and Vanessa Friedman</sub>
+<p>Ron DeSantis wears a “Ron DeSantis” shirt. Tim Scott sports a “Tim Scott” hat. Self-branding is all the rage for presidential candidates. To find out why, we asked Vanessa Friedman.  <a href="https://nyti.ms/48pcecW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Dana Perino of Fox News Is About to Face Her Biggest Test as a Journalist</h3>
+<sub>By Jeremy W. Peters</sub>
+<p>The former press secretary in the Bush White House will moderate the next Republican debate. She’s managed to rise at Fox without being a Trump supplicant.  <a href="https://nyti.ms/3Pv6pSz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
@@ -98,41 +118,29 @@ There is a lot going on in the world right now. China is increasingly militarizi
 <p>The seven-year OSIRIS-REX mission ended on Sunday with the return of regolith from the asteroid Bennu, which might hold clues about the origins of our solar system and life.  <a href="https://nyti.ms/3ETm617"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Inside the Unfounded Claim That DeSantis Abused Guantánamo Detainees</h3>
-<sub>By Matthew Rosenberg and Carol Rosenberg</sub>
-<p>A former prisoner’s story of mistreatment at the hands of Ron DeSantis made headlines. But The New York Times found no evidence to back it up.  <a href="https://nyti.ms/3ER2n23"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Sports Are In, Gender Studies Are Out at College Targeted by DeSantis</h3>
-<sub>By Patricia Mazzei</sub>
-<p>An influx of athletes is among many changes since Gov. Ron DeSantis of Florida vowed to transform New College, a public institution, into a bastion of conservatism.  <a href="https://nyti.ms/3EMffGE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In North Carolina, Republicans Seek More Control Over Elections</h3>
-<sub>By Michael Wines</sub>
-<p>The G.O.P.-led legislature may seize control of state and local election boards from the Democratic governor, fueling a feud that could resonate in 2024.  <a href="https://nyti.ms/46mMU5p"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 24, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Battling a Cartel in a Horrifying Quest to Find Her Daughter</h3>
 <sub>By Azam Ahmed</sub>
 <p>Karen Rodriguez was kidnapped by Mexico’s Zeta cartel. Her mother would stop at nothing to find out exactly what happened to her.  <a href="https://nyti.ms/3t5ERvD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>As the Number of Women in the N.F.L. Expands, So Does This Group Text</h3>
-<sub>By Emmanuel Morgan</sub>
-<p>Pro football has seen an influx of women hired as scouts and assistant coaches in the past decade. They have formed their own support systems.  <a href="https://nyti.ms/46iejWa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 23, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Cash, Mules and Paid Protests: How a Fraudster Seized an Ethnic Enclave</h3>
+<sub>By Andrew Higgins</sub>
+<p>The war in Ukraine is intensifying longstanding frictions in a region of Moldova called Gagauzia. A Moldovan convicted of plundering his country’s central bank sees an opportunity.  <a href="https://nyti.ms/3rz2FYd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Uncertainty ‘Is Killing Us’: Sikhs in India Are in Limbo Amid Canada Dispute</h3>
-<sub>By Suhasini Raj</sub>
-<p>With Canada home to the largest Sikh population outside India, many Punjabis are caught in a diplomatic firestorm over the death of a separatist leader in British Columbia.  <a href="https://nyti.ms/3LzT0HY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Amid Black Sea Threats, Ukraine Steps Up Use of New Shipping Route</h3>
+<sub>By Matthew Mpoke Bigg</sub>
+<p>The route has allowed Kyiv to revive exports of grain and other goods across the Black Sea despite Russia’s wartime threats to commercial shipping.  <a href="https://nyti.ms/3riZ0xQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Gold’s Deadly Truth: Much Is Mined With Mercury</h3>
+<sub>By Fabian Federl, Jack Nicas and Ian Cheibub</sub>
+<p>Ten years after an international treaty to ban mercury, the toxic metal continues to poison. The reason might have to do with your wedding ring.  <a href="https://nyti.ms/3Zqxkn0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
