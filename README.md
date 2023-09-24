@@ -60,13 +60,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, September 24, Central Standard Time</p>
 <p>
-There is a lot of instability happening around the world right now. In China, there is a major militarization of the waters around them, causing an increase in tension in the area. In New York, fentanyl use has become increasingly fatal and residents are divided on how to best address it. In Moldova, a fraudster is looking to benefit from the war at Ukraine by taking control of an ethnic enclave. To avoid threats in the Black Sea, Ukraine is utilizing a new shipping route to revive several exports. Meanwhile in Mexico, Karen Rodriguez was kidnapped by a cartel and her family will go to any length to try and find her. There are many changes going on in sports as more women have been hired as scouts and assistant coaches for pro football teams and have formed their own support systems. In Florida, Ron DeSantis has taken aim at transforming public colleges into conservative bastions with increased sports programs while cutting gender studies course offerings. Additionally, Republicans in North Carolina are trying to seize control of election boards from the Democratic governor with potential implications for 2024 elections. With Canada home to one of the largest Sikh populations outside India, many Punjabis are caught in a diplomatic firestorm over the death of a separatist leader that American intelligence gave assistance finding out who was responsible for killing him. Lastly, Venezuelans are making the dangerous journey to the United States in search for a safe and stable life because society back home has become too dangerous.</p>
+There is a lot going on in the world right now. China is increasingly militarizing its waters, creating an intimidating coast guard to assert its power in Asia. There&#39;s a growing problem with fentanyl drug use in New York, and how to deal with it has become a contentious issue. In Moldova, a fraudster has seized an ethnic enclave there to further his own plans. Ukraine is attempting to revive exports across the Black Sea despite Russian threats. NASA just collected regolith from an asteroid which may provide knowledge about our solar system and life. Ron DeSantis was accused of mistreating Guantanamo detainees but The New York Times found no evidence to back this up. He is now trying to take control of North Carolina&#39;s election boards and transform a public college into a bastion of conservatism. In Mexico, people are battling cartels trying to find missing loved ones. Finally, the number of women in the NFL has been increasing and they have formed their own support systems.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Blasting Bullhorns and Water Cannons, Chinese Ships Wall Off the Sea</h3>
 <sub>By Hannah Beech and Jes Aznar</sub>
 <p>The world’s most brazen maritime militarization is gaining muscle in waters through which one-third of global ocean trade passes.  <a href="https://nyti.ms/3PvDuxB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>China Creates a Coast Guard Like No Other, Seeking Supremacy in Asian Seas</h3>
+<sub>By Damien Cave</sub>
+<p>Beijing’s patrol vessels often resemble warships. Now other nations are trying to compete with tougher coast guards of their own.  <a href="https://nyti.ms/43wfDUo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, June 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>A Day Care Death and the Dilemma Over How to Crack Down on Drugs</h3>
@@ -86,16 +92,10 @@ There is a lot of instability happening around the world right now. In China, th
 <p>The route has allowed Kyiv to revive exports of grain and other goods across the Black Sea despite Russia’s wartime threats to commercial shipping.  <a href="https://nyti.ms/3riZ0xQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Battling a Cartel in a Horrifying Quest to Find Her Daughter</h3>
-<sub>By Azam Ahmed</sub>
-<p>Karen Rodriguez was kidnapped by Mexico’s Zeta cartel. Her mother would stop at nothing to find out exactly what happened to her.  <a href="https://nyti.ms/3t5ERvD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>As the Number of Women in the N.F.L. Expands, So Does This Group Text</h3>
-<sub>By Emmanuel Morgan</sub>
-<p>Pro football has seen an influx of women hired as scouts and assistant coaches in the past decade. They have formed their own support systems.  <a href="https://nyti.ms/46iejWa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>A NASA Spacecraft Comes Home With an Asteroid Gift for Earth</h3>
+<sub>By Katrina Miller</sub>
+<p>The seven-year OSIRIS-REX mission ended on Sunday with the return of regolith from the asteroid Bennu, which might hold clues about the origins of our solar system and life.  <a href="https://nyti.ms/3ETm617"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -117,21 +117,21 @@ There is a lot of instability happening around the world right now. In China, th
 <sub><sub>Sunday, September 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Uncertainty ‘Is Killing Us’: Sikhs in India Are in Limbo Amid Canada Dispute</h3>
-<sub>By Suhasini Raj</sub>
-<p>With Canada home to the largest Sikh population outside India, many Punjabis are caught in a diplomatic firestorm over the death of a separatist leader in British Columbia.  <a href="https://nyti.ms/3LzT0HY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Battling a Cartel in a Horrifying Quest to Find Her Daughter</h3>
+<sub>By Azam Ahmed</sub>
+<p>Karen Rodriguez was kidnapped by Mexico’s Zeta cartel. Her mother would stop at nothing to find out exactly what happened to her.  <a href="https://nyti.ms/3t5ERvD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Provided Canada With Intelligence on Killing of Sikh Leader</h3>
-<sub>By Julian E. Barnes and Ian Austen</sub>
-<p>American intelligence gave assistance, but communications intercepted by Canada were more definitive in linking India to the killing of Hardeep Singh Nijjar.  <a href="https://nyti.ms/48luKmF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>As the Number of Women in the N.F.L. Expands, So Does This Group Text</h3>
+<sub>By Emmanuel Morgan</sub>
+<p>Pro football has seen an influx of women hired as scouts and assistant coaches in the past decade. They have formed their own support systems.  <a href="https://nyti.ms/46iejWa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Why Are So Many Venezuelans Going to the United States?</h3>
-<sub>By Julie Turkewitz and Isayen Herrera</sub>
-<p>Unable to build safe or stable lives in other parts of South America, many people are making the perilous journey to the United States.  <a href="https://nyti.ms/48jGV38"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Uncertainty ‘Is Killing Us’: Sikhs in India Are in Limbo Amid Canada Dispute</h3>
+<sub>By Suhasini Raj</sub>
+<p>With Canada home to the largest Sikh population outside India, many Punjabis are caught in a diplomatic firestorm over the death of a separatist leader in British Columbia.  <a href="https://nyti.ms/3LzT0HY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 24, Central Standard Time</sub></sub>
 <hr/>
 </ol>
