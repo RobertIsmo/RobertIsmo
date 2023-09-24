@@ -60,8 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, September 23, Central Standard Time</p>
 <p>
-It looks like far-right Republicans who represent a minority in their party have been successful at causing a lot of trouble and political divisions in Washington. In the news in New York, there have been federal charges against Senator Robert Menendez and his wife for taking bribes. The investigation also involved gold bullion investments and hidden money. Senator Menendez is now facing a huge test to see if he can once again beat out prosecutors attempting to take him down. Meanwhile, the US provided intel to Canada regarding the killing of a Sikh leader in India, and the two hooded gunmen found related to this crime have been described by witnesses. In Germany, US Army Hospitals are now treating injured Ukrainians fighting in the country&#39;s civil war. Recently Europe has promised Ukraine artillery shells but they&#39;ll need to work hard to come up with a million of them by March 2021. Back in the US, there&#39;s disagreements on whether masks should be worn or not in the hospitals amid an uptick of Covid-19 cases. Also in Ohio there&#39;s troubles around Biden&#39;s clean energy policy and union support due to talks of electric vehicle battery plant contracts.</p>
+There is a diplomatic dispute going on between Canada and India over a Sikh leader who was killed, and the U.S. got involved by providing intelligence to Canada. In New Jersey, Senator Robert Menendez is being investigated for bribery allegations involving gold and halal meat, and he is also being linked to aiding Egypt&#39;s access to U.S. aid billions. Over in Ukraine, American volunteers of the Ukrainian Army are getting treated in an army hospital in Germany after getting wounded in combat, and there is also conflict with Russia over a rocket that fell on Crimea. Meanwhile, back in the US, there is tension between the UAW and the Detroit automakers as well as pressure from far-right Republicans to shut down the government. Lastly, while people are streaming TV less, viewers over 60 seem to be sticking around--causing networks to focus on them for their new spinoff dating show &quot;Golden Bachelor.&quot;</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. Provided Canada With Intelligence on Killing of Sikh Leader</h3>
+<sub>By Julian E. Barnes and Ian Austen</sub>
+<p>American intelligence gave assistance, but communications intercepted by Canada were more definitive in linking India to the killing of Hardeep Singh Nijjar.  <a href="https://nyti.ms/48luKmF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Two Hooded Gunmen, a Silver Getaway Car and a Slain Sikh Leader</h3>
+<sub>By Norimitsu Onishi and Ian Austen</sub>
+<p>Three witnesses who said they saw the killers of Hardeep Singh Nijjar, the Sikh leader at the center of a diplomatic dispute between Canada and India, described the scene.  <a href="https://nyti.ms/3LyfqJs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 23, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The Wrecking-Ball Caucus: How the Far Right Brought Washington to Its Knees</h3>
 <sub>By Carl Hulse</sub>
@@ -72,12 +84,6 @@ It looks like far-right Republicans who represent a minority in their party have
 <h3>Gold Bullion and Halal Meat: Inside the Menendez Investigation</h3>
 <sub>By Nicole Hong</sub>
 <p>Federal prosecutors have accused Senator Robert Menendez of New Jersey and his wife, Nadine, of accepting bribes in exchange for official actions by Mr. Menendez.  <a href="https://nyti.ms/3Lyr3jJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Does Robert Menendez Have Enough Teflon to Survive Again?</h3>
-<sub>By Nicholas Fandos</sub>
-<p>Senator Menendez, who has defeated prosecutors and political challengers, faces his sternest test yet in his federal indictment in Manhattan.  <a href="https://nyti.ms/3EW1g0R"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -93,27 +99,15 @@ It looks like far-right Republicans who represent a minority in their party have
 <sub><sub>Saturday, September 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Provided Canada With Intelligence on Killing of Sikh Leader</h3>
-<sub>By Julian E. Barnes and Ian Austen</sub>
-<p>American intelligence gave assistance, but communications intercepted by Canada were more definitive in linking India to the killing of Hardeep Singh Nijjar.  <a href="https://nyti.ms/48luKmF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Two Hooded Gunmen, a Silver Getaway Car and a Slain Sikh Leader</h3>
-<sub>By Norimitsu Onishi and Ian Austen</sub>
-<p>Three witnesses who said they saw the killers of Hardeep Singh Nijjar, the Sikh leader at the center of a diplomatic dispute between Canada and India, described the scene.  <a href="https://nyti.ms/3LyfqJs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>U.S. Army Hospital in Germany Is Treating Americans Hurt Fighting in Ukraine</h3>
 <sub>By Dave Philipps and Eric Schmitt</sub>
 <p>The Army’s Landstuhl Regional Medical Center has quietly started admitting Ukrainian Army soldiers who were wounded in combat, most of them American volunteers.  <a href="https://nyti.ms/3PRC9CZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Europe Made a Bold Pledge of Ammunition for Ukraine. Now Comes the Hard Part.</h3>
-<sub>By Lara Jakes</sub>
-<p>After 30 years of atrophy, experts say, Europe’s shrunken military industry will struggle to provide the Ukrainians with a million artillery shells by March.  <a href="https://nyti.ms/3PpVQjP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Ukraine Targets Crimea for Second Day in a Row, Russia Says</h3>
+<sub>By Constant Méheut</sub>
+<p>Russian-installed authorities in the occupied peninsula said debris from a downed rocket fell in the Sevastopol bay, where Moscow’s Black Sea Fleet is based.  <a href="https://nyti.ms/3rmwsn3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -122,16 +116,22 @@ It looks like far-right Republicans who represent a minority in their party have
 <p>Talks continued on Saturday with all three companies, a day after the U.A.W. expanded its strike at G.M. and Stellantis.  <a href="https://nyti.ms/46nlNqV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>An Ohio Town Struggles Between Biden’s Clean Energy Agenda and Union Support</h3>
-<sub>By Jonathan Weisman</sub>
-<p>Contract talks at an electric vehicle battery plant in Lordstown could have even more of an impact than the autoworkers’ strike on the labor standards of the emerging electric-vehicle industry.  <a href="https://nyti.ms/3PwvSLm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 23, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>In Hospitals, Viruses Are Everywhere. Masks Are Not.</h3>
 <sub>By Apoorva Mandavilli</sub>
 <p>Amid an uptick in Covid infections, administrators, staff and patients are divided over the need for masks in health care settings.  <a href="https://nyti.ms/3ZrSWiS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>TV Networks’ Last Best Hope: Boomers</h3>
+<sub>By John Koblin</sub>
+<p>Viewers have fled prime-time lineups for streaming outlets, with one notable exception: people over 60.  <a href="https://nyti.ms/3RyV4nk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>On ‘Golden Bachelor,’ Looking for Love and a Pickleball Partner</h3>
+<sub>By Julia Jacobs</sub>
+<p>The latest “Bachelor” spinoff stars singles who are 60 and older, a largely ignored demographic in the ever-growing world of dating shows.  <a href="https://nyti.ms/3ZsiSek"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 23, Central Standard Time</sub></sub>
 <hr/>
 </ol>
