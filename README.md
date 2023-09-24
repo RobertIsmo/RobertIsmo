@@ -60,7 +60,15 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, September 24, Central Standard Time</p>
 <p>
-There&#39;s been a lot going on recently in the world. In Canada, there was a killing of a Sikh leader and U.S. intelligence gave assistance to investigate it. In Egypt, Senator Robert Menendez of New Jersey was indicted on bribery charges linked to getting access to billions in U.S. aid for the country. Meanwhile in Ukraine, the Army&#39;s Landstuhl Regional Medical Center has started taking in Ukrainian soldiers who have been wounded in combat, mostly American volunteers. There&#39;s also been a strike by the UAW at General Motors and Stellantis and effects of Covid-19 still continuing in hospitals, with mixed opinions over masks. On a different note, some TV networks are looking for older viewers to fill the gap caused by people leaving prime-time lineups for streaming outlets, and a new dating show specifically aimed at an older demographic is being aired as well.</p>
+There are a few big stories happening in the world right now. In Canada, there is a diplomatic dispute with India with regard to the killing of a Sikh leader, Hardeep Singh Nijjar. U.S. intelligence gave assistance to Canada but communications intercepted by Canada were more definitive in linking India to the killing. 
+
+In New Jersey, Senator Robert Menendez is facing bribery charges for taking bribes in exchange for official actions. U.S. prosecutors have accused him and his wife Nadine of accepting gold bullion and halal meat in exchange for favors. 
+
+The U.S. Army&#39;s hospital in Germany is treating American citizens wounded while fighting Ukraine. Meanwhile, Russia says it has been targeted by Ukraine for the second day in a row with debris falling into Sevastopol bay near Moscow&#39;s Black Sea Fleet base. 
+
+In the business world, union deal with Ford could put pressure on other two Detroit automakers and negotiations are still ongoing with all three companies. In addition, television networks are focusing on boomers as they are the last best hope for ratings as viewers flee prime-time lineups for streaming outlets. 
+
+Finally, in terms of entertainment news there is a new show called &quot;Golden Bachelor&quot; featuring singles over the age of 60 looking for both love and pickleball partners!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>U.S. Provided Canada With Intelligence on Killing of Sikh Leader</h3>
