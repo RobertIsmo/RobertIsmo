@@ -60,12 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, September 24, Central Standard Time</p>
 <p>
-Right now, it seems like the news in the world is quite chaotic. In the US, prosecutors are moving forward with criminal cases against Donald Trump and there is increasing concern from authorities about his supporters taking to political dissent that could become dangerous. Meanwhile in China, naval vessels are walling off parts of the sea for militarization purposes and other countries are trying to respond with tougher coast guards. There&#39;s also a dilemma over how to crack down on drugs in New York and NASA just came home from a mission with an asteroid gift. On top of that, White House has been warning of government shutdown repercussions ahead of an important deadline. Lastly, refugees have been fleeing to Armenia as a breakaway enclave is now under Azerbaijan&#39;s control, and there is an unfounded claim that Florida Governor DeSantis abused Guantanamo detainees that was found not to be true.</p>
+There&#39;s a lot of upheaval happening around the world right now. In China, the authorities have set up naval ships to guard their waters, while other countries are working to create powerful coast guards. Meanwhile in Moldova, a fraudster is abusing his power over an ethnic enclave and an international treaty to ban mercury has done little to stop poisoning from happening. In Mexico, a cartel is behind the kidnapping of Karen Rodriguez and her mother is seeking justice. Over in Ukraine, there&#39;s been a military offensive that has sent refugees fleeing to Armenia. Closer to home, former President Trump is still facing criminal cases, which has led to heated rhetoric and worries that dissent could turn deadly. Finally, there&#39;s a lot of rumors swirling about Ron DeSantis that don&#39;t hold any evidence when examined more closely. All in all, it&#39;s an interesting time.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>As Trump Prosecutions Move Forward, Threats and Concerns Increase</h3>
 <sub>By Michael S. Schmidt, Adam Goldman, Alan Feuer, Maggie Haberman and Glenn Thrush</sub>
-<p>As criminal cases proceed against the former president, heated rhetoric and anger among his supporters have authorities worried about the risk of political dissent becoming deadly.  <a href="https://nyti.ms/3Rz4E9E"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>As criminal cases proceed against the former president, heated rhetoric and anger among his supporters have the authorities worried about the risk of political dissent becoming deadly.  <a href="https://nyti.ms/3Rz4E9E"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -129,9 +129,9 @@ Right now, it seems like the news in the world is quite chaotic. In the US, pros
 <sub><sub>Sunday, September 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In North Carolina, Republicans Seek More Control Over Elections</h3>
-<sub>By Michael Wines</sub>
-<p>The G.O.P.-led legislature may seize control of state and local election boards from the Democratic governor, fueling a feud that could resonate in 2024.  <a href="https://nyti.ms/46mMU5p"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Republican Fashion Watch: Our Critic on 2024’s Hottest Trend</h3>
+<sub>By Reid J. Epstein and Vanessa Friedman</sub>
+<p>Ron DeSantis wears a “Ron DeSantis” shirt. Tim Scott sports a “Tim Scott” hat. Self-branding is all the rage for presidential candidates. To find out why, we asked Vanessa Friedman.  <a href="https://nyti.ms/48pcecW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 24, Central Standard Time</sub></sub>
 <hr/>
 </ol>
