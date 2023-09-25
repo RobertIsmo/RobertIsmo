@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, September 25, Central Standard Time</p>
 <p>
-Right now, a lot is happening in the world. In business, the screenwriters just reached a deal with studios to end their strike after 146 days, which could put talk shows back on the air. There&#39;s some tension between Hollywood actors and writers guilds right now, too. In other news, political prosecutions are moving forward for Donald Trump, so the authorities are worried about an increase in threats and anger from his supporters. In international news, Chinese ships are using machinery like water cannons and bullhorns to wall off the sea. They&#39;re creating a powerful coast guard that intimidates other nations in Asian waters. On the upside of things, Greece is having a great economic boom despite sharp memories of austerity measures. Finally, NASA&#39;s OSIRIS-REX spacecraft successfully returned home from its mission to the asteroid Bennu with a special gift in tow! </p>
+There is a lot going on in the world right now! There&#39;s been a screenwriters&#39; strike Hollywood that just ended with concessions from the studios. We&#39;re also seeing resurgent Democrats being helped by a little-known organization called the States Project. In the US, criminal cases are progressing against former President Trump, which has caused a lot of heated rhetoric among his supporters and worries of potential for violence.  Outside the US, there&#39;s news that Finland is entering NATO and tanks from the US have arrived in Ukraine for a counteroffensive against Russia. Additionally, Greece is having an economic boom while Mexico is becoming a destination for Americans seeking abortions.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>On Day 146, Screenwriters Reach Deal With Studios to End Their Strike</h3>
@@ -69,16 +69,34 @@ Right now, a lot is happening in the world. In business, the screenwriters just 
 <sub><sub>Monday, September 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The agreement could put talk shows back on the air.</h3>
-<sub>By Daniel Victor</sub>
-<p>Late-night and daytime talk shows could return after the resolution of the writers’ strike, potentially bringing relief to one corner of the industry.  <a href="https://nyti.ms/3PMsu0h"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 24, Central Standard Time</sub></sub>
+<h3>Studios and Writers Reached a Deal. Here’s What Happens Next.</h3>
+<sub>By Yan Zhuang</sub>
+<p>Before Hollywood gets fully back to work, writers need to vote on the tentative agreement, and talks between companies and striking actors must restart.  <a href="https://nyti.ms/455T60N"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Where does the actors’ strike stand?</h3>
-<sub>By Brooks Barnes</sub>
-<p>The writers’ agreement could expedite negotiations, as some of SAG-AFTRA’s concerns are similar to ones raised by the Writers Guild.  <a href="https://nyti.ms/455bert"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 24, Central Standard Time</sub></sub>
+<h3>How the Writers Guild Deal Reflects Organized Labor’s Power</h3>
+<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler and Michael J. de la Merced</sub>
+<p>Reports suggest that screenwriters won concessions from Hollywood studios on key issues. That reflects the strength of unions’ hands in the current moment.  <a href="https://nyti.ms/3PsEdQl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How a Little-Known Group Helped Resurgent Democrats Wield Power</h3>
+<sub>By Nick Corasaniti</sub>
+<p>For decades, Republicans have had a far more robust network of conservative policy groups to push their legislative agenda. Now the States Project is aiming to fill that void on the left.  <a href="https://nyti.ms/3rzCb8Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>As Haley and Ramaswamy Rise, Some Indian Americans Have Mixed Feelings</h3>
+<sub>By Jazmine Ulloa</sub>
+<p>Democrats and Republicans have been courting the small but fast-growing and vital demographic in purple suburbs and swing states.  <a href="https://nyti.ms/46gq6oc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>2 Looming Rulings Could Shape Trump’s Fraud Trial in New York</h3>
+<sub>By Ben Protess, Jonah E. Bromwich and William K. Rashbaum</sub>
+<p>Donald J. Trump has adopted a long-shot legal strategy to try to delay his upcoming civil trial and severely limit the case against him.  <a href="https://nyti.ms/45lcXJD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>As Trump Prosecutions Move Forward, Threats and Concerns Increase</h3>
@@ -86,17 +104,23 @@ Right now, a lot is happening in the world. In business, the screenwriters just 
 <p>As criminal cases proceed against the former president, heated rhetoric and anger among his supporters have the authorities worried about the risk of political dissent becoming deadly.  <a href="https://nyti.ms/3Rz4E9E"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Blasting Bullhorns and Water Cannons, Chinese Ships Wall Off the Sea</h3>
-<sub>By Hannah Beech and Jes Aznar</sub>
-<p>The world’s most brazen maritime militarization is gaining muscle in waters through which one-third of global ocean trade passes.  <a href="https://nyti.ms/3PvDuxB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 23, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-dining-blue" alt="">
+<h3>Meet the Climate-Defying Fruits and Vegetables in Your Future</h3>
+<sub>By Kim Severson</sub>
+<p>Hot-weather cherries, drought-resistant melons and six other crops in the works that could change how we eat in a fast-warming world.  <a href="https://nyti.ms/3POuLIs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>China Creates a Coast Guard Like No Other, Seeking Supremacy in Asian Seas</h3>
-<sub>By Damien Cave</sub>
-<p>Beijing’s patrol vessels often resemble warships. Now other nations are trying to compete with tougher coast guards of their own.  <a href="https://nyti.ms/43wfDUo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, June 11, Central Standard Time</sub></sub>
+<h3>Finland Raced to Join NATO. What Happens Next Is Complicated.</h3>
+<sub>By Steven Erlanger</sub>
+<p>After decades of going it alone in security issues, Finns are finding that life in a large alliance is complex, expensive and deeply political.  <a href="https://nyti.ms/3PDc5u2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>First Abrams Tanks Arrive in Ukraine, U.S. Officials Say</h3>
+<sub>By Lara Jakes</sub>
+<p>An initial batch of tanks arrived months ahead of estimates, and in time to be used in Ukraine’s counteroffensive against Russia, officials said.  <a href="https://nyti.ms/3rqWZQ5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Greece, Battered a Decade Ago, Is Booming</h3>
@@ -104,35 +128,11 @@ Right now, a lot is happening in the world. In business, the screenwriters just 
 <p>It is one of Europe’s fastest-growing economies, and while investors and tourists are flocking to the country, memories of austerity measures are still fresh for Greeks.  <a href="https://nyti.ms/3t8exkF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>A NASA Spacecraft Comes Home With an Asteroid Gift for Earth</h3>
-<sub>By Katrina Miller</sub>
-<p>The seven-year OSIRIS-REX mission ended on Sunday with the return of regolith from the asteroid Bennu, which might hold clues about the origins of our solar system and life.  <a href="https://nyti.ms/3ETm617"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>White House Steps Up Warnings of Shutdown Impact as Deadline Nears</h3>
-<sub>By Carl Hulse and Annie Karni</sub>
-<p>President Biden and Transportation Secretary Pete Buttigieg made public calls for Republicans, who remain at an impasse over funding the government, to resolve their differences before next Sunday.  <a href="https://nyti.ms/3PR9Og4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 24, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Gold’s Deadly Truth: Much Is Mined With Mercury</h3>
-<sub>By Fabian Federl, Jack Nicas and Ian Cheibub</sub>
-<p>Ten years after an international treaty to ban mercury, the toxic metal continues to poison. The reason might have to do with your wedding ring.  <a href="https://nyti.ms/3Zqxkn0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Inside the Unfounded Claim That DeSantis Abused Guantánamo Detainees</h3>
-<sub>By Matthew Rosenberg and Carol Rosenberg</sub>
-<p>A former prisoner’s story of mistreatment at the hands of Ron DeSantis made headlines. But The New York Times found no evidence to back it up.  <a href="https://nyti.ms/3ER2n23"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Dana Perino of Fox News Is About to Face Her Biggest Test as a Journalist</h3>
-<sub>By Jeremy W. Peters</sub>
-<p>The former press secretary in the Bush White House will moderate the next Republican debate. She’s managed to rise at Fox without being a Trump supplicant.  <a href="https://nyti.ms/3Pv6pSz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 24, Central Standard Time</sub></sub>
+<h3>A New Border Crossing: Americans Turn to Mexico for Abortions</h3>
+<sub>By Zolan Kanno-Youngs and Edyra Espriella</sub>
+<p>American women are seeking help from Mexico for abortions, crystallizing the shifting policies of two nations that once held vastly different positions on the procedure.  <a href="https://nyti.ms/3RAiM2y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 25, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
