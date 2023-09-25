@@ -60,8 +60,16 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, September 24, Central Standard Time</p>
 <p>
-There&#39;s a lot of upheaval happening around the world right now. In China, the authorities have set up naval ships to guard their waters, while other countries are working to create powerful coast guards. Meanwhile in Moldova, a fraudster is abusing his power over an ethnic enclave and an international treaty to ban mercury has done little to stop poisoning from happening. In Mexico, a cartel is behind the kidnapping of Karen Rodriguez and her mother is seeking justice. Over in Ukraine, there&#39;s been a military offensive that has sent refugees fleeing to Armenia. Closer to home, former President Trump is still facing criminal cases, which has led to heated rhetoric and worries that dissent could turn deadly. Finally, there&#39;s a lot of rumors swirling about Ron DeSantis that don&#39;t hold any evidence when examined more closely. All in all, it&#39;s an interesting time.</p>
+Right now, there&#39;s a lot happening internationally. In China, there have been efforts to Wall off the Sea with bullhorns and water cannons, while they&#39;ve also been working to create a powerful coast guard. In Armenia, refugees are fleeing their homes due to a military offensive that put an ethnic Armenian enclave under Azerbaijan’s control. In Moldova, a fraudster has been taking advantage of a breakaway enclave announcement. 
+
+Additionally, in the US, we have the Trump prosecutions moving forward and increasing threat and tensions among his supporters. The Biden administration is also trying to resolve the shut down funding with Republicans before next Sunday. Meanwhile, New Yorkers are debating whether to decriminalize fentanyl or make more arrests due to increasing cases of deaths related to it. Lastly, questions remain around the actors&#39; strike amid the success of the Writers Guild negotiations.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Where does the actors’ strike stand?</h3>
+<sub>By Brooks Barnes</sub>
+<p>The writers’ agreement could expedite negotiations, as some of SAG-AFTRA’s concerns are similar to ones raised by the Writers Guild.  <a href="https://nyti.ms/455bert"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 24, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>As Trump Prosecutions Move Forward, Threats and Concerns Increase</h3>
 <sub>By Michael S. Schmidt, Adam Goldman, Alan Feuer, Maggie Haberman and Glenn Thrush</sub>
@@ -126,12 +134,6 @@ There&#39;s a lot of upheaval happening around the world right now. In China, th
 <h3>Inside the Unfounded Claim That DeSantis Abused Guantánamo Detainees</h3>
 <sub>By Matthew Rosenberg and Carol Rosenberg</sub>
 <p>A former prisoner’s story of mistreatment at the hands of Ron DeSantis made headlines. But The New York Times found no evidence to back it up.  <a href="https://nyti.ms/3ER2n23"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Republican Fashion Watch: Our Critic on 2024’s Hottest Trend</h3>
-<sub>By Reid J. Epstein and Vanessa Friedman</sub>
-<p>Ron DeSantis wears a “Ron DeSantis” shirt. Tim Scott sports a “Tim Scott” hat. Self-branding is all the rage for presidential candidates. To find out why, we asked Vanessa Friedman.  <a href="https://nyti.ms/48pcecW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 24, Central Standard Time</sub></sub>
 <hr/>
 </ol>
