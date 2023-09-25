@@ -58,12 +58,22 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Sunday, September 24, Central Standard Time</p>
+<p>It is Monday, September 25, Central Standard Time</p>
 <p>
-Right now, there&#39;s a lot happening internationally. In China, there have been efforts to Wall off the Sea with bullhorns and water cannons, while they&#39;ve also been working to create a powerful coast guard. In Armenia, refugees are fleeing their homes due to a military offensive that put an ethnic Armenian enclave under Azerbaijan’s control. In Moldova, a fraudster has been taking advantage of a breakaway enclave announcement. 
-
-Additionally, in the US, we have the Trump prosecutions moving forward and increasing threat and tensions among his supporters. The Biden administration is also trying to resolve the shut down funding with Republicans before next Sunday. Meanwhile, New Yorkers are debating whether to decriminalize fentanyl or make more arrests due to increasing cases of deaths related to it. Lastly, questions remain around the actors&#39; strike amid the success of the Writers Guild negotiations.</p>
+A lot has been happening in the world lately! In Hollywood, writers have reached a deal with studios to end their strike, which could help get talk shows back on the air. Actors are still on picket lines, though, so much of Hollywood is still shut down. In politics, criminal cases are proceeding against Donald Trump and his supporters which have authorities worried about the risk of political dissent becoming deadly. Abroad, China is walling off parts of the seas through aggression and militarization, while Greece has become one of Europe&#39;s fastest-growing economies after a decade of austerity measures. NASA just ended its seven-year mission bringing an asteroid sample to Earth which could hold clues about the origins of our solar system and life. In addition, mercury is still being mined with gold, even though it was banned 10 years ago as a toxic metal. Lastly, Fox News journalist Dana Perino is going to moderate the next Republican debate despite not being a Trump supporter.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>On Day 146, Screenwriters Reach Deal With Studios to End Their Strike</h3>
+<sub>By Brooks Barnes and John Koblin</sub>
+<p>The Writers Guild of America got most of what it wanted. With actors still on picket lines, however, much of Hollywood will remain shut down.  <a href="https://nyti.ms/3LzrN86"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>The agreement could put talk shows back on the air.</h3>
+<sub>By Daniel Victor</sub>
+<p>Late-night and daytime talk shows could return after the resolution of the writers’ strike, potentially bringing relief to one corner of the industry.  <a href="https://nyti.ms/3PMsu0h"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 24, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Where does the actors’ strike stand?</h3>
 <sub>By Brooks Barnes</sub>
@@ -88,10 +98,10 @@ Additionally, in the US, we have the Trump prosecutions moving forward and incre
 <p>Beijing’s patrol vessels often resemble warships. Now other nations are trying to compete with tougher coast guards of their own.  <a href="https://nyti.ms/43wfDUo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, June 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>A Day Care Death and the Dilemma Over How to Crack Down on Drugs</h3>
-<sub>By Sharon Otterman, Maria Cramer and Wesley Parnell</sub>
-<p>Fentanyl use is increasingly out in the open, and increasingly fatal. But New Yorkers are divided over what to do: decriminalize it or make more arrests.  <a href="https://nyti.ms/3rsdFqw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Greece, Battered a Decade Ago, Is Booming</h3>
+<sub>By Liz Alderman</sub>
+<p>It is one of Europe’s fastest-growing economies, and while investors and tourists are flocking to the country, memories of austerity measures are still fresh for Greeks.  <a href="https://nyti.ms/3t8exkF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
@@ -107,33 +117,21 @@ Additionally, in the US, we have the Trump prosecutions moving forward and incre
 <sub><sub>Sunday, September 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Battling a Cartel in a Horrifying Quest to Find Her Daughter</h3>
-<sub>By Azam Ahmed</sub>
-<p>Karen Rodriguez was kidnapped by Mexico’s Zeta cartel. Her mother would stop at nothing to find out exactly what happened to her.  <a href="https://nyti.ms/3t5ERvD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Gold’s Deadly Truth: Much Is Mined With Mercury</h3>
 <sub>By Fabian Federl, Jack Nicas and Ian Cheibub</sub>
 <p>Ten years after an international treaty to ban mercury, the toxic metal continues to poison. The reason might have to do with your wedding ring.  <a href="https://nyti.ms/3Zqxkn0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Cash, Mules and Paid Protests: How a Fraudster Seized an Ethnic Enclave</h3>
-<sub>By Andrew Higgins</sub>
-<p>The war in Ukraine is intensifying longstanding frictions in a region of Moldova called Gagauzia. A Moldovan convicted of plundering his country’s banking system sees an opportunity.  <a href="https://nyti.ms/3rz2FYd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Refugees Flee to Armenia as Breakaway Enclave Comes Under Azerbaijan’s Control</h3>
-<sub>By Ivan Nechepurenko</sub>
-<p>More than 1,000 people crossed the border from the breakaway region of Nagorno-Karabakh on Sunday, days after a military offensive returned the ethnic Armenian enclave to Azerbaijan’s control.  <a href="https://nyti.ms/3PNvDgi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 24, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Inside the Unfounded Claim That DeSantis Abused Guantánamo Detainees</h3>
 <sub>By Matthew Rosenberg and Carol Rosenberg</sub>
 <p>A former prisoner’s story of mistreatment at the hands of Ron DeSantis made headlines. But The New York Times found no evidence to back it up.  <a href="https://nyti.ms/3ER2n23"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Dana Perino of Fox News Is About to Face Her Biggest Test as a Journalist</h3>
+<sub>By Jeremy W. Peters</sub>
+<p>The former press secretary in the Bush White House will moderate the next Republican debate. She’s managed to rise at Fox without being a Trump supplicant.  <a href="https://nyti.ms/3Pv6pSz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 24, Central Standard Time</sub></sub>
 <hr/>
 </ol>
