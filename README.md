@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, September 25, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now! There&#39;s been a screenwriters&#39; strike Hollywood that just ended with concessions from the studios. We&#39;re also seeing resurgent Democrats being helped by a little-known organization called the States Project. In the US, criminal cases are progressing against former President Trump, which has caused a lot of heated rhetoric among his supporters and worries of potential for violence.  Outside the US, there&#39;s news that Finland is entering NATO and tanks from the US have arrived in Ukraine for a counteroffensive against Russia. Additionally, Greece is having an economic boom while Mexico is becoming a destination for Americans seeking abortions.</p>
+There has been a lot going on in the world lately! In the business world, the Writers Guild of America ended their 146-day strike with studios by reaching a deal they are satisfied with. And in the US, there is a little-known group called the States Project that is helping resurgent Democrats to wield power in politics. Also, Donald Trump is currently facing fraud trial prosecutions in New York, which has caused some worrying threats and concerns among his supporters. On the other hand, to help combat global warming, some scientists have been working on climate-defying fruits and vegetables that could change how we eat. In Finland, they&#39;re joining NATO after decades of going it alone in security issues. Also, Ukraine just received their first batch of Abrams tanks from the US ahead of schedule. Lastly, New Jersey Senator Robert Menendez recently had bribery charges pressed against him this weekend and 13 gold bars were found in his home!</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>On Day 146, Screenwriters Reach Deal With Studios to End Their Strike</h3>
@@ -117,21 +117,21 @@ There is a lot going on in the world right now! There&#39;s been a screenwriters
 <sub><sub>Monday, September 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>First Abrams Tanks Arrive in Ukraine, U.S. Officials Say</h3>
+<h3>First Abrams Tanks Arrive in Ukraine, Zelensky Says</h3>
 <sub>By Lara Jakes</sub>
-<p>An initial batch of tanks arrived months ahead of estimates, and in time to be used in Ukraine’s counteroffensive against Russia, officials said.  <a href="https://nyti.ms/3rqWZQ5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>U.S. officials said that an initial batch of the 31 M1 Abrams tanks promised to Ukraine by the Biden administration had been delivered, months ahead of estimates.  <a href="https://nyti.ms/3rqWZQ5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Greece, Battered a Decade Ago, Is Booming</h3>
-<sub>By Liz Alderman</sub>
-<p>It is one of Europe’s fastest-growing economies, and while investors and tourists are flocking to the country, memories of austerity measures are still fresh for Greeks.  <a href="https://nyti.ms/3t8exkF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 24, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Menendez to Address Bribery Charges in News Conference</h3>
+<sub>By Tracey Tully</sub>
+<p>Senator Robert Menendez of New Jersey will address the news media Monday morning for the first time since being charged with taking bribes in exchange for exerting political influence.  <a href="https://nyti.ms/3ETdQOs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A New Border Crossing: Americans Turn to Mexico for Abortions</h3>
-<sub>By Zolan Kanno-Youngs and Edyra Espriella</sub>
-<p>American women are seeking help from Mexico for abortions, crystallizing the shifting policies of two nations that once held vastly different positions on the procedure.  <a href="https://nyti.ms/3RAiM2y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>‘Gold’: A Word Rarely Mentioned in Menendez’s Senate Disclosure Forms</h3>
+<sub>By Tracey Tully</sub>
+<p>Senator Robert Menendez is accused of accepting bribes in an indictment that refers to “gold” 26 times and says that 13 gold bars were found in his home.  <a href="https://nyti.ms/4694quj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 25, Central Standard Time</sub></sub>
 <hr/>
 </ol>
