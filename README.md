@@ -60,12 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, September 25, Central Standard Time</p>
 <p>
-Right now, there is a lot of tension in international and domestic politics. In the US, senators are debating whether to provide more money and military assistance to Ukraine as well as trying to prevent a government shutdown. Within the US, right-wing Republicans have been successful in causing mass dysfunction, like calling for a shutdown and an impeachment. On top of that, climate change is still a major issue - there is increased water usage from oil and gas wells that threatens fragile aquifers, and there is unchecked overuse of groundwater that is endangering millions of people. In Finland, they are joining NATO after decades of going it alone, but it&#39;s becoming complex and expensive. There is also domestic news happening in the US - Senator Robert Menendez has been charged with taking bribes and is refusing to resign. Feminism advocate Caitlin Moran has ideas of how modern masculinity can be fixed, while Hollywood focuses on actors&#39; unions after getting a writers&#39; deal done. Fox News has announced a debate between two governors who are not running for the same office, while polls show low approval ratings for Joe Biden but Trump coasting through the primaries, and some San Francisco residents are frustrated with how their city is being viewed internationally due to the pandemic.</p>
+There is a lot going on in the world right now. In the U.S., legislators are debating additional money for Ukraine to avoid a government shutdown. Meanwhile, climate scientists are warning of the dangers of &#39;monster fracks&#39; that require huge amounts of water and are challenging America&#39;s fragile aquifers. In international news, Ukraine is fighting aggressively against Russia, and Canada&#39;s House Speaker apologized after honoring a veteran of a Nazi SS unit. Also, Hollywood actors are bargaining with studios over pay and terms after writers secured a deal. Lastly, Fox News looks set to host a debate between the governors of California and Florida over state issues in November.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Money for Ukraine at Center of Senate Bid to Avert Shutdown</h3>
 <sub>By Carl Hulse and Catie Edmondson</sub>
 <p>Senators of both parties are debating whether to include new military assistance for the fight against Russia in any stopgap spending bill to keep the government funded past the end of the month.  <a href="https://nyti.ms/3ZsJ8W5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Shutdown Is Looming. What Comes Next?</h3>
+<sub>By Zach Montague</sub>
+<p>Many federal agencies have plans in place to weather a shutdown, but a disruption would still affect critical government services.  <a href="https://nyti.ms/46269BN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -87,15 +93,15 @@ Right now, there is a lot of tension in international and domestic politics. In 
 <sub><sub>Monday, August 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Finland Raced to Join NATO. What Happens Next Is Complicated.</h3>
-<sub>By Steven Erlanger</sub>
-<p>After decades of going it alone in security issues, Finns are finding that life in a large alliance is complex, expensive and deeply political.  <a href="https://nyti.ms/3PDc5u2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>In a Blow to Russia, Ukraine Says It Killed Chief of Black Sea Fleet</h3>
+<sub>By Matthew Mpoke Bigg and Andrew E. Kramer</sub>
+<p>As they ramp up attacks on occupied Crimea, Ukrainian forces are repeatedly targeting the fleet based there, a key to Russia’s attacks deep into Ukraine and its blockade of Ukrainian ports.  <a href="https://nyti.ms/3LB6ZgD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Menendez, Defiant, Says He Will Not Resign</h3>
-<sub>By Tracey Tully</sub>
-<p>Senator Robert Menendez of New Jersey, charged with taking bribes in exchange for exerting political influence, predicted that he would be exonerated.  <a href="https://nyti.ms/3ETdQOs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Canada’s House Speaker Apologizes After Ukrainian Who Fought for Nazis Was Honored</h3>
+<sub>By Isabella Kwai</sub>
+<p>Jewish groups demanded an explanation after Anthony Rota, the speaker of Canada’s House of Commons, introduced a 98-year-old veteran of an SS unit as a “hero.”  <a href="https://nyti.ms/463j2LS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
@@ -103,6 +109,12 @@ Right now, there is a lot of tension in international and domestic politics. In 
 <sub>By David Marchese</sub>
 <p>“We need to work out what we want the future to look like for men in a way that women have already done,” says Caitlin Moran, the best-selling feminist author.  <a href="https://nyti.ms/3RAcIXS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-books-blue" alt="">
+<h3>In Defense of Men? Caitlin Moran’s Answer Will Surprise You.</h3>
+<sub>By Jessica Bennett</sub>
+<p>A prolific feminist turns her sights to the opposite sex.  <a href="https://nyti.ms/450O6u9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Hollywood’s Focus Turns to Actors After Writers Agree to Deal</h3>
@@ -120,18 +132,6 @@ Right now, there is a lot of tension in international and domestic politics. In 
 <h3>Fox News Announces a Newsom and DeSantis Debate in November</h3>
 <sub>By Shane Goldmacher and Maggie Haberman</sub>
 <p>It’s highly unusual for governors who are not running for the same office to debate, but the two have clashed repeatedly as they seek national attention.  <a href="https://nyti.ms/46aZtkU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Polls Show Low Approval Ratings for Biden, and Trump Coasting in Primary</h3>
-<sub>By The New York Times</sub>
-<p>Surveys from NBC News and The Washington Post&#x2F;ABC News pointed to a general election between two unpopular candidates.  <a href="https://nyti.ms/3Rs4HUK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘Are You OK?’ San Francisco Residents Say They Most Certainly Are.</h3>
-<sub>By Heather Knight and Jim Wilson</sub>
-<p>San Francisco’s national reputation has plunged since the pandemic began, and many residents say they are frustrated by how their beloved city is being viewed.  <a href="https://nyti.ms/3PuLmPZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 25, Central Standard Time</sub></sub>
 <hr/>
 </ol>
