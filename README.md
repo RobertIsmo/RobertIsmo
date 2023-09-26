@@ -60,12 +60,44 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, September 26, Central Standard Time</p>
 <p>
-It seems like a lot is going on in the world right now! President Biden and Trump are both vying for the support of auto workers, and the Supreme Court recently made a decision about an Alabama voting map. There&#39;s a GOP debate coming up soon, and polls show that Americans aren&#39;t too keen on Biden, although his party is doing well in special elections. Trump is also raising some questions by expressing interest in buying a gun in store. In other news, Russia is trying to hold military control of the Black Sea, and energy agencies have said that peak oil is near. As far as businesses go, there&#39;s one company in Ohio still making solar panels that Biden wants more of, and truck stops are upgrading to recharge electric vehicles. London has some expensive free parks for people to enjoy when the weather is nice. And finally, two big universities in New York seem untouchable thanks to giant tax breaks, with some people now suggesting they pay more taxes given the city&#39;s tight budget.</p>
+At the moment, there are a few major news stories happening around the world. In the U.S., the Federal Trade Commission and 17 states have sued Amazon for conducting business practices that stifle competition. Robert Menendez is facing a growing push from a number of Democrats in his own party to resign after his recent indictment. The Supreme Court has declined to revisit a matter concerning Alabama&#39;s voting map, and Donald Trump raised legal questions when he requested to buy a Glock from a gun store during his trial. 
+
+On an international scale, an explosion at a fuel depot in Nagorno-Karabakh has resulted in at least 125 deaths. It is not known yet what caused the blast in this breakaway region of Azerbaijan where people have been fleeing for Armenia.</p>
 <ol>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Why Biden and Trump Are Courting Striking Autoworkers</h3>
-<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler and Michael J. de la Merced</sub>
-<p>The president and his leading Republican rival are heading to Michigan to address members of the U.A.W., whose political clout is growing.  <a href="https://nyti.ms/3PxBYvd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>U.S. Accuses Amazon of Illegally Protecting Monopoly in Online Retail</h3>
+<sub>By David McCabe</sub>
+<p>The Federal Trade Commission and 17 states sued Amazon, saying its conduct in its online store and services to merchants illegally stifled competition.  <a href="https://nyti.ms/3EV0VMe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>‘Unprecedented’ Secrecy in Google Trial as Tech Giants Push to Limit Disclosures</h3>
+<sub>By Nico Grant, Cecilia Kang and Tripp Mickle</sub>
+<p>Efforts to seal testimony have increasingly raised questions as the federal antitrust case enters its third week in court.  <a href="https://nyti.ms/3ta5wHP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Prime Power: How Amazon Squeezes the Businesses Behind Its Store</h3>
+<sub>By Karen Weise</sub>
+<p>Twenty years ago, Amazon opened its storefront to anyone who wanted to sell something. Then it began demanding more out of them.  <a href="https://nyti.ms/35IHnHy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Father Has Spent His Career at Ford. The Son Might Not.</h3>
+<sub>By Jenna Russell</sub>
+<p>Steve and Keegan Kellums, striking U.A.W. workers, represent two perspectives on their industry, a divergence that ripples through the broader work force.  <a href="https://nyti.ms/3POE2QF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Groundswell of Democrats Builds Calling on Menendez to Resign</h3>
+<sub>By Annie Karni</sub>
+<p>The New Jersey Democrat’s indictment last week initially prompted only a handful of calls from within his party for his exit. But on Tuesday, the dam broke, particularly among colleagues facing re-election next year.  <a href="https://nyti.ms/3EUDsum"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Booker Says Menendez Should Resign, Breaking Silence</h3>
+<sub>By Christopher Maag</sub>
+<p>The decision by Senator Cory Booker, a close ally, to condemn Senator Robert Menendez underscores the deepening crisis Mr. Menendez faces after his indictment.  <a href="https://nyti.ms/3PQrp7M"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -80,10 +112,10 @@ It seems like a lot is going on in the world right now! President Biden and Trum
 <p>The most important audience might be Republican donors who are waiting to put their money behind a candidate who can take on Donald Trump.  <a href="https://nyti.ms/3t5OOsR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Americans Are Down on Biden. Why Does His Party Keep Winning Elections?</h3>
-<sub>By Reid J. Epstein</sub>
-<p>Despite a flood of negative polls for Democrats, the party has delivered a string of strong results in special elections, which can be a useful gauge of the national political environment.  <a href="https://nyti.ms/3rtXVDk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>What Polling After the First Debate Tells Us About Round 2</h3>
+<sub>By Nate Cohn</sub>
+<p>Nikki Haley received a small lift, but another good performance Wednesday may simply splinter the opposition to Donald Trump.  <a href="https://nyti.ms/48wdmvy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -92,47 +124,17 @@ It seems like a lot is going on in the world right now! President Biden and Trum
 <p>Officials have increasingly voiced concerns about threats of violence related to the former president’s trials, as he faces charges that would make it illegal for a store to sell him a firearm.  <a href="https://nyti.ms/3PozmiU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In a Port City Severed From the Sea, Young Sailors Feel Adrift</h3>
-<sub>By Marc Santora and Laetitia Vancon</sub>
-<p>With Russia trying to maintain military control of the Black Sea, Odesa is disconnected from its waters — and its history.  <a href="https://nyti.ms/3LZLTZB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Can the U.S. Make Solar Panels? This Company Thinks So.</h3>
-<sub>By Ivan Penn</sub>
-<p>First Solar kept producing them in Ohio after most of the industry moved to China. President Biden wants many more domestic manufacturers.  <a href="https://nyti.ms/3ZwdF5c"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Peak Oil Is Near, Energy Agency Says, but Climate Change Is Far From Solved</h3>
-<sub>By Brad Plumer</sub>
-<p>Despite the rapid growth of electric vehicles and solar power, other efforts to tackle warming are lagging, according to the International Energy Agency.  <a href="https://nyti.ms/4598KIT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Truck Stops Upgrade to Recharge Electric Vehicles (and Their Drivers)</h3>
-<sub>By Joe Gose</sub>
-<p>Highway travel centers are adding amenities like restaurants and dog parks to accommodate the expanded dwell time of electric vehicle owners.  <a href="https://nyti.ms/3ERTgy1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Pricey London, Free Parks Are a Cherished Haven</h3>
-<sub>By Andrew Testa and Isabella Kwai</sub>
-<p>As housing costs rise, the capital’s extensive green spaces, often described as the “lungs of the city,” offer space and respite to all — when the weather cooperates, that is.  <a href="https://nyti.ms/462LYUb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>‘The Untouchables’: How Columbia and N.Y.U. Benefit From Huge Tax Breaks</h3>
-<sub>By Matthew Haag and Meredith Kolodner</sub>
-<p>As New York City’s budget tightens, its wealthiest universities are bigger and richer than ever. Now, some officials think it’s time for the schools to pay more in taxes.  <a href="https://nyti.ms/46sQ5ZB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Shutdown Is Looming. What Comes Next?</h3>
-<sub>By Zach Montague</sub>
-<p>Many federal agencies have plans in place to weather a shutdown, but a disruption would still affect critical government services.  <a href="https://nyti.ms/46269BN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 25, Central Standard Time</sub></sub>
+<h3>Notebooks, Pens and Bulletproof Backpacks: A New School Year in America</h3>
+<sub>By Eli Saslow and Erin Schaff</sub>
+<p>Eight years ago, Brenda Valenzuela survived a mass shooting. Now she must send her own children to school.  <a href="https://nyti.ms/48wni80"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>At Least 125 Killed in Explosion at Nagorno-Karabakh Fuel Depot</h3>
+<sub>By Ivan Nechepurenko and Andrés R. Martínez</sub>
+<p>The cause of the blast in the breakaway region of Azerbaijan, where thousands have been fleeing for Armenia, was not immediately clear.  <a href="https://nyti.ms/3Zuyjmc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
