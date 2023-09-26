@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, September 25, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In the U.S., legislators are debating additional money for Ukraine to avoid a government shutdown. Meanwhile, climate scientists are warning of the dangers of &#39;monster fracks&#39; that require huge amounts of water and are challenging America&#39;s fragile aquifers. In international news, Ukraine is fighting aggressively against Russia, and Canada&#39;s House Speaker apologized after honoring a veteran of a Nazi SS unit. Also, Hollywood actors are bargaining with studios over pay and terms after writers secured a deal. Lastly, Fox News looks set to host a debate between the governors of California and Florida over state issues in November.</p>
+There is a lot going on in the world right now. In the US, both parties are debating whether to include military assistance for the fight against Russia in any plans to keep the government funded past the end of the month, which could result in a government shutdown if no agreement is reached. The far right is also contributing to mass dysfunction and trying to spark an impeachment and House coup. Meanwhile, Ukraine has killed the chief of Russia&#39;s Black Sea Fleet in response to its involvement in Crimea and Canada&#39;s House Speaker apologized after honoring a Ukrainian who fought with Nazis. On the political front in the US, 7 candidates have qualified for a Republican debate andTim Scott is running for president, though he is unmarried. President Trump meanwhile visited a gun store and raised legal questions when he asked to buy a Glock. Internationally, author Caitlin Moran just penned a book about modern masculinity and how to fix it. Finally, excessive water usage in US fracking operations and aquifers draining due to overuse are both causing serious environmental concerns across America.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Money for Ukraine at Center of Senate Bid to Avert Shutdown</h3>
@@ -80,18 +80,6 @@ There is a lot going on in the world right now. In the U.S., legislators are deb
 <p>Right-wing Republicans who represent a minority in their party and in Congress have succeeded in sowing mass dysfunction, spoiling for a shutdown, an impeachment and a House coup.  <a href="https://nyti.ms/3ronlSQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>‘Monster Fracks’ Are Getting Far Bigger. And Far Thirstier.</h3>
-<sub>By Hiroko Tabuchi and Blacki Migliozzi</sub>
-<p>A Times analysis shows that increasingly complex oil and gas wells now require astonishing volumes of water to fracture the bedrock and release fossil fuels, threatening America’s fragile aquifers.  <a href="https://nyti.ms/3EPaa0r"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>America Is Using Up Its Groundwater Like There’s No Tomorrow</h3>
-<sub>By Mira Rojanasakul, Christopher Flavelle, Blacki Migliozzi and Eli Murray</sub>
-<p>Unchecked overuse is draining and damaging aquifers nationwide, a data investigation by the New York Times revealed, threatening millions of people and America’s status as a food superpower.  <a href="https://nyti.ms/3soZaDM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 28, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>In a Blow to Russia, Ukraine Says It Killed Chief of Black Sea Fleet</h3>
 <sub>By Matthew Mpoke Bigg and Andrew E. Kramer</sub>
@@ -102,6 +90,24 @@ There is a lot going on in the world right now. In the U.S., legislators are deb
 <h3>Canada’s House Speaker Apologizes After Ukrainian Who Fought for Nazis Was Honored</h3>
 <sub>By Isabella Kwai</sub>
 <p>Jewish groups demanded an explanation after Anthony Rota, the speaker of Canada’s House of Commons, introduced a 98-year-old veteran of an SS unit as a “hero.”  <a href="https://nyti.ms/463j2LS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>7 Candidates Qualify for Second Republican Debate; Trump Won’t Attend</h3>
+<sub>By Maggie Astor</sub>
+<p>The Republican National Committee announced the lineup Monday night: Doug Burgum, Chris Christie, Ron DeSantis, Nikki Haley, Mike Pence, Vivek Ramaswamy and Tim Scott.  <a href="https://nyti.ms/3Zw6fyS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Tim Scott Is Running for President, and He’s Unmarried. What’s the Issue?</h3>
+<sub>By Maya King</sub>
+<p>A spouse brings advantages to the campaign trail, as a built-in surrogate and cheerleader. But interviews with voters show they have bigger concerns than a candidate’s love life.  <a href="https://nyti.ms/48r1Jpz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Tells Gun Store He’d Like to Buy a Glock, Raising Legal Questions</h3>
+<sub>By Maggie Haberman and Alan Feuer</sub>
+<p>Officials have increasingly voiced concerns about threats of violence related to the former president’s trials, as he faces charges that would make it illegal for a store to sell him a firearm.  <a href="https://nyti.ms/3PozmiU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
@@ -116,23 +122,17 @@ There is a lot going on in the world right now. In the U.S., legislators are deb
 <p>A prolific feminist turns her sights to the opposite sex.  <a href="https://nyti.ms/450O6u9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Hollywood’s Focus Turns to Actors After Writers Agree to Deal</h3>
-<sub>By John Koblin, Nicole Sperling and Brooks Barnes</sub>
-<p>The studios and the actors’ union haven’t spoken for more than two months, but a deal is needed before the entertainment industry can fully return.  <a href="https://nyti.ms/3Lwy4S8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>‘Monster Fracks’ Are Getting Far Bigger. And Far Thirstier.</h3>
+<sub>By Hiroko Tabuchi and Blacki Migliozzi</sub>
+<p>A Times analysis shows that increasingly complex oil and gas wells now require astonishing volumes of water to fracture the bedrock and release fossil fuels, threatening America’s fragile aquifers.  <a href="https://nyti.ms/3EPaa0r"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Tim Scott Is Running for President, and He’s Unmarried. What’s the Issue?</h3>
-<sub>By Maya King</sub>
-<p>A spouse brings advantages to the campaign trail, as a built-in surrogate and cheerleader. But interviews with voters show they have bigger concerns than a candidate’s love life.  <a href="https://nyti.ms/48r1Jpz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Fox News Announces a Newsom and DeSantis Debate in November</h3>
-<sub>By Shane Goldmacher and Maggie Haberman</sub>
-<p>It’s highly unusual for governors who are not running for the same office to debate, but the two have clashed repeatedly as they seek national attention.  <a href="https://nyti.ms/46aZtkU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 25, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>America Is Using Up Its Groundwater Like There’s No Tomorrow</h3>
+<sub>By Mira Rojanasakul, Christopher Flavelle, Blacki Migliozzi and Eli Murray</sub>
+<p>Unchecked overuse is draining and damaging aquifers nationwide, a data investigation by the New York Times revealed, threatening millions of people and America’s status as a food superpower.  <a href="https://nyti.ms/3soZaDM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
