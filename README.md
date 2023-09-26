@@ -60,31 +60,61 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, September 26, Central Standard Time</p>
 <p>
-The U.S. is facing the potential of a government shutdown over disagreements on whether or not to provide additional military aid to Ukraine in their fight against Russia. There are also legal battles between President Trump and his legal team, as well as his bid to purchase a Glock firearm which may be in violation of law. On top of this, climate issues such as ‘Monster Fracks’ are getting bigger and requiring more water, leading to potential damage to America&#39;s aquifers. Meanwhile, author and feminist Caitlin Moran has written a book about the need for modern masculinity reform.</p>
+There&#39;s a lot happening in the world right now! President Biden and former President Trump are both visiting Michigan to court autoworkers. In Russia, a port city has been severed from the sea and young sailors are feeling adrift. To combat climate change, renewable energy sources such as solar panels are being produced more in the US, and electric vehicle owners are finding more amenities at truck stops for rest breaks. In London, people are cherishing the free parks now more than ever in the face of expensive housing costs rising. It&#39;s also coming to light that Columbia and New York University have been receiving huge tax breaks while New York City&#39;s budget tightens. There will be seven candidates attending the second Republican debate while Trump will not be attending; his legal team is accusing people of trying to strip him of his First Amendment Rights - however they&#39;re also assessing if it would be even legal to sell him a firearm.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Money for Ukraine at Center of Senate Bid to Avert Shutdown</h3>
-<sub>By Carl Hulse and Catie Edmondson</sub>
-<p>Senators of both parties are debating whether to include new military assistance for the fight against Russia in any stopgap spending bill to keep the government funded past the end of the month.  <a href="https://nyti.ms/3ZsJ8W5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 25, Central Standard Time</sub></sub>
+<h3>Biden Heads to the Picket Line in Michigan to Court Autoworkers</h3>
+<sub>By Katie Rogers</sub>
+<p>President Biden’s trip comes a day before former President Donald J. Trump arrives in Michigan, as the two men offer dueling messages to a powerful voting bloc in a key swing state.  <a href="https://nyti.ms/3ESv7HH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Shutdown Is Looming. What Comes Next?</h3>
-<sub>By Zach Montague</sub>
-<p>Many federal agencies have plans in place to weather a shutdown, but a disruption would still affect critical government services.  <a href="https://nyti.ms/46269BN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Wrecking-Ball Caucus: How the Far Right Brought Washington to Its Knees</h3>
-<sub>By Carl Hulse</sub>
-<p>Right-wing Republicans who represent a minority in their party and in Congress have succeeded in sowing mass dysfunction, spoiling for a shutdown, an impeachment and a House coup.  <a href="https://nyti.ms/3ronlSQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 23, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Why Biden and Trump Are Courting Striking Autoworkers</h3>
+<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler and Michael J. de la Merced</sub>
+<p>The president and his leading Republican rival are heading to Michigan to address members of the U.A.W., whose political clout is growing.  <a href="https://nyti.ms/3PxBYvd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In a Blow to Russia, Ukraine Says It Killed Chief of Black Sea Fleet</h3>
-<sub>By Matthew Mpoke Bigg and Andrew E. Kramer</sub>
-<p>As they ramp up attacks on occupied Crimea, Ukrainian forces are repeatedly targeting the fleet based there, a key to Russia’s attacks deep into Ukraine and its blockade of Ukrainian ports.  <a href="https://nyti.ms/3LB6ZgD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>In a Port City Severed From the Sea, Young Sailors Feel Adrift</h3>
+<sub>By Marc Santora and Laetitia Vancon</sub>
+<p>With Russia trying to maintain military control of the Black Sea, Odesa is disconnected from its waters — and its history.  <a href="https://nyti.ms/3LZLTZB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Can the U.S. Make Solar Panels? This Company Thinks So.</h3>
+<sub>By Ivan Penn</sub>
+<p>First Solar kept producing them in Ohio after most of the industry moved to China. President Biden wants many more domestic manufacturers.  <a href="https://nyti.ms/3ZwdF5c"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Peak Oil Is Near, Energy Agency Says, but Climate Change Is Far From Solved</h3>
+<sub>By Brad Plumer</sub>
+<p>Despite the rapid growth of electric vehicles and solar power, other efforts to tackle warming are lagging, according to the International Energy Agency.  <a href="https://nyti.ms/3ZsVygJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Truck Stops Upgrade to Recharge Electric Vehicles (and Their Drivers)</h3>
+<sub>By Joe Gose</sub>
+<p>Highway travel centers are adding amenities like restaurants and dog parks to accommodate the expanded dwell time of electric vehicle owners.  <a href="https://nyti.ms/3ERTgy1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Pricey London, Free Parks Are a Cherished Haven</h3>
+<sub>By Andrew Testa and Isabella Kwai</sub>
+<p>As housing costs rise, the capital’s extensive green spaces, often described as the “lungs of the city,” offer space and respite to all — when the weather cooperates, that is.  <a href="https://nyti.ms/462LYUb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>‘The Untouchables’: How Columbia and N.Y.U. Benefit From Huge Tax Breaks</h3>
+<sub>By Matthew Haag and Meredith Kolodner</sub>
+<p>As New York City’s budget tightens, its wealthiest universities are bigger and richer than ever. Now, some officials think it’s time for the schools to pay more in taxes.  <a href="https://nyti.ms/46sQ5ZB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Americans Are Down on Biden. Why Does His Party Keep Winning Elections?</h3>
+<sub>By Reid J. Epstein</sub>
+<p>Despite a flood of negative polls for Democrats, the party has delivered a string of strong results in special elections, which can be a useful gauge of the national political environment.  <a href="https://nyti.ms/3rtXVDk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>7 Candidates Qualify for Second Republican Debate; Trump Won’t Attend</h3>
@@ -99,40 +129,10 @@ The U.S. is facing the potential of a government shutdown over disagreements on 
 <sub><sub>Monday, September 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Tim Scott Is Running for President, and He’s Unmarried. What’s the Issue?</h3>
-<sub>By Maya King</sub>
-<p>A spouse brings advantages to the campaign trail, as a built-in surrogate and cheerleader. But interviews with voters show they have bigger concerns than a candidate’s love life.  <a href="https://nyti.ms/48r1Jpz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Tells Gun Store He’d Like to Buy a Glock, Raising Legal Questions</h3>
 <sub>By Maggie Haberman and Alan Feuer</sub>
 <p>Officials have increasingly voiced concerns about threats of violence related to the former president’s trials, as he faces charges that would make it illegal for a store to sell him a firearm.  <a href="https://nyti.ms/3PozmiU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Modern Masculinity Is Broken. She Knows How to Fix It.</h3>
-<sub>By David Marchese</sub>
-<p>“We need to work out what we want the future to look like for men in a way that women have already done,” says Caitlin Moran, the best-selling feminist author.  <a href="https://nyti.ms/3RAcIXS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-books-blue" alt="">
-<h3>In Defense of Men? Caitlin Moran’s Answer Will Surprise You.</h3>
-<sub>By Jessica Bennett</sub>
-<p>A prolific feminist turns her sights to the opposite sex.  <a href="https://nyti.ms/450O6u9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>‘Monster Fracks’ Are Getting Far Bigger. And Far Thirstier.</h3>
-<sub>By Hiroko Tabuchi and Blacki Migliozzi</sub>
-<p>A Times analysis shows that increasingly complex oil and gas wells now require astonishing volumes of water to fracture the bedrock and release fossil fuels, threatening America’s fragile aquifers.  <a href="https://nyti.ms/3EPaa0r"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>America Is Using Up Its Groundwater Like There’s No Tomorrow</h3>
-<sub>By Mira Rojanasakul, Christopher Flavelle, Blacki Migliozzi and Eli Murray</sub>
-<p>Unchecked overuse is draining and damaging aquifers nationwide, a data investigation by the New York Times revealed, threatening millions of people and America’s status as a food superpower.  <a href="https://nyti.ms/3soZaDM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
