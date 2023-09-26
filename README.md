@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Monday, September 25, Central Standard Time</p>
+<p>It is Tuesday, September 26, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In the US, both parties are debating whether to include military assistance for the fight against Russia in any plans to keep the government funded past the end of the month, which could result in a government shutdown if no agreement is reached. The far right is also contributing to mass dysfunction and trying to spark an impeachment and House coup. Meanwhile, Ukraine has killed the chief of Russia&#39;s Black Sea Fleet in response to its involvement in Crimea and Canada&#39;s House Speaker apologized after honoring a Ukrainian who fought with Nazis. On the political front in the US, 7 candidates have qualified for a Republican debate andTim Scott is running for president, though he is unmarried. President Trump meanwhile visited a gun store and raised legal questions when he asked to buy a Glock. Internationally, author Caitlin Moran just penned a book about modern masculinity and how to fix it. Finally, excessive water usage in US fracking operations and aquifers draining due to overuse are both causing serious environmental concerns across America.</p>
+There is a lot happening in the world right now. In the US, there is a debate over whether to include new military assistance to Ukraine in any stopgap spending bill to keep the government funded, and a possible government shutdown looms. Meanwhile, in Ukraine, they have killed the head of the Russian Black Sea Fleet as they ramp up attacks on occupied Crimea. Canada&#39;s House Speaker recently apologized after an elderly Ukrainian veteran of an SS unit was honored as a “hero”, despite their dark past. Additionally, seven candidates have been chosen for the second Republican debate, while Trump&#39;s lawyers are fighting against a gag order request in his election case. On top of that, Trump tried to buy a gun from a store recently, raising legal questions. Lastly, feminist author Caitlin Moran has recently spoken out about how modern masculinity is broken and needs fixing. Meanwhile there is also an increasing amount of ‘monster fracks’ that require vast quantities of water- this is concerning many environmentalists due to potential impacts on fragile aquifers.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Money for Ukraine at Center of Senate Bid to Avert Shutdown</h3>
@@ -99,6 +99,12 @@ There is a lot going on in the world right now. In the US, both parties are deba
 <sub><sub>Monday, September 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Lawyers Assail Gag Order Request in Election Case</h3>
+<sub>By Alan Feuer</sub>
+<p>The former president’s legal team said that an order limiting his public statements about the case would strip him of his First Amendment rights.  <a href="https://nyti.ms/3RysQZE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Tim Scott Is Running for President, and He’s Unmarried. What’s the Issue?</h3>
 <sub>By Maya King</sub>
 <p>A spouse brings advantages to the campaign trail, as a built-in surrogate and cheerleader. But interviews with voters show they have bigger concerns than a candidate’s love life.  <a href="https://nyti.ms/48r1Jpz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -127,12 +133,6 @@ There is a lot going on in the world right now. In the US, both parties are deba
 <sub>By Hiroko Tabuchi and Blacki Migliozzi</sub>
 <p>A Times analysis shows that increasingly complex oil and gas wells now require astonishing volumes of water to fracture the bedrock and release fossil fuels, threatening America’s fragile aquifers.  <a href="https://nyti.ms/3EPaa0r"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>America Is Using Up Its Groundwater Like There’s No Tomorrow</h3>
-<sub>By Mira Rojanasakul, Christopher Flavelle, Blacki Migliozzi and Eli Murray</sub>
-<p>Unchecked overuse is draining and damaging aquifers nationwide, a data investigation by the New York Times revealed, threatening millions of people and America’s status as a food superpower.  <a href="https://nyti.ms/3soZaDM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, August 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
