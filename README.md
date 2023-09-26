@@ -60,9 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, September 26, Central Standard Time</p>
 <p>
-At the moment, there are a few major news stories happening around the world. In the U.S., the Federal Trade Commission and 17 states have sued Amazon for conducting business practices that stifle competition. Robert Menendez is facing a growing push from a number of Democrats in his own party to resign after his recent indictment. The Supreme Court has declined to revisit a matter concerning Alabama&#39;s voting map, and Donald Trump raised legal questions when he requested to buy a Glock from a gun store during his trial. 
-
-On an international scale, an explosion at a fuel depot in Nagorno-Karabakh has resulted in at least 125 deaths. It is not known yet what caused the blast in this breakaway region of Azerbaijan where people have been fleeing for Armenia.</p>
+Right now, the U.S. government is accusing Amazon of illegally protecting its online retail monopoly and forcing higher prices onto consumers. President Biden has recently joined autoworkers on a picket line in Michigan, just a day before ex-President Trump&#39;s planned return to the state. There&#39;s also been a groundswell of calls for Congressmen Robert Menendez to resign after his indictment last week. In other news, the Supreme Court has declined to revisit a voting map dispute in Alabama and the second Republican debate is taking place tonight. Finally, there&#39;s the start of a new school year in America where children will be returning to classrooms with bulletproof backpacks and other added safety measures due to past mass shootings.</p>
 <ol>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>U.S. Accuses Amazon of Illegally Protecting Monopoly in Online Retail</h3>
@@ -71,9 +69,9 @@ On an international scale, an explosion at a fuel depot in Nagorno-Karabakh has 
 <sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>‘Unprecedented’ Secrecy in Google Trial as Tech Giants Push to Limit Disclosures</h3>
-<sub>By Nico Grant, Cecilia Kang and Tripp Mickle</sub>
-<p>Efforts to seal testimony have increasingly raised questions as the federal antitrust case enters its third week in court.  <a href="https://nyti.ms/3ta5wHP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>For Amazon’s Andy Jassy, a Cleanup Job Just Got a Lot Bigger</h3>
+<sub>By Karen Weise</sub>
+<p>The F.T.C. accused the internet giant of protecting an online retail monopoly and forcing higher prices onto consumers.  <a href="https://nyti.ms/3RzH2la"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -83,7 +81,13 @@ On an international scale, an explosion at a fuel depot in Nagorno-Karabakh has 
 <sub><sub>Thursday, December 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Father Has Spent His Career at Ford. The Son Might Not.</h3>
+<h3>Biden Joins Autoworkers on Picket Line in Michigan</h3>
+<sub>By Katie Rogers and Erica L. Green</sub>
+<p>The president’s trip came a day before former President Donald J. Trump was scheduled to arrive in Michigan, as the two offer dueling messages in a key swing state.  <a href="https://nyti.ms/3ESv7HH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Father and Son on the Picket Line: ‘Is This the Life I Wanted for Him?’</h3>
 <sub>By Jenna Russell</sub>
 <p>Steve and Keegan Kellums, striking U.A.W. workers, represent two perspectives on their industry, a divergence that ripples through the broader work force.  <a href="https://nyti.ms/3POE2QF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
@@ -98,6 +102,12 @@ On an international scale, an explosion at a fuel depot in Nagorno-Karabakh has 
 <h3>Booker Says Menendez Should Resign, Breaking Silence</h3>
 <sub>By Christopher Maag</sub>
 <p>The decision by Senator Cory Booker, a close ally, to condemn Senator Robert Menendez underscores the deepening crisis Mr. Menendez faces after his indictment.  <a href="https://nyti.ms/3PQrp7M"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Businessman Indicted With Menendez Is Arrested at Kennedy Airport</h3>
+<sub>By Benjamin Weiser</sub>
+<p>Wael Hana, who is accused of bribing the senior senator from New Jersey, pleaded not guilty in a Manhattan courtroom on Tuesday.  <a href="https://nyti.ms/3rm8vwe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -119,21 +129,9 @@ On an international scale, an explosion at a fuel depot in Nagorno-Karabakh has 
 <sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Tells Gun Store He’d Like to Buy a Glock, Raising Legal Questions</h3>
-<sub>By Maggie Haberman and Alan Feuer</sub>
-<p>Officials have increasingly voiced concerns about threats of violence related to the former president’s trials, as he faces charges that would make it illegal for a store to sell him a firearm.  <a href="https://nyti.ms/3PozmiU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Notebooks, Pens and Bulletproof Backpacks: A New School Year in America</h3>
 <sub>By Eli Saslow and Erin Schaff</sub>
 <p>Eight years ago, Brenda Valenzuela survived a mass shooting. Now she must send her own children to school.  <a href="https://nyti.ms/48wni80"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>At Least 125 Killed in Explosion at Nagorno-Karabakh Fuel Depot</h3>
-<sub>By Ivan Nechepurenko and Andrés R. Martínez</sub>
-<p>The cause of the blast in the breakaway region of Azerbaijan, where thousands have been fleeing for Armenia, was not immediately clear.  <a href="https://nyti.ms/3Zuyjmc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
 <hr/>
 </ol>
