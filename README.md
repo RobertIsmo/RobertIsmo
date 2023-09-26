@@ -60,19 +60,37 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, September 26, Central Standard Time</p>
 <p>
-There&#39;s a lot happening in the world right now! President Biden and former President Trump are both visiting Michigan to court autoworkers. In Russia, a port city has been severed from the sea and young sailors are feeling adrift. To combat climate change, renewable energy sources such as solar panels are being produced more in the US, and electric vehicle owners are finding more amenities at truck stops for rest breaks. In London, people are cherishing the free parks now more than ever in the face of expensive housing costs rising. It&#39;s also coming to light that Columbia and New York University have been receiving huge tax breaks while New York City&#39;s budget tightens. There will be seven candidates attending the second Republican debate while Trump will not be attending; his legal team is accusing people of trying to strip him of his First Amendment Rights - however they&#39;re also assessing if it would be even legal to sell him a firearm.</p>
+It seems like a lot is going on in the world right now! President Biden and Trump are both vying for the support of auto workers, and the Supreme Court recently made a decision about an Alabama voting map. There&#39;s a GOP debate coming up soon, and polls show that Americans aren&#39;t too keen on Biden, although his party is doing well in special elections. Trump is also raising some questions by expressing interest in buying a gun in store. In other news, Russia is trying to hold military control of the Black Sea, and energy agencies have said that peak oil is near. As far as businesses go, there&#39;s one company in Ohio still making solar panels that Biden wants more of, and truck stops are upgrading to recharge electric vehicles. London has some expensive free parks for people to enjoy when the weather is nice. And finally, two big universities in New York seem untouchable thanks to giant tax breaks, with some people now suggesting they pay more taxes given the city&#39;s tight budget.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Heads to the Picket Line in Michigan to Court Autoworkers</h3>
-<sub>By Katie Rogers</sub>
-<p>President Biden’s trip comes a day before former President Donald J. Trump arrives in Michigan, as the two men offer dueling messages to a powerful voting bloc in a key swing state.  <a href="https://nyti.ms/3ESv7HH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Why Biden and Trump Are Courting Striking Autoworkers</h3>
 <sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler and Michael J. de la Merced</sub>
 <p>The president and his leading Republican rival are heading to Michigan to address members of the U.A.W., whose political clout is growing.  <a href="https://nyti.ms/3PxBYvd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Supreme Court Declines to Revisit Alabama Voting Map Dispute</h3>
+<sub>By Abbie VanSickle</sub>
+<p>For the second time in recent months, the Supreme Court ruled against Alabama lawmakers and their proposed congressional district map.  <a href="https://nyti.ms/3t5MSR7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Can the Second G.O.P. Debate Amount to More Than a Race for Second Place?</h3>
+<sub>By Shane Goldmacher, Maggie Haberman and Jonathan Swan</sub>
+<p>The most important audience might be Republican donors who are waiting to put their money behind a candidate who can take on Donald Trump.  <a href="https://nyti.ms/3t5OOsR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Americans Are Down on Biden. Why Does His Party Keep Winning Elections?</h3>
+<sub>By Reid J. Epstein</sub>
+<p>Despite a flood of negative polls for Democrats, the party has delivered a string of strong results in special elections, which can be a useful gauge of the national political environment.  <a href="https://nyti.ms/3rtXVDk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Tells Gun Store He’d Like to Buy a Glock, Raising Legal Questions</h3>
+<sub>By Maggie Haberman and Alan Feuer</sub>
+<p>Officials have increasingly voiced concerns about threats of violence related to the former president’s trials, as he faces charges that would make it illegal for a store to sell him a firearm.  <a href="https://nyti.ms/3PozmiU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>In a Port City Severed From the Sea, Young Sailors Feel Adrift</h3>
@@ -89,7 +107,7 @@ There&#39;s a lot happening in the world right now! President Biden and former P
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>Peak Oil Is Near, Energy Agency Says, but Climate Change Is Far From Solved</h3>
 <sub>By Brad Plumer</sub>
-<p>Despite the rapid growth of electric vehicles and solar power, other efforts to tackle warming are lagging, according to the International Energy Agency.  <a href="https://nyti.ms/3ZsVygJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Despite the rapid growth of electric vehicles and solar power, other efforts to tackle warming are lagging, according to the International Energy Agency.  <a href="https://nyti.ms/4598KIT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -111,27 +129,9 @@ There&#39;s a lot happening in the world right now! President Biden and former P
 <sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Americans Are Down on Biden. Why Does His Party Keep Winning Elections?</h3>
-<sub>By Reid J. Epstein</sub>
-<p>Despite a flood of negative polls for Democrats, the party has delivered a string of strong results in special elections, which can be a useful gauge of the national political environment.  <a href="https://nyti.ms/3rtXVDk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>7 Candidates Qualify for Second Republican Debate; Trump Won’t Attend</h3>
-<sub>By Maggie Astor</sub>
-<p>The Republican National Committee announced the lineup Monday night: Doug Burgum, Chris Christie, Ron DeSantis, Nikki Haley, Mike Pence, Vivek Ramaswamy and Tim Scott.  <a href="https://nyti.ms/3Zw6fyS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Lawyers Assail Gag Order Request in Election Case</h3>
-<sub>By Alan Feuer</sub>
-<p>The former president’s legal team said that an order limiting his public statements about the case would strip him of his First Amendment rights.  <a href="https://nyti.ms/3RysQZE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Tells Gun Store He’d Like to Buy a Glock, Raising Legal Questions</h3>
-<sub>By Maggie Haberman and Alan Feuer</sub>
-<p>Officials have increasingly voiced concerns about threats of violence related to the former president’s trials, as he faces charges that would make it illegal for a store to sell him a firearm.  <a href="https://nyti.ms/3PozmiU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>A Shutdown Is Looming. What Comes Next?</h3>
+<sub>By Zach Montague</sub>
+<p>Many federal agencies have plans in place to weather a shutdown, but a disruption would still affect critical government services.  <a href="https://nyti.ms/46269BN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 25, Central Standard Time</sub></sub>
 <hr/>
 </ol>
