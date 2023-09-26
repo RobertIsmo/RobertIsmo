@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, September 26, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. In the US, there is a debate over whether to include new military assistance to Ukraine in any stopgap spending bill to keep the government funded, and a possible government shutdown looms. Meanwhile, in Ukraine, they have killed the head of the Russian Black Sea Fleet as they ramp up attacks on occupied Crimea. Canada&#39;s House Speaker recently apologized after an elderly Ukrainian veteran of an SS unit was honored as a “hero”, despite their dark past. Additionally, seven candidates have been chosen for the second Republican debate, while Trump&#39;s lawyers are fighting against a gag order request in his election case. On top of that, Trump tried to buy a gun from a store recently, raising legal questions. Lastly, feminist author Caitlin Moran has recently spoken out about how modern masculinity is broken and needs fixing. Meanwhile there is also an increasing amount of ‘monster fracks’ that require vast quantities of water- this is concerning many environmentalists due to potential impacts on fragile aquifers.</p>
+The U.S. is facing the potential of a government shutdown over disagreements on whether or not to provide additional military aid to Ukraine in their fight against Russia. There are also legal battles between President Trump and his legal team, as well as his bid to purchase a Glock firearm which may be in violation of law. On top of this, climate issues such as ‘Monster Fracks’ are getting bigger and requiring more water, leading to potential damage to America&#39;s aquifers. Meanwhile, author and feminist Caitlin Moran has written a book about the need for modern masculinity reform.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Money for Ukraine at Center of Senate Bid to Avert Shutdown</h3>
@@ -84,12 +84,6 @@ There is a lot happening in the world right now. In the US, there is a debate ov
 <h3>In a Blow to Russia, Ukraine Says It Killed Chief of Black Sea Fleet</h3>
 <sub>By Matthew Mpoke Bigg and Andrew E. Kramer</sub>
 <p>As they ramp up attacks on occupied Crimea, Ukrainian forces are repeatedly targeting the fleet based there, a key to Russia’s attacks deep into Ukraine and its blockade of Ukrainian ports.  <a href="https://nyti.ms/3LB6ZgD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Canada’s House Speaker Apologizes After Ukrainian Who Fought for Nazis Was Honored</h3>
-<sub>By Isabella Kwai</sub>
-<p>Jewish groups demanded an explanation after Anthony Rota, the speaker of Canada’s House of Commons, introduced a 98-year-old veteran of an SS unit as a “hero.”  <a href="https://nyti.ms/463j2LS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -133,6 +127,12 @@ There is a lot happening in the world right now. In the US, there is a debate ov
 <sub>By Hiroko Tabuchi and Blacki Migliozzi</sub>
 <p>A Times analysis shows that increasingly complex oil and gas wells now require astonishing volumes of water to fracture the bedrock and release fossil fuels, threatening America’s fragile aquifers.  <a href="https://nyti.ms/3EPaa0r"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, September 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>America Is Using Up Its Groundwater Like There’s No Tomorrow</h3>
+<sub>By Mira Rojanasakul, Christopher Flavelle, Blacki Migliozzi and Eli Murray</sub>
+<p>Unchecked overuse is draining and damaging aquifers nationwide, a data investigation by the New York Times revealed, threatening millions of people and America’s status as a food superpower.  <a href="https://nyti.ms/3soZaDM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, August 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
