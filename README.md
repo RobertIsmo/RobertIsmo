@@ -60,13 +60,25 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, September 27, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In the U.S., there has been a major win for Attorney General Letitia James, who won a court ruling against former president Donald J. Trump, effectively deciding that he had committed fraud and should be stripped of control of key properties. In addition, both Senate Republicans and Democrats have reached a spending deal to prevent a government shutdown and provide billions in aid for Ukraine and disaster relief. On the business front, TV and movie writers have voted to end their 148-day strike as well as Las Vegas hospitality workers who have authorized a potential strike at major resorts. On the international scene, there was an unfortunate tragedy where more than 100 people were killed in a fire at a wedding hall in Iraq during the bride and groom&#39;s dance. There has also been an antitrust lawsuit filed against Amazon by the U.S. Federal Trade Commission for allegedly using its monopoly power to stifle competition and raise prices. Lastly, on a lighter note, there have been some interesting developments showing the cross-over popularity of sports stars and musicians such as NFL star Travis Kelce who recently rubbed shoulders with pop star Taylor Swift.</p>
+There are a lot of interesting happenings in the world today. Recently, a New York judge ruled that Donald Trump committed fraud in valuing his real estate properties, and the Attorney General of New York is seeking to hold him accountable. Senator Robert Menendez of New Jersey has faced new bribery charges, and his case is going to trial. On the lighter side, TV and movie writers are about to return to work following a strike, and Stephen Sondheim&#39;s final musical will be performed soon.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Ruling Against Trump Cuts to the Heart of His Identity</h3>
+<sub>By Maggie Haberman and Alan Feuer</sub>
+<p>The finding by a judge in a New York civil case that Donald Trump committed fraud in valuing his real estate properties undermined the narrative of the business career that launched him in politics.  <a href="https://nyti.ms/3RAphlK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Judge Rules Trump Committed Fraud, Stripping Control of Key Properties</h3>
 <sub>By Jonah E. Bromwich and Ben Protess</sub>
 <p>The decision in a lawsuit that could go to trial next week is a major win for Attorney General Letitia James, who says former President Donald J. Trump overvalued his holdings by as much as $2.2 billion.  <a href="https://nyti.ms/459IuOz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Six Takeaways From a New York Judge’s Ruling Against Donald J. Trump</h3>
+<sub>By Jonah E. Bromwich and Ben Protess</sub>
+<p>Justice Arthur F. Engoron’s finding that the former president committed fraud has major implications for his businesses. But Mr. Trump still has cards left to play.  <a href="https://nyti.ms/3PT4KHV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Read the Judge’s Ruling in the Trump Fraud Case</h3>
@@ -74,11 +86,17 @@ There is a lot going on in the world right now. In the U.S., there has been a ma
 <p>The decision by Justice Arthur F. Engoron is a major victory for Attorney General Letitia James in her lawsuit against Mr. Trump, effectively deciding that no trial was needed to determine that he had fraudulently secured favorable terms on loans and insurance deals.  <a href="https://nyti.ms/3LDF2oj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Senate Reaches Spending Deal to Head Off Government Shutdown</h3>
-<sub>By Carl Hulse and Catie Edmondson</sub>
-<p>An agreement between Senate Republicans and Democrats would keep agencies open through mid-November and provide billions in aid for Ukraine and disaster relief. But House Republicans are likely to balk.  <a href="https://nyti.ms/467OtEA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>E.U. Law Sets the Stage for a Clash Over Disinformation</h3>
+<sub>By Steven Lee Myers</sub>
+<p>The law, aimed at forcing social media giants to adopt new policies to curb harmful content, is expected to face blowback from Elon Musk, who owns X.  <a href="https://nyti.ms/3t9eoxf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump, Weighing In on Auto Strike, Has a Mixed Legacy on Unions</h3>
+<sub>By Russ Buettner</sub>
+<p>The former president will be making a campaign stop in Michigan on Wednesday amid the United Automobile Workers’ strike. He has both appeased unions and sought to circumvent them.  <a href="https://nyti.ms/452KSXe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>TV and Movie Writers to Begin Returning to Work on Wednesday</h3>
@@ -92,47 +110,29 @@ There is a lot going on in the world right now. In the U.S., there has been a ma
 <p>Unions representing 60,000 workers across Nevada have been in talks with the resorts since April. The vote is a crucial step toward a walkout.  <a href="https://nyti.ms/48umgJI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Fire at Wedding Hall in Iraq Kills More Than 100 People</h3>
-<sub>By Alissa J. Rubin and Sangar Khaleel</sub>
-<p>Eyewitnesses said flares were set off in celebration as the bride and groom danced, and that a fire broke out at astonishing speed.  <a href="https://nyti.ms/3ZFlAgH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-theater-blue" alt="">
+<h3>How Complete Was Stephen Sondheim’s Final Musical?</h3>
+<sub>By Michael Paulson</sub>
+<p>Sondheim said days before his death in 2021 that he did not know when it would be finished, but the musical, now called “Here We Are,” begins performances Thursday.  <a href="https://nyti.ms/48xixeE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>U.S. Accuses Amazon of Illegally Protecting Monopoly in Online Retail</h3>
-<sub>By David McCabe</sub>
-<p>The Federal Trade Commission and 17 states sued Amazon, saying its conduct in its online store and services to merchants illegally stifled competition.  <a href="https://nyti.ms/3EV0VMe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Here Are the 2 Tactics Amazon Used to Undermine Competition, the F.T.C. Says</h3>
-<sub>By Karen Weise</sub>
-<p>In a lawsuit filed on Tuesday, the Federal Trade Commission said the internet giant used its monopoly power to stifle competition and raise prices.  <a href="https://nyti.ms/3LD0rhi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Groundswell of Democrats Builds Calling on Menendez to Resign</h3>
-<sub>By Annie Karni</sub>
-<p>The New Jersey Democrat’s indictment last week initially prompted only a handful of calls from within his party for his exit. But on Tuesday, the dam broke, led by colleagues facing re-election next year.  <a href="https://nyti.ms/3EUDsum"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>As Menendez’s Star Rose, Fears of Corruption Cast a Persistent Shadow</h3>
+<sub>By Nicholas Fandos</sub>
+<p>The New Jersey Democrat reached a new height representing Latinos. But prosecutors circled for decades before charging him with an explosive new bribery plot.  <a href="https://nyti.ms/452iwfG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Businessman Indicted With Menendez Is Arrested at Kennedy Airport</h3>
-<sub>By Benjamin Weiser</sub>
-<p>Wael Hana, who is accused of bribing the senior senator from New Jersey, pleaded not guilty in a Manhattan courtroom on Tuesday.  <a href="https://nyti.ms/3rm8vwe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
+<h3>Menendez to Face Judge Wednesday After Second Bribery Indictment in 8 Years</h3>
+<sub>By Tracey Tully</sub>
+<p>Senator Robert Menendez and his wife, Nadine, expected in federal court in Manhattan, have been charged in what federal prosecutors say was a yearslong bribery scheme.  <a href="https://nyti.ms/3PSQe2V"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Brooks Robinson, Slick-Fielding Hall of Fame Third Baseman, Dies at 86</h3>
-<sub>By Richard Goldstein</sub>
-<p>In his 23-year career, all of it with the Baltimore Orioles, he had 2,848 hits and 268 home runs. But he was best known for his unparalleled defense.  <a href="https://nyti.ms/3PTGoxI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Travis Kelce Was a Star. Taylor Swift Put Him in Another Orbit.</h3>
-<sub>By Emmanuel Morgan</sub>
-<p>Kelce, a tight end for the Kansas City Chiefs, has won two Super Bowls and hosted “Saturday Night Live.” But nothing compares to his brush with the Swift aura.  <a href="https://nyti.ms/3ERfC2I"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>Should Menendez Quit?</h3>
+<sub>By David Leonhardt</sub>
+<p>The senator for New Jersey’s indictment on corruption charges raised a sometimes tricky question: When should a politician resign?  <a href="https://nyti.ms/3ta5Eaa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
