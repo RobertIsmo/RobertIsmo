@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, September 27, Central Standard Time</p>
 <p>
-There are a lot of interesting happenings in the world today. Recently, a New York judge ruled that Donald Trump committed fraud in valuing his real estate properties, and the Attorney General of New York is seeking to hold him accountable. Senator Robert Menendez of New Jersey has faced new bribery charges, and his case is going to trial. On the lighter side, TV and movie writers are about to return to work following a strike, and Stephen Sondheim&#39;s final musical will be performed soon.</p>
+There is a lot going on in the world right now. In the US, former President Donald Trump has been accused of fraud in connection with his real estate business ventures, while in New York Senator Robert Menendez has been charged with bribery. There&#39;s also a labor dispute involving the United Auto Workers union and Tesla founder Elon Musk has run into trouble with the European Union over their new policy to curb online disinformation. Meanwhile, a bipartisan group of US politicians wants stronger legal powers to clear homeless camps. Additionally, Stephen Sondheim&#39;s long-awaited final musical is about to open Thursday, and an American soldier who was detained in North Korea after crossing the inter-Korean DMZ is now in US custody.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Ruling Against Trump Cuts to the Heart of His Identity</h3>
@@ -80,11 +80,17 @@ There are a lot of interesting happenings in the world today. Recently, a New Yo
 <p>Justice Arthur F. Engoron’s finding that the former president committed fraud has major implications for his businesses. But Mr. Trump still has cards left to play.  <a href="https://nyti.ms/3PT4KHV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Read the Judge’s Ruling in the Trump Fraud Case</h3>
-<sub></sub>
-<p>The decision by Justice Arthur F. Engoron is a major victory for Attorney General Letitia James in her lawsuit against Mr. Trump, effectively deciding that no trial was needed to determine that he had fraudulently secured favorable terms on loans and insurance deals.  <a href="https://nyti.ms/3LDF2oj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>As Menendez’s Star Rose, Fears of Corruption Cast a Persistent Shadow</h3>
+<sub>By Nicholas Fandos</sub>
+<p>The New Jersey Democrat broke barriers for Latinos. But prosecutors circled for decades before charging him with an explosive new bribery plot.  <a href="https://nyti.ms/452iwfG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Menendez, Facing Bribery Charges, Arrives at Manhattan Court</h3>
+<sub>By Tracey Tully and Benjamin Weiser</sub>
+<p>Senator Robert Menendez and his wife, Nadine, have been charged in what federal prosecutors say was a yearslong scheme. They will be arraigned Wednesday morning.  <a href="https://nyti.ms/3PSQe2V"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>E.U. Law Sets the Stage for a Clash Over Disinformation</h3>
@@ -98,40 +104,34 @@ There are a lot of interesting happenings in the world today. Recently, a New Yo
 <p>The former president will be making a campaign stop in Michigan on Wednesday amid the United Automobile Workers’ strike. He has both appeased unions and sought to circumvent them.  <a href="https://nyti.ms/452KSXe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>TV and Movie Writers to Begin Returning to Work on Wednesday</h3>
-<sub>By Brooks Barnes</sub>
-<p>The leadership of the Writers Guild of America voted to end a 148-day strike. Members will start voting on the deal’s ratification next week.  <a href="https://nyti.ms/45XWbkJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Las Vegas Hospitality Workers Authorize Strike at Major Resorts</h3>
-<sub>By Kurtis Lee</sub>
-<p>Unions representing 60,000 workers across Nevada have been in talks with the resorts since April. The vote is a crucial step toward a walkout.  <a href="https://nyti.ms/48umgJI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-theater-blue" alt="">
 <h3>How Complete Was Stephen Sondheim’s Final Musical?</h3>
 <sub>By Michael Paulson</sub>
 <p>Sondheim said days before his death in 2021 that he did not know when it would be finished, but the musical, now called “Here We Are,” begins performances Thursday.  <a href="https://nyti.ms/48xixeE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>As Menendez’s Star Rose, Fears of Corruption Cast a Persistent Shadow</h3>
-<sub>By Nicholas Fandos</sub>
-<p>The New Jersey Democrat reached a new height representing Latinos. But prosecutors circled for decades before charging him with an explosive new bribery plot.  <a href="https://nyti.ms/452iwfG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Stunningly Sudden End to a Long, Bloody Conflict in the Caucasus</h3>
+<sub>By Andrew Higgins, Ivan Nechepurenko and Nanna Heitmann</sub>
+<p>After decades of wars and tense stalemates, almost no one saw it coming: Azerbaijan seized Nagorno-Karabakh from Armenian control seemingly overnight.  <a href="https://nyti.ms/3rsrXHE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>American Soldier Who Went to North Korea in July Is in U.S. Custody</h3>
+<sub>By Choe Sang-Hun</sub>
+<p>Pvt. Travis T. King dashed across the inter-Korean Demilitarized Zone in July. North Korea expelled him after finding him guilty of “illegally intruding” into its territory.  <a href="https://nyti.ms/3EUGizG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Menendez to Face Judge Wednesday After Second Bribery Indictment in 8 Years</h3>
-<sub>By Tracey Tully</sub>
-<p>Senator Robert Menendez and his wife, Nadine, expected in federal court in Manhattan, have been charged in what federal prosecutors say was a yearslong bribery scheme.  <a href="https://nyti.ms/3PSQe2V"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Lina Khan vs. Jeff Bezos: This Is Big Tech’s Real Cage Match</h3>
+<sub>By David Streitfeld</sub>
+<p>The chair of the Federal Trade Commission wants to disrupt Amazon, whose founder built a trillion-dollar firm by disrupting retail.  <a href="https://nyti.ms/3ZvFkDx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>Should Menendez Quit?</h3>
-<sub>By David Leonhardt</sub>
-<p>The senator for New Jersey’s indictment on corruption charges raised a sometimes tricky question: When should a politician resign?  <a href="https://nyti.ms/3ta5Eaa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Rare Alliance, Democrats and Republicans Seek Legal Power to Clear Homeless Camps</h3>
+<sub>By Shawn Hubler</sub>
+<p>Dozens of leaders, mostly from Western states, have asked the Supreme Court to overturn lower court decisions that restrict enforcement against public camping.  <a href="https://nyti.ms/3ERWjGm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
 <hr/>
 </ol>
