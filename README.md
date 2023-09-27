@@ -60,8 +60,34 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, September 26, Central Standard Time</p>
 <p>
-Right now, the U.S. government is accusing Amazon of illegally protecting its online retail monopoly and forcing higher prices onto consumers. President Biden has recently joined autoworkers on a picket line in Michigan, just a day before ex-President Trump&#39;s planned return to the state. There&#39;s also been a groundswell of calls for Congressmen Robert Menendez to resign after his indictment last week. In other news, the Supreme Court has declined to revisit a voting map dispute in Alabama and the second Republican debate is taking place tonight. Finally, there&#39;s the start of a new school year in America where children will be returning to classrooms with bulletproof backpacks and other added safety measures due to past mass shootings.</p>
+It looks like things have been busy since last we spoke! For one, in the U.S., the Senate has reached a spending deal to head off a potential government shutdown, but some House Republicans are likely to balk. On the business side, TV and movie writers have voted to end a 148-day strike and will start voting on the deal’s ratification next week. Meanwhile, there&#39;s a lot of news around tech companies with U.S. regulators accusing Amazon of illegally protecting its monopoly in online retail and the F.T.C. filing a lawsuit about Amazon’s anti-competitive behavior.
+
+On the sports side, legendary Baltimore Orioles third baseman Brooks Robinson passed away at 86 and Travis Kelce from the Kansas City Chiefs just had the brush with Taylor Swift! There&#39;s been some news around politics too, with a judge ruling that Trump has committed fraud by overvaluing his assets and a groundswell of Democrats calling for Senator Menendez from New Jersey to resign after his indictment - one of his co-defendants was arrested at Kennedy Airport just yesterday! Finally, as kids prepare to go back to school in America this year, many things look different with pencil cases containing notebooks, pens, and bulletproof backpacks thrown into the mix as well.</p>
 <ol>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Judge Rules Trump Committed Fraud, Stripping Control of Key Properties</h3>
+<sub>By Jonah E. Bromwich and Ben Protess</sub>
+<p>The decision in a lawsuit that could go to trial next week is a major win for Attorney General Letitia James, who says former President Donald J. Trump overvalued his holdings by as much as $2.2 billion.  <a href="https://nyti.ms/459IuOz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Read the Judge’s Ruling in the Trump Fraud Case</h3>
+<sub></sub>
+<p>The decision by Justice Arthur F. Engoron is a major victory for Attorney General Letitia James in her lawsuit against Mr. Trump, effectively deciding that no trial was needed to determine that he had fraudulently secured favorable terms on loans and insurance deals.  <a href="https://nyti.ms/3LDF2oj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Senate Reaches Spending Deal to Head Off Government Shutdown</h3>
+<sub>By Carl Hulse and Catie Edmondson</sub>
+<p>An agreement between Senate Republicans and Democrats would keep agencies open through mid-November and provide billions in aid for Ukraine and disaster relief. But House Republicans are likely to balk.  <a href="https://nyti.ms/467OtEA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>TV and Movie Writers to Begin Returning to Work on Wednesday</h3>
+<sub>By Brooks Barnes</sub>
+<p>The leadership of the Writers Guild of America voted to end a 148-day strike. Members will start voting on the deal’s ratification next week.  <a href="https://nyti.ms/45XWbkJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>U.S. Accuses Amazon of Illegally Protecting Monopoly in Online Retail</h3>
 <sub>By David McCabe</sub>
@@ -69,27 +95,15 @@ Right now, the U.S. government is accusing Amazon of illegally protecting its on
 <sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>For Amazon’s Andy Jassy, a Cleanup Job Just Got a Lot Bigger</h3>
+<h3>Here Are the 2 Tactics Amazon Used to Undermine Competition, the F.T.C. Says</h3>
 <sub>By Karen Weise</sub>
-<p>The F.T.C. accused the internet giant of protecting an online retail monopoly and forcing higher prices onto consumers.  <a href="https://nyti.ms/3RzH2la"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>In a lawsuit filed on Tuesday, the Federal Trade Commission said the internet giant used its monopoly power to stifle competition and raise prices.  <a href="https://nyti.ms/3LD0rhi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Prime Power: How Amazon Squeezes the Businesses Behind Its Store</h3>
+<h3>For Amazon’s Andy Jassy, a Cleanup Job Just Got a Lot Bigger</h3>
 <sub>By Karen Weise</sub>
-<p>Twenty years ago, Amazon opened its storefront to anyone who wanted to sell something. Then it began demanding more out of them.  <a href="https://nyti.ms/35IHnHy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Joins Autoworkers on Picket Line in Michigan</h3>
-<sub>By Katie Rogers and Erica L. Green</sub>
-<p>The president’s trip came a day before former President Donald J. Trump was scheduled to arrive in Michigan, as the two offer dueling messages in a key swing state.  <a href="https://nyti.ms/3ESv7HH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Father and Son on the Picket Line: ‘Is This the Life I Wanted for Him?’</h3>
-<sub>By Jenna Russell</sub>
-<p>Steve and Keegan Kellums, striking U.A.W. workers, represent two perspectives on their industry, a divergence that ripples through the broader work force.  <a href="https://nyti.ms/3POE2QF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The F.T.C. accused the internet giant of protecting an online retail monopoly and forcing higher prices onto consumers.  <a href="https://nyti.ms/3RzH2la"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -99,39 +113,27 @@ Right now, the U.S. government is accusing Amazon of illegally protecting its on
 <sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Booker Says Menendez Should Resign, Breaking Silence</h3>
-<sub>By Christopher Maag</sub>
-<p>The decision by Senator Cory Booker, a close ally, to condemn Senator Robert Menendez underscores the deepening crisis Mr. Menendez faces after his indictment.  <a href="https://nyti.ms/3PQrp7M"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Businessman Indicted With Menendez Is Arrested at Kennedy Airport</h3>
 <sub>By Benjamin Weiser</sub>
 <p>Wael Hana, who is accused of bribing the senior senator from New Jersey, pleaded not guilty in a Manhattan courtroom on Tuesday.  <a href="https://nyti.ms/3rm8vwe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Supreme Court Declines to Revisit Alabama Voting Map Dispute</h3>
-<sub>By Abbie VanSickle</sub>
-<p>For the second time in recent months, the Supreme Court ruled against Alabama lawmakers and their proposed congressional district map.  <a href="https://nyti.ms/3t5MSR7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Can the Second G.O.P. Debate Amount to More Than a Race for Second Place?</h3>
-<sub>By Shane Goldmacher, Maggie Haberman and Jonathan Swan</sub>
-<p>The most important audience might be Republican donors who are waiting to put their money behind a candidate who can take on Donald Trump.  <a href="https://nyti.ms/3t5OOsR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>What Polling After the First Debate Tells Us About Round 2</h3>
-<sub>By Nate Cohn</sub>
-<p>Nikki Haley received a small lift, but another good performance Wednesday may simply splinter the opposition to Donald Trump.  <a href="https://nyti.ms/48wdmvy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Brooks Robinson, Slick-Fielding Hall of Fame Third Baseman, Dies at 86</h3>
+<sub>By Richard Goldstein</sub>
+<p>In his 23-year career, all of it with the Baltimore Orioles, he had 2,848 hits and 268 home runs. But he was best known for his unparalleled defense.  <a href="https://nyti.ms/3PTGoxI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Notebooks, Pens and Bulletproof Backpacks: A New School Year in America</h3>
 <sub>By Eli Saslow and Erin Schaff</sub>
 <p>Eight years ago, Brenda Valenzuela survived a mass shooting. Now she must send her own children to school.  <a href="https://nyti.ms/48wni80"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Travis Kelce Was a Star. Taylor Swift Put Him in Another Orbit.</h3>
+<sub>By Emmanuel Morgan</sub>
+<p>Kelce, a tight end for the Kansas City Chiefs, has won two Super Bowls and hosted “Saturday Night Live.” But nothing compares to his brush with the Swift aura.  <a href="https://nyti.ms/3ERfC2I"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
 <hr/>
 </ol>
