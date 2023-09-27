@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, September 27, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. Recently, a judge ruled that former President Donald Trump had committed fraud and stripped him of control of some key properties. In Congress, Senate Republicans and Democrats have managed to reach a spending deal to avoid a government shutdown, but House Republicans are likely to oppose it. In the entertainment industry, TV and movie writers are voting on the deal to end their 148-day-long strike so they can return to work on Wednesday. Meanwhile in Las Vegas, hospitality workers have authorized a strike at major resorts. The US has also accused Amazon of illegally protecting their monopoly in online retail. On top of all that, Senator Bob Menendez of New Jersey has been indicted on corruption charges, which has sparked a groundswell of calls from within his own party for his resignation. Lastly, in sports news, Brooks Robinson sadly passed away. He was one of the greatest defensive baseball players ever to play the game. Lastly, Travis Kelce—a tight end for the Kansas City Chiefs—has made headlines after appearing with Taylor Swift in her newest music video. And finally, there’s been some confusion about whether or not Ukraine killed a Russian admiral in a missile strike recently.</p>
+There is a lot going on in the world right now. In the U.S., there has been a major win for Attorney General Letitia James, who won a court ruling against former president Donald J. Trump, effectively deciding that he had committed fraud and should be stripped of control of key properties. In addition, both Senate Republicans and Democrats have reached a spending deal to prevent a government shutdown and provide billions in aid for Ukraine and disaster relief. On the business front, TV and movie writers have voted to end their 148-day strike as well as Las Vegas hospitality workers who have authorized a potential strike at major resorts. On the international scene, there was an unfortunate tragedy where more than 100 people were killed in a fire at a wedding hall in Iraq during the bride and groom&#39;s dance. There has also been an antitrust lawsuit filed against Amazon by the U.S. Federal Trade Commission for allegedly using its monopoly power to stifle competition and raise prices. Lastly, on a lighter note, there have been some interesting developments showing the cross-over popularity of sports stars and musicians such as NFL star Travis Kelce who recently rubbed shoulders with pop star Taylor Swift.</p>
 <ol>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Judge Rules Trump Committed Fraud, Stripping Control of Key Properties</h3>
@@ -90,6 +90,12 @@ There is a lot happening in the world right now. Recently, a judge ruled that fo
 <h3>Las Vegas Hospitality Workers Authorize Strike at Major Resorts</h3>
 <sub>By Kurtis Lee</sub>
 <p>Unions representing 60,000 workers across Nevada have been in talks with the resorts since April. The vote is a crucial step toward a walkout.  <a href="https://nyti.ms/48umgJI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Fire at Wedding Hall in Iraq Kills More Than 100 People</h3>
+<sub>By Alissa J. Rubin and Sangar Khaleel</sub>
+<p>Eyewitnesses said flares were set off in celebration as the bride and groom danced, and that a fire broke out at astonishing speed.  <a href="https://nyti.ms/3ZFlAgH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -126,12 +132,6 @@ There is a lot happening in the world right now. Recently, a judge ruled that fo
 <h3>Travis Kelce Was a Star. Taylor Swift Put Him in Another Orbit.</h3>
 <sub>By Emmanuel Morgan</sub>
 <p>Kelce, a tight end for the Kansas City Chiefs, has won two Super Bowls and hosted “Saturday Night Live.” But nothing compares to his brush with the Swift aura.  <a href="https://nyti.ms/3ERfC2I"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Did Ukraine Really Kill a Russian Admiral? Questions Emerge.</h3>
-<sub>By Matthew Mpoke Bigg, Andrew E. Kramer, Valeriya Safronova and Eric Nagourney</sub>
-<p>Moscow released video on Tuesday purporting to show that its Black Sea fleet commander is still alive, despite Ukraine’s claim that he was killed in a major missile strike.  <a href="https://nyti.ms/3RzVn0Y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
 <hr/>
 </ol>
