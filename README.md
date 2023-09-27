@@ -60,10 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, September 27, Central Standard Time</p>
 <p>
-Right now, it looks like we may be able to avoid another government shutdown, but there could still be some economic risks long term if it isn&#39;t resolved soon. Oil prices have been rising with some analysts suggesting they could reach $100 a barrel soon. The legal troubles of former president Donald Trump are now being put in the spotlight, with a judge having determined he committed fraud in valuing his properties. New Jersey Senator Robert Menendez is facing bribery charges that could end his career, and the ruling on that is expected soon. Additionally, Azerbaijan recently seized Nagorno-Karabakh from Armenian control in an unexpected development.
-
-On the tech side, European companies are being forced to adopt new policies to help curb the spread of disinformation while Jeff Bezos faces a real challenge from the head of the Federal Trade Commission over his company Amazon&#39;s practices. In terms of health, nursing homes are still waiting for vaccines as rates of Covid infection rise. And finally, three black women are working to preserve desecrated African American burial grounds in Georgia, Texas and Washington D.C, which contain important stories and history.</p>
+There has been a lot happening in the world recently. In an unprecedented move, officials from Israel and Saudi Arabia have been visiting each other&#39;s countries, symbolizing a normalizing of their relationship. Meanwhile, the U.S. Congress is edging closer to a possible government shutdown because of hard-right House Republicans blocking measures to fund it. Oil prices have also seen an incredible spike recently - analysts are trying to understand why. Air travel might be disrupted if the U.S government shuts down, and former President Donald Trump had fraud charges against him unanimously upheld by a judge in New York. On top of that, Senator Robert Menendez and his wife Nadine pleaded not guilty to bribery charges. There&#39;s set to be a second Republican presidential debate soon which may reveal changes in the dynamics of the race, and Donald Trump recently tried to court blue collar workers at a non-union factory in response to President Biden appearing on a union picket line. Lastly, three Black women are traveling around the country trying to preserve desecrated African American burial grounds and their histories. All in all its been pretty intense!</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Once Inconceivable, Officials’ Visits Highlight Warming Saudi-Israeli Ties</h3>
+<sub>By Patrick Kingsley</sub>
+<p>Israel’s tourism minister went to Saudi Arabia, and a Saudi envoy toured the Israeli-occupied West Bank. The trips reflected how the two countries are moving toward normalizing their relationship.  <a href="https://nyti.ms/3RAwouq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Republicans Driving Congress Toward a Shutdown</h3>
+<sub>By Robert Jimison and Catie Edmondson</sub>
+<p>With a Sept. 30 deadline looming, hard-right House Republicans have formed a wall of opposition to a temporary measure to fund the government.  <a href="https://nyti.ms/45bZcN7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>U.S. Government Shutdown Is Unlikely to Cause an Immediate Recession</h3>
 <sub>By Jim Tankersley and Madeleine Ngo</sub>
@@ -77,63 +87,51 @@ On the tech side, European companies are being forced to adopt new policies to h
 <sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Administration Warns That Government Shutdown Could Disrupt Air Travel</h3>
+<sub>By Mark Walker</sub>
+<p>If the government shuts down, air traffic controllers and Transportation Security Administration officers will continue to work, but they will not be paid until the shutdown is over.  <a href="https://nyti.ms/3PzwWhN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Trump’s Lawyers Try to Grasp the Implications of Judge’s Fraud Ruling</h3>
+<sub>By Jonah E. Bromwich</sub>
+<p>At a hearing, lawyers for former President Donald J. Trump and New York State began sorting through the real-world meaning of a finding that he inflated the value of his holdings.  <a href="https://nyti.ms/3ZBEZPO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Ruling Against Trump Cuts to the Heart of His Identity</h3>
 <sub>By Maggie Haberman and Alan Feuer</sub>
 <p>The finding by a judge in a New York civil case that Donald Trump committed fraud in valuing his real estate properties undermined the narrative of the business career that launched him in politics.  <a href="https://nyti.ms/3RAphlK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Six Takeaways From a New York Judge’s Ruling Against Donald J. Trump</h3>
-<sub>By Jonah E. Bromwich and Ben Protess</sub>
-<p>Justice Arthur F. Engoron’s finding that the former president committed fraud has major implications for his businesses. But Mr. Trump still has cards left to play.  <a href="https://nyti.ms/3PT4KHV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Senator Menendez Pleads Not Guilty to Bribery Charges</h3>
+<h3>Side by Side, Menendez and His Wife Plead Not Guilty to Bribery Charges</h3>
 <sub>By Tracey Tully, Benjamin Weiser and Lola Fadulu</sub>
-<p>Robert Menendez and his wife, Nadine, were charged in what federal prosecutors say was a yearslong scheme. They entered not guilty pleas Wednesday in Manhattan.  <a href="https://nyti.ms/3PSQe2V"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Senator Robert Menendez and his wife, Nadine, were freed after posting personal recognizance bonds. He can travel out of the country, but only on official business.  <a href="https://nyti.ms/3PSQe2V"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>As Menendez’s Star Rose, Fears of Corruption Cast a Persistent Shadow</h3>
-<sub>By Nicholas Fandos</sub>
-<p>The New Jersey Democrat broke barriers for Latinos. But prosecutors circled for decades before charging him with an explosive new bribery plot.  <a href="https://nyti.ms/452iwfG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Stunningly Sudden End to a Long, Bloody Conflict in the Caucasus</h3>
-<sub>By Andrew Higgins, Ivan Nechepurenko and Nanna Heitmann</sub>
-<p>After decades of wars and tense stalemates, almost no one saw it coming: Azerbaijan seized Nagorno-Karabakh from Armenian control seemingly overnight.  <a href="https://nyti.ms/3rsrXHE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Can DeSantis Reset? What to Watch for in the 2nd G.O.P. Debate.</h3>
+<sub>By Jonathan Weisman and Lisa Lerer</sub>
+<p>The first matchup last month fueled momentum for Nikki Haley and a slide in standing for Ron DeSantis. What it didn’t do is diminish Donald Trump’s lead.  <a href="https://nyti.ms/3rxcjL1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The G.O.P. Debate Is Tonight. How Much Do You Know About the Race?</h3>
+<sub>By Ian Prasad Philbrick and Jonathan Weisman</sub>
+<p>Test your knowledge of the Republican presidential primary.  <a href="https://nyti.ms/3t3PgI2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Tries to Court Blue-Collar Workers at a Nonunion Factory</h3>
+<sub>By Trip Gabriel</sub>
+<p>A day after President Biden appeared on a union picket line, the former president will speak at an auto parts factory, but it’s unclear whether any striking workers will be in the crowd.  <a href="https://nyti.ms/3Przz56"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>America’s Black Cemeteries and Three Women Trying to Save Them</h3>
 <sub>By Elizabeth Williamson</sub>
 <p>In Georgia, Texas and Washington, D.C., three Black women are working to preserve desecrated African American burial grounds and the stories they hold.  <a href="https://nyti.ms/46s932l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>American Soldier Who Crossed Into North Korea in July Is in U.S. Custody</h3>
-<sub>By Choe Sang-Hun and Michael D. Shear</sub>
-<p>Pvt. Travis T. King dashed across the inter-Korean Demilitarized Zone in July. North Korea expelled him after finding him guilty of “illegally intruding” into its territory.  <a href="https://nyti.ms/3EUGizG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>E.U. Law Sets the Stage for a Clash Over Disinformation</h3>
-<sub>By Steven Lee Myers</sub>
-<p>The law, aimed at forcing social media giants to adopt new policies to curb harmful content, is expected to face blowback from Elon Musk, who owns X.  <a href="https://nyti.ms/3t9eoxf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Lina Khan vs. Jeff Bezos: This Is Big Tech’s Real Cage Match</h3>
-<sub>By David Streitfeld</sub>
-<p>The chair of the Federal Trade Commission wants to disrupt Amazon, whose founder built a trillion-dollar firm by disrupting retail.  <a href="https://nyti.ms/3ZvFkDx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>As Covid Infections Rise, Nursing Homes Are Still Waiting for Vaccines</h3>
-<sub>By Jordan Rau and Tony Leys</sub>
-<p>Now that the U.S. government has stepped back from issuing vaccines, long-term care operators have yet to start administering shots to protect one of the most vulnerable populations.  <a href="https://nyti.ms/4539lvD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
 <hr/>
 </ol>
