@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Tuesday, September 26, Central Standard Time</p>
+<p>It is Wednesday, September 27, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now! There is a court case in New York where former President Donald Trump is being accused of fraud and his investments are being re-evaluated. The Senate just reached a spending deal to avoid a government shutdown, with money for Ukraine aid and disaster relief. Writers are about to start returning to work after a 148 day strike. The U.S. and 17 states have sued Amazon for allegedly stifling competition by maintaining an illegal monopoly online. Democrats are calling for New Jersey Senator Robert Menendez to resign following his indictment. A businessman who was indicted with him was just arrested at JFK airport, and an admiral from Russia may have been killed byUkraine in a missile attack, though the Russian government is now saying he is alive and video evidence was released. Lastly, NFL star Travis Kelce was featured in Taylor Swift&#39;s new song, which has made him an even bigger star!</p>
+There is a lot happening in the world right now. Recently, a judge ruled that former President Donald Trump had committed fraud and stripped him of control of some key properties. In Congress, Senate Republicans and Democrats have managed to reach a spending deal to avoid a government shutdown, but House Republicans are likely to oppose it. In the entertainment industry, TV and movie writers are voting on the deal to end their 148-day-long strike so they can return to work on Wednesday. Meanwhile in Las Vegas, hospitality workers have authorized a strike at major resorts. The US has also accused Amazon of illegally protecting their monopoly in online retail. On top of all that, Senator Bob Menendez of New Jersey has been indicted on corruption charges, which has sparked a groundswell of calls from within his own party for his resignation. Lastly, in sports news, Brooks Robinson sadly passed away. He was one of the greatest defensive baseball players ever to play the game. Lastly, Travis Kelce—a tight end for the Kansas City Chiefs—has made headlines after appearing with Taylor Swift in her newest music video. And finally, there’s been some confusion about whether or not Ukraine killed a Russian admiral in a missile strike recently.</p>
 <ol>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Judge Rules Trump Committed Fraud, Stripping Control of Key Properties</h3>
@@ -85,6 +85,12 @@ There is a lot happening in the world right now! There is a court case in New Yo
 <sub>By Brooks Barnes</sub>
 <p>The leadership of the Writers Guild of America voted to end a 148-day strike. Members will start voting on the deal’s ratification next week.  <a href="https://nyti.ms/45XWbkJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Las Vegas Hospitality Workers Authorize Strike at Major Resorts</h3>
+<sub>By Kurtis Lee</sub>
+<p>Unions representing 60,000 workers across Nevada have been in talks with the resorts since April. The vote is a crucial step toward a walkout.  <a href="https://nyti.ms/48umgJI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>U.S. Accuses Amazon of Illegally Protecting Monopoly in Online Retail</h3>
@@ -114,12 +120,6 @@ There is a lot happening in the world right now! There is a court case in New Yo
 <h3>Brooks Robinson, Slick-Fielding Hall of Fame Third Baseman, Dies at 86</h3>
 <sub>By Richard Goldstein</sub>
 <p>In his 23-year career, all of it with the Baltimore Orioles, he had 2,848 hits and 268 home runs. But he was best known for his unparalleled defense.  <a href="https://nyti.ms/3PTGoxI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Notebooks, Pens and Bulletproof Backpacks: A New School Year in America</h3>
-<sub>By Eli Saslow and Erin Schaff</sub>
-<p>Eight years ago, Brenda Valenzuela survived a mass shooting. Now she must send her own children to school.  <a href="https://nyti.ms/48wni80"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
