@@ -60,19 +60,27 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, September 27, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In the US, former President Donald Trump has been accused of fraud in connection with his real estate business ventures, while in New York Senator Robert Menendez has been charged with bribery. There&#39;s also a labor dispute involving the United Auto Workers union and Tesla founder Elon Musk has run into trouble with the European Union over their new policy to curb online disinformation. Meanwhile, a bipartisan group of US politicians wants stronger legal powers to clear homeless camps. Additionally, Stephen Sondheim&#39;s long-awaited final musical is about to open Thursday, and an American soldier who was detained in North Korea after crossing the inter-Korean DMZ is now in US custody.</p>
+Right now, it looks like we may be able to avoid another government shutdown, but there could still be some economic risks long term if it isn&#39;t resolved soon. Oil prices have been rising with some analysts suggesting they could reach $100 a barrel soon. The legal troubles of former president Donald Trump are now being put in the spotlight, with a judge having determined he committed fraud in valuing his properties. New Jersey Senator Robert Menendez is facing bribery charges that could end his career, and the ruling on that is expected soon. Additionally, Azerbaijan recently seized Nagorno-Karabakh from Armenian control in an unexpected development.
+
+On the tech side, European companies are being forced to adopt new policies to help curb the spread of disinformation while Jeff Bezos faces a real challenge from the head of the Federal Trade Commission over his company Amazon&#39;s practices. In terms of health, nursing homes are still waiting for vaccines as rates of Covid infection rise. And finally, three black women are working to preserve desecrated African American burial grounds in Georgia, Texas and Washington D.C, which contain important stories and history.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. Government Shutdown Is Unlikely to Cause an Immediate Recession</h3>
+<sub>By Jim Tankersley and Madeleine Ngo</sub>
+<p>White House and Wall Street estimates suggested the economy could withstand a brief shutdown, with risks mounting the longer it lasts.  <a href="https://nyti.ms/458dvCb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Oil Prices ‘Melt Up’ in a March Toward $100 a Barrel</h3>
+<sub>By Stanley Reed</sub>
+<p>Analysts have raised their forecasts for oil prices, as they try to understand Saudi Arabia’s intentions with recent production cuts.  <a href="https://nyti.ms/3RBD5fK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Ruling Against Trump Cuts to the Heart of His Identity</h3>
 <sub>By Maggie Haberman and Alan Feuer</sub>
 <p>The finding by a judge in a New York civil case that Donald Trump committed fraud in valuing his real estate properties undermined the narrative of the business career that launched him in politics.  <a href="https://nyti.ms/3RAphlK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Judge Rules Trump Committed Fraud, Stripping Control of Key Properties</h3>
-<sub>By Jonah E. Bromwich and Ben Protess</sub>
-<p>The decision in a lawsuit that could go to trial next week is a major win for Attorney General Letitia James, who says former President Donald J. Trump overvalued his holdings by as much as $2.2 billion.  <a href="https://nyti.ms/459IuOz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Six Takeaways From a New York Judge’s Ruling Against Donald J. Trump</h3>
@@ -81,33 +89,15 @@ There is a lot going on in the world right now. In the US, former President Dona
 <sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>As Menendez’s Star Rose, Fears of Corruption Cast a Persistent Shadow</h3>
-<sub>By Nicholas Fandos</sub>
-<p>The New Jersey Democrat broke barriers for Latinos. But prosecutors circled for decades before charging him with an explosive new bribery plot.  <a href="https://nyti.ms/452iwfG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Senator Menendez Pleads Not Guilty to Bribery Charges</h3>
+<sub>By Tracey Tully, Benjamin Weiser and Lola Fadulu</sub>
+<p>Robert Menendez and his wife, Nadine, were charged in what federal prosecutors say was a yearslong scheme. They entered not guilty pleas Wednesday in Manhattan.  <a href="https://nyti.ms/3PSQe2V"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Menendez, Facing Bribery Charges, Arrives at Manhattan Court</h3>
-<sub>By Tracey Tully and Benjamin Weiser</sub>
-<p>Senator Robert Menendez and his wife, Nadine, have been charged in what federal prosecutors say was a yearslong scheme. They will be arraigned Wednesday morning.  <a href="https://nyti.ms/3PSQe2V"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>E.U. Law Sets the Stage for a Clash Over Disinformation</h3>
-<sub>By Steven Lee Myers</sub>
-<p>The law, aimed at forcing social media giants to adopt new policies to curb harmful content, is expected to face blowback from Elon Musk, who owns X.  <a href="https://nyti.ms/3t9eoxf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump, Weighing In on Auto Strike, Has a Mixed Legacy on Unions</h3>
-<sub>By Russ Buettner</sub>
-<p>The former president will be making a campaign stop in Michigan on Wednesday amid the United Automobile Workers’ strike. He has both appeased unions and sought to circumvent them.  <a href="https://nyti.ms/452KSXe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-theater-blue" alt="">
-<h3>How Complete Was Stephen Sondheim’s Final Musical?</h3>
-<sub>By Michael Paulson</sub>
-<p>Sondheim said days before his death in 2021 that he did not know when it would be finished, but the musical, now called “Here We Are,” begins performances Thursday.  <a href="https://nyti.ms/48xixeE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>As Menendez’s Star Rose, Fears of Corruption Cast a Persistent Shadow</h3>
+<sub>By Nicholas Fandos</sub>
+<p>The New Jersey Democrat broke barriers for Latinos. But prosecutors circled for decades before charging him with an explosive new bribery plot.  <a href="https://nyti.ms/452iwfG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -116,11 +106,23 @@ There is a lot going on in the world right now. In the US, former President Dona
 <p>After decades of wars and tense stalemates, almost no one saw it coming: Azerbaijan seized Nagorno-Karabakh from Armenian control seemingly overnight.  <a href="https://nyti.ms/3rsrXHE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>America’s Black Cemeteries and Three Women Trying to Save Them</h3>
+<sub>By Elizabeth Williamson</sub>
+<p>In Georgia, Texas and Washington, D.C., three Black women are working to preserve desecrated African American burial grounds and the stories they hold.  <a href="https://nyti.ms/46s932l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>American Soldier Who Went to North Korea in July Is in U.S. Custody</h3>
-<sub>By Choe Sang-Hun</sub>
+<h3>American Soldier Who Crossed Into North Korea in July Is in U.S. Custody</h3>
+<sub>By Choe Sang-Hun and Michael D. Shear</sub>
 <p>Pvt. Travis T. King dashed across the inter-Korean Demilitarized Zone in July. North Korea expelled him after finding him guilty of “illegally intruding” into its territory.  <a href="https://nyti.ms/3EUGizG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>E.U. Law Sets the Stage for a Clash Over Disinformation</h3>
+<sub>By Steven Lee Myers</sub>
+<p>The law, aimed at forcing social media giants to adopt new policies to curb harmful content, is expected to face blowback from Elon Musk, who owns X.  <a href="https://nyti.ms/3t9eoxf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Lina Khan vs. Jeff Bezos: This Is Big Tech’s Real Cage Match</h3>
@@ -128,10 +130,10 @@ There is a lot going on in the world right now. In the US, former President Dona
 <p>The chair of the Federal Trade Commission wants to disrupt Amazon, whose founder built a trillion-dollar firm by disrupting retail.  <a href="https://nyti.ms/3ZvFkDx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Rare Alliance, Democrats and Republicans Seek Legal Power to Clear Homeless Camps</h3>
-<sub>By Shawn Hubler</sub>
-<p>Dozens of leaders, mostly from Western states, have asked the Supreme Court to overturn lower court decisions that restrict enforcement against public camping.  <a href="https://nyti.ms/3ERWjGm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>As Covid Infections Rise, Nursing Homes Are Still Waiting for Vaccines</h3>
+<sub>By Jordan Rau and Tony Leys</sub>
+<p>Now that the U.S. government has stepped back from issuing vaccines, long-term care operators have yet to start administering shots to protect one of the most vulnerable populations.  <a href="https://nyti.ms/4539lvD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
 <hr/>
 </ol>
