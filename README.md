@@ -60,9 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, September 26, Central Standard Time</p>
 <p>
-It looks like things have been busy since last we spoke! For one, in the U.S., the Senate has reached a spending deal to head off a potential government shutdown, but some House Republicans are likely to balk. On the business side, TV and movie writers have voted to end a 148-day strike and will start voting on the deal’s ratification next week. Meanwhile, there&#39;s a lot of news around tech companies with U.S. regulators accusing Amazon of illegally protecting its monopoly in online retail and the F.T.C. filing a lawsuit about Amazon’s anti-competitive behavior.
-
-On the sports side, legendary Baltimore Orioles third baseman Brooks Robinson passed away at 86 and Travis Kelce from the Kansas City Chiefs just had the brush with Taylor Swift! There&#39;s been some news around politics too, with a judge ruling that Trump has committed fraud by overvaluing his assets and a groundswell of Democrats calling for Senator Menendez from New Jersey to resign after his indictment - one of his co-defendants was arrested at Kennedy Airport just yesterday! Finally, as kids prepare to go back to school in America this year, many things look different with pencil cases containing notebooks, pens, and bulletproof backpacks thrown into the mix as well.</p>
+There is a lot happening in the world right now! There is a court case in New York where former President Donald Trump is being accused of fraud and his investments are being re-evaluated. The Senate just reached a spending deal to avoid a government shutdown, with money for Ukraine aid and disaster relief. Writers are about to start returning to work after a 148 day strike. The U.S. and 17 states have sued Amazon for allegedly stifling competition by maintaining an illegal monopoly online. Democrats are calling for New Jersey Senator Robert Menendez to resign following his indictment. A businessman who was indicted with him was just arrested at JFK airport, and an admiral from Russia may have been killed byUkraine in a missile attack, though the Russian government is now saying he is alive and video evidence was released. Lastly, NFL star Travis Kelce was featured in Taylor Swift&#39;s new song, which has made him an even bigger star!</p>
 <ol>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Judge Rules Trump Committed Fraud, Stripping Control of Key Properties</h3>
@@ -100,16 +98,10 @@ On the sports side, legendary Baltimore Orioles third baseman Brooks Robinson pa
 <p>In a lawsuit filed on Tuesday, the Federal Trade Commission said the internet giant used its monopoly power to stifle competition and raise prices.  <a href="https://nyti.ms/3LD0rhi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>For Amazon’s Andy Jassy, a Cleanup Job Just Got a Lot Bigger</h3>
-<sub>By Karen Weise</sub>
-<p>The F.T.C. accused the internet giant of protecting an online retail monopoly and forcing higher prices onto consumers.  <a href="https://nyti.ms/3RzH2la"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Groundswell of Democrats Builds Calling on Menendez to Resign</h3>
 <sub>By Annie Karni</sub>
-<p>The New Jersey Democrat’s indictment last week initially prompted only a handful of calls from within his party for his exit. But on Tuesday, the dam broke, particularly among colleagues facing re-election next year.  <a href="https://nyti.ms/3EUDsum"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The New Jersey Democrat’s indictment last week initially prompted only a handful of calls from within his party for his exit. But on Tuesday, the dam broke, led by colleagues facing re-election next year.  <a href="https://nyti.ms/3EUDsum"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -134,6 +126,12 @@ On the sports side, legendary Baltimore Orioles third baseman Brooks Robinson pa
 <h3>Travis Kelce Was a Star. Taylor Swift Put Him in Another Orbit.</h3>
 <sub>By Emmanuel Morgan</sub>
 <p>Kelce, a tight end for the Kansas City Chiefs, has won two Super Bowls and hosted “Saturday Night Live.” But nothing compares to his brush with the Swift aura.  <a href="https://nyti.ms/3ERfC2I"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Did Ukraine Really Kill a Russian Admiral? Questions Emerge.</h3>
+<sub>By Matthew Mpoke Bigg, Andrew E. Kramer, Valeriya Safronova and Eric Nagourney</sub>
+<p>Moscow released video on Tuesday purporting to show that its Black Sea fleet commander is still alive, despite Ukraine’s claim that he was killed in a major missile strike.  <a href="https://nyti.ms/3RzVn0Y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
 <hr/>
 </ol>
