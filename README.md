@@ -60,13 +60,43 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, September 28, Central Standard Time</p>
 <p>
-There are a lot of tensions in the world right now. In Ukraine, 18 months of war have left no lasting ground gained by either side despite both sides making large offensives. In the US, vulnerable Republican representatives are trying to avoid blame if the government shuts down on September 30th. Meanwhile, Trump&#39;s lawyers are being accused of dragging their feet for his trial on charges of mishandling classified material and obstructing justice. Newcomers continue to arrive in New York, forming new communities in what can be hostile environments. Lastly, Beyonce had a successful Renaissance tour that showed the power of pleasure cultivation.</p>
+In New York City, there is a growing income gap between the rich and everyone else, and migrants from all over the world have been settling in the city. Meanwhile, there&#39;s a legal battle over pay standards for food delivery workers in the city, while President Donald Trump&#39;s legal defense team is facing strain as they defend him against prosecution. There is also potential for government shutdown in the U.S. due to lack of funds and disagreements between Republicans and Democrats on a temporary measure to fund the government. This could delay data on unemployment and inflation, potentially causing a recession. The Republicans held a recently debate, with Governor Ron DeSerialis of Florida trying to gain momentum with his opinion on President Trump, while elsewhere in Israel there has been tension as Jewish people argued over prayer rights on their holiest day of Yom Kippur.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Who’s Gaining Ground in Ukraine? This Year, No One.</h3>
-<sub>By Josh Holder</sub>
-<p>Although both sides have launched ambitious offensives, the front line has barely shifted. After 18 months of war, a breakthrough looks more difficult than ever.  <a href="https://nyti.ms/3RDoujX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>New York Is Rebounding for the Rich. Nearly Everyone Else Is Struggling.</h3>
+<sub>By Stefanos Chen</sub>
+<p>The huge income gap between rich and poor in Manhattan is the latest sign that the economic recovery from the pandemic has been lopsided in New York City.  <a href="https://nyti.ms/3teeXG8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Where the Migrants Who Came to New York Are Living Now</h3>
+<sub>By Todd Heisler, Andy Newman, Raúl Vilchis and Olivia Bensimon</sub>
+<p>From every corner of the world to every corner of New York City, newcomers are carving out communities in unexpected — and sometimes hostile — places.  <a href="https://nyti.ms/4660ESl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Judge Affirms Pay Raise for Food Delivery Workers in New York</h3>
+<sub>By Kellen Browning and Ana Ley</sub>
+<p>Uber, DoorDash and Grubhub had challenged the new pay standard, which would require them to pay gig workers about $18 per hour to start.  <a href="https://nyti.ms/3PW3weX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump’s Sprawling Legal Defense Effort Comes Under Strain</h3>
+<sub>By Ben Protess, Alan Feuer and Maggie Haberman</sub>
+<p>Former President Donald Trump’s team has found lawyers for others caught up in his prosecutions and has paid many of their legal bills. That arrangement may not be sustainable.  <a href="https://nyti.ms/46MuOKD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Justice Dept. Accuses Trump Lawyers of Dragging Their Feet in Documents Case</h3>
+<sub>By Alan Feuer</sub>
+<p>Prosecutors said the former president’s defense team was trying to use an arcane law to derail the scheduled start of his trial on charges of mishandling classified material and obstructing justice.  <a href="https://nyti.ms/3PDi3uQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>National Parks, and Those Who Count on Them, Brace for Possible Shutdown</h3>
+<sub>By Jack Healy</sub>
+<p>People, businesses and towns relying on park tourism worry the fourth shutdown in a decade could crush them if congress can’t reach a deal to keep the government running.  <a href="https://nyti.ms/3PDUHFg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Vulnerable Republicans Try to Head Off Blame for Shutdown</h3>
@@ -86,12 +116,6 @@ There are a lot of tensions in the world right now. In Ukraine, 18 months of war
 <p>A lapse in funding would delay data on unemployment and inflation as policymakers try to avoid a recession.  <a href="https://nyti.ms/3ZAQdnx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>A Government Shutdown Looms</h3>
-<sub>By David Leonhardt and Ian Prasad Philbrick</sub>
-<p>The situation serves as a reminder that partisan polarization in Washington is not symmetrical.  <a href="https://nyti.ms/3rwC3XT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>5 Takeaways From Another Trump-Free Republican Debate</h3>
 <sub>By Shane Goldmacher, Maggie Haberman and Jonathan Swan</sub>
@@ -99,39 +123,15 @@ There are a lot of tensions in the world right now. In Ukraine, 18 months of war
 <sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Michigan, Biden and Trump Offer a Preview of 2024</h3>
-<sub>By Katie Rogers</sub>
-<p>The candidates’ dueling styles were on clear display as the two men tried to woo voters affected by the United Automobile Workers strike.  <a href="https://nyti.ms/3PTYhfI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>DeSantis Clears a Debate Hurdle. Will It Be Enough to Build On?</h3>
+<sub>By Nicholas Nehamas</sub>
+<p>The Florida governor projected confidence onstage, but time is running out to stop his slide in the polls and convince voters he’s the best Trump alternative.  <a href="https://nyti.ms/3ZDjFcG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Gifts, Gadgets and Greece: Inside a Huawei Lobbying Campaign</h3>
-<sub>By Adam Satariano and Eliza Triantafillou</sub>
-<p>Leaked internal messages detail efforts by the Chinese tech giant to court Greek officials and fight an American-led effort against its technology.  <a href="https://nyti.ms/3ZPlAuR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>A Silvery, Shimmering Summer of Beyoncé</h3>
-<sub>By Jenna Wortham</sub>
-<p>The Renaissance tour is a blueprint for how to cultivate pleasure and hold onto it at all costs.  <a href="https://nyti.ms/3Py7KrU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>In Menendez Case, Prosecutors Confront Tighter Definition of Corruption</h3>
-<sub>By Benjamin Weiser</sub>
-<p>The Supreme Court has said wrongdoing must be clear cut. Some observers say the accusations in the senator’s case pass the test.  <a href="https://nyti.ms/469Zs0i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Justice Dept. Accuses Trump Lawyers of Dragging Their Feet in Documents Case</h3>
-<sub>By Alan Feuer</sub>
-<p>Prosecutors said the former president’s defense team was trying to use an arcane law to derail the scheduled start of his trial on charges of mishandling classified material and obstructing justice.  <a href="https://nyti.ms/3PDi3uQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Where the Migrants Who Came to New York Are Living Now</h3>
-<sub>By Todd Heisler, Andy Newman, Raúl Vilchis and Olivia Bensimon</sub>
-<p>From every corner of the world to every corner of New York City, newcomers are carving out communities in unexpected — and sometimes hostile — places.  <a href="https://nyti.ms/4660ESl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>How a Prayer Meeting Split Israeli Jews on Their Holiest Day</h3>
+<sub>By Patrick Kingsley</sub>
+<p>A confrontation in Tel Aviv on Yom Kippur is part of a wider battle over the character of Israel as the government tries to weaken the judiciary.  <a href="https://nyti.ms/3rEFFqN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
