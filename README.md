@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, September 28, Central Standard Time</p>
 <p>
-Things have been pretty tumultuous in the world lately. In Ukraine, there&#39;s a stalemate between two sides that have both launched offensives. In the US, Republicans are trying to evade blame over a possible government shutdown, while many agencies have plans in place to weather the disruptions if it happens. Meanwhile, the House voted to strip the defense secretary of salary and Republicans debated without Trump. President Biden and former President Trump gave speeches in Michigan that previewed a possible 2024 presidential election. Beyonce has been on tour that rivals the Olympics in scale and power. Prosecutors are facing tighter definitions of corruption in cases like Senator Menendez&#39;s, while a judge denied Trump&#39;s request for recusal in an election case. And of course, Michael Gambon from Harry Potter has passed away at 82 years old. Finally, immigrants are creating new communities throughout New York City.</p>
+There are a lot of tensions in the world right now. In Ukraine, 18 months of war have left no lasting ground gained by either side despite both sides making large offensives. In the US, vulnerable Republican representatives are trying to avoid blame if the government shuts down on September 30th. Meanwhile, Trump&#39;s lawyers are being accused of dragging their feet for his trial on charges of mishandling classified material and obstructing justice. Newcomers continue to arrive in New York, forming new communities in what can be hostile environments. Lastly, Beyonce had a successful Renaissance tour that showed the power of pleasure cultivation.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Who’s Gaining Ground in Ukraine? This Year, No One.</h3>
@@ -75,16 +75,16 @@ Things have been pretty tumultuous in the world lately. In Ukraine, there&#39;s 
 <sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Shutdown Is Looming. What Comes Next?</h3>
-<sub>By Zach Montague</sub>
-<p>Many federal agencies have plans in place to weather a shutdown, but a disruption would still affect critical government services.  <a href="https://nyti.ms/46269BN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>House Votes to Strip Defense Secretary of Salary as Right Wing Flexes Muscles</h3>
-<sub>By Catie Edmondson</sub>
-<p>Little more than three days before a government shutdown, the Republican-led House spent the day adding hard-right proposals to a series of doomed spending bills.  <a href="https://nyti.ms/3t6Z0kV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>The Republicans Driving Congress Toward a Shutdown</h3>
+<sub>By Robert Jimison and Catie Edmondson</sub>
+<p>With a Sept. 30 deadline looming, hard-right House Republicans have formed a wall of opposition to a temporary measure to fund the government.  <a href="https://nyti.ms/45bZcN7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>One Casualty of a Shutdown: Government Data</h3>
+<sub>By Ben Casselman</sub>
+<p>A lapse in funding would delay data on unemployment and inflation as policymakers try to avoid a recession.  <a href="https://nyti.ms/3ZAQdnx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-briefing-blue" alt="">
 <h3>A Government Shutdown Looms</h3>
@@ -104,10 +104,16 @@ Things have been pretty tumultuous in the world lately. In Ukraine, there&#39;s 
 <p>The candidates’ dueling styles were on clear display as the two men tried to woo voters affected by the United Automobile Workers strike.  <a href="https://nyti.ms/3PTYhfI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Gifts, Gadgets and Greece: Inside a Huawei Lobbying Campaign</h3>
+<sub>By Adam Satariano and Eliza Triantafillou</sub>
+<p>Leaked internal messages detail efforts by the Chinese tech giant to court Greek officials and fight an American-led effort against its technology.  <a href="https://nyti.ms/3ZPlAuR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
 <h3>A Silvery, Shimmering Summer of Beyoncé</h3>
 <sub>By Jenna Wortham</sub>
-<p>Her tour has rivaled the Olympics in economic scale and an earthquake in its power.  <a href="https://nyti.ms/3Py7KrU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The Renaissance tour is a blueprint for how to cultivate pleasure and hold onto it at all costs.  <a href="https://nyti.ms/3Py7KrU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -117,15 +123,9 @@ Things have been pretty tumultuous in the world lately. In Ukraine, there&#39;s 
 <sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Judge Denies Trump’s Request That She Recuse Herself in Election Case</h3>
+<h3>Justice Dept. Accuses Trump Lawyers of Dragging Their Feet in Documents Case</h3>
 <sub>By Alan Feuer</sub>
-<p>Judge Tanya Chutkan rejected arguments from the former president’s legal team that she could not fairly conduct his trial on federal charges of plotting to overturn the 2020 election.  <a href="https://nyti.ms/3ZxjXSi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Michael Gambon, British Actor Who Played Dumbledore in ‘Harry Potter,’ Dies at 82</h3>
-<sub>By Benedict Nightingale</sub>
-<p>The actor’s family said he had died peacefully after a bout of pneumonia.  <a href="https://nyti.ms/3Py1PD3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Prosecutors said the former president’s defense team was trying to use an arcane law to derail the scheduled start of his trial on charges of mishandling classified material and obstructing justice.  <a href="https://nyti.ms/3PDi3uQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
