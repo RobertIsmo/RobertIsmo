@@ -60,7 +60,15 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, September 27, Central Standard Time</p>
 <p>
-There&#39;s some pretty interesting news happening around the world. In the US, a judge denied former President Trump&#39;s request to recuse herself in an election case and the Republican-led House passed a motion to strip the defense secretary of his salary. Meanwhile, in Israel and Saudi Arabia there are moves towards normalizing their relationship, which is a huge step forward! There are also currently migrants all along the US-Mexico border who have nowhere to go putting strain on cities like El Paso, Texas. And in New York, there&#39;s a fraud ruling involving the Trump organization which could dismantle their empire. Plus, there&#39;s even some surprising news from the world of entertainment with Gerry Turner being cast as the lead of ABC&#39;s new dating show &quot;The Golden Bachelor&quot; at age 72. It&#39;s not all bad though -- many people over 60 are still finding love later in life!</p>
+It looks like things have been busy in the news lately! In New York, there is a lawsuit that could unravel former President Trump’s New York empire. There is also a judge who will determine whether he committed fraud and another who denied his request for recusal. 
+
+Moving further away from the US, there have been some interesting developments in foreign relations. Saudi Arabia and Israel have been making strides toward normalizing their relationship by exchanging visits.
+
+Closer to home, there are Republicans in Congress pushing for a government shutdown if a temporary measure to fund it is not secured by September 30th. Other political news includes the House of Representatives voting to strip Trump’s former Defense Secretary of his salary. 
+
+Finally, three Black women have taken it upon themselves to preserve desecrated African American burial grounds and the stories they hold, while other legal issues involve the Peace Corps practices of rescinding invitations to applicants on the basis of mental health conditions. El Paso is also feeling the strain of high numbers of migrants seeking asylum there. 
+
+Oh, and did I mention that ABC launched a new dating show featuring a 72-year-old man? He’ll be on the search for love among singles over 60 – so hopefully he and others have better luck than some past bad dates!</p>
 <ol>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Will a Judge’s Fraud Ruling Dismantle Trump’s New York Empire?</h3>
