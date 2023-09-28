@@ -60,8 +60,26 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, September 27, Central Standard Time</p>
 <p>
-There has been a lot happening in the world recently. In an unprecedented move, officials from Israel and Saudi Arabia have been visiting each other&#39;s countries, symbolizing a normalizing of their relationship. Meanwhile, the U.S. Congress is edging closer to a possible government shutdown because of hard-right House Republicans blocking measures to fund it. Oil prices have also seen an incredible spike recently - analysts are trying to understand why. Air travel might be disrupted if the U.S government shuts down, and former President Donald Trump had fraud charges against him unanimously upheld by a judge in New York. On top of that, Senator Robert Menendez and his wife Nadine pleaded not guilty to bribery charges. There&#39;s set to be a second Republican presidential debate soon which may reveal changes in the dynamics of the race, and Donald Trump recently tried to court blue collar workers at a non-union factory in response to President Biden appearing on a union picket line. Lastly, three Black women are traveling around the country trying to preserve desecrated African American burial grounds and their histories. All in all its been pretty intense!</p>
+There&#39;s some pretty interesting news happening around the world. In the US, a judge denied former President Trump&#39;s request to recuse herself in an election case and the Republican-led House passed a motion to strip the defense secretary of his salary. Meanwhile, in Israel and Saudi Arabia there are moves towards normalizing their relationship, which is a huge step forward! There are also currently migrants all along the US-Mexico border who have nowhere to go putting strain on cities like El Paso, Texas. And in New York, there&#39;s a fraud ruling involving the Trump organization which could dismantle their empire. Plus, there&#39;s even some surprising news from the world of entertainment with Gerry Turner being cast as the lead of ABC&#39;s new dating show &quot;The Golden Bachelor&quot; at age 72. It&#39;s not all bad though -- many people over 60 are still finding love later in life!</p>
 <ol>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Will a Judge’s Fraud Ruling Dismantle Trump’s New York Empire?</h3>
+<sub>By Ben Protess, Jonah E. Bromwich and William K. Rashbaum</sub>
+<p>The judge overseeing the case said there would be no fast answers about the fate of the Trump Organization and its nearly dozen New York properties.  <a href="https://nyti.ms/3ZBEZPO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>What We Know About a Judge’s Finding That Trump Committed Fraud</h3>
+<sub>By Karen Zraick</sub>
+<p>New York’s attorney general sued the former president using a state law that grants her wide powers to pursue corporate wrongdoing.  <a href="https://nyti.ms/3RztKFh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Judge Denies Trump’s Request That She Recuse Herself in Election Case</h3>
+<sub>By Alan Feuer</sub>
+<p>Judge Tanya Chutkan rejected arguments from the former president’s legal team that she could not fairly conduct his trial on federal charges of plotting to overturn the 2020 election.  <a href="https://nyti.ms/3ZxjXSi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Once Inconceivable, Officials’ Visits Highlight Warming Saudi-Israeli Ties</h3>
 <sub>By Patrick Kingsley</sub>
@@ -75,57 +93,9 @@ There has been a lot happening in the world recently. In an unprecedented move, 
 <sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Government Shutdown Is Unlikely to Cause an Immediate Recession</h3>
-<sub>By Jim Tankersley and Madeleine Ngo</sub>
-<p>White House and Wall Street estimates suggested the economy could withstand a brief shutdown, with risks mounting the longer it lasts.  <a href="https://nyti.ms/458dvCb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Oil Prices ‘Melt Up’ in a March Toward $100 a Barrel</h3>
-<sub>By Stanley Reed</sub>
-<p>Analysts have raised their forecasts for oil prices, as they try to understand Saudi Arabia’s intentions with recent production cuts.  <a href="https://nyti.ms/3RBD5fK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Administration Warns That Government Shutdown Could Disrupt Air Travel</h3>
-<sub>By Mark Walker</sub>
-<p>If the government shuts down, air traffic controllers and Transportation Security Administration officers will continue to work, but they will not be paid until the shutdown is over.  <a href="https://nyti.ms/3PzwWhN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Trump’s Lawyers Try to Grasp the Implications of Judge’s Fraud Ruling</h3>
-<sub>By Jonah E. Bromwich</sub>
-<p>At a hearing, lawyers for former President Donald J. Trump and New York State began sorting through the real-world meaning of a finding that he inflated the value of his holdings.  <a href="https://nyti.ms/3ZBEZPO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Ruling Against Trump Cuts to the Heart of His Identity</h3>
-<sub>By Maggie Haberman and Alan Feuer</sub>
-<p>The finding by a judge in a New York civil case that Donald Trump committed fraud in valuing his real estate properties undermined the narrative of the business career that launched him in politics.  <a href="https://nyti.ms/3RAphlK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Side by Side, Menendez and His Wife Plead Not Guilty to Bribery Charges</h3>
-<sub>By Tracey Tully, Benjamin Weiser and Lola Fadulu</sub>
-<p>Senator Robert Menendez and his wife, Nadine, were freed after posting personal recognizance bonds. He can travel out of the country, but only on official business.  <a href="https://nyti.ms/3PSQe2V"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Can DeSantis Reset? What to Watch for in the 2nd G.O.P. Debate.</h3>
-<sub>By Jonathan Weisman and Lisa Lerer</sub>
-<p>The first matchup last month fueled momentum for Nikki Haley and a slide in standing for Ron DeSantis. What it didn’t do is diminish Donald Trump’s lead.  <a href="https://nyti.ms/3rxcjL1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The G.O.P. Debate Is Tonight. How Much Do You Know About the Race?</h3>
-<sub>By Ian Prasad Philbrick and Jonathan Weisman</sub>
-<p>Test your knowledge of the Republican presidential primary.  <a href="https://nyti.ms/3t3PgI2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Tries to Court Blue-Collar Workers at a Nonunion Factory</h3>
-<sub>By Trip Gabriel</sub>
-<p>A day after President Biden appeared on a union picket line, the former president will speak at an auto parts factory, but it’s unclear whether any striking workers will be in the crowd.  <a href="https://nyti.ms/3Przz56"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>House Votes to Strip Defense Secretary of Salary as Right Wing Flexes Muscles</h3>
+<sub>By Catie Edmondson</sub>
+<p>Little more than three days before a government shutdown, the Republican-led House spent the day adding hard-right proposals to a series of doomed spending bills.  <a href="https://nyti.ms/3t6Z0kV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -133,6 +103,36 @@ There has been a lot happening in the world recently. In an unprecedented move, 
 <sub>By Elizabeth Williamson</sub>
 <p>In Georgia, Texas and Washington, D.C., three Black women are working to preserve desecrated African American burial grounds and the stories they hold.  <a href="https://nyti.ms/46s932l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Peace Corps Sued Over Mental Health Policy</h3>
+<sub>By Ellen Barry</sub>
+<p>Applicants have challenged the Peace Corps practice of rescinding invitations to applicants on the basis of mental health conditions.  <a href="https://nyti.ms/467rUjz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In El Paso, Migrants With Nowhere to Go Strain a Welcoming City</h3>
+<sub>By Reyes Mata III and J. David Goodman</sub>
+<p>The pressure felt in one Texas city reflects an increasingly untenable situation all along the border with Mexico.  <a href="https://nyti.ms/3M28moT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>N.Y. Migrant Crisis Is ‘Calm’ Compared With Ours, Texas Governor Says</h3>
+<sub>By Claire Fahy</sub>
+<p>Gov. Greg Abbott of Texas, a Republican, has sent buses of migrants to New York. In a Manhattan speech, he said the city’s situation seemed orderly compared with his own state.  <a href="https://nyti.ms/46au5TA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>He’s the First ‘Golden Bachelor.’ Just Don’t Call Him a Silver Fox.</h3>
+<sub>By Callie Holtermann</sub>
+<p>Gerry Turner, 72, is the lead of ABC’s new dating show — and ready to look for love again.  <a href="https://nyti.ms/467WwS3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>Dating After 60: A Lot of Roses, Some Thorns</h3>
+<sub>By Catherine Pearson</sub>
+<p>For “The Golden Bachelor” and other singles of a certain age, there may be bad dates and false starts. But romance can be infinitely better after decades of life experience.  <a href="https://nyti.ms/3EQmBZK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
