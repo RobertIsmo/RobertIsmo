@@ -60,43 +60,25 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, September 28, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. For one, there was another Republican debate without President Trump, where Nikki Haley and Tim Scott had a bit of a clash. Speaking of President Trump, he&#39;s been accused of fraud in New York and a judge has denied his request to recuse herself from the case. House Republicans have been pushing for a government shutdown, but there were some hard-right proposals that doomed those spending bills. Outside the US, there are migrants with no place to go straining cities along the border with Mexico, apparently even to the point where the Texas Governor has been sending them to New York and said New York&#39;s migrant crisis is calm in comparison! On a much lighter note, ABC is airing a new dating show called The Golden Bachelor that stars an older gentleman who is ready to look for love again.</p>
+Things have been pretty tumultuous in the world lately. In Ukraine, there&#39;s a stalemate between two sides that have both launched offensives. In the US, Republicans are trying to evade blame over a possible government shutdown, while many agencies have plans in place to weather the disruptions if it happens. Meanwhile, the House voted to strip the defense secretary of salary and Republicans debated without Trump. President Biden and former President Trump gave speeches in Michigan that previewed a possible 2024 presidential election. Beyonce has been on tour that rivals the Olympics in scale and power. Prosecutors are facing tighter definitions of corruption in cases like Senator Menendez&#39;s, while a judge denied Trump&#39;s request for recusal in an election case. And of course, Michael Gambon from Harry Potter has passed away at 82 years old. Finally, immigrants are creating new communities throughout New York City.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Who’s Gaining Ground in Ukraine? This Year, No One.</h3>
+<sub>By Josh Holder</sub>
+<p>Although both sides have launched ambitious offensives, the front line has barely shifted. After 18 months of war, a breakthrough looks more difficult than ever.  <a href="https://nyti.ms/3RDoujX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>5 Takeaways From Another Trump-Free Republican Debate</h3>
-<sub>By Shane Goldmacher, Maggie Haberman and Jonathan Swan</sub>
-<p>The party’s front-runner took few hits as his rivals bickered, Nikki Haley delivered an assured performance, Tim Scott reasserted himself and Ron DeSantis took his first debate swipes at Trump.  <a href="https://nyti.ms/3RCXxgz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Vulnerable Republicans Try to Head Off Blame for Shutdown</h3>
+<sub>By Kayla Guo</sub>
+<p>Some mainstream House Republicans representing districts won by President Biden have explored a bipartisan stopgap measure as right-wing lawmakers push Congress toward a shutdown.  <a href="https://nyti.ms/45aNHW4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘Bring It, Tim’: South Carolinians Clash for the First Time at the G.O.P. Debate</h3>
-<sub>By Michael C. Bender</sub>
-<p>For months, Nikki Haley and Tim Scott have been polite to one another on the campaign trail. That ended in a fiery way on Wednesday night on the debate stage.  <a href="https://nyti.ms/48wkt72"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Will a Judge’s Fraud Ruling Dismantle Trump’s New York Empire?</h3>
-<sub>By Ben Protess, Jonah E. Bromwich and William K. Rashbaum</sub>
-<p>The judge overseeing the case said there would be no fast answers about the fate of the Trump Organization and its nearly dozen New York properties.  <a href="https://nyti.ms/3ZBEZPO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>What We Know About a Judge’s Finding That Trump Committed Fraud</h3>
-<sub>By Karen Zraick</sub>
-<p>New York’s attorney general sued the former president using a state law that grants her wide powers to pursue corporate wrongdoing.  <a href="https://nyti.ms/3RztKFh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Judge Denies Trump’s Request That She Recuse Herself in Election Case</h3>
-<sub>By Alan Feuer</sub>
-<p>Judge Tanya Chutkan rejected arguments from the former president’s legal team that she could not fairly conduct his trial on federal charges of plotting to overturn the 2020 election.  <a href="https://nyti.ms/3ZxjXSi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Republicans Driving Congress Toward a Shutdown</h3>
-<sub>By Robert Jimison and Catie Edmondson</sub>
-<p>With a Sept. 30 deadline looming, hard-right House Republicans have formed a wall of opposition to a temporary measure to fund the government.  <a href="https://nyti.ms/45bZcN7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
+<h3>A Shutdown Is Looming. What Comes Next?</h3>
+<sub>By Zach Montague</sub>
+<p>Many federal agencies have plans in place to weather a shutdown, but a disruption would still affect critical government services.  <a href="https://nyti.ms/46269BN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>House Votes to Strip Defense Secretary of Salary as Right Wing Flexes Muscles</h3>
@@ -104,35 +86,53 @@ There&#39;s a lot going on in the world right now. For one, there was another Re
 <p>Little more than three days before a government shutdown, the Republican-led House spent the day adding hard-right proposals to a series of doomed spending bills.  <a href="https://nyti.ms/3t6Z0kV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Peace Corps Sued Over Mental Health Policy</h3>
-<sub>By Ellen Barry</sub>
-<p>Applicants have challenged the Peace Corps practice of rescinding invitations to applicants on the basis of mental health conditions.  <a href="https://nyti.ms/467rUjz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>He’s the First ‘Golden Bachelor.’ Just Don’t Call Him a Silver Fox.</h3>
-<sub>By Callie Holtermann</sub>
-<p>Gerry Turner, 72, is the lead of ABC’s new dating show — and ready to look for love again.  <a href="https://nyti.ms/467WwS3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>Dating After 60: A Lot of Roses, Some Thorns</h3>
-<sub>By Catherine Pearson</sub>
-<p>For “The Golden Bachelor” and other singles of a certain age, there may be bad dates and false starts. But romance can be infinitely better after decades of life experience.  <a href="https://nyti.ms/3EQmBZK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>A Government Shutdown Looms</h3>
+<sub>By David Leonhardt and Ian Prasad Philbrick</sub>
+<p>The situation serves as a reminder that partisan polarization in Washington is not symmetrical.  <a href="https://nyti.ms/3rwC3XT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In El Paso, Migrants With Nowhere to Go Strain a Welcoming City</h3>
-<sub>By Reyes Mata III and J. David Goodman</sub>
-<p>The pressure felt in one Texas city reflects an increasingly untenable situation all along the border with Mexico.  <a href="https://nyti.ms/3M28moT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>5 Takeaways From Another Trump-Free Republican Debate</h3>
+<sub>By Shane Goldmacher, Maggie Haberman and Jonathan Swan</sub>
+<p>The party’s front-runner took few hits as his rivals bickered, Nikki Haley delivered an assured performance, Tim Scott reasserted himself and Ron DeSantis took his first debate swipes at Trump.  <a href="https://nyti.ms/3RCXxgz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Michigan, Biden and Trump Offer a Preview of 2024</h3>
+<sub>By Katie Rogers</sub>
+<p>The candidates’ dueling styles were on clear display as the two men tried to woo voters affected by the United Automobile Workers strike.  <a href="https://nyti.ms/3PTYhfI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>A Silvery, Shimmering Summer of Beyoncé</h3>
+<sub>By Jenna Wortham</sub>
+<p>Her tour has rivaled the Olympics in economic scale and an earthquake in its power.  <a href="https://nyti.ms/3Py7KrU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>N.Y. Migrant Crisis Is ‘Calm’ Compared With Ours, Texas Governor Says</h3>
-<sub>By Claire Fahy</sub>
-<p>Gov. Greg Abbott of Texas, a Republican, has sent buses of migrants to New York. In a Manhattan speech, he said the city’s situation seemed orderly compared with his own state.  <a href="https://nyti.ms/46au5TA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>In Menendez Case, Prosecutors Confront Tighter Definition of Corruption</h3>
+<sub>By Benjamin Weiser</sub>
+<p>The Supreme Court has said wrongdoing must be clear cut. Some observers say the accusations in the senator’s case pass the test.  <a href="https://nyti.ms/469Zs0i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Judge Denies Trump’s Request That She Recuse Herself in Election Case</h3>
+<sub>By Alan Feuer</sub>
+<p>Judge Tanya Chutkan rejected arguments from the former president’s legal team that she could not fairly conduct his trial on federal charges of plotting to overturn the 2020 election.  <a href="https://nyti.ms/3ZxjXSi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Michael Gambon, British Actor Who Played Dumbledore in ‘Harry Potter,’ Dies at 82</h3>
+<sub>By Benedict Nightingale</sub>
+<p>The actor’s family said he had died peacefully after a bout of pneumonia.  <a href="https://nyti.ms/3Py1PD3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Where the Migrants Who Came to New York Are Living Now</h3>
+<sub>By Todd Heisler, Andy Newman, Raúl Vilchis and Olivia Bensimon</sub>
+<p>From every corner of the world to every corner of New York City, newcomers are carving out communities in unexpected — and sometimes hostile — places.  <a href="https://nyti.ms/4660ESl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
