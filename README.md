@@ -58,18 +58,22 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Wednesday, September 27, Central Standard Time</p>
+<p>It is Thursday, September 28, Central Standard Time</p>
 <p>
-It looks like things have been busy in the news lately! In New York, there is a lawsuit that could unravel former President Trump’s New York empire. There is also a judge who will determine whether he committed fraud and another who denied his request for recusal. 
+Right now, the Republican party is debating without Donald Trump and many of his opponents are using it as an opportunity to try to ascend to a higher standing in the party. Meanwhile, there&#39;s some potential fallout from a judge finding that Trump committed fraud and it could have serious consequences for his real estate empire in New York. Even though Trump tried to ask the judge involved to recuse herself, she refused.
 
-Moving further away from the US, there have been some interesting developments in foreign relations. Saudi Arabia and Israel have been making strides toward normalizing their relationship by exchanging visits.
+On international news, a tourism minister from Israel recently visited Saudi Arabia which is an incredibly rare and historic move given the strained relationship long between the two countries. Israel and Saudi Arabia may be edging closer towards normalizing their relationship. 
 
-Closer to home, there are Republicans in Congress pushing for a government shutdown if a temporary measure to fund it is not secured by September 30th. Other political news includes the House of Representatives voting to strip Trump’s former Defense Secretary of his salary. 
+Here in America, Republicans are threatening to shut down the government at the end of September if they don&#39;t get their way on certain spending bills. There&#39;s some tension in El Paso, TX over an influx of migrants that don&#39;t have anywhere to go. The Texas Governor basically criticized New York&#39;s situation regarding immigration recently during a speech in Manhattan.
 
-Finally, three Black women have taken it upon themselves to preserve desecrated African American burial grounds and the stories they hold, while other legal issues involve the Peace Corps practices of rescinding invitations to applicants on the basis of mental health conditions. El Paso is also feeling the strain of high numbers of migrants seeking asylum there. 
-
-Oh, and did I mention that ABC launched a new dating show featuring a 72-year-old man? He’ll be on the search for love among singles over 60 – so hopefully he and others have better luck than some past bad dates!</p>
+On lighter notes, there&#39;s going to be a dating show where a 72-year-old is looking for love again and there have been recent articles giving some advice on dating after 60 years old.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>5 Takeaways From Another Trump-Free Republican Debate</h3>
+<sub>By Shane Goldmacher, Maggie Haberman and Jonathan Swan</sub>
+<p>The party’s front-runner took few hits as his rivals bickered, Nikki Haley delivered an assured performance, Tim Scott reasserted himself and Ron DeSantis took his first debate swipes at Trump.  <a href="https://nyti.ms/3RCXxgz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Will a Judge’s Fraud Ruling Dismantle Trump’s New York Empire?</h3>
 <sub>By Ben Protess, Jonah E. Bromwich and William K. Rashbaum</sub>
@@ -104,12 +108,6 @@ Oh, and did I mention that ABC launched a new dating show featuring a 72-year-ol
 <h3>House Votes to Strip Defense Secretary of Salary as Right Wing Flexes Muscles</h3>
 <sub>By Catie Edmondson</sub>
 <p>Little more than three days before a government shutdown, the Republican-led House spent the day adding hard-right proposals to a series of doomed spending bills.  <a href="https://nyti.ms/3t6Z0kV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>America’s Black Cemeteries and Three Women Trying to Save Them</h3>
-<sub>By Elizabeth Williamson</sub>
-<p>In Georgia, Texas and Washington, D.C., three Black women are working to preserve desecrated African American burial grounds and the stories they hold.  <a href="https://nyti.ms/46s932l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
