@@ -60,18 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, September 28, Central Standard Time</p>
 <p>
-Right now, the Republican party is debating without Donald Trump and many of his opponents are using it as an opportunity to try to ascend to a higher standing in the party. Meanwhile, there&#39;s some potential fallout from a judge finding that Trump committed fraud and it could have serious consequences for his real estate empire in New York. Even though Trump tried to ask the judge involved to recuse herself, she refused.
-
-On international news, a tourism minister from Israel recently visited Saudi Arabia which is an incredibly rare and historic move given the strained relationship long between the two countries. Israel and Saudi Arabia may be edging closer towards normalizing their relationship. 
-
-Here in America, Republicans are threatening to shut down the government at the end of September if they don&#39;t get their way on certain spending bills. There&#39;s some tension in El Paso, TX over an influx of migrants that don&#39;t have anywhere to go. The Texas Governor basically criticized New York&#39;s situation regarding immigration recently during a speech in Manhattan.
-
-On lighter notes, there&#39;s going to be a dating show where a 72-year-old is looking for love again and there have been recent articles giving some advice on dating after 60 years old.</p>
+There&#39;s a lot going on in the world right now. For one, there was another Republican debate without President Trump, where Nikki Haley and Tim Scott had a bit of a clash. Speaking of President Trump, he&#39;s been accused of fraud in New York and a judge has denied his request to recuse herself from the case. House Republicans have been pushing for a government shutdown, but there were some hard-right proposals that doomed those spending bills. Outside the US, there are migrants with no place to go straining cities along the border with Mexico, apparently even to the point where the Texas Governor has been sending them to New York and said New York&#39;s migrant crisis is calm in comparison! On a much lighter note, ABC is airing a new dating show called The Golden Bachelor that stars an older gentleman who is ready to look for love again.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>5 Takeaways From Another Trump-Free Republican Debate</h3>
 <sub>By Shane Goldmacher, Maggie Haberman and Jonathan Swan</sub>
 <p>The party’s front-runner took few hits as his rivals bickered, Nikki Haley delivered an assured performance, Tim Scott reasserted himself and Ron DeSantis took his first debate swipes at Trump.  <a href="https://nyti.ms/3RCXxgz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>‘Bring It, Tim’: South Carolinians Clash for the First Time at the G.O.P. Debate</h3>
+<sub>By Michael C. Bender</sub>
+<p>For months, Nikki Haley and Tim Scott have been polite to one another on the campaign trail. That ended in a fiery way on Wednesday night on the debate stage.  <a href="https://nyti.ms/48wkt72"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -92,12 +92,6 @@ On lighter notes, there&#39;s going to be a dating show where a 72-year-old is l
 <p>Judge Tanya Chutkan rejected arguments from the former president’s legal team that she could not fairly conduct his trial on federal charges of plotting to overturn the 2020 election.  <a href="https://nyti.ms/3ZxjXSi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Once Inconceivable, Officials’ Visits Highlight Warming Saudi-Israeli Ties</h3>
-<sub>By Patrick Kingsley</sub>
-<p>Israel’s tourism minister went to Saudi Arabia, and a Saudi envoy toured the Israeli-occupied West Bank. The trips reflected how the two countries are moving toward normalizing their relationship.  <a href="https://nyti.ms/3RAwouq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The Republicans Driving Congress Toward a Shutdown</h3>
 <sub>By Robert Jimison and Catie Edmondson</sub>
@@ -116,18 +110,6 @@ On lighter notes, there&#39;s going to be a dating show where a 72-year-old is l
 <p>Applicants have challenged the Peace Corps practice of rescinding invitations to applicants on the basis of mental health conditions.  <a href="https://nyti.ms/467rUjz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In El Paso, Migrants With Nowhere to Go Strain a Welcoming City</h3>
-<sub>By Reyes Mata III and J. David Goodman</sub>
-<p>The pressure felt in one Texas city reflects an increasingly untenable situation all along the border with Mexico.  <a href="https://nyti.ms/3M28moT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>N.Y. Migrant Crisis Is ‘Calm’ Compared With Ours, Texas Governor Says</h3>
-<sub>By Claire Fahy</sub>
-<p>Gov. Greg Abbott of Texas, a Republican, has sent buses of migrants to New York. In a Manhattan speech, he said the city’s situation seemed orderly compared with his own state.  <a href="https://nyti.ms/46au5TA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
 <h3>He’s the First ‘Golden Bachelor.’ Just Don’t Call Him a Silver Fox.</h3>
 <sub>By Callie Holtermann</sub>
@@ -139,6 +121,18 @@ On lighter notes, there&#39;s going to be a dating show where a 72-year-old is l
 <sub>By Catherine Pearson</sub>
 <p>For “The Golden Bachelor” and other singles of a certain age, there may be bad dates and false starts. But romance can be infinitely better after decades of life experience.  <a href="https://nyti.ms/3EQmBZK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In El Paso, Migrants With Nowhere to Go Strain a Welcoming City</h3>
+<sub>By Reyes Mata III and J. David Goodman</sub>
+<p>The pressure felt in one Texas city reflects an increasingly untenable situation all along the border with Mexico.  <a href="https://nyti.ms/3M28moT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>N.Y. Migrant Crisis Is ‘Calm’ Compared With Ours, Texas Governor Says</h3>
+<sub>By Claire Fahy</sub>
+<p>Gov. Greg Abbott of Texas, a Republican, has sent buses of migrants to New York. In a Manhattan speech, he said the city’s situation seemed orderly compared with his own state.  <a href="https://nyti.ms/46au5TA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
