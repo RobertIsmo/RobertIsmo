@@ -60,24 +60,22 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, September 28, Central Standard Time</p>
 <p>
-In New York City, there is a growing income gap between the rich and everyone else, and migrants from all over the world have been settling in the city. Meanwhile, there&#39;s a legal battle over pay standards for food delivery workers in the city, while President Donald Trump&#39;s legal defense team is facing strain as they defend him against prosecution. There is also potential for government shutdown in the U.S. due to lack of funds and disagreements between Republicans and Democrats on a temporary measure to fund the government. This could delay data on unemployment and inflation, potentially causing a recession. The Republicans held a recently debate, with Governor Ron DeSerialis of Florida trying to gain momentum with his opinion on President Trump, while elsewhere in Israel there has been tension as Jewish people argued over prayer rights on their holiest day of Yom Kippur.</p>
+It looks like former President Donald Trump is in some serious legal trouble, with appeals courts rejecting his latest effort to delay a fraud case against him. That could end up costing him control over some of his real estate properties, like Trump Tower. His legal defense is also coming under strain, with the Justice Department accusing his lawyers of dragging their feet.
+
+Meanwhile, there are other people facing economic difficulty due to the pandemic in New York City, where the gap between rich and poor is growing even wider. There&#39;s also a story about migrants coming to New York City and trying to find places to live despite hostile conditions.
+
+In the U.S., President Biden is facing a looming shutdown if Congress can&#39;t reach a deal, and there was an impeachment hearing about Biden with no new information revealed. And in Israel, there was a prayer meeting on Yom Kippur that sparked debate as the government is trying to weaken its judiciary system.</p>
 <ol>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>New York Is Rebounding for the Rich. Nearly Everyone Else Is Struggling.</h3>
-<sub>By Stefanos Chen</sub>
-<p>The huge income gap between rich and poor in Manhattan is the latest sign that the economic recovery from the pandemic has been lopsided in New York City.  <a href="https://nyti.ms/3teeXG8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Appeals Court Rejects Trump’s Effort to Delay Trial in Fraud Case</h3>
+<sub>By Jonah E. Bromwich and Ben Protess</sub>
+<p>Former President Donald J. Trump had sued Justice Arthur F. Engoron, aiming to pause a trial that could begin as soon as Monday.  <a href="https://nyti.ms/455YErX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Where the Migrants Who Came to New York Are Living Now</h3>
-<sub>By Todd Heisler, Andy Newman, Raúl Vilchis and Olivia Bensimon</sub>
-<p>From every corner of the world to every corner of New York City, newcomers are carving out communities in unexpected — and sometimes hostile — places.  <a href="https://nyti.ms/4660ESl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Judge Affirms Pay Raise for Food Delivery Workers in New York</h3>
-<sub>By Kellen Browning and Ana Ley</sub>
-<p>Uber, DoorDash and Grubhub had challenged the new pay standard, which would require them to pay gig workers about $18 per hour to start.  <a href="https://nyti.ms/3PW3weX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-realestate-blue" alt="">
+<h3>Trump Could Lose Trump Tower (and Other Properties) in Fraud Case</h3>
+<sub>By Rukmini Callimachi</sub>
+<p>If a judge’s ruling stands, Donald Trump could lose control over some of his flagship New York real estate.  <a href="https://nyti.ms/46ojB37"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -92,40 +90,46 @@ In New York City, there is a growing income gap between the rich and everyone el
 <p>Prosecutors said the former president’s defense team was trying to use an arcane law to derail the scheduled start of his trial on charges of mishandling classified material and obstructing justice.  <a href="https://nyti.ms/3PDi3uQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>New York Is Rebounding for the Rich. Nearly Everyone Else Is Struggling.</h3>
+<sub>By Stefanos Chen</sub>
+<p>The huge income gap between rich and poor in Manhattan is the latest sign that the economic recovery from the pandemic has been lopsided in New York City.  <a href="https://nyti.ms/3teeXG8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Where the Migrants Who Came to New York Are Living Now</h3>
+<sub>By Todd Heisler, Andy Newman, Raúl Vilchis and Olivia Bensimon</sub>
+<p>From every corner of the world to every corner of New York City, newcomers are carving out communities in unexpected — and sometimes hostile — places.  <a href="https://nyti.ms/4660ESl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>With Shutdown Looming, Biden Points to Republican Infighting</h3>
+<sub>By Michael D. Shear</sub>
+<p>The president and his team insist they do not want the government to shut down. But they are also confident that Republicans will receive the blame if it does.  <a href="https://nyti.ms/3Pzqx6a"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Border Takes Center Stage as McCarthy Seeks to Shift Shutdown Blame</h3>
+<sub>By Catie Edmondson, Carl Hulse and Karoun Demirjian</sub>
+<p>The Republican speaker is working to turn the shutdown fight into a border security battle. Some lawmakers in both parties say they are open to including immigration provisions in an eventual deal.  <a href="https://nyti.ms/3LCeZxR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>National Parks, and Those Who Count on Them, Brace for Possible Shutdown</h3>
 <sub>By Jack Healy</sub>
-<p>People, businesses and towns relying on park tourism worry the fourth shutdown in a decade could crush them if congress can’t reach a deal to keep the government running.  <a href="https://nyti.ms/3PDUHFg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>People, businesses and towns relying on park tourism worry the fourth shutdown in a decade could crush them if Congress can’t reach a deal to keep the government running.  <a href="https://nyti.ms/3PDUHFg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Vulnerable Republicans Try to Head Off Blame for Shutdown</h3>
-<sub>By Kayla Guo</sub>
-<p>Some mainstream House Republicans representing districts won by President Biden have explored a bipartisan stopgap measure as right-wing lawmakers push Congress toward a shutdown.  <a href="https://nyti.ms/45aNHW4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>First Impeachment Hearing Yields No New Information on Biden</h3>
+<sub>By Luke Broadwater</sub>
+<p>In a chaotic session, Republicans accused the president of crime and corruption, but even their witnesses said the case for impeachment hadn’t been made.  <a href="https://nyti.ms/48Axhcw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Republicans Driving Congress Toward a Shutdown</h3>
-<sub>By Robert Jimison and Catie Edmondson</sub>
-<p>With a Sept. 30 deadline looming, hard-right House Republicans have formed a wall of opposition to a temporary measure to fund the government.  <a href="https://nyti.ms/45bZcN7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, September 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>One Casualty of a Shutdown: Government Data</h3>
-<sub>By Ben Casselman</sub>
-<p>A lapse in funding would delay data on unemployment and inflation as policymakers try to avoid a recession.  <a href="https://nyti.ms/3ZAQdnx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>5 Takeaways From Another Trump-Free Republican Debate</h3>
-<sub>By Shane Goldmacher, Maggie Haberman and Jonathan Swan</sub>
-<p>The party’s front-runner took few hits as his rivals bickered, Nikki Haley delivered an assured performance, Tim Scott reasserted himself and Ron DeSantis took his first debate swipes at Trump.  <a href="https://nyti.ms/3RCXxgz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis Clears a Debate Hurdle. Will It Be Enough to Build On?</h3>
-<sub>By Nicholas Nehamas</sub>
-<p>The Florida governor projected confidence onstage, but time is running out to stop his slide in the polls and convince voters he’s the best Trump alternative.  <a href="https://nyti.ms/3ZDjFcG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>An Aristocrat’s Grandson, a Precious Desk and a Storage Unit in Queens</h3>
+<sub>By Chelsia Rose Marcius</sub>
+<p>Christian Agostino von Hassell lost a trove of family heirlooms intertwined with European history when he encountered New York’s unforgiving laws governing storage lockers.  <a href="https://nyti.ms/459bWE8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
