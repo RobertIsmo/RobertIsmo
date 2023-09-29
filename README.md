@@ -60,16 +60,8 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, September 29, Central Standard Time</p>
 <p>
-I have some interesting news for you! The United Automobile Workers union has announced that they are expanding their strikes at Ford and GM. This is a protest for better working conditions and wages. Also, Dianne Feinstein, the longest-serving female Senator from California, has passed away. Her death leaves a vacancy in her seat with Democrats running to fill it. 
-
-There&#39;s also some trouble happening with national parks closing due to a shut down. This has been an issue as it affects home sales in flood-prone areas as Congress may not be able to fund the necessary flood insurance program. On the global scale, mosquitoes have been increasing in population - climate change and rapid evolution making them more of a public health threat lately. In Africa specifically, there&#39;s an invasive species that carries malaria, and scientists are experimenting with new ways to keep them from spreading further. Lastly, inflation measured by the Federal Reserve cooled in August, but this doesn&#39;t necessarily mean prices are going down.</p>
+There have been a lot of big changes happening in the US recently, including the death of Dianne Feinstein, the oldest sitting US senator. With her death, there is an intensified fight over who will take her Senate seat in California. There has also been flooding in some parts of the US so it&#39;s important to be aware of flash flood warnings and how to prepare. In other news, Tropical Storm Rina has formed far out in the Atlantic Ocean and is expected to move near Tropical Storm Phillipe. To make things worse, there is an invasive species of mosquito in Africa that carries malaria which could have catastrophic consequences for public health. This is causing health concerns around the world, as mosquitoes are increasingly able to evade bed nets and insecticides. Scientists are experimenting with new ways to stop them. There is also a story about an immigrant baker from Sri Lanka who conquered France with his baguettes by making them for President Macros! And on the political front, Republicans are meeting in Dallas to hear pitches from DeSantis and Haley&#39;s camps and decide whether any non-Trump candidate is a worthwhile investment.</p>
 <ol>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.A.W. Will Expand Strikes at Ford and G.M.</h3>
-<sub>By Neal E. Boudette</sub>
-<p>The United Automobile Workers union said more of its members would walk off the job two weeks after it began strikes at the Big Three automakers.  <a href="https://nyti.ms/3PV1ZGa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 29, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Dianne Feinstein, 90, Dies; Oldest Sitting Senator and Fixture of California Politics</h3>
 <sub>By Robert D. McFadden</sub>
@@ -82,16 +74,28 @@ There&#39;s also some trouble happening with national parks closing due to a shu
 <p>Gov. Gavin Newsom has pledged to pick a Black woman to fill the seat, but has also said he would not choose any of the current Democrats running for Senate.  <a href="https://nyti.ms/46bSyaS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 29, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>What to Do When There’s a Flash Flood Warning</h3>
+<sub>By Susan Shain</sub>
+<p>Fast rising water can be deadly. Here’s what to do if you’re caught off guard, and how to prepare for a future flooding event.  <a href="https://nyti.ms/3CdtYY1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 13, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Most National Parks Will Close in a Shutdown, Federal Officials Say</h3>
-<sub>By Jack Healy</sub>
-<p>The Department of the Interior expects to furlough most of the 19,000 park workers. Some states, including Arizona, plan to use their own funds to keep sites open.  <a href="https://nyti.ms/45bNCSd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 29, Central Standard Time</sub></sub>
+<h3>Tropical Storm Rina Forms, Far from Land, in the Atlantic Ocean</h3>
+<sub>By Judson Jones</sub>
+<p>Forecasters weren’t certain of Rina’s projected path because of its proximity to Tropical Storm Phillipe.  <a href="https://nyti.ms/46sT9ot"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Government Shutdown May Hurt Home Sales in Flood-Prone Areas</h3>
-<sub>By Emily Flitter</sub>
-<p>Congress funds a flood insurance program that many home buyers in risky areas rely on. The money is about to run out, a real estate trade group warned.  <a href="https://nyti.ms/46uebTK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>U.A.W. Will Expand Strikes at Ford and G.M.</h3>
+<sub>By Neal E. Boudette</sub>
+<p>The United Automobile Workers union said 7,000 more of its members would walk off the job two weeks after it began strikes at the Big Three automakers.  <a href="https://nyti.ms/3PV1ZGa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>An Invasive Mosquito Threatens Catastrophe in Africa</h3>
+<sub>By Stephanie Nolen and Tiksa Negeri</sub>
+<p>A malaria-carrying species that thrives in urban areas and resists all insecticides is causing outbreaks in places that have rarely faced the disease.  <a href="https://nyti.ms/48q3kfc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
@@ -101,16 +105,22 @@ There&#39;s also some trouble happening with national parks closing due to a shu
 <sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>An Invasive Mosquito Threatens Catastrophe in Africa</h3>
-<sub>By Stephanie Nolen and Tiksa Negeri</sub>
-<p>A malaria-carrying species that thrives in urban areas and resists all insecticides is causing outbreaks in places that have rarely faced the disease.  <a href="https://nyti.ms/48q3kfc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>Insecticides Can’t Stop These Mosquitoes. Now What?</h3>
 <sub>By</sub>
 <p>With mosquitoes evolving to evade bed nets and common insecticides, scientists are experimenting with new ways to block them.  <a href="https://nyti.ms/46vYawG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>He’s the Pawpaw King of Brooklyn. (What’s a Pawpaw?)</h3>
+<sub>By Molly Fitzpatrick</sub>
+<p>The exotic-tasting fruit, though native to North America, is hard to come by. But in one man’s backyard near the Brooklyn-Queens Expressway, dozens fall each year.  <a href="https://nyti.ms/3EV0Ise"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>The Lawyer Trying to Hold Gunmakers Responsible for Mass Shootings</h3>
+<sub>By Michael Steinberger</sub>
+<p>Josh Koskoff’s legal victory against Remington has raised the possibility of a new form of gun control: lawsuits against the companies that make assault rifles.  <a href="https://nyti.ms/3t4PsH2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>A Sri Lankan Baker’s Baguette Conquers France</h3>
@@ -119,21 +129,9 @@ There&#39;s also some trouble happening with national parks closing due to a shu
 <sub><sub>Friday, September 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Battling a Water Crisis: Bottles, Barges and Maybe a Quarter Billion-Dollar Pipe</h3>
-<sub>By Jacey Fortin</sub>
-<p>A saltwater wedge is moving up the drought-drained Mississippi River, threatening public health in New Orleans and beyond.  <a href="https://nyti.ms/469PcFu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>When Will the Saltwater Wedge Reach New Orleans? We Mapped It.</h3>
-<sub>By Mira Rojanasakul</sub>
-<p>The drought-stricken Mississippi River can no longer hold back the saltwater creeping upstream, contaminating drinking water.  <a href="https://nyti.ms/3rzC6Cn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Inflation Measure Favored by the Fed Cooled in August</h3>
-<sub>By Jeanna Smialek</sub>
-<p>The Personal Consumption Expenditures Index climbed more slowly, after cutting out food and fuel prices for a sense of the underlying trend.  <a href="https://nyti.ms/3PX6BeO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Key G.O.P. Megadonor Network Will Hear Pitches From DeSantis and Haley Camps</h3>
+<sub>By Maggie Haberman and Shane Goldmacher</sub>
+<p>The network, the American Opportunity Alliance, will meet in Dallas, as its biggest donors weigh whether investing in any non-Trump candidate remains a worthwhile investment.  <a href="https://nyti.ms/48zPrLr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 29, Central Standard Time</sub></sub>
 <hr/>
 </ol>
