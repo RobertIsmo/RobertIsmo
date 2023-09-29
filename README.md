@@ -60,31 +60,39 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, September 29, Central Standard Time</p>
 <p>
-It looks like a lot is going on in the world at the moment. In the US, there is a possible government shutdown looming over the country that could have major impacts on public services and economic data. Meanwhile, in Sudan, foreign nations are secretly fueling conflict in that region when peace talks are happening. On the health front, mosquitoes have evolved to evade insecticides and cause more widespread outbreaks of malaria and dengue due to climate change. Finally, in Russia, troops pulled out of a city last year but there is still immense damage from their presence with buildings in disrepair and services still spotty.</p>
+I have some interesting news for you! The United Automobile Workers union has announced that they are expanding their strikes at Ford and GM. This is a protest for better working conditions and wages. Also, Dianne Feinstein, the longest-serving female Senator from California, has passed away. Her death leaves a vacancy in her seat with Democrats running to fill it. 
+
+There&#39;s also some trouble happening with national parks closing due to a shut down. This has been an issue as it affects home sales in flood-prone areas as Congress may not be able to fund the necessary flood insurance program. On the global scale, mosquitoes have been increasing in population - climate change and rapid evolution making them more of a public health threat lately. In Africa specifically, there&#39;s an invasive species that carries malaria, and scientists are experimenting with new ways to keep them from spreading further. Lastly, inflation measured by the Federal Reserve cooled in August, but this doesn&#39;t necessarily mean prices are going down.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>U.A.W. Will Expand Strikes at Ford and G.M.</h3>
+<sub>By Neal E. Boudette</sub>
+<p>The United Automobile Workers union said more of its members would walk off the job two weeks after it began strikes at the Big Three automakers.  <a href="https://nyti.ms/3PV1ZGa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 29, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>With a Shutdown in View, McCarthy Plays a Weak Hand</h3>
-<sub>By Annie Karni</sub>
-<p>The G.O.P. speaker, whose style is to placate his detractors, does not have the Republican votes to keep the government open. He is calling the vote anyway.  <a href="https://nyti.ms/48JSTn4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Dianne Feinstein, 90, Dies; Oldest Sitting Senator and Fixture of California Politics</h3>
+<sub>By Robert D. McFadden</sub>
+<p>She achieved remarkable political breakthroughs as a woman, becoming San Francisco’s first female mayor and the first woman elected to the Senate from California.  <a href="https://nyti.ms/48qvRkO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Feinstein’s Death Intensifies Fight for a Coveted California Senate Seat</h3>
+<sub>By Adam Nagourney and Shawn Hubler</sub>
+<p>Gov. Gavin Newsom has pledged to pick a Black woman to fill the seat, but has also said he would not choose any of the current Democrats running for Senate.  <a href="https://nyti.ms/46bSyaS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Most National Parks Will Close in a Shutdown, Federal Officials Say</h3>
 <sub>By Jack Healy</sub>
-<p>The Department of the Interior expects to furlough most of the 20,000 park workers. Some states, including Arizona, plan to use their own funds to keep sites open.  <a href="https://nyti.ms/45bNCSd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The Department of the Interior expects to furlough most of the 19,000 park workers. Some states, including Arizona, plan to use their own funds to keep sites open.  <a href="https://nyti.ms/45bNCSd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>From I.P.O.s to Inflation Data: What’s at Risk in a Shutdown</h3>
-<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
-<p>Important economic data could be delayed, as could regulators’ decisions on mergers and new public listings.  <a href="https://nyti.ms/3rymgIa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Talking Peace in Sudan, the U.A.E. Secretly Fuels the Fight</h3>
-<sub>By Declan Walsh, Christoph Koettl and Eric Schmitt</sub>
-<p>From a remote air base in Chad, the Emirates is giving arms and medical treatment to fighters on one side in Sudan’s spiraling war, officials say.  <a href="https://nyti.ms/3RK2013"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 29, Central Standard Time</sub></sub>
+<h3>Government Shutdown May Hurt Home Sales in Flood-Prone Areas</h3>
+<sub>By Emily Flitter</sub>
+<p>Congress funds a flood insurance program that many home buyers in risky areas rely on. The money is about to run out, a real estate trade group warned.  <a href="https://nyti.ms/46uebTK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>Mosquitoes Are a Growing Public Health Threat, Reversing Years of Progress</h3>
@@ -111,27 +119,21 @@ It looks like a lot is going on in the world at the moment. In the US, there is 
 <sub><sub>Friday, September 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Issues a Blistering Attack on Trump</h3>
-<sub>By Peter Baker</sub>
-<p>During an appearance in Arizona, President Biden portrayed former President Donald J. Trump as a budding autocrat with no fidelity to the tenets of American democracy.  <a href="https://nyti.ms/457mPXe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Battling a Water Crisis: Bottles, Barges and Maybe a Quarter Billion-Dollar Pipe</h3>
 <sub>By Jacey Fortin</sub>
 <p>A saltwater wedge is moving up the drought-drained Mississippi River, threatening public health in New Orleans and beyond.  <a href="https://nyti.ms/469PcFu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>When Will the Saltwater Wedge Reach New Orleans?</h3>
+<h3>When Will the Saltwater Wedge Reach New Orleans? We Mapped It.</h3>
 <sub>By Mira Rojanasakul</sub>
 <p>The drought-stricken Mississippi River can no longer hold back the saltwater creeping upstream, contaminating drinking water.  <a href="https://nyti.ms/3rzC6Cn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russian Forces Left This City a Year Ago. The Scars Remain.</h3>
-<sub>By Valerie Hopkins, Dzvinka Pinchuk and Emile Ducke</sub>
-<p>In Izium, in eastern Ukraine, the buildings are in ruins and services are spotty. Barely recovered, its residents worry that more mayhem may lie ahead.  <a href="https://nyti.ms/3PZDl7q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Inflation Measure Favored by the Fed Cooled in August</h3>
+<sub>By Jeanna Smialek</sub>
+<p>The Personal Consumption Expenditures Index climbed more slowly, after cutting out food and fuel prices for a sense of the underlying trend.  <a href="https://nyti.ms/3PX6BeO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 29, Central Standard Time</sub></sub>
 <hr/>
 </ol>
