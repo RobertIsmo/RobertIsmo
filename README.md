@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, September 28, Central Standard Time</p>
 <p>
-There has been a lot of news surrounding former President Donald Trump lately. He&#39;s currently being sued in a fraud case and if the judge&#39;s ruling stands, he could possibly lose control of some of his flag ship New York properties, including Trump Tower. In addition to this, he&#39;s facing many other legal battles as well as backlash from the new Biden administration who is accusing him of undermining democracy. There have also been some attempts to move some of his cases from state to federal court that have failed. In more related news there is an income gap between the rich and poor in Manhattan, and small businesses in Washington that serve federal employees are bracing for an economic blow as a potential government shutdown looms. With all that is happening Republicans are trying to turn the shutdown into a border security battle.</p>
+There&#39;s a lot going on in the world right now. President Biden is going after former President Trump&#39;s numerous legal proceedings, including a fraud case in which he could potentially lose control of some of his flagship real estate. Meanwhile, Republicans are trying to impeach Biden, but their witnesses say not enough evidence has been presented yet. In other news, small businesses that cater to federal employees in Washington D.C. are bracing for a big economic blow if another shutdown should occur. In New York City there&#39;s a huge gap between rich and poor-- proof that the pandemic recovery has been lopsided. Lastly, leaked internal messages have exposed Huawei&#39;s attempts at lobbying to fight an American-led effort against its technology.</p>
 <ol>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Appeals Court Rejects Trump’s Effort to Delay Trial in Fraud Case</h3>
@@ -122,16 +122,16 @@ There has been a lot of news surrounding former President Donald Trump lately. H
 <p>Once again, the florists, bars, gyms, cafes, dry cleaners and other small businesses that serve federal employees in the District of Columbia and its suburbs are bracing for an economic blow.  <a href="https://nyti.ms/3rAYZVR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>With Shutdown Looming, Biden Points to Republican Infighting</h3>
-<sub>By Michael D. Shear</sub>
-<p>The president and his team insist they do not want the government to shut down. But they are also confident that Republicans will receive the blame if it does.  <a href="https://nyti.ms/3Pzqx6a"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>An Aristocrat’s Grandson, a Precious Desk and a Storage Unit in Queens</h3>
+<sub>By Chelsia Rose Marcius</sub>
+<p>Christian Agostino von Hassell lost a trove of family heirlooms intertwined with European history when he encountered New York’s unforgiving laws governing storage lockers.  <a href="https://nyti.ms/459bWE8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Border Takes Center Stage as McCarthy Seeks to Shift Shutdown Blame</h3>
-<sub>By Catie Edmondson, Carl Hulse and Karoun Demirjian</sub>
-<p>The Republican speaker is working to turn the shutdown fight into a border security battle. Some lawmakers in both parties say they are open to including immigration provisions in an eventual deal.  <a href="https://nyti.ms/3LCeZxR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Gifts, Gadgets and Greece: Inside a Huawei Lobbying Campaign</h3>
+<sub>By Adam Satariano and Eliza Triantafillou</sub>
+<p>Leaked internal messages detail efforts by the Chinese tech giant to court Greek officials and fight an American-led effort against its technology.  <a href="https://nyti.ms/3ZPlAuR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
