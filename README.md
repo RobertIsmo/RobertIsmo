@@ -60,7 +60,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, September 29, Central Standard Time</p>
 <p>
-There has been a lot going on in the world lately, particularly when it comes to former President Donald J. Trump. He recently tried to delay his upcoming fraud trial, but an appeals court rejected his effort. If the current judgement stands, he could lose control of some of his iconic properties including Trump Tower. His legal defense team is feeling strain and he has paid for a lot of other people&#39;s legal bills as well. Meanwhile, President Biden has been very critical of Trump and there have been attempts by both Democrats and Republicans to make the shutdown about border security. In addition, Chinese tech giant Huawei is being investigated for its lobbying efforts and there has been a huge gap in income between wealthy and poorer New Yorkers since the pandemic hit.</p>
+In the US, Donald Trump&#39;s legal issues are coming to a head. A court has rejected his effort to delay a trial for fraud, and if it stands, he could lose control of some of his real estate properties. He&#39;s also not seeking to move a racketeering case from state to federal court. Biden has issued an attack on Trump, and there was a fact check of a speech he gave to autoworkers about electric vehicles. Meanwhile, there&#39;s been a lot of money spent in anti-Trump campaigns that are not having the effect intended. 
+
+On the economic side of things, New York is rebounding for the wealthy while nearly everyone else is struggling. An impeachment hearing was held but yielded no new information on Biden. Small businesses in Washington DC that serve federal employees are bracing for an economic hit if the current shutdown continues. Finally, there&#39;s a secretive US tech firm pushing into UK healthcare with the help of pandemic aid and strong lobbying efforts.</p>
 <ol>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Appeals Court Rejects Trump’s Effort to Delay Trial in Fraud Case</h3>
@@ -128,11 +130,11 @@ There has been a lot going on in the world lately, particularly when it comes to
 <p>The Republican speaker is working to turn the shutdown fight into a border security battle. Some lawmakers in both parties say they are open to including immigration provisions in an eventual deal.  <a href="https://nyti.ms/3LCeZxR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Gifts, Gadgets and Greece: Inside a Huawei Lobbying Campaign</h3>
-<sub>By Adam Satariano and Eliza Triantafillou</sub>
-<p>Leaked internal messages detail efforts by the Chinese tech giant to court Greek officials and fight an American-led effort against its technology.  <a href="https://nyti.ms/3ZPlAuR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Secretive U.S. Tech Firm Pushes Toward the Heart of U.K. Health Care</h3>
+<sub>By Euan Ward and Adam Satariano</sub>
+<p>Palantir, the analytics company chaired by Peter Thiel, has courted N.H.S. England with pandemic help and assertive lobbying. Its big reward may be yet to come.  <a href="https://nyti.ms/45acOZo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 29, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
