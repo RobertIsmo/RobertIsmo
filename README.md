@@ -60,16 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, September 28, Central Standard Time</p>
 <p>
-It looks like former President Donald Trump is in some serious legal trouble, with appeals courts rejecting his latest effort to delay a fraud case against him. That could end up costing him control over some of his real estate properties, like Trump Tower. His legal defense is also coming under strain, with the Justice Department accusing his lawyers of dragging their feet.
-
-Meanwhile, there are other people facing economic difficulty due to the pandemic in New York City, where the gap between rich and poor is growing even wider. There&#39;s also a story about migrants coming to New York City and trying to find places to live despite hostile conditions.
-
-In the U.S., President Biden is facing a looming shutdown if Congress can&#39;t reach a deal, and there was an impeachment hearing about Biden with no new information revealed. And in Israel, there was a prayer meeting on Yom Kippur that sparked debate as the government is trying to weaken its judiciary system.</p>
+There has been a lot of news surrounding former President Donald Trump lately. He&#39;s currently being sued in a fraud case and if the judge&#39;s ruling stands, he could possibly lose control of some of his flag ship New York properties, including Trump Tower. In addition to this, he&#39;s facing many other legal battles as well as backlash from the new Biden administration who is accusing him of undermining democracy. There have also been some attempts to move some of his cases from state to federal court that have failed. In more related news there is an income gap between the rich and poor in Manhattan, and small businesses in Washington that serve federal employees are bracing for an economic blow as a potential government shutdown looms. With all that is happening Republicans are trying to turn the shutdown into a border security battle.</p>
 <ol>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Appeals Court Rejects Trump’s Effort to Delay Trial in Fraud Case</h3>
 <sub>By Jonah E. Bromwich and Ben Protess</sub>
-<p>Former President Donald J. Trump had sued Justice Arthur F. Engoron, aiming to pause a trial that could begin as soon as Monday.  <a href="https://nyti.ms/455YErX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Former President Donald J. Trump had sued the judge presiding over his case, Arthur F. Engoron, aiming to pause a trial that will likely begin as soon as Monday.  <a href="https://nyti.ms/455YErX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-realestate-blue" alt="">
@@ -85,9 +81,27 @@ In the U.S., President Biden is facing a looming shutdown if Congress can&#39;t 
 <sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Justice Dept. Accuses Trump Lawyers of Dragging Their Feet in Documents Case</h3>
-<sub>By Alan Feuer</sub>
-<p>Prosecutors said the former president’s defense team was trying to use an arcane law to derail the scheduled start of his trial on charges of mishandling classified material and obstructing justice.  <a href="https://nyti.ms/3PDi3uQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Trump Will Not Seek to Move Georgia Racketeering Case to Federal Court</h3>
+<sub>By Danny Hakim and Richard Fausset</sub>
+<p>His decision comes after Mark Meadows, his former chief of staff, tried unsuccessfully to move his own case from state to federal court.  <a href="https://nyti.ms/3EUn0dG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Issues a Blistering Attack on Trump</h3>
+<sub>By Peter Baker</sub>
+<p>During an appearance in Arizona, President Biden portrayed former President Donald J. Trump as a budding autocrat with no fidelity to the tenets of American democracy.  <a href="https://nyti.ms/457mPXe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Autoworkers Speech Fact Check: What of Electric Vehicles?</h3>
+<sub>By Angelo Fichera</sub>
+<p>The former president campaigned in Michigan during a strike by autoworkers but resorted to misleading claims to make the case for his candidacy.  <a href="https://nyti.ms/3LHPA5Y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Republican Group Running Anti-Trump Ads Finds Little Is Working</h3>
+<sub>By Jonathan Swan</sub>
+<p>With over 40 ads and $6 million spent, a group tied to the Club for Growth is no closer to an answer, a memo to donors says. Some ads even gave Donald Trump a boost.  <a href="https://nyti.ms/3RCAUZo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -96,10 +110,16 @@ In the U.S., President Biden is facing a looming shutdown if Congress can&#39;t 
 <p>The huge income gap between rich and poor in Manhattan is the latest sign that the economic recovery from the pandemic has been lopsided in New York City.  <a href="https://nyti.ms/3teeXG8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Where the Migrants Who Came to New York Are Living Now</h3>
-<sub>By Todd Heisler, Andy Newman, Raúl Vilchis and Olivia Bensimon</sub>
-<p>From every corner of the world to every corner of New York City, newcomers are carving out communities in unexpected — and sometimes hostile — places.  <a href="https://nyti.ms/4660ESl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>First Impeachment Hearing Yields No New Information on Biden</h3>
+<sub>By Luke Broadwater</sub>
+<p>In a chaotic session, Republicans accused the president of crime and corruption, but even their witnesses said the case for impeachment hadn’t been made.  <a href="https://nyti.ms/48Axhcw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>They Shine Washington’s Shoes and Pour Its Drinks. A Shutdown Would Hurt.</h3>
+<sub>By Michael Levenson and Christine Hauser</sub>
+<p>Once again, the florists, bars, gyms, cafes, dry cleaners and other small businesses that serve federal employees in the District of Columbia and its suburbs are bracing for an economic blow.  <a href="https://nyti.ms/3rAYZVR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -112,30 +132,6 @@ In the U.S., President Biden is facing a looming shutdown if Congress can&#39;t 
 <h3>Border Takes Center Stage as McCarthy Seeks to Shift Shutdown Blame</h3>
 <sub>By Catie Edmondson, Carl Hulse and Karoun Demirjian</sub>
 <p>The Republican speaker is working to turn the shutdown fight into a border security battle. Some lawmakers in both parties say they are open to including immigration provisions in an eventual deal.  <a href="https://nyti.ms/3LCeZxR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>National Parks, and Those Who Count on Them, Brace for Possible Shutdown</h3>
-<sub>By Jack Healy</sub>
-<p>People, businesses and towns relying on park tourism worry the fourth shutdown in a decade could crush them if Congress can’t reach a deal to keep the government running.  <a href="https://nyti.ms/3PDUHFg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>First Impeachment Hearing Yields No New Information on Biden</h3>
-<sub>By Luke Broadwater</sub>
-<p>In a chaotic session, Republicans accused the president of crime and corruption, but even their witnesses said the case for impeachment hadn’t been made.  <a href="https://nyti.ms/48Axhcw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>An Aristocrat’s Grandson, a Precious Desk and a Storage Unit in Queens</h3>
-<sub>By Chelsia Rose Marcius</sub>
-<p>Christian Agostino von Hassell lost a trove of family heirlooms intertwined with European history when he encountered New York’s unforgiving laws governing storage lockers.  <a href="https://nyti.ms/459bWE8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>How a Prayer Meeting Split Israeli Jews on Their Holiest Day</h3>
-<sub>By Patrick Kingsley</sub>
-<p>A confrontation in Tel Aviv on Yom Kippur is part of a wider battle over the character of Israel as the government tries to weaken the judiciary.  <a href="https://nyti.ms/3rEFFqN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
