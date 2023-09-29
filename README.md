@@ -60,8 +60,26 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, September 29, Central Standard Time</p>
 <p>
-There have been a lot of big changes happening in the US recently, including the death of Dianne Feinstein, the oldest sitting US senator. With her death, there is an intensified fight over who will take her Senate seat in California. There has also been flooding in some parts of the US so it&#39;s important to be aware of flash flood warnings and how to prepare. In other news, Tropical Storm Rina has formed far out in the Atlantic Ocean and is expected to move near Tropical Storm Phillipe. To make things worse, there is an invasive species of mosquito in Africa that carries malaria which could have catastrophic consequences for public health. This is causing health concerns around the world, as mosquitoes are increasingly able to evade bed nets and insecticides. Scientists are experimenting with new ways to stop them. There is also a story about an immigrant baker from Sri Lanka who conquered France with his baguettes by making them for President Macros! And on the political front, Republicans are meeting in Dallas to hear pitches from DeSantis and Haley&#39;s camps and decide whether any non-Trump candidate is a worthwhile investment.</p>
+It seems like a lot is happening in the world right now. In New York, Mayor Eric Adams is facing criticism for his response to severe weather. Meanwhile, Washington DC is facing possible government shutdown as House Speaker Kevin McCarthy calls for a vote despite not having Republican votes to move forward. Also, Senator Dianne Feinstein from California, who made major political breakthroughs as a woman, recently passed away at the age of 90. In Georgia, Trump&#39;s co-defendant has pled guilty regarding an election interference case, while the United Automobile Workers Union has expanded strikes at Ford and GM across the country. Internationally, a Sri Lankan baker has made it big in France after perfecting his craft and even baking bread for President Macron. And just recently, Navy will be testing SEALs for illicit drug use for the first time. Wildly enough, there&#39;s also this odd story out of Brooklyn about a man who&#39;s been dubbed &#39;the Pawpaw King&#39;, as he could be found growing this exotic fruit by the Brooklyn-Queens Expressway!</p>
 <ol>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Adams Criticized Again for Response to Severe Weather as City Is Deluged</h3>
+<sub>By Emma G. Fitzsimmons, Dana Rubinstein and Jeffery C. Mays</sub>
+<p>Mayor Eric Adams did not publicly discuss the coming storm until nearly 24 hours after weather officials first warned of potential flash flooding in New York.  <a href="https://nyti.ms/3Fh98up"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>With a Shutdown in View, McCarthy Plays a Weak Hand</h3>
+<sub>By Annie Karni</sub>
+<p>The G.O.P. speaker, whose style is to placate his detractors, did not have the Republican votes to keep the government open. He called the vote anyway.  <a href="https://nyti.ms/48JSTn4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How Every Representative Voted on McCarthy’s Stopgap Funding Bill</h3>
+<sub>By Kennedy Elliott, Jasmine C. Lee, John-Michael Murphy, Scott Reinhard and Ashley Wu</sub>
+<p>Speaker Kevin McCarthy’s long-shot attempt to avert a government shutdown failed, with opposition coming both from House Democrats and from hard-right members of his own party.  <a href="https://nyti.ms/46mLyYI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 29, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Dianne Feinstein, 90, Dies; Oldest Sitting Senator and Fixture of California Politics</h3>
 <sub>By Robert D. McFadden</sub>
@@ -69,46 +87,28 @@ There have been a lot of big changes happening in the US recently, including the
 <sub><sub>Friday, September 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Feinstein’s Death Intensifies Fight for a Coveted California Senate Seat</h3>
-<sub>By Adam Nagourney and Shawn Hubler</sub>
-<p>Gov. Gavin Newsom has pledged to pick a Black woman to fill the seat, but has also said he would not choose any of the current Democrats running for Senate.  <a href="https://nyti.ms/46bSyaS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>As Mayor, Feinstein Made San Francisco ‘Vibrant,’ City Leaders Say</h3>
+<sub>By Heather Knight</sub>
+<p>She was relentless,” said one longtime leader of the city’s business community.  <a href="https://nyti.ms/3LCCJC4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>What to Do When There’s a Flash Flood Warning</h3>
-<sub>By Susan Shain</sub>
-<p>Fast rising water can be deadly. Here’s what to do if you’re caught off guard, and how to prepare for a future flooding event.  <a href="https://nyti.ms/3CdtYY1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, September 13, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Man Is Charged With Murder in Tupac Shakur Case</h3>
+<sub>By Julia Jacobs and Joe Coscarelli</sub>
+<p>The man, a former gang leader named Duane Keith Davis, has said the four shots that killed the rapper in 1996 came from the vehicle he was riding in.  <a href="https://nyti.ms/46gI36s"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Tropical Storm Rina Forms, Far from Land, in the Atlantic Ocean</h3>
-<sub>By Judson Jones</sub>
-<p>Forecasters weren’t certain of Rina’s projected path because of its proximity to Tropical Storm Phillipe.  <a href="https://nyti.ms/46sT9ot"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.A.W. Will Expand Strikes at Ford and G.M.</h3>
-<sub>By Neal E. Boudette</sub>
-<p>The United Automobile Workers union said 7,000 more of its members would walk off the job two weeks after it began strikes at the Big Three automakers.  <a href="https://nyti.ms/3PV1ZGa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Trump Co-Defendant in Georgia Election Interference Case Pleads Guilty</h3>
+<sub>By Richard Fausset and Danny Hakim</sub>
+<p>Scott Hall, a Trump supporter who is among the 19 people charged in a racketeering case involving the former president, is the first defendant to plead guilty.  <a href="https://nyti.ms/3ru64HZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>An Invasive Mosquito Threatens Catastrophe in Africa</h3>
-<sub>By Stephanie Nolen and Tiksa Negeri</sub>
-<p>A malaria-carrying species that thrives in urban areas and resists all insecticides is causing outbreaks in places that have rarely faced the disease.  <a href="https://nyti.ms/48q3kfc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Mosquitoes Are a Growing Public Health Threat, Reversing Years of Progress</h3>
-<sub>By Stephanie Nolen and Malin Fezehai</sub>
-<p>Climate change and the rapid evolution of the insect have helped drive up malaria deaths and brought dengue and other mosquito-borne viruses to places that never had to worry about them.  <a href="https://nyti.ms/3PTCO6G"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Insecticides Can’t Stop These Mosquitoes. Now What?</h3>
-<sub>By</sub>
-<p>With mosquitoes evolving to evade bed nets and common insecticides, scientists are experimenting with new ways to block them.  <a href="https://nyti.ms/46vYawG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>The Lawyer Trying to Hold Gunmakers Responsible for Mass Shootings</h3>
+<sub>By Michael Steinberger</sub>
+<p>Josh Koskoff’s legal victory against Remington has raised the possibility of a new form of gun control: lawsuits against the companies that make assault rifles.  <a href="https://nyti.ms/3t4PsH2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>He’s the Pawpaw King of Brooklyn. (What’s a Pawpaw?)</h3>
@@ -116,10 +116,10 @@ There have been a lot of big changes happening in the US recently, including the
 <p>The exotic-tasting fruit, though native to North America, is hard to come by. But in one man’s backyard near the Brooklyn-Queens Expressway, dozens fall each year.  <a href="https://nyti.ms/3EV0Ise"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>The Lawyer Trying to Hold Gunmakers Responsible for Mass Shootings</h3>
-<sub>By Michael Steinberger</sub>
-<p>Josh Koskoff’s legal victory against Remington has raised the possibility of a new form of gun control: lawsuits against the companies that make assault rifles.  <a href="https://nyti.ms/3t4PsH2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>U.A.W. Expands Strikes at Ford and G.M.</h3>
+<sub>By Neal E. Boudette</sub>
+<p>The United Automobile Workers union said 7,000 more of its members would walk off the job two weeks after it began strikes at the Big Three automakers.  <a href="https://nyti.ms/3PV1ZGa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -129,9 +129,9 @@ There have been a lot of big changes happening in the US recently, including the
 <sub><sub>Friday, September 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Key G.O.P. Megadonor Network Will Hear Pitches From DeSantis and Haley Camps</h3>
-<sub>By Maggie Haberman and Shane Goldmacher</sub>
-<p>The network, the American Opportunity Alliance, will meet in Dallas, as its biggest donors weigh whether investing in any non-Trump candidate remains a worthwhile investment.  <a href="https://nyti.ms/48zPrLr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Navy Will Start Testing SEALs for Illicit Drug Use</h3>
+<sub>By Dave Philipps</sub>
+<p>For the first time, everyone in Naval Special Warfare, not just trainees, will face random screening for performance-enhancing drugs, believed to be widely abused in the ranks.  <a href="https://nyti.ms/3ZzD1zk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 29, Central Standard Time</sub></sub>
 <hr/>
 </ol>
