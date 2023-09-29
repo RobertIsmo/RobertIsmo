@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Thursday, September 28, Central Standard Time</p>
+<p>It is Friday, September 29, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. President Biden is going after former President Trump&#39;s numerous legal proceedings, including a fraud case in which he could potentially lose control of some of his flagship real estate. Meanwhile, Republicans are trying to impeach Biden, but their witnesses say not enough evidence has been presented yet. In other news, small businesses that cater to federal employees in Washington D.C. are bracing for a big economic blow if another shutdown should occur. In New York City there&#39;s a huge gap between rich and poor-- proof that the pandemic recovery has been lopsided. Lastly, leaked internal messages have exposed Huawei&#39;s attempts at lobbying to fight an American-led effort against its technology.</p>
+There has been a lot going on in the world lately, particularly when it comes to former President Donald J. Trump. He recently tried to delay his upcoming fraud trial, but an appeals court rejected his effort. If the current judgement stands, he could lose control of some of his iconic properties including Trump Tower. His legal defense team is feeling strain and he has paid for a lot of other people&#39;s legal bills as well. Meanwhile, President Biden has been very critical of Trump and there have been attempts by both Democrats and Republicans to make the shutdown about border security. In addition, Chinese tech giant Huawei is being investigated for its lobbying efforts and there has been a huge gap in income between wealthy and poorer New Yorkers since the pandemic hit.</p>
 <ol>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Appeals Court Rejects Trump’s Effort to Delay Trial in Fraud Case</h3>
@@ -122,10 +122,10 @@ There&#39;s a lot going on in the world right now. President Biden is going afte
 <p>Once again, the florists, bars, gyms, cafes, dry cleaners and other small businesses that serve federal employees in the District of Columbia and its suburbs are bracing for an economic blow.  <a href="https://nyti.ms/3rAYZVR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>An Aristocrat’s Grandson, a Precious Desk and a Storage Unit in Queens</h3>
-<sub>By Chelsia Rose Marcius</sub>
-<p>Christian Agostino von Hassell lost a trove of family heirlooms intertwined with European history when he encountered New York’s unforgiving laws governing storage lockers.  <a href="https://nyti.ms/459bWE8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Border Takes Center Stage as McCarthy Seeks to Shift Shutdown Blame</h3>
+<sub>By Catie Edmondson, Carl Hulse and Karoun Demirjian</sub>
+<p>The Republican speaker is working to turn the shutdown fight into a border security battle. Some lawmakers in both parties say they are open to including immigration provisions in an eventual deal.  <a href="https://nyti.ms/3LCeZxR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
