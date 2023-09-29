@@ -60,33 +60,55 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, September 29, Central Standard Time</p>
 <p>
-In the US, Donald Trump&#39;s legal issues are coming to a head. A court has rejected his effort to delay a trial for fraud, and if it stands, he could lose control of some of his real estate properties. He&#39;s also not seeking to move a racketeering case from state to federal court. Biden has issued an attack on Trump, and there was a fact check of a speech he gave to autoworkers about electric vehicles. Meanwhile, there&#39;s been a lot of money spent in anti-Trump campaigns that are not having the effect intended. 
-
-On the economic side of things, New York is rebounding for the wealthy while nearly everyone else is struggling. An impeachment hearing was held but yielded no new information on Biden. Small businesses in Washington DC that serve federal employees are bracing for an economic hit if the current shutdown continues. Finally, there&#39;s a secretive US tech firm pushing into UK healthcare with the help of pandemic aid and strong lobbying efforts.</p>
+It looks like a lot is going on in the world at the moment. In the US, there is a possible government shutdown looming over the country that could have major impacts on public services and economic data. Meanwhile, in Sudan, foreign nations are secretly fueling conflict in that region when peace talks are happening. On the health front, mosquitoes have evolved to evade insecticides and cause more widespread outbreaks of malaria and dengue due to climate change. Finally, in Russia, troops pulled out of a city last year but there is still immense damage from their presence with buildings in disrepair and services still spotty.</p>
 <ol>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Appeals Court Rejects Trump’s Effort to Delay Trial in Fraud Case</h3>
-<sub>By Jonah E. Bromwich and Ben Protess</sub>
-<p>Former President Donald J. Trump had sued the judge presiding over his case, Arthur F. Engoron, aiming to pause a trial that will likely begin as soon as Monday.  <a href="https://nyti.ms/455YErX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-realestate-blue" alt="">
-<h3>Trump Could Lose Trump Tower (and Other Properties) in Fraud Case</h3>
-<sub>By Rukmini Callimachi</sub>
-<p>If a judge’s ruling stands, Donald Trump could lose control over some of his flagship New York real estate.  <a href="https://nyti.ms/46ojB37"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>With a Shutdown in View, McCarthy Plays a Weak Hand</h3>
+<sub>By Annie Karni</sub>
+<p>The G.O.P. speaker, whose style is to placate his detractors, does not have the Republican votes to keep the government open. He is calling the vote anyway.  <a href="https://nyti.ms/48JSTn4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump’s Sprawling Legal Defense Effort Comes Under Strain</h3>
-<sub>By Ben Protess, Alan Feuer and Maggie Haberman</sub>
-<p>Former President Donald Trump’s team has found lawyers for others caught up in his prosecutions and has paid many of their legal bills. That arrangement may not be sustainable.  <a href="https://nyti.ms/46MuOKD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Most National Parks Will Close in a Shutdown, Federal Officials Say</h3>
+<sub>By Jack Healy</sub>
+<p>The Department of the Interior expects to furlough most of the 20,000 park workers. Some states, including Arizona, plan to use their own funds to keep sites open.  <a href="https://nyti.ms/45bNCSd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>From I.P.O.s to Inflation Data: What’s at Risk in a Shutdown</h3>
+<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
+<p>Important economic data could be delayed, as could regulators’ decisions on mergers and new public listings.  <a href="https://nyti.ms/3rymgIa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Talking Peace in Sudan, the U.A.E. Secretly Fuels the Fight</h3>
+<sub>By Declan Walsh, Christoph Koettl and Eric Schmitt</sub>
+<p>From a remote air base in Chad, the Emirates is giving arms and medical treatment to fighters on one side in Sudan’s spiraling war, officials say.  <a href="https://nyti.ms/3RK2013"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Mosquitoes Are a Growing Public Health Threat, Reversing Years of Progress</h3>
+<sub>By Stephanie Nolen and Malin Fezehai</sub>
+<p>Climate change and the rapid evolution of the insect have helped drive up malaria deaths and brought dengue and other mosquito-borne viruses to places that never had to worry about them.  <a href="https://nyti.ms/3PTCO6G"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Will Not Seek to Move Georgia Racketeering Case to Federal Court</h3>
-<sub>By Danny Hakim and Richard Fausset</sub>
-<p>His decision comes after Mark Meadows, his former chief of staff, tried unsuccessfully to move his own case from state to federal court.  <a href="https://nyti.ms/3EUn0dG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>An Invasive Mosquito Threatens Catastrophe in Africa</h3>
+<sub>By Stephanie Nolen and Tiksa Negeri</sub>
+<p>A malaria-carrying species that thrives in urban areas and resists all insecticides is causing outbreaks in places that have rarely faced the disease.  <a href="https://nyti.ms/48q3kfc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Insecticides Can’t Stop These Mosquitoes. Now What?</h3>
+<sub>By</sub>
+<p>With mosquitoes evolving to evade bed nets and common insecticides, scientists are experimenting with new ways to block them.  <a href="https://nyti.ms/46vYawG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Sri Lankan Baker’s Baguette Conquers France</h3>
+<sub>By Roger Cohen</sub>
+<p>After 17 years in France, Tharshan Selvarajah has yet to apply for citizenship. But he has made bread for President Emmanuel Macron.  <a href="https://nyti.ms/46cxLnG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Issues a Blistering Attack on Trump</h3>
@@ -95,45 +117,21 @@ On the economic side of things, New York is rebounding for the wealthy while nea
 <sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Autoworkers Speech Fact Check: What of Electric Vehicles?</h3>
-<sub>By Angelo Fichera</sub>
-<p>The former president campaigned in Michigan during a strike by autoworkers but resorted to misleading claims to make the case for his candidacy.  <a href="https://nyti.ms/3LHPA5Y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
+<h3>Battling a Water Crisis: Bottles, Barges and Maybe a Quarter Billion-Dollar Pipe</h3>
+<sub>By Jacey Fortin</sub>
+<p>A saltwater wedge is moving up the drought-drained Mississippi River, threatening public health in New Orleans and beyond.  <a href="https://nyti.ms/469PcFu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Republican Group Running Anti-Trump Ads Finds Little Is Working</h3>
-<sub>By Jonathan Swan</sub>
-<p>With over 40 ads and $6 million spent, a group tied to the Club for Growth is no closer to an answer, a memo to donors says. Some ads even gave Donald Trump a boost.  <a href="https://nyti.ms/3RCAUZo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>New York Is Rebounding for the Rich. Nearly Everyone Else Is Struggling.</h3>
-<sub>By Stefanos Chen</sub>
-<p>The huge income gap between rich and poor in Manhattan is the latest sign that the economic recovery from the pandemic has been lopsided in New York City.  <a href="https://nyti.ms/3teeXG8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>First Impeachment Hearing Yields No New Information on Biden</h3>
-<sub>By Luke Broadwater</sub>
-<p>In a chaotic session, Republicans accused the president of crime and corruption, but even their witnesses said the case for impeachment hadn’t been made.  <a href="https://nyti.ms/48Axhcw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>They Shine Washington’s Shoes and Pour Its Drinks. A Shutdown Would Hurt.</h3>
-<sub>By Michael Levenson and Christine Hauser</sub>
-<p>Once again, the florists, bars, gyms, cafes, dry cleaners and other small businesses that serve federal employees in the District of Columbia and its suburbs are bracing for an economic blow.  <a href="https://nyti.ms/3rAYZVR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Border Takes Center Stage as McCarthy Seeks to Shift Shutdown Blame</h3>
-<sub>By Catie Edmondson, Carl Hulse and Karoun Demirjian</sub>
-<p>The Republican speaker is working to turn the shutdown fight into a border security battle. Some lawmakers in both parties say they are open to including immigration provisions in an eventual deal.  <a href="https://nyti.ms/3LCeZxR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>When Will the Saltwater Wedge Reach New Orleans?</h3>
+<sub>By Mira Rojanasakul</sub>
+<p>The drought-stricken Mississippi River can no longer hold back the saltwater creeping upstream, contaminating drinking water.  <a href="https://nyti.ms/3rzC6Cn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Secretive U.S. Tech Firm Pushes Toward the Heart of U.K. Health Care</h3>
-<sub>By Euan Ward and Adam Satariano</sub>
-<p>Palantir, the analytics company chaired by Peter Thiel, has courted N.H.S. England with pandemic help and assertive lobbying. Its big reward may be yet to come.  <a href="https://nyti.ms/45acOZo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Russian Forces Left This City a Year Ago. The Scars Remain.</h3>
+<sub>By Valerie Hopkins, Dzvinka Pinchuk and Emile Ducke</sub>
+<p>In Izium, in eastern Ukraine, the buildings are in ruins and services are spotty. Barely recovered, its residents worry that more mayhem may lie ahead.  <a href="https://nyti.ms/3PZDl7q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 29, Central Standard Time</sub></sub>
 <hr/>
 </ol>
