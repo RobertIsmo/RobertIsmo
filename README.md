@@ -58,13 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Friday, September 29, Central Standard Time</p>
+<p>It is Saturday, September 30, Central Standard Time</p>
 <p>
-There has been heavy flooding in the New York City region this morning that has flooded subway stations and major roadways. Experts say that when the city&#39;s drainage systems are overloaded, water will back up and flood the area. Furthermore, a sea lion from Central Park Zoo escaped its enclosure due to the flooding and had a brief chance to explore.
-
-The current political landscape in the US is quite turbulent because right wing tanks have rejected a stopgap bill put forward by their own party&#39;s Speaker, Kevin McCarthy, thus making a government shutdown likely in the coming days. McCarthy has had trouble with hard-right Republicans before during his tenure as Speaker. On top of this, one of the parties involved in a Georgia election interference case has recently pled guilty, while another long-time Senator, Dianne Feinstein, recently passed away at 90 years old. 
-
-In terms of music news, a man was just charged with Tupac Shakur&#39;s murder from 1996 which was a pivotal moment for rap music at the time and kicked off years of him becoming an almost mythical figure. Lastly, a lawyer is trying to hold gunmakers responsible for mass shootings through legal action hoping to put an alternative form of gun control in place.</p>
+Well, there&#39;s been a lot of news lately. In the New York region, heavy rainfall has caused flooding in some areas, and a sea lion even escaped from Central Park Zoo during the flooding! On top of that, there&#39;s tension in the US surrounding a potential government shutdown due to some hard-right Republicans refusing to pass a spending bill. This week we also sadly lost Senator Dianne Feinstein, who had a long career in politics including becoming San Francisco&#39;s first female mayor and California&#39;s first female senator. In other news, there is an ongoing criminal investigation into Chinese property developer Evergrande due to issues with more than $300 billion in debt. Finally, Duane Keith Davis was charged with murder in the Tupac Shakur case due to some information Davis provided about four shots that killed the rapper in 1996.</p>
 <ol>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Video: See Flooding in Some of the Hardest-Hit Areas of New York</h3>
@@ -109,10 +105,10 @@ In terms of music news, a man was just charged with Tupac Shakur&#39;s murder fr
 <sub><sub>Friday, September 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>As Mayor, Feinstein Made San Francisco ‘Vibrant,’ City Leaders Say</h3>
-<sub>By Heather Knight</sub>
-<p>“She was relentless,” said one longtime leader of the city’s business community.  <a href="https://nyti.ms/3LCCJC4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 29, Central Standard Time</sub></sub>
+<h3>From Harvey Milk’s Side to the Senate: 9 Key Moments in Dianne Feinstein’s Career</h3>
+<sub>By Shawn Hubler</sub>
+<p>In her decades-long political career, Ms. Feinstein led San Francisco in the wake of political assassinations, kept the C.I.A. accountable for torture and held sway over Supreme Court nominations.  <a href="https://nyti.ms/3IqFo08"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>Man Is Charged With Murder in Tupac Shakur Case</h3>
@@ -132,10 +128,10 @@ In terms of music news, a man was just charged with Tupac Shakur&#39;s murder fr
 <p>Scott Hall, a Trump supporter who is among the 19 people charged in a racketeering case involving the former president, is the first defendant to plead guilty.  <a href="https://nyti.ms/3ru64HZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>The Lawyer Trying to Hold Gunmakers Responsible for Mass Shootings</h3>
-<sub>By Michael Steinberger</sub>
-<p>Josh Koskoff’s legal victory against Remington has raised the possibility of a new form of gun control: lawsuits against the companies that make assault rifles.  <a href="https://nyti.ms/3t4PsH2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Why Evergrande’s Problems Are Only Getting Worse</h3>
+<sub>By Daisuke Wakabayashi</sub>
+<p>The Chinese property developer’s efforts to restructure more than $300 billion in debt are being complicated by criminal investigations into current and former executives.  <a href="https://nyti.ms/46yw57V"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 29, Central Standard Time</sub></sub>
 <hr/>
 </ol>
