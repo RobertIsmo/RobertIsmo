@@ -60,24 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, September 30, Central Standard Time</p>
 <p>
-Right now, the US government is on the brink of a potential shutdown because members of Congress are unable to agree on a plan to keep it running. This disagreement has been largely driven by hard-right Republicans in the House, who stand in opposition to Speaker Kevin McCarthy&#39;s efforts. If a compromise isn&#39;t reached soon, the public will start to feel the impacts of the shutdown.
-
-In New York City, there was a huge storm that caused massive flooding across different areas. Scientists believe this type of weather event is becoming more and more common due to climate change, and this storm was started out as an unpredictable system.
-
-There&#39;s also a project underway on an isolated island where scientists are trying to genetically modify mosquitoes so they can&#39;t transmit malaria anymore. It&#39;s a very ambitious undertaking and governments are wary of it since there are doubts about how successful it could be. 
-
-Lastly, San Francisco is mourning its longtime Senator Dianne Feinstein, who recently retired from her post after many decades in politics. She led San Francisco during tumultuous times, kept the CIA accountable during torture scandals, held sway over Supreme Court nominations and more during her career. Now Governor Gavin Newsom will have to choose someone to fill her seat for the rest of her term.</p>
+Currently, the news is dominated by the government shutdown in the US. Contingency plans are being put into effect which could be felt by the public soon. This all began due to a disagreement between Democrats and Republicans. Elsewhere, there have been heavy floods in New York City due to a storm that started out as unremarkable, though climate change is making more severe storms more common. In Texas, mums are becoming an important part of homecoming culture, while Harvard professor Francesca Gino was recently accused of falsifying data about stopping dishonesty. Also, in San Fransisco there is attention on an overlooked race massacre that happened in 1906. Ukraine and Russia have been in a war for sometime, and it has come down to a competition over air drones which involve Chinese electronics supply chains. Lastly, on the anniversary of an illegal annexation, Russia continues to claim its own territory in the Ukrainian region though little territory has changed hands.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Government Hurtles Toward Shutdown as G.O.P. House Hunts for Last-Ditch Deal</h3>
-<sub>By Carl Hulse and Catie Edmondson</sub>
-<p>There was no clear path forward in the House to keep the government funded after hard-right Republicans defeated a stopgap measure and the speaker refused to turn to Democrats for help.  <a href="https://nyti.ms/3ZAEOEi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How the Shutdown Holdouts Have Antagonized McCarthy Before</h3>
-<sub>By Karen Yourish and Lazaro Gamio</sub>
-<p>Some of Speaker Kevin McCarthy’s most persistent tormentors assembled Friday to defeat a stopgap spending measure to avoid a government shutdown, the latest episode in a pattern of blocking his efforts in the House.  <a href="https://nyti.ms/46bLXgD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Where Would a Government Shutdown Immediately Be Most Felt?</h3>
+<sub>By Zach Montague</sub>
+<p>As federal agencies prepare to enact their contingency plans for a shutdown, this is where the public could notice changes in the coming days.  <a href="https://nyti.ms/3LDDKK3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -86,12 +74,6 @@ Lastly, San Francisco is mourning its longtime Senator Dianne Feinstein, who rec
 <p>Any deal to keep it open would have to be bipartisan, since the Senate and White House are controlled by Democrats, and the House by Republicans.  <a href="https://nyti.ms/45746ek"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Where Would a Government Shutdown Immediately Be Most Felt?</h3>
-<sub>By Zach Montague</sub>
-<p>As federal agencies prepare to enact their contingency plans for a shutdown, this is where the public could notice changes in the coming days.  <a href="https://nyti.ms/3LDDKK3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 29, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>With Climate Change, Smaller Storms Are Growing More Fearsome, More Often</h3>
 <sub>By Hilary Howard</sub>
@@ -99,22 +81,16 @@ Lastly, San Francisco is mourning its longtime Senator Dianne Feinstein, who rec
 <sub><sub>Saturday, September 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Video: See Flooding in Some of the Hardest-Hit Areas of New York</h3>
-<sub>By Matthew Bloch, Keith Collins, Sarah Kerr, Zach Levitt, Rebecca Lieberman and Ainara Tiefenthäler</sub>
-<p>Heavy rainfall pounded New York City and the surrounding region Friday morning, flooding subway stations and major roadways.  <a href="https://nyti.ms/46x6dcC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 29, Central Standard Time</sub></sub>
+<h3>After Intense Floods, New York City Lurches Back to Life</h3>
+<sub>By Erin Nolan and Hurubie Meko</sub>
+<p>The city’s transit systems had resumed service, with some delays, as the rain abated on Saturday. The governor warned that climate change was making severe storms more common.  <a href="https://nyti.ms/3ZAEMfo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Why New York City Keeps Flooding</h3>
-<sub>By Patrick McGeehan and Hilary Howard</sub>
-<p>When the city’s drainage network is overwhelmed, “it backs up,” experts said.  <a href="https://nyti.ms/3ETUMzT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>The Gamble: Can Genetically Modified Mosquitoes End Disease?</h3>
-<sub>By Stephanie Nolen and Natalija Gormalova</sub>
-<p>Working on a remote island, scientists think they can use genetic engineering to block a malaria-carrying species of mosquito from spreading the disease — and do it in just a few months. But governments are wary.  <a href="https://nyti.ms/3PTLJoP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>In Texas, Mums Rival Football as the Big Homecoming Attraction</h3>
+<sub>By Rachel Sherman</sub>
+<p>The elaborate adornments have come a long way since the days of simple chrysanthemum corsages.  <a href="https://nyti.ms/3EYZk83"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>The Harvard Professor and the Bloggers</h3>
@@ -123,22 +99,40 @@ Lastly, San Francisco is mourning its longtime Senator Dianne Feinstein, who rec
 <sub><sub>Saturday, September 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>San Francisco Mourns Its Homegrown Senator and the End of the Feinstein Era</h3>
+<h3>In Feinstein, San Francisco Had an Endless Champion</h3>
 <sub>By Heather Knight</sub>
-<p>Dianne Feinstein’s life was inseparable from the fortunes and tragedies of San Francisco over nine decades.  <a href="https://nyti.ms/48BzvIy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Dianne Feinstein’s life was inseparable from the fortunes and tragedies of the city over nine decades.  <a href="https://nyti.ms/48BzvIy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>From Harvey Milk’s Side to the Senate: 9 Key Moments in Dianne Feinstein’s Career</h3>
-<sub>By Shawn Hubler</sub>
-<p>In her decades-long political career, Ms. Feinstein led San Francisco in the wake of political assassinations, kept the C.I.A. accountable for torture and held sway over Supreme Court nominations.  <a href="https://nyti.ms/3IqFo08"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>What Happens Next to Feinstein’s Seat?</h3>
 <sub>By Shawn Hubler</sub>
 <p>Under California state law, the governor has the authority to name a successor.  <a href="https://nyti.ms/46mArPu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In a ‘City Too Busy to Hate,’ New Attention to an Overlooked Race Massacre</h3>
+<sub>By Rick Rojas and Alyssa Pointer</sub>
+<p>Researchers say that mob violence against Black residents in 1906 played a role in Atlanta’s evolution, whether residents knew it or not.  <a href="https://nyti.ms/3PXIWLn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Ukraine’s War of Drones Runs Into an Obstacle: China</h3>
+<sub>By Paul Mozur and Valerie Hopkins</sub>
+<p>As the war with Russia stretches on, so too does a contest to make more and deadlier flying machines. That means a fight over global electronics supply chains that run through China.  <a href="https://nyti.ms/3rAb7Xq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>On Anniversary of Illegal Annexation, Russia Strikes Ukrainian Region It Claims as Its Own</h3>
+<sub>By Matthew Mpoke Bigg</sub>
+<p>As little territory changes hands on the battlefield, President Vladimir Putin of Russia and President Volodymyr Zelensky of Ukraine both signal that they are prepared to keep fighting.  <a href="https://nyti.ms/3t7z7RU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-t-magazine-blue" alt="">
+<h3>The Life Cycle of New York Galleries</h3>
+<sub>By M.H. Miller</sub>
+<p>What does being the center of the art world do to a neighborhood? Just look at Soho.  <a href="https://nyti.ms/45c7uEy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
