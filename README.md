@@ -60,13 +60,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, September 30, Central Standard Time</p>
 <p>
-Things have been heating up in the US recently. There&#39;s a potential government shutdown if Congress can&#39;t reach an agreement on a funding bill. Speaker of the House Kevin McCarthy has been facing a lot of pushback from some hard-right Republicans who are against the bill. In New York City, flooding and rain over the weekend caused a lot of damage to subway stations and roadways due to the city&#39;s overwhelmed drainage system, and it&#39;s looking like climate change is only going to make it worse in the future. There&#39;s also some pretty interesting progress being made in science - on a remote island, they&#39;re using genetic engineering to try to stop malaria-carrying mosquitoes from spreading the disease, and a Harvard professor is in hot water after she was accused of manipulating research data. And finally, there has been a lot of tributes to Dianne Feinstein as San Francisco mourns her brief term in the Senate and the end of her long career.</p>
+Right now, the US government is on the brink of a potential shutdown because members of Congress are unable to agree on a plan to keep it running. This disagreement has been largely driven by hard-right Republicans in the House, who stand in opposition to Speaker Kevin McCarthy&#39;s efforts. If a compromise isn&#39;t reached soon, the public will start to feel the impacts of the shutdown.
+
+In New York City, there was a huge storm that caused massive flooding across different areas. Scientists believe this type of weather event is becoming more and more common due to climate change, and this storm was started out as an unpredictable system.
+
+There&#39;s also a project underway on an isolated island where scientists are trying to genetically modify mosquitoes so they can&#39;t transmit malaria anymore. It&#39;s a very ambitious undertaking and governments are wary of it since there are doubts about how successful it could be. 
+
+Lastly, San Francisco is mourning its longtime Senator Dianne Feinstein, who recently retired from her post after many decades in politics. She led San Francisco during tumultuous times, kept the CIA accountable during torture scandals, held sway over Supreme Court nominations and more during her career. Now Governor Gavin Newsom will have to choose someone to fill her seat for the rest of her term.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Right Wing Tanks Stopgap Bill in House, Pushing Government Toward a Shutdown</h3>
-<sub>By Catie Edmondson, Kayla Guo and Carl Hulse</sub>
-<p>More than 20 hard-right Republicans defied Speaker Kevin McCarthy and defeated their own party’s bill, making a lapse in funding at midnight on Saturday all but certain.  <a href="https://nyti.ms/3EX4Xnb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 29, Central Standard Time</sub></sub>
+<h3>Government Hurtles Toward Shutdown as G.O.P. House Hunts for Last-Ditch Deal</h3>
+<sub>By Carl Hulse and Catie Edmondson</sub>
+<p>There was no clear path forward in the House to keep the government funded after hard-right Republicans defeated a stopgap measure and the speaker refused to turn to Democrats for help.  <a href="https://nyti.ms/3ZAEOEi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>How the Shutdown Holdouts Have Antagonized McCarthy Before</h3>
