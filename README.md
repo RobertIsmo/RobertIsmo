@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, September 29, Central Standard Time</p>
 <p>
-It seems like a lot is happening in the world right now. In New York, Mayor Eric Adams is facing criticism for his response to severe weather. Meanwhile, Washington DC is facing possible government shutdown as House Speaker Kevin McCarthy calls for a vote despite not having Republican votes to move forward. Also, Senator Dianne Feinstein from California, who made major political breakthroughs as a woman, recently passed away at the age of 90. In Georgia, Trump&#39;s co-defendant has pled guilty regarding an election interference case, while the United Automobile Workers Union has expanded strikes at Ford and GM across the country. Internationally, a Sri Lankan baker has made it big in France after perfecting his craft and even baking bread for President Macron. And just recently, Navy will be testing SEALs for illicit drug use for the first time. Wildly enough, there&#39;s also this odd story out of Brooklyn about a man who&#39;s been dubbed &#39;the Pawpaw King&#39;, as he could be found growing this exotic fruit by the Brooklyn-Queens Expressway!</p>
+There are a lot of events going on in the US and elsewhere in the world right now. In New York City, Mayor Eric Adams is being criticized for his response to severe weather that is flooding the city. There&#39;s also a sea lion who escaped from Central Park Zoo due to the flooding. On Friday, there was a vote in the House to pass a stopgap bill which failed due to opposition from some hard-right Republicans; a government shutdown could occur at midnight tonight if no agreement is reached. Dianne Feinstein, longtime California Representative and the oldest sitting Senator, recently died, and leaders around San Francisco are speaking of her achievements as mayor. Meanwhile, a man has been charged with murder in the 1996 Tupac Shakur case, and Tupac remains an iconic rap figure two decades after his death. There&#39;s also a case in Georgia involving election interference where Trump&#39;s co-defendant is pleading guilty, and finally, there&#39;s a lawyer who is trying to hold gunmakers responsible as we see mass shootings happening across the nation.</p>
 <ol>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Adams Criticized Again for Response to Severe Weather as City Is Deluged</h3>
@@ -68,16 +68,34 @@ It seems like a lot is happening in the world right now. In New York, Mayor Eric
 <p>Mayor Eric Adams did not publicly discuss the coming storm until nearly 24 hours after weather officials first warned of potential flash flooding in New York.  <a href="https://nyti.ms/3Fh98up"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>With a Shutdown in View, McCarthy Plays a Weak Hand</h3>
-<sub>By Annie Karni</sub>
-<p>The G.O.P. speaker, whose style is to placate his detractors, did not have the Republican votes to keep the government open. He called the vote anyway.  <a href="https://nyti.ms/48JSTn4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Why New York City Keeps Flooding</h3>
+<sub>By Patrick McGeehan and Hilary Howard</sub>
+<p>When the city’s drainage network is overwhelmed, “it backs up,” experts said.  <a href="https://nyti.ms/3ETUMzT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Sea Lion Escapes From Central Park Zoo Enclosure During Flooding</h3>
+<sub>By Claire Fahy</sub>
+<p>Sally, the marine mammal, got a chance to briefly explore the world outside her pool when the zoo grounds were flooded by the heavy rains.  <a href="https://nyti.ms/3tjyKnj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Every Representative Voted on McCarthy’s Stopgap Funding Bill</h3>
-<sub>By Kennedy Elliott, Jasmine C. Lee, John-Michael Murphy, Scott Reinhard and Ashley Wu</sub>
-<p>Speaker Kevin McCarthy’s long-shot attempt to avert a government shutdown failed, with opposition coming both from House Democrats and from hard-right members of his own party.  <a href="https://nyti.ms/46mLyYI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Right Wing Tanks Stopgap Bill in House, Pushing Government Toward a Shutdown</h3>
+<sub>By Catie Edmondson, Kayla Guo and Carl Hulse</sub>
+<p>More than 20 hard-right Republicans defied Speaker Kevin McCarthy and defeated their own party’s bill, making a lapse in funding at midnight on Saturday all but certain.  <a href="https://nyti.ms/3EX4Xnb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How the Shutdown Holdouts Have Antagonized McCarthy Before</h3>
+<sub>By Karen Yourish and Lazaro Gamio</sub>
+<p>Some of Speaker Kevin McCarthy’s most persistent tormentors assembled Friday to defeat a stopgap spending measure to avoid a government shutdown, the latest episode in a pattern of blocking his efforts in the House.  <a href="https://nyti.ms/46bLXgD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Where Would a Government Shutdown Immediately Be Most Felt?</h3>
+<sub>By Zach Montague</sub>
+<p>As federal agencies prepare to enact their contingency plans for a shutdown, this is where the public could notice changes in the coming days.  <a href="https://nyti.ms/3LDDKK3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -89,13 +107,19 @@ It seems like a lot is happening in the world right now. In New York, Mayor Eric
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>As Mayor, Feinstein Made San Francisco ‘Vibrant,’ City Leaders Say</h3>
 <sub>By Heather Knight</sub>
-<p>She was relentless,” said one longtime leader of the city’s business community.  <a href="https://nyti.ms/3LCCJC4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>“She was relentless,” said one longtime leader of the city’s business community.  <a href="https://nyti.ms/3LCCJC4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>Man Is Charged With Murder in Tupac Shakur Case</h3>
-<sub>By Julia Jacobs and Joe Coscarelli</sub>
+<sub>By Joe Coscarelli and Julia Jacobs</sub>
 <p>The man, a former gang leader named Duane Keith Davis, has said the four shots that killed the rapper in 1996 came from the vehicle he was riding in.  <a href="https://nyti.ms/46gI36s"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Tupac Shakur Remained a Defining Rap Figure After His Death</h3>
+<sub>By Jonathan Abrams</sub>
+<p>A star during his lifetime, he became an almost mythical figure in the decades since his 1996 killing.  <a href="https://nyti.ms/459NaUA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -108,30 +132,6 @@ It seems like a lot is happening in the world right now. In New York, Mayor Eric
 <h3>The Lawyer Trying to Hold Gunmakers Responsible for Mass Shootings</h3>
 <sub>By Michael Steinberger</sub>
 <p>Josh Koskoff’s legal victory against Remington has raised the possibility of a new form of gun control: lawsuits against the companies that make assault rifles.  <a href="https://nyti.ms/3t4PsH2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>He’s the Pawpaw King of Brooklyn. (What’s a Pawpaw?)</h3>
-<sub>By Molly Fitzpatrick</sub>
-<p>The exotic-tasting fruit, though native to North America, is hard to come by. But in one man’s backyard near the Brooklyn-Queens Expressway, dozens fall each year.  <a href="https://nyti.ms/3EV0Ise"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.A.W. Expands Strikes at Ford and G.M.</h3>
-<sub>By Neal E. Boudette</sub>
-<p>The United Automobile Workers union said 7,000 more of its members would walk off the job two weeks after it began strikes at the Big Three automakers.  <a href="https://nyti.ms/3PV1ZGa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Sri Lankan Baker’s Baguette Conquers France</h3>
-<sub>By Roger Cohen</sub>
-<p>After 17 years in France, Tharshan Selvarajah has yet to apply for citizenship. But he has made bread for President Emmanuel Macron.  <a href="https://nyti.ms/46cxLnG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Navy Will Start Testing SEALs for Illicit Drug Use</h3>
-<sub>By Dave Philipps</sub>
-<p>For the first time, everyone in Naval Special Warfare, not just trainees, will face random screening for performance-enhancing drugs, believed to be widely abused in the ranks.  <a href="https://nyti.ms/3ZzD1zk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 29, Central Standard Time</sub></sub>
 <hr/>
 </ol>
