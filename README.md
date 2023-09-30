@@ -60,12 +60,16 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, September 29, Central Standard Time</p>
 <p>
-There are a lot of events going on in the US and elsewhere in the world right now. In New York City, Mayor Eric Adams is being criticized for his response to severe weather that is flooding the city. There&#39;s also a sea lion who escaped from Central Park Zoo due to the flooding. On Friday, there was a vote in the House to pass a stopgap bill which failed due to opposition from some hard-right Republicans; a government shutdown could occur at midnight tonight if no agreement is reached. Dianne Feinstein, longtime California Representative and the oldest sitting Senator, recently died, and leaders around San Francisco are speaking of her achievements as mayor. Meanwhile, a man has been charged with murder in the 1996 Tupac Shakur case, and Tupac remains an iconic rap figure two decades after his death. There&#39;s also a case in Georgia involving election interference where Trump&#39;s co-defendant is pleading guilty, and finally, there&#39;s a lawyer who is trying to hold gunmakers responsible as we see mass shootings happening across the nation.</p>
+There has been heavy flooding in the New York City region this morning that has flooded subway stations and major roadways. Experts say that when the city&#39;s drainage systems are overloaded, water will back up and flood the area. Furthermore, a sea lion from Central Park Zoo escaped its enclosure due to the flooding and had a brief chance to explore.
+
+The current political landscape in the US is quite turbulent because right wing tanks have rejected a stopgap bill put forward by their own party&#39;s Speaker, Kevin McCarthy, thus making a government shutdown likely in the coming days. McCarthy has had trouble with hard-right Republicans before during his tenure as Speaker. On top of this, one of the parties involved in a Georgia election interference case has recently pled guilty, while another long-time Senator, Dianne Feinstein, recently passed away at 90 years old. 
+
+In terms of music news, a man was just charged with Tupac Shakur&#39;s murder from 1996 which was a pivotal moment for rap music at the time and kicked off years of him becoming an almost mythical figure. Lastly, a lawyer is trying to hold gunmakers responsible for mass shootings through legal action hoping to put an alternative form of gun control in place.</p>
 <ol>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Adams Criticized Again for Response to Severe Weather as City Is Deluged</h3>
-<sub>By Emma G. Fitzsimmons, Dana Rubinstein and Jeffery C. Mays</sub>
-<p>Mayor Eric Adams did not publicly discuss the coming storm until nearly 24 hours after weather officials first warned of potential flash flooding in New York.  <a href="https://nyti.ms/3Fh98up"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Video: See Flooding in Some of the Hardest-Hit Areas of New York</h3>
+<sub>By Matthew Bloch, Keith Collins, Sarah Kerr, Zach Levitt, Rebecca Lieberman and Ainara Tiefenthäler</sub>
+<p>Heavy rainfall pounded New York City and the surrounding region Friday morning, flooding subway stations and major roadways.  <a href="https://nyti.ms/46x6dcC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
