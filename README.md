@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, September 30, Central Standard Time</p>
 <p>
-Currently, the news is dominated by the government shutdown in the US. Contingency plans are being put into effect which could be felt by the public soon. This all began due to a disagreement between Democrats and Republicans. Elsewhere, there have been heavy floods in New York City due to a storm that started out as unremarkable, though climate change is making more severe storms more common. In Texas, mums are becoming an important part of homecoming culture, while Harvard professor Francesca Gino was recently accused of falsifying data about stopping dishonesty. Also, in San Fransisco there is attention on an overlooked race massacre that happened in 1906. Ukraine and Russia have been in a war for sometime, and it has come down to a competition over air drones which involve Chinese electronics supply chains. Lastly, on the anniversary of an illegal annexation, Russia continues to claim its own territory in the Ukrainian region though little territory has changed hands.</p>
+Right now, things are pretty chaotic in the US and abroad. In the US, the government is on the brink of a shutdown due to disagreements between Republicans and Democrats. In Texas, homecoming season has brought out a competitive spirit, as families deck their homes with elaborate mums for their high school students&#39; football games. There is also an ongoing debate about data falsification by a Harvard professor. Meanwhile, California senator Dianne Feinstein is facing retirement after decades of service. In New York City, there have been some intense floods that have lumbered its transit systems - and climate change is making these storms more common. Ukraine is also facing cyber warfare with Russia over control of some territories. Finally, Soho has seen a fascinating evolution in its art galleries and life cycle.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Where Would a Government Shutdown Immediately Be Most Felt?</h3>
@@ -69,21 +69,9 @@ Currently, the news is dominated by the government shutdown in the US. Contingen
 <sub><sub>Friday, September 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Did the Government Get to a Shutdown, and What Will It Take to Reopen?</h3>
+<h3>How Did the Government Get Near a Shutdown?</h3>
 <sub>By Kayla Guo</sub>
 <p>Any deal to keep it open would have to be bipartisan, since the Senate and White House are controlled by Democrats, and the House by Republicans.  <a href="https://nyti.ms/45746ek"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>With Climate Change, Smaller Storms Are Growing More Fearsome, More Often</h3>
-<sub>By Hilary Howard</sub>
-<p>The Friday storm that produced vast flooding in New York City started out earlier in the week as an unremarkable — if unpredictable — weather system.  <a href="https://nyti.ms/3ZAmoDE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>After Intense Floods, New York City Lurches Back to Life</h3>
-<sub>By Erin Nolan and Hurubie Meko</sub>
-<p>The city’s transit systems had resumed service, with some delays, as the rain abated on Saturday. The governor warned that climate change was making severe storms more common.  <a href="https://nyti.ms/3ZAEMfo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
@@ -114,6 +102,18 @@ Currently, the news is dominated by the government shutdown in the US. Contingen
 <h3>In a ‘City Too Busy to Hate,’ New Attention to an Overlooked Race Massacre</h3>
 <sub>By Rick Rojas and Alyssa Pointer</sub>
 <p>Researchers say that mob violence against Black residents in 1906 played a role in Atlanta’s evolution, whether residents knew it or not.  <a href="https://nyti.ms/3PXIWLn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>After Intense Floods, New York City Lurches Back to Life</h3>
+<sub>By Erin Nolan and Hurubie Meko</sub>
+<p>The city’s transit systems had resumed service, with some delays, as the rain abated on Saturday. The governor warned that climate change was making severe storms more common.  <a href="https://nyti.ms/3ZAEMfo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>With Climate Change, Smaller Storms Are Growing More Fearsome, More Often</h3>
+<sub>By Hilary Howard</sub>
+<p>The Friday storm that produced vast flooding in New York City started out earlier in the week as an unremarkable — if unpredictable — weather system.  <a href="https://nyti.ms/3ZAmoDE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
