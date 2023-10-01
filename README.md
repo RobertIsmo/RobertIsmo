@@ -60,37 +60,59 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, October 1, Central Standard Time</p>
 <p>
-There are some big political events going on in the US right now. Congress just narrowly avoided a government shutdown thanks to a last-minute bill that got passed, with Speaker Kevin McCarthy pushing it through and President Biden signing it late Saturday. It was made possible due to Democratic votes, which came after Representative Jamaal Bowman pulled the fire alarm in an office building right before a rushed vote for the stopgap funding measure. This comes after Republicans have resisted on Ukraine aid.
+Recently, the US government almost shut down due to a dispute over funding between Democrats and Republicans. Meanwhile, a senator from New Jersey is facing legal problems after partnering with a friend who had a history of bad business deals.  On the other side of the world, Ukrainian snipers are on the front lines in an ongoing war that has been brewing for several years.
 
-Meanwhile, to the West in California, the death of Senator Feinstein has created a commotion over who will get her seat, and Governor Newsom has promised that he&#39;ll appoint a Black woman to fill it. That same concept of deaths leading to flips in party control happens in Congress all the time, updates have been made on that recently.
+In the US, a security guard is trying to help hold a broken city together with just a little &#39;dab of glue&#39;. Meanwhile, Arnold Schwarzenegger is promoting his new self-help book and encouraging people to use their power for good. Dianne Feinstein&#39;s death is leaving a lasting impact on female politicians as her legacy motivates more women into office. Lastly, a history lesson about how far-reaching congressional deaths can be is proving relevant again with an aging and divisive senate.
 
-Also international news: Ukraine is trying to make more and deadlier flying machines but this has been hindered by China controlling global electronics supply chains. Meanwhile, Texas is vying for attention with its muster decorations that rival football as their homecoming attraction! And back in New York City, they&#39;re just recovering from some intense flooding and the governor warning people of climate change. 
-
-Lastly, fact checkers are saying that it&#39;s not getting better as momentum towards organizations that aim to combat falsehoods is lagging out and there’s also been an overlooked massacre against black people in Atlanta from 1906 that played a notable role in their evolution. Also considering Benjamin Netanyahu&#39;s long reign as Prime Minister of Israel and his influence over major crises, his legacy is being evaluated right now too.</p>
+Not all news is bad though! In New Zealand, there&#39;s an interesting debate happening about how children should be educated about conservation and many feminine care brands are dropping euphemisms to talk about anatomy openly with millennials and Gen Zers.  Back in the US, they&#39;re calling it &#39;the weekender&#39; which includes weekend plans from Las Vegas to shows put on by Stephen Sondheim.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Congress Narrowly Averts Shutdown as House Democrats Help Pass Stopgap Bill</h3>
-<sub>By Carl Hulse and Catie Edmondson</sub>
-<p>In a stunning reversal, Speaker Kevin McCarthy pushed through a bill with Democratic votes to temporarily keep the government open. President Biden signed it late Saturday.  <a href="https://nyti.ms/3ZAEOEi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 30, Central Standard Time</sub></sub>
+<h3>Inside McCarthy’s Shutdown Turnabout That Left His Speakership at Risk</h3>
+<sub>By Annie Karni</sub>
+<p>The Republican speaker opted to keep the government open the only way he could — by partnering with Democrats — in a surprise reversal that left him as politically vulnerable as ever.  <a href="https://nyti.ms/3roD2JS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Rep. Jamaal Bowman Pulls Fire Alarm in House Office Building</h3>
-<sub>By Kayla Guo and Gaya Gupta</sub>
-<p>Mr. Bowman, a Democrat, pulled the alarm ahead of a rushed vote on a stopgap funding measure. Two investigations have been opened in the incident.  <a href="https://nyti.ms/48xhefF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 30, Central Standard Time</sub></sub>
+<h3>To Many Americans, Government Dysfunction Is the New Normal</h3>
+<sub>By Peter Baker</sub>
+<p>As the nation teetered on the brink of a shutdown, its citizens were largely focused on other things.  <a href="https://nyti.ms/3RA5X8m"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Menendez Co-Defendant’s Curious Path From Bad Deals to a Meat Monopoly</h3>
+<sub>By Nicole Hong, Tracey Tully and William K. Rashbaum</sub>
+<p>After emigrating to New Jersey from Egypt, Wael Hana faced a string of business and legal problems. Then his friend started dating a powerful U.S. senator.  <a href="https://nyti.ms/45ckudE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Four Seconds to Impact: On the Front Line With Ukraine’s Snipers</h3>
+<sub>By Thomas Gibbons-Neff, Natalia Yermak and David Guttenfelder</sub>
+<p>In a war built around artillery, tanks, drones and cruise missiles, the role of the sniper, unseen and lethal, occupies an often overlooked but essential part of the battlefield.  <a href="https://nyti.ms/3rxwkBg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A key driver of the impasse is right-wing Republicans’ resistance to Ukraine aid.</h3>
-<sub>By Robert Draper</sub>
-<p>  <a href="https://nyti.ms/46qu8Ko"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 30, Central Standard Time</sub></sub>
+<h3>He’s a Dab of Glue in a Broken City. Can He Hold It Together?</h3>
+<sub>By Eli Saslow and Erin Schaff</sub>
+<p>In America’s overwhelmed downtowns, private security guards like Michael Bock have become the solution of last resort.  <a href="https://nyti.ms/3PxAS2q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Why Can’t We Stop Unauthorized Immigration? Because It Works.</h3>
+<sub>By Marcela Valdes</sub>
+<p>Our broken immigration system is still the best option for many migrants — and U.S. employers.  <a href="https://nyti.ms/3RKth3d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Arnold Schwarzenegger Is Here to Pump You Up (Emotionally)</h3>
+<sub>By David Marchese</sub>
+<p>“The more powerful you are,” says the action icon, author of a new self-help book, “the more power you have in giving back.”  <a href="https://nyti.ms/3roD3xq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Feinstein’s Death Intensifies Fight for a Coveted California Senate Seat</h3>
-<sub>By Adam Nagourney and Shawn Hubler</sub>
-<p>Gov. Gavin Newsom has pledged to pick a Black woman to fill the seat, but has also said he would not choose any of the current Democrats running for Senate.  <a href="https://nyti.ms/46bSyaS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 29, Central Standard Time</sub></sub>
+<h3>Trailblazer, Role Model, Mentor: Feinstein’s Impact on Women in Office</h3>
+<sub>By Shawn Hubler</sub>
+<p>When Dianne Feinstein was elected in 1992, only two women were in the U.S. Senate. There were 25 on the day she died.  <a href="https://nyti.ms/45d1efN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-upshot-blue" alt="">
 <h3>A Brief History of Consequential Deaths in Congress</h3>
@@ -98,47 +120,23 @@ Lastly, fact checkers are saying that it&#39;s not getting better as momentum to
 <p>Lawmakers’ deaths have sometimes helped to flip partisan control. With an aging, narrowly divided Senate, it could be a possibility again.  <a href="https://nyti.ms/3RYglqP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Ukraine’s War of Drones Runs Into an Obstacle: China</h3>
-<sub>By Paul Mozur and Valerie Hopkins</sub>
-<p>As the war with Russia stretches on, so too does a contest to make more and deadlier flying machines. That means a fight over global electronics supply chains that run through China.  <a href="https://nyti.ms/3rAb7Xq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>In Texas, Mums Rival Football as the Big Homecoming Attraction</h3>
-<sub>By Rachel Sherman</sub>
-<p>The elaborate adornments have come a long way since the days of simple chrysanthemum corsages.  <a href="https://nyti.ms/3EYZk83"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 30, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Should Children Join the Killing in New Zealand’s War on Invasive Species?</h3>
+<sub>By Yan Zhuang and Tatsiana Chypsanava</sub>
+<p>A hunting contest has exposed tensions over which animals deserve protection, who gets to define humaneness and how children should be taught about conservation.  <a href="https://nyti.ms/3rxObrK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Harvard Professor and the Bloggers</h3>
-<sub>By Noam Scheiber</sub>
-<p>When Francesca Gino, a rising academic star, was accused of falsifying data — about how to stop dishonesty — it didn’t just torch her career. It inflamed a crisis in behavioral science.  <a href="https://nyti.ms/3tjnZ4q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 30, Central Standard Time</sub></sub>
+<h3>Gen Z Wants Feminine Care Brands to Just Say Vagina</h3>
+<sub>By Jordyn Holman</sub>
+<p>Brands selling feminine care products have dropped the euphemisms to sell to younger consumers. But are they still capitalizing on old stigmas?  <a href="https://nyti.ms/3RH9Zvv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In a ‘City Too Busy to Hate,’ New Attention to an Overlooked Race Massacre</h3>
-<sub>By Rick Rojas and Alyssa Pointer</sub>
-<p>Researchers say that mob violence against Black residents in 1906 played a role in Atlanta’s evolution, whether residents knew it or not.  <a href="https://nyti.ms/3PXIWLn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>After Intense Floods, New York City Lurches Back to Life</h3>
-<sub>By Erin Nolan and Hurubie Meko</sub>
-<p>The city’s transit systems had resumed service, with some delays, as the rain abated on Saturday. The governor warned that climate change was making severe storms more common.  <a href="https://nyti.ms/3ZAEMfo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Fact Checkers Take Stock of Their Efforts: ‘It’s Not Getting Better’</h3>
-<sub>By Tiffany Hsu and Stuart A. Thompson</sub>
-<p>The momentum behind organizations that aim to combat online falsehoods has started to taper off.  <a href="https://nyti.ms/48xlD22"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The Weekender</h3>
+<sub>By The New York Times</sub>
+<p>An interview with the “Golden Bachelor.” Also: Las Vegas is reinventing itself again and Stephen Sondheim’s final musical.  <a href="https://nyti.ms/3EVssx1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, September 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Benjamin Netanyahu’s Two Decades of Power, Bluster and Ego</h3>
-<sub>By Ruth Margalit</sub>
-<p>The nation’s current crisis can be traced back, in ways large and small, to the outsize personality of its longest-serving prime minister.  <a href="https://nyti.ms/3LCSBo4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
