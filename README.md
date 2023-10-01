@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, October 1, Central Standard Time</p>
 <p>
-There&#39;s been a lot going on in the US lately. There was almost another government shutdown, but Republican Speaker of the House figured out a way to click with Democrats so it didn&#39;t happen. But not everyone is happy with that— one Congressman has promised to try and oust him from his post. People do seem to be pretty used to government dysfunction though. Internationally, Ukraine is worried about the US still backing them in the war against Russia after a spending bill didn&#39;t include money for Ukraine. Slovakia just had an election that some are looking at as a bellwether for support of Ukraine, but people there were more focused on their pocketbooks. Russia&#39;s been giving out its own flags inWest Africa, of all places, and they&#39;ve been received pretty positively there. America&#39;s also got issues with private security guards becoming the solution of last resort in overwhelmed downtowns. And finally, in terms of business news, feminine care brands have dropped euphemisms to sell to younger consumers— but maybe it&#39;s not as progressive as it seems.</p>
+Right now, a lot is going on. In the US, politicians have been clashing over a government spending bill, with Republicans and Democrats taking different stances and some members of Congress even threatening to oust their own speaker. Meanwhile, Ukraine is trying to figure out what&#39;s going to happen in terms of US support after a bill was passed without providing aid money. And in Greece, authorities recently discovered the bodies of migrants who were apparently killed while fleeing from one country to another. On a much brighter note, Arnold Schwarzenegger has released a self-help book about harnessing one&#39;s power to help others.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Inside McCarthy’s Shutdown Turnabout That Left His Speakership at Risk</h3>
@@ -99,9 +99,9 @@ There&#39;s been a lot going on in the US lately. There was almost another gover
 <sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia-Leaning Populist Party Ekes Out Win in Slovakia Vote</h3>
+<h3>What Does a Russia-Leaning Party Win in an E.U. Nation Mean for Ukraine?</h3>
 <sub>By Andrew Higgins</sub>
-<p>In much of Europe, the election was seen as a bellwether of mainstream support for Ukraine in its war with Russia. But voters seemed most concerned with pocketbook issues.  <a href="https://nyti.ms/3tiZV1W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>In much of Europe, the election in Slovakia was seen as a bellwether of mainstream support for Ukraine in its war with Russia. But voters seemed most concerned with pocketbook issues.  <a href="https://nyti.ms/3tiZV1W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -128,10 +128,10 @@ There&#39;s been a lot going on in the US lately. There was almost another gover
 <p>“The more powerful you are,” says the action icon, author of a new self-help book, “the more power you have in giving back.”  <a href="https://nyti.ms/3roD3xq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Gen Z Wants Feminine Care Brands to Just Say Vagina</h3>
-<sub>By Jordyn Holman</sub>
-<p>Brands selling feminine care products have dropped the euphemisms to sell to younger consumers. But are they still capitalizing on old stigmas?  <a href="https://nyti.ms/3RH9Zvv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>They Ran for a Better Life, Straight Into a Wildfire</h3>
+<sub>By Matina Stevis-Gridneff</sub>
+<p>Greek authorities assumed the victims were asylum seekers because no one was looking for missing people locally. And for more than a month, their identities, and the circumstances of their deaths, remained a mystery.  <a href="https://nyti.ms/3EVY2L4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
