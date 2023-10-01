@@ -60,15 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, October 1, Central Standard Time</p>
 <p>
-Right now there is a lot going on in the US. Over the weekend, Congress passed a bill last minute to prevent a shutdown of the government with help from House Democrats. A congressman pulled an actual fire alarm in one of the office buildings before they voted, and two investigations have been opened as a result. In addition there is an ongoing fight over Ukraine aid from right-wing Republicans. 
+There are some big political events going on in the US right now. Congress just narrowly avoided a government shutdown thanks to a last-minute bill that got passed, with Speaker Kevin McCarthy pushing it through and President Biden signing it late Saturday. It was made possible due to Democratic votes, which came after Representative Jamaal Bowman pulled the fire alarm in an office building right before a rushed vote for the stopgap funding measure. This comes after Republicans have resisted on Ukraine aid.
 
-In California, Senator Feinstein&#39;s death recently occurred and this has sparked debates on filling her seat - Governor Newsom promising to choose a Black woman for the spot but none of the current Democrats running for Senate. 
+Meanwhile, to the West in California, the death of Senator Feinstein has created a commotion over who will get her seat, and Governor Newsom has promised that he&#39;ll appoint a Black woman to fill it. That same concept of deaths leading to flips in party control happens in Congress all the time, updates have been made on that recently.
 
-The war between Ukraine and Russia for more deadly flying machines is intensifying along with their competition to win global electronic supply chains. Texas has even joined in by putting on extravagant mums for homecoming events - a far cry from simple chrysanthemum corsages! 
+Also international news: Ukraine is trying to make more and deadlier flying machines but this has been hindered by China controlling global electronics supply chains. Meanwhile, Texas is vying for attention with its muster decorations that rival football as their homecoming attraction! And back in New York City, they&#39;re just recovering from some intense flooding and the governor warning people of climate change. 
 
-Meanwhile, researchers have uncovered that a race massacre in Atlanta against Black residents overlooked back in 1906 played a role in its evolution whether people knew it or not. New York City continues to recover from floods caused by climate change and those who tackle falsehoods online are realizing their efforts are slowing down. 
-
-To top it off, Benjamin Netanyahu of Israel just reached his 20th year of power and many trace current conflicts back to him. All this happening at once!</p>
+Lastly, fact checkers are saying that it&#39;s not getting better as momentum towards organizations that aim to combat falsehoods is lagging out and there’s also been an overlooked massacre against black people in Atlanta from 1906 that played a notable role in their evolution. Also considering Benjamin Netanyahu&#39;s long reign as Prime Minister of Israel and his influence over major crises, his legacy is being evaluated right now too.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Congress Narrowly Averts Shutdown as House Democrats Help Pass Stopgap Bill</h3>
