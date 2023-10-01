@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, October 1, Central Standard Time</p>
 <p>
-Right now, a lot is going on. In the US, politicians have been clashing over a government spending bill, with Republicans and Democrats taking different stances and some members of Congress even threatening to oust their own speaker. Meanwhile, Ukraine is trying to figure out what&#39;s going to happen in terms of US support after a bill was passed without providing aid money. And in Greece, authorities recently discovered the bodies of migrants who were apparently killed while fleeing from one country to another. On a much brighter note, Arnold Schwarzenegger has released a self-help book about harnessing one&#39;s power to help others.</p>
+Right now, there&#39;s a lot of political drama going on in the United States. The Republican speaker of the House of Representatives recently reached across the aisle to Democrats in order to pass a bill that avoided a government shutdown, which prompted one far-right congressman to threaten to try and remove him from his role. Elsewhere, Ukraine is currently expressing confidence that the US will still support them against Russia, even though Congress didn&#39;t include money for them in its stopgap funding bill. Other countries are also dealing with tense situations - like in Niger, where Russian flags have become a hot new trend. Closer to home here in the US, there&#39;s been a rise in private security guards to protect struggling downtowns and the Supreme Court is about to face a challenging docket when it re-opens.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Inside McCarthy’s Shutdown Turnabout That Left His Speakership at Risk</h3>
@@ -128,10 +128,10 @@ Right now, a lot is going on. In the US, politicians have been clashing over a g
 <p>“The more powerful you are,” says the action icon, author of a new self-help book, “the more power you have in giving back.”  <a href="https://nyti.ms/3roD3xq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>They Ran for a Better Life, Straight Into a Wildfire</h3>
-<sub>By Matina Stevis-Gridneff</sub>
-<p>Greek authorities assumed the victims were asylum seekers because no one was looking for missing people locally. And for more than a month, their identities, and the circumstances of their deaths, remained a mystery.  <a href="https://nyti.ms/3EVY2L4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Battered Supreme Court Returns to Confront a Challenging Docket</h3>
+<sub>By Adam Liptak and Abbie VanSickle</sub>
+<p>The justices will explore the scope of the Second Amendment, the fate of the administrative state and limits on free speech on the internet.  <a href="https://nyti.ms/3PBQeTB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
