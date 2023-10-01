@@ -60,11 +60,17 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, September 30, Central Standard Time</p>
 <p>
-It looks like there&#39;s a lot happening in the US right now. Rep. Jamaal Bowman recently pulled the fire alarm in a House office building ahead of a rushed vote on a stopgap funding measure, and two investigations have been opened. President Carter recently celebrated his 99th birthday, but people were feeling wary because of the government shutdown that almost happened on the same day. In San Francisco, the life of former Sen. Dianne Feinstein is being remembered as inseparable from the city&#39;s fortunes and tragedies over 9 decades. On a national level, looking back at deaths in Congress, there&#39;s potential again for influence from them due to the current narrow majority in the Senate. 
+There is a lot going on in the world right now. In the US, Congress member Jamaal Bowman recently pulled a fire alarm in a House office building ahead of a rushed vote on a stopgap funding measure, and two investigations have been opened in the incident. Also, former President Jimmy Carter&#39;s birthday celebration was postponed due to the potential government shutdown, but people still showed up to play games and eat cake despite it all. 
 
-There&#39;s also some international news bubbling up - Ukraine has become involved in a war with Russia where they&#39;re fighting to make deadlier drones, and Chinese electronics supply chains play into this. Texas has an interesting homecoming tradition surrounding mums (not Mick Jagger...flowers) which have become more elaborate over time.
+In California, Senator Dianne Feinstein&#39;s recent death has intensified the fight for her coveted Senate seat. Governor Gavin Newsom has pledged to pick a Black woman to fill the seat instead of choosing from any of the current Democrats running for it. In addition, there has been an interesting history of consequential deaths in Congress that could be important given that the Senate is aging and narrowly divided right now. 
 
-Harvard Professor Francesca Gino recently faced allegations of falsifying data which has had large ripple effects throughout the behavioral science world. Also in recent news, flooding has caused some trouble in NYC and subsequently lead to conversations about climate change; and Benjamin Netanyahu has been running things for two decades now with his big personality playing a major role in Israel&#39;s current crisis. The art world is also evolving rapidly: New York galleries come and go with Soho providing a great example of what happens when an area becomes &quot;the center of the art world&quot;.</p>
+Over in Ukraine, they are in the midst of a war with Russia and have been dealing with a contest over drones and global electronics supply chains running through China. Meanwhile, here in Texas, cheerleaders and football players aren&#39;t the only ones getting ready for homecoming as moms have been working hard to create elaborate mums for their kids. 
+
+Back in academia, Harvard professor Francesca Gino was recently accused of falsifying data about how to stop dishonesty, which caused quite a stir in behavioral science. 
+
+On the East Coast, New York City is lurching back to life after intense floods recently forced its transit systems to shut down. Plus, fact-checkers have noted that progress in fighting online falsehoods has plateaued and started to slow down. 
+
+Finally, Benjamin Netanyahu of Israel has held power as prime minister for two decades now; analysts are pointing out how his outsize personality has had both large and small impacts on the crisis his nation currently faces. And speaking of crises, many people are starting to notice how New York galleries moving into gentrifying neighborhoods such as Soho causes waves (in more ways than one) of economic changes that affect locals.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Rep. Jamaal Bowman Pulls Fire Alarm in House Office Building</h3>
@@ -79,10 +85,10 @@ Harvard Professor Francesca Gino recently faced allegations of falsifying data w
 <sub><sub>Saturday, September 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Feinstein, San Francisco Had an Endless Champion</h3>
-<sub>By Heather Knight</sub>
-<p>Dianne Feinstein’s life was inseparable from the fortunes and tragedies of the city over nine decades.  <a href="https://nyti.ms/48BzvIy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 30, Central Standard Time</sub></sub>
+<h3>Feinstein’s Death Intensifies Fight for a Coveted California Senate Seat</h3>
+<sub>By Adam Nagourney and Shawn Hubler</sub>
+<p>Gov. Gavin Newsom has pledged to pick a Black woman to fill the seat, but has also said he would not choose any of the current Democrats running for Senate.  <a href="https://nyti.ms/46bSyaS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-upshot-blue" alt="">
 <h3>A Brief History of Consequential Deaths in Congress</h3>
