@@ -60,18 +60,40 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, September 30, Central Standard Time</p>
 <p>
-Right now, things are pretty chaotic in the US and abroad. In the US, the government is on the brink of a shutdown due to disagreements between Republicans and Democrats. In Texas, homecoming season has brought out a competitive spirit, as families deck their homes with elaborate mums for their high school students&#39; football games. There is also an ongoing debate about data falsification by a Harvard professor. Meanwhile, California senator Dianne Feinstein is facing retirement after decades of service. In New York City, there have been some intense floods that have lumbered its transit systems - and climate change is making these storms more common. Ukraine is also facing cyber warfare with Russia over control of some territories. Finally, Soho has seen a fascinating evolution in its art galleries and life cycle.</p>
+It looks like there&#39;s a lot happening in the US right now. Rep. Jamaal Bowman recently pulled the fire alarm in a House office building ahead of a rushed vote on a stopgap funding measure, and two investigations have been opened. President Carter recently celebrated his 99th birthday, but people were feeling wary because of the government shutdown that almost happened on the same day. In San Francisco, the life of former Sen. Dianne Feinstein is being remembered as inseparable from the city&#39;s fortunes and tragedies over 9 decades. On a national level, looking back at deaths in Congress, there&#39;s potential again for influence from them due to the current narrow majority in the Senate. 
+
+There&#39;s also some international news bubbling up - Ukraine has become involved in a war with Russia where they&#39;re fighting to make deadlier drones, and Chinese electronics supply chains play into this. Texas has an interesting homecoming tradition surrounding mums (not Mick Jagger...flowers) which have become more elaborate over time.
+
+Harvard Professor Francesca Gino recently faced allegations of falsifying data which has had large ripple effects throughout the behavioral science world. Also in recent news, flooding has caused some trouble in NYC and subsequently lead to conversations about climate change; and Benjamin Netanyahu has been running things for two decades now with his big personality playing a major role in Israel&#39;s current crisis. The art world is also evolving rapidly: New York galleries come and go with Soho providing a great example of what happens when an area becomes &quot;the center of the art world&quot;.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Where Would a Government Shutdown Immediately Be Most Felt?</h3>
-<sub>By Zach Montague</sub>
-<p>As federal agencies prepare to enact their contingency plans for a shutdown, this is where the public could notice changes in the coming days.  <a href="https://nyti.ms/3LDDKK3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 29, Central Standard Time</sub></sub>
+<h3>Rep. Jamaal Bowman Pulls Fire Alarm in House Office Building</h3>
+<sub>By Kayla Guo and Gaya Gupta</sub>
+<p>Mr. Bowman, a Democrat, pulled the alarm ahead of a rushed vote on a stopgap funding measure. Two investigations have been opened in the incident.  <a href="https://nyti.ms/48xhefF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Did the Government Get Near a Shutdown?</h3>
-<sub>By Kayla Guo</sub>
-<p>Any deal to keep it open would have to be bipartisan, since the Senate and White House are controlled by Democrats, and the House by Republicans.  <a href="https://nyti.ms/45746ek"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>At Carter’s Birthday Party, Rescheduled in Case of Shutdown, a Wary Celebration</h3>
+<sub>By Colbi Edmonds and Alessandro Marazzi Sassoon</sub>
+<p>Anticipating its closure, the Carter library moved up celebrations for the former president, who is turning 99. As partygoers played games and ate cake, some called the deadlock in Congress “shameful.”  <a href="https://nyti.ms/3LHG02Y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Feinstein, San Francisco Had an Endless Champion</h3>
+<sub>By Heather Knight</sub>
+<p>Dianne Feinstein’s life was inseparable from the fortunes and tragedies of the city over nine decades.  <a href="https://nyti.ms/48BzvIy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>A Brief History of Consequential Deaths in Congress</h3>
+<sub>By Ian Prasad Philbrick</sub>
+<p>Lawmakers’ deaths have sometimes helped to flip partisan control. With an aging, narrowly divided Senate, it could be a possibility again.  <a href="https://nyti.ms/3RYglqP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Ukraine’s War of Drones Runs Into an Obstacle: China</h3>
+<sub>By Paul Mozur and Valerie Hopkins</sub>
+<p>As the war with Russia stretches on, so too does a contest to make more and deadlier flying machines. That means a fight over global electronics supply chains that run through China.  <a href="https://nyti.ms/3rAb7Xq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
@@ -87,18 +109,6 @@ Right now, things are pretty chaotic in the US and abroad. In the US, the govern
 <sub><sub>Saturday, September 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Feinstein, San Francisco Had an Endless Champion</h3>
-<sub>By Heather Knight</sub>
-<p>Dianne Feinstein’s life was inseparable from the fortunes and tragedies of the city over nine decades.  <a href="https://nyti.ms/48BzvIy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What Happens Next to Feinstein’s Seat?</h3>
-<sub>By Shawn Hubler</sub>
-<p>Under California state law, the governor has the authority to name a successor.  <a href="https://nyti.ms/46mArPu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In a ‘City Too Busy to Hate,’ New Attention to an Overlooked Race Massacre</h3>
 <sub>By Rick Rojas and Alyssa Pointer</sub>
 <p>Researchers say that mob violence against Black residents in 1906 played a role in Atlanta’s evolution, whether residents knew it or not.  <a href="https://nyti.ms/3PXIWLn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -110,23 +120,17 @@ Right now, things are pretty chaotic in the US and abroad. In the US, the govern
 <p>The city’s transit systems had resumed service, with some delays, as the rain abated on Saturday. The governor warned that climate change was making severe storms more common.  <a href="https://nyti.ms/3ZAEMfo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>With Climate Change, Smaller Storms Are Growing More Fearsome, More Often</h3>
-<sub>By Hilary Howard</sub>
-<p>The Friday storm that produced vast flooding in New York City started out earlier in the week as an unremarkable — if unpredictable — weather system.  <a href="https://nyti.ms/3ZAmoDE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 30, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Fact Checkers Take Stock of Their Efforts: ‘It’s Not Getting Better’</h3>
+<sub>By Tiffany Hsu and Stuart A. Thompson</sub>
+<p>The momentum behind organizations that aim to combat online falsehoods has started to taper off.  <a href="https://nyti.ms/48xlD22"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, September 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Ukraine’s War of Drones Runs Into an Obstacle: China</h3>
-<sub>By Paul Mozur and Valerie Hopkins</sub>
-<p>As the war with Russia stretches on, so too does a contest to make more and deadlier flying machines. That means a fight over global electronics supply chains that run through China.  <a href="https://nyti.ms/3rAb7Xq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>On Anniversary of Illegal Annexation, Russia Strikes Ukrainian Region It Claims as Its Own</h3>
-<sub>By Matthew Mpoke Bigg</sub>
-<p>As little territory changes hands on the battlefield, President Vladimir Putin of Russia and President Volodymyr Zelensky of Ukraine both signal that they are prepared to keep fighting.  <a href="https://nyti.ms/3t7z7RU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 30, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Benjamin Netanyahu’s Two Decades of Power, Bluster and Ego</h3>
+<sub>By Ruth Margalit</sub>
+<p>The nation’s current crisis can be traced back, in ways large and small, to the outsize personality of its longest-serving prime minister.  <a href="https://nyti.ms/3LCSBo4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-t-magazine-blue" alt="">
 <h3>The Life Cycle of New York Galleries</h3>
