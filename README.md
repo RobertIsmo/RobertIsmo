@@ -58,20 +58,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Saturday, September 30, Central Standard Time</p>
+<p>It is Sunday, October 1, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In the US, Congress member Jamaal Bowman recently pulled a fire alarm in a House office building ahead of a rushed vote on a stopgap funding measure, and two investigations have been opened in the incident. Also, former President Jimmy Carter&#39;s birthday celebration was postponed due to the potential government shutdown, but people still showed up to play games and eat cake despite it all. 
+Right now there is a lot going on in the US. Over the weekend, Congress passed a bill last minute to prevent a shutdown of the government with help from House Democrats. A congressman pulled an actual fire alarm in one of the office buildings before they voted, and two investigations have been opened as a result. In addition there is an ongoing fight over Ukraine aid from right-wing Republicans. 
 
-In California, Senator Dianne Feinstein&#39;s recent death has intensified the fight for her coveted Senate seat. Governor Gavin Newsom has pledged to pick a Black woman to fill the seat instead of choosing from any of the current Democrats running for it. In addition, there has been an interesting history of consequential deaths in Congress that could be important given that the Senate is aging and narrowly divided right now. 
+In California, Senator Feinstein&#39;s death recently occurred and this has sparked debates on filling her seat - Governor Newsom promising to choose a Black woman for the spot but none of the current Democrats running for Senate. 
 
-Over in Ukraine, they are in the midst of a war with Russia and have been dealing with a contest over drones and global electronics supply chains running through China. Meanwhile, here in Texas, cheerleaders and football players aren&#39;t the only ones getting ready for homecoming as moms have been working hard to create elaborate mums for their kids. 
+The war between Ukraine and Russia for more deadly flying machines is intensifying along with their competition to win global electronic supply chains. Texas has even joined in by putting on extravagant mums for homecoming events - a far cry from simple chrysanthemum corsages! 
 
-Back in academia, Harvard professor Francesca Gino was recently accused of falsifying data about how to stop dishonesty, which caused quite a stir in behavioral science. 
+Meanwhile, researchers have uncovered that a race massacre in Atlanta against Black residents overlooked back in 1906 played a role in its evolution whether people knew it or not. New York City continues to recover from floods caused by climate change and those who tackle falsehoods online are realizing their efforts are slowing down. 
 
-On the East Coast, New York City is lurching back to life after intense floods recently forced its transit systems to shut down. Plus, fact-checkers have noted that progress in fighting online falsehoods has plateaued and started to slow down. 
-
-Finally, Benjamin Netanyahu of Israel has held power as prime minister for two decades now; analysts are pointing out how his outsize personality has had both large and small impacts on the crisis his nation currently faces. And speaking of crises, many people are starting to notice how New York galleries moving into gentrifying neighborhoods such as Soho causes waves (in more ways than one) of economic changes that affect locals.</p>
+To top it off, Benjamin Netanyahu of Israel just reached his 20th year of power and many trace current conflicts back to him. All this happening at once!</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Congress Narrowly Averts Shutdown as House Democrats Help Pass Stopgap Bill</h3>
+<sub>By Carl Hulse and Catie Edmondson</sub>
+<p>In a stunning reversal, Speaker Kevin McCarthy pushed through a bill with Democratic votes to temporarily keep the government open. President Biden signed it late Saturday.  <a href="https://nyti.ms/3ZAEOEi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 30, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Rep. Jamaal Bowman Pulls Fire Alarm in House Office Building</h3>
 <sub>By Kayla Guo and Gaya Gupta</sub>
@@ -79,9 +83,9 @@ Finally, Benjamin Netanyahu of Israel has held power as prime minister for two d
 <sub><sub>Saturday, September 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>At Carter’s Birthday Party, Rescheduled in Case of Shutdown, a Wary Celebration</h3>
-<sub>By Colbi Edmonds and Alessandro Marazzi Sassoon</sub>
-<p>Anticipating its closure, the Carter library moved up celebrations for the former president, who is turning 99. As partygoers played games and ate cake, some called the deadlock in Congress “shameful.”  <a href="https://nyti.ms/3LHG02Y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>A key driver of the impasse is right-wing Republicans’ resistance to Ukraine aid.</h3>
+<sub>By Robert Draper</sub>
+<p>  <a href="https://nyti.ms/46qu8Ko"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -137,12 +141,6 @@ Finally, Benjamin Netanyahu of Israel has held power as prime minister for two d
 <sub>By Ruth Margalit</sub>
 <p>The nation’s current crisis can be traced back, in ways large and small, to the outsize personality of its longest-serving prime minister.  <a href="https://nyti.ms/3LCSBo4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, September 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-t-magazine-blue" alt="">
-<h3>The Life Cycle of New York Galleries</h3>
-<sub>By M.H. Miller</sub>
-<p>What does being the center of the art world do to a neighborhood? Just look at Soho.  <a href="https://nyti.ms/45c7uEy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
