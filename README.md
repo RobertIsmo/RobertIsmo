@@ -60,11 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, October 1, Central Standard Time</p>
 <p>
-Recently, the US government almost shut down due to a dispute over funding between Democrats and Republicans. Meanwhile, a senator from New Jersey is facing legal problems after partnering with a friend who had a history of bad business deals.  On the other side of the world, Ukrainian snipers are on the front lines in an ongoing war that has been brewing for several years.
-
-In the US, a security guard is trying to help hold a broken city together with just a little &#39;dab of glue&#39;. Meanwhile, Arnold Schwarzenegger is promoting his new self-help book and encouraging people to use their power for good. Dianne Feinstein&#39;s death is leaving a lasting impact on female politicians as her legacy motivates more women into office. Lastly, a history lesson about how far-reaching congressional deaths can be is proving relevant again with an aging and divisive senate.
-
-Not all news is bad though! In New Zealand, there&#39;s an interesting debate happening about how children should be educated about conservation and many feminine care brands are dropping euphemisms to talk about anatomy openly with millennials and Gen Zers.  Back in the US, they&#39;re calling it &#39;the weekender&#39; which includes weekend plans from Las Vegas to shows put on by Stephen Sondheim.</p>
+There&#39;s been a lot going on in the US lately. There was almost another government shutdown, but Republican Speaker of the House figured out a way to click with Democrats so it didn&#39;t happen. But not everyone is happy with that— one Congressman has promised to try and oust him from his post. People do seem to be pretty used to government dysfunction though. Internationally, Ukraine is worried about the US still backing them in the war against Russia after a spending bill didn&#39;t include money for Ukraine. Slovakia just had an election that some are looking at as a bellwether for support of Ukraine, but people there were more focused on their pocketbooks. Russia&#39;s been giving out its own flags inWest Africa, of all places, and they&#39;ve been received pretty positively there. America&#39;s also got issues with private security guards becoming the solution of last resort in overwhelmed downtowns. And finally, in terms of business news, feminine care brands have dropped euphemisms to sell to younger consumers— but maybe it&#39;s not as progressive as it seems.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Inside McCarthy’s Shutdown Turnabout That Left His Speakership at Risk</h3>
@@ -73,9 +69,21 @@ Not all news is bad though! In New Zealand, there&#39;s an interesting debate ha
 <sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Gaetz Says He Will Move to Oust McCarthy for Working With Democrats</h3>
+<sub>By Karoun Demirjian</sub>
+<p>A day after the Republican speaker turned to Democrats for help passing a stopgap spending bill to avert a shutdown, the far-right congressman promised to try to remove him from his post.  <a href="https://nyti.ms/46tS67G"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>To Many Americans, Government Dysfunction Is the New Normal</h3>
 <sub>By Peter Baker</sub>
 <p>As the nation teetered on the brink of a shutdown, its citizens were largely focused on other things.  <a href="https://nyti.ms/3RA5X8m"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukraine Downplays Uncertainty Over U.S. Support After Funding Bill Passes With No Aid</h3>
+<sub>By Matthew Mpoke Bigg</sub>
+<p>Kyiv expressed confidence that the U.S. would continue to support its war against Russia, even after Congress passed a stopgap funding bill that did not include money for Ukraine.  <a href="https://nyti.ms/48yb92B"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -88,6 +96,18 @@ Not all news is bad though! In New Zealand, there&#39;s an interesting debate ha
 <h3>Four Seconds to Impact: On the Front Line With Ukraine’s Snipers</h3>
 <sub>By Thomas Gibbons-Neff, Natalia Yermak and David Guttenfelder</sub>
 <p>In a war built around artillery, tanks, drones and cruise missiles, the role of the sniper, unseen and lethal, occupies an often overlooked but essential part of the battlefield.  <a href="https://nyti.ms/3rxwkBg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russia-Leaning Populist Party Ekes Out Win in Slovakia Vote</h3>
+<sub>By Andrew Higgins</sub>
+<p>In much of Europe, the election was seen as a bellwether of mainstream support for Ukraine in its war with Russia. But voters seemed most concerned with pocketbook issues.  <a href="https://nyti.ms/3tiZV1W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The Hottest New Accessory in Niger? A Russian Flag.</h3>
+<sub>By Elian Peltier</sub>
+<p>Russia has quietly been distributing its own flags throughout West Africa, where they are now considered “so cool.”  <a href="https://nyti.ms/3rqiJvz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -108,35 +128,11 @@ Not all news is bad though! In New Zealand, there&#39;s an interesting debate ha
 <p>“The more powerful you are,” says the action icon, author of a new self-help book, “the more power you have in giving back.”  <a href="https://nyti.ms/3roD3xq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trailblazer, Role Model, Mentor: Feinstein’s Impact on Women in Office</h3>
-<sub>By Shawn Hubler</sub>
-<p>When Dianne Feinstein was elected in 1992, only two women were in the U.S. Senate. There were 25 on the day she died.  <a href="https://nyti.ms/45d1efN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>A Brief History of Consequential Deaths in Congress</h3>
-<sub>By Ian Prasad Philbrick</sub>
-<p>Lawmakers’ deaths have sometimes helped to flip partisan control. With an aging, narrowly divided Senate, it could be a possibility again.  <a href="https://nyti.ms/3RYglqP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Should Children Join the Killing in New Zealand’s War on Invasive Species?</h3>
-<sub>By Yan Zhuang and Tatsiana Chypsanava</sub>
-<p>A hunting contest has exposed tensions over which animals deserve protection, who gets to define humaneness and how children should be taught about conservation.  <a href="https://nyti.ms/3rxObrK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Gen Z Wants Feminine Care Brands to Just Say Vagina</h3>
 <sub>By Jordyn Holman</sub>
 <p>Brands selling feminine care products have dropped the euphemisms to sell to younger consumers. But are they still capitalizing on old stigmas?  <a href="https://nyti.ms/3RH9Zvv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The Weekender</h3>
-<sub>By The New York Times</sub>
-<p>An interview with the “Golden Bachelor.” Also: Las Vegas is reinventing itself again and Stephen Sondheim’s final musical.  <a href="https://nyti.ms/3EVssx1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, September 29, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
