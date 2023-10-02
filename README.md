@@ -60,8 +60,26 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, October 1, Central Standard Time</p>
 <p>
-Currently, there are a lot of different things going on internationally. In the United States, there is a power struggle between the Republican speaker of the House and Congressman Gaetz, where Gaetz is trying to oust the speaker for working with Democrats. In Europe, people are watching the Ukraine-Russia war and a recent election in Slovakia to see what implications it will have for Ukraine. There&#39;s also been some devastating wildfires in Greece that have taken many lives. Obituaries have recently reported the death of pitcher Tim Wakefield, who helped the Boston Red Sox break their &quot;curse&quot; with his 2003 performance and 2004 World Series victory. Finally, Wall Street&#39;s most hated regulator Rohit Chopra is facing legal challenges as bankers call him reckless and a &quot;regulator gone rogue&quot;.</p>
+There is some unease in the West over Slovakia&#39;s potential to join countries that sympathize with Putin. In Ukraine, snipers remain on the frontlines in a war built around artillery, tanks, drones and other hardware.  The Supreme Court has returned to a challenging docket with Second Amendment, administrative state and other controversial topics on its agenda. Meanwhile, in America we have had some political unrest as McCarthy faces a threatened ousting from his Speakership post, after making a surprising turnabout on a stopgap spending bill. Governor Newsom is also set to appoint someone to fill the recently vacated seat of Dianne Feinstein. Homelessness continues to be an issue, too, as private security guards like Michael Bock become the de facto solution. Migration continues to be at the forefront of debate as well, with some arguing that our current broken system is still better than nothing for would-be migrants and U.S. employers. Lastly, there was a tragic story out of Greece recently where people died in a wildfire while running for a better life and their identities were unknown for some time before their deaths were investigated. On a happier note, former Red Sox pitcher Tim Wakefield recently passed away but his legacy will live on through helping Boston break their &quot;curse&quot; in 2004 by winning the World Series.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Unease in the West as Slovakia Appears Set to Join the Putin Sympathizers</h3>
+<sub>By Roger Cohen</sub>
+<p>The front-runner in the parliamentary vote has pledged “not to send a single cartridge” to neighboring Ukraine, a sign of the flagging European support for a victim of Russian aggression.  <a href="https://nyti.ms/3PZ7Udj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Four Seconds to Impact: On the Front Line With Ukraine’s Snipers</h3>
+<sub>By Thomas Gibbons-Neff, Natalia Yermak and David Guttenfelder</sub>
+<p>In a war built around artillery, tanks, drones and cruise missiles, the role of the sniper, unseen and lethal, occupies an often overlooked but essential part of the battlefield.  <a href="https://nyti.ms/3rxwkBg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Battered Supreme Court Returns to Confront a Challenging Docket</h3>
+<sub>By Adam Liptak and Abbie VanSickle</sub>
+<p>The justices will explore the scope of the Second Amendment, the fate of the administrative state and limits on free speech on the internet.  <a href="https://nyti.ms/3PBQeTB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>McCarthy Faces Test as Gaetz Moves to Oust Him for Working With Democrats</h3>
 <sub>By Karoun Demirjian</sub>
@@ -75,22 +93,10 @@ Currently, there are a lot of different things going on internationally. In the 
 <sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Battered Supreme Court Returns to Confront a Challenging Docket</h3>
-<sub>By Adam Liptak and Abbie VanSickle</sub>
-<p>The justices will explore the scope of the Second Amendment, the fate of the administrative state and limits on free speech on the internet.  <a href="https://nyti.ms/3PBQeTB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Newsom to Name Emily’s List President as Feinstein Successor</h3>
+<sub>By Shawn Hubler</sub>
+<p>Gov. Gavin Newsom will name Laphonza Butler to fill the vacancy left by the death of Dianne Feinstein.  <a href="https://nyti.ms/3th4lq1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Four Seconds to Impact: On the Front Line With Ukraine’s Snipers</h3>
-<sub>By Thomas Gibbons-Neff, Natalia Yermak and David Guttenfelder</sub>
-<p>In a war built around artillery, tanks, drones and cruise missiles, the role of the sniper, unseen and lethal, occupies an often overlooked but essential part of the battlefield.  <a href="https://nyti.ms/3rxwkBg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>What Does a Russia-Leaning Party Win in an E.U. Nation Mean for Ukraine?</h3>
-<sub>By Andrew Higgins</sub>
-<p>In much of Europe, the election in Slovakia was seen as a bellwether of mainstream support for Ukraine in its war with Russia. But voters seemed most concerned with pocketbook issues.  <a href="https://nyti.ms/3tiZV1W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>He’s a Dab of Glue in a Broken City. Can He Hold It Together?</h3>
@@ -126,12 +132,6 @@ Currently, there are a lot of different things going on internationally. In the 
 <h3>Tim Wakefield, Pitcher Who Helped Boston Break the Curse, Dies at 57</h3>
 <sub>By Richard Sandomir</sub>
 <p>After surrendering a homer that ended the Red Sox run in 2003, he played a critical role in the team’s World Series victory a year later.  <a href="https://nyti.ms/46dXmfR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Wall Street’s Most Hated Regulator Faces a Fundamental Threat</h3>
-<sub>By Stacy Cowley</sub>
-<p>Rohit Chopra, who leads the Consumer Financial Protection Bureau, says he is simply enforcing the law. Bankers call him reckless — a “regulator gone rogue.”  <a href="https://nyti.ms/3RKtcMX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
