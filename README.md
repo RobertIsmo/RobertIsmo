@@ -59,14 +59,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
 <p>It is Monday, October 2, Central Standard Time</p>
-<p>
-It looks like a lot is going on in the world right now! Former President Trump&#39;s fraud trial has started, and he&#39;s trying to turn it around to rally up support. In American politics, Speaker Kevin McCarthy&#39;s speakership in the House of Representatives is under threat due to a follower making threats to remove him, while in Russia US officials say Putin may be targeting US policies which could have to do with Ukraine. There are also reports that Russia might be planning to test a nuclear-powered missile. On a more positive note, the Nobel Prize was awarded recently to Covid vaccine pioneers and unfortunately the &quot;Mother of the Atomic Bomb&quot; never won one due to her identity. In other news, California Governor Newsom named Laphonza Butler as Dianne Feinstein&#39;s successor for Senate and NASA announced a plan for people to possibly live on the moon by 2040. Additionally, crypto mogul Sam Bankman-Fried is having his court hearing and New York City is facing billions of dollars in financial pressures which could worsen inequality in their school system. Finally, Pope Francis has opened up discussion topics debating married priests and the blessings of gay couples at this week&#39;s Vatican Assembly.</p>
+<p>There is a lot of political turmoil in the US right now. A bid to remove House Speaker Kevin McCarthy from his post is putting his leadership to the test, and President Trump&#39;s fraud trial recently started with lawyers for New York&#39;s Attorney General Letitia James painting him as a fraudster. Meanwhile, Secretary of State Antony J. Blinken has been showing off his guitar chops in a viral video. Russia may be planning to test a nuclear-powered missile in the Arctic and NASA is plotting how to build houses on the moon by 2040. Plus, eviction is increasingly becoming an issue, especially among Black families with young children.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>As His Fraud Trial Begins, Trump Looks to Capitalize on It</h3>
-<sub>By Shane Goldmacher and Maggie Haberman</sub>
-<p>The former president is making the case to his supporters that he is being wrongfully targeted. And it might bring him more support.  <a href="https://nyti.ms/3ZGDK1O"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
+<h3>Democrats Weigh Whether to Rescue McCarthy From G.O.P. Ouster Bid</h3>
+<sub>By Carl Hulse and Luke Broadwater</sub>
+<p>Party officials said that without promises to address their policy priorities, the speaker should not count on Democratic votes to save him.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>McCarthy’s Speakership Is in Jeopardy as Gaetz Renews Threat to Oust Him</h3>
@@ -74,10 +73,34 @@ It looks like a lot is going on in the world right now! Former President Trump&#
 <p>Speaker Kevin McCarthy faces a major test of his leadership in the days ahead, after one of his loudest Republican critics in the House reiterated a promise to try to remove him from his post.  <a href="https://nyti.ms/3PYLDfD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 2, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Trump’s Fraud Trial Starts With Attacks on Attorney General and Judge</h3>
+<sub>By Ben Protess, Jonah E. Bromwich and Kate Christobek</sub>
+<p>Donald J. Trump appeared in court as lawyers for New York’s attorney general, Letitia James, painted him as a fraudster. His lawyers said she was out to get the former president.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 2, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Microsoft C.E.O. Testifies That Google’s Power in Search Is Ubiquitous</h3>
 <sub>By David McCabe and Cecilia Kang</sub>
 <p>Satya Nadella, the chief executive of Microsoft, is the government’s biggest-name witness in its landmark antitrust case against Google.  <a href="https://nyti.ms/3LLhrCl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>U.N. Approves Kenya Mission to Haiti</h3>
+<sub>By Frances Robles and Farnaz Fassihi</sub>
+<p>Kenyan security forces are expected to head to Haiti for a year to combat gang violence that has killed thousands.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>When Mr. Secretary Loves to Rock</h3>
+<sub>By Michael Crowley</sub>
+<p>A viral video of Secretary of State Antony J. Blinken introduced Americans to the guitar geek hidden within.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>What to Know About Laphonza Butler, Newsom’s Appointee to the Senate</h3>
+<sub>By Anna Betts</sub>
+<p>Ms. Butler, 44, was chosen on Sunday to fill the vacancy created by the death of Senator Dianne Feinstein.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -92,22 +115,10 @@ It looks like a lot is going on in the world right now! Former President Trump&#
 <p>Visual evidence from a remote base in the Arctic shows launch preparations mirroring those that preceded earlier tests.  <a href="https://nyti.ms/3PZ6mjp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Nobel Prize Awarded to Covid Vaccine Pioneers</h3>
-<sub>By Benjamin Mueller and Gina Kolata</sub>
-<p>The physiology or medicine prize for Katalin Karikó and Drew Weissman recognized work that led to the development of vaccines that were administered to billions around the world.  <a href="https://nyti.ms/46bGGG4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 2, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
 <h3>Why the ‘Mother of the Atomic Bomb’ Never Won a Nobel Prize</h3>
 <sub>By Katrina Miller</sub>
 <p>Lise Meitner developed the theory of nuclear fission, the process that enabled the atomic bomb. But her identity — Jewish and a woman — barred her from sharing credit for the discovery, newly translated letters show.  <a href="https://nyti.ms/46hS5nF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Newsom Names Emily’s List President as Feinstein Successor</h3>
-<sub>By Shawn Hubler</sub>
-<p>Laphonza Butler will fill the Senate vacancy left by the death of Dianne Feinstein, the governor announced Sunday.  <a href="https://nyti.ms/3th4lq1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-realestate-blue" alt="">
@@ -116,22 +127,10 @@ It looks like a lot is going on in the world right now! Former President Trump&#
 <p>Through partnerships and 3-D printing, NASA is plotting how to build houses on the moon by 2040.  <a href="https://nyti.ms/3roygMs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Crypto Goes on Trial, as Sam Bankman-Fried Faces His Reckoning</h3>
-<sub>By David Yaffe-Bellany and Matthew Goldstein</sub>
-<p>The FTX founder’s uphill court battle starts Tuesday, after he has come to symbolize everything that went wrong with the cryptocurrency industry.  <a href="https://nyti.ms/3ZC9mVY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>New York Schools Weathered a Crisis. Now They Face a Fiscal Cliff.</h3>
-<sub>By Troy Closson</sub>
-<p>The city faces billions in financial pressures in the coming years that threaten to worsen inequality across the nation’s largest school system.  <a href="https://nyti.ms/3ZCyyM8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Vatican Assembly Puts the Church’s Most Sensitive Issues on the Table</h3>
-<sub>By Jason Horowitz</sub>
-<p>Pope Francis’ calls for open-minded discussion will be tested this week as bishops meet with lay people, including women, to debate topics such as married priests and the blessing of gay couples.  <a href="https://nyti.ms/3rDbvnV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>The Americans Most Threatened by Eviction: Young Children</h3>
+<sub>By Emily Badger, Claire Cain Miller and Alicia Parlapiano</sub>
+<p>About a quarter of Black babies and toddlers in rental households face the threat of eviction in a typical year, a new study says, and all children are disproportionately at risk.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 2, Central Standard Time</sub></sub>
 <hr/>
 </ol>
