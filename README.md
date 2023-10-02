@@ -60,18 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, October 2, Central Standard Time</p>
 <p>
-In the world right now, Donald Trump&#39;s trial is set to begin Monday, and it could have huge implications for his future as a businessman. In Iowa, he has been sending supporters to a campaign event to try and increase his presence in the upcoming January caucuses. In Russia, they are believed to be preparing a test of a nuclear-powered missile. Slovakia is about to join a group of Putin sympathizers, which some European countries view uneasily. Katalin Karikó and Drew Weissman were awarded the Nobel Prize in Physiology or Medicine for their work leading up to the development of Covid vaccines that have been administered around the world. Kevin McCarthy&#39;s speakership in the US House is on shaky ground after one of his Republican critics pledged to try to remove him from his post. In California, Governor Newsom announced Laphonza Butler as Dianne Feinstein&#39;s successor in the Senate. NASA is planning how they could build houses on the moon by 2040 through 3-D printing and partnerships. And finally, crypto entrepreneur Sam Bankman-Fried goes on trial this Tuesday with his court case symbolizing some of what went wrong with the cryptocurrency industry.</p>
+Right now, a lot of political and cultural issues are being addressed. In the US, Donald Trump&#39;s fraud trial is underway and he&#39;s trying to gain more public support; the Iowa caucuses are coming up and he&#39;s doing events to try and boost his own candidacy. In the world of healthcare, two Covid vaccine pioneers have been awarded the Nobel Prize for their work developing vaccines that were administered to billions around the world. In addition, NASA is looking at creating potential housing on the moon by 2040. On a more controversial note, there&#39;s a trial occurring in the crypto industry and the FTX founder Sam Bankman-Fried is facing a reckoning over his actions. Lastly, the Vatican is gathering bishops along with lay people and women to discuss topics such as married priests and gay couples’ blessings.</p>
 <ol>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Trump’s Trial Starts Monday. It Will Spotlight What He’s Really Worth.</h3>
-<sub>By Jonah E. Bromwich, Ben Protess and William K. Rashbaum</sub>
-<p>The judge in the civil case has already decided Donald J. Trump inflated his financial statements. Now, he will make rulings that will affect Mr. Trump’s future as a businessman.  <a href="https://nyti.ms/45k0rtv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 2, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>As His Fraud Trial Begins, Trump Looks to Capitalize on It</h3>
 <sub>By Shane Goldmacher and Maggie Haberman</sub>
-<p>The former president is making the case to his supporters that he is being wrongfully prosecuted. And it might bring him more support.  <a href="https://nyti.ms/3ZGDK1O"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The former president is making the case to his supporters that he is being wrongfully targeted. And it might bring him more support.  <a href="https://nyti.ms/3ZGDK1O"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -86,15 +80,9 @@ In the world right now, Donald Trump&#39;s trial is set to begin Monday, and it 
 <p>Visual evidence from a remote base in the Arctic shows launch preparations mirroring those that preceded earlier tests.  <a href="https://nyti.ms/3PZ6mjp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Unease in the West as Slovakia Appears Set to Join the Putin Sympathizers</h3>
-<sub>By Roger Cohen</sub>
-<p>The front-runner in the parliamentary vote has pledged “not to send a single cartridge” to neighboring Ukraine, a sign of the flagging European support for a victim of Russian aggression.  <a href="https://nyti.ms/3PZ7Udj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>Nobel Prize Awarded to Covid Vaccine Pioneers</h3>
-<sub>By Benjamin Mueller</sub>
+<sub>By Benjamin Mueller and Gina Kolata</sub>
 <p>The physiology or medicine prize for Katalin Karikó and Drew Weissman recognized work that led to the development of vaccines that were administered to billions around the world.  <a href="https://nyti.ms/46bGGG4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 2, Central Standard Time</sub></sub>
 <hr/>
@@ -105,7 +93,7 @@ In the world right now, Donald Trump&#39;s trial is set to begin Monday, and it 
 <sub><sub>Saturday, January 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Kati Kariko Helped Shield the World From the Coronavirus</h3>
+<h3>Long Overlooked, Kati Kariko Helped Shield the World From the Coronavirus</h3>
 <sub>By Gina Kolata</sub>
 <p>Collaborating with devoted colleagues, Dr. Kariko laid the groundwork for the mRNA vaccines turning the tide of the pandemic.  <a href="https://nyti.ms/2PDO23b"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 8, Central Standard Time</sub></sub>
@@ -132,6 +120,18 @@ In the world right now, Donald Trump&#39;s trial is set to begin Monday, and it 
 <h3>Crypto Goes on Trial, as Sam Bankman-Fried Faces His Reckoning</h3>
 <sub>By David Yaffe-Bellany and Matthew Goldstein</sub>
 <p>The FTX founder’s uphill court battle starts Tuesday, after he has come to symbolize everything that went wrong with the cryptocurrency industry.  <a href="https://nyti.ms/3ZC9mVY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Who’s Rooting Hardest for a Sam Bankman-Fried Conviction? The Crypto Industry.</h3>
+<sub>By Erin Griffith</sub>
+<p>Crypto insiders, who have been trying to distance themselves from the FTX founder, are united in their zeal to see Mr. Bankman-Fried held to account.  <a href="https://nyti.ms/3ZKMhRi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Vatican Assembly Puts the Church’s Most Sensitive Issues on the Table</h3>
+<sub>By Jason Horowitz</sub>
+<p>Pope Francis’ calls for open-minded discussion will be tested this week as bishops meet with lay people, including women, to debate topics such as married priests and the blessing of gay couples.  <a href="https://nyti.ms/3rDbvnV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 2, Central Standard Time</sub></sub>
 <hr/>
 </ol>
