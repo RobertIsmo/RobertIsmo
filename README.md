@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, October 2, Central Standard Time</p>
 <p>
-Right now, a lot of political and cultural issues are being addressed. In the US, Donald Trump&#39;s fraud trial is underway and he&#39;s trying to gain more public support; the Iowa caucuses are coming up and he&#39;s doing events to try and boost his own candidacy. In the world of healthcare, two Covid vaccine pioneers have been awarded the Nobel Prize for their work developing vaccines that were administered to billions around the world. In addition, NASA is looking at creating potential housing on the moon by 2040. On a more controversial note, there&#39;s a trial occurring in the crypto industry and the FTX founder Sam Bankman-Fried is facing a reckoning over his actions. Lastly, the Vatican is gathering bishops along with lay people and women to discuss topics such as married priests and gay couples’ blessings.</p>
+It looks like a lot is going on in the world right now! Former President Trump&#39;s fraud trial has started, and he&#39;s trying to turn it around to rally up support. In American politics, Speaker Kevin McCarthy&#39;s speakership in the House of Representatives is under threat due to a follower making threats to remove him, while in Russia US officials say Putin may be targeting US policies which could have to do with Ukraine. There are also reports that Russia might be planning to test a nuclear-powered missile. On a more positive note, the Nobel Prize was awarded recently to Covid vaccine pioneers and unfortunately the &quot;Mother of the Atomic Bomb&quot; never won one due to her identity. In other news, California Governor Newsom named Laphonza Butler as Dianne Feinstein&#39;s successor for Senate and NASA announced a plan for people to possibly live on the moon by 2040. Additionally, crypto mogul Sam Bankman-Fried is having his court hearing and New York City is facing billions of dollars in financial pressures which could worsen inequality in their school system. Finally, Pope Francis has opened up discussion topics debating married priests and the blessings of gay couples at this week&#39;s Vatican Assembly.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>As His Fraud Trial Begins, Trump Looks to Capitalize on It</h3>
@@ -69,10 +69,22 @@ Right now, a lot of political and cultural issues are being addressed. In the US
 <sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>On a Warm Day in Iowa, Trump Heats Up His Push for Caucus Support</h3>
-<sub>By Michael Gold</sub>
-<p>A Trump campaign event on Sunday was part of an effort by the former president to increase his presence in Iowa and to shut out his rivals in January’s caucuses.  <a href="https://nyti.ms/45mbIKc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
+<h3>McCarthy’s Speakership Is in Jeopardy as Gaetz Renews Threat to Oust Him</h3>
+<sub>By Catie Edmondson and Karoun Demirjian</sub>
+<p>Speaker Kevin McCarthy faces a major test of his leadership in the days ahead, after one of his loudest Republican critics in the House reiterated a promise to try to remove him from his post.  <a href="https://nyti.ms/3PYLDfD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Microsoft C.E.O. Testifies That Google’s Power in Search Is Ubiquitous</h3>
+<sub>By David McCabe and Cecilia Kang</sub>
+<p>Satya Nadella, the chief executive of Microsoft, is the government’s biggest-name witness in its landmark antitrust case against Google.  <a href="https://nyti.ms/3LLhrCl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Putin’s Next Target: U.S. Support for Ukraine, Officials Say</h3>
+<sub>By Julian E. Barnes</sub>
+<p>Russian spy agencies and new technologies could be used to push conspiracy theories, U.S. officials say.  <a href="https://nyti.ms/3PDhelF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-video-blue" alt="">
 <h3>Russia May Be Planning to Test a Nuclear-Powered Missile</h3>
@@ -86,23 +98,11 @@ Right now, a lot of political and cultural issues are being addressed. In the US
 <p>The physiology or medicine prize for Katalin Karikó and Drew Weissman recognized work that led to the development of vaccines that were administered to billions around the world.  <a href="https://nyti.ms/46bGGG4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Halting Progress and Happy Accidents: How mRNA Vaccines Were Made</h3>
-<sub>By Gina Kolata and Benjamin Mueller</sub>
-<p>The stunning Covid vaccines manufactured by Pfizer-BioNTech and Moderna drew upon long-buried discoveries made in the hopes of ending past epidemics.  <a href="https://nyti.ms/3fuht0S"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Long Overlooked, Kati Kariko Helped Shield the World From the Coronavirus</h3>
-<sub>By Gina Kolata</sub>
-<p>Collaborating with devoted colleagues, Dr. Kariko laid the groundwork for the mRNA vaccines turning the tide of the pandemic.  <a href="https://nyti.ms/2PDO23b"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>McCarthy’s Speakership Is in Jeopardy This Week After a Threat to Oust Him</h3>
-<sub>By Karoun Demirjian</sub>
-<p>Speaker Kevin McCarthy faces a major test of his leadership in the days ahead, after one of his loudest Republican critics in the House promised to try to remove him from his post.  <a href="https://nyti.ms/3PYLDfD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 2, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>Why the ‘Mother of the Atomic Bomb’ Never Won a Nobel Prize</h3>
+<sub>By Katrina Miller</sub>
+<p>Lise Meitner developed the theory of nuclear fission, the process that enabled the atomic bomb. But her identity — Jewish and a woman — barred her from sharing credit for the discovery, newly translated letters show.  <a href="https://nyti.ms/46hS5nF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Newsom Names Emily’s List President as Feinstein Successor</h3>
@@ -122,10 +122,10 @@ Right now, a lot of political and cultural issues are being addressed. In the US
 <p>The FTX founder’s uphill court battle starts Tuesday, after he has come to symbolize everything that went wrong with the cryptocurrency industry.  <a href="https://nyti.ms/3ZC9mVY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Who’s Rooting Hardest for a Sam Bankman-Fried Conviction? The Crypto Industry.</h3>
-<sub>By Erin Griffith</sub>
-<p>Crypto insiders, who have been trying to distance themselves from the FTX founder, are united in their zeal to see Mr. Bankman-Fried held to account.  <a href="https://nyti.ms/3ZKMhRi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>New York Schools Weathered a Crisis. Now They Face a Fiscal Cliff.</h3>
+<sub>By Troy Closson</sub>
+<p>The city faces billions in financial pressures in the coming years that threaten to worsen inequality across the nation’s largest school system.  <a href="https://nyti.ms/3ZCyyM8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
