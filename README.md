@@ -59,25 +59,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
 <p>It is Monday, October 2, Central Standard Time</p>
-<p>
-The world is experiencing a lot of unrest right now. In Slovakia, the front-runner in the parliamentary vote has pledged “not to send a single cartridge” to neighboring Ukraine, indicating a lack of European support for a victim of Russian aggression. Meanwhile, in Ukraine, snipers are on the front line trying to protect their country from Russian forces. 
-
-Here in the U.S., the Supreme Court is preparing to tackle some major issues surrounding the Second Amendment, administrative state and free speech on the internet. Meanwhile, California Governor Gavin Newsom has named Laphonza Butler as an incoming senator after Dianne Feinstein’s death. Kevin McCarthy, House Speaker of Republicans, is facing internal criticism for working with Democrats to pass a stopgap spending bill to avert a shutdown. 
-
-On top of this, government corruption is on the rise again. In New Jersey, Wael Hana&#39;s business dealings were overshadowed by his friend&#39;s connection to a powerful U.S. senator. Greece recently had one of its worst tragedies as asylum seekers died in a wildfire unnoticed until much later. 
-
-Finally, sports and entertainment are still happening despite everything else going on. The Chiefs were able to beat out the Jets at Sunday Night Football with extra spectators thanks to Taylor Swift and Travis Kelce and travel is changing due to the actions that need to be taken against climate change dangers.</p>
+<p>There is unease in the West as Slovakia appears to be joining those sympathetic to Russian President Putin. The Supreme Court of the United States is facing a challenging docket with key issues such as Second Amendment rights, free speech online, and limits on the administrative state being debated. In California, the governor has appointed the President of Emily&#39;s List as Senator Feinstein&#39;s successor in the Senate. In Greece, a Wildfire led to some asylum seekers losing their lives due to their identities remain unknown for over a month. The McCarthy-Gaetz feud has heated up after Kevin McCarthy worked with Democrats to pass a stop-gap spending bill, which Congressman Gaetz is now trying to use to oust McCarthy. In New Jersey, businessman Wael Hana had serendipitous sweeping changes in his life after his friend start dating a powerful US senator. Additionally, former pitcher Tim Wakefield passed away at 57 after helping break the Red Sox curse in Boston in 2003 and regulator Rohit Chopra has been called &quot;reckless&quot; by bankers due to his enforcement of financial law . Finally, Taylor Swift and Travis Kelce colliding with Prime-Time TV made for an interesting spectacle, but climate change still made travel uncertain this past summer season.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Unease in the West as Slovakia Appears Set to Join the Putin Sympathizers</h3>
 <sub>By Roger Cohen</sub>
 <p>The front-runner in the parliamentary vote has pledged “not to send a single cartridge” to neighboring Ukraine, a sign of the flagging European support for a victim of Russian aggression.  <a href="https://nyti.ms/3PZ7Udj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Four Seconds to Impact: On the Front Line With Ukraine’s Snipers</h3>
-<sub>By Thomas Gibbons-Neff, Natalia Yermak and David Guttenfelder</sub>
-<p>In a war built around artillery, tanks, drones and cruise missiles, the role of the sniper, unseen and lethal, occupies an often overlooked but essential part of the battlefield.  <a href="https://nyti.ms/3rxwkBg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -90,6 +77,12 @@ Finally, sports and entertainment are still happening despite everything else go
 <h3>Newsom Names Emily’s List President as Feinstein Successor</h3>
 <sub>By Shawn Hubler</sub>
 <p>Laphonza Butler will fill the Senate vacancy left by the death of Dianne Feinstein, the governor announced Sunday.  <a href="https://nyti.ms/3th4lq1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>They Ran for a Better Life, Straight Into a Wildfire</h3>
+<sub>By Matina Stevis-Gridneff</sub>
+<p>Greek authorities assumed the victims were asylum seekers because no one was looking for missing people locally. And for more than a month, their identities, and the circumstances of their deaths, remained a mystery.  <a href="https://nyti.ms/3EVY2L4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -108,12 +101,6 @@ Finally, sports and entertainment are still happening despite everything else go
 <h3>Menendez Co-Defendant’s Curious Path From Bad Deals to a Meat Monopoly</h3>
 <sub>By Nicole Hong, Tracey Tully and William K. Rashbaum</sub>
 <p>After emigrating to New Jersey from Egypt, Wael Hana faced a string of business and legal problems. Then his friend started dating a powerful U.S. senator.  <a href="https://nyti.ms/45ckudE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>They Ran for a Better Life, Straight Into a Wildfire</h3>
-<sub>By Matina Stevis-Gridneff</sub>
-<p>Greek authorities assumed the victims were asylum seekers because no one was looking for missing people locally. And for more than a month, their identities, and the circumstances of their deaths, remained a mystery.  <a href="https://nyti.ms/3EVY2L4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-obituaries-blue" alt="">
@@ -139,6 +126,12 @@ Finally, sports and entertainment are still happening despite everything else go
 <sub>By Paige McClanahan</sub>
 <p>Climate change upheavals brought on a season of extremes for travelers in the U.S., Europe and beyond. One thing is clear: Travel is changing.  <a href="https://nyti.ms/459i3IA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>Against the Wall, McCarthy Does the Right Thing</h3>
+<sub>By David Firestone</sub>
+<p>At the last possible moment, Kevin McCarthy earned some credit for keeping the government open. But not a lot of credit.  <a href="https://nyti.ms/3F1jm1Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
