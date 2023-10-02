@@ -59,19 +59,62 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
 <p>It is Monday, October 2, Central Standard Time</p>
-<p>There is unease in the West as Slovakia appears to be joining those sympathetic to Russian President Putin. The Supreme Court of the United States is facing a challenging docket with key issues such as Second Amendment rights, free speech online, and limits on the administrative state being debated. In California, the governor has appointed the President of Emily&#39;s List as Senator Feinstein&#39;s successor in the Senate. In Greece, a Wildfire led to some asylum seekers losing their lives due to their identities remain unknown for over a month. The McCarthy-Gaetz feud has heated up after Kevin McCarthy worked with Democrats to pass a stop-gap spending bill, which Congressman Gaetz is now trying to use to oust McCarthy. In New Jersey, businessman Wael Hana had serendipitous sweeping changes in his life after his friend start dating a powerful US senator. Additionally, former pitcher Tim Wakefield passed away at 57 after helping break the Red Sox curse in Boston in 2003 and regulator Rohit Chopra has been called &quot;reckless&quot; by bankers due to his enforcement of financial law . Finally, Taylor Swift and Travis Kelce colliding with Prime-Time TV made for an interesting spectacle, but climate change still made travel uncertain this past summer season.</p>
+<p>
+In the world right now, Donald Trump&#39;s trial is set to begin Monday, and it could have huge implications for his future as a businessman. In Iowa, he has been sending supporters to a campaign event to try and increase his presence in the upcoming January caucuses. In Russia, they are believed to be preparing a test of a nuclear-powered missile. Slovakia is about to join a group of Putin sympathizers, which some European countries view uneasily. Katalin Karikó and Drew Weissman were awarded the Nobel Prize in Physiology or Medicine for their work leading up to the development of Covid vaccines that have been administered around the world. Kevin McCarthy&#39;s speakership in the US House is on shaky ground after one of his Republican critics pledged to try to remove him from his post. In California, Governor Newsom announced Laphonza Butler as Dianne Feinstein&#39;s successor in the Senate. NASA is planning how they could build houses on the moon by 2040 through 3-D printing and partnerships. And finally, crypto entrepreneur Sam Bankman-Fried goes on trial this Tuesday with his court case symbolizing some of what went wrong with the cryptocurrency industry.</p>
 <ol>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Trump’s Trial Starts Monday. It Will Spotlight What He’s Really Worth.</h3>
+<sub>By Jonah E. Bromwich, Ben Protess and William K. Rashbaum</sub>
+<p>The judge in the civil case has already decided Donald J. Trump inflated his financial statements. Now, he will make rulings that will affect Mr. Trump’s future as a businessman.  <a href="https://nyti.ms/45k0rtv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>As His Fraud Trial Begins, Trump Looks to Capitalize on It</h3>
+<sub>By Shane Goldmacher and Maggie Haberman</sub>
+<p>The former president is making the case to his supporters that he is being wrongfully prosecuted. And it might bring him more support.  <a href="https://nyti.ms/3ZGDK1O"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>On a Warm Day in Iowa, Trump Heats Up His Push for Caucus Support</h3>
+<sub>By Michael Gold</sub>
+<p>A Trump campaign event on Sunday was part of an effort by the former president to increase his presence in Iowa and to shut out his rivals in January’s caucuses.  <a href="https://nyti.ms/45mbIKc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-video-blue" alt="">
+<h3>Russia May Be Planning to Test a Nuclear-Powered Missile</h3>
+<sub>By Riley Mellen</sub>
+<p>Visual evidence from a remote base in the Arctic shows launch preparations mirroring those that preceded earlier tests.  <a href="https://nyti.ms/3PZ6mjp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 2, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Unease in the West as Slovakia Appears Set to Join the Putin Sympathizers</h3>
 <sub>By Roger Cohen</sub>
 <p>The front-runner in the parliamentary vote has pledged “not to send a single cartridge” to neighboring Ukraine, a sign of the flagging European support for a victim of Russian aggression.  <a href="https://nyti.ms/3PZ7Udj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Nobel Prize Awarded to Covid Vaccine Pioneers</h3>
+<sub>By Benjamin Mueller</sub>
+<p>The physiology or medicine prize for Katalin Karikó and Drew Weissman recognized work that led to the development of vaccines that were administered to billions around the world.  <a href="https://nyti.ms/46bGGG4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Halting Progress and Happy Accidents: How mRNA Vaccines Were Made</h3>
+<sub>By Gina Kolata and Benjamin Mueller</sub>
+<p>The stunning Covid vaccines manufactured by Pfizer-BioNTech and Moderna drew upon long-buried discoveries made in the hopes of ending past epidemics.  <a href="https://nyti.ms/3fuht0S"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Kati Kariko Helped Shield the World From the Coronavirus</h3>
+<sub>By Gina Kolata</sub>
+<p>Collaborating with devoted colleagues, Dr. Kariko laid the groundwork for the mRNA vaccines turning the tide of the pandemic.  <a href="https://nyti.ms/2PDO23b"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 8, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Battered Supreme Court Returns to Confront a Challenging Docket</h3>
-<sub>By Adam Liptak and Abbie VanSickle</sub>
-<p>The justices will explore the scope of the Second Amendment, the fate of the administrative state and limits on free speech on the internet.  <a href="https://nyti.ms/3PBQeTB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
+<h3>McCarthy’s Speakership Is in Jeopardy This Week After a Threat to Oust Him</h3>
+<sub>By Karoun Demirjian</sub>
+<p>Speaker Kevin McCarthy faces a major test of his leadership in the days ahead, after one of his loudest Republican critics in the House promised to try to remove him from his post.  <a href="https://nyti.ms/3PYLDfD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Newsom Names Emily’s List President as Feinstein Successor</h3>
@@ -79,59 +122,17 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>Laphonza Butler will fill the Senate vacancy left by the death of Dianne Feinstein, the governor announced Sunday.  <a href="https://nyti.ms/3th4lq1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>They Ran for a Better Life, Straight Into a Wildfire</h3>
-<sub>By Matina Stevis-Gridneff</sub>
-<p>Greek authorities assumed the victims were asylum seekers because no one was looking for missing people locally. And for more than a month, their identities, and the circumstances of their deaths, remained a mystery.  <a href="https://nyti.ms/3EVY2L4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-realestate-blue" alt="">
+<h3>Maybe in Your Lifetime, People Will Live on the Moon and Then Mars</h3>
+<sub>By Debra Kamin</sub>
+<p>Through partnerships and 3-D printing, NASA is plotting how to build houses on the moon by 2040.  <a href="https://nyti.ms/3roygMs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>McCarthy Faces Test as Gaetz Moves to Oust Him for Working With Democrats</h3>
-<sub>By Karoun Demirjian</sub>
-<p>A day after the Republican speaker turned to Democrats for help passing a stopgap spending bill to avert a shutdown, the far-right congressman promised to try to remove him from his post.  <a href="https://nyti.ms/46tS67G"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Inside McCarthy’s Shutdown Turnabout That Left His Speakership at Risk</h3>
-<sub>By Annie Karni</sub>
-<p>The Republican speaker opted to keep the government open the only way he could — by partnering with Democrats — in a surprise reversal that left him as politically vulnerable as ever.  <a href="https://nyti.ms/3roD2JS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Menendez Co-Defendant’s Curious Path From Bad Deals to a Meat Monopoly</h3>
-<sub>By Nicole Hong, Tracey Tully and William K. Rashbaum</sub>
-<p>After emigrating to New Jersey from Egypt, Wael Hana faced a string of business and legal problems. Then his friend started dating a powerful U.S. senator.  <a href="https://nyti.ms/45ckudE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-obituaries-blue" alt="">
-<h3>Tim Wakefield, Pitcher Who Helped Boston Break the Curse, Dies at 57</h3>
-<sub>By Richard Sandomir</sub>
-<p>After surrendering a homer that ended the Red Sox run in 2003, he played a critical role in the team’s World Series victory a year later.  <a href="https://nyti.ms/46dXmfR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Wall Street’s Most Hated Regulator Faces a Fundamental Threat</h3>
-<sub>By Stacy Cowley</sub>
-<p>Rohit Chopra, who leads the Consumer Financial Protection Bureau, says he is simply enforcing the law. Bankers call him reckless — a “regulator gone rogue.”  <a href="https://nyti.ms/3RKtcMX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>When Taylor Swift and Travis Kelce Collided With Prime-Time TV</h3>
-<sub>By Matt Stevens</sub>
-<p>The Chiefs escaped with a win over the Jets on “Sunday Night Football,” but many viewers were watching for shots of a luxury suite.  <a href="https://nyti.ms/3RJvtYK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-travel-blue" alt="">
-<h3>‘Unpredictability in the System,’ and Other Travel Lessons From the Summer of ’23</h3>
-<sub>By Paige McClanahan</sub>
-<p>Climate change upheavals brought on a season of extremes for travelers in the U.S., Europe and beyond. One thing is clear: Travel is changing.  <a href="https://nyti.ms/459i3IA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>Against the Wall, McCarthy Does the Right Thing</h3>
-<sub>By David Firestone</sub>
-<p>At the last possible moment, Kevin McCarthy earned some credit for keeping the government open. But not a lot of credit.  <a href="https://nyti.ms/3F1jm1Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Crypto Goes on Trial, as Sam Bankman-Fried Faces His Reckoning</h3>
+<sub>By David Yaffe-Bellany and Matthew Goldstein</sub>
+<p>The FTX founder’s uphill court battle starts Tuesday, after he has come to symbolize everything that went wrong with the cryptocurrency industry.  <a href="https://nyti.ms/3ZC9mVY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 2, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
