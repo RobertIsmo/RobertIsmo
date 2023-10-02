@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, October 1, Central Standard Time</p>
 <p>
-Right now, there&#39;s a lot of political drama going on in the United States. The Republican speaker of the House of Representatives recently reached across the aisle to Democrats in order to pass a bill that avoided a government shutdown, which prompted one far-right congressman to threaten to try and remove him from his role. Elsewhere, Ukraine is currently expressing confidence that the US will still support them against Russia, even though Congress didn&#39;t include money for them in its stopgap funding bill. Other countries are also dealing with tense situations - like in Niger, where Russian flags have become a hot new trend. Closer to home here in the US, there&#39;s been a rise in private security guards to protect struggling downtowns and the Supreme Court is about to face a challenging docket when it re-opens.</p>
+Currently, there are a lot of different things going on internationally. In the United States, there is a power struggle between the Republican speaker of the House and Congressman Gaetz, where Gaetz is trying to oust the speaker for working with Democrats. In Europe, people are watching the Ukraine-Russia war and a recent election in Slovakia to see what implications it will have for Ukraine. There&#39;s also been some devastating wildfires in Greece that have taken many lives. Obituaries have recently reported the death of pitcher Tim Wakefield, who helped the Boston Red Sox break their &quot;curse&quot; with his 2003 performance and 2004 World Series victory. Finally, Wall Street&#39;s most hated regulator Rohit Chopra is facing legal challenges as bankers call him reckless and a &quot;regulator gone rogue&quot;.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>McCarthy Faces Test as Gaetz Moves to Oust Him for Working With Democrats</h3>
+<sub>By Karoun Demirjian</sub>
+<p>A day after the Republican speaker turned to Democrats for help passing a stopgap spending bill to avert a shutdown, the far-right congressman promised to try to remove him from his post.  <a href="https://nyti.ms/46tS67G"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Inside McCarthy’s Shutdown Turnabout That Left His Speakership at Risk</h3>
 <sub>By Annie Karni</sub>
@@ -69,27 +75,9 @@ Right now, there&#39;s a lot of political drama going on in the United States. T
 <sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Gaetz Says He Will Move to Oust McCarthy for Working With Democrats</h3>
-<sub>By Karoun Demirjian</sub>
-<p>A day after the Republican speaker turned to Democrats for help passing a stopgap spending bill to avert a shutdown, the far-right congressman promised to try to remove him from his post.  <a href="https://nyti.ms/46tS67G"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>To Many Americans, Government Dysfunction Is the New Normal</h3>
-<sub>By Peter Baker</sub>
-<p>As the nation teetered on the brink of a shutdown, its citizens were largely focused on other things.  <a href="https://nyti.ms/3RA5X8m"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Downplays Uncertainty Over U.S. Support After Funding Bill Passes With No Aid</h3>
-<sub>By Matthew Mpoke Bigg</sub>
-<p>Kyiv expressed confidence that the U.S. would continue to support its war against Russia, even after Congress passed a stopgap funding bill that did not include money for Ukraine.  <a href="https://nyti.ms/48yb92B"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Menendez Co-Defendant’s Curious Path From Bad Deals to a Meat Monopoly</h3>
-<sub>By Nicole Hong, Tracey Tully and William K. Rashbaum</sub>
-<p>After emigrating to New Jersey from Egypt, Wael Hana faced a string of business and legal problems. Then his friend started dating a powerful U.S. senator.  <a href="https://nyti.ms/45ckudE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>A Battered Supreme Court Returns to Confront a Challenging Docket</h3>
+<sub>By Adam Liptak and Abbie VanSickle</sub>
+<p>The justices will explore the scope of the Second Amendment, the fate of the administrative state and limits on free speech on the internet.  <a href="https://nyti.ms/3PBQeTB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -103,12 +91,6 @@ Right now, there&#39;s a lot of political drama going on in the United States. T
 <sub>By Andrew Higgins</sub>
 <p>In much of Europe, the election in Slovakia was seen as a bellwether of mainstream support for Ukraine in its war with Russia. But voters seemed most concerned with pocketbook issues.  <a href="https://nyti.ms/3tiZV1W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, September 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Hottest New Accessory in Niger? A Russian Flag.</h3>
-<sub>By Elian Peltier</sub>
-<p>Russia has quietly been distributing its own flags throughout West Africa, where they are now considered “so cool.”  <a href="https://nyti.ms/3rqiJvz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>He’s a Dab of Glue in a Broken City. Can He Hold It Together?</h3>
@@ -128,10 +110,28 @@ Right now, there&#39;s a lot of political drama going on in the United States. T
 <p>“The more powerful you are,” says the action icon, author of a new self-help book, “the more power you have in giving back.”  <a href="https://nyti.ms/3roD3xq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Battered Supreme Court Returns to Confront a Challenging Docket</h3>
-<sub>By Adam Liptak and Abbie VanSickle</sub>
-<p>The justices will explore the scope of the Second Amendment, the fate of the administrative state and limits on free speech on the internet.  <a href="https://nyti.ms/3PBQeTB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Menendez Co-Defendant’s Curious Path From Bad Deals to a Meat Monopoly</h3>
+<sub>By Nicole Hong, Tracey Tully and William K. Rashbaum</sub>
+<p>After emigrating to New Jersey from Egypt, Wael Hana faced a string of business and legal problems. Then his friend started dating a powerful U.S. senator.  <a href="https://nyti.ms/45ckudE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>They Ran for a Better Life, Straight Into a Wildfire</h3>
+<sub>By Matina Stevis-Gridneff</sub>
+<p>Greek authorities assumed the victims were asylum seekers because no one was looking for missing people locally. And for more than a month, their identities, and the circumstances of their deaths, remained a mystery.  <a href="https://nyti.ms/3EVY2L4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-obituaries-blue" alt="">
+<h3>Tim Wakefield, Pitcher Who Helped Boston Break the Curse, Dies at 57</h3>
+<sub>By Richard Sandomir</sub>
+<p>After surrendering a homer that ended the Red Sox run in 2003, he played a critical role in the team’s World Series victory a year later.  <a href="https://nyti.ms/46dXmfR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Wall Street’s Most Hated Regulator Faces a Fundamental Threat</h3>
+<sub>By Stacy Cowley</sub>
+<p>Rohit Chopra, who leads the Consumer Financial Protection Bureau, says he is simply enforcing the law. Bankers call him reckless — a “regulator gone rogue.”  <a href="https://nyti.ms/3RKtcMX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
