@@ -58,9 +58,15 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Sunday, October 1, Central Standard Time</p>
+<p>It is Monday, October 2, Central Standard Time</p>
 <p>
-There is some unease in the West over Slovakia&#39;s potential to join countries that sympathize with Putin. In Ukraine, snipers remain on the frontlines in a war built around artillery, tanks, drones and other hardware.  The Supreme Court has returned to a challenging docket with Second Amendment, administrative state and other controversial topics on its agenda. Meanwhile, in America we have had some political unrest as McCarthy faces a threatened ousting from his Speakership post, after making a surprising turnabout on a stopgap spending bill. Governor Newsom is also set to appoint someone to fill the recently vacated seat of Dianne Feinstein. Homelessness continues to be an issue, too, as private security guards like Michael Bock become the de facto solution. Migration continues to be at the forefront of debate as well, with some arguing that our current broken system is still better than nothing for would-be migrants and U.S. employers. Lastly, there was a tragic story out of Greece recently where people died in a wildfire while running for a better life and their identities were unknown for some time before their deaths were investigated. On a happier note, former Red Sox pitcher Tim Wakefield recently passed away but his legacy will live on through helping Boston break their &quot;curse&quot; in 2004 by winning the World Series.</p>
+The world is experiencing a lot of unrest right now. In Slovakia, the front-runner in the parliamentary vote has pledged “not to send a single cartridge” to neighboring Ukraine, indicating a lack of European support for a victim of Russian aggression. Meanwhile, in Ukraine, snipers are on the front line trying to protect their country from Russian forces. 
+
+Here in the U.S., the Supreme Court is preparing to tackle some major issues surrounding the Second Amendment, administrative state and free speech on the internet. Meanwhile, California Governor Gavin Newsom has named Laphonza Butler as an incoming senator after Dianne Feinstein’s death. Kevin McCarthy, House Speaker of Republicans, is facing internal criticism for working with Democrats to pass a stopgap spending bill to avert a shutdown. 
+
+On top of this, government corruption is on the rise again. In New Jersey, Wael Hana&#39;s business dealings were overshadowed by his friend&#39;s connection to a powerful U.S. senator. Greece recently had one of its worst tragedies as asylum seekers died in a wildfire unnoticed until much later. 
+
+Finally, sports and entertainment are still happening despite everything else going on. The Chiefs were able to beat out the Jets at Sunday Night Football with extra spectators thanks to Taylor Swift and Travis Kelce and travel is changing due to the actions that need to be taken against climate change dangers.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Unease in the West as Slovakia Appears Set to Join the Putin Sympathizers</h3>
@@ -81,6 +87,12 @@ There is some unease in the West over Slovakia&#39;s potential to join countries
 <sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Newsom Names Emily’s List President as Feinstein Successor</h3>
+<sub>By Shawn Hubler</sub>
+<p>Laphonza Butler will fill the Senate vacancy left by the death of Dianne Feinstein, the governor announced Sunday.  <a href="https://nyti.ms/3th4lq1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>McCarthy Faces Test as Gaetz Moves to Oust Him for Working With Democrats</h3>
 <sub>By Karoun Demirjian</sub>
 <p>A day after the Republican speaker turned to Democrats for help passing a stopgap spending bill to avert a shutdown, the far-right congressman promised to try to remove him from his post.  <a href="https://nyti.ms/46tS67G"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -90,30 +102,6 @@ There is some unease in the West over Slovakia&#39;s potential to join countries
 <h3>Inside McCarthy’s Shutdown Turnabout That Left His Speakership at Risk</h3>
 <sub>By Annie Karni</sub>
 <p>The Republican speaker opted to keep the government open the only way he could — by partnering with Democrats — in a surprise reversal that left him as politically vulnerable as ever.  <a href="https://nyti.ms/3roD2JS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Newsom to Name Emily’s List President as Feinstein Successor</h3>
-<sub>By Shawn Hubler</sub>
-<p>Gov. Gavin Newsom will name Laphonza Butler to fill the vacancy left by the death of Dianne Feinstein.  <a href="https://nyti.ms/3th4lq1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>He’s a Dab of Glue in a Broken City. Can He Hold It Together?</h3>
-<sub>By Eli Saslow and Erin Schaff</sub>
-<p>In America’s overwhelmed downtowns, private security guards like Michael Bock have become the solution of last resort.  <a href="https://nyti.ms/3PxAS2q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Why Can’t We Stop Unauthorized Immigration? Because It Works.</h3>
-<sub>By Marcela Valdes</sub>
-<p>Our broken immigration system is still the best option for many migrants — and U.S. employers.  <a href="https://nyti.ms/3RKth3d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Arnold Schwarzenegger Is Here to Pump You Up (Emotionally)</h3>
-<sub>By David Marchese</sub>
-<p>“The more powerful you are,” says the action icon, author of a new self-help book, “the more power you have in giving back.”  <a href="https://nyti.ms/3roD3xq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -133,6 +121,24 @@ There is some unease in the West over Slovakia&#39;s potential to join countries
 <sub>By Richard Sandomir</sub>
 <p>After surrendering a homer that ended the Red Sox run in 2003, he played a critical role in the team’s World Series victory a year later.  <a href="https://nyti.ms/46dXmfR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Wall Street’s Most Hated Regulator Faces a Fundamental Threat</h3>
+<sub>By Stacy Cowley</sub>
+<p>Rohit Chopra, who leads the Consumer Financial Protection Bureau, says he is simply enforcing the law. Bankers call him reckless — a “regulator gone rogue.”  <a href="https://nyti.ms/3RKtcMX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>When Taylor Swift and Travis Kelce Collided With Prime-Time TV</h3>
+<sub>By Matt Stevens</sub>
+<p>The Chiefs escaped with a win over the Jets on “Sunday Night Football,” but many viewers were watching for shots of a luxury suite.  <a href="https://nyti.ms/3RJvtYK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-travel-blue" alt="">
+<h3>‘Unpredictability in the System,’ and Other Travel Lessons From the Summer of ’23</h3>
+<sub>By Paige McClanahan</sub>
+<p>Climate change upheavals brought on a season of extremes for travelers in the U.S., Europe and beyond. One thing is clear: Travel is changing.  <a href="https://nyti.ms/459i3IA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
