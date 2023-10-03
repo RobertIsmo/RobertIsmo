@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Monday, October 2, Central Standard Time</p>
+<p>It is Tuesday, October 3, Central Standard Time</p>
 <p>
-A lot is going on right now! In the US, there is a vote to oust the House Speaker. The Democrats are debating if they will cast their votes in support of him and some worry that without promises in return, they won&#39;t. On the other side of the pond, European Union foreign ministers have assembled for an unexpected meeting in Kyiv, Ukraine. They are committed to pushing back against Russia&#39;s invasions. Additionally, former President Donald Trump is now facing a fraud trial where New York&#39;s attorney general Letitia James has accused him of inflating assets. There is also an antitrust case that Microsoft CEO Satya Nadella is testifying in against Google. As for Secretary of State Antony Blinken, it appears that he loves to rock out on the guitar - a video of him went viral! Finally, a new book written by Michael Lewis about disgraced crypto billionaire Sam Bankman-Fried has released some interesting takeaways surrounding his rise and fall.</p>
+In the US, there is a challenge from within Republican ranks to replace the party&#39;s Speaker of the House. Meanwhile, Democrats are considering intervening to protect him. Former President Donald Trump is also in court being tried over allegations of fraud related to his assets. On the world stage, the United Nations has approved Kenya-led security forces to help stem violence in Haiti, while there are reports of a brain drain from China. Russia is being accused of attempting to destabilize Ukraine with the help of its spy agencies and new technologies. And in the business world, Microsoft CEO Satya Nadella gave evidence against Google&#39;s alleged monopolistic power in an antitrust case. Lastly, there&#39;s a new book about get-rich-quick crypto billionaire Sam Bankman-Fried that doesn&#39;t quite live up to previous books written by Michael Lewis.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Gaetz Moves to Oust McCarthy, Threatening His Grip on the Speakership</h3>
@@ -86,12 +86,6 @@ A lot is going on right now! In the US, there is a vote to oust the House Speake
 <p>New York’s attorney general filed the lawsuit accusing the former president of inflating the value of his assets. She seeks a $250 million penalty and other punishments.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Microsoft C.E.O. Testifies That Google’s Power in Search Is Ubiquitous</h3>
-<sub>By David McCabe and Cecilia Kang</sub>
-<p>Satya Nadella, the chief executive of Microsoft, is the government’s biggest-name witness in its landmark antitrust case against Google.  <a href="https://nyti.ms/3LLhrCl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 2, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>U.N. Approves Kenya-Led Security Mission to Help Haiti Stamp Out Gangs</h3>
 <sub>By Frances Robles and Farnaz Fassihi</sub>
@@ -104,6 +98,30 @@ A lot is going on right now! In the US, there is a vote to oust the House Speake
 <p>A viral video of Secretary of State Antony J. Blinken introduced Americans to the guitar geek hidden within.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 2, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>China Is Suffering a Brain Drain. The U.S. Isn’t Exploiting It.</h3>
+<sub>By Li Yuan</sub>
+<p>China’s brightest minds, including tech professionals, are emigrating, but many are not heading to America. We spoke to them to ask why.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Small-Town Revolt Reveals Larger German Concerns About Arming Ukraine</h3>
+<sub>By Catie Edmondson and Ekaterina Bodyagina</sub>
+<p>The resistance of tiny Grossenhain to a new arms plant shows how the government’s plan for a more assertive foreign policy is struggling to gain traction.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Putin’s Next Target: U.S. Support for Ukraine, Officials Say</h3>
+<sub>By Julian E. Barnes</sub>
+<p>Russian spy agencies and new technologies could be used to push conspiracy theories, U.S. officials say.  <a href="https://nyti.ms/3PDhelF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Microsoft C.E.O. Testifies That Google’s Power in Search Is Ubiquitous</h3>
+<sub>By David McCabe and Cecilia Kang</sub>
+<p>Satya Nadella, the chief executive of Microsoft, is the government’s biggest-name witness in its landmark antitrust case against Google.  <a href="https://nyti.ms/3LLhrCl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 2, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-books-blue" alt="">
 <h3>Even Michael Lewis Can’t Make a Hero Out of Sam Bankman-Fried</h3>
 <sub>By Jennifer Szalai</sub>
@@ -114,24 +132,6 @@ A lot is going on right now! In the US, there is a vote to oust the House Speake
 <h3>Takeaways From a New Book on Sam Bankman-Fried</h3>
 <sub>By David Yaffe-Bellany</sub>
 <p>“Going Infinite,” by Michael Lewis, offers a behind-the-scenes account of Mr. Bankman-Fried’s rise and fall.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What to Know About Laphonza Butler, Newsom’s Appointee to the Senate</h3>
-<sub>By Anna Betts</sub>
-<p>Ms. Butler, 44, was chosen on Sunday to fill the vacancy created by the death of Senator Dianne Feinstein.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Putin’s Next Target: U.S. Support for Ukraine, Officials Say</h3>
-<sub>By Julian E. Barnes</sub>
-<p>Russian spy agencies and new technologies could be used to push conspiracy theories, U.S. officials say.  <a href="https://nyti.ms/3PDhelF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>E.U. Foreign Ministers Hold Surprise Summit in Wartime Kyiv</h3>
-<sub>By Monika Pronczuk</sub>
-<p>Nearly all of the European Union’s top diplomats met in the Ukrainian capital, convening to reassert the bloc’s commitment against Russia’s invasion.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 2, Central Standard Time</sub></sub>
 <hr/>
 </ol>
