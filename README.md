@@ -60,43 +60,35 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, October 3, Central Standard Time</p>
 <p>
-A lot is going on in the world right now. There&#39;s a move in the US House of Representatives to oust current Speaker of the House Kevin McCarthy, which would create a challenge only two other House speakers have faced. Democrats are deciding whether or not to help McCarthy keep his position by agreeing to address their policy priorities. Donald Trump is facing a fraud trial in New York with allegations of inflating assets. On the international stage, Kenya is leading a mission to help Haiti tamp down gang violence and Microsoft&#39;s CEO has testified about Google&#39;s ubiquity in search engines. Additionally, California Governor Gavin Newsom has appointed Laphonza Butler to fill the seat left after Senator Diane Feinstein&#39;s passing.</p>
+Right now, the US is in the midst of a political battle. Democrats are trying to decide if they should try to save Speaker McCarthy from being ousted by Republicans. Meanwhile, Representative Matt Gaetz put forward a motion to remove him and there&#39;s a two-day showdown between the speaker and those on the hard-right of the Republican party. This knock-on effect has caused investors to become weary and markets to be more volatile. 
+
+In other news, there&#39;s tension between the US and China over Chinese investments in small towns, and there&#39;s a brain drain from China with many people not heading to the US. Trump has been accused of civil fraud and he&#39;s facing a trial at the moment. 
+
+The Nobel Prizes were announced this week and three scientists won for their work on electrons while others have won previously this week. Researchers are focusing on urban wildlife and their potential risks from disease - to people, pets, and animals themselves. In Germany, they&#39;re struggling to get support for their foreign policy plan which includes arming Ukraine as small towns are revolting against it. Lastly, young people in many states are dealing with legal battles over transgender care for minors as supporters argue it&#39;s safe.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Gaetz Moves to Oust McCarthy, Threatening His Grip on the Speakership</h3>
-<sub>By Catie Edmondson</sub>
-<p>The move forces a vote within days on whether to keep the speaker in his post, a challenge that only two other House speakers have faced in the history of the chamber.  <a href="https://nyti.ms/3PYLDfD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 2, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Democrats Weigh Whether to Rescue McCarthy From G.O.P. Ouster Bid</h3>
 <sub>By Carl Hulse and Luke Broadwater</sub>
 <p>Party officials said that without promises to address their policy priorities, the speaker should not count on Democratic votes to save him.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Trump’s Fraud Trial Starts With Attacks on Attorney General and Judge</h3>
-<sub>By Ben Protess, Jonah E. Bromwich and Kate Christobek</sub>
-<p>Donald J. Trump appeared in court as lawyers for New York’s attorney general, Letitia James, painted him as a fraudster. His lawyers said she was out to get the former president.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Key Takeaways From the First Day of Trump’s Civil Fraud Trial</h3>
-<sub>By Jonah E. Bromwich</sub>
-<p>New York’s attorney general filed the lawsuit accusing the former president of inflating the value of his assets. She seeks a $250 million penalty and other punishments.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>U.N. Approves Kenya-Led Security Mission to Help Haiti Stamp Out Gangs</h3>
-<sub>By Frances Robles and Farnaz Fassihi</sub>
-<p>Kenyan security forces are expected to head to Haiti for a year to combat gang violence that has killed thousands and forced many more people to flee widespread murders, kidnappings and extortion.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 2, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>When Mr. Secretary Loves to Rock</h3>
-<sub>By Michael Crowley</sub>
-<p>A viral video of Secretary of State Antony J. Blinken introduced Americans to the guitar geek hidden within.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 2, Central Standard Time</sub></sub>
+<h3>Here’s What Happens Now That Gaetz Has Moved to Oust McCarthy</h3>
+<sub>By Chris Cameron</sub>
+<p>The “motion to vacate” that Representative Matt Gaetz put forward on Monday sets up a two-day showdown between the speaker and hard-right Republicans in the House.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>A Plot to Oust the House Speaker Hits Weary Investors</h3>
+<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
+<p>Matt Gaetz’s move to unseat Kevin McCarthy is adding volatility to equity and bond markets.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>A Rural Michigan Town Is the Latest Battleground in the U.S.-China Fight</h3>
+<sub>By Alan Rappeport</sub>
+<p>Firestorms over Chinese investments, like a battery factory in Green Charter Township, are erupting as officials weigh the risks of taking money from an adversary.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>China Is Suffering a Brain Drain. The U.S. Isn’t Exploiting It.</h3>
@@ -104,35 +96,47 @@ A lot is going on in the world right now. There&#39;s a move in the US House of 
 <p>China’s brightest minds, including tech professionals, are emigrating, but many are not heading to America. We spoke to them to ask why.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 2, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How Trump Turned an Oval Office Fantasy Into G.O.P. Doctrine</h3>
+<sub>By Jonathan Swan, Maggie Haberman, Charlie Savage and Emiliano Rodríguez Mega</sub>
+<p>The Republican push to use military force in Mexico against drug cartels started in the Trump White House. He has plans to make the idea a reality in 2025.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Key Takeaways From the First Day of Trump’s Civil Fraud Trial</h3>
+<sub>By Jonah E. Bromwich</sub>
+<p>New York’s attorney general filed the lawsuit accusing the former president of inflating the value of his assets. She seeks a $250 million penalty and other punishments.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>Nobel Prize in Physics Awarded to 3 Scientists for Work on Electrons</h3>
+<sub>By Emma Bubola and Katrina Miller</sub>
+<p>Their work “allows us to address fundamental questions” such as the time scale of the photoelectric effect for which Einstein received the 1921 Nobel, the awarding committee chair said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>What to Know About the 2023 Nobel Prizes and This Year’s Winners So Far</h3>
+<sub>By Derrick Bryson Taylor</sub>
+<p>The Nobel Prizes are being announced this week.  <a href="https://nyti.ms/3PSUC1W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>In the Big City, Wildlife Researchers Are on the Prowl</h3>
+<sub>By Emily Anthes and Andres Kudacki</sub>
+<p>Scientists are studying urban animals and the diseases they carry, to understand the potential risks to people, pets and the animals themselves.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Small-Town Revolt Reveals Larger German Concerns About Arming Ukraine</h3>
 <sub>By Catie Edmondson and Ekaterina Bodyagina</sub>
 <p>The resistance of tiny Grossenhain to a new arms plant shows how the government’s plan for a more assertive foreign policy is struggling to gain traction.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Microsoft C.E.O. Testifies That Google’s Power in Search Is Ubiquitous</h3>
-<sub>By David McCabe and Cecilia Kang</sub>
-<p>Satya Nadella, the chief executive of Microsoft, is the government’s biggest-name witness in its landmark antitrust case against Google.  <a href="https://nyti.ms/3LLhrCl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-books-blue" alt="">
-<h3>Even Michael Lewis Can’t Make a Hero Out of Sam Bankman-Fried</h3>
-<sub>By Jennifer Szalai</sub>
-<p>“Going Infinite,” Lewis’s new book about the disgraced crypto billionaire, defies the author’s winning formula of upbeat narratives and unsung genius.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Takeaways From a New Book on Sam Bankman-Fried</h3>
-<sub>By David Yaffe-Bellany</sub>
-<p>“Going Infinite,” by Michael Lewis, offers a behind-the-scenes account of Mr. Bankman-Fried’s rise and fall.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 2, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What to Know About Laphonza Butler, Newsom’s Appointee to the Senate</h3>
-<sub>By Anna Betts</sub>
-<p>Ms. Butler, 44, was chosen on Sunday to fill the vacancy created by the death of Senator Dianne Feinstein.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 2, Central Standard Time</sub></sub>
+<h3>Young People Left in Limbo as Battle Over Transgender Care Shifts to Court</h3>
+<sub>By Ernesto Londoño and Mitch Smith</sub>
+<p>After losing in statehouses, supporters of transgender rights filed lawsuits in at least 14 states to convince judges that transition care for minors was safe.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
