@@ -59,24 +59,31 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
 <p>It is Monday, October 2, Central Standard Time</p>
-<p>There is a lot of political turmoil in the US right now. A bid to remove House Speaker Kevin McCarthy from his post is putting his leadership to the test, and President Trump&#39;s fraud trial recently started with lawyers for New York&#39;s Attorney General Letitia James painting him as a fraudster. Meanwhile, Secretary of State Antony J. Blinken has been showing off his guitar chops in a viral video. Russia may be planning to test a nuclear-powered missile in the Arctic and NASA is plotting how to build houses on the moon by 2040. Plus, eviction is increasingly becoming an issue, especially among Black families with young children.</p>
+<p>
+It seems like there&#39;s a lot going on right now. US House Speaker Kevin McCarthy is facing an ouster bid from Representative Gaetz, and Democrats are weighing whether they should rescue him. Over in New York, former President Donald Trump is going through a fraud trial with New York&#39;s Attorney General Letitia James accusing him of fraud. Meanwhile there&#39;s a big antitrust case against Google with Microsoft CEO Satya Nadella as the government&#39;s biggest-name witness. The UN just approved a Kenyan security mission to Haiti to combat gang violence. And Secretary of State Antony J. Blinken was recently revealed to be a guitar geek! On top of all that, Russian spy agencies are reportedly targeting US support for Ukraine, and the EU just held a surprise summit in Kyiv.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Gaetz Moves to Oust McCarthy, Threatening His Grip on the Speakership</h3>
+<sub>By Catie Edmondson</sub>
+<p>The move forces a vote within days on whether to keep the speaker in his post, a challenge that only two other House speakers have faced in the history of the chamber.  <a href="https://nyti.ms/3PYLDfD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 2, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Democrats Weigh Whether to Rescue McCarthy From G.O.P. Ouster Bid</h3>
 <sub>By Carl Hulse and Luke Broadwater</sub>
 <p>Party officials said that without promises to address their policy priorities, the speaker should not count on Democratic votes to save him.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>McCarthy’s Speakership Is in Jeopardy as Gaetz Renews Threat to Oust Him</h3>
-<sub>By Catie Edmondson and Karoun Demirjian</sub>
-<p>Speaker Kevin McCarthy faces a major test of his leadership in the days ahead, after one of his loudest Republican critics in the House reiterated a promise to try to remove him from his post.  <a href="https://nyti.ms/3PYLDfD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 2, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Trump’s Fraud Trial Starts With Attacks on Attorney General and Judge</h3>
 <sub>By Ben Protess, Jonah E. Bromwich and Kate Christobek</sub>
 <p>Donald J. Trump appeared in court as lawyers for New York’s attorney general, Letitia James, painted him as a fraudster. His lawyers said she was out to get the former president.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Key Takeaways From the First Day of Trump’s Civil Fraud Trial</h3>
+<sub>By Jonah E. Bromwich</sub>
+<p>New York’s attorney general filed the lawsuit accusing the former president of inflating the value of his assets. She seeks a $250 million penalty and other punishments.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -86,15 +93,27 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <sub><sub>Monday, October 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>U.N. Approves Kenya Mission to Haiti</h3>
+<h3>U.N. Approves Kenya-Led Security Mission to Help Haiti Stamp Out Gangs</h3>
 <sub>By Frances Robles and Farnaz Fassihi</sub>
-<p>Kenyan security forces are expected to head to Haiti for a year to combat gang violence that has killed thousands.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Kenyan security forces are expected to head to Haiti for a year to combat gang violence that has killed thousands and forced many more people to flee widespread murders, kidnappings and extortion.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>When Mr. Secretary Loves to Rock</h3>
 <sub>By Michael Crowley</sub>
 <p>A viral video of Secretary of State Antony J. Blinken introduced Americans to the guitar geek hidden within.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-books-blue" alt="">
+<h3>Even Michael Lewis Can’t Make a Hero Out of Sam Bankman-Fried</h3>
+<sub>By Jennifer Szalai</sub>
+<p>“Going Infinite,” Lewis’s new book about the disgraced crypto billionaire, defies the author’s winning formula of upbeat narratives and unsung genius.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Takeaways From a New Book on Sam Bankman-Fried</h3>
+<sub>By David Yaffe-Bellany</sub>
+<p>“Going Infinite,” by Michael Lewis, offers a behind-the-scenes account of Mr. Bankman-Fried’s rise and fall.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -109,28 +128,10 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>Russian spy agencies and new technologies could be used to push conspiracy theories, U.S. officials say.  <a href="https://nyti.ms/3PDhelF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-video-blue" alt="">
-<h3>Russia May Be Planning to Test a Nuclear-Powered Missile</h3>
-<sub>By Riley Mellen</sub>
-<p>Visual evidence from a remote base in the Arctic shows launch preparations mirroring those that preceded earlier tests.  <a href="https://nyti.ms/3PZ6mjp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>Why the ‘Mother of the Atomic Bomb’ Never Won a Nobel Prize</h3>
-<sub>By Katrina Miller</sub>
-<p>Lise Meitner developed the theory of nuclear fission, the process that enabled the atomic bomb. But her identity — Jewish and a woman — barred her from sharing credit for the discovery, newly translated letters show.  <a href="https://nyti.ms/46hS5nF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-realestate-blue" alt="">
-<h3>Maybe in Your Lifetime, People Will Live on the Moon and Then Mars</h3>
-<sub>By Debra Kamin</sub>
-<p>Through partnerships and 3-D printing, NASA is plotting how to build houses on the moon by 2040.  <a href="https://nyti.ms/3roygMs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>The Americans Most Threatened by Eviction: Young Children</h3>
-<sub>By Emily Badger, Claire Cain Miller and Alicia Parlapiano</sub>
-<p>About a quarter of Black babies and toddlers in rental households face the threat of eviction in a typical year, a new study says, and all children are disproportionately at risk.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>E.U. Foreign Ministers Hold Surprise Summit in Wartime Kyiv</h3>
+<sub>By Monika Pronczuk</sub>
+<p>Nearly all of the European Union’s top diplomats met in the Ukrainian capital, convening to reassert the bloc’s commitment against Russia’s invasion.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 2, Central Standard Time</sub></sub>
 <hr/>
 </ol>
