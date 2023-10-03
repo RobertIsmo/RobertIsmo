@@ -60,20 +60,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, October 3, Central Standard Time</p>
 <p>
-It&#39;s been a pretty intense week in the news. Kevin McCarthy needs votes to stay Speaker of the House, and Matt Gaetz is challenging him over allegations of sexual misconduct and misuse of funds. In the meantime, the Justice Department has enlisted thousands of undocumented migrants in their efforts to stop smuggling across US borders, although many have reportedly been unlawfully held for months on end. Over in China, tech professionals and other elites are fleeing to other countries for better opportunities - although, unfortunately, not all of them are choosing the United States. 
-
-Back in America, Trump has been making some inflammatory statements lately while his followers are furious over his indictments. Elsewhere, experts suggest Russia’s military strategy “elastic defense” may be aiding them in battle. Outside of politics and war news, people are asking questions about insulin resistance and how to deal with it, how Dave Portnoy used Barstool diplomacy to build a pizza empire, and why Michael Lewis isn&#39;t able to make Sam Bankman-Fried into a hero in his new book &#39;Going Infinite&#39;.</p>
+There have been a lot of political tensions lately in the US. Former President Trump is facing an inquiry into allegations of sexual misconduct and misuse of funds, plus he has been ordered not to comment on a judge&#39;s staff in a fraud case. In addition, he&#39;s been making violent remarks lately, and even wanted to fire missiles at Mexico. On the other hand, Republicans are now planning to send troops to Mexico against drug cartels, and they are detaining undocumented immigrants as witnesses in smuggling cases. There is also a brain drain happening in China as its brightest minds look elsewhere for opportunity. As for international relations, the Senate is sending a delegation to China during its recess despite tensions between the two countries. As for Russia, there is a tactic called &#39;elastic defense&#39; that is helping it out right now. On the health&#x2F;wellness front, many people are not aware of insulin resistance or what early signs they should look for so they can take it seriously. Fortunately, there are ways to get insulin resistance in check if you act soon enough.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Here’s How Many Votes Kevin McCarthy Needs to Survive</h3>
-<sub>By Karoun Demirjian</sub>
-<p>The number will depend on how many House members show up to vote.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Gaetz’s Ouster of McCarthy Draws Attention to His Ethics Issues</h3>
+<sub>By Luke Broadwater</sub>
+<p>Representative Matt Gaetz is facing a House Committee inquiry into allegations of sexual misconduct and misuse of funds. Representative Kevin McCarthy has argued Mr. Gaetz’s move against him is payback.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Trump Ordered Not to Comment on Judge’s Staff in Fraud Case</h3>
+<sub>By Jonah E. Bromwich</sub>
+<p>The former president attacked Justice Arthur F. Engoron’s clerk in a social media post that soon disappeared. He was called to account behind closed doors.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Gaetz’s Challenge to McCarthy Draws Attention to His Ethics Issues</h3>
-<sub>By Luke Broadwater</sub>
-<p>Representative Matt Gaetz is facing a House Committee inquiry into allegations of sexual misconduct and misuse of funds. Speaker Kevin McCarthy has argued Mr. Gaetz’s attempt to oust him is payback.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Trump Said Shoplifters Should Be Shot, Part of a String of Violent Remarks</h3>
+<sub>By Maggie Haberman, Nicholas Nehamas and Alyce McFadden</sub>
+<p>Recent incendiary statements by the former president come at a time when his supporters are already angry over his indictments.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Wanted to Fire Missiles at Mexico. Now the G.O.P. Wants to Send Troops.</h3>
+<sub>By Jonathan Swan, Maggie Haberman, Charlie Savage and Emiliano Rodríguez Mega</sub>
+<p>The Republican push to use military force in Mexico against drug cartels started in the Trump White House. He has plans to make the idea a reality in 2025.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -82,22 +92,22 @@ Back in America, Trump has been making some inflammatory statements lately while
 <p>The Justice Department has invoked a 200-year-old law to detain thousands of undocumented immigrants as witnesses in smuggling cases. Judges have locked up some for six months or more.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-espanol-blue" alt="">
+<h3>Muchos migrantes son encarcelados en calidad de testigos</h3>
+<sub>By Sarah Cutler, Steve Eder and Robert Gebeloff</sub>
+<p>El Departamento de Justicia ha invocado una ley de 200 años de antigüedad para detener a miles de migrantes indocumentados a fin de que declaren en casos contra traficantes de personas. Algunos han estado privados de la libertad seis meses o más.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>China Is Suffering a Brain Drain. The U.S. Isn’t Exploiting It.</h3>
 <sub>By Li Yuan</sub>
 <p>China’s brightest minds, including tech professionals, are emigrating, but many are not heading to America. We spoke to them to ask why.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>A Rural Michigan Town Is the Latest Battleground in the U.S.-China Fight</h3>
-<sub>By Alan Rappeport</sub>
-<p>Firestorms over Chinese investments, like a battery factory in Green Charter Township, are erupting as officials weigh the risks of taking money from an adversary.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>As Trump’s Legal Woes Have Escalated, So Have His Violent Remarks</h3>
-<sub>By Maggie Haberman, Nicholas Nehamas and Alyce McFadden</sub>
-<p>Recent incendiary statements by the former president, including that shoplifters should be shot, come at a time when his supporters are already angry over his indictments.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Senate Delegation to Travel to China During Congressional Recess</h3>
+<sub>By Karoun Demirjian</sub>
+<p>The trip comes at a time of heightened tensions between Beijing and Washington, as the Biden administration restricts investments in key Chinese sectors while trying to improve relations.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -123,18 +133,6 @@ Back in America, Trump has been making some inflammatory statements lately while
 <sub>By Nicholas Casey</sub>
 <p>Drug violence and government corruption have put the country’s journalists in peril. In one town, reporters tried to fight back.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-dining-blue" alt="">
-<h3>How Dave Portnoy Used Barstool Belligerence to Build a Pizza Empire</h3>
-<sub>By Kevin Draper and Amelia Nierenberg</sub>
-<p>The controversial sports media figure is now almost certainly the most influential person in pizza.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-books-blue" alt="">
-<h3>Even Michael Lewis Can’t Make a Hero Out of Sam Bankman-Fried</h3>
-<sub>By Jennifer Szalai</sub>
-<p>“Going Infinite,” Lewis’s new book about the disgraced crypto billionaire, defies the author’s winning formula of upbeat narratives and unsung genius.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 2, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
