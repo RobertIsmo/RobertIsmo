@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, October 3, Central Standard Time</p>
 <p>
-In the US, there is a challenge from within Republican ranks to replace the party&#39;s Speaker of the House. Meanwhile, Democrats are considering intervening to protect him. Former President Donald Trump is also in court being tried over allegations of fraud related to his assets. On the world stage, the United Nations has approved Kenya-led security forces to help stem violence in Haiti, while there are reports of a brain drain from China. Russia is being accused of attempting to destabilize Ukraine with the help of its spy agencies and new technologies. And in the business world, Microsoft CEO Satya Nadella gave evidence against Google&#39;s alleged monopolistic power in an antitrust case. Lastly, there&#39;s a new book about get-rich-quick crypto billionaire Sam Bankman-Fried that doesn&#39;t quite live up to previous books written by Michael Lewis.</p>
+A lot is going on in the world right now. There&#39;s a move in the US House of Representatives to oust current Speaker of the House Kevin McCarthy, which would create a challenge only two other House speakers have faced. Democrats are deciding whether or not to help McCarthy keep his position by agreeing to address their policy priorities. Donald Trump is facing a fraud trial in New York with allegations of inflating assets. On the international stage, Kenya is leading a mission to help Haiti tamp down gang violence and Microsoft&#39;s CEO has testified about Google&#39;s ubiquity in search engines. Additionally, California Governor Gavin Newsom has appointed Laphonza Butler to fill the seat left after Senator Diane Feinstein&#39;s passing.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Gaetz Moves to Oust McCarthy, Threatening His Grip on the Speakership</h3>
@@ -110,12 +110,6 @@ In the US, there is a challenge from within Republican ranks to replace the part
 <p>The resistance of tiny Grossenhain to a new arms plant shows how the government’s plan for a more assertive foreign policy is struggling to gain traction.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Putin’s Next Target: U.S. Support for Ukraine, Officials Say</h3>
-<sub>By Julian E. Barnes</sub>
-<p>Russian spy agencies and new technologies could be used to push conspiracy theories, U.S. officials say.  <a href="https://nyti.ms/3PDhelF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 2, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Microsoft C.E.O. Testifies That Google’s Power in Search Is Ubiquitous</h3>
 <sub>By David McCabe and Cecilia Kang</sub>
@@ -132,6 +126,12 @@ In the US, there is a challenge from within Republican ranks to replace the part
 <h3>Takeaways From a New Book on Sam Bankman-Fried</h3>
 <sub>By David Yaffe-Bellany</sub>
 <p>“Going Infinite,” by Michael Lewis, offers a behind-the-scenes account of Mr. Bankman-Fried’s rise and fall.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>What to Know About Laphonza Butler, Newsom’s Appointee to the Senate</h3>
+<sub>By Anna Betts</sub>
+<p>Ms. Butler, 44, was chosen on Sunday to fill the vacancy created by the death of Senator Dianne Feinstein.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 2, Central Standard Time</sub></sub>
 <hr/>
 </ol>
