@@ -60,22 +60,16 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, October 3, Central Standard Time</p>
 <p>
-Right now, the US is in the midst of a political battle. Democrats are trying to decide if they should try to save Speaker McCarthy from being ousted by Republicans. Meanwhile, Representative Matt Gaetz put forward a motion to remove him and there&#39;s a two-day showdown between the speaker and those on the hard-right of the Republican party. This knock-on effect has caused investors to become weary and markets to be more volatile. 
+Right now, there is political tension brewing in the US. Rep. Matt Gaetz has moved to unseat House Speaker Kevin McCarthy, which has caused some unease among investors. Meanwhile, there&#39;s also a fight with China brewing over a battery factory that is outraging local officials who are weighing the risks of accepting Chinese investment. Elsewhere, Donald Trump is in the midst of a civil fraud trial in which New York&#39;s attorney general is trying to get him to pay up to $250 million in penalties. 
 
-In other news, there&#39;s tension between the US and China over Chinese investments in small towns, and there&#39;s a brain drain from China with many people not heading to the US. Trump has been accused of civil fraud and he&#39;s facing a trial at the moment. 
+On the science front, three scientists have won the Nobel Prize in Physics for their breakthroughs that let us capture the motions of subatomic particles. Scientists have also been taking a closer look at urban animals and understanding the potential health risks they pose to humans and pets. 
 
-The Nobel Prizes were announced this week and three scientists won for their work on electrons while others have won previously this week. Researchers are focusing on urban wildlife and their potential risks from disease - to people, pets, and animals themselves. In Germany, they&#39;re struggling to get support for their foreign policy plan which includes arming Ukraine as small towns are revolting against it. Lastly, young people in many states are dealing with legal battles over transgender care for minors as supporters argue it&#39;s safe.</p>
+Finally, Germany is seeing a small-town revolt to an arms plant while transgender rights activists are taking their battle with state governments all the way to court. In the literary world, Michael Lewis&#39;s latest book about crypto billionaire Sam Bankman-Fried doesn&#39;t have his usual positive spin we&#39;ve come to expect from his stories.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Democrats Weigh Whether to Rescue McCarthy From G.O.P. Ouster Bid</h3>
-<sub>By Carl Hulse and Luke Broadwater</sub>
-<p>Party officials said that without promises to address their policy priorities, the speaker should not count on Democratic votes to save him.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 2, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Here’s What Happens Now That Gaetz Has Moved to Oust McCarthy</h3>
 <sub>By Chris Cameron</sub>
-<p>The “motion to vacate” that Representative Matt Gaetz put forward on Monday sets up a two-day showdown between the speaker and hard-right Republicans in the House.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The resolution that Representative Matt Gaetz put forward on Monday gives Speaker Kevin McCarthy two legislative days to call a vote on whether he should keep his post. Action could come as early as Tuesday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -97,7 +91,7 @@ The Nobel Prizes were announced this week and three scientists won for their wor
 <sub><sub>Monday, October 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Trump Turned an Oval Office Fantasy Into G.O.P. Doctrine</h3>
+<h3>Trump Wanted to Fire Missiles at Mexico. Now the G.O.P. Wants to Send Troops.</h3>
 <sub>By Jonathan Swan, Maggie Haberman, Charlie Savage and Emiliano Rodríguez Mega</sub>
 <p>The Republican push to use military force in Mexico against drug cartels started in the Trump White House. He has plans to make the idea a reality in 2025.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
@@ -109,9 +103,9 @@ The Nobel Prizes were announced this week and three scientists won for their wor
 <sub><sub>Monday, October 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>Nobel Prize in Physics Awarded to 3 Scientists for Work on Electrons</h3>
+<h3>Nobel Prize in Physics Awarded to 3 Scientists for Illuminating How Electrons Move</h3>
 <sub>By Emma Bubola and Katrina Miller</sub>
-<p>Their work “allows us to address fundamental questions” such as the time scale of the photoelectric effect for which Einstein received the 1921 Nobel, the awarding committee chair said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Techniques resulting from the work of Pierre Agostini, Ferenc Krausz and Anne L’Huillier let scientists capture the motions of subatomic particles moving at impossible speeds.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -121,7 +115,7 @@ The Nobel Prizes were announced this week and three scientists won for their wor
 <sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>In the Big City, Wildlife Researchers Are on the Prowl</h3>
+<h3>Digging for Secrets From the Raccoon in Your Garbage</h3>
 <sub>By Emily Anthes and Andres Kudacki</sub>
 <p>Scientists are studying urban animals and the diseases they carry, to understand the potential risks to people, pets and the animals themselves.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
@@ -137,6 +131,12 @@ The Nobel Prizes were announced this week and three scientists won for their wor
 <sub>By Ernesto Londoño and Mitch Smith</sub>
 <p>After losing in statehouses, supporters of transgender rights filed lawsuits in at least 14 states to convince judges that transition care for minors was safe.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-books-blue" alt="">
+<h3>Even Michael Lewis Can’t Make a Hero Out of Sam Bankman-Fried</h3>
+<sub>By Jennifer Szalai</sub>
+<p>“Going Infinite,” Lewis’s new book about the disgraced crypto billionaire, defies the author’s winning formula of upbeat narratives and unsung genius.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 2, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
