@@ -60,28 +60,26 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, October 3, Central Standard Time</p>
 <p>
-Right now, there is political tension brewing in the US. Rep. Matt Gaetz has moved to unseat House Speaker Kevin McCarthy, which has caused some unease among investors. Meanwhile, there&#39;s also a fight with China brewing over a battery factory that is outraging local officials who are weighing the risks of accepting Chinese investment. Elsewhere, Donald Trump is in the midst of a civil fraud trial in which New York&#39;s attorney general is trying to get him to pay up to $250 million in penalties. 
+It&#39;s been a pretty intense week in the news. Kevin McCarthy needs votes to stay Speaker of the House, and Matt Gaetz is challenging him over allegations of sexual misconduct and misuse of funds. In the meantime, the Justice Department has enlisted thousands of undocumented migrants in their efforts to stop smuggling across US borders, although many have reportedly been unlawfully held for months on end. Over in China, tech professionals and other elites are fleeing to other countries for better opportunities - although, unfortunately, not all of them are choosing the United States. 
 
-On the science front, three scientists have won the Nobel Prize in Physics for their breakthroughs that let us capture the motions of subatomic particles. Scientists have also been taking a closer look at urban animals and understanding the potential health risks they pose to humans and pets. 
-
-Finally, Germany is seeing a small-town revolt to an arms plant while transgender rights activists are taking their battle with state governments all the way to court. In the literary world, Michael Lewis&#39;s latest book about crypto billionaire Sam Bankman-Fried doesn&#39;t have his usual positive spin we&#39;ve come to expect from his stories.</p>
+Back in America, Trump has been making some inflammatory statements lately while his followers are furious over his indictments. Elsewhere, experts suggest Russia’s military strategy “elastic defense” may be aiding them in battle. Outside of politics and war news, people are asking questions about insulin resistance and how to deal with it, how Dave Portnoy used Barstool diplomacy to build a pizza empire, and why Michael Lewis isn&#39;t able to make Sam Bankman-Fried into a hero in his new book &#39;Going Infinite&#39;.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Here’s What Happens Now That Gaetz Has Moved to Oust McCarthy</h3>
-<sub>By Chris Cameron</sub>
-<p>The resolution that Representative Matt Gaetz put forward on Monday gives Speaker Kevin McCarthy two legislative days to call a vote on whether he should keep his post. Action could come as early as Tuesday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Here’s How Many Votes Kevin McCarthy Needs to Survive</h3>
+<sub>By Karoun Demirjian</sub>
+<p>The number will depend on how many House members show up to vote.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>A Plot to Oust the House Speaker Hits Weary Investors</h3>
-<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
-<p>Matt Gaetz’s move to unseat Kevin McCarthy is adding volatility to equity and bond markets.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Gaetz’s Challenge to McCarthy Draws Attention to His Ethics Issues</h3>
+<sub>By Luke Broadwater</sub>
+<p>Representative Matt Gaetz is facing a House Committee inquiry into allegations of sexual misconduct and misuse of funds. Speaker Kevin McCarthy has argued Mr. Gaetz’s attempt to oust him is payback.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>A Rural Michigan Town Is the Latest Battleground in the U.S.-China Fight</h3>
-<sub>By Alan Rappeport</sub>
-<p>Firestorms over Chinese investments, like a battery factory in Green Charter Township, are erupting as officials weigh the risks of taking money from an adversary.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Jailed and Desperate, Immigrants Are Enlisted in Border Crackdown</h3>
+<sub>By Sarah Cutler, Steve Eder and Robert Gebeloff</sub>
+<p>The Justice Department has invoked a 200-year-old law to detain thousands of undocumented immigrants as witnesses in smuggling cases. Judges have locked up some for six months or more.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -90,46 +88,46 @@ Finally, Germany is seeing a small-town revolt to an arms plant while transgende
 <p>China’s brightest minds, including tech professionals, are emigrating, but many are not heading to America. We spoke to them to ask why.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Wanted to Fire Missiles at Mexico. Now the G.O.P. Wants to Send Troops.</h3>
-<sub>By Jonathan Swan, Maggie Haberman, Charlie Savage and Emiliano Rodríguez Mega</sub>
-<p>The Republican push to use military force in Mexico against drug cartels started in the Trump White House. He has plans to make the idea a reality in 2025.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>A Rural Michigan Town Is the Latest Battleground in the U.S.-China Fight</h3>
+<sub>By Alan Rappeport</sub>
+<p>Firestorms over Chinese investments, like a battery factory in Green Charter Township, are erupting as officials weigh the risks of taking money from an adversary.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Key Takeaways From the First Day of Trump’s Civil Fraud Trial</h3>
-<sub>By Jonah E. Bromwich</sub>
-<p>New York’s attorney general filed the lawsuit accusing the former president of inflating the value of his assets. She seeks a $250 million penalty and other punishments.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>Nobel Prize in Physics Awarded to 3 Scientists for Illuminating How Electrons Move</h3>
-<sub>By Emma Bubola and Katrina Miller</sub>
-<p>Techniques resulting from the work of Pierre Agostini, Ferenc Krausz and Anne L’Huillier let scientists capture the motions of subatomic particles moving at impossible speeds.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>As Trump’s Legal Woes Have Escalated, So Have His Violent Remarks</h3>
+<sub>By Maggie Haberman, Nicholas Nehamas and Alyce McFadden</sub>
+<p>Recent incendiary statements by the former president, including that shoplifters should be shot, come at a time when his supporters are already angry over his indictments.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>What to Know About the 2023 Nobel Prizes and This Year’s Winners So Far</h3>
-<sub>By Derrick Bryson Taylor</sub>
-<p>The Nobel Prizes are being announced this week.  <a href="https://nyti.ms/3PSUC1W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>Digging for Secrets From the Raccoon in Your Garbage</h3>
-<sub>By Emily Anthes and Andres Kudacki</sub>
-<p>Scientists are studying urban animals and the diseases they carry, to understand the potential risks to people, pets and the animals themselves.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>A tactic known as ‘elastic defense’ is one of several factors aiding Russia.</h3>
+<sub>By Matthew Mpoke Bigg</sub>
+<p>  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Small-Town Revolt Reveals Larger German Concerns About Arming Ukraine</h3>
-<sub>By Catie Edmondson and Ekaterina Bodyagina</sub>
-<p>The resistance of tiny Grossenhain to a new arms plant shows how the government’s plan for a more assertive foreign policy is struggling to gain traction.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 2, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>What Is Insulin Resistance and How Do You Know if You Have It?</h3>
+<sub>By Knvul Sheikh</sub>
+<p>We asked experts to explain the condition, its early signs and when to take them seriously.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Young People Left in Limbo as Battle Over Transgender Care Shifts to Court</h3>
-<sub>By Ernesto Londoño and Mitch Smith</sub>
-<p>After losing in statehouses, supporters of transgender rights filed lawsuits in at least 14 states to convince judges that transition care for minors was safe.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>5 Ways to Get Insulin Resistance in Check</h3>
+<sub>By Knvul Sheikh</sub>
+<p>Insulin resistance can lead to a host of health problems — but it’s also reversible if you act. Here’s how.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Telling the Truth About Mexico, and Dying for It</h3>
+<sub>By Nicholas Casey</sub>
+<p>Drug violence and government corruption have put the country’s journalists in peril. In one town, reporters tried to fight back.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-dining-blue" alt="">
+<h3>How Dave Portnoy Used Barstool Belligerence to Build a Pizza Empire</h3>
+<sub>By Kevin Draper and Amelia Nierenberg</sub>
+<p>The controversial sports media figure is now almost certainly the most influential person in pizza.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-books-blue" alt="">
