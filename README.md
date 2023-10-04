@@ -60,18 +60,26 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, October 3, Central Standard Time</p>
 <p>
-Right now there is quite a bit of conflict going on in the world. In the US, Matt Gaetz—a polarizing figure in Congress—is facing allegations of sexual misconduct and misuse of funds, while former president Donald Trump has been ordered not to comment on a judge’s staff in fraud case. In Ukraine, US and world leaders have pledged their support amid a Russian counteroffensive, and in Mexico journalists are in peril because of drug violence and government corruption. There are also health questions here at home – insulin resistance is an issue that needs to be addressed.</p>
+In the US, there has been a lot of upheaval in the government recently. Kevin McCarthy was ousted as Speaker of the House and replaced by a far-right Republican, leaving the House of Representatives in chaos. Meanwhile, Matt Gaetz is a polarizing figure in Congress who is also causing controversy at home in his overwhelmingly Republican district. Former President Trump has been recently reprimanded for attacking a judge&#39;s staff and for making incendiary comments implying that shoplifters should be shot.
+
+Beyond the US, the Justice Department has been using a 200-year-old law to detain thousands of undocumented immigrants as witnesses in smuggling cases. In Ukraine, Russian troops have been using a tactic called &quot;elastic defense&quot; to frustrate Ukrainian counteroffensives. And in Mexico, reporters are taking extreme risks to tell the truth about drug violence and government corruption.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>McCarthy Is Ousted as Speaker, Leaving the House in Chaos</h3>
+<sub>By Catie Edmondson</sub>
+<p>A handful of far-right Republicans broke with their party and voted to remove Kevin McCarthy from his leadership post. He said he would not run again.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>McCarthy’s Extraordinary Downfall Reflects an Ungovernable G.O.P.</h3>
+<sub>By Carl Hulse</sub>
+<p>The glib Californian made many promises and paid a price when he was unable to fulfill them. But his demise also reflected the challenge of wielding a Republican majority that refuses to be governed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Matt Gaetz, a Polarizing Figure in Congress, Is Polarizing at Home, Too</h3>
 <sub>By Kalyn Wolfe, Patricia Mazzei and Colbi Edmonds</sub>
 <p>In an overwhelmingly Republican district, Mr. Gaetz is admired for shaking up the House, but he also has plenty of critics.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Gaetz’s Ouster of McCarthy Draws Attention to His Ethics Issues</h3>
-<sub>By Luke Broadwater</sub>
-<p>Representative Matt Gaetz is facing a House Committee inquiry into allegations of sexual misconduct and misuse of funds. Representative Kevin McCarthy has argued Mr. Gaetz’s move against his speakership is payback.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -96,12 +104,6 @@ Right now there is quite a bit of conflict going on in the world. In the US, Mat
 <h3>Muchos migrantes son encarcelados en calidad de testigos</h3>
 <sub>By Sarah Cutler, Steve Eder and Robert Gebeloff</sub>
 <p>El Departamento de Justicia ha invocado una ley de 200 años de antigüedad para detener a miles de migrantes indocumentados a fin de que declaren en casos contra traficantes de personas. Algunos han estado privados de la libertad seis meses o más.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>U.S. and World Leaders Pledge Support for Ukraine ‘for as Long as It Takes’</h3>
-<sub>By Michael D. Shear</sub>
-<p>President Biden, in a conference call with world leaders amid tumult in Congress, insisted that U.S. aid would not be interrupted.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
