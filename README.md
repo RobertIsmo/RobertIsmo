@@ -60,18 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, October 3, Central Standard Time</p>
 <p>
-There have been a lot of political tensions lately in the US. Former President Trump is facing an inquiry into allegations of sexual misconduct and misuse of funds, plus he has been ordered not to comment on a judge&#39;s staff in a fraud case. In addition, he&#39;s been making violent remarks lately, and even wanted to fire missiles at Mexico. On the other hand, Republicans are now planning to send troops to Mexico against drug cartels, and they are detaining undocumented immigrants as witnesses in smuggling cases. There is also a brain drain happening in China as its brightest minds look elsewhere for opportunity. As for international relations, the Senate is sending a delegation to China during its recess despite tensions between the two countries. As for Russia, there is a tactic called &#39;elastic defense&#39; that is helping it out right now. On the health&#x2F;wellness front, many people are not aware of insulin resistance or what early signs they should look for so they can take it seriously. Fortunately, there are ways to get insulin resistance in check if you act soon enough.</p>
+Right now there is quite a bit of conflict going on in the world. In the US, Matt Gaetz—a polarizing figure in Congress—is facing allegations of sexual misconduct and misuse of funds, while former president Donald Trump has been ordered not to comment on a judge’s staff in fraud case. In Ukraine, US and world leaders have pledged their support amid a Russian counteroffensive, and in Mexico journalists are in peril because of drug violence and government corruption. There are also health questions here at home – insulin resistance is an issue that needs to be addressed.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Matt Gaetz, a Polarizing Figure in Congress, Is Polarizing at Home, Too</h3>
+<sub>By Kalyn Wolfe, Patricia Mazzei and Colbi Edmonds</sub>
+<p>In an overwhelmingly Republican district, Mr. Gaetz is admired for shaking up the House, but he also has plenty of critics.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Gaetz’s Ouster of McCarthy Draws Attention to His Ethics Issues</h3>
 <sub>By Luke Broadwater</sub>
-<p>Representative Matt Gaetz is facing a House Committee inquiry into allegations of sexual misconduct and misuse of funds. Representative Kevin McCarthy has argued Mr. Gaetz’s move against him is payback.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Representative Matt Gaetz is facing a House Committee inquiry into allegations of sexual misconduct and misuse of funds. Representative Kevin McCarthy has argued Mr. Gaetz’s move against his speakership is payback.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Trump Ordered Not to Comment on Judge’s Staff in Fraud Case</h3>
 <sub>By Jonah E. Bromwich</sub>
-<p>The former president attacked Justice Arthur F. Engoron’s clerk in a social media post that soon disappeared. He was called to account behind closed doors.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The former president attacked Justice Arthur F. Engoron’s clerk in a social media post that soon disappeared. He was called to account behind closed doors, then chastised in court as the judge issued a limited “gag order.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -81,13 +87,7 @@ There have been a lot of political tensions lately in the US. Former President T
 <sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Wanted to Fire Missiles at Mexico. Now the G.O.P. Wants to Send Troops.</h3>
-<sub>By Jonathan Swan, Maggie Haberman, Charlie Savage and Emiliano Rodríguez Mega</sub>
-<p>The Republican push to use military force in Mexico against drug cartels started in the Trump White House. He has plans to make the idea a reality in 2025.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Jailed and Desperate, Immigrants Are Enlisted in Border Crackdown</h3>
+<h3>Jailed by the Thousands, Without Charges, to Act as Witnesses</h3>
 <sub>By Sarah Cutler, Steve Eder and Robert Gebeloff</sub>
 <p>The Justice Department has invoked a 200-year-old law to detain thousands of undocumented immigrants as witnesses in smuggling cases. Judges have locked up some for six months or more.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
@@ -98,22 +98,22 @@ There have been a lot of political tensions lately in the US. Former President T
 <p>El Departamento de Justicia ha invocado una ley de 200 años de antigüedad para detener a miles de migrantes indocumentados a fin de que declaren en casos contra traficantes de personas. Algunos han estado privados de la libertad seis meses o más.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>China Is Suffering a Brain Drain. The U.S. Isn’t Exploiting It.</h3>
-<sub>By Li Yuan</sub>
-<p>China’s brightest minds, including tech professionals, are emigrating, but many are not heading to America. We spoke to them to ask why.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Senate Delegation to Travel to China During Congressional Recess</h3>
-<sub>By Karoun Demirjian</sub>
-<p>The trip comes at a time of heightened tensions between Beijing and Washington, as the Biden administration restricts investments in key Chinese sectors while trying to improve relations.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>U.S. and World Leaders Pledge Support for Ukraine ‘for as Long as It Takes’</h3>
+<sub>By Michael D. Shear</sub>
+<p>President Biden, in a conference call with world leaders amid tumult in Congress, insisted that U.S. aid would not be interrupted.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A tactic known as ‘elastic defense’ is one of several factors aiding Russia.</h3>
+<h3>Russian Troops Cede Ground and Strike Back, Frustrating Ukraine’s Counteroffensive</h3>
 <sub>By Matthew Mpoke Bigg</sub>
-<p>  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Military analysts say that Russian commanders have been using a tactic known as “elastic defense” to prevent Ukraine from holding villages and other positions as staging grounds for future attacks.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>On Senate Choice, Newsom Was in a Box of His Own Making</h3>
+<sub>By Shawn Hubler, Shane Goldmacher and Heather Knight</sub>
+<p>Gov. Gavin Newsom of California’s choice of a successor to Dianne Feinstein was complicated by two television interviews that attracted political pressure from many sides.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-well-blue" alt="">
