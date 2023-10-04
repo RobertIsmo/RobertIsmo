@@ -58,11 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Tuesday, October 3, Central Standard Time</p>
+<p>It is Wednesday, October 4, Central Standard Time</p>
 <p>
-In the US, there has been a lot of upheaval in the government recently. Kevin McCarthy was ousted as Speaker of the House and replaced by a far-right Republican, leaving the House of Representatives in chaos. Meanwhile, Matt Gaetz is a polarizing figure in Congress who is also causing controversy at home in his overwhelmingly Republican district. Former President Trump has been recently reprimanded for attacking a judge&#39;s staff and for making incendiary comments implying that shoplifters should be shot.
-
-Beyond the US, the Justice Department has been using a 200-year-old law to detain thousands of undocumented immigrants as witnesses in smuggling cases. In Ukraine, Russian troops have been using a tactic called &quot;elastic defense&quot; to frustrate Ukrainian counteroffensives. And in Mexico, reporters are taking extreme risks to tell the truth about drug violence and government corruption.</p>
+Currently, there&#39;s political upheaval in the U.S. with McCarthy recently ousted as Speaker of the House and Matt Gaetz causing contention between Republicans and Democrats. In addition, Trump is being held accountable for his actions including a fraud case and violent remarks. The Justice Department is also facing scrutiny for detaining immigrant families indefinitely as witnesses for smuggler cases without charges. On the international front, Russia has sparked concern regarding their military activities in Ukraine while Finland is requiring citizens to prepare for self-defense despite now being part of NATO. Additionally, an ethnic language in Moldova is threatened by extinction. Lastly, within California, Governor Gavin Newsom is being put in a difficult position choosing Dianne Feinstein&#39;s Senate replacement following his own TV interviews.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>McCarthy Is Ousted as Speaker, Leaving the House in Chaos</h3>
@@ -107,9 +105,21 @@ Beyond the US, the Justice Department has been using a 200-year-old law to detai
 <sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>When Russia Is a Neighbor, Self-Defense Is Everyone’s Concern</h3>
+<sub>By Steven Erlanger and Ivor Prickett</sub>
+<p>Even though it’s now part of NATO, a wary Finland still requires men to serve their country. Women can volunteer, and many do.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Russian Troops Cede Ground and Strike Back, Frustrating Ukraine’s Counteroffensive</h3>
 <sub>By Matthew Mpoke Bigg</sub>
 <p>Military analysts say that Russian commanders have been using a tactic known as “elastic defense” to prevent Ukraine from holding villages and other positions as staging grounds for future attacks.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘Our Language Is Dying’</h3>
+<sub>By Andrew Higgins</sub>
+<p>The struggle to save Gagauz, a Turkic tongue used by dwindling numbers of people in an ethnic enclave of Moldova, reflects the emotional power of language loyalties across the former Soviet Union.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -122,18 +132,6 @@ Beyond the US, the Justice Department has been using a 200-year-old law to detai
 <h3>What Is Insulin Resistance and How Do You Know if You Have It?</h3>
 <sub>By Knvul Sheikh</sub>
 <p>We asked experts to explain the condition, its early signs and when to take them seriously.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>5 Ways to Get Insulin Resistance in Check</h3>
-<sub>By Knvul Sheikh</sub>
-<p>Insulin resistance can lead to a host of health problems — but it’s also reversible if you act. Here’s how.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Telling the Truth About Mexico, and Dying for It</h3>
-<sub>By Nicholas Casey</sub>
-<p>Drug violence and government corruption have put the country’s journalists in peril. In one town, reporters tried to fight back.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
