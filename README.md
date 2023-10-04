@@ -60,7 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, October 4, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. In the US, the House of Representatives is in chaos after a historic vote to remove the Speaker of the House. This is being seen as a reflection of a struggle to govern an increasingly polarizing and ungovernable Republican majority in Congress. Meanwhile, there are questions about Rudy Giuliani&#39;s drinking and his role in Donald Trump&#39;s federal election interference case, and Senator Robert Menendez faces prosecution for a secretive fatal car crash involving his soon-to-be wife. On a global scale, there are tensions over Tibetan Buddhism, set to come to a head when its leader dies, and there is a fight to save Gagauz - an ethnic language used by dwindling numbers of people in Moldova. Finally, newly arrived migrants in New York City have taken to selling goods on the street, leading to turf battles with more established vendors. This week three scientists were awarded the Nobel Prize in Chemistry for their work on quantum dots.</p>
+A lot is going on in the world right now! On Tuesday night, the House of Representatives became paralyzed after a historic vote to oust their speaker, Kevin McCarthy. His departure reflects an ungovernable Republican party. Meanwhile, prosecutors are looking into the drinking habits of former mayor and Donald Trump ally Rudy Giuliani, who is part of a federal case over 2020 election interference. In Georgia, two lawyers who attempted to help overturn the election results are being put on trial this month as part of a state case against Mr. Trump and 17 others. 
+
+In New Jersey, Senator Robert Menendez has been indicted over a 2018 car crash that resulted in no media attention or charges at the time of occurrence. Meanwhile, an 8-year-old boy in Mongolia is facing pressure from China&#39;s Communist Party for wanting to defend Tibetan Buddhism. Across the world, tensions are surfacing over who will be allowed to choose the next Dalai Lama when he dies. 
+
+In California, Governor Gavin Newsom&#39;s choice for successor to Dianne Feinstein was complicated by his own televised interviews that ended up drawing political heat from all directions. Lastly, newly arrived migrants in New York City are now resorting to street vending for survival. However turf wars with established vendors have become quite common and children are sometimes forced to participate. Finally, Charlotte Sena -- a 9-year-old girl that went missing -- was lucky enough to re-emerge with help from a lucky break with a ransom note and fingerprint match by police force.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>House Is Paralyzed, With No Speaker After McCarthy Ouster</h3>
@@ -74,18 +78,6 @@ There is a lot happening in the world right now. In the US, the House of Represe
 <p>The glib Californian made many promises and paid a price when he was unable to fulfill them. But his demise also reflected the challenge of wielding a Republican majority that refuses to be governed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Matt Gaetz, a Polarizing Figure in Congress, Is Polarizing at Home, Too</h3>
-<sub>By Kalyn Wolfe, Patricia Mazzei and Colbi Edmonds</sub>
-<p>In an overwhelmingly Republican district, Mr. Gaetz is admired for shaking up the House, but he also has plenty of critics.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Kevin McCarthy Is Out as Speaker. What Happens Now?</h3>
-<sub>By Kayla Guo</sub>
-<p>McCarthy’s unprecedented removal hurls the House into a state of havoc, as Republicans scramble to determine their next steps.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-podcasts-blue" alt="">
 <h3>Today’s Top News: McCarthy Is Ousted, and More</h3>
 <sub>By New York Times Audio</sub>
@@ -96,6 +88,12 @@ There is a lot happening in the world right now. In the US, the House of Represe
 <h3>Giuliani’s Drinking, Long a Fraught Subject, Has Trump Prosecutors’ Attention</h3>
 <sub>By Matt Flegenheimer and Maggie Haberman</sub>
 <p>The former mayor’s drinking has become an investigative subplot in Donald Trump’s federal case over 2020 election interference. But long before that, friends had grown deeply concerned.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Won’t Be on Trial in Georgia Case This Fall, but His Presence Will Be Felt</h3>
+<sub>By Danny Hakim and Richard Fausset</sub>
+<p>Two lawyers who tried to help overturn the 2020 election results are facing trial this month, an early test of the state racketeering case against the former president and 17 others.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -116,10 +114,10 @@ There is a lot happening in the world right now. In the US, the House of Represe
 <p>Much centers on the question of who gets to choose the successor of the Dalai Lama when he dies.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘Our Language Is Dying’</h3>
-<sub>By Andrew Higgins</sub>
-<p>The struggle to save Gagauz, a Turkic tongue used by dwindling numbers of people in an ethnic enclave of Moldova, reflects the emotional power of language loyalties across the former Soviet Union.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>On Senate Choice, Newsom Was in a Box of His Own Making</h3>
+<sub>By Shawn Hubler, Shane Goldmacher and Heather Knight</sub>
+<p>Gov. Gavin Newsom of California’s choice of a successor to Dianne Feinstein was complicated by two television interviews that attracted political pressure from many sides.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -128,10 +126,16 @@ There is a lot happening in the world right now. In the US, the House of Represe
 <p>Newly arrived migrants are hawking candy, fruit and beverages in New York City, often with young children in tow. Turf battles with more established vendors are becoming common.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>Nobel Prize in Chemistry Awarded to 3 Scientists for Work With Quantum Dots</h3>
-<sub>By Emma Bubola and Katrina Miller</sub>
-<p>Moungi Bawendi, Louis Brus and Alexei Ekimov were selected for the prize for their discovery and development of the nanoparticles.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>When Russia Is a Neighbor, Self-Defense Is Everyone’s Concern</h3>
+<sub>By Steven Erlanger and Ivor Prickett</sub>
+<p>Even though it’s now part of NATO, a wary Finland still requires men to serve their country. Women can volunteer, and many do.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>A Ransom Note and a Fingerprint: How a Missing 9-Year Old Was Found</h3>
+<sub>By Jesse McKinley</sub>
+<p>The rescue of Charlotte Sena began with a lucky break — and a possible missed opportunity — followed by old-fashioned police work.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
