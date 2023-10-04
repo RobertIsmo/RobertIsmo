@@ -60,7 +60,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, October 4, Central Standard Time</p>
 <p>
-Currently, there&#39;s political upheaval in the U.S. with McCarthy recently ousted as Speaker of the House and Matt Gaetz causing contention between Republicans and Democrats. In addition, Trump is being held accountable for his actions including a fraud case and violent remarks. The Justice Department is also facing scrutiny for detaining immigrant families indefinitely as witnesses for smuggler cases without charges. On the international front, Russia has sparked concern regarding their military activities in Ukraine while Finland is requiring citizens to prepare for self-defense despite now being part of NATO. Additionally, an ethnic language in Moldova is threatened by extinction. Lastly, within California, Governor Gavin Newsom is being put in a difficult position choosing Dianne Feinstein&#39;s Senate replacement following his own TV interviews.</p>
+In the US, former House Speaker Kevin McCarthy has been voted out of his position in a surprise move that will leave the House in chaos. Matt Gaetz, a polarizing figure in Congress, is also facing criticism in his home district. Former President Trump was recently reprimanded for attacking a judge&#39;s staff on social media. Additionally, he has stirred up controversy with a recent comment about shoplifting. 
+
+The Justice Department is also locking up thousands of undocumented immigrants as witnesses without charges. In Russia, people are still required to serve their country in military service and there is a struggle to keep alive a Turkic language spoken in Moldova. There are also health concerns such as insulin resistance, a condition experts suggest we keep an eye on.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>McCarthy Is Ousted as Speaker, Leaving the House in Chaos</h3>
