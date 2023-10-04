@@ -60,11 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, October 4, Central Standard Time</p>
 <p>
-A lot is going on in the world right now! On Tuesday night, the House of Representatives became paralyzed after a historic vote to oust their speaker, Kevin McCarthy. His departure reflects an ungovernable Republican party. Meanwhile, prosecutors are looking into the drinking habits of former mayor and Donald Trump ally Rudy Giuliani, who is part of a federal case over 2020 election interference. In Georgia, two lawyers who attempted to help overturn the election results are being put on trial this month as part of a state case against Mr. Trump and 17 others. 
-
-In New Jersey, Senator Robert Menendez has been indicted over a 2018 car crash that resulted in no media attention or charges at the time of occurrence. Meanwhile, an 8-year-old boy in Mongolia is facing pressure from China&#39;s Communist Party for wanting to defend Tibetan Buddhism. Across the world, tensions are surfacing over who will be allowed to choose the next Dalai Lama when he dies. 
-
-In California, Governor Gavin Newsom&#39;s choice for successor to Dianne Feinstein was complicated by his own televised interviews that ended up drawing political heat from all directions. Lastly, newly arrived migrants in New York City are now resorting to street vending for survival. However turf wars with established vendors have become quite common and children are sometimes forced to participate. Finally, Charlotte Sena -- a 9-year-old girl that went missing -- was lucky enough to re-emerge with help from a lucky break with a ransom note and fingerprint match by police force.</p>
+There is a lot happening in the US right now. The House of Representatives is in chaos after a vote to remove the speaker, and there is no sense of who might lead it. On top of that, Matt Gaetz, a polarizing figure in Congress, is quickly becoming polarizing at home too. And as if that weren&#39;t enough, Florida Governor DeSantis&#39; campaign was in financial dire straits this summer but he recently got a $15 million cash infusion and moved his campaign staff to Iowa. Meanwhile, there&#39;s also an ongoing investigation into former New York City Mayor Giuliani&#39;s drinking, and two lawyers are facing trial this month as part of a state racketeering case against Donald Trump over 2020 election interference. In New York City, they&#39;re trying to suspend the right-to-shelter mandate regarding migrants, while recently arrived migrants are turning to street vending with turf battles with more established vendors becoming common. Lastly, in Mongolia there&#39;s an 8-year-old boy who may have to defend Tibetan Buddhism from pressure from China&#39;s ruling Communist Party.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>House Is Paralyzed, With No Speaker After McCarthy Ouster</h3>
@@ -78,11 +74,17 @@ In California, Governor Gavin Newsom&#39;s choice for successor to Dianne Feinst
 <p>The glib Californian made many promises and paid a price when he was unable to fulfill them. But his demise also reflected the challenge of wielding a Republican majority that refuses to be governed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>Today’s Top News: McCarthy Is Ousted, and More</h3>
-<sub>By New York Times Audio</sub>
-<p>Exclusively from New York Times Audio, our new app.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 4, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Matt Gaetz, a Polarizing Figure in Congress, Is Polarizing at Home, Too</h3>
+<sub>By Kalyn Wolfe, Patricia Mazzei and Colbi Edmonds</sub>
+<p>In an overwhelmingly Republican district, Mr. Gaetz is admired for shaking up the House, but he also has plenty of critics.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Kevin McCarthy Is Out as Speaker. What Happens Now?</h3>
+<sub>By Kayla Guo</sub>
+<p>McCarthy’s unprecedented removal hurls the House into a state of havoc, as Republicans scramble to determine their next steps.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Giuliani’s Drinking, Long a Fraught Subject, Has Trump Prosecutors’ Attention</h3>
@@ -102,23 +104,23 @@ In California, Governor Gavin Newsom&#39;s choice for successor to Dianne Feinst
 <p>A 2018 fatal car crash in Bogota, N.J., drew no media attention and resulted in no charges. The driver was the soon-to-be wife of Senator Robert Menendez.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 4, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>A Ransom Note and a Fingerprint: How a Missing 9-Year-Old Was Found</h3>
+<sub>By Jesse McKinley</sub>
+<p>The rescue of Charlotte Sena began with a lucky break — and a possible missed opportunity — followed by old-fashioned police work.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 4, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>The 8-Year-Old Boy at the Heart of a Fight Over Tibetan Buddhism</h3>
 <sub>By David Pierson</sub>
 <p>He may have to defend the faith in Mongolia against pressure from China’s ruling Communist Party.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Here’s What to Know About Tensions Over Tibetan Buddhism</h3>
-<sub>By David Pierson</sub>
-<p>Much centers on the question of who gets to choose the successor of the Dalai Lama when he dies.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>New York City Moves to Suspend Right-to-Shelter Mandate</h3>
+<sub>By Emma G. Fitzsimmons</sub>
+<p>The request is part of a monthslong legal battle over the city’s obligation to provide housing for thousands of migrants.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>On Senate Choice, Newsom Was in a Box of His Own Making</h3>
-<sub>By Shawn Hubler, Shane Goldmacher and Heather Knight</sub>
-<p>Gov. Gavin Newsom of California’s choice of a successor to Dianne Feinstein was complicated by two television interviews that attracted political pressure from many sides.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Turning to Street Vending, New Migrants Find a Competitive World</h3>
@@ -126,16 +128,10 @@ In California, Governor Gavin Newsom&#39;s choice for successor to Dianne Feinst
 <p>Newly arrived migrants are hawking candy, fruit and beverages in New York City, often with young children in tow. Turf battles with more established vendors are becoming common.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>When Russia Is a Neighbor, Self-Defense Is Everyone’s Concern</h3>
-<sub>By Steven Erlanger and Ivor Prickett</sub>
-<p>Even though it’s now part of NATO, a wary Finland still requires men to serve their country. Women can volunteer, and many do.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>A Ransom Note and a Fingerprint: How a Missing 9-Year Old Was Found</h3>
-<sub>By Jesse McKinley</sub>
-<p>The rescue of Charlotte Sena began with a lucky break — and a possible missed opportunity — followed by old-fashioned police work.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>DeSantis Gets a $15 Million Cash Infusion and Moves Staff to Iowa</h3>
+<sub>By Nicholas Nehamas, Jonathan Swan and Shane Goldmacher</sub>
+<p>The relocation caps a monthslong retooling of the campaign, which was in financial dire straits this summer. But the Florida governor still has a steep climb ahead.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
