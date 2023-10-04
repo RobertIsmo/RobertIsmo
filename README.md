@@ -60,15 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, October 4, Central Standard Time</p>
 <p>
-In the US, former House Speaker Kevin McCarthy has been voted out of his position in a surprise move that will leave the House in chaos. Matt Gaetz, a polarizing figure in Congress, is also facing criticism in his home district. Former President Trump was recently reprimanded for attacking a judge&#39;s staff on social media. Additionally, he has stirred up controversy with a recent comment about shoplifting. 
-
-The Justice Department is also locking up thousands of undocumented immigrants as witnesses without charges. In Russia, people are still required to serve their country in military service and there is a struggle to keep alive a Turkic language spoken in Moldova. There are also health concerns such as insulin resistance, a condition experts suggest we keep an eye on.</p>
+There is a lot happening in the world right now. In the US, the House of Representatives is in chaos after a historic vote to remove the Speaker of the House. This is being seen as a reflection of a struggle to govern an increasingly polarizing and ungovernable Republican majority in Congress. Meanwhile, there are questions about Rudy Giuliani&#39;s drinking and his role in Donald Trump&#39;s federal election interference case, and Senator Robert Menendez faces prosecution for a secretive fatal car crash involving his soon-to-be wife. On a global scale, there are tensions over Tibetan Buddhism, set to come to a head when its leader dies, and there is a fight to save Gagauz - an ethnic language used by dwindling numbers of people in Moldova. Finally, newly arrived migrants in New York City have taken to selling goods on the street, leading to turf battles with more established vendors. This week three scientists were awarded the Nobel Prize in Chemistry for their work on quantum dots.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>McCarthy Is Ousted as Speaker, Leaving the House in Chaos</h3>
-<sub>By Catie Edmondson</sub>
-<p>A handful of far-right Republicans broke with their party and voted to remove Kevin McCarthy from his leadership post. He said he would not run again.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
+<h3>House Is Paralyzed, With No Speaker After McCarthy Ouster</h3>
+<sub>By Carl Hulse and Catie Edmondson</sub>
+<p>After a historic vote to remove the speaker, lawmakers departed Washington on Tuesday night with the House of Representatives in chaos and no clear sense of who might lead it.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>McCarthy’s Extraordinary Downfall Reflects an Ungovernable G.O.P.</h3>
@@ -82,41 +80,41 @@ The Justice Department is also locking up thousands of undocumented immigrants a
 <p>In an overwhelmingly Republican district, Mr. Gaetz is admired for shaking up the House, but he also has plenty of critics.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Kevin McCarthy Is Out as Speaker. What Happens Now?</h3>
+<sub>By Kayla Guo</sub>
+<p>McCarthy’s unprecedented removal hurls the House into a state of havoc, as Republicans scramble to determine their next steps.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>Today’s Top News: McCarthy Is Ousted, and More</h3>
+<sub>By New York Times Audio</sub>
+<p>Exclusively from New York Times Audio, our new app.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Giuliani’s Drinking, Long a Fraught Subject, Has Trump Prosecutors’ Attention</h3>
+<sub>By Matt Flegenheimer and Maggie Haberman</sub>
+<p>The former mayor’s drinking has become an investigative subplot in Donald Trump’s federal case over 2020 election interference. But long before that, friends had grown deeply concerned.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 4, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Trump Ordered Not to Comment on Judge’s Staff in Fraud Case</h3>
-<sub>By Jonah E. Bromwich</sub>
-<p>The former president attacked Justice Arthur F. Engoron’s clerk in a social media post that soon disappeared. He was called to account behind closed doors, then chastised in court as the judge issued a limited “gag order.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Said Shoplifters Should Be Shot, Part of a String of Violent Remarks</h3>
-<sub>By Maggie Haberman, Nicholas Nehamas and Alyce McFadden</sub>
-<p>Recent incendiary statements by the former president come at a time when his supporters are already angry over his indictments.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Jailed by the Thousands, Without Charges, to Act as Witnesses</h3>
-<sub>By Sarah Cutler, Steve Eder and Robert Gebeloff</sub>
-<p>The Justice Department has invoked a 200-year-old law to detain thousands of undocumented immigrants as witnesses in smuggling cases. Judges have locked up some for six months or more.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-espanol-blue" alt="">
-<h3>Muchos migrantes son encarcelados en calidad de testigos</h3>
-<sub>By Sarah Cutler, Steve Eder and Robert Gebeloff</sub>
-<p>El Departamento de Justicia ha invocado una ley de 200 años de antigüedad para detener a miles de migrantes indocumentados a fin de que declaren en casos contra traficantes de personas. Algunos han estado privados de la libertad seis meses o más.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
+<h3>Inside the Menendez Indictment: A Mercedes and a Secretive Fatal Crash</h3>
+<sub>By Nicholas Fandos, Tracey Tully and Luis Ferré-Sadurní</sub>
+<p>A 2018 fatal car crash in Bogota, N.J., drew no media attention and resulted in no charges. The driver was the soon-to-be wife of Senator Robert Menendez.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>When Russia Is a Neighbor, Self-Defense Is Everyone’s Concern</h3>
-<sub>By Steven Erlanger and Ivor Prickett</sub>
-<p>Even though it’s now part of NATO, a wary Finland still requires men to serve their country. Women can volunteer, and many do.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
+<h3>The 8-Year-Old Boy at the Heart of a Fight Over Tibetan Buddhism</h3>
+<sub>By David Pierson</sub>
+<p>He may have to defend the faith in Mongolia against pressure from China’s ruling Communist Party.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russian Troops Cede Ground and Strike Back, Frustrating Ukraine’s Counteroffensive</h3>
-<sub>By Matthew Mpoke Bigg</sub>
-<p>Military analysts say that Russian commanders have been using a tactic known as “elastic defense” to prevent Ukraine from holding villages and other positions as staging grounds for future attacks.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
+<h3>Here’s What to Know About Tensions Over Tibetan Buddhism</h3>
+<sub>By David Pierson</sub>
+<p>Much centers on the question of who gets to choose the successor of the Dalai Lama when he dies.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>‘Our Language Is Dying’</h3>
@@ -124,17 +122,17 @@ The Justice Department is also locking up thousands of undocumented immigrants a
 <p>The struggle to save Gagauz, a Turkic tongue used by dwindling numbers of people in an ethnic enclave of Moldova, reflects the emotional power of language loyalties across the former Soviet Union.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>On Senate Choice, Newsom Was in a Box of His Own Making</h3>
-<sub>By Shawn Hubler, Shane Goldmacher and Heather Knight</sub>
-<p>Gov. Gavin Newsom of California’s choice of a successor to Dianne Feinstein was complicated by two television interviews that attracted political pressure from many sides.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Turning to Street Vending, New Migrants Find a Competitive World</h3>
+<sub>By Nicole Hong, Ana Ley and Juan Arredondo</sub>
+<p>Newly arrived migrants are hawking candy, fruit and beverages in New York City, often with young children in tow. Turf battles with more established vendors are becoming common.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>What Is Insulin Resistance and How Do You Know if You Have It?</h3>
-<sub>By Knvul Sheikh</sub>
-<p>We asked experts to explain the condition, its early signs and when to take them seriously.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>Nobel Prize in Chemistry Awarded to 3 Scientists for Work With Quantum Dots</h3>
+<sub>By Emma Bubola and Katrina Miller</sub>
+<p>Moungi Bawendi, Louis Brus and Alexei Ekimov were selected for the prize for their discovery and development of the nanoparticles.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
