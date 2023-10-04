@@ -60,12 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, October 4, Central Standard Time</p>
 <p>
-There is a lot happening in the US right now. The House of Representatives is in chaos after a vote to remove the speaker, and there is no sense of who might lead it. On top of that, Matt Gaetz, a polarizing figure in Congress, is quickly becoming polarizing at home too. And as if that weren&#39;t enough, Florida Governor DeSantis&#39; campaign was in financial dire straits this summer but he recently got a $15 million cash infusion and moved his campaign staff to Iowa. Meanwhile, there&#39;s also an ongoing investigation into former New York City Mayor Giuliani&#39;s drinking, and two lawyers are facing trial this month as part of a state racketeering case against Donald Trump over 2020 election interference. In New York City, they&#39;re trying to suspend the right-to-shelter mandate regarding migrants, while recently arrived migrants are turning to street vending with turf battles with more established vendors becoming common. Lastly, in Mongolia there&#39;s an 8-year-old boy who may have to defend Tibetan Buddhism from pressure from China&#39;s ruling Communist Party.</p>
+A lot is happening in the world right now! In the US, representatives Steve Scalise and Jim Jordan are running for speaker in the House of Representatives, after Kevin McCarthy was ousted. McCarthy stepped down because the Republican majority refused to be governed. Meanwhile, Donald Trump&#39;s former lawyer Rudy Giuliani has come under investigation related to Trump&#39;s case over 2020 election interference. Student loan payments have also recently resumed after a three-year pause, and some students are due for a fresh start. Also, there&#39;s an ongoing trial involving the FTX founder who is accused of lying to cryptocurrency trading customers. Finally, a missing 9 year old girl was found in New York after a lucky break by police officers!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>House Is Paralyzed, With No Speaker After McCarthy Ouster</h3>
-<sub>By Carl Hulse and Catie Edmondson</sub>
-<p>After a historic vote to remove the speaker, lawmakers departed Washington on Tuesday night with the House of Representatives in chaos and no clear sense of who might lead it.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Scalise and Jordan Announce Bids for Speaker as Vacancy Paralyzes the House</h3>
+<sub>By Carl Hulse and Luke Broadwater</sub>
+<p>Representatives Steve Scalise of Louisiana and Jim Jordan of Ohio are both running to succeed Kevin McCarthy, who was ousted as speaker.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -75,16 +75,16 @@ There is a lot happening in the US right now. The House of Representatives is in
 <sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Matt Gaetz, a Polarizing Figure in Congress, Is Polarizing at Home, Too</h3>
-<sub>By Kalyn Wolfe, Patricia Mazzei and Colbi Edmonds</sub>
-<p>In an overwhelmingly Republican district, Mr. Gaetz is admired for shaking up the House, but he also has plenty of critics.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
+<h3>Here Are the Republicans Vying to Replace McCarthy as House Speaker</h3>
+<sub>By Luke Broadwater and Karoun Demirjian</sub>
+<p>The No. 2 Republican and the chairman of the Judiciary Committee appear to be in the strongest positions in the early stages of the sprint to choose a new speaker.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Kevin McCarthy Is Out as Speaker. What Happens Now?</h3>
+<h3>What Can Patrick McHenry, the Interim Speaker, Do?</h3>
 <sub>By Kayla Guo</sub>
-<p>McCarthy’s unprecedented removal hurls the House into a state of havoc, as Republicans scramble to determine their next steps.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
+<p>Representative Patrick T. McHenry of North Carolina, who took the gavel, may oversee the election of a new speaker. But he does not have the power to run the chamber.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Giuliani’s Drinking, Long a Fraught Subject, Has Trump Prosecutors’ Attention</h3>
@@ -104,34 +104,34 @@ There is a lot happening in the US right now. The House of Representatives is in
 <p>A 2018 fatal car crash in Bogota, N.J., drew no media attention and resulted in no charges. The driver was the soon-to-be wife of Senator Robert Menendez.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 4, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Cancels an Additional $9 Billion in Student Loan Debt</h3>
+<sub>By Zach Montague</sub>
+<p>The move comes just three days after student loan repayments resumed following a three-year pause.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-your-money-blue" alt="">
+<h3>It’s Time to Pay Your Student Loans. What Happens if You Fall Behind?</h3>
+<sub>By Tara Siegel Bernard</sub>
+<p>Missed payments will be reported as a forbearance rather than as delinquencies. But your credit score could still be affected.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-your-money-blue" alt="">
+<h3>Student Loan Payments Are Due Again. Here Are 5 Things to Know.</h3>
+<sub>By Tara Siegel Bernard</sub>
+<p>A three-year payment pause has ended in October. A more affordable repayment plan is available, and some borrowers will receive a fresh start.  <a href="https://nyti.ms/3sBAtUU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>‘Lied to the World’ or Acted in ‘Good Faith’: Sam Bankman-Fried’s Trial Opens</h3>
+<sub>By David Yaffe-Bellany, Matthew Goldstein and J. Edward Moreno</sub>
+<p>Prosecutors said the FTX founder had lied to customers. Defense lawyers said he had just been trying to prevent his cryptocurrency exchange from melting down.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 4, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>A Ransom Note and a Fingerprint: How a Missing 9-Year-Old Was Found</h3>
 <sub>By Jesse McKinley</sub>
 <p>The rescue of Charlotte Sena began with a lucky break — and a possible missed opportunity — followed by old-fashioned police work.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The 8-Year-Old Boy at the Heart of a Fight Over Tibetan Buddhism</h3>
-<sub>By David Pierson</sub>
-<p>He may have to defend the faith in Mongolia against pressure from China’s ruling Communist Party.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>New York City Moves to Suspend Right-to-Shelter Mandate</h3>
-<sub>By Emma G. Fitzsimmons</sub>
-<p>The request is part of a monthslong legal battle over the city’s obligation to provide housing for thousands of migrants.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Turning to Street Vending, New Migrants Find a Competitive World</h3>
-<sub>By Nicole Hong, Ana Ley and Juan Arredondo</sub>
-<p>Newly arrived migrants are hawking candy, fruit and beverages in New York City, often with young children in tow. Turf battles with more established vendors are becoming common.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis Gets a $15 Million Cash Infusion and Moves Staff to Iowa</h3>
-<sub>By Nicholas Nehamas, Jonathan Swan and Shane Goldmacher</sub>
-<p>The relocation caps a monthslong retooling of the campaign, which was in financial dire straits this summer. But the Florida governor still has a steep climb ahead.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
