@@ -60,8 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, October 4, Central Standard Time</p>
 <p>
-A lot is happening in the world right now! In the US, representatives Steve Scalise and Jim Jordan are running for speaker in the House of Representatives, after Kevin McCarthy was ousted. McCarthy stepped down because the Republican majority refused to be governed. Meanwhile, Donald Trump&#39;s former lawyer Rudy Giuliani has come under investigation related to Trump&#39;s case over 2020 election interference. Student loan payments have also recently resumed after a three-year pause, and some students are due for a fresh start. Also, there&#39;s an ongoing trial involving the FTX founder who is accused of lying to cryptocurrency trading customers. Finally, a missing 9 year old girl was found in New York after a lucky break by police officers!</p>
+Right now there is a lot happening in the US, both politically and economically. Former Trump adviser Steve Bannon is using Republican Party dysfunction as a way to build his own following and that of some right-wing House rebels. Two Congressmen, Steve Scalise of Louisiana and Jim Jordan of Ohio, recently announced bids to become Speaker of the House after Kevin McCarthy was ousted. Nancy Pelosi was kicked out of a bonus office because she didn&#39;t support McCarthy. Joe Biden has just canceled another $9 billion of student loan debt, after a three-year pause on payments resumed earlier this month.
+
+Outside the US, Haiti is struggling with gang violence and is bringing in police officers from Kenya to help restore order, despite claims of brutality in their own country. In New York, police tracked down a missing 9-year-old girl through a ransom note and fingerprint evidence. Giuliani&#39;s drinkign is the subject of much attention in the wake of Donald Trump&#39;s federal case over 2020 election interference. Trump himself is involved in civil fraud trial which may cost him $250 million if he loses out.
+
+Florida Governor DeSantis received a financial boost recently and has moved some staff to Iowa as he looks for reelection. On the healthcare front, Kaiser Permanente employees have gone on strike after disagreements with their management over contracts. Finally, Yiyun Li has shared a story by Amy Bloom about the power of love with her writing students for 12 years as a way to remind them about hope in the face of difficulties.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>From a Capitol Hill Basement, Bannon Stokes the Republican Party Meltdown</h3>
+<sub>By Annie Karni</sub>
+<p>The former Trump adviser has helped create the spectacle of G.O.P. dysfunction, using it to build his own following and those of the right-wing House rebels who took down Kevin McCarthy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 4, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Scalise and Jordan Announce Bids for Speaker as Vacancy Paralyzes the House</h3>
 <sub>By Carl Hulse and Luke Broadwater</sub>
@@ -69,39 +79,9 @@ A lot is happening in the world right now! In the US, representatives Steve Scal
 <sub><sub>Wednesday, October 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>McCarthy’s Extraordinary Downfall Reflects an Ungovernable G.O.P.</h3>
-<sub>By Carl Hulse</sub>
-<p>The glib Californian made many promises and paid a price when he was unable to fulfill them. But his demise also reflected the challenge of wielding a Republican majority that refuses to be governed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Here Are the Republicans Vying to Replace McCarthy as House Speaker</h3>
-<sub>By Luke Broadwater and Karoun Demirjian</sub>
-<p>The No. 2 Republican and the chairman of the Judiciary Committee appear to be in the strongest positions in the early stages of the sprint to choose a new speaker.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What Can Patrick McHenry, the Interim Speaker, Do?</h3>
-<sub>By Kayla Guo</sub>
-<p>Representative Patrick T. McHenry of North Carolina, who took the gavel, may oversee the election of a new speaker. But he does not have the power to run the chamber.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Giuliani’s Drinking, Long a Fraught Subject, Has Trump Prosecutors’ Attention</h3>
-<sub>By Matt Flegenheimer and Maggie Haberman</sub>
-<p>The former mayor’s drinking has become an investigative subplot in Donald Trump’s federal case over 2020 election interference. But long before that, friends had grown deeply concerned.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Won’t Be on Trial in Georgia Case This Fall, but His Presence Will Be Felt</h3>
-<sub>By Danny Hakim and Richard Fausset</sub>
-<p>Two lawyers who tried to help overturn the 2020 election results are facing trial this month, an early test of the state racketeering case against the former president and 17 others.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Inside the Menendez Indictment: A Mercedes and a Secretive Fatal Crash</h3>
-<sub>By Nicholas Fandos, Tracey Tully and Luis Ferré-Sadurní</sub>
-<p>A 2018 fatal car crash in Bogota, N.J., drew no media attention and resulted in no charges. The driver was the soon-to-be wife of Senator Robert Menendez.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>More Speaker Crisis Fallout: Pelosi Is Evicted From Bonus Office</h3>
+<sub>By Robert Draper</sub>
+<p>Representative Nancy Pelosi had been given a “hideaway” office suite as a courtesy — one that was rescinded after she did nothing to help Representative Kevin McCarthy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -111,27 +91,51 @@ A lot is happening in the world right now! In the US, representatives Steve Scal
 <sub><sub>Wednesday, October 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-your-money-blue" alt="">
-<h3>It’s Time to Pay Your Student Loans. What Happens if You Fall Behind?</h3>
-<sub>By Tara Siegel Bernard</sub>
-<p>Missed payments will be reported as a forbearance rather than as delinquencies. But your credit score could still be affected.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-your-money-blue" alt="">
 <h3>Student Loan Payments Are Due Again. Here Are 5 Things to Know.</h3>
 <sub>By Tara Siegel Bernard</sub>
 <p>A three-year payment pause has ended in October. A more affordable repayment plan is available, and some borrowers will receive a fresh start.  <a href="https://nyti.ms/3sBAtUU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>‘Lied to the World’ or Acted in ‘Good Faith’: Sam Bankman-Fried’s Trial Opens</h3>
-<sub>By David Yaffe-Bellany, Matthew Goldstein and J. Edward Moreno</sub>
-<p>Prosecutors said the FTX founder had lied to customers. Defense lawyers said he had just been trying to prevent his cryptocurrency exchange from melting down.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Haiti, Desperate for Peace, Turns to Police Notorious for Violence</h3>
+<sub>By Frances Robles and Abdi Latif Dahir</sub>
+<p>Police officers from Kenya are being dispatched to bring order to gang-ravaged Haiti, but in their own home country, they have been accused of brutality.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>A Ransom Note and a Fingerprint: How a Missing 9-Year-Old Was Found</h3>
 <sub>By Jesse McKinley</sub>
 <p>The rescue of Charlotte Sena began with a lucky break — and a possible missed opportunity — followed by old-fashioned police work.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Giuliani’s Drinking, Long a Fraught Subject, Has Trump Prosecutors’ Attention</h3>
+<sub>By Matt Flegenheimer and Maggie Haberman</sub>
+<p>The former mayor’s drinking has become an investigative subplot in Donald Trump’s federal case over 2020 election interference. But long before that, friends had grown deeply concerned.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>What’s Happened So Far at Donald J. Trump’s Civil Fraud Trial?</h3>
+<sub>By Kate Christobek and Jonah E. Bromwich</sub>
+<p>New York’s attorney general filed the lawsuit accusing the former president of inflating the value of his assets. She seeks a $250 million penalty and other punishments.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>DeSantis Gets a $15 Million Cash Infusion and Moves Staff to Iowa</h3>
+<sub>By Nicholas Nehamas, Jonathan Swan and Shane Goldmacher</sub>
+<p>The relocation caps a monthslong retooling of the campaign, which was in financial dire straits this summer. But the Florida governor still has a steep climb ahead.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Kaiser Permanente Health Care Workers Begin Strike</h3>
+<sub>By Reed Abelson and Emily Baumgaertner</sub>
+<p>The health system failed to reach a new contract agreement with many of its unionized employees, who walked off the job in several states.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-books-blue" alt="">
+<h3>How to Raise a ‘Warrior Queen’</h3>
+<sub>By Yiyun Li</sub>
+<p>For 12 years, Yiyun Li taught her writing students a story by Amy Bloom about the power, and limitations, of love. Confronting unbearable grief, she returned to it.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
