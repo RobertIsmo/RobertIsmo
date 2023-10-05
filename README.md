@@ -58,11 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Wednesday, October 4, Central Standard Time</p>
+<p>It is Thursday, October 5, Central Standard Time</p>
 <p>
-It looks like there is a lot happening right now in the world. In the United States, former Trump adviser Steve Bannon is helping to create a lot of GOP dysfunction using Kevin McCarthy being ousted as speaker. Biden cancelled about $9 billion worth of student loan debt and there&#39;s a new trial involving Donald Trump accused of inflating his assets. Trump also recently announced a huge fund-raising haul. 
-
-On the international front, Haiti has recruited Kenyan Police officers to help bring order amid gang violence. Elsewhere, health care workers are on strike due to Kaiser Permanente failing to reach a new contract agreement.</p>
+There&#39;s a lot going on in the world right now! Former Trump adviser Steve Bannon is reportedly working to create &#39;spectacle&#39; of Republican Party dysfunction. Meanwhile, Representatives Steve Scalise and Jim Jordan have announced bids for Speaker of the House, and Nancy Pelosi was evicted from a &#39;hideaway&#39; office suite in the commotion. Joe Biden has just canceled an additional $9 billion in student loan debt, and repayment for student loans just recently resumed. Across the world in Haiti, police officers from are being sent to try to quell the ongoing gang-related violence. Closer to home, Donald J. Trump is facing a civil fraud trial while Governor DeSantis has received a big infusion of cash and relocated some of his staff to Iowa. Lastly, there&#39;s been a dramatic rise in gun deaths among children and teenagers according to recent studies.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>From a Capitol Hill Basement, Bannon Stokes the Republican Party Meltdown</h3>
@@ -131,9 +129,9 @@ On the international front, Haiti has recruited Kenyan Police officers to help b
 <sub><sub>Wednesday, October 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Kaiser Permanente Health Care Workers Begin Strike</h3>
-<sub>By Reed Abelson and Emily Baumgaertner</sub>
-<p>The health system failed to reach a new contract agreement with many of its unionized employees, who walked off the job in several states.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Gun Deaths Rising Sharply Among Children, Study Finds</h3>
+<sub>By Roni Caryn Rabin</sub>
+<p>Firearm injuries are a leading cause of death among young children and teenagers in the United States.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
