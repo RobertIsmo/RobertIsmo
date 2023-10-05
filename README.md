@@ -60,18 +60,42 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, October 5, Central Standard Time</p>
 <p>
-There&#39;s a lot happening in the world right now. In the US, former Trump adviser Steve Bannon is trying to create schism within the Republican party from his Capitol Hill basement. Representatives Steve Scalise and Jim Jordan have both announced bids to be Speaker of the House, and Nancy Pelosi recently lost her bonus office. Joe Biden cancelled $9 billion in student loan debt, and there are new regulations for student loan repayments. In Haiti, police from Kenya are being sent to bring order to gang-ravaged areas. Charlotte Sena, a 9 year old who went missing recently, was found thanks to a lucky break and some good detective work. Donald J. Trump is also on trial just now for civil fraud in New York, while Florida Governor Ron DeSantis moved some campaign staff to Iowa after receiving a $15 million cash infusion. Lastly, Trump announced a massive $45.5 million fund-raising haul that tripled that of DeSantis&#39;.</p>
+The world is facing some tough times right now with many major changes going on. This summer was one of the hottest on record for many parts of the U.S., which is especially stressful for the millions of Americans who are struggling to stay safe from heat exposure without proper safety standards in place. In the U.S., we&#39;re suddenly seeing a shift to cooler, autumnal weather, and there have been a lot of changes within our government too - most recently the dramatic departure of Kevin McCarthy from his position as House Speaker. The tumult has even extended to Ukraine, where there&#39;s anxiety around how their upcoming presidential election will happen in the midst of war. On a more positive note, there has been progress on some fronts: the Swedish Academy has put together a system for choosing Nobel Prize Laureates that is specific and secretive, and the UAW has secured its new leader who has vowed to fight for workers rights against powerful corporations.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Why Summers May Never Be the Same</h3>
+<sub>By Julie Bosman</sub>
+<p>The globe’s warmest months on record redefined summer for many Americans.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Workers Exposed to Extreme Heat Have Few Protections</h3>
+<sub>By Noah Weiland</sub>
+<p>Tens of millions of Americans are struggling to cope with soaring temperatures. OSHA is developing new workplace safety standards, but they are not yet complete.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Suddenly, It Will Be Autumn for Much of the U.S. This Weekend</h3>
+<sub>By Judson Jones</sub>
+<p>The fall season has been off to a late start in the central and Northeastern United States, but chilly air this weekend could be a jolt, especially to those who endured a sweltering summer.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>Today’s Top News: Secretary Blinken Travels to Mexico, and More</h3>
+<sub>By New York Times Audio</sub>
+<p>Exclusively from New York Times Audio, our new app.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>To the World, McCarthy’s Exit Is Just Another Example of U.S. Disarray</h3>
+<sub>By Peter Baker</sub>
+<p>Amid upheaval on Capitol Hill and the undermining of democratic norms, the country’s institutions are under profound stress.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>From a Capitol Hill Basement, Bannon Stokes the Republican Party Meltdown</h3>
 <sub>By Annie Karni</sub>
 <p>The former Trump adviser has helped create the spectacle of G.O.P. dysfunction, using it to build his own following and those of the right-wing House rebels who took down Kevin McCarthy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Scalise and Jordan Announce Bids for Speaker as Vacancy Paralyzes the House</h3>
-<sub>By Carl Hulse and Luke Broadwater</sub>
-<p>Representatives Steve Scalise of Louisiana and Jim Jordan of Ohio are both running to succeed Kevin McCarthy, who was ousted as speaker.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -80,59 +104,35 @@ There&#39;s a lot happening in the world right now. In the US, former Trump advi
 <p>Representative Nancy Pelosi had been given a “hideaway” office suite as a courtesy — one that was rescinded after she did nothing to help Representative Kevin McCarthy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Cancels an Additional $9 Billion in Student Loan Debt</h3>
-<sub>By Zach Montague</sub>
-<p>The move comes just three days after student loan repayments resumed following a three-year pause.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-your-money-blue" alt="">
-<h3>Student Loan Payments Are Due Again. Here Are 5 Things to Know.</h3>
-<sub>By Tara Siegel Bernard</sub>
-<p>A three-year payment pause has ended in October. A more affordable repayment plan is available, and some borrowers will receive a fresh start.  <a href="https://nyti.ms/3sBAtUU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 31, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Haiti, Desperate for Peace, Turns to Police Notorious for Violence</h3>
-<sub>By Frances Robles and Abdi Latif Dahir</sub>
-<p>Police officers from Kenya are being dispatched to bring order to gang-ravaged Haiti, but in their own home country, they have been accused of brutality.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>A Ransom Note and a Fingerprint: How a Missing 9-Year-Old Was Found</h3>
-<sub>By Jesse McKinley</sub>
-<p>The rescue of Charlotte Sena began with a lucky break — and a possible missed opportunity — followed by old-fashioned police work.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Giuliani’s Drinking, Long a Fraught Subject, Has Trump Prosecutors’ Attention</h3>
-<sub>By Matt Flegenheimer and Maggie Haberman</sub>
-<p>The former mayor’s drinking has become an investigative subplot in Donald Trump’s federal case over 2020 election interference. But long before that, friends had grown deeply concerned.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>What’s Happened So Far at Donald J. Trump’s Civil Fraud Trial?</h3>
-<sub>By Kate Christobek and Jonah E. Bromwich</sub>
-<p>New York’s attorney general filed the lawsuit accusing the former president of inflating the value of his assets. She seeks a $250 million penalty and other punishments.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Wartime Election in Ukraine? It’s a Political Hot Potato.</h3>
+<h3>Zelensky’s First Term Is Almost Up. No One’s Sure What Happens Next.</h3>
 <sub>By Andrew E. Kramer</sub>
-<p>In normal circumstances, President Volodymyr Zelensky would be running for re-election next spring. Analysts say an election is unlikely, but the prospect is causing some anxiety in Kyiv.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>In normal circumstances, Ukraine’s president would face voters next spring. Analysts say a wartime election is unlikely, but the prospect is causing some anxiety in Kyiv.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis Gets a $15 Million Cash Infusion and Moves Staff to Iowa</h3>
-<sub>By Nicholas Nehamas, Jonathan Swan and Shane Goldmacher</sub>
-<p>The relocation caps a monthslong retooling of the campaign, which was in financial dire straits this summer. But the Florida governor still has a steep climb ahead.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 4, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-books-blue" alt="">
+<h3>Who is Jon Fosse?</h3>
+<sub>By Alex Marshall</sub>
+<p>  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Announces $45.5 Million Fund-Raising Haul, Tripling DeSantis</h3>
-<sub>By Shane Goldmacher</sub>
-<p>The Trump campaign’s total, which cannot be independently verified until later this month, was built in part by an outpouring of money after his mug shot in Georgia was released.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 4, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>How to Choose the Nobel Laureate: Tap a Literature Professor</h3>
+<sub>By Alex Marshall</sub>
+<p>The Swedish Academy sends out thousands of invitations each year for professors and others in the literary world to nominate writers for the prize in a secretive and precise process.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>How a Chain-Snatching and a Vegas Beatdown Led to Tupac’s Murder</h3>
+<sub>By Joe Coscarelli, Julia Jacobs, Jonathan Abrams and Jill Cowan</sub>
+<p>Grand jury witness testimony describes how hyperlocal clashes between warring gang factions spilled into a fatal dispute that would alter the course of hip-hop history.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>New U.A.W. Chief Has a Nonnegotiable Demand: Eat the Rich</h3>
+<sub>By David Streitfeld</sub>
+<p>Shawn Fain’s disdain for the “billionaire class” informs his showdown with Detroit’s automakers. Now he must prove that his hard-core tactics pay off.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
