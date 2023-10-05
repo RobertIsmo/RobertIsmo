@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, October 5, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now! Former Trump adviser Steve Bannon is reportedly working to create &#39;spectacle&#39; of Republican Party dysfunction. Meanwhile, Representatives Steve Scalise and Jim Jordan have announced bids for Speaker of the House, and Nancy Pelosi was evicted from a &#39;hideaway&#39; office suite in the commotion. Joe Biden has just canceled an additional $9 billion in student loan debt, and repayment for student loans just recently resumed. Across the world in Haiti, police officers from are being sent to try to quell the ongoing gang-related violence. Closer to home, Donald J. Trump is facing a civil fraud trial while Governor DeSantis has received a big infusion of cash and relocated some of his staff to Iowa. Lastly, there&#39;s been a dramatic rise in gun deaths among children and teenagers according to recent studies.</p>
+There&#39;s a lot happening in the world right now. In the US, former Trump adviser Steve Bannon is trying to create schism within the Republican party from his Capitol Hill basement. Representatives Steve Scalise and Jim Jordan have both announced bids to be Speaker of the House, and Nancy Pelosi recently lost her bonus office. Joe Biden cancelled $9 billion in student loan debt, and there are new regulations for student loan repayments. In Haiti, police from Kenya are being sent to bring order to gang-ravaged areas. Charlotte Sena, a 9 year old who went missing recently, was found thanks to a lucky break and some good detective work. Donald J. Trump is also on trial just now for civil fraud in New York, while Florida Governor Ron DeSantis moved some campaign staff to Iowa after receiving a $15 million cash infusion. Lastly, Trump announced a massive $45.5 million fund-raising haul that tripled that of DeSantis&#39;.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>From a Capitol Hill Basement, Bannon Stokes the Republican Party Meltdown</h3>
@@ -116,6 +116,12 @@ There&#39;s a lot going on in the world right now! Former Trump adviser Steve Ba
 <p>New York’s attorney general filed the lawsuit accusing the former president of inflating the value of his assets. She seeks a $250 million penalty and other punishments.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 2, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Wartime Election in Ukraine? It’s a Political Hot Potato.</h3>
+<sub>By Andrew E. Kramer</sub>
+<p>In normal circumstances, President Volodymyr Zelensky would be running for re-election next spring. Analysts say an election is unlikely, but the prospect is causing some anxiety in Kyiv.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 4, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>DeSantis Gets a $15 Million Cash Infusion and Moves Staff to Iowa</h3>
 <sub>By Nicholas Nehamas, Jonathan Swan and Shane Goldmacher</sub>
@@ -126,12 +132,6 @@ There&#39;s a lot going on in the world right now! Former Trump adviser Steve Ba
 <h3>Trump Announces $45.5 Million Fund-Raising Haul, Tripling DeSantis</h3>
 <sub>By Shane Goldmacher</sub>
 <p>The Trump campaign’s total, which cannot be independently verified until later this month, was built in part by an outpouring of money after his mug shot in Georgia was released.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Gun Deaths Rising Sharply Among Children, Study Finds</h3>
-<sub>By Roni Caryn Rabin</sub>
-<p>Firearm injuries are a leading cause of death among young children and teenagers in the United States.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
