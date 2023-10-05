@@ -60,23 +60,37 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, October 5, Central Standard Time</p>
 <p>
-The world is facing a lot of changes and issues. In terms of technology, chip makers are pushing back on Biden&#39;s China agenda and Nvidia, Intel and Qualcomm are campaigning to protect their business before crackdowns on the sale of semiconductor technology to Beijing. 
-
-In the business sector, Chinese electric vehicle companies are pulling ever further ahead due to government support and rapid technological advances. Meanwhile, in the US, Trump and Republicans are bashing electric vehicles while Biden Adminstration waives regulations to expand border wall due to high numbers of migrants in the Rio Grande Valley.
-
-Internationally, Secretary of State Blinken is visiting Mexico to discuss fentanyl, illegal migration and guns while there is a chaotic situation with border rules regarding who gets in the US. Further domestic issues include a federal inquiry for George Santos&#39;s accountant, Alabama being ordred to use congressional map that likely flips seat to Democrats and Cornel West dropping Greeb Party and running as an independent for his presidential campaign. Lastly, there is an interesting article about Tupac&#39;s murder and how it tied into warring gang factions.</p>
+Currently, there is a lot happening in the United States and around the world. In the U.S., the Biden administration is expanding border wall construction along the southern border in response to the high number of migrants in the Rio Grande Valley. Meanwhile, the secretary of state and other top U.S. officials met with Mexico&#39;s president to discuss issues that have divided the two countries. Additionally, rising interest rates have sparked conversations about debt sustainability and diesel prices could cause inflation to remain high. Trump and other Republicans are also vocally opposing electric vehicle production which has already begun transitioning away from traditional fuel power. Elsewhere, Kevin McCarthy&#39;s sudden fall and exit from House Speaker is indicative of deepening political divisions in Washington D.C. In Alabama, court orders are requiring them to make changes to congressional districts that could result in the first two Black representatives being elected into Congress if carried out properly. Lastly, Cornel West has dropped his Green Party nomination for president and is now running as an independent instead. On a slightly lighter note, there is also news of Nobel Prize winner Jon Fosse receiving acclaim for his literature that explores mortality and religion.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Reversal, Biden Administration Moves to Expand Border Wall</h3>
+<sub>By Miriam Jordan</sub>
+<p>The government cited the high numbers of migrants in the Rio Grande Valley in justifying the decision to build additional barriers along the Southern border.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>U.S. and Mexico Leaders Meet as Migration and Fentanyl Pose Major Challenge</h3>
+<sub>By Eileen Sullivan and Zolan Kanno-Youngs</sub>
+<p>The secretary of state and other top Biden administration officials met with Mexico’s president and other officials to discuss issues that have divided the two countries.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Higher Rates Stoke a Growing Chorus of Deficit Concerns</h3>
+<sub>By Jeanna Smialek, Jim Tankersley and Joe Rennison</sub>
+<p>A long period of higher interest rates would make the government’s large debt pile costly, a possibility that is fueling a conversation about debt sustainability.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Diesel Prices Could Keep Inflation High</h3>
+<sub>By Santul Nerkar and Clifford Krauss</sub>
+<p>The cost of the fuel has been rising in recent weeks and could spike this winter because of supply problems, analysts warn.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>How the Big Chip Makers Are Pushing Back on Biden’s China Agenda</h3>
 <sub>By Tripp Mickle, David McCabe and Ana Swanson</sub>
 <p>Nvidia, Intel and Qualcomm are campaigning to protect their businesses before further crackdowns on the sale of semiconductor technology to Beijing.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>China’s E.V. Threat: A Carmaker That Loses $35,000 a Car</h3>
-<sub>By Keith Bradsher</sub>
-<p>Chinese electric vehicle companies like Nio are pulling ever further ahead, partly through government support but also rapid technological advances.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Why Trump and the Rest of the G.O.P. Won’t Stop Bashing Electric Vehicles</h3>
@@ -85,45 +99,21 @@ Internationally, Secretary of State Blinken is visiting Mexico to discuss fentan
 <sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Kevin McCarthy’s Hometown, Reflections on His Sudden Fall</h3>
+<sub>By Jill Cowan</sub>
+<p>Bakersfield, Calif., became more diverse and culturally expansive while the former House speaker was increasingly caught up in Washington’s barbed politics.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>To the World, McCarthy’s Exit Is Just Another Example of U.S. Disarray</h3>
 <sub>By Peter Baker</sub>
 <p>Amid upheaval on Capitol Hill and the undermining of democratic norms, the country’s institutions are under profound stress.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>George Santos’s Accountant to Plead Guilty in Federal Inquiry</h3>
-<sub>By Grace Ashford</sub>
-<p>Nancy Marks, one of the embattled congressman’s closest associates, oversaw the campaign finances that have faced widespread scrutiny.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Reversal, Biden Administration Waives Regulations to Expand Border Wall</h3>
-<sub>By Miriam Jordan</sub>
-<p>The government cited the high numbers of migrants in the Rio Grande Valley in justifying the decision to build barriers along the Southern border.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Fentanyl, Illegal Migration and Guns Top Agenda as Blinken Visits Mexico</h3>
-<sub>By Eileen Sullivan and Zolan Kanno-Youngs</sub>
-<p>The secretary of state, Attorney General Merrick B. Garland and Homeland Security Secretary Alejandro Mayorkas plan to meet with Mexico’s leader and other officials to cement strategy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Who Gets In? A Guide to America’s Chaotic Border Rules.</h3>
-<sub>By Natalie Kitroeff, Christine Zhang, Miriam Jordan and Eileen Sullivan</sub>
-<p>New restrictions on asylum will lead many migrants to be deported — but others will still get into the United States. Here’s what the process will look like.  <a href="https://nyti.ms/3I3rjoV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Why Summers May Never Be the Same</h3>
-<sub>By Julie Bosman</sub>
-<p>The globe’s warmest months on record redefined summer for many Americans.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Alabama Is Ordered to Use Congressional Map That Likely Flips Seat to Democrats</h3>
+<h3>Alabama Is Ordered to Use a Congressional Map With Two Seats Democrats Can Win</h3>
 <sub>By Emily Cochrane</sub>
-<p>The new voting map, chosen by a court after it ruled that Alabama illegally diluted Black voting power, could lead the state to elect two Black representatives for the first time in its history.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The new district map is a remedy to Alabama’s illegal dilution of Black voting power, and may lead to the election of two Black representatives for the first time in the state’s history.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -136,6 +126,12 @@ Internationally, Secretary of State Blinken is visiting Mexico to discuss fentan
 <h3>How a Chain-Snatching and a Vegas Beatdown Led to Tupac’s Murder</h3>
 <sub>By Joe Coscarelli, Julia Jacobs, Jonathan Abrams and Jill Cowan</sub>
 <p>Grand jury witness testimony describes how hyperlocal clashes between warring gang factions spilled into a fatal dispute that would alter the course of hip-hop history.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-books-blue" alt="">
+<h3>Jon Fosse, Norwegian Author, Receives the Nobel Prize in Literature</h3>
+<sub>By Alex Marshall and Alexandra Alter</sub>
+<p>Long a favorite to receive the award, Fosse has found acclaim for work that explores mortality and religion, and radiates serenity.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
 <hr/>
 </ol>
