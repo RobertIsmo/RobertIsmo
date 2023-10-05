@@ -60,11 +60,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, October 4, Central Standard Time</p>
 <p>
-Right now there is a lot happening in the US, both politically and economically. Former Trump adviser Steve Bannon is using Republican Party dysfunction as a way to build his own following and that of some right-wing House rebels. Two Congressmen, Steve Scalise of Louisiana and Jim Jordan of Ohio, recently announced bids to become Speaker of the House after Kevin McCarthy was ousted. Nancy Pelosi was kicked out of a bonus office because she didn&#39;t support McCarthy. Joe Biden has just canceled another $9 billion of student loan debt, after a three-year pause on payments resumed earlier this month.
+It looks like there is a lot happening right now in the world. In the United States, former Trump adviser Steve Bannon is helping to create a lot of GOP dysfunction using Kevin McCarthy being ousted as speaker. Biden cancelled about $9 billion worth of student loan debt and there&#39;s a new trial involving Donald Trump accused of inflating his assets. Trump also recently announced a huge fund-raising haul. 
 
-Outside the US, Haiti is struggling with gang violence and is bringing in police officers from Kenya to help restore order, despite claims of brutality in their own country. In New York, police tracked down a missing 9-year-old girl through a ransom note and fingerprint evidence. Giuliani&#39;s drinkign is the subject of much attention in the wake of Donald Trump&#39;s federal case over 2020 election interference. Trump himself is involved in civil fraud trial which may cost him $250 million if he loses out.
-
-Florida Governor DeSantis received a financial boost recently and has moved some staff to Iowa as he looks for reelection. On the healthcare front, Kaiser Permanente employees have gone on strike after disagreements with their management over contracts. Finally, Yiyun Li has shared a story by Amy Bloom about the power of love with her writing students for 12 years as a way to remind them about hope in the face of difficulties.</p>
+On the international front, Haiti has recruited Kenyan Police officers to help bring order amid gang violence. Elsewhere, health care workers are on strike due to Kaiser Permanente failing to reach a new contract agreement.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>From a Capitol Hill Basement, Bannon Stokes the Republican Party Meltdown</h3>
@@ -126,16 +124,16 @@ Florida Governor DeSantis received a financial boost recently and has moved some
 <p>The relocation caps a monthslong retooling of the campaign, which was in financial dire straits this summer. But the Florida governor still has a steep climb ahead.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 4, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Announces $45.5 Million Fund-Raising Haul, Tripling DeSantis</h3>
+<sub>By Shane Goldmacher</sub>
+<p>The Trump campaign’s total, which cannot be independently verified until later this month, was built in part by an outpouring of money after his mug shot in Georgia was released.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 4, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>Kaiser Permanente Health Care Workers Begin Strike</h3>
 <sub>By Reed Abelson and Emily Baumgaertner</sub>
 <p>The health system failed to reach a new contract agreement with many of its unionized employees, who walked off the job in several states.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-books-blue" alt="">
-<h3>How to Raise a ‘Warrior Queen’</h3>
-<sub>By Yiyun Li</sub>
-<p>For 12 years, Yiyun Li taught her writing students a story by Amy Bloom about the power, and limitations, of love. Confronting unbearable grief, she returned to it.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
