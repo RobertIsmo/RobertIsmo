@@ -60,32 +60,8 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, October 5, Central Standard Time</p>
 <p>
-The world is facing some tough times right now with many major changes going on. This summer was one of the hottest on record for many parts of the U.S., which is especially stressful for the millions of Americans who are struggling to stay safe from heat exposure without proper safety standards in place. In the U.S., we&#39;re suddenly seeing a shift to cooler, autumnal weather, and there have been a lot of changes within our government too - most recently the dramatic departure of Kevin McCarthy from his position as House Speaker. The tumult has even extended to Ukraine, where there&#39;s anxiety around how their upcoming presidential election will happen in the midst of war. On a more positive note, there has been progress on some fronts: the Swedish Academy has put together a system for choosing Nobel Prize Laureates that is specific and secretive, and the UAW has secured its new leader who has vowed to fight for workers rights against powerful corporations.</p>
+There is a lot of upheaval and disarray in the US right now, with political institutions coming under intense pressure. A former Trump advisor, Steve Bannon, has been stirring up tensions in the Republican Party by encouraging House rebels to unseat Kevin McCarthy as leader. Nancy Pelosi was even recently removed from her &quot;bonus office&quot; after she didn&#39;t support McCarthy&#39;s appointment. Meanwhile, the summer months were the hottest on record for many Americans, impacting their way of life drastically. In addition, workers exposed to extreme heat lack proper protections from their employers. This weekend will feel especially abrupt to those in central and Northeastern states as it&#39;ll suddenly become fall. On the foreign policy side, Secretary of State Blinken is currently visiting Mexico to try to address issues like fentanyl smuggling, illegal immigration, and gun law enforcement. Back home, there has been an alarming rise in firearm death rates among children and teenagers.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Why Summers May Never Be the Same</h3>
-<sub>By Julie Bosman</sub>
-<p>The globe’s warmest months on record redefined summer for many Americans.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Workers Exposed to Extreme Heat Have Few Protections</h3>
-<sub>By Noah Weiland</sub>
-<p>Tens of millions of Americans are struggling to cope with soaring temperatures. OSHA is developing new workplace safety standards, but they are not yet complete.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Suddenly, It Will Be Autumn for Much of the U.S. This Weekend</h3>
-<sub>By Judson Jones</sub>
-<p>The fall season has been off to a late start in the central and Northeastern United States, but chilly air this weekend could be a jolt, especially to those who endured a sweltering summer.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>Today’s Top News: Secretary Blinken Travels to Mexico, and More</h3>
-<sub>By New York Times Audio</sub>
-<p>Exclusively from New York Times Audio, our new app.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>To the World, McCarthy’s Exit Is Just Another Example of U.S. Disarray</h3>
 <sub>By Peter Baker</sub>
@@ -104,10 +80,28 @@ The world is facing some tough times right now with many major changes going on.
 <p>Representative Nancy Pelosi had been given a “hideaway” office suite as a courtesy — one that was rescinded after she did nothing to help Representative Kevin McCarthy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Zelensky’s First Term Is Almost Up. No One’s Sure What Happens Next.</h3>
-<sub>By Andrew E. Kramer</sub>
-<p>In normal circumstances, Ukraine’s president would face voters next spring. Analysts say a wartime election is unlikely, but the prospect is causing some anxiety in Kyiv.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>Today’s Top News: Secretary Blinken Travels to Mexico, and More</h3>
+<sub>By New York Times Audio</sub>
+<p>Exclusively from New York Times Audio, our new app.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Why Summers May Never Be the Same</h3>
+<sub>By Julie Bosman</sub>
+<p>The globe’s warmest months on record redefined summer for many Americans.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Workers Exposed to Extreme Heat Have Few Protections</h3>
+<sub>By Noah Weiland</sub>
+<p>Tens of millions of Americans are struggling to cope with soaring temperatures. OSHA is developing new workplace safety standards, but they are not yet complete.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Suddenly, It Will Be Autumn for Much of the U.S. This Weekend</h3>
+<sub>By Judson Jones</sub>
+<p>The fall season has been off to a late start in the central and Northeastern United States, but chilly air this weekend could be a jolt, especially to those who endured a sweltering summer.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-books-blue" alt="">
@@ -128,11 +122,17 @@ The world is facing some tough times right now with many major changes going on.
 <p>Grand jury witness testimony describes how hyperlocal clashes between warring gang factions spilled into a fatal dispute that would alter the course of hip-hop history.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>New U.A.W. Chief Has a Nonnegotiable Demand: Eat the Rich</h3>
-<sub>By David Streitfeld</sub>
-<p>Shawn Fain’s disdain for the “billionaire class” informs his showdown with Detroit’s automakers. Now he must prove that his hard-core tactics pay off.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Fentanyl, Illegal Migration and Guns Top Agenda as Blinken Visits Mexico</h3>
+<sub>By Eileen Sullivan and Zolan Kanno-Youngs</sub>
+<p>The secretary of state, Attorney General Merrick B. Garland and Homeland Security Secretary Alejandro Mayorkas plan to meet with Mexico’s leader and other officials to cement strategy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Gun Deaths Rising Sharply Among Children, Study Finds</h3>
+<sub>By Roni Caryn Rabin</sub>
+<p>Firearm injuries are a leading cause of death among young children and teenagers in the United States.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
