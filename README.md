@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Thursday, October 5, Central Standard Time</p>
-<p>
-There are a few major stories happening right now. The US is beginning to build a portion of the border wall and deport Venezuelans, highlighting the struggle of humanitarian crises around the world. On Ukraine aid, House Republicans are split on whether to support continued aid to the country with Russia’s conflict. In Ukraine itself, at least 51 people were killed in an explosion in a tiny village. Putin suggested that the cause was cocaine and grenades. In Washington DC there is a struggle between Scalise and Jordan for House Speaker, with Trump threatening to get involved. Moving on to California, Kevin McCarthy’s hometown is reflecting on his sudden fall from power after certain political failures in Washington. Meanwhile, Dick Butkus has passed away at 80 after being an iconic football player with the Chicago Bears. Additionally, reports have come out that Trump revealed secrets about American submarines to an Australian businessman after leaving office. In an interview he used language associated with white supremacy and Hitler in regard to immigration. A lawsuit dropped by him against Michael Cohen indicated an attempt to silence him ahead of his testimony against Trump in a civil fraud case. To celebrate her legacy, Senator Dianne Feinstein got a memorial as she broke barriers over and over. Finally, Norwegian author Jon Fosse was given the Nobel Prize for Literature as he explored mortality and religion through his writing.</p>
+<p>It is Friday, October 6, Central Standard Time</p>
+<p> 
+There are a lot of things happening in the world right now. The US is building a stretch of border wall and beginning deportations to Venezuela, while some members of the Republican party are opposing aid for Ukraine. In Ukraine itself, there&#39;s been an explosion that killed at least 51 people in a village and Russian President Putin suggested a new narrative for what happened. In US politics, Donald Trump has endorsed Jim Jordan for the House Speaker race while Kevin McCarthy faced sudden fall in his hometown of Bakersfield, California. In sports, Dick Butkus who was a Hall of Fame Linebacker passed away last week at age 80. Also, there were reports that Trump divulged nuclear submarine secrets to an Australian businessman. He also made extreme anti-immigration comments which had echoes of white supremacy and Hitler. Trump then dropped a lawsuit against his former fixer Michael Cohen who is testifying against him in a civil fraud case brought by New York&#39;s attorney general. Finally, Dianne Feinstein was memorialized as women took the stage to remember her breaking barriers over and over again. And Norway&#39;s Jon Fosse was recently awarded the Nobel Prize for Literature for work that explores mortality and religion.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>U.S. Will Build Stretch of Border Wall and Begin Deportations to Venezuela</h3>
@@ -87,9 +87,9 @@ There are a few major stories happening right now. The US is beginning to build 
 <sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Scalise and Jordan Vie for Backing as Trump Hangs Over Speaker Race</h3>
+<h3>Trump Endorses Jim Jordan in Race for House Speaker</h3>
 <sub>By Luke Broadwater</sub>
-<p>The two lawmakers sought support from members of their fractured party as the former president threatened to get involved in a potentially fierce struggle over who will lead the House.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Representatives Jim Jordan and Steve Scalise sought support from members of the fractured Republican Party, and then former President Donald J. Trump weighed in.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
