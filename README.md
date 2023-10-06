@@ -60,18 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, October 6, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. We are seeing businesses becoming more jittery as the September job report approaches. Wall Street rates are jumping, and it could have an effect on housing and the economy. In politics, Biden is continuing the Border wall and there is a Republican split on Ukraine aid. In some parts of the world, like Iran, people are fighting for change and losing their careers, families and freedom in the process. Meanwhile, in Ukraine there was a strike that killed 1 in 6 villagers who were gathered at a memorial service. In other parts of the world geologists are predicting earthquakes but not receiving much support to make preparations. And lots of Venezuelans are migrating to the US for humanitarian reasons, but they are being overwhelmed by a lack of resources in some places. Trump recently endorsed one of two Republic candidates running for house speaker and as usual with Trump it&#39;s been chaotic in the Republican party.</p>
+Recent news articles show an economy that&#39;s cooling down but still seeing strong job gains, leading to increased hiring and a run-up in long-term interest rates. This is worrying investors and creating uncertainty in the stock market. Meanwhile, former Vice President Biden has announced plans to continue the construction of the border wall while facing opposition within his own party. In other international news, an Iranian activist who has suffered significant professional and personal losses due to her fight for change was nominated for a Nobel Peace Prize. Back in the U.S., Venezuelan migrants are putting strain on cities like Chicago, allowing Mayor Eric Adams to both praise earlier immigrants while warning new ones about potential future struggles. Finally, former President Trump officially endorsed Jim Jordan in the race for House Speaker over his competitor Steve Scalise.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Why Are Investors So Jittery?</h3>
-<sub>By Santul Nerkar and Joe Rennison</sub>
-<p>There’s unease on Wall Street, especially in the market for government bonds. The September jobs report could be pivotal.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Jobs Gains Surge, Troubling News for the Federal Reserve</h3>
+<sub>By Jeanna Smialek</sub>
+<p>Federal Reserve officials are happy when the labor market looks strong, but they are trying to cool the economy down to fully wrangle inflation.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Rates Are Jumping on Wall Street. What Will It Do to Housing and the Economy?</h3>
+<h3>Hiring Is Rising Along With Rates. Are They on a Collision Course?</h3>
 <sub>By Jeanna Smialek and Joe Rennison</sub>
 <p>A run-up in longer-term interest rates could help the Federal Reserve get the economic cool-down it wants — but it also risks a bumpy landing.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Yields Jump and Stocks Slip After Strong Jobs Report</h3>
+<sub>By Joe Rennison and Santul Nerkar</sub>
+<p>The report for September showed surprising strength in the economy, but that strength has become a cause for concern among investors.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-podcasts-blue" alt="">
@@ -86,22 +92,16 @@ There is a lot going on in the world right now. We are seeing businesses becomin
 <p>Fighting for change has cost Narges Mohammadi her career, separated her from family and deprived her of liberty. But a jail cell has not succeeded in silencing her.  <a href="https://nyti.ms/42kRq25"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, June 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Opposition to Ukraine Aid Becomes a Litmus Test for the Right</h3>
-<sub>By Karoun Demirjian</sub>
-<p>The drama that has played out among House Republicans over the past week has highlighted a sharp decline in the party’s willingness to back continued aid for Kyiv’s fight against Russia.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Strike Killed 1 in 6 of Ukraine Village’s Residents, Officials Say</h3>
-<sub>By Victoria Kim and David Guttenfelder</sub>
-<p>The population of Hroza, near Kharkiv, had dwindled to 300 before Thursday’s strike, which hit people gathered for a memorial service.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>‘My Heart Stopped’: Iranian Activist’s Family Exults From Afar, but Remains Fearful for Her</h3>
+<sub>By Juliette Guéron-Gabrielle</sub>
+<p>The family of Narges Mohammadi, who is serving a 10-year jail sentence in Tehran, had not yet spoken with her about the Nobel Peace Prize, because they cannot call the prison where she is held.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>His Earthquake Warnings Brought Him Fame. He Wishes More People Had Listened.</h3>
-<sub>By Ben Hubbard and Safak Timur</sub>
-<p>Naci Gorur, a geologist, has become a household name in Turkey for imploring the country to prepare for quakes he has predicted. He has been disappointed by the response and is deeply worried about Istanbul.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>In Mexico, Adams Praised Migrants. He Also Told Them to Stop Coming.</h3>
+<sub>By Andy Newman</sub>
+<p>Mayor Eric Adams went to Latin America with two missions: to promote New York City and praise earlier immigrants, and to tell new immigrants about the misery that awaits them if they come.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -117,22 +117,22 @@ There is a lot going on in the world right now. We are seeing businesses becomin
 <sub><sub>Friday, October 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Will Build Stretch of Border Wall and Begin Deportations to Venezuela</h3>
-<sub>By Miriam Jordan, Eileen Sullivan and Zolan Kanno-Youngs</sub>
-<p>The decisions underscore the challenges facing the Biden administration as humanitarian crises around the world drive more migrants to the U.S. border.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Opposition to Ukraine Aid Becomes a Litmus Test for the Right</h3>
+<sub>By Karoun Demirjian</sub>
+<p>The drama that has played out among House Republicans over the past week has highlighted a sharp decline in the party’s willingness to back continued aid for Kyiv’s fight against Russia.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>His Earthquake Warnings Brought Him Fame. He Wishes More People Had Listened.</h3>
+<sub>By Ben Hubbard and Safak Timur</sub>
+<p>Naci Gorur, a geologist, has become a household name in Turkey for imploring the country to prepare for quakes he has predicted. He has been disappointed by the response and is deeply worried about Istanbul.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Endorses Jim Jordan in Race for House Speaker</h3>
 <sub>By Luke Broadwater</sub>
 <p>Representatives Jim Jordan and Steve Scalise sought support from members of the fractured Republican Party, and then former President Donald J. Trump weighed in.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>For Republicans in the Trump Era, Chaos Often Seems to Be the Point</h3>
-<sub>By Michael C. Bender</sub>
-<p>A revolt in Congress. Insurgent candidacies in swing states. A likely nominee on trial. This week showed how the party has turned more insular, antagonistic and repellent to general-election voters.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 6, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
