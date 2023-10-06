@@ -59,8 +59,8 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
 <p>It is Friday, October 6, Central Standard Time</p>
-<p> 
-There are a lot of things happening in the world right now. The US is building a stretch of border wall and beginning deportations to Venezuela, while some members of the Republican party are opposing aid for Ukraine. In Ukraine itself, there&#39;s been an explosion that killed at least 51 people in a village and Russian President Putin suggested a new narrative for what happened. In US politics, Donald Trump has endorsed Jim Jordan for the House Speaker race while Kevin McCarthy faced sudden fall in his hometown of Bakersfield, California. In sports, Dick Butkus who was a Hall of Fame Linebacker passed away last week at age 80. Also, there were reports that Trump divulged nuclear submarine secrets to an Australian businessman. He also made extreme anti-immigration comments which had echoes of white supremacy and Hitler. Trump then dropped a lawsuit against his former fixer Michael Cohen who is testifying against him in a civil fraud case brought by New York&#39;s attorney general. Finally, Dianne Feinstein was memorialized as women took the stage to remember her breaking barriers over and over again. And Norway&#39;s Jon Fosse was recently awarded the Nobel Prize for Literature for work that explores mortality and religion.</p>
+<p>
+There&#39;s a lot of news happening both domestically and around the world. In the U.S., the Biden Administration is making decisions about building a stretch of border wall and deporting people to Venezuela while House Republicans are debating continued aid to Ukraine in their fight against Russia. In Ukraine, a Russian strike killed at least 51 people in a village with no military or industrial targets nearby. Meanwhile, in Russia, President Putin suggested that a plane crash be framed as involving cocaine and grenades. Norwegian author Jon Fosse recently won the Nobel Prize in Literature, while Trump endorsed Jim Jordan in the race for House Speaker, although his former fixer Michael Cohen dropped his suit against him. Lastly, Senator Dianne Feinstein was honored at her memorial with many tributes from female trailblazers.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>U.S. Will Build Stretch of Border Wall and Begin Deportations to Venezuela</h3>
@@ -81,9 +81,15 @@ There are a lot of things happening in the world right now. The US is building a
 <sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Putin suggests a new narrative for Prigozhin’s deadly plane crash: cocaine and grenades.</h3>
+<h3>Putin Suggests New Narrative for Prigozhin Plane Crash: Cocaine and Grenades</h3>
 <sub>By Anton Troianovski</sub>
 <p>The Russian president said grenade fragments were found in the bodies recovered from the crash site after the Wagner mercenary leader’s plane went down in August.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-books-blue" alt="">
+<h3>Jon Fosse, Norwegian Author, Receives the Nobel Prize in Literature</h3>
+<sub>By Alex Marshall and Alexandra Alter</sub>
+<p>Long a favorite to receive the award, Fosse has found acclaim for work that explores mortality and religion, and radiates serenity.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -126,12 +132,6 @@ There are a lot of things happening in the world right now. The US is building a
 <h3>Remembering Senator Dianne Feinstein: ‘She Showed the Way’</h3>
 <sub>By Heather Knight</sub>
 <p>Women dominated the stage at a memorial on Thursday for Ms. Feinstein, who broke barriers, over and over.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-books-blue" alt="">
-<h3>Jon Fosse, Norwegian Author, Receives the Nobel Prize in Literature</h3>
-<sub>By Alex Marshall and Alexandra Alter</sub>
-<p>Long a favorite to receive the award, Fosse has found acclaim for work that explores mortality and religion, and radiates serenity.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
 <hr/>
 </ol>
