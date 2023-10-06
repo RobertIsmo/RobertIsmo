@@ -60,42 +60,36 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, October 5, Central Standard Time</p>
 <p>
-Currently, there is a lot happening in the United States and around the world. In the U.S., the Biden administration is expanding border wall construction along the southern border in response to the high number of migrants in the Rio Grande Valley. Meanwhile, the secretary of state and other top U.S. officials met with Mexico&#39;s president to discuss issues that have divided the two countries. Additionally, rising interest rates have sparked conversations about debt sustainability and diesel prices could cause inflation to remain high. Trump and other Republicans are also vocally opposing electric vehicle production which has already begun transitioning away from traditional fuel power. Elsewhere, Kevin McCarthy&#39;s sudden fall and exit from House Speaker is indicative of deepening political divisions in Washington D.C. In Alabama, court orders are requiring them to make changes to congressional districts that could result in the first two Black representatives being elected into Congress if carried out properly. Lastly, Cornel West has dropped his Green Party nomination for president and is now running as an independent instead. On a slightly lighter note, there is also news of Nobel Prize winner Jon Fosse receiving acclaim for his literature that explores mortality and religion.</p>
+There is a lot happening in the world right now! The US is building a stretch of border wall and starting deportations to Venezuela, while there has been opposition from some Republicans on continued aid to Ukraine. In Ukraine, there was an explosion that killed at least 51 people, while Russian president Putin suggested a new narrative for a deadly plane crash. In the US, the Republican party is facing internal disagreements over their Speaker race, while former House Speaker Kevin McCarthy&#39;s hometown reflects on his fall. President Biden is watching all the political dysfunction from a distance and trying to contrast his own achievements with it. In other news, NFL hall of famer Dick Butkus passed away at 80, while former president Trump is facing charges tied to the 2020 election. Finally, Alabama was ordered to use a map with two districts that empower Black voters and may lead to the election of two Black representatives for the first time in the state&#39;s history.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Reversal, Biden Administration Moves to Expand Border Wall</h3>
-<sub>By Miriam Jordan</sub>
-<p>The government cited the high numbers of migrants in the Rio Grande Valley in justifying the decision to build additional barriers along the Southern border.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>U.S. Will Build Stretch of Border Wall and Begin Deportations to Venezuela</h3>
+<sub>By Miriam Jordan, Eileen Sullivan and Zolan Kanno-Youngs</sub>
+<p>The decisions underscore the challenges facing the Biden administration as humanitarian crises around the world drive more migrants to the U.S. border.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Opposition to Ukraine Aid Becomes a Litmus Test for the Right</h3>
+<sub>By Karoun Demirjian</sub>
+<p>The drama that has played out among House Republicans over the past week has highlighted a sharp decline in the party’s willingness to back continued aid for Kyiv’s fight against Russia.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>U.S. and Mexico Leaders Meet as Migration and Fentanyl Pose Major Challenge</h3>
-<sub>By Eileen Sullivan and Zolan Kanno-Youngs</sub>
-<p>The secretary of state and other top Biden administration officials met with Mexico’s president and other officials to discuss issues that have divided the two countries.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Gathering to Mourn the Dead, and Dying Themselves in an Explosion in Ukraine</h3>
+<sub>By Andrew E. Kramer, David Guttenfelder and Eric Nagourney</sub>
+<p>Ukrainian officials said a Russian strike had killed at least 51 people in a tiny village with no obvious military or industrial targets nearby.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Higher Rates Stoke a Growing Chorus of Deficit Concerns</h3>
-<sub>By Jeanna Smialek, Jim Tankersley and Joe Rennison</sub>
-<p>A long period of higher interest rates would make the government’s large debt pile costly, a possibility that is fueling a conversation about debt sustainability.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Diesel Prices Could Keep Inflation High</h3>
-<sub>By Santul Nerkar and Clifford Krauss</sub>
-<p>The cost of the fuel has been rising in recent weeks and could spike this winter because of supply problems, analysts warn.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>How the Big Chip Makers Are Pushing Back on Biden’s China Agenda</h3>
-<sub>By Tripp Mickle, David McCabe and Ana Swanson</sub>
-<p>Nvidia, Intel and Qualcomm are campaigning to protect their businesses before further crackdowns on the sale of semiconductor technology to Beijing.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Putin suggests a new narrative for Prigozhin’s deadly plane crash: cocaine and grenades.</h3>
+<sub>By Anton Troianovski</sub>
+<p>The Russian president said grenade fragments were found in the bodies recovered from the crash site after the Wagner mercenary leader’s plane went down in August.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Why Trump and the Rest of the G.O.P. Won’t Stop Bashing Electric Vehicles</h3>
-<sub>By Jonathan Weisman and Anjali Huynh</sub>
-<p>The industry’s transition to battery power is already underway. Republican presidential candidates are pushing to reverse course.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Scalise and Jordan Vie for Backing as Trump Hangs Over Speaker Race</h3>
+<sub>By Luke Broadwater</sub>
+<p>The two lawmakers sought support from members of their fractured party as the former president threatened to get involved in a potentially fierce struggle over who will lead the House.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -105,33 +99,39 @@ Currently, there is a lot happening in the United States and around the world. I
 <sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>To the World, McCarthy’s Exit Is Just Another Example of U.S. Disarray</h3>
-<sub>By Peter Baker</sub>
-<p>Amid upheaval on Capitol Hill and the undermining of democratic norms, the country’s institutions are under profound stress.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Biden Watches Republican Dysfunction From a Distance</h3>
+<sub>By Michael D. Shear</sub>
+<p>President Biden has chosen not to weigh in forcefully on the Republican meltdown in the House, instead trying to contrast his own achievements with the chaos of his rivals.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Dick Butkus, Fearsome Hall of Fame Linebacker, Is Dead at 80</h3>
+<sub>By Richard Goldstein</sub>
+<p>He was both hard hitting against the run and fleet-footed in foiling pass plays in his eight seasons with the Chicago Bears. He later took up acting.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Alabama Is Ordered to Use a Congressional Map With Two Seats Democrats Can Win</h3>
+<h3>Trump Said to Have Revealed Nuclear Submarine Secrets to Australian Businessman</h3>
+<sub>By Alan Feuer, Ben Protess, Maggie Haberman and Jonathan Swan</sub>
+<p>Soon after leaving office, the former president shared sensitive information about American submarines with a billionaire member of Mar-a-Lago, according to people familiar with the matter.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Seeks Dismissal of Federal Election Case, Claiming Immunity</h3>
+<sub>By Alan Feuer and Charlie Savage</sub>
+<p>Donald Trump’s lawyers asked a judge to throw out charges that he conspired to overturn the 2020 election, arguing that a president could not be criminally prosecuted for official acts.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Asks Again to Delay Documents Trial Until After Election</h3>
+<sub>By Alan Feuer</sub>
+<p>The former president’s lawyers said his trial on charges of mishandling classified information should be delayed from its planned start in May because of problems gaining access to all the evidence.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Alabama Is Ordered to Use Map With Two Districts That Empower Black Voters</h3>
 <sub>By Emily Cochrane</sub>
 <p>The new district map is a remedy to Alabama’s illegal dilution of Black voting power, and may lead to the election of two Black representatives for the first time in the state’s history.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Cornel West, Dropping Green Party, Will Run as an Independent</h3>
-<sub>By Charles Homans</sub>
-<p>The left-wing scholar and writer has sought and then abandoned two third-party nominations since announcing his presidential campaign in June.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>How a Chain-Snatching and a Vegas Beatdown Led to Tupac’s Murder</h3>
-<sub>By Joe Coscarelli, Julia Jacobs, Jonathan Abrams and Jill Cowan</sub>
-<p>Grand jury witness testimony describes how hyperlocal clashes between warring gang factions spilled into a fatal dispute that would alter the course of hip-hop history.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-books-blue" alt="">
-<h3>Jon Fosse, Norwegian Author, Receives the Nobel Prize in Literature</h3>
-<sub>By Alex Marshall and Alexandra Alter</sub>
-<p>Long a favorite to receive the award, Fosse has found acclaim for work that explores mortality and religion, and radiates serenity.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
 <hr/>
 </ol>
