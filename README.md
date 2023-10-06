@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, October 5, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now! The US is building a stretch of border wall and starting deportations to Venezuela, while there has been opposition from some Republicans on continued aid to Ukraine. In Ukraine, there was an explosion that killed at least 51 people, while Russian president Putin suggested a new narrative for a deadly plane crash. In the US, the Republican party is facing internal disagreements over their Speaker race, while former House Speaker Kevin McCarthy&#39;s hometown reflects on his fall. President Biden is watching all the political dysfunction from a distance and trying to contrast his own achievements with it. In other news, NFL hall of famer Dick Butkus passed away at 80, while former president Trump is facing charges tied to the 2020 election. Finally, Alabama was ordered to use a map with two districts that empower Black voters and may lead to the election of two Black representatives for the first time in the state&#39;s history.</p>
+There are a few major stories happening right now. The US is beginning to build a portion of the border wall and deport Venezuelans, highlighting the struggle of humanitarian crises around the world. On Ukraine aid, House Republicans are split on whether to support continued aid to the country with Russia’s conflict. In Ukraine itself, at least 51 people were killed in an explosion in a tiny village. Putin suggested that the cause was cocaine and grenades. In Washington DC there is a struggle between Scalise and Jordan for House Speaker, with Trump threatening to get involved. Moving on to California, Kevin McCarthy’s hometown is reflecting on his sudden fall from power after certain political failures in Washington. Meanwhile, Dick Butkus has passed away at 80 after being an iconic football player with the Chicago Bears. Additionally, reports have come out that Trump revealed secrets about American submarines to an Australian businessman after leaving office. In an interview he used language associated with white supremacy and Hitler in regard to immigration. A lawsuit dropped by him against Michael Cohen indicated an attempt to silence him ahead of his testimony against Trump in a civil fraud case. To celebrate her legacy, Senator Dianne Feinstein got a memorial as she broke barriers over and over. Finally, Norwegian author Jon Fosse was given the Nobel Prize for Literature as he explored mortality and religion through his writing.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>U.S. Will Build Stretch of Border Wall and Begin Deportations to Venezuela</h3>
@@ -98,12 +98,6 @@ There is a lot happening in the world right now! The US is building a stretch of
 <p>Bakersfield, Calif., became more diverse and culturally expansive while the former House speaker was increasingly caught up in Washington’s barbed politics.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Watches Republican Dysfunction From a Distance</h3>
-<sub>By Michael D. Shear</sub>
-<p>President Biden has chosen not to weigh in forcefully on the Republican meltdown in the House, instead trying to contrast his own achievements with the chaos of his rivals.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Dick Butkus, Fearsome Hall of Fame Linebacker, Is Dead at 80</h3>
 <sub>By Richard Goldstein</sub>
@@ -117,21 +111,27 @@ There is a lot happening in the world right now! The US is building a stretch of
 <sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Seeks Dismissal of Federal Election Case, Claiming Immunity</h3>
-<sub>By Alan Feuer and Charlie Savage</sub>
-<p>Donald Trump’s lawyers asked a judge to throw out charges that he conspired to overturn the 2020 election, arguing that a president could not be criminally prosecuted for official acts.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Trump Escalates Anti-Immigrant Rhetoric With ‘Poisoning the Blood’ Comment</h3>
+<sub>By Trip Gabriel</sub>
+<p>When asked about immigration in a recent interview, the former president used language with echoes of white supremacy and Hitler.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Trump Drops Lawsuit Against Michael Cohen, His Former Fixer</h3>
+<sub>By Ben Protess and Maggie Haberman</sub>
+<p>The suit had been seen as an effort to silence Mr. Cohen, who is scheduled to testify against Mr. Trump in the civil fraud case brought by New York’s attorney general.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Asks Again to Delay Documents Trial Until After Election</h3>
-<sub>By Alan Feuer</sub>
-<p>The former president’s lawyers said his trial on charges of mishandling classified information should be delayed from its planned start in May because of problems gaining access to all the evidence.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Remembering Senator Dianne Feinstein: ‘She Showed the Way’</h3>
+<sub>By Heather Knight</sub>
+<p>Women dominated the stage at a memorial on Thursday for Ms. Feinstein, who broke barriers, over and over.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Alabama Is Ordered to Use Map With Two Districts That Empower Black Voters</h3>
-<sub>By Emily Cochrane</sub>
-<p>The new district map is a remedy to Alabama’s illegal dilution of Black voting power, and may lead to the election of two Black representatives for the first time in the state’s history.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-books-blue" alt="">
+<h3>Jon Fosse, Norwegian Author, Receives the Nobel Prize in Literature</h3>
+<sub>By Alex Marshall and Alexandra Alter</sub>
+<p>Long a favorite to receive the award, Fosse has found acclaim for work that explores mortality and religion, and radiates serenity.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
 <hr/>
 </ol>
