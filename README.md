@@ -60,9 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, October 6, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. House Speaker Nancy Pelosi and former President Trump have an intense power struggle going on as Trump is exerting influence over his party and even in the country after the presidency in a way that has never been seen before. Meanwhile, Florida politician Matt Gaetz is sparking speculation about his plans to run for governor of Florida in 2026. For some good news, job gains surged, despite concerns from the Federal Reserve about inflation. Yields are jumping and stocks are swinging due to strong employment reports. 
-Other news worth mentioning includes Iranian human rights activist Narges Mohammadi being awarded the Nobel Peace Prize, New York Mayor Eric Adams traveling to Latin America to promote NYC while at the same time warning migrants about the dangers of coming there, a surge of Venezuelan migrants overwhelming Chicago, and a popular author Michael Lewis coming under scrutiny for his new book about a crypto mogul Sam Bankman-Fried. Finally, there are questions around U.S. Aid to Ukraine and how long it will last with decreased Republican support.</p>
+Right now, the US is going through a lot of political tensions and discontent. There&#39;s a Republican leadership void and former President Trump still threatens to overshadow Biden. Meanwhile, New York City&#39;s mayor recently went to Latin America to offer refugees an unappealing reality check if they tried to come to NYC. Conflict overseas continues too; one missile strike in Ukraine wiped out almost an entire family and village, while an Iranian human rights activist has won a Nobel Peace Prize after decades of work for women’s equality. In the US, job growth is surging, but justice remains elusive in some cases as a fatal crash involving Senator Robert Menendez is being investigated. Finally, even the MTA&#39;s budget in New York is recovering - but it remains to be seen if it can buy rider happiness.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How Do Americans Feel About Politics? ‘Disgust Isn’t a Strong Enough Word’</h3>
+<sub>By Jack Healy, J. David Goodman, Jenna Russell and Alan Blinder</sub>
+<p>Voters’ broad discontent with disarray in Washington transcends political parties, race, age and geography.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 6, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>House Speaker, Ukraine War, Border Wall: Trump’s Influence Reaches a Post-Presidency Peak</h3>
 <sub>By Jonathan Weisman</sub>
@@ -75,28 +80,40 @@ Other news worth mentioning includes Iranian human rights activist Narges Mohamm
 <p>As rumors swirl about a 2026 bid for governor of Florida, Matt Gaetz said his only political goal was “electing President Trump again.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>Chaos or Conscience? A Republican Explains His Vote to Oust McCarthy.</h3>
-<sub>By Michael Barbaro, Asthaa Chaturvedi, Olivia Natt, Summer Thomad, Shannon Lin, Rachel Quester, Paige Cowett, Lisa Chow, Brendan Klinkenberg, Marion Lozano, Will Reid and Alyssa Moxley</sub>
-<p>Representative Tim Burchett of Tennessee talks about why he felt so betrayed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How Biden’s Promises to Reverse Trump’s Immigration Policies Crumbled</h3>
+<sub>By Michael D. Shear</sub>
+<p>President Biden has tried to contain a surge of migration by embracing, or at least tolerating, some of his predecessor’s approaches.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Adams to Migrants in Mexico: We Love You. Now Stop Coming to New York.</h3>
+<sub>By Andy Newman</sub>
+<p>Mayor Eric Adams went to Latin America with two missions: to promote New York City and praise earlier immigrants, and to tell new immigrants about the misery that awaits them if they come.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The Blast That Wiped Out a Family and Left Rows of Empty Homes</h3>
+<sub>By Andrew E. Kramer, Maria Varenikova and David Guttenfelder</sub>
+<p>A missile strike on the Ukrainian village of Hroza killed at least 52 people, including every known member of one immediate family. As much as a third of the population was killed in the strike. “Everybody died,” one resident said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Jobs Gains Surge, Troubling News for the Federal Reserve</h3>
-<sub>By Jeanna Smialek</sub>
-<p>Federal Reserve officials are happy when the labor market looks strong, but they are trying to cool the economy down to fully wrangle inflation.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Michael Lewis Doesn’t Do Villains</h3>
+<sub>By Christopher Beam</sub>
+<p>With his new book about the crypto mogul Sam Bankman-Fried — and new questions about his old work — the famously charmed writer finds himself under a microscope.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Gary Wang, an FTX Founder, Says Sam Bankman-Fried Steered Misuse of Funds</h3>
+<sub>By David Yaffe-Bellany, J. Edward Moreno and Matthew Goldstein</sub>
+<p>Mr. Wang is one of three key witnesses who pleaded guilty and agreed to cooperate against Mr. Bankman-Fried, the onetime crypto mogul on trial for fraud.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Hiring Is Rising Along With Rates. Are They on a Collision Course?</h3>
-<sub>By Jeanna Smialek and Joe Rennison</sub>
-<p>A run-up in longer-term interest rates could help the Federal Reserve get the economic cool-down it wants — but it also risks a bumpy landing.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Yields Jump and Stocks Swing After Strong Jobs Report</h3>
-<sub>By Joe Rennison and Santul Nerkar</sub>
-<p>Employment data for September showed surprising strength in the economy, but that resiliency has become a cause for concern among investors.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Strong U.S. Job Growth Shows Economy Is Defying Challenges</h3>
+<sub>By Talmon Joseph Smith</sub>
+<p>Employers added 336,000 jobs in September, almost double what experts had forecast and the biggest gain since January. Markets welcomed the report.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -106,33 +123,15 @@ Other news worth mentioning includes Iranian human rights activist Narges Mohamm
 <sub><sub>Friday, October 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Adams to Migrants in Mexico: We Love You. Now Stop Coming to New York.</h3>
-<sub>By Andy Newman</sub>
-<p>Mayor Eric Adams went to Latin America with two missions: to promote New York City and praise earlier immigrants, and to tell new immigrants about the misery that awaits them if they come.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>As Winter Looms, Venezuelan Migrant Surge Overwhelms Chicago</h3>
-<sub>By Ernesto Londoño and Julie Bosman</sub>
-<p>Police stations have become tent encampments. More than 800 migrants are sleeping at Chicago O’Hare International Airport. City officials are scrambling.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Michael Lewis Doesn’t Do Villains</h3>
-<sub>By Christopher Beam</sub>
-<p>With his new book about the crypto mogul Sam Bankman-Fried — and new questions about his old work — the famously charmed writer finds himself under a microscope.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>The N.Y.C. Subway Is No Longer Broke. Can It Buy Rider Happiness?</h3>
 <sub>By Ana Ley</sub>
 <p>For as long as many New Yorkers can remember, the M.T.A. has needed more money. Now its budget is finally whole, and the pressure for good service is on.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Aid to Ukraine, and When It Might Run Out, Explained</h3>
-<sub>By Michael Crowley</sub>
-<p>President Biden has said the United States will assist Ukraine’s fight against Russia “for as long as it takes.” But Republican support for continuing aid has declined.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Fatal Crash Involving Nadine Menendez Is Under New Investigation</h3>
+<sub>By Tracey Tully, Nicholas Fandos and Luis Ferré-Sadurní</sub>
+<p>The scrutiny could create fresh legal and political peril for Senator Robert Menendez, a Democrat, who has been charged with accepting bribes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 6, Central Standard Time</sub></sub>
 <hr/>
 </ol>
