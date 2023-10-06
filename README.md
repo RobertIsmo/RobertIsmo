@@ -60,13 +60,31 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, October 6, Central Standard Time</p>
 <p>
-There&#39;s a lot of news happening both domestically and around the world. In the U.S., the Biden Administration is making decisions about building a stretch of border wall and deporting people to Venezuela while House Republicans are debating continued aid to Ukraine in their fight against Russia. In Ukraine, a Russian strike killed at least 51 people in a village with no military or industrial targets nearby. Meanwhile, in Russia, President Putin suggested that a plane crash be framed as involving cocaine and grenades. Norwegian author Jon Fosse recently won the Nobel Prize in Literature, while Trump endorsed Jim Jordan in the race for House Speaker, although his former fixer Michael Cohen dropped his suit against him. Lastly, Senator Dianne Feinstein was honored at her memorial with many tributes from female trailblazers.</p>
+There is a lot going on in the world right now. We are seeing businesses becoming more jittery as the September job report approaches. Wall Street rates are jumping, and it could have an effect on housing and the economy. In politics, Biden is continuing the Border wall and there is a Republican split on Ukraine aid. In some parts of the world, like Iran, people are fighting for change and losing their careers, families and freedom in the process. Meanwhile, in Ukraine there was a strike that killed 1 in 6 villagers who were gathered at a memorial service. In other parts of the world geologists are predicting earthquakes but not receiving much support to make preparations. And lots of Venezuelans are migrating to the US for humanitarian reasons, but they are being overwhelmed by a lack of resources in some places. Trump recently endorsed one of two Republic candidates running for house speaker and as usual with Trump it&#39;s been chaotic in the Republican party.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Will Build Stretch of Border Wall and Begin Deportations to Venezuela</h3>
-<sub>By Miriam Jordan, Eileen Sullivan and Zolan Kanno-Youngs</sub>
-<p>The decisions underscore the challenges facing the Biden administration as humanitarian crises around the world drive more migrants to the U.S. border.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Why Are Investors So Jittery?</h3>
+<sub>By Santul Nerkar and Joe Rennison</sub>
+<p>There’s unease on Wall Street, especially in the market for government bonds. The September jobs report could be pivotal.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Rates Are Jumping on Wall Street. What Will It Do to Housing and the Economy?</h3>
+<sub>By Jeanna Smialek and Joe Rennison</sub>
+<p>A run-up in longer-term interest rates could help the Federal Reserve get the economic cool-down it wants — but it also risks a bumpy landing.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>Biden Will Continue Border Wall, and More</h3>
+<sub>By New York Times Audio</sub>
+<p>Plus, a Republican split on Ukraine aid and a lawsuit by female truck drivers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>She Lost Her Career, Family and Freedom. She’s Still Fighting to Change Iran.</h3>
+<sub>By Farnaz Fassihi</sub>
+<p>Fighting for change has cost Narges Mohammadi her career, separated her from family and deprived her of liberty. But a jail cell has not succeeded in silencing her.  <a href="https://nyti.ms/42kRq25"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, June 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Opposition to Ukraine Aid Becomes a Litmus Test for the Right</h3>
@@ -75,21 +93,33 @@ There&#39;s a lot of news happening both domestically and around the world. In t
 <sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Gathering to Mourn the Dead, and Dying Themselves in an Explosion in Ukraine</h3>
-<sub>By Andrew E. Kramer, David Guttenfelder and Eric Nagourney</sub>
-<p>Ukrainian officials said a Russian strike had killed at least 51 people in a tiny village with no obvious military or industrial targets nearby.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
+<h3>Strike Killed 1 in 6 of Ukraine Village’s Residents, Officials Say</h3>
+<sub>By Victoria Kim and David Guttenfelder</sub>
+<p>The population of Hroza, near Kharkiv, had dwindled to 300 before Thursday’s strike, which hit people gathered for a memorial service.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Putin Suggests New Narrative for Prigozhin Plane Crash: Cocaine and Grenades</h3>
-<sub>By Anton Troianovski</sub>
-<p>The Russian president said grenade fragments were found in the bodies recovered from the crash site after the Wagner mercenary leader’s plane went down in August.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
+<h3>His Earthquake Warnings Brought Him Fame. He Wishes More People Had Listened.</h3>
+<sub>By Ben Hubbard and Safak Timur</sub>
+<p>Naci Gorur, a geologist, has become a household name in Turkey for imploring the country to prepare for quakes he has predicted. He has been disappointed by the response and is deeply worried about Istanbul.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-books-blue" alt="">
-<h3>Jon Fosse, Norwegian Author, Receives the Nobel Prize in Literature</h3>
-<sub>By Alex Marshall and Alexandra Alter</sub>
-<p>Long a favorite to receive the award, Fosse has found acclaim for work that explores mortality and religion, and radiates serenity.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>As Winter Looms, Venezuelan Migrant Surge Overwhelms Chicago</h3>
+<sub>By Ernesto Londoño and Julie Bosman</sub>
+<p>Police stations have become tent encampments. More than 800 migrants are sleeping at Chicago O’Hare International Airport. City officials are scrambling.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>New York’s Right to Shelter Is Under Attack. Again.</h3>
+<sub>By Ginia Bellafante</sub>
+<p>The mayor is going to court over the city’s unique decree guaranteeing a room to all New Yorkers. It is not the city’s first time, with dozens of similar challenges over the past decades.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. Will Build Stretch of Border Wall and Begin Deportations to Venezuela</h3>
+<sub>By Miriam Jordan, Eileen Sullivan and Zolan Kanno-Youngs</sub>
+<p>The decisions underscore the challenges facing the Biden administration as humanitarian crises around the world drive more migrants to the U.S. border.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -99,40 +129,10 @@ There&#39;s a lot of news happening both domestically and around the world. In t
 <sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Kevin McCarthy’s Hometown, Reflections on His Sudden Fall</h3>
-<sub>By Jill Cowan</sub>
-<p>Bakersfield, Calif., became more diverse and culturally expansive while the former House speaker was increasingly caught up in Washington’s barbed politics.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Dick Butkus, Fearsome Hall of Fame Linebacker, Is Dead at 80</h3>
-<sub>By Richard Goldstein</sub>
-<p>He was both hard hitting against the run and fleet-footed in foiling pass plays in his eight seasons with the Chicago Bears. He later took up acting.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Said to Have Revealed Nuclear Submarine Secrets to Australian Businessman</h3>
-<sub>By Alan Feuer, Ben Protess, Maggie Haberman and Jonathan Swan</sub>
-<p>Soon after leaving office, the former president shared sensitive information about American submarines with a billionaire member of Mar-a-Lago, according to people familiar with the matter.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Escalates Anti-Immigrant Rhetoric With ‘Poisoning the Blood’ Comment</h3>
-<sub>By Trip Gabriel</sub>
-<p>When asked about immigration in a recent interview, the former president used language with echoes of white supremacy and Hitler.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Trump Drops Lawsuit Against Michael Cohen, His Former Fixer</h3>
-<sub>By Ben Protess and Maggie Haberman</sub>
-<p>The suit had been seen as an effort to silence Mr. Cohen, who is scheduled to testify against Mr. Trump in the civil fraud case brought by New York’s attorney general.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Remembering Senator Dianne Feinstein: ‘She Showed the Way’</h3>
-<sub>By Heather Knight</sub>
-<p>Women dominated the stage at a memorial on Thursday for Ms. Feinstein, who broke barriers, over and over.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
+<h3>For Republicans in the Trump Era, Chaos Often Seems to Be the Point</h3>
+<sub>By Michael C. Bender</sub>
+<p>A revolt in Congress. Insurgent candidacies in swing states. A likely nominee on trial. This week showed how the party has turned more insular, antagonistic and repellent to general-election voters.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 6, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
