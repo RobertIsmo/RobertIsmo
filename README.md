@@ -60,12 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, October 7, Central Standard Time</p>
 <p>
-There is a lot of tension in the Middle East between Israel and Palestinian militants. There have been multiple surprise attacks by militants, which has led to international condemnation. In the US, Republicans are feuding over how to pick a new speaker. People coming to the US from other countries has also become a big issue recently. Finally, in the business world, owning and operating a car is becoming increasingly expensive, while electric vehicles have seen their prices drop lately.</p>
+There&#39;s a lot of tension in the world right now. In Israel and Gaza, a surprise attack by militants has put the two sides on a war footing. Prime Minister Benjamin Netanyahu is facing pressure to launch a full-scale invasion, something Israel has been avoiding since 2005. At the US border with Mexico, there&#39;s a growing migrant crisis as resources strain under the influx of thousands of people. To try and stop it, Governor Greg Abbott has deployed more troops and installed razor wire. In Ohio, an unapologetic right-wing politician is becoming a prominent figure in the Republican Party. And in California, speed cameras may soon be installed to combat rising pedestrian deaths across the country. On top of all that, people are feeling the financial burden of owning a car due to pandemic disruption – but they can still save money by purchasing electric vehicles used.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The militants’ statement cited the Aqsa Mosque. Here’s why it matters.</h3>
-<sub>By Emma Bubola</sub>
-<p>  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>An Attack From Gaza and an Israeli Declaration of War. Now What?</h3>
+<sub>By Steven Erlanger</sub>
+<p>Prime Minister Benjamin Netanyahu is being pressured to launch a full-scale invasion that Israeli leaders have been scrupulously avoiding since 2005.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -75,9 +75,21 @@ There is a lot of tension in the Middle East between Israel and Palestinian mili
 <sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The attacks draw condemnation from Western powers, with Hamas singled out for criticism.</h3>
-<sub>By Emma Bubola</sub>
-<p>  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Israel’s Military Says Hamas Has Taken Hostages</h3>
+<sub>By Riley Mellen and Aaron Boxerman</sub>
+<p>The issue of Israelis in captivity is a deeply emotional and explosive one in Israel, with the government having paid a high price in the past for the return of its citizens.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Migrants Chased and Snared in Razor Wire: A Rare Look at Texas’ Border Tactics</h3>
+<sub>By David Peinado, Brent McDonald and Meg Felling</sub>
+<p>Videos reveal increasing militarization as Gov. Greg Abbott orders more troops and concertina wire to try to stop illegal border crossings.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Migrant Crisis Tests New Yorkers Who Thought They Supported Immigration</h3>
+<sub>By John Leland</sub>
+<p>As the city’s resources strain under the influx of thousands of migrants, New Yorkers are still resolutely in favor of welcoming newcomers. But for how long?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -97,18 +109,6 @@ There is a lot of tension in the Middle East between Israel and Palestinian mili
 <sub>By Annie Karni</sub>
 <p>A quiet fight over the rules highlights the depth of G.O.P. divisions. It could set the stage for a bruising election to choose a successor to the party’s ousted speaker.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Migrants Chased and Snared in Razor Wire: A Rare Look at Texas’ Border Tactics</h3>
-<sub>By David Peinado, Brent McDonald and Meg Felling</sub>
-<p>Videos reveal increasing militarization as Gov. Greg Abbott orders more troops and concertina wire to try to stop illegal border crossings.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Migrant Crisis Tests New Yorkers Who Thought They Supported Immigration</h3>
-<sub>By John Leland</sub>
-<p>As the city’s resources strain under the influx of thousands of migrants, New Yorkers are still resolutely in favor of welcoming newcomers. But for how long?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Two Families Got Fed Up With Their States’ Politics. So They Moved Out.</h3>
