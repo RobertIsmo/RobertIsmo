@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, October 6, Central Standard Time</p>
 <p>
-It looks like politics in the US is creating a lot of drama! There&#39;s a lot of political strife among Republicans, discussion of a former president&#39;s post-presidency peak, and multiple FBI investigations. On the international front, there was a devastating missile strike in Ukraine, while Venezuelan migrants continue to try and enter the US despite deportation efforts. Finally, there are some changes to real estate brokerages which could affect agents belonging to the National Association of Realtors.</p>
+Currently, there is a lot of political unrest in the US. The Republican Party is feuding over their leadership position and former President Trump is still finding ways to exert power over his party, which has caused division. On the other side, President Biden has had trouble reversing many of Trump&#39;s immigration policies and is now paradoxically having to use them to contain a surge of migration from Venezuela. Things have also been turbulent overseas, such as a missile strike wiping out an entire family in Ukraine and internationally-renowned crypto mogul Sam Bankman-Fried being put on trial for fraud. Closer to home, New York City&#39;s subway system is no longer broke but needs to adjust its service to meet its riders&#39; demands. Lastly, Senator Robert Menendez has been charged with accepting bribes and a new investigation has begun looking into a fatal crash involving him.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>From the Fringe to the Center of the G.O.P., Jordan Remains a Hard-Liner</h3>
+<sub>By Luke Broadwater</sub>
+<p>Once a tormentor of the Republican Party’s speakers, the Ohio congressman and unapologetic right-wing pugilist has become a potential speaker himself.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 6, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>How Do Americans Feel About Politics? ‘Disgust Isn’t a Strong Enough Word’</h3>
 <sub>By Jack Healy, J. David Goodman, Jenna Russell and Alan Blinder</sub>
@@ -126,12 +132,6 @@ It looks like politics in the US is creating a lot of drama! There&#39;s a lot o
 <h3>Fatal Crash Involving Nadine Menendez Is Under New Investigation</h3>
 <sub>By Tracey Tully, Nicholas Fandos and Luis Ferré-Sadurní</sub>
 <p>The scrutiny could create fresh legal and political peril for Senator Robert Menendez, a Democrat, who has been charged with accepting bribes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-realestate-blue" alt="">
-<h3>More Brokerages Leave Powerful Realtor Group</h3>
-<sub>By Debra Kamin</sub>
-<p>Re&#x2F;Max and Anywhere Real Estate, a brokerage franchiser, will no longer require agents to belong to the National Association of Realtors, as part of agreements to settle two class-action lawsuits.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 6, Central Standard Time</sub></sub>
 <hr/>
 </ol>
