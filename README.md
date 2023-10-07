@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Friday, October 6, Central Standard Time</p>
+<p>It is Saturday, October 7, Central Standard Time</p>
 <p>
-Currently, there is a lot of political unrest in the US. The Republican Party is feuding over their leadership position and former President Trump is still finding ways to exert power over his party, which has caused division. On the other side, President Biden has had trouble reversing many of Trump&#39;s immigration policies and is now paradoxically having to use them to contain a surge of migration from Venezuela. Things have also been turbulent overseas, such as a missile strike wiping out an entire family in Ukraine and internationally-renowned crypto mogul Sam Bankman-Fried being put on trial for fraud. Closer to home, New York City&#39;s subway system is no longer broke but needs to adjust its service to meet its riders&#39; demands. Lastly, Senator Robert Menendez has been charged with accepting bribes and a new investigation has begun looking into a fatal crash involving him.</p>
+It looks like there is a lot happening in the news right now. In the US, Republicans are struggling to make leadership changes in the absence of Trump&#39;s influence. In addition, Biden is trying to contain an increase in immigration numbers by embracing some of Trump’s strategies. Beyond America, there have been rocket attacks on Israel and a missile strike on a Ukrainian village that killed over fifty people. On a lighter note, it looks like Biden&#39;s pet has been exiled from the White House - though it&#39;s unclear how many bites it took! Finally, there&#39;s a great travel recommendation of Florence, Italy for anyone looking for a peaceful vacation!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>From the Fringe to the Center of the G.O.P., Jordan Remains a Hard-Liner</h3>
@@ -69,33 +69,21 @@ Currently, there is a lot of political unrest in the US. The Republican Party is
 <sub><sub>Friday, October 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Do Americans Feel About Politics? ‘Disgust Isn’t a Strong Enough Word’</h3>
-<sub>By Jack Healy, J. David Goodman, Jenna Russell and Alan Blinder</sub>
-<p>Voters’ broad discontent with disarray in Washington transcends political parties, race, age and geography.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Days Before a Vote, Republicans Feud Over How to Choose a New Speaker</h3>
-<sub>By Annie Karni</sub>
-<p>A quiet fight over the rules highlights the depth of G.O.P. divisions. It could set the stage for a bruising election to choose a successor to the party’s ousted speaker.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>House Speaker, Ukraine War, Border Wall: Trump’s Influence Reaches a Post-Presidency Peak</h3>
 <sub>By Jonathan Weisman</sub>
 <p>A Republican leadership vacuum has allowed the former president to exert power over his party — and in the country — in a way that lacks much historical precedent.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 6, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Here is the latest on the attack</h3>
+<sub>By Isabel Kershner</sub>
+<p>Sirens sounded across southern and central Israel early Saturday as salvos of rockets hit Israeli cities and gunmen crossed the border from Gaza.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>How Biden’s Promises to Reverse Trump’s Immigration Policies Crumbled</h3>
 <sub>By Michael D. Shear</sub>
 <p>President Biden has tried to contain a surge of migration by embracing, or at least tolerating, some of his predecessor’s approaches.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Venezuelans Face Deportation, Many Still Seek to Enter the U.S.</h3>
-<sub>By Sheyla Urdaneta and Emiliano Rodríguez Mega</sub>
-<p>The attempt to reduce unlawful crossings at the southern border will not deter Venezuelan migrants from traveling north, advocates say.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -108,12 +96,6 @@ Currently, there is a lot of political unrest in the US. The Republican Party is
 <h3>The Blast That Wiped Out a Family and Left Rows of Empty Homes</h3>
 <sub>By Andrew E. Kramer, Maria Varenikova and David Guttenfelder</sub>
 <p>A missile strike on the Ukrainian village of Hroza killed at least 52 people, including every known member of one immediate family. As much as a third of the population was killed in the strike. “Everybody died,” one resident said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Michael Lewis Doesn’t Do Villains</h3>
-<sub>By Christopher Beam</sub>
-<p>With his new book about the crypto mogul Sam Bankman-Fried — and new questions about his old work — the famously charmed writer finds himself under a microscope.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -133,6 +115,24 @@ Currently, there is a lot of political unrest in the US. The Republican Party is
 <sub>By Tracey Tully, Nicholas Fandos and Luis Ferré-Sadurní</sub>
 <p>The scrutiny could create fresh legal and political peril for Senator Robert Menendez, a Democrat, who has been charged with accepting bribes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-realestate-blue" alt="">
+<h3>More Brokerages Leave Powerful Realtor Group</h3>
+<sub>By Debra Kamin</sub>
+<p>Re&#x2F;Max and Anywhere Real Estate, a brokerage franchiser, will no longer require agents to belong to the National Association of Realtors, as part of agreements to settle two class-action lawsuits.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>For Biden’s Dog, a Belated Exile: ‘How Many Bites Does It Take?’</h3>
+<sub>By Peter Baker</sub>
+<p>The end of a pet’s troubled term in the White House hints at the complicated dynamics inside one of the world’s most exclusive mansions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-travel-blue" alt="">
+<h3>36 Hours in Florence, Italy</h3>
+<sub>By Ingrid K. Williams</sub>
+<p>Nighttime strolls, lesser-known museums and tiny trattorias reveal a more intimate side of this popular Italian destination.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
