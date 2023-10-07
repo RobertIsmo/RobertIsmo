@@ -60,12 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, October 7, Central Standard Time</p>
 <p>
-Right now, there&#39;s a lot going on in various parts of the world. In Gaza, some people are celebrating the return of fighters while others are preparing for a potential reaction from Israel. In the US, people like Rep. Jordan are becoming more prominent figures in the Republican Party and President Biden is facing challenges with reversing some of the Trump administration&#39;s immigration policies. Additionally, Ukraine was recently hit by a missile strike that killed dozens of people, and a senator from New York has been charged with accepting bribes. Finally, there are changes being made to powerful realtor groups and President Biden&#39;s dog is under fire for biting someone!</p>
+There is a lot of conflict and tension between Palestinians and Israelis right now. In Gaza, some people are celebrating returning fighters while others are bracing for Israel&#39;s response. In the US, Representative Jim Jordan of Ohio has become increasingly influential in the Republican party, though tensions exist within the caucus over how to choose their new speaker, recently ousted. Meanwhile, New Yorkers are being tested as a migrant crisis inundates the city with thousands of migrants requiring resources. In order to address illegal immigrants coming in via the US-Mexico border, the Biden administration has decided to build some additional parts of a wall there - even though they recognize it won’t be effective. On top of all this, car prices have gone through the roof due to pandemic disruptions, so electric vehicle shoppers are advised to buy used. Lastly, Vladimir Putin in Russia is making nuclear threats but also moderating himself in order to maintain peace.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>In Gaza, some cheer returning fighters as others brace for Israel’s response.</h3>
 <sub>By Raja Abdulrahim</sub>
 <p>  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Violence between Palestinians and Israelis has been seething for months.</h3>
+<sub>By Aaron Boxerman</sub>
+<p>  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Fighting in Israel and Gaza, in Photos</h3>
+<sub>By The New York Times</sub>
+<p>A multipronged surprise attack by Palestinian militants put Israel and Gaza on a war footing. Here are images from the assault and its aftermath.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -75,16 +87,22 @@ Right now, there&#39;s a lot going on in various parts of the world. In Gaza, so
 <sub><sub>Friday, October 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>House Speaker, Ukraine War, Border Wall: Trump’s Influence Reaches a Post-Presidency Peak</h3>
-<sub>By Jonathan Weisman</sub>
-<p>A Republican leadership vacuum has allowed the former president to exert power over his party — and in the country — in a way that lacks much historical precedent.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 6, Central Standard Time</sub></sub>
+<h3>Will the Motion to Vacate Be Vacated?</h3>
+<sub>By Carl Hulse</sub>
+<p>Some Republicans are calling for the weapon that dethroned Kevin McCarthy to be weakened. But it is not that easy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Biden’s Promises to Reverse Trump’s Immigration Policies Crumbled</h3>
-<sub>By Michael D. Shear</sub>
-<p>President Biden has tried to contain a surge of migration by embracing, or at least tolerating, some of his predecessor’s approaches.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Days Before a Vote, Republicans Feud Over How to Choose a New Speaker</h3>
+<sub>By Annie Karni</sub>
+<p>A quiet fight over the rules highlights the depth of G.O.P. divisions. It could set the stage for a bruising election to choose a successor to the party’s ousted speaker.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Migrant Crisis Tests New Yorkers Who Thought They Supported Immigration</h3>
+<sub>By John Leland</sub>
+<p>As the city’s resources strain under the influx of thousands of migrants, New Yorkers are still resolutely in favor of welcoming newcomers. But for how long?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden, the Border, and Why a New Wall Is Going Up</h3>
@@ -92,47 +110,29 @@ Right now, there&#39;s a lot going on in various parts of the world. In Gaza, so
 <p>The Biden administration’s decision to add to the border wall is a confusing one. And the president has insisted that he does not think the new wall will be effective.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Blast That Wiped Out a Family and Left Rows of Empty Homes</h3>
-<sub>By Andrew E. Kramer, Maria Varenikova and David Guttenfelder</sub>
-<p>A missile strike on the Ukrainian village of Hroza killed at least 52 people, including every known member of one immediate family. As much as a third of the population was killed in the strike. “Everybody died,” one resident said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 6, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>How the Costs of Car Ownership Add Up</h3>
+<sub>By Lydia DePillis, Rebecca Lieberman and Crista Chapman</sub>
+<p>Pandemic disruptions drove the expenses associated with owning a car through the roof, creating a financial burden that many drivers didn’t bargain for.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Gary Wang, an FTX Founder, Says Sam Bankman-Fried Steered Misuse of Funds</h3>
-<sub>By David Yaffe-Bellany, J. Edward Moreno and Matthew Goldstein</sub>
-<p>Mr. Wang is one of three key witnesses who pleaded guilty and agreed to cooperate against Mr. Bankman-Fried, the onetime crypto mogul on trial for fraud.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>The N.Y.C. Subway Is No Longer Broke. Can It Buy Rider Happiness?</h3>
-<sub>By Ana Ley</sub>
-<p>For as long as many New Yorkers can remember, the M.T.A. has needed more money. Now its budget is finally whole, and the pressure for good service is on.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Fatal Crash Involving Nadine Menendez Is Under New Investigation</h3>
-<sub>By Tracey Tully, Nicholas Fandos and Luis Ferré-Sadurní</sub>
-<p>The scrutiny could create fresh legal and political peril for Senator Robert Menendez, a Democrat, who has been charged with accepting bribes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-realestate-blue" alt="">
-<h3>More Brokerages Leave Powerful Realtor Group</h3>
-<sub>By Debra Kamin</sub>
-<p>Re&#x2F;Max and Anywhere Real Estate, a brokerage franchiser, will no longer require agents to belong to the National Association of Realtors, as part of agreements to settle two class-action lawsuits.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 6, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Interested in an Electric Vehicle? Consider Buying Used.</h3>
+<sub>By Santul Nerkar</sub>
+<p>The prices of used battery-powered models have fallen sharply, as the supply of cars and trucks has improved.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>For Biden’s Dog, a Belated Exile: ‘How Many Bites Does It Take?’</h3>
-<sub>By Peter Baker</sub>
-<p>The end of a pet’s troubled term in the White House hints at the complicated dynamics inside one of the world’s most exclusive mansions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 6, Central Standard Time</sub></sub>
+<h3>California, Land of the Car, Could Soon Have Speed Cameras</h3>
+<sub>By Heather Knight</sub>
+<p>A bill to install cameras has landed on the governor’s desk at a moment when pedestrian deaths are spiking nationwide.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-travel-blue" alt="">
-<h3>36 Hours in Florence, Italy</h3>
-<sub>By Ingrid K. Williams</sub>
-<p>Nighttime strolls, lesser-known museums and tiny trattorias reveal a more intimate side of this popular Italian destination.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>On Russian Nuclear Threat, Putin Lets Others Rattle the Saber</h3>
+<sub>By Paul Sonne and David E. Sanger</sub>
+<p>While Russian hard-liners voice provocative proposals about using nuclear weapons, Mr. Putin presents himself as a moderating force — while never really taking the threat off the table.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
