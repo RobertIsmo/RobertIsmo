@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, October 7, Central Standard Time</p>
 <p>
-It looks like there is a lot happening in the news right now. In the US, Republicans are struggling to make leadership changes in the absence of Trump&#39;s influence. In addition, Biden is trying to contain an increase in immigration numbers by embracing some of Trump’s strategies. Beyond America, there have been rocket attacks on Israel and a missile strike on a Ukrainian village that killed over fifty people. On a lighter note, it looks like Biden&#39;s pet has been exiled from the White House - though it&#39;s unclear how many bites it took! Finally, there&#39;s a great travel recommendation of Florence, Italy for anyone looking for a peaceful vacation!</p>
+Right now, there&#39;s a lot going on in various parts of the world. In Gaza, some people are celebrating the return of fighters while others are preparing for a potential reaction from Israel. In the US, people like Rep. Jordan are becoming more prominent figures in the Republican Party and President Biden is facing challenges with reversing some of the Trump administration&#39;s immigration policies. Additionally, Ukraine was recently hit by a missile strike that killed dozens of people, and a senator from New York has been charged with accepting bribes. Finally, there are changes being made to powerful realtor groups and President Biden&#39;s dog is under fire for biting someone!</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Gaza, some cheer returning fighters as others brace for Israel’s response.</h3>
+<sub>By Raja Abdulrahim</sub>
+<p>  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>From the Fringe to the Center of the G.O.P., Jordan Remains a Hard-Liner</h3>
 <sub>By Luke Broadwater</sub>
@@ -73,12 +79,6 @@ It looks like there is a lot happening in the news right now. In the US, Republi
 <sub>By Jonathan Weisman</sub>
 <p>A Republican leadership vacuum has allowed the former president to exert power over his party — and in the country — in a way that lacks much historical precedent.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Here is the latest on the attack</h3>
-<sub>By Isabel Kershner</sub>
-<p>Sirens sounded across southern and central Israel early Saturday as salvos of rockets hit Israeli cities and gunmen crossed the border from Gaza.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>How Biden’s Promises to Reverse Trump’s Immigration Policies Crumbled</h3>
