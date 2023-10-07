@@ -60,17 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, October 7, Central Standard Time</p>
 <p>
-There is a lot of conflict and tension between Palestinians and Israelis right now. In Gaza, some people are celebrating returning fighters while others are bracing for Israel&#39;s response. In the US, Representative Jim Jordan of Ohio has become increasingly influential in the Republican party, though tensions exist within the caucus over how to choose their new speaker, recently ousted. Meanwhile, New Yorkers are being tested as a migrant crisis inundates the city with thousands of migrants requiring resources. In order to address illegal immigrants coming in via the US-Mexico border, the Biden administration has decided to build some additional parts of a wall there - even though they recognize it won’t be effective. On top of all this, car prices have gone through the roof due to pandemic disruptions, so electric vehicle shoppers are advised to buy used. Lastly, Vladimir Putin in Russia is making nuclear threats but also moderating himself in order to maintain peace.</p>
+There is a lot of tension in the Middle East between Israel and Palestinian militants. There have been multiple surprise attacks by militants, which has led to international condemnation. In the US, Republicans are feuding over how to pick a new speaker. People coming to the US from other countries has also become a big issue recently. Finally, in the business world, owning and operating a car is becoming increasingly expensive, while electric vehicles have seen their prices drop lately.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Gaza, some cheer returning fighters as others brace for Israel’s response.</h3>
-<sub>By Raja Abdulrahim</sub>
-<p>  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Violence between Palestinians and Israelis has been seething for months.</h3>
-<sub>By Aaron Boxerman</sub>
+<h3>The militants’ statement cited the Aqsa Mosque. Here’s why it matters.</h3>
+<sub>By Emma Bubola</sub>
 <p>  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
 <hr/>
@@ -78,6 +72,12 @@ There is a lot of conflict and tension between Palestinians and Israelis right n
 <h3>Fighting in Israel and Gaza, in Photos</h3>
 <sub>By The New York Times</sub>
 <p>A multipronged surprise attack by Palestinian militants put Israel and Gaza on a war footing. Here are images from the assault and its aftermath.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The attacks draw condemnation from Western powers, with Hamas singled out for criticism.</h3>
+<sub>By Emma Bubola</sub>
+<p>  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -98,6 +98,12 @@ There is a lot of conflict and tension between Palestinians and Israelis right n
 <p>A quiet fight over the rules highlights the depth of G.O.P. divisions. It could set the stage for a bruising election to choose a successor to the party’s ousted speaker.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 6, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Migrants Chased and Snared in Razor Wire: A Rare Look at Texas’ Border Tactics</h3>
+<sub>By David Peinado, Brent McDonald and Meg Felling</sub>
+<p>Videos reveal increasing militarization as Gov. Greg Abbott orders more troops and concertina wire to try to stop illegal border crossings.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Migrant Crisis Tests New Yorkers Who Thought They Supported Immigration</h3>
 <sub>By John Leland</sub>
@@ -105,10 +111,10 @@ There is a lot of conflict and tension between Palestinians and Israelis right n
 <sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden, the Border, and Why a New Wall Is Going Up</h3>
-<sub>By Eileen Sullivan and Colbi Edmonds</sub>
-<p>The Biden administration’s decision to add to the border wall is a confusing one. And the president has insisted that he does not think the new wall will be effective.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 6, Central Standard Time</sub></sub>
+<h3>Two Families Got Fed Up With Their States’ Politics. So They Moved Out.</h3>
+<sub>By Trip Gabriel and Hilary Swift</sub>
+<p>The Nobles of Iowa moved to blue Minnesota. The Huckinses of Oregon moved to red Missouri. Their separate journeys, five weeks apart, illustrate the fracturing of America.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>How the Costs of Car Ownership Add Up</h3>
@@ -126,12 +132,6 @@ There is a lot of conflict and tension between Palestinians and Israelis right n
 <h3>California, Land of the Car, Could Soon Have Speed Cameras</h3>
 <sub>By Heather Knight</sub>
 <p>A bill to install cameras has landed on the governor’s desk at a moment when pedestrian deaths are spiking nationwide.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>On Russian Nuclear Threat, Putin Lets Others Rattle the Saber</h3>
-<sub>By Paul Sonne and David E. Sanger</sub>
-<p>While Russian hard-liners voice provocative proposals about using nuclear weapons, Mr. Putin presents himself as a moderating force — while never really taking the threat off the table.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
