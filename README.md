@@ -60,12 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, October 6, Central Standard Time</p>
 <p>
-Right now, the US is going through a lot of political tensions and discontent. There&#39;s a Republican leadership void and former President Trump still threatens to overshadow Biden. Meanwhile, New York City&#39;s mayor recently went to Latin America to offer refugees an unappealing reality check if they tried to come to NYC. Conflict overseas continues too; one missile strike in Ukraine wiped out almost an entire family and village, while an Iranian human rights activist has won a Nobel Peace Prize after decades of work for women’s equality. In the US, job growth is surging, but justice remains elusive in some cases as a fatal crash involving Senator Robert Menendez is being investigated. Finally, even the MTA&#39;s budget in New York is recovering - but it remains to be seen if it can buy rider happiness.</p>
+It looks like politics in the US is creating a lot of drama! There&#39;s a lot of political strife among Republicans, discussion of a former president&#39;s post-presidency peak, and multiple FBI investigations. On the international front, there was a devastating missile strike in Ukraine, while Venezuelan migrants continue to try and enter the US despite deportation efforts. Finally, there are some changes to real estate brokerages which could affect agents belonging to the National Association of Realtors.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>How Do Americans Feel About Politics? ‘Disgust Isn’t a Strong Enough Word’</h3>
 <sub>By Jack Healy, J. David Goodman, Jenna Russell and Alan Blinder</sub>
 <p>Voters’ broad discontent with disarray in Washington transcends political parties, race, age and geography.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Days Before a Vote, Republicans Feud Over How to Choose a New Speaker</h3>
+<sub>By Annie Karni</sub>
+<p>A quiet fight over the rules highlights the depth of G.O.P. divisions. It could set the stage for a bruising election to choose a successor to the party’s ousted speaker.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -75,21 +81,21 @@ Right now, the US is going through a lot of political tensions and discontent. T
 <sub><sub>Friday, October 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>For Gaetz, Washington Drama Could Fuel Florida Ambitions</h3>
-<sub>By Nicholas Nehamas and Patricia Mazzei</sub>
-<p>As rumors swirl about a 2026 bid for governor of Florida, Matt Gaetz said his only political goal was “electing President Trump again.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>How Biden’s Promises to Reverse Trump’s Immigration Policies Crumbled</h3>
 <sub>By Michael D. Shear</sub>
 <p>President Biden has tried to contain a surge of migration by embracing, or at least tolerating, some of his predecessor’s approaches.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Adams to Migrants in Mexico: We Love You. Now Stop Coming to New York.</h3>
-<sub>By Andy Newman</sub>
-<p>Mayor Eric Adams went to Latin America with two missions: to promote New York City and praise earlier immigrants, and to tell new immigrants about the misery that awaits them if they come.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As Venezuelans Face Deportation, Many Still Seek to Enter the U.S.</h3>
+<sub>By Sheyla Urdaneta and Emiliano Rodríguez Mega</sub>
+<p>The attempt to reduce unlawful crossings at the southern border will not deter Venezuelan migrants from traveling north, advocates say.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden, the Border, and Why a New Wall Is Going Up</h3>
+<sub>By Eileen Sullivan and Colbi Edmonds</sub>
+<p>The Biden administration’s decision to add to the border wall is a confusing one. And the president has insisted that he does not think the new wall will be effective.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -110,18 +116,6 @@ Right now, the US is going through a lot of political tensions and discontent. T
 <p>Mr. Wang is one of three key witnesses who pleaded guilty and agreed to cooperate against Mr. Bankman-Fried, the onetime crypto mogul on trial for fraud.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Strong U.S. Job Growth Shows Economy Is Defying Challenges</h3>
-<sub>By Talmon Joseph Smith</sub>
-<p>Employers added 336,000 jobs in September, almost double what experts had forecast and the biggest gain since January. Markets welcomed the report.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Narges Mohammadi, Iranian Rights Activist, Receives Nobel Peace Prize</h3>
-<sub>By Farnaz Fassihi</sub>
-<p>Ms. Mohammadi, currently held in Tehran’s notorious Evin Prison, has pushed for peaceful change in Iran for 30 years, with a focus on women’s equality.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 6, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>The N.Y.C. Subway Is No Longer Broke. Can It Buy Rider Happiness?</h3>
 <sub>By Ana Ley</sub>
@@ -132,6 +126,12 @@ Right now, the US is going through a lot of political tensions and discontent. T
 <h3>Fatal Crash Involving Nadine Menendez Is Under New Investigation</h3>
 <sub>By Tracey Tully, Nicholas Fandos and Luis Ferré-Sadurní</sub>
 <p>The scrutiny could create fresh legal and political peril for Senator Robert Menendez, a Democrat, who has been charged with accepting bribes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-realestate-blue" alt="">
+<h3>More Brokerages Leave Powerful Realtor Group</h3>
+<sub>By Debra Kamin</sub>
+<p>Re&#x2F;Max and Anywhere Real Estate, a brokerage franchiser, will no longer require agents to belong to the National Association of Realtors, as part of agreements to settle two class-action lawsuits.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 6, Central Standard Time</sub></sub>
 <hr/>
 </ol>
