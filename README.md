@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, October 8, Central Standard Time</p>
 <p>
-Currently, there is a lot of conflict between Israel and Hamas in the Middle East. Hamas launched an attack on Israeli territory, resulting in Israel responding with airstrikes. Biden&#39;s hopes for peace in the Middle East have been hindered by the eruption of violence. On top of that, there has been a devastating earthquake in Afghanistan that has caused destruction and claimed many lives. In Ukraine, there is a missile strike that has killed many people and left others in mourning. In Russia, Putin is rumbling about potentially using nuclear weapons, while other hard-liners voice provocative proposals. In the US, Texas officials are objecting to the presence of undocumented immigrants buying homes in their state. Luckily, New Yorkers have something to cheer for with the local WNBA team in the finals of their championship. Worldwide, same-sex relations are evolving among mammals while art and fashion continue to thrive.</p>
+There has been a lot of turmoil in the Middle East recently as Hamas launched an attack on Israel, resulting in airstrikes and a state of war declared. In Afghanistan, entire villages were destroyed during earthquakes, resulting in hundreds of deaths and injured people with limited access to medical care. Closer to home, disputes between employers and labor unions have been ongoing. And last weekend there were some bright spots with the WNBA Liberty team reaching the finals and Tupac&#39;s murder being solved.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>What We Know About the Hamas Attack and Israel’s Response</h3>
@@ -69,16 +69,16 @@ Currently, there is a lot of conflict between Israel and Hamas in the Middle Eas
 <sub><sub>Sunday, October 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israel’s defense failures may change strategy toward Hamas and Gaza.</h3>
-<sub>By Ronen Bergman</sub>
-<p>The broad attack by Palestinian militants, which Hamas viewed as mostly successful, revealed some significant failures.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Maps: Tracking the Attacks in Israel and Gaza</h3>
+<sub>By Lauren Leatherby, Karen Yourish, Elena Shao and Eli Murray</sub>
+<p>The New York Times is tracking airstrikes and ground fighting between Israelis and Palestinians.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden’s Hopes for the Middle East Imperiled by Eruption of Violence</h3>
-<sub>By Peter Baker</sub>
-<p>The Hamas attack on Israel could narrow the chances for the president’s efforts to negotiate a new alignment in the region by normalizing relations between Saudi Arabia and Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Here’s a timeline of Saturday’s attacks and Israel’s retaliation.</h3>
+<sub>By Andrés R. Martínez</sub>
+<p>The first air raid sirens went off at sunrise as Hamas launched an attack by land, sea and air. Israel declared a state of war and has destroyed buildings in Gaza.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Amid Strikes, One Question: Are Employers Miscalculating?</h3>
@@ -110,12 +110,6 @@ Currently, there is a lot of conflict between Israel and Hamas in the Middle Eas
 <p>In Hroza, Ukraine, where one-sixth of the hamlet was killed in a missile strike, officials and survivors have begun the daunting task of identifying and burying the dead.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>On Russian Nuclear Threat, Putin Lets Others Rattle the Saber</h3>
-<sub>By Paul Sonne and David E. Sanger</sub>
-<p>While Russian hard-liners voice provocative proposals about using nuclear weapons, Mr. Putin presents himself as a moderating force — while never really taking the threat off the table.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A Texas Community Attracts Migrant Home Buyers, and Republican Ire</h3>
 <sub>By J. David Goodman and Danielle Villasana</sub>
@@ -132,6 +126,12 @@ Currently, there is a lot of conflict between Israel and Hamas in the Middle Eas
 <h3>The Weekender</h3>
 <sub>By The New York Times</sub>
 <p>The story behind Tupac’s murder. Also: The colors of Paris Fashion Week and the evolution of same-sex relations in mammals.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The New York Times News Quiz, Oct. 6, 2023</h3>
+<sub></sub>
+<p>Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 6, Central Standard Time</sub></sub>
 <hr/>
 </ol>
