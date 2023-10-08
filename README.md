@@ -60,11 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, October 7, Central Standard Time</p>
 <p>
-There has been a lot of conflict in the Middle East recently, with a surprise attack by Palestinian militants on Israel resulting in violence and many casualties. Israeli Prime Minister Benjamin Netanyahu is under pressure to launch a full-scale invasion that could potentially escalate the situation. There have also been destructive earthquakes in Afghanistan recently that have killed nearly 200 people. 
-
-In the US, there has been political upheaval as Republican Party leaders struggle to choose a replacement for their ousted speaker. The election has highlighted deep divides within the party. There is also a pressing migrant crisis in Texas, where Governor Greg Abbott has ordered extra troops and fortification infrastructure to curb illegal border crossings. 
-
-On the business side of things, owning a car has become increasingly expensive due to pandemic disruptions, but you can save money on an electric vehicle by buying used - prices for these vehicles have fallen significantly recently.</p>
+Right now, tensions between Israel and Palestine are escalating. Israeli Prime Minister Benjamin Netanyahu is under pressure to launch a full-scale invasion of Gaza, and civilian casualties have been rising. In the U.S., President Biden has had his hopes for Middle East peace thrown into question by the violence. Congressman Jim Jordan is gaining more power within the Republican Party and there are internal fights over who should be speaker. Meanwhile, Afghanistan has been rocked by a series of powerful earthquakes that have killed over 200 people. The U.S.-Mexico border has been increasingly militarized as it faces a huge migrant surge and New Yorkers are trying to figure out how to respond to the crisis. On top of all that, car ownership costs have skyrocketed during the pandemic, leading many to consider buying electric vehicles used instead of new.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>An Attack From Gaza and an Israeli Declaration of War. Now What?</h3>
@@ -72,10 +68,10 @@ On the business side of things, owning a car has become increasingly expensive d
 <p>Prime Minister Benjamin Netanyahu is being pressured to launch a full-scale invasion that Israeli leaders have been scrupulously avoiding since 2005.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Fighting in Israel and Gaza, in Photos</h3>
-<sub>By The New York Times</sub>
-<p>A multipronged surprise attack by Palestinian militants put Israel and Gaza on a war footing. Here are images from the assault and its aftermath.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden’s Hopes for the Middle East Imperiled by Eruption of Violence</h3>
+<sub>By Peter Baker</sub>
+<p>The Hamas attack on Israel could narrow the chances for the president’s efforts to negotiate a new alignment in the region by normalizing relations between Saudi Arabia and Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
