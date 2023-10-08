@@ -60,12 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, October 8, Central Standard Time</p>
 <p>
-Currently, there is a lot of tension in the Middle East between Israel and Gaza. Prime Minister Benjamin Netanyahu is facing pressure to take more drastic actions against Hamas by launching a full-scale invasion like what was done in 2005. In the US, the violence in the Middle East has affected President Joe Biden&#39;s plans to normalize relations between Saudi Arabia and Israel. It has also caused some Republican Party divisions on how best to replace an ousted speaker. In Afghanistan, two 6.3-magnitude earthquakes have caused devastation and killed nearly 200 people. Across the US, there is an influx of migrants due to increased militarization at the border. This is causing strain on resources in cities such as New York. Finally, car ownership has become more expensive due to disruptions from the pandemic. To save money, people have been turning to used electric vehicles instead of new ones.</p>
+There is a lot going on in the world right now. In Israel, defense failures are being reported and it may change strategies related to Hamas and Gaza. Here in the US, President Biden&#39;s efforts to negotiate a new alignment in the Middle East are being put at risk due to recent violence between Hamas and Israel. Furthermore, there is an ongoing immigration debate in Texas where homes are being bought by undocumented immigrants, prompting Governor Greg Abbott to call for hearings. Elsewhere, New York Mayor Eric Adams took a trip to Latin American countries to try and dissuade migrants from coming, but it seems like his efforts have not been successful so far. Immigration is also an issue here in the US as the Justice Department has been jailing thousands of undocumented immigrants without charges, sometimes for months at a time, for use as witnesses in smuggling cases. Additionally, devastating earthquakes have recently taken place in Afghanistan with huge numbers of death tolls expected. All while one man was exonerated of rape after spending decades wrongfully convicted because his accuser changed her story. 
+
+On top of all that, we also have employers potentially miscalculating strikes taking place across different industries including UPS, Hollywood studios and Detroit automakers. Additionally, the town where &#39;Stranger Things&#39; partially films here in the US is hoping for production to start again soon due to the strike taking place. Overseas, a catastrophic event has struck Ukraine as a missile strike has killed an entire sixth of one village with many people still buried under rubble and graveyards filling up rapidly. Lastly, Vladimir Putin has been letting others around him rattle nuclear sabers while simultaneously distancing himself from those threats, leaving us all wondering what the future will bring. And to top it off, there is still plenty of news stories being shared over fun stuff like the backstory behind Tupac&#39;s murder, Paris Fashion Week colors and same-sex relations among mammals.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>An Attack From Gaza and an Israeli Declaration of War. Now What?</h3>
-<sub>By Steven Erlanger</sub>
-<p>Prime Minister Benjamin Netanyahu is being pressured to launch a full-scale invasion that Israeli leaders have been scrupulously avoiding since 2005.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Israel’s defense failures may change strategy toward Hamas and Gaza.</h3>
+<sub>By Ronen Bergman</sub>
+<p>The broad attack by Palestinian militants, which Hamas viewed as mostly successful, revealed some significant failures.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -74,65 +76,65 @@ Currently, there is a lot of tension in the Middle East between Israel and Gaza.
 <p>The Hamas attack on Israel could narrow the chances for the president’s efforts to negotiate a new alignment in the region by normalizing relations between Saudi Arabia and Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israel’s defense failures may change strategy toward Hamas and Gaza.</h3>
-<sub>By Ronen Bergman</sub>
-<p>The broad attack by Palestinian militants, which Hamas viewed as mostly successful, revealed some significant failures.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>From the Fringe to the Center of the G.O.P., Jordan Remains a Hard-Liner</h3>
-<sub>By Luke Broadwater</sub>
-<p>Once a tormentor of the Republican Party’s speakers, the Ohio congressman and unapologetic right-wing pugilist has become a potential speaker himself.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Will the Motion to Vacate Be Vacated?</h3>
-<sub>By Carl Hulse</sub>
-<p>Some Republicans are calling for the weapon that dethroned Kevin McCarthy to be weakened. But it is not that easy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Days Before a Vote, Republicans Feud Over How to Choose a New Speaker</h3>
-<sub>By Annie Karni</sub>
-<p>A quiet fight over the rules highlights the depth of G.O.P. divisions. It could set the stage for a bruising election to choose a successor to the party’s ousted speaker.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Earthquakes in Afghanistan Kill Nearly 200, Officials Say</h3>
-<sub>By Yaqoob Akbary, Najim Rahim, Christina Goldbaum and Safiullah Padshah</sub>
-<p>Two 6.3-magnitude quakes were followed by several large aftershocks, devastating entire villages in the western part of the country.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Two Families Got Fed Up With Their States’ Politics. So They Moved Out.</h3>
-<sub>By Trip Gabriel and Hilary Swift</sub>
-<p>The Nobles of Iowa moved to blue Minnesota. The Huckinses of Oregon moved to red Missouri. Their separate journeys, five weeks apart, illustrate the fracturing of America.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Migrants Chased and Snared in Razor Wire: A Rare Look at Texas’ Border Tactics</h3>
-<sub>By David Peinado, Brent McDonald and Meg Felling</sub>
-<p>Videos reveal increasing militarization as Gov. Greg Abbott orders more troops and concertina wire to try to stop illegal border crossings.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
+<h3>A Texas Community Attracts Migrant Home Buyers, and Republican Ire</h3>
+<sub>By J. David Goodman and Danielle Villasana</sub>
+<p>The development near Houston offers cheap land and unconventional financing to buyers, many of them undocumented immigrants. Gov. Greg Abbott has called for hearings.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Migrant Crisis Tests New Yorkers Who Thought They Supported Immigration</h3>
-<sub>By John Leland</sub>
-<p>As the city’s resources strain under the influx of thousands of migrants, New Yorkers are still resolutely in favor of welcoming newcomers. But for how long?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>On Latin America Trip, Adams’s Warning Meets Skepticism From Migrants</h3>
+<sub>By Andy Newman, Julie Turkewitz and Juan Arredondo</sub>
+<p>Mayor Eric Adams traveled to three countries to discourage migrants from coming to New York. At each stop, people said they were still determined to make the trek.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How the Costs of Car Ownership Add Up</h3>
-<sub>By Lydia DePillis, Rebecca Lieberman and Crista Chapman</sub>
-<p>Pandemic disruptions drove the expenses associated with owning a car through the roof, creating a financial burden that many drivers didn’t bargain for.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Jailed by the Thousands, Without Charges, to Act as Witnesses</h3>
+<sub>By Sarah Cutler, Steve Eder and Robert Gebeloff</sub>
+<p>The Justice Department has invoked a 200-year-old law to detain thousands of undocumented immigrants as witnesses in smuggling cases. Judges have locked up some for six months or more.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Entire Villages Razed as Death Toll Soars From Quakes in Afghanistan</h3>
+<sub>By Christina Goldbaum</sub>
+<p>Local officials reported 813 confirmed deaths, though the toll was expected to rise. Homes were reduced to rubble, and hospitals are overwhelmed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Rape, Race and a Decades-Old Lie That Still Wounds</h3>
+<sub>By Catherine Porter and Aurelien Breeden</sub>
+<p>Farid El Haïry spent most of his adult life as a convicted rapist. Then his accuser changed her story.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Interested in an Electric Vehicle? Consider Buying Used.</h3>
-<sub>By Santul Nerkar</sub>
-<p>The prices of used battery-powered models have fallen sharply, as the supply of cars and trucks has improved.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Amid Strikes, One Question: Are Employers Miscalculating?</h3>
+<sub>By Noam Scheiber</sub>
+<p>UPS, the Hollywood studios and the Detroit automakers appear to have been taken aback by the tactics and tougher style adopted by new union leaders.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Georgia Town Where ‘Stranger Things’ Is Shot Yearns for Production to Return</h3>
+<sub>By Rick Rojas</sub>
+<p>The impact of the writers’ and actors’ strikes has rippled far from Hollywood, including to the town where “Stranger Things” is partially filmed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Wheat, Sunflowers and Dozens of New Graves</h3>
+<sub>By Andrew E. Kramer, Maria Varenikova and David Guttenfelder</sub>
+<p>In Hroza, Ukraine, where one-sixth of the hamlet was killed in a missile strike, officials and survivors have begun the daunting task of identifying and burying the dead.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>On Russian Nuclear Threat, Putin Lets Others Rattle the Saber</h3>
+<sub>By Paul Sonne and David E. Sanger</sub>
+<p>While Russian hard-liners voice provocative proposals about using nuclear weapons, Mr. Putin presents himself as a moderating force — while never really taking the threat off the table.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The Weekender</h3>
+<sub>By The New York Times</sub>
+<p>The story behind Tupac’s murder. Also: The colors of Paris Fashion Week and the evolution of same-sex relations in mammals.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 6, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
