@@ -60,10 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, October 8, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In Israel, defense failures are being reported and it may change strategies related to Hamas and Gaza. Here in the US, President Biden&#39;s efforts to negotiate a new alignment in the Middle East are being put at risk due to recent violence between Hamas and Israel. Furthermore, there is an ongoing immigration debate in Texas where homes are being bought by undocumented immigrants, prompting Governor Greg Abbott to call for hearings. Elsewhere, New York Mayor Eric Adams took a trip to Latin American countries to try and dissuade migrants from coming, but it seems like his efforts have not been successful so far. Immigration is also an issue here in the US as the Justice Department has been jailing thousands of undocumented immigrants without charges, sometimes for months at a time, for use as witnesses in smuggling cases. Additionally, devastating earthquakes have recently taken place in Afghanistan with huge numbers of death tolls expected. All while one man was exonerated of rape after spending decades wrongfully convicted because his accuser changed her story. 
-
-On top of all that, we also have employers potentially miscalculating strikes taking place across different industries including UPS, Hollywood studios and Detroit automakers. Additionally, the town where &#39;Stranger Things&#39; partially films here in the US is hoping for production to start again soon due to the strike taking place. Overseas, a catastrophic event has struck Ukraine as a missile strike has killed an entire sixth of one village with many people still buried under rubble and graveyards filling up rapidly. Lastly, Vladimir Putin has been letting others around him rattle nuclear sabers while simultaneously distancing himself from those threats, leaving us all wondering what the future will bring. And to top it off, there is still plenty of news stories being shared over fun stuff like the backstory behind Tupac&#39;s murder, Paris Fashion Week colors and same-sex relations among mammals.</p>
+Currently, there is a lot of conflict between Israel and Hamas in the Middle East. Hamas launched an attack on Israeli territory, resulting in Israel responding with airstrikes. Biden&#39;s hopes for peace in the Middle East have been hindered by the eruption of violence. On top of that, there has been a devastating earthquake in Afghanistan that has caused destruction and claimed many lives. In Ukraine, there is a missile strike that has killed many people and left others in mourning. In Russia, Putin is rumbling about potentially using nuclear weapons, while other hard-liners voice provocative proposals. In the US, Texas officials are objecting to the presence of undocumented immigrants buying homes in their state. Luckily, New Yorkers have something to cheer for with the local WNBA team in the finals of their championship. Worldwide, same-sex relations are evolving among mammals while art and fashion continue to thrive.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>What We Know About the Hamas Attack and Israel’s Response</h3>
+<sub>By Andrés R. Martínez and Emma Bubola</sub>
+<p>Hamas, the Palestinian militant group that controls the Gaza Strip, launched one of the broadest invasions on Israeli territory for 50 years. Israel has retaliated with airstrikes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 8, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Israel’s defense failures may change strategy toward Hamas and Gaza.</h3>
 <sub>By Ronen Bergman</sub>
@@ -75,36 +79,6 @@ On top of all that, we also have employers potentially miscalculating strikes ta
 <sub>By Peter Baker</sub>
 <p>The Hamas attack on Israel could narrow the chances for the president’s efforts to negotiate a new alignment in the region by normalizing relations between Saudi Arabia and Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Texas Community Attracts Migrant Home Buyers, and Republican Ire</h3>
-<sub>By J. David Goodman and Danielle Villasana</sub>
-<p>The development near Houston offers cheap land and unconventional financing to buyers, many of them undocumented immigrants. Gov. Greg Abbott has called for hearings.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>On Latin America Trip, Adams’s Warning Meets Skepticism From Migrants</h3>
-<sub>By Andy Newman, Julie Turkewitz and Juan Arredondo</sub>
-<p>Mayor Eric Adams traveled to three countries to discourage migrants from coming to New York. At each stop, people said they were still determined to make the trek.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Jailed by the Thousands, Without Charges, to Act as Witnesses</h3>
-<sub>By Sarah Cutler, Steve Eder and Robert Gebeloff</sub>
-<p>The Justice Department has invoked a 200-year-old law to detain thousands of undocumented immigrants as witnesses in smuggling cases. Judges have locked up some for six months or more.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Entire Villages Razed as Death Toll Soars From Quakes in Afghanistan</h3>
-<sub>By Christina Goldbaum</sub>
-<p>Local officials reported 813 confirmed deaths, though the toll was expected to rise. Homes were reduced to rubble, and hospitals are overwhelmed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Rape, Race and a Decades-Old Lie That Still Wounds</h3>
-<sub>By Catherine Porter and Aurelien Breeden</sub>
-<p>Farid El Haïry spent most of his adult life as a convicted rapist. Then his accuser changed her story.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Amid Strikes, One Question: Are Employers Miscalculating?</h3>
@@ -119,6 +93,18 @@ On top of all that, we also have employers potentially miscalculating strikes ta
 <sub><sub>Sunday, October 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Entire Villages Razed as Death Toll Soars From Quakes in Afghanistan</h3>
+<sub>By Christina Goldbaum, Najim Rahim and Yaqoob Akbary</sub>
+<p>Local officials reported 813 confirmed deaths, though the toll was expected to rise. Homes were reduced to rubble, and hospitals are overwhelmed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Rape, Race and a Decades-Old Lie That Still Wounds</h3>
+<sub>By Catherine Porter and Aurelien Breeden</sub>
+<p>Farid El Haïry spent most of his adult life as a convicted rapist. Then his accuser changed her story.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Wheat, Sunflowers and Dozens of New Graves</h3>
 <sub>By Andrew E. Kramer, Maria Varenikova and David Guttenfelder</sub>
 <p>In Hroza, Ukraine, where one-sixth of the hamlet was killed in a missile strike, officials and survivors have begun the daunting task of identifying and burying the dead.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -129,6 +115,18 @@ On top of all that, we also have employers potentially miscalculating strikes ta
 <sub>By Paul Sonne and David E. Sanger</sub>
 <p>While Russian hard-liners voice provocative proposals about using nuclear weapons, Mr. Putin presents himself as a moderating force — while never really taking the threat off the table.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Texas Community Attracts Migrant Home Buyers, and Republican Ire</h3>
+<sub>By J. David Goodman and Danielle Villasana</sub>
+<p>The development near Houston offers cheap land and unconventional financing to buyers, many of them undocumented immigrants. Gov. Greg Abbott has called for hearings.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>The Liberty Are Giving New Yorkers Something to Cheer For</h3>
+<sub>By Claire Fahy</sub>
+<p>The W.N.B.A. team, now in the finals, is a bright spot during a rough year for local sports.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-briefing-blue" alt="">
 <h3>The Weekender</h3>
