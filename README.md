@@ -60,7 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, October 7, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. First, there is an escalating conflict between Israel and the Gaza Strip that has led to military operations on both sides. In Afghanistan, two powerful earthquakes have killed nearly 200 people and destroyed entire villages in western parts of the country. In the US, Republican disagreements about how to choose a new Speaker have caused tension in the party. And, migrants are being chased and snared in razor wire along the Texas border as the government tries to prevent illegal crossings. On the economic side, car ownership costs skyrocketed during the pandemic and used electric vehicles are becoming much more affordable. Finally, New Yorkers are still resolutely in favor of welcoming newcomers, but may not be able to maintain that opinion due to an influx of migrants.</p>
+There has been a lot of conflict in the Middle East recently, with a surprise attack by Palestinian militants on Israel resulting in violence and many casualties. Israeli Prime Minister Benjamin Netanyahu is under pressure to launch a full-scale invasion that could potentially escalate the situation. There have also been destructive earthquakes in Afghanistan recently that have killed nearly 200 people. 
+
+In the US, there has been political upheaval as Republican Party leaders struggle to choose a replacement for their ousted speaker. The election has highlighted deep divides within the party. There is also a pressing migrant crisis in Texas, where Governor Greg Abbott has ordered extra troops and fortification infrastructure to curb illegal border crossings. 
+
+On the business side of things, owning a car has become increasingly expensive due to pandemic disruptions, but you can save money on an electric vehicle by buying used - prices for these vehicles have fallen significantly recently.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>An Attack From Gaza and an Israeli Declaration of War. Now What?</h3>
@@ -77,7 +81,7 @@ There is a lot happening in the world right now. First, there is an escalating c
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Israel’s defense failures may change strategy toward Hamas and Gaza.</h3>
 <sub>By Ronen Bergman</sub>
-<p>  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The broad attack by Palestinian militants, which Hamas viewed as mostly successful, revealed some significant failures.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -105,6 +109,12 @@ There is a lot happening in the world right now. First, there is an escalating c
 <sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Two Families Got Fed Up With Their States’ Politics. So They Moved Out.</h3>
+<sub>By Trip Gabriel and Hilary Swift</sub>
+<p>The Nobles of Iowa moved to blue Minnesota. The Huckinses of Oregon moved to red Missouri. Their separate journeys, five weeks apart, illustrate the fracturing of America.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Migrants Chased and Snared in Razor Wire: A Rare Look at Texas’ Border Tactics</h3>
 <sub>By David Peinado, Brent McDonald and Meg Felling</sub>
 <p>Videos reveal increasing militarization as Gov. Greg Abbott orders more troops and concertina wire to try to stop illegal border crossings.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -114,12 +124,6 @@ There is a lot happening in the world right now. First, there is an escalating c
 <h3>Migrant Crisis Tests New Yorkers Who Thought They Supported Immigration</h3>
 <sub>By John Leland</sub>
 <p>As the city’s resources strain under the influx of thousands of migrants, New Yorkers are still resolutely in favor of welcoming newcomers. But for how long?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Two Families Got Fed Up With Their States’ Politics. So They Moved Out.</h3>
-<sub>By Trip Gabriel and Hilary Swift</sub>
-<p>The Nobles of Iowa moved to blue Minnesota. The Huckinses of Oregon moved to red Missouri. Their separate journeys, five weeks apart, illustrate the fracturing of America.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
