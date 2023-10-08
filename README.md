@@ -60,12 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, October 8, Central Standard Time</p>
 <p>
-There has been a lot of turmoil in the Middle East recently as Hamas launched an attack on Israel, resulting in airstrikes and a state of war declared. In Afghanistan, entire villages were destroyed during earthquakes, resulting in hundreds of deaths and injured people with limited access to medical care. Closer to home, disputes between employers and labor unions have been ongoing. And last weekend there were some bright spots with the WNBA Liberty team reaching the finals and Tupac&#39;s murder being solved.</p>
+Right now there is a lot going on in the world. In Israel, Palestinian militants recently conducted an attack that resulted in hundreds of casualties and abductions. Across the globe in Afghanistan, two powerful earthquakes have reduced entire villages to rubble and killed hundreds of people. Numerous countries, including the US and Sweden, are trying to fight climate change by utilizing renewable energy sources like wind power. In addition, strikes from various unions across different sectors have caused conflicts between employers and employees and affected other regions connected to these industries. Finally, we are also seeing a push for more public art collections, such as one in the New York City public health care system, that are rich in culture and history.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>What We Know About the Hamas Attack and Israel’s Response</h3>
-<sub>By Andrés R. Martínez and Emma Bubola</sub>
-<p>Hamas, the Palestinian militant group that controls the Gaza Strip, launched one of the broadest invasions on Israeli territory for 50 years. Israel has retaliated with airstrikes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>‘There Were Terrorists Inside’: How Hamas’s Attack on Israel Unfolded</h3>
+<sub>By Patrick Kingsley, Aaron Boxerman and Gabby Sobelman</sub>
+<p>Palestinian militants from Gaza raided Israel on Saturday, killing and abducting hundreds. Survivors have begun to recount the most complex attack on their territory in half a century.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -75,9 +75,9 @@ There has been a lot of turmoil in the Middle East recently as Hamas launched an
 <sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Here’s a timeline of Saturday’s attacks and Israel’s retaliation.</h3>
-<sub>By Andrés R. Martínez</sub>
-<p>The first air raid sirens went off at sunrise as Hamas launched an attack by land, sea and air. Israel declared a state of war and has destroyed buildings in Gaza.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>A Shaken Israel Is Forced Back to Its Eternal Dilemma</h3>
+<sub>By Roger Cohen</sub>
+<p>The attack by Hamas forces Israel once again to confront the conflict that has haunted it since the creation of the modern state.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -104,35 +104,35 @@ There has been a lot of turmoil in the Middle East recently as Hamas launched an
 <p>Farid El Haïry spent most of his adult life as a convicted rapist. Then his accuser changed her story.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Wheat, Sunflowers and Dozens of New Graves</h3>
-<sub>By Andrew E. Kramer, Maria Varenikova and David Guttenfelder</sub>
-<p>In Hroza, Ukraine, where one-sixth of the hamlet was killed in a missile strike, officials and survivors have begun the daunting task of identifying and burying the dead.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 8, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A Texas Community Attracts Migrant Home Buyers, and Republican Ire</h3>
 <sub>By J. David Goodman and Danielle Villasana</sub>
 <p>The development near Houston offers cheap land and unconventional financing to buyers, many of them undocumented immigrants. Gov. Greg Abbott has called for hearings.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 8, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>In Shipping, a Push to Slash Emissions by Harnessing the Wind</h3>
+<sub>By Cara Buckley</sub>
+<p>More ships are running on wind power, as the global industry tries to fight climate change. One concept has backing from Abba, the Swedish pop stars.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Investing Has Been Ugly. Stick With It Anyway.</h3>
+<sub>By Jeff Sommer</sub>
+<p>Most people have lost money in the markets over the last several months, but people who have held on have prospered, our columnist says.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 6, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>The Liberty Are Giving New Yorkers Something to Cheer For</h3>
-<sub>By Claire Fahy</sub>
-<p>The W.N.B.A. team, now in the finals, is a bright spot during a rough year for local sports.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>A Dazzling Art Collection, Hiding in Plain Sight</h3>
+<sub>By Winnie Hu</sub>
+<p>New York City’s sprawling public health care system contains one of the largest public art collections in the country.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The Weekender</h3>
-<sub>By The New York Times</sub>
-<p>The story behind Tupac’s murder. Also: The colors of Paris Fashion Week and the evolution of same-sex relations in mammals.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The New York Times News Quiz, Oct. 6, 2023</h3>
-<sub></sub>
-<p>Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 6, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>Israel’s Worst Day at War</h3>
+<sub>By Thomas L. Friedman</sub>
+<p>The shock waves of the Hamas attack on Israel will reach Iran, Saudi Arabia and Ukraine.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
