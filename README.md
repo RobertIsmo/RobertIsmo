@@ -60,24 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, October 9, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In Israel, Palestinian militants launched an attack which has been described as the most complex assault on their territory in half a century. In Russia, its economy has become increasingly structured around its war in Ukraine despite punishing sanctions. We are also seeing increasing numbers of grizzly bears in parts of Western U.S. and Canada, which have given rise to new strategies on how to deal with them. Meanwhile, Nobel Prizes were awarded this year to Claudia Goldin for her research into gender gaps in labor force participation and earnings, and to researchers studying climate change and food production.</p>
+There&#39;s been a lot of conflict in the world this year, both between states and domestically. In Israel, a father told of the moment his wife and two children were taken away by gunmen in a border town. There have been airstrikes and ground fighting between Israelis and Palestinians as well, with Middle Eastern countries expressing support for Palestinians. In the US, House Republicans are working to unify under new leadership after the previous speaker stepped down. Russia has been pumping money into its military machine in response to sanctions, and in Ukraine there is an ongoing war with Moscow. Meanwhile, grizzlies are coming to Montana and other western areas, and extreme hot weather across the globe has created problems for schools. Lastly, this year saw notable women achieve success in economics and Nobel Prizes won.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘There Were Terrorists Inside’: How Hamas’s Attack on Israel Unfolded</h3>
-<sub>By Patrick Kingsley, Aaron Boxerman and Gabby Sobelman</sub>
-<p>Palestinian militants from Gaza raided Israel on Saturday, killing and abducting hundreds. Survivors have begun to recount the most complex attack on their territory in half a century.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>War in Israel</h3>
-<sub>By Sabrina Tavernise, Rob Szypko, Sydney Harper, Will Reid, Lynsea Garrison, Marc Georges, Lisa Chow, Marion Lozano, Rowan Niemisto and Chris Wood</sub>
-<p>Palestinian militants launched the biggest attack against Israel in 50 years, prompting intense retaliation.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Israeli Father Tells of Moment His Wife and Children Became Hostages</h3>
+<sub>By Patrick Kingsley</sub>
+<p>Yoni Asher says his wife and two daughters, ages 5 and 3, were kidnapped from an Israeli border town by gunmen on Saturday and taken to Gaza.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The Global Context of the Hamas-Israel War</h3>
-<sub>By David Leonhardt</sub>
-<p>The Hamas attack is a sign of a new world order.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Maps: Tracking the Attacks in Israel and Gaza</h3>
+<sub>By Lauren Leatherby, Karen Yourish, Elena Shao and Eli Murray</sub>
+<p>The New York Times is tracking airstrikes and ground fighting between Israelis and Palestinians.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Across the Mideast, a Surge of Support for Palestinians as War Erupts in Gaza</h3>
+<sub>By Vivian Nereim</sub>
+<p>The escalation laid bare the limitations of diplomatic deals between Israel and Arab governments as long as the underlying conflict continues. “We told you so,” a Saudi scholar said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -90,6 +90,12 @@ There is a lot going on in the world right now. In Israel, Palestinian militants
 <h3>Russia’s Economy Is Increasingly Structured Around Its War in Ukraine</h3>
 <sub>By Patricia Cohen</sub>
 <p>The nation’s finances have proven resilient, despite punishing sanctions, giving it leeway to pump money into its military machine.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Zelensky Compares Assault by Hamas on Israel to Moscow’s Invasion of Ukraine</h3>
+<sub>By Matthew Mpoke Bigg</sub>
+<p>The Ukrainian president said in a speech to NATO that “terror will have no allies” if the world unites against hostage-taking and other acts of aggression.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -127,12 +133,6 @@ There is a lot going on in the world right now. In Israel, Palestinian militants
 <sub>By Colbi Edmonds</sub>
 <p>A storm can last a day. But the disruption to learning can last years. As natural disasters become more common, school districts are grappling with how to adapt.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>On This Nature Preserve, Farmers Are Welcome, if They Follow the Rules</h3>
-<sub>By Monika Pronczuk and Koba Ryckewaert</sub>
-<p>Can Europe fight the effects of extreme weather while producing enough affordable food? A model combining conservation with agriculture may offer a solution.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
