@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, October 9, Central Standard Time</p>
 <p>
-There&#39;s been a lot of conflict in the world this year, both between states and domestically. In Israel, a father told of the moment his wife and two children were taken away by gunmen in a border town. There have been airstrikes and ground fighting between Israelis and Palestinians as well, with Middle Eastern countries expressing support for Palestinians. In the US, House Republicans are working to unify under new leadership after the previous speaker stepped down. Russia has been pumping money into its military machine in response to sanctions, and in Ukraine there is an ongoing war with Moscow. Meanwhile, grizzlies are coming to Montana and other western areas, and extreme hot weather across the globe has created problems for schools. Lastly, this year saw notable women achieve success in economics and Nobel Prizes won.</p>
+There is a lot going in the world right now. Unfortunately, the conflict between Israel and Palestine has escalated, leading to dire consequences for civilians caught in the crossfire. Over in the U.S., Nikki Haley and Robert F. Kennedy are both trying to challenge Donald Trump in the upcoming elections. In terms of business news, some companies in Vermont and England are getting into green energy projects, while Russia&#39;s economy is becoming increasingly reliant on its involvement in a war with Ukraine. Lastly, Claudia Goldin recently won a Nobel Prize for her work studying gender gaps and issues facing women in the workforce.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Israeli Father Tells of Moment His Wife and Children Became Hostages</h3>
@@ -87,6 +87,30 @@ There&#39;s been a lot of conflict in the world this year, both between states a
 <sub><sub>Monday, October 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Vermont Utility Plans to End Outages by Giving Customers Batteries</h3>
+<sub>By Ivan Penn</sub>
+<p>Green Mountain Power is asking state regulators to let it buy batteries it will install at customers’ homes, saying doing so will be cheaper than putting up more power lines.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Green Energy Casts a Shadow Over a Cherished English Landscape</h3>
+<sub>By Stanley Reed</sub>
+<p>Residents of East Anglia fear that planned power lines for offshore wind projects will blight their rural idyll.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Robert F. Kennedy Jr. to Run for President as Independent, Leaving Democratic Primary</h3>
+<sub>By Rebecca Davis O’Brien</sub>
+<p>The political scion told supporters he would end his campaign as a Democratic candidate and run as an independent, potentially upsetting the dynamics of the 2024 election.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Nikki Haley Raises $11 Million, Battling With DeSantis to Take On Trump</h3>
+<sub>By Shane Goldmacher and Rebecca Davis O’Brien</sub>
+<p>The former South Carolina governor has made gains in recent months — in fund-raising and polling — that have helped her compete for the No. 2 spot in the primary field.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Russia’s Economy Is Increasingly Structured Around Its War in Ukraine</h3>
 <sub>By Patricia Cohen</sub>
 <p>The nation’s finances have proven resilient, despite punishing sanctions, giving it leeway to pump money into its military machine.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -95,43 +119,19 @@ There&#39;s been a lot of conflict in the world this year, both between states a
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Zelensky Compares Assault by Hamas on Israel to Moscow’s Invasion of Ukraine</h3>
 <sub>By Matthew Mpoke Bigg</sub>
-<p>The Ukrainian president said in a speech to NATO that “terror will have no allies” if the world unites against hostage-taking and other acts of aggression.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Volodymyr Zelensky, the Ukraine president, told a NATO meeting that “terror will have no allies” if the world unites against acts of aggression.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How Do I Pay for College?</h3>
-<sub>By The New York Times</sub>
-<p>Answers to your questions about one of the biggest challenges facing students.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>Grizzlies Are Coming to Town. Can the West Live With Them?</h3>
-<sub>By Jim Robbins and John Stember</sub>
-<p>Montana and its neighbors are adopting new strategies to deal with the increasing number of bears and attacks on humans.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 9, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Nation’s Obsession With True Crime Meets a Mother’s Grief</h3>
+<sub>By Mike Baker</sub>
+<p>Less than a year after losing her son in a murder that captivated the true crime community, Stacy Chapin spent three days navigating CrimeCon.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Claudia Goldin Wins Nobel in Economics for Studying Women in the Work Force</h3>
 <sub>By Jeanna Smialek</sub>
 <p>Her research uncovered the reasons for gender gaps in labor force participation and earnings. She is the third woman to win the prize.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>What to Know About the 2023 Nobel Prizes Winners</h3>
-<sub>By Derrick Bryson Taylor</sub>
-<p>Six Nobel Prizes are awarded every year. Here are this year’s winners.  <a href="https://nyti.ms/3PSUC1W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Where This Summer Was Relentlessly Hot</h3>
-<sub>By Zach Levitt and Elena Shao</sub>
-<p>See where temperatures around the globe in 2023 were abnormally high during the warmest summer on record.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Heat, High Water, Hurricanes: Schools Are Not Ready for Climate Change</h3>
-<sub>By Colbi Edmonds</sub>
-<p>A storm can last a day. But the disruption to learning can last years. As natural disasters become more common, school districts are grappling with how to adapt.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 9, Central Standard Time</sub></sub>
 <hr/>
 </ol>
