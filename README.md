@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, October 8, Central Standard Time</p>
 <p>
-Right now there is a lot going on in the world. In Israel, Palestinian militants recently conducted an attack that resulted in hundreds of casualties and abductions. Across the globe in Afghanistan, two powerful earthquakes have reduced entire villages to rubble and killed hundreds of people. Numerous countries, including the US and Sweden, are trying to fight climate change by utilizing renewable energy sources like wind power. In addition, strikes from various unions across different sectors have caused conflicts between employers and employees and affected other regions connected to these industries. Finally, we are also seeing a push for more public art collections, such as one in the New York City public health care system, that are rich in culture and history.</p>
+There have been a lot of significant news stories happening in the world today. In Israel, Palestinian militants have launched an attack killing and abducting hundreds of people, prompting a response from the Israeli government. On the climate front, shipping companies are looking for ways to reduce emissions by harnessing wind power. The strikes in the US have also caused ripples – with UPS, Hollywood studios, and Detroit automakers all affected. In Afghanistan, entire villages are being destroyed and devastation is widespread due to a series of earthquakes. Meanwhile, a false Rape claim in France has been proved wrong after 21 years. In Texas, undocumented immigrants are being allowed to buy homes with unconventional financing packages – though this has sparked Up backlash from Republican governors. Finally, people around the world are investing in stocks and shares – though it has been a tricky landscape so far – and New York City corporate plants are now getting special care and attention!</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>‘There Were Terrorists Inside’: How Hamas’s Attack on Israel Unfolded</h3>
@@ -74,10 +74,10 @@ Right now there is a lot going on in the world. In Israel, Palestinian militants
 <p>The New York Times is tracking airstrikes and ground fighting between Israelis and Palestinians.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Shaken Israel Is Forced Back to Its Eternal Dilemma</h3>
-<sub>By Roger Cohen</sub>
-<p>The attack by Hamas forces Israel once again to confront the conflict that has haunted it since the creation of the modern state.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Hamas Attack Raises Questions Over an Israeli Intelligence Failure</h3>
+<sub>By Julian E. Barnes, David E. Sanger and Eric Schmitt</sub>
+<p>American and Israeli officials said none of Israel’s intelligence services had specific warning that Hamas was preparing a sophisticated assault.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -122,11 +122,11 @@ Right now there is a lot going on in the world. In Israel, Palestinian militants
 <p>Most people have lost money in the markets over the last several months, but people who have held on have prospered, our columnist says.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>A Dazzling Art Collection, Hiding in Plain Sight</h3>
-<sub>By Winnie Hu</sub>
-<p>New York City’s sprawling public health care system contains one of the largest public art collections in the country.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 8, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>Human Resources, for Plants</h3>
+<sub>By Steven Kurutz</sub>
+<p>A cadre of creative types now cares for the hundreds of thousands of corporate plants in New York City, one leaf at a time.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-opinion-blue" alt="">
 <h3>Israel’s Worst Day at War</h3>
