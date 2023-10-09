@@ -60,7 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, October 9, Central Standard Time</p>
 <p>
-A lot is going on around the world right now. In Israel, Palestinian militants recently launched a complex attack that killed and abducted hundreds of people. American and Israeli officials are asking questions about potential intelligence failures. Meanwhile, Afghanistan has experienced two catastrophic earthquakes, leading to hundreds of confirmed deaths and devastating entire villages. In a different part of the world, Farid El Haïry is finally being exonerated of a rape charge he received decades ago. To address climate change more efficient ships powered by wind are being developed across the globe. On top of all that, there&#39;s been a lot of market volatility resulting in some investors losing money while others have prospered. In San Francisco, you can find some excellent restaurants, and in the film world Jack Fisk is becoming known for his talented production designs. And finally, opinion pieces suggest that not only is Israel facing a difficult conflict but also we&#39;re seeing a potentially globalized version of disorder.</p>
+Right now, there is a lot of conflict and tension in the world. In the Middle East, Palestinian militants from Gaza attacked Israel on Saturday, killing and abducting hundreds. Israel is trying to figure out if there was a failure in intelligence so they could have prevented it. Also, Afghanistan has been hit with devastating earthquakes that have destroyed entire villages and killed many people.
+
+In other news, unions have been striking for better wages and working conditions. Employers appear to be taken aback by the tactics being used. And as far as environmental news goes, there is a push to cut back on emissions by using wind power in shipping.
+
+There have been some hopeful moments too. Farid El Haïry was convicted of rape and now his accuser changed her story and he has been exonerated after decades of wrongfully being labelled a criminal. And Jack Fisk, the genius behind the most memorable movie sets has brought the past to life. 
+
+It&#39;s also important that we take time to appreciate moments of peace and normalcy. There are lots of delicious restaurants in San Francisco right now, so why not take a moment to enjoy good food while you&#39;re at it? :)</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>‘There Were Terrorists Inside’: How Hamas’s Attack on Israel Unfolded</h3>
