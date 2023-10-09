@@ -60,19 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, October 8, Central Standard Time</p>
 <p>
-There have been a lot of significant news stories happening in the world today. In Israel, Palestinian militants have launched an attack killing and abducting hundreds of people, prompting a response from the Israeli government. On the climate front, shipping companies are looking for ways to reduce emissions by harnessing wind power. The strikes in the US have also caused ripples – with UPS, Hollywood studios, and Detroit automakers all affected. In Afghanistan, entire villages are being destroyed and devastation is widespread due to a series of earthquakes. Meanwhile, a false Rape claim in France has been proved wrong after 21 years. In Texas, undocumented immigrants are being allowed to buy homes with unconventional financing packages – though this has sparked Up backlash from Republican governors. Finally, people around the world are investing in stocks and shares – though it has been a tricky landscape so far – and New York City corporate plants are now getting special care and attention!</p>
+It&#39;s been a tense week in the world with several major stories unfolding. In Israel, there was a significant and devastating attack by Palestinian militants from Gaza over the weekend, killing and abducting hundreds. An Israeli intelligence failure is being questioned, and survivors have been recounting the most complex attack on their territory in half a century. Meanwhile, in Afghanistan, several villages have been destroyed following a series of deadly earthquakes. In the US, organizations such as UPS, Hollywood studios and Detroit automakers are striking and questions about their employers&#39; miscalculating tactics are arising. Globally, shipping industries are pushing to reduce emissions by utilizing wind power. And on less dire news, people are advised to stay invested in markets even though there has been loss recently and some of the best restaurants in San Francisco were also highlighted. Three opinion pieces discussed the implications of the Israel-Hamas violence further.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>‘There Were Terrorists Inside’: How Hamas’s Attack on Israel Unfolded</h3>
 <sub>By Patrick Kingsley, Aaron Boxerman and Gabby Sobelman</sub>
 <p>Palestinian militants from Gaza raided Israel on Saturday, killing and abducting hundreds. Survivors have begun to recount the most complex attack on their territory in half a century.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Maps: Tracking the Attacks in Israel and Gaza</h3>
-<sub>By Lauren Leatherby, Karen Yourish, Elena Shao and Eli Murray</sub>
-<p>The New York Times is tracking airstrikes and ground fighting between Israelis and Palestinians.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Hamas Attack Raises Questions Over an Israeli Intelligence Failure</h3>
@@ -84,12 +78,6 @@ There have been a lot of significant news stories happening in the world today. 
 <h3>Amid Strikes, One Question: Are Employers Miscalculating?</h3>
 <sub>By Noam Scheiber</sub>
 <p>UPS, the Hollywood studios and the Detroit automakers appear to have been taken aback by the tactics and tougher style adopted by new union leaders.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Georgia Town Where ‘Stranger Things’ Is Shot Yearns for Production to Return</h3>
-<sub>By Rick Rojas</sub>
-<p>The impact of the writers’ and actors’ strikes has rippled far from Hollywood, including to the town where “Stranger Things” is partially filmed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -104,12 +92,6 @@ There have been a lot of significant news stories happening in the world today. 
 <p>Farid El Haïry spent most of his adult life as a convicted rapist. Then his accuser changed her story.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Texas Community Attracts Migrant Home Buyers, and Republican Ire</h3>
-<sub>By J. David Goodman and Danielle Villasana</sub>
-<p>The development near Houston offers cheap land and unconventional financing to buyers, many of them undocumented immigrants. Gov. Greg Abbott has called for hearings.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 8, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>In Shipping, a Push to Slash Emissions by Harnessing the Wind</h3>
 <sub>By Cara Buckley</sub>
@@ -122,6 +104,12 @@ There have been a lot of significant news stories happening in the world today. 
 <p>Most people have lost money in the markets over the last several months, but people who have held on have prospered, our columnist says.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 6, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-dining-blue" alt="">
+<h3>The 25 Best Restaurants in San Francisco Right Now</h3>
+<sub>By Eleanore Park, Brian Gallagher and Tejal Rao</sub>
+<p>From world-class Korean barbecue to Mission-style burritos to quintessential California cuisine, here are our current favorites.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
 <h3>Human Resources, for Plants</h3>
 <sub>By Steven Kurutz</sub>
@@ -132,6 +120,18 @@ There have been a lot of significant news stories happening in the world today. 
 <h3>Israel’s Worst Day at War</h3>
 <sub>By Thomas L. Friedman</sub>
 <p>The shock waves of the Hamas attack on Israel will reach Iran, Saudi Arabia and Ukraine.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>Israelis Can No Longer Afford Vicious Infighting</h3>
+<sub>By Shimrit Meir</sub>
+<p>The nation acted as if it had the luxury of a vicious internal fight.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>Hamas’s Control of Gaza Must End Now</h3>
+<sub>By Bret Stephens</sub>
+<p>Peace can soon follow, as it did after the Yom Kippur War.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
