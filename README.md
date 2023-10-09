@@ -60,13 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, October 9, Central Standard Time</p>
 <p>
-Right now, there is a lot of conflict and tension in the world. In the Middle East, Palestinian militants from Gaza attacked Israel on Saturday, killing and abducting hundreds. Israel is trying to figure out if there was a failure in intelligence so they could have prevented it. Also, Afghanistan has been hit with devastating earthquakes that have destroyed entire villages and killed many people.
-
-In other news, unions have been striking for better wages and working conditions. Employers appear to be taken aback by the tactics being used. And as far as environmental news goes, there is a push to cut back on emissions by using wind power in shipping.
-
-There have been some hopeful moments too. Farid El Haïry was convicted of rape and now his accuser changed her story and he has been exonerated after decades of wrongfully being labelled a criminal. And Jack Fisk, the genius behind the most memorable movie sets has brought the past to life. 
-
-It&#39;s also important that we take time to appreciate moments of peace and normalcy. There are lots of delicious restaurants in San Francisco right now, so why not take a moment to enjoy good food while you&#39;re at it? :)</p>
+There is a lot going on in the world right now. In Israel, Palestinian militants launched an attack which has been described as the most complex assault on their territory in half a century. In Russia, its economy has become increasingly structured around its war in Ukraine despite punishing sanctions. We are also seeing increasing numbers of grizzly bears in parts of Western U.S. and Canada, which have given rise to new strategies on how to deal with them. Meanwhile, Nobel Prizes were awarded this year to Claudia Goldin for her research into gender gaps in labor force participation and earnings, and to researchers studying climate change and food production.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>‘There Were Terrorists Inside’: How Hamas’s Attack on Israel Unfolded</h3>
@@ -74,71 +68,71 @@ It&#39;s also important that we take time to appreciate moments of peace and nor
 <p>Palestinian militants from Gaza raided Israel on Saturday, killing and abducting hundreds. Survivors have begun to recount the most complex attack on their territory in half a century.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 8, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>War in Israel</h3>
+<sub>By Sabrina Tavernise, Rob Szypko, Sydney Harper, Will Reid, Lynsea Garrison, Marc Georges, Lisa Chow, Marion Lozano, Rowan Niemisto and Chris Wood</sub>
+<p>Palestinian militants launched the biggest attack against Israel in 50 years, prompting intense retaliation.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The Global Context of the Hamas-Israel War</h3>
+<sub>By David Leonhardt</sub>
+<p>The Hamas attack is a sign of a new world order.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 9, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Hamas Attack Raises Questions Over an Israeli Intelligence Failure</h3>
-<sub>By Julian E. Barnes, David E. Sanger and Eric Schmitt</sub>
-<p>American and Israeli officials said none of Israel’s intelligence services had specific warning that Hamas was preparing a sophisticated assault.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 8, Central Standard Time</sub></sub>
+<h3>Scalise, a McCarthy Rival, Seeks to Unite Republicans in Taking His Place</h3>
+<sub>By Annie Karni</sub>
+<p>The second-ranking Republican, who was cut out of major decisions by the previous speaker, is pitching himself as uniquely positioned to unify the deeply divided House G.O.P.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Amid Strikes, One Question: Are Employers Miscalculating?</h3>
-<sub>By Noam Scheiber</sub>
-<p>UPS, the Hollywood studios and the Detroit automakers appear to have been taken aback by the tactics and tougher style adopted by new union leaders.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Entire Villages Razed as Death Toll Soars From Quakes in Afghanistan</h3>
-<sub>By Christina Goldbaum, Najim Rahim and Yaqoob Akbary</sub>
-<p>Local officials reported 813 confirmed deaths, though the toll was expected to rise. Homes were reduced to rubble, and hospitals are overwhelmed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Rape, Race and a Decades-Old Lie That Still Wounds</h3>
-<sub>By Catherine Porter and Aurelien Breeden</sub>
-<p>Farid El Haïry spent most of his adult life as a convicted rapist. Then his accuser changed her story.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>In Shipping, a Push to Slash Emissions by Harnessing the Wind</h3>
-<sub>By Cara Buckley</sub>
-<p>More ships are running on wind power, as the global industry tries to fight climate change. One concept has backing from Abba, the Swedish pop stars.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
+<h3>Russia’s Economy Is Increasingly Structured Around Its War in Ukraine</h3>
+<sub>By Patricia Cohen</sub>
+<p>The nation’s finances have proven resilient, despite punishing sanctions, giving it leeway to pump money into its military machine.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Investing Has Been Ugly. Stick With It Anyway.</h3>
-<sub>By Jeff Sommer</sub>
-<p>Most people have lost money in the markets over the last several months, but people who have held on have prospered, our columnist says.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>How Do I Pay for College?</h3>
+<sub>By The New York Times</sub>
+<p>Answers to your questions about one of the biggest challenges facing students.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-dining-blue" alt="">
-<h3>The 25 Best Restaurants in San Francisco Right Now</h3>
-<sub>By Eleanore Park, Brian Gallagher and Tejal Rao</sub>
-<p>From world-class Korean barbecue to Mission-style burritos to quintessential California cuisine, here are our current favorites.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>The Genius Behind Hollywood’s Most Indelible Sets</h3>
-<sub>By Noah Gallagher Shannon</sub>
-<p>How Jack Fisk, the master production designer behind ‘Killers of the Flower Moon’ and many other films, brings the past to life.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>Israel’s Worst Day at War</h3>
-<sub>By Thomas L. Friedman</sub>
-<p>The shock waves of the Hamas attack on Israel will reach Iran, Saudi Arabia and Ukraine.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>Israelis Can No Longer Afford Vicious Infighting</h3>
-<sub>By Shimrit Meir</sub>
-<p>The nation acted as if it had the luxury of a vicious internal fight.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>We Just Saw What the World Is About to Become</h3>
-<sub>By Georgi Derluguian</sub>
-<p>The conflict over Nagorno-Karabakh is a harbinger of global disorder.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>Grizzlies Are Coming to Town. Can the West Live With Them?</h3>
+<sub>By Jim Robbins and John Stember</sub>
+<p>Montana and its neighbors are adopting new strategies to deal with the increasing number of bears and attacks on humans.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Claudia Goldin Wins Nobel in Economics for Studying Women in the Work Force</h3>
+<sub>By Jeanna Smialek</sub>
+<p>Her research uncovered the reasons for gender gaps in labor force participation and earnings. She is the third woman to win the prize.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>What to Know About the 2023 Nobel Prizes Winners</h3>
+<sub>By Derrick Bryson Taylor</sub>
+<p>Six Nobel Prizes are awarded every year. Here are this year’s winners.  <a href="https://nyti.ms/3PSUC1W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Where This Summer Was Relentlessly Hot</h3>
+<sub>By Zach Levitt and Elena Shao</sub>
+<p>See where temperatures around the globe in 2023 were abnormally high during the warmest summer on record.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Heat, High Water, Hurricanes: Schools Are Not Ready for Climate Change</h3>
+<sub>By Colbi Edmonds</sub>
+<p>A storm can last a day. But the disruption to learning can last years. As natural disasters become more common, school districts are grappling with how to adapt.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>On This Nature Preserve, Farmers Are Welcome, if They Follow the Rules</h3>
+<sub>By Monika Pronczuk and Koba Ryckewaert</sub>
+<p>Can Europe fight the effects of extreme weather while producing enough affordable food? A model combining conservation with agriculture may offer a solution.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
