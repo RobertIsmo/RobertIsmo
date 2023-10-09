@@ -60,12 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, October 9, Central Standard Time</p>
 <p>
-There is a lot going in the world right now. Unfortunately, the conflict between Israel and Palestine has escalated, leading to dire consequences for civilians caught in the crossfire. Over in the U.S., Nikki Haley and Robert F. Kennedy are both trying to challenge Donald Trump in the upcoming elections. In terms of business news, some companies in Vermont and England are getting into green energy projects, while Russia&#39;s economy is becoming increasingly reliant on its involvement in a war with Ukraine. Lastly, Claudia Goldin recently won a Nobel Prize for her work studying gender gaps and issues facing women in the workforce.</p>
+It looks like there&#39;s a lot happening in the world right now. There are escalating clashes between Israel and Palestine, with Palestinian militants abducting 150 Israelis in an unprecedented attack. Russia&#39;s economy is increasingly structured around its war in Ukraine, while Ukraine President, Volodymyr Zelensky, has compared that assault to Hamas&#39; attack on Israel at a NATO meeting. Here in the US, Nikki Haley has started to make gains in both fundraising and polling as she tries to take on Trump for the 2024 election. And Vermont utility company is looking to ask state regulators to buy them batteries they can install in customers&#39; homes to help end outages. Finally, Robert F. Kennedy Jr. has announced his plans to run for President as an independent and leave the Democratic Primary ballot for 2024.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israeli Father Tells of Moment His Wife and Children Became Hostages</h3>
-<sub>By Patrick Kingsley</sub>
-<p>Yoni Asher says his wife and two daughters, ages 5 and 3, were kidnapped from an Israeli border town by gunmen on Saturday and taken to Gaza.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>‘I Just Hope That They Are Alive’: How Hamas Abducted 150 Israelis</h3>
+<sub>By Patrick Kingsley and Aaron Boxerman</sub>
+<p>Palestinian militants kidnapped scores of Israelis in an unprecedented attack that took the Israeli-Palestinian conflict into unknown territory. Their relatives recount how they were captured.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -75,9 +75,9 @@ There is a lot going in the world right now. Unfortunately, the conflict between
 <sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Across the Mideast, a Surge of Support for Palestinians as War Erupts in Gaza</h3>
-<sub>By Vivian Nereim</sub>
-<p>The escalation laid bare the limitations of diplomatic deals between Israel and Arab governments as long as the underlying conflict continues. “We told you so,” a Saudi scholar said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Attack Ends Israel’s Hope That Hamas Might Come to Embrace Stability</h3>
+<sub>By Steven Erlanger</sub>
+<p>Israel had considered Hamas a terrorist organization but one that could play a useful role for Israel in the Gaza Strip, which the group controls. Now, senior Israeli officials say, Hamas must be crushed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -92,12 +92,6 @@ There is a lot going in the world right now. Unfortunately, the conflict between
 <p>Green Mountain Power is asking state regulators to let it buy batteries it will install at customers’ homes, saying doing so will be cheaper than putting up more power lines.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Green Energy Casts a Shadow Over a Cherished English Landscape</h3>
-<sub>By Stanley Reed</sub>
-<p>Residents of East Anglia fear that planned power lines for offshore wind projects will blight their rural idyll.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 8, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Robert F. Kennedy Jr. to Run for President as Independent, Leaving Democratic Primary</h3>
 <sub>By Rebecca Davis O’Brien</sub>
@@ -108,6 +102,18 @@ There is a lot going in the world right now. Unfortunately, the conflict between
 <h3>Nikki Haley Raises $11 Million, Battling With DeSantis to Take On Trump</h3>
 <sub>By Shane Goldmacher and Rebecca Davis O’Brien</sub>
 <p>The former South Carolina governor has made gains in recent months — in fund-raising and polling — that have helped her compete for the No. 2 spot in the primary field.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Nation’s Obsession With True Crime Meets a Mother’s Grief</h3>
+<sub>By Mike Baker</sub>
+<p>Less than a year after losing her son in a murder that captivated the true crime community, Stacy Chapin spent three days navigating CrimeCon.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Charles Feeney, Who Made a Fortune and Then Gave It Away, Dies at 92</h3>
+<sub>By Robert D. McFadden</sub>
+<p>After piling up billions in business, he pledged to donate almost all of his money to causes before he died. He succeeded, and then lived a more modest life.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -122,16 +128,10 @@ There is a lot going in the world right now. Unfortunately, the conflict between
 <p>Volodymyr Zelensky, the Ukraine president, told a NATO meeting that “terror will have no allies” if the world unites against acts of aggression.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Nation’s Obsession With True Crime Meets a Mother’s Grief</h3>
-<sub>By Mike Baker</sub>
-<p>Less than a year after losing her son in a murder that captivated the true crime community, Stacy Chapin spent three days navigating CrimeCon.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Claudia Goldin Wins Nobel in Economics for Studying Women in the Work Force</h3>
-<sub>By Jeanna Smialek</sub>
-<p>Her research uncovered the reasons for gender gaps in labor force participation and earnings. She is the third woman to win the prize.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Is It Still Worth Going to the Movies?</h3>
+<sub>By A.O. Scott</sub>
+<p>After 23 years of film criticism, I was back in front of the screen as a civilian. I had no idea what I would find.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 9, Central Standard Time</sub></sub>
 <hr/>
 </ol>
