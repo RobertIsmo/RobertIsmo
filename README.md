@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Sunday, October 8, Central Standard Time</p>
+<p>It is Monday, October 9, Central Standard Time</p>
 <p>
-It&#39;s been a tense week in the world with several major stories unfolding. In Israel, there was a significant and devastating attack by Palestinian militants from Gaza over the weekend, killing and abducting hundreds. An Israeli intelligence failure is being questioned, and survivors have been recounting the most complex attack on their territory in half a century. Meanwhile, in Afghanistan, several villages have been destroyed following a series of deadly earthquakes. In the US, organizations such as UPS, Hollywood studios and Detroit automakers are striking and questions about their employers&#39; miscalculating tactics are arising. Globally, shipping industries are pushing to reduce emissions by utilizing wind power. And on less dire news, people are advised to stay invested in markets even though there has been loss recently and some of the best restaurants in San Francisco were also highlighted. Three opinion pieces discussed the implications of the Israel-Hamas violence further.</p>
+A lot is going on around the world right now. In Israel, Palestinian militants recently launched a complex attack that killed and abducted hundreds of people. American and Israeli officials are asking questions about potential intelligence failures. Meanwhile, Afghanistan has experienced two catastrophic earthquakes, leading to hundreds of confirmed deaths and devastating entire villages. In a different part of the world, Farid El Haïry is finally being exonerated of a rape charge he received decades ago. To address climate change more efficient ships powered by wind are being developed across the globe. On top of all that, there&#39;s been a lot of market volatility resulting in some investors losing money while others have prospered. In San Francisco, you can find some excellent restaurants, and in the film world Jack Fisk is becoming known for his talented production designs. And finally, opinion pieces suggest that not only is Israel facing a difficult conflict but also we&#39;re seeing a potentially globalized version of disorder.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>‘There Were Terrorists Inside’: How Hamas’s Attack on Israel Unfolded</h3>
@@ -110,11 +110,11 @@ It&#39;s been a tense week in the world with several major stories unfolding. In
 <p>From world-class Korean barbecue to Mission-style burritos to quintessential California cuisine, here are our current favorites.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>Human Resources, for Plants</h3>
-<sub>By Steven Kurutz</sub>
-<p>A cadre of creative types now cares for the hundreds of thousands of corporate plants in New York City, one leaf at a time.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>The Genius Behind Hollywood’s Most Indelible Sets</h3>
+<sub>By Noah Gallagher Shannon</sub>
+<p>How Jack Fisk, the master production designer behind ‘Killers of the Flower Moon’ and many other films, brings the past to life.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-opinion-blue" alt="">
 <h3>Israel’s Worst Day at War</h3>
@@ -129,10 +129,10 @@ It&#39;s been a tense week in the world with several major stories unfolding. In
 <sub><sub>Sunday, October 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>Hamas’s Control of Gaza Must End Now</h3>
-<sub>By Bret Stephens</sub>
-<p>Peace can soon follow, as it did after the Yom Kippur War.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
+<h3>We Just Saw What the World Is About to Become</h3>
+<sub>By Georgi Derluguian</sub>
+<p>The conflict over Nagorno-Karabakh is a harbinger of global disorder.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 9, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
