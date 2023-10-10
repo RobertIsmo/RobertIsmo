@@ -60,13 +60,25 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, October 10, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. In Israel and Gaza, there have been airstrikes and ground fighting, and some videos show the beginning of an attack on a music festival in southern Israel. Russia&#39;s President Putin has offered a muted response to attacks on Israel, likely because of the growing tensions between the two countries due to war in Ukraine. Additionally, the fragile global economy is facing a crisis as a result of this war, making it harder to contain inflation. In the US, Robert Hur—the special counsel appointed to investigate how sensitive material ended up at President Biden&#39;s house and office—interviewed him. Meanwhile, Republicans are preparing to select a new speaker after McCarthy&#39;s ouster and Kamala Harris is trying to make her case for herself after nearly three years. Lastly, it appears that US schools under Defense Department authority are outperforming public schools.</p>
+There is a lot of news happening in the world right now. In Israel, tensions have risen due to an attack on Saturday by Palestinian fighters, killing some victims and leaving others missing. In response, Israeli Prime Minister Benjamin Netanyahu has ordered a &#39;siege&#39; on Gaza and the Hamas faction controlling it has threatened to kill hostages. In other news, fragile global economies around the world are facing a new crisis due to the conflict in Israel and Palestine. Closer to home, special counsel Robert Hur has interviewed President Biden about classified documents and Judge Lewis A. Kaplan is admonishing the former crypto mogul Sam Bankman-Fried&#39;s lawyers in his fraud trial. Finally, a Times critic argues that pop culture has come to a standstill and Republican members of Congress are preparing to choose a speaker to replace recently ousted one Kevin McCarthy.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Maps: Tracking the Attacks in Israel and Gaza</h3>
-<sub>By Lauren Leatherby, Karen Yourish, Elena Shao and Eli Murray</sub>
-<p>The New York Times is tracking airstrikes and ground fighting between Israelis and Palestinians.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
+<h3>Putin Offers Muted Response to Attack on Israel. That Speaks Volumes.</h3>
+<sub>By Anton Troianovski</sub>
+<p>Vladimir Putin has long projected friendly ties to Israel. But his silence since Saturday’s assault illustrates how the war in Ukraine has strained the relationship between the two countries.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Peace Activists Are Among the Israelis Missing and Killed</h3>
+<sub>By Roni Caryn Rabin</sub>
+<p>Some of those caught up in the attack by Palestinian fighters lived in residential collectives whose members tend to support peace initiatives and Palestinian rights.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Gaza’s health ministry says that Israel is striking medical facilities.</h3>
+<sub>By Raja Abdulrahim</sub>
+<p>  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Videos show the beginning of the attack on a music festival in southern Israel.</h3>
@@ -75,9 +87,9 @@ There is a lot happening in the world right now. In Israel and Gaza, there have 
 <sub><sub>Monday, October 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Putin Offers Muted Response to Attack on Israel. That Speaks Volumes.</h3>
-<sub>By Anton Troianovski</sub>
-<p>Vladimir Putin has long projected friendly ties to Israel. But his silence since Saturday’s assault illustrates how the war in Ukraine has strained the relationship between the two countries.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>‘It’s a Massacre’: Inside an Israeli Village Raided by Palestinian Fighters</h3>
+<sub>By Isabel Kershner</sub>
+<p>Kfar Azza, less than two miles from Gaza, was one of the villages overrun by Palestinian gunmen on Saturday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-podcasts-blue" alt="">
@@ -98,17 +110,17 @@ There is a lot happening in the world right now. In Israel and Gaza, there have 
 <p>Robert Hur, the special counsel appointed to investigate how sensitive material ended up at the home and office of President Biden, met with the president over the past two days.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 9, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Why Culture Has Come to a Standstill</h3>
+<sub>By Jason Farago</sub>
+<p>A Times critic argues that ours is the least innovative century for the arts in 500 years. That doesn’t have to be a bad thing.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>McCarthy Floats Return as Divided G.O.P. Prepares to Choose a Speaker</h3>
 <sub>By Luke Broadwater</sub>
 <p>Less than a week after his ouster, the former speaker indicated he would be open to reinstatement as Republicans prepared to discuss whom to nominate to succeed him.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Ours Is the Least Artistically Innovative Century in 500 Years</h3>
-<sub>By Jason Farago</sub>
-<p>A Times critic argues that 21st-century culture is likely to be forgotten. But it’s not as bad as it sounds.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>‘Don’t Do That Again’: Sam Bankman-Fried’s Lawyers Under Fire From Judge</h3>
@@ -120,18 +132,6 @@ There is a lot happening in the world right now. In Israel and Gaza, there have 
 <h3>The Places That Sam Bankman-Fried Left Behind</h3>
 <sub>By David Yaffe-Bellany and Jeanne Noonan DelMundo</sub>
 <p>Before his FTX crypto exchange imploded and he went on trial for fraud, Mr. Bankman-Fried ran a global business empire spanning Berkeley, Calif., Hong Kong and the Bahamas.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Who Runs the Best U.S. Schools? It May Be the Defense Department.</h3>
-<sub>By Sarah Mervosh</sub>
-<p>Schools for children of military members achieve results rarely seen in public education.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>In Search of Kamala Harris</h3>
-<sub>By Astead W. Herndon</sub>
-<p>After nearly three years, the vice president is still struggling to make the case for herself — and feels she shouldn’t have to.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
 <hr/>
 </ol>
