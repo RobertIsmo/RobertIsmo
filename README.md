@@ -60,37 +60,37 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, October 10, Central Standard Time</p>
 <p>
-Right now, there is a conflict taking place in the Middle East between Israel and Hamas. There has already been extensive destruction, with many people killed, including some citizens of the United States. In other news, Russia&#39;s economy is largely based on their war with Ukraine and Vermont utility companies are exploring innovative ways to end power outages. Meanwhile in domestic politics, Robert F. Kennedy Jr. recently left the Democratic Party to run for President as an independent and Will Hurd dropped out of the G.O.P presidential race and endorsed Nikki Haley. On a lighter note, philanthropist Charles Feeney just died at 92 having pledged almost all of his money to charity during his lifetime. Lastly, I just wrote an article about my experience at the movies - it&#39;s still worth going even during pandemic times!</p>
+There is a lot happening in the world right now. In Israel and Gaza, there have been airstrikes and ground fighting, and some videos show the beginning of an attack on a music festival in southern Israel. Russia&#39;s President Putin has offered a muted response to attacks on Israel, likely because of the growing tensions between the two countries due to war in Ukraine. Additionally, the fragile global economy is facing a crisis as a result of this war, making it harder to contain inflation. In the US, Robert Hur—the special counsel appointed to investigate how sensitive material ended up at President Biden&#39;s house and office—interviewed him. Meanwhile, Republicans are preparing to select a new speaker after McCarthy&#39;s ouster and Kamala Harris is trying to make her case for herself after nearly three years. Lastly, it appears that US schools under Defense Department authority are outperforming public schools.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘I Just Hope That They Are Alive’: How Hamas Abducted 150 Israelis</h3>
-<sub>By Patrick Kingsley and Aaron Boxerman</sub>
-<p>Palestinian militants kidnapped scores of Israelis in an unprecedented attack that took the Israeli-Palestinian conflict into unknown territory. Their relatives recount how they were captured.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Maps: Tracking the Attacks in Israel and Gaza</h3>
+<sub>By Lauren Leatherby, Karen Yourish, Elena Shao and Eli Murray</sub>
+<p>The New York Times is tracking airstrikes and ground fighting between Israelis and Palestinians.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Videos show the beginning of the attack on a music festival in southern Israel.</h3>
+<sub>By Riley Mellen</sub>
+<p>  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Attack Ends Israel’s Hope That Hamas Might Come to Embrace Stability</h3>
-<sub>By Steven Erlanger</sub>
-<p>Israel had considered Hamas a terrorist organization but one that could play a useful role for Israel in the Gaza Strip, which the group controls. Now, senior Israeli officials say, Hamas must be crushed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 9, Central Standard Time</sub></sub>
+<h3>Putin Offers Muted Response to Attack on Israel. That Speaks Volumes.</h3>
+<sub>By Anton Troianovski</sub>
+<p>Vladimir Putin has long projected friendly ties to Israel. But his silence since Saturday’s assault illustrates how the war in Ukraine has strained the relationship between the two countries.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>At least 11 U.S. citizens were killed in Israel, Biden says, and others may be captives of Hamas.</h3>
-<sub>By Zach Montague</sub>
-<p>“I have directed my team to work with their Israeli counterparts on every aspect of the hostage crisis, including sharing intelligence,” the president said in a statement on Monday evening.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 9, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>Israel Orders Gaza ‘Siege,’ Hamas Threatens to Kill Hostages, and More</h3>
+<sub>By New York Times Audio</sub>
+<p>Plus, support for Palestinians in the Middle East and Robert F. Kennedy Jr.’s presidential bid.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Fragile Global Economy Faces New Crisis in Israel-Gaza War</h3>
 <sub>By Alan Rappeport and Patricia Cohen</sub>
 <p>A war in the Middle East could complicate efforts to contain inflation at a time when world output is “limping along.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Russia’s Economy Is Increasingly Structured Around Its War in Ukraine</h3>
-<sub>By Patricia Cohen</sub>
-<p>The nation’s finances have proven resilient, despite punishing sanctions, giving it leeway to pump money into its military machine.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Special Counsel Interviewed Biden About Classified Documents</h3>
@@ -104,35 +104,35 @@ Right now, there is a conflict taking place in the Middle East between Israel an
 <p>Less than a week after his ouster, the former speaker indicated he would be open to reinstatement as Republicans prepared to discuss whom to nominate to succeed him.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Vermont Utility Plans to End Outages by Giving Customers Batteries</h3>
-<sub>By Ivan Penn</sub>
-<p>Green Mountain Power is asking state regulators to let it buy batteries it will install at customers’ homes, saying doing so will be cheaper than putting up more power lines.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 9, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Ours Is the Least Artistically Innovative Century in 500 Years</h3>
+<sub>By Jason Farago</sub>
+<p>A Times critic argues that 21st-century culture is likely to be forgotten. But it’s not as bad as it sounds.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>‘Don’t Do That Again’: Sam Bankman-Fried’s Lawyers Under Fire From Judge</h3>
+<sub>By Matthew Goldstein and David Yaffe-Bellany</sub>
+<p>In the first week of Mr. Bankman-Fried’s fraud trial, Judge Lewis A. Kaplan repeatedly admonished the former crypto mogul’s lawyers, in an ominous sign for the defense.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>The Places That Sam Bankman-Fried Left Behind</h3>
+<sub>By David Yaffe-Bellany and Jeanne Noonan DelMundo</sub>
+<p>Before his FTX crypto exchange imploded and he went on trial for fraud, Mr. Bankman-Fried ran a global business empire spanning Berkeley, Calif., Hong Kong and the Bahamas.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Robert F. Kennedy Jr. to Run for President as Independent, Leaving Democratic Primary</h3>
-<sub>By Rebecca Davis O’Brien</sub>
-<p>The political scion told supporters he would end his campaign as a Democratic candidate and run as an independent, potentially upsetting the dynamics of the 2024 election.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Will Hurd Drops Out of G.O.P. Presidential Race and Endorses Haley</h3>
-<sub>By Anjali Huynh</sub>
-<p>The former congressman, who had staked out an anti-Trump position, failed to gain traction in a crowded field.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Charles Feeney, Who Made a Fortune and Then Gave It Away, Dies at 92</h3>
-<sub>By Robert D. McFadden</sub>
-<p>After piling up billions in business, he pledged to donate almost all of his money to causes before he died. He succeeded, and then lived a more modest life.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 9, Central Standard Time</sub></sub>
+<h3>Who Runs the Best U.S. Schools? It May Be the Defense Department.</h3>
+<sub>By Sarah Mervosh</sub>
+<p>Schools for children of military members achieve results rarely seen in public education.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Is It Still Worth Going to the Movies?</h3>
-<sub>By A.O. Scott</sub>
-<p>After 23 years of film criticism, I was back in front of the screen as a civilian. I had no idea what I would find.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 9, Central Standard Time</sub></sub>
+<h3>In Search of Kamala Harris</h3>
+<sub>By Astead W. Herndon</sub>
+<p>After nearly three years, the vice president is still struggling to make the case for herself — and feels she shouldn’t have to.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
