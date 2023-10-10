@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Monday, October 9, Central Standard Time</p>
+<p>It is Tuesday, October 10, Central Standard Time</p>
 <p>
-Right now, there is a lot of tension in the Middle East. Hamas, a Palestinian militant group, recently kidnapped around 150 Israelis, forcing the Israeli-Palestinian conflict into unknown territory. Israel is now focused on crushing Hamas, and US President Biden has directed his team to work with Israeli counterparts to locate hostages. In the US, Robert Hur has been appointed as a special counsel to investigate how sensitive material ended up at President Biden&#39;s home and office. Meanwhile, in the Republican party, former speaker McCarthy indicated his openness to reinstatement after his ouster last week and former congressman Will Hurd has dropped out of the presidential race to endorse Haley. On the business side, Vermont Utility is asking state regulators to let it buy batteries it will install at customers’ homes while Russia&#39;s economy is increasingly structured around its war in Ukraine despite sanctions being imposed against it. Finally, Charles Feeney, who made a fortune and then gave it all away, passed away this week at 92.</p>
+There is a lot of upheaval in the world right now. In Israel, Hamas militants have kidnapped scores of Israelis and there is pressure from Israel to crush them. Meanwhile, in the US, Robert Hur, the special counsel appointed to investigate how sensitive material ended up at President Biden&#39;s home and office has interviewed the president about it. There are also several political shakeups happening - Former Speaker McCarthy is thinking about returning to his role, former Congressman Will Hurd dropped out of the GOP presidential race and endorsed Haley, and Robert F. Kennedy Jr. is running for president as an independent outside of the Democratic primary. On a more positive note, a Vermont utility plan aims to end outages by giving customers batteries and this year marks the death of Charles Feeney who made a fortune and gave nearly all away before dying. Also, there have been skeletons dug up from 1918 Flu victims who offer clues about who was likely to die from pandemics like this one. Finally, someone penned an article trying to answer if going to the movies is still worth it.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>‘I Just Hope That They Are Alive’: How Hamas Abducted 150 Israelis</h3>
@@ -110,12 +110,6 @@ Right now, there is a lot of tension in the Middle East. Hamas, a Palestinian mi
 <p>The former congressman, who had staked out an anti-Trump position, failed to gain traction in a crowded field.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Nation’s Obsession With True Crime Meets a Mother’s Grief</h3>
-<sub>By Mike Baker</sub>
-<p>Less than a year after losing her son in a murder that captivated the true crime community, Stacy Chapin spent three days navigating CrimeCon.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 8, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Charles Feeney, Who Made a Fortune and Then Gave It Away, Dies at 92</h3>
 <sub>By Robert D. McFadden</sub>
@@ -132,6 +126,12 @@ Right now, there is a lot of tension in the Middle East. Hamas, a Palestinian mi
 <h3>Is It Still Worth Going to the Movies?</h3>
 <sub>By A.O. Scott</sub>
 <p>After 23 years of film criticism, I was back in front of the screen as a civilian. I had no idea what I would find.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Skeletons of 1918 Flu Victims Reveal Clues About Who Was Likely to Die</h3>
+<sub>By Gina Kolata</sub>
+<p>While a narrative emerged that the pandemic indiscriminately struck the young and healthy, new evidence suggests that frail young adults were most vulnerable.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 9, Central Standard Time</sub></sub>
 <hr/>
 </ol>
