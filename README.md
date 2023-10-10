@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, October 9, Central Standard Time</p>
 <p>
-It looks like there&#39;s a lot happening in the world right now. There are escalating clashes between Israel and Palestine, with Palestinian militants abducting 150 Israelis in an unprecedented attack. Russia&#39;s economy is increasingly structured around its war in Ukraine, while Ukraine President, Volodymyr Zelensky, has compared that assault to Hamas&#39; attack on Israel at a NATO meeting. Here in the US, Nikki Haley has started to make gains in both fundraising and polling as she tries to take on Trump for the 2024 election. And Vermont utility company is looking to ask state regulators to buy them batteries they can install in customers&#39; homes to help end outages. Finally, Robert F. Kennedy Jr. has announced his plans to run for President as an independent and leave the Democratic Primary ballot for 2024.</p>
+There is a lot of turmoil going on in the world right now. In Israel, Hamas has launched an unprecedented attack, kidnapping scores of Israelis and ending any hope that the conflict could be resolved peacefully. Meanwhile in the US, President Biden has been interviewed by special counsel Robert Hur about some classified documents, while Republicans have been discussing the nomination of a new speaker following ex-Speaker McCarthy’s ouster. Meanwhile, there is an increasing economic structure around Russia’s war in Ukraine as well as Vermont utility’s plan to use batteries to end power outages instead of building more power lines. Lastly, Robert F. Kennedy Jr., political scion of the Kennedy family, dropped out of the Democratic primary and plans to run as an independent in 2024.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>‘I Just Hope That They Are Alive’: How Hamas Abducted 150 Israelis</h3>
@@ -69,21 +69,27 @@ It looks like there&#39;s a lot happening in the world right now. There are esca
 <sub><sub>Monday, October 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Maps: Tracking the Attacks in Israel and Gaza</h3>
-<sub>By Lauren Leatherby, Karen Yourish, Elena Shao and Eli Murray</sub>
-<p>The New York Times is tracking airstrikes and ground fighting between Israelis and Palestinians.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Attack Ends Israel’s Hope That Hamas Might Come to Embrace Stability</h3>
 <sub>By Steven Erlanger</sub>
 <p>Israel had considered Hamas a terrorist organization but one that could play a useful role for Israel in the Gaza Strip, which the group controls. Now, senior Israeli officials say, Hamas must be crushed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 9, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>At least 11 U.S. citizens were killed in Israel, Biden says, and others may be captives of Hamas.</h3>
+<sub>By Zach Montague</sub>
+<p>“I have directed my team to work with their Israeli counterparts on every aspect of the hostage crisis, including sharing intelligence,” the president said in a statement on Monday evening.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 9, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Scalise, a McCarthy Rival, Seeks to Unite Republicans in Taking His Place</h3>
-<sub>By Annie Karni</sub>
-<p>The second-ranking Republican, who was cut out of major decisions by the previous speaker, is pitching himself as uniquely positioned to unify the deeply divided House G.O.P.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Special Counsel Interviewed Biden About Classified Documents</h3>
+<sub>By Charlie Savage</sub>
+<p>Robert Hur, the special counsel appointed to investigate how sensitive material ended up at the home and office of President Biden, met with the president over the past two days.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>McCarthy Floats Return as Divided G.O.P. Prepares to Choose a Speaker</h3>
+<sub>By Luke Broadwater</sub>
+<p>Less than a week after his ouster, the former speaker indicated he would be open to reinstatement as Republicans prepared to discuss whom to nominate to succeed him.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -99,9 +105,9 @@ It looks like there&#39;s a lot happening in the world right now. There are esca
 <sub><sub>Monday, October 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Nikki Haley Raises $11 Million, Battling With DeSantis to Take On Trump</h3>
-<sub>By Shane Goldmacher and Rebecca Davis O’Brien</sub>
-<p>The former South Carolina governor has made gains in recent months — in fund-raising and polling — that have helped her compete for the No. 2 spot in the primary field.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Will Hurd Drops Out of G.O.P. Presidential Race and Endorses Haley</h3>
+<sub>By Anjali Huynh</sub>
+<p>The former congressman, who had staked out an anti-Trump position, failed to gain traction in a crowded field.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -120,12 +126,6 @@ It looks like there&#39;s a lot happening in the world right now. There are esca
 <h3>Russia’s Economy Is Increasingly Structured Around Its War in Ukraine</h3>
 <sub>By Patricia Cohen</sub>
 <p>The nation’s finances have proven resilient, despite punishing sanctions, giving it leeway to pump money into its military machine.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Zelensky Compares Assault by Hamas on Israel to Moscow’s Invasion of Ukraine</h3>
-<sub>By Matthew Mpoke Bigg</sub>
-<p>Volodymyr Zelensky, the Ukraine president, told a NATO meeting that “terror will have no allies” if the world unites against acts of aggression.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
