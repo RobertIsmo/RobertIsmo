@@ -60,24 +60,36 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, October 10, Central Standard Time</p>
 <p>
-There&#39;s been an attack on Israel by another country, and the US is trying to make sure they help Israel without alienating Ukraine, who they are also supportive of. Meanwhile, there is a criminal fraud trial for the founder of a crypto-currency exchange. The Republican party is deciding who to choose as their Speaker after the ouster of the former Speaker. Scientists have figured out a way to make chickens more resistant to bird flu, while a New York Times critic argues that this century has seen less innovation in the arts. The effects of remote work on people&#39;s lives and on the economy are still being discovered. There is also increasing criticism of Donald Trump from Florida Governor Desantis, while Vice President Kamala Harris is still trying to make her case to the American people. Finally, Netflix has released a new fantasy dramedy with Queen Margrethe II of Denmark as its costume and production designer.</p>
+Right now, there is a lot of tension around the world. In Israel, Palestinian gunmen have raided an Israeli village and civilians have been injured in what is being called a &#39;massacre&#39;. Israeli Prime Minister Benjamin Netanyahu is under pressure for his role and legacy in this conflict. In the US, Republicans are trying to figure out their choice for a new Speaker of the House. There is also broad consensus in Congress for assisting Israel in their fight against Hamas, but it&#39;s uncertain how that aid could look with the current political climate. On the tech front, Sam Bankman-Fried, founder of the FTX crypto exchange, is on trial for criminal fraud and is accused of directing his adviser, Caroline Ellison, to commit crimes. In Arizona, there is speculation over Kyrsten Sinema&#39;s reelection bid for Senate and if a three-way race could benefit Republican candidate Kari Lake. Meanwhile, Florida Governor DeSantis has been increasing his criticisms of former President Trump as he begins his own campaign for re-election. Closer to home, former baseball player Steve Garvey just announced that he will be running for Dianne Feinstein&#39;s California Senate seat. Finally, The New York Times has written about how culture appears to have reached a standstill when it comes to innovation - although not necessarily in a bad way - and how remote work has changed workers&#39; lives and shifted the economy over the past few years.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Putin Offers Muted Response to Attack on Israel. That Speaks Volumes.</h3>
-<sub>By Anton Troianovski</sub>
-<p>Vladimir Putin has long projected friendly ties to Israel. But his silence since Saturday’s assault illustrates how the war in Ukraine has strained the relationship between the two countries.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>‘It’s Not a War or a Battlefield. It’s a Massacre.’</h3>
+<sub>By Isabel Kershner and Sergey Ponomarev</sub>
+<p>A Times reporter and photographer visited an Israeli village raided by Palestinian gunmen.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>U.S. Envoy to NATO Says Aid to Israel Won’t Come at Ukraine’s Expense</h3>
-<sub>By Lara Jakes</sub>
-<p>Julianne Smith, the U.S. ambassador to NATO, said Washington could “stay focused on our partnership and commitment to Israel’s security” and still support Kyiv.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>As War Rages, Netanyahu Battles for Reputation and Legacy</h3>
+<sub>By Steven Erlanger</sub>
+<p>The horrors committed by Hamas on Israeli civilians are all but certain to mark Benjamin Netanyahu’s legacy no matter the outcome of the war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Republicans Search for Unity on Speaker Candidate Ahead of Vote</h3>
+<sub>By Luke Broadwater</sub>
+<p>A majority of G.O.P. lawmakers had yet to declare a preference between the two announced candidates, and former Speaker Kevin McCarthy was leaving the door open to a return to the post.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>House Disarray Leaves Path for Israel Aid Uncertain</h3>
+<sub>By Karoun Demirjian</sub>
+<p>There is broad consensus in Congress for backing Israel in its war against Hamas, but with the House rudderless and divided, the path for any assistance is uncertain.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Caroline Ellison, Adviser to Sam Bankman-Fried, Says He ‘Directed’ Her to Commit Crimes</h3>
 <sub>By David Yaffe-Bellany, Matthew Goldstein and J. Edward Moreno</sub>
-<p>Ms. Ellison, who also dated Mr. Bankman-Fried, is the government’s star witness in the criminal fraud trial of the founder of the FTX crypto exchange.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Ms. Ellison is the government’s star witness in the criminal fraud trial of the founder of the FTX crypto exchange. She also delved into her romantic relationship with Mr. Bankman-Fried.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -87,15 +99,21 @@ There&#39;s been an attack on Israel by another country, and the US is trying to
 <sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>McCarthy Floats Return as Divided G.O.P. Prepares to Choose a Speaker</h3>
-<sub>By Luke Broadwater</sub>
-<p>Less than a week after his ouster, the former speaker indicated he would be open to reinstatement as Republicans prepared to discuss whom to nominate to succeed him.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 9, Central Standard Time</sub></sub>
+<h3>Would a 3-Way Arizona Senate Race Help Kari Lake? Her Party Isn’t So Sure.</h3>
+<sub>By Michael C. Bender and Jazmine Ulloa</sub>
+<p>Kyrsten Sinema, the independent incumbent, has not announced whether she will run for re-election. But as both parties in Arizona prepare for that outcome, Republicans are worried.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>Scientists Use CRISPR to Make Chickens More Resistant to Bird Flu</h3>
-<sub>By Emily Anthes</sub>
-<p>A new study highlights both the promise and the limitations of gene editing, as a highly lethal form of avian influenza continues to spread around the world.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>DeSantis Amps Up Attacks on Trump, as G.O.P. Primary Enters a New Phase</h3>
+<sub>By Nicholas Nehamas</sub>
+<p>The Florida governor had been reluctant to criticize the former president on the trail, but in recent weeks, that has started to change.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Steve Garvey, Republican Former Baseball Player, Will Run for Senate in California</h3>
+<sub>By Maggie Astor</sub>
+<p>Mr. Garvey, 74, announced on Tuesday that he would enter the race for Dianne Feinstein’s Senate seat, running against at least three Democratic candidates.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
@@ -111,27 +129,9 @@ There&#39;s been an attack on Israel by another country, and the US is trying to
 <sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis Amps Up Attacks on Trump, as G.O.P. Primary Enters a New Phase</h3>
-<sub>By Nicholas Nehamas</sub>
-<p>The Florida governor had been reluctant to criticize the former president on the trail, but in recent weeks, that has started to change.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Who Runs the Best U.S. Schools? It May Be the Defense Department.</h3>
-<sub>By Sarah Mervosh</sub>
-<p>Schools for children of military members achieve results rarely seen in public education.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>In Search of Kamala Harris</h3>
-<sub>By Astead W. Herndon</sub>
-<p>After nearly three years, the vice president is still struggling to make the case for herself — and feels she shouldn’t have to.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>Scream Queen? More Like Stream Queen.</h3>
-<sub>By Chantel Tattoli</sub>
-<p>“Ehrengard: The Art of Seduction,” a new fantasy dramedy on Netflix, had Queen Margrethe II of Denmark as its costume and production designer.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Prosecutors Ask if Trump Will Blame His Lawyers as Defense in Election Case</h3>
+<sub>By Alan Feuer</sub>
+<p>The special counsel asked a judge to require the former president to disclose whether he would blame poor legal advice for his attempts to overturn his 2020 election loss.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
 <hr/>
 </ol>
