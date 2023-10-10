@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, October 10, Central Standard Time</p>
 <p>
-There is a lot of news happening in the world right now. In Israel, tensions have risen due to an attack on Saturday by Palestinian fighters, killing some victims and leaving others missing. In response, Israeli Prime Minister Benjamin Netanyahu has ordered a &#39;siege&#39; on Gaza and the Hamas faction controlling it has threatened to kill hostages. In other news, fragile global economies around the world are facing a new crisis due to the conflict in Israel and Palestine. Closer to home, special counsel Robert Hur has interviewed President Biden about classified documents and Judge Lewis A. Kaplan is admonishing the former crypto mogul Sam Bankman-Fried&#39;s lawyers in his fraud trial. Finally, a Times critic argues that pop culture has come to a standstill and Republican members of Congress are preparing to choose a speaker to replace recently ousted one Kevin McCarthy.</p>
+There&#39;s been an attack on Israel by another country, and the US is trying to make sure they help Israel without alienating Ukraine, who they are also supportive of. Meanwhile, there is a criminal fraud trial for the founder of a crypto-currency exchange. The Republican party is deciding who to choose as their Speaker after the ouster of the former Speaker. Scientists have figured out a way to make chickens more resistant to bird flu, while a New York Times critic argues that this century has seen less innovation in the arts. The effects of remote work on people&#39;s lives and on the economy are still being discovered. There is also increasing criticism of Donald Trump from Florida Governor Desantis, while Vice President Kamala Harris is still trying to make her case to the American people. Finally, Netflix has released a new fantasy dramedy with Queen Margrethe II of Denmark as its costume and production designer.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Putin Offers Muted Response to Attack on Israel. That Speaks Volumes.</h3>
@@ -69,51 +69,21 @@ There is a lot of news happening in the world right now. In Israel, tensions hav
 <sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Peace Activists Are Among the Israelis Missing and Killed</h3>
-<sub>By Roni Caryn Rabin</sub>
-<p>Some of those caught up in the attack by Palestinian fighters lived in residential collectives whose members tend to support peace initiatives and Palestinian rights.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>U.S. Envoy to NATO Says Aid to Israel Won’t Come at Ukraine’s Expense</h3>
+<sub>By Lara Jakes</sub>
+<p>Julianne Smith, the U.S. ambassador to NATO, said Washington could “stay focused on our partnership and commitment to Israel’s security” and still support Kyiv.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Gaza’s health ministry says that Israel is striking medical facilities.</h3>
-<sub>By Raja Abdulrahim</sub>
-<p>  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Caroline Ellison, Adviser to Sam Bankman-Fried, Says He ‘Directed’ Her to Commit Crimes</h3>
+<sub>By David Yaffe-Bellany, Matthew Goldstein and J. Edward Moreno</sub>
+<p>Ms. Ellison, who also dated Mr. Bankman-Fried, is the government’s star witness in the criminal fraud trial of the founder of the FTX crypto exchange.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Videos show the beginning of the attack on a music festival in southern Israel.</h3>
-<sub>By Riley Mellen</sub>
-<p>  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘It’s a Massacre’: Inside an Israeli Village Raided by Palestinian Fighters</h3>
-<sub>By Isabel Kershner</sub>
-<p>Kfar Azza, less than two miles from Gaza, was one of the villages overrun by Palestinian gunmen on Saturday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>Israel Orders Gaza ‘Siege,’ Hamas Threatens to Kill Hostages, and More</h3>
-<sub>By New York Times Audio</sub>
-<p>Plus, support for Palestinians in the Middle East and Robert F. Kennedy Jr.’s presidential bid.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Fragile Global Economy Faces New Crisis in Israel-Gaza War</h3>
-<sub>By Alan Rappeport and Patricia Cohen</sub>
-<p>A war in the Middle East could complicate efforts to contain inflation at a time when world output is “limping along.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Special Counsel Interviewed Biden About Classified Documents</h3>
-<sub>By Charlie Savage</sub>
-<p>Robert Hur, the special counsel appointed to investigate how sensitive material ended up at the home and office of President Biden, met with the president over the past two days.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Why Culture Has Come to a Standstill</h3>
-<sub>By Jason Farago</sub>
-<p>A Times critic argues that ours is the least innovative century for the arts in 500 years. That doesn’t have to be a bad thing.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>‘Don’t Do That Again’: Sam Bankman-Fried’s Lawyers Under Fire From Judge</h3>
+<sub>By Matthew Goldstein and David Yaffe-Bellany</sub>
+<p>In the first week of Mr. Bankman-Fried’s fraud trial, Judge Lewis A. Kaplan repeatedly admonished the former crypto mogul’s lawyers, in an ominous sign for the defense.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -122,16 +92,46 @@ There is a lot of news happening in the world right now. In Israel, tensions hav
 <p>Less than a week after his ouster, the former speaker indicated he would be open to reinstatement as Republicans prepared to discuss whom to nominate to succeed him.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>‘Don’t Do That Again’: Sam Bankman-Fried’s Lawyers Under Fire From Judge</h3>
-<sub>By Matthew Goldstein and David Yaffe-Bellany</sub>
-<p>In the first week of Mr. Bankman-Fried’s fraud trial, Judge Lewis A. Kaplan repeatedly admonished the former crypto mogul’s lawyers, in an ominous sign for the defense.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>Scientists Use CRISPR to Make Chickens More Resistant to Bird Flu</h3>
+<sub>By Emily Anthes</sub>
+<p>A new study highlights both the promise and the limitations of gene editing, as a highly lethal form of avian influenza continues to spread around the world.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>The Places That Sam Bankman-Fried Left Behind</h3>
-<sub>By David Yaffe-Bellany and Jeanne Noonan DelMundo</sub>
-<p>Before his FTX crypto exchange imploded and he went on trial for fraud, Mr. Bankman-Fried ran a global business empire spanning Berkeley, Calif., Hong Kong and the Bahamas.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Why Culture Has Come to a Standstill</h3>
+<sub>By Jason Farago</sub>
+<p>A Times critic argues that ours is the least innovative century for the arts in 500 years. That doesn’t have to be a bad thing.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Here’s What We Do and Don’t Know About the Effects of Remote Work.</h3>
+<sub>By Emma Goldberg</sub>
+<p>Three years into a mass workplace experiment, we are beginning to understand more about how work from home is reshaping workers’ lives and the economy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>DeSantis Amps Up Attacks on Trump, as G.O.P. Primary Enters a New Phase</h3>
+<sub>By Nicholas Nehamas</sub>
+<p>The Florida governor had been reluctant to criticize the former president on the trail, but in recent weeks, that has started to change.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Who Runs the Best U.S. Schools? It May Be the Defense Department.</h3>
+<sub>By Sarah Mervosh</sub>
+<p>Schools for children of military members achieve results rarely seen in public education.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>In Search of Kamala Harris</h3>
+<sub>By Astead W. Herndon</sub>
+<p>After nearly three years, the vice president is still struggling to make the case for herself — and feels she shouldn’t have to.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>Scream Queen? More Like Stream Queen.</h3>
+<sub>By Chantel Tattoli</sub>
+<p>“Ehrengard: The Art of Seduction,” a new fantasy dramedy on Netflix, had Queen Margrethe II of Denmark as its costume and production designer.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
 <hr/>
 </ol>
