@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, October 10, Central Standard Time</p>
 <p>
-There is a lot of upheaval in the world right now. In Israel, Hamas militants have kidnapped scores of Israelis and there is pressure from Israel to crush them. Meanwhile, in the US, Robert Hur, the special counsel appointed to investigate how sensitive material ended up at President Biden&#39;s home and office has interviewed the president about it. There are also several political shakeups happening - Former Speaker McCarthy is thinking about returning to his role, former Congressman Will Hurd dropped out of the GOP presidential race and endorsed Haley, and Robert F. Kennedy Jr. is running for president as an independent outside of the Democratic primary. On a more positive note, a Vermont utility plan aims to end outages by giving customers batteries and this year marks the death of Charles Feeney who made a fortune and gave nearly all away before dying. Also, there have been skeletons dug up from 1918 Flu victims who offer clues about who was likely to die from pandemics like this one. Finally, someone penned an article trying to answer if going to the movies is still worth it.</p>
+Right now, there is a conflict taking place in the Middle East between Israel and Hamas. There has already been extensive destruction, with many people killed, including some citizens of the United States. In other news, Russia&#39;s economy is largely based on their war with Ukraine and Vermont utility companies are exploring innovative ways to end power outages. Meanwhile in domestic politics, Robert F. Kennedy Jr. recently left the Democratic Party to run for President as an independent and Will Hurd dropped out of the G.O.P presidential race and endorsed Nikki Haley. On a lighter note, philanthropist Charles Feeney just died at 92 having pledged almost all of his money to charity during his lifetime. Lastly, I just wrote an article about my experience at the movies - it&#39;s still worth going even during pandemic times!</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>‘I Just Hope That They Are Alive’: How Hamas Abducted 150 Israelis</h3>
@@ -78,6 +78,18 @@ There is a lot of upheaval in the world right now. In Israel, Hamas militants ha
 <h3>At least 11 U.S. citizens were killed in Israel, Biden says, and others may be captives of Hamas.</h3>
 <sub>By Zach Montague</sub>
 <p>“I have directed my team to work with their Israeli counterparts on every aspect of the hostage crisis, including sharing intelligence,” the president said in a statement on Monday evening.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Fragile Global Economy Faces New Crisis in Israel-Gaza War</h3>
+<sub>By Alan Rappeport and Patricia Cohen</sub>
+<p>A war in the Middle East could complicate efforts to contain inflation at a time when world output is “limping along.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Russia’s Economy Is Increasingly Structured Around Its War in Ukraine</h3>
+<sub>By Patricia Cohen</sub>
+<p>The nation’s finances have proven resilient, despite punishing sanctions, giving it leeway to pump money into its military machine.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -116,22 +128,10 @@ There is a lot of upheaval in the world right now. In Israel, Hamas militants ha
 <p>After piling up billions in business, he pledged to donate almost all of his money to causes before he died. He succeeded, and then lived a more modest life.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Russia’s Economy Is Increasingly Structured Around Its War in Ukraine</h3>
-<sub>By Patricia Cohen</sub>
-<p>The nation’s finances have proven resilient, despite punishing sanctions, giving it leeway to pump money into its military machine.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 9, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
 <h3>Is It Still Worth Going to the Movies?</h3>
 <sub>By A.O. Scott</sub>
 <p>After 23 years of film criticism, I was back in front of the screen as a civilian. I had no idea what I would find.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Skeletons of 1918 Flu Victims Reveal Clues About Who Was Likely to Die</h3>
-<sub>By Gina Kolata</sub>
-<p>While a narrative emerged that the pandemic indiscriminately struck the young and healthy, new evidence suggests that frail young adults were most vulnerable.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 9, Central Standard Time</sub></sub>
 <hr/>
 </ol>
