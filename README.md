@@ -60,13 +60,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, October 11, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In the Middle East, a war is raging between Israel and Hamas militants in Gaza that has had devastating consequences for civilians. We also have national politics unfolding in the US, with Republicans still divided ahead of a high-stakes vote for Speaker of the House. Meanwhile, in Ukraine an ongoing conflict continues along their eastern border. Closer to home, we are all learning more every day about the effects of remote work during the pandemic. And here in Seattle, we have a list of the 25 best restaurants to make sure you get your dining fix.</p>
+Right now, the world is facing some pretty serious conflicts. One of the most pressing is the attack on Israel by Hamas gunmen. On top of that, Hamas is also conducting an unprecedented hostage situation in the Gaza strip. In response, Israel&#39;s security services have failed to stop the violence—an unusual occurrence given their reputation for excellence. Meanwhile, back in the US, Republicans are deadlocked on choosing a Speaker for their caucus, and in Afghanistan locals are grappling with the aftermath of two strong earthquakes that have caused immense devastation. To top it off, Russia has now launched an offensive against Ukraine near a southeastern town called Avdiivka. Fortunately, Ukrainian President Zelensky is now receiving help from NATO forces to push back on their attackers.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Hamas Leaves Trail of Terror in Israel</h3>
 <sub>By The New York Times</sub>
 <p>As Israeli soldiers regain control of areas near Gaza that came under attack, they are finding evidence seen in videos and photos and confirmed by witness accounts of the massacre of civilians by Hamas gunmen.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>Hamas’s Hostages</h3>
+<sub>By David Leonhardt and Lauren Jackson</sub>
+<p>The scale of the hostage situation in the Gaza Strip has no recent precedent.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>How Israel’s Feared Security Services Failed to Stop Hamas’s Attack</h3>
@@ -75,34 +81,28 @@ There is a lot going on in the world right now. In the Middle East, a war is rag
 <sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Unforgiving Terms, Biden Condemns ‘Evil’ and ‘Abhorrent’ Attack on Israel</h3>
-<sub>By Peter Baker</sub>
-<p>President Biden’s remarks expressed possibly the most personal anger that he has displayed in public since taking office nearly three years ago.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>At Harvard, a Battle Over What Should Be Said About the Hamas Attacks</h3>
+<sub>By Anemona Hartocollis, Stephanie Saul and Vimal Patel</sub>
+<p>After a student group blamed Israel for the violence, Lawrence Summers, a former university president, condemned the leadership for not speaking up.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As War Rages, Netanyahu Battles for Reputation and Legacy</h3>
-<sub>By Steven Erlanger</sub>
-<p>The horrors committed by Hamas on Israeli civilians are all but certain to mark Benjamin Netanyahu’s legacy no matter the outcome of the war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Santos Faces New Charges Accusing Him of Lies and Credit Card Fraud</h3>
-<sub>By Michael Gold and Grace Ashford</sub>
-<p>Mr. Santos, a first-term Republican congressman, was charged in an indictment that added 10 new felony counts to the existing charges.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Lies, Charges and Questions Remaining in the George Santos Scandal</h3>
-<sub>By Michael Gold and Grace Ashford</sub>
-<p>George Santos has told so many stories they can be hard to keep straight. We cataloged them, including major questions about his personal finances and his campaign fund-raising and spending.  <a href="https://nyti.ms/42O9HFB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 12, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>Gaza Braces for First Ground Invasion in Years, and More</h3>
+<sub>By New York Times Audio</sub>
+<p>Plus, Biden condemns the Hamas attacks as “sheer evil” and House Republicans are deadlocked on choosing a speaker.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Republicans Remain Divided Ahead of Speaker Vote</h3>
+<h3>Republicans Are Deadlocked Heading Into Speaker Contest</h3>
 <sub>By Luke Broadwater</sub>
-<p>After a lengthy meeting on Tuesday evening, there appeared to be no consensus on a candidate, paving the way for a chaotic internal contest on Wednesday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
+<p>Lawmakers were set to meet at 10 a.m. to begin voting on a nominee, but there was no consensus, opening the possibility of a drawn-out fight that would leave the House leaderless for days.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Nancy Mace’s District Moved Right. Then She Helped Oust McCarthy.</h3>
+<sub>By Jonathan Weisman</sub>
+<p>The Supreme Court will hear arguments Wednesday on Representative Mace’s newly drawn South Carolina district, which has gotten redder since she was first elected.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>‘Always Under Fire’: On the Battlefield With Ukraine’s Elite Troops</h3>
@@ -111,27 +111,27 @@ There is a lot going on in the world right now. In the Middle East, a war is rag
 <sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russians Press Assault Near Southeastern Town of Avdiivka</h3>
+<sub>By Constant Méheut</sub>
+<p>The intensifying push is one of Russia’s few offensive operations in months, as it tries to seize land in Ukrainian regions it claims to have already annexed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Zelensky Visits NATO as Alliance Considers More Aid to Ukraine</h3>
 <sub>By Lara Jakes</sub>
 <p>The surprise appearance by President Volodymyr Zelensky of Ukraine came as much of the West has turned its focus to the war between Israel and Hamas militants in Gaza.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-dining-blue" alt="">
-<h3>The 25 Best Restaurants in Seattle Right Now</h3>
-<sub>By Brian Gallagher, Bethany Jean Clement and Tejal Rao</sub>
-<p>Stellar Pacific Northwest seafood, an irreverent Japanese gastro pub and a steakhouse like no other are among our favorites.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘The Wrath of God’: Afghans Mourn Unimaginable Loss From Quake</h3>
+<sub>By Christina Goldbaum, Yaqoob Akbary and Victor J. Blue</sub>
+<p>The deadliest earthquake to strike the country in decades leveled entire hamlets. Many people lost most, if not all, of their immediate family.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Caroline Ellison, Adviser to Sam Bankman-Fried, Says He ‘Directed’ Her to Commit Crimes</h3>
-<sub>By David Yaffe-Bellany, Matthew Goldstein and J. Edward Moreno</sub>
-<p>Ms. Ellison is the government’s star witness in the criminal fraud trial of the founder of the FTX crypto exchange. She also delved into her romantic relationship with Mr. Bankman-Fried.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Here’s What We Do and Don’t Know About the Effects of Remote Work.</h3>
-<sub>By Emma Goldberg</sub>
-<p>Three years into a mass workplace experiment, we are beginning to understand more about how work from home is reshaping workers’ lives and the economy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Another Powerful Quake Hits Afghanistan, Days After Deadly Temblors</h3>
+<sub>By Christina Goldbaum and Yaqoob Akbary</sub>
+<p>A magnitude-6.3 earthquake rocked Herat City, near the site of two devastating ones that killed more than 1,000 people last weekend.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
 <hr/>
 </ol>
