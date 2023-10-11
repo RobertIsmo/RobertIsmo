@@ -60,12 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, October 10, Central Standard Time</p>
 <p>
-Right now, there is a lot of tension around the world. In Israel, Palestinian gunmen have raided an Israeli village and civilians have been injured in what is being called a &#39;massacre&#39;. Israeli Prime Minister Benjamin Netanyahu is under pressure for his role and legacy in this conflict. In the US, Republicans are trying to figure out their choice for a new Speaker of the House. There is also broad consensus in Congress for assisting Israel in their fight against Hamas, but it&#39;s uncertain how that aid could look with the current political climate. On the tech front, Sam Bankman-Fried, founder of the FTX crypto exchange, is on trial for criminal fraud and is accused of directing his adviser, Caroline Ellison, to commit crimes. In Arizona, there is speculation over Kyrsten Sinema&#39;s reelection bid for Senate and if a three-way race could benefit Republican candidate Kari Lake. Meanwhile, Florida Governor DeSantis has been increasing his criticisms of former President Trump as he begins his own campaign for re-election. Closer to home, former baseball player Steve Garvey just announced that he will be running for Dianne Feinstein&#39;s California Senate seat. Finally, The New York Times has written about how culture appears to have reached a standstill when it comes to innovation - although not necessarily in a bad way - and how remote work has changed workers&#39; lives and shifted the economy over the past few years.</p>
+There is a lot going on in the world right now. In Israel, Hamas has been committing terror attacks and hundreds of Israeli soldiers have been killed. In the US, Republicans remain divided in a speaker vote and this is causing uncertainty around aid for Israel. Afghans have been devastated by an earthquake that killed hundreds of people and left many without any immediate family. Meanwhile, in New York, there is a scandal involving Congressman George Santos who is accused of credit card fraud.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘It’s Not a War or a Battlefield. It’s a Massacre.’</h3>
-<sub>By Isabel Kershner and Sergey Ponomarev</sub>
-<p>A Times reporter and photographer visited an Israeli village raided by Palestinian gunmen.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Hamas Leaves Trail of Terror in Israel</h3>
+<sub>By The New York Times</sub>
+<p>As Israeli soldiers regain control of areas near Gaza that came under attack, they are finding evidence seen in videos and photos and confirmed by witness accounts of the massacre of civilians by Hamas gunmen.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>How Israel’s Feared Security Services Failed to Stop Hamas’s Attack</h3>
+<sub>By Ronen Bergman and Patrick Kingsley</sub>
+<p>Israel’s military and espionage services are considered among the world’s best, but on Saturday, operational and intelligence failures led to the worst breach of Israeli defenses in half a century.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -74,10 +80,28 @@ Right now, there is a lot of tension around the world. In Israel, Palestinian gu
 <p>The horrors committed by Hamas on Israeli civilians are all but certain to mark Benjamin Netanyahu’s legacy no matter the outcome of the war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Nowhere to Hide in Gaza as Israeli Onslaught Continues</h3>
+<sub>By Raja Abdulrahim and Ameera Harouda</sub>
+<p>Residents and health authorities say that mosques, hospitals and schools are being targeted by airstrikes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Santos Faces New Charges Accusing Him of Lies and Credit Card Fraud</h3>
+<sub>By Michael Gold and Grace Ashford</sub>
+<p>Mr. Santos, a first-term Republican congressman, was charged in an indictment that added 10 new felony counts to the existing charges.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Lies, Charges and Questions Remaining in the George Santos Scandal</h3>
+<sub>By Michael Gold and Grace Ashford</sub>
+<p>George Santos has told so many stories they can be hard to keep straight. We cataloged them, including major questions about his personal finances and his campaign fund-raising and spending.  <a href="https://nyti.ms/42O9HFB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 12, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Republicans Search for Unity on Speaker Candidate Ahead of Vote</h3>
+<h3>Republicans Remain Divided Ahead of Speaker Vote</h3>
 <sub>By Luke Broadwater</sub>
-<p>A majority of G.O.P. lawmakers had yet to declare a preference between the two announced candidates, and former Speaker Kevin McCarthy was leaving the door open to a return to the post.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>After a lengthy meeting on Tuesday evening, there appeared to be no consensus on a candidate, paving the way for a chaotic internal contest on Wednesday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -92,34 +116,10 @@ Right now, there is a lot of tension around the world. In Israel, Palestinian gu
 <p>Ms. Ellison is the government’s star witness in the criminal fraud trial of the founder of the FTX crypto exchange. She also delved into her romantic relationship with Mr. Bankman-Fried.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>‘Don’t Do That Again’: Sam Bankman-Fried’s Lawyers Under Fire From Judge</h3>
-<sub>By Matthew Goldstein and David Yaffe-Bellany</sub>
-<p>In the first week of Mr. Bankman-Fried’s fraud trial, Judge Lewis A. Kaplan repeatedly admonished the former crypto mogul’s lawyers, in an ominous sign for the defense.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Would a 3-Way Arizona Senate Race Help Kari Lake? Her Party Isn’t So Sure.</h3>
-<sub>By Michael C. Bender and Jazmine Ulloa</sub>
-<p>Kyrsten Sinema, the independent incumbent, has not announced whether she will run for re-election. But as both parties in Arizona prepare for that outcome, Republicans are worried.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis Amps Up Attacks on Trump, as G.O.P. Primary Enters a New Phase</h3>
-<sub>By Nicholas Nehamas</sub>
-<p>The Florida governor had been reluctant to criticize the former president on the trail, but in recent weeks, that has started to change.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Steve Garvey, Republican Former Baseball Player, Will Run for Senate in California</h3>
-<sub>By Maggie Astor</sub>
-<p>Mr. Garvey, 74, announced on Tuesday that he would enter the race for Dianne Feinstein’s Senate seat, running against at least three Democratic candidates.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Why Culture Has Come to a Standstill</h3>
-<sub>By Jason Farago</sub>
-<p>A Times critic argues that ours is the least innovative century for the arts in 500 years. That doesn’t have to be a bad thing.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-dining-blue" alt="">
+<h3>The 25 Best Restaurants in Seattle Right Now</h3>
+<sub>By Brian Gallagher, Bethany Jean Clement and Tejal Rao</sub>
+<p>Stellar Pacific Northwest seafood, an irreverent Japanese gastro pub and a steakhouse like no other are among our favorites.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -128,10 +128,10 @@ Right now, there is a lot of tension around the world. In Israel, Palestinian gu
 <p>Three years into a mass workplace experiment, we are beginning to understand more about how work from home is reshaping workers’ lives and the economy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Prosecutors Ask if Trump Will Blame His Lawyers as Defense in Election Case</h3>
-<sub>By Alan Feuer</sub>
-<p>The special counsel asked a judge to require the former president to disclose whether he would blame poor legal advice for his attempts to overturn his 2020 election loss.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘The Wrath of God’: Afghans Mourn Unimaginable Loss From Quake</h3>
+<sub>By Christina Goldbaum, Yaqoob Akbary and Victor J. Blue</sub>
+<p>The deadliest earthquake to strike the country in decades leveled entire hamlets. Many people lost most, if not all, of their immediate family.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
 <hr/>
 </ol>
