@@ -60,31 +60,43 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, October 11, Central Standard Time</p>
 <p>
-Right now, there are a lot of tensions in the Middle East due to Hamas attacks. Iran, which is a longtime supporter of Hamas, has been under scrutiny for possibly playing a direct role in the assault. In response, Israel&#39;s security services have been failing to stop these attacks, leading to an increase in violence, terror and civilian casualties. In China, the country is at risk for further ramifications from this conflict due to its heavy reliance on imported oil from Saudi Arabia and Iran. Meanwhile in the US, Harvard students have blamed Israel for the violence, with former president Lawrence Summers condemning the leadership who have not spoken up. Also, in South Carolina Nancy Mace is taking on attempts to make her district redder as it starts to become more conservative. Additionally, air trafic control issues have come up recently when 131 people were almost killed due to two planes being seconds away from crashing into each other in Texas. Moving over to hip-hop culture, there is an Olympic moment happening right now that has left its originators feeling left out and wondering if their art will translate into sport. Lastly, Jamaica is seeing a push for making its Patois language official and cutting ties with the British monarchy due to fraying relationships.</p>
+There are some worrying developments happening in the world at the moment. In Israel, Hamas has shocked Iranian leaders with a major attack and there has been evidence of civilian massacres by Hamas terrorists. In the United States, there are Americans missing or killed in Israel, while activists are using Virginia as a dry run ahead of the 2024 election. Supreme Court justices are struggling to disentangle race and politics in South Carolina&#39;s voting districts. China is also the largest oil importer from Saudi Arabia and Iran, highlighting the risk it faces if war in Israel and Gaza were to widen. Financially, natural gas prices have risen due to Israel concerns as well as a pipeline leak in Finland. Investors doubt that central bankers will raise interest rates again due to market moves that could cool growth, and there was an incident where two planes nearly collided in Texas due to air traffic control issues. On the lighter side, breaking will be featured at the upcoming Paris Olympics despite its pioneers not always feeling supported in hip-hop culture.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>At Harvard, a Battle Over What Should Be Said About the Hamas Attacks</h3>
-<sub>By Anemona Hartocollis, Stephanie Saul and Vimal Patel</sub>
-<p>After a student group blamed Israel for the violence, Lawrence Summers, a former university president, condemned the leadership for not speaking up.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Early Intelligence Shows Iranian Leaders Surprised by Hamas Attack, U.S. Says</h3>
+<h3>Early Intelligence Shows Hamas Attack Surprised Iranian Leaders, U.S. Says</h3>
 <sub>By Adam Entous, Julian E. Barnes and Jonathan Swan</sub>
 <p>The information has fueled doubts in the United States that Iran, a longtime supporter of the Palestinian militant group, played a direct role in planning the assault in Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>How Israel’s Feared Security Services Failed to Stop Hamas’s Attack</h3>
-<sub>By Ronen Bergman and Patrick Kingsley</sub>
-<p>Israel’s military and espionage services are considered among the world’s best, but on Saturday, operational and intelligence failures led to the worst breach of Israeli defenses in half a century.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Hamas Leaves Trail of Terror in Israel</h3>
 <sub>By The New York Times</sub>
 <p>As Israeli soldiers regain control of areas near Gaza that came under attack, they are finding evidence seen in videos and photos and confirmed by witness accounts of the massacre of civilians by Hamas terrorists.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>What We Know About the Americans Missing or Killed in Israel</h3>
+<sub>By Nicholas Bogel-Burroughs and Roni Rabin</sub>
+<p>Soldiers serving in the Israeli Army, idealists living in rural villages and a mother and daughter from the Chicago area were among the dead or unaccounted for, with some possibly being held hostage.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Scalise, a McCarthy rival, looks to unite Republicans and take his place.</h3>
+<sub>By Annie Karni</sub>
+<p>  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Conservative Election Activists Use Virginia as a Dry Run for 2024</h3>
+<sub>By Nick Corasaniti</sub>
+<p>Inspired in part by Donald Trump’s baseless rigged-election claims, the activists are trying to recruit supporters to serve as poll watchers and election workers in the state’s legislative contests.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Justices Split on South Carolina Voting Map Said to Be Racial Gerrymander</h3>
+<sub>By Adam Liptak</sub>
+<p>Members of the Supreme Court struggled to disentangle race and politics in the voting districts drawn by state lawmakers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>China’s Economic Stake in the Middle East: Its Thirst for Oil</h3>
@@ -104,22 +116,10 @@ Right now, there are a lot of tensions in the Middle East due to Hamas attacks. 
 <p>Europe has largely disconnected from Russian gas supplies but remains heavily dependent on imported fuel, exposing it to unexpected disruptions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>Gaza Braces for First Ground Invasion in Years, and More</h3>
-<sub>By New York Times Audio</sub>
-<p>Plus, Biden condemns the Hamas attacks as “sheer evil” and House Republicans are deadlocked on choosing a speaker.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Nancy Mace’s District Moved Right. Then She Helped Oust McCarthy.</h3>
-<sub>By Jonathan Weisman</sub>
-<p>The Supreme Court will hear arguments Wednesday on Representative Mace’s newly drawn South Carolina district, which has gotten redder since she was first elected.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How a Series of Air Traffic Control Lapses Nearly Killed 131 People</h3>
-<sub>By Sydney Ember and Emily Steel</sub>
-<p>Two planes were moments from colliding in Texas, a harrowing example of the country’s fraying air safety system, a New York Times investigation found.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Investors Are Calling It: The Federal Reserve May Be Done Raising Rates</h3>
+<sub>By Joe Rennison and Jeanna Smialek</sub>
+<p>Investors doubt that central bankers will lift borrowing costs again following big market moves that are widely expected to cool growth.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
@@ -128,11 +128,11 @@ Right now, there are a lot of tensions in the Middle East due to Hamas attacks. 
 <p>Largely left out of hip-hop’s 50th anniversary, breaking will get its stage at the Paris Olympics. Its pioneers wonder if their art will translate into sport.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Patois Revival: Jamaica Weighs Language Change as Ties to Britain Fray</h3>
-<sub>By Simon Romero and Alejandro Cegarra</sub>
-<p>A push is underway to make Jamaica’s Patois an official language, on par with English, as the country weighs cutting ties to the British monarchy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>How a Series of Air Traffic Control Lapses Nearly Killed 131 People</h3>
+<sub>By Sydney Ember and Emily Steel</sub>
+<p>Two planes were moments from colliding in Texas, a harrowing example of the country’s fraying air safety system, a New York Times investigation found.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
