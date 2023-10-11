@@ -60,18 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, October 11, Central Standard Time</p>
 <p>
-Right now, the world is facing some pretty serious conflicts. One of the most pressing is the attack on Israel by Hamas gunmen. On top of that, Hamas is also conducting an unprecedented hostage situation in the Gaza strip. In response, Israel&#39;s security services have failed to stop the violence—an unusual occurrence given their reputation for excellence. Meanwhile, back in the US, Republicans are deadlocked on choosing a Speaker for their caucus, and in Afghanistan locals are grappling with the aftermath of two strong earthquakes that have caused immense devastation. To top it off, Russia has now launched an offensive against Ukraine near a southeastern town called Avdiivka. Fortunately, Ukrainian President Zelensky is now receiving help from NATO forces to push back on their attackers.</p>
+Right now, there are a lot of tensions in the Middle East due to Hamas attacks. Iran, which is a longtime supporter of Hamas, has been under scrutiny for possibly playing a direct role in the assault. In response, Israel&#39;s security services have been failing to stop these attacks, leading to an increase in violence, terror and civilian casualties. In China, the country is at risk for further ramifications from this conflict due to its heavy reliance on imported oil from Saudi Arabia and Iran. Meanwhile in the US, Harvard students have blamed Israel for the violence, with former president Lawrence Summers condemning the leadership who have not spoken up. Also, in South Carolina Nancy Mace is taking on attempts to make her district redder as it starts to become more conservative. Additionally, air trafic control issues have come up recently when 131 people were almost killed due to two planes being seconds away from crashing into each other in Texas. Moving over to hip-hop culture, there is an Olympic moment happening right now that has left its originators feeling left out and wondering if their art will translate into sport. Lastly, Jamaica is seeing a push for making its Patois language official and cutting ties with the British monarchy due to fraying relationships.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Hamas Leaves Trail of Terror in Israel</h3>
-<sub>By The New York Times</sub>
-<p>As Israeli soldiers regain control of areas near Gaza that came under attack, they are finding evidence seen in videos and photos and confirmed by witness accounts of the massacre of civilians by Hamas gunmen.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>At Harvard, a Battle Over What Should Be Said About the Hamas Attacks</h3>
+<sub>By Anemona Hartocollis, Stephanie Saul and Vimal Patel</sub>
+<p>After a student group blamed Israel for the violence, Lawrence Summers, a former university president, condemned the leadership for not speaking up.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>Hamas’s Hostages</h3>
-<sub>By David Leonhardt and Lauren Jackson</sub>
-<p>The scale of the hostage situation in the Gaza Strip has no recent precedent.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Early Intelligence Shows Iranian Leaders Surprised by Hamas Attack, U.S. Says</h3>
+<sub>By Adam Entous, Julian E. Barnes and Jonathan Swan</sub>
+<p>The information has fueled doubts in the United States that Iran, a longtime supporter of the Palestinian militant group, played a direct role in planning the assault in Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -80,11 +80,29 @@ Right now, the world is facing some pretty serious conflicts. One of the most pr
 <p>Israel’s military and espionage services are considered among the world’s best, but on Saturday, operational and intelligence failures led to the worst breach of Israeli defenses in half a century.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>At Harvard, a Battle Over What Should Be Said About the Hamas Attacks</h3>
-<sub>By Anemona Hartocollis, Stephanie Saul and Vimal Patel</sub>
-<p>After a student group blamed Israel for the violence, Lawrence Summers, a former university president, condemned the leadership for not speaking up.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Hamas Leaves Trail of Terror in Israel</h3>
+<sub>By The New York Times</sub>
+<p>As Israeli soldiers regain control of areas near Gaza that came under attack, they are finding evidence seen in videos and photos and confirmed by witness accounts of the massacre of civilians by Hamas terrorists.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>China’s Economic Stake in the Middle East: Its Thirst for Oil</h3>
+<sub>By Keith Bradsher</sub>
+<p>China is the largest oil importer by far from Saudi Arabia and from Iran, highlighting the risk it faces if the war in Israel and Gaza were to broaden.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Exxon Mobil Strikes $60 Billion Deal for Shale Giant</h3>
+<sub>By Clifford Krauss</sub>
+<p>The acquisition of Pioneer Natural Resources, Exxon’s largest since its merger with Mobil in 1999, is a bet that U.S. energy policy will not move against fossil fuels in a major way.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Natural Gas Prices Rise on Israel Concerns and Finland Pipeline Leak</h3>
+<sub>By Stanley Reed</sub>
+<p>Europe has largely disconnected from Russian gas supplies but remains heavily dependent on imported fuel, exposing it to unexpected disruptions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-podcasts-blue" alt="">
 <h3>Gaza Braces for First Ground Invasion in Years, and More</h3>
@@ -93,45 +111,27 @@ Right now, the world is facing some pretty serious conflicts. One of the most pr
 <sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Republicans Are Deadlocked Heading Into Speaker Contest</h3>
-<sub>By Luke Broadwater</sub>
-<p>Lawmakers were set to meet at 10 a.m. to begin voting on a nominee, but there was no consensus, opening the possibility of a drawn-out fight that would leave the House leaderless for days.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Nancy Mace’s District Moved Right. Then She Helped Oust McCarthy.</h3>
 <sub>By Jonathan Weisman</sub>
 <p>The Supreme Court will hear arguments Wednesday on Representative Mace’s newly drawn South Carolina district, which has gotten redder since she was first elected.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘Always Under Fire’: On the Battlefield With Ukraine’s Elite Troops</h3>
-<sub>By Tyler Hicks and Marc Santora</sub>
-<p>Along a front stretching hundreds of miles, Ukraine’s forces are stuck in a daily grind punctuated by drone attacks, artillery strikes and eerily terrifying moments of silence.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>How a Series of Air Traffic Control Lapses Nearly Killed 131 People</h3>
+<sub>By Sydney Ember and Emily Steel</sub>
+<p>Two planes were moments from colliding in Texas, a harrowing example of the country’s fraying air safety system, a New York Times investigation found.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Breakers Grapple With Hip-Hop’s Big Olympic Moment</h3>
+<sub>By Jonathan Abrams</sub>
+<p>Largely left out of hip-hop’s 50th anniversary, breaking will get its stage at the Paris Olympics. Its pioneers wonder if their art will translate into sport.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russians Press Assault Near Southeastern Town of Avdiivka</h3>
-<sub>By Constant Méheut</sub>
-<p>The intensifying push is one of Russia’s few offensive operations in months, as it tries to seize land in Ukrainian regions it claims to have already annexed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Zelensky Visits NATO as Alliance Considers More Aid to Ukraine</h3>
-<sub>By Lara Jakes</sub>
-<p>The surprise appearance by President Volodymyr Zelensky of Ukraine came as much of the West has turned its focus to the war between Israel and Hamas militants in Gaza.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘The Wrath of God’: Afghans Mourn Unimaginable Loss From Quake</h3>
-<sub>By Christina Goldbaum, Yaqoob Akbary and Victor J. Blue</sub>
-<p>The deadliest earthquake to strike the country in decades leveled entire hamlets. Many people lost most, if not all, of their immediate family.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Another Powerful Quake Hits Afghanistan, Days After Deadly Temblors</h3>
-<sub>By Christina Goldbaum and Yaqoob Akbary</sub>
-<p>A magnitude-6.3 earthquake rocked Herat City, near the site of two devastating ones that killed more than 1,000 people last weekend.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>A Patois Revival: Jamaica Weighs Language Change as Ties to Britain Fray</h3>
+<sub>By Simon Romero and Alejandro Cegarra</sub>
+<p>A push is underway to make Jamaica’s Patois an official language, on par with English, as the country weighs cutting ties to the British monarchy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
 <hr/>
 </ol>
