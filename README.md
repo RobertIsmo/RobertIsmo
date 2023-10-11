@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, October 11, Central Standard Time</p>
 <p>
-There&#39;s a lot happening in the world right now. Hamas has been leaving a trail of terror in Israel and Israelis soldiers are finding evidence of the massacre of civilians by Hamas gunmen. Israel&#39;s feared security services have failed to prevent attack, prompting President Biden to condemn it as &#39;evil&#39; and &#39;abhorrent&#39;. In the midst of this conflict, Israeli Prime Minister Benjamin Netanyahu is fighting for his reputation and legacy. Meanwhile over in Gaza, airstrikes are putting civilians in danger with nowhere to hide. Closer to home, Republican congressman George Santos is facing new charges of lies and credit card fraud and there is a lack of consensus within the Republican party ahead of a speaker vote. Lastly, we are starting to learn more about the effects of remote work on our lives and economy after three years of this worldwide experiment.</p>
+There is a lot going on in the world right now. In the Middle East, a war is raging between Israel and Hamas militants in Gaza that has had devastating consequences for civilians. We also have national politics unfolding in the US, with Republicans still divided ahead of a high-stakes vote for Speaker of the House. Meanwhile, in Ukraine an ongoing conflict continues along their eastern border. Closer to home, we are all learning more every day about the effects of remote work during the pandemic. And here in Seattle, we have a list of the 25 best restaurants to make sure you get your dining fix.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Hamas Leaves Trail of Terror in Israel</h3>
@@ -86,12 +86,6 @@ There&#39;s a lot happening in the world right now. Hamas has been leaving a tra
 <p>The horrors committed by Hamas on Israeli civilians are all but certain to mark Benjamin Netanyahu’s legacy no matter the outcome of the war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Nowhere to Hide in Gaza as Israeli Onslaught Continues</h3>
-<sub>By Raja Abdulrahim and Ameera Harouda</sub>
-<p>Residents and health authorities say that mosques, hospitals and schools are being targeted by airstrikes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Santos Faces New Charges Accusing Him of Lies and Credit Card Fraud</h3>
 <sub>By Michael Gold and Grace Ashford</sub>
@@ -110,22 +104,28 @@ There&#39;s a lot happening in the world right now. Hamas has been leaving a tra
 <p>After a lengthy meeting on Tuesday evening, there appeared to be no consensus on a candidate, paving the way for a chaotic internal contest on Wednesday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>House Disarray Leaves Path for Israel Aid Uncertain</h3>
-<sub>By Karoun Demirjian</sub>
-<p>There is broad consensus in Congress for backing Israel in its war against Hamas, but with the House rudderless and divided, the path for any assistance is uncertain.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘Always Under Fire’: On the Battlefield With Ukraine’s Elite Troops</h3>
+<sub>By Tyler Hicks and Marc Santora</sub>
+<p>Along a front stretching hundreds of miles, Ukraine’s forces are stuck in a daily grind punctuated by drone attacks, artillery strikes and eerily terrifying moments of silence.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Zelensky Visits NATO as Alliance Considers More Aid to Ukraine</h3>
+<sub>By Lara Jakes</sub>
+<p>The surprise appearance by President Volodymyr Zelensky of Ukraine came as much of the West has turned its focus to the war between Israel and Hamas militants in Gaza.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-dining-blue" alt="">
+<h3>The 25 Best Restaurants in Seattle Right Now</h3>
+<sub>By Brian Gallagher, Bethany Jean Clement and Tejal Rao</sub>
+<p>Stellar Pacific Northwest seafood, an irreverent Japanese gastro pub and a steakhouse like no other are among our favorites.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Caroline Ellison, Adviser to Sam Bankman-Fried, Says He ‘Directed’ Her to Commit Crimes</h3>
 <sub>By David Yaffe-Bellany, Matthew Goldstein and J. Edward Moreno</sub>
 <p>Ms. Ellison is the government’s star witness in the criminal fraud trial of the founder of the FTX crypto exchange. She also delved into her romantic relationship with Mr. Bankman-Fried.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-dining-blue" alt="">
-<h3>The 25 Best Restaurants in Seattle Right Now</h3>
-<sub>By Brian Gallagher, Bethany Jean Clement and Tejal Rao</sub>
-<p>Stellar Pacific Northwest seafood, an irreverent Japanese gastro pub and a steakhouse like no other are among our favorites.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
