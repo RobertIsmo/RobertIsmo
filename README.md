@@ -60,24 +60,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, October 11, Central Standard Time</p>
 <p>
-There are some worrying developments happening in the world at the moment. In Israel, Hamas has shocked Iranian leaders with a major attack and there has been evidence of civilian massacres by Hamas terrorists. In the United States, there are Americans missing or killed in Israel, while activists are using Virginia as a dry run ahead of the 2024 election. Supreme Court justices are struggling to disentangle race and politics in South Carolina&#39;s voting districts. China is also the largest oil importer from Saudi Arabia and Iran, highlighting the risk it faces if war in Israel and Gaza were to widen. Financially, natural gas prices have risen due to Israel concerns as well as a pipeline leak in Finland. Investors doubt that central bankers will raise interest rates again due to market moves that could cool growth, and there was an incident where two planes nearly collided in Texas due to air traffic control issues. On the lighter side, breaking will be featured at the upcoming Paris Olympics despite its pioneers not always feeling supported in hip-hop culture.</p>
+There is a lot going on in the world right now. In Israel, there has been a recent attack by Hamas terrorists which has sparked much online controversy surrounding claims of atrocities. There have also been reports of long wait times for rescue efforts to help those victims. In the US, there are new accusations and divisions among the Republican Party, and the Supreme Court is deliberating on a case concerning partisan voting maps. On the business side, the Federal Reserve is closely observing economic growth as investors predict that interest rates will stay put. In terms of art and culture, hip-hop is having its Olympic moment but breaking dance pioneers worry if it will translate into sport. Lastly, AI technology has enabled fast diagnosis of brain tumors while investigations have found major air traffic control lapses that almost lead to disaster.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>False Claims Around the Israel Attacks Include Recycled Videos and a Game Clip</h3>
+<sub>By Angelo Fichera and Roni Rabin</sub>
+<p>Graphic imagery and footage has flooded social media since Hamas terrorists attacked Israelis. Bogus claims are also circulating, and risk obscuring real evidence of atrocities.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The Long Wait for Help as Massacres Unfolded in Israel</h3>
+<sub>By Lauren Leatherby, Emma Bubola, Arijeta Lajka, Amy Schoenfeld Walker, Molly Cook Escobar and Pablo Robles</sub>
+<p>“Where is the army,” a woman texted her family after hiding from Hamas attackers for five hours. Here’s the evidence showing how long it took Israel to respond to the attacks on Saturday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Early Intelligence Shows Hamas Attack Surprised Iranian Leaders, U.S. Says</h3>
 <sub>By Adam Entous, Julian E. Barnes and Jonathan Swan</sub>
 <p>The information has fueled doubts in the United States that Iran, a longtime supporter of the Palestinian militant group, played a direct role in planning the assault in Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Hamas Leaves Trail of Terror in Israel</h3>
-<sub>By The New York Times</sub>
-<p>As Israeli soldiers regain control of areas near Gaza that came under attack, they are finding evidence seen in videos and photos and confirmed by witness accounts of the massacre of civilians by Hamas terrorists.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What We Know About the Americans Missing or Killed in Israel</h3>
-<sub>By Nicholas Bogel-Burroughs and Roni Rabin</sub>
-<p>Soldiers serving in the Israeli Army, idealists living in rural villages and a mother and daughter from the Chicago area were among the dead or unaccounted for, with some possibly being held hostage.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>G.O.P. Nominates Steve Scalise for Speaker Amid Bitter Party Divisions</h3>
+<sub>By Luke Broadwater and Annie Karni</sub>
+<p>The No. 2 House Republican won a slim majority, but his fate was immediately thrown into doubt amid rifts in the party that delayed an election in the full chamber.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -86,34 +92,22 @@ There are some worrying developments happening in the world at the moment. In Is
 <p>  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Conservative Election Activists Use Virginia as a Dry Run for 2024</h3>
-<sub>By Nick Corasaniti</sub>
-<p>Inspired in part by Donald Trump’s baseless rigged-election claims, the activists are trying to recruit supporters to serve as poll watchers and election workers in the state’s legislative contests.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Santos Faces New Expulsion Push by Onetime Allies: N.Y. Republicans</h3>
+<sub>By Nicholas Fandos</sub>
+<p>Six G.O.P. freshmen from New York said they would move to oust Representative George Santos amid new charges. But any vote faces a daunting threshold.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Justices Split on South Carolina Voting Map Said to Be Racial Gerrymander</h3>
+<h3>Justices Poised to Restore Voting Map Ruled a Racial Gerrymander</h3>
 <sub>By Adam Liptak</sub>
-<p>Members of the Supreme Court struggled to disentangle race and politics in the voting districts drawn by state lawmakers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The case concerned a constitutional puzzle: how to distinguish the roles of race and partisanship in drawing voting maps when Black voters overwhelmingly favor Democrats.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>China’s Economic Stake in the Middle East: Its Thirst for Oil</h3>
-<sub>By Keith Bradsher</sub>
-<p>China is the largest oil importer by far from Saudi Arabia and from Iran, highlighting the risk it faces if the war in Israel and Gaza were to broaden.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Exxon Mobil Strikes $60 Billion Deal for Shale Giant</h3>
-<sub>By Clifford Krauss</sub>
-<p>The acquisition of Pioneer Natural Resources, Exxon’s largest since its merger with Mobil in 1999, is a bet that U.S. energy policy will not move against fossil fuels in a major way.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Natural Gas Prices Rise on Israel Concerns and Finland Pipeline Leak</h3>
-<sub>By Stanley Reed</sub>
-<p>Europe has largely disconnected from Russian gas supplies but remains heavily dependent on imported fuel, exposing it to unexpected disruptions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Federal Reserve Officials Were Cautious in September</h3>
+<sub>By Jeanna Smialek</sub>
+<p>Minutes from their last meeting showed that Fed officials saw risks of doing too much — or too little — to tame inflation.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -132,6 +126,12 @@ There are some worrying developments happening in the world at the moment. In Is
 <h3>How a Series of Air Traffic Control Lapses Nearly Killed 131 People</h3>
 <sub>By Sydney Ember and Emily Steel</sub>
 <p>Two planes were moments from colliding in Texas, a harrowing example of the country’s fraying air safety system, a New York Times investigation found.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>New A.I. Tool Diagnoses Brain Tumors on the Operating Table</h3>
+<sub>By Benjamin Mueller</sub>
+<p>A new study describes a method for faster and more precise diagnoses, which can help surgeons decide how aggressively to operate.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
 <hr/>
 </ol>
