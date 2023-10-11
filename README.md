@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Tuesday, October 10, Central Standard Time</p>
+<p>It is Wednesday, October 11, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In Israel, Hamas has been committing terror attacks and hundreds of Israeli soldiers have been killed. In the US, Republicans remain divided in a speaker vote and this is causing uncertainty around aid for Israel. Afghans have been devastated by an earthquake that killed hundreds of people and left many without any immediate family. Meanwhile, in New York, there is a scandal involving Congressman George Santos who is accused of credit card fraud.</p>
+There&#39;s a lot happening in the world right now. Hamas has been leaving a trail of terror in Israel and Israelis soldiers are finding evidence of the massacre of civilians by Hamas gunmen. Israel&#39;s feared security services have failed to prevent attack, prompting President Biden to condemn it as &#39;evil&#39; and &#39;abhorrent&#39;. In the midst of this conflict, Israeli Prime Minister Benjamin Netanyahu is fighting for his reputation and legacy. Meanwhile over in Gaza, airstrikes are putting civilians in danger with nowhere to hide. Closer to home, Republican congressman George Santos is facing new charges of lies and credit card fraud and there is a lack of consensus within the Republican party ahead of a speaker vote. Lastly, we are starting to learn more about the effects of remote work on our lives and economy after three years of this worldwide experiment.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Hamas Leaves Trail of Terror in Israel</h3>
@@ -72,6 +72,12 @@ There is a lot going on in the world right now. In Israel, Hamas has been commit
 <h3>How Israel’s Feared Security Services Failed to Stop Hamas’s Attack</h3>
 <sub>By Ronen Bergman and Patrick Kingsley</sub>
 <p>Israel’s military and espionage services are considered among the world’s best, but on Saturday, operational and intelligence failures led to the worst breach of Israeli defenses in half a century.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Unforgiving Terms, Biden Condemns ‘Evil’ and ‘Abhorrent’ Attack on Israel</h3>
+<sub>By Peter Baker</sub>
+<p>President Biden’s remarks expressed possibly the most personal anger that he has displayed in public since taking office nearly three years ago.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -126,12 +132,6 @@ There is a lot going on in the world right now. In Israel, Hamas has been commit
 <h3>Here’s What We Do and Don’t Know About the Effects of Remote Work.</h3>
 <sub>By Emma Goldberg</sub>
 <p>Three years into a mass workplace experiment, we are beginning to understand more about how work from home is reshaping workers’ lives and the economy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘The Wrath of God’: Afghans Mourn Unimaginable Loss From Quake</h3>
-<sub>By Christina Goldbaum, Yaqoob Akbary and Victor J. Blue</sub>
-<p>The deadliest earthquake to strike the country in decades leveled entire hamlets. Many people lost most, if not all, of their immediate family.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
 <hr/>
 </ol>
