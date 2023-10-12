@@ -60,12 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, October 11, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In Israel, there has been a recent attack by Hamas terrorists which has sparked much online controversy surrounding claims of atrocities. There have also been reports of long wait times for rescue efforts to help those victims. In the US, there are new accusations and divisions among the Republican Party, and the Supreme Court is deliberating on a case concerning partisan voting maps. On the business side, the Federal Reserve is closely observing economic growth as investors predict that interest rates will stay put. In terms of art and culture, hip-hop is having its Olympic moment but breaking dance pioneers worry if it will translate into sport. Lastly, AI technology has enabled fast diagnosis of brain tumors while investigations have found major air traffic control lapses that almost lead to disaster.</p>
+Right now, there are conflicts happening around the world between Israel and Hamas. In Israel, people have been waiting in fear for help as casualties increase from the attacks. At the same time, falsified content is circulating on social media in regards to the conflict. In the US, chaos has ensued as Republicans try to name a new Speaker of the House. Investors believe the Federal Reserve may not raise rates again after big market changes that are expected to reduce economic growth. Also in the US, there is a legal battle concerning racial gerrymandering when it comes to drawing voting maps. 
+
+Meanwhile, a successful R&amp;B artist Usher has just released new music while in another news story, an AI tool has been developed to diagnose brain tumours during surgery. Additionally, an investigation looked into how an air traffic control lapse could have caused 131 plane passengers&#39; deaths in Texas.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>False Claims Around the Israel Attacks Include Recycled Videos and a Game Clip</h3>
-<sub>By Angelo Fichera and Roni Rabin</sub>
-<p>Graphic imagery and footage has flooded social media since Hamas terrorists attacked Israelis. Bogus claims are also circulating, and risk obscuring real evidence of atrocities.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>For Hamas, Shattering Israel’s Sense of Security Is a Major Goal</h3>
+<sub>By Ben Hubbard</sub>
+<p>Rising domestic pressures and a desire to boost its anti-Israel credentials pushed Hamas to attack and most likely drove its decision to inflict terror.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -74,27 +76,27 @@ There is a lot going on in the world right now. In Israel, there has been a rece
 <p>“Where is the army,” a woman texted her family after hiding from Hamas attackers for five hours. Here’s the evidence showing how long it took Israel to respond to the attacks on Saturday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Early Intelligence Shows Hamas Attack Surprised Iranian Leaders, U.S. Says</h3>
-<sub>By Adam Entous, Julian E. Barnes and Jonathan Swan</sub>
-<p>The information has fueled doubts in the United States that Iran, a longtime supporter of the Palestinian militant group, played a direct role in planning the assault in Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>False Claims Around the Israel Attacks Include Recycled Videos and a Game Clip</h3>
+<sub>By Angelo Fichera and Roni Rabin</sub>
+<p>Graphic imagery and footage has flooded social media since Hamas terrorists attacked Israelis. Bogus claims are also circulating, and risk obscuring real evidence of atrocities.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>G.O.P. Nominates Steve Scalise for Speaker Amid Bitter Party Divisions</h3>
+<h3>G.O.P. Nominates Steve Scalise for Speaker but Postpones Full Vote</h3>
 <sub>By Luke Broadwater and Annie Karni</sub>
-<p>The No. 2 House Republican won a slim majority, but his fate was immediately thrown into doubt amid rifts in the party that delayed an election in the full chamber.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The No. 2 House Republican won a slim majority, but the chamber adjourned after bitter divisions in the party delayed an election.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Scalise, a McCarthy rival, looks to unite Republicans and take his place.</h3>
-<sub>By Annie Karni</sub>
-<p>  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Republicans Choose a New Speaker Nominee, Then Quickly Undercut Him</h3>
+<sub>By Carl Hulse</sub>
+<p>Multiple lawmakers refused to honor their party’s internal selection of Steve Scalise, continuing the chaos over the speakership with no end in sight.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Santos Faces New Expulsion Push by Onetime Allies: N.Y. Republicans</h3>
-<sub>By Nicholas Fandos</sub>
+<sub>By Nicholas Fandos and Robert Jimison</sub>
 <p>Six G.O.P. freshmen from New York said they would move to oust Representative George Santos amid new charges. But any vote faces a daunting threshold.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
 <hr/>
@@ -116,11 +118,11 @@ There is a lot going on in the world right now. In Israel, there has been a rece
 <p>Investors doubt that central bankers will lift borrowing costs again following big market moves that are widely expected to cool growth.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Breakers Grapple With Hip-Hop’s Big Olympic Moment</h3>
-<sub>By Jonathan Abrams</sub>
-<p>Largely left out of hip-hop’s 50th anniversary, breaking will get its stage at the Paris Olympics. Its pioneers wonder if their art will translate into sport.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 10, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Can Usher Turn America On Again (to R.&amp;B.)?</h3>
+<sub>By Danielle Amir Jackson and Malike Sidibe</sub>
+<p>Almost 20 years after his sexy, best-selling album “Confessions,” Usher is back with new music that could redefine the whole genre.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>How a Series of Air Traffic Control Lapses Nearly Killed 131 People</h3>
