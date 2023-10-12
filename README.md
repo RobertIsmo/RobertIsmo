@@ -60,9 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, October 11, Central Standard Time</p>
 <p>
-Right now, there are conflicts happening around the world between Israel and Hamas. In Israel, people have been waiting in fear for help as casualties increase from the attacks. At the same time, falsified content is circulating on social media in regards to the conflict. In the US, chaos has ensued as Republicans try to name a new Speaker of the House. Investors believe the Federal Reserve may not raise rates again after big market changes that are expected to reduce economic growth. Also in the US, there is a legal battle concerning racial gerrymandering when it comes to drawing voting maps. 
-
-Meanwhile, a successful R&amp;B artist Usher has just released new music while in another news story, an AI tool has been developed to diagnose brain tumours during surgery. Additionally, an investigation looked into how an air traffic control lapse could have caused 131 plane passengers&#39; deaths in Texas.</p>
+There has been a lot of news around the world recently. In Israel, Hamas has attacked people, and there has been a lot of confusion about the military&#39;s response. In the US, there has been a chaotic situation resulting from an internal decision to elect Steve Scalise as speaker for the House of Representatives. Supreme Court justices are looking at rules that draw voting maps that contain a racial gerrymander. There was also a near-collision of two planes in the US due to air traffic control lapses. Meanwhile, Usher is bringing R&amp;B music back, and there is controversy around who should have access to free preschool in New York City. NASA released its first glimpse of material collected from an asteroid through its Osiris-Rex mission, and Birkenstock went public in New York.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>For Hamas, Shattering Israel’s Sense of Security Is a Major Goal</h3>
@@ -94,34 +92,10 @@ Meanwhile, a successful R&amp;B artist Usher has just released new music while i
 <p>Multiple lawmakers refused to honor their party’s internal selection of Steve Scalise, continuing the chaos over the speakership with no end in sight.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Santos Faces New Expulsion Push by Onetime Allies: N.Y. Republicans</h3>
-<sub>By Nicholas Fandos and Robert Jimison</sub>
-<p>Six G.O.P. freshmen from New York said they would move to oust Representative George Santos amid new charges. But any vote faces a daunting threshold.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Justices Poised to Restore Voting Map Ruled a Racial Gerrymander</h3>
 <sub>By Adam Liptak</sub>
 <p>The case concerned a constitutional puzzle: how to distinguish the roles of race and partisanship in drawing voting maps when Black voters overwhelmingly favor Democrats.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Federal Reserve Officials Were Cautious in September</h3>
-<sub>By Jeanna Smialek</sub>
-<p>Minutes from their last meeting showed that Fed officials saw risks of doing too much — or too little — to tame inflation.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Investors Are Calling It: The Federal Reserve May Be Done Raising Rates</h3>
-<sub>By Joe Rennison and Jeanna Smialek</sub>
-<p>Investors doubt that central bankers will lift borrowing costs again following big market moves that are widely expected to cool growth.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Can Usher Turn America On Again (to R.&amp;B.)?</h3>
-<sub>By Danielle Amir Jackson and Malike Sidibe</sub>
-<p>Almost 20 years after his sexy, best-selling album “Confessions,” Usher is back with new music that could redefine the whole genre.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -130,10 +104,34 @@ Meanwhile, a successful R&amp;B artist Usher has just released new music while i
 <p>Two planes were moments from colliding in Texas, a harrowing example of the country’s fraying air safety system, a New York Times investigation found.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>New A.I. Tool Diagnoses Brain Tumors on the Operating Table</h3>
-<sub>By Benjamin Mueller</sub>
-<p>A new study describes a method for faster and more precise diagnoses, which can help surgeons decide how aggressively to operate.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Can Usher Turn America On Again (to R.&amp;B.)?</h3>
+<sub>By Danielle Amir Jackson and Malike Sidibe</sub>
+<p>Almost 20 years after his sexy, best-selling album “Confessions,” Usher is back with new music that could redefine the whole genre.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>After Biden’s Border Wall Pivot, a Texas County Asks: Why Build It Here?</h3>
+<sub>By J. David Goodman</sub>
+<p>Once a frequent crossing point, Starr County in South Texas, where new border barriers are planned by the Biden administration, has been relatively calm, local officials said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>In an Expensive City, Who Should Get Free Preschool?</h3>
+<sub>By Eliza Shapiro</sub>
+<p>Cutbacks in free preschool for 3-year-olds in New York City raise a question: As even middle-class families struggle to get by, should everyone have access to the program?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>NASA Unveils First Glimpse of ‘Scientific Treasure’ Collected From Asteroid</h3>
+<sub>By Kenneth Chang</sub>
+<p>Scientists said they got more material than expected from the Osiris-Rex mission during its seven-year journey to the asteroid Bennu.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>From LSD to I.P.O.</h3>
+<sub>By Elizabeth Paton</sub>
+<p>Once the symbol of the counterculture, lately the darlings of the fashion world, Birkenstock went public in New York.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
 <hr/>
 </ol>
