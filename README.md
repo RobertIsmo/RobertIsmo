@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, October 12, Central Standard Time</p>
 <p>
-Currently, there is tension in the Middle East between Israel and Hamas, with former Israeli generals taking action. In terms of U.S. politics, Republican legislators are fighting over choosing a new speaker, and there is a court case involving the drawing of voting maps based on race and partisanship. In business news, air traffic control lapses have put many passengers at risk, while in music Usher is releasing new music that could redefine the genre. In New York City, people are debating whether free preschool should be offered to everyone or just those in need. NASA has also recently released its first glimpse of &quot;scientific treasure&quot; from a mission to an asteroid. Finally, there is a personal piece of writing about not being able to have children but feeling relieved.</p>
+There is a lot of turmoil in the world right now. In Israel, there has been an increase in violence between Hamas and Israeli forces, leading to civilian loss of life and injuries. Meanwhile in the US, the Republican Party recently chose Steve Scalise as their new speaker nominee, although he faces stiff resistance from some members. There is also a case involving 18 defendants who are facing legal bills in Georgia related to Trump&#39;s actions. Additionally, Russia is dealing with the effects of Vladimir Putin&#39;s war and there are various laws being passed in red states in America regarding social media use. Finally, if your friend is looking for something more positive, they can check out Montreal for an awesome 36 hour trip.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>The Retired Israeli General Who Grabbed His Pistol and Took On Hamas</h3>
@@ -75,9 +75,21 @@ Currently, there is tension in the Middle East between Israel and Hamas, with fo
 <sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>For Hamas, Shattering Israel’s Sense of Security Is a Major Goal</h3>
-<sub>By Ben Hubbard</sub>
-<p>Rising domestic pressures and a desire to boost its anti-Israel credentials pushed Hamas to attack and most likely drove its decision to inflict terror.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Rescuers in Gaza Struggle With Dwindling Fuel and Lack of Equipment</h3>
+<sub>By Raja Abdulrahim</sub>
+<p>Paramedics said they would need bulldozers, which they don’t have, to pull more people from buildings destroyed by Israeli airstrikes amid power cuts.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>Tensions Rise on Israel-Lebanon Border, and More</h3>
+<sub>By New York Times Audio</sub>
+<p>Plus, Republicans undercut a new selection for House speaker, and the aftermath of a devastating earthquake in Afghanistan.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Republicans Choose a New Speaker Nominee, Then Quickly Undercut Him</h3>
+<sub>By Carl Hulse</sub>
+<p>Multiple lawmakers refused to honor their party’s internal selection of Steve Scalise, continuing the chaos over the speakership with no end in sight.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -87,52 +99,40 @@ Currently, there is tension in the Middle East between Israel and Hamas, with fo
 <sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Republicans Choose a New Speaker Nominee, Then Quickly Undercut Him</h3>
-<sub>By Carl Hulse</sub>
-<p>Multiple lawmakers refused to honor their party’s internal selection of Steve Scalise, continuing the chaos over the speakership with no end in sight.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
+<h3>Facing Big Legal Bills, Defendants in Georgia Trump Case Seek Donations</h3>
+<sub>By Richard Fausset and Danny Hakim</sub>
+<p>Fund-raising campaigns — including one selling “MAGA honey” — are underway for many of the 18 defendants in a case that could take years to resolve.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Justices Poised to Restore Voting Map Ruled a Racial Gerrymander</h3>
+<h3>Trump’s Claim That He Can’t Be Prosecuted Collides With Precedents</h3>
 <sub>By Adam Liptak</sub>
-<p>The case concerned a constitutional puzzle: how to distinguish the roles of race and partisanship in drawing voting maps when Black voters overwhelmingly favor Democrats.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How a Series of Air Traffic Control Lapses Nearly Killed 131 People</h3>
-<sub>By Sydney Ember and Emily Steel</sub>
-<p>Two planes were moments from colliding in Texas, a harrowing example of the country’s fraying air safety system, a New York Times investigation found.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Can Usher Turn America On Again (to R.&amp;B.)?</h3>
-<sub>By Danielle Amir Jackson and Malike Sidibe</sub>
-<p>Almost 20 years after his sexy, best-selling album “Confessions,” Usher is back with new music that could redefine the whole genre.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
+<p>The former president says he has “absolute immunity.” But an array of Supreme Court decisions tells a different story.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>After Biden’s Border Wall Pivot, a Texas County Asks: Why Build It Here?</h3>
-<sub>By J. David Goodman</sub>
-<p>Once a frequent crossing point, Starr County in South Texas, where new border barriers are planned by the Biden administration, has been relatively calm, local officials said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Trump’s Lawyers Lash Out Over Timing of His Federal Trials</h3>
+<sub>By Alan Feuer</sub>
+<p>In a court filing, the former president’s legal team accused prosecutors in the classified documents case of trying at any cost to win a verdict against him by Election Day.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>In an Expensive City, Who Should Get Free Preschool?</h3>
-<sub>By Eliza Shapiro</sub>
-<p>Cutbacks in free preschool for 3-year-olds in New York City raise a question: As even middle-class families struggle to get by, should everyone have access to the program?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-travel-blue" alt="">
+<h3>36 Hours in Montreal</h3>
+<sub>By Danial Adkison</sub>
+<p>Climb a mountain, wander the waterfront and enjoy a smoked-meat sandwich in a city with a surprise around every corner.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Russian Military Town, Patriotism and Pathos Live Side by Side</h3>
+<sub>By Neil MacFarquhar and Milana Mazaeva</sub>
+<p>The contradictions of Vladimir Putin’s war are changing the face of towns with military bases in Russia. Patriotism and pride are abundant, but so are sadness and death.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>NASA Unveils First Glimpse of ‘Scientific Treasure’ Collected From Asteroid</h3>
-<sub>By Kenneth Chang</sub>
-<p>Scientists said they got more material than expected from the Osiris-Rex mission during its seven-year journey to the asteroid Bennu.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>My (Liberating) Secret Shame</h3>
-<sub>By Teresa Pham-Carsillo</sub>
-<p>I may be unable to have children, and I am relieved.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>As Red States Curb Social Media, Did Montana’s TikTok Ban Go Too Far?</h3>
+<sub>By Natasha Singer, Sapna Maheshwari and David McCabe</sub>
+<p>Montana is at the forefront of a wave of new tech laws passed by Republican-led states. Some give parents control over their children’s social media accounts.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
